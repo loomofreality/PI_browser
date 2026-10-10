@@ -381,6 +381,14 @@
       "suppliedSha256": "b29cbdfa611d69c72642513a583440bcae164399928a27263ccd9f939831ad9b",
       "referenceBasis": "published-approximate-reference",
       "reason": "Read the full cited record and verified every supplied fragment uniquely and in order. Restore the omitted prayer wording across paragraphs3–4 and its immediate introduction; retain the supplied identity, approximate catalogue status and translation authority."
+    },
+    {
+      "slug": "wisdom",
+      "key": "selection:0ed6425323870bbf64bdef0b",
+      "source": "BH06041",
+      "sourceVersion": "f738601f7fcbb1b33ce50d577fe7612bdb524a47da5d7fa90dd1444a27b2315e",
+      "suppliedSha256": "49c1647b8e711f8f0fcf23da249bac3d1d921a7f8d2b018d5edb3ac2326ec772",
+      "reason": "Both supplied segments uniquely match in order in the explicitly cited source BH06041 paragraphs2–3. Full source sentences read and verified; display sentence context without changing imported quotation or catalogue-link status."
     }
   ]
 }
