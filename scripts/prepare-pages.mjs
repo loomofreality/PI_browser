@@ -16,13 +16,16 @@ export const sha256 = bytes => createHash('sha256').update(bytes).digest('hex');
 
 export async function listFiles(root, prefix='') {
   const files=[];
-  for (const entry of await fs.readdir(path.join(root,prefix),{withFileTypes:true})) {
-    const relative=path.posix.join(prefix,entry.name);
-    if (entry.isSymbolicLink()) throw Error('Publication input must not be a symlink: '+relative);
-    if (entry.isDirectory()) files.push(...await listFiles(root,relative));
-    else if (entry.isFile()) files.push(relative);
-    else throw Error('Unsupported publication input: '+relative);
+  async function visit(directory) {
+    for (const entry of await fs.readdir(path.join(root,directory),{withFileTypes:true})) {
+      const relative=path.posix.join(directory,entry.name);
+      if (entry.isSymbolicLink()) throw Error('Publication input must not be a symlink: '+relative);
+      if (entry.isDirectory()) await visit(relative);
+      else if (entry.isFile()) files.push(relative);
+      else throw Error('Unsupported publication input: '+relative);
+    }
   }
+  await visit(prefix);
   return files.sort();
 }
 

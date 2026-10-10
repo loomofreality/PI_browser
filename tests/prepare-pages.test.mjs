@@ -4,7 +4,14 @@ import fs from 'node:fs/promises';
 import os from 'node:os';
 import path from 'node:path';
 import {gunzipSync} from 'node:zlib';
-import {preparePages,auditFiles,sharedFonts,sha256} from '../scripts/prepare-pages.mjs';
+import {preparePages,auditFiles,sharedFonts,sha256,listFiles} from '../scripts/prepare-pages.mjs';
+
+test('publication inventory supports more entries than JavaScript argument limits',async t=>{
+  const entry=(name,directory=false)=>({name,isSymbolicLink:()=>false,isDirectory:()=>directory,isFile:()=>!directory});
+  const large=Array.from({length:160000},(_,i)=>entry(String(i)+'.json.gz'));
+  t.mock.method(fs,'readdir',async folder=>path.basename(folder)==='passages'?large:[entry('passages',true)]);
+  const files=await listFiles('virtual-corpus');assert.equal(files.length,160000);assert.equal(new Set(files).size,160000);
+});
 
 async function fixture(t){
   const root=await fs.mkdtemp(path.join(os.tmpdir(),'pi-pages-'));
