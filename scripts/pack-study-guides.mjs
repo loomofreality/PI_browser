@@ -1,6 +1,6 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
-import {gzipSync,gunzipSync} from 'node:zlib';
+import {gzipSync,gunzipSync,brotliCompressSync,brotliDecompressSync,constants} from 'node:zlib';
 import {encodeGuideArchive,decodeGuideArchive} from './study-guide-archive.mjs';
 
 // Store quotation HTML once for both views. Verify exact reconstruction before
@@ -51,7 +51,13 @@ export async function packStudyGuides(root,out){
     if(name==='compiled.json'){
       const archive=encodeGuideArchive(value);
       if(JSON.stringify(decodeGuideArchive(archive))!==JSON.stringify(value))throw Error('Guide archive changed content');
-      await fs.writeFile(path.join(directory,'compiled.archive.json.gz'),pack(Buffer.from(JSON.stringify(archive))));
+      // The verification export is downloaded by tools, not the browser reader.
+      // Brotli saves publication space without changing its reversible data format.
+      const archiveBytes=Buffer.from(JSON.stringify(archive));
+      const compressed=brotliCompressSync(archiveBytes,{params:{[constants.BROTLI_PARAM_QUALITY]:6}});
+      if(!brotliDecompressSync(compressed).equals(archiveBytes))throw Error('Guide archive compression changed content');
+      await fs.writeFile(path.join(directory,'compiled.archive.json.br'),compressed);
+      await fs.rm(path.join(directory,'compiled.archive.json.gz'),{force:true});
       await fs.rm(file+'.gz',{force:true});
     }else await fs.writeFile(file+'.gz',pack(Buffer.from(JSON.stringify(value))));
     await fs.unlink(file);

@@ -3,7 +3,7 @@ import assert from 'node:assert/strict';
 import fs from 'node:fs/promises';
 import os from 'node:os';
 import path from 'node:path';
-import {gunzipSync} from 'node:zlib';
+import {gunzipSync,brotliDecompressSync} from 'node:zlib';
 import {packStudyGuides} from '../scripts/pack-study-guides.mjs';
 import {encodeGuideArchive,decodeGuideArchive} from '../scripts/study-guide-archive.mjs';
 
@@ -17,11 +17,13 @@ test('published guides reconstruct their exact body, keep paths and print mode, 
   await fs.writeFile(path.join(dir,'sample-pdf.html'),html);await fs.writeFile(path.join(dir,'index.html'),'Overview');
   for(const name of ['compiled.json','validation.json','sentence-review.json'])await fs.writeFile(path.join(dir,name),' {"exact":"文字"}\n');
   await fs.writeFile(path.join(dir,'manifest.json'),'Manifest');
+  await fs.writeFile(path.join(dir,'compiled.archive.json.gz'),'obsolete verification export');
   await packStudyGuides(root,out);
+  await assert.rejects(fs.access(path.join(dir,'compiled.archive.json.gz')),{code:'ENOENT'});
   const shell=await fs.readFile(path.join(dir,'sample-pdf.html'),'utf8');
   assert.match(shell,/class="pdf-view"/);assert.match(shell,/type="module" src="guide-loader.mjs"/);assert.doesNotMatch(shell,/src="pilot-view.js"/);
   assert.equal(gunzipSync(await fs.readFile(path.join(dir,'sample-pdf.html.gz'))).toString(),body);
-  for(const name of ['compiled.json','validation.json','sentence-review.json']){const payload=JSON.parse(gunzipSync(await fs.readFile(path.join(dir,name==='compiled.json'?'compiled.archive.json.gz':name+'.gz'))));assert.deepEqual(name==='compiled.json'?decodeGuideArchive(payload):payload,{exact:'文字'});await assert.rejects(fs.access(path.join(dir,name)),{code:'ENOENT'});}
+  for(const name of ['compiled.json','validation.json','sentence-review.json']){const payload=JSON.parse((name==='compiled.json'?brotliDecompressSync:gunzipSync)(await fs.readFile(path.join(dir,name==='compiled.json'?'compiled.archive.json.br':name+'.gz'))));assert.deepEqual(name==='compiled.json'?decodeGuideArchive(payload):payload,{exact:'文字'});await assert.rejects(fs.access(path.join(dir,name)),{code:'ENOENT'});}
   assert.equal(await fs.readFile(path.join(dir,'index.html'),'utf8'),'Overview');assert.equal(await fs.readFile(path.join(dir,'manifest.json'),'utf8'),'Manifest');
   await packStudyGuides(root,out);assert.equal(await fs.readFile(path.join(dir,'sample-pdf.html'),'utf8'),shell);
 });
