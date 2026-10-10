@@ -20,7 +20,7 @@ test('published guides reconstruct their exact body, keep paths and print mode, 
   const shell=await fs.readFile(path.join(dir,'sample-pdf.html'),'utf8');
   assert.match(shell,/class="pdf-view"/);assert.match(shell,/type="module" src="guide-loader.mjs"/);assert.doesNotMatch(shell,/src="pilot-view.js"/);
   assert.equal(gunzipSync(await fs.readFile(path.join(dir,'sample-pdf.html.gz'))).toString(),body);
-  for(const name of ['compiled.json','validation.json','sentence-review.json']){assert.equal(gunzipSync(await fs.readFile(path.join(dir,name+'.gz'))).toString(),' {"exact":"文字"}\n');await assert.rejects(fs.access(path.join(dir,name)),{code:'ENOENT'});}
+  for(const name of ['compiled.json','validation.json','sentence-review.json']){assert.deepEqual(JSON.parse(gunzipSync(await fs.readFile(path.join(dir,name+'.gz')))),{exact:'文字'});await assert.rejects(fs.access(path.join(dir,name)),{code:'ENOENT'});}
   assert.equal(await fs.readFile(path.join(dir,'index.html'),'utf8'),'Overview');assert.equal(await fs.readFile(path.join(dir,'manifest.json'),'utf8'),'Manifest');
   await packStudyGuides(root,out);assert.equal(await fs.readFile(path.join(dir,'sample-pdf.html'),'utf8'),shell);
 });

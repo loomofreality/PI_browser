@@ -45,7 +45,9 @@ export async function packStudyGuides(root,out){
   for(const name of ['compiled.json','validation.json','sentence-review.json']){
     const file=path.join(directory,name);let bytes;
     try{bytes=await fs.readFile(file);}catch(error){if(error.code==='ENOENT')continue;throw error;}
-    await fs.writeFile(file+'.gz',pack(bytes));await fs.unlink(file);
+    // Remove formatting whitespace only; string values and all source data stay exact.
+    const compact=Buffer.from(JSON.stringify(JSON.parse(bytes)));
+    await fs.writeFile(file+'.gz',pack(compact));await fs.unlink(file);
   }
   await fs.copyFile(path.join(root,'scripts/compilation-guide-loader.mjs'),path.join(directory,'guide-loader.mjs'));
 }

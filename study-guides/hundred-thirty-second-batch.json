@@ -1,0 +1,2120 @@
+{
+  "batchNumber": 132,
+  "subjects": [
+    {
+      "id": "374926D1B4A0440A807608CC09170687",
+      "slug": "prayerpower",
+      "displayTitle": "Power of prayer: communion, courage and action",
+      "introduction": "Why pray, if God already knows what we need? The question opens a collection in which prayer becomes a relationship of attention, gratitude and response, as well as an urgent cry for help. Its images of a drop becoming an ocean, a heart awakened by words and a life sustained across distance invite us to consider power beyond outward control. Yet the readings also insist on effort, material means, consultation and care: devotion seeks expression in the treatment of a child, a stranger, an opponent or a grieving friend. Healing prayers stand beside accounts of illness and death, while confidence in being heard coexists with surrender of a preferred outcome. Many assurances belong to particular letters and circumstances; revealed prayers, correspondence and reported conversations retain their different voices and authority. The connected subjects on the importance and state of prayer, obligatory prayer, prayer for individuals and groups, the Bábís’ prayers and spiritual transformation provide paths into its inward, communal and historical dimensions. Matthew’s teaching on sincerity and forgiveness and the Qur’an’s invitation to call upon a near and responding God offer further questions, without making the traditions’ forms identical. As the collection moves from asking to listening and from remembrance to service, it invites us to consider both what we hope prayer may bring and what kind of person we may become through it.",
+      "arc": "Why pray? → Attention, words and inward transformation → Learning to listen → Prayer and the work of care → Healing, uncertainty and loss → Nearness across distance → Courage without retaliation → The gift of being remembered → A heart drawn toward the Beloved → Prayers for steadfastness and a life of service → Recognition and the changing heart → Strength to arise → A reply that endures → Hearing and responding → From remembrance to service → Further supplied readings: reflection into action",
+      "order": [
+        {
+          "key": "source:AB01990",
+          "why": "Begin with the explicit question of why prayer is needed when God knows all needs; preserve the preceding question and its answer."
+        },
+        {
+          "key": "source:AB06211",
+          "why": "Open with the question of prayer itself, then move from inward communion and divine initiative toward action."
+        },
+        {
+          "key": "source:AB10952",
+          "why": "Open with the question of prayer itself, then move from inward communion and divine initiative toward action."
+        },
+        {
+          "key": "source:ABU1205",
+          "why": "Open with the question of prayer itself, then move from inward communion and divine initiative toward action."
+        },
+        {
+          "key": "source:AB11211",
+          "why": "Open with the question of prayer itself, then move from inward communion and divine initiative toward action."
+        },
+        {
+          "key": "source:AB11280",
+          "why": "Open with the question of prayer itself, then move from inward communion and divine initiative toward action."
+        },
+        {
+          "key": "source:BH00001",
+          "why": "Keep joy, proportion and the education of children together, so power is not confused with a quantity of recitation."
+        },
+        {
+          "key": "source:BH00994",
+          "why": "Open with the question of prayer itself, then move from inward communion and divine initiative toward action."
+        },
+        {
+          "key": "source:ABU1226",
+          "why": "Open with the question of prayer itself, then move from inward communion and divine initiative toward action."
+        },
+        {
+          "key": "source:AB08170",
+          "why": "Open with the question of prayer itself, then move from inward communion and divine initiative toward action."
+        },
+        {
+          "key": "source:BH00101",
+          "why": "Open with the question of prayer itself, then move from inward communion and divine initiative toward action."
+        },
+        {
+          "key": "source:BH07363",
+          "why": "Distinguish written replies from answers recorded with God without inventing a visible result."
+        },
+        {
+          "key": "source:BH05319",
+          "why": "Open with the question of prayer itself, then move from inward communion and divine initiative toward action."
+        },
+        {
+          "key": "source:AB08580",
+          "why": "Introduce practical means early: the source refuses to abandon them in favor of prayer alone."
+        },
+        {
+          "key": "source:ABU0660",
+          "why": "Open with the question of prayer itself, then move from inward communion and divine initiative toward action."
+        },
+        {
+          "key": "source:ABU1800",
+          "why": "Open with the question of prayer itself, then move from inward communion and divine initiative toward action."
+        },
+        {
+          "key": "source:BH00002",
+          "why": "Explore attention and transformation, distinguishing revealed teaching, letters on behalf of the Guardian and reported conversations; end with effort and action."
+        },
+        {
+          "key": "source:BH00047",
+          "why": "Explore attention and transformation, distinguishing revealed teaching, letters on behalf of the Guardian and reported conversations; end with effort and action."
+        },
+        {
+          "key": "source:ABU1481",
+          "why": "Explore attention and transformation, distinguishing revealed teaching, letters on behalf of the Guardian and reported conversations; end with effort and action."
+        },
+        {
+          "key": "source:ABU3093",
+          "why": "Keep the reported teaching on wordless prayer with its explicit exception for obligatory forms."
+        },
+        {
+          "key": "source:ABU3502",
+          "why": "Explore attention and transformation, distinguishing revealed teaching, letters on behalf of the Guardian and reported conversations; end with effort and action."
+        },
+        {
+          "key": "source:ABU3253",
+          "why": "Explore attention and transformation, distinguishing revealed teaching, letters on behalf of the Guardian and reported conversations; end with effort and action."
+        },
+        {
+          "key": "source:ABU1177",
+          "why": "Explore attention and transformation, distinguishing revealed teaching, letters on behalf of the Guardian and reported conversations; end with effort and action."
+        },
+        {
+          "key": "source:ABU0990",
+          "why": "Explore attention and transformation, distinguishing revealed teaching, letters on behalf of the Guardian and reported conversations; end with effort and action."
+        },
+        {
+          "key": "source:ABU3755",
+          "why": "Explore attention and transformation, distinguishing revealed teaching, letters on behalf of the Guardian and reported conversations; end with effort and action."
+        },
+        {
+          "key": "source:ABU3659",
+          "why": "Explore attention and transformation, distinguishing revealed teaching, letters on behalf of the Guardian and reported conversations; end with effort and action."
+        },
+        {
+          "key": "source:ABU0632",
+          "why": "Explore attention and transformation, distinguishing revealed teaching, letters on behalf of the Guardian and reported conversations; end with effort and action."
+        },
+        {
+          "key": "source:ABU0316",
+          "why": "Explore attention and transformation, distinguishing revealed teaching, letters on behalf of the Guardian and reported conversations; end with effort and action."
+        },
+        {
+          "key": "source:ABU0271",
+          "why": "Preserve the reported statement that personal practices need not have the same effect for others."
+        },
+        {
+          "key": "source:ABU1799",
+          "why": "Explore attention and transformation, distinguishing revealed teaching, letters on behalf of the Guardian and reported conversations; end with effort and action."
+        },
+        {
+          "key": "source:ABU1859",
+          "why": "Explore attention and transformation, distinguishing revealed teaching, letters on behalf of the Guardian and reported conversations; end with effort and action."
+        },
+        {
+          "key": "source:ABU2790",
+          "why": "Explore attention and transformation, distinguishing revealed teaching, letters on behalf of the Guardian and reported conversations; end with effort and action."
+        },
+        {
+          "key": "source:ABU3535",
+          "why": "Explore attention and transformation, distinguishing revealed teaching, letters on behalf of the Guardian and reported conversations; end with effort and action."
+        },
+        {
+          "key": "source:AB03329",
+          "why": "Move through music, historical devotional forms and obligatory prayer into sustained prayer texts, preserving each source and its particular instructions."
+        },
+        {
+          "key": "source:AB01576",
+          "why": "Move through music, historical devotional forms and obligatory prayer into sustained prayer texts, preserving each source and its particular instructions."
+        },
+        {
+          "key": "source:AB04190",
+          "why": "Move through music, historical devotional forms and obligatory prayer into sustained prayer texts, preserving each source and its particular instructions."
+        },
+        {
+          "key": "source:AB05681",
+          "why": "Move through music, historical devotional forms and obligatory prayer into sustained prayer texts, preserving each source and its particular instructions."
+        },
+        {
+          "key": "source:ABU3524",
+          "why": "Move through music, historical devotional forms and obligatory prayer into sustained prayer texts, preserving each source and its particular instructions."
+        },
+        {
+          "key": "source:ABU2755",
+          "why": "Move through music, historical devotional forms and obligatory prayer into sustained prayer texts, preserving each source and its particular instructions."
+        },
+        {
+          "key": "source:BB00350",
+          "why": "Move through music, historical devotional forms and obligatory prayer into sustained prayer texts, preserving each source and its particular instructions."
+        },
+        {
+          "key": "source:BB00480",
+          "why": "Move through music, historical devotional forms and obligatory prayer into sustained prayer texts, preserving each source and its particular instructions."
+        },
+        {
+          "key": "source:BB00103",
+          "why": "Move through music, historical devotional forms and obligatory prayer into sustained prayer texts, preserving each source and its particular instructions."
+        },
+        {
+          "key": "source:BB00158",
+          "why": "Move through music, historical devotional forms and obligatory prayer into sustained prayer texts, preserving each source and its particular instructions."
+        },
+        {
+          "key": "source:BB00102",
+          "why": "Move through music, historical devotional forms and obligatory prayer into sustained prayer texts, preserving each source and its particular instructions."
+        },
+        {
+          "key": "source:BH00401",
+          "why": "Move through music, historical devotional forms and obligatory prayer into sustained prayer texts, preserving each source and its particular instructions."
+        },
+        {
+          "key": "source:BB00004",
+          "why": "Move through music, historical devotional forms and obligatory prayer into sustained prayer texts, preserving each source and its particular instructions."
+        },
+        {
+          "key": "source:BB00003",
+          "why": "Move through music, historical devotional forms and obligatory prayer into sustained prayer texts, preserving each source and its particular instructions."
+        },
+        {
+          "key": "source:BB00026",
+          "why": "Move through music, historical devotional forms and obligatory prayer into sustained prayer texts, preserving each source and its particular instructions."
+        },
+        {
+          "key": "source:BB00579",
+          "why": "Move through music, historical devotional forms and obligatory prayer into sustained prayer texts, preserving each source and its particular instructions."
+        },
+        {
+          "key": "source:BB00313",
+          "why": "Move through music, historical devotional forms and obligatory prayer into sustained prayer texts, preserving each source and its particular instructions."
+        },
+        {
+          "key": "source:BB00358",
+          "why": "Move through music, historical devotional forms and obligatory prayer into sustained prayer texts, preserving each source and its particular instructions."
+        },
+        {
+          "key": "source:BH00987",
+          "why": "Move through music, historical devotional forms and obligatory prayer into sustained prayer texts, preserving each source and its particular instructions."
+        },
+        {
+          "key": "source:AB06076",
+          "why": "Move through music, historical devotional forms and obligatory prayer into sustained prayer texts, preserving each source and its particular instructions."
+        },
+        {
+          "key": "source:BH01025",
+          "why": "Move through music, historical devotional forms and obligatory prayer into sustained prayer texts, preserving each source and its particular instructions."
+        },
+        {
+          "key": "source:BH00501",
+          "why": "Move through music, historical devotional forms and obligatory prayer into sustained prayer texts, preserving each source and its particular instructions."
+        },
+        {
+          "key": "source:BH02022",
+          "why": "Move through music, historical devotional forms and obligatory prayer into sustained prayer texts, preserving each source and its particular instructions."
+        },
+        {
+          "key": "source:BH00870",
+          "why": "Move through music, historical devotional forms and obligatory prayer into sustained prayer texts, preserving each source and its particular instructions."
+        },
+        {
+          "key": "source:AB01062",
+          "why": "Widen the circle from personal devotion to children, neighbors, strangers and peace; practical care gives inward aspiration a social expression."
+        },
+        {
+          "key": "source:AB01463",
+          "why": "Widen the circle from personal devotion to children, neighbors, strangers and peace; practical care gives inward aspiration a social expression."
+        },
+        {
+          "key": "source:AB03783",
+          "why": "Widen the circle from personal devotion to children, neighbors, strangers and peace; practical care gives inward aspiration a social expression."
+        },
+        {
+          "key": "source:AB03212",
+          "why": "Widen the circle from personal devotion to children, neighbors, strangers and peace; practical care gives inward aspiration a social expression."
+        },
+        {
+          "key": "source:AB00308",
+          "why": "Widen the circle from personal devotion to children, neighbors, strangers and peace; practical care gives inward aspiration a social expression."
+        },
+        {
+          "key": "source:AB01668",
+          "why": "Widen the circle from personal devotion to children, neighbors, strangers and peace; practical care gives inward aspiration a social expression."
+        },
+        {
+          "key": "source:BH02153",
+          "why": "Widen the circle from personal devotion to children, neighbors, strangers and peace; practical care gives inward aspiration a social expression."
+        },
+        {
+          "key": "source:AB00904",
+          "why": "Widen the circle from personal devotion to children, neighbors, strangers and peace; practical care gives inward aspiration a social expression."
+        },
+        {
+          "key": "source:AB04105",
+          "why": "Widen the circle from personal devotion to children, neighbors, strangers and peace; practical care gives inward aspiration a social expression."
+        },
+        {
+          "key": "source:AB09282",
+          "why": "Widen the circle from personal devotion to children, neighbors, strangers and peace; practical care gives inward aspiration a social expression."
+        },
+        {
+          "key": "source:AB01940",
+          "why": "Widen the circle from personal devotion to children, neighbors, strangers and peace; practical care gives inward aspiration a social expression."
+        },
+        {
+          "key": "source:AB04878",
+          "why": "Widen the circle from personal devotion to children, neighbors, strangers and peace; practical care gives inward aspiration a social expression."
+        },
+        {
+          "key": "source:AB07404",
+          "why": "Widen the circle from personal devotion to children, neighbors, strangers and peace; practical care gives inward aspiration a social expression."
+        },
+        {
+          "key": "source:AB09465",
+          "why": "Widen the circle from personal devotion to children, neighbors, strangers and peace; practical care gives inward aspiration a social expression."
+        },
+        {
+          "key": "source:AB11374",
+          "why": "Widen the circle from personal devotion to children, neighbors, strangers and peace; practical care gives inward aspiration a social expression."
+        },
+        {
+          "key": "source:AB11637",
+          "why": "Widen the circle from personal devotion to children, neighbors, strangers and peace; practical care gives inward aspiration a social expression."
+        },
+        {
+          "key": "source:AB02789",
+          "why": "Widen the circle from personal devotion to children, neighbors, strangers and peace; practical care gives inward aspiration a social expression."
+        },
+        {
+          "key": "source:AB01043",
+          "why": "Widen the circle from personal devotion to children, neighbors, strangers and peace; practical care gives inward aspiration a social expression."
+        },
+        {
+          "key": "source:AB01375",
+          "why": "Widen the circle from personal devotion to children, neighbors, strangers and peace; practical care gives inward aspiration a social expression."
+        },
+        {
+          "key": "source:AB05645",
+          "why": "Widen the circle from personal devotion to children, neighbors, strangers and peace; practical care gives inward aspiration a social expression."
+        },
+        {
+          "key": "source:AB00772",
+          "why": "Widen the circle from personal devotion to children, neighbors, strangers and peace; practical care gives inward aspiration a social expression."
+        },
+        {
+          "key": "source:AB00947",
+          "why": "Widen the circle from personal devotion to children, neighbors, strangers and peace; practical care gives inward aspiration a social expression."
+        },
+        {
+          "key": "source:BH00733",
+          "why": "Widen the circle from personal devotion to children, neighbors, strangers and peace; practical care gives inward aspiration a social expression."
+        },
+        {
+          "key": "source:BH00090",
+          "why": "Widen the circle from personal devotion to children, neighbors, strangers and peace; practical care gives inward aspiration a social expression."
+        },
+        {
+          "key": "source:BH00674",
+          "why": "Widen the circle from personal devotion to children, neighbors, strangers and peace; practical care gives inward aspiration a social expression."
+        },
+        {
+          "key": "source:ABU0012",
+          "why": "Widen the circle from personal devotion to children, neighbors, strangers and peace; practical care gives inward aspiration a social expression."
+        },
+        {
+          "key": "source:AB01899",
+          "why": "Widen the circle from personal devotion to children, neighbors, strangers and peace; practical care gives inward aspiration a social expression."
+        },
+        {
+          "key": "source:AB02205",
+          "why": "Widen the circle from personal devotion to children, neighbors, strangers and peace; practical care gives inward aspiration a social expression."
+        },
+        {
+          "key": "source:AB01022",
+          "why": "Widen the circle from personal devotion to children, neighbors, strangers and peace; practical care gives inward aspiration a social expression."
+        },
+        {
+          "key": "source:AB04932",
+          "why": "Widen the circle from personal devotion to children, neighbors, strangers and peace; practical care gives inward aspiration a social expression."
+        },
+        {
+          "key": "source:AB07459",
+          "why": "Widen the circle from personal devotion to children, neighbors, strangers and peace; practical care gives inward aspiration a social expression."
+        },
+        {
+          "key": "source:AB01093",
+          "why": "Widen the circle from personal devotion to children, neighbors, strangers and peace; practical care gives inward aspiration a social expression."
+        },
+        {
+          "key": "source:AB00725",
+          "why": "Widen the circle from personal devotion to children, neighbors, strangers and peace; practical care gives inward aspiration a social expression."
+        },
+        {
+          "key": "source:AB00466",
+          "why": "Widen the circle from personal devotion to children, neighbors, strangers and peace; practical care gives inward aspiration a social expression."
+        },
+        {
+          "key": "source:AB03345",
+          "why": "Widen the circle from personal devotion to children, neighbors, strangers and peace; practical care gives inward aspiration a social expression."
+        },
+        {
+          "key": "source:AB04646",
+          "why": "Widen the circle from personal devotion to children, neighbors, strangers and peace; practical care gives inward aspiration a social expression."
+        },
+        {
+          "key": "source:ABU0060",
+          "why": "Retain both preceding medical questions and the explicit insistence that material treatment must not be abandoned."
+        },
+        {
+          "key": "source:AB04607",
+          "why": "Keep the explicit denial that illness is punishment for sins, together with its historical personal setting."
+        },
+        {
+          "key": "source:ABU2873",
+          "why": "Read healing alongside material treatment, uncertainty and bereavement, preserving personal circumstances and refusing to turn every assurance into a universal outcome."
+        },
+        {
+          "key": "source:AB08782",
+          "why": "Read this particular letter on capacity beside death, healing and material means; do not universalize it as blame for illness."
+        },
+        {
+          "key": "source:ABU2530",
+          "why": "Read healing alongside material treatment, uncertainty and bereavement, preserving personal circumstances and refusing to turn every assurance into a universal outcome."
+        },
+        {
+          "key": "source:AB07837",
+          "why": "Read healing alongside material treatment, uncertainty and bereavement, preserving personal circumstances and refusing to turn every assurance into a universal outcome."
+        },
+        {
+          "key": "source:AB04676",
+          "why": "Read healing alongside material treatment, uncertainty and bereavement, preserving personal circumstances and refusing to turn every assurance into a universal outcome."
+        },
+        {
+          "key": "source:AB01385",
+          "why": "Include the question about deaths despite healing prayers before the distinction between inevitable and contingent death."
+        },
+        {
+          "key": "source:BH03421",
+          "why": "Read healing alongside material treatment, uncertainty and bereavement, preserving personal circumstances and refusing to turn every assurance into a universal outcome."
+        },
+        {
+          "key": "source:AB03802",
+          "why": "Read healing alongside material treatment, uncertainty and bereavement, preserving personal circumstances and refusing to turn every assurance into a universal outcome."
+        },
+        {
+          "key": "source:AB00553",
+          "why": "Read healing alongside material treatment, uncertainty and bereavement, preserving personal circumstances and refusing to turn every assurance into a universal outcome."
+        },
+        {
+          "key": "source:AB02640",
+          "why": "Read healing alongside material treatment, uncertainty and bereavement, preserving personal circumstances and refusing to turn every assurance into a universal outcome."
+        },
+        {
+          "key": "source:AB07092",
+          "why": "Read healing alongside material treatment, uncertainty and bereavement, preserving personal circumstances and refusing to turn every assurance into a universal outcome."
+        },
+        {
+          "key": "source:AB07260",
+          "why": "Read healing alongside material treatment, uncertainty and bereavement, preserving personal circumstances and refusing to turn every assurance into a universal outcome."
+        },
+        {
+          "key": "source:AB02458",
+          "why": "Read healing alongside material treatment, uncertainty and bereavement, preserving personal circumstances and refusing to turn every assurance into a universal outcome."
+        },
+        {
+          "key": "source:AB04536",
+          "why": "Read healing alongside material treatment, uncertainty and bereavement, preserving personal circumstances and refusing to turn every assurance into a universal outcome."
+        },
+        {
+          "key": "source:AB04238",
+          "why": "Read healing alongside material treatment, uncertainty and bereavement, preserving personal circumstances and refusing to turn every assurance into a universal outcome."
+        },
+        {
+          "key": "source:BBU0007",
+          "why": "Read healing alongside material treatment, uncertainty and bereavement, preserving personal circumstances and refusing to turn every assurance into a universal outcome."
+        },
+        {
+          "key": "source:ABU3450",
+          "why": "Read healing alongside material treatment, uncertainty and bereavement, preserving personal circumstances and refusing to turn every assurance into a universal outcome."
+        },
+        {
+          "key": "source:AB12150",
+          "why": "Read healing alongside material treatment, uncertainty and bereavement, preserving personal circumstances and refusing to turn every assurance into a universal outcome."
+        },
+        {
+          "key": "source:BH07865",
+          "why": "Read healing alongside material treatment, uncertainty and bereavement, preserving personal circumstances and refusing to turn every assurance into a universal outcome."
+        },
+        {
+          "key": "source:BH02094",
+          "why": "Read healing alongside material treatment, uncertainty and bereavement, preserving personal circumstances and refusing to turn every assurance into a universal outcome."
+        },
+        {
+          "key": "source:BH04283",
+          "why": "Retain the assurance that not receiving a written Tablet does not mean being forgotten."
+        },
+        {
+          "key": "source:AB04624",
+          "why": "Read healing alongside material treatment, uncertainty and bereavement, preserving personal circumstances and refusing to turn every assurance into a universal outcome."
+        },
+        {
+          "key": "source:BH10292",
+          "why": "Read healing alongside material treatment, uncertainty and bereavement, preserving personal circumstances and refusing to turn every assurance into a universal outcome."
+        },
+        {
+          "key": "source:AB03568",
+          "why": "Read healing alongside material treatment, uncertainty and bereavement, preserving personal circumstances and refusing to turn every assurance into a universal outcome."
+        },
+        {
+          "key": "source:AB02915",
+          "why": "Read healing alongside material treatment, uncertainty and bereavement, preserving personal circumstances and refusing to turn every assurance into a universal outcome."
+        },
+        {
+          "key": "source:BH01671",
+          "why": "Read healing alongside material treatment, uncertainty and bereavement, preserving personal circumstances and refusing to turn every assurance into a universal outcome."
+        },
+        {
+          "key": "source:AB01162",
+          "why": "Read healing alongside material treatment, uncertainty and bereavement, preserving personal circumstances and refusing to turn every assurance into a universal outcome."
+        },
+        {
+          "key": "source:AB04920",
+          "why": "Follow longing for presence through practical travel limits, proxy visits, community gatherings and service; retain named historical settings."
+        },
+        {
+          "key": "source:AB05000",
+          "why": "Follow longing for presence through practical travel limits, proxy visits, community gatherings and service; retain named historical settings."
+        },
+        {
+          "key": "source:AB06545",
+          "why": "Follow longing for presence through practical travel limits, proxy visits, community gatherings and service; retain named historical settings."
+        },
+        {
+          "key": "source:AB01424",
+          "why": "Follow longing for presence through practical travel limits, proxy visits, community gatherings and service; retain named historical settings."
+        },
+        {
+          "key": "source:AB03165",
+          "why": "Follow longing for presence through practical travel limits, proxy visits, community gatherings and service; retain named historical settings."
+        },
+        {
+          "key": "source:AB08402",
+          "why": "Follow longing for presence through practical travel limits, proxy visits, community gatherings and service; retain named historical settings."
+        },
+        {
+          "key": "source:AB03502",
+          "why": "Follow longing for presence through practical travel limits, proxy visits, community gatherings and service; retain named historical settings."
+        },
+        {
+          "key": "source:AB12126",
+          "why": "Follow longing for presence through practical travel limits, proxy visits, community gatherings and service; retain named historical settings."
+        },
+        {
+          "key": "source:BH04310",
+          "why": "Follow longing for presence through practical travel limits, proxy visits, community gatherings and service; retain named historical settings."
+        },
+        {
+          "key": "source:BH06478",
+          "why": "Follow longing for presence through practical travel limits, proxy visits, community gatherings and service; retain named historical settings."
+        },
+        {
+          "key": "source:BH04516",
+          "why": "Follow longing for presence through practical travel limits, proxy visits, community gatherings and service; retain named historical settings."
+        },
+        {
+          "key": "source:BH06287",
+          "why": "Follow longing for presence through practical travel limits, proxy visits, community gatherings and service; retain named historical settings."
+        },
+        {
+          "key": "source:BH10066",
+          "why": "Follow longing for presence through practical travel limits, proxy visits, community gatherings and service; retain named historical settings."
+        },
+        {
+          "key": "source:BH00056",
+          "why": "Follow longing for presence through practical travel limits, proxy visits, community gatherings and service; retain named historical settings."
+        },
+        {
+          "key": "source:AB00850",
+          "why": "Follow longing for presence through practical travel limits, proxy visits, community gatherings and service; retain named historical settings."
+        },
+        {
+          "key": "source:AB03844",
+          "why": "Follow longing for presence through practical travel limits, proxy visits, community gatherings and service; retain named historical settings."
+        },
+        {
+          "key": "source:AB11853",
+          "why": "Follow longing for presence through practical travel limits, proxy visits, community gatherings and service; retain named historical settings."
+        },
+        {
+          "key": "source:AB05992",
+          "why": "Follow longing for presence through practical travel limits, proxy visits, community gatherings and service; retain named historical settings."
+        },
+        {
+          "key": "source:AB02812",
+          "why": "Follow longing for presence through practical travel limits, proxy visits, community gatherings and service; retain named historical settings."
+        },
+        {
+          "key": "source:AB00963",
+          "why": "Follow longing for presence through practical travel limits, proxy visits, community gatherings and service; retain named historical settings."
+        },
+        {
+          "key": "source:ABU1905",
+          "why": "Follow longing for presence through practical travel limits, proxy visits, community gatherings and service; retain named historical settings."
+        },
+        {
+          "key": "source:AB01823",
+          "why": "Follow longing for presence through practical travel limits, proxy visits, community gatherings and service; retain named historical settings."
+        },
+        {
+          "key": "source:AB01645",
+          "why": "Follow longing for presence through practical travel limits, proxy visits, community gatherings and service; retain named historical settings."
+        },
+        {
+          "key": "source:AB01877",
+          "why": "Follow longing for presence through practical travel limits, proxy visits, community gatherings and service; retain named historical settings."
+        },
+        {
+          "key": "source:AB02284",
+          "why": "Follow longing for presence through practical travel limits, proxy visits, community gatherings and service; retain named historical settings."
+        },
+        {
+          "key": "source:AB02985",
+          "why": "Follow longing for presence through practical travel limits, proxy visits, community gatherings and service; retain named historical settings."
+        },
+        {
+          "key": "source:AB03740",
+          "why": "Follow longing for presence through practical travel limits, proxy visits, community gatherings and service; retain named historical settings."
+        },
+        {
+          "key": "source:AB04261",
+          "why": "Follow longing for presence through practical travel limits, proxy visits, community gatherings and service; retain named historical settings."
+        },
+        {
+          "key": "source:AB06190",
+          "why": "Follow longing for presence through practical travel limits, proxy visits, community gatherings and service; retain named historical settings."
+        },
+        {
+          "key": "source:ABU1601",
+          "why": "Follow longing for presence through practical travel limits, proxy visits, community gatherings and service; retain named historical settings."
+        },
+        {
+          "key": "source:AB00148",
+          "why": "Follow longing for presence through practical travel limits, proxy visits, community gatherings and service; retain named historical settings."
+        },
+        {
+          "key": "source:BH03632",
+          "why": "Follow longing for presence through practical travel limits, proxy visits, community gatherings and service; retain named historical settings."
+        },
+        {
+          "key": "source:BH02513",
+          "why": "Follow longing for presence through practical travel limits, proxy visits, community gatherings and service; retain named historical settings."
+        },
+        {
+          "key": "source:AB08250",
+          "why": "Follow longing for presence through practical travel limits, proxy visits, community gatherings and service; retain named historical settings."
+        },
+        {
+          "key": "source:ABU1379",
+          "why": "Follow longing for presence through practical travel limits, proxy visits, community gatherings and service; retain named historical settings."
+        },
+        {
+          "key": "source:BH01089",
+          "why": "Place courage and severe imagery within persecution, nonretaliation and historical reports; preserve the original accounts without turning anecdotes into instructions."
+        },
+        {
+          "key": "source:BH00536",
+          "why": "Place courage and severe imagery within persecution, nonretaliation and historical reports; preserve the original accounts without turning anecdotes into instructions."
+        },
+        {
+          "key": "source:BH01385",
+          "why": "Place courage and severe imagery within persecution, nonretaliation and historical reports; preserve the original accounts without turning anecdotes into instructions."
+        },
+        {
+          "key": "source:BH02818",
+          "why": "Place courage and severe imagery within persecution, nonretaliation and historical reports; preserve the original accounts without turning anecdotes into instructions."
+        },
+        {
+          "key": "source:BH00221",
+          "why": "Place courage and severe imagery within persecution, nonretaliation and historical reports; preserve the original accounts without turning anecdotes into instructions."
+        },
+        {
+          "key": "source:BH03233",
+          "why": "Keep the prohibition of bloodshed beside the description of persecution and sacrifice."
+        },
+        {
+          "key": "source:BH00509",
+          "why": "Place courage and severe imagery within persecution, nonretaliation and historical reports; preserve the original accounts without turning anecdotes into instructions."
+        },
+        {
+          "key": "source:BH02349",
+          "why": "Place courage and severe imagery within persecution, nonretaliation and historical reports; preserve the original accounts without turning anecdotes into instructions."
+        },
+        {
+          "key": "source:BH02180",
+          "why": "Place courage and severe imagery within persecution, nonretaliation and historical reports; preserve the original accounts without turning anecdotes into instructions."
+        },
+        {
+          "key": "source:BH08064",
+          "why": "Place courage and severe imagery within persecution, nonretaliation and historical reports; preserve the original accounts without turning anecdotes into instructions."
+        },
+        {
+          "key": "source:BH08494",
+          "why": "Place courage and severe imagery within persecution, nonretaliation and historical reports; preserve the original accounts without turning anecdotes into instructions."
+        },
+        {
+          "key": "source:AB03399",
+          "why": "Place courage and severe imagery within persecution, nonretaliation and historical reports; preserve the original accounts without turning anecdotes into instructions."
+        },
+        {
+          "key": "source:AB05647",
+          "why": "Place courage and severe imagery within persecution, nonretaliation and historical reports; preserve the original accounts without turning anecdotes into instructions."
+        },
+        {
+          "key": "source:BH09045",
+          "why": "Place courage and severe imagery within persecution, nonretaliation and historical reports; preserve the original accounts without turning anecdotes into instructions."
+        },
+        {
+          "key": "source:AB12300",
+          "why": "Place courage and severe imagery within persecution, nonretaliation and historical reports; preserve the original accounts without turning anecdotes into instructions."
+        },
+        {
+          "key": "source:AB02979",
+          "why": "Place courage and severe imagery within persecution, nonretaliation and historical reports; preserve the original accounts without turning anecdotes into instructions."
+        },
+        {
+          "key": "source:ABU0912",
+          "why": "Place courage and severe imagery within persecution, nonretaliation and historical reports; preserve the original accounts without turning anecdotes into instructions."
+        },
+        {
+          "key": "source:ABU1191",
+          "why": "Retain the reported incident and its status; an account of injury is not an invitation to imitate it."
+        },
+        {
+          "key": "source:ABU0291",
+          "why": "Place courage and severe imagery within persecution, nonretaliation and historical reports; preserve the original accounts without turning anecdotes into instructions."
+        },
+        {
+          "key": "source:AB02964",
+          "why": "Place courage and severe imagery within persecution, nonretaliation and historical reports; preserve the original accounts without turning anecdotes into instructions."
+        },
+        {
+          "key": "source:ABU3511",
+          "why": "Place courage and severe imagery within persecution, nonretaliation and historical reports; preserve the original accounts without turning anecdotes into instructions."
+        },
+        {
+          "key": "source:ABU3342",
+          "why": "Place courage and severe imagery within persecution, nonretaliation and historical reports; preserve the original accounts without turning anecdotes into instructions."
+        },
+        {
+          "key": "source:ABU2472",
+          "why": "Place courage and severe imagery within persecution, nonretaliation and historical reports; preserve the original accounts without turning anecdotes into instructions."
+        },
+        {
+          "key": "source:BH01494",
+          "why": "Place courage and severe imagery within persecution, nonretaliation and historical reports; preserve the original accounts without turning anecdotes into instructions."
+        },
+        {
+          "key": "source:BH00189",
+          "why": "Place courage and severe imagery within persecution, nonretaliation and historical reports; preserve the original accounts without turning anecdotes into instructions."
+        },
+        {
+          "key": "source:BH00724",
+          "why": "Place courage and severe imagery within persecution, nonretaliation and historical reports; preserve the original accounts without turning anecdotes into instructions."
+        },
+        {
+          "key": "source:BH07109",
+          "why": "Place courage and severe imagery within persecution, nonretaliation and historical reports; preserve the original accounts without turning anecdotes into instructions."
+        },
+        {
+          "key": "source:BH02112",
+          "why": "Place courage and severe imagery within persecution, nonretaliation and historical reports; preserve the original accounts without turning anecdotes into instructions."
+        },
+        {
+          "key": "source:BH03551",
+          "why": "Place courage and severe imagery within persecution, nonretaliation and historical reports; preserve the original accounts without turning anecdotes into instructions."
+        },
+        {
+          "key": "source:BH01627",
+          "why": "Place courage and severe imagery within persecution, nonretaliation and historical reports; preserve the original accounts without turning anecdotes into instructions."
+        },
+        {
+          "key": "source:AB03032",
+          "why": "Place courage and severe imagery within persecution, nonretaliation and historical reports; preserve the original accounts without turning anecdotes into instructions."
+        },
+        {
+          "key": "source:AB04248",
+          "why": "Place courage and severe imagery within persecution, nonretaliation and historical reports; preserve the original accounts without turning anecdotes into instructions."
+        },
+        {
+          "key": "source:AB00809",
+          "why": "Read correspondence as relationship: the occasion, the intermediary and the named recipient matter to the assurance being offered."
+        },
+        {
+          "key": "source:AB01869",
+          "why": "Read correspondence as relationship: the occasion, the intermediary and the named recipient matter to the assurance being offered."
+        },
+        {
+          "key": "source:BH01553",
+          "why": "Read correspondence as relationship: the occasion, the intermediary and the named recipient matter to the assurance being offered."
+        },
+        {
+          "key": "source:BH02452",
+          "why": "Read correspondence as relationship: the occasion, the intermediary and the named recipient matter to the assurance being offered."
+        },
+        {
+          "key": "source:BH02460",
+          "why": "Read correspondence as relationship: the occasion, the intermediary and the named recipient matter to the assurance being offered."
+        },
+        {
+          "key": "source:BH02999",
+          "why": "Read correspondence as relationship: the occasion, the intermediary and the named recipient matter to the assurance being offered."
+        },
+        {
+          "key": "source:BH01148",
+          "why": "Read correspondence as relationship: the occasion, the intermediary and the named recipient matter to the assurance being offered."
+        },
+        {
+          "key": "source:BH01003",
+          "why": "Read correspondence as relationship: the occasion, the intermediary and the named recipient matter to the assurance being offered."
+        },
+        {
+          "key": "source:BH00969",
+          "why": "Read correspondence as relationship: the occasion, the intermediary and the named recipient matter to the assurance being offered."
+        },
+        {
+          "key": "source:BH00455",
+          "why": "Read correspondence as relationship: the occasion, the intermediary and the named recipient matter to the assurance being offered."
+        },
+        {
+          "key": "source:BH01111",
+          "why": "Read correspondence as relationship: the occasion, the intermediary and the named recipient matter to the assurance being offered."
+        },
+        {
+          "key": "source:BH01112",
+          "why": "Read correspondence as relationship: the occasion, the intermediary and the named recipient matter to the assurance being offered."
+        },
+        {
+          "key": "source:BH01198",
+          "why": "Read correspondence as relationship: the occasion, the intermediary and the named recipient matter to the assurance being offered."
+        },
+        {
+          "key": "source:BH01243",
+          "why": "Read correspondence as relationship: the occasion, the intermediary and the named recipient matter to the assurance being offered."
+        },
+        {
+          "key": "source:BH01471",
+          "why": "Read correspondence as relationship: the occasion, the intermediary and the named recipient matter to the assurance being offered."
+        },
+        {
+          "key": "source:BH02520",
+          "why": "Read correspondence as relationship: the occasion, the intermediary and the named recipient matter to the assurance being offered."
+        },
+        {
+          "key": "source:BH02719",
+          "why": "Read correspondence as relationship: the occasion, the intermediary and the named recipient matter to the assurance being offered."
+        },
+        {
+          "key": "source:BH02943",
+          "why": "Read correspondence as relationship: the occasion, the intermediary and the named recipient matter to the assurance being offered."
+        },
+        {
+          "key": "source:BH03101",
+          "why": "Read correspondence as relationship: the occasion, the intermediary and the named recipient matter to the assurance being offered."
+        },
+        {
+          "key": "source:BH03567",
+          "why": "Read correspondence as relationship: the occasion, the intermediary and the named recipient matter to the assurance being offered."
+        },
+        {
+          "key": "source:BH03597",
+          "why": "Read correspondence as relationship: the occasion, the intermediary and the named recipient matter to the assurance being offered."
+        },
+        {
+          "key": "source:BH04181",
+          "why": "Read correspondence as relationship: the occasion, the intermediary and the named recipient matter to the assurance being offered."
+        },
+        {
+          "key": "source:BH04600",
+          "why": "Read correspondence as relationship: the occasion, the intermediary and the named recipient matter to the assurance being offered."
+        },
+        {
+          "key": "source:BH06122",
+          "why": "Read correspondence as relationship: the occasion, the intermediary and the named recipient matter to the assurance being offered."
+        },
+        {
+          "key": "source:BH08593",
+          "why": "Read correspondence as relationship: the occasion, the intermediary and the named recipient matter to the assurance being offered."
+        },
+        {
+          "key": "source:BH08712",
+          "why": "Read correspondence as relationship: the occasion, the intermediary and the named recipient matter to the assurance being offered."
+        },
+        {
+          "key": "source:BH09168",
+          "why": "Read correspondence as relationship: the occasion, the intermediary and the named recipient matter to the assurance being offered."
+        },
+        {
+          "key": "source:BH09360",
+          "why": "Read correspondence as relationship: the occasion, the intermediary and the named recipient matter to the assurance being offered."
+        },
+        {
+          "key": "source:BH09640",
+          "why": "Read correspondence as relationship: the occasion, the intermediary and the named recipient matter to the assurance being offered."
+        },
+        {
+          "key": "source:BH00276",
+          "why": "Read correspondence as relationship: the occasion, the intermediary and the named recipient matter to the assurance being offered."
+        },
+        {
+          "key": "source:BH09698",
+          "why": "Read correspondence as relationship: the occasion, the intermediary and the named recipient matter to the assurance being offered."
+        },
+        {
+          "key": "source:AB05439",
+          "why": "Read correspondence as relationship: the occasion, the intermediary and the named recipient matter to the assurance being offered."
+        },
+        {
+          "key": "source:AB02728",
+          "why": "Read correspondence as relationship: the occasion, the intermediary and the named recipient matter to the assurance being offered."
+        },
+        {
+          "key": "source:AB02842",
+          "why": "Read correspondence as relationship: the occasion, the intermediary and the named recipient matter to the assurance being offered."
+        },
+        {
+          "key": "source:AB02874",
+          "why": "Read correspondence as relationship: the occasion, the intermediary and the named recipient matter to the assurance being offered."
+        },
+        {
+          "key": "source:AB03522",
+          "why": "Read correspondence as relationship: the occasion, the intermediary and the named recipient matter to the assurance being offered."
+        },
+        {
+          "key": "source:AB00666",
+          "why": "Read correspondence as relationship: the occasion, the intermediary and the named recipient matter to the assurance being offered."
+        },
+        {
+          "key": "source:AB00622",
+          "why": "Read correspondence as relationship: the occasion, the intermediary and the named recipient matter to the assurance being offered."
+        },
+        {
+          "key": "source:AB04468",
+          "why": "Read correspondence as relationship: the occasion, the intermediary and the named recipient matter to the assurance being offered."
+        },
+        {
+          "key": "source:AB06447",
+          "why": "Read correspondence as relationship: the occasion, the intermediary and the named recipient matter to the assurance being offered."
+        },
+        {
+          "key": "source:BH00912",
+          "why": "Read correspondence as relationship: the occasion, the intermediary and the named recipient matter to the assurance being offered."
+        },
+        {
+          "key": "source:BH00979",
+          "why": "Read correspondence as relationship: the occasion, the intermediary and the named recipient matter to the assurance being offered."
+        },
+        {
+          "key": "source:BH01872",
+          "why": "Read correspondence as relationship: the occasion, the intermediary and the named recipient matter to the assurance being offered."
+        },
+        {
+          "key": "source:BH02248",
+          "why": "Read correspondence as relationship: the occasion, the intermediary and the named recipient matter to the assurance being offered."
+        },
+        {
+          "key": "source:BH02568",
+          "why": "Read correspondence as relationship: the occasion, the intermediary and the named recipient matter to the assurance being offered."
+        },
+        {
+          "key": "source:BH01030",
+          "why": "Read correspondence as relationship: the occasion, the intermediary and the named recipient matter to the assurance being offered."
+        },
+        {
+          "key": "source:BH02428",
+          "why": "Read correspondence as relationship: the occasion, the intermediary and the named recipient matter to the assurance being offered."
+        },
+        {
+          "key": "source:BH04492",
+          "why": "Read correspondence as relationship: the occasion, the intermediary and the named recipient matter to the assurance being offered."
+        },
+        {
+          "key": "source:BH04667",
+          "why": "Read correspondence as relationship: the occasion, the intermediary and the named recipient matter to the assurance being offered."
+        },
+        {
+          "key": "source:BH02883",
+          "why": "Read correspondence as relationship: the occasion, the intermediary and the named recipient matter to the assurance being offered."
+        },
+        {
+          "key": "source:BH03042",
+          "why": "Read correspondence as relationship: the occasion, the intermediary and the named recipient matter to the assurance being offered."
+        },
+        {
+          "key": "source:BH05661",
+          "why": "Read correspondence as relationship: the occasion, the intermediary and the named recipient matter to the assurance being offered."
+        },
+        {
+          "key": "source:BH06298",
+          "why": "Read correspondence as relationship: the occasion, the intermediary and the named recipient matter to the assurance being offered."
+        },
+        {
+          "key": "source:BH00153",
+          "why": "Read correspondence as relationship: the occasion, the intermediary and the named recipient matter to the assurance being offered."
+        },
+        {
+          "key": "source:BH00417",
+          "why": "Read correspondence as relationship: the occasion, the intermediary and the named recipient matter to the assurance being offered."
+        },
+        {
+          "key": "source:BH00896",
+          "why": "Read correspondence as relationship: the occasion, the intermediary and the named recipient matter to the assurance being offered."
+        },
+        {
+          "key": "source:BH10155",
+          "why": "Give space to longing and grief, then to companionship and the desire to serve; keep distinct speakers and personal addresses visible."
+        },
+        {
+          "key": "source:BH00009",
+          "why": "Give space to longing and grief, then to companionship and the desire to serve; keep distinct speakers and personal addresses visible."
+        },
+        {
+          "key": "source:BH01727",
+          "why": "Give space to longing and grief, then to companionship and the desire to serve; keep distinct speakers and personal addresses visible."
+        },
+        {
+          "key": "source:BH02462",
+          "why": "Give space to longing and grief, then to companionship and the desire to serve; keep distinct speakers and personal addresses visible."
+        },
+        {
+          "key": "source:BH04460",
+          "why": "Give space to longing and grief, then to companionship and the desire to serve; keep distinct speakers and personal addresses visible."
+        },
+        {
+          "key": "source:BH08255",
+          "why": "Give space to longing and grief, then to companionship and the desire to serve; keep distinct speakers and personal addresses visible."
+        },
+        {
+          "key": "source:BH03383",
+          "why": "Give space to longing and grief, then to companionship and the desire to serve; keep distinct speakers and personal addresses visible."
+        },
+        {
+          "key": "source:BH01237",
+          "why": "Give space to longing and grief, then to companionship and the desire to serve; keep distinct speakers and personal addresses visible."
+        },
+        {
+          "key": "source:BH02325",
+          "why": "Give space to longing and grief, then to companionship and the desire to serve; keep distinct speakers and personal addresses visible."
+        },
+        {
+          "key": "source:BH02860",
+          "why": "Give space to longing and grief, then to companionship and the desire to serve; keep distinct speakers and personal addresses visible."
+        },
+        {
+          "key": "source:BH04231",
+          "why": "Give space to longing and grief, then to companionship and the desire to serve; keep distinct speakers and personal addresses visible."
+        },
+        {
+          "key": "source:BH09120",
+          "why": "Give space to longing and grief, then to companionship and the desire to serve; keep distinct speakers and personal addresses visible."
+        },
+        {
+          "key": "source:AB01293",
+          "why": "Give space to longing and grief, then to companionship and the desire to serve; keep distinct speakers and personal addresses visible."
+        },
+        {
+          "key": "source:AB03979",
+          "why": "Give space to longing and grief, then to companionship and the desire to serve; keep distinct speakers and personal addresses visible."
+        },
+        {
+          "key": "source:AB05683",
+          "why": "Give space to longing and grief, then to companionship and the desire to serve; keep distinct speakers and personal addresses visible."
+        },
+        {
+          "key": "source:AB05828",
+          "why": "Give space to longing and grief, then to companionship and the desire to serve; keep distinct speakers and personal addresses visible."
+        },
+        {
+          "key": "source:AB06168",
+          "why": "Give space to longing and grief, then to companionship and the desire to serve; keep distinct speakers and personal addresses visible."
+        },
+        {
+          "key": "source:AB07069",
+          "why": "Give space to longing and grief, then to companionship and the desire to serve; keep distinct speakers and personal addresses visible."
+        },
+        {
+          "key": "source:AB07835",
+          "why": "Give space to longing and grief, then to companionship and the desire to serve; keep distinct speakers and personal addresses visible."
+        },
+        {
+          "key": "source:AB09175",
+          "why": "Give space to longing and grief, then to companionship and the desire to serve; keep distinct speakers and personal addresses visible."
+        },
+        {
+          "key": "source:AB10684",
+          "why": "Give space to longing and grief, then to companionship and the desire to serve; keep distinct speakers and personal addresses visible."
+        },
+        {
+          "key": "source:AB11762",
+          "why": "Give space to longing and grief, then to companionship and the desire to serve; keep distinct speakers and personal addresses visible."
+        },
+        {
+          "key": "source:AB11973",
+          "why": "Give space to longing and grief, then to companionship and the desire to serve; keep distinct speakers and personal addresses visible."
+        },
+        {
+          "key": "source:AB12141",
+          "why": "Give space to longing and grief, then to companionship and the desire to serve; keep distinct speakers and personal addresses visible."
+        },
+        {
+          "key": "source:AB12146",
+          "why": "Give space to longing and grief, then to companionship and the desire to serve; keep distinct speakers and personal addresses visible."
+        },
+        {
+          "key": "source:AB12224",
+          "why": "Give space to longing and grief, then to companionship and the desire to serve; keep distinct speakers and personal addresses visible."
+        },
+        {
+          "key": "source:AB03490",
+          "why": "Give space to longing and grief, then to companionship and the desire to serve; keep distinct speakers and personal addresses visible."
+        },
+        {
+          "key": "source:AB10624",
+          "why": "Give space to longing and grief, then to companionship and the desire to serve; keep distinct speakers and personal addresses visible."
+        },
+        {
+          "key": "source:BH00737",
+          "why": "Give space to longing and grief, then to companionship and the desire to serve; keep distinct speakers and personal addresses visible."
+        },
+        {
+          "key": "source:BH00422",
+          "why": "Give space to longing and grief, then to companionship and the desire to serve; keep distinct speakers and personal addresses visible."
+        },
+        {
+          "key": "source:BH05402",
+          "why": "Give space to longing and grief, then to companionship and the desire to serve; keep distinct speakers and personal addresses visible."
+        },
+        {
+          "key": "source:AB04710",
+          "why": "Give space to longing and grief, then to companionship and the desire to serve; keep distinct speakers and personal addresses visible."
+        },
+        {
+          "key": "source:AB03716",
+          "why": "Give space to longing and grief, then to companionship and the desire to serve; keep distinct speakers and personal addresses visible."
+        },
+        {
+          "key": "source:AB02760",
+          "why": "Give space to longing and grief, then to companionship and the desire to serve; keep distinct speakers and personal addresses visible."
+        },
+        {
+          "key": "source:AB04477",
+          "why": "Give space to longing and grief, then to companionship and the desire to serve; keep distinct speakers and personal addresses visible."
+        },
+        {
+          "key": "source:AB07372",
+          "why": "Give space to longing and grief, then to companionship and the desire to serve; keep distinct speakers and personal addresses visible."
+        },
+        {
+          "key": "source:AB06012",
+          "why": "Give space to longing and grief, then to companionship and the desire to serve; keep distinct speakers and personal addresses visible."
+        },
+        {
+          "key": "source:AB00156",
+          "why": "Give space to longing and grief, then to companionship and the desire to serve; keep distinct speakers and personal addresses visible."
+        },
+        {
+          "key": "source:AB04804",
+          "why": "Give space to longing and grief, then to companionship and the desire to serve; keep distinct speakers and personal addresses visible."
+        },
+        {
+          "key": "source:AB08429",
+          "why": "Give space to longing and grief, then to companionship and the desire to serve; keep distinct speakers and personal addresses visible."
+        },
+        {
+          "key": "source:BH09498",
+          "why": "Give space to longing and grief, then to companionship and the desire to serve; keep distinct speakers and personal addresses visible."
+        },
+        {
+          "key": "source:BH01267",
+          "why": "Let complete prayers carry the movement from longing and acknowledgment of limits to steadfastness and useful action."
+        },
+        {
+          "key": "source:BH02036",
+          "why": "Let complete prayers carry the movement from longing and acknowledgment of limits to steadfastness and useful action."
+        },
+        {
+          "key": "source:BH02053",
+          "why": "Let complete prayers carry the movement from longing and acknowledgment of limits to steadfastness and useful action."
+        },
+        {
+          "key": "source:BH02143",
+          "why": "Let complete prayers carry the movement from longing and acknowledgment of limits to steadfastness and useful action."
+        },
+        {
+          "key": "source:BH02261",
+          "why": "Let complete prayers carry the movement from longing and acknowledgment of limits to steadfastness and useful action."
+        },
+        {
+          "key": "source:BH02337",
+          "why": "Let complete prayers carry the movement from longing and acknowledgment of limits to steadfastness and useful action."
+        },
+        {
+          "key": "source:BH03298",
+          "why": "Let complete prayers carry the movement from longing and acknowledgment of limits to steadfastness and useful action."
+        },
+        {
+          "key": "source:BH03721",
+          "why": "Let complete prayers carry the movement from longing and acknowledgment of limits to steadfastness and useful action."
+        },
+        {
+          "key": "source:BH03731",
+          "why": "Let complete prayers carry the movement from longing and acknowledgment of limits to steadfastness and useful action."
+        },
+        {
+          "key": "source:BH03749",
+          "why": "Let complete prayers carry the movement from longing and acknowledgment of limits to steadfastness and useful action."
+        },
+        {
+          "key": "source:BH03764",
+          "why": "Let complete prayers carry the movement from longing and acknowledgment of limits to steadfastness and useful action."
+        },
+        {
+          "key": "source:BH03869",
+          "why": "Let complete prayers carry the movement from longing and acknowledgment of limits to steadfastness and useful action."
+        },
+        {
+          "key": "source:BH04232",
+          "why": "Let complete prayers carry the movement from longing and acknowledgment of limits to steadfastness and useful action."
+        },
+        {
+          "key": "source:BH04698",
+          "why": "Let complete prayers carry the movement from longing and acknowledgment of limits to steadfastness and useful action."
+        },
+        {
+          "key": "source:BH04817",
+          "why": "Let complete prayers carry the movement from longing and acknowledgment of limits to steadfastness and useful action."
+        },
+        {
+          "key": "source:BH05110",
+          "why": "Let complete prayers carry the movement from longing and acknowledgment of limits to steadfastness and useful action."
+        },
+        {
+          "key": "source:BH05111",
+          "why": "Let complete prayers carry the movement from longing and acknowledgment of limits to steadfastness and useful action."
+        },
+        {
+          "key": "source:BH05269",
+          "why": "Let complete prayers carry the movement from longing and acknowledgment of limits to steadfastness and useful action."
+        },
+        {
+          "key": "source:BH05353",
+          "why": "Let complete prayers carry the movement from longing and acknowledgment of limits to steadfastness and useful action."
+        },
+        {
+          "key": "source:BH05399",
+          "why": "Let complete prayers carry the movement from longing and acknowledgment of limits to steadfastness and useful action."
+        },
+        {
+          "key": "source:BH05483",
+          "why": "Let complete prayers carry the movement from longing and acknowledgment of limits to steadfastness and useful action."
+        },
+        {
+          "key": "source:BH05885",
+          "why": "Let complete prayers carry the movement from longing and acknowledgment of limits to steadfastness and useful action."
+        },
+        {
+          "key": "source:BH05923",
+          "why": "Let complete prayers carry the movement from longing and acknowledgment of limits to steadfastness and useful action."
+        },
+        {
+          "key": "source:BH05993",
+          "why": "Restore both paragraphs of the split sentence exactly."
+        },
+        {
+          "key": "source:BH06297",
+          "why": "Let complete prayers carry the movement from longing and acknowledgment of limits to steadfastness and useful action."
+        },
+        {
+          "key": "source:BH06349",
+          "why": "Let complete prayers carry the movement from longing and acknowledgment of limits to steadfastness and useful action."
+        },
+        {
+          "key": "source:BH06661",
+          "why": "Let complete prayers carry the movement from longing and acknowledgment of limits to steadfastness and useful action."
+        },
+        {
+          "key": "source:BH06777",
+          "why": "Let complete prayers carry the movement from longing and acknowledgment of limits to steadfastness and useful action."
+        },
+        {
+          "key": "source:BH07039",
+          "why": "Let complete prayers carry the movement from longing and acknowledgment of limits to steadfastness and useful action."
+        },
+        {
+          "key": "source:BH07118",
+          "why": "Let complete prayers carry the movement from longing and acknowledgment of limits to steadfastness and useful action."
+        },
+        {
+          "key": "source:BH07235",
+          "why": "Let complete prayers carry the movement from longing and acknowledgment of limits to steadfastness and useful action."
+        },
+        {
+          "key": "source:BH07656",
+          "why": "Let complete prayers carry the movement from longing and acknowledgment of limits to steadfastness and useful action."
+        },
+        {
+          "key": "source:BH07745",
+          "why": "Let complete prayers carry the movement from longing and acknowledgment of limits to steadfastness and useful action."
+        },
+        {
+          "key": "source:BH07751",
+          "why": "Let complete prayers carry the movement from longing and acknowledgment of limits to steadfastness and useful action."
+        },
+        {
+          "key": "source:BH07777",
+          "why": "Let complete prayers carry the movement from longing and acknowledgment of limits to steadfastness and useful action."
+        },
+        {
+          "key": "source:BH08140",
+          "why": "Let complete prayers carry the movement from longing and acknowledgment of limits to steadfastness and useful action."
+        },
+        {
+          "key": "source:BH08260",
+          "why": "Preserve the source’s omitted opening visibly; no earlier missing text is manufactured."
+        },
+        {
+          "key": "source:BH08956",
+          "why": "Let complete prayers carry the movement from longing and acknowledgment of limits to steadfastness and useful action."
+        },
+        {
+          "key": "source:BH10970",
+          "why": "Let complete prayers carry the movement from longing and acknowledgment of limits to steadfastness and useful action."
+        },
+        {
+          "key": "source:BH00143",
+          "why": "Let complete prayers carry the movement from longing and acknowledgment of limits to steadfastness and useful action."
+        },
+        {
+          "key": "source:BH00791",
+          "why": "Let complete prayers carry the movement from longing and acknowledgment of limits to steadfastness and useful action."
+        },
+        {
+          "key": "source:BH02609",
+          "why": "Let complete prayers carry the movement from longing and acknowledgment of limits to steadfastness and useful action."
+        },
+        {
+          "key": "source:BH03015",
+          "why": "Let complete prayers carry the movement from longing and acknowledgment of limits to steadfastness and useful action."
+        },
+        {
+          "key": "source:BH04159",
+          "why": "Let complete prayers carry the movement from longing and acknowledgment of limits to steadfastness and useful action."
+        },
+        {
+          "key": "source:BH05469",
+          "why": "Let complete prayers carry the movement from longing and acknowledgment of limits to steadfastness and useful action."
+        },
+        {
+          "key": "source:BH05987",
+          "why": "Let complete prayers carry the movement from longing and acknowledgment of limits to steadfastness and useful action."
+        },
+        {
+          "key": "source:BH07472",
+          "why": "Let complete prayers carry the movement from longing and acknowledgment of limits to steadfastness and useful action."
+        },
+        {
+          "key": "source:AB03309",
+          "why": "Let complete prayers carry the movement from longing and acknowledgment of limits to steadfastness and useful action."
+        },
+        {
+          "key": "source:AB03213",
+          "why": "Let complete prayers carry the movement from longing and acknowledgment of limits to steadfastness and useful action."
+        },
+        {
+          "key": "source:AB04954",
+          "why": "Let complete prayers carry the movement from longing and acknowledgment of limits to steadfastness and useful action."
+        },
+        {
+          "key": "source:AB05441",
+          "why": "Let complete prayers carry the movement from longing and acknowledgment of limits to steadfastness and useful action."
+        },
+        {
+          "key": "source:AB00848",
+          "why": "Let complete prayers carry the movement from longing and acknowledgment of limits to steadfastness and useful action."
+        },
+        {
+          "key": "source:AB02084",
+          "why": "Let complete prayers carry the movement from longing and acknowledgment of limits to steadfastness and useful action."
+        },
+        {
+          "key": "source:AB01370",
+          "why": "Let complete prayers carry the movement from longing and acknowledgment of limits to steadfastness and useful action."
+        },
+        {
+          "key": "source:AB01461",
+          "why": "Let complete prayers carry the movement from longing and acknowledgment of limits to steadfastness and useful action."
+        },
+        {
+          "key": "source:AB03892",
+          "why": "Let complete prayers carry the movement from longing and acknowledgment of limits to steadfastness and useful action."
+        },
+        {
+          "key": "source:AB06460",
+          "why": "Let complete prayers carry the movement from longing and acknowledgment of limits to steadfastness and useful action."
+        },
+        {
+          "key": "source:BH00600",
+          "why": "Let complete prayers carry the movement from longing and acknowledgment of limits to steadfastness and useful action."
+        },
+        {
+          "key": "source:BH01046",
+          "why": "Keep natural means—the sun and water—beside the appeal to divine grace."
+        },
+        {
+          "key": "source:BH01445",
+          "why": "Let complete prayers carry the movement from longing and acknowledgment of limits to steadfastness and useful action."
+        },
+        {
+          "key": "source:BH02056",
+          "why": "Let complete prayers carry the movement from longing and acknowledgment of limits to steadfastness and useful action."
+        },
+        {
+          "key": "source:BH02075",
+          "why": "Let complete prayers carry the movement from longing and acknowledgment of limits to steadfastness and useful action."
+        },
+        {
+          "key": "source:BH02464",
+          "why": "Let complete prayers carry the movement from longing and acknowledgment of limits to steadfastness and useful action."
+        },
+        {
+          "key": "source:BH03296",
+          "why": "Let complete prayers carry the movement from longing and acknowledgment of limits to steadfastness and useful action."
+        },
+        {
+          "key": "source:BH03598",
+          "why": "Let complete prayers carry the movement from longing and acknowledgment of limits to steadfastness and useful action."
+        },
+        {
+          "key": "source:BH04773",
+          "why": "Let complete prayers carry the movement from longing and acknowledgment of limits to steadfastness and useful action."
+        },
+        {
+          "key": "source:BH04963",
+          "why": "Let complete prayers carry the movement from longing and acknowledgment of limits to steadfastness and useful action."
+        },
+        {
+          "key": "source:BH05125",
+          "why": "Let complete prayers carry the movement from longing and acknowledgment of limits to steadfastness and useful action."
+        },
+        {
+          "key": "source:BH05563",
+          "why": "Let complete prayers carry the movement from longing and acknowledgment of limits to steadfastness and useful action."
+        },
+        {
+          "key": "source:BH05861",
+          "why": "Let complete prayers carry the movement from longing and acknowledgment of limits to steadfastness and useful action."
+        },
+        {
+          "key": "source:BH05946",
+          "why": "Let complete prayers carry the movement from longing and acknowledgment of limits to steadfastness and useful action."
+        },
+        {
+          "key": "source:BH06231",
+          "why": "Let complete prayers carry the movement from longing and acknowledgment of limits to steadfastness and useful action."
+        },
+        {
+          "key": "source:BH06482",
+          "why": "Let complete prayers carry the movement from longing and acknowledgment of limits to steadfastness and useful action."
+        },
+        {
+          "key": "source:BH07165",
+          "why": "Let complete prayers carry the movement from longing and acknowledgment of limits to steadfastness and useful action."
+        },
+        {
+          "key": "source:BH07407",
+          "why": "Let complete prayers carry the movement from longing and acknowledgment of limits to steadfastness and useful action."
+        },
+        {
+          "key": "source:BH10053",
+          "why": "Let complete prayers carry the movement from longing and acknowledgment of limits to steadfastness and useful action."
+        },
+        {
+          "key": "source:BH10506",
+          "why": "Let complete prayers carry the movement from longing and acknowledgment of limits to steadfastness and useful action."
+        },
+        {
+          "key": "source:BH11157",
+          "why": "Let complete prayers carry the movement from longing and acknowledgment of limits to steadfastness and useful action."
+        },
+        {
+          "key": "source:BH05416",
+          "why": "Let complete prayers carry the movement from longing and acknowledgment of limits to steadfastness and useful action."
+        },
+        {
+          "key": "source:BH06590",
+          "why": "Let complete prayers carry the movement from longing and acknowledgment of limits to steadfastness and useful action."
+        },
+        {
+          "key": "source:AB05488",
+          "why": "Let complete prayers carry the movement from longing and acknowledgment of limits to steadfastness and useful action."
+        },
+        {
+          "key": "source:AB06010",
+          "why": "Let complete prayers carry the movement from longing and acknowledgment of limits to steadfastness and useful action."
+        },
+        {
+          "key": "source:BH00022",
+          "why": "Explore recognition, hearing and renewal together, retaining the historical and theological setting of each assurance."
+        },
+        {
+          "key": "source:BH03033",
+          "why": "Explore recognition, hearing and renewal together, retaining the historical and theological setting of each assurance."
+        },
+        {
+          "key": "source:BH03732",
+          "why": "Explore recognition, hearing and renewal together, retaining the historical and theological setting of each assurance."
+        },
+        {
+          "key": "source:BH02233",
+          "why": "Explore recognition, hearing and renewal together, retaining the historical and theological setting of each assurance."
+        },
+        {
+          "key": "source:BH02791",
+          "why": "Explore recognition, hearing and renewal together, retaining the historical and theological setting of each assurance."
+        },
+        {
+          "key": "source:BH09066",
+          "why": "Explore recognition, hearing and renewal together, retaining the historical and theological setting of each assurance."
+        },
+        {
+          "key": "source:BH00725",
+          "why": "Explore recognition, hearing and renewal together, retaining the historical and theological setting of each assurance."
+        },
+        {
+          "key": "source:BH00829",
+          "why": "Explore recognition, hearing and renewal together, retaining the historical and theological setting of each assurance."
+        },
+        {
+          "key": "source:BH03191",
+          "why": "Explore recognition, hearing and renewal together, retaining the historical and theological setting of each assurance."
+        },
+        {
+          "key": "source:BH01836",
+          "why": "Explore recognition, hearing and renewal together, retaining the historical and theological setting of each assurance."
+        },
+        {
+          "key": "source:BH02795",
+          "why": "Explore recognition, hearing and renewal together, retaining the historical and theological setting of each assurance."
+        },
+        {
+          "key": "source:BH02902",
+          "why": "Explore recognition, hearing and renewal together, retaining the historical and theological setting of each assurance."
+        },
+        {
+          "key": "source:BH03757",
+          "why": "Explore recognition, hearing and renewal together, retaining the historical and theological setting of each assurance."
+        },
+        {
+          "key": "source:BH04510",
+          "why": "Explore recognition, hearing and renewal together, retaining the historical and theological setting of each assurance."
+        },
+        {
+          "key": "source:BH02897",
+          "why": "Explore recognition, hearing and renewal together, retaining the historical and theological setting of each assurance."
+        },
+        {
+          "key": "source:BH01976",
+          "why": "Explore recognition, hearing and renewal together, retaining the historical and theological setting of each assurance."
+        },
+        {
+          "key": "source:BH03098",
+          "why": "Explore recognition, hearing and renewal together, retaining the historical and theological setting of each assurance."
+        },
+        {
+          "key": "source:BH02484",
+          "why": "Explore recognition, hearing and renewal together, retaining the historical and theological setting of each assurance."
+        },
+        {
+          "key": "source:BH03331",
+          "why": "Explore recognition, hearing and renewal together, retaining the historical and theological setting of each assurance."
+        },
+        {
+          "key": "source:BH02116",
+          "why": "Explore recognition, hearing and renewal together, retaining the historical and theological setting of each assurance."
+        },
+        {
+          "key": "source:BH03871",
+          "why": "Explore recognition, hearing and renewal together, retaining the historical and theological setting of each assurance."
+        },
+        {
+          "key": "source:BH01353",
+          "why": "Explore recognition, hearing and renewal together, retaining the historical and theological setting of each assurance."
+        },
+        {
+          "key": "source:BH06095",
+          "why": "Explore recognition, hearing and renewal together, retaining the historical and theological setting of each assurance."
+        },
+        {
+          "key": "source:BH04229",
+          "why": "Explore recognition, hearing and renewal together, retaining the historical and theological setting of each assurance."
+        },
+        {
+          "key": "source:BH00915",
+          "why": "Explore recognition, hearing and renewal together, retaining the historical and theological setting of each assurance."
+        },
+        {
+          "key": "source:AB03369",
+          "why": "Explore recognition, hearing and renewal together, retaining the historical and theological setting of each assurance."
+        },
+        {
+          "key": "source:ABU1450",
+          "why": "Explore recognition, hearing and renewal together, retaining the historical and theological setting of each assurance."
+        },
+        {
+          "key": "source:AB01909",
+          "why": "Explore recognition, hearing and renewal together, retaining the historical and theological setting of each assurance."
+        },
+        {
+          "key": "source:AB00778",
+          "why": "Explore recognition, hearing and renewal together, retaining the historical and theological setting of each assurance."
+        },
+        {
+          "key": "source:AB01650",
+          "why": "Explore recognition, hearing and renewal together, retaining the historical and theological setting of each assurance."
+        },
+        {
+          "key": "source:AB05448",
+          "why": "Explore recognition, hearing and renewal together, retaining the historical and theological setting of each assurance."
+        },
+        {
+          "key": "source:AB06490",
+          "why": "Move from encouragement toward the humility and effort of service, allowing different letters to illuminate one another."
+        },
+        {
+          "key": "source:AB01715",
+          "why": "Move from encouragement toward the humility and effort of service, allowing different letters to illuminate one another."
+        },
+        {
+          "key": "source:AB03987",
+          "why": "Move from encouragement toward the humility and effort of service, allowing different letters to illuminate one another."
+        },
+        {
+          "key": "source:ABU1259",
+          "why": "Move from encouragement toward the humility and effort of service, allowing different letters to illuminate one another."
+        },
+        {
+          "key": "source:AB02008",
+          "why": "Move from encouragement toward the humility and effort of service, allowing different letters to illuminate one another."
+        },
+        {
+          "key": "source:AB03805",
+          "why": "Move from encouragement toward the humility and effort of service, allowing different letters to illuminate one another."
+        },
+        {
+          "key": "source:AB00837",
+          "why": "Move from encouragement toward the humility and effort of service, allowing different letters to illuminate one another."
+        },
+        {
+          "key": "source:AB07032",
+          "why": "Move from encouragement toward the humility and effort of service, allowing different letters to illuminate one another."
+        },
+        {
+          "key": "source:AB04540",
+          "why": "Move from encouragement toward the humility and effort of service, allowing different letters to illuminate one another."
+        },
+        {
+          "key": "source:AB07299",
+          "why": "Move from encouragement toward the humility and effort of service, allowing different letters to illuminate one another."
+        },
+        {
+          "key": "source:AB08299",
+          "why": "Move from encouragement toward the humility and effort of service, allowing different letters to illuminate one another."
+        },
+        {
+          "key": "source:BH02584",
+          "why": "Move from encouragement toward the humility and effort of service, allowing different letters to illuminate one another."
+        },
+        {
+          "key": "source:BH01726",
+          "why": "Move from encouragement toward the humility and effort of service, allowing different letters to illuminate one another."
+        },
+        {
+          "key": "source:BH00861",
+          "why": "Move from encouragement toward the humility and effort of service, allowing different letters to illuminate one another."
+        },
+        {
+          "key": "source:AB00979",
+          "why": "Move from encouragement toward the humility and effort of service, allowing different letters to illuminate one another."
+        },
+        {
+          "key": "source:AB02765",
+          "why": "Move from encouragement toward the humility and effort of service, allowing different letters to illuminate one another."
+        },
+        {
+          "key": "source:AB01013",
+          "why": "Move from encouragement toward the humility and effort of service, allowing different letters to illuminate one another."
+        },
+        {
+          "key": "source:BH00944",
+          "why": "Move from encouragement toward the humility and effort of service, allowing different letters to illuminate one another."
+        },
+        {
+          "key": "source:ABU1276",
+          "why": "Move from encouragement toward the humility and effort of service, allowing different letters to illuminate one another."
+        },
+        {
+          "key": "source:AB02856",
+          "why": "Move from encouragement toward the humility and effort of service, allowing different letters to illuminate one another."
+        },
+        {
+          "key": "source:AB04054",
+          "why": "Move from encouragement toward the humility and effort of service, allowing different letters to illuminate one another."
+        },
+        {
+          "key": "source:BH09404",
+          "why": "Move from encouragement toward the humility and effort of service, allowing different letters to illuminate one another."
+        },
+        {
+          "key": "source:BH00345",
+          "why": "Move from encouragement toward the humility and effort of service, allowing different letters to illuminate one another."
+        },
+        {
+          "key": "source:BH05699",
+          "why": "Move from encouragement toward the humility and effort of service, allowing different letters to illuminate one another."
+        },
+        {
+          "key": "source:BH07312",
+          "why": "Move from encouragement toward the humility and effort of service, allowing different letters to illuminate one another."
+        },
+        {
+          "key": "source:BH06938",
+          "why": "Move from encouragement toward the humility and effort of service, allowing different letters to illuminate one another."
+        },
+        {
+          "key": "source:BH06892",
+          "why": "Move from encouragement toward the humility and effort of service, allowing different letters to illuminate one another."
+        },
+        {
+          "key": "source:BH07248",
+          "why": "Move from encouragement toward the humility and effort of service, allowing different letters to illuminate one another."
+        },
+        {
+          "key": "source:BH08794",
+          "why": "Move from encouragement toward the humility and effort of service, allowing different letters to illuminate one another."
+        },
+        {
+          "key": "source:BH01185",
+          "why": "Consider how replies become lasting encouragement, opening the reader to prayer for guidance rather than control of circumstances."
+        },
+        {
+          "key": "source:BH02888",
+          "why": "Consider how replies become lasting encouragement, opening the reader to prayer for guidance rather than control of circumstances."
+        },
+        {
+          "key": "source:BH02355",
+          "why": "Consider how replies become lasting encouragement, opening the reader to prayer for guidance rather than control of circumstances."
+        },
+        {
+          "key": "source:BH04124",
+          "why": "Consider how replies become lasting encouragement, opening the reader to prayer for guidance rather than control of circumstances."
+        },
+        {
+          "key": "source:BH04766",
+          "why": "Consider how replies become lasting encouragement, opening the reader to prayer for guidance rather than control of circumstances."
+        },
+        {
+          "key": "source:BH04847",
+          "why": "Consider how replies become lasting encouragement, opening the reader to prayer for guidance rather than control of circumstances."
+        },
+        {
+          "key": "source:BH06825",
+          "why": "Consider how replies become lasting encouragement, opening the reader to prayer for guidance rather than control of circumstances."
+        },
+        {
+          "key": "source:BH10826",
+          "why": "Consider how replies become lasting encouragement, opening the reader to prayer for guidance rather than control of circumstances."
+        },
+        {
+          "key": "source:BH02822",
+          "why": "Consider how replies become lasting encouragement, opening the reader to prayer for guidance rather than control of circumstances."
+        },
+        {
+          "key": "source:BH01987",
+          "why": "Consider how replies become lasting encouragement, opening the reader to prayer for guidance rather than control of circumstances."
+        },
+        {
+          "key": "source:BH01922",
+          "why": "Consider how replies become lasting encouragement, opening the reader to prayer for guidance rather than control of circumstances."
+        },
+        {
+          "key": "source:BH03864",
+          "why": "Consider how replies become lasting encouragement, opening the reader to prayer for guidance rather than control of circumstances."
+        },
+        {
+          "key": "source:BH03895",
+          "why": "Consider how replies become lasting encouragement, opening the reader to prayer for guidance rather than control of circumstances."
+        },
+        {
+          "key": "source:BH04504",
+          "why": "Consider how replies become lasting encouragement, opening the reader to prayer for guidance rather than control of circumstances."
+        },
+        {
+          "key": "source:BH05301",
+          "why": "Consider how replies become lasting encouragement, opening the reader to prayer for guidance rather than control of circumstances."
+        },
+        {
+          "key": "source:BH02347",
+          "why": "Return to hearing as a summons to respond, with gratitude and conduct rather than a merely passive reception of words."
+        },
+        {
+          "key": "source:BH02767",
+          "why": "Return to hearing as a summons to respond, with gratitude and conduct rather than a merely passive reception of words."
+        },
+        {
+          "key": "source:BH02916",
+          "why": "Return to hearing as a summons to respond, with gratitude and conduct rather than a merely passive reception of words."
+        },
+        {
+          "key": "source:BH02919",
+          "why": "Return to hearing as a summons to respond, with gratitude and conduct rather than a merely passive reception of words."
+        },
+        {
+          "key": "source:BH03658",
+          "why": "Return to hearing as a summons to respond, with gratitude and conduct rather than a merely passive reception of words."
+        },
+        {
+          "key": "source:BH03794",
+          "why": "Return to hearing as a summons to respond, with gratitude and conduct rather than a merely passive reception of words."
+        },
+        {
+          "key": "source:BH03812",
+          "why": "Return to hearing as a summons to respond, with gratitude and conduct rather than a merely passive reception of words."
+        },
+        {
+          "key": "source:BH03879",
+          "why": "Return to hearing as a summons to respond, with gratitude and conduct rather than a merely passive reception of words."
+        },
+        {
+          "key": "source:BH04559",
+          "why": "Return to hearing as a summons to respond, with gratitude and conduct rather than a merely passive reception of words."
+        },
+        {
+          "key": "source:BH04865",
+          "why": "Return to hearing as a summons to respond, with gratitude and conduct rather than a merely passive reception of words."
+        },
+        {
+          "key": "source:BH05029",
+          "why": "Return to hearing as a summons to respond, with gratitude and conduct rather than a merely passive reception of words."
+        },
+        {
+          "key": "source:BH05037",
+          "why": "Return to hearing as a summons to respond, with gratitude and conduct rather than a merely passive reception of words."
+        },
+        {
+          "key": "source:BH05099",
+          "why": "Return to hearing as a summons to respond, with gratitude and conduct rather than a merely passive reception of words."
+        },
+        {
+          "key": "source:BH05179",
+          "why": "Return to hearing as a summons to respond, with gratitude and conduct rather than a merely passive reception of words."
+        },
+        {
+          "key": "source:BH05303",
+          "why": "Return to hearing as a summons to respond, with gratitude and conduct rather than a merely passive reception of words."
+        },
+        {
+          "key": "source:BH05516",
+          "why": "Return to hearing as a summons to respond, with gratitude and conduct rather than a merely passive reception of words."
+        },
+        {
+          "key": "source:BH05753",
+          "why": "Return to hearing as a summons to respond, with gratitude and conduct rather than a merely passive reception of words."
+        },
+        {
+          "key": "source:BH06045",
+          "why": "Return to hearing as a summons to respond, with gratitude and conduct rather than a merely passive reception of words."
+        },
+        {
+          "key": "source:BH06942",
+          "why": "Return to hearing as a summons to respond, with gratitude and conduct rather than a merely passive reception of words."
+        },
+        {
+          "key": "source:BH07294",
+          "why": "Return to hearing as a summons to respond, with gratitude and conduct rather than a merely passive reception of words."
+        },
+        {
+          "key": "source:BH07345",
+          "why": "Return to hearing as a summons to respond, with gratitude and conduct rather than a merely passive reception of words."
+        },
+        {
+          "key": "source:BH07496",
+          "why": "Return to hearing as a summons to respond, with gratitude and conduct rather than a merely passive reception of words."
+        },
+        {
+          "key": "source:BH07631",
+          "why": "Return to hearing as a summons to respond, with gratitude and conduct rather than a merely passive reception of words."
+        },
+        {
+          "key": "source:BH08055",
+          "why": "Return to hearing as a summons to respond, with gratitude and conduct rather than a merely passive reception of words."
+        },
+        {
+          "key": "source:BH08065",
+          "why": "Return to hearing as a summons to respond, with gratitude and conduct rather than a merely passive reception of words."
+        },
+        {
+          "key": "source:BH11604",
+          "why": "Return to hearing as a summons to respond, with gratitude and conduct rather than a merely passive reception of words."
+        },
+        {
+          "key": "source:BH11757",
+          "why": "Return to hearing as a summons to respond, with gratitude and conduct rather than a merely passive reception of words."
+        },
+        {
+          "key": "source:AB05151",
+          "why": "Test the meaning of spiritual power through thanksgiving in deeds, consultation, forgiveness, justice and kindness."
+        },
+        {
+          "key": "source:AB11517",
+          "why": "Test the meaning of spiritual power through thanksgiving in deeds, consultation, forgiveness, justice and kindness."
+        },
+        {
+          "key": "source:AB01539",
+          "why": "Test the meaning of spiritual power through thanksgiving in deeds, consultation, forgiveness, justice and kindness."
+        },
+        {
+          "key": "source:AB12129",
+          "why": "Test the meaning of spiritual power through thanksgiving in deeds, consultation, forgiveness, justice and kindness."
+        },
+        {
+          "key": "source:ABU3536",
+          "why": "Test the meaning of spiritual power through thanksgiving in deeds, consultation, forgiveness, justice and kindness."
+        },
+        {
+          "key": "source:ABU3118",
+          "why": "Test the meaning of spiritual power through thanksgiving in deeds, consultation, forgiveness, justice and kindness."
+        },
+        {
+          "key": "source:BH03509",
+          "why": "Test the meaning of spiritual power through thanksgiving in deeds, consultation, forgiveness, justice and kindness."
+        },
+        {
+          "key": "source:BH02107",
+          "why": "Test the meaning of spiritual power through thanksgiving in deeds, consultation, forgiveness, justice and kindness."
+        },
+        {
+          "key": "source:BH04168",
+          "why": "Test the meaning of spiritual power through thanksgiving in deeds, consultation, forgiveness, justice and kindness."
+        },
+        {
+          "key": "source:AB01832",
+          "why": "Test the meaning of spiritual power through thanksgiving in deeds, consultation, forgiveness, justice and kindness."
+        },
+        {
+          "key": "source:BH01954",
+          "why": "Retain the qualification that length of worship alone does not establish divine good pleasure."
+        },
+        {
+          "key": "source:BH02145",
+          "why": "Test the meaning of spiritual power through thanksgiving in deeds, consultation, forgiveness, justice and kindness."
+        },
+        {
+          "key": "source:BH07150",
+          "why": "Test the meaning of spiritual power through thanksgiving in deeds, consultation, forgiveness, justice and kindness."
+        },
+        {
+          "key": "source:BH07543",
+          "why": "Test the meaning of spiritual power through thanksgiving in deeds, consultation, forgiveness, justice and kindness."
+        },
+        {
+          "key": "source:BH04713",
+          "why": "Test the meaning of spiritual power through thanksgiving in deeds, consultation, forgiveness, justice and kindness."
+        },
+        {
+          "key": "source:BH02808",
+          "why": "Test the meaning of spiritual power through thanksgiving in deeds, consultation, forgiveness, justice and kindness."
+        },
+        {
+          "key": "source:BH01096",
+          "why": "Test the meaning of spiritual power through thanksgiving in deeds, consultation, forgiveness, justice and kindness."
+        },
+        {
+          "key": "source:BH02851",
+          "why": "Test the meaning of spiritual power through thanksgiving in deeds, consultation, forgiveness, justice and kindness."
+        },
+        {
+          "key": "source:BH04382",
+          "why": "Test the meaning of spiritual power through thanksgiving in deeds, consultation, forgiveness, justice and kindness."
+        },
+        {
+          "key": "source:BH06083",
+          "why": "Test the meaning of spiritual power through thanksgiving in deeds, consultation, forgiveness, justice and kindness."
+        },
+        {
+          "key": "source:AB00789",
+          "why": "Test the meaning of spiritual power through thanksgiving in deeds, consultation, forgiveness, justice and kindness."
+        },
+        {
+          "key": "source:AB02431",
+          "why": "Test the meaning of spiritual power through thanksgiving in deeds, consultation, forgiveness, justice and kindness."
+        },
+        {
+          "key": "source:BH01598",
+          "why": "Test the meaning of spiritual power through thanksgiving in deeds, consultation, forgiveness, justice and kindness."
+        },
+        {
+          "key": "source:BH01373",
+          "why": "Test the meaning of spiritual power through thanksgiving in deeds, consultation, forgiveness, justice and kindness."
+        },
+        {
+          "key": "source:BH01379",
+          "why": "Test the meaning of spiritual power through thanksgiving in deeds, consultation, forgiveness, justice and kindness."
+        },
+        {
+          "key": "source:BH01392",
+          "why": "Test the meaning of spiritual power through thanksgiving in deeds, consultation, forgiveness, justice and kindness."
+        },
+        {
+          "key": "source:BH03601",
+          "why": "Test the meaning of spiritual power through thanksgiving in deeds, consultation, forgiveness, justice and kindness."
+        },
+        {
+          "key": "source:BH05574",
+          "why": "Test the meaning of spiritual power through thanksgiving in deeds, consultation, forgiveness, justice and kindness."
+        },
+        {
+          "key": "source:BH05795",
+          "why": "Test the meaning of spiritual power through thanksgiving in deeds, consultation, forgiveness, justice and kindness."
+        },
+        {
+          "key": "source:BH03983",
+          "why": "Link discernment and dignity with the explicit refusal to defame others."
+        },
+        {
+          "key": "source:BH11768",
+          "why": "Close with compassion, forgiveness and the enduring fragrance of a good deed, inviting the reader to carry prayer into life."
+        },
+        {
+          "key": "selection:7ee17651edaef832ccd755f0",
+          "why": "Preserve the supplied quotations as unlinked readings, with their distinct citations and reported status; move from inward communion through reflection to effort and character."
+        },
+        {
+          "key": "selection:12145921c85630fcfbb334ac",
+          "why": "Preserve the supplied quotations as unlinked readings, with their distinct citations and reported status; move from inward communion through reflection to effort and character."
+        },
+        {
+          "key": "selection:e13abe36f84afa57900295fb",
+          "why": "Preserve the source’s identification of pilgrim notes and its existing omission; the reported steps are not upgraded to authoritative law."
+        },
+        {
+          "key": "selection:73898a85cfbb46c4089bbf75",
+          "why": "Preserve the supplied quotations as unlinked readings, with their distinct citations and reported status; move from inward communion through reflection to effort and character."
+        },
+        {
+          "key": "selection:66f4cde9580366ba4be4b72a",
+          "why": "Preserve the supplied quotations as unlinked readings, with their distinct citations and reported status; move from inward communion through reflection to effort and character."
+        },
+        {
+          "key": "selection:acca1066e208edf32e7cd0dd",
+          "why": "Preserve the supplied quotations as unlinked readings, with their distinct citations and reported status; move from inward communion through reflection to effort and character."
+        }
+      ],
+      "questions": [
+        "The opening asks why one should pray when God already knows every need. How do communion, gratitude, longing, recognition and action each offer a different way into that question?",
+        "What changes when the power of prayer is understood through qualities such as courage, kindness, insight or steadfastness? Which passages also resist reducing prayer solely to its observable effects?",
+        "How do the accounts of healing, material treatment, inevitable death and bereavement qualify one another? What might it mean to accompany someone in prayer while remaining open to an outcome neither person desires?",
+        "Many selections are replies to particular people, while others are revealed prayers, reported conversations or letters written on behalf of the Guardian. How do the speaker, source status and circumstances affect what you can responsibly draw from a passage?",
+        "Compare Matthew 6:5–15 and Qur’an 2:186 with these readings. How do sincerity, divine nearness, forgiveness and response shape the relationship between asking and living? Where do the texts retain distinct emphases?",
+        "Choose a prayer or counsel that could become an act of care, consultation or service. What would putting it into practice involve, and how might the connected subjects on the state of prayer, obligatory prayer or spiritual transformation deepen your inquiry?"
+      ],
+      "neighbors": [
+        {
+          "id": "AAA2181CBE0F4BFFAAFD92CC0FCB75B4",
+          "relationship": "recorded graph neighbor",
+          "evidence": [
+            "59ddf035f96957d490c78b81",
+            "09740163d2af135edba204ce",
+            "e67b164bb5082f4e505480f1"
+          ]
+        },
+        {
+          "id": "B7A38539E06DEF99A0FEFEB648DF4ABB",
+          "relationship": "recorded graph neighbor",
+          "evidence": [
+            "83ed85d676de7159489505db",
+            "e16a6b365c9b516f24cfcf9f",
+            "a03bf3e2e2e20424d20a42be"
+          ]
+        },
+        {
+          "id": "26E85C22B274E5695DA94BA1A3A0A343",
+          "relationship": "recorded graph neighbor",
+          "evidence": [
+            "b1100a5da57042009678ad07",
+            "358ca7632b8c2cb9a35e78dc",
+            "8f430dd92bf4a1814f2cdb0e"
+          ]
+        },
+        {
+          "id": "C3C780B59A3CE6204AC35349FEC37394",
+          "relationship": "recorded graph neighbor",
+          "evidence": [
+            "1b95268acd9ed1f0a5af9d43",
+            "80a62741e9ef1d6ef3a48acc",
+            "fa3a2837beeae8854a119421"
+          ]
+        },
+        {
+          "id": "C068EBF06ABC4693BF6C2868E2385C69",
+          "relationship": "recorded graph neighbor",
+          "evidence": [
+            "86f5b67d7ab7e5aa03065ff6",
+            "dc43940edf11d6fb18e3c5ab",
+            "e5920373ee8382ca3a6f1b46"
+          ]
+        },
+        {
+          "id": "7329FDEC013DEAD42EBB1EE8D4348E33",
+          "relationship": "recorded graph neighbor",
+          "evidence": [
+            "fc1603ba4da6db07229bb962",
+            "c9f5c1dac9ecf08ace310a1f",
+            "4850e7f68672aa63ba1185c4"
+          ]
+        }
+      ],
+      "references": [
+        {
+          "label": "1 · Matthew 6:5–15 · Prayer beyond display",
+          "url": "https://www.biblegateway.com/passage/?search=Matthew%206%3A5-15&version=KJV",
+          "note": "Read Matthew 6:5–15 in the King James Version. Jesus places prayer beyond public display and excessive words, while the prayer that follows embraces daily bread, forgiveness and deliverance. Compare this movement with the opening readings on joy rather than quantity, inward communion and the life that follows prayer. If God already knows what is needed, what might asking change in the person who prays? How does forgiveness connect a private act of devotion with relationships? Attend to each tradition’s own setting and forms: a shared concern for sincerity need not make their devotional practices interchangeable.",
+          "verified": "Read all eleven verses of Matthew 6:5–15 in the King James Version on Bible Gateway. Verified private prayer, the rejection of vain repetition, divine knowledge of need, daily bread, forgiveness and deliverance."
+        },
+        {
+          "label": "2 · Qur’an 2:186 · Nearness and response",
+          "url": "https://quran.com/en/al-baqarah/186",
+          "note": "Read Qur’an 2:186 with the Arabic and the displayed English rendering. The verse brings divine nearness and response to the caller together with the invitation to respond to God and believe, so that people may be guided. Compare this reciprocity with the collection’s letters of remembrance and its repeated requests for steadfastness, knowledge and service. What forms can a response take? How might the assurance of being heard coexist with uncertainty about a particular outcome? Read the surrounding passage as well, noticing the setting of fasting rather than detaching the verse from religious practice. The parallel invites attentive comparison without assuming that every account of prayer or revelation means the same thing.",
+          "verified": "Read Qur’an 2:186 in Arabic and the displayed English on Quran.com. Verified divine nearness, response to the caller, and the invitation to respond, believe and be guided. No translator name inferred."
+        }
+      ]
+    }
+  ]
+}
