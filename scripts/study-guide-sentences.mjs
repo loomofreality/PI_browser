@@ -1,5 +1,10 @@
 // Study-guide display context only: never changes source records or selections.
 import reviewedParagraphs from '../study-guides/sentence-paragraphs.json' with {type:'json'};
+const reviewedBySource=new Map();
+for(const entry of reviewedParagraphs.entries){
+ if(!reviewedBySource.has(entry.source))reviewedBySource.set(entry.source,[]);
+ reviewedBySource.get(entry.source).push(entry);
+}
 const segmenter=new Intl.Segmenter('en',{granularity:'sentence'});
 const abbreviation=/(?:\b(?:Mr|Mrs|Ms|Dr|Prof|Rev|St|Mt|No|Nos|Vol|vol|pp|p|cf|i\.e|e\.g)|\b[A-Z])\.$/u;
 const opening=/^[\s\d.\-–—‘’“”"'([{]*[\p{Lu}\p{N}]/u;
@@ -107,7 +112,8 @@ export function completeSentenceParagraphs(record,selected,reviews=reviewedParag
  // A reviewed source can contain a full stop between a dependent clause and
  // its main clause. Keep that exact paragraph together, failing on any change
  // of source version or wording instead of guessing a general grammar rule.
- for(const entry of reviews.filter(e=>e.source===record.id)){
+ const sourceReviews=reviews===reviewedParagraphs.entries?(reviewedBySource.get(record.id)||[]):reviews.filter(e=>e.source===record.id);
+ for(const entry of sourceReviews){
   const paragraph=record.en.paragraphs[entry.paragraph-1];
   if(record.enVersion!==entry.sourceVersion||paragraph?.plain!==entry.text)throw Error(`Stale reviewed sentence paragraph: ${record.id}:${entry.paragraph}`);
   const start=offsets[entry.paragraph-1];

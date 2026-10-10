@@ -1,6 +1,7 @@
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import {gzipSync,gunzipSync} from 'node:zlib';
+import {encodeGuideArchive,decodeGuideArchive} from './study-guide-archive.mjs';
 
 // Store quotation HTML once for both views. Verify exact reconstruction before
 // replacing a page payload; the reader receives the same escaped HTML as before.
@@ -46,8 +47,14 @@ export async function packStudyGuides(root,out){
     const file=path.join(directory,name);let bytes;
     try{bytes=await fs.readFile(file);}catch(error){if(error.code==='ENOENT')continue;throw error;}
     // Remove formatting whitespace only; string values and all source data stay exact.
-    const compact=Buffer.from(JSON.stringify(JSON.parse(bytes)));
-    await fs.writeFile(file+'.gz',pack(compact));await fs.unlink(file);
+    const value=JSON.parse(bytes);
+    if(name==='compiled.json'){
+      const archive=encodeGuideArchive(value);
+      if(JSON.stringify(decodeGuideArchive(archive))!==JSON.stringify(value))throw Error('Guide archive changed content');
+      await fs.writeFile(path.join(directory,'compiled.archive.json.gz'),pack(Buffer.from(JSON.stringify(archive))));
+      await fs.rm(file+'.gz',{force:true});
+    }else await fs.writeFile(file+'.gz',pack(Buffer.from(JSON.stringify(value))));
+    await fs.unlink(file);
   }
   await fs.copyFile(path.join(root,'scripts/compilation-guide-loader.mjs'),path.join(directory,'guide-loader.mjs'));
 }
