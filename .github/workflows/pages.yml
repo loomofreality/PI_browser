@@ -73,6 +73,8 @@ jobs:
         run: PI_INCREMENTAL=1 node --max-old-space-size=6144 scripts/build.mjs
       - name: Apply current interface to generated collection
         run: node scripts/deployment-cache.mjs refresh
+      - name: Prepare public files and retain separate audit records
+        run: node scripts/prepare-pages.mjs
       - name: Verify generated collection
         run: node --test tests/*.test.mjs
       - name: Keep only the verified active dataset in the deployment
@@ -83,6 +85,13 @@ jobs:
         with:
           path: ${{ env.GENERATED_PATHS }}
           key: pages-data-v2-${{ runner.os }}-${{ steps.inputs.outputs.compatible }}-${{ steps.inputs.outputs.key }}
+      - name: Preserve publication audit independently of the hosted site
+        uses: actions/upload-artifact@v4
+        with:
+          name: publication-audit-${{ github.sha }}
+          path: publication-audit/
+          retention-days: 90
+          if-no-files-found: error
       - name: Summarize deployment path
         env:
           CACHE_HIT: ${{ steps.generated.outputs.cache-hit }}
@@ -96,7 +105,7 @@ jobs:
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: dist
+          path: public-site
   deploy:
     environment:
       name: github-pages

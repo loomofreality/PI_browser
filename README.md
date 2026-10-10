@@ -53,9 +53,9 @@ Metadata is not invented. In particular, uncertain dates and original translatio
 
 ## Deployment
 
-`.github/workflows/pages.yml` builds and deploys on pushes to `main`. In repository Settings → Pages, select **GitHub Actions** as the source. The intended URL is `https://portlandiator.github.io/PI_browser/`. GitHub Pages for a private source repository requires an eligible GitHub plan; do not make a repository public implicitly. The workflow deploys only `dist/`, not raw inputs or project guidance.
+`.github/workflows/pages.yml` builds and deploys on pushes to `main`. In repository Settings → Pages, select **GitHub Actions** as the source. The intended URL is `https://portlandiator.github.io/PI_browser/`. GitHub Pages for a private source repository requires an eligible GitHub plan; do not make a repository public implicitly. The workflow builds into `dist/` and deploys only the verified `public-site/` prepared from it. Raw inputs, build state and study-guide audit exports are excluded from hosting.
 
-The published artifact must remain under GitHub Pages' 1 GB limit. Run the collection tests to check the artifact size and index integrity. Deployment is complete only after the workflow succeeds and the public URL is verified.
+The published artifact must remain under GitHub Pages' 1 GB limit. Run `node scripts/prepare-pages.mjs` before the collection tests to check the actual publication size and index integrity. Full audit records stay in `dist/` and are also preserved separately by commit/dataset in `publication-audit/`. GitHub keeps the separate audit artifact for 90 days; download a durable local copy. See [publication storage and live verification](docs/publication-storage.md). Deployment is complete only after the workflow succeeds and the public URL is verified.
 
 Interface-only deployments reuse an exact-match GitHub Actions cache of the generated collection, search shards, subject passages, PDF copies, manifests, and import reports. They copy the current `src/` files into the site and run the complete test suite against the restored data. The source archive is extracted for validation, but records, indexes, subject matches, and PDFs are not rebuilt or recopied from their sources. Interface files are never cached, so removed pages cannot survive from an earlier deployment.
 

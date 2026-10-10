@@ -1,4 +1,6 @@
 dist/
+public-site/
+publication-audit/
 node_modules/
 .tools/
 .qa/

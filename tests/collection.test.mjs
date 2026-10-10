@@ -73,10 +73,15 @@ test('build remains inside GitHub Pages size limit and shards are bounded',async
   if(!catalog)return;
   let size=0,maxShard=0;
   async function walk(folder){for(const entry of await fs.readdir(folder,{withFileTypes:true})){const file=path.join(folder,entry.name);if(entry.isDirectory())await walk(file);else{const bytes=(await fs.stat(file)).size;size+=bytes;if(file.includes(path.sep+'index'+path.sep))maxShard=Math.max(maxShard,bytes);}}}
-  // Local builds retain earlier datasets for open readers; CI deploys a clean build.
-  for(const entry of await fs.readdir(out,{withFileTypes:true})){
-    const file=path.join(out,entry.name);
-    if(entry.name==='collections')await walk(path.join(out,stats.dataset));
+  // Publication keeps its audits and build cache outside the upload directory.
+  // Refuse a stale staging folder from another dataset. Ordinary local builds
+  // without staging retain the previous complete-output size check.
+  let sizeRoot=out;
+  try{const marker=JSON.parse(await fs.readFile(path.join(root,'public-site/publication.json'),'utf8'));assert.equal(marker.dataset,stats.dataset);sizeRoot=path.join(root,'public-site');}
+  catch(error){if(error.code!=='ENOENT')throw error;}
+  for(const entry of await fs.readdir(sizeRoot,{withFileTypes:true})){
+    const file=path.join(sizeRoot,entry.name);
+    if(entry.name==='collections')await walk(path.join(sizeRoot,stats.dataset));
     else if(entry.isDirectory())await walk(file);
     else size+=(await fs.stat(file)).size;
   }
