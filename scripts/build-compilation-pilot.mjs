@@ -11,6 +11,7 @@ import {graphNeighborhood} from '../src/global-graph-layout.mjs';
 import {authorizedRanges,isAuthorizedParagraph} from '../src/translation-status.mjs';
 import {completeSentenceParagraphs,boundaryConcerns,locateSuppliedParagraphs} from './study-guide-sentences.mjs';
 import {studyGuideSelections,verifyCatalogueBaseline} from './study-guide-catalogue.mjs';
+import {selectStudyGuideQuotations} from './study-guide-selection.mjs';
 
 // Generate against the same versioned records used by the subject reader. A
 // changed quotation or subject membership must be reviewed before rebuilding.
@@ -43,10 +44,15 @@ const index=await read('subjects/index.json.gz');
 const subjectMap=new Map(index.subjects.map(s=>[s.id,s]));
 // Validate all authored subjects before replacing any previously built page.
 const subjectData=new Map();
+const selectedData=new Map();
 for(const config of editorial.subjects){
   const data=await read(`subjects/${config.id}.json.gz`);
   verifyCatalogueBaseline(data,catalogueBaseline);
   subjectData.set(config.id,data);
+  selectedData.set(config.id,await selectStudyGuideQuotations(data,config.selection,{
+    readReview:name=>fs.readFile(path.join(configDirectory,name)),
+    readRecord:id=>read('data/'+recordFilename(id))
+  }));
 }
 const linkSubject=id=>base+'subjects.html?subject='+encodeURIComponent(id);
 const digest=value=>createHash('sha256').update(value).digest('hex');
@@ -67,7 +73,8 @@ for(const config of editorial.subjects){
   if(!/^[a-z]+$/.test(config.slug))throw Error('Invalid slug');
   if(config.introduction.includes('\n'))throw Error('Expected a single introductory paragraph');
   const data=subjectData.get(config.id);
-  const selections=studyGuideSelections(data.selections);
+  const selections=selectedData.get(config.id);
+  const candidateCount=studyGuideSelections(data.selections).length;
   const groups=groupSelections(selections,data.sources);
   // Count the quotations a reader sees after source grouping, the stricter limit.
   const maxQuestions=Math.min(6,Math.max(0,groups.length-1));
@@ -183,20 +190,20 @@ for(const config of editorial.subjects){
     return `<li><a href="${esc(pilot?pilot.slug+'-pdf.html':linkSubject(subject.id))}">${esc(subject.name)}</a>${invitation?`<p>${esc(invitation)}</p>`:''}</li>`;
   });
   const references=config.references.map(r=>`<li><a href="${safeUrl(r.url)}">${esc(r.label)}</a><p>${esc(r.note)}</p></li>`).join('');
-  const counts=`${selections.length} selection${selections.length===1?'':'s'} · ${groups.length} reading ${groups.length===1?'entry':'entries'}`;
+  const counts=`${config.selection?`${selections.length} chosen quotations from ${candidateCount}`:`${selections.length} selection${selections.length===1?'':'s'}`} · ${groups.length} reading ${groups.length===1?'entry':'entries'}`;
   const heading=`<h1>${esc(config.displayTitle)}</h1><p class="meta compilation-count">${counts} · <a href="${esc(linkSubject(config.id))}">Current subject view ↗</a></p>`;
-  const sequenceNotes=`<details class="editorial"><summary>About this reading sequence</summary><p>${esc(config.arc)}</p><p>All currently public selections are retained. Linked selections expand to their surrounding sentences in the same source; overlapping sentences appear once. Ellipses mark separated ranges. Distinct records and unlinked quotations remain distinct. Expand a linked passage for its paragraph context. Incomplete source wording and unresolved supplied excerpts are flagged for review. Blue quotation text follows existing catalogue authorization markings.</p><ol>${config.order.map(x=>`<li>${esc(x.why)}</li>`).join('')}</ol></details>`;
+  const sequenceNotes=`<details class="editorial"><summary>About this reading sequence</summary><p>${esc(config.arc)}</p><p>${config.selection?`This guide contains ${selections.length} chosen quotations from the ${candidateCount} public selections, including every verified authorized translation. The complete original compilation remains available in Subject view.`:'All currently public selections are retained.'} Linked selections expand to their surrounding sentences in the same source; overlapping sentences appear once. Ellipses mark separated ranges. Distinct records and unlinked quotations remain distinct. Expand a linked passage for its paragraph context. Incomplete source wording and unresolved supplied excerpts are flagged for review. Blue quotation text follows existing catalogue authorization markings.</p><ol>${config.order.map(x=>`<li>${esc(x.why)}</li>`).join('')}</ol></details>`;
   const introduction=`<section class="introduction" aria-label="Editorial introduction"><p>${withReferences(config.introduction,config.references)}</p></section>`;
   const exploration=`<section class="exploration">${neighbors.length?`<h2>Continue exploring</h2><ul class="connected-subjects">${neighbors.join('')}</ul>`:''}${references?`<aside class="comparative"><h3>Comparative reading</h3><ul>${references}</ul></aside>`:''}</section>`;
   const questions=config.questions.length?`<section id="questions" class="questions"><p class="eyebrow">For thought and discussion</p><h2>Questions to carry forward</h2><ol>${config.questions.map(q=>`<li>${esc(q)}</li>`).join('')}</ol></section>`:'';
   const controls=`<div class="reading-heading"><h2>Selected passages</h2></div><div class="view-controls"><a class="action" href="${esc(linkSubject(config.id)+'&print=1')}" target="_blank" rel="noopener">Open as PDF</a><a class="action" href="${config.slug}-pdf.html">Try a study guide</a><span class="meta">The introduction and discussion questions appear only in the study guide’s PDF view.</span></div>`;
-  const body=`<p class="eyebrow">Editorial pilot · complete sample</p>${heading}${controls}${rendered.join('')}${sequenceNotes}`;
+  const body=`<p class="eyebrow">Editorial pilot · ${config.selection?'selected compilation':'complete sample'}</p>${heading}${controls}${rendered.join('')}${sequenceNotes}`;
   const pdfControls=`<div class="reading-heading"><h2>Selected passages</h2></div><div class="view-controls"><button class="action" id="print-compilation" disabled>Print / Save as PDF</button><a href="${esc(linkSubject(config.id))}">Back to subject</a>${questions?'<a href="#questions">Questions for reflection ↓</a>':''}<span id="print-status" class="meta" role="status">Preparing fonts…</span></div>`;
   const pdfBody=`${heading}<p class="pdf-label">Editorial introduction</p>${introduction}${pdfControls}${rendered.join('')}${exploration}${questions}`;
   if(body.includes(config.introduction)||config.questions.some(q=>body.includes(esc(q))))throw Error('Editorial content leaked into regular view');
   await fs.writeFile(path.join(output,config.slug+'.html'),document(config.displayTitle,body,config.slug));
   await fs.writeFile(path.join(output,config.slug+'-pdf.html'),document(config.displayTitle,pdfBody,config.slug,true));
-  const result={id:config.id,name:data.subject.name,selections:selections.length,readingEntries:groups.length,questions:config.questions.length,comparativeReadings:config.references.length,editorialContent:'PDF view only',linkedParagraphs:paragraphCount,validatedRanges:rangeCount,unlinkedEntries:ordered.filter(g=>!g.source).length,sourceSelectionsSha256:digest(JSON.stringify(data.selections)),coverage:'every public selection exactly once',sourceText:'all linked ranges equal their versioned source text'};
+  const result={id:config.id,name:data.subject.name,selections:selections.length,readingEntries:groups.length,questions:config.questions.length,comparativeReadings:config.references.length,editorialContent:'PDF view only',linkedParagraphs:paragraphCount,validatedRanges:rangeCount,unlinkedEntries:ordered.filter(g=>!g.source).length,sourceSelectionsSha256:digest(JSON.stringify(data.selections)),candidateSelections:candidateCount,coverage:config.selection?'every chosen selection exactly once; full catalogue preserved':'every public selection exactly once',sourceText:'all linked ranges equal their versioned source text'};
   validation.subjects.push(result);
   result.sentenceContextExpanded=compiled.filter(x=>x.sentenceContextExpanded).length;
   result.boundaryReviewEntries=compiled.filter(x=>x.boundaryIssues?.length).length;
@@ -209,7 +216,7 @@ for(const font of ['eb-garamond.ttf','eb-garamond-italic.ttf','scheherazade-new.
 await fs.copyFile(path.join(root,'scripts/compilation-pilot.css'),path.join(output,'pilot.css'));
 await fs.copyFile(path.join(root,'scripts/compilation-pilot-view.js'),path.join(output,'pilot-view.js'));
 const selectionTotal=validation.subjects.reduce((sum,s)=>sum+s.selections,0);
-await fs.writeFile(path.join(output,'index.html'),document('Ways into deeper reading',`<p class="eyebrow">${editorial.subjects.length} sample study guides</p><h1>Ways into<br>deeper reading.</h1><p class="lead">Quotations arranged for deeper exploration.</p><p class="intro-note">These samples retain all ${selectionTotal} public selections across ${editorial.subjects.length} subjects. Each study guide’s PDF view includes an introductory essay and comparative reading, with discussion questions where the quotation count permits. Short compilations have fewer questions than quotations. The original “Open as PDF” format remains available in Subject view.</p><div class="samples">${cards.join('')}</div><details class="editorial"><summary>About these study guides</summary><p>${esc(editorial.method)}</p><p>“Recorded neighbor” means an existing subject connection; “editorial exploration” identifies a suggested path for reading. Introductions and questions are editorial contributions, separate from the quoted sources.</p></details>`,'index'));
+await fs.writeFile(path.join(output,'index.html'),document('Ways into deeper reading',`<p class="eyebrow">${editorial.subjects.length} sample study guides</p><h1>Ways into<br>deeper reading.</h1><p class="lead">Quotations arranged for deeper exploration.</p><p class="intro-note">${editorial.subjects.some(s=>s.selection)?`These guides contain ${selectionTotal} quotations across ${editorial.subjects.length} subjects. Selected guides state their scope; every original compilation remains available in Subject view.`:`These samples retain all ${selectionTotal} public selections across ${editorial.subjects.length} subjects.`} Each study guide’s PDF view includes an introductory essay and comparative reading, with discussion questions where the quotation count permits. Short compilations have fewer questions than quotations. The original “Open as PDF” format remains available in Subject view.</p><div class="samples">${cards.join('')}</div><details class="editorial"><summary>About these study guides</summary><p>${esc(editorial.method)}</p><p>“Recorded neighbor” means an existing subject connection; “editorial exploration” identifies a suggested path for reading. Introductions and questions are editorial contributions, separate from the quoted sources.</p></details>`,'index'));
 await fs.writeFile(path.join(output,'manifest.json'),JSON.stringify({format:1,dataset:datasetName,subjects:Object.fromEntries(editorial.subjects.map(s=>[s.id,`${s.slug}-pdf.html`]))})+'\n');
 await fs.writeFile(path.join(output,'compiled.json'),JSON.stringify(exportData,null,2)+'\n');
 await fs.writeFile(path.join(output,'validation.json'),JSON.stringify(validation,null,2)+'\n');

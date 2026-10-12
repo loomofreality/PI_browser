@@ -8,6 +8,7 @@ import {createHash} from 'node:crypto';
 import {loadStudyGuides,studyGuideButton} from '../src/study-guide.mjs';
 import {buildStudyGuides} from '../scripts/build-compilation-pilot.mjs';
 import {recordFilename} from '../src/record-file.mjs';
+import {catalogueFingerprint} from '../scripts/study-guide-catalogue.mjs';
 
 const id='A'.repeat(32),dataset='collections/fixture/';
 test('only safe guides for the current dataset are offered; unavailable guides do not break reading',async()=>{
@@ -39,6 +40,26 @@ async function fixture(t){
   await write('scripts/compilation-pilot.css','body {}');await write('scripts/compilation-pilot-view.js','// fixture');
   return {root,out,config,data,saveConfig,saveData,zip};
 }
+
+test('selected guide uses its reviewed IDs while the original subject and full guides retain coverage',async t=>{
+ const f=await fixture(t);
+ f.data.selections.splice(2,0,...Array.from({length:298},(_,i)=>({...structuredClone(f.data.selections[0]),id:'extra'+i})));
+ await f.zip('data/'+recordFilename('FIXTURE00001'),{id:'FIXTURE00001',enVersion:'v1',metadata:{Authorized:'Y2'},en:{paragraphs:[{plain:'<Word> in context.'},{plain:'Other authorized wording.'}]},original:{paragraphs:[]}});
+ await f.saveData();
+ const selected=f.data.selections.filter(s=>s.id!=='extra0'),review={subject:id,status:'finalized_before_analysis',selectionBeforeAnalysis:true,target:300,candidateCount:301,selectedCount:300,mandatoryAuthorizedCount:0,candidateFingerprint:catalogueFingerprint(f.data.selections),selected:selected.map(s=>({id:s.id,source:s.candidates[0]?.source,sourceVersion:s.candidates[0]?.version,authorizedParagraphs:[],reason:'Chosen relevance.'})),omitted:[{id:'extra0'}],importedAuthorityReview:[{id:'unlinked',finding:'Supplied original checked.',url:'https://example.org/source',authorization:'English original.'}]};
+ const raw=JSON.stringify(review),reviewPath=path.join(f.root,'study-guides/selections/sample.json');await fs.mkdir(path.dirname(reviewPath));await fs.writeFile(reviewPath,raw);
+ f.config.selection={review:'selections/sample.json',sha256:createHash('sha256').update(raw).digest('hex'),ids:selected.map(s=>s.id)};await f.saveConfig();
+ const validation=await buildStudyGuides(f.root,f.out,dataset);
+ assert.equal(validation.subjects[0].selections,300);assert.equal(validation.subjects[0].readingEntries,2);assert.equal(validation.subjects[0].candidateSelections,301);
+ const html=await fs.readFile(path.join(f.out,'study-guides/sample-pdf.html'),'utf8');assert.match(html,/300 chosen quotations from 301/);
+ const regular=await fs.readFile(path.join(f.out,'study-guides/sample.html'),'utf8');assert.doesNotMatch(regular,/All currently public selections are retained|complete sample/);
+ const index=await fs.readFile(path.join(f.out,'study-guides/index.html'),'utf8');assert.doesNotMatch(index,/retain all 300/);
+ const unchanged=JSON.parse((await import('node:zlib')).gunzipSync(await fs.readFile(path.join(f.out,dataset,'subjects/'+id+'.json.gz'))));assert.deepEqual(unchanged,f.data);
+ const compiled=JSON.parse(await fs.readFile(path.join(f.out,'study-guides/compiled.json'))).subjects[0];assert.deepEqual(compiled.compiled.flatMap(g=>g.selectionIds).sort(),selected.map(s=>s.id).sort());
+ // Invalid selection reviews stop before replacing a previously built page.
+ f.config.selection.ids[0]='unknown';await f.saveConfig();await assert.rejects(buildStudyGuides(f.root,f.out,dataset),/unknown ID/);assert.equal(await fs.readFile(path.join(f.out,'study-guides/sample-pdf.html'),'utf8'),html);
+ delete f.config.selection;await f.saveConfig();assert.equal((await buildStudyGuides(f.root,f.out,dataset)).subjects[0].selections,301);
+});
 
 test('Continue exploring follows public graph connections in both directions and updates older guides',async t=>{
   const f=await fixture(t),b='B'.repeat(32),c='C'.repeat(32),d='D'.repeat(32),e='E'.repeat(32),u='F'.repeat(32);

@@ -389,6 +389,32 @@
       "sourceVersion": "f738601f7fcbb1b33ce50d577fe7612bdb524a47da5d7fa90dd1444a27b2315e",
       "suppliedSha256": "49c1647b8e711f8f0fcf23da249bac3d1d921a7f8d2b018d5edb3ac2326ec772",
       "reason": "Both supplied segments uniquely match in order in the explicitly cited source BH06041 paragraphs2–3. Full source sentences read and verified; display sentence context without changing imported quotation or catalogue-link status."
+    },
+    {
+      "slug": "gratitude",
+      "key": "selection:90771d8a5649e1a8bda2ec25",
+      "source": "BH07946",
+      "sourceVersion": "832f90b5e79cc064d915c43a8a07a3a6694a789f59d012137e4302946115b36d",
+      "suppliedSha256": "6296a1b365c4ef7c3ae97b5f3952e97902c188c9f3f3b4c05090145fe572b7c4",
+      "reason": "Both supplied segments verified uniquely and in order. Restore complete prayer with its invocation and Moses/Pharaoh framing, while preserving approximate catalogue status."
+    },
+    {
+      "slug": "callaction",
+      "key": "selection:348ebce290a6385bb5353d7f",
+      "source": "BH03910",
+      "sourceVersion": "af764b666ded723a2f6a1406faa0f82c25e331d99294f596c0ee8ac47f3a1b5c",
+      "suppliedSha256": "9ab0504fc226fa747679d4ee60a8df2d4b0a1ff6c4209b188e581a80869a6c23",
+      "referenceBasis": "published-approximate-reference",
+      "reason": "Every supplied segment matches uniquely and in order in this exact translation version. Restore reviewed context while preserving approximate catalogue alignment and paragraph-level authority."
+    },
+    {
+      "slug": "callaction",
+      "key": "selection:66e829f38723a0e214abe721",
+      "source": "BH07249",
+      "sourceVersion": "1d7d8cdd0af6f6e6b48ff511acd1fb2b8ebc5b2973fdd93e05e16a0ec7512c54",
+      "suppliedSha256": "6407391c6d77ca71a3f5e0222585054d07ac221655f7227ddd4306144980d76a",
+      "referenceBasis": "published-approximate-reference",
+      "reason": "Every supplied segment matches uniquely and in order in this exact translation version. Restore reviewed context while preserving approximate catalogue alignment and paragraph-level authority."
     }
   ]
 }
