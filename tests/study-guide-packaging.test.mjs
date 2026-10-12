@@ -6,6 +6,8 @@ import path from 'node:path';
 import {gunzipSync,brotliDecompressSync} from 'node:zlib';
 import {packStudyGuides} from '../scripts/pack-study-guides.mjs';
 import {encodeGuideArchive,decodeGuideArchive} from '../scripts/study-guide-archive.mjs';
+import {decodeGuideHtmlPayload} from '../scripts/guide-html-payload.mjs';
+import {packGuideParagraphs} from '../scripts/pack-guide-paragraphs.mjs';
 
 test('published guides reconstruct their exact body, keep paths and print mode, and package idempotently',async t=>{
   const root=await fs.mkdtemp(path.join(os.tmpdir(),'pi-guide-package-')),out=path.join(root,'dist'),dir=path.join(out,'study-guides');
@@ -46,8 +48,22 @@ test('paired views share only identical quotations and reconstruct exactly on re
  const bodies={'sample.html':'<header>Header</header><main id="main"><h1>Sample</h1>'+quotes+'<details>Sequence</details></main>','sample-pdf.html':'<header>Header</header><main id="main"><h1>Sample</h1><section class="introduction">Essay</section>'+quotes+'<section id="questions">Question?</section></main>'};
  for(const[n,b]of Object.entries(bodies))await fs.writeFile(path.join(dir,n),'<!doctype html><html><head><script src="pilot-view.js" defer></script></head><body'+(n.includes('-pdf')?' class="pdf-view"':'')+'>'+b+'</body></html>');
  await packStudyGuides(root,out);await packStudyGuides(root,out);
- const shared=gunzipSync(await fs.readFile(path.join(dir,'sample.quotations.html.gz'))).toString();assert.equal(shared,quotes);
+ const shared=await decodeGuideHtmlPayload(gunzipSync(await fs.readFile(path.join(dir,'sample.quotations.html.gz'))).toString(),async hash=>JSON.parse(gunzipSync(await fs.readFile(path.join(dir,'shared-paragraphs',hash+'.json.gz')))));assert.equal(shared,quotes);
  for(const[n,b]of Object.entries(bodies)){const body=gunzipSync(await fs.readFile(path.join(dir,n+'.gz'))).toString();assert.equal(body.replace('<template id="guide-shared-quotations"></template>',()=>shared),b);}
  const ordinary=gunzipSync(await fs.readFile(path.join(dir,'sample.html.gz'))).toString();assert.doesNotMatch(ordinary,/Essay|Question\?/);
+});
+
+test('paragraph sharing reconstructs exact HTML across guides, bounds shards, and is idempotent',async t=>{
+ const dir=await fs.mkdtemp(path.join(os.tmpdir(),'pi-paragraph-package-'));t.after(()=>fs.rm(dir,{recursive:true,force:true}));
+ const paragraph='<p class="authorized">'+('Exact $& quotation — فارسی &lt;script&gt; '.repeat(20))+'</p>',bodies=[paragraph+'<p>First guide reference</p>',paragraph+'<p>Different guide reference</p>'];
+ const {gzipSync}=await import('node:zlib');for(let i=0;i<bodies.length;i++)await fs.writeFile(path.join(dir,i+'.quotations.html.gz'),gzipSync(bodies[i]));
+ const report=await packGuideParagraphs(dir);assert.equal(report.sharedParagraphs,1);assert.equal(report.shards,1);
+ const files=await fs.readdir(path.join(dir,'shared-paragraphs'));for(const file of files)assert(gunzipSync(await fs.readFile(path.join(dir,'shared-paragraphs',file))).length<=32768);
+ const reader=async hash=>JSON.parse(gunzipSync(await fs.readFile(path.join(dir,'shared-paragraphs',hash+'.json.gz'))));
+ const before=[];for(let i=0;i<bodies.length;i++){const packed=await fs.readFile(path.join(dir,i+'.quotations.html.gz'));before.push(packed);assert.equal(await decodeGuideHtmlPayload(gunzipSync(packed).toString(),reader),bodies[i]);}
+ await packGuideParagraphs(dir);for(let i=0;i<bodies.length;i++)assert.deepEqual(await fs.readFile(path.join(dir,i+'.quotations.html.gz')),before[i]);
+ assert.equal(await decodeGuideHtmlPayload('Legacy exact HTML',reader),'Legacy exact HTML');
+ await assert.rejects(decodeGuideHtmlPayload(JSON.stringify({format:'pi-guide-html-1',parts:[{ref:['../../unsafe',0]}]}),reader),/Invalid/);
+ await assert.rejects(decodeGuideHtmlPayload(JSON.stringify({format:'pi-guide-html-1',parts:[{ref:['a'.repeat(64),1]}]}),async()=>['only']),/Missing/);
 });
 

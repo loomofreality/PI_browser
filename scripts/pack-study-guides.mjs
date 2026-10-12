@@ -2,6 +2,7 @@ import fs from 'node:fs/promises';
 import path from 'node:path';
 import {gzipSync,gunzipSync,brotliCompressSync,brotliDecompressSync,constants} from 'node:zlib';
 import {encodeGuideArchive,decodeGuideArchive} from './study-guide-archive.mjs';
+import {packGuideParagraphs} from './pack-guide-paragraphs.mjs';
 
 // Store quotation HTML once for both views. Verify exact reconstruction before
 // replacing a page payload; the reader receives the same escaped HTML as before.
@@ -62,5 +63,8 @@ export async function packStudyGuides(root,out){
     }else await fs.writeFile(file+'.gz',pack(Buffer.from(JSON.stringify(value))));
     await fs.unlink(file);
   }
+  const paragraphPackaging=await packGuideParagraphs(directory);
+  console.log('Shared guide paragraphs:',paragraphPackaging);
+  await fs.copyFile(new URL('./guide-html-payload.mjs',import.meta.url),path.join(directory,'guide-html-payload.mjs'));
   await fs.copyFile(path.join(root,'scripts/compilation-guide-loader.mjs'),path.join(directory,'guide-loader.mjs'));
 }

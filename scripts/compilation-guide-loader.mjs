@@ -1,4 +1,5 @@
 // Both views reconstruct the exact escaped HTML checked by the guide builder.
+import {decodeGuideHtmlPayload} from './guide-html-payload.mjs';
 try{
   const url=new URL(location.href);url.search='';url.hash='';
   async function readPayload(source){
@@ -11,7 +12,15 @@ try{
   const marker='<template id="guide-shared-quotations"></template>';
   if(html.includes(marker)){
     const shared=new URL(url);shared.pathname=shared.pathname.replace(/(?:-pdf)?\.html$/,'.quotations.html.gz');
-    const quotations=await readPayload(shared);html=html.replace(marker,()=>quotations);
+    const cache=new Map();
+    const quotations=await decodeGuideHtmlPayload(await readPayload(shared),async hash=>{
+      if(!cache.has(hash)){
+        const file=new URL('shared-paragraphs/'+hash+'.json.gz',url);
+        cache.set(hash,JSON.parse(await readPayload(file)));
+        if(cache.size>8)cache.delete(cache.keys().next().value);
+      }
+      return cache.get(hash);
+    });html=html.replace(marker,()=>quotations);
   }
   document.body.innerHTML=html;
   if(document.body.classList.contains('pdf-view'))await import('./pilot-view.js');

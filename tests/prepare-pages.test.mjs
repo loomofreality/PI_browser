@@ -57,6 +57,15 @@ test('repeated publication is identical and cannot retain stale public files',as
   await assert.rejects(fs.access(path.join(root,'public-site/old.log')),{code:'ENOENT'});
 });
 
+test('reusing staging verifies every byte, repairs altered files, and removes obsolete files',async t=>{
+ const {root}=await fixture(t),first=await preparePages(root);
+ await fs.writeFile(path.join(root,'public-site/old.log'),'obsolete output');
+ await fs.writeFile(path.join(root,'public-site/index.html'),'altered public file');
+ const second=await preparePages(root,{reuseVerifiedFiles:true});assert.deepEqual(second,first);
+ assert.deepEqual(await fs.readFile(path.join(root,'public-site/index.html')),await fs.readFile(path.join(root,'dist/index.html')));
+ await assert.rejects(fs.access(path.join(root,'public-site/old.log')),{code:'ENOENT'});
+});
+
 test('missing audit records or unequal fonts prevent any publication replacement',async t=>{
   const {root,write}=await fixture(t);
   await fs.mkdir(path.join(root,'public-site'));await fs.writeFile(path.join(root,'public-site/previous.html'),'previous verified release');

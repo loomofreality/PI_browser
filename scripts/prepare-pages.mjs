@@ -49,7 +49,7 @@ async function ordinaryDirectory(directory) {
   catch(error) { if(error.code!=='ENOENT') throw error; }
 }
 
-export async function preparePages(root,{commit='local'}={}) {
+export async function preparePages(root,{commit='local',reuseVerifiedFiles=false}={}) {
   root=path.resolve(root);
   if(!/^(?:local|[a-f0-9]{40})$/.test(commit)) throw Error('Invalid publication commit');
   const source=child(root,'dist'),destination=child(root,'public-site'),auditRoot=child(root,'publication-audit');
@@ -90,7 +90,9 @@ export async function preparePages(root,{commit='local'}={}) {
   await retain('study-guides/pilot.css',Buffer.from(originalCss));
   await retain('README.txt',Buffer.from('Exact build audit exports retained outside GitHub Pages. The source dist and build-state.json remain intact for local work and caching. files.json.gz records every public path, byte length and SHA-256. Use scripts/verify-publication.mjs with this directory to verify the live guide payloads. Keep this folder locally before the GitHub Actions audit artifact expires.\n'));
   // destination is the checked, fixed public-site child of root, never dist.
-  await fs.rm(destination,{recursive:true,force:true});await fs.mkdir(destination);
+  let prior=[];
+  if(reuseVerifiedFiles){await fs.mkdir(destination,{recursive:true});prior=await listFiles(destination);}
+  else{await fs.rm(destination,{recursive:true,force:true});await fs.mkdir(destination);}
   const excluded=[],files=[];
   const directories=new Set(names.map(name=>path.posix.dirname(name)).filter(name=>name!=='.'));
   for(const directory of directories) {
@@ -107,12 +109,21 @@ export async function preparePages(root,{commit='local'}={}) {
     else if(name.startsWith('collections/')&&!name.startsWith(stats.dataset))reason='obsolete dataset';
     if(reason)return {excluded:{...entry,reason}};
     const published=name==='study-guides/pilot.css'?Buffer.from(css):bytes;
-    const target=path.join(destination,name);await fs.writeFile(target,published);
+    const target=path.join(destination,name);let unchanged=false;
+    if(reuseVerifiedFiles)try{unchanged=(await fs.readFile(target)).equals(published);}catch(error){if(error.code!=='ENOENT')throw error;}
+    if(!unchanged)await fs.writeFile(target,published);
     const copied=await fs.readFile(target);
     if(!copied.equals(published))throw Error('Publication copy changed: '+name);
     return {file:{path:name,bytes:published.length,sha256:sha256(published)},sourceBytes:bytes.length};
   });
   for(const row of rows)if(row.excluded)excluded.push(row.excluded);else files.push(row.file);
+  if(reuseVerifiedFiles){
+    const current=new Set(files.map(f=>f.path));current.add('publication.json');
+    for(const name of prior)if(!current.has(name)){
+      const target=path.resolve(destination,name);if(!target.startsWith(destination+path.sep))throw Error('Unsafe stale publication file');
+      await fs.unlink(target);
+    }
+  }
   const marker=Buffer.from(JSON.stringify({format:1,commit,dataset:stats.dataset,studyGuides:Object.keys(manifest.subjects).length,contentManifestSha256:sha256(JSON.stringify(files))})+'\n');
   await fs.writeFile(path.join(destination,'publication.json'),marker);
   files.push({path:'publication.json',bytes:marker.length,sha256:sha256(marker)});files.sort((a,b)=>a.path.localeCompare(b.path,'en'));
