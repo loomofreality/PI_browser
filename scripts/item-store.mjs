@@ -12,6 +12,13 @@ export function csvText(rows,fields){
   return [fields.map(cell).join(','),...rows.map(row=>fields.map(field=>cell(row[field])).join(','))].join('\n')+'\n';
 }
 export function decode(bytes){return decodeSource(bytes).text;}
+// The editor changes the local source folders, which are not in Git. Explain
+// how to supply them rather than failing on the first lookup.
+export async function requireSourceFolders(root){
+  const missing=[];
+  for(const folder of ['metadata - copy',...folders])try{if(!(await fs.stat(path.join(root,folder))).isDirectory())missing.push(folder);}catch{missing.push(folder);}
+  if(missing.length)throw Error(`The source folders are missing from ${path.resolve(root)}: ${missing.join(', ')}. Copy them into this project folder (they are not stored in Git), then start the editor again.`);
+}
 export class ItemStore{
   constructor(root){this.root=path.resolve(root);}
   async snapshot(id){

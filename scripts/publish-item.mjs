@@ -15,7 +15,7 @@ import {githubTarget} from './github-target.mjs';
 const codeRoot=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
 export async function tool(name,root){
   const runtime=path.join(os.homedir(),'.cache/codex-runtimes/codex-primary-runtime/dependencies');
-  const candidates=name==='python'?[process.env.PI_EDITOR_PYTHON,path.join(runtime,'python/python.exe')]:name==='gh'?[process.env.PI_EDITOR_GH,path.join(root,'.tools/gh/bin/gh.exe')]:[];
+  const candidates=name==='python'?[process.env.PI_EDITOR_PYTHON,path.join(runtime,'python/python.exe')]:name==='gh'?[process.env.PI_EDITOR_GH,path.join(root,'.tools/gh/bin/gh.exe')]:name==='git'?[path.join(runtime,'native/git/cmd/git.exe')]:[];
   for(const candidate of candidates.filter(Boolean))try{await fs.access(candidate);return candidate;}catch{}
   return name;
 }
@@ -41,10 +41,18 @@ export async function watchDeployment(gh,runId,repo,repository,execute=run){
     throw Error(`Your saved correction was uploaded, but publication could not be confirmed. ${detail}\nSee ${url}\nYour local edits and backups are preserved. Do not re-enter the correction.`);
   }
 }
+// Wait for the GitHub Pages workflow GitHub starts for this pushed commit.
+export async function findDeploymentRun(gh,repository,sha,cwd,execute=run,delay=4000){
+  for(let attempt=0;attempt<30;attempt++){
+    const runs=JSON.parse(await execute(gh,['run','list','--repo',repository,'--workflow','pages.yml','--commit',sha,'--limit','1','--json','databaseId'],cwd,true));
+    if(runs.length)return runs[0].databaseId;
+    await new Promise(resolve=>setTimeout(resolve,delay));
+  }
+  throw Error('The commit was uploaded, but GitHub has not started its workflow. Check repository Actions.');
+}
 export async function publishItem(root,id,revision){
   root=path.resolve(root);
   const store=new ItemStore(root),snapshot=await store.snapshot(id);
-  const {repository,remote,site}=await githubTarget(root);
   if(snapshot.revision!==revision)throw Error('Sources changed. Reload this item before publishing.');
   const qa=path.join(root,'.qa');await fs.mkdir(qa,{recursive:true});
   const lockFile=path.join(qa,'item-publish.lock');let lock;
@@ -58,6 +66,7 @@ export async function publishItem(root,id,revision){
       if(snapshot.bytes[i]!==null)await fs.writeFile(path.join(input,name),snapshot.bytes[i]);
     }
     const gh=await tool('gh',root),python=await tool('python',root);
+    const {repository,remote,site}=await githubTarget(root,{gh,git:await tool('git',root)});
     await run('git',['clone','--shared','--no-checkout',root,repo],root);
     await run('git',['remote','set-url','origin',remote],repo);
     await run('git',['config','core.sparseCheckout','true'],repo);
@@ -90,12 +99,7 @@ export async function publishItem(root,id,revision){
     }
     const sha=await run('git',['rev-parse','HEAD'],repo);
     console.log('Waiting for the build, validation and Pages deployment.');
-    let runId;
-    for(let attempt=0;attempt<30;attempt++){
-      const runs=JSON.parse(await run(gh,['run','list','--repo',repository,'--workflow','pages.yml','--commit',sha,'--limit','1','--json','databaseId'],repo));
-      if(runs.length){runId=runs[0].databaseId;break;}await new Promise(resolve=>setTimeout(resolve,4000));
-    }
-    if(!runId)throw Error('The commit was uploaded, but GitHub has not started its workflow. Check repository Actions.');
+    const runId=await findDeploymentRun(gh,repository,sha,repo);
     await watchDeployment(gh,runId,repo,repository);
     const statsResponse=await fetch(site+'stats.json?item-update='+sha);if(!statsResponse.ok)throw Error('Cannot verify the published manifest.');
     const stats=await statsResponse.json(),response=await fetch(site+stats.dataset+'data/'+recordFilename(id));

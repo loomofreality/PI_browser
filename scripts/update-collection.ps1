@@ -40,6 +40,13 @@ try {
     if ($remote -notmatch '^(?:https://github\.com/|git@github\.com:)([\w.-]+)/([\w.-]+?)(?:\.git)?/?$') { throw "Origin is not a GitHub repository: $remote" }
     $repo = "$($Matches[1])/$($Matches[2])"
     $site = "https://$($Matches[1].ToLowerInvariant()).github.io/$($Matches[2])/"
+    # A renamed repository keeps redirecting Git, but its Pages address changes.
+    $current = & $gh api "repos/$repo" --jq .full_name 2>$null
+    if ($LASTEXITCODE -eq 0 -and "$current" -match '^([\w.-]+)/([\w.-]+)$' -and "$current" -ne $repo) {
+        Write-Host "GitHub now calls this repository $current. Update this folder with: git remote set-url origin https://github.com/$current.git" -ForegroundColor Yellow
+        $repo = "$current"
+        $site = "https://$($Matches[1].ToLowerInvariant()).github.io/$($Matches[2])/"
+    }
     $dirty = @(Run $git @('-C', $root, 'status', '--porcelain', '--untracked-files=no'))
     if ($dirty.Count) { throw 'Commit or resolve tracked-file changes before updating. Your source folders are ignored by Git and may contain your edits.' }
     foreach ($folder in @('original_texts - copy','translated_texts - copy')) {
