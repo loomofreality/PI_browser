@@ -53,7 +53,7 @@ export async function fingerprint(root,compatible=false){
   const hash=createHash('sha256');
   hash.update(`pages-data-v1\0node-${process.versions.node.split('.')[0]}\0`);
   for(const relative of await buildInputs(root)){
-    if(compatible&&relative==='data/collection.tar.gz')continue;
+    if(compatible&&relative.startsWith('data/collection/'))continue;
     const content=createHash('sha256');
     for await(const chunk of createReadStream(path.join(root,relative)))content.update(chunk);
     hash.update(relative+'\0'+content.digest('hex')+'\0');

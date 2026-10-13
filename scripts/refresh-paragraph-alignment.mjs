@@ -4,6 +4,7 @@ import {fileURLToPath} from 'node:url';
 import {gzipSync,gunzipSync} from 'node:zlib';
 import {alignmentSlots,alignmentCounts} from '../src/paragraph-alignment.mjs';
 import {recordFilename} from '../src/record-file.mjs';
+import {decodeSource} from './source-encoding.mjs';
 
 // Refresh layout metadata only. Source paragraphs, indexes and quotation IDs stay intact.
 const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
@@ -19,7 +20,7 @@ await Promise.all(Array.from({length:16},async()=>{
     for(const [language,available,folder] of [['en',record.hasEnglish,'translated_texts - copy'],['original',record.hasOriginal,'original_texts - copy']]){
       if(!available)continue;
       const bytes=await fs.readFile(path.join(root,folder,entry.id+'.txt'));
-      let text;try{text=new TextDecoder('utf-8',{fatal:true}).decode(bytes);}catch{text=new TextDecoder('windows-1252').decode(bytes);}
+      const {text}=decodeSource(bytes);
       const slots=alignmentSlots(text),alignment=slots.includes(null)?slots:undefined;
       if(slots.filter(i=>i!==null).length!==record[language].paragraphs.length)throw Error('Source paragraph count changed: '+entry.id+' '+language+'; run a full build.');
       if(JSON.stringify(record[language].alignment)!==JSON.stringify(alignment)){

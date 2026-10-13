@@ -34,4 +34,25 @@ class PublicationArchiveTests(unittest.TestCase):
         for data in (b'PIN\nA\n', b'PIN,Manuscripts,Publications\nA,,\nA,,\n'):
             with self.assertRaises(ValueError): archive.public_files({'metadata - copy/catalog.csv': data})
 
+    def test_sharded_archive_is_deterministic_and_rewrites_only_changed_shards(self):
+        import tempfile
+        files = {'metadata - copy/catalog.csv': b'PIN,Manuscripts,Publications\nA,M,\n',
+                 archive.MANIFEST: b'[]\n',
+                 'original_texts - copy/A.txt': b'original',
+                 'translated_texts - copy/A.txt': b'english',
+                 'translated_texts - copy/B.txt': b'other'}
+        with tempfile.TemporaryDirectory() as temporary:
+            target = Path(temporary) / 'collection'
+            self.assertEqual(archive.write_archive(target, files), len(archive.shard_names()))
+            self.assertEqual(sorted(p.name for p in target.iterdir()), sorted(archive.shard_names()))
+            self.assertEqual(archive.read_archive(target), files)
+            before = {p.name: p.read_bytes() for p in target.iterdir()}
+            self.assertEqual(archive.write_archive(target, files), 0)
+            changed = dict(files); changed['translated_texts - copy/A.txt'] = b'corrected'
+            self.assertEqual(archive.write_archive(target, changed), 1)
+            after = {p.name: p.read_bytes() for p in target.iterdir()}
+            self.assertEqual([n for n in before if before[n] != after[n]], [archive.shard_name('translated_texts - copy/A.txt')])
+            (target / 'stray.tar').write_bytes(b'')
+            with self.assertRaises(ValueError): archive.read_archive(target)
+
 if __name__ == '__main__': unittest.main()

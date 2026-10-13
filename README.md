@@ -20,7 +20,7 @@ Open http://localhost:4173/PI_browser/. The server deliberately tests the same p
 
 ## Features
 
-- **Catalog view** retains the existing search and metadata filters. **Subject view** browses the 661 CSV subject entries, selected source passages, optional originals, and a local subject graph. See [SUBJECTS.md](SUBJECTS.md) for the reproducible import, matching evidence, editorial workflow, and limitations.
+- **Catalog view** retains the existing search and metadata filters. **Subject view** browses the 660 subjects (661 CSV rows; two punctuation variants of one subject are merged), selected source passages, optional originals, and a local subject graph. See [SUBJECTS.md](SUBJECTS.md) for the reproducible import, matching evidence, editorial workflow, and limitations.
 
 - Whole-word search in English, Persian/Arabic, or both; quoted exact phrases.
 - All query terms must occur in the same language version. Diacritics, Arabic/Persian yeh and kaf variants, and Persian/Arabic digits are normalized for search only. There is no stemming or fuzzy matching.
@@ -45,7 +45,7 @@ The original folders are immutable inputs:
 - `translated_texts - copy/`
 - `metadata - copy/`
 
-The versioned `data/collection.tar.gz` contains publishable source inputs, avoiding tens of thousands of small source files in Git. If the source folders are absent, the build extracts the archive. To update the corpus, edit the source collection intentionally, run `python scripts/archive-sources.py`, rebuild, and review `build-report.json`. The importer strictly attempts UTF-8, then Windows-1252; fallback filenames and missing/unpaired records are recorded in the report.
+The versioned `data/collection/` folder contains the publishable source inputs as 33 uncompressed tar shards (the metadata CSV, and 16 shards each of originals and translations, assigned by a hash of the filename). This avoids tens of thousands of small source files in Git. Because the shards are uncompressed, Git stores and transfers a correction to one item as a small change instead of re-uploading the whole collection. If the source folders are absent, the build extracts the shards. To update the corpus, edit the source collection intentionally, run `python scripts/archive-sources.py`, rebuild, and review `build-report.json`. The importer strictly attempts UTF-8, then Windows-1252; fallback filenames and missing/unpaired records are recorded in the report.
 
 Period labels are replaced during import using the versioned `period_renaming.csv` (`Old,New`). Replacements are literal, case-sensitive, and applied in one pass only to Period; suffixes such as `?` remain. Every nonempty Period must change; the build fails with the remaining values and counts if the mapping is incomplete. The input CSV is untouched, and changed records retain their imported Period in `metadataOriginalValues.Period`. The build report lists mappings, the changed record count, and unmapped values. Update the mapping file and rebuild to change the labels in filters and readers.
 
@@ -55,19 +55,37 @@ Metadata is not invented. In particular, uncertain dates and original translatio
 
 `.github/workflows/pages.yml` builds and deploys on pushes to `main`. In repository Settings → Pages, select **GitHub Actions** as the source. The intended URL is `https://portlandiator.github.io/PI_browser/`. GitHub Pages for a private source repository requires an eligible GitHub plan; do not make a repository public implicitly. The workflow builds into `dist/` and deploys only the verified `public-site/` prepared from it. Raw inputs, build state and study-guide audit exports are excluded from hosting.
 
-The published artifact must remain under GitHub Pages' 1 GB limit. Run `node scripts/prepare-pages.mjs` before the collection tests to check the actual publication size and index integrity. Full audit records stay in `dist/` and are also preserved separately by commit/dataset in `publication-audit/`. GitHub keeps the separate audit artifact for 90 days; download a durable local copy. See [publication storage and live verification](docs/publication-storage.md). Deployment is complete only after the workflow succeeds and the public URL is verified.
+The published artifact must remain under GitHub Pages' 1 GB limit. Volume PDFs are served from a separate GitHub Pages site (see [Volume PDF site](#volume-pdf-site)), so they do not count toward this limit. Run `node scripts/prepare-pages.mjs` before the collection tests to check the actual publication size and index integrity. Full audit records stay in `dist/` and are also preserved separately by commit/dataset in `publication-audit/`. GitHub keeps the separate audit artifact for 90 days; download a durable local copy. See [publication storage and live verification](docs/publication-storage.md). Deployment is complete only after the workflow succeeds and the public URL is verified.
 
 Interface-only deployments reuse an exact-match GitHub Actions cache of the generated collection, search shards, subject passages, PDF copies, manifests, and import reports. They copy the current `src/` files into the site and run the complete test suite against the restored data. The source archive is extracted for validation, but records, indexes, subject matches, and PDFs are not rebuilt or recopied from their sources. Interface files are never cached, so removed pages cannot survive from an earlier deployment.
 
-The cache fingerprint covers every file in `data/` and `pdf_volumes - copy/`, root CSVs, the subject reference document, and the builder's recursive local module imports (including shared parsers). It includes the Node major version. Source text, translations, and metadata reach CI through `data/collection.tar.gz`; update that archive with the Windows updater when changing the source folders. The first deployment, changed build inputs, or an evicted cache trigger a full build. Only successfully tested output is cached; partial cache matches are never used. Browser-only HTML, CSS, fonts, and JavaScript changes reuse data unless that JavaScript is also imported by the builder.
+The cache fingerprint covers every file in `data/` and `pdf_volumes - copy/`, root CSVs, the subject reference document, and the builder's recursive local module imports (including shared parsers). It includes the Node major version. Source text, translations, and metadata reach CI through `data/collection/`; update it with the Windows updater when changing the source folders. Item corrections change only the source archive, so they reuse cached data and rebuild just the affected records. The first deployment, changed build inputs, or an evicted cache trigger a full build. Only successfully tested output is cached; partial cache matches are never used. Browser-only HTML, CSS, fonts, and JavaScript changes reuse data unless that JavaScript is also imported by the builder.
 
 Documentation-only pushes do not deploy. To rebuild manually, use **Actions → Build and deploy Partial Inventory browser → Run workflow → Force full rebuild**. This bypasses cache restoration and saving for that run; delete a suspect entry in Actions caches if it should also be replaced for later runs. GitHub Pages requires a complete artifact on every deployment, so this optimization removes repeated computation, not the final whole-site upload. It preserves the existing site URL and all data paths.
 
 ## Design and maintenance
 
-The `pdf_volumes - copy/` folder contains the published volume PDFs and is versioned directly in Git. Filenames begin with `volume_` and the volume number. The build verifies every metadata volume has a corresponding PDF, copies the files without modifying their contents, and links the catalogue's Volume field to the PDF in a new tab. The Windows updater carries these PDFs into its validation build. The complete deployed site, including PDFs, must remain below the size limit checked by the collection tests.
+The `pdf_volumes - copy/` folder contains the published volume PDFs and is versioned directly in Git. Filenames begin with `volume_` and the volume number. The build verifies every metadata volume has a corresponding PDF, copies the files without modifying their contents, and links the catalogue's Volume field to the PDF in a new tab. The Windows updater carries these PDFs into its validation build. Deployment publishes the PDFs to the separate PDF site described below; the rest of the site must remain below the size limit checked by the collection tests.
 
 See `DESIGN.md`, `AGENTS.md`, and the project `SKILL.md`. Noto Naskh Arabic is bundled under the SIL Open Font License; see `src/fonts/OFL.txt`. Source-text rights and translation provenance remain those of their respective sources; this project does not assign a new license to the collection.
+
+## Volume PDF site
+
+GitHub Pages limits each site to 1 GB, and the volume PDFs alone are about 640 MB. They are therefore published to a second GitHub Pages site, named in `src/pdf-hosting.json`:
+
+```json
+{ "url": "https://OWNER.github.io/PDF_REPOSITORY/", "repository": "OWNER/PDF_REPOSITORY" }
+```
+
+The PDFs stay in `pdf_volumes - copy/` in this repository, so adding or replacing a volume works as before. On each deployment `prepare-pages.mjs` stages them in `pdf-site/` (with a `pdf-site.json` manifest of sizes and SHA-256 hashes) instead of `public-site/`. `scripts/publish-pdf-site.mjs` then compares that manifest with the live PDF site. When the PDFs are unchanged it does nothing more. When they differ, it pushes only the changed files to the PDF repository and waits until its site serves them, before this site is deployed. The Catalog Volume links and Volume view load the PDFs from that address. GitHub Pages allows this cross-site loading. An empty `"url"` serves the PDFs from this site again.
+
+One-time setup:
+
+1. Create the PDF repository named in `src/pdf-hosting.json` on GitHub as an empty **public** repository.
+2. Create a fine-grained personal access token (GitHub → Settings → Developer settings → Fine-grained tokens) limited to that repository, with **Contents: Read and write**.
+3. In this repository, add it under Settings → Secrets and variables → Actions as `PDF_SITE_TOKEN`.
+4. Run this repository's deployment workflow once. It creates the PDF repository's `main` branch.
+5. In the PDF repository, open Settings → Pages and choose **Deploy from a branch**, `main`, `/ (root)`. Then re-run the deployment workflow; it waits for the PDF site and checks it before publishing this site.
 
 ## Enhanced catalogue metadata
 
@@ -77,7 +95,7 @@ Import the single UTF-8 CSV in `metadata - copy/`, joining its `PIN` column to f
 
 After replacing source files, double-click **Update-Collection.cmd** in the project folder. Keep exactly one CSV (with a `PIN` column) in `metadata - copy`, and keep all current `.txt` files in the two source-text folders. Wait for Dropbox to finish syncing and avoid editing those files during the update.
 
-The utility checks GitHub access, fast-forwards `main`, packages the current publishable source files into `data/collection.tar.gz`, builds and tests a separate snapshot, commits only the tested archive and build report, pushes, waits for GitHub Pages, and verifies the public collection counts. Files removed from the source folders are omitted from the next archive. It preserves the current preview server and refreshes its built files after successful publication. The window stays open to show success or errors.
+The utility checks GitHub access, fast-forwards `main`, packages the current publishable source files into `data/collection/` (rewriting only the shards that changed), builds and tests a separate snapshot, commits only the tested archive and build report, pushes, waits for GitHub Pages, and verifies the public collection counts. Files removed from the source folders are omitted from the next archive. It preserves the current preview server and refreshes its built files after successful publication. The window stays open to show success or errors.
 
 Requires Node.js 22+, Python 3, Git, GitHub CLI (`gh`), and Windows `tar`. It automatically finds the tools already installed on this computer, including the bundled runtimes; otherwise it uses PATH. On another computer, install those tools and run `gh auth login` and `gh auth setup-git` once. Run from a clean `main` checkout; source-folder edits are expected and are ignored by Git. The script uses your authenticated GitHub account's public no-reply address for update commits.
 
@@ -91,13 +109,13 @@ ExecutionPolicy Bypass applies only to that process; it does not change Windows 
 
 ## Review subject connections
 
-Open `relationships.html` (the **Review subject connections** link at the bottom of Subject view). The thematic directory covers all 661 subjects and shows pending proposal counts. Search, switch to alphabetical order, filter unfinished subjects, or use **Next with proposals**. Imported connections, overlap proposals, accepted decisions, and rejected decisions are labeled separately. **Inspect shared passages** loads a bounded set of source examples on demand. Broader means the other subject is more general; narrower means it is more specific. Editing a connection's type rejects its old form and accepts the replacement. Marking a subject reviewed tracks your progress without accepting its proposals.
+Open `relationships.html` (the **Review subject connections** link at the bottom of Subject view). The thematic directory covers all 660 subjects and shows pending proposal counts. Search, switch to alphabetical order, filter unfinished subjects, or use **Next with proposals**. Imported connections, overlap proposals, accepted decisions, and rejected decisions are labeled separately. **Inspect shared passages** loads a bounded set of source examples on demand. Broader means the other subject is more general; narrower means it is more specific. Editing a connection's type rejects its old form and accepts the replacement. Marking a subject reviewed tracks your progress without accepting its proposals.
 
 Drafts share the existing passage editor's browser storage. Use **Export decisions** regularly; clearing browser data removes local drafts. **Import decisions** merges a backup, with incoming decisions winning conflicts. Exports include existing published passage corrections and relationship decisions, local updates, and subject review progress. **Undo last change** works within the current page session; **Restore published version** removes a local override.
 
 To publish, provide the exported `subject-edits.json` to the project maintainer (or Codex), replace `data/subject-edits.json` with that complete merged export, run the standard build and tests, and commit/push. The public graph changes only after this rebuild. GitHub Pages has no write-back service or reviewer accounts. The build publishes an editorial baseline alongside the subject index so later exports retain earlier decisions.
 
-Volume view (`volume-view.html`) provides a dropdown for all published PDFs, page navigation, zoom, active PDF hyperlinks, and single/two-page layouts. Automatic uses two pages on screens at least 1100px wide. Volume, page, layout and zoom are shareable URL parameters. PDF.js 6.3.289 is bundled under `src/vendor/pdfjs/` with its license; no CDN or package install is needed.
+Volume view (`volume-view.html`) provides a dropdown for all published PDFs, page navigation, zoom, active PDF hyperlinks, and single/two-page layouts. Automatic uses two pages on screens at least 1100px wide. Volume, page, layout and zoom are shareable URL parameters. PDF.js 6.3.289 is bundled under `src/vendor/pdfjs/` with its license; no CDN or package install is needed. PDF.js 6 relies on very recent JavaScript methods (`Map.prototype.getOrInsertComputed`, `Math.sumPrecise`); `src/map-polyfill.mjs` supplies them, and `src/pdf-worker.mjs` loads it before the bundled worker, so browsers without them can still render volumes. Keep both when updating PDF.js.
 
 # Original-text publication policy
 
@@ -105,7 +123,7 @@ Records with no Manuscripts or Publications entries retain their catalogue ident
 
 All supplied volume PDFs, including volumes 166 and 193, are published with the owner’s explicit authorization. The original-text restriction applies to the source archive, generated records, metadata incipits, and search index. `data/withheld-pdf-volumes.json` remains available for any future PDF exclusions and is currently empty.
 
-`python scripts/archive-sources.py` packages only permitted originals. Use `--from-archive data/collection.tar.gz` to filter the existing archive without importing local source changes. `--check` rejects an unsafe archive; deployment runs this check before building or restoring cached output. Removed original-only IDs survive in an ID-only manifest.
+`python scripts/archive-sources.py` packages only permitted originals. Use `--from-archive data/collection` to filter the existing archive without importing local source changes (a legacy single `.tar.gz` archive is also accepted). `--check` rejects an unsafe archive; deployment runs this check before building or restoring cached output. Removed original-only IDs survive in an ID-only manifest.
 
 ## Correct one catalog item
 
@@ -115,7 +133,7 @@ Saving preserves all other metadata values and stores byte-exact backups in .qa/
 
 Publication creates an isolated sparse checkout of current main, patches only the selected item in the source archive, applies the existing original-text publication policy, and uses an ordinary fast-forward push. Unrelated local changes are not uploaded. A conflicting remote push stops publication. Failed jobs remain under .qa/item-publish-* for diagnosis; source edits and backups remain intact. Publication needs Git, Python 3, GitHub CLI authentication and Node 22+. The bundled Windows tools are detected automatically.
 
-Compatible generated data is reused automatically: unchanged records and word postings are preserved, changed records and affected search shards are rebuilt, metadata facets are refreshed, and subject citation metadata is updated. English changes rebuild subject matches, because paragraph offsets and translation versions may change. If the English source is used in reviewed subject decisions, the utility stops before pushing; review those references against the correction using the established passage-review process. It never silently promotes an old quotation alignment to a new source version.
+Compatible generated data is reused automatically: unchanged records and word postings are preserved, changed records and affected search shards are rebuilt, metadata facets are refreshed, and subject citation metadata is updated. English changes rebuild subject matches, because paragraph offsets and translation versions may change. If the English source is used in reviewed subject decisions, the utility stops before pushing; review those references against the correction using the established passage-review process. It never silently promotes an old quotation alignment to a new source version. If the corrected text is quoted in a study guide, the build stops with “Catalogue review data changed for …”. After reviewing the affected quotations (confirming changed wording in `data/subject-edits.json` where needed, and updating any `study-guides/sentence-paragraphs.json` entries for that source), run `node scripts/refresh-catalogue-baseline.mjs --list` and then `node scripts/refresh-catalogue-baseline.mjs "subject name" …` for the reviewed subjects.
 
 Changed IDs, parser/build dependencies, PDFs, subject inputs, an unavailable cache, or a forced rebuild use the full build. Every deployment runs the full verification suite. GitHub Pages still requires uploading one complete site artifact; this optimization avoids unnecessary parsing, indexing, and subject matching, not that final upload. New immutable dataset URLs keep readers from mixing old and new records. CI prunes obsolete cached datasets after validation; local builds preserve earlier datasets.
 

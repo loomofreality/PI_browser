@@ -7,6 +7,7 @@ import {gunzipSync} from 'node:zlib';
 import {fileURLToPath} from 'node:url';
 import {parseCsv,parseText,tokenize,parseQuery,shardKey,unpackPosting,matchPostings} from '../src/text.mjs';
 import {mayPublishOriginal} from '../src/original-publication.mjs';
+import {decodeSource} from '../scripts/source-encoding.mjs';
 const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
 const out=path.join(root,'dist');
 const metadataFolder=path.join(root,'metadata - copy');
@@ -36,7 +37,7 @@ test('sampled generated paragraphs preserve source text through encoding and ren
     for(const [lang,folder] of [['en','translated_texts - copy'],['original','original_texts - copy']]){
       if(lang==='original'&&!mayPublishOriginal(sourceMetadata.get(id))){assert.deepEqual(record.original,parseText('','original'));continue;}
       let bytes;try{bytes=await fs.readFile(path.join(root,folder,id+'.txt'));}catch{assert.equal(record[lang].paragraphs.length,0);continue;}
-      let text;try{text=new TextDecoder('utf-8',{fatal:true}).decode(bytes);}catch{text=new TextDecoder('windows-1252').decode(bytes);}
+      const {text}=decodeSource(bytes);
       assert.deepEqual(record[lang],parseText(text,lang),`${id} ${lang}`);
       for(const p of record[lang].paragraphs)assert.ok(!/<script[\s>]/i.test(p.html));
     }

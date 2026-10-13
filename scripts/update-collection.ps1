@@ -3,8 +3,8 @@ param([switch]$ValidateOnly)
 $ErrorActionPreference = 'Stop'
 Set-StrictMode -Version Latest
 $root = Split-Path -Parent $PSScriptRoot
-$repo = 'portlandiator/PI_browser'
-$site = 'https://portlandiator.github.io/PI_browser/'
+$repo = $null
+$site = $null
 $runtime = Join-Path $env:USERPROFILE '.cache/codex-runtimes/codex-primary-runtime/dependencies'
 function Find-Tool($Name, $Candidates) {
     foreach ($candidate in $Candidates) { if (Test-Path -LiteralPath $candidate -PathType Leaf) { return $candidate } }
@@ -36,7 +36,10 @@ try {
     $branch = Run $git @('-C', $root, 'branch', '--show-current')
     if ($branch -ne 'main') { throw 'Switch this repository to main before updating.' }
     $remote = Run $git @('-C', $root, 'remote', 'get-url', 'origin')
-    if ($remote -notmatch '^https://github\.com/portlandiator/PI_browser(?:\.git)?/?$|^git@github\.com:portlandiator/PI_browser(?:\.git)?$') { throw 'Origin does not point to portlandiator/PI_browser.' }
+    # Publish to whichever GitHub repository this checkout's origin names.
+    if ($remote -notmatch '^(?:https://github\.com/|git@github\.com:)([\w.-]+)/([\w.-]+?)(?:\.git)?/?$') { throw "Origin is not a GitHub repository: $remote" }
+    $repo = "$($Matches[1])/$($Matches[2])"
+    $site = "https://$($Matches[1].ToLowerInvariant()).github.io/$($Matches[2])/"
     $dirty = @(Run $git @('-C', $root, 'status', '--porcelain', '--untracked-files=no'))
     if ($dirty.Count) { throw 'Commit or resolve tracked-file changes before updating. Your source folders are ignored by Git and may contain your edits.' }
     foreach ($folder in @('original_texts - copy','translated_texts - copy')) {
@@ -52,14 +55,14 @@ try {
     Write-Host "`n2/5 Snapshotting publishable sources and filtered metadata..." -ForegroundColor Cyan
     $stage = Join-Path $root ('.qa/update-' + [Guid]::NewGuid().ToString('N'))
     New-Item -ItemType Directory -Path $stage | Out-Null
-    foreach ($folder in @('src','scripts','tests','subject-summaries')) { Copy-Item -LiteralPath (Join-Path $root $folder) -Destination $stage -Recurse }
+    # Copy every build input; the source archive is regenerated below.
+    foreach ($folder in @('src','scripts','tests','subject-summaries','study-guides')) { Copy-Item -LiteralPath (Join-Path $root $folder) -Destination $stage -Recurse }
     New-Item -ItemType Directory -Force -Path (Join-Path $stage 'data') | Out-Null
-    foreach ($file in @('subject-edits.json','subjects-snapshot.json.gz','subject-source-exceptions.json','extract-subject-aliases.json','extract-review-decisions.json','subject-extracts-public.json.gz')) { Copy-Item -LiteralPath (Join-Path $root ('data/' + $file)) -Destination (Join-Path $stage 'data') }
-    Copy-Item -LiteralPath (Join-Path $root 'period_renaming.csv') -Destination $stage
-    Copy-Item -LiteralPath (Join-Path $root '14-colors_and_hyperlinks.csv') -Destination $stage
+    Get-ChildItem -LiteralPath (Join-Path $root 'data') -File | ForEach-Object { Copy-Item -LiteralPath $_.FullName -Destination (Join-Path $stage 'data') }
+    Get-ChildItem -LiteralPath $root -Filter '*.csv' -File | ForEach-Object { Copy-Item -LiteralPath $_.FullName -Destination $stage }
     Copy-Item -LiteralPath (Join-Path $root 'subjects - reference.docx') -Destination $stage
     Copy-Item -LiteralPath (Join-Path $root 'pdf_volumes - copy') -Destination $stage -Recurse
-    Run $python @((Join-Path $root 'scripts/archive-sources.py'),'--output',(Join-Path $stage 'data/collection.tar.gz'))
+    Run $python @((Join-Path $root 'scripts/archive-sources.py'),'--output',(Join-Path $stage 'data/collection'))
     Write-Host "`n3/5 Building and testing the exact upload snapshot..." -ForegroundColor Cyan
     Set-Location -LiteralPath $stage
     Run $node @('--max-old-space-size=6144','scripts/build.mjs')
@@ -68,11 +71,12 @@ try {
     Set-Location -LiteralPath $root
     if ($ValidateOnly) { Write-Host 'Validation passed. Nothing was uploaded.' -ForegroundColor Green; exit 0 }
     # Only tested snapshot files are committed; source folders are never edited.
-    Copy-Item -LiteralPath (Join-Path $stage 'data/collection.tar.gz') -Destination (Join-Path $root 'data/collection.tar.gz')
+    # Re-pack into the repository copy so that only changed shards are rewritten.
+    Run $python @((Join-Path $root 'scripts/archive-sources.py'),'--from-archive',(Join-Path $stage 'data/collection'),'--output',(Join-Path $root 'data/collection'))
     Copy-Item -LiteralPath (Join-Path $stage 'build-report.json') -Destination (Join-Path $root 'build-report.json')
     Copy-Item -LiteralPath (Join-Path $stage 'subject-import-report.json') -Destination (Join-Path $root 'subject-import-report.json')
     Write-Host "`n4/5 Uploading the filtered source archive..." -ForegroundColor Cyan
-    Run $git @('-C',$root,'add','--','data/collection.tar.gz','build-report.json','subject-import-report.json','pdf_volumes - copy')
+    Run $git @('-C',$root,'add','-A','--','data/collection','build-report.json','subject-import-report.json','pdf_volumes - copy')
     $account = (Run $gh @('api','user') | Out-String | ConvertFrom-Json)
     Run $git @('-C',$root,'-c',('user.name='+$account.login),'-c',('user.email='+$account.id+'+'+$account.login+'@users.noreply.github.com'),'commit','-m',('Refresh collection sources '+(Get-Date -Format 'yyyy-MM-dd HH:mm')))
     $sha = Run $git @('-C',$root,'rev-parse','HEAD')

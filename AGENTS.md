@@ -3,7 +3,7 @@
 Read DESIGN.md before changing the interface and SKILL.md before changing the corpus pipeline or reader.
 
 ## Project
-This is a dependency-free static web application for GitHub Pages. Node 22+ builds compressed records and a sharded positional search index. Browser ES modules and a Web Worker provide the interface. The original source folders are immutable inputs. A reproducible source archive in data/ supplies GitHub Actions.
+This is a dependency-free static web application for GitHub Pages. Node 22+ builds compressed records and a sharded positional search index. Browser ES modules and a Web Worker provide the interface. The original source folders are immutable inputs. A reproducible source archive in `data/collection/` (uncompressed tar shards) supplies GitHub Actions.
 
 - `node scripts/build.mjs`: import and build the complete collection into dist/.
 - `node --test tests/*.test.mjs`: test parsing, normalization, phrase search, and generated data.
@@ -20,7 +20,7 @@ This is a dependency-free static web application for GitHub Pages. Node 22+ buil
 - Keep deep links and all assets compatible with the /PI_browser/ project subpath. Store filter and reader state in the URL.
 - Verify the full corpus build, semantic search tests, keyboard interaction, and desktop/mobile reader before publishing.
 
-The user authorized publishing this collection to portlandiator/PI_browser and GitHub Pages. Preserve existing remote history. Never force-push or change repository visibility without an explicit request.
+The owner authorized publishing this collection to the GitHub repository named by the checkout's `origin` remote, its GitHub Pages site, and the volume PDF site named in `src/pdf-hosting.json`. Preserve existing remote history. Never force-push or change repository visibility without an explicit request.
 
 ## Enhanced catalogue metadata
 

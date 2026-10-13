@@ -25,8 +25,11 @@ test('full subject import preserves rows, statuses, source versions and highligh
   assert.equal(index.report.extractImport.blocks.Evernote_scrape,8553);
   assert.equal(123155+8553-index.report.extractImport.duplicates.length-(index.report.extractImport.deletedSelections?.length||0),count);
   assert.equal(index.subjects.filter(s=>s.name.startsWith('serving humanity;')).length,1);assert.ok(index.report.selections>100000);
-  const files=new Set((await fs.readdir('dist/'+stats.dataset+'subjects/passages')).map(f=>f.replace('.json.gz','')));assert.deepEqual(files,passageIds);assert.equal(passageIds.size,index.report.passages);assert.equal(accepted-passageIds.size,index.report.duplicateRanges);
-  for(const id of [...passageIds].slice(0,30)){const passage=await load('subjects/passages/'+id+'.json.gz');assert.equal(passage.id,id);assert.ok(passage.subjects.length);assert.ok(passage.selections.every(s=>seen.has(s.id)&&passage.subjects.includes(s.subject)));}
+  // Passages are grouped in one file per source, named like the source record.
+  const grouped=new Map();
+  for(const file of await fs.readdir('dist/'+stats.dataset+'subjects/passages')){const group=await load('subjects/passages/'+file);assert.equal(recordFilename(group.source),file);for(const [id,passage] of Object.entries(group.passages)){assert.ok(!grouped.has(id),id);grouped.set(id,{...passage,source:group.source});}}
+  assert.deepEqual(new Set(grouped.keys()),passageIds);assert.equal(passageIds.size,index.report.passages);assert.equal(accepted-passageIds.size,index.report.duplicateRanges);
+  for(const [id,passage] of grouped){assert.ok(passage.subjects.length,id);assert.ok(passage.ranges.length,id);assert.ok(passage.ranges.every(r=>Number.isInteger(r.paragraph)&&r.end>r.start),id);}
   for(const edge of index.edges){assert.ok(index.subjects.some(s=>s.id===edge.source));assert.ok(index.subjects.some(s=>s.id===edge.target));if(edge.status==='suggested'){assert.ok(edge.score>0&&edge.score<=1);assert.ok(edge.sharedParagraphs>=2);}}
 });
 

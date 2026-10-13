@@ -3,6 +3,7 @@ import path from 'node:path';
 import {createHash} from 'node:crypto';
 import {gzipSync} from 'node:zlib';
 import {fileURLToPath} from 'node:url';
+import {pdfBase} from '../src/pdf-hosting.mjs';
 
 export const auditFiles = [
   'study-guides/compiled.archive.json.br',
@@ -52,13 +53,22 @@ async function ordinaryDirectory(directory) {
 export async function preparePages(root,{commit='local',reuseVerifiedFiles=false}={}) {
   root=path.resolve(root);
   if(!/^(?:local|[a-f0-9]{40})$/.test(commit)) throw Error('Invalid publication commit');
-  const source=child(root,'dist'),destination=child(root,'public-site'),auditRoot=child(root,'publication-audit');
-  for(const directory of [source,destination,auditRoot]) await ordinaryDirectory(directory);
+  const source=child(root,'dist'),destination=child(root,'public-site'),auditRoot=child(root,'publication-audit'),pdfDestination=child(root,'pdf-site');
+  for(const directory of [source,destination,auditRoot,pdfDestination]) await ordinaryDirectory(directory);
   const stats=JSON.parse(await fs.readFile(path.join(source,'stats.json'),'utf8'));
   if(!/^collections\/[\w-]+\/$/.test(stats.dataset)) throw Error('Invalid active dataset');
   const manifest=JSON.parse(await fs.readFile(path.join(source,'study-guides/manifest.json'),'utf8'));
   if(manifest.dataset!==stats.dataset) throw Error('Study guides use a different dataset');
   const names=await listFiles(source),required=[...auditFiles,'build-state.json','study-guides/pilot.css'];
+  // With a separate PDF site, volume PDFs are staged in pdf-site/ instead of public-site/.
+  let pdfHosting=null;
+  if(names.includes('pdf-hosting.json')){
+    const config=JSON.parse(await fs.readFile(path.join(source,'pdf-hosting.json'),'utf8'));
+    const url=pdfBase(config);
+    if(config.url&&!url)throw Error('pdf-hosting.json url must be an https address ending in /');
+    if(url)pdfHosting={url,repository:config.repository||''};
+  }
+  const hostedPdf=name=>pdfHosting&&/^pdf-volumes\/volume-\d+\.pdf$/.test(name);
   for(const name of required) if(!names.includes(name)) throw Error('Missing publication input: '+name);
   for(const name of ['compiled.json','compiled.json.gz','compiled.archive.json.gz','validation.json','sentence-review.json'])
     if(names.includes('study-guides/'+name)) throw Error('Package study guides before publication: '+name);
@@ -96,7 +106,7 @@ export async function preparePages(root,{commit='local',reuseVerifiedFiles=false
   const excluded=[],files=[];
   const directories=new Set(names.map(name=>path.posix.dirname(name)).filter(name=>name!=='.'));
   for(const directory of directories) {
-    if(directory==='study-guides/fonts'||(directory.startsWith('collections/')&&!directory.startsWith(stats.dataset.slice(0,-1))))continue;
+    if(directory==='study-guides/fonts'||(pdfHosting&&directory==='pdf-volumes')||(directory.startsWith('collections/')&&!directory.startsWith(stats.dataset.slice(0,-1))))continue;
     await fs.mkdir(path.join(destination,directory),{recursive:true});
   }
   const rows=await parallelMap(names,async name=>{
@@ -107,6 +117,7 @@ export async function preparePages(root,{commit='local',reuseVerifiedFiles=false
     else if(name==='build-state.json')reason='build cache only';
     else if(expectedFonts.includes(name))reason='identical shared font';
     else if(name.startsWith('collections/')&&!name.startsWith(stats.dataset))reason='obsolete dataset';
+    else if(hostedPdf(name))reason='hosted on PDF site';
     if(reason)return {excluded:{...entry,reason}};
     const published=name==='study-guides/pilot.css'?Buffer.from(css):bytes;
     const target=path.join(destination,name);let unchanged=false;
@@ -124,6 +135,25 @@ export async function preparePages(root,{commit='local',reuseVerifiedFiles=false
       await fs.unlink(target);
     }
   }
+  let pdfSite=null;
+  if(pdfHosting){
+    // pdf-site/ is deployed to the separate PDF repository. Its manifest lets
+    // the deployment skip an unchanged PDF site and verify the live copies.
+    await fs.rm(pdfDestination,{recursive:true,force:true});await fs.mkdir(path.join(pdfDestination,'pdf-volumes'),{recursive:true});
+    const pdfs=await parallelMap(names.filter(hostedPdf),async name=>{
+      const bytes=await fs.readFile(path.join(source,name));await fs.writeFile(path.join(pdfDestination,name),bytes);
+      if(!(await fs.readFile(path.join(pdfDestination,name))).equals(bytes))throw Error('PDF copy changed: '+name);
+      return {path:name,bytes:bytes.length,sha256:sha256(bytes)};
+    },4);
+    if(!pdfs.length)throw Error('No volume PDFs to publish on the PDF site');
+    const pdfManifest=JSON.stringify({format:1,files:pdfs},null,1)+'\n';
+    await fs.writeFile(path.join(pdfDestination,'pdf-site.json'),pdfManifest);
+    await fs.writeFile(path.join(pdfDestination,'.nojekyll'),'');
+    await fs.writeFile(path.join(pdfDestination,'index.html'),'<!doctype html><meta charset="utf-8"><title>Partial Inventory volume PDFs</title><p>This site serves the volume PDFs used by the Partial Inventory browser\'s Volume view.</p>\n');
+    const pdfBytes=pdfs.reduce((sum,file)=>sum+file.bytes,0);
+    if(pdfBytes>=1_000_000_000)throw Error('PDF site exceeds hosting limit: '+pdfBytes);
+    pdfSite={...pdfHosting,files:pdfs.length,bytes:pdfBytes,manifestSha256:sha256(pdfManifest)};
+  }else await fs.rm(pdfDestination,{recursive:true,force:true});
   const marker=Buffer.from(JSON.stringify({format:1,commit,dataset:stats.dataset,studyGuides:Object.keys(manifest.subjects).length,contentManifestSha256:sha256(JSON.stringify(files))})+'\n');
   await fs.writeFile(path.join(destination,'publication.json'),marker);
   files.push({path:'publication.json',bytes:marker.length,sha256:sha256(marker)});files.sort((a,b)=>a.path.localeCompare(b.path,'en'));
@@ -131,7 +161,7 @@ export async function preparePages(root,{commit='local',reuseVerifiedFiles=false
   if(publicBytes>=1_000_000_000)throw Error('Public site exceeds hosting limit: '+publicBytes);
   const inventory=gzipSync(JSON.stringify(files),{level:9});
   const sourceBytes=rows.reduce((sum,row)=>sum+(row.excluded?.bytes??row.sourceBytes),0);
-  const summary={format:1,commit,dataset:stats.dataset,studyGuides:Object.keys(manifest.subjects).length,sourceBytes,publicBytes,savedBytes:sourceBytes-publicBytes,remainingBytes:1_000_000_000-publicBytes,publicFiles:files.length,manifestSha256:sha256(inventory),excluded};
+  const summary={format:1,commit,dataset:stats.dataset,studyGuides:Object.keys(manifest.subjects).length,sourceBytes,publicBytes,savedBytes:sourceBytes-publicBytes,remainingBytes:1_000_000_000-publicBytes,publicFiles:files.length,manifestSha256:sha256(inventory),pdfSite,excluded};
   await retain('files.json.gz',inventory);await retain('summary.json',Buffer.from(JSON.stringify(summary,null,2)+'\n'));
   return {...summary,auditDirectory};
 }

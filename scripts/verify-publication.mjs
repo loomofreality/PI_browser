@@ -39,8 +39,10 @@ for(const folder of ['data/','index/en/','index/original/','subjects/passages/']
 const selected=files.filter(file=>file.path.startsWith('study-guides/')||file.path.startsWith('fonts/')||!file.path.includes('/')||samples.has(file.path)||file.path===summary.dataset+'subjects/index.json.gz'||file.path===summary.dataset+'catalog.json.gz'||file.path===summary.dataset+'subjects/report.json'||file.path.startsWith(summary.dataset+'facets/')||/^vendor\/pdfjs\/pdf(?:\.worker)?\.mjs$/.test(file.path));
 let checked=0;
 await parallelMap(selected,async file=>{await check(file);checked++;if(checked%500===0)console.log(`Verified ${checked}/${selected.length} public files`);},8);
-const pdfs=files.filter(file=>file.path.startsWith('pdf-volumes/'));
-await parallelMap(pdfs,async file=>{const response=await request(file.path,'HEAD');assert.equal(response.status,200,file.path);assert.equal(Number(response.headers.get('content-length')),file.bytes,file.path);},8);
+// Volume PDFs are checked on the separate PDF site when one is configured.
+const pdfs=summary.pdfSite?summary.excluded.filter(file=>file.reason==='hosted on PDF site'):files.filter(file=>file.path.startsWith('pdf-volumes/'));
+const pdfRequest=summary.pdfSite?(name=>fetch(new URL(name,summary.pdfSite.url),{method:'HEAD',cache:'no-store'})):(name=>request(name,'HEAD'));
+await parallelMap(pdfs,async file=>{const response=await pdfRequest(file.path);assert.equal(response.status,200,file.path);assert.equal(Number(response.headers.get('content-length')),file.bytes,file.path);},8);
 const removed=summary.excluded.filter(file=>file.reason!=='obsolete dataset');
 await parallelMap(removed,async file=>assert.equal((await request(file.path,'HEAD')).status,404,'Excluded public file: '+file.path),8);
 const report={verifiedAt:new Date().toISOString(),base:base.href,commit:summary.commit,dataset:summary.dataset,studyGuides:summary.studyGuides,publicBytes:summary.publicBytes,remainingBytes:summary.remainingBytes,exactFiles:checked,pdfHeaders:pdfs.length,excludedFilesAbsent:removed.length,coverage:'Every study-guide page and payload, shared fonts, root interface files, sampled corpus records/search shards/passage links, facets and PDF availability. The build audit checks every staged public file byte-for-byte.'};

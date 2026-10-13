@@ -1,6 +1,6 @@
 """Apply exactly one local item to the current published archive; preserve other items."""
 from pathlib import Path
-import argparse, csv, gzip, importlib.util, io, json, tarfile
+import argparse, csv, importlib.util, io, json
 
 def patch(files, local, identity, policy):
     # Exact filenames preserve case-distinct IDs. Do not import unrelated local changes.
@@ -39,11 +39,7 @@ def main():
     if files==before:
         print('This item already matches the published source.')
         return
-    temporary=options.archive.with_suffix('.tmp')
-    with temporary.open('wb') as output, gzip.GzipFile(fileobj=output,mode='wb',filename='',mtime=0,compresslevel=9) as compressed,tarfile.open(fileobj=compressed,mode='w|',format=tarfile.PAX_FORMAT) as archive:
-        for name,contents in sorted(files.items()):
-            info=tarfile.TarInfo(name);info.size=len(contents);info.mode=0o644;archive.addfile(info,io.BytesIO(contents))
-    temporary.replace(options.archive)
-    print('Prepared one-item public archive for '+options.id)
+    changed=policy.write_archive(options.archive,files)
+    print(f'Prepared one-item public archive for {options.id} ({changed} changed shard(s))')
 
 if __name__=='__main__': main()

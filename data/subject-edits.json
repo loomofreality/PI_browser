@@ -44027,6 +44027,46 @@
     },
     "c2995f440663313a73bafe4c": {
       "status": "rejected"
+    },
+    "6cd33fdb5cbc44ee22b83a64": {
+      "status": "confirmed",
+      "note": "Reviewed after the AB03918 English correction (\"course\" to \"coarse\"): the supplied quotation matches the corrected paragraph apart from that spelling fix.",
+      "candidate": {
+        "source": "AB03918",
+        "version": "efbfe681aa6aa945a5b689d90556e10645f24654d67b6a77e40c60108bfb9190",
+        "ranges": [
+          {
+            "paragraph": 1,
+            "paragraphId": "AB03918@efbfe681aa6aa945a5b689d90556e10645f24654d67b6a77e40c60108bfb9190:en:1",
+            "start": 134,
+            "end": 340,
+            "text": "in the end their plush beds will be transformed into coarse mats and humble dust within a narrow tomb. Their names and titles will be forgotten, and their days of ease and nights of pleasure will pass away."
+          }
+        ],
+        "method": "editorial",
+        "score": 1,
+        "evidence": "Exact supplied wording in the corrected source except the corrected spelling of coarse"
+      }
+    },
+    "583c98207679360a87eeb0e8": {
+      "status": "confirmed",
+      "note": "Reviewed after the AB03918 English correction (\"course\" to \"coarse\"): the supplied quotation matches the corrected paragraph apart from that spelling fix.",
+      "candidate": {
+        "source": "AB03918",
+        "version": "efbfe681aa6aa945a5b689d90556e10645f24654d67b6a77e40c60108bfb9190",
+        "ranges": [
+          {
+            "paragraph": 1,
+            "paragraphId": "AB03918@efbfe681aa6aa945a5b689d90556e10645f24654d67b6a77e40c60108bfb9190:en:1",
+            "start": 34,
+            "end": 340,
+            "text": "Although the wives of the rich and the powerful are accustomed to fine clothes and pillows of silk, in the end their plush beds will be transformed into coarse mats and humble dust within a narrow tomb. Their names and titles will be forgotten, and their days of ease and nights of pleasure will pass away."
+          }
+        ],
+        "method": "editorial",
+        "score": 1,
+        "evidence": "Exact supplied wording in the corrected source except the corrected spelling of coarse"
+      }
     }
   },
   "relationships": [

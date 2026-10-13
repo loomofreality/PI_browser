@@ -2,6 +2,7 @@ import fs from 'node:fs/promises';
 import path from 'node:path';
 import {createHash,randomUUID} from 'node:crypto';
 import {parseCsv} from '../src/text.mjs';
+import {decodeSource} from './source-encoding.mjs';
 
 const sha=bytes=>createHash('sha256').update(bytes).digest('hex');
 const folders=['original_texts - copy','translated_texts - copy'];
@@ -10,7 +11,7 @@ export function csvText(rows,fields){
   const cell=value=>'"'+String(value??'').replaceAll('"','""')+'"';
   return [fields.map(cell).join(','),...rows.map(row=>fields.map(field=>cell(row[field])).join(','))].join('\n')+'\n';
 }
-export function decode(bytes){try{return new TextDecoder('utf-8',{fatal:true}).decode(bytes);}catch{return new TextDecoder('windows-1252').decode(bytes);}}
+export function decode(bytes){return decodeSource(bytes).text;}
 export class ItemStore{
   constructor(root){this.root=path.resolve(root);}
   async snapshot(id){

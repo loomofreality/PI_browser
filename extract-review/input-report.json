@@ -2320,13 +2320,6 @@
       "removedSource": "subjects_inv_length_ordered"
     },
     {
-      "subject": "D60E2E5B3B2C4B2796B8B06FF4D08157",
-      "kept": "97a159aaa91d753d27d8f5eb",
-      "removed": "5fce20b91a6d3838abe377ed",
-      "keptSource": "Evernote_scrape",
-      "removedSource": "subjects_inv_length_ordered"
-    },
-    {
       "subject": "9D225CE8D12B4E9A839E9EB4935226A2",
       "kept": "d050f7ccc9bb52d9d25ec647",
       "removed": "b3e5f6ce050e73d8be04925e",
@@ -3625,13 +3618,6 @@
       "subject": "AEF71C54D9B047EB8B92DBF1831755FA",
       "kept": "0f08986a26e95b887a0e6818",
       "removed": "a778f77fb60f6062431a8ffb",
-      "keptSource": "Evernote_scrape",
-      "removedSource": "subjects_inv_length_ordered"
-    },
-    {
-      "subject": "AEF71C54D9B047EB8B92DBF1831755FA",
-      "kept": "564545d63a98aed93758d2b4",
-      "removed": "67a0f8e77667106c77878f74",
       "keptSource": "Evernote_scrape",
       "removedSource": "subjects_inv_length_ordered"
     },
@@ -10785,7 +10771,7 @@
     "8855e9458b2cef094657cc6e"
   ],
   "reviewCounts": {
-    "subjects_inv_length_ordered": 34,
-    "Evernote_scrape": 2252
+    "subjects_inv_length_ordered": 232,
+    "Evernote_scrape": 2313
   }
 }
