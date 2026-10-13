@@ -36,7 +36,9 @@ export function checkGuide(original,edited){
   if(new Set(edited.order.map(x=>x?.key)).size!==keys.length||edited.order.some(x=>!keys.includes(x?.key)))fail('Every reading entry must stay in the guide exactly once.');
   let unlinked=false;
   for(const [i,entry] of edited.order.entries()){
-    if(Object.keys(entry).some(k=>k!=='key'&&k!=='why'))fail('Reading entries can only be moved or have their note changed.');
+    // A shortened passage keeps its reviewed kept sentences wherever it moves.
+    const before=original.order.find(x=>x.key===entry.key);
+    if(Object.keys(entry).some(k=>k!=='key'&&k!=='why'&&k!=='shortened')||JSON.stringify(entry.shortened)!==JSON.stringify(before.shortened))fail('Reading entries can only be moved or have their note changed.');
     text(entry.why,`The note for reading ${i+1}`,{multiline:false});
     if(entry.key.startsWith('selection:'))unlinked=true;
     else if(unlinked)fail(`Reading ${i+1} is linked to a catalog source, so it must come before the supplied quotations (“Further quotations”).`);

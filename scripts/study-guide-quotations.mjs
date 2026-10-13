@@ -36,6 +36,8 @@ export async function guideQuotations(guide,read){
     const s=g.selections[0];
     return [key,{source:null,linked:false,quotations:1,text:(s.excerpt||s.original||'').trim(),reference:s.reference||(s.suppliedIds||[]).join(', ')||''}];
   }));
+  // A shortened entry previews the sentences the guide keeps.
+  for(const x of guide.order)if(x.shortened&&entries[x.key])entries[x.key].text=x.shortened.join(' … ');
   const names=Object.fromEntries(index.subjects.map(s=>[s.id,s.name]));
   const missing=guide.order.filter(x=>!entries[x.key]).length;
   return {subject:data.subject.name,entries,neighbors:Object.fromEntries(guide.neighbors.map(n=>[n.id,names[n.id]||n.id])),

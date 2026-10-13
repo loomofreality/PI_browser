@@ -221,3 +221,31 @@ test('build refuses stale source wording, incomplete ordering, and too many ques
   f.config.questions.pop();f.config.order.pop();await f.saveConfig();
   await assert.rejects(buildStudyGuides(f.root,f.out,dataset),/every group exactly once/);
 });
+
+test('a shortened reading shows only its kept whole sentences, verbatim, and keeps the full passage as context',async t=>{
+  const f=await fixture(t),plain='<Word> in context. A middle sentence. The essential idea.',second='A following paragraph.';
+  await f.zip('data/'+recordFilename('FIXTURE00001'),{id:'FIXTURE00001',enVersion:'v1',metadata:{Authorized:'Y2'},en:{paragraphs:[{plain},{plain:second}]},original:{paragraphs:[]},paired:false});
+  f.data.selections[0].candidates[0].ranges=[{paragraph:1,start:0,end:plain.length,text:plain},{paragraph:2,start:0,end:second.length,text:second}];
+  f.data.selections[1].candidates[0].ranges=[{paragraph:1,start:0,end:6,text:'<Word>'}];
+  f.data.selections[2].excerpt='First supplied sentence. Second supplied sentence. Third supplied sentence.';
+  await f.saveData();
+  f.config.order[0].shortened=['<Word> in context.','The essential idea.',second];
+  f.config.order[1].shortened=['Second supplied sentence. Third supplied sentence.'];
+  await f.saveConfig();
+  await buildStudyGuides(f.root,f.out,dataset);
+  const read=name=>fs.readFile(path.join(f.out,'study-guides',name),'utf8');
+  const pdf=await read('sample-pdf.html');
+  assert.match(pdf,/<blockquote><p>&lt;Word&gt; in context\. … The essential idea\.<\/p><p class="authorized">A following paragraph\.<\/p><\/blockquote>/);
+  assert.match(pdf,/<mark>&lt;Word&gt; in context\.<\/mark> A middle sentence\. <mark>The essential idea\.<\/mark>/);
+  assert.match(pdf,/<blockquote><p>Second supplied sentence\. Third supplied sentence\.<\/p><\/blockquote>/);
+  const compiled=JSON.parse(await read('compiled.json')).subjects[0].compiled;
+  assert.equal(compiled[0].shortened,true);assert.equal(compiled[0].paragraphs[0].text,'<Word> in context. … The essential idea.');
+  // Kept wording must be verbatim whole sentences of the passage, in order.
+  for(const [kept,message] of [[['A middle'],/sentence boundaries/],[['The essential idea.','<Word> in context.'],/out of order/],[['An invented sentence.'],/not in the passage/],[[plain,second],/whole passage/]]){
+    f.config.order[0].shortened=kept;await f.saveConfig();
+    await assert.rejects(buildStudyGuides(f.root,f.out,dataset),message);
+  }
+  // A passage with an authorized translation keeps authorized wording.
+  f.config.order[0].shortened=['The essential idea.'];await f.saveConfig();
+  await assert.rejects(buildStudyGuides(f.root,f.out,dataset),/omits its authorized wording/);
+});

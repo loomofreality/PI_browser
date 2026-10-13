@@ -12,6 +12,7 @@ import {authorizedRanges,isAuthorizedParagraph} from '../src/translation-status.
 import {completeSentenceParagraphs,boundaryConcerns,locateSuppliedParagraphs} from './study-guide-sentences.mjs';
 import {studyGuideSelections,verifyCatalogueBaseline} from './study-guide-catalogue.mjs';
 import {selectStudyGuideQuotations} from './study-guide-selection.mjs';
+import {shortenParagraphs,shortenSupplied} from './study-guide-shortening.mjs';
 
 // Generate against the same versioned records used by the subject reader. A
 // changed quotation or subject membership must be reviewed before rebuilding.
@@ -90,6 +91,7 @@ for(const config of editorial.subjects){
   for(const [position,g] of ordered.entries()){
     let quote='',context='',citation='',note='';
     const entry={position:position+1,key:key(g),selectionIds:g.selections.map(s=>s.id),source:g.source,paragraphs:[]};
+    const shortened=config.order[position].shortened,label=`${config.slug} reading ${position+1}`;
     const restoration=sentenceContext.find(x=>x.slug===config.slug&&x.key===key(g));
     if(g.source||restoration){
       const record=await read('data/'+recordFilename(g.source||restoration.source));
@@ -108,12 +110,16 @@ for(const config of editorial.subjects){
       if(restoration&&(restoration.sourceVersion!==record.enVersion||restoration.suppliedSha256!==digest(supplied.original)||!((supplied.suppliedIds||[]).includes(record.id)||reviewedReference)))throw Error(`Stale or uncited sentence context: ${config.slug}`);
       const selected=g.source?groupedParagraphs(g):locateSuppliedParagraphs(record,supplied.excerpt||supplied.original);
       const sentences=completeSentenceParagraphs(record,selected);
-      const paragraphs=sentences.paragraphs,authorization=authorizedRanges(record.metadata?.Authorized);
+      const authorization=authorizedRanges(record.metadata?.Authorized);
+      const paragraphs=shortened?shortenParagraphs(record,sentences.paragraphs,shortened,label):sentences.paragraphs;
+      // A shortened passage with an authorized translation keeps authorized wording.
+      if(shortened&&sentences.paragraphs.some(p=>isAuthorizedParagraph(authorization,p.number))&&!paragraphs.some(p=>isAuthorizedParagraph(authorization,p.number)))throw Error(`Shortened passage omits its authorized wording: ${label}`);
       entry.selectedParagraphs=selected;
       entry.sentenceContextExpanded=sentences.changed;
-      entry.boundaryIssues=sentences.issues;
-      if(sentences.issues.length){
-        boundaryReview.push({slug:config.slug,title:config.displayTitle,position:position+1,key:key(g),source:record.id,issues:sentences.issues,kind:'source wording'});
+      entry.boundaryIssues=shortened?paragraphs.flatMap(p=>p.ranges.map(r=>record.en.paragraphs[p.number-1].plain.slice(r.start,r.end))).flatMap(t=>boundaryConcerns(t).map(issue=>({issue,text:t}))):sentences.issues;
+      if(shortened)entry.shortened=true;
+      if(entry.boundaryIssues.length){
+        boundaryReview.push({slug:config.slug,title:config.displayTitle,position:position+1,key:key(g),source:record.id,issues:entry.boundaryIssues,kind:'source wording'});
         note='<p class="meta">The available source contains an omission or incomplete wording; sentence boundaries need review.</p>';
       }
       citation=passageCitation(record,sourceUrl(record.id,config.id,paragraphs[0].number));
@@ -121,16 +127,23 @@ for(const config of editorial.subjects){
       for(const [i,p] of paragraphs.entries()){
         const plain=record.en.paragraphs[p.number-1].plain;
         const parts=p.ranges.map(r=>plain.slice(r.start,r.end));
-        const gap=i&&p.number>paragraphs[i-1].number+1?'… ':'';
+        const gap=i&&(p.gap||p.number>paragraphs[i-1].number+1)?'… ':'';
         const authorized=isAuthorizedParagraph(authorization,p.number);
         quote+=`<p${authorized?' class="authorized"':''}>${gap}${parts.map(esc).join(' … ')}</p>`;
+        entry.paragraphs.push({number:p.number,ranges:p.ranges,text:parts.join(' … '),authorized});
+        paragraphCount++;
+      }
+      // Source context shows every paragraph of the full passage, marking the kept wording.
+      for(const [i,p] of sentences.paragraphs.entries()){
+        const plain=record.en.paragraphs[p.number-1].plain;
+        const marked=paragraphs.find(x=>x.number===p.number)?.ranges||[];
+        const gap=i&&p.number>sentences.paragraphs[i-1].number+1?'… ':'';
+        const authorized=isAuthorizedParagraph(authorization,p.number);
         let highlighted='',end=0;
-        for(const r of p.ranges){highlighted+=esc(plain.slice(end,r.start))+'<mark>'+esc(plain.slice(r.start,r.end))+'</mark>';end=r.end;}
+        for(const r of marked){highlighted+=esc(plain.slice(end,r.start))+'<mark>'+esc(plain.slice(r.start,r.end))+'</mark>';end=r.end;}
         highlighted+=esc(plain.slice(end));
         const original=record.paired?record.original.paragraphs[p.number-1]?.plain:null;
         contexts.push(`<div class="context-pair"><div><span class="meta">English · paragraph ${p.number}</span><p${authorized?' class="authorized"':''}>${gap}${highlighted}</p></div>${original?`<div><span class="meta">Original · paragraph ${p.number}</span><p dir="rtl">${gap}${esc(original)}</p></div>`:''}</div>`);
-        entry.paragraphs.push({number:p.number,ranges:p.ranges,text:parts.join(' … '),authorized});
-        paragraphCount++;
       }
       const hasOriginal=record.original?.paragraphs?.length>0;
       const alignment=record.paired?'Parallel paragraphs follow the source’s matching paragraph counts; this is positional pairing.':hasOriginal?'English and original paragraph counts differ. Read the independent language columns in the full catalogue record.':'Original text unavailable for this record.';
@@ -152,7 +165,9 @@ for(const config of editorial.subjects){
       }
     }else{
       const s=g.selections[0];
-      quote=`<p>${esc(s.excerpt||s.original||'')}</p>`;
+      const wording=s.excerpt||s.original||'';
+      quote=`<p>${shortened?shortenSupplied(wording,shortened,label).map(esc).join(' … '):esc(wording)}</p>`;
+      if(shortened)entry.shortened=true;
       citation=`<span class="passage-citation">${esc(s.reference||(s.suppliedIds||[]).join(', ')||'Source reference not supplied')}</span>`;
       const approximate=s.status==='approximate'?s.candidates?.[0]:null;
       if(approximate){
@@ -163,7 +178,7 @@ for(const config of editorial.subjects){
       }else note='<p class="meta">Supplied quotation · catalogue passage not verified</p>';
       context=`<details class="context"><summary>Read supplied wording and reference</summary><p>${esc(s.original||s.excerpt)}</p><p class="meta">This entry retains the supplied wording and attribution.${approximate?' The catalogue reference is approximate and is not substituted for the quotation.':' No verified passage mapping is available in the reviewed collection.'}</p></details>`;
       entry.excerpt=s.excerpt;entry.original=s.original;entry.reference=s.reference;
-      entry.boundaryIssues=boundaryConcerns(s.excerpt||s.original||'');
+      entry.boundaryIssues=shortened?shortenSupplied(wording,shortened,label).flatMap(boundaryConcerns):boundaryConcerns(wording);
       if(entry.boundaryIssues.length){
         boundaryReview.push({slug:config.slug,title:config.displayTitle,position:position+1,key:key(g),issues:entry.boundaryIssues,excerpt:s.excerpt||s.original,reference:s.reference,kind:'supplied quotation'});
         note+='<p class="meta">Sentence boundary needs source review; the supplied wording is retained.</p>';
@@ -192,7 +207,7 @@ for(const config of editorial.subjects){
   const references=config.references.map(r=>`<li><a href="${safeUrl(r.url)}">${esc(r.label)}</a><p>${esc(r.note)}</p></li>`).join('');
   const counts=`${config.selection?`${selections.length} chosen quotations from ${candidateCount}`:`${selections.length} selection${selections.length===1?'':'s'}`} · ${groups.length} reading ${groups.length===1?'entry':'entries'}`;
   const heading=`<h1>${esc(config.displayTitle)}</h1><p class="meta compilation-count">${counts} · <a href="${esc(linkSubject(config.id))}">Current subject view ↗</a></p>`;
-  const sequenceNotes=`<details class="editorial"><summary>About this reading sequence</summary><p>${esc(config.arc)}</p><p>${config.selection?`This guide contains ${selections.length} chosen quotations from the ${candidateCount} public selections, including every verified authorized translation. The complete original compilation remains available in Subject view.`:'All currently public selections are retained.'} Linked selections expand to their surrounding sentences in the same source; overlapping sentences appear once. Ellipses mark separated ranges. Distinct records and unlinked quotations remain distinct. Expand a linked passage for its paragraph context. Incomplete source wording and unresolved supplied excerpts are flagged for review. Blue quotation text follows existing catalogue authorization markings.</p><ol>${config.order.map(x=>`<li>${esc(x.why)}</li>`).join('')}</ol></details>`;
+  const sequenceNotes=`<details class="editorial"><summary>About this reading sequence</summary><p>${esc(config.arc)}</p><p>${config.selection?`This guide contains ${selections.length} chosen quotations from the ${candidateCount} public selections, including every verified authorized translation. The complete original compilation remains available in Subject view.`:'All currently public selections are retained.'} Linked selections expand to their surrounding sentences in the same source; overlapping sentences appear once. Long passages may be shortened to the sentences that carry their central idea; the wording is unchanged, and the source context shows the full passage. Ellipses mark separated ranges. Distinct records and unlinked quotations remain distinct. Expand a linked passage for its paragraph context. Incomplete source wording and unresolved supplied excerpts are flagged for review. Blue quotation text follows existing catalogue authorization markings.</p><ol>${config.order.map(x=>`<li>${esc(x.why)}</li>`).join('')}</ol></details>`;
   const introduction=`<section class="introduction" aria-label="Editorial introduction"><p>${withReferences(config.introduction,config.references)}</p></section>`;
   const exploration=`<section class="exploration">${neighbors.length?`<h2>Continue exploring</h2><ul class="connected-subjects">${neighbors.join('')}</ul>`:''}${references?`<aside class="comparative"><h3>Comparative reading</h3><ul>${references}</ul></aside>`:''}</section>`;
   const questions=config.questions.length?`<section id="questions" class="questions"><p class="eyebrow">For thought and discussion</p><h2>Questions to carry forward</h2><ol>${config.questions.map(q=>`<li>${esc(q)}</li>`).join('')}</ol></section>`:'';

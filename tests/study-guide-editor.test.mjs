@@ -32,6 +32,12 @@ test('editorial wording and order can change; reviewed structure cannot',()=>{
   g=edit();g.order.pop();assert.throws(()=>checkGuide(original,g),/exactly once/);
   g=edit();g.order[1].key='source:X1';assert.throws(()=>checkGuide(original,g),/exactly once/);
   g=edit();g.order[0].why=' ';assert.throws(()=>checkGuide(original,g),/note for reading 1/);
+  // Kept sentences of a shortened reading move with it but cannot be edited here.
+  const shortened=edit();shortened.order[1].shortened=['Kept sentence.'];
+  g=structuredClone(shortened);g.order.reverse();g.order.push(g.order.shift());
+  assert.deepEqual(checkGuide(shortened,g).order[1].shortened,['Kept sentence.']);
+  g=structuredClone(shortened);g.order[1].shortened=['Another sentence.'];assert.throws(()=>checkGuide(shortened,g),/moved or have their note changed/);
+  g=edit();g.order[0].shortened=['Added.'];assert.throws(()=>checkGuide(original,g),/moved or have their note changed/);
   g=edit();g.questions=['One?'];assert.throws(()=>checkGuide(original,g),/exactly 3 questions/);
   g=edit();g.questions.push('Four?');assert.throws(()=>checkGuide(original,g),/exactly 3 questions/);
   g=edit();g.questions[1]=g.questions[0];assert.throws(()=>checkGuide(original,g),/identical/);
