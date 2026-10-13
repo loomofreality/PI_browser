@@ -5,6 +5,312 @@
       "id": "4527819F4272482F94777C3D36326FD4",
       "slug": "moraleducation",
       "displayTitle": "Education of children: discovering the treasures within",
+      "selection": {
+        "review": "selections/moraleducation.json",
+        "sha256": "3b7de682dee66787de7513710e3cf120c014c02d3437c8ff09d9d87aa4cfc6d2",
+        "ids": [
+          "9f22a8cb3cc94cbc5ece7de8",
+          "a15bdfe407c2921101d62163",
+          "d021475de242219fdd0d8066",
+          "48e909f73d93c577f0fc78d6",
+          "f061c33989eb70298b03f25a",
+          "c5848c969fab29fe33236af6",
+          "ca6d6108aa3bcc3a7ddd6dde",
+          "a0c53956af6fb8694efffddd",
+          "81861b40ad07381f959b0d22",
+          "05b12a13910709a5634d90b6",
+          "dc25e5369bafa7bf687cc29a",
+          "636ab6eb6cfa430d90fb9d23",
+          "6a3309371367412de2e78b71",
+          "fc3746a09563dec0be827176",
+          "ea01d1919786b0a31bdcbe65",
+          "49062a1d73dea6b38d05dec8",
+          "1114b510e8a3a9a11423ee8a",
+          "ec076e834c2a82e4107cb9cb",
+          "165876da9f2cebf6d22e7cc7",
+          "46ff121e1e5e4fb89c12241d",
+          "336545c9ad5cdab5e9f2f513",
+          "eb2b5842912e04d98471070f",
+          "c141aebef522c26dea23239c",
+          "f0d3b6109173f70db85259a1",
+          "adce1eea3444efa8a5b2b996",
+          "8520c4718654df119be50999",
+          "79621016da7d713c6531376a",
+          "40cda14eb00ff20d5cc39edb",
+          "211f52bfc47f07a52b35cef9",
+          "5631f771728629ae444b3868",
+          "4925367eb925ace3a8f82a84",
+          "0fc499e64d1bba84b96f9c78",
+          "1938d889a54e2c29eecedc67",
+          "6d503e6f7120142e037021be",
+          "3ea0c79e8bd9f0c7643eb1a8",
+          "7f1e797f5c16970996b6acaf",
+          "fbd307b8274c2aedd5f4347b",
+          "a2880456054d5bb69a089c81",
+          "730db8c8631d46db6e0fca79",
+          "8b33ffe0224d961b42170662",
+          "900362e99073148916889d17",
+          "9a2982d9bb20b347bc0c3dc0",
+          "fcb2860cd132e3e9673042fd",
+          "cd9d6a2ef4f43aa35395abb2",
+          "d24678d48f1e7012545d7621",
+          "341e8ed232d01dac87a06e16",
+          "e7c00564b50c9c6abe012e42",
+          "837b07d097fec892429864c6",
+          "8d86c4936f1ab4728edee6e6",
+          "c62dcafeac2749ecf8a5af06",
+          "128cf483279afe4347858277",
+          "46751e2e37db8e4f250aef7a",
+          "8781372d694bb8269ceb35d6",
+          "6901d35ca32d8b33a3434735",
+          "3e1316723f2c10143a12f536",
+          "9f5c5b3bf11fa7e51001f293",
+          "77ae8ddca6f5dd19cc1c5aa4",
+          "afd95d0a07a956b72ee5a62a",
+          "14237aa6dfce2769cc96287c",
+          "9b601b71722e80223fb7f5ca",
+          "3a0198266befacbdaf637329",
+          "892ed5da499a5a663194f409",
+          "a3f2c8df671b0be26b8c9c21",
+          "d8c99d6fc6175792c8eed8d3",
+          "50750b0f18c3a3891e8148a0",
+          "b3ccdc7efb61d57315156f55",
+          "9d0db21b61b14b87853c248c",
+          "07d080e097a78bd05a6a7096",
+          "f2aea4447a39d7159948fe45",
+          "6a362661e8c8467c5205ae03",
+          "4bb59409c65885f3a3b174b5",
+          "bc2700e132fbbd9f26bfab5f",
+          "5804a7fa0867eee8d0ae2ae8",
+          "ed65c51fde9c5418598287fb",
+          "a375ebeb6be5285303681404",
+          "34c2380f581e56ff4208e295",
+          "60ac9c3a42ce740f3abeae0d",
+          "2516b454c0635e2926b9d717",
+          "ae3e3636be4d80c93206bb3b",
+          "6da9442476b034fc93951095",
+          "212d16727ba438f844a59adc",
+          "659dd84db8d9ceca5712a594",
+          "2843115fc3c58de1e445b1b2",
+          "e16938b2f91c33a4d10b6d4c",
+          "7eecfba6fd44d9e6bfab73f5",
+          "9ef286cd7cb6e7af2cebdea4",
+          "59df7f0ebf45a75286d119aa",
+          "881c6c89b596c96420d26b47",
+          "560a5ca450e28530f1bb3db7",
+          "f8abf2289dcf973f94d73ee5",
+          "3e6b57590b2b229462a46dcd",
+          "ecbe1848e60bc55950f70a38",
+          "51854fd49e246237a502d9a3",
+          "b7195ca2b21be37f04b9a1f7",
+          "1e489c55374e7d66c7532719",
+          "7695f8e2f07229daba1887f1",
+          "ead0439a009c0b27dfeb0235",
+          "cffee22974450b6749058ef6",
+          "db5bb66d4faa7b500e671a04",
+          "18cc8551a1649148cab5df20",
+          "9059ed6ec67dcd561e1c46b5",
+          "f15c2f24c98f299ec9859fb7",
+          "2214b5ddb8fc3b78ccae038f",
+          "1cf78d57e76fd3c74eddcf85",
+          "1b0904dd74c176bf18255c67",
+          "0748a85392cb78ef991f7708",
+          "3a4fa738e01cbccd088380c4",
+          "9b5b519f5b528792b83f1a80",
+          "8e169a6bcf0100c9e4dc52e5",
+          "c980bc110607fa3af176aa0e",
+          "53b0670a542d6f739ba73661",
+          "1766ca6e6e66c93e9d6c46ac",
+          "4d61804f1525619f0d2e0abf",
+          "474df0a6d071fcdc438dc870",
+          "f0c495b750a637482c582640",
+          "d1088effc675c6e0f03ffc5c",
+          "65c95f534255add41f948710",
+          "5367aea3fabc049b5c2b71c0",
+          "8e23c77a1f2d69fcbf641f0a",
+          "720e047bbffae01b2093f38f",
+          "a7a7e16d66126a3305f8d660",
+          "26f369d578f3ebf22c87fe2a",
+          "14b2de88184db0cab4b460ba",
+          "524f8e25ea4484e7ff19fbe8",
+          "668a577318add1a76d46a115",
+          "c5c97962b409cdc34f99d0ae",
+          "7c3e05fc29b6d53c93e1457a",
+          "1a4aea0d35696abc1dd2269b",
+          "5d9460f7b717fd84febf87c9",
+          "9cf7725d20e4614bfac0767b",
+          "554f9c7ce0a70619b5086813",
+          "feb780f2921f8a469681364c",
+          "dba110c744feb984443f0ccd",
+          "5f23bab27a25652e08e6fd9c",
+          "e42d43d4ab2ca402b23d6ba0",
+          "217286051994d2226fe0433d",
+          "ae4aec7c24d397604d6b783c",
+          "7b3b4c29884b9fb95acdcb15",
+          "7c3369904bce889fa303c435",
+          "8e41da6e524db5837773d00c",
+          "97f463728995a729effa6962",
+          "9fef37db424693aecdfd1d6e",
+          "0533308d098ac9b2eb5ce606",
+          "1073640ab1436838236ac56d",
+          "2bceadabd789c5539e87c369",
+          "7104f664e2572e12de2e2ab4",
+          "7b6072cac439688e9cbc3955",
+          "efaa4f4c80603bec2c230e15",
+          "3ca07eb8f51eb5ff5a4cf333",
+          "7497ab6139008bba83796379",
+          "3206ef3d1d4e2c413dda7bf0",
+          "2f9daf0c8abaa2fa5c8fd968",
+          "c3bed9f2ea10bc66a1ac75dc",
+          "6c46ff7e1d87d4fe32c61ecf",
+          "4761b82855033407d17233cb",
+          "b35fda2b64bfb983db354b53",
+          "c1a1d5e094701549be13a946",
+          "27b1314fa4d9a5dc38d38ae7",
+          "b0d6edd3f3f760fb66b5d011",
+          "66ef0f8539ef99eb3757bd50",
+          "cd5257886058dfc98330d653",
+          "a68d979f716669b2cfe82f74",
+          "1f21452b81bcf345170c4953",
+          "59e8f9f46911d5631d28a4b7",
+          "298cc32403e512662af4e498",
+          "73cbd83ae1db9ea18644b82f",
+          "afc60b42a7f86ac4823cd78a",
+          "fc2038be7ec87e574faa3c09",
+          "5b09d75d84b6364d17922919",
+          "7eeb8185f114a14bacce1e29",
+          "1c58378eb227eebd890ec7a1",
+          "0a4ed9a89505d8f225ed7a6f",
+          "894fb7d99378ef15ac5e2577",
+          "d3f24aa680cbb453071f64c3",
+          "d9401fff36e3740bb2037fe5",
+          "57b53773bfcb03842b5675c1",
+          "16f1adb0998235c56cd4e669",
+          "3a389a2e8a07f4ae3fe676df",
+          "acf8b6c667b6f0244174a3ef",
+          "5e1908ab63f3bd0eb69d8987",
+          "27019a3d7cea677e55f7185d",
+          "4647813fdb03f410035d363b",
+          "71bcf09482635e333e432db1",
+          "5759d5c13c9f460df19f3bc8",
+          "646156751f92f3dd22bdcf97",
+          "892d3d062a37084f8e2069ba",
+          "c73e7ef88cd9d2c17ce9eb91",
+          "3da7669ac28ce91f0abbe31b",
+          "dc7f506d10234726372624e1",
+          "d4d353a2baf7ada37db6c430",
+          "55475bed4856884510f12da0",
+          "7cc397c6b619576a82d1f696",
+          "522c9b7b4f0f026333536aa5",
+          "5e85bb1477d448a5b710ee34",
+          "d2985ea0b54b36461d076567",
+          "50bef190a7687ddc7c02666b",
+          "40b0e9c2773f5c537522e286",
+          "6208b1e0639e4c47bce3895b",
+          "56a9717174fc2cbfe73940c2",
+          "51ae81af24b4a2a278383221",
+          "945c481be5001eb2d91e6eab",
+          "fdad5da4f1b05792c439c01a",
+          "653405c7428c67caa73899f3",
+          "d2b3585a1c2dc491f591ed6b",
+          "2224b784ff5945437b912455",
+          "661bbe138260c617e547fdfc",
+          "a1d994ecda86bf0d6855f60b",
+          "50f4b7f4ce010c5b2872187e",
+          "e92275b15a1cf471654295f2",
+          "a08f708871f84810d5df35c9",
+          "b3037b3ec14361d5b9785342",
+          "bb1c051e937ab9703bff5df9",
+          "0215737e9e4a16c53eafe355",
+          "6fb074533b08b36816b1cdcc",
+          "8febad0b28e8f2d2cd258f58",
+          "a67bc3568b9aabe26544c742",
+          "db27a4e7ae4a0dfbc69e5af7",
+          "07898e77e9f9e423a49eed10",
+          "d237c1bd87a705b272c829fe",
+          "b200ee9c461a81fc779dde13",
+          "c8194be2082424a31bf2604a",
+          "05e290c616169be59f72a301",
+          "c56b8314a4dfd60f96207cb6",
+          "42f30ae0001ccc622d963ad6",
+          "46246376c918b42f613c7735",
+          "1df056de1b9fa7aac80cdec9",
+          "c86341ba5396f9c7260d8cc2",
+          "7131c42b2410210d3daff123",
+          "705dbb90df2f31dcb7c32663",
+          "96b8d5998335f714ef7b52dc",
+          "435f3ec53538350778eb5478",
+          "9c17c82e9f96dfd439390b91",
+          "f94be90f10cdfe5652eb7a7d",
+          "2d3cc34e0454741f0930a1c4",
+          "8d4b82e453ce6f3c58f570ca",
+          "ce8a87f1b4eec6d1aec54ec6",
+          "d538798445e66511ed9ebe86",
+          "5968206557c2788a68fb4390",
+          "a569e20ab35647d24da7fcb8",
+          "340a993ce22dd58b0567bd33",
+          "7c9c9a53b178b12105f5de65",
+          "364708d7b2e70383046e4d34",
+          "f2b700b97885bc8ee0efe6b0",
+          "387d3974be2ad14b93d4abbf",
+          "9e03959e5edf465d84f5d389",
+          "3e62bcb3af54ec9ce08c77c1",
+          "f19362f36fd364261226e1f6",
+          "ad5335faabcc4d4408295752",
+          "e7b4a6cc4ba48e41f59ab933",
+          "52da9c48108e264748b02256",
+          "74585bb8be24ec2835b80449",
+          "4d641702aaa3f40a430b88a5",
+          "16da21d7e398432e1d87a407",
+          "e0779f4fb843b1dfd16a74d4",
+          "8a3b46bce90a3ad296d34782",
+          "fb7f59deed2653105d6a25d9",
+          "a5c30bad693500ad71f461aa",
+          "476c03e80df1a3eb64edceec",
+          "44032626c5f0871b7d16dcb2",
+          "30ff1932f0e3632b9f1b17f8",
+          "586ff7735381e469135cb8c3",
+          "3d3b6200825dacb4b0a769ae",
+          "eeb91c89f60b330fd77476b6",
+          "8f9db3f6fbb93952cdff0450",
+          "fc9b444f5eaf07e78aec347d",
+          "6335a4a19a601d0015a29266",
+          "99b4847805b374a97aff115d",
+          "69355320dcc3e0870c2e592f",
+          "407d996601566872b24a0dc0",
+          "88fcaabbf7def9d2e7a4486f",
+          "1eee07552b30f79c1980cc51",
+          "c334470802bfab14a5a2a4b4",
+          "6a55fe15e2e44d0a7d26ed6c",
+          "eb1093b276d0b824421f7932",
+          "15429e21ca37988aa7622c45",
+          "d6bd4dbe34c72d41dd25041b",
+          "da958f32d689212bd5515353",
+          "2accb88a3cd3c1960800456e",
+          "7f749d89f14058edd68db85e",
+          "d4224ce6239577f94a9ebffb",
+          "b41b825c889438cc6ec2d67b",
+          "d11ece38a6e50cba5583ccb8",
+          "4da52e2df0b3c35225c4bc59",
+          "4d9e795f688b7a543ae5ae24",
+          "24117d5dcd32419a7d8764b1",
+          "86812a53a3b70537ee3f237a",
+          "baa94d16bc538875e8a1a025",
+          "ed81dafb8d25229ac6e78836",
+          "fb7c8e1437d197f54d3cdd2a",
+          "adf7584067b1a8f45c4ab6ab",
+          "e8df63a58639571a5d6dfc2f",
+          "6449687b9e2ea9071544e9d0",
+          "cb6ec4be8b22221f5c4382f3",
+          "862ed733d6f35199b7e40eab",
+          "8505c4ac81854c9ce0b00e03",
+          "6927580eb39a422025fd12f6",
+          "afedee9075f7684ab5dc3dee",
+          "93cc774e606ad72ffdb681ce",
+          "dbf0f9d45c79cb931f50a76c",
+          "662e5b2afa8610b09e560e19"
+        ]
+      },
       "introduction": "Education begins here with a striking claim: the human being contains treasures whose discovery requires care. The opening passages invite us to see a child’s possibilities, to respond patiently to immaturity, and to make kindness a habit extending even to animals. Learning then unfolds across the whole of life: the sciences and arts, useful work, the love of beauty, spiritual understanding and the ability to live well with others. The educator’s manner belongs to this work as fully as the lesson itself; encouragement, example, play and attention to aptitude sit beside the demand for effort and a developing sense of responsibility. This vision reaches beyond the household. The education of girls, support for orphans and children without means, and the preparation and sustenance of teachers make the school a concern of the community. Neighboring subjects on capacity, curricula, family life, the advancement of women and universal education reveal how closely these responsibilities are connected. The collection also contains difficult historical descriptions and contrasting advice about particular schools. Its revealed provisions belong to their respective settings, and its letters and recorded conversations call for attention to audience, circumstance and source authority. Jesus’ welcome to children and Mencius’s image of growth damaged by repeated neglect offer further ways into the inquiry. What might change when we judge education by the persons it helps to develop, the dignity it protects and the peace those persons can learn to create?",
       "arc": "Recognize the child and the possibilities within → The manner of education → Capacity, character and the need for education → What and how children learn → Skills, art and useful work → Girls' education and the advancement of women → The responsibilities and example of families → A place in education for every child → Care in bereavement and difficult circumstances → Building and sustaining schools → Teaching as service and a continuing inheritance → Reading particular school situations with care → Words addressed to children and young people → Education and the renewal of society → Prayer for children and those who teach them → Preserved supplied readings",
       "order": [
@@ -50,10 +356,6 @@
         },
         {
           "key": "source:AB08205",
-          "why": "Develop the opening through love, encouragement, play, the quality of speech and attention to the child's physical environment."
-        },
-        {
-          "key": "source:BH03206",
           "why": "Develop the opening through love, encouragement, play, the quality of speech and attention to the child's physical environment."
         },
         {
@@ -125,10 +427,6 @@
           "why": "Explore what education develops, keeping the distinctions between capacities, acquired habits, material learning and spiritual formation in their source settings."
         },
         {
-          "key": "source:BH07562",
-          "why": "Explore what education develops, keeping the distinctions between capacities, acquired habits, material learning and spiritual formation in their source settings."
-        },
-        {
           "key": "source:ABU2282",
           "why": "Explore what education develops, keeping the distinctions between capacities, acquired habits, material learning and spiritual formation in their source settings."
         },
@@ -150,7 +448,7 @@
         },
         {
           "key": "source:ABU0376",
-          "why": "Keep the preceding question and the full reported discussion of capacities, environment and educational purpose."
+          "why": "Keep the reported reminder that Bahá’u’lláh’s Writings require a well-directed education for boys and girls, rich and poor."
         },
         {
           "key": "source:ABU0293",
@@ -182,10 +480,6 @@
         },
         {
           "key": "source:ABU1031",
-          "why": "Explore what education develops, keeping the distinctions between capacities, acquired habits, material learning and spiritual formation in their source settings."
-        },
-        {
-          "key": "source:ABU1077",
           "why": "Explore what education develops, keeping the distinctions between capacities, acquired habits, material learning and spiritual formation in their source settings."
         },
         {
@@ -222,18 +516,6 @@
         },
         {
           "key": "source:ABU2403",
-          "why": "Explore what education develops, keeping the distinctions between capacities, acquired habits, material learning and spiritual formation in their source settings."
-        },
-        {
-          "key": "source:AB03816",
-          "why": "Explore what education develops, keeping the distinctions between capacities, acquired habits, material learning and spiritual formation in their source settings."
-        },
-        {
-          "key": "source:AB03520",
-          "why": "Explore what education develops, keeping the distinctions between capacities, acquired habits, material learning and spiritual formation in their source settings."
-        },
-        {
-          "key": "source:BB00097",
           "why": "Explore what education develops, keeping the distinctions between capacities, acquired habits, material learning and spiritual formation in their source settings."
         },
         {
@@ -293,10 +575,6 @@
           "why": "Bring spiritual formation into conversation with a broad curriculum, language, inquiry, memory and the practical arrangements of learning."
         },
         {
-          "key": "source:ABU2803",
-          "why": "Bring spiritual formation into conversation with a broad curriculum, language, inquiry, memory and the practical arrangements of learning."
-        },
-        {
           "key": "source:ABU2419",
           "why": "Bring spiritual formation into conversation with a broad curriculum, language, inquiry, memory and the practical arrangements of learning."
         },
@@ -317,14 +595,6 @@
           "why": "Bring spiritual formation into conversation with a broad curriculum, language, inquiry, memory and the practical arrangements of learning."
         },
         {
-          "key": "source:AB06654",
-          "why": "Bring spiritual formation into conversation with a broad curriculum, language, inquiry, memory and the practical arrangements of learning."
-        },
-        {
-          "key": "source:ABU0561",
-          "why": "Bring spiritual formation into conversation with a broad curriculum, language, inquiry, memory and the practical arrangements of learning."
-        },
-        {
           "key": "source:BH11102",
           "why": "Bring spiritual formation into conversation with a broad curriculum, language, inquiry, memory and the practical arrangements of learning."
         },
@@ -338,18 +608,6 @@
         },
         {
           "key": "source:AB06194",
-          "why": "Bring spiritual formation into conversation with a broad curriculum, language, inquiry, memory and the practical arrangements of learning."
-        },
-        {
-          "key": "source:AB02341",
-          "why": "Bring spiritual formation into conversation with a broad curriculum, language, inquiry, memory and the practical arrangements of learning."
-        },
-        {
-          "key": "source:AB04485",
-          "why": "Bring spiritual formation into conversation with a broad curriculum, language, inquiry, memory and the practical arrangements of learning."
-        },
-        {
-          "key": "source:ABU3160",
           "why": "Bring spiritual formation into conversation with a broad curriculum, language, inquiry, memory and the practical arrangements of learning."
         },
         {
@@ -381,23 +639,7 @@
           "why": "Connect the discovery of individual aptitude with practical skills, artistic expression, livelihood and service to the community."
         },
         {
-          "key": "source:ABU0510",
-          "why": "Connect the discovery of individual aptitude with practical skills, artistic expression, livelihood and service to the community."
-        },
-        {
           "key": "source:AB00587",
-          "why": "Connect the discovery of individual aptitude with practical skills, artistic expression, livelihood and service to the community."
-        },
-        {
-          "key": "source:AB11395",
-          "why": "Connect the discovery of individual aptitude with practical skills, artistic expression, livelihood and service to the community."
-        },
-        {
-          "key": "source:BH03267",
-          "why": "Connect the discovery of individual aptitude with practical skills, artistic expression, livelihood and service to the community."
-        },
-        {
-          "key": "source:BH11037",
           "why": "Connect the discovery of individual aptitude with practical skills, artistic expression, livelihood and service to the community."
         },
         {
@@ -413,15 +655,7 @@
           "why": "Read the advance of girls’ education against the restrictions described in the source."
         },
         {
-          "key": "source:ABU2935",
-          "why": "Read the priority and breadth of girls' education with equality, opportunity, women's own attainments and their responsibilities to the next generation."
-        },
-        {
           "key": "source:ABU0067",
-          "why": "Read the priority and breadth of girls' education with equality, opportunity, women's own attainments and their responsibilities to the next generation."
-        },
-        {
-          "key": "source:ABU1437",
           "why": "Read the priority and breadth of girls' education with equality, opportunity, women's own attainments and their responsibilities to the next generation."
         },
         {
@@ -465,18 +699,6 @@
           "why": "Read the priority and breadth of girls' education with equality, opportunity, women's own attainments and their responsibilities to the next generation."
         },
         {
-          "key": "source:AB11902",
-          "why": "Read the priority and breadth of girls' education with equality, opportunity, women's own attainments and their responsibilities to the next generation."
-        },
-        {
-          "key": "source:AB05426",
-          "why": "Read the priority and breadth of girls' education with equality, opportunity, women's own attainments and their responsibilities to the next generation."
-        },
-        {
-          "key": "source:AB07093",
-          "why": "Read the priority and breadth of girls' education with equality, opportunity, women's own attainments and their responsibilities to the next generation."
-        },
-        {
           "key": "source:AB07202",
           "why": "Read the priority and breadth of girls' education with equality, opportunity, women's own attainments and their responsibilities to the next generation."
         },
@@ -493,19 +715,7 @@
           "why": "Read the priority and breadth of girls' education with equality, opportunity, women's own attainments and their responsibilities to the next generation."
         },
         {
-          "key": "source:AB01230",
-          "why": "Read the priority and breadth of girls' education with equality, opportunity, women's own attainments and their responsibilities to the next generation."
-        },
-        {
           "key": "source:AB09183",
-          "why": "Read the priority and breadth of girls' education with equality, opportunity, women's own attainments and their responsibilities to the next generation."
-        },
-        {
-          "key": "source:AB08514",
-          "why": "Read the priority and breadth of girls' education with equality, opportunity, women's own attainments and their responsibilities to the next generation."
-        },
-        {
-          "key": "source:AB06270",
           "why": "Read the priority and breadth of girls' education with equality, opportunity, women's own attainments and their responsibilities to the next generation."
         },
         {
@@ -514,10 +724,6 @@
         },
         {
           "key": "source:ABU2583",
-          "why": "Read the priority and breadth of girls' education with equality, opportunity, women's own attainments and their responsibilities to the next generation."
-        },
-        {
-          "key": "source:AB09464",
           "why": "Read the priority and breadth of girls' education with equality, opportunity, women's own attainments and their responsibilities to the next generation."
         },
         {
@@ -530,18 +736,6 @@
         },
         {
           "key": "source:ABU0364",
-          "why": "Move through parental affection, example, effort and responsibility, retaining the circumstances and qualifications of personal counsel."
-        },
-        {
-          "key": "source:AB06244",
-          "why": "Move through parental affection, example, effort and responsibility, retaining the circumstances and qualifications of personal counsel."
-        },
-        {
-          "key": "source:AB04083",
-          "why": "Move through parental affection, example, effort and responsibility, retaining the circumstances and qualifications of personal counsel."
-        },
-        {
-          "key": "source:AB02956",
           "why": "Move through parental affection, example, effort and responsibility, retaining the circumstances and qualifications of personal counsel."
         },
         {
@@ -577,10 +771,6 @@
           "why": "Move through parental affection, example, effort and responsibility, retaining the circumstances and qualifications of personal counsel."
         },
         {
-          "key": "source:AB02847",
-          "why": "Move through parental affection, example, effort and responsibility, retaining the circumstances and qualifications of personal counsel."
-        },
-        {
           "key": "source:AB01549",
           "why": "Move through parental affection, example, effort and responsibility, retaining the circumstances and qualifications of personal counsel."
         },
@@ -594,18 +784,6 @@
         },
         {
           "key": "source:AB01894",
-          "why": "Move through parental affection, example, effort and responsibility, retaining the circumstances and qualifications of personal counsel."
-        },
-        {
-          "key": "source:AB00781",
-          "why": "Move through parental affection, example, effort and responsibility, retaining the circumstances and qualifications of personal counsel."
-        },
-        {
-          "key": "source:AB07534",
-          "why": "Move through parental affection, example, effort and responsibility, retaining the circumstances and qualifications of personal counsel."
-        },
-        {
-          "key": "source:AB08222",
           "why": "Move through parental affection, example, effort and responsibility, retaining the circumstances and qualifications of personal counsel."
         },
         {
@@ -665,10 +843,6 @@
           "why": "Move through parental affection, example, effort and responsibility, retaining the circumstances and qualifications of personal counsel."
         },
         {
-          "key": "source:AB05205",
-          "why": "Move through parental affection, example, effort and responsibility, retaining the circumstances and qualifications of personal counsel."
-        },
-        {
           "key": "source:AB04967",
           "why": "Move through parental affection, example, effort and responsibility, retaining the circumstances and qualifications of personal counsel."
         },
@@ -678,10 +852,6 @@
         },
         {
           "key": "source:ABU3539",
-          "why": "Move through parental affection, example, effort and responsibility, retaining the circumstances and qualifications of personal counsel."
-        },
-        {
-          "key": "source:ABU1718",
           "why": "Move through parental affection, example, effort and responsibility, retaining the circumstances and qualifications of personal counsel."
         },
         {
@@ -749,10 +919,6 @@
           "why": "Extend responsibility beyond the household to access, poverty, orphan care and the institutions and resources that make education possible."
         },
         {
-          "key": "source:ABU1951",
-          "why": "Extend responsibility beyond the household to access, poverty, orphan care and the institutions and resources that make education possible."
-        },
-        {
           "key": "source:ABU2005",
           "why": "Let the reported encounter with an excluded child give the concern for access a particular human face."
         },
@@ -766,10 +932,6 @@
         },
         {
           "key": "source:ABU1047",
-          "why": "Extend responsibility beyond the household to access, poverty, orphan care and the institutions and resources that make education possible."
-        },
-        {
-          "key": "source:AB01016",
           "why": "Extend responsibility beyond the household to access, poverty, orphan care and the institutions and resources that make education possible."
         },
         {
@@ -813,31 +975,11 @@
           "why": "Keep counsel about children's education beside the grief, loss and practical circumstances that give it its particular meaning."
         },
         {
-          "key": "source:AB05076",
-          "why": "Keep counsel about children's education beside the grief, loss and practical circumstances that give it its particular meaning."
-        },
-        {
-          "key": "source:AB05519",
-          "why": "Keep counsel about children's education beside the grief, loss and practical circumstances that give it its particular meaning."
-        },
-        {
-          "key": "source:AB03640",
-          "why": "Keep counsel about children's education beside the grief, loss and practical circumstances that give it its particular meaning."
-        },
-        {
-          "key": "source:AB02116",
-          "why": "Keep counsel about children's education beside the grief, loss and practical circumstances that give it its particular meaning."
-        },
-        {
           "key": "source:AB08642",
           "why": "Keep counsel about children's education beside the grief, loss and practical circumstances that give it its particular meaning."
         },
         {
           "key": "source:AB09440",
-          "why": "Keep counsel about children's education beside the grief, loss and practical circumstances that give it its particular meaning."
-        },
-        {
-          "key": "source:AB11657",
           "why": "Keep counsel about children's education beside the grief, loss and practical circumstances that give it its particular meaning."
         },
         {
@@ -849,15 +991,7 @@
           "why": "Give the ideals institutional substance through school organization, consultation, qualified teachers, material support and sustained effort."
         },
         {
-          "key": "source:AB02086",
-          "why": "Give the ideals institutional substance through school organization, consultation, qualified teachers, material support and sustained effort."
-        },
-        {
           "key": "source:AB07530",
-          "why": "Give the ideals institutional substance through school organization, consultation, qualified teachers, material support and sustained effort."
-        },
-        {
-          "key": "source:AB00640",
           "why": "Give the ideals institutional substance through school organization, consultation, qualified teachers, material support and sustained effort."
         },
         {
@@ -885,10 +1019,6 @@
           "why": "Give the ideals institutional substance through school organization, consultation, qualified teachers, material support and sustained effort."
         },
         {
-          "key": "source:AB11303",
-          "why": "Give the ideals institutional substance through school organization, consultation, qualified teachers, material support and sustained effort."
-        },
-        {
           "key": "source:AB05463",
           "why": "Give the ideals institutional substance through school organization, consultation, qualified teachers, material support and sustained effort."
         },
@@ -901,15 +1031,7 @@
           "why": "Give the ideals institutional substance through school organization, consultation, qualified teachers, material support and sustained effort."
         },
         {
-          "key": "source:AB03279",
-          "why": "Give the ideals institutional substance through school organization, consultation, qualified teachers, material support and sustained effort."
-        },
-        {
           "key": "source:AB01485",
-          "why": "Give the ideals institutional substance through school organization, consultation, qualified teachers, material support and sustained effort."
-        },
-        {
-          "key": "source:AB04121",
           "why": "Give the ideals institutional substance through school organization, consultation, qualified teachers, material support and sustained effort."
         },
         {
@@ -917,27 +1039,7 @@
           "why": "Give the ideals institutional substance through school organization, consultation, qualified teachers, material support and sustained effort."
         },
         {
-          "key": "source:AB01713",
-          "why": "Give the ideals institutional substance through school organization, consultation, qualified teachers, material support and sustained effort."
-        },
-        {
-          "key": "source:AB00323",
-          "why": "Give the ideals institutional substance through school organization, consultation, qualified teachers, material support and sustained effort."
-        },
-        {
-          "key": "source:AB06680",
-          "why": "Give the ideals institutional substance through school organization, consultation, qualified teachers, material support and sustained effort."
-        },
-        {
           "key": "source:AB03110",
-          "why": "Give the ideals institutional substance through school organization, consultation, qualified teachers, material support and sustained effort."
-        },
-        {
-          "key": "source:AB04313",
-          "why": "Give the ideals institutional substance through school organization, consultation, qualified teachers, material support and sustained effort."
-        },
-        {
-          "key": "source:AB06573",
           "why": "Give the ideals institutional substance through school organization, consultation, qualified teachers, material support and sustained effort."
         },
         {
@@ -945,51 +1047,7 @@
           "why": "Give the ideals institutional substance through school organization, consultation, qualified teachers, material support and sustained effort."
         },
         {
-          "key": "source:AB11764",
-          "why": "Give the ideals institutional substance through school organization, consultation, qualified teachers, material support and sustained effort."
-        },
-        {
-          "key": "source:AB02742",
-          "why": "Give the ideals institutional substance through school organization, consultation, qualified teachers, material support and sustained effort."
-        },
-        {
           "key": "source:BH00954",
-          "why": "Give the ideals institutional substance through school organization, consultation, qualified teachers, material support and sustained effort."
-        },
-        {
-          "key": "source:AB01597",
-          "why": "Give the ideals institutional substance through school organization, consultation, qualified teachers, material support and sustained effort."
-        },
-        {
-          "key": "source:AB03115",
-          "why": "Give the ideals institutional substance through school organization, consultation, qualified teachers, material support and sustained effort."
-        },
-        {
-          "key": "source:AB06745",
-          "why": "Give the ideals institutional substance through school organization, consultation, qualified teachers, material support and sustained effort."
-        },
-        {
-          "key": "source:AB08302",
-          "why": "Give the ideals institutional substance through school organization, consultation, qualified teachers, material support and sustained effort."
-        },
-        {
-          "key": "source:AB09932",
-          "why": "Give the ideals institutional substance through school organization, consultation, qualified teachers, material support and sustained effort."
-        },
-        {
-          "key": "source:AB11492",
-          "why": "Give the ideals institutional substance through school organization, consultation, qualified teachers, material support and sustained effort."
-        },
-        {
-          "key": "source:AB11925",
-          "why": "Give the ideals institutional substance through school organization, consultation, qualified teachers, material support and sustained effort."
-        },
-        {
-          "key": "source:AB12146",
-          "why": "Give the ideals institutional substance through school organization, consultation, qualified teachers, material support and sustained effort."
-        },
-        {
-          "key": "source:AB12496",
           "why": "Give the ideals institutional substance through school organization, consultation, qualified teachers, material support and sustained effort."
         },
         {
@@ -1029,27 +1087,11 @@
           "why": "Let the encouragement of teachers unfold into their example, perseverance and the capacity of their pupils to become teachers in turn."
         },
         {
-          "key": "source:AB02794",
-          "why": "Let the encouragement of teachers unfold into their example, perseverance and the capacity of their pupils to become teachers in turn."
-        },
-        {
-          "key": "source:AB04259",
-          "why": "Let the encouragement of teachers unfold into their example, perseverance and the capacity of their pupils to become teachers in turn."
-        },
-        {
           "key": "source:AB04065",
           "why": "Let the encouragement of teachers unfold into their example, perseverance and the capacity of their pupils to become teachers in turn."
         },
         {
           "key": "source:ABU0949",
-          "why": "Let the encouragement of teachers unfold into their example, perseverance and the capacity of their pupils to become teachers in turn."
-        },
-        {
-          "key": "source:AB05675",
-          "why": "Let the encouragement of teachers unfold into their example, perseverance and the capacity of their pupils to become teachers in turn."
-        },
-        {
-          "key": "source:AB06774",
           "why": "Let the encouragement of teachers unfold into their example, perseverance and the capacity of their pupils to become teachers in turn."
         },
         {
@@ -1073,87 +1115,11 @@
           "why": "Let the encouragement of teachers unfold into their example, perseverance and the capacity of their pupils to become teachers in turn."
         },
         {
-          "key": "source:AB02520",
-          "why": "Let the encouragement of teachers unfold into their example, perseverance and the capacity of their pupils to become teachers in turn."
-        },
-        {
-          "key": "source:AB05852",
-          "why": "Let the encouragement of teachers unfold into their example, perseverance and the capacity of their pupils to become teachers in turn."
-        },
-        {
-          "key": "source:AB05776",
-          "why": "Let the encouragement of teachers unfold into their example, perseverance and the capacity of their pupils to become teachers in turn."
-        },
-        {
-          "key": "source:AB07996",
-          "why": "Let the encouragement of teachers unfold into their example, perseverance and the capacity of their pupils to become teachers in turn."
-        },
-        {
           "key": "source:AB07325",
           "why": "Let the encouragement of teachers unfold into their example, perseverance and the capacity of their pupils to become teachers in turn."
         },
         {
-          "key": "source:AB07963",
-          "why": "Let the encouragement of teachers unfold into their example, perseverance and the capacity of their pupils to become teachers in turn."
-        },
-        {
-          "key": "source:AB10338",
-          "why": "Let the encouragement of teachers unfold into their example, perseverance and the capacity of their pupils to become teachers in turn."
-        },
-        {
-          "key": "source:AB11081",
-          "why": "Let the encouragement of teachers unfold into their example, perseverance and the capacity of their pupils to become teachers in turn."
-        },
-        {
-          "key": "source:AB03635",
-          "why": "Let the encouragement of teachers unfold into their example, perseverance and the capacity of their pupils to become teachers in turn."
-        },
-        {
-          "key": "source:AB02683",
-          "why": "Let the encouragement of teachers unfold into their example, perseverance and the capacity of their pupils to become teachers in turn."
-        },
-        {
           "key": "source:AB02923",
-          "why": "Let the encouragement of teachers unfold into their example, perseverance and the capacity of their pupils to become teachers in turn."
-        },
-        {
-          "key": "source:AB03100",
-          "why": "Let the encouragement of teachers unfold into their example, perseverance and the capacity of their pupils to become teachers in turn."
-        },
-        {
-          "key": "source:AB05987",
-          "why": "Let the encouragement of teachers unfold into their example, perseverance and the capacity of their pupils to become teachers in turn."
-        },
-        {
-          "key": "source:BH01579",
-          "why": "Let the encouragement of teachers unfold into their example, perseverance and the capacity of their pupils to become teachers in turn."
-        },
-        {
-          "key": "source:AB12499",
-          "why": "Let the encouragement of teachers unfold into their example, perseverance and the capacity of their pupils to become teachers in turn."
-        },
-        {
-          "key": "source:AB01963",
-          "why": "Let the encouragement of teachers unfold into their example, perseverance and the capacity of their pupils to become teachers in turn."
-        },
-        {
-          "key": "source:AB02322",
-          "why": "Let the encouragement of teachers unfold into their example, perseverance and the capacity of their pupils to become teachers in turn."
-        },
-        {
-          "key": "source:AB04715",
-          "why": "Let the encouragement of teachers unfold into their example, perseverance and the capacity of their pupils to become teachers in turn."
-        },
-        {
-          "key": "source:AB02727",
-          "why": "Let the encouragement of teachers unfold into their example, perseverance and the capacity of their pupils to become teachers in turn."
-        },
-        {
-          "key": "source:AB12416",
-          "why": "Let the encouragement of teachers unfold into their example, perseverance and the capacity of their pupils to become teachers in turn."
-        },
-        {
-          "key": "source:AB12462",
           "why": "Let the encouragement of teachers unfold into their example, perseverance and the capacity of their pupils to become teachers in turn."
         },
         {
@@ -1166,18 +1132,6 @@
         },
         {
           "key": "source:ABU3431",
-          "why": "Let the encouragement of teachers unfold into their example, perseverance and the capacity of their pupils to become teachers in turn."
-        },
-        {
-          "key": "source:AB00787",
-          "why": "Let the encouragement of teachers unfold into their example, perseverance and the capacity of their pupils to become teachers in turn."
-        },
-        {
-          "key": "source:AB03196",
-          "why": "Let the encouragement of teachers unfold into their example, perseverance and the capacity of their pupils to become teachers in turn."
-        },
-        {
-          "key": "source:AB01162",
           "why": "Let the encouragement of teachers unfold into their example, perseverance and the capacity of their pupils to become teachers in turn."
         },
         {
@@ -1225,10 +1179,6 @@
           "why": "Preserve the particular audiences and historical circumstances of school choices and cautions, reading them with the compilation's wider commitment to service to all."
         },
         {
-          "key": "source:AB05039",
-          "why": "Preserve the particular audiences and historical circumstances of school choices and cautions, reading them with the compilation's wider commitment to service to all."
-        },
-        {
           "key": "source:ABU2041",
           "why": "Preserve the particular audiences and historical circumstances of school choices and cautions, reading them with the compilation's wider commitment to service to all."
         },
@@ -1245,19 +1195,11 @@
           "why": "Retain the acknowledgment of the Beirut college’s strengths and the role of the student’s own effort."
         },
         {
-          "key": "source:AB03633",
-          "why": "Preserve the particular audiences and historical circumstances of school choices and cautions, reading them with the compilation's wider commitment to service to all."
-        },
-        {
           "key": "source:AB04310",
           "why": "Preserve the child’s distress at separation as a consideration in the proposed schooling arrangement."
         },
         {
           "key": "source:AB05047",
-          "why": "Preserve the particular audiences and historical circumstances of school choices and cautions, reading them with the compilation's wider commitment to service to all."
-        },
-        {
-          "key": "source:AB11630",
           "why": "Preserve the particular audiences and historical circumstances of school choices and cautions, reading them with the compilation's wider commitment to service to all."
         },
         {
@@ -1289,10 +1231,6 @@
           "why": "Hear the children addressed directly, with hope for their learning, spiritual development and contribution to others."
         },
         {
-          "key": "source:AB09005",
-          "why": "Hear the children addressed directly, with hope for their learning, spiritual development and contribution to others."
-        },
-        {
           "key": "source:AB08281",
           "why": "Hear the children addressed directly, with hope for their learning, spiritual development and contribution to others."
         },
@@ -1310,10 +1248,6 @@
         },
         {
           "key": "source:AB05042",
-          "why": "Hear the children addressed directly, with hope for their learning, spiritual development and contribution to others."
-        },
-        {
-          "key": "source:AB01547",
           "why": "Hear the children addressed directly, with hope for their learning, spiritual development and contribution to others."
         },
         {
@@ -1349,27 +1283,7 @@
           "why": "Hear the children addressed directly, with hope for their learning, spiritual development and contribution to others."
         },
         {
-          "key": "source:AB09070",
-          "why": "Hear the children addressed directly, with hope for their learning, spiritual development and contribution to others."
-        },
-        {
           "key": "source:ABU3712",
-          "why": "Hear the children addressed directly, with hope for their learning, spiritual development and contribution to others."
-        },
-        {
-          "key": "source:AB01172",
-          "why": "Hear the children addressed directly, with hope for their learning, spiritual development and contribution to others."
-        },
-        {
-          "key": "source:AB01320",
-          "why": "Hear the children addressed directly, with hope for their learning, spiritual development and contribution to others."
-        },
-        {
-          "key": "source:AB09424",
-          "why": "Hear the children addressed directly, with hope for their learning, spiritual development and contribution to others."
-        },
-        {
-          "key": "source:AB09487",
           "why": "Hear the children addressed directly, with hope for their learning, spiritual development and contribution to others."
         },
         {
@@ -1377,43 +1291,11 @@
           "why": "Hear the children addressed directly, with hope for their learning, spiritual development and contribution to others."
         },
         {
-          "key": "source:AB03501",
-          "why": "Hear the children addressed directly, with hope for their learning, spiritual development and contribution to others."
-        },
-        {
-          "key": "source:AB10234",
-          "why": "Hear the children addressed directly, with hope for their learning, spiritual development and contribution to others."
-        },
-        {
           "key": "source:AB10575",
           "why": "Hear the children addressed directly, with hope for their learning, spiritual development and contribution to others."
         },
         {
-          "key": "source:AB07308",
-          "why": "Hear the children addressed directly, with hope for their learning, spiritual development and contribution to others."
-        },
-        {
-          "key": "source:AB10640",
-          "why": "Hear the children addressed directly, with hope for their learning, spiritual development and contribution to others."
-        },
-        {
           "key": "source:AB09283",
-          "why": "Hear the children addressed directly, with hope for their learning, spiritual development and contribution to others."
-        },
-        {
-          "key": "source:AB06958",
-          "why": "Hear the children addressed directly, with hope for their learning, spiritual development and contribution to others."
-        },
-        {
-          "key": "source:AB06961",
-          "why": "Hear the children addressed directly, with hope for their learning, spiritual development and contribution to others."
-        },
-        {
-          "key": "source:AB09635",
-          "why": "Hear the children addressed directly, with hope for their learning, spiritual development and contribution to others."
-        },
-        {
-          "key": "source:ABU3040",
           "why": "Hear the children addressed directly, with hope for their learning, spiritual development and contribution to others."
         },
         {
@@ -1429,23 +1311,11 @@
           "why": "Widen the inquiry from the classroom toward human unity, social conditions, reform, peace and the lifelong need to learn."
         },
         {
-          "key": "source:ABU2135",
-          "why": "Widen the inquiry from the classroom toward human unity, social conditions, reform, peace and the lifelong need to learn."
-        },
-        {
           "key": "source:ABU1650",
           "why": "Widen the inquiry from the classroom toward human unity, social conditions, reform, peace and the lifelong need to learn."
         },
         {
-          "key": "source:ABU0938",
-          "why": "Widen the inquiry from the classroom toward human unity, social conditions, reform, peace and the lifelong need to learn."
-        },
-        {
           "key": "source:ABU3525",
-          "why": "Widen the inquiry from the classroom toward human unity, social conditions, reform, peace and the lifelong need to learn."
-        },
-        {
-          "key": "source:ABU3170",
           "why": "Widen the inquiry from the classroom toward human unity, social conditions, reform, peace and the lifelong need to learn."
         },
         {
@@ -1481,19 +1351,11 @@
           "why": "Widen the inquiry from the classroom toward human unity, social conditions, reform, peace and the lifelong need to learn."
         },
         {
-          "key": "source:ABU1467",
-          "why": "Retain the original catalogue-linked selection and its farming context, where learning includes practical cooperation with neighboring farmers."
-        },
-        {
           "key": "source:AB00090",
           "why": "Widen the inquiry from the classroom toward human unity, social conditions, reform, peace and the lifelong need to learn."
         },
         {
           "key": "source:AB03471",
-          "why": "Widen the inquiry from the classroom toward human unity, social conditions, reform, peace and the lifelong need to learn."
-        },
-        {
-          "key": "source:ABU2348",
           "why": "Widen the inquiry from the classroom toward human unity, social conditions, reform, peace and the lifelong need to learn."
         },
         {
@@ -1509,15 +1371,7 @@
           "why": "Close the linked readings with gratitude, protection and the hope that learning becomes service to humanity."
         },
         {
-          "key": "source:AB02635",
-          "why": "Close the linked readings with gratitude, protection and the hope that learning becomes service to humanity."
-        },
-        {
           "key": "source:AB00927",
-          "why": "Close the linked readings with gratitude, protection and the hope that learning becomes service to humanity."
-        },
-        {
-          "key": "source:AB03213",
           "why": "Close the linked readings with gratitude, protection and the hope that learning becomes service to humanity."
         },
         {
@@ -1525,19 +1379,7 @@
           "why": "Close the linked readings with gratitude, protection and the hope that learning becomes service to humanity."
         },
         {
-          "key": "source:AB05455",
-          "why": "Close the linked readings with gratitude, protection and the hope that learning becomes service to humanity."
-        },
-        {
           "key": "source:AB04553",
-          "why": "Close the linked readings with gratitude, protection and the hope that learning becomes service to humanity."
-        },
-        {
-          "key": "source:AB10254",
-          "why": "Close the linked readings with gratitude, protection and the hope that learning becomes service to humanity."
-        },
-        {
-          "key": "source:AB09903",
           "why": "Close the linked readings with gratitude, protection and the hope that learning becomes service to humanity."
         },
         {
@@ -1546,10 +1388,6 @@
         },
         {
           "key": "source:AB09134",
-          "why": "Close the linked readings with gratitude, protection and the hope that learning becomes service to humanity."
-        },
-        {
-          "key": "source:AB10053",
           "why": "Close the linked readings with gratitude, protection and the hope that learning becomes service to humanity."
         },
         {

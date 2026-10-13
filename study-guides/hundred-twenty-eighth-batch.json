@@ -5,8 +5,314 @@
       "id": "FF9A4A182AA5EB45D01627817D176E5E",
       "slug": "predictions",
       "displayTitle": "Predictions and prophecies: hope, warning and human responsibility",
+      "selection": {
+        "review": "selections/predictions.json",
+        "sha256": "99541b79f3b3420b97537476bb48789057e3ecbc19016e1351c3510c2e2cb91e",
+        "ids": [
+          "66d13229502e7cc420ec9a16",
+          "abb584fe8edb179b9e661d42",
+          "55a3a1338df8ddc54bec3968",
+          "bc0c0acaa9acbcd2b6f6c648",
+          "2c6a3ed0d8d68d87a372871b",
+          "52405c7b8a6d4991f079c96a",
+          "0a67037c9f9761b268d79921",
+          "4764e44a3f0071f0b1bc89d6",
+          "49a6850ed4016106ed1def2c",
+          "5839c75cb74f34cd312aec3a",
+          "9d2179a8fc064ffea11a530f",
+          "a2ed63232945a200dc7ebf77",
+          "187d065545866fbc9611a5dd",
+          "5f8adf10d2ec51bd76ce5244",
+          "ad1a605f92c0a91c4b91e8bb",
+          "8daf95443daa175c56f6188b",
+          "e3221dacacaf5466b7c541c7",
+          "d00fa2ce0ab9834c01e93ab6",
+          "9ace540466202bbb4fc268ca",
+          "81e05a7da55babd69d537932",
+          "f36f013be0f14a28dddd7378",
+          "4352dab116ef0cd392632338",
+          "95512e7d48e1700a3d10c766",
+          "ff84ac68b0cb82271542c4e6",
+          "455ef8709503a316343f80b1",
+          "56b4c49af8321afcc7ab3daa",
+          "b8f88c52e352d428d3e4008e",
+          "48f8076185b1cd52445baf6d",
+          "f9541f8ce65f8bf0e588d51d",
+          "151656bf384b397602af8c0d",
+          "023797af690a8a91d2cee65e",
+          "89a9e36f05191b9e822db080",
+          "87b4610a696457884b647864",
+          "680d4551e0312a2cde38d998",
+          "08e4e95dd50187582ccdf4f7",
+          "3758d3062731d5c515f07dc7",
+          "37a9eea0ad7dc6251ed15c68",
+          "71375ce53ece5912f4492397",
+          "c58c5c56081ab20304439191",
+          "d80b608c34831ab6bf6fd7bd",
+          "3787b3bd3f333eff3260ac6d",
+          "e4f442bb5110e98b516dc4c7",
+          "455cc71224a610c1e6ac4b22",
+          "10a4e24aab77f03c78952f52",
+          "1fb5562ac9bdfd97af6cd8ce",
+          "e3331d4d5ab423d703b69bd3",
+          "821ff35d407e3eec7a8254c9",
+          "4fc8e02f9add2c6aa50f1139",
+          "a76913c1c4cf64fe7f96cec4",
+          "2d8eb7ec85a4053f4381cedf",
+          "c6ace9967ba4f8c32dd083b7",
+          "34f611300d0b6dd942d030eb",
+          "ba7050c503f6d95e2076430f",
+          "84a9147282303580c5c754c3",
+          "d031f62fa7937aebcd2a0565",
+          "8b3701d4dd795dc92d9b77cd",
+          "f120f0fdc7b8e2f6d631d6f6",
+          "30ea08298861d8f581894014",
+          "c4f8a45be5794adc917db0db",
+          "ef12bb7c93c6f8e0b60f8911",
+          "6c987f91279a4eb0d68820b6",
+          "363fe245f0b7b0e01e00228c",
+          "32d5244c0ca421dd7af62d06",
+          "6c9914e6a251f5ecf48812ed",
+          "82d0c6902ad5a7a92ce397cf",
+          "f599fb54a29cb404f8dda87a",
+          "b8ebf04f14b41fc09cbcb0fd",
+          "bbbafce59cfe4a49dced7437",
+          "f184bdfd601371e4433b563b",
+          "93f7e00760722b10bd68bf2e",
+          "2f5c52f00b9cb362f575eca5",
+          "21f921a3c83b572f81e73521",
+          "97d46a1807f53369305c3c2c",
+          "7e1b23d303aaebabfa317b79",
+          "5d8aa515205ca75f2604416e",
+          "eee2852dd21dacaec7f4eea5",
+          "de66cd449b14a74460197955",
+          "72435b52e1cd933b35362050",
+          "a3eb0d268db7cef974a85906",
+          "6337eba6b0991fe5f9675fda",
+          "1cf5838ad6ef6933819334cb",
+          "334220e9d1553e089d4f25ab",
+          "4e7a19a3f120a6715a428fb6",
+          "8d449c0de95407b547954e11",
+          "f8e0c09690eb978796686ba0",
+          "15b96a8c123c8d0249a013be",
+          "e7b8f6a673f2d0d73b9d59bc",
+          "a8bb85aa996baff37f5ebd08",
+          "eaafd7fe16b13c00b12d780a",
+          "87e5eef67e56e18aa4dfe6d3",
+          "ec953d69aa4079c380c82262",
+          "5fe05bbde906aeaee1d82798",
+          "a21d749a1d6c1480d4377988",
+          "f92bc17cf10ec6b110f4fc88",
+          "71d96655f731f378a8643d87",
+          "eebbf5e5b65927a3a4500565",
+          "2d46f8b1b0bd7d8cfb6ce541",
+          "bcccac60c9140deddfb0edb5",
+          "0ce43776ed0bcbca8cbf09be",
+          "d3f9140cd97963304a1e1f62",
+          "8a236e67a4624f96c6cf296e",
+          "fb0d0670b61a54813c8b6ac9",
+          "5dc991a6d833f36c8f8368c3",
+          "9198ed1587b508fb0b607838",
+          "1dc4809ee44207afd8603512",
+          "49bfedadec4c0f264bad9a83",
+          "cb58a574618d8e38ae967d89",
+          "9a1c4c1d819e8c397de3471a",
+          "8baaa79f4b509c3488c12453",
+          "a9ba0c1242606de73a4f5c10",
+          "441b6df5b2afdb38aa178494",
+          "770b3ae2ba81978e67fb48f9",
+          "c25da31403fd866acf4dc21b",
+          "fa74a368302e7c2a365fd34d",
+          "757f46fa64c4363450c90f51",
+          "1b1896c6d7b7fbe4b869b58c",
+          "4c137e8ef54905b27f24df79",
+          "cf949868b9ee3afbf3260a06",
+          "d3e5ca107b49651f5cbc1ed9",
+          "90ffefdcf2fb24e89dec8dc3",
+          "3b4c6b19c33d994c3eac6590",
+          "c4d01f7362f4c1d6840a967f",
+          "34c317642cb00e9fff218c80",
+          "6e23e62450a96bf10868022f",
+          "776dcb39f26696c1a6d86794",
+          "683c6d3bea2924e1b2cd7d04",
+          "39727f52d7d1c5886204925f",
+          "8f1061dfb343ae4449972a4f",
+          "ea841e828faa0c4dadb20bcb",
+          "48f0f2298eb434b27dc36e31",
+          "3521716b95feaa22878a190c",
+          "eb93b8b8507d26891f2a5ed5",
+          "f64bb76618662af651f70d50",
+          "3e5508128da3386b75b91ce1",
+          "8ffa7bd3709848d9db68a7d6",
+          "9b75ffbf32f80306a4ea4ab3",
+          "de63f59b3c58f3564b8fdcb4",
+          "7bed12c0b1122df2647e0663",
+          "751243d7fa5ce6e1d7370982",
+          "daba658d86b379a4090cfcc6",
+          "f04c0e062513ac1635177e2c",
+          "55958e93cc1d8e264a54fe70",
+          "49c2ad7968ed9923f0373dd1",
+          "65efbfad0052fac72e92c8e0",
+          "96cb937f8f2dda08a193ec45",
+          "289b83a415c31e5a9077214c",
+          "dfc4c57cdc78920abb7620bf",
+          "eb4718e0f93df4d958b81637",
+          "f1c558fe563c8c11bef7d038",
+          "db4ed45c15b6213959cf10be",
+          "06bd797f4617605ce4ef5e1c",
+          "6b182ef526defafd1cd2b9c5",
+          "00592dc68158c8864383ff02",
+          "3e4f18b687fc41744aeb42f9",
+          "9beaffb2904d815489890497",
+          "a03b9286e2704d261764462e",
+          "bd462efdf0ffba5f2bfe19f0",
+          "e3a7ae8bef8fe602998cdd62",
+          "cc8b01e553bf4d274263c30c",
+          "482ffddc5e6d64bd62c48ce3",
+          "5c4a9bba91482ce5107e3df4",
+          "a1096317765c9f4c83a13edd",
+          "bfe338e50209f637ab0b37bc",
+          "68bfb20f9bdcef99f13e462f",
+          "6cc115069c1b007f3b5c0de9",
+          "3d49411fb903539f589c01a1",
+          "45a99e2581b44613403e1334",
+          "909d95020f47daa713eb84b7",
+          "ec39a53e1cd239e878626990",
+          "d17adb9f7ac65913b63add8f",
+          "14082bdade40fedd3576fc9d",
+          "bce2d44e32cd3c86fd6fb384",
+          "0f643d6b9468d8cbb8828f4a",
+          "6a35c33d5d496387873695d6",
+          "a3d253c69e1c29455d5cb07e",
+          "480de622277af2ca6d301e62",
+          "732ec0d7b049d700aede5bd7",
+          "685b415b1bf43092cd968f3a",
+          "558dcbddf4827a32560073f5",
+          "1d968ef36277ab5fdf27521b",
+          "00055b241385659987129589",
+          "46baadcc7f605b6af854b59b",
+          "e9067b14da4de3668db068fe",
+          "6230cada027b37a2e092f251",
+          "33bef4f5f42df477eaecae4e",
+          "73663dd78f3c19a90850f412",
+          "2a8e78a76053848c87bec046",
+          "fd392de4cd0d401f7484ca75",
+          "d2c494f92223db31931052f3",
+          "9f701be6183b46659a128f99",
+          "517c27eea921686f46a66bcb",
+          "2df9529ff6afcf8598fbff70",
+          "b083b5891bcdc37d683abe67",
+          "9d22bcdd39a1279aa0db9612",
+          "61a28a5ac884c757e066afd7",
+          "e00549424c5175507c535f82",
+          "e42fd4237663b044a96c26a4",
+          "4e9a1a013b75bc649d9aa6c1",
+          "186e08bdf35f19002701897e",
+          "6b59ca02d09e9ef0f961847f",
+          "750aac544ecb46028fca1d7b",
+          "cc295c71aa39a2782f279104",
+          "f83f8d617385e71cc49c6044",
+          "daed8059efc19fc8ab97cd13",
+          "cb0b3981f4d62a0fbf02847c",
+          "c8c19c15a5cb304201801f07",
+          "76b022a8c63cf6f6cd521257",
+          "881ba316b2a7a4dc2b3321f3",
+          "6ea9ca1fac0bc51ab98a333d",
+          "be247eb303688a126de43ed6",
+          "13ff661f20d46c5adfb2b9d7",
+          "6aaac9668d97281dc3eb9cbb",
+          "3b506773655829924ddae3db",
+          "54476b0d0bd93110bd7d8eee",
+          "ddf2ebeca2bf0d8ca29fb7fb",
+          "eba2756aed76444d61c38b0f",
+          "75b3707dc4baa847d65313bc",
+          "f16dc40427a288fd8907e778",
+          "bd9ee5de00b529f2f873aa55",
+          "1f0380c0c68014932015e5f6",
+          "4749b3a48e3f8c2e17711593",
+          "64273fb4cf9fdda077dfad3d",
+          "6918c7741e9aecff5f21ab6e",
+          "f13a67febb49e2a95aba145a",
+          "fa7c4b214272fc8a420b5b60",
+          "6d8f83550042630d444806f4",
+          "bbd914b4225cb6c5c1e76cdb",
+          "ff3461eeb839a995f42131b6",
+          "bf6441582f0fdfef0e28818f",
+          "f47b096984790f809172fce2",
+          "cc42072696044049927a0040",
+          "c34b5fadb822891bab642545",
+          "1189fa4f487cfea7cd4627cc",
+          "9c10b02805221af70d3250f4",
+          "2b588a1df4fe3595c632aec4",
+          "23537e05a8c6291adb6dcd8c",
+          "4142a7dbfd37e025fcb91ce6",
+          "c1bde83ecab8976522e012f7",
+          "3e7b715a132ed7012447c515",
+          "49c67df982c2c1d61a1a5976",
+          "900ea9b577387669db3481e4",
+          "f382928dee30002c79918bae",
+          "d4727a69ff75767b9fbedf26",
+          "cbaadc5800aa7c9a53104270",
+          "945c87516a221f1f7d7493ae",
+          "30952bb3859715170c88d73b",
+          "9c01493c6779b190ab6b7744",
+          "90aec5c22ac2e8777dd757c1",
+          "2c3e616cc8a7803cc1bfd0fe",
+          "93d5edfb5df057823be21f47",
+          "7315ddedb0567de1b003190c",
+          "4290a0644e241b6a5aa3e9f0",
+          "f56dc0226dc361cf17e219d9",
+          "d76be20563dbe8a9d7010589",
+          "8c48990937ccb2acb0e4f263",
+          "5c329ee66c0d175b98bbdac1",
+          "1ddcf545ffb5918ef1029046",
+          "7624174251abbe425a573cd5",
+          "cf31ea34d68fb687d0ad40d9",
+          "98b13873244e3353c0df27a0",
+          "871fab1a46c991cb3614a0a7",
+          "176c16b0774754c7e65b7c31",
+          "78a10988bec4d13554ae47fe",
+          "1c77da684807d4dfffded328",
+          "20454b9e2dba27e29c9adb9b",
+          "56bf7ca86c03515ac9884feb",
+          "acfb4c26094c5ae69bd0d752",
+          "797020460c477499bd2572fd",
+          "b13611d3127e2b49acdbf4de",
+          "1041e762955439f4a2f36f3d",
+          "a66d226152459441fccb17f2",
+          "31e635496bc1bb130e9ba52a",
+          "b366f905d47f78214f57a679",
+          "cff560f404d4964321be4971",
+          "f075e2bae321674103a29d81",
+          "1bd306b27081f5028439dfa0",
+          "fa906a35bca1aebcba89cf1c",
+          "162292690c24df46cbc55d29",
+          "2cd1438125779c33e3d31501",
+          "3c979883a5f1ca3e3be3f35f",
+          "2704feb52efa2263e25083d9",
+          "5d8ae4fe29da18552317000e",
+          "ddfe77f8fe5b098c298704a6",
+          "04f1375eafd6bfe1fa0e16aa",
+          "d06b689684fc16e5246dab7e",
+          "887840fc49799aa3687d163d",
+          "eacdb003be833118c40a4daf",
+          "09dc5a12e4e80cd5895b4f09",
+          "4cd001f5fb25bc628859812a",
+          "adc5cc6007756e1903506c0a",
+          "3e5a5b8163525fcd776df352",
+          "d01cb99927be540f848529e6",
+          "c1e7166efdc406aeeac7bc8a",
+          "437470aa4b0d5dcbc98bc936",
+          "0fcbae6f1a04eb0d921901b8",
+          "dd88ba2d85d15990309a06b3",
+          "10989004e769028f9d329032",
+          "184ec5892e6e239324fcdd03",
+          "2530d3a16f6371338f58ded2",
+          "08906ac7b9dfc3fa5e5209da"
+        ]
+      },
       "introduction": "What does a promise about the future ask of us today? This collection opens with a distinction that unsettles fatalism: knowledge of an event is not its cause. Alongside confidence in humanity’s future stand urgent appeals to avert war, overcome racial division, relieve suffering and put spiritual teachings into practice. The readings then widen into a rich landscape of prophetic language: dawn and resurrection, the renewal of nations, the destinies of communities, the unfolding of the Cause, and the transformation of human relationships. Letters, prayers, interpretations of scripture and reported conversations speak in different registers; their particular settings matter when we consider an image, a condition or an explicit period of time. Some passages describe events as fulfilled, while others direct attention toward possibilities still unfolding, hidden fruits of service, or the need for patience. The connected subjects on prophecy’s fulfillment, dreams and visions, the future of humanity, the Holy Land and universal peace offer paths further into these questions. Jeremiah’s image of a potter and his appeal for changed conduct, together with Paul’s reflection on prophecy, partial knowledge and love, provide distinct biblical perspectives for comparison. Through this many-sided reading, hope can become more demanding and more generous: an invitation to participate in a world whose future is measured not only by discoveries and institutions, but by the safety, dignity and fellowship people extend to one another.",
-      "arc": "Hope and responsibility → Learning to read a promise → The Báb and the horizon of a new Day → The promised Day and its unfolding light → Kings, power and the consequences of oppression → Iran: justice, upheaval and renewed hope → Peace, equality and the possibilities of civilization → The Holy Land and places of encounter → Seeds taking root across the world → Trials, release and steadfastness → Sacrifice, memory and inheritance → Service whose fruits endure → Kindness, recognition and a wider horizon → Steadfastness amid particular difficulties → A world educated in love → A retained supplied witness",
+      "arc": "Hope and responsibility → Learning to read a promise → The Báb and the horizon of a new Day → The promised Day and its unfolding light → Kings, power and the consequences of oppression → Iran: justice, upheaval and renewed hope → Peace, equality and the possibilities of civilization → The Holy Land and places of encounter → Seeds taking root across the world → Trials, release and steadfastness → Sacrifice, memory and inheritance → Service whose fruits endure → Kindness, recognition and a wider horizon → Steadfastness amid particular difficulties → A world educated in love",
       "order": [
         {
           "key": "source:AB03274",
@@ -69,10 +375,6 @@
           "why": "Examine recognition, symbolic language, reported interpretations and explicit time limits. Preserve questions, qualifications and differences between witnesses instead of forcing a single chronology."
         },
         {
-          "key": "source:AB02115",
-          "why": "Examine recognition, symbolic language, reported interpretations and explicit time limits. Preserve questions, qualifications and differences between witnesses instead of forcing a single chronology."
-        },
-        {
           "key": "source:ABU0037",
           "why": "Examine recognition, symbolic language, reported interpretations and explicit time limits. Preserve questions, qualifications and differences between witnesses instead of forcing a single chronology."
         },
@@ -105,10 +407,6 @@
           "why": "Examine recognition, symbolic language, reported interpretations and explicit time limits. Preserve questions, qualifications and differences between witnesses instead of forcing a single chronology."
         },
         {
-          "key": "source:AB01330",
-          "why": "Keep the Zoroastrian sun imagery with the distinctions among the three Manifestations and the periods assigned in this interpretation."
-        },
-        {
           "key": "source:AB04613",
           "why": "Examine recognition, symbolic language, reported interpretations and explicit time limits. Preserve questions, qualifications and differences between witnesses instead of forcing a single chronology."
         },
@@ -129,10 +427,6 @@
           "why": "Keep the possibility of perception of future events together with the source’s rejection of other supposed phenomena as imagination."
         },
         {
-          "key": "source:AB06682",
-          "why": "Preserve the complete dream interpretation, including the tree, creature, lion, woman and herald."
-        },
-        {
           "key": "source:ABU3606",
           "why": "Keep this single-paragraph dream reference as its exact witness gives it; no absent dream narrative is supplied."
         },
@@ -145,27 +439,11 @@
           "why": "The question is not present in the single-paragraph source. Preserve its reticence instead of inventing a subject for the secret."
         },
         {
-          "key": "source:ABU1915",
-          "why": "Examine recognition, symbolic language, reported interpretations and explicit time limits. Preserve questions, qualifications and differences between witnesses instead of forcing a single chronology."
-        },
-        {
-          "key": "source:AB01954",
-          "why": "Examine recognition, symbolic language, reported interpretations and explicit time limits. Preserve questions, qualifications and differences between witnesses instead of forcing a single chronology."
-        },
-        {
           "key": "source:AB00324",
           "why": "Distinguish the literal thousand-year limit from other figurative and calendrical expressions in the source."
         },
         {
-          "key": "source:BH01919",
-          "why": "Examine recognition, symbolic language, reported interpretations and explicit time limits. Preserve questions, qualifications and differences between witnesses instead of forcing a single chronology."
-        },
-        {
           "key": "source:BH05822",
-          "why": "Examine recognition, symbolic language, reported interpretations and explicit time limits. Preserve questions, qualifications and differences between witnesses instead of forcing a single chronology."
-        },
-        {
-          "key": "source:BH03560",
           "why": "Examine recognition, symbolic language, reported interpretations and explicit time limits. Preserve questions, qualifications and differences between witnesses instead of forcing a single chronology."
         },
         {
@@ -185,19 +463,7 @@
           "why": "Retain the passage’s allowance for delay according to wisdom."
         },
         {
-          "key": "source:ABU2319",
-          "why": "Examine recognition, symbolic language, reported interpretations and explicit time limits. Preserve questions, qualifications and differences between witnesses instead of forcing a single chronology."
-        },
-        {
-          "key": "source:BB00100",
-          "why": "Keep the Báb’s discussion of bada with its distinctions and devotional context."
-        },
-        {
           "key": "source:ABU3591",
-          "why": "Examine recognition, symbolic language, reported interpretations and explicit time limits. Preserve questions, qualifications and differences between witnesses instead of forcing a single chronology."
-        },
-        {
-          "key": "source:ABU0718",
           "why": "Examine recognition, symbolic language, reported interpretations and explicit time limits. Preserve questions, qualifications and differences between witnesses instead of forcing a single chronology."
         },
         {
@@ -217,23 +483,7 @@
           "why": "Hear the Báb’s writings and reported words in their own setting, followed by passages on recognition of the promised Manifestation; retain the source’s own authority and numerical language."
         },
         {
-          "key": "source:BB00005",
-          "why": "Hear the Báb’s writings and reported words in their own setting, followed by passages on recognition of the promised Manifestation; retain the source’s own authority and numerical language."
-        },
-        {
-          "key": "source:BB00002",
-          "why": "Hear the Báb’s writings and reported words in their own setting, followed by passages on recognition of the promised Manifestation; retain the source’s own authority and numerical language."
-        },
-        {
-          "key": "source:BB00004",
-          "why": "Hear the Báb’s writings and reported words in their own setting, followed by passages on recognition of the promised Manifestation; retain the source’s own authority and numerical language."
-        },
-        {
           "key": "source:BB00045",
-          "why": "Hear the Báb’s writings and reported words in their own setting, followed by passages on recognition of the promised Manifestation; retain the source’s own authority and numerical language."
-        },
-        {
-          "key": "source:BB00456",
           "why": "Hear the Báb’s writings and reported words in their own setting, followed by passages on recognition of the promised Manifestation; retain the source’s own authority and numerical language."
         },
         {
@@ -254,10 +504,6 @@
         },
         {
           "key": "source:BH04386",
-          "why": "Hear the Báb’s writings and reported words in their own setting, followed by passages on recognition of the promised Manifestation; retain the source’s own authority and numerical language."
-        },
-        {
-          "key": "source:BH10884",
           "why": "Hear the Báb’s writings and reported words in their own setting, followed by passages on recognition of the promised Manifestation; retain the source’s own authority and numerical language."
         },
         {
@@ -297,10 +543,6 @@
           "why": "Move from declarations of the Day’s arrival to images of dawn and gradual disclosure, keeping spiritual meanings and future expectations in conversation."
         },
         {
-          "key": "source:BH04672",
-          "why": "Move from declarations of the Day’s arrival to images of dawn and gradual disclosure, keeping spiritual meanings and future expectations in conversation."
-        },
-        {
           "key": "source:ABU2130",
           "why": "Move from declarations of the Day’s arrival to images of dawn and gradual disclosure, keeping spiritual meanings and future expectations in conversation."
         },
@@ -309,16 +551,8 @@
           "why": "Move from declarations of the Day’s arrival to images of dawn and gradual disclosure, keeping spiritual meanings and future expectations in conversation."
         },
         {
-          "key": "source:AB04592",
-          "why": "Move from declarations of the Day’s arrival to images of dawn and gradual disclosure, keeping spiritual meanings and future expectations in conversation."
-        },
-        {
           "key": "source:AB11263",
           "why": "Move from declarations of the Day’s arrival to images of dawn and gradual disclosure, keeping spiritual meanings and future expectations in conversation."
-        },
-        {
-          "key": "source:AB11574",
-          "why": "Keep the unfinished source fragment visible and unchanged; the witness supplies no ending to restore."
         },
         {
           "key": "source:AB10513",
@@ -326,10 +560,6 @@
         },
         {
           "key": "source:AB12281",
-          "why": "Move from declarations of the Day’s arrival to images of dawn and gradual disclosure, keeping spiritual meanings and future expectations in conversation."
-        },
-        {
-          "key": "source:AB11287",
           "why": "Move from declarations of the Day’s arrival to images of dawn and gradual disclosure, keeping spiritual meanings and future expectations in conversation."
         },
         {
@@ -369,10 +599,6 @@
           "why": "Move from declarations of the Day’s arrival to images of dawn and gradual disclosure, keeping spiritual meanings and future expectations in conversation."
         },
         {
-          "key": "source:BH02858",
-          "why": "Move from declarations of the Day’s arrival to images of dawn and gradual disclosure, keeping spiritual meanings and future expectations in conversation."
-        },
-        {
           "key": "source:BH03751",
           "why": "Move from declarations of the Day’s arrival to images of dawn and gradual disclosure, keeping spiritual meanings and future expectations in conversation."
         },
@@ -394,10 +620,6 @@
         },
         {
           "key": "source:ABU0198",
-          "why": "Read warnings to rulers and accounts of their fulfillment with their circumstances and ethical summons intact, then follow the warnings about war and its aftermath. Keep dated and reported claims as the source gives them."
-        },
-        {
-          "key": "source:ABU1415",
           "why": "Read warnings to rulers and accounts of their fulfillment with their circumstances and ethical summons intact, then follow the warnings about war and its aftermath. Keep dated and reported claims as the source gives them."
         },
         {
@@ -429,10 +651,6 @@
           "why": "Read warnings to rulers and accounts of their fulfillment with their circumstances and ethical summons intact, then follow the warnings about war and its aftermath. Keep dated and reported claims as the source gives them."
         },
         {
-          "key": "source:BH02630",
-          "why": "Read warnings to rulers and accounts of their fulfillment with their circumstances and ethical summons intact, then follow the warnings about war and its aftermath. Keep dated and reported claims as the source gives them."
-        },
-        {
           "key": "source:BH10673",
           "why": "Read warnings to rulers and accounts of their fulfillment with their circumstances and ethical summons intact, then follow the warnings about war and its aftermath. Keep dated and reported claims as the source gives them."
         },
@@ -461,19 +679,7 @@
           "why": "Read warnings to rulers and accounts of their fulfillment with their circumstances and ethical summons intact, then follow the warnings about war and its aftermath. Keep dated and reported claims as the source gives them."
         },
         {
-          "key": "source:AB00177",
-          "why": "Read warnings to rulers and accounts of their fulfillment with their circumstances and ethical summons intact, then follow the warnings about war and its aftermath. Keep dated and reported claims as the source gives them."
-        },
-        {
           "key": "source:AB00936",
-          "why": "Read warnings to rulers and accounts of their fulfillment with their circumstances and ethical summons intact, then follow the warnings about war and its aftermath. Keep dated and reported claims as the source gives them."
-        },
-        {
-          "key": "source:AB00944",
-          "why": "Read warnings to rulers and accounts of their fulfillment with their circumstances and ethical summons intact, then follow the warnings about war and its aftermath. Keep dated and reported claims as the source gives them."
-        },
-        {
-          "key": "source:AB00161",
           "why": "Read warnings to rulers and accounts of their fulfillment with their circumstances and ethical summons intact, then follow the warnings about war and its aftermath. Keep dated and reported claims as the source gives them."
         },
         {
@@ -486,10 +692,6 @@
         },
         {
           "key": "source:AB02074",
-          "why": "Read warnings to rulers and accounts of their fulfillment with their circumstances and ethical summons intact, then follow the warnings about war and its aftermath. Keep dated and reported claims as the source gives them."
-        },
-        {
-          "key": "source:AB00565",
           "why": "Read warnings to rulers and accounts of their fulfillment with their circumstances and ethical summons intact, then follow the warnings about war and its aftermath. Keep dated and reported claims as the source gives them."
         },
         {
@@ -517,15 +719,7 @@
           "why": "Read warnings to rulers and accounts of their fulfillment with their circumstances and ethical summons intact, then follow the warnings about war and its aftermath. Keep dated and reported claims as the source gives them."
         },
         {
-          "key": "source:AB00796",
-          "why": "Read warnings to rulers and accounts of their fulfillment with their circumstances and ethical summons intact, then follow the warnings about war and its aftermath. Keep dated and reported claims as the source gives them."
-        },
-        {
           "key": "source:AB01671",
-          "why": "Read warnings to rulers and accounts of their fulfillment with their circumstances and ethical summons intact, then follow the warnings about war and its aftermath. Keep dated and reported claims as the source gives them."
-        },
-        {
-          "key": "source:AB01754",
           "why": "Read warnings to rulers and accounts of their fulfillment with their circumstances and ethical summons intact, then follow the warnings about war and its aftermath. Keep dated and reported claims as the source gives them."
         },
         {
@@ -557,19 +751,11 @@
           "why": "Read warnings to rulers and accounts of their fulfillment with their circumstances and ethical summons intact, then follow the warnings about war and its aftermath. Keep dated and reported claims as the source gives them."
         },
         {
-          "key": "source:BH00094",
-          "why": "Trace warnings about injustice and division through the conditions named for public wellbeing, then hear the hopes addressed to Iran and to Persian and Zoroastrian friends."
-        },
-        {
           "key": "source:AB01237",
           "why": "Trace warnings about injustice and division through the conditions named for public wellbeing, then hear the hopes addressed to Iran and to Persian and Zoroastrian friends."
         },
         {
           "key": "source:AB01388",
-          "why": "Trace warnings about injustice and division through the conditions named for public wellbeing, then hear the hopes addressed to Iran and to Persian and Zoroastrian friends."
-        },
-        {
-          "key": "source:AB11683",
           "why": "Trace warnings about injustice and division through the conditions named for public wellbeing, then hear the hopes addressed to Iran and to Persian and Zoroastrian friends."
         },
         {
@@ -585,19 +771,7 @@
           "why": "Trace warnings about injustice and division through the conditions named for public wellbeing, then hear the hopes addressed to Iran and to Persian and Zoroastrian friends."
         },
         {
-          "key": "source:ABU2208",
-          "why": "Trace warnings about injustice and division through the conditions named for public wellbeing, then hear the hopes addressed to Iran and to Persian and Zoroastrian friends."
-        },
-        {
-          "key": "source:ABU1542",
-          "why": "Trace warnings about injustice and division through the conditions named for public wellbeing, then hear the hopes addressed to Iran and to Persian and Zoroastrian friends."
-        },
-        {
           "key": "source:AB03672",
-          "why": "Trace warnings about injustice and division through the conditions named for public wellbeing, then hear the hopes addressed to Iran and to Persian and Zoroastrian friends."
-        },
-        {
-          "key": "source:ABU3725",
           "why": "Trace warnings about injustice and division through the conditions named for public wellbeing, then hear the hopes addressed to Iran and to Persian and Zoroastrian friends."
         },
         {
@@ -607,10 +781,6 @@
         {
           "key": "source:AB09305",
           "why": "Preserve the source’s opening omission and the distinction between what is said to have occurred and what remains to come."
-        },
-        {
-          "key": "source:AB09763",
-          "why": "Trace warnings about injustice and division through the conditions named for public wellbeing, then hear the hopes addressed to Iran and to Persian and Zoroastrian friends."
         },
         {
           "key": "source:AB02684",
@@ -626,10 +796,6 @@
         },
         {
           "key": "source:AB02806",
-          "why": "Trace warnings about injustice and division through the conditions named for public wellbeing, then hear the hopes addressed to Iran and to Persian and Zoroastrian friends."
-        },
-        {
-          "key": "source:AB07072",
           "why": "Trace warnings about injustice and division through the conditions named for public wellbeing, then hear the hopes addressed to Iran and to Persian and Zoroastrian friends."
         },
         {
@@ -661,10 +827,6 @@
           "why": "Trace warnings about injustice and division through the conditions named for public wellbeing, then hear the hopes addressed to Iran and to Persian and Zoroastrian friends."
         },
         {
-          "key": "source:AB06770",
-          "why": "Trace warnings about injustice and division through the conditions named for public wellbeing, then hear the hopes addressed to Iran and to Persian and Zoroastrian friends."
-        },
-        {
           "key": "source:AB08336",
           "why": "Trace warnings about injustice and division through the conditions named for public wellbeing, then hear the hopes addressed to Iran and to Persian and Zoroastrian friends."
         },
@@ -673,19 +835,11 @@
           "why": "Trace warnings about injustice and division through the conditions named for public wellbeing, then hear the hopes addressed to Iran and to Persian and Zoroastrian friends."
         },
         {
-          "key": "source:AB05177",
-          "why": "Trace warnings about injustice and division through the conditions named for public wellbeing, then hear the hopes addressed to Iran and to Persian and Zoroastrian friends."
-        },
-        {
           "key": "source:AB05353",
           "why": "Trace warnings about injustice and division through the conditions named for public wellbeing, then hear the hopes addressed to Iran and to Persian and Zoroastrian friends."
         },
         {
           "key": "source:AB05845",
-          "why": "Trace warnings about injustice and division through the conditions named for public wellbeing, then hear the hopes addressed to Iran and to Persian and Zoroastrian friends."
-        },
-        {
-          "key": "source:AB07302",
           "why": "Trace warnings about injustice and division through the conditions named for public wellbeing, then hear the hopes addressed to Iran and to Persian and Zoroastrian friends."
         },
         {
@@ -721,16 +875,8 @@
           "why": "Trace warnings about injustice and division through the conditions named for public wellbeing, then hear the hopes addressed to Iran and to Persian and Zoroastrian friends."
         },
         {
-          "key": "source:ABU0550",
-          "why": "Trace warnings about injustice and division through the conditions named for public wellbeing, then hear the hopes addressed to Iran and to Persian and Zoroastrian friends."
-        },
-        {
           "key": "source:ABU0515",
           "why": "Trace warnings about injustice and division through the conditions named for public wellbeing, then hear the hopes addressed to Iran and to Persian and Zoroastrian friends."
-        },
-        {
-          "key": "source:ABU0612",
-          "why": "Connect future peace with institutions, equality and spiritual education. Set technological promise beside destructive uses, and preserve the questions and qualifications within reported conversations."
         },
         {
           "key": "source:ABU0769",
@@ -738,14 +884,6 @@
         },
         {
           "key": "source:ABU0315",
-          "why": "Connect future peace with institutions, equality and spiritual education. Set technological promise beside destructive uses, and preserve the questions and qualifications within reported conversations."
-        },
-        {
-          "key": "source:ABU2129",
-          "why": "Connect future peace with institutions, equality and spiritual education. Set technological promise beside destructive uses, and preserve the questions and qualifications within reported conversations."
-        },
-        {
-          "key": "source:ABU2714",
           "why": "Connect future peace with institutions, equality and spiritual education. Set technological promise beside destructive uses, and preserve the questions and qualifications within reported conversations."
         },
         {
@@ -766,10 +904,6 @@
         },
         {
           "key": "source:AB10778",
-          "why": "Connect future peace with institutions, equality and spiritual education. Set technological promise beside destructive uses, and preserve the questions and qualifications within reported conversations."
-        },
-        {
-          "key": "source:AB07144",
           "why": "Connect future peace with institutions, equality and spiritual education. Set technological promise beside destructive uses, and preserve the questions and qualifications within reported conversations."
         },
         {
@@ -813,10 +947,6 @@
           "why": "Connect future peace with institutions, equality and spiritual education. Set technological promise beside destructive uses, and preserve the questions and qualifications within reported conversations."
         },
         {
-          "key": "source:ABU0748",
-          "why": "Connect future peace with institutions, equality and spiritual education. Set technological promise beside destructive uses, and preserve the questions and qualifications within reported conversations."
-        },
-        {
           "key": "source:ABU1241",
           "why": "Connect future peace with institutions, equality and spiritual education. Set technological promise beside destructive uses, and preserve the questions and qualifications within reported conversations."
         },
@@ -833,18 +963,6 @@
           "why": "Connect future peace with institutions, equality and spiritual education. Set technological promise beside destructive uses, and preserve the questions and qualifications within reported conversations."
         },
         {
-          "key": "source:ABU1510",
-          "why": "Connect future peace with institutions, equality and spiritual education. Set technological promise beside destructive uses, and preserve the questions and qualifications within reported conversations."
-        },
-        {
-          "key": "source:ABU2353",
-          "why": "Connect future peace with institutions, equality and spiritual education. Set technological promise beside destructive uses, and preserve the questions and qualifications within reported conversations."
-        },
-        {
-          "key": "source:ABU1178",
-          "why": "Connect future peace with institutions, equality and spiritual education. Set technological promise beside destructive uses, and preserve the questions and qualifications within reported conversations."
-        },
-        {
           "key": "source:ABU2890",
           "why": "Connect future peace with institutions, equality and spiritual education. Set technological promise beside destructive uses, and preserve the questions and qualifications within reported conversations."
         },
@@ -853,19 +971,7 @@
           "why": "Explore scriptural promises and visions of the Holy Land through pilgrimage, worship, learning and public service, attending to place, historical setting and differences among reports."
         },
         {
-          "key": "source:AB01124",
-          "why": "Explore scriptural promises and visions of the Holy Land through pilgrimage, worship, learning and public service, attending to place, historical setting and differences among reports."
-        },
-        {
-          "key": "source:AB02495",
-          "why": "Explore scriptural promises and visions of the Holy Land through pilgrimage, worship, learning and public service, attending to place, historical setting and differences among reports."
-        },
-        {
           "key": "source:AB01333",
-          "why": "Explore scriptural promises and visions of the Holy Land through pilgrimage, worship, learning and public service, attending to place, historical setting and differences among reports."
-        },
-        {
-          "key": "source:AB04664",
           "why": "Explore scriptural promises and visions of the Holy Land through pilgrimage, worship, learning and public service, attending to place, historical setting and differences among reports."
         },
         {
@@ -874,10 +980,6 @@
         },
         {
           "key": "source:AB04721",
-          "why": "Explore scriptural promises and visions of the Holy Land through pilgrimage, worship, learning and public service, attending to place, historical setting and differences among reports."
-        },
-        {
-          "key": "source:ABU3142",
           "why": "Explore scriptural promises and visions of the Holy Land through pilgrimage, worship, learning and public service, attending to place, historical setting and differences among reports."
         },
         {
@@ -913,10 +1015,6 @@
           "why": "Explore scriptural promises and visions of the Holy Land through pilgrimage, worship, learning and public service, attending to place, historical setting and differences among reports."
         },
         {
-          "key": "source:ABU1689",
-          "why": "Explore scriptural promises and visions of the Holy Land through pilgrimage, worship, learning and public service, attending to place, historical setting and differences among reports."
-        },
-        {
           "key": "source:ABU2167",
           "why": "Explore scriptural promises and visions of the Holy Land through pilgrimage, worship, learning and public service, attending to place, historical setting and differences among reports."
         },
@@ -925,28 +1023,12 @@
           "why": "Explore scriptural promises and visions of the Holy Land through pilgrimage, worship, learning and public service, attending to place, historical setting and differences among reports."
         },
         {
-          "key": "source:ABU0837",
-          "why": "Explore scriptural promises and visions of the Holy Land through pilgrimage, worship, learning and public service, attending to place, historical setting and differences among reports."
-        },
-        {
-          "key": "source:ABU1685",
-          "why": "Explore scriptural promises and visions of the Holy Land through pilgrimage, worship, learning and public service, attending to place, historical setting and differences among reports."
-        },
-        {
           "key": "source:ABU3188",
-          "why": "Explore scriptural promises and visions of the Holy Land through pilgrimage, worship, learning and public service, attending to place, historical setting and differences among reports."
-        },
-        {
-          "key": "source:AB01516",
           "why": "Explore scriptural promises and visions of the Holy Land through pilgrimage, worship, learning and public service, attending to place, historical setting and differences among reports."
         },
         {
           "key": "source:ABU1001",
           "why": "Explore scriptural promises and visions of the Holy Land through pilgrimage, worship, learning and public service, attending to place, historical setting and differences among reports."
-        },
-        {
-          "key": "source:ABU0953",
-          "why": "Keep the reported discussion of Jewish persecution and political expectations in its historical setting, without endorsing or rewriting its claims."
         },
         {
           "key": "source:AB00002",
@@ -977,15 +1059,7 @@
           "why": "Read the imagery of a pillar of fire alongside explicit directions to answer hostility with peace and kindness."
         },
         {
-          "key": "source:AB07540",
-          "why": "Explore scriptural promises and visions of the Holy Land through pilgrimage, worship, learning and public service, attending to place, historical setting and differences among reports."
-        },
-        {
           "key": "source:AB08046",
-          "why": "Explore scriptural promises and visions of the Holy Land through pilgrimage, worship, learning and public service, attending to place, historical setting and differences among reports."
-        },
-        {
-          "key": "source:AB06507",
           "why": "Explore scriptural promises and visions of the Holy Land through pilgrimage, worship, learning and public service, attending to place, historical setting and differences among reports."
         },
         {
@@ -994,10 +1068,6 @@
         },
         {
           "key": "source:AB02935",
-          "why": "Let local letters and conversations show how hope takes root in particular communities, moving between Iran and other regions and returning to practical teaching, fellowship and service."
-        },
-        {
-          "key": "source:AB03767",
           "why": "Let local letters and conversations show how hope takes root in particular communities, moving between Iran and other regions and returning to practical teaching, fellowship and service."
         },
         {
@@ -1017,23 +1087,7 @@
           "why": "Let local letters and conversations show how hope takes root in particular communities, moving between Iran and other regions and returning to practical teaching, fellowship and service."
         },
         {
-          "key": "source:AB05401",
-          "why": "Let local letters and conversations show how hope takes root in particular communities, moving between Iran and other regions and returning to practical teaching, fellowship and service."
-        },
-        {
-          "key": "source:AB05873",
-          "why": "Let local letters and conversations show how hope takes root in particular communities, moving between Iran and other regions and returning to practical teaching, fellowship and service."
-        },
-        {
-          "key": "source:AB01513",
-          "why": "Let local letters and conversations show how hope takes root in particular communities, moving between Iran and other regions and returning to practical teaching, fellowship and service."
-        },
-        {
           "key": "source:ABU2989",
-          "why": "Let local letters and conversations show how hope takes root in particular communities, moving between Iran and other regions and returning to practical teaching, fellowship and service."
-        },
-        {
-          "key": "source:AB02375",
           "why": "Let local letters and conversations show how hope takes root in particular communities, moving between Iran and other regions and returning to practical teaching, fellowship and service."
         },
         {
@@ -1041,35 +1095,11 @@
           "why": "Let local letters and conversations show how hope takes root in particular communities, moving between Iran and other regions and returning to practical teaching, fellowship and service."
         },
         {
-          "key": "source:AB02949",
-          "why": "Let local letters and conversations show how hope takes root in particular communities, moving between Iran and other regions and returning to practical teaching, fellowship and service."
-        },
-        {
-          "key": "source:AB03483",
-          "why": "Let local letters and conversations show how hope takes root in particular communities, moving between Iran and other regions and returning to practical teaching, fellowship and service."
-        },
-        {
-          "key": "source:AB05875",
-          "why": "Let local letters and conversations show how hope takes root in particular communities, moving between Iran and other regions and returning to practical teaching, fellowship and service."
-        },
-        {
-          "key": "source:AB05971",
-          "why": "Let local letters and conversations show how hope takes root in particular communities, moving between Iran and other regions and returning to practical teaching, fellowship and service."
-        },
-        {
           "key": "source:AB11767",
           "why": "Let local letters and conversations show how hope takes root in particular communities, moving between Iran and other regions and returning to practical teaching, fellowship and service."
         },
         {
-          "key": "source:AB12078",
-          "why": "Let local letters and conversations show how hope takes root in particular communities, moving between Iran and other regions and returning to practical teaching, fellowship and service."
-        },
-        {
           "key": "source:AB01970",
-          "why": "Let local letters and conversations show how hope takes root in particular communities, moving between Iran and other regions and returning to practical teaching, fellowship and service."
-        },
-        {
-          "key": "source:AB02376",
           "why": "Let local letters and conversations show how hope takes root in particular communities, moving between Iran and other regions and returning to practical teaching, fellowship and service."
         },
         {
@@ -1085,10 +1115,6 @@
           "why": "Let local letters and conversations show how hope takes root in particular communities, moving between Iran and other regions and returning to practical teaching, fellowship and service."
         },
         {
-          "key": "source:ABU1073",
-          "why": "Let local letters and conversations show how hope takes root in particular communities, moving between Iran and other regions and returning to practical teaching, fellowship and service."
-        },
-        {
           "key": "source:AB08459",
           "why": "Let local letters and conversations show how hope takes root in particular communities, moving between Iran and other regions and returning to practical teaching, fellowship and service."
         },
@@ -1101,27 +1127,11 @@
           "why": "Let local letters and conversations show how hope takes root in particular communities, moving between Iran and other regions and returning to practical teaching, fellowship and service."
         },
         {
-          "key": "source:ABU2049",
-          "why": "Let local letters and conversations show how hope takes root in particular communities, moving between Iran and other regions and returning to practical teaching, fellowship and service."
-        },
-        {
           "key": "source:ABU2317",
           "why": "Let local letters and conversations show how hope takes root in particular communities, moving between Iran and other regions and returning to practical teaching, fellowship and service."
         },
         {
           "key": "source:ABU2315",
-          "why": "Let local letters and conversations show how hope takes root in particular communities, moving between Iran and other regions and returning to practical teaching, fellowship and service."
-        },
-        {
-          "key": "source:ABU2570",
-          "why": "Let local letters and conversations show how hope takes root in particular communities, moving between Iran and other regions and returning to practical teaching, fellowship and service."
-        },
-        {
-          "key": "source:ABU3689",
-          "why": "Let local letters and conversations show how hope takes root in particular communities, moving between Iran and other regions and returning to practical teaching, fellowship and service."
-        },
-        {
-          "key": "source:ABU2357",
           "why": "Let local letters and conversations show how hope takes root in particular communities, moving between Iran and other regions and returning to practical teaching, fellowship and service."
         },
         {
@@ -1133,19 +1143,7 @@
           "why": "Let local letters and conversations show how hope takes root in particular communities, moving between Iran and other regions and returning to practical teaching, fellowship and service."
         },
         {
-          "key": "source:AB05821",
-          "why": "Let local letters and conversations show how hope takes root in particular communities, moving between Iran and other regions and returning to practical teaching, fellowship and service."
-        },
-        {
-          "key": "source:AB11680",
-          "why": "Let local letters and conversations show how hope takes root in particular communities, moving between Iran and other regions and returning to practical teaching, fellowship and service."
-        },
-        {
           "key": "source:AB06361",
-          "why": "Let local letters and conversations show how hope takes root in particular communities, moving between Iran and other regions and returning to practical teaching, fellowship and service."
-        },
-        {
-          "key": "source:AB04392",
           "why": "Let local letters and conversations show how hope takes root in particular communities, moving between Iran and other regions and returning to practical teaching, fellowship and service."
         },
         {
@@ -1158,10 +1156,6 @@
         },
         {
           "key": "source:BH08746",
-          "why": "Keep reassurance with the trials it addresses. Follow prison, exile, conflict and Covenant language through calls to patience, wisdom and steadfastness, without changing metaphor into a direction to harm."
-        },
-        {
-          "key": "source:BH04552",
           "why": "Keep reassurance with the trials it addresses. Follow prison, exile, conflict and Covenant language through calls to patience, wisdom and steadfastness, without changing metaphor into a direction to harm."
         },
         {
@@ -1189,23 +1183,7 @@
           "why": "Keep reassurance with the trials it addresses. Follow prison, exile, conflict and Covenant language through calls to patience, wisdom and steadfastness, without changing metaphor into a direction to harm."
         },
         {
-          "key": "source:BH04324",
-          "why": "Keep reassurance with the trials it addresses. Follow prison, exile, conflict and Covenant language through calls to patience, wisdom and steadfastness, without changing metaphor into a direction to harm."
-        },
-        {
-          "key": "source:BH10343",
-          "why": "Keep reassurance with the trials it addresses. Follow prison, exile, conflict and Covenant language through calls to patience, wisdom and steadfastness, without changing metaphor into a direction to harm."
-        },
-        {
-          "key": "source:BH05546",
-          "why": "Keep reassurance with the trials it addresses. Follow prison, exile, conflict and Covenant language through calls to patience, wisdom and steadfastness, without changing metaphor into a direction to harm."
-        },
-        {
           "key": "source:BH03399",
-          "why": "Keep reassurance with the trials it addresses. Follow prison, exile, conflict and Covenant language through calls to patience, wisdom and steadfastness, without changing metaphor into a direction to harm."
-        },
-        {
-          "key": "source:BH04940",
           "why": "Keep reassurance with the trials it addresses. Follow prison, exile, conflict and Covenant language through calls to patience, wisdom and steadfastness, without changing metaphor into a direction to harm."
         },
         {
@@ -1215,10 +1193,6 @@
         {
           "key": "source:BH05097",
           "why": "Keep reassurance with the trials it addresses. Follow prison, exile, conflict and Covenant language through calls to patience, wisdom and steadfastness, without changing metaphor into a direction to harm."
-        },
-        {
-          "key": "source:BH05413",
-          "why": "Restore the preceding paragraph because the selected opening continues its sentence."
         },
         {
           "key": "source:BH07944",
@@ -1241,23 +1215,11 @@
           "why": "Keep reassurance with the trials it addresses. Follow prison, exile, conflict and Covenant language through calls to patience, wisdom and steadfastness, without changing metaphor into a direction to harm."
         },
         {
-          "key": "source:BH02341",
-          "why": "Keep reassurance with the trials it addresses. Follow prison, exile, conflict and Covenant language through calls to patience, wisdom and steadfastness, without changing metaphor into a direction to harm."
-        },
-        {
           "key": "source:BH10570",
           "why": "Keep reassurance with the trials it addresses. Follow prison, exile, conflict and Covenant language through calls to patience, wisdom and steadfastness, without changing metaphor into a direction to harm."
         },
         {
-          "key": "source:BH03919",
-          "why": "Keep reassurance with the trials it addresses. Follow prison, exile, conflict and Covenant language through calls to patience, wisdom and steadfastness, without changing metaphor into a direction to harm."
-        },
-        {
           "key": "source:BH03654",
-          "why": "Keep reassurance with the trials it addresses. Follow prison, exile, conflict and Covenant language through calls to patience, wisdom and steadfastness, without changing metaphor into a direction to harm."
-        },
-        {
-          "key": "source:BH05316",
           "why": "Keep reassurance with the trials it addresses. Follow prison, exile, conflict and Covenant language through calls to patience, wisdom and steadfastness, without changing metaphor into a direction to harm."
         },
         {
@@ -1269,23 +1231,7 @@
           "why": "Keep reassurance with the trials it addresses. Follow prison, exile, conflict and Covenant language through calls to patience, wisdom and steadfastness, without changing metaphor into a direction to harm."
         },
         {
-          "key": "source:BH03902",
-          "why": "Keep reassurance with the trials it addresses. Follow prison, exile, conflict and Covenant language through calls to patience, wisdom and steadfastness, without changing metaphor into a direction to harm."
-        },
-        {
-          "key": "source:BH04300",
-          "why": "Keep reassurance with the trials it addresses. Follow prison, exile, conflict and Covenant language through calls to patience, wisdom and steadfastness, without changing metaphor into a direction to harm."
-        },
-        {
           "key": "source:BH03865",
-          "why": "Keep reassurance with the trials it addresses. Follow prison, exile, conflict and Covenant language through calls to patience, wisdom and steadfastness, without changing metaphor into a direction to harm."
-        },
-        {
-          "key": "source:BH07859",
-          "why": "Keep reassurance with the trials it addresses. Follow prison, exile, conflict and Covenant language through calls to patience, wisdom and steadfastness, without changing metaphor into a direction to harm."
-        },
-        {
-          "key": "source:BH04943",
           "why": "Keep reassurance with the trials it addresses. Follow prison, exile, conflict and Covenant language through calls to patience, wisdom and steadfastness, without changing metaphor into a direction to harm."
         },
         {
@@ -1293,31 +1239,11 @@
           "why": "Keep reassurance with the trials it addresses. Follow prison, exile, conflict and Covenant language through calls to patience, wisdom and steadfastness, without changing metaphor into a direction to harm."
         },
         {
-          "key": "source:BH03448",
-          "why": "Keep reassurance with the trials it addresses. Follow prison, exile, conflict and Covenant language through calls to patience, wisdom and steadfastness, without changing metaphor into a direction to harm."
-        },
-        {
-          "key": "source:BH02562",
-          "why": "Keep reassurance with the trials it addresses. Follow prison, exile, conflict and Covenant language through calls to patience, wisdom and steadfastness, without changing metaphor into a direction to harm."
-        },
-        {
-          "key": "source:BH03880",
-          "why": "Keep reassurance with the trials it addresses. Follow prison, exile, conflict and Covenant language through calls to patience, wisdom and steadfastness, without changing metaphor into a direction to harm."
-        },
-        {
           "key": "source:BH03867",
           "why": "Keep reassurance with the trials it addresses. Follow prison, exile, conflict and Covenant language through calls to patience, wisdom and steadfastness, without changing metaphor into a direction to harm."
         },
         {
-          "key": "source:BH07184",
-          "why": "Keep reassurance with the trials it addresses. Follow prison, exile, conflict and Covenant language through calls to patience, wisdom and steadfastness, without changing metaphor into a direction to harm."
-        },
-        {
           "key": "source:BH07043",
-          "why": "Keep reassurance with the trials it addresses. Follow prison, exile, conflict and Covenant language through calls to patience, wisdom and steadfastness, without changing metaphor into a direction to harm."
-        },
-        {
-          "key": "source:BH11487",
           "why": "Keep reassurance with the trials it addresses. Follow prison, exile, conflict and Covenant language through calls to patience, wisdom and steadfastness, without changing metaphor into a direction to harm."
         },
         {
@@ -1330,22 +1256,6 @@
         },
         {
           "key": "source:BH06947",
-          "why": "Keep reassurance with the trials it addresses. Follow prison, exile, conflict and Covenant language through calls to patience, wisdom and steadfastness, without changing metaphor into a direction to harm."
-        },
-        {
-          "key": "source:BH09231",
-          "why": "Keep reassurance with the trials it addresses. Follow prison, exile, conflict and Covenant language through calls to patience, wisdom and steadfastness, without changing metaphor into a direction to harm."
-        },
-        {
-          "key": "source:BH10001",
-          "why": "Keep reassurance with the trials it addresses. Follow prison, exile, conflict and Covenant language through calls to patience, wisdom and steadfastness, without changing metaphor into a direction to harm."
-        },
-        {
-          "key": "source:AB02314",
-          "why": "Keep reassurance with the trials it addresses. Follow prison, exile, conflict and Covenant language through calls to patience, wisdom and steadfastness, without changing metaphor into a direction to harm."
-        },
-        {
-          "key": "source:AB02459",
           "why": "Keep reassurance with the trials it addresses. Follow prison, exile, conflict and Covenant language through calls to patience, wisdom and steadfastness, without changing metaphor into a direction to harm."
         },
         {
@@ -1365,35 +1275,7 @@
           "why": "Keep reassurance with the trials it addresses. Follow prison, exile, conflict and Covenant language through calls to patience, wisdom and steadfastness, without changing metaphor into a direction to harm."
         },
         {
-          "key": "source:AB03059",
-          "why": "Keep reassurance with the trials it addresses. Follow prison, exile, conflict and Covenant language through calls to patience, wisdom and steadfastness, without changing metaphor into a direction to harm."
-        },
-        {
           "key": "source:AB06715",
-          "why": "Keep reassurance with the trials it addresses. Follow prison, exile, conflict and Covenant language through calls to patience, wisdom and steadfastness, without changing metaphor into a direction to harm."
-        },
-        {
-          "key": "source:AB05447",
-          "why": "Keep reassurance with the trials it addresses. Follow prison, exile, conflict and Covenant language through calls to patience, wisdom and steadfastness, without changing metaphor into a direction to harm."
-        },
-        {
-          "key": "source:AB07518",
-          "why": "Keep reassurance with the trials it addresses. Follow prison, exile, conflict and Covenant language through calls to patience, wisdom and steadfastness, without changing metaphor into a direction to harm."
-        },
-        {
-          "key": "source:AB07585",
-          "why": "Keep reassurance with the trials it addresses. Follow prison, exile, conflict and Covenant language through calls to patience, wisdom and steadfastness, without changing metaphor into a direction to harm."
-        },
-        {
-          "key": "source:AB09970",
-          "why": "Keep reassurance with the trials it addresses. Follow prison, exile, conflict and Covenant language through calls to patience, wisdom and steadfastness, without changing metaphor into a direction to harm."
-        },
-        {
-          "key": "source:AB11703",
-          "why": "Keep reassurance with the trials it addresses. Follow prison, exile, conflict and Covenant language through calls to patience, wisdom and steadfastness, without changing metaphor into a direction to harm."
-        },
-        {
-          "key": "source:AB11749",
           "why": "Keep reassurance with the trials it addresses. Follow prison, exile, conflict and Covenant language through calls to patience, wisdom and steadfastness, without changing metaphor into a direction to harm."
         },
         {
@@ -1413,10 +1295,6 @@
           "why": "Keep reassurance with the trials it addresses. Follow prison, exile, conflict and Covenant language through calls to patience, wisdom and steadfastness, without changing metaphor into a direction to harm."
         },
         {
-          "key": "source:BH08494",
-          "why": "Keep reassurance with the trials it addresses. Follow prison, exile, conflict and Covenant language through calls to patience, wisdom and steadfastness, without changing metaphor into a direction to harm."
-        },
-        {
           "key": "source:AB01565",
           "why": "Retain the particular martyrdom and bereavement behind the promise of future effects, with the source’s own imagery unchanged."
         },
@@ -1425,15 +1303,7 @@
           "why": "Read assurances to bereaved people and families with the particular lives and sacrifices they remember; do not detach personal promises from their recipients."
         },
         {
-          "key": "source:BHU0016",
-          "why": "Read assurances to bereaved people and families with the particular lives and sacrifices they remember; do not detach personal promises from their recipients."
-        },
-        {
           "key": "source:AB05711",
-          "why": "Read assurances to bereaved people and families with the particular lives and sacrifices they remember; do not detach personal promises from their recipients."
-        },
-        {
-          "key": "source:AB11964",
           "why": "Read assurances to bereaved people and families with the particular lives and sacrifices they remember; do not detach personal promises from their recipients."
         },
         {
@@ -1449,23 +1319,7 @@
           "why": "Read assurances to bereaved people and families with the particular lives and sacrifices they remember; do not detach personal promises from their recipients."
         },
         {
-          "key": "source:AB05948",
-          "why": "Read assurances to bereaved people and families with the particular lives and sacrifices they remember; do not detach personal promises from their recipients."
-        },
-        {
-          "key": "source:AB05706",
-          "why": "Read assurances to bereaved people and families with the particular lives and sacrifices they remember; do not detach personal promises from their recipients."
-        },
-        {
-          "key": "source:AB06897",
-          "why": "Read assurances to bereaved people and families with the particular lives and sacrifices they remember; do not detach personal promises from their recipients."
-        },
-        {
           "key": "source:AB09912",
-          "why": "Read assurances to bereaved people and families with the particular lives and sacrifices they remember; do not detach personal promises from their recipients."
-        },
-        {
-          "key": "source:AB06620",
           "why": "Read assurances to bereaved people and families with the particular lives and sacrifices they remember; do not detach personal promises from their recipients."
         },
         {
@@ -1473,56 +1327,12 @@
           "why": "Preserve the unnamed child’s identity as unnamed; the source does not license an editorial identification."
         },
         {
-          "key": "source:BH05957",
-          "why": "Read assurances to bereaved people and families with the particular lives and sacrifices they remember; do not detach personal promises from their recipients."
-        },
-        {
-          "key": "source:BH02501",
-          "why": "Read assurances to bereaved people and families with the particular lives and sacrifices they remember; do not detach personal promises from their recipients."
-        },
-        {
-          "key": "source:BH05515",
-          "why": "Read assurances to bereaved people and families with the particular lives and sacrifices they remember; do not detach personal promises from their recipients."
-        },
-        {
-          "key": "source:BH09614",
-          "why": "Read assurances to bereaved people and families with the particular lives and sacrifices they remember; do not detach personal promises from their recipients."
-        },
-        {
-          "key": "source:BH10499",
-          "why": "Read assurances to bereaved people and families with the particular lives and sacrifices they remember; do not detach personal promises from their recipients."
-        },
-        {
-          "key": "source:BH10725",
-          "why": "Read assurances to bereaved people and families with the particular lives and sacrifices they remember; do not detach personal promises from their recipients."
-        },
-        {
-          "key": "source:BH03606",
-          "why": "Read assurances to bereaved people and families with the particular lives and sacrifices they remember; do not detach personal promises from their recipients."
-        },
-        {
           "key": "source:BH04236",
-          "why": "Read assurances to bereaved people and families with the particular lives and sacrifices they remember; do not detach personal promises from their recipients."
-        },
-        {
-          "key": "source:BH04250",
-          "why": "Read assurances to bereaved people and families with the particular lives and sacrifices they remember; do not detach personal promises from their recipients."
-        },
-        {
-          "key": "source:AB01662",
           "why": "Read assurances to bereaved people and families with the particular lives and sacrifices they remember; do not detach personal promises from their recipients."
         },
         {
           "key": "source:AB11868",
           "why": "Read assurances to bereaved people and families with the particular lives and sacrifices they remember; do not detach personal promises from their recipients."
-        },
-        {
-          "key": "source:BH01847",
-          "why": "Follow teaching, writing, care, worship and public service from present effort toward fruits whose full significance is not yet visible."
-        },
-        {
-          "key": "source:BH03475",
-          "why": "Follow teaching, writing, care, worship and public service from present effort toward fruits whose full significance is not yet visible."
         },
         {
           "key": "source:AB00872",
@@ -1533,23 +1343,7 @@
           "why": "Follow teaching, writing, care, worship and public service from present effort toward fruits whose full significance is not yet visible."
         },
         {
-          "key": "source:AB04003",
-          "why": "Follow teaching, writing, care, worship and public service from present effort toward fruits whose full significance is not yet visible."
-        },
-        {
-          "key": "source:AB04995",
-          "why": "Follow teaching, writing, care, worship and public service from present effort toward fruits whose full significance is not yet visible."
-        },
-        {
-          "key": "source:AB05090",
-          "why": "Follow teaching, writing, care, worship and public service from present effort toward fruits whose full significance is not yet visible."
-        },
-        {
           "key": "source:AB05575",
-          "why": "Follow teaching, writing, care, worship and public service from present effort toward fruits whose full significance is not yet visible."
-        },
-        {
-          "key": "source:AB05895",
           "why": "Follow teaching, writing, care, worship and public service from present effort toward fruits whose full significance is not yet visible."
         },
         {
@@ -1562,18 +1356,6 @@
         },
         {
           "key": "source:AB07233",
-          "why": "Follow teaching, writing, care, worship and public service from present effort toward fruits whose full significance is not yet visible."
-        },
-        {
-          "key": "source:AB05284",
-          "why": "Follow teaching, writing, care, worship and public service from present effort toward fruits whose full significance is not yet visible."
-        },
-        {
-          "key": "source:AB04085",
-          "why": "Follow teaching, writing, care, worship and public service from present effort toward fruits whose full significance is not yet visible."
-        },
-        {
-          "key": "source:AB04761",
           "why": "Follow teaching, writing, care, worship and public service from present effort toward fruits whose full significance is not yet visible."
         },
         {
@@ -1597,19 +1379,11 @@
           "why": "Follow teaching, writing, care, worship and public service from present effort toward fruits whose full significance is not yet visible."
         },
         {
-          "key": "source:AB09628",
-          "why": "Follow teaching, writing, care, worship and public service from present effort toward fruits whose full significance is not yet visible."
-        },
-        {
           "key": "source:AB09671",
           "why": "Follow teaching, writing, care, worship and public service from present effort toward fruits whose full significance is not yet visible."
         },
         {
           "key": "source:AB11305",
-          "why": "Follow teaching, writing, care, worship and public service from present effort toward fruits whose full significance is not yet visible."
-        },
-        {
-          "key": "source:AB12479",
           "why": "Follow teaching, writing, care, worship and public service from present effort toward fruits whose full significance is not yet visible."
         },
         {
@@ -1621,10 +1395,6 @@
           "why": "Follow teaching, writing, care, worship and public service from present effort toward fruits whose full significance is not yet visible."
         },
         {
-          "key": "source:AB10768",
-          "why": "Follow teaching, writing, care, worship and public service from present effort toward fruits whose full significance is not yet visible."
-        },
-        {
           "key": "source:BH00603",
           "why": "Follow teaching, writing, care, worship and public service from present effort toward fruits whose full significance is not yet visible."
         },
@@ -1633,35 +1403,11 @@
           "why": "Follow teaching, writing, care, worship and public service from present effort toward fruits whose full significance is not yet visible."
         },
         {
-          "key": "source:BH06029",
-          "why": "Follow teaching, writing, care, worship and public service from present effort toward fruits whose full significance is not yet visible."
-        },
-        {
-          "key": "source:BH07448",
-          "why": "Follow teaching, writing, care, worship and public service from present effort toward fruits whose full significance is not yet visible."
-        },
-        {
-          "key": "source:BH08786",
-          "why": "Follow teaching, writing, care, worship and public service from present effort toward fruits whose full significance is not yet visible."
-        },
-        {
-          "key": "source:BH04975",
-          "why": "Follow teaching, writing, care, worship and public service from present effort toward fruits whose full significance is not yet visible."
-        },
-        {
           "key": "source:AB02222",
           "why": "Retain the counsel to remain loving and patient toward rejecting relatives alongside the promise of changed attitudes."
         },
         {
-          "key": "source:AB05352",
-          "why": "Let assurances of future recognition deepen a present responsibility for patience, kindness and gratitude, keeping personal and family settings visible."
-        },
-        {
           "key": "source:ABU2978",
-          "why": "Let assurances of future recognition deepen a present responsibility for patience, kindness and gratitude, keeping personal and family settings visible."
-        },
-        {
-          "key": "source:AB06169",
           "why": "Let assurances of future recognition deepen a present responsibility for patience, kindness and gratitude, keeping personal and family settings visible."
         },
         {
@@ -1673,47 +1419,7 @@
           "why": "Let assurances of future recognition deepen a present responsibility for patience, kindness and gratitude, keeping personal and family settings visible."
         },
         {
-          "key": "source:AB07893",
-          "why": "Let assurances of future recognition deepen a present responsibility for patience, kindness and gratitude, keeping personal and family settings visible."
-        },
-        {
-          "key": "source:AB08952",
-          "why": "Let assurances of future recognition deepen a present responsibility for patience, kindness and gratitude, keeping personal and family settings visible."
-        },
-        {
           "key": "source:AB05887",
-          "why": "Let assurances of future recognition deepen a present responsibility for patience, kindness and gratitude, keeping personal and family settings visible."
-        },
-        {
-          "key": "source:AB10344",
-          "why": "Let assurances of future recognition deepen a present responsibility for patience, kindness and gratitude, keeping personal and family settings visible."
-        },
-        {
-          "key": "source:AB09569",
-          "why": "Let assurances of future recognition deepen a present responsibility for patience, kindness and gratitude, keeping personal and family settings visible."
-        },
-        {
-          "key": "source:AB07663",
-          "why": "Let assurances of future recognition deepen a present responsibility for patience, kindness and gratitude, keeping personal and family settings visible."
-        },
-        {
-          "key": "source:AB06899",
-          "why": "Let assurances of future recognition deepen a present responsibility for patience, kindness and gratitude, keeping personal and family settings visible."
-        },
-        {
-          "key": "source:AB04929",
-          "why": "Let assurances of future recognition deepen a present responsibility for patience, kindness and gratitude, keeping personal and family settings visible."
-        },
-        {
-          "key": "source:AB06128",
-          "why": "Let assurances of future recognition deepen a present responsibility for patience, kindness and gratitude, keeping personal and family settings visible."
-        },
-        {
-          "key": "source:AB03162",
-          "why": "Let assurances of future recognition deepen a present responsibility for patience, kindness and gratitude, keeping personal and family settings visible."
-        },
-        {
-          "key": "source:AB07470",
           "why": "Let assurances of future recognition deepen a present responsibility for patience, kindness and gratitude, keeping personal and family settings visible."
         },
         {
@@ -1721,63 +1427,11 @@
           "why": "Let assurances of future recognition deepen a present responsibility for patience, kindness and gratitude, keeping personal and family settings visible."
         },
         {
-          "key": "source:BH07510",
-          "why": "Let assurances of future recognition deepen a present responsibility for patience, kindness and gratitude, keeping personal and family settings visible."
-        },
-        {
-          "key": "source:BH04875",
-          "why": "Let assurances of future recognition deepen a present responsibility for patience, kindness and gratitude, keeping personal and family settings visible."
-        },
-        {
           "key": "source:BH06015",
           "why": "Let assurances of future recognition deepen a present responsibility for patience, kindness and gratitude, keeping personal and family settings visible."
         },
         {
-          "key": "source:BH07280",
-          "why": "Let assurances of future recognition deepen a present responsibility for patience, kindness and gratitude, keeping personal and family settings visible."
-        },
-        {
-          "key": "source:BH10644",
-          "why": "Let assurances of future recognition deepen a present responsibility for patience, kindness and gratitude, keeping personal and family settings visible."
-        },
-        {
-          "key": "source:BH05007",
-          "why": "Let assurances of future recognition deepen a present responsibility for patience, kindness and gratitude, keeping personal and family settings visible."
-        },
-        {
-          "key": "source:BH06139",
-          "why": "Let assurances of future recognition deepen a present responsibility for patience, kindness and gratitude, keeping personal and family settings visible."
-        },
-        {
-          "key": "source:BH06901",
-          "why": "Let assurances of future recognition deepen a present responsibility for patience, kindness and gratitude, keeping personal and family settings visible."
-        },
-        {
-          "key": "source:AB02733",
-          "why": "Read the varied counsels and reports with attention to their immediate circumstances and source authority; keep the return to wisdom, perseverance and ethical service in view."
-        },
-        {
           "key": "source:AB02537",
-          "why": "Read the varied counsels and reports with attention to their immediate circumstances and source authority; keep the return to wisdom, perseverance and ethical service in view."
-        },
-        {
-          "key": "source:AB02816",
-          "why": "Read the varied counsels and reports with attention to their immediate circumstances and source authority; keep the return to wisdom, perseverance and ethical service in view."
-        },
-        {
-          "key": "source:BH11423",
-          "why": "Read the varied counsels and reports with attention to their immediate circumstances and source authority; keep the return to wisdom, perseverance and ethical service in view."
-        },
-        {
-          "key": "source:AB02228",
-          "why": "Read the varied counsels and reports with attention to their immediate circumstances and source authority; keep the return to wisdom, perseverance and ethical service in view."
-        },
-        {
-          "key": "source:AB02474",
-          "why": "Read the varied counsels and reports with attention to their immediate circumstances and source authority; keep the return to wisdom, perseverance and ethical service in view."
-        },
-        {
-          "key": "source:AB02780",
           "why": "Read the varied counsels and reports with attention to their immediate circumstances and source authority; keep the return to wisdom, perseverance and ethical service in view."
         },
         {
@@ -1785,35 +1439,7 @@
           "why": "Read the varied counsels and reports with attention to their immediate circumstances and source authority; keep the return to wisdom, perseverance and ethical service in view."
         },
         {
-          "key": "source:AB04376",
-          "why": "Read the varied counsels and reports with attention to their immediate circumstances and source authority; keep the return to wisdom, perseverance and ethical service in view."
-        },
-        {
-          "key": "source:AB04730",
-          "why": "Read the varied counsels and reports with attention to their immediate circumstances and source authority; keep the return to wisdom, perseverance and ethical service in view."
-        },
-        {
-          "key": "source:AB09057",
-          "why": "Read the varied counsels and reports with attention to their immediate circumstances and source authority; keep the return to wisdom, perseverance and ethical service in view."
-        },
-        {
-          "key": "source:AB11783",
-          "why": "Read the varied counsels and reports with attention to their immediate circumstances and source authority; keep the return to wisdom, perseverance and ethical service in view."
-        },
-        {
-          "key": "source:ABU1004",
-          "why": "Restore both questions in this report; retain the abbreviations and periods as supplied."
-        },
-        {
           "key": "source:ABU1180",
-          "why": "Read the varied counsels and reports with attention to their immediate circumstances and source authority; keep the return to wisdom, perseverance and ethical service in view."
-        },
-        {
-          "key": "source:ABU1550",
-          "why": "Read the varied counsels and reports with attention to their immediate circumstances and source authority; keep the return to wisdom, perseverance and ethical service in view."
-        },
-        {
-          "key": "source:ABU3017",
           "why": "Read the varied counsels and reports with attention to their immediate circumstances and source authority; keep the return to wisdom, perseverance and ethical service in view."
         },
         {
@@ -1825,39 +1451,7 @@
           "why": "Read the varied counsels and reports with attention to their immediate circumstances and source authority; keep the return to wisdom, perseverance and ethical service in view."
         },
         {
-          "key": "source:ABU3728",
-          "why": "Read the varied counsels and reports with attention to their immediate circumstances and source authority; keep the return to wisdom, perseverance and ethical service in view."
-        },
-        {
           "key": "source:BH01416",
-          "why": "Read the varied counsels and reports with attention to their immediate circumstances and source authority; keep the return to wisdom, perseverance and ethical service in view."
-        },
-        {
-          "key": "source:BH07017",
-          "why": "Read the varied counsels and reports with attention to their immediate circumstances and source authority; keep the return to wisdom, perseverance and ethical service in view."
-        },
-        {
-          "key": "source:BH07746",
-          "why": "Read the varied counsels and reports with attention to their immediate circumstances and source authority; keep the return to wisdom, perseverance and ethical service in view."
-        },
-        {
-          "key": "source:BH10770",
-          "why": "Read the varied counsels and reports with attention to their immediate circumstances and source authority; keep the return to wisdom, perseverance and ethical service in view."
-        },
-        {
-          "key": "source:BH11002",
-          "why": "Read the varied counsels and reports with attention to their immediate circumstances and source authority; keep the return to wisdom, perseverance and ethical service in view."
-        },
-        {
-          "key": "source:BH11155",
-          "why": "Read the varied counsels and reports with attention to their immediate circumstances and source authority; keep the return to wisdom, perseverance and ethical service in view."
-        },
-        {
-          "key": "source:AB03389",
-          "why": "Read the varied counsels and reports with attention to their immediate circumstances and source authority; keep the return to wisdom, perseverance and ethical service in view."
-        },
-        {
-          "key": "source:AB03398",
           "why": "Read the varied counsels and reports with attention to their immediate circumstances and source authority; keep the return to wisdom, perseverance and ethical service in view."
         },
         {
@@ -1865,35 +1459,7 @@
           "why": "Read the varied counsels and reports with attention to their immediate circumstances and source authority; keep the return to wisdom, perseverance and ethical service in view."
         },
         {
-          "key": "source:AB06762",
-          "why": "Read the varied counsels and reports with attention to their immediate circumstances and source authority; keep the return to wisdom, perseverance and ethical service in view."
-        },
-        {
-          "key": "source:AB09376",
-          "why": "Read the varied counsels and reports with attention to their immediate circumstances and source authority; keep the return to wisdom, perseverance and ethical service in view."
-        },
-        {
           "key": "source:AB10912",
-          "why": "Read the varied counsels and reports with attention to their immediate circumstances and source authority; keep the return to wisdom, perseverance and ethical service in view."
-        },
-        {
-          "key": "source:AB11005",
-          "why": "Read the varied counsels and reports with attention to their immediate circumstances and source authority; keep the return to wisdom, perseverance and ethical service in view."
-        },
-        {
-          "key": "source:AB12331",
-          "why": "Read the varied counsels and reports with attention to their immediate circumstances and source authority; keep the return to wisdom, perseverance and ethical service in view."
-        },
-        {
-          "key": "source:AB12723",
-          "why": "Read the varied counsels and reports with attention to their immediate circumstances and source authority; keep the return to wisdom, perseverance and ethical service in view."
-        },
-        {
-          "key": "source:ABU0529",
-          "why": "Preserve this attributed conversation’s speculation and Gandhi reference as reported wording, not as independently established history."
-        },
-        {
-          "key": "source:ABU2149",
           "why": "Read the varied counsels and reports with attention to their immediate circumstances and source authority; keep the return to wisdom, perseverance and ethical service in view."
         },
         {
@@ -1901,43 +1467,7 @@
           "why": "Read the varied counsels and reports with attention to their immediate circumstances and source authority; keep the return to wisdom, perseverance and ethical service in view."
         },
         {
-          "key": "source:ABU3446",
-          "why": "Read the varied counsels and reports with attention to their immediate circumstances and source authority; keep the return to wisdom, perseverance and ethical service in view."
-        },
-        {
-          "key": "source:BH02529",
-          "why": "Read the varied counsels and reports with attention to their immediate circumstances and source authority; keep the return to wisdom, perseverance and ethical service in view."
-        },
-        {
-          "key": "source:BH02719",
-          "why": "Read the varied counsels and reports with attention to their immediate circumstances and source authority; keep the return to wisdom, perseverance and ethical service in view."
-        },
-        {
-          "key": "source:BH02741",
-          "why": "Read the varied counsels and reports with attention to their immediate circumstances and source authority; keep the return to wisdom, perseverance and ethical service in view."
-        },
-        {
           "key": "source:BH05439",
-          "why": "Read the varied counsels and reports with attention to their immediate circumstances and source authority; keep the return to wisdom, perseverance and ethical service in view."
-        },
-        {
-          "key": "source:BH06342",
-          "why": "Read the varied counsels and reports with attention to their immediate circumstances and source authority; keep the return to wisdom, perseverance and ethical service in view."
-        },
-        {
-          "key": "source:BH06539",
-          "why": "Read the varied counsels and reports with attention to their immediate circumstances and source authority; keep the return to wisdom, perseverance and ethical service in view."
-        },
-        {
-          "key": "source:BH06973",
-          "why": "Read the varied counsels and reports with attention to their immediate circumstances and source authority; keep the return to wisdom, perseverance and ethical service in view."
-        },
-        {
-          "key": "source:BH07081",
-          "why": "Read the varied counsels and reports with attention to their immediate circumstances and source authority; keep the return to wisdom, perseverance and ethical service in view."
-        },
-        {
-          "key": "source:BH10126",
           "why": "Read the varied counsels and reports with attention to their immediate circumstances and source authority; keep the return to wisdom, perseverance and ethical service in view."
         },
         {
@@ -1945,15 +1475,7 @@
           "why": "Read the varied counsels and reports with attention to their immediate circumstances and source authority; keep the return to wisdom, perseverance and ethical service in view."
         },
         {
-          "key": "source:BH11098",
-          "why": "Read the varied counsels and reports with attention to their immediate circumstances and source authority; keep the return to wisdom, perseverance and ethical service in view."
-        },
-        {
           "key": "source:BH04150",
-          "why": "Read the varied counsels and reports with attention to their immediate circumstances and source authority; keep the return to wisdom, perseverance and ethical service in view."
-        },
-        {
-          "key": "source:BH05203",
           "why": "Read the varied counsels and reports with attention to their immediate circumstances and source authority; keep the return to wisdom, perseverance and ethical service in view."
         },
         {
@@ -1961,23 +1483,7 @@
           "why": "Read the varied counsels and reports with attention to their immediate circumstances and source authority; keep the return to wisdom, perseverance and ethical service in view."
         },
         {
-          "key": "source:BH03624",
-          "why": "Read the varied counsels and reports with attention to their immediate circumstances and source authority; keep the return to wisdom, perseverance and ethical service in view."
-        },
-        {
           "key": "source:BH06619",
-          "why": "Read the varied counsels and reports with attention to their immediate circumstances and source authority; keep the return to wisdom, perseverance and ethical service in view."
-        },
-        {
-          "key": "source:BH06963",
-          "why": "Read the varied counsels and reports with attention to their immediate circumstances and source authority; keep the return to wisdom, perseverance and ethical service in view."
-        },
-        {
-          "key": "source:BH10693",
-          "why": "Read the varied counsels and reports with attention to their immediate circumstances and source authority; keep the return to wisdom, perseverance and ethical service in view."
-        },
-        {
-          "key": "source:BH11169",
           "why": "Read the varied counsels and reports with attention to their immediate circumstances and source authority; keep the return to wisdom, perseverance and ethical service in view."
         },
         {
@@ -1999,10 +1505,6 @@
         {
           "key": "source:ABU3558",
           "why": "Conclude the linked readings with the reported hope that humanity will become so educated that even an enemy is safe."
-        },
-        {
-          "key": "selection:cfd297dbe53755b6ccd5980b",
-          "why": "Retain this supplied quotation about Iran after the linked readings. The approximate reference points to a different translation; preserve the original wording and unlinked status."
         }
       ],
       "questions": [

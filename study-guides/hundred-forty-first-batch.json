@@ -5,6 +5,312 @@
       "id": "628D2EB989914C2DBBDDFEB888CA31CA",
       "slug": "covenantpower",
       "displayTitle": "The power of the Covenant: a bond that gives life",
+      "selection": {
+        "review": "selections/covenantpower.json",
+        "sha256": "3d050000acda5c8913321915b3a7de2e1cf2ce101bada0a6e04bd3fd99ee8cdc",
+        "ids": [
+          "8e5d186c4b69ed9bb4484487",
+          "baed8d4d2074acf4891f0f67",
+          "d517fa24e5e1600a33a4a464",
+          "bf4fb3e7224e07764e731ec9",
+          "4a9996516b6395f053fefe08",
+          "b4c918161efe2b98c58f7409",
+          "070435489b27965b9fa4923d",
+          "92dfec315811ee4c1fc3a110",
+          "50637018b0ed632d80c99fb6",
+          "6e3cc23318653abc2486a94c",
+          "a21606612d598f8cba0636df",
+          "4ba3f2ee93eb2fd7d531a002",
+          "f47ffce12734773925f8aa65",
+          "e72ef425f242c861cfd7bd4e",
+          "35d56a99cd24fada0cbd46e9",
+          "788c3f492cf0ee1543ba6732",
+          "ec381cdb1ebc5dc9480d2ffb",
+          "b9c707753f866d26fe14c771",
+          "8b38dceb3e1389f1330ad548",
+          "4b24b55a4a88b4d2e205f7c2",
+          "96e471b407f37eb271d38866",
+          "c402e73d8cbb29cc3ac1e91f",
+          "fd3ba93197687dd4750836bc",
+          "d9f7927a8daa82643773b91b",
+          "10568047371d0ef4f2f9dc7b",
+          "e7278557758c72bcc0085e77",
+          "6481510d2aa87e87f8f70000",
+          "dfb427e1a4797c86436200d3",
+          "e5f8ee22240b75ba96e239cf",
+          "f34406151b93002c2b689353",
+          "9e9447b0b93be0c1857c88cc",
+          "d5d8c8b5822b8ddbedf6977d",
+          "62b0949f92115376d053b43e",
+          "13f3c51c035397fa577ea32f",
+          "33e030711b9c0f64a0a8b9d9",
+          "e14b3862dac8fa04aaee5903",
+          "257f0630221a2b8b0bd936e0",
+          "0934438acdaf47e6dd20f1fc",
+          "f7ca45827fe5a0d5108ba265",
+          "8d5c37d3b5507b85bc89ed06",
+          "c5651dcfd5b6bc97c34cc1ce",
+          "c0445837240e176373a5ce79",
+          "6575af8a2981204628e306b8",
+          "03c70c0a1a0ebae46a87d0a3",
+          "ae50dac57fed4d7457dfedc5",
+          "8660d630548f490846be316f",
+          "857186baf3b76d0c50230459",
+          "9ea6e8bee9e6810630ffa4e6",
+          "28a96a7e68cd2b70fe516921",
+          "825fefd6161b4bfdedc32fa9",
+          "55722e0b76644c6a44bafd5c",
+          "e190633be507873a88b31740",
+          "c986488f816f927327368f53",
+          "54482d62798dd652a6bfdb17",
+          "605fdf9e727598ed64fe77f2",
+          "24c0936ded34218fb462c18f",
+          "7ce321d12e1434637d7766fe",
+          "68b9753df62c5b247653d582",
+          "875149dc767d5e23a02e59e6",
+          "d98a725c78fad803416c6402",
+          "d2c4489682ffc33807435422",
+          "00b5d90b21977c2ddb056791",
+          "838f7090aa8e071fad6b6f66",
+          "f36673fbac2d02cd1ddbd07b",
+          "8116556b0b9a90441dc3da48",
+          "8641cd205d5b23cf5189bf0f",
+          "9c15ad43be6b8ec6cafc0f8c",
+          "df695803c3157804c3cf67c2",
+          "4ab70cc5f39f071811b88300",
+          "e56fa2c052cedb879f65202c",
+          "079d545e8caeff1ecf76dd4a",
+          "61309bfc94f22bc4a9e4215e",
+          "4a730a49c483fc84a04f3226",
+          "735d1da9e09e8bd976497b15",
+          "97d06327667eb19812d5399f",
+          "cb66e9c5bff8933d118e5efc",
+          "08a0c91582c4e01cd785989b",
+          "32441f7603ae678a8a15bee3",
+          "cc2c83e5f8e7384515ec18a9",
+          "f0f788748962ebd3ed5b59df",
+          "76525b8ab890155df2dd6fda",
+          "38385d6ed2aad2705a0b1dd2",
+          "f03f67dae14e24860149dda1",
+          "5c8282dc175b9ad01002d660",
+          "39e2816f048766bea250bf1c",
+          "03f014e433088270c800879e",
+          "34f4c11644bbceab828e5a1c",
+          "b050fc1381ae5e268ed3c49c",
+          "cb7d982e8f0a85e855532c7f",
+          "e9d1af1c1067473f4fb65ca0",
+          "4d80fe8b5075655e37934725",
+          "c47996f7a560e541c34208ca",
+          "26aeb25cfc96734022f2483f",
+          "d48d56a7d38dbe102970fa63",
+          "95b8fc053492b297ac93a82e",
+          "91fa70d6aef2809bf5f5bd4c",
+          "a2512a7f508fb0f0d47ee94d",
+          "c41d5f812a1d255bd2753aa8",
+          "a012ddba89b4594c72680f7e",
+          "48330abb17fdc221b06660b2",
+          "d44a12cbc1707b7ff8692c1a",
+          "b49525989d6a2599b01553f0",
+          "393a9e8efbcc784eafb637ea",
+          "f22a340a49a9b77c88ca861c",
+          "b8f21be66f912069915d2995",
+          "49260062216d5c009c384b5a",
+          "46b8636309b80b1aa8cf5633",
+          "c60bf370261abfac27a76607",
+          "c8866e082e06de67fe9f0097",
+          "1d5e7d044ba4bd0894c1f1b7",
+          "0a6e22de4ec5c4ada2438819",
+          "de5a459044ba18ae94c420df",
+          "007a902801b94d1b3e40462f",
+          "43b044b3f15d7a81982ed88f",
+          "99215378fdae040a9d1ac136",
+          "75e1b23654e57ecb62baf60c",
+          "1fba9f8c14959daacceb7a81",
+          "8405ff630c8d496fff1ba7ed",
+          "6cd0d73ddc03a2aa43989edd",
+          "cb970903ccd70b6622b5d801",
+          "cd748b9aa070dcbe7aa7dd76",
+          "15a3a5ea58ecfa0a93b4a54a",
+          "879f84a4125d53067255fa11",
+          "7df9c11bc3017b9a97e95b19",
+          "7f3e28b907ba936236a46fa7",
+          "64f7c3124e5661cc6c97e423",
+          "6768e527a27e2fb5c035448a",
+          "796646f34ce811f2acf61a9f",
+          "d3d05dda0902307c53709d19",
+          "2373f1488c8f4b479a40f269",
+          "e464988a2b0c7958022183e4",
+          "b8a008b9adc2a197bf78622f",
+          "fcbc5d485a66a61177d6f27a",
+          "ee3bcbfd2f7d05b3ecde6ba9",
+          "481c61e0ebfdb62f59bbc0d5",
+          "2d40883c54271647b5b6a1e6",
+          "f7fdf269db4ba049e1273919",
+          "4b3a39d4e7eab64c6b866f60",
+          "862a187c642e71fcfe4a788a",
+          "046d1204a62c2968f181e850",
+          "dcf993150012da265c9fba8d",
+          "2fcb759db8a6821c378699a2",
+          "9c1ff1928ed37bb15e2c4171",
+          "119482101eace89dcd49cf98",
+          "7b9dc3ba1f55461c0c5140b4",
+          "2f33ca3da079bc7ea7a7099f",
+          "8157b5e19d606e032913f320",
+          "f052f1bce404369122927e73",
+          "e4fa2fd1142882267540a4ae",
+          "e8c3e365c88aecb02f01d189",
+          "003b1a41a5b2e9683477fc4c",
+          "936f52a96c09735c017df3fe",
+          "233b1b38e84e5120f73f46d5",
+          "8bc02fce99f0af5286b45eb2",
+          "601d52bc255f99ff535696be",
+          "65e4dcb6a239e81867c3bff4",
+          "1596ac1f461f301532f7b478",
+          "f07e8f6c96944b99f032f6a4",
+          "d33bf9bd0dd377e5be3376b7",
+          "4a172d1617c3d2a1e5539d0e",
+          "f1965d92f02ef2918ee3def3",
+          "c4c3ef2c716d0219150a0b22",
+          "cbf5461aa13f2d2c975966a2",
+          "6051cf09aeecda4c6ea8d5c6",
+          "3e3e4f651f8b65f0c72c05f6",
+          "d29d0191de0ceab63903cbad",
+          "1b2076ab9e36c0617c7262da",
+          "950c7d876e480a432de6c4b0",
+          "ba4a6179f38a243aee27f12b",
+          "aee793f5545ca55b41503932",
+          "68ecaef3f1db8c83cc827342",
+          "d8e4727804a4384181f59278",
+          "4b9988514074f3ea49a61f69",
+          "e598272a381803d9ff8cad3c",
+          "c940283cffcdf9b97281696d",
+          "4ed647c83ba09ae798b9fa0b",
+          "e13896c268ff47693562a186",
+          "8d4ec6afb78448ad38db7405",
+          "29a9efb545c2d9d8d7e48fcc",
+          "8a6a45864eb75e0a8883654f",
+          "2f783337f9a75bf23335c732",
+          "7259292ae350102eb46a8ec6",
+          "14fb54065ed31b8280a8fca4",
+          "d7fb70821a971a7427f75cc5",
+          "db6a623ef4ee798e3f2d67c5",
+          "df579a58abe16a1bb2823560",
+          "180871e8de6cc89f5430a547",
+          "a0ab6815f6c35a832332ab29",
+          "f13dc4ddfa5032bfe7e02302",
+          "082a1f235e5e199d90a038b8",
+          "33e30acf20d54497db5b620b",
+          "9f6db58d85d2102fd05d619c",
+          "f8df9ac81b731630a42d4cbb",
+          "f36137a7a7caf6c3f805e690",
+          "0aa7db0c866a684ff5a03e9b",
+          "2400f0a3654107e526351e0c",
+          "93f95a5949ed0f6f959c9463",
+          "c1513c9679d287aa8f8296eb",
+          "22781aead2607b6106fe17d3",
+          "4fc15231fcde5401e223bf90",
+          "0421dcaf3daea8851c1edfcf",
+          "166a2bd2ffb9e7fcecd0d908",
+          "e376458fb4b85641c729ab05",
+          "c946c6d2ad7fc57ae1dd8105",
+          "051fb1b15406b7fdb0b3cbb6",
+          "ba0f318bef60ea6c81daa38b",
+          "67286309501208777056a3ee",
+          "cdc4eadcf762a3cc7395ac35",
+          "c125eb769153cf58ad9b93ab",
+          "f03cc8d8315507177107880c",
+          "4076e603b7c64201dcb607e6",
+          "84c622209b849abdd6890e8b",
+          "b05072591905951ef84fc555",
+          "db974506bcea80ac8b6b3f2b",
+          "5496b89af9332154e83522a5",
+          "c8de1208650a9f14ed42cc4a",
+          "1f8d0b81b28b5f5c805f8066",
+          "733194df0d706f565f64ca1d",
+          "d102108d5444179d3f684937",
+          "b1f83a1668f5734ff1e31ecc",
+          "bce97abbc7b067c474d45bdc",
+          "04b283d9665be1c70f83104e",
+          "630ff1a3649ee63f8cf5fcd8",
+          "ab7d254769fc08760e10b1c2",
+          "5aef0e87db1aecad27595cf0",
+          "4b07d3d610df7cea574cdd52",
+          "7acda3c6147c688a24fe7a53",
+          "40086e5513fd7f30f20d08b3",
+          "d3481968bfbd957329a23229",
+          "7b8a35ee22fd20f615e03249",
+          "f3f26f2311b1353a06bbcaa2",
+          "cb9d27b8cf970c61627da647",
+          "096f087e0735dc2d00441a20",
+          "04f147c79cf54d824c0a99e2",
+          "58f0d42b1a443571d4c48c5f",
+          "563a26547bc0bc260580acf4",
+          "65b46582eb63c3332ff4c467",
+          "1e33d3ec53bea2db016f48d9",
+          "8289828ecd6a05961abb3598",
+          "de59056f689b04216e44f88a",
+          "2d62b0a830be6ad81653b97e",
+          "d5cd8926f650f5051ec5fefe",
+          "384481852830fff96e31e183",
+          "17f2ba33956d0603fe3287d4",
+          "e42c86ac297b84243bb8ff8b",
+          "6ad55ca4abbb248c1ee46ddd",
+          "c0f0f081717be7ff8c8dd52a",
+          "0101df1dcf450d6dc03a5390",
+          "9baf2cee61240b31cbf54ef3",
+          "544d645ffbb9b4f9cb602dfa",
+          "7885097f4dbfc74992390630",
+          "7f462d93f46feea9a250eed8",
+          "a8154be8857e458f8ee5ce0d",
+          "b1c59dd2be7e8ef8470ea836",
+          "9df6476306b957b3084a48c0",
+          "30c08a49b47599629ac667a3",
+          "29c01b6bc526434d1c054d03",
+          "f5898dd5ade50ed063289f8f",
+          "79180e10b778b481b1289b74",
+          "df65c45cb82d79400432dbda",
+          "a0b1321033627e24a9a00858",
+          "449b5849053ffd41e52c4073",
+          "c8443825247f87f1086c1d6a",
+          "7060a6f990846fbbf52f7a43",
+          "5dfe031537ef108077e864bf",
+          "ac465144218be8e959152fed",
+          "2142788640f0a7217365136e",
+          "35ba53b614954c08119c2d19",
+          "86e9065cc9709ab42776321a",
+          "2009aaa2b50b8d2aa72c37f5",
+          "6b4cec77f8ca56a8a45fa8f9",
+          "85ad811ab42d118705498489",
+          "ca67f4ddd638ee841043744c",
+          "8897d75e30cedbd3b47bb800",
+          "4c455bf66175200df8f6633e",
+          "ff231edb1d67048dccb04954",
+          "a37b5d8aa3efb64320512bd4",
+          "7c752c76718e244da5109115",
+          "1f22faf2dc703640077e166e",
+          "bfa61f0f88cf72ab81c9aa2c",
+          "1805c5d0c05c7390d68a1b85",
+          "935dbced4a54e03eaf0a2f04",
+          "df81c936f72209acfcceb972",
+          "efdb8cdc21f5bd6aa558befb",
+          "723897e3c33a59b7e74090c6",
+          "b99e5acb80e3b911e36d02b2",
+          "d0bb610dbb57d0f8b1a5da80",
+          "b95fb47355c5bebdf8e99464",
+          "c315f48d1232f61f5fce59f4",
+          "b2bca3876d4343aebef9607e",
+          "d7adfbf7064cd6a69e7cd23a",
+          "672c6d1e134320336a987d34",
+          "f35c7843921a2f28ea5e189c",
+          "9498bd558e2ffb63019d534a",
+          "7558c148cc1c9db2c4807196",
+          "777af2efe56b8ca0ebcb48c6",
+          "b8fbb729baa7ce63897a0b6e",
+          "4414e8128b2e0046c5ef39bd",
+          "a3e36ab45eff0baa48d30371",
+          "cd5a6af56cb985236b641e63"
+        ]
+      },
       "introduction": "What kind of power can unite people without making kindness incidental to its purpose? These passages begin to answer through a demanding connection: a community called to serve humanity must learn to embody fellowship within its own life. The Covenant appears as a written provision for continuity and interpretation, a summons to recognize divine revelation, and a living bond described through the artery, lamp, tree, ark and healing remedy. Its greatness is inseparable from the work it asks of people—steadfastness, consultation, humility and service—even amid bitter controversy and real suffering. Read beside the connected subjects of authoritative interpretation, preserving unity, Covenant-breaking, firmness and the primordial Covenant of Alast, the collection invites careful distinctions between different covenants, different kinds of authority and different meanings of protection. The Qur’anic appeal to hold together and the rainbow covenant in Genesis offer further perspectives on fidelity, memory and promise, each in its own setting. As the imagery expands from a human heart to the horizons of the world, keep returning to the practical question it raises: how does a professed bond become a life that brings others together?",
       "arc": "A power measured in fellowship → The written bond and its purpose → Promise, recognition and the horizon of revelation → Images that invite a second reading → Steadfastness amid conflict and loss → Confirmation becomes service → Gratitude, prayer and a humble heart → The Covenant in later explanation",
       "order": [
@@ -37,15 +343,7 @@
           "why": "Begin with the demanding connection between unity within a community and service to humanity. Read the language of power through its explicit expressions in kindness, healing, freedom from prejudice and love even toward opponents."
         },
         {
-          "key": "source:ABU2976",
-          "why": "Begin with the demanding connection between unity within a community and service to humanity. Read the language of power through its explicit expressions in kindness, healing, freedom from prejudice and love even toward opponents."
-        },
-        {
           "key": "source:ABU0945",
-          "why": "Begin with the demanding connection between unity within a community and service to humanity. Read the language of power through its explicit expressions in kindness, healing, freedom from prejudice and love even toward opponents."
-        },
-        {
-          "key": "source:ABU2437",
           "why": "Begin with the demanding connection between unity within a community and service to humanity. Read the language of power through its explicit expressions in kindness, healing, freedom from prejudice and love even toward opponents."
         },
         {
@@ -70,10 +368,6 @@
         },
         {
           "key": "source:AB12210",
-          "why": "Begin with the demanding connection between unity within a community and service to humanity. Read the language of power through its explicit expressions in kindness, healing, freedom from prejudice and love even toward opponents."
-        },
-        {
-          "key": "source:AB07149",
           "why": "Begin with the demanding connection between unity within a community and service to humanity. Read the language of power through its explicit expressions in kindness, healing, freedom from prejudice and love even toward opponents."
         },
         {
@@ -109,10 +403,6 @@
           "why": "Begin with the demanding connection between unity within a community and service to humanity. Read the language of power through its explicit expressions in kindness, healing, freedom from prejudice and love even toward opponents."
         },
         {
-          "key": "source:AB02645",
-          "why": "Begin with the demanding connection between unity within a community and service to humanity. Read the language of power through its explicit expressions in kindness, healing, freedom from prejudice and love even toward opponents."
-        },
-        {
           "key": "source:AB04185",
           "why": "Begin with the demanding connection between unity within a community and service to humanity. Read the language of power through its explicit expressions in kindness, healing, freedom from prejudice and love even toward opponents."
         },
@@ -134,10 +424,6 @@
         },
         {
           "key": "source:AB00452",
-          "why": "Ask how a written Covenant addresses succession, interpretation and the danger of division. Keep the distinctions between a future Manifestation, authorized interpretation and the House of Justice clear. Notice who may determine a breach, and the distinction between wavering and breaking the Covenant."
-        },
-        {
-          "key": "source:AB04820",
           "why": "Ask how a written Covenant addresses succession, interpretation and the danger of division. Keep the distinctions between a future Manifestation, authorized interpretation and the House of Justice clear. Notice who may determine a breach, and the distinction between wavering and breaking the Covenant."
         },
         {
@@ -233,23 +519,11 @@
           "why": "Ask how a written Covenant addresses succession, interpretation and the danger of division. Keep the distinctions between a future Manifestation, authorized interpretation and the House of Justice clear. Notice who may determine a breach, and the distinction between wavering and breaking the Covenant."
         },
         {
-          "key": "source:AB03428",
-          "why": "Ask how a written Covenant addresses succession, interpretation and the danger of division. Keep the distinctions between a future Manifestation, authorized interpretation and the House of Justice clear. Notice who may determine a breach, and the distinction between wavering and breaking the Covenant."
-        },
-        {
           "key": "source:AB10265",
           "why": "Ask how a written Covenant addresses succession, interpretation and the danger of division. Keep the distinctions between a future Manifestation, authorized interpretation and the House of Justice clear. Notice who may determine a breach, and the distinction between wavering and breaking the Covenant."
         },
         {
-          "key": "source:AB11343",
-          "why": "Ask how a written Covenant addresses succession, interpretation and the danger of division. Keep the distinctions between a future Manifestation, authorized interpretation and the House of Justice clear. Notice who may determine a breach, and the distinction between wavering and breaking the Covenant."
-        },
-        {
           "key": "source:AB10791",
-          "why": "Ask how a written Covenant addresses succession, interpretation and the danger of division. Keep the distinctions between a future Manifestation, authorized interpretation and the House of Justice clear. Notice who may determine a breach, and the distinction between wavering and breaking the Covenant."
-        },
-        {
-          "key": "source:AB01318",
           "why": "Ask how a written Covenant addresses succession, interpretation and the danger of division. Keep the distinctions between a future Manifestation, authorized interpretation and the House of Justice clear. Notice who may determine a breach, and the distinction between wavering and breaking the Covenant."
         },
         {
@@ -269,10 +543,6 @@
           "why": "Ask how a written Covenant addresses succession, interpretation and the danger of division. Keep the distinctions between a future Manifestation, authorized interpretation and the House of Justice clear. Notice who may determine a breach, and the distinction between wavering and breaking the Covenant."
         },
         {
-          "key": "source:AB08473",
-          "why": "Ask how a written Covenant addresses succession, interpretation and the danger of division. Keep the distinctions between a future Manifestation, authorized interpretation and the House of Justice clear. Notice who may determine a breach, and the distinction between wavering and breaking the Covenant."
-        },
-        {
           "key": "source:AB12401",
           "why": "Ask how a written Covenant addresses succession, interpretation and the danger of division. Keep the distinctions between a future Manifestation, authorized interpretation and the House of Justice clear. Notice who may determine a breach, and the distinction between wavering and breaking the Covenant."
         },
@@ -282,14 +552,6 @@
         },
         {
           "key": "source:AB01670",
-          "why": "Ask how a written Covenant addresses succession, interpretation and the danger of division. Keep the distinctions between a future Manifestation, authorized interpretation and the House of Justice clear. Notice who may determine a breach, and the distinction between wavering and breaking the Covenant."
-        },
-        {
-          "key": "source:AB03087",
-          "why": "Ask how a written Covenant addresses succession, interpretation and the danger of division. Keep the distinctions between a future Manifestation, authorized interpretation and the House of Justice clear. Notice who may determine a breach, and the distinction between wavering and breaking the Covenant."
-        },
-        {
-          "key": "source:AB06940",
           "why": "Ask how a written Covenant addresses succession, interpretation and the danger of division. Keep the distinctions between a future Manifestation, authorized interpretation and the House of Justice clear. Notice who may determine a breach, and the distinction between wavering and breaking the Covenant."
         },
         {
@@ -317,23 +579,11 @@
           "why": "Widen the inquiry from communal succession to the covenant of recognition and the promises of revelation. Read biblical and Qur’anic allusions in their Baha’i setting, while preserving the distinct meanings of particular covenants and the responsibility to recognize a new divine summons."
         },
         {
-          "key": "source:BH01654",
-          "why": "Widen the inquiry from communal succession to the covenant of recognition and the promises of revelation. Read biblical and Qur’anic allusions in their Baha’i setting, while preserving the distinct meanings of particular covenants and the responsibility to recognize a new divine summons."
-        },
-        {
           "key": "source:BH01234",
           "why": "Widen the inquiry from communal succession to the covenant of recognition and the promises of revelation. Read biblical and Qur’anic allusions in their Baha’i setting, while preserving the distinct meanings of particular covenants and the responsibility to recognize a new divine summons."
         },
         {
           "key": "source:AB00988",
-          "why": "Widen the inquiry from communal succession to the covenant of recognition and the promises of revelation. Read biblical and Qur’anic allusions in their Baha’i setting, while preserving the distinct meanings of particular covenants and the responsibility to recognize a new divine summons."
-        },
-        {
-          "key": "source:AB01124",
-          "why": "Widen the inquiry from communal succession to the covenant of recognition and the promises of revelation. Read biblical and Qur’anic allusions in their Baha’i setting, while preserving the distinct meanings of particular covenants and the responsibility to recognize a new divine summons."
-        },
-        {
-          "key": "source:AB06500",
           "why": "Widen the inquiry from communal succession to the covenant of recognition and the promises of revelation. Read biblical and Qur’anic allusions in their Baha’i setting, while preserving the distinct meanings of particular covenants and the responsibility to recognize a new divine summons."
         },
         {
@@ -354,10 +604,6 @@
         },
         {
           "key": "source:ABU2545",
-          "why": "Widen the inquiry from communal succession to the covenant of recognition and the promises of revelation. Read biblical and Qur’anic allusions in their Baha’i setting, while preserving the distinct meanings of particular covenants and the responsibility to recognize a new divine summons."
-        },
-        {
-          "key": "source:BB00367",
           "why": "Widen the inquiry from communal succession to the covenant of recognition and the promises of revelation. Read biblical and Qur’anic allusions in their Baha’i setting, while preserving the distinct meanings of particular covenants and the responsibility to recognize a new divine summons."
         },
         {
@@ -385,19 +631,7 @@
           "why": "Widen the inquiry from communal succession to the covenant of recognition and the promises of revelation. Read biblical and Qur’anic allusions in their Baha’i setting, while preserving the distinct meanings of particular covenants and the responsibility to recognize a new divine summons."
         },
         {
-          "key": "source:BH07011",
-          "why": "Widen the inquiry from communal succession to the covenant of recognition and the promises of revelation. Read biblical and Qur’anic allusions in their Baha’i setting, while preserving the distinct meanings of particular covenants and the responsibility to recognize a new divine summons."
-        },
-        {
           "key": "source:BH07980",
-          "why": "Widen the inquiry from communal succession to the covenant of recognition and the promises of revelation. Read biblical and Qur’anic allusions in their Baha’i setting, while preserving the distinct meanings of particular covenants and the responsibility to recognize a new divine summons."
-        },
-        {
-          "key": "source:BH09492",
-          "why": "Widen the inquiry from communal succession to the covenant of recognition and the promises of revelation. Read biblical and Qur’anic allusions in their Baha’i setting, while preserving the distinct meanings of particular covenants and the responsibility to recognize a new divine summons."
-        },
-        {
-          "key": "source:BH10564",
           "why": "Widen the inquiry from communal succession to the covenant of recognition and the promises of revelation. Read biblical and Qur’anic allusions in their Baha’i setting, while preserving the distinct meanings of particular covenants and the responsibility to recognize a new divine summons."
         },
         {
@@ -409,15 +643,7 @@
           "why": "Widen the inquiry from communal succession to the covenant of recognition and the promises of revelation. Read biblical and Qur’anic allusions in their Baha’i setting, while preserving the distinct meanings of particular covenants and the responsibility to recognize a new divine summons."
         },
         {
-          "key": "source:BH01737",
-          "why": "Widen the inquiry from communal succession to the covenant of recognition and the promises of revelation. Read biblical and Qur’anic allusions in their Baha’i setting, while preserving the distinct meanings of particular covenants and the responsibility to recognize a new divine summons."
-        },
-        {
           "key": "source:AB00123",
-          "why": "Widen the inquiry from communal succession to the covenant of recognition and the promises of revelation. Read biblical and Qur’anic allusions in their Baha’i setting, while preserving the distinct meanings of particular covenants and the responsibility to recognize a new divine summons."
-        },
-        {
-          "key": "source:BH00450",
           "why": "Widen the inquiry from communal succession to the covenant of recognition and the promises of revelation. Read biblical and Qur’anic allusions in their Baha’i setting, while preserving the distinct meanings of particular covenants and the responsibility to recognize a new divine summons."
         },
         {
@@ -426,10 +652,6 @@
         },
         {
           "key": "source:BH02562",
-          "why": "Widen the inquiry from communal succession to the covenant of recognition and the promises of revelation. Read biblical and Qur’anic allusions in their Baha’i setting, while preserving the distinct meanings of particular covenants and the responsibility to recognize a new divine summons."
-        },
-        {
-          "key": "source:BH09349",
           "why": "Widen the inquiry from communal succession to the covenant of recognition and the promises of revelation. Read biblical and Qur’anic allusions in their Baha’i setting, while preserving the distinct meanings of particular covenants and the responsibility to recognize a new divine summons."
         },
         {
@@ -445,27 +667,7 @@
           "why": "Widen the inquiry from communal succession to the covenant of recognition and the promises of revelation. Read biblical and Qur’anic allusions in their Baha’i setting, while preserving the distinct meanings of particular covenants and the responsibility to recognize a new divine summons."
         },
         {
-          "key": "source:BH03282",
-          "why": "Widen the inquiry from communal succession to the covenant of recognition and the promises of revelation. Read biblical and Qur’anic allusions in their Baha’i setting, while preserving the distinct meanings of particular covenants and the responsibility to recognize a new divine summons."
-        },
-        {
           "key": "source:BH03406",
-          "why": "Widen the inquiry from communal succession to the covenant of recognition and the promises of revelation. Read biblical and Qur’anic allusions in their Baha’i setting, while preserving the distinct meanings of particular covenants and the responsibility to recognize a new divine summons."
-        },
-        {
-          "key": "source:BH04380",
-          "why": "Widen the inquiry from communal succession to the covenant of recognition and the promises of revelation. Read biblical and Qur’anic allusions in their Baha’i setting, while preserving the distinct meanings of particular covenants and the responsibility to recognize a new divine summons."
-        },
-        {
-          "key": "source:BH02519",
-          "why": "Widen the inquiry from communal succession to the covenant of recognition and the promises of revelation. Read biblical and Qur’anic allusions in their Baha’i setting, while preserving the distinct meanings of particular covenants and the responsibility to recognize a new divine summons."
-        },
-        {
-          "key": "source:BH09878",
-          "why": "Widen the inquiry from communal succession to the covenant of recognition and the promises of revelation. Read biblical and Qur’anic allusions in their Baha’i setting, while preserving the distinct meanings of particular covenants and the responsibility to recognize a new divine summons."
-        },
-        {
-          "key": "source:AB00618",
           "why": "Widen the inquiry from communal succession to the covenant of recognition and the promises of revelation. Read biblical and Qur’anic allusions in their Baha’i setting, while preserving the distinct meanings of particular covenants and the responsibility to recognize a new divine summons."
         },
         {
@@ -477,15 +679,7 @@
           "why": "Widen the inquiry from communal succession to the covenant of recognition and the promises of revelation. Read biblical and Qur’anic allusions in their Baha’i setting, while preserving the distinct meanings of particular covenants and the responsibility to recognize a new divine summons."
         },
         {
-          "key": "source:AB12201",
-          "why": "Widen the inquiry from communal succession to the covenant of recognition and the promises of revelation. Read biblical and Qur’anic allusions in their Baha’i setting, while preserving the distinct meanings of particular covenants and the responsibility to recognize a new divine summons."
-        },
-        {
           "key": "source:BH01655",
-          "why": "Widen the inquiry from communal succession to the covenant of recognition and the promises of revelation. Read biblical and Qur’anic allusions in their Baha’i setting, while preserving the distinct meanings of particular covenants and the responsibility to recognize a new divine summons."
-        },
-        {
-          "key": "source:BH02251",
           "why": "Widen the inquiry from communal succession to the covenant of recognition and the promises of revelation. Read biblical and Qur’anic allusions in their Baha’i setting, while preserving the distinct meanings of particular covenants and the responsibility to recognize a new divine summons."
         },
         {
@@ -497,19 +691,11 @@
           "why": "Widen the inquiry from communal succession to the covenant of recognition and the promises of revelation. Read biblical and Qur’anic allusions in their Baha’i setting, while preserving the distinct meanings of particular covenants and the responsibility to recognize a new divine summons."
         },
         {
-          "key": "source:BH06071",
-          "why": "Widen the inquiry from communal succession to the covenant of recognition and the promises of revelation. Read biblical and Qur’anic allusions in their Baha’i setting, while preserving the distinct meanings of particular covenants and the responsibility to recognize a new divine summons."
-        },
-        {
           "key": "source:BH07292",
           "why": "Widen the inquiry from communal succession to the covenant of recognition and the promises of revelation. Read biblical and Qur’anic allusions in their Baha’i setting, while preserving the distinct meanings of particular covenants and the responsibility to recognize a new divine summons."
         },
         {
           "key": "source:AB09888",
-          "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
-        },
-        {
-          "key": "source:AB09698",
           "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
         },
         {
@@ -533,10 +719,6 @@
           "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
         },
         {
-          "key": "source:AB00407",
-          "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
-        },
-        {
           "key": "source:AB04357",
           "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
         },
@@ -553,10 +735,6 @@
           "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
         },
         {
-          "key": "source:AB10016",
-          "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
-        },
-        {
           "key": "source:AB10268",
           "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
         },
@@ -570,10 +748,6 @@
         },
         {
           "key": "source:AB12205",
-          "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
-        },
-        {
-          "key": "source:ABU2207",
           "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
         },
         {
@@ -613,26 +787,6 @@
           "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
         },
         {
-          "key": "source:AB01581",
-          "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
-        },
-        {
-          "key": "source:AB09416",
-          "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
-        },
-        {
-          "key": "source:AB09549",
-          "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
-        },
-        {
-          "key": "source:AB09859",
-          "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
-        },
-        {
-          "key": "source:AB11441",
-          "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
-        },
-        {
           "key": "source:AB07185",
           "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
         },
@@ -642,10 +796,6 @@
         },
         {
           "key": "source:AB02019",
-          "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
-        },
-        {
-          "key": "source:AB07824",
           "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
         },
         {
@@ -661,18 +811,6 @@
           "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
         },
         {
-          "key": "source:AB00960",
-          "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
-        },
-        {
-          "key": "source:AB03438",
-          "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
-        },
-        {
-          "key": "source:AB08427",
-          "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
-        },
-        {
           "key": "source:AB01931",
           "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
         },
@@ -681,47 +819,11 @@
           "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
         },
         {
-          "key": "source:AB02225",
-          "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
-        },
-        {
-          "key": "source:AB02332",
-          "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
-        },
-        {
-          "key": "source:AB03106",
-          "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
-        },
-        {
-          "key": "source:AB03235",
-          "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
-        },
-        {
-          "key": "source:AB03532",
-          "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
-        },
-        {
-          "key": "source:AB04706",
-          "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
-        },
-        {
           "key": "source:AB06299",
           "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
         },
         {
-          "key": "source:AB06946",
-          "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
-        },
-        {
           "key": "source:AB07070",
-          "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
-        },
-        {
-          "key": "source:AB08097",
-          "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
-        },
-        {
-          "key": "source:AB08861",
           "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
         },
         {
@@ -737,23 +839,11 @@
           "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
         },
         {
-          "key": "source:AB10766",
-          "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
-        },
-        {
-          "key": "source:AB11701",
-          "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
-        },
-        {
           "key": "source:ABU1730",
           "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
         },
         {
           "key": "source:AB00383",
-          "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
-        },
-        {
-          "key": "source:AB00617",
           "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
         },
         {
@@ -765,27 +855,7 @@
           "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
         },
         {
-          "key": "source:AB01345",
-          "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
-        },
-        {
           "key": "source:AB01455",
-          "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
-        },
-        {
-          "key": "source:AB01634",
-          "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
-        },
-        {
-          "key": "source:AB01766",
-          "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
-        },
-        {
-          "key": "source:AB01875",
-          "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
-        },
-        {
-          "key": "source:AB01961",
           "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
         },
         {
@@ -793,79 +863,7 @@
           "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
         },
         {
-          "key": "source:AB02285",
-          "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
-        },
-        {
-          "key": "source:AB02493",
-          "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
-        },
-        {
-          "key": "source:AB02545",
-          "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
-        },
-        {
-          "key": "source:AB02718",
-          "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
-        },
-        {
-          "key": "source:AB02854",
-          "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
-        },
-        {
           "key": "source:AB02917",
-          "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
-        },
-        {
-          "key": "source:AB03569",
-          "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
-        },
-        {
-          "key": "source:AB03686",
-          "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
-        },
-        {
-          "key": "source:AB03833",
-          "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
-        },
-        {
-          "key": "source:AB03923",
-          "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
-        },
-        {
-          "key": "source:AB04201",
-          "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
-        },
-        {
-          "key": "source:AB04558",
-          "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
-        },
-        {
-          "key": "source:AB04589",
-          "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
-        },
-        {
-          "key": "source:AB04659",
-          "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
-        },
-        {
-          "key": "source:AB04717",
-          "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
-        },
-        {
-          "key": "source:AB04814",
-          "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
-        },
-        {
-          "key": "source:AB04984",
-          "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
-        },
-        {
-          "key": "source:AB05037",
-          "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
-        },
-        {
-          "key": "source:AB05143",
           "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
         },
         {
@@ -873,23 +871,7 @@
           "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
         },
         {
-          "key": "source:AB05870",
-          "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
-        },
-        {
-          "key": "source:AB06269",
-          "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
-        },
-        {
-          "key": "source:AB06365",
-          "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
-        },
-        {
           "key": "source:AB06524",
-          "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
-        },
-        {
-          "key": "source:AB06529",
           "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
         },
         {
@@ -897,35 +879,11 @@
           "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
         },
         {
-          "key": "source:AB07262",
-          "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
-        },
-        {
-          "key": "source:AB07440",
-          "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
-        },
-        {
-          "key": "source:AB07469",
-          "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
-        },
-        {
-          "key": "source:AB07795",
-          "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
-        },
-        {
           "key": "source:AB08029",
           "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
         },
         {
-          "key": "source:AB08114",
-          "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
-        },
-        {
           "key": "source:AB08251",
-          "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
-        },
-        {
-          "key": "source:AB08285",
           "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
         },
         {
@@ -934,62 +892,6 @@
         },
         {
           "key": "source:AB08700",
-          "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
-        },
-        {
-          "key": "source:AB09072",
-          "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
-        },
-        {
-          "key": "source:AB09076",
-          "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
-        },
-        {
-          "key": "source:AB09470",
-          "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
-        },
-        {
-          "key": "source:AB09938",
-          "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
-        },
-        {
-          "key": "source:AB10115",
-          "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
-        },
-        {
-          "key": "source:AB10185",
-          "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
-        },
-        {
-          "key": "source:AB10957",
-          "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
-        },
-        {
-          "key": "source:AB11210",
-          "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
-        },
-        {
-          "key": "source:AB11879",
-          "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
-        },
-        {
-          "key": "source:AB11920",
-          "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
-        },
-        {
-          "key": "source:AB12086",
-          "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
-        },
-        {
-          "key": "source:AB12348",
-          "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
-        },
-        {
-          "key": "source:AB12430",
-          "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
-        },
-        {
-          "key": "source:AB12688",
           "why": "Let the ark, rainbow, artery, tree, lamp, cup and healing remedy disclose different aspects of a sustaining relationship. Attend to the source’s own explanations: the cup may be the heart, and spiritual healing is distinguished from physical medicine. Images illuminate one another without becoming interchangeable literal descriptions."
         },
         {
@@ -1002,10 +904,6 @@
         },
         {
           "key": "source:AB01695",
-          "why": "Read assurances of protection alongside actual imprisonment, persecution, bereavement and material assistance during war. Preserve the historical severity of controversy without overlooking the counsels of gentleness, restraint and care. Ask what spiritual security means when outward suffering remains."
-        },
-        {
-          "key": "source:AB02057",
           "why": "Read assurances of protection alongside actual imprisonment, persecution, bereavement and material assistance during war. Preserve the historical severity of controversy without overlooking the counsels of gentleness, restraint and care. Ask what spiritual security means when outward suffering remains."
         },
         {
@@ -1041,23 +939,11 @@
           "why": "Read assurances of protection alongside actual imprisonment, persecution, bereavement and material assistance during war. Preserve the historical severity of controversy without overlooking the counsels of gentleness, restraint and care. Ask what spiritual security means when outward suffering remains."
         },
         {
-          "key": "source:ABU0362",
-          "why": "Read assurances of protection alongside actual imprisonment, persecution, bereavement and material assistance during war. Preserve the historical severity of controversy without overlooking the counsels of gentleness, restraint and care. Ask what spiritual security means when outward suffering remains."
-        },
-        {
           "key": "source:AB00093",
           "why": "Read assurances of protection alongside actual imprisonment, persecution, bereavement and material assistance during war. Preserve the historical severity of controversy without overlooking the counsels of gentleness, restraint and care. Ask what spiritual security means when outward suffering remains."
         },
         {
           "key": "source:AB00416",
-          "why": "Read assurances of protection alongside actual imprisonment, persecution, bereavement and material assistance during war. Preserve the historical severity of controversy without overlooking the counsels of gentleness, restraint and care. Ask what spiritual security means when outward suffering remains."
-        },
-        {
-          "key": "source:AB01428",
-          "why": "Read assurances of protection alongside actual imprisonment, persecution, bereavement and material assistance during war. Preserve the historical severity of controversy without overlooking the counsels of gentleness, restraint and care. Ask what spiritual security means when outward suffering remains."
-        },
-        {
-          "key": "source:BH01679",
           "why": "Read assurances of protection alongside actual imprisonment, persecution, bereavement and material assistance during war. Preserve the historical severity of controversy without overlooking the counsels of gentleness, restraint and care. Ask what spiritual security means when outward suffering remains."
         },
         {
@@ -1073,31 +959,7 @@
           "why": "Read assurances of protection alongside actual imprisonment, persecution, bereavement and material assistance during war. Preserve the historical severity of controversy without overlooking the counsels of gentleness, restraint and care. Ask what spiritual security means when outward suffering remains."
         },
         {
-          "key": "source:BH00934",
-          "why": "Read assurances of protection alongside actual imprisonment, persecution, bereavement and material assistance during war. Preserve the historical severity of controversy without overlooking the counsels of gentleness, restraint and care. Ask what spiritual security means when outward suffering remains."
-        },
-        {
-          "key": "source:AB01480",
-          "why": "Read assurances of protection alongside actual imprisonment, persecution, bereavement and material assistance during war. Preserve the historical severity of controversy without overlooking the counsels of gentleness, restraint and care. Ask what spiritual security means when outward suffering remains."
-        },
-        {
-          "key": "source:AB02412",
-          "why": "Read assurances of protection alongside actual imprisonment, persecution, bereavement and material assistance during war. Preserve the historical severity of controversy without overlooking the counsels of gentleness, restraint and care. Ask what spiritual security means when outward suffering remains."
-        },
-        {
           "key": "source:BH03746",
-          "why": "Read assurances of protection alongside actual imprisonment, persecution, bereavement and material assistance during war. Preserve the historical severity of controversy without overlooking the counsels of gentleness, restraint and care. Ask what spiritual security means when outward suffering remains."
-        },
-        {
-          "key": "source:AB00631",
-          "why": "Read assurances of protection alongside actual imprisonment, persecution, bereavement and material assistance during war. Preserve the historical severity of controversy without overlooking the counsels of gentleness, restraint and care. Ask what spiritual security means when outward suffering remains."
-        },
-        {
-          "key": "source:AB01416",
-          "why": "Read assurances of protection alongside actual imprisonment, persecution, bereavement and material assistance during war. Preserve the historical severity of controversy without overlooking the counsels of gentleness, restraint and care. Ask what spiritual security means when outward suffering remains."
-        },
-        {
-          "key": "source:AB02573",
           "why": "Read assurances of protection alongside actual imprisonment, persecution, bereavement and material assistance during war. Preserve the historical severity of controversy without overlooking the counsels of gentleness, restraint and care. Ask what spiritual security means when outward suffering remains."
         },
         {
@@ -1121,27 +983,11 @@
           "why": "Read assurances of protection alongside actual imprisonment, persecution, bereavement and material assistance during war. Preserve the historical severity of controversy without overlooking the counsels of gentleness, restraint and care. Ask what spiritual security means when outward suffering remains."
         },
         {
-          "key": "source:BH02904",
-          "why": "Read assurances of protection alongside actual imprisonment, persecution, bereavement and material assistance during war. Preserve the historical severity of controversy without overlooking the counsels of gentleness, restraint and care. Ask what spiritual security means when outward suffering remains."
-        },
-        {
           "key": "source:AB00987",
           "why": "Read assurances of protection alongside actual imprisonment, persecution, bereavement and material assistance during war. Preserve the historical severity of controversy without overlooking the counsels of gentleness, restraint and care. Ask what spiritual security means when outward suffering remains."
         },
         {
-          "key": "source:AB01499",
-          "why": "Read assurances of protection alongside actual imprisonment, persecution, bereavement and material assistance during war. Preserve the historical severity of controversy without overlooking the counsels of gentleness, restraint and care. Ask what spiritual security means when outward suffering remains."
-        },
-        {
-          "key": "source:AB02183",
-          "why": "Read assurances of protection alongside actual imprisonment, persecution, bereavement and material assistance during war. Preserve the historical severity of controversy without overlooking the counsels of gentleness, restraint and care. Ask what spiritual security means when outward suffering remains."
-        },
-        {
           "key": "source:AB02314",
-          "why": "Read assurances of protection alongside actual imprisonment, persecution, bereavement and material assistance during war. Preserve the historical severity of controversy without overlooking the counsels of gentleness, restraint and care. Ask what spiritual security means when outward suffering remains."
-        },
-        {
-          "key": "source:AB02967",
           "why": "Read assurances of protection alongside actual imprisonment, persecution, bereavement and material assistance during war. Preserve the historical severity of controversy without overlooking the counsels of gentleness, restraint and care. Ask what spiritual security means when outward suffering remains."
         },
         {
@@ -1153,35 +999,11 @@
           "why": "Read assurances of protection alongside actual imprisonment, persecution, bereavement and material assistance during war. Preserve the historical severity of controversy without overlooking the counsels of gentleness, restraint and care. Ask what spiritual security means when outward suffering remains."
         },
         {
-          "key": "source:AB03587",
-          "why": "Read assurances of protection alongside actual imprisonment, persecution, bereavement and material assistance during war. Preserve the historical severity of controversy without overlooking the counsels of gentleness, restraint and care. Ask what spiritual security means when outward suffering remains."
-        },
-        {
-          "key": "source:AB04728",
-          "why": "Read assurances of protection alongside actual imprisonment, persecution, bereavement and material assistance during war. Preserve the historical severity of controversy without overlooking the counsels of gentleness, restraint and care. Ask what spiritual security means when outward suffering remains."
-        },
-        {
-          "key": "source:AB04730",
-          "why": "Read assurances of protection alongside actual imprisonment, persecution, bereavement and material assistance during war. Preserve the historical severity of controversy without overlooking the counsels of gentleness, restraint and care. Ask what spiritual security means when outward suffering remains."
-        },
-        {
           "key": "source:AB06142",
           "why": "Read assurances of protection alongside actual imprisonment, persecution, bereavement and material assistance during war. Preserve the historical severity of controversy without overlooking the counsels of gentleness, restraint and care. Ask what spiritual security means when outward suffering remains."
         },
         {
-          "key": "source:AB06157",
-          "why": "Read assurances of protection alongside actual imprisonment, persecution, bereavement and material assistance during war. Preserve the historical severity of controversy without overlooking the counsels of gentleness, restraint and care. Ask what spiritual security means when outward suffering remains."
-        },
-        {
-          "key": "source:AB08439",
-          "why": "Read assurances of protection alongside actual imprisonment, persecution, bereavement and material assistance during war. Preserve the historical severity of controversy without overlooking the counsels of gentleness, restraint and care. Ask what spiritual security means when outward suffering remains."
-        },
-        {
           "key": "source:ABU2452",
-          "why": "Read assurances of protection alongside actual imprisonment, persecution, bereavement and material assistance during war. Preserve the historical severity of controversy without overlooking the counsels of gentleness, restraint and care. Ask what spiritual security means when outward suffering remains."
-        },
-        {
-          "key": "source:ABU2716",
           "why": "Read assurances of protection alongside actual imprisonment, persecution, bereavement and material assistance during war. Preserve the historical severity of controversy without overlooking the counsels of gentleness, restraint and care. Ask what spiritual security means when outward suffering remains."
         },
         {
@@ -1213,34 +1035,6 @@
           "why": "Read assurances of protection alongside actual imprisonment, persecution, bereavement and material assistance during war. Preserve the historical severity of controversy without overlooking the counsels of gentleness, restraint and care. Ask what spiritual security means when outward suffering remains."
         },
         {
-          "key": "source:AB01292",
-          "why": "Read assurances of protection alongside actual imprisonment, persecution, bereavement and material assistance during war. Preserve the historical severity of controversy without overlooking the counsels of gentleness, restraint and care. Ask what spiritual security means when outward suffering remains."
-        },
-        {
-          "key": "source:AB01316",
-          "why": "Read assurances of protection alongside actual imprisonment, persecution, bereavement and material assistance during war. Preserve the historical severity of controversy without overlooking the counsels of gentleness, restraint and care. Ask what spiritual security means when outward suffering remains."
-        },
-        {
-          "key": "source:AB01656",
-          "why": "Read assurances of protection alongside actual imprisonment, persecution, bereavement and material assistance during war. Preserve the historical severity of controversy without overlooking the counsels of gentleness, restraint and care. Ask what spiritual security means when outward suffering remains."
-        },
-        {
-          "key": "source:AB01862",
-          "why": "Read assurances of protection alongside actual imprisonment, persecution, bereavement and material assistance during war. Preserve the historical severity of controversy without overlooking the counsels of gentleness, restraint and care. Ask what spiritual security means when outward suffering remains."
-        },
-        {
-          "key": "source:AB01864",
-          "why": "Read assurances of protection alongside actual imprisonment, persecution, bereavement and material assistance during war. Preserve the historical severity of controversy without overlooking the counsels of gentleness, restraint and care. Ask what spiritual security means when outward suffering remains."
-        },
-        {
-          "key": "source:AB02007",
-          "why": "Read assurances of protection alongside actual imprisonment, persecution, bereavement and material assistance during war. Preserve the historical severity of controversy without overlooking the counsels of gentleness, restraint and care. Ask what spiritual security means when outward suffering remains."
-        },
-        {
-          "key": "source:AB02012",
-          "why": "Read assurances of protection alongside actual imprisonment, persecution, bereavement and material assistance during war. Preserve the historical severity of controversy without overlooking the counsels of gentleness, restraint and care. Ask what spiritual security means when outward suffering remains."
-        },
-        {
           "key": "source:AB02198",
           "why": "Read assurances of protection alongside actual imprisonment, persecution, bereavement and material assistance during war. Preserve the historical severity of controversy without overlooking the counsels of gentleness, restraint and care. Ask what spiritual security means when outward suffering remains."
         },
@@ -1253,23 +1047,7 @@
           "why": "Read assurances of protection alongside actual imprisonment, persecution, bereavement and material assistance during war. Preserve the historical severity of controversy without overlooking the counsels of gentleness, restraint and care. Ask what spiritual security means when outward suffering remains."
         },
         {
-          "key": "source:AB03296",
-          "why": "Read assurances of protection alongside actual imprisonment, persecution, bereavement and material assistance during war. Preserve the historical severity of controversy without overlooking the counsels of gentleness, restraint and care. Ask what spiritual security means when outward suffering remains."
-        },
-        {
           "key": "source:AB03981",
-          "why": "Read assurances of protection alongside actual imprisonment, persecution, bereavement and material assistance during war. Preserve the historical severity of controversy without overlooking the counsels of gentleness, restraint and care. Ask what spiritual security means when outward suffering remains."
-        },
-        {
-          "key": "source:AB04159",
-          "why": "Read assurances of protection alongside actual imprisonment, persecution, bereavement and material assistance during war. Preserve the historical severity of controversy without overlooking the counsels of gentleness, restraint and care. Ask what spiritual security means when outward suffering remains."
-        },
-        {
-          "key": "source:AB04504",
-          "why": "Read assurances of protection alongside actual imprisonment, persecution, bereavement and material assistance during war. Preserve the historical severity of controversy without overlooking the counsels of gentleness, restraint and care. Ask what spiritual security means when outward suffering remains."
-        },
-        {
-          "key": "source:AB04570",
           "why": "Read assurances of protection alongside actual imprisonment, persecution, bereavement and material assistance during war. Preserve the historical severity of controversy without overlooking the counsels of gentleness, restraint and care. Ask what spiritual security means when outward suffering remains."
         },
         {
@@ -1277,55 +1055,7 @@
           "why": "Read assurances of protection alongside actual imprisonment, persecution, bereavement and material assistance during war. Preserve the historical severity of controversy without overlooking the counsels of gentleness, restraint and care. Ask what spiritual security means when outward suffering remains."
         },
         {
-          "key": "source:AB04875",
-          "why": "Read assurances of protection alongside actual imprisonment, persecution, bereavement and material assistance during war. Preserve the historical severity of controversy without overlooking the counsels of gentleness, restraint and care. Ask what spiritual security means when outward suffering remains."
-        },
-        {
-          "key": "source:AB05082",
-          "why": "Read assurances of protection alongside actual imprisonment, persecution, bereavement and material assistance during war. Preserve the historical severity of controversy without overlooking the counsels of gentleness, restraint and care. Ask what spiritual security means when outward suffering remains."
-        },
-        {
-          "key": "source:AB05915",
-          "why": "Read assurances of protection alongside actual imprisonment, persecution, bereavement and material assistance during war. Preserve the historical severity of controversy without overlooking the counsels of gentleness, restraint and care. Ask what spiritual security means when outward suffering remains."
-        },
-        {
-          "key": "source:AB06449",
-          "why": "Read assurances of protection alongside actual imprisonment, persecution, bereavement and material assistance during war. Preserve the historical severity of controversy without overlooking the counsels of gentleness, restraint and care. Ask what spiritual security means when outward suffering remains."
-        },
-        {
-          "key": "source:AB06656",
-          "why": "Read assurances of protection alongside actual imprisonment, persecution, bereavement and material assistance during war. Preserve the historical severity of controversy without overlooking the counsels of gentleness, restraint and care. Ask what spiritual security means when outward suffering remains."
-        },
-        {
-          "key": "source:AB07025",
-          "why": "Read assurances of protection alongside actual imprisonment, persecution, bereavement and material assistance during war. Preserve the historical severity of controversy without overlooking the counsels of gentleness, restraint and care. Ask what spiritual security means when outward suffering remains."
-        },
-        {
-          "key": "source:AB08477",
-          "why": "Read assurances of protection alongside actual imprisonment, persecution, bereavement and material assistance during war. Preserve the historical severity of controversy without overlooking the counsels of gentleness, restraint and care. Ask what spiritual security means when outward suffering remains."
-        },
-        {
           "key": "source:AB08606",
-          "why": "Read assurances of protection alongside actual imprisonment, persecution, bereavement and material assistance during war. Preserve the historical severity of controversy without overlooking the counsels of gentleness, restraint and care. Ask what spiritual security means when outward suffering remains."
-        },
-        {
-          "key": "source:AB08883",
-          "why": "Read assurances of protection alongside actual imprisonment, persecution, bereavement and material assistance during war. Preserve the historical severity of controversy without overlooking the counsels of gentleness, restraint and care. Ask what spiritual security means when outward suffering remains."
-        },
-        {
-          "key": "source:AB08913",
-          "why": "Read assurances of protection alongside actual imprisonment, persecution, bereavement and material assistance during war. Preserve the historical severity of controversy without overlooking the counsels of gentleness, restraint and care. Ask what spiritual security means when outward suffering remains."
-        },
-        {
-          "key": "source:AB08960",
-          "why": "Read assurances of protection alongside actual imprisonment, persecution, bereavement and material assistance during war. Preserve the historical severity of controversy without overlooking the counsels of gentleness, restraint and care. Ask what spiritual security means when outward suffering remains."
-        },
-        {
-          "key": "source:AB08975",
-          "why": "Read assurances of protection alongside actual imprisonment, persecution, bereavement and material assistance during war. Preserve the historical severity of controversy without overlooking the counsels of gentleness, restraint and care. Ask what spiritual security means when outward suffering remains."
-        },
-        {
-          "key": "source:AB09377",
           "why": "Read assurances of protection alongside actual imprisonment, persecution, bereavement and material assistance during war. Preserve the historical severity of controversy without overlooking the counsels of gentleness, restraint and care. Ask what spiritual security means when outward suffering remains."
         },
         {
@@ -1337,22 +1067,6 @@
           "why": "Read assurances of protection alongside actual imprisonment, persecution, bereavement and material assistance during war. Preserve the historical severity of controversy without overlooking the counsels of gentleness, restraint and care. Ask what spiritual security means when outward suffering remains."
         },
         {
-          "key": "source:AB12082",
-          "why": "Read assurances of protection alongside actual imprisonment, persecution, bereavement and material assistance during war. Preserve the historical severity of controversy without overlooking the counsels of gentleness, restraint and care. Ask what spiritual security means when outward suffering remains."
-        },
-        {
-          "key": "source:AB12515",
-          "why": "Read assurances of protection alongside actual imprisonment, persecution, bereavement and material assistance during war. Preserve the historical severity of controversy without overlooking the counsels of gentleness, restraint and care. Ask what spiritual security means when outward suffering remains."
-        },
-        {
-          "key": "source:AB12625",
-          "why": "Read assurances of protection alongside actual imprisonment, persecution, bereavement and material assistance during war. Preserve the historical severity of controversy without overlooking the counsels of gentleness, restraint and care. Ask what spiritual security means when outward suffering remains."
-        },
-        {
-          "key": "source:AB12687",
-          "why": "Read assurances of protection alongside actual imprisonment, persecution, bereavement and material assistance during war. Preserve the historical severity of controversy without overlooking the counsels of gentleness, restraint and care. Ask what spiritual security means when outward suffering remains."
-        },
-        {
           "key": "source:ABU3019",
           "why": "Read assurances of protection alongside actual imprisonment, persecution, bereavement and material assistance during war. Preserve the historical severity of controversy without overlooking the counsels of gentleness, restraint and care. Ask what spiritual security means when outward suffering remains."
         },
@@ -1361,31 +1075,7 @@
           "why": "Read assurances of protection alongside actual imprisonment, persecution, bereavement and material assistance during war. Preserve the historical severity of controversy without overlooking the counsels of gentleness, restraint and care. Ask what spiritual security means when outward suffering remains."
         },
         {
-          "key": "source:BH02561",
-          "why": "Read assurances of protection alongside actual imprisonment, persecution, bereavement and material assistance during war. Preserve the historical severity of controversy without overlooking the counsels of gentleness, restraint and care. Ask what spiritual security means when outward suffering remains."
-        },
-        {
-          "key": "source:BH03161",
-          "why": "Read assurances of protection alongside actual imprisonment, persecution, bereavement and material assistance during war. Preserve the historical severity of controversy without overlooking the counsels of gentleness, restraint and care. Ask what spiritual security means when outward suffering remains."
-        },
-        {
-          "key": "source:BH03382",
-          "why": "Read assurances of protection alongside actual imprisonment, persecution, bereavement and material assistance during war. Preserve the historical severity of controversy without overlooking the counsels of gentleness, restraint and care. Ask what spiritual security means when outward suffering remains."
-        },
-        {
-          "key": "source:BH03547",
-          "why": "Read assurances of protection alongside actual imprisonment, persecution, bereavement and material assistance during war. Preserve the historical severity of controversy without overlooking the counsels of gentleness, restraint and care. Ask what spiritual security means when outward suffering remains."
-        },
-        {
-          "key": "source:BH03742",
-          "why": "Read assurances of protection alongside actual imprisonment, persecution, bereavement and material assistance during war. Preserve the historical severity of controversy without overlooking the counsels of gentleness, restraint and care. Ask what spiritual security means when outward suffering remains."
-        },
-        {
           "key": "source:BH04227",
-          "why": "Read assurances of protection alongside actual imprisonment, persecution, bereavement and material assistance during war. Preserve the historical severity of controversy without overlooking the counsels of gentleness, restraint and care. Ask what spiritual security means when outward suffering remains."
-        },
-        {
-          "key": "source:BH04329",
           "why": "Read assurances of protection alongside actual imprisonment, persecution, bereavement and material assistance during war. Preserve the historical severity of controversy without overlooking the counsels of gentleness, restraint and care. Ask what spiritual security means when outward suffering remains."
         },
         {
@@ -1405,14 +1095,6 @@
           "why": "Read assurances of protection alongside actual imprisonment, persecution, bereavement and material assistance during war. Preserve the historical severity of controversy without overlooking the counsels of gentleness, restraint and care. Ask what spiritual security means when outward suffering remains."
         },
         {
-          "key": "source:BH06609",
-          "why": "Read assurances of protection alongside actual imprisonment, persecution, bereavement and material assistance during war. Preserve the historical severity of controversy without overlooking the counsels of gentleness, restraint and care. Ask what spiritual security means when outward suffering remains."
-        },
-        {
-          "key": "source:BH09090",
-          "why": "Read assurances of protection alongside actual imprisonment, persecution, bereavement and material assistance during war. Preserve the historical severity of controversy without overlooking the counsels of gentleness, restraint and care. Ask what spiritual security means when outward suffering remains."
-        },
-        {
           "key": "source:BH01412",
           "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
         },
@@ -1425,19 +1107,11 @@
           "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
         },
         {
-          "key": "source:BH00448",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
           "key": "source:BH02393",
           "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
         },
         {
           "key": "source:AB10587",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB00810",
           "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
         },
         {
@@ -1449,30 +1123,6 @@
           "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
         },
         {
-          "key": "source:AB02592",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB06602",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB01914",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB05079",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB11088",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB11649",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
           "key": "source:AB00008",
           "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
         },
@@ -1481,23 +1131,11 @@
           "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
         },
         {
-          "key": "source:AB00258",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
           "key": "source:AB00578",
           "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
         },
         {
-          "key": "source:AB02010",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
           "key": "source:AB01507",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB01647",
           "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
         },
         {
@@ -1509,47 +1147,11 @@
           "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
         },
         {
-          "key": "source:AB00564",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB00939",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB01013",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB02560",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB05034",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB05313",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
           "key": "source:AB00366",
           "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
         },
         {
-          "key": "source:AB00411",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB00496",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
           "key": "source:AB01111",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB02585",
           "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
         },
         {
@@ -1558,14 +1160,6 @@
         },
         {
           "key": "source:AB03474",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB03937",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB09160",
           "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
         },
         {
@@ -1581,39 +1175,11 @@
           "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
         },
         {
-          "key": "source:AB00992",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB00783",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
           "key": "source:AB00917",
           "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
         },
         {
           "key": "source:AB01256",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB01278",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB01334",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB02796",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB02841",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB03059",
           "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
         },
         {
@@ -1625,31 +1191,11 @@
           "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
         },
         {
-          "key": "source:AB04575",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB05240",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
           "key": "source:AB05607",
           "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
         },
         {
-          "key": "source:AB07397",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
           "key": "source:AB08904",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB09648",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB09879",
           "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
         },
         {
@@ -1677,38 +1223,6 @@
           "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
         },
         {
-          "key": "source:BH01945",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:BH02082",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:BH02676",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:BH03008",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:BH04214",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:BH06320",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB00401",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB00421",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
           "key": "source:AB00892",
           "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
         },
@@ -1717,35 +1231,7 @@
           "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
         },
         {
-          "key": "source:AB01886",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB02006",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB02008",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB02112",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB02474",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB02594",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
           "key": "source:AB02622",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB03321",
           "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
         },
         {
@@ -1753,31 +1239,7 @@
           "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
         },
         {
-          "key": "source:AB04485",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB04584",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB04756",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
           "key": "source:AB05316",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB05454",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB05619",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB05752",
           "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
         },
         {
@@ -1789,47 +1251,7 @@
           "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
         },
         {
-          "key": "source:AB06128",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB06707",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB06860",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB07115",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB07127",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB07382",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB07390",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB07659",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
           "key": "source:AB07874",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB09616",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB09721",
           "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
         },
         {
@@ -1845,15 +1267,7 @@
           "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
         },
         {
-          "key": "source:ABU2728",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
           "key": "source:BBU0003",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:BH00572",
           "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
         },
         {
@@ -1861,99 +1275,7 @@
           "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
         },
         {
-          "key": "source:BH01858",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:BH04724",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:BH07623",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB00858",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB01286",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB01714",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB01738",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB02089",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB02268",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB02515",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB02735",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB02768",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB03129",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB03307",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB03571",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB04522",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB04578",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB04719",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
           "key": "source:AB04831",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB04889",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB05091",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB05172",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB05262",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB05470",
           "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
         },
         {
@@ -1965,63 +1287,7 @@
           "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
         },
         {
-          "key": "source:AB05800",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB06096",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB06739",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
           "key": "source:AB06894",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB06975",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB06979",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB07096",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB07105",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB07121",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB07499",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB07605",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB07788",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB07811",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB07812",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB07883",
           "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
         },
         {
@@ -2037,39 +1303,7 @@
           "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
         },
         {
-          "key": "source:AB09170",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB09269",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB09306",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB09311",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
           "key": "source:AB09554",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB09683",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB09702",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB09704",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB09982",
           "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
         },
         {
@@ -2077,51 +1311,7 @@
           "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
         },
         {
-          "key": "source:AB10571",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB11268",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB11331",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB11453",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB11667",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB11841",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
           "key": "source:AB11904",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB12099",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB12117",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB12603",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:AB12710",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:ABU0905",
           "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
         },
         {
@@ -2137,47 +1327,7 @@
           "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
         },
         {
-          "key": "source:ABU2618",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:BH00309",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:BH00707",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
           "key": "source:BH01357",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:BH01601",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:BH01645",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:BH02420",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:BH02553",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:BH03376",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:BH03703",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:BH03767",
           "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
         },
         {
@@ -2185,47 +1335,7 @@
           "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
         },
         {
-          "key": "source:BH04116",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:BH04539",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:BH04868",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:BH05226",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:BH05614",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:BH08146",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:BH08313",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:BH08790",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
           "key": "source:BH09434",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:BH09487",
-          "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
-        },
-        {
-          "key": "source:BH10001",
           "why": "Follow confirmation into teaching, consultation, patient work and practical decisions. Read named recipients and historical circumstances attentively. The repeated promises of assistance call for action rather than self-sufficiency; the criterion remains deeds, humility and service."
         },
         {
@@ -2261,27 +1371,11 @@
           "why": "Gather the many voices of gratitude, remembrance and supplication. Keep prayers, letters and reported sayings recognizable in their own authority. Return to humility and good character: the bond proclaimed in cosmic language asks to be embodied in a human life."
         },
         {
-          "key": "source:AB03565",
-          "why": "Gather the many voices of gratitude, remembrance and supplication. Keep prayers, letters and reported sayings recognizable in their own authority. Return to humility and good character: the bond proclaimed in cosmic language asks to be embodied in a human life."
-        },
-        {
-          "key": "source:BH00302",
-          "why": "Gather the many voices of gratitude, remembrance and supplication. Keep prayers, letters and reported sayings recognizable in their own authority. Return to humility and good character: the bond proclaimed in cosmic language asks to be embodied in a human life."
-        },
-        {
-          "key": "source:AB02549",
-          "why": "Gather the many voices of gratitude, remembrance and supplication. Keep prayers, letters and reported sayings recognizable in their own authority. Return to humility and good character: the bond proclaimed in cosmic language asks to be embodied in a human life."
-        },
-        {
           "key": "source:AB10027",
           "why": "Gather the many voices of gratitude, remembrance and supplication. Keep prayers, letters and reported sayings recognizable in their own authority. Return to humility and good character: the bond proclaimed in cosmic language asks to be embodied in a human life."
         },
         {
           "key": "source:BH02551",
-          "why": "Gather the many voices of gratitude, remembrance and supplication. Keep prayers, letters and reported sayings recognizable in their own authority. Return to humility and good character: the bond proclaimed in cosmic language asks to be embodied in a human life."
-        },
-        {
-          "key": "source:BH02794",
           "why": "Gather the many voices of gratitude, remembrance and supplication. Keep prayers, letters and reported sayings recognizable in their own authority. Return to humility and good character: the bond proclaimed in cosmic language asks to be embodied in a human life."
         },
         {
@@ -2293,39 +1387,11 @@
           "why": "Gather the many voices of gratitude, remembrance and supplication. Keep prayers, letters and reported sayings recognizable in their own authority. Return to humility and good character: the bond proclaimed in cosmic language asks to be embodied in a human life."
         },
         {
-          "key": "source:AB03563",
-          "why": "Gather the many voices of gratitude, remembrance and supplication. Keep prayers, letters and reported sayings recognizable in their own authority. Return to humility and good character: the bond proclaimed in cosmic language asks to be embodied in a human life."
-        },
-        {
-          "key": "source:AB04512",
-          "why": "Gather the many voices of gratitude, remembrance and supplication. Keep prayers, letters and reported sayings recognizable in their own authority. Return to humility and good character: the bond proclaimed in cosmic language asks to be embodied in a human life."
-        },
-        {
           "key": "source:BH01558",
           "why": "Gather the many voices of gratitude, remembrance and supplication. Keep prayers, letters and reported sayings recognizable in their own authority. Return to humility and good character: the bond proclaimed in cosmic language asks to be embodied in a human life."
         },
         {
-          "key": "source:BH02159",
-          "why": "Gather the many voices of gratitude, remembrance and supplication. Keep prayers, letters and reported sayings recognizable in their own authority. Return to humility and good character: the bond proclaimed in cosmic language asks to be embodied in a human life."
-        },
-        {
-          "key": "source:BH03077",
-          "why": "Gather the many voices of gratitude, remembrance and supplication. Keep prayers, letters and reported sayings recognizable in their own authority. Return to humility and good character: the bond proclaimed in cosmic language asks to be embodied in a human life."
-        },
-        {
-          "key": "source:BH03080",
-          "why": "Gather the many voices of gratitude, remembrance and supplication. Keep prayers, letters and reported sayings recognizable in their own authority. Return to humility and good character: the bond proclaimed in cosmic language asks to be embodied in a human life."
-        },
-        {
-          "key": "source:AB00300",
-          "why": "Gather the many voices of gratitude, remembrance and supplication. Keep prayers, letters and reported sayings recognizable in their own authority. Return to humility and good character: the bond proclaimed in cosmic language asks to be embodied in a human life."
-        },
-        {
           "key": "source:AB00450",
-          "why": "Gather the many voices of gratitude, remembrance and supplication. Keep prayers, letters and reported sayings recognizable in their own authority. Return to humility and good character: the bond proclaimed in cosmic language asks to be embodied in a human life."
-        },
-        {
-          "key": "source:AB02297",
           "why": "Gather the many voices of gratitude, remembrance and supplication. Keep prayers, letters and reported sayings recognizable in their own authority. Return to humility and good character: the bond proclaimed in cosmic language asks to be embodied in a human life."
         },
         {
@@ -2337,19 +1403,7 @@
           "why": "Gather the many voices of gratitude, remembrance and supplication. Keep prayers, letters and reported sayings recognizable in their own authority. Return to humility and good character: the bond proclaimed in cosmic language asks to be embodied in a human life."
         },
         {
-          "key": "source:BH01946",
-          "why": "Gather the many voices of gratitude, remembrance and supplication. Keep prayers, letters and reported sayings recognizable in their own authority. Return to humility and good character: the bond proclaimed in cosmic language asks to be embodied in a human life."
-        },
-        {
           "key": "source:BH02465",
-          "why": "Gather the many voices of gratitude, remembrance and supplication. Keep prayers, letters and reported sayings recognizable in their own authority. Return to humility and good character: the bond proclaimed in cosmic language asks to be embodied in a human life."
-        },
-        {
-          "key": "source:BH02530",
-          "why": "Gather the many voices of gratitude, remembrance and supplication. Keep prayers, letters and reported sayings recognizable in their own authority. Return to humility and good character: the bond proclaimed in cosmic language asks to be embodied in a human life."
-        },
-        {
-          "key": "source:BH03786",
           "why": "Gather the many voices of gratitude, remembrance and supplication. Keep prayers, letters and reported sayings recognizable in their own authority. Return to humility and good character: the bond proclaimed in cosmic language asks to be embodied in a human life."
         },
         {
@@ -2357,71 +1411,11 @@
           "why": "Gather the many voices of gratitude, remembrance and supplication. Keep prayers, letters and reported sayings recognizable in their own authority. Return to humility and good character: the bond proclaimed in cosmic language asks to be embodied in a human life."
         },
         {
-          "key": "source:AB01857",
-          "why": "Gather the many voices of gratitude, remembrance and supplication. Keep prayers, letters and reported sayings recognizable in their own authority. Return to humility and good character: the bond proclaimed in cosmic language asks to be embodied in a human life."
-        },
-        {
-          "key": "source:AB03812",
-          "why": "Gather the many voices of gratitude, remembrance and supplication. Keep prayers, letters and reported sayings recognizable in their own authority. Return to humility and good character: the bond proclaimed in cosmic language asks to be embodied in a human life."
-        },
-        {
-          "key": "source:AB04207",
-          "why": "Gather the many voices of gratitude, remembrance and supplication. Keep prayers, letters and reported sayings recognizable in their own authority. Return to humility and good character: the bond proclaimed in cosmic language asks to be embodied in a human life."
-        },
-        {
-          "key": "source:AB04566",
-          "why": "Gather the many voices of gratitude, remembrance and supplication. Keep prayers, letters and reported sayings recognizable in their own authority. Return to humility and good character: the bond proclaimed in cosmic language asks to be embodied in a human life."
-        },
-        {
-          "key": "source:AB04615",
-          "why": "Gather the many voices of gratitude, remembrance and supplication. Keep prayers, letters and reported sayings recognizable in their own authority. Return to humility and good character: the bond proclaimed in cosmic language asks to be embodied in a human life."
-        },
-        {
-          "key": "source:AB05086",
-          "why": "Gather the many voices of gratitude, remembrance and supplication. Keep prayers, letters and reported sayings recognizable in their own authority. Return to humility and good character: the bond proclaimed in cosmic language asks to be embodied in a human life."
-        },
-        {
-          "key": "source:AB05545",
-          "why": "Gather the many voices of gratitude, remembrance and supplication. Keep prayers, letters and reported sayings recognizable in their own authority. Return to humility and good character: the bond proclaimed in cosmic language asks to be embodied in a human life."
-        },
-        {
-          "key": "source:AB05960",
-          "why": "Gather the many voices of gratitude, remembrance and supplication. Keep prayers, letters and reported sayings recognizable in their own authority. Return to humility and good character: the bond proclaimed in cosmic language asks to be embodied in a human life."
-        },
-        {
           "key": "source:BH01851",
           "why": "Gather the many voices of gratitude, remembrance and supplication. Keep prayers, letters and reported sayings recognizable in their own authority. Return to humility and good character: the bond proclaimed in cosmic language asks to be embodied in a human life."
         },
         {
-          "key": "source:BH02191",
-          "why": "Gather the many voices of gratitude, remembrance and supplication. Keep prayers, letters and reported sayings recognizable in their own authority. Return to humility and good character: the bond proclaimed in cosmic language asks to be embodied in a human life."
-        },
-        {
-          "key": "source:AB03863",
-          "why": "Gather the many voices of gratitude, remembrance and supplication. Keep prayers, letters and reported sayings recognizable in their own authority. Return to humility and good character: the bond proclaimed in cosmic language asks to be embodied in a human life."
-        },
-        {
-          "key": "source:BH02711",
-          "why": "Gather the many voices of gratitude, remembrance and supplication. Keep prayers, letters and reported sayings recognizable in their own authority. Return to humility and good character: the bond proclaimed in cosmic language asks to be embodied in a human life."
-        },
-        {
-          "key": "source:BH02983",
-          "why": "Gather the many voices of gratitude, remembrance and supplication. Keep prayers, letters and reported sayings recognizable in their own authority. Return to humility and good character: the bond proclaimed in cosmic language asks to be embodied in a human life."
-        },
-        {
-          "key": "source:BH04965",
-          "why": "Gather the many voices of gratitude, remembrance and supplication. Keep prayers, letters and reported sayings recognizable in their own authority. Return to humility and good character: the bond proclaimed in cosmic language asks to be embodied in a human life."
-        },
-        {
-          "key": "source:BH07131",
-          "why": "Gather the many voices of gratitude, remembrance and supplication. Keep prayers, letters and reported sayings recognizable in their own authority. Return to humility and good character: the bond proclaimed in cosmic language asks to be embodied in a human life."
-        },
-        {
           "key": "source:AB00234",
-          "why": "Gather the many voices of gratitude, remembrance and supplication. Keep prayers, letters and reported sayings recognizable in their own authority. Return to humility and good character: the bond proclaimed in cosmic language asks to be embodied in a human life."
-        },
-        {
-          "key": "source:AB00846",
           "why": "Gather the many voices of gratitude, remembrance and supplication. Keep prayers, letters and reported sayings recognizable in their own authority. Return to humility and good character: the bond proclaimed in cosmic language asks to be embodied in a human life."
         },
         {
@@ -2433,31 +1427,7 @@
           "why": "Gather the many voices of gratitude, remembrance and supplication. Keep prayers, letters and reported sayings recognizable in their own authority. Return to humility and good character: the bond proclaimed in cosmic language asks to be embodied in a human life."
         },
         {
-          "key": "source:AB02036",
-          "why": "Gather the many voices of gratitude, remembrance and supplication. Keep prayers, letters and reported sayings recognizable in their own authority. Return to humility and good character: the bond proclaimed in cosmic language asks to be embodied in a human life."
-        },
-        {
-          "key": "source:AB02145",
-          "why": "Gather the many voices of gratitude, remembrance and supplication. Keep prayers, letters and reported sayings recognizable in their own authority. Return to humility and good character: the bond proclaimed in cosmic language asks to be embodied in a human life."
-        },
-        {
-          "key": "source:AB02636",
-          "why": "Gather the many voices of gratitude, remembrance and supplication. Keep prayers, letters and reported sayings recognizable in their own authority. Return to humility and good character: the bond proclaimed in cosmic language asks to be embodied in a human life."
-        },
-        {
           "key": "source:AB02643",
-          "why": "Gather the many voices of gratitude, remembrance and supplication. Keep prayers, letters and reported sayings recognizable in their own authority. Return to humility and good character: the bond proclaimed in cosmic language asks to be embodied in a human life."
-        },
-        {
-          "key": "source:AB03069",
-          "why": "Gather the many voices of gratitude, remembrance and supplication. Keep prayers, letters and reported sayings recognizable in their own authority. Return to humility and good character: the bond proclaimed in cosmic language asks to be embodied in a human life."
-        },
-        {
-          "key": "source:AB04228",
-          "why": "Gather the many voices of gratitude, remembrance and supplication. Keep prayers, letters and reported sayings recognizable in their own authority. Return to humility and good character: the bond proclaimed in cosmic language asks to be embodied in a human life."
-        },
-        {
-          "key": "source:AB04462",
           "why": "Gather the many voices of gratitude, remembrance and supplication. Keep prayers, letters and reported sayings recognizable in their own authority. Return to humility and good character: the bond proclaimed in cosmic language asks to be embodied in a human life."
         },
         {
@@ -2465,59 +1435,11 @@
           "why": "Gather the many voices of gratitude, remembrance and supplication. Keep prayers, letters and reported sayings recognizable in their own authority. Return to humility and good character: the bond proclaimed in cosmic language asks to be embodied in a human life."
         },
         {
-          "key": "source:AB05013",
-          "why": "Gather the many voices of gratitude, remembrance and supplication. Keep prayers, letters and reported sayings recognizable in their own authority. Return to humility and good character: the bond proclaimed in cosmic language asks to be embodied in a human life."
-        },
-        {
-          "key": "source:AB08194",
-          "why": "Gather the many voices of gratitude, remembrance and supplication. Keep prayers, letters and reported sayings recognizable in their own authority. Return to humility and good character: the bond proclaimed in cosmic language asks to be embodied in a human life."
-        },
-        {
           "key": "source:AB08833",
           "why": "Gather the many voices of gratitude, remembrance and supplication. Keep prayers, letters and reported sayings recognizable in their own authority. Return to humility and good character: the bond proclaimed in cosmic language asks to be embodied in a human life."
         },
         {
-          "key": "source:AB09775",
-          "why": "Gather the many voices of gratitude, remembrance and supplication. Keep prayers, letters and reported sayings recognizable in their own authority. Return to humility and good character: the bond proclaimed in cosmic language asks to be embodied in a human life."
-        },
-        {
-          "key": "source:BH00792",
-          "why": "Gather the many voices of gratitude, remembrance and supplication. Keep prayers, letters and reported sayings recognizable in their own authority. Return to humility and good character: the bond proclaimed in cosmic language asks to be embodied in a human life."
-        },
-        {
-          "key": "source:BH04922",
-          "why": "Gather the many voices of gratitude, remembrance and supplication. Keep prayers, letters and reported sayings recognizable in their own authority. Return to humility and good character: the bond proclaimed in cosmic language asks to be embodied in a human life."
-        },
-        {
-          "key": "source:BH05916",
-          "why": "Gather the many voices of gratitude, remembrance and supplication. Keep prayers, letters and reported sayings recognizable in their own authority. Return to humility and good character: the bond proclaimed in cosmic language asks to be embodied in a human life."
-        },
-        {
-          "key": "source:BH07783",
-          "why": "Gather the many voices of gratitude, remembrance and supplication. Keep prayers, letters and reported sayings recognizable in their own authority. Return to humility and good character: the bond proclaimed in cosmic language asks to be embodied in a human life."
-        },
-        {
-          "key": "source:BH10058",
-          "why": "Gather the many voices of gratitude, remembrance and supplication. Keep prayers, letters and reported sayings recognizable in their own authority. Return to humility and good character: the bond proclaimed in cosmic language asks to be embodied in a human life."
-        },
-        {
-          "key": "source:AB09539",
-          "why": "Gather the many voices of gratitude, remembrance and supplication. Keep prayers, letters and reported sayings recognizable in their own authority. Return to humility and good character: the bond proclaimed in cosmic language asks to be embodied in a human life."
-        },
-        {
-          "key": "source:BH03375",
-          "why": "Gather the many voices of gratitude, remembrance and supplication. Keep prayers, letters and reported sayings recognizable in their own authority. Return to humility and good character: the bond proclaimed in cosmic language asks to be embodied in a human life."
-        },
-        {
-          "key": "selection:50ff2ee45668b5e271bf4d98",
-          "why": "Read the original imported selections with their supplied citations and match status intact. Compare the historical accounts and later explanations of the Greater and Lesser Covenants, succession and institutions with the passages above. These concluding selections invite further study of the connected subjects rather than erasing differences of date, genre or authority."
-        },
-        {
           "key": "selection:efdb8cdc21f5bd6aa558befb",
-          "why": "Read the original imported selections with their supplied citations and match status intact. Compare the historical accounts and later explanations of the Greater and Lesser Covenants, succession and institutions with the passages above. These concluding selections invite further study of the connected subjects rather than erasing differences of date, genre or authority."
-        },
-        {
-          "key": "selection:0c522141830b778a7a6b146c",
           "why": "Read the original imported selections with their supplied citations and match status intact. Compare the historical accounts and later explanations of the Greater and Lesser Covenants, succession and institutions with the passages above. These concluding selections invite further study of the connected subjects rather than erasing differences of date, genre or authority."
         },
         {
@@ -2526,10 +1448,6 @@
         },
         {
           "key": "selection:d0bb610dbb57d0f8b1a5da80",
-          "why": "Read the original imported selections with their supplied citations and match status intact. Compare the historical accounts and later explanations of the Greater and Lesser Covenants, succession and institutions with the passages above. These concluding selections invite further study of the connected subjects rather than erasing differences of date, genre or authority."
-        },
-        {
-          "key": "selection:ec556c0737941eb0e9177279",
           "why": "Read the original imported selections with their supplied citations and match status intact. Compare the historical accounts and later explanations of the Greater and Lesser Covenants, succession and institutions with the passages above. These concluding selections invite further study of the connected subjects rather than erasing differences of date, genre or authority."
         },
         {
@@ -2546,14 +1464,6 @@
         },
         {
           "key": "selection:777af2efe56b8ca0ebcb48c6",
-          "why": "Read the original imported selections with their supplied citations and match status intact. Compare the historical accounts and later explanations of the Greater and Lesser Covenants, succession and institutions with the passages above. These concluding selections invite further study of the connected subjects rather than erasing differences of date, genre or authority."
-        },
-        {
-          "key": "selection:9a13895b9333ca1087d72dc7",
-          "why": "Read the original imported selections with their supplied citations and match status intact. Compare the historical accounts and later explanations of the Greater and Lesser Covenants, succession and institutions with the passages above. These concluding selections invite further study of the connected subjects rather than erasing differences of date, genre or authority."
-        },
-        {
-          "key": "selection:c6e0385f1bf1bfafbcfadf0c",
           "why": "Read the original imported selections with their supplied citations and match status intact. Compare the historical accounts and later explanations of the Greater and Lesser Covenants, succession and institutions with the passages above. These concluding selections invite further study of the connected subjects rather than erasing differences of date, genre or authority."
         },
         {

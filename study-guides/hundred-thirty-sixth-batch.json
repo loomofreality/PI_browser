@@ -5,23 +5,317 @@
       "id": "26E85C22B274E5695DA94BA1A3A0A343",
       "slug": "prayerindividuals",
       "displayTitle": "Prayer for others: remembrance, companionship and care",
+      "selection": {
+        "review": "selections/prayerindividuals.json",
+        "sha256": "1f4c0dd67877ba858700cefba22e85a276d8be3973f682b688340dae7cd5e6c0",
+        "ids": [
+          "448244c400ba8db2fe3e27e2",
+          "f0221778402b1023ece270bd",
+          "0ccaa6982e44173d517b389b",
+          "08ec705ac19080de8ddfd4d4",
+          "3fd0d5108ed37cc2308341de",
+          "9fb425dda65e76350e21b268",
+          "eeda11c78b32e6b3e1d3b91d",
+          "2e60b47cce4cea42ca813c8a",
+          "b7bc21f9517087edbc1685ff",
+          "854e1dd707def944d1201320",
+          "9d0fca22b4db5fdbeea6eb80",
+          "4162a039a51adeca4d211486",
+          "9f46f855d82fedc734899bd9",
+          "8f3815c6025a1b493eadca54",
+          "742bbcb065f288ee976f74dd",
+          "5bdd4d5ebe0572e23ec21959",
+          "285ecc30f2e1fb7e0ae7915f",
+          "59eeeaf0af0068cf410b272d",
+          "7645311cf3d2e03103ea7fe2",
+          "b1a481c94c6e9bf8bf15b8c2",
+          "52b121826f0e28fa0daad82b",
+          "3228cb4b8382ed4d94ccd32f",
+          "dd372dc09281927505e549d8",
+          "fcc2bfaae8bcedfba2fb8023",
+          "4c69fab5a691198d8a183498",
+          "af6cad520013b7cfd42c6064",
+          "2f021de265ebc12331ce61ca",
+          "8a122a76989f8eb57f8dc78f",
+          "91e2ea0f0c991dd4f85db971",
+          "303727fd72b67ea1543c04fa",
+          "13d8c0ba33f21f9d1b3ee0e5",
+          "5bd6a8eaaff77a1cc9061b35",
+          "d8711e27d72106b6c8386d12",
+          "b992d52f59afdc11843541bb",
+          "96e732c2b725ac6045853b90",
+          "3f77150fa5fa405ebf2a660b",
+          "10c2e7243ba662f89826d3ff",
+          "8e88183c26d2ee7e5a0f1cc9",
+          "740b5311e31f54e3fa088405",
+          "c301454d50f90b242d35e071",
+          "03af6b3b8f246db771f7f3ff",
+          "48f48d132e537abbb28c3d06",
+          "955aae04fc4552257fa81b11",
+          "5cc72d5bf0154a331bc797e5",
+          "070f64bc342081e5a0feb64e",
+          "d16237d8900cbdfd658b8425",
+          "41a283acdd3a24cf8c87fafc",
+          "31076aed864ffcc8dc264b46",
+          "53f3300246300f6ad7af9158",
+          "976c836e899be54fc6f4017b",
+          "b4ee288804700fdc32bcf20e",
+          "2ab139603f7b071a55fe8337",
+          "8896021effe2bde4a6463a3b",
+          "a91d6c06b1c91809aa6ab0a7",
+          "01763d4de0a4e8c3c5767796",
+          "975c6c5e8500331bcf3e596b",
+          "fa2f15b501a85bbb76c6db9f",
+          "fb41ee6e101037afd2513674",
+          "c604adb389493974fe2adad2",
+          "c6c30c7aa4bb609fe7d3b151",
+          "d58c9c20f63e70df1f282ad6",
+          "018fa958b8e4745659fad62d",
+          "0bbaafb70b0e2c1dd7ab6663",
+          "94184acd3844147826ecf37c",
+          "04678fff8d83f7c9220f77d4",
+          "5023fa30d43b591e3f160dee",
+          "c23168035e3cbfaa4cdf329f",
+          "7d3c4e026a99e6510cdd1153",
+          "f6cd5190b319bd3ecfb146f2",
+          "359f0beeae9229244f2c45ae",
+          "ebee043389400e3cd78b7b5c",
+          "2e78a63155b4404405a014aa",
+          "4cb59b73800c828da19be30f",
+          "15a4ca3e4f2626fb3b47b135",
+          "e98dcb17d1631026a611209a",
+          "6e20d56221f04a1058e0377f",
+          "3ca7f7736b799415f371d8c0",
+          "78321f2880b3703ff20f1b45",
+          "f44660be082b8f14dbc34906",
+          "58c769027eeb29d2c770b291",
+          "8a6a264d9504356bf59cf121",
+          "8c8310bad94bfde944bc40d9",
+          "69281c29d81a211d5e19bf45",
+          "dd7adfc17baf026be2912dac",
+          "c9e37d9185eccc252a8e986b",
+          "d45b08921f39bbf2e5342ccf",
+          "d64c5276fa10bf4db3cd7ca1",
+          "91ff04123501aed2c0a15062",
+          "372f95ae1f0cc9b9336d7a4b",
+          "765d3e5a29c165352eda63e5",
+          "65603ab328ac9db370a17cde",
+          "e85dd124a506b14aff94536e",
+          "73ff76d332b02771a27ef104",
+          "77d30a0abb159a41b1522540",
+          "2b67b388e49d84d07b48bc63",
+          "8041f1c0c7c1e80dd83fe79d",
+          "418e7fb3bf6d533487ed8fbd",
+          "b3daa769db9066b8d1196cc9",
+          "f70bf4224515562322b41ca8",
+          "46e6201fcacbccab7c6e3113",
+          "4440f43e6557d25e0c98228c",
+          "2ffdc8e2cd84c7753e50d9ff",
+          "5a41de7d69b1e68c5ca67779",
+          "9ce933b99ab813ad87d812cb",
+          "57b21d9d97bb46888db78edb",
+          "d51682819d577ec5afbd069c",
+          "0b7cb3af2ffd9e44482f97ec",
+          "b3ebac5a30126729c5b41563",
+          "ecc814937970ae0eb2092b73",
+          "5329f3b2a30909ab7b7cccb9",
+          "20863792e9367fdbc2636646",
+          "c331b9355e337aa5b3a8e064",
+          "45f070d291d23707d3f25707",
+          "7266835876c8916a138a4f5b",
+          "f7e1eaad5fef71137c817c84",
+          "6716dd4e29d435030ae533bf",
+          "3866bfb61dd2bd6491c3b04d",
+          "f3c9d65216943e4632051081",
+          "f4dbd9283e1cf859b7cfdabc",
+          "decd4b52395962e034c0b054",
+          "1d0b6970595e6c019e1b6f7f",
+          "57b38b2394a1431803a85b6b",
+          "4e3eaf7bfb7621980d3543d5",
+          "f317b4c646519dc9dc59f078",
+          "292bd4f42fcaca951e2bce9e",
+          "26a5fc64f264faa03810889b",
+          "03967f5d77f8614a4b487ab0",
+          "bc37cd184ae46573119e86c3",
+          "7f4c7987395a589a65444a7a",
+          "382ddd59566c3c6683f65ceb",
+          "f6a9a182e3983571ab3df55b",
+          "2bf074b39c84cf39cdbd04c9",
+          "915d20e5c389acdba10e05c4",
+          "7914d32d1100b528dbc6ad5e",
+          "36bcab43b40dc19aa4211136",
+          "4d8a71605255dcb352d76e52",
+          "d779ca4ee0a71afb95e6f82d",
+          "815abb33c388d215e9394938",
+          "bc87c12e650b2845d9bd8a20",
+          "c9fd9a1dc73ceded5a3ff864",
+          "99d846a22cd6df4b8faf8280",
+          "15a289bef75ef5f22f42bc63",
+          "c2473e20247ae934ca5231f5",
+          "6beaa51c9874ad4104359445",
+          "ab889fcf56bb3bac82acd254",
+          "e6e15f6f63671d1cf86abf7b",
+          "ef413731a8d17ee6b1862902",
+          "5e18aacbd5ac38889b4bdff2",
+          "ea44351dce7897b5c97fdd74",
+          "246ef18d56a3b09a795ef7f5",
+          "b4b741538f17718979402700",
+          "5da1adcac4d2eb386c0a2b09",
+          "75b01ffd0975d067c479b316",
+          "97c25ad9b26cc98479e967e4",
+          "274a7bc7647ec32e901b6a24",
+          "055fbf3e40fe33b033fbe2c6",
+          "978b95c590952e6eb9a5d540",
+          "a71f45de6cbe9698bf2af3a5",
+          "320d28d7e6053cda774f8a49",
+          "356fcb4fef32737eb81ca5e4",
+          "8bb4d59973c5dfa0eb6b06fe",
+          "35826b8165ff45ffccd7571b",
+          "84ff2cb04b8dcbc6b4d840c2",
+          "5ba76ee52c374d99499c4b9d",
+          "94c216ad3d56fb0d32e1e214",
+          "375002b6603f60bc697c8e98",
+          "32872958f9946db57f79a6d6",
+          "ad1d9ef7f9cb854724fec73c",
+          "64f15e18c83fd8908e212589",
+          "804b19a70e2b75fd2094bb91",
+          "1fc62403449bc4e18930e368",
+          "5ce3967bb508a6ec432d1e7e",
+          "0f043d363bae0172379b632b",
+          "a2e36ef5e6bc03dbaf8fa3d2",
+          "387b4c87bd7d3d47f2678a74",
+          "fbe1259b2b10c19ccdfb10a5",
+          "4f5b759f118f281309888a72",
+          "3aa45d32b8de58dd350f0700",
+          "7eb47831749b3c8803d4a92e",
+          "f1746e66e74ebb2d5f14dbc8",
+          "4fc571593bee8ced5b8cb910",
+          "39590cd05b268bafacaabcac",
+          "d2c9d21cfa2de23b4498eb1d",
+          "648d621254c9726e562c748c",
+          "f89b77e1d037907ac6cf1e72",
+          "0653164694d7701e7fec36c5",
+          "12aae7606876a3a2ff92ebae",
+          "7805f4e08d0ec26e2ad8a63b",
+          "80d267e57ad114941607377a",
+          "84e2dd4fe125fde5a89afc04",
+          "c20da92bfc5435b71cad149d",
+          "4d88f4dc1e4edab9ba2f3e3e",
+          "601382b9179135e61da44aea",
+          "95f97ca9c0f048d3c9c5ee40",
+          "ad83f80f968928bf6b41f3ec",
+          "08c6286b0513e0cad868ecf1",
+          "9e5726dc33fcfd304357894a",
+          "e8c90fe800d8d50ae4ac1523",
+          "25d3ef7bbd5a12cb3569e355",
+          "1351c1de709e0d4aaafc2311",
+          "23ad97e06a4f9c5f9b995a7d",
+          "0ec85a6f77dfdeaf3858ae88",
+          "2712b4edd6129dc0b574c0e9",
+          "5744795e5d930f56ae785043",
+          "a8b51519ae9cc881c6503387",
+          "86d61c307e40477f8b20539b",
+          "5ddce8849f3ac9b276a868ee",
+          "f25cceca6607b58fdf91913b",
+          "1da4d8900eca4cecbcdf0c57",
+          "0a0f8c5ba45cff3cacdbb2be",
+          "b4449f02d7b2df3915c1ccc4",
+          "a5e573c53c8a05cb77ca9e8e",
+          "6ec79edd0a97649dc9b86f13",
+          "0eaf0fb2de8a11cefa83ae40",
+          "11cd1ab0db8ad3dff8fa1128",
+          "0bff5ff27e6f63ba61f91a2b",
+          "7723dd928d73970322777f07",
+          "106cd7426c9247596fffd5b3",
+          "e97ce5da52b5c6d9ad70e016",
+          "66aa80e167b207fa4e98a55d",
+          "d7ea79d7eb3fe94b8b7fee7d",
+          "5d5a323e22e45fc8347addad",
+          "7d7e92bb6e91e08bc325c9ca",
+          "893d501b4845944c47b233c1",
+          "b06d12e4f07180ec7ab97f14",
+          "5f601740de130ffdb6c74f86",
+          "705b80afc1c6176cd90010b0",
+          "d3b17f40f15d2dc407deed90",
+          "6c85c474738392ad54e500be",
+          "859dad3da1e236d8f81e0b4d",
+          "d648691a236fef60446cc643",
+          "7792d76ddfe9428c3eb27160",
+          "1e69a42d37c529e6d16d48d4",
+          "24f074651b644612c8499ca9",
+          "baacecae5e5d29581b780f50",
+          "fd0373abf73b5503e626d99c",
+          "0469791458cafc203bc8092b",
+          "199eeaaa28af666183dfeb22",
+          "5e4790b7f64300c7892381d4",
+          "df1f8ba76c98726b2cb31e5d",
+          "bf970faaec5e56961888336e",
+          "48d54f84787e40b11de87abe",
+          "3585cf26b9ffff984a91b9b5",
+          "58f86a166877846a9f94db8c",
+          "bdf9f9b9733381b43d64a189",
+          "9e75f1bab35b317159cd62de",
+          "edf2d614109ba6439a5b6ba5",
+          "eb4dfad4a6b7930a016161c8",
+          "0cda2505f13dabbef152defd",
+          "fb9606e8d6a1bfebbadf3ec9",
+          "8a38d6407254f6e1a9e96f61",
+          "9ce96376ce50ffe37f8da622",
+          "16a601307ff8b9f7f8b23844",
+          "334eba042d59c14f09dbf655",
+          "51d703b303ab7711c6b5e484",
+          "95e73bb6fcb54a498917d8c3",
+          "c163c1e960318ccfedc4a146",
+          "9a5ed85a2c3866c21e74c34b",
+          "a27c47a9b474461475bce799",
+          "50a6501584f254902d86efb3",
+          "43160ffbdd3144a93dc06ff7",
+          "dc906b46ace899dbffae6a67",
+          "ce5d2b842996c9ff16a9d74a",
+          "1bc00fc253187bbce5b9ab95",
+          "1550bb655cbbdac275a44d7d",
+          "87aa9fb52e45083e0a79e816",
+          "17ee42a977ec274601730724",
+          "4fd1982d4dd928daac7a04fc",
+          "d2519d18aca58d8289d68af1",
+          "5b537ae47a319f07cd9898fa",
+          "f72ac35a6cc0133a04c5965d",
+          "06c201dca99117a3efa40a89",
+          "2bb5ffa7cb36e495554141b5",
+          "8e231068d52078b76fbd3500",
+          "54693e03fab8dccaf76c2eb4",
+          "91bb0b9fe5f706ee8e32d057",
+          "83190f399a093a94e97e8157",
+          "024448d95dff2bbe80eb536d",
+          "8a621a4b8c297b2347d3dde5",
+          "092fd62ca80d65f26a5cb99d",
+          "67836d492de863564c39879c",
+          "32dda03f481fa9f7541d7516",
+          "79339b73758ee098022a5d05",
+          "9c788a3d53a5bbb9df38144c",
+          "60d7fd91f07d66a31ee0ff59",
+          "ad9ac39364f277060095e256",
+          "c515e30d281af9b782eb96c4",
+          "bf73904f95d35c2635aec8b4",
+          "4661f12ab21fc1270004db09",
+          "d839db613bfef20bd06891fc",
+          "ed6acde3e891b2f9d9eaf6a3",
+          "da3d41918ef6b0c1ca4100a8",
+          "e54ae572193b10014680fd5c",
+          "9644207c0340547ab4094be2",
+          "cb2cedf6bbb6fa2457638831",
+          "fea1de178d128ab4602eb1c3",
+          "a9bb9e38c71995abd9fc19c2",
+          "68344afe126e9e05d12e7ef7",
+          "41e83e902c6fbfd08d16fc96",
+          "80aff7ebbd24e1d834025555"
+        ]
+      },
       "introduction": "What happens when we carry another person into prayer? This collection begins with a striking gesture of companionship: asked for protection from the commanding self, ‘Abdu’l-Bahá joins the petitioner in the same need. From there, remembered names become letters, midnight supplications, blessings for children, comfort for bereaved households and prayers spoken on behalf of absent friends. The circle includes families and communities, students and workers, the vulnerable and their helpers; eventually it reaches strangers and enemies. Again and again, prayer opens into a task—learning, hospitality, fair dealing, education or care—so that wishing another well becomes a question about one’s own conduct. The neighboring subjects on spiritual progress, the power of prayer, women’s prayers and spiritual gatherings help connect these intimate addresses with a broader life of worship and service. Luke’s parable of two people praying and the Qur’an’s prayer for earlier believers invite comparison around humility, forgiveness and freedom from resentment, while retaining their different settings. Read the personal counsel with its circumstances intact: the aim is to discover how attentive love can grow, without assuming that every request or instruction was addressed to everyone.",
       "arc": "Remembering a person, sharing a need → Distance need not mean absence → Being present on another’s behalf → Children, parents and a growing household → Care within difficult relationships → Learning, work and gifts put to use → Grief, forgiveness and continuing love → Protection, relief and a place of refuge → A gathering can become a community → Family and the language of branches → Women remembered and strengthened → Mercy beyond deserving → Words to carry into one’s own prayer → Love becomes character and service → The Bab’s prayers and sacred remembrance → From our circle toward everyone",
       "order": [
         {
           "key": "source:AB02152",
-          "why": "Begin with shared vulnerability, affectionate attention and reciprocal prayer. Preserve the differing voices and the personal setting of requests for sacrifice."
-        },
-        {
-          "key": "source:AB01578",
-          "why": "Begin with shared vulnerability, affectionate attention and reciprocal prayer. Preserve the differing voices and the personal setting of requests for sacrifice."
-        },
-        {
-          "key": "source:AB05382",
-          "why": "Begin with shared vulnerability, affectionate attention and reciprocal prayer. Preserve the differing voices and the personal setting of requests for sacrifice."
-        },
-        {
-          "key": "source:AB02084",
           "why": "Begin with shared vulnerability, affectionate attention and reciprocal prayer. Preserve the differing voices and the personal setting of requests for sacrifice."
         },
         {
@@ -57,20 +351,12 @@
           "why": "Begin with shared vulnerability, affectionate attention and reciprocal prayer. Preserve the differing voices and the personal setting of requests for sacrifice."
         },
         {
-          "key": "source:AB12216",
-          "why": "Begin with shared vulnerability, affectionate attention and reciprocal prayer. Preserve the differing voices and the personal setting of requests for sacrifice."
-        },
-        {
           "key": "source:AB02571",
           "why": "Begin with shared vulnerability, affectionate attention and reciprocal prayer. Preserve the differing voices and the personal setting of requests for sacrifice."
         },
         {
           "key": "source:AB06540",
           "why": "Begin with shared vulnerability, affectionate attention and reciprocal prayer. Preserve the differing voices and the personal setting of requests for sacrifice."
-        },
-        {
-          "key": "source:AB00736",
-          "why": "Follow remembered names across distance and delayed letters, keeping the personal addressees and reported speech."
         },
         {
           "key": "source:AB01260",
@@ -105,14 +391,6 @@
           "why": "Follow remembered names across distance and delayed letters, keeping the personal addressees and reported speech."
         },
         {
-          "key": "source:AB08805",
-          "why": "Follow remembered names across distance and delayed letters, keeping the personal addressees and reported speech."
-        },
-        {
-          "key": "source:AB06903",
-          "why": "Follow remembered names across distance and delayed letters, keeping the personal addressees and reported speech."
-        },
-        {
           "key": "source:AB03714",
           "why": "Follow remembered names across distance and delayed letters, keeping the personal addressees and reported speech."
         },
@@ -121,19 +399,11 @@
           "why": "Follow remembered names across distance and delayed letters, keeping the personal addressees and reported speech."
         },
         {
-          "key": "source:AB05112",
-          "why": "Follow remembered names across distance and delayed letters, keeping the personal addressees and reported speech."
-        },
-        {
           "key": "source:BH03284",
           "why": "Follow remembered names across distance and delayed letters, keeping the personal addressees and reported speech."
         },
         {
           "key": "source:AB06623",
-          "why": "Follow remembered names across distance and delayed letters, keeping the personal addressees and reported speech."
-        },
-        {
-          "key": "source:AB07300",
           "why": "Follow remembered names across distance and delayed letters, keeping the personal addressees and reported speech."
         },
         {
@@ -153,22 +423,6 @@
           "why": "Follow remembered names across distance and delayed letters, keeping the personal addressees and reported speech."
         },
         {
-          "key": "source:AB11917",
-          "why": "Follow remembered names across distance and delayed letters, keeping the personal addressees and reported speech."
-        },
-        {
-          "key": "source:BH02209",
-          "why": "Follow remembered names across distance and delayed letters, keeping the personal addressees and reported speech."
-        },
-        {
-          "key": "source:AB08196",
-          "why": "Follow remembered names across distance and delayed letters, keeping the personal addressees and reported speech."
-        },
-        {
-          "key": "source:AB11941",
-          "why": "Follow remembered names across distance and delayed letters, keeping the personal addressees and reported speech."
-        },
-        {
           "key": "source:BH08293",
           "why": "Follow remembered names across distance and delayed letters, keeping the personal addressees and reported speech."
         },
@@ -177,27 +431,11 @@
           "why": "Follow remembered names across distance and delayed letters, keeping the personal addressees and reported speech."
         },
         {
-          "key": "source:AB04909",
-          "why": "Follow remembered names across distance and delayed letters, keeping the personal addressees and reported speech."
-        },
-        {
-          "key": "source:BH02042",
-          "why": "Follow remembered names across distance and delayed letters, keeping the personal addressees and reported speech."
-        },
-        {
-          "key": "source:BH10060",
-          "why": "Follow remembered names across distance and delayed letters, keeping the personal addressees and reported speech."
-        },
-        {
           "key": "source:BH00840",
           "why": "Follow remembered names across distance and delayed letters, keeping the personal addressees and reported speech."
         },
         {
           "key": "source:BH01458",
-          "why": "Follow remembered names across distance and delayed letters, keeping the personal addressees and reported speech."
-        },
-        {
-          "key": "source:BH01914",
           "why": "Follow remembered names across distance and delayed letters, keeping the personal addressees and reported speech."
         },
         {
@@ -214,14 +452,6 @@
         },
         {
           "key": "source:AB04733",
-          "why": "Move from prayer at the Shrines to acts of service performed for an absent friend; retain reasons for postponed travel and the limits of permission."
-        },
-        {
-          "key": "source:AB10356",
-          "why": "Move from prayer at the Shrines to acts of service performed for an absent friend; retain reasons for postponed travel and the limits of permission."
-        },
-        {
-          "key": "source:AB07212",
           "why": "Move from prayer at the Shrines to acts of service performed for an absent friend; retain reasons for postponed travel and the limits of permission."
         },
         {
@@ -253,10 +483,6 @@
           "why": "Move from prayer at the Shrines to acts of service performed for an absent friend; retain reasons for postponed travel and the limits of permission."
         },
         {
-          "key": "source:AB06980",
-          "why": "Move from prayer at the Shrines to acts of service performed for an absent friend; retain reasons for postponed travel and the limits of permission."
-        },
-        {
           "key": "source:AB08108",
           "why": "Move from prayer at the Shrines to acts of service performed for an absent friend; retain reasons for postponed travel and the limits of permission."
         },
@@ -265,39 +491,11 @@
           "why": "Move from prayer at the Shrines to acts of service performed for an absent friend; retain reasons for postponed travel and the limits of permission."
         },
         {
-          "key": "source:AB09152",
-          "why": "Move from prayer at the Shrines to acts of service performed for an absent friend; retain reasons for postponed travel and the limits of permission."
-        },
-        {
           "key": "source:AB09178",
           "why": "Move from prayer at the Shrines to acts of service performed for an absent friend; retain reasons for postponed travel and the limits of permission."
         },
         {
-          "key": "source:AB09568",
-          "why": "Move from prayer at the Shrines to acts of service performed for an absent friend; retain reasons for postponed travel and the limits of permission."
-        },
-        {
-          "key": "source:AB09817",
-          "why": "Move from prayer at the Shrines to acts of service performed for an absent friend; retain reasons for postponed travel and the limits of permission."
-        },
-        {
           "key": "source:AB11793",
-          "why": "Move from prayer at the Shrines to acts of service performed for an absent friend; retain reasons for postponed travel and the limits of permission."
-        },
-        {
-          "key": "source:AB11845",
-          "why": "Move from prayer at the Shrines to acts of service performed for an absent friend; retain reasons for postponed travel and the limits of permission."
-        },
-        {
-          "key": "source:AB11910",
-          "why": "Move from prayer at the Shrines to acts of service performed for an absent friend; retain reasons for postponed travel and the limits of permission."
-        },
-        {
-          "key": "source:AB11923",
-          "why": "Move from prayer at the Shrines to acts of service performed for an absent friend; retain reasons for postponed travel and the limits of permission."
-        },
-        {
-          "key": "source:AB12514",
           "why": "Move from prayer at the Shrines to acts of service performed for an absent friend; retain reasons for postponed travel and the limits of permission."
         },
         {
@@ -306,10 +504,6 @@
         },
         {
           "key": "source:BH00573",
-          "why": "Move from prayer at the Shrines to acts of service performed for an absent friend; retain reasons for postponed travel and the limits of permission."
-        },
-        {
-          "key": "source:BH06651",
           "why": "Move from prayer at the Shrines to acts of service performed for an absent friend; retain reasons for postponed travel and the limits of permission."
         },
         {
@@ -322,18 +516,6 @@
         },
         {
           "key": "source:AB03842",
-          "why": "Move from prayer at the Shrines to acts of service performed for an absent friend; retain reasons for postponed travel and the limits of permission."
-        },
-        {
-          "key": "source:AB04918",
-          "why": "Move from prayer at the Shrines to acts of service performed for an absent friend; retain reasons for postponed travel and the limits of permission."
-        },
-        {
-          "key": "source:AB00854",
-          "why": "Move from prayer at the Shrines to acts of service performed for an absent friend; retain reasons for postponed travel and the limits of permission."
-        },
-        {
-          "key": "source:BH03738",
           "why": "Move from prayer at the Shrines to acts of service performed for an absent friend; retain reasons for postponed travel and the limits of permission."
         },
         {
@@ -351,22 +533,6 @@
         {
           "key": "source:AB01273",
           "why": "Move from prayer at the Shrines to acts of service performed for an absent friend; retain reasons for postponed travel and the limits of permission."
-        },
-        {
-          "key": "source:AB02569",
-          "why": "Move from prayer at the Shrines to acts of service performed for an absent friend; retain reasons for postponed travel and the limits of permission."
-        },
-        {
-          "key": "source:AB07622",
-          "why": "Move from prayer at the Shrines to acts of service performed for an absent friend; retain reasons for postponed travel and the limits of permission."
-        },
-        {
-          "key": "source:AB07648",
-          "why": "Move from prayer at the Shrines to acts of service performed for an absent friend; retain reasons for postponed travel and the limits of permission."
-        },
-        {
-          "key": "source:AB09282",
-          "why": "Attend to each generation and each named person, linking family blessing with growth, affection and responsibility rather than treating all petitions as interchangeable."
         },
         {
           "key": "source:AB10685",
@@ -413,27 +579,7 @@
           "why": "Attend to each generation and each named person, linking family blessing with growth, affection and responsibility rather than treating all petitions as interchangeable."
         },
         {
-          "key": "source:AB01259",
-          "why": "Attend to each generation and each named person, linking family blessing with growth, affection and responsibility rather than treating all petitions as interchangeable."
-        },
-        {
-          "key": "source:AB01291",
-          "why": "Attend to each generation and each named person, linking family blessing with growth, affection and responsibility rather than treating all petitions as interchangeable."
-        },
-        {
-          "key": "source:AB00977",
-          "why": "Attend to each generation and each named person, linking family blessing with growth, affection and responsibility rather than treating all petitions as interchangeable."
-        },
-        {
           "key": "source:AB03702",
-          "why": "Attend to each generation and each named person, linking family blessing with growth, affection and responsibility rather than treating all petitions as interchangeable."
-        },
-        {
-          "key": "source:AB04967",
-          "why": "Attend to each generation and each named person, linking family blessing with growth, affection and responsibility rather than treating all petitions as interchangeable."
-        },
-        {
-          "key": "source:AB06197",
           "why": "Attend to each generation and each named person, linking family blessing with growth, affection and responsibility rather than treating all petitions as interchangeable."
         },
         {
@@ -442,14 +588,6 @@
         },
         {
           "key": "source:AB06456",
-          "why": "Attend to each generation and each named person, linking family blessing with growth, affection and responsibility rather than treating all petitions as interchangeable."
-        },
-        {
-          "key": "source:AB07841",
-          "why": "Attend to each generation and each named person, linking family blessing with growth, affection and responsibility rather than treating all petitions as interchangeable."
-        },
-        {
-          "key": "source:AB08073",
           "why": "Attend to each generation and each named person, linking family blessing with growth, affection and responsibility rather than treating all petitions as interchangeable."
         },
         {
@@ -477,19 +615,7 @@
           "why": "Attend to each generation and each named person, linking family blessing with growth, affection and responsibility rather than treating all petitions as interchangeable."
         },
         {
-          "key": "source:BH10291",
-          "why": "Attend to each generation and each named person, linking family blessing with growth, affection and responsibility rather than treating all petitions as interchangeable."
-        },
-        {
           "key": "source:BH09678",
-          "why": "Attend to each generation and each named person, linking family blessing with growth, affection and responsibility rather than treating all petitions as interchangeable."
-        },
-        {
-          "key": "source:BH11758",
-          "why": "Attend to each generation and each named person, linking family blessing with growth, affection and responsibility rather than treating all petitions as interchangeable."
-        },
-        {
-          "key": "source:BH03172",
           "why": "Attend to each generation and each named person, linking family blessing with growth, affection and responsibility rather than treating all petitions as interchangeable."
         },
         {
@@ -497,43 +623,7 @@
           "why": "Attend to each generation and each named person, linking family blessing with growth, affection and responsibility rather than treating all petitions as interchangeable."
         },
         {
-          "key": "source:AB09659",
-          "why": "Attend to each generation and each named person, linking family blessing with growth, affection and responsibility rather than treating all petitions as interchangeable."
-        },
-        {
-          "key": "source:AB10654",
-          "why": "Attend to each generation and each named person, linking family blessing with growth, affection and responsibility rather than treating all petitions as interchangeable."
-        },
-        {
           "key": "source:AB12734",
-          "why": "Attend to each generation and each named person, linking family blessing with growth, affection and responsibility rather than treating all petitions as interchangeable."
-        },
-        {
-          "key": "source:AB12759",
-          "why": "Attend to each generation and each named person, linking family blessing with growth, affection and responsibility rather than treating all petitions as interchangeable."
-        },
-        {
-          "key": "source:BH02013",
-          "why": "Attend to each generation and each named person, linking family blessing with growth, affection and responsibility rather than treating all petitions as interchangeable."
-        },
-        {
-          "key": "source:BH02834",
-          "why": "Attend to each generation and each named person, linking family blessing with growth, affection and responsibility rather than treating all petitions as interchangeable."
-        },
-        {
-          "key": "source:BH04641",
-          "why": "Attend to each generation and each named person, linking family blessing with growth, affection and responsibility rather than treating all petitions as interchangeable."
-        },
-        {
-          "key": "source:BH05187",
-          "why": "Attend to each generation and each named person, linking family blessing with growth, affection and responsibility rather than treating all petitions as interchangeable."
-        },
-        {
-          "key": "source:BH05561",
-          "why": "Attend to each generation and each named person, linking family blessing with growth, affection and responsibility rather than treating all petitions as interchangeable."
-        },
-        {
-          "key": "source:BH08542",
           "why": "Attend to each generation and each named person, linking family blessing with growth, affection and responsibility rather than treating all petitions as interchangeable."
         },
         {
@@ -541,27 +631,7 @@
           "why": "Attend to each generation and each named person, linking family blessing with growth, affection and responsibility rather than treating all petitions as interchangeable."
         },
         {
-          "key": "source:BH10690",
-          "why": "Attend to each generation and each named person, linking family blessing with growth, affection and responsibility rather than treating all petitions as interchangeable."
-        },
-        {
-          "key": "source:AB00404",
-          "why": "Attend to each generation and each named person, linking family blessing with growth, affection and responsibility rather than treating all petitions as interchangeable."
-        },
-        {
-          "key": "source:AB00916",
-          "why": "Attend to each generation and each named person, linking family blessing with growth, affection and responsibility rather than treating all petitions as interchangeable."
-        },
-        {
           "key": "source:AB00929",
-          "why": "Attend to each generation and each named person, linking family blessing with growth, affection and responsibility rather than treating all petitions as interchangeable."
-        },
-        {
-          "key": "source:AB04456",
-          "why": "Attend to each generation and each named person, linking family blessing with growth, affection and responsibility rather than treating all petitions as interchangeable."
-        },
-        {
-          "key": "source:AB05250",
           "why": "Attend to each generation and each named person, linking family blessing with growth, affection and responsibility rather than treating all petitions as interchangeable."
         },
         {
@@ -573,27 +643,7 @@
           "why": "Attend to each generation and each named person, linking family blessing with growth, affection and responsibility rather than treating all petitions as interchangeable."
         },
         {
-          "key": "source:AB09629",
-          "why": "Attend to each generation and each named person, linking family blessing with growth, affection and responsibility rather than treating all petitions as interchangeable."
-        },
-        {
-          "key": "source:AB10043",
-          "why": "Attend to each generation and each named person, linking family blessing with growth, affection and responsibility rather than treating all petitions as interchangeable."
-        },
-        {
-          "key": "source:AB11673",
-          "why": "Attend to each generation and each named person, linking family blessing with growth, affection and responsibility rather than treating all petitions as interchangeable."
-        },
-        {
           "key": "source:AB12384",
-          "why": "Attend to each generation and each named person, linking family blessing with growth, affection and responsibility rather than treating all petitions as interchangeable."
-        },
-        {
-          "key": "source:BH10496",
-          "why": "Attend to each generation and each named person, linking family blessing with growth, affection and responsibility rather than treating all petitions as interchangeable."
-        },
-        {
-          "key": "source:BH11228",
           "why": "Attend to each generation and each named person, linking family blessing with growth, affection and responsibility rather than treating all petitions as interchangeable."
         },
         {
@@ -601,23 +651,7 @@
           "why": "Keep the circumstances of intimate counsel, financial strain, grief and reconciliation. These are particular letters, with practical qualifications that should not become universal prescriptions."
         },
         {
-          "key": "source:AB09523",
-          "why": "Keep the circumstances of intimate counsel, financial strain, grief and reconciliation. These are particular letters, with practical qualifications that should not become universal prescriptions."
-        },
-        {
           "key": "source:AB04071",
-          "why": "Keep the circumstances of intimate counsel, financial strain, grief and reconciliation. These are particular letters, with practical qualifications that should not become universal prescriptions."
-        },
-        {
-          "key": "source:AB01937",
-          "why": "Keep the circumstances of intimate counsel, financial strain, grief and reconciliation. These are particular letters, with practical qualifications that should not become universal prescriptions."
-        },
-        {
-          "key": "source:AB02371",
-          "why": "Keep the circumstances of intimate counsel, financial strain, grief and reconciliation. These are particular letters, with practical qualifications that should not become universal prescriptions."
-        },
-        {
-          "key": "source:AB03724",
           "why": "Keep the circumstances of intimate counsel, financial strain, grief and reconciliation. These are particular letters, with practical qualifications that should not become universal prescriptions."
         },
         {
@@ -629,19 +663,11 @@
           "why": "Keep the circumstances of intimate counsel, financial strain, grief and reconciliation. These are particular letters, with practical qualifications that should not become universal prescriptions."
         },
         {
-          "key": "source:AB08875",
-          "why": "Keep the circumstances of intimate counsel, financial strain, grief and reconciliation. These are particular letters, with practical qualifications that should not become universal prescriptions."
-        },
-        {
           "key": "source:BH07968",
           "why": "Keep the circumstances of intimate counsel, financial strain, grief and reconciliation. These are particular letters, with practical qualifications that should not become universal prescriptions."
         },
         {
           "key": "source:BH10289",
-          "why": "Keep the circumstances of intimate counsel, financial strain, grief and reconciliation. These are particular letters, with practical qualifications that should not become universal prescriptions."
-        },
-        {
-          "key": "source:AB03778",
           "why": "Keep the circumstances of intimate counsel, financial strain, grief and reconciliation. These are particular letters, with practical qualifications that should not become universal prescriptions."
         },
         {
@@ -653,27 +679,11 @@
           "why": "Keep the circumstances of intimate counsel, financial strain, grief and reconciliation. These are particular letters, with practical qualifications that should not become universal prescriptions."
         },
         {
-          "key": "source:BH01688",
-          "why": "Keep the circumstances of intimate counsel, financial strain, grief and reconciliation. These are particular letters, with practical qualifications that should not become universal prescriptions."
-        },
-        {
           "key": "source:AB05414",
           "why": "Keep the circumstances of intimate counsel, financial strain, grief and reconciliation. These are particular letters, with practical qualifications that should not become universal prescriptions."
         },
         {
-          "key": "source:AB00850",
-          "why": "Keep the circumstances of intimate counsel, financial strain, grief and reconciliation. These are particular letters, with practical qualifications that should not become universal prescriptions."
-        },
-        {
           "key": "source:AB02460",
-          "why": "Keep the circumstances of intimate counsel, financial strain, grief and reconciliation. These are particular letters, with practical qualifications that should not become universal prescriptions."
-        },
-        {
-          "key": "source:BH04011",
-          "why": "Keep the circumstances of intimate counsel, financial strain, grief and reconciliation. These are particular letters, with practical qualifications that should not become universal prescriptions."
-        },
-        {
-          "key": "source:AB11999",
           "why": "Keep the circumstances of intimate counsel, financial strain, grief and reconciliation. These are particular letters, with practical qualifications that should not become universal prescriptions."
         },
         {
@@ -690,22 +700,6 @@
         },
         {
           "key": "source:AB04748",
-          "why": "Trace prayer into learning, art, skilled work, care for vulnerable people and consultation. Preserve the relation between spiritual aspiration and concrete effort."
-        },
-        {
-          "key": "source:AB07763",
-          "why": "Trace prayer into learning, art, skilled work, care for vulnerable people and consultation. Preserve the relation between spiritual aspiration and concrete effort."
-        },
-        {
-          "key": "source:AB12445",
-          "why": "Trace prayer into learning, art, skilled work, care for vulnerable people and consultation. Preserve the relation between spiritual aspiration and concrete effort."
-        },
-        {
-          "key": "source:AB04121",
-          "why": "Trace prayer into learning, art, skilled work, care for vulnerable people and consultation. Preserve the relation between spiritual aspiration and concrete effort."
-        },
-        {
-          "key": "source:AB10254",
           "why": "Trace prayer into learning, art, skilled work, care for vulnerable people and consultation. Preserve the relation between spiritual aspiration and concrete effort."
         },
         {
@@ -737,26 +731,6 @@
           "why": "Trace prayer into learning, art, skilled work, care for vulnerable people and consultation. Preserve the relation between spiritual aspiration and concrete effort."
         },
         {
-          "key": "source:AB12206",
-          "why": "Trace prayer into learning, art, skilled work, care for vulnerable people and consultation. Preserve the relation between spiritual aspiration and concrete effort."
-        },
-        {
-          "key": "source:AB02253",
-          "why": "Trace prayer into learning, art, skilled work, care for vulnerable people and consultation. Preserve the relation between spiritual aspiration and concrete effort."
-        },
-        {
-          "key": "source:AB02943",
-          "why": "Trace prayer into learning, art, skilled work, care for vulnerable people and consultation. Preserve the relation between spiritual aspiration and concrete effort."
-        },
-        {
-          "key": "source:AB10713",
-          "why": "Trace prayer into learning, art, skilled work, care for vulnerable people and consultation. Preserve the relation between spiritual aspiration and concrete effort."
-        },
-        {
-          "key": "source:AB08488",
-          "why": "Trace prayer into learning, art, skilled work, care for vulnerable people and consultation. Preserve the relation between spiritual aspiration and concrete effort."
-        },
-        {
           "key": "source:AB12789",
           "why": "Trace prayer into learning, art, skilled work, care for vulnerable people and consultation. Preserve the relation between spiritual aspiration and concrete effort."
         },
@@ -773,39 +747,11 @@
           "why": "Trace prayer into learning, art, skilled work, care for vulnerable people and consultation. Preserve the relation between spiritual aspiration and concrete effort."
         },
         {
-          "key": "source:AB11035",
-          "why": "Trace prayer into learning, art, skilled work, care for vulnerable people and consultation. Preserve the relation between spiritual aspiration and concrete effort."
-        },
-        {
           "key": "source:AB00716",
           "why": "Trace prayer into learning, art, skilled work, care for vulnerable people and consultation. Preserve the relation between spiritual aspiration and concrete effort."
         },
         {
-          "key": "source:AB12260",
-          "why": "Trace prayer into learning, art, skilled work, care for vulnerable people and consultation. Preserve the relation between spiritual aspiration and concrete effort."
-        },
-        {
-          "key": "source:AB02003",
-          "why": "Trace prayer into learning, art, skilled work, care for vulnerable people and consultation. Preserve the relation between spiritual aspiration and concrete effort."
-        },
-        {
-          "key": "source:AB02157",
-          "why": "Trace prayer into learning, art, skilled work, care for vulnerable people and consultation. Preserve the relation between spiritual aspiration and concrete effort."
-        },
-        {
           "key": "source:AB12220",
-          "why": "Trace prayer into learning, art, skilled work, care for vulnerable people and consultation. Preserve the relation between spiritual aspiration and concrete effort."
-        },
-        {
-          "key": "source:AB12838",
-          "why": "Trace prayer into learning, art, skilled work, care for vulnerable people and consultation. Preserve the relation between spiritual aspiration and concrete effort."
-        },
-        {
-          "key": "source:AB07251",
-          "why": "Trace prayer into learning, art, skilled work, care for vulnerable people and consultation. Preserve the relation between spiritual aspiration and concrete effort."
-        },
-        {
-          "key": "source:AB05193",
           "why": "Trace prayer into learning, art, skilled work, care for vulnerable people and consultation. Preserve the relation between spiritual aspiration and concrete effort."
         },
         {
@@ -814,26 +760,6 @@
         },
         {
           "key": "source:AB04222",
-          "why": "Read remembrance of those who have died alongside the needs of those who remain. Keep names, historical suffering and source gaps; do not present consolation as a demand to suppress grief."
-        },
-        {
-          "key": "source:AB11688",
-          "why": "Read remembrance of those who have died alongside the needs of those who remain. Keep names, historical suffering and source gaps; do not present consolation as a demand to suppress grief."
-        },
-        {
-          "key": "source:BH07614",
-          "why": "Read remembrance of those who have died alongside the needs of those who remain. Keep names, historical suffering and source gaps; do not present consolation as a demand to suppress grief."
-        },
-        {
-          "key": "source:BH01250",
-          "why": "Read remembrance of those who have died alongside the needs of those who remain. Keep names, historical suffering and source gaps; do not present consolation as a demand to suppress grief."
-        },
-        {
-          "key": "source:BH03279",
-          "why": "Read remembrance of those who have died alongside the needs of those who remain. Keep names, historical suffering and source gaps; do not present consolation as a demand to suppress grief."
-        },
-        {
-          "key": "source:BH07226",
           "why": "Read remembrance of those who have died alongside the needs of those who remain. Keep names, historical suffering and source gaps; do not present consolation as a demand to suppress grief."
         },
         {
@@ -857,43 +783,11 @@
           "why": "Read remembrance of those who have died alongside the needs of those who remain. Keep names, historical suffering and source gaps; do not present consolation as a demand to suppress grief."
         },
         {
-          "key": "source:AB08270",
-          "why": "Read remembrance of those who have died alongside the needs of those who remain. Keep names, historical suffering and source gaps; do not present consolation as a demand to suppress grief."
-        },
-        {
-          "key": "source:AB05350",
-          "why": "Read remembrance of those who have died alongside the needs of those who remain. Keep names, historical suffering and source gaps; do not present consolation as a demand to suppress grief."
-        },
-        {
-          "key": "source:AB06009",
-          "why": "Read remembrance of those who have died alongside the needs of those who remain. Keep names, historical suffering and source gaps; do not present consolation as a demand to suppress grief."
-        },
-        {
-          "key": "source:AB06539",
-          "why": "Read remembrance of those who have died alongside the needs of those who remain. Keep names, historical suffering and source gaps; do not present consolation as a demand to suppress grief."
-        },
-        {
-          "key": "source:AB06612",
-          "why": "Read remembrance of those who have died alongside the needs of those who remain. Keep names, historical suffering and source gaps; do not present consolation as a demand to suppress grief."
-        },
-        {
-          "key": "source:AB12450",
-          "why": "Read remembrance of those who have died alongside the needs of those who remain. Keep names, historical suffering and source gaps; do not present consolation as a demand to suppress grief."
-        },
-        {
           "key": "source:BH00595",
           "why": "Read remembrance of those who have died alongside the needs of those who remain. Keep names, historical suffering and source gaps; do not present consolation as a demand to suppress grief."
         },
         {
           "key": "source:BH01213",
-          "why": "Read remembrance of those who have died alongside the needs of those who remain. Keep names, historical suffering and source gaps; do not present consolation as a demand to suppress grief."
-        },
-        {
-          "key": "source:BH01516",
-          "why": "Read remembrance of those who have died alongside the needs of those who remain. Keep names, historical suffering and source gaps; do not present consolation as a demand to suppress grief."
-        },
-        {
-          "key": "source:BH04098",
           "why": "Read remembrance of those who have died alongside the needs of those who remain. Keep names, historical suffering and source gaps; do not present consolation as a demand to suppress grief."
         },
         {
@@ -913,14 +807,6 @@
           "why": "Read remembrance of those who have died alongside the needs of those who remain. Keep names, historical suffering and source gaps; do not present consolation as a demand to suppress grief."
         },
         {
-          "key": "source:AB06118",
-          "why": "Read remembrance of those who have died alongside the needs of those who remain. Keep names, historical suffering and source gaps; do not present consolation as a demand to suppress grief."
-        },
-        {
-          "key": "source:AB08421",
-          "why": "Read remembrance of those who have died alongside the needs of those who remain. Keep names, historical suffering and source gaps; do not present consolation as a demand to suppress grief."
-        },
-        {
           "key": "source:AB11127",
           "why": "Read remembrance of those who have died alongside the needs of those who remain. Keep names, historical suffering and source gaps; do not present consolation as a demand to suppress grief."
         },
@@ -933,19 +819,7 @@
           "why": "Read remembrance of those who have died alongside the needs of those who remain. Keep names, historical suffering and source gaps; do not present consolation as a demand to suppress grief."
         },
         {
-          "key": "source:AB02612",
-          "why": "Read remembrance of those who have died alongside the needs of those who remain. Keep names, historical suffering and source gaps; do not present consolation as a demand to suppress grief."
-        },
-        {
-          "key": "source:AB02899",
-          "why": "Read remembrance of those who have died alongside the needs of those who remain. Keep names, historical suffering and source gaps; do not present consolation as a demand to suppress grief."
-        },
-        {
           "key": "source:AB04906",
-          "why": "Read remembrance of those who have died alongside the needs of those who remain. Keep names, historical suffering and source gaps; do not present consolation as a demand to suppress grief."
-        },
-        {
-          "key": "source:AB05588",
           "why": "Read remembrance of those who have died alongside the needs of those who remain. Keep names, historical suffering and source gaps; do not present consolation as a demand to suppress grief."
         },
         {
@@ -957,10 +831,6 @@
           "why": "Read remembrance of those who have died alongside the needs of those who remain. Keep names, historical suffering and source gaps; do not present consolation as a demand to suppress grief."
         },
         {
-          "key": "source:AB07079",
-          "why": "Read remembrance of those who have died alongside the needs of those who remain. Keep names, historical suffering and source gaps; do not present consolation as a demand to suppress grief."
-        },
-        {
           "key": "source:AB08737",
           "why": "Read remembrance of those who have died alongside the needs of those who remain. Keep names, historical suffering and source gaps; do not present consolation as a demand to suppress grief."
         },
@@ -969,28 +839,8 @@
           "why": "Read remembrance of those who have died alongside the needs of those who remain. Keep names, historical suffering and source gaps; do not present consolation as a demand to suppress grief."
         },
         {
-          "key": "source:BH04365",
-          "why": "Read remembrance of those who have died alongside the needs of those who remain. Keep names, historical suffering and source gaps; do not present consolation as a demand to suppress grief."
-        },
-        {
           "key": "source:BH08250",
           "why": "Read remembrance of those who have died alongside the needs of those who remain. Keep names, historical suffering and source gaps; do not present consolation as a demand to suppress grief."
-        },
-        {
-          "key": "source:AB07178",
-          "why": "Bring danger, loneliness, illness, poverty and persecution into view, holding requests for safety together with steadfastness and trust. Retain the source’s own limits and context."
-        },
-        {
-          "key": "source:AB10330",
-          "why": "Bring danger, loneliness, illness, poverty and persecution into view, holding requests for safety together with steadfastness and trust. Retain the source’s own limits and context."
-        },
-        {
-          "key": "source:BH09379",
-          "why": "Bring danger, loneliness, illness, poverty and persecution into view, holding requests for safety together with steadfastness and trust. Retain the source’s own limits and context."
-        },
-        {
-          "key": "source:AB07740",
-          "why": "Bring danger, loneliness, illness, poverty and persecution into view, holding requests for safety together with steadfastness and trust. Retain the source’s own limits and context."
         },
         {
           "key": "source:AB08825",
@@ -998,10 +848,6 @@
         },
         {
           "key": "source:AB09039",
-          "why": "Bring danger, loneliness, illness, poverty and persecution into view, holding requests for safety together with steadfastness and trust. Retain the source’s own limits and context."
-        },
-        {
-          "key": "source:AB10962",
           "why": "Bring danger, loneliness, illness, poverty and persecution into view, holding requests for safety together with steadfastness and trust. Retain the source’s own limits and context."
         },
         {
@@ -1018,10 +864,6 @@
         },
         {
           "key": "source:AB07182",
-          "why": "Bring danger, loneliness, illness, poverty and persecution into view, holding requests for safety together with steadfastness and trust. Retain the source’s own limits and context."
-        },
-        {
-          "key": "source:AB08495",
           "why": "Bring danger, loneliness, illness, poverty and persecution into view, holding requests for safety together with steadfastness and trust. Retain the source’s own limits and context."
         },
         {
@@ -1045,26 +887,6 @@
           "why": "Bring danger, loneliness, illness, poverty and persecution into view, holding requests for safety together with steadfastness and trust. Retain the source’s own limits and context."
         },
         {
-          "key": "source:BH08835",
-          "why": "Bring danger, loneliness, illness, poverty and persecution into view, holding requests for safety together with steadfastness and trust. Retain the source’s own limits and context."
-        },
-        {
-          "key": "source:AB00310",
-          "why": "Bring danger, loneliness, illness, poverty and persecution into view, holding requests for safety together with steadfastness and trust. Retain the source’s own limits and context."
-        },
-        {
-          "key": "source:AB01103",
-          "why": "Bring danger, loneliness, illness, poverty and persecution into view, holding requests for safety together with steadfastness and trust. Retain the source’s own limits and context."
-        },
-        {
-          "key": "source:AB01227",
-          "why": "Bring danger, loneliness, illness, poverty and persecution into view, holding requests for safety together with steadfastness and trust. Retain the source’s own limits and context."
-        },
-        {
-          "key": "source:AB05010",
-          "why": "Bring danger, loneliness, illness, poverty and persecution into view, holding requests for safety together with steadfastness and trust. Retain the source’s own limits and context."
-        },
-        {
           "key": "source:AB05441",
           "why": "Bring danger, loneliness, illness, poverty and persecution into view, holding requests for safety together with steadfastness and trust. Retain the source’s own limits and context."
         },
@@ -1074,14 +896,6 @@
         },
         {
           "key": "source:AB06945",
-          "why": "Bring danger, loneliness, illness, poverty and persecution into view, holding requests for safety together with steadfastness and trust. Retain the source’s own limits and context."
-        },
-        {
-          "key": "source:AB07078",
-          "why": "Bring danger, loneliness, illness, poverty and persecution into view, holding requests for safety together with steadfastness and trust. Retain the source’s own limits and context."
-        },
-        {
-          "key": "source:AB07282",
           "why": "Bring danger, loneliness, illness, poverty and persecution into view, holding requests for safety together with steadfastness and trust. Retain the source’s own limits and context."
         },
         {
@@ -1101,15 +915,7 @@
           "why": "Bring danger, loneliness, illness, poverty and persecution into view, holding requests for safety together with steadfastness and trust. Retain the source’s own limits and context."
         },
         {
-          "key": "source:AB07983",
-          "why": "Bring danger, loneliness, illness, poverty and persecution into view, holding requests for safety together with steadfastness and trust. Retain the source’s own limits and context."
-        },
-        {
           "key": "source:AB09375",
-          "why": "Bring danger, loneliness, illness, poverty and persecution into view, holding requests for safety together with steadfastness and trust. Retain the source’s own limits and context."
-        },
-        {
-          "key": "source:AB09907",
           "why": "Bring danger, loneliness, illness, poverty and persecution into view, holding requests for safety together with steadfastness and trust. Retain the source’s own limits and context."
         },
         {
@@ -1121,23 +927,7 @@
           "why": "Bring danger, loneliness, illness, poverty and persecution into view, holding requests for safety together with steadfastness and trust. Retain the source’s own limits and context."
         },
         {
-          "key": "source:AB10228",
-          "why": "Bring danger, loneliness, illness, poverty and persecution into view, holding requests for safety together with steadfastness and trust. Retain the source’s own limits and context."
-        },
-        {
-          "key": "source:AB11067",
-          "why": "Bring danger, loneliness, illness, poverty and persecution into view, holding requests for safety together with steadfastness and trust. Retain the source’s own limits and context."
-        },
-        {
-          "key": "source:AB11214",
-          "why": "Bring danger, loneliness, illness, poverty and persecution into view, holding requests for safety together with steadfastness and trust. Retain the source’s own limits and context."
-        },
-        {
           "key": "source:AB12215",
-          "why": "Bring danger, loneliness, illness, poverty and persecution into view, holding requests for safety together with steadfastness and trust. Retain the source’s own limits and context."
-        },
-        {
-          "key": "source:AB12771",
           "why": "Bring danger, loneliness, illness, poverty and persecution into view, holding requests for safety together with steadfastness and trust. Retain the source’s own limits and context."
         },
         {
@@ -1157,23 +947,7 @@
           "why": "Bring danger, loneliness, illness, poverty and persecution into view, holding requests for safety together with steadfastness and trust. Retain the source’s own limits and context."
         },
         {
-          "key": "source:BH04370",
-          "why": "Bring danger, loneliness, illness, poverty and persecution into view, holding requests for safety together with steadfastness and trust. Retain the source’s own limits and context."
-        },
-        {
-          "key": "source:BH05874",
-          "why": "Bring danger, loneliness, illness, poverty and persecution into view, holding requests for safety together with steadfastness and trust. Retain the source’s own limits and context."
-        },
-        {
           "key": "source:BH06195",
-          "why": "Bring danger, loneliness, illness, poverty and persecution into view, holding requests for safety together with steadfastness and trust. Retain the source’s own limits and context."
-        },
-        {
-          "key": "source:BH09318",
-          "why": "Bring danger, loneliness, illness, poverty and persecution into view, holding requests for safety together with steadfastness and trust. Retain the source’s own limits and context."
-        },
-        {
-          "key": "source:BH09558",
           "why": "Bring danger, loneliness, illness, poverty and persecution into view, holding requests for safety together with steadfastness and trust. Retain the source’s own limits and context."
         },
         {
@@ -1185,15 +959,7 @@
           "why": "Let distinct communities speak in their own settings, from spiritual meetings to religious backgrounds and regional friendships. A collective prayer need not erase individual histories."
         },
         {
-          "key": "source:AB03718",
-          "why": "Let distinct communities speak in their own settings, from spiritual meetings to religious backgrounds and regional friendships. A collective prayer need not erase individual histories."
-        },
-        {
           "key": "source:AB02478",
-          "why": "Let distinct communities speak in their own settings, from spiritual meetings to religious backgrounds and regional friendships. A collective prayer need not erase individual histories."
-        },
-        {
-          "key": "source:AB08053",
           "why": "Let distinct communities speak in their own settings, from spiritual meetings to religious backgrounds and regional friendships. A collective prayer need not erase individual histories."
         },
         {
@@ -1221,47 +987,7 @@
           "why": "Let distinct communities speak in their own settings, from spiritual meetings to religious backgrounds and regional friendships. A collective prayer need not erase individual histories."
         },
         {
-          "key": "source:AB08623",
-          "why": "Let distinct communities speak in their own settings, from spiritual meetings to religious backgrounds and regional friendships. A collective prayer need not erase individual histories."
-        },
-        {
-          "key": "source:AB08486",
-          "why": "Let distinct communities speak in their own settings, from spiritual meetings to religious backgrounds and regional friendships. A collective prayer need not erase individual histories."
-        },
-        {
-          "key": "source:BH01403",
-          "why": "Let distinct communities speak in their own settings, from spiritual meetings to religious backgrounds and regional friendships. A collective prayer need not erase individual histories."
-        },
-        {
-          "key": "source:AB04482",
-          "why": "Let distinct communities speak in their own settings, from spiritual meetings to religious backgrounds and regional friendships. A collective prayer need not erase individual histories."
-        },
-        {
-          "key": "source:BH07773",
-          "why": "Let distinct communities speak in their own settings, from spiritual meetings to religious backgrounds and regional friendships. A collective prayer need not erase individual histories."
-        },
-        {
-          "key": "source:BH02988",
-          "why": "Let distinct communities speak in their own settings, from spiritual meetings to religious backgrounds and regional friendships. A collective prayer need not erase individual histories."
-        },
-        {
-          "key": "source:AB00647",
-          "why": "Let distinct communities speak in their own settings, from spiritual meetings to religious backgrounds and regional friendships. A collective prayer need not erase individual histories."
-        },
-        {
           "key": "source:AB04135",
-          "why": "Let distinct communities speak in their own settings, from spiritual meetings to religious backgrounds and regional friendships. A collective prayer need not erase individual histories."
-        },
-        {
-          "key": "source:AB07985",
-          "why": "Let distinct communities speak in their own settings, from spiritual meetings to religious backgrounds and regional friendships. A collective prayer need not erase individual histories."
-        },
-        {
-          "key": "source:AB09409",
-          "why": "Let distinct communities speak in their own settings, from spiritual meetings to religious backgrounds and regional friendships. A collective prayer need not erase individual histories."
-        },
-        {
-          "key": "source:AB02607",
           "why": "Let distinct communities speak in their own settings, from spiritual meetings to religious backgrounds and regional friendships. A collective prayer need not erase individual histories."
         },
         {
@@ -1269,23 +995,7 @@
           "why": "Let distinct communities speak in their own settings, from spiritual meetings to religious backgrounds and regional friendships. A collective prayer need not erase individual histories."
         },
         {
-          "key": "source:AB03831",
-          "why": "Let distinct communities speak in their own settings, from spiritual meetings to religious backgrounds and regional friendships. A collective prayer need not erase individual histories."
-        },
-        {
-          "key": "source:AB00450",
-          "why": "Let distinct communities speak in their own settings, from spiritual meetings to religious backgrounds and regional friendships. A collective prayer need not erase individual histories."
-        },
-        {
-          "key": "source:AB00807",
-          "why": "Let distinct communities speak in their own settings, from spiritual meetings to religious backgrounds and regional friendships. A collective prayer need not erase individual histories."
-        },
-        {
           "key": "source:AB02544",
-          "why": "Let distinct communities speak in their own settings, from spiritual meetings to religious backgrounds and regional friendships. A collective prayer need not erase individual histories."
-        },
-        {
-          "key": "source:AB05503",
           "why": "Let distinct communities speak in their own settings, from spiritual meetings to religious backgrounds and regional friendships. A collective prayer need not erase individual histories."
         },
         {
@@ -1297,51 +1007,11 @@
           "why": "Let distinct communities speak in their own settings, from spiritual meetings to religious backgrounds and regional friendships. A collective prayer need not erase individual histories."
         },
         {
-          "key": "source:AB00364",
-          "why": "Let distinct communities speak in their own settings, from spiritual meetings to religious backgrounds and regional friendships. A collective prayer need not erase individual histories."
-        },
-        {
-          "key": "source:AB00598",
-          "why": "Let distinct communities speak in their own settings, from spiritual meetings to religious backgrounds and regional friendships. A collective prayer need not erase individual histories."
-        },
-        {
-          "key": "source:AB01470",
-          "why": "Let distinct communities speak in their own settings, from spiritual meetings to religious backgrounds and regional friendships. A collective prayer need not erase individual histories."
-        },
-        {
-          "key": "source:AB01598",
-          "why": "Let distinct communities speak in their own settings, from spiritual meetings to religious backgrounds and regional friendships. A collective prayer need not erase individual histories."
-        },
-        {
-          "key": "source:AB01699",
-          "why": "Let distinct communities speak in their own settings, from spiritual meetings to religious backgrounds and regional friendships. A collective prayer need not erase individual histories."
-        },
-        {
-          "key": "source:AB02180",
-          "why": "Let distinct communities speak in their own settings, from spiritual meetings to religious backgrounds and regional friendships. A collective prayer need not erase individual histories."
-        },
-        {
           "key": "source:AB02491",
           "why": "Let distinct communities speak in their own settings, from spiritual meetings to religious backgrounds and regional friendships. A collective prayer need not erase individual histories."
         },
         {
           "key": "source:AB04100",
-          "why": "Let distinct communities speak in their own settings, from spiritual meetings to religious backgrounds and regional friendships. A collective prayer need not erase individual histories."
-        },
-        {
-          "key": "source:AB04174",
-          "why": "Let distinct communities speak in their own settings, from spiritual meetings to religious backgrounds and regional friendships. A collective prayer need not erase individual histories."
-        },
-        {
-          "key": "source:AB05417",
-          "why": "Let distinct communities speak in their own settings, from spiritual meetings to religious backgrounds and regional friendships. A collective prayer need not erase individual histories."
-        },
-        {
-          "key": "source:AB05999",
-          "why": "Let distinct communities speak in their own settings, from spiritual meetings to religious backgrounds and regional friendships. A collective prayer need not erase individual histories."
-        },
-        {
-          "key": "source:AB06560",
           "why": "Let distinct communities speak in their own settings, from spiritual meetings to religious backgrounds and regional friendships. A collective prayer need not erase individual histories."
         },
         {
@@ -1353,23 +1023,7 @@
           "why": "Let distinct communities speak in their own settings, from spiritual meetings to religious backgrounds and regional friendships. A collective prayer need not erase individual histories."
         },
         {
-          "key": "source:AB07405",
-          "why": "Let distinct communities speak in their own settings, from spiritual meetings to religious backgrounds and regional friendships. A collective prayer need not erase individual histories."
-        },
-        {
           "key": "source:AB08619",
-          "why": "Let distinct communities speak in their own settings, from spiritual meetings to religious backgrounds and regional friendships. A collective prayer need not erase individual histories."
-        },
-        {
-          "key": "source:AB09141",
-          "why": "Let distinct communities speak in their own settings, from spiritual meetings to religious backgrounds and regional friendships. A collective prayer need not erase individual histories."
-        },
-        {
-          "key": "source:AB10202",
-          "why": "Let distinct communities speak in their own settings, from spiritual meetings to religious backgrounds and regional friendships. A collective prayer need not erase individual histories."
-        },
-        {
-          "key": "source:AB11241",
           "why": "Let distinct communities speak in their own settings, from spiritual meetings to religious backgrounds and regional friendships. A collective prayer need not erase individual histories."
         },
         {
@@ -1381,31 +1035,11 @@
           "why": "Let distinct communities speak in their own settings, from spiritual meetings to religious backgrounds and regional friendships. A collective prayer need not erase individual histories."
         },
         {
-          "key": "source:AB01615",
-          "why": "Let distinct communities speak in their own settings, from spiritual meetings to religious backgrounds and regional friendships. A collective prayer need not erase individual histories."
-        },
-        {
-          "key": "source:AB01972",
-          "why": "Let distinct communities speak in their own settings, from spiritual meetings to religious backgrounds and regional friendships. A collective prayer need not erase individual histories."
-        },
-        {
-          "key": "source:AB02823",
-          "why": "Let distinct communities speak in their own settings, from spiritual meetings to religious backgrounds and regional friendships. A collective prayer need not erase individual histories."
-        },
-        {
-          "key": "source:AB04270",
-          "why": "Let distinct communities speak in their own settings, from spiritual meetings to religious backgrounds and regional friendships. A collective prayer need not erase individual histories."
-        },
-        {
           "key": "source:AB04366",
           "why": "Let distinct communities speak in their own settings, from spiritual meetings to religious backgrounds and regional friendships. A collective prayer need not erase individual histories."
         },
         {
           "key": "source:AB05477",
-          "why": "Let distinct communities speak in their own settings, from spiritual meetings to religious backgrounds and regional friendships. A collective prayer need not erase individual histories."
-        },
-        {
-          "key": "source:AB06057",
           "why": "Let distinct communities speak in their own settings, from spiritual meetings to religious backgrounds and regional friendships. A collective prayer need not erase individual histories."
         },
         {
@@ -1417,24 +1051,8 @@
           "why": "Let distinct communities speak in their own settings, from spiritual meetings to religious backgrounds and regional friendships. A collective prayer need not erase individual histories."
         },
         {
-          "key": "source:AB11631",
-          "why": "Let distinct communities speak in their own settings, from spiritual meetings to religious backgrounds and regional friendships. A collective prayer need not erase individual histories."
-        },
-        {
-          "key": "source:AB11654",
-          "why": "Let distinct communities speak in their own settings, from spiritual meetings to religious backgrounds and regional friendships. A collective prayer need not erase individual histories."
-        },
-        {
-          "key": "source:AB12360",
-          "why": "Let distinct communities speak in their own settings, from spiritual meetings to religious backgrounds and regional friendships. A collective prayer need not erase individual histories."
-        },
-        {
           "key": "source:AB12831",
           "why": "Let distinct communities speak in their own settings, from spiritual meetings to religious backgrounds and regional friendships. A collective prayer need not erase individual histories."
-        },
-        {
-          "key": "source:BH09847",
-          "why": "Explore the images of tree, branch and family while retaining actual relationships, named descendants and the conduct called for by kinship."
         },
         {
           "key": "source:AB00559",
@@ -1442,10 +1060,6 @@
         },
         {
           "key": "source:AB05027",
-          "why": "Explore the images of tree, branch and family while retaining actual relationships, named descendants and the conduct called for by kinship."
-        },
-        {
-          "key": "source:BH07472",
           "why": "Explore the images of tree, branch and family while retaining actual relationships, named descendants and the conduct called for by kinship."
         },
         {
@@ -1457,10 +1071,6 @@
           "why": "Explore the images of tree, branch and family while retaining actual relationships, named descendants and the conduct called for by kinship."
         },
         {
-          "key": "source:AB01784",
-          "why": "Explore the images of tree, branch and family while retaining actual relationships, named descendants and the conduct called for by kinship."
-        },
-        {
           "key": "source:AB03310",
           "why": "Explore the images of tree, branch and family while retaining actual relationships, named descendants and the conduct called for by kinship."
         },
@@ -1469,31 +1079,7 @@
           "why": "Explore the images of tree, branch and family while retaining actual relationships, named descendants and the conduct called for by kinship."
         },
         {
-          "key": "source:AB05044",
-          "why": "Explore the images of tree, branch and family while retaining actual relationships, named descendants and the conduct called for by kinship."
-        },
-        {
-          "key": "source:AB05913",
-          "why": "Explore the images of tree, branch and family while retaining actual relationships, named descendants and the conduct called for by kinship."
-        },
-        {
-          "key": "source:AB06265",
-          "why": "Explore the images of tree, branch and family while retaining actual relationships, named descendants and the conduct called for by kinship."
-        },
-        {
-          "key": "source:AB07650",
-          "why": "Explore the images of tree, branch and family while retaining actual relationships, named descendants and the conduct called for by kinship."
-        },
-        {
           "key": "source:AB07852",
-          "why": "Explore the images of tree, branch and family while retaining actual relationships, named descendants and the conduct called for by kinship."
-        },
-        {
-          "key": "source:AB10716",
-          "why": "Explore the images of tree, branch and family while retaining actual relationships, named descendants and the conduct called for by kinship."
-        },
-        {
-          "key": "source:BH03632",
           "why": "Explore the images of tree, branch and family while retaining actual relationships, named descendants and the conduct called for by kinship."
         },
         {
@@ -1505,27 +1091,7 @@
           "why": "Explore the images of tree, branch and family while retaining actual relationships, named descendants and the conduct called for by kinship."
         },
         {
-          "key": "source:BH00756",
-          "why": "Explore the images of tree, branch and family while retaining actual relationships, named descendants and the conduct called for by kinship."
-        },
-        {
-          "key": "source:BH03432",
-          "why": "Explore the images of tree, branch and family while retaining actual relationships, named descendants and the conduct called for by kinship."
-        },
-        {
-          "key": "source:BH07115",
-          "why": "Explore the images of tree, branch and family while retaining actual relationships, named descendants and the conduct called for by kinship."
-        },
-        {
-          "key": "source:BH08841",
-          "why": "Explore the images of tree, branch and family while retaining actual relationships, named descendants and the conduct called for by kinship."
-        },
-        {
           "key": "source:BH01028",
-          "why": "Explore the images of tree, branch and family while retaining actual relationships, named descendants and the conduct called for by kinship."
-        },
-        {
-          "key": "source:BH02944",
           "why": "Explore the images of tree, branch and family while retaining actual relationships, named descendants and the conduct called for by kinship."
         },
         {
@@ -1541,19 +1107,7 @@
           "why": "Hear prayers for women’s capacities, speech, steadfastness and service, preserving the particular women addressed and the full prayers surrounding short selections."
         },
         {
-          "key": "source:AB10802",
-          "why": "Hear prayers for women’s capacities, speech, steadfastness and service, preserving the particular women addressed and the full prayers surrounding short selections."
-        },
-        {
-          "key": "source:BH05947",
-          "why": "Hear prayers for women’s capacities, speech, steadfastness and service, preserving the particular women addressed and the full prayers surrounding short selections."
-        },
-        {
           "key": "source:BH06806",
-          "why": "Hear prayers for women’s capacities, speech, steadfastness and service, preserving the particular women addressed and the full prayers surrounding short selections."
-        },
-        {
-          "key": "source:BH06849",
           "why": "Hear prayers for women’s capacities, speech, steadfastness and service, preserving the particular women addressed and the full prayers surrounding short selections."
         },
         {
@@ -1569,15 +1123,7 @@
           "why": "Hear prayers for women’s capacities, speech, steadfastness and service, preserving the particular women addressed and the full prayers surrounding short selections."
         },
         {
-          "key": "source:AB07406",
-          "why": "Hear prayers for women’s capacities, speech, steadfastness and service, preserving the particular women addressed and the full prayers surrounding short selections."
-        },
-        {
           "key": "source:AB07859",
-          "why": "Hear prayers for women’s capacities, speech, steadfastness and service, preserving the particular women addressed and the full prayers surrounding short selections."
-        },
-        {
-          "key": "source:AB07890",
           "why": "Hear prayers for women’s capacities, speech, steadfastness and service, preserving the particular women addressed and the full prayers surrounding short selections."
         },
         {
@@ -1586,26 +1132,6 @@
         },
         {
           "key": "source:AB09349",
-          "why": "Hear prayers for women’s capacities, speech, steadfastness and service, preserving the particular women addressed and the full prayers surrounding short selections."
-        },
-        {
-          "key": "source:AB10176",
-          "why": "Hear prayers for women’s capacities, speech, steadfastness and service, preserving the particular women addressed and the full prayers surrounding short selections."
-        },
-        {
-          "key": "source:AB11295",
-          "why": "Hear prayers for women’s capacities, speech, steadfastness and service, preserving the particular women addressed and the full prayers surrounding short selections."
-        },
-        {
-          "key": "source:AB12746",
-          "why": "Hear prayers for women’s capacities, speech, steadfastness and service, preserving the particular women addressed and the full prayers surrounding short selections."
-        },
-        {
-          "key": "source:BH07634",
-          "why": "Hear prayers for women’s capacities, speech, steadfastness and service, preserving the particular women addressed and the full prayers surrounding short selections."
-        },
-        {
-          "key": "source:BH08140",
           "why": "Hear prayers for women’s capacities, speech, steadfastness and service, preserving the particular women addressed and the full prayers surrounding short selections."
         },
         {
@@ -1621,10 +1147,6 @@
           "why": "Return to humility, forgiveness and trust: the petitioner and the person remembered share dependence on grace. Keep the distinction between praise, personal address and petition."
         },
         {
-          "key": "source:AB00529",
-          "why": "Return to humility, forgiveness and trust: the petitioner and the person remembered share dependence on grace. Keep the distinction between praise, personal address and petition."
-        },
-        {
           "key": "source:AB03905",
           "why": "Return to humility, forgiveness and trust: the petitioner and the person remembered share dependence on grace. Keep the distinction between praise, personal address and petition."
         },
@@ -1633,23 +1155,7 @@
           "why": "Return to humility, forgiveness and trust: the petitioner and the person remembered share dependence on grace. Keep the distinction between praise, personal address and petition."
         },
         {
-          "key": "source:AB02029",
-          "why": "Return to humility, forgiveness and trust: the petitioner and the person remembered share dependence on grace. Keep the distinction between praise, personal address and petition."
-        },
-        {
-          "key": "source:AB03900",
-          "why": "Return to humility, forgiveness and trust: the petitioner and the person remembered share dependence on grace. Keep the distinction between praise, personal address and petition."
-        },
-        {
-          "key": "source:AB07076",
-          "why": "Return to humility, forgiveness and trust: the petitioner and the person remembered share dependence on grace. Keep the distinction between praise, personal address and petition."
-        },
-        {
           "key": "source:AB09720",
-          "why": "Return to humility, forgiveness and trust: the petitioner and the person remembered share dependence on grace. Keep the distinction between praise, personal address and petition."
-        },
-        {
-          "key": "source:AB02165",
           "why": "Return to humility, forgiveness and trust: the petitioner and the person remembered share dependence on grace. Keep the distinction between praise, personal address and petition."
         },
         {
@@ -1657,27 +1163,7 @@
           "why": "Return to humility, forgiveness and trust: the petitioner and the person remembered share dependence on grace. Keep the distinction between praise, personal address and petition."
         },
         {
-          "key": "source:AB06675",
-          "why": "Return to humility, forgiveness and trust: the petitioner and the person remembered share dependence on grace. Keep the distinction between praise, personal address and petition."
-        },
-        {
-          "key": "source:AB12658",
-          "why": "Return to humility, forgiveness and trust: the petitioner and the person remembered share dependence on grace. Keep the distinction between praise, personal address and petition."
-        },
-        {
-          "key": "source:BH05412",
-          "why": "Return to humility, forgiveness and trust: the petitioner and the person remembered share dependence on grace. Keep the distinction between praise, personal address and petition."
-        },
-        {
-          "key": "source:AB10322",
-          "why": "Return to humility, forgiveness and trust: the petitioner and the person remembered share dependence on grace. Keep the distinction between praise, personal address and petition."
-        },
-        {
           "key": "source:BB00149",
-          "why": "Return to humility, forgiveness and trust: the petitioner and the person remembered share dependence on grace. Keep the distinction between praise, personal address and petition."
-        },
-        {
-          "key": "source:BH02086",
           "why": "Return to humility, forgiveness and trust: the petitioner and the person remembered share dependence on grace. Keep the distinction between praise, personal address and petition."
         },
         {
@@ -1697,10 +1183,6 @@
           "why": "Return to humility, forgiveness and trust: the petitioner and the person remembered share dependence on grace. Keep the distinction between praise, personal address and petition."
         },
         {
-          "key": "source:AB06769",
-          "why": "Return to humility, forgiveness and trust: the petitioner and the person remembered share dependence on grace. Keep the distinction between praise, personal address and petition."
-        },
-        {
           "key": "source:AB06928",
           "why": "Return to humility, forgiveness and trust: the petitioner and the person remembered share dependence on grace. Keep the distinction between praise, personal address and petition."
         },
@@ -1713,19 +1195,7 @@
           "why": "Return to humility, forgiveness and trust: the petitioner and the person remembered share dependence on grace. Keep the distinction between praise, personal address and petition."
         },
         {
-          "key": "source:AB09740",
-          "why": "Return to humility, forgiveness and trust: the petitioner and the person remembered share dependence on grace. Keep the distinction between praise, personal address and petition."
-        },
-        {
           "key": "source:AB10722",
-          "why": "Return to humility, forgiveness and trust: the petitioner and the person remembered share dependence on grace. Keep the distinction between praise, personal address and petition."
-        },
-        {
-          "key": "source:AB12225",
-          "why": "Return to humility, forgiveness and trust: the petitioner and the person remembered share dependence on grace. Keep the distinction between praise, personal address and petition."
-        },
-        {
-          "key": "source:AB12356",
           "why": "Return to humility, forgiveness and trust: the petitioner and the person remembered share dependence on grace. Keep the distinction between praise, personal address and petition."
         },
         {
@@ -1737,31 +1207,11 @@
           "why": "Return to humility, forgiveness and trust: the petitioner and the person remembered share dependence on grace. Keep the distinction between praise, personal address and petition."
         },
         {
-          "key": "source:BH02537",
-          "why": "Return to humility, forgiveness and trust: the petitioner and the person remembered share dependence on grace. Keep the distinction between praise, personal address and petition."
-        },
-        {
-          "key": "source:BH03677",
-          "why": "Return to humility, forgiveness and trust: the petitioner and the person remembered share dependence on grace. Keep the distinction between praise, personal address and petition."
-        },
-        {
           "key": "source:BH04092",
           "why": "Return to humility, forgiveness and trust: the petitioner and the person remembered share dependence on grace. Keep the distinction between praise, personal address and petition."
         },
         {
-          "key": "source:BH05991",
-          "why": "Return to humility, forgiveness and trust: the petitioner and the person remembered share dependence on grace. Keep the distinction between praise, personal address and petition."
-        },
-        {
-          "key": "source:BH08266",
-          "why": "Return to humility, forgiveness and trust: the petitioner and the person remembered share dependence on grace. Keep the distinction between praise, personal address and petition."
-        },
-        {
           "key": "source:BH01075",
-          "why": "Follow the invitation to say or recite a prayer, preserving the named recipient and the complete words that follow the invitation."
-        },
-        {
-          "key": "source:BH03524",
           "why": "Follow the invitation to say or recite a prayer, preserving the named recipient and the complete words that follow the invitation."
         },
         {
@@ -1773,18 +1223,6 @@
           "why": "Follow the invitation to say or recite a prayer, preserving the named recipient and the complete words that follow the invitation."
         },
         {
-          "key": "source:BH00758",
-          "why": "Follow the invitation to say or recite a prayer, preserving the named recipient and the complete words that follow the invitation."
-        },
-        {
-          "key": "source:BH07125",
-          "why": "Follow the invitation to say or recite a prayer, preserving the named recipient and the complete words that follow the invitation."
-        },
-        {
-          "key": "source:BH03059",
-          "why": "Follow the invitation to say or recite a prayer, preserving the named recipient and the complete words that follow the invitation."
-        },
-        {
           "key": "source:BH03414",
           "why": "Follow the invitation to say or recite a prayer, preserving the named recipient and the complete words that follow the invitation."
         },
@@ -1793,23 +1231,7 @@
           "why": "Follow the invitation to say or recite a prayer, preserving the named recipient and the complete words that follow the invitation."
         },
         {
-          "key": "source:BH05422",
-          "why": "Follow the invitation to say or recite a prayer, preserving the named recipient and the complete words that follow the invitation."
-        },
-        {
-          "key": "source:BH05655",
-          "why": "Follow the invitation to say or recite a prayer, preserving the named recipient and the complete words that follow the invitation."
-        },
-        {
           "key": "source:BH05732",
-          "why": "Follow the invitation to say or recite a prayer, preserving the named recipient and the complete words that follow the invitation."
-        },
-        {
-          "key": "source:BH05819",
-          "why": "Follow the invitation to say or recite a prayer, preserving the named recipient and the complete words that follow the invitation."
-        },
-        {
-          "key": "source:BH08608",
           "why": "Follow the invitation to say or recite a prayer, preserving the named recipient and the complete words that follow the invitation."
         },
         {
@@ -1817,31 +1239,7 @@
           "why": "Follow the invitation to say or recite a prayer, preserving the named recipient and the complete words that follow the invitation."
         },
         {
-          "key": "source:BH09767",
-          "why": "Follow the invitation to say or recite a prayer, preserving the named recipient and the complete words that follow the invitation."
-        },
-        {
-          "key": "source:BH02304",
-          "why": "Follow the invitation to say or recite a prayer, preserving the named recipient and the complete words that follow the invitation."
-        },
-        {
-          "key": "source:BH03231",
-          "why": "Follow the invitation to say or recite a prayer, preserving the named recipient and the complete words that follow the invitation."
-        },
-        {
-          "key": "source:BH03760",
-          "why": "Follow the invitation to say or recite a prayer, preserving the named recipient and the complete words that follow the invitation."
-        },
-        {
-          "key": "source:BH04590",
-          "why": "Follow the invitation to say or recite a prayer, preserving the named recipient and the complete words that follow the invitation."
-        },
-        {
           "key": "source:BH05223",
-          "why": "Follow the invitation to say or recite a prayer, preserving the named recipient and the complete words that follow the invitation."
-        },
-        {
-          "key": "source:BH06882",
           "why": "Follow the invitation to say or recite a prayer, preserving the named recipient and the complete words that follow the invitation."
         },
         {
@@ -1853,15 +1251,7 @@
           "why": "Follow the invitation to say or recite a prayer, preserving the named recipient and the complete words that follow the invitation."
         },
         {
-          "key": "source:BH08569",
-          "why": "Follow the invitation to say or recite a prayer, preserving the named recipient and the complete words that follow the invitation."
-        },
-        {
           "key": "source:BH10075",
-          "why": "Follow the invitation to say or recite a prayer, preserving the named recipient and the complete words that follow the invitation."
-        },
-        {
-          "key": "source:BH10576",
           "why": "Follow the invitation to say or recite a prayer, preserving the named recipient and the complete words that follow the invitation."
         },
         {
@@ -1870,18 +1260,6 @@
         },
         {
           "key": "source:BH00407",
-          "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
-        },
-        {
-          "key": "source:BH05070",
-          "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
-        },
-        {
-          "key": "source:BH08837",
-          "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
-        },
-        {
-          "key": "source:BH08840",
           "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
         },
         {
@@ -1897,27 +1275,7 @@
           "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
         },
         {
-          "key": "source:BH02260",
-          "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
-        },
-        {
-          "key": "source:AB07198",
-          "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
-        },
-        {
-          "key": "source:AB12178",
-          "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
-        },
-        {
           "key": "source:AB02864",
-          "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
-        },
-        {
-          "key": "source:AB05647",
-          "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
-        },
-        {
-          "key": "source:AB00816",
           "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
         },
         {
@@ -1929,15 +1287,7 @@
           "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
         },
         {
-          "key": "source:AB01255",
-          "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
-        },
-        {
           "key": "source:AB04625",
-          "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
-        },
-        {
-          "key": "source:AB06476",
           "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
         },
         {
@@ -1949,22 +1299,6 @@
           "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
         },
         {
-          "key": "source:BH08845",
-          "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
-        },
-        {
-          "key": "source:AB01902",
-          "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
-        },
-        {
-          "key": "source:AB02306",
-          "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
-        },
-        {
-          "key": "source:AB02700",
-          "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
-        },
-        {
           "key": "source:AB03954",
           "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
         },
@@ -1973,35 +1307,11 @@
           "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
         },
         {
-          "key": "source:AB04474",
-          "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
-        },
-        {
           "key": "source:AB04726",
           "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
         },
         {
-          "key": "source:AB04905",
-          "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
-        },
-        {
           "key": "source:AB05025",
-          "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
-        },
-        {
-          "key": "source:AB05030",
-          "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
-        },
-        {
-          "key": "source:AB07168",
-          "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
-        },
-        {
-          "key": "source:AB07180",
-          "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
-        },
-        {
-          "key": "source:AB07854",
           "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
         },
         {
@@ -2017,19 +1327,7 @@
           "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
         },
         {
-          "key": "source:AB09138",
-          "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
-        },
-        {
-          "key": "source:AB09899",
-          "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
-        },
-        {
           "key": "source:AB12580",
-          "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
-        },
-        {
-          "key": "source:BH00572",
           "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
         },
         {
@@ -2037,19 +1335,7 @@
           "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
         },
         {
-          "key": "source:BH01792",
-          "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
-        },
-        {
-          "key": "source:BH02819",
-          "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
-        },
-        {
           "key": "source:BH03235",
-          "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
-        },
-        {
-          "key": "source:BH03412",
           "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
         },
         {
@@ -2057,31 +1343,7 @@
           "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
         },
         {
-          "key": "source:BH04202",
-          "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
-        },
-        {
-          "key": "source:BH04750",
-          "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
-        },
-        {
-          "key": "source:BH06856",
-          "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
-        },
-        {
-          "key": "source:BH07122",
-          "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
-        },
-        {
           "key": "source:BH09733",
-          "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
-        },
-        {
-          "key": "source:BH10278",
-          "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
-        },
-        {
-          "key": "source:BH11172",
           "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
         },
         {
@@ -2089,27 +1351,7 @@
           "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
         },
         {
-          "key": "source:AB01163",
-          "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
-        },
-        {
-          "key": "source:AB01517",
-          "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
-        },
-        {
           "key": "source:AB02680",
-          "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
-        },
-        {
-          "key": "source:AB02703",
-          "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
-        },
-        {
-          "key": "source:AB03069",
-          "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
-        },
-        {
-          "key": "source:AB04191",
           "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
         },
         {
@@ -2117,27 +1359,11 @@
           "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
         },
         {
-          "key": "source:AB04627",
-          "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
-        },
-        {
-          "key": "source:AB04951",
-          "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
-        },
-        {
           "key": "source:AB05215",
           "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
         },
         {
-          "key": "source:AB05232",
-          "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
-        },
-        {
           "key": "source:AB05419",
-          "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
-        },
-        {
-          "key": "source:AB05554",
           "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
         },
         {
@@ -2146,22 +1372,6 @@
         },
         {
           "key": "source:AB06003",
-          "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
-        },
-        {
-          "key": "source:AB06011",
-          "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
-        },
-        {
-          "key": "source:AB06905",
-          "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
-        },
-        {
-          "key": "source:AB07081",
-          "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
-        },
-        {
-          "key": "source:AB07161",
           "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
         },
         {
@@ -2177,10 +1387,6 @@
           "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
         },
         {
-          "key": "source:AB09125",
-          "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
-        },
-        {
           "key": "source:AB09265",
           "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
         },
@@ -2189,27 +1395,7 @@
           "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
         },
         {
-          "key": "source:AB09713",
-          "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
-        },
-        {
           "key": "source:AB10297",
-          "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
-        },
-        {
-          "key": "source:AB10325",
-          "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
-        },
-        {
-          "key": "source:AB10329",
-          "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
-        },
-        {
-          "key": "source:AB10733",
-          "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
-        },
-        {
-          "key": "source:AB10749",
           "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
         },
         {
@@ -2217,55 +1403,11 @@
           "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
         },
         {
-          "key": "source:AB11151",
-          "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
-        },
-        {
           "key": "source:AB11313",
           "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
         },
         {
-          "key": "source:AB11503",
-          "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
-        },
-        {
-          "key": "source:AB11507",
-          "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
-        },
-        {
-          "key": "source:AB11889",
-          "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
-        },
-        {
-          "key": "source:AB11983",
-          "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
-        },
-        {
-          "key": "source:AB12064",
-          "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
-        },
-        {
           "key": "source:AB12135",
-          "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
-        },
-        {
-          "key": "source:AB12243",
-          "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
-        },
-        {
-          "key": "source:AB12331",
-          "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
-        },
-        {
-          "key": "source:AB12471",
-          "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
-        },
-        {
-          "key": "source:AB12604",
-          "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
-        },
-        {
-          "key": "source:AB12641",
           "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
         },
         {
@@ -2277,15 +1419,7 @@
           "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
         },
         {
-          "key": "source:AB12686",
-          "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
-        },
-        {
           "key": "source:AB12716",
-          "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
-        },
-        {
-          "key": "source:AB12754",
           "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
         },
         {
@@ -2294,10 +1428,6 @@
         },
         {
           "key": "source:BH00851",
-          "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
-        },
-        {
-          "key": "source:BH00896",
           "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
         },
         {
@@ -2317,39 +1447,7 @@
           "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
         },
         {
-          "key": "source:BH01669",
-          "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
-        },
-        {
-          "key": "source:BH01849",
-          "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
-        },
-        {
-          "key": "source:BH02067",
-          "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
-        },
-        {
-          "key": "source:BH02657",
-          "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
-        },
-        {
-          "key": "source:BH03178",
-          "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
-        },
-        {
-          "key": "source:BH03779",
-          "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
-        },
-        {
-          "key": "source:BH03821",
-          "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
-        },
-        {
           "key": "source:BH04194",
-          "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
-        },
-        {
-          "key": "source:BH04209",
           "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
         },
         {
@@ -2358,22 +1456,6 @@
         },
         {
           "key": "source:BH08276",
-          "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
-        },
-        {
-          "key": "source:BH10720",
-          "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
-        },
-        {
-          "key": "source:BH10917",
-          "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
-        },
-        {
-          "key": "source:BH11056",
-          "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
-        },
-        {
-          "key": "source:BH11559",
           "why": "Read the many personal petitions as variations on a demanding aim: a life of truthful speech, useful work and faithful action. Each retains its own name, voice and source context."
         },
         {
@@ -2389,15 +1471,7 @@
           "why": "Keep the Bab’s invocations and the named Imams within their own scriptural setting; do not flatten distinct sacred relationships into generic prayers."
         },
         {
-          "key": "source:BB00438",
-          "why": "Keep the Bab’s invocations and the named Imams within their own scriptural setting; do not flatten distinct sacred relationships into generic prayers."
-        },
-        {
           "key": "source:BB00449",
-          "why": "Keep the Bab’s invocations and the named Imams within their own scriptural setting; do not flatten distinct sacred relationships into generic prayers."
-        },
-        {
-          "key": "source:BB00236",
           "why": "Keep the Bab’s invocations and the named Imams within their own scriptural setting; do not flatten distinct sacred relationships into generic prayers."
         },
         {
@@ -2430,10 +1504,6 @@
         },
         {
           "key": "source:AB03386",
-          "why": "End by widening the circle through care, justice, religious difference and prayer for enemies. Let remembrance ask what kind of neighbor the reader might become."
-        },
-        {
-          "key": "source:BH01244",
           "why": "End by widening the circle through care, justice, religious difference and prayer for enemies. Let remembrance ask what kind of neighbor the reader might become."
         },
         {

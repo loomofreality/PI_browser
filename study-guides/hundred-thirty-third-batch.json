@@ -5,6 +5,312 @@
       "id": "9F2E188A76D8EB43AE22B4F563C85137",
       "slug": "eulogies",
       "displayTitle": "Eulogies and reminiscences: what a life leaves behind",
+      "selection": {
+        "review": "selections/eulogies.json",
+        "sha256": "959cd1eec10e0841aaf29492b2548ff358ed5872b8831712851c9cceff391a6b",
+        "ids": [
+          "1775d8899b909c0157b1d306",
+          "a908a89c77ee5dc49248ca2a",
+          "5bd475699cbd0475fc074ce9",
+          "b944de9467dfd409d83342c4",
+          "47a1ec949ec61d680e3c3e1e",
+          "ae4672814188599ac3cc0fc4",
+          "87470e98363c801dd9fa9ff6",
+          "1105266fd4d0431bff65fbb1",
+          "e040ed201673f6b4adcd42e0",
+          "415218e163edc0f909aff183",
+          "369ef7eca98188cffb2dc4ed",
+          "73a145683b65f20fb919e013",
+          "9dd2bbab32cbe64be03f411e",
+          "3fe4185ad030d7958f3b89c9",
+          "0441ef1b8d210d9a8cdd3efd",
+          "739f22c0af9372d609dd437f",
+          "99f5c9c944cd6ae4b9b70194",
+          "826ed2c8628a424621adf6b5",
+          "f1f23e3eaa1288d3bb01c107",
+          "73f7fa06bc8d363cb87b3948",
+          "813d1b599b9e83c04bb7a881",
+          "75d9f01af4be6055b5a3b7db",
+          "aee8705a2553e5ec4fd1348e",
+          "0a81e179db5456cbd7198c38",
+          "268a7a043e545cf2a5d353ea",
+          "b30ac73bb0ec33214436b087",
+          "41fe2aeec3c3c21eeee07d4d",
+          "42b5daf800ea09e8a9d874e0",
+          "ce696eb59f9321a06fe32a2a",
+          "8a8a8094b85134560aac1188",
+          "e2d7aef2b4a6ae4aaf592602",
+          "d5316b6d6033761ed19c7193",
+          "a4dd391251ff361fe9b6be01",
+          "c6d8eec10f8af9b9f24cc565",
+          "48710b365b422f144893126b",
+          "9eaec9a1671ec93a6561338f",
+          "40c5e201ff701cf465edead9",
+          "50d5112a9882ee941a73176f",
+          "d5c78e222004d6a1226c9e3a",
+          "87991b3925455d0bdb2cb859",
+          "c683e39bc473afc70f41a13b",
+          "a909598094d5e198fe0c197a",
+          "982c73284d1cecf47e23fc4e",
+          "5ae5b83dbbf50f157b872314",
+          "074bc55dcb759af5596048e1",
+          "e0e80f8b5c9bb67d5e12e062",
+          "5a23622b2a0cf2c939346d57",
+          "51f336d10a7da6f4e094fce8",
+          "56e4561bb900e8138f29b05e",
+          "d663735849a54ccf0d29c03b",
+          "a3fe7d7b6fb64d673163979b",
+          "e6f3bb126a7ab208d8e5fd5f",
+          "6cd33fdb5cbc44ee22b83a64",
+          "b9093e871b710e698acfe67f",
+          "11d9014ac1296aee7f7fd1a0",
+          "e0acf064f8aebada0813b23c",
+          "e0082adb100f74c670794727",
+          "d6949ce6b135e3d64b30cae4",
+          "510f750b980a2a9374faca4e",
+          "758f6f379fc23a7243380994",
+          "e9382b669b5a716ef8d232d7",
+          "b11443059317c526bfb2fa5d",
+          "94c781c2d4c418a560d84d49",
+          "31a041cea0cf44b0e9631835",
+          "8d85951c13f689abb2423d68",
+          "5d7d9b0d49402e43f6f857ff",
+          "772bf7e7f642c88a312ea33a",
+          "a73694ccf9b71b59c944c1a4",
+          "1e12abfbb77c6b414b1d0ba0",
+          "bb8dd56afd4eaa73bfb994ae",
+          "43b5b681621dbd9ca5ee49b7",
+          "2e2f0b1c3261c7570b4b57d5",
+          "c137487af95f65c6f84e084f",
+          "cf7c085fceeb4f8b60726dad",
+          "bec50bea6e98718dd08ad375",
+          "ca2d672725041c4df3566109",
+          "a3a0b9b16f1e0cf8c50ac2c4",
+          "45e494f4a149007d70932eb3",
+          "5472049d83d7e854c03e1c03",
+          "2b861db173d279240c018162",
+          "ad0bcf1a83fad14e005f9800",
+          "998a51c39dfd2ab842505bd0",
+          "d7dcb923b5f2de45712abdf5",
+          "59be1cf6d258563809b428a7",
+          "06b3f86cb90f6a1dd924099c",
+          "77ba7159d7e162afc9aa714f",
+          "d65f9bfc4f5bfbd4984763e9",
+          "9127faf0cb4f688d3cafe4d2",
+          "20344c6258a55144ab2128e1",
+          "ccb6e6e499aabef2b5a732ee",
+          "fd98122cecec5807a51da2ed",
+          "062e6b146087eb4c410da76e",
+          "6f4759d849f33963a988d1a4",
+          "157eaef2de672d5b4c97b4d3",
+          "bf7c5670d0a1df4a4192f88b",
+          "b5a984afcdd716d7296a0774",
+          "ecc050bad25b0bf464ef89ff",
+          "25e9be1933c5e9ea46f32e6b",
+          "b3c33cb4a0360cbcf52025af",
+          "4b909522a1a889b14fcec69b",
+          "38e3a278d78b8a74ac9d8659",
+          "45c18a645d220fec995889b6",
+          "58ca6e64235938097c3dccb0",
+          "a6be58df851a68c490b212dc",
+          "897e1bd7b51662ba92beb85e",
+          "852adda0de4580632823c6cf",
+          "348637f1e6f48266686b6b33",
+          "982f89388f2bae47b12f5e69",
+          "56e783675fea25cf3600a97e",
+          "81f1d88bf92d0a780539b657",
+          "5859b9170dcbdeb7e4838db8",
+          "04ab09f4b7702c9703edfe9e",
+          "bb8bfd38c39e8310d3b00408",
+          "c85c79c8c7eeecf447c6c3ba",
+          "688c89d9d234be4ec18bb873",
+          "4134e454fc18b837f25421a9",
+          "c622a14e56bdfb8be2b76c12",
+          "5574a82a5c243c34f5fe8f1b",
+          "ae140bbc6d005ef32bcc4416",
+          "b715428791106342866ffd2d",
+          "861a613a88ecc44b423135d8",
+          "22b57954948adaaee1aaa1ee",
+          "6b48b47aecf6db652878ca9d",
+          "057a3f37d71af7570462c678",
+          "8263b047d5ef9bac8d2455b7",
+          "5c8a5c100f5324545774d1be",
+          "2d6fc00b31e9cb1f16709159",
+          "81e1e50b7879fad074276502",
+          "1fd91aef066a09f8b5e1a81b",
+          "cba51d2f7eb694553e9ec9fe",
+          "0fc5ce181872016ccf5cec69",
+          "5eb3182fbb2d455f98c31912",
+          "effefc01ed57aa48cb259024",
+          "71da9d081c6e5cf3a1f719da",
+          "b07f381fdb3e4cc06cf21140",
+          "0e85de3de5b05ccbf5ec4599",
+          "ff7b038c98ab7ec0232873f5",
+          "470379e9c53886e8cda2f97b",
+          "e55d221faac50e5b401905a7",
+          "36a1cdea37a9be2cb4a0d35f",
+          "0395ffed5098fff745eff45b",
+          "ae251c14e635dc3cc93b4a01",
+          "f99a5d088c3f53c950c2f20a",
+          "d73cd6467af226b45391bbe5",
+          "36700fb787fc2a121e78060b",
+          "52e2fe863c779701ad08e841",
+          "c5963a04e948329be3374c2d",
+          "f7101d08d43cea2e395ba7c4",
+          "9279313f854e84330d976385",
+          "1a4552ed461d2c6accef0267",
+          "50e5e66ae9b41438fdc2fd6e",
+          "c1de83f879efe1c4de36584d",
+          "a79d234d5ec90aa7d73d3489",
+          "06ef74f2451f9e8f7d2b3092",
+          "ffefb12fda4a9333318d45d3",
+          "9f5866f6a7f05d7e81401435",
+          "5a6a1eb7b065a9b72c121dbe",
+          "bfd178f7f63935a799acc190",
+          "11ce219dff38df99e44b46c5",
+          "2abc1725908b7d0c45d84a50",
+          "f190f1c4a9c6421ee0abed02",
+          "b0960ab3f0c2c0ef64572d99",
+          "5e4aa369bfebc41f94b767f1",
+          "4c2a2db5cda1a560dcd817cd",
+          "e5855460733a427693861e45",
+          "5867135e8701c086d3060aaa",
+          "f5feb4483977f28b8bad933d",
+          "1d786d4013975241a6eda60f",
+          "3e3d11435826ca1e6c1209ad",
+          "36e9053196b21ef0e3259367",
+          "7a41595d65528276ec0bc8a4",
+          "1a7c168181c6afe05dd92f6a",
+          "d8d06f514adb7504e46cd15f",
+          "3df93ebf166494d6d6663848",
+          "d949ad4ff4ec27b064619fe9",
+          "bfcfb54bd4a43b3e29a0deba",
+          "1b1f445751e50fb8cff636a7",
+          "42d50c171e8636f95ac3925c",
+          "d6a010cb6044ba3820ffd4e8",
+          "881a66f23aee0f86b3044488",
+          "8dda247a0cc64801dda30f06",
+          "a8cf2599a26c3643a2571b42",
+          "86c80e100bece554b4affb02",
+          "517017a260fa46ce43ebd255",
+          "99eaff97602205ba35e8c82d",
+          "378cf8589159278c0b45e5f3",
+          "45c763e723e912ea15746b1d",
+          "87c91ecb3ddb42b139914c07",
+          "df876227113ffc2761d85c37",
+          "964c47e45e9da1be339bb0ed",
+          "28159a24414ea30ea6fe1b0d",
+          "85553b24117f4b6f45d3a7a6",
+          "12b5c775154ac2d1bf0f1425",
+          "a9fe2b43d00bfab940c4b335",
+          "46387a46475c2e9527516533",
+          "5aaa0713aaeda59ba1ae8532",
+          "a7e548012250f1d72511b5e1",
+          "af8519a9fb242265481607e2",
+          "4d4d868d92ac436d915d2a2c",
+          "fa3ffa547158939ed2b55fc5",
+          "b31a011cc7178b33bc6a9f45",
+          "047d9841984765b40c6fe10f",
+          "af575696b455e34fe077a30a",
+          "e6a71dbf84f3ec1c7bb0a1a1",
+          "34c2d83f815487161a23dca9",
+          "957a560ce407796cb1dffc89",
+          "e81ccd830e55fc1e71c8b039",
+          "48adb4009fa17bf29037524c",
+          "26ec4f8aeb323b07fca08943",
+          "6155407d4f50dd7bab1112b2",
+          "14c7bedf394801ca165cb0a1",
+          "2a7d3d17572bf58ed83a7528",
+          "c7c8253038267068d096643f",
+          "c7d4234603fe096708a399ac",
+          "dd3a2fe1b20b934997c41cf5",
+          "f1f1c32e6b96cba2a3b38843",
+          "60179ba92ca5bd55a4532909",
+          "d78dd06cb7570c39bf7ce4f4",
+          "fd9424efd2cad8225d21d9cd",
+          "c22ba47738d5d5e54ae0d935",
+          "0e79f529ffb2cd97d2e2ec16",
+          "07a818f22fde59fcaac03cb1",
+          "4a3c67c8f3c75845d46d2d57",
+          "c6c678fd25f0826a02a2bf0e",
+          "4d17be9e81ecaa0d42be7f6b",
+          "3331dd0824c9cdbcc7e2a967",
+          "09e2d6bb20fd436bcfe3d301",
+          "d239cd304f2e73fe7bec2047",
+          "6f8372dbc9a4edaf0478981b",
+          "96eb168148e3c1147ff679b4",
+          "0c4b31ecdec21c1d53c3ebbe",
+          "f39bb7ade2230ed988736251",
+          "98488ddad555be94e2290c8e",
+          "19fac4c8998a67f793b3de73",
+          "efa7289b5deb7ff87405d17b",
+          "7da73c87866427465c803367",
+          "6824313b732bc1fae9f8ede4",
+          "2400ef3ab9302834293e0cd7",
+          "b85ee6c7e1f0dcd630a53754",
+          "0ac5e7d9d707cf8ad781be11",
+          "c005df30b1d0ef97209956cf",
+          "ab7b0e0ee058cbf3531366cd",
+          "7eb76ebd903eaabaa5c76b17",
+          "1eaf3c4deee9dac8e7296453",
+          "ffc07f04696956763f2d02ec",
+          "e763aec2c31c5973174e6ce2",
+          "46dede01979be1a87ea28a14",
+          "00cf3f1743aa2a91525d4983",
+          "f2ff5ec8f810f47f93729720",
+          "0c261e59fbe131d209044adf",
+          "4f57b01d45f0ec4e4494e967",
+          "5c9822eb9f3ad27a75a2a4ab",
+          "870c301d2d35f91ac1f237fe",
+          "1e59a179bae55801d9164a2b",
+          "2d4bf008adb3e053f2d07f6f",
+          "41bed1c3a06f56dc2ace9cbd",
+          "4a79b8b59c97e8f8ca7e6a24",
+          "49e7c5438e7837c7bf22d254",
+          "d93ddc56d54c75adee880544",
+          "0cb1260777fb5fa6d4b6aba3",
+          "d236f0477aea26189688ddbb",
+          "65efc7ac00109d58fd59b8fe",
+          "dd48a750cf6d13ea7aa49e4c",
+          "bfbe1b6e215392f48a339c0e",
+          "9726ca0a7bd601cd1382513f",
+          "aa5d11533e32ef38ade475fc",
+          "08679142f4aa70d942059f1b",
+          "a6c5ad7863b01d52f83dbc00",
+          "f7e12a3f77f6347b2fc5ac87",
+          "decc939c94debc56674e4601",
+          "da1a4a24cc17bc21bdd6fa0f",
+          "cb3211c02862932d0c91ea6b",
+          "e9a5baa599271e05e4cc06d3",
+          "ce96a7517e9324b414a3618e",
+          "e3097877628aede8692458c5",
+          "3cefe7c7802bffcd73e9f8f2",
+          "e9ff5a7f11831722e4b07b4d",
+          "37eb9b8656182443230a3825",
+          "c0f69cacb4168a9f3c0e5954",
+          "777b81299c50926de405bd46",
+          "8f464a4adcbf11602e35afaf",
+          "7634d1785936e6fcb6928db8",
+          "03d723da02c90bfc7d2f8db2",
+          "28d54a0d84a3bdfa4ab897b2",
+          "23102ac40494291e1a565764",
+          "ebbcce67a5df25867fe9e26a",
+          "25a7d0e851923010b28d5d55",
+          "82cfa28be1058ca85db844db",
+          "74c98b357a01293e1f398b8d",
+          "e316505642fd0d47ca204c33",
+          "b9ed36edb8fa23c96fbc332a",
+          "ff05b5d3b87b6643987429ee",
+          "93f1a60d91a59fd09d24995a",
+          "d5f9dee9727088f9cb6533ff",
+          "0001a2ea0d79651aac006ae8",
+          "adea55a8360eaa862853a03b",
+          "540a4b3ff51221f4c2cc5a45",
+          "cae468c43a7a9b1c0cdf7e76",
+          "a028bb9a0a9f9db585d26808",
+          "4cb4ac4b3bb945a76237761f"
+        ]
+      },
       "introduction": "What remains of a life—a name, a garden, a kindness, a way of meeting another person? These eulogies and reminiscences invite us to look closely at the human particulars of faith: a scholar serving others without display, a companion remembered with laughter, a teacher’s papers gathered for the future, a family whose support must continue after a death. Their praise reaches beyond public renown and repeatedly asks the living to make inherited love visible in conduct. Tears and longing have a place beside confidence in spiritual life; consolation does not erase the voice of grief. Accounts of exile, persecution and sacrifice belong to particular histories, while prayers and visitation texts speak in the distinctive language of recognition, forgiveness and nearness to God. Revealed texts, personal correspondence and reported conversations retain their different authority, and remembered friendship sometimes concerns people still living. The connected subjects on consolation, lament, martyrs, prayer for the departed, the soul after death, stories, visitation and modes of revelation offer further ways to understand these voices. Sirach’s praise of both remembered and forgotten ancestors and Hebrews’ appeal to perseverance amid a surrounding company of witnesses sharpen a question running through the collection: how might honoring another life change the life we lead?",
       "arc": "What remains of a life? → Companionship remembered → Learning, writing and the record of a life → Making room for grief → Care for those who remain → A legacy made visible in character → The presence of remembered parents and kin → Women remembered for faith and service → Children, youth and interrupted hopes → Lives of service and steadfastness → Persecution, sacrifice and the witnesses who remember → Journeys, presence and an unfinished road → Prayer, visitation and enduring remembrance",
       "order": [
@@ -81,10 +387,6 @@
           "why": "Let remembered voices, humor, journeys and affection bring people into focus. Preserve the reported status of conversations and distinguish living friends from the departed."
         },
         {
-          "key": "source:ABU0444",
-          "why": "Let remembered voices, humor, journeys and affection bring people into focus. Preserve the reported status of conversations and distinguish living friends from the departed."
-        },
-        {
           "key": "source:AB02415",
           "why": "Let remembered voices, humor, journeys and affection bring people into focus. Preserve the reported status of conversations and distinguish living friends from the departed."
         },
@@ -94,14 +396,6 @@
         },
         {
           "key": "source:AB03992",
-          "why": "Let remembered voices, humor, journeys and affection bring people into focus. Preserve the reported status of conversations and distinguish living friends from the departed."
-        },
-        {
-          "key": "source:AB04111",
-          "why": "Let remembered voices, humor, journeys and affection bring people into focus. Preserve the reported status of conversations and distinguish living friends from the departed."
-        },
-        {
-          "key": "source:AB11802",
           "why": "Let remembered voices, humor, journeys and affection bring people into focus. Preserve the reported status of conversations and distinguish living friends from the departed."
         },
         {
@@ -133,27 +427,11 @@
           "why": "Let remembered voices, humor, journeys and affection bring people into focus. Preserve the reported status of conversations and distinguish living friends from the departed."
         },
         {
-          "key": "source:AB07590",
-          "why": "Let remembered voices, humor, journeys and affection bring people into focus. Preserve the reported status of conversations and distinguish living friends from the departed."
-        },
-        {
-          "key": "source:AB06224",
-          "why": "Let remembered voices, humor, journeys and affection bring people into focus. Preserve the reported status of conversations and distinguish living friends from the departed."
-        },
-        {
-          "key": "source:AB03916",
-          "why": "Let remembered voices, humor, journeys and affection bring people into focus. Preserve the reported status of conversations and distinguish living friends from the departed."
-        },
-        {
           "key": "source:ABU2094",
           "why": "Let remembered voices, humor, journeys and affection bring people into focus. Preserve the reported status of conversations and distinguish living friends from the departed."
         },
         {
           "key": "source:ABU0861",
-          "why": "Let remembered voices, humor, journeys and affection bring people into focus. Preserve the reported status of conversations and distinguish living friends from the departed."
-        },
-        {
-          "key": "source:ABU1042",
           "why": "Let remembered voices, humor, journeys and affection bring people into focus. Preserve the reported status of conversations and distinguish living friends from the departed."
         },
         {
@@ -169,19 +447,11 @@
           "why": "Let remembered voices, humor, journeys and affection bring people into focus. Preserve the reported status of conversations and distinguish living friends from the departed."
         },
         {
-          "key": "source:ABU0339",
-          "why": "Let remembered voices, humor, journeys and affection bring people into focus. Preserve the reported status of conversations and distinguish living friends from the departed."
-        },
-        {
           "key": "source:ABU0711",
           "why": "Let remembered voices, humor, journeys and affection bring people into focus. Preserve the reported status of conversations and distinguish living friends from the departed."
         },
         {
           "key": "source:ABU1307",
-          "why": "Let remembered voices, humor, journeys and affection bring people into focus. Preserve the reported status of conversations and distinguish living friends from the departed."
-        },
-        {
-          "key": "source:ABU1253",
           "why": "Let remembered voices, humor, journeys and affection bring people into focus. Preserve the reported status of conversations and distinguish living friends from the departed."
         },
         {
@@ -197,19 +467,7 @@
           "why": "Move from the loss of teachers to preserving their papers, composing history and poetry, and sustaining schools and other works. Keep evidence and authorial status visible."
         },
         {
-          "key": "source:AB00462",
-          "why": "Move from the loss of teachers to preserving their papers, composing history and poetry, and sustaining schools and other works. Keep evidence and authorial status visible."
-        },
-        {
           "key": "source:AB03227",
-          "why": "Move from the loss of teachers to preserving their papers, composing history and poetry, and sustaining schools and other works. Keep evidence and authorial status visible."
-        },
-        {
-          "key": "source:AB05720",
-          "why": "Move from the loss of teachers to preserving their papers, composing history and poetry, and sustaining schools and other works. Keep evidence and authorial status visible."
-        },
-        {
-          "key": "source:AB07031",
           "why": "Move from the loss of teachers to preserving their papers, composing history and poetry, and sustaining schools and other works. Keep evidence and authorial status visible."
         },
         {
@@ -218,10 +476,6 @@
         },
         {
           "key": "source:AB04215",
-          "why": "Move from the loss of teachers to preserving their papers, composing history and poetry, and sustaining schools and other works. Keep evidence and authorial status visible."
-        },
-        {
-          "key": "source:AB00895",
           "why": "Move from the loss of teachers to preserving their papers, composing history and poetry, and sustaining schools and other works. Keep evidence and authorial status visible."
         },
         {
@@ -237,10 +491,6 @@
           "why": "Move from the loss of teachers to preserving their papers, composing history and poetry, and sustaining schools and other works. Keep evidence and authorial status visible."
         },
         {
-          "key": "source:AB11824",
-          "why": "Move from the loss of teachers to preserving their papers, composing history and poetry, and sustaining schools and other works. Keep evidence and authorial status visible."
-        },
-        {
           "key": "source:AB09935",
           "why": "Move from the loss of teachers to preserving their papers, composing history and poetry, and sustaining schools and other works. Keep evidence and authorial status visible."
         },
@@ -249,23 +499,11 @@
           "why": "Move from the loss of teachers to preserving their papers, composing history and poetry, and sustaining schools and other works. Keep evidence and authorial status visible."
         },
         {
-          "key": "source:AB04204",
-          "why": "Move from the loss of teachers to preserving their papers, composing history and poetry, and sustaining schools and other works. Keep evidence and authorial status visible."
-        },
-        {
           "key": "source:AB03043",
           "why": "Move from the loss of teachers to preserving their papers, composing history and poetry, and sustaining schools and other works. Keep evidence and authorial status visible."
         },
         {
           "key": "source:AB04713",
-          "why": "Move from the loss of teachers to preserving their papers, composing history and poetry, and sustaining schools and other works. Keep evidence and authorial status visible."
-        },
-        {
-          "key": "source:AB06658",
-          "why": "Move from the loss of teachers to preserving their papers, composing history and poetry, and sustaining schools and other works. Keep evidence and authorial status visible."
-        },
-        {
-          "key": "source:AB04401",
           "why": "Move from the loss of teachers to preserving their papers, composing history and poetry, and sustaining schools and other works. Keep evidence and authorial status visible."
         },
         {
@@ -278,10 +516,6 @@
         },
         {
           "key": "source:AB01113",
-          "why": "Move from the loss of teachers to preserving their papers, composing history and poetry, and sustaining schools and other works. Keep evidence and authorial status visible."
-        },
-        {
-          "key": "source:AB02727",
           "why": "Move from the loss of teachers to preserving their papers, composing history and poetry, and sustaining schools and other works. Keep evidence and authorial status visible."
         },
         {
@@ -321,15 +555,7 @@
           "why": "Read tears and lament before consolatory assurances; particular grief and particular counsel must not become a demand that every mourner feel the same way."
         },
         {
-          "key": "source:AB04030",
-          "why": "Read tears and lament before consolatory assurances; particular grief and particular counsel must not become a demand that every mourner feel the same way."
-        },
-        {
           "key": "source:AB01688",
-          "why": "Read tears and lament before consolatory assurances; particular grief and particular counsel must not become a demand that every mourner feel the same way."
-        },
-        {
-          "key": "source:AB08953",
           "why": "Read tears and lament before consolatory assurances; particular grief and particular counsel must not become a demand that every mourner feel the same way."
         },
         {
@@ -338,18 +564,6 @@
         },
         {
           "key": "source:AB11660",
-          "why": "Read tears and lament before consolatory assurances; particular grief and particular counsel must not become a demand that every mourner feel the same way."
-        },
-        {
-          "key": "source:AB11735",
-          "why": "Read tears and lament before consolatory assurances; particular grief and particular counsel must not become a demand that every mourner feel the same way."
-        },
-        {
-          "key": "source:AB02325",
-          "why": "Read tears and lament before consolatory assurances; particular grief and particular counsel must not become a demand that every mourner feel the same way."
-        },
-        {
-          "key": "source:AB02385",
           "why": "Read tears and lament before consolatory assurances; particular grief and particular counsel must not become a demand that every mourner feel the same way."
         },
         {
@@ -373,30 +587,6 @@
           "why": "Read tears and lament before consolatory assurances; particular grief and particular counsel must not become a demand that every mourner feel the same way."
         },
         {
-          "key": "source:AB04512",
-          "why": "Read tears and lament before consolatory assurances; particular grief and particular counsel must not become a demand that every mourner feel the same way."
-        },
-        {
-          "key": "source:AB01027",
-          "why": "Read tears and lament before consolatory assurances; particular grief and particular counsel must not become a demand that every mourner feel the same way."
-        },
-        {
-          "key": "source:AB06387",
-          "why": "Read tears and lament before consolatory assurances; particular grief and particular counsel must not become a demand that every mourner feel the same way."
-        },
-        {
-          "key": "source:AB02562",
-          "why": "Read tears and lament before consolatory assurances; particular grief and particular counsel must not become a demand that every mourner feel the same way."
-        },
-        {
-          "key": "source:AB03778",
-          "why": "Retain the particular frailty and circumstances of delayed news, without generalizing concealment as guidance."
-        },
-        {
-          "key": "source:AB09845",
-          "why": "Read tears and lament before consolatory assurances; particular grief and particular counsel must not become a demand that every mourner feel the same way."
-        },
-        {
           "key": "source:AB03391",
           "why": "Read tears and lament before consolatory assurances; particular grief and particular counsel must not become a demand that every mourner feel the same way."
         },
@@ -405,19 +595,11 @@
           "why": "Read tears and lament before consolatory assurances; particular grief and particular counsel must not become a demand that every mourner feel the same way."
         },
         {
-          "key": "source:BH02876",
-          "why": "Read tears and lament before consolatory assurances; particular grief and particular counsel must not become a demand that every mourner feel the same way."
-        },
-        {
           "key": "source:BH07772",
           "why": "Read tears and lament before consolatory assurances; particular grief and particular counsel must not become a demand that every mourner feel the same way."
         },
         {
           "key": "source:BH03961",
-          "why": "Read tears and lament before consolatory assurances; particular grief and particular counsel must not become a demand that every mourner feel the same way."
-        },
-        {
-          "key": "source:BH06805",
           "why": "Read tears and lament before consolatory assurances; particular grief and particular counsel must not become a demand that every mourner feel the same way."
         },
         {
@@ -453,51 +635,11 @@
           "why": "Follow remembrance into practical obligations: company, education, allowances, debts, graves and the preservation of records. Retain the limits and circumstances of each instruction."
         },
         {
-          "key": "source:AB03215",
-          "why": "Follow remembrance into practical obligations: company, education, allowances, debts, graves and the preservation of records. Retain the limits and circumstances of each instruction."
-        },
-        {
           "key": "source:AB05076",
           "why": "Follow remembrance into practical obligations: company, education, allowances, debts, graves and the preservation of records. Retain the limits and circumstances of each instruction."
         },
         {
-          "key": "source:AB03736",
-          "why": "Follow remembrance into practical obligations: company, education, allowances, debts, graves and the preservation of records. Retain the limits and circumstances of each instruction."
-        },
-        {
-          "key": "source:AB12548",
-          "why": "Follow remembrance into practical obligations: company, education, allowances, debts, graves and the preservation of records. Retain the limits and circumstances of each instruction."
-        },
-        {
-          "key": "source:BH08895",
-          "why": "Follow remembrance into practical obligations: company, education, allowances, debts, graves and the preservation of records. Retain the limits and circumstances of each instruction."
-        },
-        {
-          "key": "source:AB01829",
-          "why": "Follow remembrance into practical obligations: company, education, allowances, debts, graves and the preservation of records. Retain the limits and circumstances of each instruction."
-        },
-        {
-          "key": "source:AB01047",
-          "why": "Follow remembrance into practical obligations: company, education, allowances, debts, graves and the preservation of records. Retain the limits and circumstances of each instruction."
-        },
-        {
-          "key": "source:AB01855",
-          "why": "Follow remembrance into practical obligations: company, education, allowances, debts, graves and the preservation of records. Retain the limits and circumstances of each instruction."
-        },
-        {
-          "key": "source:AB07895",
-          "why": "Follow remembrance into practical obligations: company, education, allowances, debts, graves and the preservation of records. Retain the limits and circumstances of each instruction."
-        },
-        {
           "key": "source:AB06024",
-          "why": "Follow remembrance into practical obligations: company, education, allowances, debts, graves and the preservation of records. Retain the limits and circumstances of each instruction."
-        },
-        {
-          "key": "source:AB11700",
-          "why": "Preserve the source distinction between a visitation revealed by the Supreme Pen and prayers by Abdul-Baha."
-        },
-        {
-          "key": "source:AB02973",
           "why": "Follow remembrance into practical obligations: company, education, allowances, debts, graves and the preservation of records. Retain the limits and circumstances of each instruction."
         },
         {
@@ -509,23 +651,11 @@
           "why": "Follow remembrance into practical obligations: company, education, allowances, debts, graves and the preservation of records. Retain the limits and circumstances of each instruction."
         },
         {
-          "key": "source:AB03333",
-          "why": "Follow remembrance into practical obligations: company, education, allowances, debts, graves and the preservation of records. Retain the limits and circumstances of each instruction."
-        },
-        {
-          "key": "source:AB05744",
-          "why": "Follow remembrance into practical obligations: company, education, allowances, debts, graves and the preservation of records. Retain the limits and circumstances of each instruction."
-        },
-        {
           "key": "source:AB09518",
           "why": "Follow remembrance into practical obligations: company, education, allowances, debts, graves and the preservation of records. Retain the limits and circumstances of each instruction."
         },
         {
           "key": "source:AB03413",
-          "why": "Follow remembrance into practical obligations: company, education, allowances, debts, graves and the preservation of records. Retain the limits and circumstances of each instruction."
-        },
-        {
-          "key": "source:AB01103",
           "why": "Follow remembrance into practical obligations: company, education, allowances, debts, graves and the preservation of records. Retain the limits and circumstances of each instruction."
         },
         {
@@ -549,15 +679,7 @@
           "why": "Follow remembrance into practical obligations: company, education, allowances, debts, graves and the preservation of records. Retain the limits and circumstances of each instruction."
         },
         {
-          "key": "source:BH01608",
-          "why": "Follow remembrance into practical obligations: company, education, allowances, debts, graves and the preservation of records. Retain the limits and circumstances of each instruction."
-        },
-        {
           "key": "source:AB04397",
-          "why": "Explore kinship as a call to faithful conduct, generosity and service, keeping explicit qualifications about character beside praise of ancestors."
-        },
-        {
-          "key": "source:AB07448",
           "why": "Explore kinship as a call to faithful conduct, generosity and service, keeping explicit qualifications about character beside praise of ancestors."
         },
         {
@@ -569,23 +691,11 @@
           "why": "Explore kinship as a call to faithful conduct, generosity and service, keeping explicit qualifications about character beside praise of ancestors."
         },
         {
-          "key": "source:AB04538",
-          "why": "Explore kinship as a call to faithful conduct, generosity and service, keeping explicit qualifications about character beside praise of ancestors."
-        },
-        {
           "key": "source:AB05454",
           "why": "Explore kinship as a call to faithful conduct, generosity and service, keeping explicit qualifications about character beside praise of ancestors."
         },
         {
-          "key": "source:AB05710",
-          "why": "Explore kinship as a call to faithful conduct, generosity and service, keeping explicit qualifications about character beside praise of ancestors."
-        },
-        {
           "key": "source:AB06897",
-          "why": "Explore kinship as a call to faithful conduct, generosity and service, keeping explicit qualifications about character beside praise of ancestors."
-        },
-        {
-          "key": "source:AB03911",
           "why": "Explore kinship as a call to faithful conduct, generosity and service, keeping explicit qualifications about character beside praise of ancestors."
         },
         {
@@ -594,18 +704,6 @@
         },
         {
           "key": "source:AB06585",
-          "why": "Explore kinship as a call to faithful conduct, generosity and service, keeping explicit qualifications about character beside praise of ancestors."
-        },
-        {
-          "key": "source:AB07340",
-          "why": "Explore kinship as a call to faithful conduct, generosity and service, keeping explicit qualifications about character beside praise of ancestors."
-        },
-        {
-          "key": "source:AB07347",
-          "why": "Explore kinship as a call to faithful conduct, generosity and service, keeping explicit qualifications about character beside praise of ancestors."
-        },
-        {
-          "key": "source:AB12103",
           "why": "Explore kinship as a call to faithful conduct, generosity and service, keeping explicit qualifications about character beside praise of ancestors."
         },
         {
@@ -621,23 +719,7 @@
           "why": "Explore kinship as a call to faithful conduct, generosity and service, keeping explicit qualifications about character beside praise of ancestors."
         },
         {
-          "key": "source:AB01749",
-          "why": "Explore kinship as a call to faithful conduct, generosity and service, keeping explicit qualifications about character beside praise of ancestors."
-        },
-        {
-          "key": "source:AB04614",
-          "why": "Explore kinship as a call to faithful conduct, generosity and service, keeping explicit qualifications about character beside praise of ancestors."
-        },
-        {
           "key": "source:AB05163",
-          "why": "Explore kinship as a call to faithful conduct, generosity and service, keeping explicit qualifications about character beside praise of ancestors."
-        },
-        {
-          "key": "source:AB05346",
-          "why": "Explore kinship as a call to faithful conduct, generosity and service, keeping explicit qualifications about character beside praise of ancestors."
-        },
-        {
-          "key": "source:AB05706",
           "why": "Explore kinship as a call to faithful conduct, generosity and service, keeping explicit qualifications about character beside praise of ancestors."
         },
         {
@@ -645,19 +727,7 @@
           "why": "Explore kinship as a call to faithful conduct, generosity and service, keeping explicit qualifications about character beside praise of ancestors."
         },
         {
-          "key": "source:AB06985",
-          "why": "Explore kinship as a call to faithful conduct, generosity and service, keeping explicit qualifications about character beside praise of ancestors."
-        },
-        {
           "key": "source:AB07229",
-          "why": "Explore kinship as a call to faithful conduct, generosity and service, keeping explicit qualifications about character beside praise of ancestors."
-        },
-        {
-          "key": "source:AB09342",
-          "why": "Explore kinship as a call to faithful conduct, generosity and service, keeping explicit qualifications about character beside praise of ancestors."
-        },
-        {
-          "key": "source:AB10705",
           "why": "Explore kinship as a call to faithful conduct, generosity and service, keeping explicit qualifications about character beside praise of ancestors."
         },
         {
@@ -669,35 +739,11 @@
           "why": "Explore kinship as a call to faithful conduct, generosity and service, keeping explicit qualifications about character beside praise of ancestors."
         },
         {
-          "key": "source:AB00897",
-          "why": "Explore kinship as a call to faithful conduct, generosity and service, keeping explicit qualifications about character beside praise of ancestors."
-        },
-        {
-          "key": "source:AB02502",
-          "why": "Explore kinship as a call to faithful conduct, generosity and service, keeping explicit qualifications about character beside praise of ancestors."
-        },
-        {
-          "key": "source:AB03070",
-          "why": "Explore kinship as a call to faithful conduct, generosity and service, keeping explicit qualifications about character beside praise of ancestors."
-        },
-        {
-          "key": "source:AB03211",
-          "why": "Explore kinship as a call to faithful conduct, generosity and service, keeping explicit qualifications about character beside praise of ancestors."
-        },
-        {
           "key": "source:AB03505",
           "why": "Explore kinship as a call to faithful conduct, generosity and service, keeping explicit qualifications about character beside praise of ancestors."
         },
         {
-          "key": "source:AB05347",
-          "why": "Explore kinship as a call to faithful conduct, generosity and service, keeping explicit qualifications about character beside praise of ancestors."
-        },
-        {
           "key": "source:AB05350",
-          "why": "Explore kinship as a call to faithful conduct, generosity and service, keeping explicit qualifications about character beside praise of ancestors."
-        },
-        {
-          "key": "source:AB05554",
           "why": "Explore kinship as a call to faithful conduct, generosity and service, keeping explicit qualifications about character beside praise of ancestors."
         },
         {
@@ -706,10 +752,6 @@
         },
         {
           "key": "source:AB06485",
-          "why": "Explore kinship as a call to faithful conduct, generosity and service, keeping explicit qualifications about character beside praise of ancestors."
-        },
-        {
-          "key": "source:AB07830",
           "why": "Explore kinship as a call to faithful conduct, generosity and service, keeping explicit qualifications about character beside praise of ancestors."
         },
         {
@@ -729,35 +771,11 @@
           "why": "Explore kinship as a call to faithful conduct, generosity and service, keeping explicit qualifications about character beside praise of ancestors."
         },
         {
-          "key": "source:AB11705",
-          "why": "Explore kinship as a call to faithful conduct, generosity and service, keeping explicit qualifications about character beside praise of ancestors."
-        },
-        {
-          "key": "source:AB11775",
-          "why": "Explore kinship as a call to faithful conduct, generosity and service, keeping explicit qualifications about character beside praise of ancestors."
-        },
-        {
-          "key": "source:AB11978",
-          "why": "Explore kinship as a call to faithful conduct, generosity and service, keeping explicit qualifications about character beside praise of ancestors."
-        },
-        {
           "key": "source:AB12104",
           "why": "Explore kinship as a call to faithful conduct, generosity and service, keeping explicit qualifications about character beside praise of ancestors."
         },
         {
-          "key": "source:AB12410",
-          "why": "Explore kinship as a call to faithful conduct, generosity and service, keeping explicit qualifications about character beside praise of ancestors."
-        },
-        {
-          "key": "source:AB12748",
-          "why": "Explore kinship as a call to faithful conduct, generosity and service, keeping explicit qualifications about character beside praise of ancestors."
-        },
-        {
           "key": "source:BH06993",
-          "why": "Explore kinship as a call to faithful conduct, generosity and service, keeping explicit qualifications about character beside praise of ancestors."
-        },
-        {
-          "key": "source:BH07244",
           "why": "Explore kinship as a call to faithful conduct, generosity and service, keeping explicit qualifications about character beside praise of ancestors."
         },
         {
@@ -777,39 +795,11 @@
           "why": "Allow letters to particular families to speak in their own settings: an address, a name and a relationship make consolation personal rather than abstract."
         },
         {
-          "key": "source:AB04082",
-          "why": "Allow letters to particular families to speak in their own settings: an address, a name and a relationship make consolation personal rather than abstract."
-        },
-        {
-          "key": "source:AB04449",
-          "why": "Allow letters to particular families to speak in their own settings: an address, a name and a relationship make consolation personal rather than abstract."
-        },
-        {
-          "key": "source:AB08959",
-          "why": "Allow letters to particular families to speak in their own settings: an address, a name and a relationship make consolation personal rather than abstract."
-        },
-        {
           "key": "source:AB01731",
           "why": "Allow letters to particular families to speak in their own settings: an address, a name and a relationship make consolation personal rather than abstract."
         },
         {
           "key": "source:AB03348",
-          "why": "Allow letters to particular families to speak in their own settings: an address, a name and a relationship make consolation personal rather than abstract."
-        },
-        {
-          "key": "source:AB04943",
-          "why": "Allow letters to particular families to speak in their own settings: an address, a name and a relationship make consolation personal rather than abstract."
-        },
-        {
-          "key": "source:AB05654",
-          "why": "Allow letters to particular families to speak in their own settings: an address, a name and a relationship make consolation personal rather than abstract."
-        },
-        {
-          "key": "source:AB08905",
-          "why": "Allow letters to particular families to speak in their own settings: an address, a name and a relationship make consolation personal rather than abstract."
-        },
-        {
-          "key": "source:AB11689",
           "why": "Allow letters to particular families to speak in their own settings: an address, a name and a relationship make consolation personal rather than abstract."
         },
         {
@@ -821,19 +811,7 @@
           "why": "Allow letters to particular families to speak in their own settings: an address, a name and a relationship make consolation personal rather than abstract."
         },
         {
-          "key": "source:BH07972",
-          "why": "Allow letters to particular families to speak in their own settings: an address, a name and a relationship make consolation personal rather than abstract."
-        },
-        {
-          "key": "source:AB01669",
-          "why": "Allow letters to particular families to speak in their own settings: an address, a name and a relationship make consolation personal rather than abstract."
-        },
-        {
           "key": "source:AB02033",
-          "why": "Allow letters to particular families to speak in their own settings: an address, a name and a relationship make consolation personal rather than abstract."
-        },
-        {
-          "key": "source:AB02997",
           "why": "Allow letters to particular families to speak in their own settings: an address, a name and a relationship make consolation personal rather than abstract."
         },
         {
@@ -853,26 +831,6 @@
           "why": "Allow letters to particular families to speak in their own settings: an address, a name and a relationship make consolation personal rather than abstract."
         },
         {
-          "key": "source:AB05235",
-          "why": "Allow letters to particular families to speak in their own settings: an address, a name and a relationship make consolation personal rather than abstract."
-        },
-        {
-          "key": "source:AB05661",
-          "why": "Allow letters to particular families to speak in their own settings: an address, a name and a relationship make consolation personal rather than abstract."
-        },
-        {
-          "key": "source:AB06242",
-          "why": "Allow letters to particular families to speak in their own settings: an address, a name and a relationship make consolation personal rather than abstract."
-        },
-        {
-          "key": "source:AB06253",
-          "why": "Allow letters to particular families to speak in their own settings: an address, a name and a relationship make consolation personal rather than abstract."
-        },
-        {
-          "key": "source:AB06389",
-          "why": "Allow letters to particular families to speak in their own settings: an address, a name and a relationship make consolation personal rather than abstract."
-        },
-        {
           "key": "source:AB06612",
           "why": "Allow letters to particular families to speak in their own settings: an address, a name and a relationship make consolation personal rather than abstract."
         },
@@ -881,19 +839,7 @@
           "why": "Allow letters to particular families to speak in their own settings: an address, a name and a relationship make consolation personal rather than abstract."
         },
         {
-          "key": "source:AB07446",
-          "why": "Allow letters to particular families to speak in their own settings: an address, a name and a relationship make consolation personal rather than abstract."
-        },
-        {
-          "key": "source:AB07596",
-          "why": "Allow letters to particular families to speak in their own settings: an address, a name and a relationship make consolation personal rather than abstract."
-        },
-        {
           "key": "source:AB07640",
-          "why": "Allow letters to particular families to speak in their own settings: an address, a name and a relationship make consolation personal rather than abstract."
-        },
-        {
-          "key": "source:AB07658",
           "why": "Allow letters to particular families to speak in their own settings: an address, a name and a relationship make consolation personal rather than abstract."
         },
         {
@@ -905,10 +851,6 @@
           "why": "Allow letters to particular families to speak in their own settings: an address, a name and a relationship make consolation personal rather than abstract."
         },
         {
-          "key": "source:AB08946",
-          "why": "Allow letters to particular families to speak in their own settings: an address, a name and a relationship make consolation personal rather than abstract."
-        },
-        {
           "key": "source:AB09000",
           "why": "Allow letters to particular families to speak in their own settings: an address, a name and a relationship make consolation personal rather than abstract."
         },
@@ -917,19 +859,7 @@
           "why": "Allow letters to particular families to speak in their own settings: an address, a name and a relationship make consolation personal rather than abstract."
         },
         {
-          "key": "source:AB11778",
-          "why": "Allow letters to particular families to speak in their own settings: an address, a name and a relationship make consolation personal rather than abstract."
-        },
-        {
-          "key": "source:AB12290",
-          "why": "Allow letters to particular families to speak in their own settings: an address, a name and a relationship make consolation personal rather than abstract."
-        },
-        {
           "key": "source:AB12564",
-          "why": "Allow letters to particular families to speak in their own settings: an address, a name and a relationship make consolation personal rather than abstract."
-        },
-        {
-          "key": "source:AB12624",
           "why": "Allow letters to particular families to speak in their own settings: an address, a name and a relationship make consolation personal rather than abstract."
         },
         {
@@ -941,31 +871,7 @@
           "why": "Allow letters to particular families to speak in their own settings: an address, a name and a relationship make consolation personal rather than abstract."
         },
         {
-          "key": "source:BH02915",
-          "why": "Allow letters to particular families to speak in their own settings: an address, a name and a relationship make consolation personal rather than abstract."
-        },
-        {
           "key": "source:BH03379",
-          "why": "Allow letters to particular families to speak in their own settings: an address, a name and a relationship make consolation personal rather than abstract."
-        },
-        {
-          "key": "source:BH04211",
-          "why": "Allow letters to particular families to speak in their own settings: an address, a name and a relationship make consolation personal rather than abstract."
-        },
-        {
-          "key": "source:BH05222",
-          "why": "Allow letters to particular families to speak in their own settings: an address, a name and a relationship make consolation personal rather than abstract."
-        },
-        {
-          "key": "source:BH07495",
-          "why": "Allow letters to particular families to speak in their own settings: an address, a name and a relationship make consolation personal rather than abstract."
-        },
-        {
-          "key": "source:BH09645",
-          "why": "Allow letters to particular families to speak in their own settings: an address, a name and a relationship make consolation personal rather than abstract."
-        },
-        {
-          "key": "source:BH10122",
           "why": "Allow letters to particular families to speak in their own settings: an address, a name and a relationship make consolation personal rather than abstract."
         },
         {
@@ -981,18 +887,6 @@
           "why": "Read women as teachers, hosts, writers, companions and sources of courage; distinguish named lives from unnamed addresses and keep doctrinal interpretations in their own source setting."
         },
         {
-          "key": "source:AB04882",
-          "why": "Read women as teachers, hosts, writers, companions and sources of courage; distinguish named lives from unnamed addresses and keep doctrinal interpretations in their own source setting."
-        },
-        {
-          "key": "source:BH02946",
-          "why": "Read women as teachers, hosts, writers, companions and sources of courage; distinguish named lives from unnamed addresses and keep doctrinal interpretations in their own source setting."
-        },
-        {
-          "key": "source:BH04301",
-          "why": "Read women as teachers, hosts, writers, companions and sources of courage; distinguish named lives from unnamed addresses and keep doctrinal interpretations in their own source setting."
-        },
-        {
           "key": "source:BH11569",
           "why": "Read women as teachers, hosts, writers, companions and sources of courage; distinguish named lives from unnamed addresses and keep doctrinal interpretations in their own source setting."
         },
@@ -1005,23 +899,11 @@
           "why": "Read women as teachers, hosts, writers, companions and sources of courage; distinguish named lives from unnamed addresses and keep doctrinal interpretations in their own source setting."
         },
         {
-          "key": "source:AB10035",
-          "why": "Read women as teachers, hosts, writers, companions and sources of courage; distinguish named lives from unnamed addresses and keep doctrinal interpretations in their own source setting."
-        },
-        {
           "key": "source:BH00695",
           "why": "Read women as teachers, hosts, writers, companions and sources of courage; distinguish named lives from unnamed addresses and keep doctrinal interpretations in their own source setting."
         },
         {
-          "key": "source:BH03909",
-          "why": "Read women as teachers, hosts, writers, companions and sources of courage; distinguish named lives from unnamed addresses and keep doctrinal interpretations in their own source setting."
-        },
-        {
           "key": "source:AB02673",
-          "why": "Read women as teachers, hosts, writers, companions and sources of courage; distinguish named lives from unnamed addresses and keep doctrinal interpretations in their own source setting."
-        },
-        {
-          "key": "source:AB03784",
           "why": "Read women as teachers, hosts, writers, companions and sources of courage; distinguish named lives from unnamed addresses and keep doctrinal interpretations in their own source setting."
         },
         {
@@ -1030,10 +912,6 @@
         },
         {
           "key": "source:BH01263",
-          "why": "Read women as teachers, hosts, writers, companions and sources of courage; distinguish named lives from unnamed addresses and keep doctrinal interpretations in their own source setting."
-        },
-        {
-          "key": "source:BH02039",
           "why": "Read women as teachers, hosts, writers, companions and sources of courage; distinguish named lives from unnamed addresses and keep doctrinal interpretations in their own source setting."
         },
         {
@@ -1061,23 +939,11 @@
           "why": "Read women as teachers, hosts, writers, companions and sources of courage; distinguish named lives from unnamed addresses and keep doctrinal interpretations in their own source setting."
         },
         {
-          "key": "source:BH07865",
-          "why": "Read women as teachers, hosts, writers, companions and sources of courage; distinguish named lives from unnamed addresses and keep doctrinal interpretations in their own source setting."
-        },
-        {
-          "key": "source:BH10499",
-          "why": "Read women as teachers, hosts, writers, companions and sources of courage; distinguish named lives from unnamed addresses and keep doctrinal interpretations in their own source setting."
-        },
-        {
           "key": "source:AB02414",
           "why": "Read women as teachers, hosts, writers, companions and sources of courage; distinguish named lives from unnamed addresses and keep doctrinal interpretations in their own source setting."
         },
         {
           "key": "source:AB03918",
-          "why": "Read women as teachers, hosts, writers, companions and sources of courage; distinguish named lives from unnamed addresses and keep doctrinal interpretations in their own source setting."
-        },
-        {
-          "key": "source:AB04307",
           "why": "Read women as teachers, hosts, writers, companions and sources of courage; distinguish named lives from unnamed addresses and keep doctrinal interpretations in their own source setting."
         },
         {
@@ -1089,19 +955,7 @@
           "why": "Read women as teachers, hosts, writers, companions and sources of courage; distinguish named lives from unnamed addresses and keep doctrinal interpretations in their own source setting."
         },
         {
-          "key": "source:AB05183",
-          "why": "Read women as teachers, hosts, writers, companions and sources of courage; distinguish named lives from unnamed addresses and keep doctrinal interpretations in their own source setting."
-        },
-        {
           "key": "source:AB05204",
-          "why": "Read women as teachers, hosts, writers, companions and sources of courage; distinguish named lives from unnamed addresses and keep doctrinal interpretations in their own source setting."
-        },
-        {
-          "key": "source:AB05468",
-          "why": "Read women as teachers, hosts, writers, companions and sources of courage; distinguish named lives from unnamed addresses and keep doctrinal interpretations in their own source setting."
-        },
-        {
-          "key": "source:AB06741",
           "why": "Read women as teachers, hosts, writers, companions and sources of courage; distinguish named lives from unnamed addresses and keep doctrinal interpretations in their own source setting."
         },
         {
@@ -1133,14 +987,6 @@
           "why": "Read women as teachers, hosts, writers, companions and sources of courage; distinguish named lives from unnamed addresses and keep doctrinal interpretations in their own source setting."
         },
         {
-          "key": "source:AB11951",
-          "why": "Read women as teachers, hosts, writers, companions and sources of courage; distinguish named lives from unnamed addresses and keep doctrinal interpretations in their own source setting."
-        },
-        {
-          "key": "source:AB12089",
-          "why": "Read women as teachers, hosts, writers, companions and sources of courage; distinguish named lives from unnamed addresses and keep doctrinal interpretations in their own source setting."
-        },
-        {
           "key": "source:BH00595",
           "why": "Read women as teachers, hosts, writers, companions and sources of courage; distinguish named lives from unnamed addresses and keep doctrinal interpretations in their own source setting."
         },
@@ -1153,19 +999,11 @@
           "why": "Read women as teachers, hosts, writers, companions and sources of courage; distinguish named lives from unnamed addresses and keep doctrinal interpretations in their own source setting."
         },
         {
-          "key": "source:BH02932",
-          "why": "Read women as teachers, hosts, writers, companions and sources of courage; distinguish named lives from unnamed addresses and keep doctrinal interpretations in their own source setting."
-        },
-        {
           "key": "source:BH03311",
           "why": "Read women as teachers, hosts, writers, companions and sources of courage; distinguish named lives from unnamed addresses and keep doctrinal interpretations in their own source setting."
         },
         {
           "key": "source:BH04994",
-          "why": "Read women as teachers, hosts, writers, companions and sources of courage; distinguish named lives from unnamed addresses and keep doctrinal interpretations in their own source setting."
-        },
-        {
-          "key": "source:BH06410",
           "why": "Read women as teachers, hosts, writers, companions and sources of courage; distinguish named lives from unnamed addresses and keep doctrinal interpretations in their own source setting."
         },
         {
@@ -1189,27 +1027,11 @@
           "why": "Give space to bereaved parents and young lives without turning accounts of loss into a general instruction to seek suffering; include the prayers and responsibilities that accompany remembrance."
         },
         {
-          "key": "source:AB06969",
-          "why": "Give space to bereaved parents and young lives without turning accounts of loss into a general instruction to seek suffering; include the prayers and responsibilities that accompany remembrance."
-        },
-        {
           "key": "source:BH03411",
           "why": "Give space to bereaved parents and young lives without turning accounts of loss into a general instruction to seek suffering; include the prayers and responsibilities that accompany remembrance."
         },
         {
-          "key": "source:BH05988",
-          "why": "Give space to bereaved parents and young lives without turning accounts of loss into a general instruction to seek suffering; include the prayers and responsibilities that accompany remembrance."
-        },
-        {
           "key": "source:AB12203",
-          "why": "Give space to bereaved parents and young lives without turning accounts of loss into a general instruction to seek suffering; include the prayers and responsibilities that accompany remembrance."
-        },
-        {
-          "key": "source:BH04902",
-          "why": "Give space to bereaved parents and young lives without turning accounts of loss into a general instruction to seek suffering; include the prayers and responsibilities that accompany remembrance."
-        },
-        {
-          "key": "source:AB02003",
           "why": "Give space to bereaved parents and young lives without turning accounts of loss into a general instruction to seek suffering; include the prayers and responsibilities that accompany remembrance."
         },
         {
@@ -1221,23 +1043,7 @@
           "why": "Give space to bereaved parents and young lives without turning accounts of loss into a general instruction to seek suffering; include the prayers and responsibilities that accompany remembrance."
         },
         {
-          "key": "source:AB07630",
-          "why": "Give space to bereaved parents and young lives without turning accounts of loss into a general instruction to seek suffering; include the prayers and responsibilities that accompany remembrance."
-        },
-        {
           "key": "source:AB08315",
-          "why": "Give space to bereaved parents and young lives without turning accounts of loss into a general instruction to seek suffering; include the prayers and responsibilities that accompany remembrance."
-        },
-        {
-          "key": "source:AB09359",
-          "why": "Give space to bereaved parents and young lives without turning accounts of loss into a general instruction to seek suffering; include the prayers and responsibilities that accompany remembrance."
-        },
-        {
-          "key": "source:AB11996",
-          "why": "Give space to bereaved parents and young lives without turning accounts of loss into a general instruction to seek suffering; include the prayers and responsibilities that accompany remembrance."
-        },
-        {
-          "key": "source:AB12208",
           "why": "Give space to bereaved parents and young lives without turning accounts of loss into a general instruction to seek suffering; include the prayers and responsibilities that accompany remembrance."
         },
         {
@@ -1253,23 +1059,7 @@
           "why": "Attend to work sustained over years, not only a final event. Read individual services and distinctive qualities alongside recurring devotional language."
         },
         {
-          "key": "source:AB00885",
-          "why": "Attend to work sustained over years, not only a final event. Read individual services and distinctive qualities alongside recurring devotional language."
-        },
-        {
-          "key": "source:AB01804",
-          "why": "Attend to work sustained over years, not only a final event. Read individual services and distinctive qualities alongside recurring devotional language."
-        },
-        {
           "key": "source:AB00630",
-          "why": "Attend to work sustained over years, not only a final event. Read individual services and distinctive qualities alongside recurring devotional language."
-        },
-        {
-          "key": "source:AB05216",
-          "why": "Attend to work sustained over years, not only a final event. Read individual services and distinctive qualities alongside recurring devotional language."
-        },
-        {
-          "key": "source:AB02299",
           "why": "Attend to work sustained over years, not only a final event. Read individual services and distinctive qualities alongside recurring devotional language."
         },
         {
@@ -1277,23 +1067,11 @@
           "why": "Attend to work sustained over years, not only a final event. Read individual services and distinctive qualities alongside recurring devotional language."
         },
         {
-          "key": "source:AB06461",
-          "why": "Attend to work sustained over years, not only a final event. Read individual services and distinctive qualities alongside recurring devotional language."
-        },
-        {
           "key": "source:AB11661",
           "why": "Attend to work sustained over years, not only a final event. Read individual services and distinctive qualities alongside recurring devotional language."
         },
         {
-          "key": "source:AB11924",
-          "why": "Attend to work sustained over years, not only a final event. Read individual services and distinctive qualities alongside recurring devotional language."
-        },
-        {
           "key": "source:BH02146",
-          "why": "Attend to work sustained over years, not only a final event. Read individual services and distinctive qualities alongside recurring devotional language."
-        },
-        {
-          "key": "source:BH02255",
           "why": "Attend to work sustained over years, not only a final event. Read individual services and distinctive qualities alongside recurring devotional language."
         },
         {
@@ -1309,51 +1087,11 @@
           "why": "Attend to work sustained over years, not only a final event. Read individual services and distinctive qualities alongside recurring devotional language."
         },
         {
-          "key": "source:AB01302",
-          "why": "Attend to work sustained over years, not only a final event. Read individual services and distinctive qualities alongside recurring devotional language."
-        },
-        {
           "key": "source:AB02116",
           "why": "Attend to work sustained over years, not only a final event. Read individual services and distinctive qualities alongside recurring devotional language."
         },
         {
-          "key": "source:AB02448",
-          "why": "Attend to work sustained over years, not only a final event. Read individual services and distinctive qualities alongside recurring devotional language."
-        },
-        {
-          "key": "source:AB03081",
-          "why": "Attend to work sustained over years, not only a final event. Read individual services and distinctive qualities alongside recurring devotional language."
-        },
-        {
-          "key": "source:AB03853",
-          "why": "Attend to work sustained over years, not only a final event. Read individual services and distinctive qualities alongside recurring devotional language."
-        },
-        {
-          "key": "source:AB03899",
-          "why": "Attend to work sustained over years, not only a final event. Read individual services and distinctive qualities alongside recurring devotional language."
-        },
-        {
-          "key": "source:AB03902",
-          "why": "Attend to work sustained over years, not only a final event. Read individual services and distinctive qualities alongside recurring devotional language."
-        },
-        {
-          "key": "source:AB05523",
-          "why": "Attend to work sustained over years, not only a final event. Read individual services and distinctive qualities alongside recurring devotional language."
-        },
-        {
-          "key": "source:AB05874",
-          "why": "Attend to work sustained over years, not only a final event. Read individual services and distinctive qualities alongside recurring devotional language."
-        },
-        {
-          "key": "source:AB06606",
-          "why": "Attend to work sustained over years, not only a final event. Read individual services and distinctive qualities alongside recurring devotional language."
-        },
-        {
           "key": "source:AB06880",
-          "why": "Attend to work sustained over years, not only a final event. Read individual services and distinctive qualities alongside recurring devotional language."
-        },
-        {
-          "key": "source:AB07242",
           "why": "Attend to work sustained over years, not only a final event. Read individual services and distinctive qualities alongside recurring devotional language."
         },
         {
@@ -1365,18 +1103,6 @@
           "why": "Attend to work sustained over years, not only a final event. Read individual services and distinctive qualities alongside recurring devotional language."
         },
         {
-          "key": "source:AB07952",
-          "why": "Attend to work sustained over years, not only a final event. Read individual services and distinctive qualities alongside recurring devotional language."
-        },
-        {
-          "key": "source:AB07999",
-          "why": "Attend to work sustained over years, not only a final event. Read individual services and distinctive qualities alongside recurring devotional language."
-        },
-        {
-          "key": "source:AB08012",
-          "why": "Attend to work sustained over years, not only a final event. Read individual services and distinctive qualities alongside recurring devotional language."
-        },
-        {
           "key": "source:AB08019",
           "why": "Attend to work sustained over years, not only a final event. Read individual services and distinctive qualities alongside recurring devotional language."
         },
@@ -1385,15 +1111,7 @@
           "why": "Attend to work sustained over years, not only a final event. Read individual services and distinctive qualities alongside recurring devotional language."
         },
         {
-          "key": "source:AB11362",
-          "why": "Attend to work sustained over years, not only a final event. Read individual services and distinctive qualities alongside recurring devotional language."
-        },
-        {
           "key": "source:AB11687",
-          "why": "Attend to work sustained over years, not only a final event. Read individual services and distinctive qualities alongside recurring devotional language."
-        },
-        {
-          "key": "source:AB11736",
           "why": "Attend to work sustained over years, not only a final event. Read individual services and distinctive qualities alongside recurring devotional language."
         },
         {
@@ -1401,19 +1119,7 @@
           "why": "Attend to work sustained over years, not only a final event. Read individual services and distinctive qualities alongside recurring devotional language."
         },
         {
-          "key": "source:AB12297",
-          "why": "Attend to work sustained over years, not only a final event. Read individual services and distinctive qualities alongside recurring devotional language."
-        },
-        {
           "key": "source:AB12380",
-          "why": "Attend to work sustained over years, not only a final event. Read individual services and distinctive qualities alongside recurring devotional language."
-        },
-        {
-          "key": "source:AB12593",
-          "why": "Attend to work sustained over years, not only a final event. Read individual services and distinctive qualities alongside recurring devotional language."
-        },
-        {
-          "key": "source:BH00985",
           "why": "Attend to work sustained over years, not only a final event. Read individual services and distinctive qualities alongside recurring devotional language."
         },
         {
@@ -1421,23 +1127,7 @@
           "why": "Attend to work sustained over years, not only a final event. Read individual services and distinctive qualities alongside recurring devotional language."
         },
         {
-          "key": "source:BH03165",
-          "why": "Attend to work sustained over years, not only a final event. Read individual services and distinctive qualities alongside recurring devotional language."
-        },
-        {
-          "key": "source:BH04107",
-          "why": "Attend to work sustained over years, not only a final event. Read individual services and distinctive qualities alongside recurring devotional language."
-        },
-        {
-          "key": "source:BH04114",
-          "why": "Attend to work sustained over years, not only a final event. Read individual services and distinctive qualities alongside recurring devotional language."
-        },
-        {
           "key": "source:BH04916",
-          "why": "Attend to work sustained over years, not only a final event. Read individual services and distinctive qualities alongside recurring devotional language."
-        },
-        {
-          "key": "source:BH05076",
           "why": "Attend to work sustained over years, not only a final event. Read individual services and distinctive qualities alongside recurring devotional language."
         },
         {
@@ -1465,31 +1155,11 @@
           "why": "Preserve the circumstances of persecution, the voices of survivors and the texts’ strong language. Read forgiveness and wisdom alongside martyr praise; these accounts are not a prescription to reenact violence."
         },
         {
-          "key": "source:AB00437",
-          "why": "Preserve the circumstances of persecution, the voices of survivors and the texts’ strong language. Read forgiveness and wisdom alongside martyr praise; these accounts are not a prescription to reenact violence."
-        },
-        {
-          "key": "source:AB05111",
-          "why": "Preserve the circumstances of persecution, the voices of survivors and the texts’ strong language. Read forgiveness and wisdom alongside martyr praise; these accounts are not a prescription to reenact violence."
-        },
-        {
-          "key": "source:AB05162",
-          "why": "Preserve the circumstances of persecution, the voices of survivors and the texts’ strong language. Read forgiveness and wisdom alongside martyr praise; these accounts are not a prescription to reenact violence."
-        },
-        {
-          "key": "source:AB08228",
-          "why": "Preserve the circumstances of persecution, the voices of survivors and the texts’ strong language. Read forgiveness and wisdom alongside martyr praise; these accounts are not a prescription to reenact violence."
-        },
-        {
           "key": "source:AB00743",
           "why": "Preserve the circumstances of persecution, the voices of survivors and the texts’ strong language. Read forgiveness and wisdom alongside martyr praise; these accounts are not a prescription to reenact violence."
         },
         {
           "key": "source:AB01393",
-          "why": "Preserve the circumstances of persecution, the voices of survivors and the texts’ strong language. Read forgiveness and wisdom alongside martyr praise; these accounts are not a prescription to reenact violence."
-        },
-        {
-          "key": "source:AB01998",
           "why": "Preserve the circumstances of persecution, the voices of survivors and the texts’ strong language. Read forgiveness and wisdom alongside martyr praise; these accounts are not a prescription to reenact violence."
         },
         {
@@ -1505,23 +1175,7 @@
           "why": "Preserve the circumstances of persecution, the voices of survivors and the texts’ strong language. Read forgiveness and wisdom alongside martyr praise; these accounts are not a prescription to reenact violence."
         },
         {
-          "key": "source:BH03117",
-          "why": "Preserve the circumstances of persecution, the voices of survivors and the texts’ strong language. Read forgiveness and wisdom alongside martyr praise; these accounts are not a prescription to reenact violence."
-        },
-        {
           "key": "source:BH03150",
-          "why": "Preserve the circumstances of persecution, the voices of survivors and the texts’ strong language. Read forgiveness and wisdom alongside martyr praise; these accounts are not a prescription to reenact violence."
-        },
-        {
-          "key": "source:BH04966",
-          "why": "Keep the counsel of wisdom with the praise of steadfastness."
-        },
-        {
-          "key": "source:AB00750",
-          "why": "Preserve the circumstances of persecution, the voices of survivors and the texts’ strong language. Read forgiveness and wisdom alongside martyr praise; these accounts are not a prescription to reenact violence."
-        },
-        {
-          "key": "source:AB00857",
           "why": "Preserve the circumstances of persecution, the voices of survivors and the texts’ strong language. Read forgiveness and wisdom alongside martyr praise; these accounts are not a prescription to reenact violence."
         },
         {
@@ -1533,35 +1187,7 @@
           "why": "Preserve the circumstances of persecution, the voices of survivors and the texts’ strong language. Read forgiveness and wisdom alongside martyr praise; these accounts are not a prescription to reenact violence."
         },
         {
-          "key": "source:AB05014",
-          "why": "Preserve the circumstances of persecution, the voices of survivors and the texts’ strong language. Read forgiveness and wisdom alongside martyr praise; these accounts are not a prescription to reenact violence."
-        },
-        {
-          "key": "source:AB05032",
-          "why": "Preserve the circumstances of persecution, the voices of survivors and the texts’ strong language. Read forgiveness and wisdom alongside martyr praise; these accounts are not a prescription to reenact violence."
-        },
-        {
-          "key": "source:AB06019",
-          "why": "Preserve the circumstances of persecution, the voices of survivors and the texts’ strong language. Read forgiveness and wisdom alongside martyr praise; these accounts are not a prescription to reenact violence."
-        },
-        {
-          "key": "source:AB06757",
-          "why": "Preserve the circumstances of persecution, the voices of survivors and the texts’ strong language. Read forgiveness and wisdom alongside martyr praise; these accounts are not a prescription to reenact violence."
-        },
-        {
-          "key": "source:AB07084",
-          "why": "Preserve the circumstances of persecution, the voices of survivors and the texts’ strong language. Read forgiveness and wisdom alongside martyr praise; these accounts are not a prescription to reenact violence."
-        },
-        {
-          "key": "source:AB09401",
-          "why": "Preserve the circumstances of persecution, the voices of survivors and the texts’ strong language. Read forgiveness and wisdom alongside martyr praise; these accounts are not a prescription to reenact violence."
-        },
-        {
           "key": "source:AB11887",
-          "why": "Preserve the circumstances of persecution, the voices of survivors and the texts’ strong language. Read forgiveness and wisdom alongside martyr praise; these accounts are not a prescription to reenact violence."
-        },
-        {
-          "key": "source:BH01250",
           "why": "Preserve the circumstances of persecution, the voices of survivors and the texts’ strong language. Read forgiveness and wisdom alongside martyr praise; these accounts are not a prescription to reenact violence."
         },
         {
@@ -1585,18 +1211,6 @@
           "why": "Preserve the circumstances of persecution, the voices of survivors and the texts’ strong language. Read forgiveness and wisdom alongside martyr praise; these accounts are not a prescription to reenact violence."
         },
         {
-          "key": "source:AB03636",
-          "why": "Preserve the circumstances of persecution, the voices of survivors and the texts’ strong language. Read forgiveness and wisdom alongside martyr praise; these accounts are not a prescription to reenact violence."
-        },
-        {
-          "key": "source:AB04956",
-          "why": "Preserve the circumstances of persecution, the voices of survivors and the texts’ strong language. Read forgiveness and wisdom alongside martyr praise; these accounts are not a prescription to reenact violence."
-        },
-        {
-          "key": "source:AB05006",
-          "why": "Preserve the circumstances of persecution, the voices of survivors and the texts’ strong language. Read forgiveness and wisdom alongside martyr praise; these accounts are not a prescription to reenact violence."
-        },
-        {
           "key": "source:AB05653",
           "why": "Preserve the circumstances of persecution, the voices of survivors and the texts’ strong language. Read forgiveness and wisdom alongside martyr praise; these accounts are not a prescription to reenact violence."
         },
@@ -1605,35 +1219,7 @@
           "why": "Preserve the circumstances of persecution, the voices of survivors and the texts’ strong language. Read forgiveness and wisdom alongside martyr praise; these accounts are not a prescription to reenact violence."
         },
         {
-          "key": "source:AB05955",
-          "why": "Preserve the circumstances of persecution, the voices of survivors and the texts’ strong language. Read forgiveness and wisdom alongside martyr praise; these accounts are not a prescription to reenact violence."
-        },
-        {
-          "key": "source:AB06912",
-          "why": "Preserve the circumstances of persecution, the voices of survivors and the texts’ strong language. Read forgiveness and wisdom alongside martyr praise; these accounts are not a prescription to reenact violence."
-        },
-        {
-          "key": "source:AB09577",
-          "why": "Preserve the circumstances of persecution, the voices of survivors and the texts’ strong language. Read forgiveness and wisdom alongside martyr praise; these accounts are not a prescription to reenact violence."
-        },
-        {
           "key": "source:AB11747",
-          "why": "Preserve the circumstances of persecution, the voices of survivors and the texts’ strong language. Read forgiveness and wisdom alongside martyr praise; these accounts are not a prescription to reenact violence."
-        },
-        {
-          "key": "source:AB12123",
-          "why": "Preserve the circumstances of persecution, the voices of survivors and the texts’ strong language. Read forgiveness and wisdom alongside martyr praise; these accounts are not a prescription to reenact violence."
-        },
-        {
-          "key": "source:AB12513",
-          "why": "Preserve the circumstances of persecution, the voices of survivors and the texts’ strong language. Read forgiveness and wisdom alongside martyr praise; these accounts are not a prescription to reenact violence."
-        },
-        {
-          "key": "source:AB12526",
-          "why": "Preserve the circumstances of persecution, the voices of survivors and the texts’ strong language. Read forgiveness and wisdom alongside martyr praise; these accounts are not a prescription to reenact violence."
-        },
-        {
-          "key": "source:AB12647",
           "why": "Preserve the circumstances of persecution, the voices of survivors and the texts’ strong language. Read forgiveness and wisdom alongside martyr praise; these accounts are not a prescription to reenact violence."
         },
         {
@@ -1641,15 +1227,7 @@
           "why": "Preserve the circumstances of persecution, the voices of survivors and the texts’ strong language. Read forgiveness and wisdom alongside martyr praise; these accounts are not a prescription to reenact violence."
         },
         {
-          "key": "source:BH02103",
-          "why": "Preserve the circumstances of persecution, the voices of survivors and the texts’ strong language. Read forgiveness and wisdom alongside martyr praise; these accounts are not a prescription to reenact violence."
-        },
-        {
           "key": "source:BH02270",
-          "why": "Preserve the circumstances of persecution, the voices of survivors and the texts’ strong language. Read forgiveness and wisdom alongside martyr praise; these accounts are not a prescription to reenact violence."
-        },
-        {
-          "key": "source:BH03613",
           "why": "Preserve the circumstances of persecution, the voices of survivors and the texts’ strong language. Read forgiveness and wisdom alongside martyr praise; these accounts are not a prescription to reenact violence."
         },
         {
@@ -1665,23 +1243,11 @@
           "why": "Preserve the circumstances of persecution, the voices of survivors and the texts’ strong language. Read forgiveness and wisdom alongside martyr praise; these accounts are not a prescription to reenact violence."
         },
         {
-          "key": "source:BH05915",
-          "why": "Preserve the circumstances of persecution, the voices of survivors and the texts’ strong language. Read forgiveness and wisdom alongside martyr praise; these accounts are not a prescription to reenact violence."
-        },
-        {
           "key": "source:BH06368",
           "why": "Preserve the circumstances of persecution, the voices of survivors and the texts’ strong language. Read forgiveness and wisdom alongside martyr praise; these accounts are not a prescription to reenact violence."
         },
         {
-          "key": "source:BH09646",
-          "why": "Retain the unavailable terminal continuation visibly; never supply words beyond the catalogue source."
-        },
-        {
           "key": "source:AB02733",
-          "why": "Follow travel, exile, longing for presence and journeys interrupted by death into prayers that remember their intention and service. Preserve distinct versions and exact source gaps."
-        },
-        {
-          "key": "source:BH00605",
           "why": "Follow travel, exile, longing for presence and journeys interrupted by death into prayers that remember their intention and service. Preserve distinct versions and exact source gaps."
         },
         {
@@ -1697,14 +1263,6 @@
           "why": "Follow travel, exile, longing for presence and journeys interrupted by death into prayers that remember their intention and service. Preserve distinct versions and exact source gaps."
         },
         {
-          "key": "source:AB00070",
-          "why": "Follow travel, exile, longing for presence and journeys interrupted by death into prayers that remember their intention and service. Preserve distinct versions and exact source gaps."
-        },
-        {
-          "key": "source:AB00463",
-          "why": "Follow travel, exile, longing for presence and journeys interrupted by death into prayers that remember their intention and service. Preserve distinct versions and exact source gaps."
-        },
-        {
           "key": "source:BH03578",
           "why": "Follow travel, exile, longing for presence and journeys interrupted by death into prayers that remember their intention and service. Preserve distinct versions and exact source gaps."
         },
@@ -1717,10 +1275,6 @@
           "why": "Follow travel, exile, longing for presence and journeys interrupted by death into prayers that remember their intention and service. Preserve distinct versions and exact source gaps."
         },
         {
-          "key": "source:BH01968",
-          "why": "Follow travel, exile, longing for presence and journeys interrupted by death into prayers that remember their intention and service. Preserve distinct versions and exact source gaps."
-        },
-        {
           "key": "source:BH04653",
           "why": "Follow travel, exile, longing for presence and journeys interrupted by death into prayers that remember their intention and service. Preserve distinct versions and exact source gaps."
         },
@@ -1729,23 +1283,7 @@
           "why": "Follow travel, exile, longing for presence and journeys interrupted by death into prayers that remember their intention and service. Preserve distinct versions and exact source gaps."
         },
         {
-          "key": "source:BH05947",
-          "why": "Follow travel, exile, longing for presence and journeys interrupted by death into prayers that remember their intention and service. Preserve distinct versions and exact source gaps."
-        },
-        {
-          "key": "source:AB00982",
-          "why": "Follow travel, exile, longing for presence and journeys interrupted by death into prayers that remember their intention and service. Preserve distinct versions and exact source gaps."
-        },
-        {
           "key": "source:AB02636",
-          "why": "Follow travel, exile, longing for presence and journeys interrupted by death into prayers that remember their intention and service. Preserve distinct versions and exact source gaps."
-        },
-        {
-          "key": "source:AB02762",
-          "why": "Follow travel, exile, longing for presence and journeys interrupted by death into prayers that remember their intention and service. Preserve distinct versions and exact source gaps."
-        },
-        {
-          "key": "source:AB04164",
           "why": "Follow travel, exile, longing for presence and journeys interrupted by death into prayers that remember their intention and service. Preserve distinct versions and exact source gaps."
         },
         {
@@ -1753,19 +1291,7 @@
           "why": "Follow travel, exile, longing for presence and journeys interrupted by death into prayers that remember their intention and service. Preserve distinct versions and exact source gaps."
         },
         {
-          "key": "source:AB08023",
-          "why": "Follow travel, exile, longing for presence and journeys interrupted by death into prayers that remember their intention and service. Preserve distinct versions and exact source gaps."
-        },
-        {
           "key": "source:AB11776",
-          "why": "Follow travel, exile, longing for presence and journeys interrupted by death into prayers that remember their intention and service. Preserve distinct versions and exact source gaps."
-        },
-        {
-          "key": "source:AB11807",
-          "why": "Follow travel, exile, longing for presence and journeys interrupted by death into prayers that remember their intention and service. Preserve distinct versions and exact source gaps."
-        },
-        {
-          "key": "source:BB00400",
           "why": "Follow travel, exile, longing for presence and journeys interrupted by death into prayers that remember their intention and service. Preserve distinct versions and exact source gaps."
         },
         {
@@ -1781,31 +1307,11 @@
           "why": "Follow travel, exile, longing for presence and journeys interrupted by death into prayers that remember their intention and service. Preserve distinct versions and exact source gaps."
         },
         {
-          "key": "source:BH04810",
-          "why": "Follow travel, exile, longing for presence and journeys interrupted by death into prayers that remember their intention and service. Preserve distinct versions and exact source gaps."
-        },
-        {
           "key": "source:BH01333",
           "why": "Let complete prayers and visitation texts unfold, preserving their named recipients and theological voice. Read images of nearness and life beyond death without assuming that every metaphor describes physical space."
         },
         {
-          "key": "source:BH09338",
-          "why": "Let complete prayers and visitation texts unfold, preserving their named recipients and theological voice. Read images of nearness and life beyond death without assuming that every metaphor describes physical space."
-        },
-        {
           "key": "source:AB01514",
-          "why": "Let complete prayers and visitation texts unfold, preserving their named recipients and theological voice. Read images of nearness and life beyond death without assuming that every metaphor describes physical space."
-        },
-        {
-          "key": "source:BH00262",
-          "why": "Let complete prayers and visitation texts unfold, preserving their named recipients and theological voice. Read images of nearness and life beyond death without assuming that every metaphor describes physical space."
-        },
-        {
-          "key": "source:BH01140",
-          "why": "Let complete prayers and visitation texts unfold, preserving their named recipients and theological voice. Read images of nearness and life beyond death without assuming that every metaphor describes physical space."
-        },
-        {
-          "key": "source:AB00970",
           "why": "Let complete prayers and visitation texts unfold, preserving their named recipients and theological voice. Read images of nearness and life beyond death without assuming that every metaphor describes physical space."
         },
         {
@@ -1821,27 +1327,11 @@
           "why": "Let complete prayers and visitation texts unfold, preserving their named recipients and theological voice. Read images of nearness and life beyond death without assuming that every metaphor describes physical space."
         },
         {
-          "key": "source:AB05019",
-          "why": "Let complete prayers and visitation texts unfold, preserving their named recipients and theological voice. Read images of nearness and life beyond death without assuming that every metaphor describes physical space."
-        },
-        {
-          "key": "source:BH01695",
-          "why": "Let complete prayers and visitation texts unfold, preserving their named recipients and theological voice. Read images of nearness and life beyond death without assuming that every metaphor describes physical space."
-        },
-        {
-          "key": "source:BH02089",
-          "why": "Let complete prayers and visitation texts unfold, preserving their named recipients and theological voice. Read images of nearness and life beyond death without assuming that every metaphor describes physical space."
-        },
-        {
           "key": "source:BH06979",
           "why": "Let complete prayers and visitation texts unfold, preserving their named recipients and theological voice. Read images of nearness and life beyond death without assuming that every metaphor describes physical space."
         },
         {
           "key": "source:BH11273",
-          "why": "Let complete prayers and visitation texts unfold, preserving their named recipients and theological voice. Read images of nearness and life beyond death without assuming that every metaphor describes physical space."
-        },
-        {
-          "key": "source:AB00478",
           "why": "Let complete prayers and visitation texts unfold, preserving their named recipients and theological voice. Read images of nearness and life beyond death without assuming that every metaphor describes physical space."
         },
         {
@@ -1861,35 +1351,11 @@
           "why": "Let complete prayers and visitation texts unfold, preserving their named recipients and theological voice. Read images of nearness and life beyond death without assuming that every metaphor describes physical space."
         },
         {
-          "key": "source:AB03903",
-          "why": "Let complete prayers and visitation texts unfold, preserving their named recipients and theological voice. Read images of nearness and life beyond death without assuming that every metaphor describes physical space."
-        },
-        {
-          "key": "source:AB05938",
-          "why": "Let complete prayers and visitation texts unfold, preserving their named recipients and theological voice. Read images of nearness and life beyond death without assuming that every metaphor describes physical space."
-        },
-        {
           "key": "source:AB05993",
           "why": "Let complete prayers and visitation texts unfold, preserving their named recipients and theological voice. Read images of nearness and life beyond death without assuming that every metaphor describes physical space."
         },
         {
-          "key": "source:ABU1818",
-          "why": "Let complete prayers and visitation texts unfold, preserving their named recipients and theological voice. Read images of nearness and life beyond death without assuming that every metaphor describes physical space."
-        },
-        {
-          "key": "source:BH00411",
-          "why": "Let complete prayers and visitation texts unfold, preserving their named recipients and theological voice. Read images of nearness and life beyond death without assuming that every metaphor describes physical space."
-        },
-        {
           "key": "source:BH01419",
-          "why": "Let complete prayers and visitation texts unfold, preserving their named recipients and theological voice. Read images of nearness and life beyond death without assuming that every metaphor describes physical space."
-        },
-        {
-          "key": "source:BH01808",
-          "why": "Let complete prayers and visitation texts unfold, preserving their named recipients and theological voice. Read images of nearness and life beyond death without assuming that every metaphor describes physical space."
-        },
-        {
-          "key": "source:BH01907",
           "why": "Let complete prayers and visitation texts unfold, preserving their named recipients and theological voice. Read images of nearness and life beyond death without assuming that every metaphor describes physical space."
         },
         {
@@ -1905,19 +1371,7 @@
           "why": "Let complete prayers and visitation texts unfold, preserving their named recipients and theological voice. Read images of nearness and life beyond death without assuming that every metaphor describes physical space."
         },
         {
-          "key": "source:AB00110",
-          "why": "Let complete prayers and visitation texts unfold, preserving their named recipients and theological voice. Read images of nearness and life beyond death without assuming that every metaphor describes physical space."
-        },
-        {
           "key": "source:AB00818",
-          "why": "Let complete prayers and visitation texts unfold, preserving their named recipients and theological voice. Read images of nearness and life beyond death without assuming that every metaphor describes physical space."
-        },
-        {
-          "key": "source:AB01226",
-          "why": "Let complete prayers and visitation texts unfold, preserving their named recipients and theological voice. Read images of nearness and life beyond death without assuming that every metaphor describes physical space."
-        },
-        {
-          "key": "source:AB01296",
           "why": "Let complete prayers and visitation texts unfold, preserving their named recipients and theological voice. Read images of nearness and life beyond death without assuming that every metaphor describes physical space."
         },
         {
@@ -1925,35 +1379,7 @@
           "why": "Let complete prayers and visitation texts unfold, preserving their named recipients and theological voice. Read images of nearness and life beyond death without assuming that every metaphor describes physical space."
         },
         {
-          "key": "source:AB01980",
-          "why": "Let complete prayers and visitation texts unfold, preserving their named recipients and theological voice. Read images of nearness and life beyond death without assuming that every metaphor describes physical space."
-        },
-        {
-          "key": "source:AB02524",
-          "why": "Let complete prayers and visitation texts unfold, preserving their named recipients and theological voice. Read images of nearness and life beyond death without assuming that every metaphor describes physical space."
-        },
-        {
-          "key": "source:AB02822",
-          "why": "Let complete prayers and visitation texts unfold, preserving their named recipients and theological voice. Read images of nearness and life beyond death without assuming that every metaphor describes physical space."
-        },
-        {
-          "key": "source:AB02852",
-          "why": "Let complete prayers and visitation texts unfold, preserving their named recipients and theological voice. Read images of nearness and life beyond death without assuming that every metaphor describes physical space."
-        },
-        {
-          "key": "source:AB03595",
-          "why": "Let complete prayers and visitation texts unfold, preserving their named recipients and theological voice. Read images of nearness and life beyond death without assuming that every metaphor describes physical space."
-        },
-        {
           "key": "source:AB04103",
-          "why": "Let complete prayers and visitation texts unfold, preserving their named recipients and theological voice. Read images of nearness and life beyond death without assuming that every metaphor describes physical space."
-        },
-        {
-          "key": "source:AB04226",
-          "why": "Let complete prayers and visitation texts unfold, preserving their named recipients and theological voice. Read images of nearness and life beyond death without assuming that every metaphor describes physical space."
-        },
-        {
-          "key": "source:AB04235",
           "why": "Let complete prayers and visitation texts unfold, preserving their named recipients and theological voice. Read images of nearness and life beyond death without assuming that every metaphor describes physical space."
         },
         {
@@ -1989,31 +1415,11 @@
           "why": "Let complete prayers and visitation texts unfold, preserving their named recipients and theological voice. Read images of nearness and life beyond death without assuming that every metaphor describes physical space."
         },
         {
-          "key": "source:BH04879",
-          "why": "Let complete prayers and visitation texts unfold, preserving their named recipients and theological voice. Read images of nearness and life beyond death without assuming that every metaphor describes physical space."
-        },
-        {
-          "key": "source:BH06062",
-          "why": "Let complete prayers and visitation texts unfold, preserving their named recipients and theological voice. Read images of nearness and life beyond death without assuming that every metaphor describes physical space."
-        },
-        {
           "key": "source:BH07614",
           "why": "Let complete prayers and visitation texts unfold, preserving their named recipients and theological voice. Read images of nearness and life beyond death without assuming that every metaphor describes physical space."
         },
         {
           "key": "source:BH08611",
-          "why": "Let complete prayers and visitation texts unfold, preserving their named recipients and theological voice. Read images of nearness and life beyond death without assuming that every metaphor describes physical space."
-        },
-        {
-          "key": "source:BH10054",
-          "why": "Let complete prayers and visitation texts unfold, preserving their named recipients and theological voice. Read images of nearness and life beyond death without assuming that every metaphor describes physical space."
-        },
-        {
-          "key": "source:AB00281",
-          "why": "Let complete prayers and visitation texts unfold, preserving their named recipients and theological voice. Read images of nearness and life beyond death without assuming that every metaphor describes physical space."
-        },
-        {
-          "key": "source:AB01364",
           "why": "Let complete prayers and visitation texts unfold, preserving their named recipients and theological voice. Read images of nearness and life beyond death without assuming that every metaphor describes physical space."
         },
         {
@@ -2025,19 +1431,11 @@
           "why": "Let complete prayers and visitation texts unfold, preserving their named recipients and theological voice. Read images of nearness and life beyond death without assuming that every metaphor describes physical space."
         },
         {
-          "key": "source:AB04529",
-          "why": "Let complete prayers and visitation texts unfold, preserving their named recipients and theological voice. Read images of nearness and life beyond death without assuming that every metaphor describes physical space."
-        },
-        {
           "key": "source:AB05015",
           "why": "Let complete prayers and visitation texts unfold, preserving their named recipients and theological voice. Read images of nearness and life beyond death without assuming that every metaphor describes physical space."
         },
         {
           "key": "source:AB05022",
-          "why": "Let complete prayers and visitation texts unfold, preserving their named recipients and theological voice. Read images of nearness and life beyond death without assuming that every metaphor describes physical space."
-        },
-        {
-          "key": "source:AB06459",
           "why": "Let complete prayers and visitation texts unfold, preserving their named recipients and theological voice. Read images of nearness and life beyond death without assuming that every metaphor describes physical space."
         },
         {
@@ -2057,35 +1455,11 @@
           "why": "Let complete prayers and visitation texts unfold, preserving their named recipients and theological voice. Read images of nearness and life beyond death without assuming that every metaphor describes physical space."
         },
         {
-          "key": "source:BH10773",
-          "why": "Let complete prayers and visitation texts unfold, preserving their named recipients and theological voice. Read images of nearness and life beyond death without assuming that every metaphor describes physical space."
-        },
-        {
-          "key": "source:AB01527",
-          "why": "Let complete prayers and visitation texts unfold, preserving their named recipients and theological voice. Read images of nearness and life beyond death without assuming that every metaphor describes physical space."
-        },
-        {
           "key": "source:AB01537",
           "why": "Let complete prayers and visitation texts unfold, preserving their named recipients and theological voice. Read images of nearness and life beyond death without assuming that every metaphor describes physical space."
         },
         {
-          "key": "source:AB01780",
-          "why": "Let complete prayers and visitation texts unfold, preserving their named recipients and theological voice. Read images of nearness and life beyond death without assuming that every metaphor describes physical space."
-        },
-        {
-          "key": "source:AB02059",
-          "why": "Let complete prayers and visitation texts unfold, preserving their named recipients and theological voice. Read images of nearness and life beyond death without assuming that every metaphor describes physical space."
-        },
-        {
           "key": "source:AB02064",
-          "why": "Let complete prayers and visitation texts unfold, preserving their named recipients and theological voice. Read images of nearness and life beyond death without assuming that every metaphor describes physical space."
-        },
-        {
-          "key": "source:AB02178",
-          "why": "Let complete prayers and visitation texts unfold, preserving their named recipients and theological voice. Read images of nearness and life beyond death without assuming that every metaphor describes physical space."
-        },
-        {
-          "key": "source:AB03065",
           "why": "Let complete prayers and visitation texts unfold, preserving their named recipients and theological voice. Read images of nearness and life beyond death without assuming that every metaphor describes physical space."
         },
         {
@@ -2094,10 +1468,6 @@
         },
         {
           "key": "source:AB06472",
-          "why": "Let complete prayers and visitation texts unfold, preserving their named recipients and theological voice. Read images of nearness and life beyond death without assuming that every metaphor describes physical space."
-        },
-        {
-          "key": "source:AB06555",
           "why": "Let complete prayers and visitation texts unfold, preserving their named recipients and theological voice. Read images of nearness and life beyond death without assuming that every metaphor describes physical space."
         },
         {
@@ -2117,19 +1487,7 @@
           "why": "Let complete prayers and visitation texts unfold, preserving their named recipients and theological voice. Read images of nearness and life beyond death without assuming that every metaphor describes physical space."
         },
         {
-          "key": "source:AB12150",
-          "why": "Let complete prayers and visitation texts unfold, preserving their named recipients and theological voice. Read images of nearness and life beyond death without assuming that every metaphor describes physical space."
-        },
-        {
           "key": "source:BH02408",
-          "why": "Let complete prayers and visitation texts unfold, preserving their named recipients and theological voice. Read images of nearness and life beyond death without assuming that every metaphor describes physical space."
-        },
-        {
-          "key": "source:BH03198",
-          "why": "Let complete prayers and visitation texts unfold, preserving their named recipients and theological voice. Read images of nearness and life beyond death without assuming that every metaphor describes physical space."
-        },
-        {
-          "key": "source:BH03579",
           "why": "Let complete prayers and visitation texts unfold, preserving their named recipients and theological voice. Read images of nearness and life beyond death without assuming that every metaphor describes physical space."
         },
         {
@@ -2138,14 +1496,6 @@
         },
         {
           "key": "source:BH04535",
-          "why": "Let complete prayers and visitation texts unfold, preserving their named recipients and theological voice. Read images of nearness and life beyond death without assuming that every metaphor describes physical space."
-        },
-        {
-          "key": "source:BH06146",
-          "why": "Let complete prayers and visitation texts unfold, preserving their named recipients and theological voice. Read images of nearness and life beyond death without assuming that every metaphor describes physical space."
-        },
-        {
-          "key": "source:BH07317",
           "why": "Let complete prayers and visitation texts unfold, preserving their named recipients and theological voice. Read images of nearness and life beyond death without assuming that every metaphor describes physical space."
         },
         {

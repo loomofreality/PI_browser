@@ -5,8 +5,314 @@
       "id": "A72CD9234D5E4386A7C153F8E08CF797",
       "slug": "prophecyfulfillment",
       "displayTitle": "Prophecy and fulfillment: expectation, recognition and responsibility",
+      "selection": {
+        "review": "selections/prophecyfulfillment.json",
+        "sha256": "79976bc38d424415380d1f95089a254fa0cbeb0056a5ad55defeabaee192ae96",
+        "ids": [
+          "02edce9dc633a834779e89ad",
+          "685aa00c93cd1f3f9bf671e0",
+          "c540ee917669f1213602f0d8",
+          "91b094713c9c750a2ad8eb04",
+          "f8184b81825ab6df973dc508",
+          "7ec440a13d03de20ff6e9c22",
+          "54451462f7af8d48da66c062",
+          "98d8dee2806f077f22fae105",
+          "890ae8fa81a0d24903e916f7",
+          "37ffd6633019eb47f60c5100",
+          "973bd806c3a2b8cbc25bf875",
+          "71236e8f2422d25c036fb0d4",
+          "657782592e8b4720cb820101",
+          "8556d2cf15c547e944ebda9a",
+          "3a78b720cd78ac4d295d60a3",
+          "36d78f6750c685cff00f59e5",
+          "142428e16e07fd26db661997",
+          "9df18071e15573c20971f4d7",
+          "d7ebe6a53ba4d2885662719e",
+          "a14b4802d919d9bfeb6be8eb",
+          "2e025ec92466a82cb81bd124",
+          "125d94041271073a95eaebb9",
+          "fe8d32b7193774427077a28a",
+          "8c9396e54b45ca802b9ab164",
+          "8fd77dba8715076fdcc9a8b1",
+          "7054ea49eec32f2fe7a08f1d",
+          "d453fcdcfceaed22ffb42b24",
+          "465c0de6cfcf538b0765ed08",
+          "0cdd5b6af7d09e14de1fff7b",
+          "c2c5eec93aa545e18a986da9",
+          "be827b7c8a88eb1f3f8bd77e",
+          "e7d7dad8f426439232b64afd",
+          "df68775deb925c8abc9717b0",
+          "4099dcc807e745c3e94bfd73",
+          "fb80fba38a5aeac158ae2e21",
+          "dcb4965bb08ae56c95696098",
+          "8ee442fb79972dff51ff10a6",
+          "a079413e828cc721360c8ff1",
+          "ad19b418d75b6f7be706b4f5",
+          "862c1b2aa3746879f3528a5d",
+          "ead738ad7e3acce868704f74",
+          "fbc012bace718d8df226ec16",
+          "9e8adf0e5c028ad10272042d",
+          "71deb0c970a8a31a92dca760",
+          "16e94c34bdb4721798445efc",
+          "cd78d809bcd79c2b35a1e031",
+          "aef7c62409186dcd3dd24f39",
+          "1dd4253944ecd2aef6441134",
+          "2bdcf19b5c37fd3ade4d84bb",
+          "f2a1ba9d5970f2f08d473122",
+          "c25debab0fb7e77218604484",
+          "9eaa56ec2f684b132b9a1fe2",
+          "312740dca6b2bcba317dbc0d",
+          "7fadf601b0d724edc104687e",
+          "523d72d3bd6179de9134eddb",
+          "4d891975c965f4da937f9b20",
+          "4ffbcb37d72f23a9c6bfa24c",
+          "b4b9d26e89b0ac710fb27d50",
+          "9e62ee4a66d3bca821686918",
+          "030112a64aefbfa04e8a51ca",
+          "27326f20744ae57eeb0da135",
+          "cd8b7d9c09c5c555566a88c9",
+          "0213037d12e348afee324ccf",
+          "71d9fa9db0a3fe6454d0af5c",
+          "502bf2c869dcae16300c5841",
+          "ddf79a5cbd534c9f6c40b5d6",
+          "b3454e02d04a1541176932b3",
+          "6e76f63fee4e75349aaf6bb4",
+          "74fc5efc6e63b074f2c3f05d",
+          "75c7657b32421d6b04263ac1",
+          "c2416827a17eda8b00480b13",
+          "7fed03c8efcec47b8044eee2",
+          "10b3c8311fcc1896704d87a4",
+          "9b45c4fe7270d6ab09822620",
+          "09fcc9cbed2e24fa1370284e",
+          "8528f76c493e098c1dae3149",
+          "8ddbf4319ec4727697b145c7",
+          "3464fc80cdb139c987ba9e52",
+          "f4f0f146e84d575bf3ee131c",
+          "4e7aa28b8183673147dee6f9",
+          "025228c69bb78476ef894dd6",
+          "b1cf479e6cc0cd30dc955b11",
+          "b5b63f5c942ee14ef4c37d43",
+          "61f6acc430bf05f4b8f03f96",
+          "33b8d897b01daebe58233fed",
+          "dbbf0733a7a48ffc4dfadc96",
+          "e541492ac27f6cebdb09e365",
+          "b486650eeb0dff60fd20c4c2",
+          "600a5d17c3ea35bffa989339",
+          "53ed7678e3b5c521df73a050",
+          "55458bd0ef29546fb21760a5",
+          "dff10276ea09c97249a83b4f",
+          "d8fe94691023874489828da9",
+          "0904ee06531296e1dd56c0a6",
+          "fd97c45e3a6a6760d69ea261",
+          "39e54f71748ea6b9df5e1fba",
+          "38c5ab003fa0420ceaadb519",
+          "c4614329eef49e931b3a50c4",
+          "081c79abf598985dd0c411f4",
+          "6344c69d391a55819d495d2b",
+          "205121d51c972c61bc4d81ef",
+          "b6898152b91dab23e4cb4f65",
+          "c4e84c830e4d2e1078818477",
+          "7f5bf7b171e92a1d25fa278b",
+          "9d28ca0044e2b52fd5737be7",
+          "32bc7c26a06f6267859202b6",
+          "47f563cfe5d1da5f25b3c95d",
+          "2e8f36271e39f6e6aa05476f",
+          "b97c25997dcafa04844040ef",
+          "53e481c6506752d864bfbdda",
+          "dfa4aa1684c8b3646b061059",
+          "3a917c85015285b3cc1dc492",
+          "3e674a63f84b8b9c3e379500",
+          "3d83f1ba6a894ecc37996d49",
+          "3263d9fdf6e15b9ff4ecf0d3",
+          "f07fbbb2a33440aa67383f8e",
+          "b8c120fcd45f112dce449012",
+          "aa40b2ddfd10b51888652198",
+          "b923ee0bff4df84b1796b976",
+          "cd4cef4ac591f00a1a720a9a",
+          "5d541651842a3a264dd2571d",
+          "699a8e0045a7967d3e4ee712",
+          "f8f94b13107e0dd1886776af",
+          "70d3fe12416e675d695f1be3",
+          "3c1255eaa3915bc66820ec1d",
+          "9bec5176841f3003d4beb3d3",
+          "e0cf4996561b3ab3056441cc",
+          "d05eafdc5c8abc3cfd2daefe",
+          "2ae2e168eddb99cdc704e6de",
+          "f6de7476ab630ae27a06a1ba",
+          "7a63b4c727a0f97ef81cfa38",
+          "5fc63c300d566b607be34f77",
+          "545f65e4d93881d0b0445d06",
+          "1c1742a03cbb125c39b93492",
+          "cdbe9aa000f7624ac116a826",
+          "d69ecc0cc81a9be86e7edf1a",
+          "9ca067f247234770b9c3d3ef",
+          "1d27f842408ab58dd23f81fc",
+          "3719a15c93eb996cd0611706",
+          "ead1adc4ad0f30046ff68d5b",
+          "d3940821627b1a9e4a311e41",
+          "1d80529bcc94cdb8f0ab72ec",
+          "da89c653c82b9d78607ff672",
+          "54e9b3899e94ef9ed7bcc6b0",
+          "af897e2e89b242db841025de",
+          "bca2baf09d6d8662625fe482",
+          "66efd6a9b7e6f5ed579efa24",
+          "172aea8e181ea41cec6a171d",
+          "f6f30bdc44b5d4dedcb5003e",
+          "c22fde3498a55d8441d415d6",
+          "c615707f699f61c14db1e25f",
+          "6a6d2cece1e896a1a53bcb1e",
+          "48789f1e8fe6370164881c70",
+          "a9eb9620073f2b6d73b4c2d2",
+          "a2804e0ef0ae92db14442cc6",
+          "6b97464e6770de7d26d48e5e",
+          "fa0f9ab4c6cab39a4c597ab7",
+          "48ed0a07e8a2471e1dc800c9",
+          "0f77421b1ff2f64a00c25a0f",
+          "aff72fc57809ccd8e533528f",
+          "bcd9c9a40370eced8a2461a3",
+          "350f1ca781fe1726141162c9",
+          "0a1df00ea5cd2271174b30bd",
+          "2b6d648e706772575a3f7f6a",
+          "c2c9b98b71560344583a61a6",
+          "0f4b71504057358889469e46",
+          "932d69b5feca4cbfe5950f0a",
+          "ec6d21a84449bb9814beb57d",
+          "09b4c274889af727c34839e2",
+          "d11d7359b5ea12852e6f0b0b",
+          "4454a34a0c5ef840ee23d5f3",
+          "a097d40a22a30a8beb413690",
+          "84f14978bafed522ce9a6ea5",
+          "2e40ce918f181fd45c017cdf",
+          "0a04677a255988ce02a9775c",
+          "f4ba496e724245298f465907",
+          "bd8b19993dc9e4bd81a08ff7",
+          "66ef942333067b0ccdf34ee8",
+          "5c47aa4b828b406952ea01d8",
+          "1f1b8c86f3003d3bc807ab7c",
+          "61fd2867c9527fcfe3fa4a07",
+          "25f40d9d9044e8e5702b8c33",
+          "cdf8268643638990786bc6d4",
+          "24215cce70dee40c900c8a27",
+          "3478e05d091cd7d422372260",
+          "67e7aa916cc8773d26f41adc",
+          "efc3bcd11967e00b3bf15ecd",
+          "a4cce33f591e9ce926d4bf09",
+          "e7302e3c839dbfdeea72d936",
+          "b1d9dc2a662ea6b4dadcaa06",
+          "4c9fd30fc242b5d2cb785e84",
+          "5047307b6b5f27bf9c7d4ab0",
+          "6e20fd7c596cad404814875a",
+          "64212edc9851b34c250076bd",
+          "09c2a6f198d6d9dab1dfcb6e",
+          "30fd3759e4e0c1f33259538a",
+          "d1aea08d5d127406ed299934",
+          "91a120ed77e50294222ee98e",
+          "f0f1be7333726b9b32665353",
+          "e3670952d50eb9cc0fcf9750",
+          "7e849599063bc621ca02efe3",
+          "e594407badfa51247ee6ad84",
+          "5493610e7ec6d324aed80d6e",
+          "78900b9e99a0f6590d5a9882",
+          "2601910c4bdc434f9e32e1d3",
+          "1665f3cb657e15daea724b0f",
+          "5b19dde0bce485f8b7193cc4",
+          "062df5a6b551e481f43b319e",
+          "dfca61631f1ff63f22920f48",
+          "f6f3644ebe4dc1276dc0c18b",
+          "ad789acd3046cf8b075abef9",
+          "46e406b9d8c01adaa938b96b",
+          "740032425b0a0b5a1404a9bc",
+          "6de34635e342008dcb29aade",
+          "21a405e5887208faa1b25761",
+          "ad28cd299fac6b3e728e345e",
+          "07e0c4bd0c92fcfb811a85fe",
+          "c33882a3f10c1fd110990f11",
+          "de39929e9d6e6d7a2c054062",
+          "3fd6e1e0cec4863fa9e7b2b3",
+          "1f31fb45c03cb7a97e53544e",
+          "9c952de6be16b99f23609e43",
+          "7d3f04675b2b77245bd6c1db",
+          "523b799a8e7da8e368c78201",
+          "26f448dfcc5ee43840d37681",
+          "b44b82b4f35c29544a5e9fb9",
+          "c5076db89d7b81369daf96a2",
+          "d8002a5188344a7d635aef6d",
+          "f425d7793583edff848bb711",
+          "a47f8e67f8e94cac7ea8dcca",
+          "a771a21c6c742ec3085049a4",
+          "10792f7a3826918e0b868af4",
+          "3b4b2751b43d876b19dbdf80",
+          "ed9591c363ae4ca6650f3ec3",
+          "b6ca211b2589cd5db2429b34",
+          "b04fb209cc88543d273c1228",
+          "b61a88880d3316924d77504b",
+          "8f8648420ba8cf88fa3a98c2",
+          "013459663d8542e240449461",
+          "1a5ace7b5fa01d930a4d10e8",
+          "e077e8d8c45b9b3b2fc9c0e2",
+          "b05520c72d273e900f874025",
+          "88b405e7f8661d4fb8c1b24e",
+          "1637ac1fe93a0c69af8581b4",
+          "72a1096c628170cd800c6c85",
+          "a74a16c71efafcceca602295",
+          "ba59f650c28672d0e7eb23ba",
+          "508a27cc5288f6b47d8552bf",
+          "98c9f0cd61bcd8834dc93e75",
+          "1a655e76b5547a56762a5c0d",
+          "88e3bcdf5684d69bdcc23eac",
+          "958b0b14248dfebbc3968d4d",
+          "2347c236ddd1bafc8bde5f1d",
+          "b9f052d1d613a28279464131",
+          "36c7b68699fae876b6ab5f58",
+          "261932a56ac6c8c2a61ad96c",
+          "24e7899c81c0d6f9ddec3d44",
+          "6fda9dd3574784a007e492b2",
+          "f40e21d5d787d1721472655a",
+          "0f06c093b47c4851b1b32b65",
+          "7b00820610ee197285fe4ae7",
+          "76f5b3cb20e49c74850398e9",
+          "228e96ad538fe8941742c05e",
+          "64b67ab5cb57f4d2d135470d",
+          "7928ef0ddffa4379cafcc681",
+          "ff09eff45b0ffe324c7ed921",
+          "fdcbf85c4ee1d3a3c0f87002",
+          "b9c0d4bee7f9b03f4d6926a3",
+          "6416de18deb6d0c7416040b2",
+          "daf1b0feea40b90261eba010",
+          "7933ac0425b8c2aae87b4f4b",
+          "2c282529fe400c646671bdf2",
+          "35c25fb3f3ffa6a73e6359ec",
+          "ffb91073a42d6ff627ed8c0c",
+          "f500ea401541fed54134cfc9",
+          "28c43d455842889ff7b26708",
+          "253913a44a7bccae618b8e77",
+          "deee3a9c41b2373d66469874",
+          "22cf93bdd907bd7a220105c1",
+          "0ac1a6984b89c361dca8bd4b",
+          "812bbf39bd364ca150b669b0",
+          "052badbe3b47e8b928fb92af",
+          "d19c3a84b13e3ba93884bb84",
+          "fa2e4db4e86a9beba2e316f5",
+          "a4bf8d1fbb7d196419ca82fe",
+          "879ab1ef061a4307209fd11a",
+          "c84354ec984f0e4ebe0d63fc",
+          "1eb862ce72d38960efb6a22d",
+          "03e63b76c07870f119d2ff3e",
+          "5b33c7a670ab921c9244c048",
+          "4a049261c35cd983b15ac6d8",
+          "5d766b5db86b8bbd9ec8663a",
+          "0aad1af58aae9072ec9daecd",
+          "816fdc1d6c1b29a0dc4a3ee3",
+          "cf3d8239b329dcfe0f5fab95",
+          "f44e32385c88425a1db888b4",
+          "5363d7edafa005b14d416971",
+          "774a857c178e611229611802",
+          "8dbec3303da7fc0591a48b7b",
+          "333a8e3ece5dc97491a010a6"
+        ]
+      },
       "introduction": "What would it mean for a promise of human happiness to become true? This collection begins with that question and leads into a more demanding inquiry: how are promises recognized, what counts as evidence, and what happens when fulfillment arrives in a form its hearers did not expect? The readings distinguish kinds of prophecy, interpret scriptural images, recount warnings to rulers and trace the Báb’s promise of a further revelation; they also preserve questions, disagreements, accounts of suffering and expectations still directed toward the future. Their repeated declarations of fulfillment stand beside calls for patience, trustworthy conduct and the work of peace. The neighboring subjects on scriptural interpretation, the Word of God, resurrection and the Holy Land help place particular claims within a larger religious vision, while the variety of written texts and reported conversations asks us to attend to source and context. Luke’s story of recognition on the road and the Qur’an’s promise amid changing fortunes offer comparisons without dissolving the differences between their traditions. Read this sequence as an invitation to examine both the grounds of conviction and its consequences: a transformed world is also a question addressed to the way we act within it.",
-      "arc": "Can the world become different? → Reading signs without imprisoning their meaning → Scriptural time and its difficulties → Promise across religious traditions → The Bab’s promise and the reader’s response → Time, recognition and the people of the Bayan → Kings, warnings and the evidence of events → What victory might mean → Exile, place and an unexpected path → Personal experience and the limits of recollection → The surprise of the awaited day → A world summoned to recognition → Resurrection in images of voice and light → Hearing a promise in the present → The revealed book and the answering hearer → Patience, prayer and a future still unfolding → Fulfillment as responsibility → Further supplied readings: a claim and a test",
+      "arc": "Can the world become different? → Reading signs without imprisoning their meaning → Scriptural time and its difficulties → Promise across religious traditions → The Bab’s promise and the reader’s response → Time, recognition and the people of the Bayan → Kings, warnings and the evidence of events → What victory might mean → Exile, place and an unexpected path → Personal experience and the limits of recollection → The surprise of the awaited day → A world summoned to recognition → Resurrection in images of voice and light → Hearing a promise in the present → The revealed book and the answering hearer → Patience, prayer and a future still unfolding → Fulfillment as responsibility → A supplied reading: the test of a prophet’s word",
       "order": [
         {
           "key": "source:ABU3207",
@@ -38,10 +344,6 @@
         },
         {
           "key": "source:ABU0327",
-          "why": "Begin with the human question of hope, then examine kinds of prophecy, the limits of proof and the discipline of interpreting an image. Keep the source questions and the dramatic or reported framing."
-        },
-        {
-          "key": "source:ABU1930",
           "why": "Begin with the human question of hope, then examine kinds of prophecy, the limits of proof and the discipline of interpreting an image. Keep the source questions and the dramatic or reported framing."
         },
         {
@@ -101,19 +403,7 @@
           "why": "Follow literal expectation into spiritual interpretation, keeping objections in their quoted speakers’ voices and distinguishing claims within a tradition from shared premises."
         },
         {
-          "key": "source:AB01389",
-          "why": "Follow literal expectation into spiritual interpretation, keeping objections in their quoted speakers’ voices and distinguishing claims within a tradition from shared premises."
-        },
-        {
-          "key": "source:AB11304",
-          "why": "Follow literal expectation into spiritual interpretation, keeping objections in their quoted speakers’ voices and distinguishing claims within a tradition from shared premises."
-        },
-        {
           "key": "source:BH04151",
-          "why": "Follow literal expectation into spiritual interpretation, keeping objections in their quoted speakers’ voices and distinguishing claims within a tradition from shared premises."
-        },
-        {
-          "key": "source:ABU2441",
           "why": "Follow literal expectation into spiritual interpretation, keeping objections in their quoted speakers’ voices and distinguishing claims within a tradition from shared premises."
         },
         {
@@ -126,14 +416,6 @@
         },
         {
           "key": "source:ABU0783",
-          "why": "Follow literal expectation into spiritual interpretation, keeping objections in their quoted speakers’ voices and distinguishing claims within a tradition from shared premises."
-        },
-        {
-          "key": "source:ABU1341",
-          "why": "Follow literal expectation into spiritual interpretation, keeping objections in their quoted speakers’ voices and distinguishing claims within a tradition from shared premises."
-        },
-        {
-          "key": "source:ABU2971",
           "why": "Follow literal expectation into spiritual interpretation, keeping objections in their quoted speakers’ voices and distinguishing claims within a tradition from shared premises."
         },
         {
@@ -153,10 +435,6 @@
           "why": "Compare calendrical and numerical interpretations without silently correcting dates, arithmetic or source wording; preserve multiple interpretations and temporal qualifications."
         },
         {
-          "key": "source:ABU0360",
-          "why": "Compare calendrical and numerical interpretations without silently correcting dates, arithmetic or source wording; preserve multiple interpretations and temporal qualifications."
-        },
-        {
           "key": "source:AB00038",
           "why": "Compare calendrical and numerical interpretations without silently correcting dates, arithmetic or source wording; preserve multiple interpretations and temporal qualifications."
         },
@@ -173,27 +451,11 @@
           "why": "Compare calendrical and numerical interpretations without silently correcting dates, arithmetic or source wording; preserve multiple interpretations and temporal qualifications."
         },
         {
-          "key": "source:ABU2121",
-          "why": "Compare calendrical and numerical interpretations without silently correcting dates, arithmetic or source wording; preserve multiple interpretations and temporal qualifications."
-        },
-        {
           "key": "source:ABU2329",
           "why": "Compare calendrical and numerical interpretations without silently correcting dates, arithmetic or source wording; preserve multiple interpretations and temporal qualifications."
         },
         {
-          "key": "source:ABU1921",
-          "why": "Compare calendrical and numerical interpretations without silently correcting dates, arithmetic or source wording; preserve multiple interpretations and temporal qualifications."
-        },
-        {
-          "key": "source:ABU2914",
-          "why": "Compare calendrical and numerical interpretations without silently correcting dates, arithmetic or source wording; preserve multiple interpretations and temporal qualifications."
-        },
-        {
           "key": "source:AB11685",
-          "why": "Compare calendrical and numerical interpretations without silently correcting dates, arithmetic or source wording; preserve multiple interpretations and temporal qualifications."
-        },
-        {
-          "key": "source:BH05695",
           "why": "Compare calendrical and numerical interpretations without silently correcting dates, arithmetic or source wording; preserve multiple interpretations and temporal qualifications."
         },
         {
@@ -213,10 +475,6 @@
           "why": "Hear the different accounts of return, the Comforter and finality, while retaining the distinction between Abdul-Baha’s servitude and the station claimed for Baha’u’llah."
         },
         {
-          "key": "source:ABU0601",
-          "why": "Hear the different accounts of return, the Comforter and finality, while retaining the distinction between Abdul-Baha’s servitude and the station claimed for Baha’u’llah."
-        },
-        {
           "key": "source:ABU0650",
           "why": "Hear the different accounts of return, the Comforter and finality, while retaining the distinction between Abdul-Baha’s servitude and the station claimed for Baha’u’llah."
         },
@@ -229,15 +487,7 @@
           "why": "Hear the different accounts of return, the Comforter and finality, while retaining the distinction between Abdul-Baha’s servitude and the station claimed for Baha’u’llah."
         },
         {
-          "key": "source:ABU2884",
-          "why": "Hear the different accounts of return, the Comforter and finality, while retaining the distinction between Abdul-Baha’s servitude and the station claimed for Baha’u’llah."
-        },
-        {
           "key": "source:AB00173",
-          "why": "Hear the different accounts of return, the Comforter and finality, while retaining the distinction between Abdul-Baha’s servitude and the station claimed for Baha’u’llah."
-        },
-        {
-          "key": "source:ABU0560",
           "why": "Hear the different accounts of return, the Comforter and finality, while retaining the distinction between Abdul-Baha’s servitude and the station claimed for Baha’u’llah."
         },
         {
@@ -261,10 +511,6 @@
           "why": "Hear the different accounts of return, the Comforter and finality, while retaining the distinction between Abdul-Baha’s servitude and the station claimed for Baha’u’llah."
         },
         {
-          "key": "source:BH11226",
-          "why": "Hear the different accounts of return, the Comforter and finality, while retaining the distinction between Abdul-Baha’s servitude and the station claimed for Baha’u’llah."
-        },
-        {
           "key": "source:BH10249",
           "why": "Hear the different accounts of return, the Comforter and finality, while retaining the distinction between Abdul-Baha’s servitude and the station claimed for Baha’u’llah."
         },
@@ -274,10 +520,6 @@
         },
         {
           "key": "source:AB11308",
-          "why": "Hear the different accounts of return, the Comforter and finality, while retaining the distinction between Abdul-Baha’s servitude and the station claimed for Baha’u’llah."
-        },
-        {
-          "key": "source:AB11574",
           "why": "Hear the different accounts of return, the Comforter and finality, while retaining the distinction between Abdul-Baha’s servitude and the station claimed for Baha’u’llah."
         },
         {
@@ -294,10 +536,6 @@
         },
         {
           "key": "source:ABU3600",
-          "why": "Hear the different accounts of return, the Comforter and finality, while retaining the distinction between Abdul-Baha’s servitude and the station claimed for Baha’u’llah."
-        },
-        {
-          "key": "source:AB03720",
           "why": "Hear the different accounts of return, the Comforter and finality, while retaining the distinction between Abdul-Baha’s servitude and the station claimed for Baha’u’llah."
         },
         {
@@ -341,31 +579,7 @@
           "why": "Read the Bab’s proclamation, prayers and promise in their own voices; keep martyrdom and reported dreams in their source settings."
         },
         {
-          "key": "source:BB00392",
-          "why": "Read the Bab’s proclamation, prayers and promise in their own voices; keep martyrdom and reported dreams in their source settings."
-        },
-        {
           "key": "source:BB00034",
-          "why": "Read the Bab’s proclamation, prayers and promise in their own voices; keep martyrdom and reported dreams in their source settings."
-        },
-        {
-          "key": "source:BB00129",
-          "why": "Read the Bab’s proclamation, prayers and promise in their own voices; keep martyrdom and reported dreams in their source settings."
-        },
-        {
-          "key": "source:BB00139",
-          "why": "Read the Bab’s proclamation, prayers and promise in their own voices; keep martyrdom and reported dreams in their source settings."
-        },
-        {
-          "key": "source:BB00230",
-          "why": "Read the Bab’s proclamation, prayers and promise in their own voices; keep martyrdom and reported dreams in their source settings."
-        },
-        {
-          "key": "source:BB00283",
-          "why": "Read the Bab’s proclamation, prayers and promise in their own voices; keep martyrdom and reported dreams in their source settings."
-        },
-        {
-          "key": "source:BB00654",
           "why": "Read the Bab’s proclamation, prayers and promise in their own voices; keep martyrdom and reported dreams in their source settings."
         },
         {
@@ -401,10 +615,6 @@
           "why": "Move from disputed expectations and the year nine to the call for recognition; retain the limits of dates and all distinctions between quotation, exposition and personal address."
         },
         {
-          "key": "source:BH03687",
-          "why": "Move from disputed expectations and the year nine to the call for recognition; retain the limits of dates and all distinctions between quotation, exposition and personal address."
-        },
-        {
           "key": "source:BH04119",
           "why": "Move from disputed expectations and the year nine to the call for recognition; retain the limits of dates and all distinctions between quotation, exposition and personal address."
         },
@@ -421,27 +631,11 @@
           "why": "Move from disputed expectations and the year nine to the call for recognition; retain the limits of dates and all distinctions between quotation, exposition and personal address."
         },
         {
-          "key": "source:BH05909",
-          "why": "Move from disputed expectations and the year nine to the call for recognition; retain the limits of dates and all distinctions between quotation, exposition and personal address."
-        },
-        {
           "key": "source:BH06163",
           "why": "Move from disputed expectations and the year nine to the call for recognition; retain the limits of dates and all distinctions between quotation, exposition and personal address."
         },
         {
           "key": "source:BH04029",
-          "why": "Move from disputed expectations and the year nine to the call for recognition; retain the limits of dates and all distinctions between quotation, exposition and personal address."
-        },
-        {
-          "key": "source:BH03461",
-          "why": "Move from disputed expectations and the year nine to the call for recognition; retain the limits of dates and all distinctions between quotation, exposition and personal address."
-        },
-        {
-          "key": "source:BH05833",
-          "why": "Move from disputed expectations and the year nine to the call for recognition; retain the limits of dates and all distinctions between quotation, exposition and personal address."
-        },
-        {
-          "key": "source:BH02571",
           "why": "Move from disputed expectations and the year nine to the call for recognition; retain the limits of dates and all distinctions between quotation, exposition and personal address."
         },
         {
@@ -453,15 +647,7 @@
           "why": "Move from disputed expectations and the year nine to the call for recognition; retain the limits of dates and all distinctions between quotation, exposition and personal address."
         },
         {
-          "key": "source:BH02142",
-          "why": "Move from disputed expectations and the year nine to the call for recognition; retain the limits of dates and all distinctions between quotation, exposition and personal address."
-        },
-        {
           "key": "source:BH04025",
-          "why": "Move from disputed expectations and the year nine to the call for recognition; retain the limits of dates and all distinctions between quotation, exposition and personal address."
-        },
-        {
-          "key": "source:BH05817",
           "why": "Move from disputed expectations and the year nine to the call for recognition; retain the limits of dates and all distinctions between quotation, exposition and personal address."
         },
         {
@@ -473,15 +659,7 @@
           "why": "Move from disputed expectations and the year nine to the call for recognition; retain the limits of dates and all distinctions between quotation, exposition and personal address."
         },
         {
-          "key": "source:BH06673",
-          "why": "Move from disputed expectations and the year nine to the call for recognition; retain the limits of dates and all distinctions between quotation, exposition and personal address."
-        },
-        {
           "key": "source:BH07725",
-          "why": "Move from disputed expectations and the year nine to the call for recognition; retain the limits of dates and all distinctions between quotation, exposition and personal address."
-        },
-        {
-          "key": "source:BH04235",
           "why": "Move from disputed expectations and the year nine to the call for recognition; retain the limits of dates and all distinctions between quotation, exposition and personal address."
         },
         {
@@ -489,23 +667,7 @@
           "why": "Move from disputed expectations and the year nine to the call for recognition; retain the limits of dates and all distinctions between quotation, exposition and personal address."
         },
         {
-          "key": "source:BH07516",
-          "why": "Move from disputed expectations and the year nine to the call for recognition; retain the limits of dates and all distinctions between quotation, exposition and personal address."
-        },
-        {
-          "key": "source:BH11892",
-          "why": "Move from disputed expectations and the year nine to the call for recognition; retain the limits of dates and all distinctions between quotation, exposition and personal address."
-        },
-        {
           "key": "source:BH00670",
-          "why": "Move from disputed expectations and the year nine to the call for recognition; retain the limits of dates and all distinctions between quotation, exposition and personal address."
-        },
-        {
-          "key": "source:BH10565",
-          "why": "Move from disputed expectations and the year nine to the call for recognition; retain the limits of dates and all distinctions between quotation, exposition and personal address."
-        },
-        {
-          "key": "source:BH00015",
           "why": "Move from disputed expectations and the year nine to the call for recognition; retain the limits of dates and all distinctions between quotation, exposition and personal address."
         },
         {
@@ -537,10 +699,6 @@
           "why": "Read warnings and accounts of fulfillment alongside their qualifications and the human cost of war. Do not turn the source’s historical claims into independently verified editorial assertions."
         },
         {
-          "key": "source:BH01226",
-          "why": "Read warnings and accounts of fulfillment alongside their qualifications and the human cost of war. Do not turn the source’s historical claims into independently verified editorial assertions."
-        },
-        {
           "key": "source:BH00292",
           "why": "Read warnings and accounts of fulfillment alongside their qualifications and the human cost of war. Do not turn the source’s historical claims into independently verified editorial assertions."
         },
@@ -553,23 +711,7 @@
           "why": "Read warnings and accounts of fulfillment alongside their qualifications and the human cost of war. Do not turn the source’s historical claims into independently verified editorial assertions."
         },
         {
-          "key": "source:BH08917",
-          "why": "Read warnings and accounts of fulfillment alongside their qualifications and the human cost of war. Do not turn the source’s historical claims into independently verified editorial assertions."
-        },
-        {
-          "key": "source:BH00740",
-          "why": "Read warnings and accounts of fulfillment alongside their qualifications and the human cost of war. Do not turn the source’s historical claims into independently verified editorial assertions."
-        },
-        {
-          "key": "source:BH07142",
-          "why": "Read warnings and accounts of fulfillment alongside their qualifications and the human cost of war. Do not turn the source’s historical claims into independently verified editorial assertions."
-        },
-        {
           "key": "source:AB00085",
-          "why": "Read warnings and accounts of fulfillment alongside their qualifications and the human cost of war. Do not turn the source’s historical claims into independently verified editorial assertions."
-        },
-        {
-          "key": "source:AB00245",
           "why": "Read warnings and accounts of fulfillment alongside their qualifications and the human cost of war. Do not turn the source’s historical claims into independently verified editorial assertions."
         },
         {
@@ -577,15 +719,7 @@
           "why": "Read warnings and accounts of fulfillment alongside their qualifications and the human cost of war. Do not turn the source’s historical claims into independently verified editorial assertions."
         },
         {
-          "key": "source:ABU1415",
-          "why": "Read warnings and accounts of fulfillment alongside their qualifications and the human cost of war. Do not turn the source’s historical claims into independently verified editorial assertions."
-        },
-        {
           "key": "source:ABU0147",
-          "why": "Read warnings and accounts of fulfillment alongside their qualifications and the human cost of war. Do not turn the source’s historical claims into independently verified editorial assertions."
-        },
-        {
-          "key": "source:ABU2369",
           "why": "Read warnings and accounts of fulfillment alongside their qualifications and the human cost of war. Do not turn the source’s historical claims into independently verified editorial assertions."
         },
         {
@@ -610,10 +744,6 @@
         },
         {
           "key": "source:AB00197",
-          "why": "Read warnings and accounts of fulfillment alongside their qualifications and the human cost of war. Do not turn the source’s historical claims into independently verified editorial assertions."
-        },
-        {
-          "key": "source:AB02877",
           "why": "Read warnings and accounts of fulfillment alongside their qualifications and the human cost of war. Do not turn the source’s historical claims into independently verified editorial assertions."
         },
         {
@@ -645,19 +775,7 @@
           "why": "Follow accounts of conquest toward the refusal of bloodshed, education, women’s capacities and practical service; preserve the reported status of conversations and recollections."
         },
         {
-          "key": "source:ABU1493",
-          "why": "Follow accounts of conquest toward the refusal of bloodshed, education, women’s capacities and practical service; preserve the reported status of conversations and recollections."
-        },
-        {
           "key": "source:ABU1438",
-          "why": "Follow accounts of conquest toward the refusal of bloodshed, education, women’s capacities and practical service; preserve the reported status of conversations and recollections."
-        },
-        {
-          "key": "source:ABU0582",
-          "why": "Follow accounts of conquest toward the refusal of bloodshed, education, women’s capacities and practical service; preserve the reported status of conversations and recollections."
-        },
-        {
-          "key": "source:ABU1995",
           "why": "Follow accounts of conquest toward the refusal of bloodshed, education, women’s capacities and practical service; preserve the reported status of conversations and recollections."
         },
         {
@@ -665,19 +783,7 @@
           "why": "Follow accounts of conquest toward the refusal of bloodshed, education, women’s capacities and practical service; preserve the reported status of conversations and recollections."
         },
         {
-          "key": "source:ABU1542",
-          "why": "Follow accounts of conquest toward the refusal of bloodshed, education, women’s capacities and practical service; preserve the reported status of conversations and recollections."
-        },
-        {
-          "key": "source:ABU0708",
-          "why": "Follow accounts of conquest toward the refusal of bloodshed, education, women’s capacities and practical service; preserve the reported status of conversations and recollections."
-        },
-        {
           "key": "source:ABU2556",
-          "why": "Follow accounts of conquest toward the refusal of bloodshed, education, women’s capacities and practical service; preserve the reported status of conversations and recollections."
-        },
-        {
-          "key": "source:ABU3169",
           "why": "Follow accounts of conquest toward the refusal of bloodshed, education, women’s capacities and practical service; preserve the reported status of conversations and recollections."
         },
         {
@@ -689,15 +795,7 @@
           "why": "Follow accounts of conquest toward the refusal of bloodshed, education, women’s capacities and practical service; preserve the reported status of conversations and recollections."
         },
         {
-          "key": "source:ABU2013",
-          "why": "Follow accounts of conquest toward the refusal of bloodshed, education, women’s capacities and practical service; preserve the reported status of conversations and recollections."
-        },
-        {
           "key": "source:ABU0859",
-          "why": "Follow accounts of conquest toward the refusal of bloodshed, education, women’s capacities and practical service; preserve the reported status of conversations and recollections."
-        },
-        {
-          "key": "source:ABU2636",
           "why": "Follow accounts of conquest toward the refusal of bloodshed, education, women’s capacities and practical service; preserve the reported status of conversations and recollections."
         },
         {
@@ -717,23 +815,11 @@
           "why": "Trace exile and the Holy Land, separating spiritual readings from material forecasts and retaining the possibility of more than one meaning."
         },
         {
-          "key": "source:ABU1552",
-          "why": "Trace exile and the Holy Land, separating spiritual readings from material forecasts and retaining the possibility of more than one meaning."
-        },
-        {
           "key": "source:ABU1755",
           "why": "Trace exile and the Holy Land, separating spiritual readings from material forecasts and retaining the possibility of more than one meaning."
         },
         {
-          "key": "source:ABU2955",
-          "why": "Trace exile and the Holy Land, separating spiritual readings from material forecasts and retaining the possibility of more than one meaning."
-        },
-        {
           "key": "source:ABU3716",
-          "why": "Trace exile and the Holy Land, separating spiritual readings from material forecasts and retaining the possibility of more than one meaning."
-        },
-        {
-          "key": "source:ABU1526",
           "why": "Trace exile and the Holy Land, separating spiritual readings from material forecasts and retaining the possibility of more than one meaning."
         },
         {
@@ -746,10 +832,6 @@
         },
         {
           "key": "source:BH00399",
-          "why": "Trace exile and the Holy Land, separating spiritual readings from material forecasts and retaining the possibility of more than one meaning."
-        },
-        {
-          "key": "source:ABU1012",
           "why": "Trace exile and the Holy Land, separating spiritual readings from material forecasts and retaining the possibility of more than one meaning."
         },
         {
@@ -770,10 +852,6 @@
         },
         {
           "key": "source:ABU2473",
-          "why": "Trace exile and the Holy Land, separating spiritual readings from material forecasts and retaining the possibility of more than one meaning."
-        },
-        {
-          "key": "source:AB01333",
           "why": "Trace exile and the Holy Land, separating spiritual readings from material forecasts and retaining the possibility of more than one meaning."
         },
         {
@@ -813,10 +891,6 @@
           "why": "Trace exile and the Holy Land, separating spiritual readings from material forecasts and retaining the possibility of more than one meaning."
         },
         {
-          "key": "source:ABU1174",
-          "why": "Trace exile and the Holy Land, separating spiritual readings from material forecasts and retaining the possibility of more than one meaning."
-        },
-        {
           "key": "source:AB05900",
           "why": "Trace exile and the Holy Land, separating spiritual readings from material forecasts and retaining the possibility of more than one meaning."
         },
@@ -837,16 +911,8 @@
           "why": "Trace exile and the Holy Land, separating spiritual readings from material forecasts and retaining the possibility of more than one meaning."
         },
         {
-          "key": "source:ABU1188",
-          "why": "Trace exile and the Holy Land, separating spiritual readings from material forecasts and retaining the possibility of more than one meaning."
-        },
-        {
           "key": "source:ABU2989",
           "why": "Trace exile and the Holy Land, separating spiritual readings from material forecasts and retaining the possibility of more than one meaning."
-        },
-        {
-          "key": "source:AB00438",
-          "why": "Give individual questions, humor, dreams, memories and hopes their own context rather than treating every account as the same kind of evidence."
         },
         {
           "key": "source:ABU1451",
@@ -869,18 +935,6 @@
           "why": "Give individual questions, humor, dreams, memories and hopes their own context rather than treating every account as the same kind of evidence."
         },
         {
-          "key": "source:ABU0980",
-          "why": "Give individual questions, humor, dreams, memories and hopes their own context rather than treating every account as the same kind of evidence."
-        },
-        {
-          "key": "source:BH11715",
-          "why": "Give individual questions, humor, dreams, memories and hopes their own context rather than treating every account as the same kind of evidence."
-        },
-        {
-          "key": "source:BH10171",
-          "why": "Give individual questions, humor, dreams, memories and hopes their own context rather than treating every account as the same kind of evidence."
-        },
-        {
           "key": "source:BH01194",
           "why": "Give individual questions, humor, dreams, memories and hopes their own context rather than treating every account as the same kind of evidence."
         },
@@ -893,43 +947,11 @@
           "why": "Give individual questions, humor, dreams, memories and hopes their own context rather than treating every account as the same kind of evidence."
         },
         {
-          "key": "source:ABU2515",
-          "why": "Give individual questions, humor, dreams, memories and hopes their own context rather than treating every account as the same kind of evidence."
-        },
-        {
-          "key": "source:AB00033",
-          "why": "Give individual questions, humor, dreams, memories and hopes their own context rather than treating every account as the same kind of evidence."
-        },
-        {
-          "key": "source:AB07573",
-          "why": "Give individual questions, humor, dreams, memories and hopes their own context rather than treating every account as the same kind of evidence."
-        },
-        {
-          "key": "source:AB08647",
-          "why": "Give individual questions, humor, dreams, memories and hopes their own context rather than treating every account as the same kind of evidence."
-        },
-        {
-          "key": "source:AB10908",
-          "why": "Give individual questions, humor, dreams, memories and hopes their own context rather than treating every account as the same kind of evidence."
-        },
-        {
-          "key": "source:AB02173",
-          "why": "Give individual questions, humor, dreams, memories and hopes their own context rather than treating every account as the same kind of evidence."
-        },
-        {
-          "key": "source:AB05959",
-          "why": "Give individual questions, humor, dreams, memories and hopes their own context rather than treating every account as the same kind of evidence."
-        },
-        {
           "key": "source:ABU0366",
           "why": "Give individual questions, humor, dreams, memories and hopes their own context rather than treating every account as the same kind of evidence."
         },
         {
           "key": "source:ABU0718",
-          "why": "Give individual questions, humor, dreams, memories and hopes their own context rather than treating every account as the same kind of evidence."
-        },
-        {
-          "key": "source:ABU1810",
           "why": "Give individual questions, humor, dreams, memories and hopes their own context rather than treating every account as the same kind of evidence."
         },
         {
@@ -949,19 +971,7 @@
           "why": "Give individual questions, humor, dreams, memories and hopes their own context rather than treating every account as the same kind of evidence."
         },
         {
-          "key": "source:AB09824",
-          "why": "Give individual questions, humor, dreams, memories and hopes their own context rather than treating every account as the same kind of evidence."
-        },
-        {
-          "key": "source:AB02421",
-          "why": "Give individual questions, humor, dreams, memories and hopes their own context rather than treating every account as the same kind of evidence."
-        },
-        {
           "key": "source:ABU0378",
-          "why": "Give individual questions, humor, dreams, memories and hopes their own context rather than treating every account as the same kind of evidence."
-        },
-        {
-          "key": "source:ABU1169",
           "why": "Give individual questions, humor, dreams, memories and hopes their own context rather than treating every account as the same kind of evidence."
         },
         {
@@ -969,15 +979,7 @@
           "why": "Consider the recurring paradox of expectation followed by refusal; read the varied personal addresses as challenges to one’s own assumptions."
         },
         {
-          "key": "source:BH04657",
-          "why": "Consider the recurring paradox of expectation followed by refusal; read the varied personal addresses as challenges to one’s own assumptions."
-        },
-        {
           "key": "source:BH04691",
-          "why": "Consider the recurring paradox of expectation followed by refusal; read the varied personal addresses as challenges to one’s own assumptions."
-        },
-        {
-          "key": "source:BH10233",
           "why": "Consider the recurring paradox of expectation followed by refusal; read the varied personal addresses as challenges to one’s own assumptions."
         },
         {
@@ -985,19 +987,7 @@
           "why": "Consider the recurring paradox of expectation followed by refusal; read the varied personal addresses as challenges to one’s own assumptions."
         },
         {
-          "key": "source:BH05725",
-          "why": "Consider the recurring paradox of expectation followed by refusal; read the varied personal addresses as challenges to one’s own assumptions."
-        },
-        {
-          "key": "source:BH08165",
-          "why": "Consider the recurring paradox of expectation followed by refusal; read the varied personal addresses as challenges to one’s own assumptions."
-        },
-        {
           "key": "source:BH03098",
-          "why": "Consider the recurring paradox of expectation followed by refusal; read the varied personal addresses as challenges to one’s own assumptions."
-        },
-        {
-          "key": "source:BH03697",
           "why": "Consider the recurring paradox of expectation followed by refusal; read the varied personal addresses as challenges to one’s own assumptions."
         },
         {
@@ -1005,47 +995,7 @@
           "why": "Consider the recurring paradox of expectation followed by refusal; read the varied personal addresses as challenges to one’s own assumptions."
         },
         {
-          "key": "source:BH05724",
-          "why": "Consider the recurring paradox of expectation followed by refusal; read the varied personal addresses as challenges to one’s own assumptions."
-        },
-        {
-          "key": "source:BH06109",
-          "why": "Consider the recurring paradox of expectation followed by refusal; read the varied personal addresses as challenges to one’s own assumptions."
-        },
-        {
-          "key": "source:BH06929",
-          "why": "Consider the recurring paradox of expectation followed by refusal; read the varied personal addresses as challenges to one’s own assumptions."
-        },
-        {
-          "key": "source:BH07313",
-          "why": "Consider the recurring paradox of expectation followed by refusal; read the varied personal addresses as challenges to one’s own assumptions."
-        },
-        {
           "key": "source:BH07324",
-          "why": "Consider the recurring paradox of expectation followed by refusal; read the varied personal addresses as challenges to one’s own assumptions."
-        },
-        {
-          "key": "source:BH07411",
-          "why": "Consider the recurring paradox of expectation followed by refusal; read the varied personal addresses as challenges to one’s own assumptions."
-        },
-        {
-          "key": "source:BH07584",
-          "why": "Consider the recurring paradox of expectation followed by refusal; read the varied personal addresses as challenges to one’s own assumptions."
-        },
-        {
-          "key": "source:BH07595",
-          "why": "Consider the recurring paradox of expectation followed by refusal; read the varied personal addresses as challenges to one’s own assumptions."
-        },
-        {
-          "key": "source:BH07938",
-          "why": "Consider the recurring paradox of expectation followed by refusal; read the varied personal addresses as challenges to one’s own assumptions."
-        },
-        {
-          "key": "source:BH10971",
-          "why": "Consider the recurring paradox of expectation followed by refusal; read the varied personal addresses as challenges to one’s own assumptions."
-        },
-        {
-          "key": "source:BH01498",
           "why": "Consider the recurring paradox of expectation followed by refusal; read the varied personal addresses as challenges to one’s own assumptions."
         },
         {
@@ -1061,22 +1011,6 @@
           "why": "Consider the recurring paradox of expectation followed by refusal; read the varied personal addresses as challenges to one’s own assumptions."
         },
         {
-          "key": "source:BH04164",
-          "why": "Consider the recurring paradox of expectation followed by refusal; read the varied personal addresses as challenges to one’s own assumptions."
-        },
-        {
-          "key": "source:BH04905",
-          "why": "Consider the recurring paradox of expectation followed by refusal; read the varied personal addresses as challenges to one’s own assumptions."
-        },
-        {
-          "key": "source:BH05017",
-          "why": "Consider the recurring paradox of expectation followed by refusal; read the varied personal addresses as challenges to one’s own assumptions."
-        },
-        {
-          "key": "source:BH05099",
-          "why": "Consider the recurring paradox of expectation followed by refusal; read the varied personal addresses as challenges to one’s own assumptions."
-        },
-        {
           "key": "source:BH05433",
           "why": "Consider the recurring paradox of expectation followed by refusal; read the varied personal addresses as challenges to one’s own assumptions."
         },
@@ -1085,47 +1019,11 @@
           "why": "Consider the recurring paradox of expectation followed by refusal; read the varied personal addresses as challenges to one’s own assumptions."
         },
         {
-          "key": "source:BH06521",
-          "why": "Consider the recurring paradox of expectation followed by refusal; read the varied personal addresses as challenges to one’s own assumptions."
-        },
-        {
-          "key": "source:BH06611",
-          "why": "Consider the recurring paradox of expectation followed by refusal; read the varied personal addresses as challenges to one’s own assumptions."
-        },
-        {
           "key": "source:BH07158",
           "why": "Consider the recurring paradox of expectation followed by refusal; read the varied personal addresses as challenges to one’s own assumptions."
         },
         {
-          "key": "source:BH07186",
-          "why": "Consider the recurring paradox of expectation followed by refusal; read the varied personal addresses as challenges to one’s own assumptions."
-        },
-        {
           "key": "source:BH07765",
-          "why": "Consider the recurring paradox of expectation followed by refusal; read the varied personal addresses as challenges to one’s own assumptions."
-        },
-        {
-          "key": "source:BH07804",
-          "why": "Consider the recurring paradox of expectation followed by refusal; read the varied personal addresses as challenges to one’s own assumptions."
-        },
-        {
-          "key": "source:BH08027",
-          "why": "Consider the recurring paradox of expectation followed by refusal; read the varied personal addresses as challenges to one’s own assumptions."
-        },
-        {
-          "key": "source:BH08162",
-          "why": "Consider the recurring paradox of expectation followed by refusal; read the varied personal addresses as challenges to one’s own assumptions."
-        },
-        {
-          "key": "source:BH08766",
-          "why": "Consider the recurring paradox of expectation followed by refusal; read the varied personal addresses as challenges to one’s own assumptions."
-        },
-        {
-          "key": "source:BH09274",
-          "why": "Consider the recurring paradox of expectation followed by refusal; read the varied personal addresses as challenges to one’s own assumptions."
-        },
-        {
-          "key": "source:BH10515",
           "why": "Consider the recurring paradox of expectation followed by refusal; read the varied personal addresses as challenges to one’s own assumptions."
         },
         {
@@ -1153,15 +1051,7 @@
           "why": "Hear the widening proclamation in its different scriptural and personal forms, keeping each distinct source and its qualifications."
         },
         {
-          "key": "source:BH00091",
-          "why": "Hear the widening proclamation in its different scriptural and personal forms, keeping each distinct source and its qualifications."
-        },
-        {
           "key": "source:ABU0641",
-          "why": "Hear the widening proclamation in its different scriptural and personal forms, keeping each distinct source and its qualifications."
-        },
-        {
-          "key": "source:ABU1688",
           "why": "Hear the widening proclamation in its different scriptural and personal forms, keeping each distinct source and its qualifications."
         },
         {
@@ -1173,31 +1063,7 @@
           "why": "Hear the widening proclamation in its different scriptural and personal forms, keeping each distinct source and its qualifications."
         },
         {
-          "key": "source:BH08907",
-          "why": "Hear the widening proclamation in its different scriptural and personal forms, keeping each distinct source and its qualifications."
-        },
-        {
-          "key": "source:BH01784",
-          "why": "Hear the widening proclamation in its different scriptural and personal forms, keeping each distinct source and its qualifications."
-        },
-        {
-          "key": "source:BH03002",
-          "why": "Hear the widening proclamation in its different scriptural and personal forms, keeping each distinct source and its qualifications."
-        },
-        {
-          "key": "source:BH03050",
-          "why": "Hear the widening proclamation in its different scriptural and personal forms, keeping each distinct source and its qualifications."
-        },
-        {
           "key": "source:BH03686",
-          "why": "Hear the widening proclamation in its different scriptural and personal forms, keeping each distinct source and its qualifications."
-        },
-        {
-          "key": "source:BH04567",
-          "why": "Hear the widening proclamation in its different scriptural and personal forms, keeping each distinct source and its qualifications."
-        },
-        {
-          "key": "source:BH05565",
           "why": "Hear the widening proclamation in its different scriptural and personal forms, keeping each distinct source and its qualifications."
         },
         {
@@ -1209,27 +1075,11 @@
           "why": "Hear the widening proclamation in its different scriptural and personal forms, keeping each distinct source and its qualifications."
         },
         {
-          "key": "source:BH02148",
-          "why": "Hear the widening proclamation in its different scriptural and personal forms, keeping each distinct source and its qualifications."
-        },
-        {
-          "key": "source:BH03120",
-          "why": "Hear the widening proclamation in its different scriptural and personal forms, keeping each distinct source and its qualifications."
-        },
-        {
           "key": "source:BH03915",
           "why": "Hear the widening proclamation in its different scriptural and personal forms, keeping each distinct source and its qualifications."
         },
         {
-          "key": "source:BH06317",
-          "why": "Hear the widening proclamation in its different scriptural and personal forms, keeping each distinct source and its qualifications."
-        },
-        {
           "key": "source:BH01907",
-          "why": "Hear the widening proclamation in its different scriptural and personal forms, keeping each distinct source and its qualifications."
-        },
-        {
-          "key": "source:BH01923",
           "why": "Hear the widening proclamation in its different scriptural and personal forms, keeping each distinct source and its qualifications."
         },
         {
@@ -1241,35 +1091,11 @@
           "why": "Hear the widening proclamation in its different scriptural and personal forms, keeping each distinct source and its qualifications."
         },
         {
-          "key": "source:BH03278",
-          "why": "Hear the widening proclamation in its different scriptural and personal forms, keeping each distinct source and its qualifications."
-        },
-        {
-          "key": "source:BH03514",
-          "why": "Hear the widening proclamation in its different scriptural and personal forms, keeping each distinct source and its qualifications."
-        },
-        {
-          "key": "source:BH06213",
-          "why": "Hear the widening proclamation in its different scriptural and personal forms, keeping each distinct source and its qualifications."
-        },
-        {
-          "key": "source:BH07145",
-          "why": "Hear the widening proclamation in its different scriptural and personal forms, keeping each distinct source and its qualifications."
-        },
-        {
           "key": "source:BH07701",
           "why": "Hear the widening proclamation in its different scriptural and personal forms, keeping each distinct source and its qualifications."
         },
         {
           "key": "source:BH08117",
-          "why": "Hear the widening proclamation in its different scriptural and personal forms, keeping each distinct source and its qualifications."
-        },
-        {
-          "key": "source:BH08350",
-          "why": "Hear the widening proclamation in its different scriptural and personal forms, keeping each distinct source and its qualifications."
-        },
-        {
-          "key": "source:BH08381",
           "why": "Hear the widening proclamation in its different scriptural and personal forms, keeping each distinct source and its qualifications."
         },
         {
@@ -1285,47 +1111,7 @@
           "why": "Hear the widening proclamation in its different scriptural and personal forms, keeping each distinct source and its qualifications."
         },
         {
-          "key": "source:BH03072",
-          "why": "Hear the widening proclamation in its different scriptural and personal forms, keeping each distinct source and its qualifications."
-        },
-        {
           "key": "source:BH03450",
-          "why": "Hear the widening proclamation in its different scriptural and personal forms, keeping each distinct source and its qualifications."
-        },
-        {
-          "key": "source:BH04027",
-          "why": "Hear the widening proclamation in its different scriptural and personal forms, keeping each distinct source and its qualifications."
-        },
-        {
-          "key": "source:BH04838",
-          "why": "Hear the widening proclamation in its different scriptural and personal forms, keeping each distinct source and its qualifications."
-        },
-        {
-          "key": "source:BH04856",
-          "why": "Hear the widening proclamation in its different scriptural and personal forms, keeping each distinct source and its qualifications."
-        },
-        {
-          "key": "source:BH04976",
-          "why": "Hear the widening proclamation in its different scriptural and personal forms, keeping each distinct source and its qualifications."
-        },
-        {
-          "key": "source:BH05021",
-          "why": "Hear the widening proclamation in its different scriptural and personal forms, keeping each distinct source and its qualifications."
-        },
-        {
-          "key": "source:BH05234",
-          "why": "Hear the widening proclamation in its different scriptural and personal forms, keeping each distinct source and its qualifications."
-        },
-        {
-          "key": "source:BH05443",
-          "why": "Hear the widening proclamation in its different scriptural and personal forms, keeping each distinct source and its qualifications."
-        },
-        {
-          "key": "source:BH05627",
-          "why": "Hear the widening proclamation in its different scriptural and personal forms, keeping each distinct source and its qualifications."
-        },
-        {
-          "key": "source:BH06159",
           "why": "Hear the widening proclamation in its different scriptural and personal forms, keeping each distinct source and its qualifications."
         },
         {
@@ -1334,10 +1120,6 @@
         },
         {
           "key": "source:AB00444",
-          "why": "Read city, trumpet, mount, ocean and book as a connected sequence of images; hold scriptural interpretation and the speaker’s own claim together without making the traditions interchangeable."
-        },
-        {
-          "key": "source:BB00007",
           "why": "Read city, trumpet, mount, ocean and book as a connected sequence of images; hold scriptural interpretation and the speaker’s own claim together without making the traditions interchangeable."
         },
         {
@@ -1353,35 +1135,11 @@
           "why": "Read city, trumpet, mount, ocean and book as a connected sequence of images; hold scriptural interpretation and the speaker’s own claim together without making the traditions interchangeable."
         },
         {
-          "key": "source:BH07461",
-          "why": "Read city, trumpet, mount, ocean and book as a connected sequence of images; hold scriptural interpretation and the speaker’s own claim together without making the traditions interchangeable."
-        },
-        {
           "key": "source:BH07593",
           "why": "Read city, trumpet, mount, ocean and book as a connected sequence of images; hold scriptural interpretation and the speaker’s own claim together without making the traditions interchangeable."
         },
         {
-          "key": "source:BH04145",
-          "why": "Read city, trumpet, mount, ocean and book as a connected sequence of images; hold scriptural interpretation and the speaker’s own claim together without making the traditions interchangeable."
-        },
-        {
           "key": "source:BH08196",
-          "why": "Read city, trumpet, mount, ocean and book as a connected sequence of images; hold scriptural interpretation and the speaker’s own claim together without making the traditions interchangeable."
-        },
-        {
-          "key": "source:BH08397",
-          "why": "Read city, trumpet, mount, ocean and book as a connected sequence of images; hold scriptural interpretation and the speaker’s own claim together without making the traditions interchangeable."
-        },
-        {
-          "key": "source:BH08595",
-          "why": "Read city, trumpet, mount, ocean and book as a connected sequence of images; hold scriptural interpretation and the speaker’s own claim together without making the traditions interchangeable."
-        },
-        {
-          "key": "source:BH08981",
-          "why": "Read city, trumpet, mount, ocean and book as a connected sequence of images; hold scriptural interpretation and the speaker’s own claim together without making the traditions interchangeable."
-        },
-        {
-          "key": "source:BH10624",
           "why": "Read city, trumpet, mount, ocean and book as a connected sequence of images; hold scriptural interpretation and the speaker’s own claim together without making the traditions interchangeable."
         },
         {
@@ -1393,18 +1151,6 @@
           "why": "Read city, trumpet, mount, ocean and book as a connected sequence of images; hold scriptural interpretation and the speaker’s own claim together without making the traditions interchangeable."
         },
         {
-          "key": "source:BH00361",
-          "why": "Read city, trumpet, mount, ocean and book as a connected sequence of images; hold scriptural interpretation and the speaker’s own claim together without making the traditions interchangeable."
-        },
-        {
-          "key": "source:BH00566",
-          "why": "Read city, trumpet, mount, ocean and book as a connected sequence of images; hold scriptural interpretation and the speaker’s own claim together without making the traditions interchangeable."
-        },
-        {
-          "key": "source:BH00688",
-          "why": "Read city, trumpet, mount, ocean and book as a connected sequence of images; hold scriptural interpretation and the speaker’s own claim together without making the traditions interchangeable."
-        },
-        {
           "key": "source:BH01506",
           "why": "Read city, trumpet, mount, ocean and book as a connected sequence of images; hold scriptural interpretation and the speaker’s own claim together without making the traditions interchangeable."
         },
@@ -1413,31 +1159,7 @@
           "why": "Read city, trumpet, mount, ocean and book as a connected sequence of images; hold scriptural interpretation and the speaker’s own claim together without making the traditions interchangeable."
         },
         {
-          "key": "source:BH02239",
-          "why": "Read city, trumpet, mount, ocean and book as a connected sequence of images; hold scriptural interpretation and the speaker’s own claim together without making the traditions interchangeable."
-        },
-        {
-          "key": "source:BH02881",
-          "why": "Read city, trumpet, mount, ocean and book as a connected sequence of images; hold scriptural interpretation and the speaker’s own claim together without making the traditions interchangeable."
-        },
-        {
-          "key": "source:BH03131",
-          "why": "Read city, trumpet, mount, ocean and book as a connected sequence of images; hold scriptural interpretation and the speaker’s own claim together without making the traditions interchangeable."
-        },
-        {
-          "key": "source:BH03332",
-          "why": "Read city, trumpet, mount, ocean and book as a connected sequence of images; hold scriptural interpretation and the speaker’s own claim together without making the traditions interchangeable."
-        },
-        {
-          "key": "source:BH03449",
-          "why": "Read city, trumpet, mount, ocean and book as a connected sequence of images; hold scriptural interpretation and the speaker’s own claim together without making the traditions interchangeable."
-        },
-        {
           "key": "source:BH03465",
-          "why": "Read city, trumpet, mount, ocean and book as a connected sequence of images; hold scriptural interpretation and the speaker’s own claim together without making the traditions interchangeable."
-        },
-        {
-          "key": "source:BH03715",
           "why": "Read city, trumpet, mount, ocean and book as a connected sequence of images; hold scriptural interpretation and the speaker’s own claim together without making the traditions interchangeable."
         },
         {
@@ -1449,39 +1171,7 @@
           "why": "Read city, trumpet, mount, ocean and book as a connected sequence of images; hold scriptural interpretation and the speaker’s own claim together without making the traditions interchangeable."
         },
         {
-          "key": "source:BH04689",
-          "why": "Read city, trumpet, mount, ocean and book as a connected sequence of images; hold scriptural interpretation and the speaker’s own claim together without making the traditions interchangeable."
-        },
-        {
-          "key": "source:BH05006",
-          "why": "Read city, trumpet, mount, ocean and book as a connected sequence of images; hold scriptural interpretation and the speaker’s own claim together without making the traditions interchangeable."
-        },
-        {
           "key": "source:BH05049",
-          "why": "Read city, trumpet, mount, ocean and book as a connected sequence of images; hold scriptural interpretation and the speaker’s own claim together without making the traditions interchangeable."
-        },
-        {
-          "key": "source:BH05128",
-          "why": "Read city, trumpet, mount, ocean and book as a connected sequence of images; hold scriptural interpretation and the speaker’s own claim together without making the traditions interchangeable."
-        },
-        {
-          "key": "source:BH05230",
-          "why": "Read city, trumpet, mount, ocean and book as a connected sequence of images; hold scriptural interpretation and the speaker’s own claim together without making the traditions interchangeable."
-        },
-        {
-          "key": "source:BH05395",
-          "why": "Read city, trumpet, mount, ocean and book as a connected sequence of images; hold scriptural interpretation and the speaker’s own claim together without making the traditions interchangeable."
-        },
-        {
-          "key": "source:BH05421",
-          "why": "Read city, trumpet, mount, ocean and book as a connected sequence of images; hold scriptural interpretation and the speaker’s own claim together without making the traditions interchangeable."
-        },
-        {
-          "key": "source:BH05546",
-          "why": "Read city, trumpet, mount, ocean and book as a connected sequence of images; hold scriptural interpretation and the speaker’s own claim together without making the traditions interchangeable."
-        },
-        {
-          "key": "source:BH05550",
           "why": "Read city, trumpet, mount, ocean and book as a connected sequence of images; hold scriptural interpretation and the speaker’s own claim together without making the traditions interchangeable."
         },
         {
@@ -1493,10 +1183,6 @@
           "why": "Read city, trumpet, mount, ocean and book as a connected sequence of images; hold scriptural interpretation and the speaker’s own claim together without making the traditions interchangeable."
         },
         {
-          "key": "source:BH06040",
-          "why": "Read city, trumpet, mount, ocean and book as a connected sequence of images; hold scriptural interpretation and the speaker’s own claim together without making the traditions interchangeable."
-        },
-        {
           "key": "source:BH06042",
           "why": "Read city, trumpet, mount, ocean and book as a connected sequence of images; hold scriptural interpretation and the speaker’s own claim together without making the traditions interchangeable."
         },
@@ -1505,51 +1191,7 @@
           "why": "Read city, trumpet, mount, ocean and book as a connected sequence of images; hold scriptural interpretation and the speaker’s own claim together without making the traditions interchangeable."
         },
         {
-          "key": "source:BH06220",
-          "why": "Read city, trumpet, mount, ocean and book as a connected sequence of images; hold scriptural interpretation and the speaker’s own claim together without making the traditions interchangeable."
-        },
-        {
-          "key": "source:BH06472",
-          "why": "Attend to the movement from earlier announcement to present address, with repeated images opening distinct invitations to recognition."
-        },
-        {
-          "key": "source:BH06565",
-          "why": "Attend to the movement from earlier announcement to present address, with repeated images opening distinct invitations to recognition."
-        },
-        {
-          "key": "source:BH06829",
-          "why": "Attend to the movement from earlier announcement to present address, with repeated images opening distinct invitations to recognition."
-        },
-        {
           "key": "source:BH06962",
-          "why": "Attend to the movement from earlier announcement to present address, with repeated images opening distinct invitations to recognition."
-        },
-        {
-          "key": "source:BH06966",
-          "why": "Attend to the movement from earlier announcement to present address, with repeated images opening distinct invitations to recognition."
-        },
-        {
-          "key": "source:BH07102",
-          "why": "Attend to the movement from earlier announcement to present address, with repeated images opening distinct invitations to recognition."
-        },
-        {
-          "key": "source:BH07198",
-          "why": "Attend to the movement from earlier announcement to present address, with repeated images opening distinct invitations to recognition."
-        },
-        {
-          "key": "source:BH07398",
-          "why": "Attend to the movement from earlier announcement to present address, with repeated images opening distinct invitations to recognition."
-        },
-        {
-          "key": "source:BH07504",
-          "why": "Attend to the movement from earlier announcement to present address, with repeated images opening distinct invitations to recognition."
-        },
-        {
-          "key": "source:BH07710",
-          "why": "Attend to the movement from earlier announcement to present address, with repeated images opening distinct invitations to recognition."
-        },
-        {
-          "key": "source:BH08409",
           "why": "Attend to the movement from earlier announcement to present address, with repeated images opening distinct invitations to recognition."
         },
         {
@@ -1561,27 +1203,7 @@
           "why": "Attend to the movement from earlier announcement to present address, with repeated images opening distinct invitations to recognition."
         },
         {
-          "key": "source:BH08905",
-          "why": "Attend to the movement from earlier announcement to present address, with repeated images opening distinct invitations to recognition."
-        },
-        {
-          "key": "source:BH09005",
-          "why": "Attend to the movement from earlier announcement to present address, with repeated images opening distinct invitations to recognition."
-        },
-        {
-          "key": "source:BH09104",
-          "why": "Attend to the movement from earlier announcement to present address, with repeated images opening distinct invitations to recognition."
-        },
-        {
           "key": "source:BH09116",
-          "why": "Attend to the movement from earlier announcement to present address, with repeated images opening distinct invitations to recognition."
-        },
-        {
-          "key": "source:BH09982",
-          "why": "Attend to the movement from earlier announcement to present address, with repeated images opening distinct invitations to recognition."
-        },
-        {
-          "key": "source:BH10307",
           "why": "Attend to the movement from earlier announcement to present address, with repeated images opening distinct invitations to recognition."
         },
         {
@@ -1589,31 +1211,7 @@
           "why": "Attend to the movement from earlier announcement to present address, with repeated images opening distinct invitations to recognition."
         },
         {
-          "key": "source:BH10559",
-          "why": "Attend to the movement from earlier announcement to present address, with repeated images opening distinct invitations to recognition."
-        },
-        {
-          "key": "source:BH10854",
-          "why": "Attend to the movement from earlier announcement to present address, with repeated images opening distinct invitations to recognition."
-        },
-        {
-          "key": "source:BH00273",
-          "why": "Attend to the movement from earlier announcement to present address, with repeated images opening distinct invitations to recognition."
-        },
-        {
           "key": "source:BH00320",
-          "why": "Attend to the movement from earlier announcement to present address, with repeated images opening distinct invitations to recognition."
-        },
-        {
-          "key": "source:BH00562",
-          "why": "Attend to the movement from earlier announcement to present address, with repeated images opening distinct invitations to recognition."
-        },
-        {
-          "key": "source:BH00878",
-          "why": "Attend to the movement from earlier announcement to present address, with repeated images opening distinct invitations to recognition."
-        },
-        {
-          "key": "source:BH02127",
           "why": "Attend to the movement from earlier announcement to present address, with repeated images opening distinct invitations to recognition."
         },
         {
@@ -1621,31 +1219,11 @@
           "why": "Attend to the movement from earlier announcement to present address, with repeated images opening distinct invitations to recognition."
         },
         {
-          "key": "source:BH02506",
-          "why": "Attend to the movement from earlier announcement to present address, with repeated images opening distinct invitations to recognition."
-        },
-        {
           "key": "source:BH03259",
           "why": "Attend to the movement from earlier announcement to present address, with repeated images opening distinct invitations to recognition."
         },
         {
-          "key": "source:BH03476",
-          "why": "Attend to the movement from earlier announcement to present address, with repeated images opening distinct invitations to recognition."
-        },
-        {
-          "key": "source:BH03838",
-          "why": "Attend to the movement from earlier announcement to present address, with repeated images opening distinct invitations to recognition."
-        },
-        {
-          "key": "source:BH03869",
-          "why": "Attend to the movement from earlier announcement to present address, with repeated images opening distinct invitations to recognition."
-        },
-        {
           "key": "source:BH04130",
-          "why": "Attend to the movement from earlier announcement to present address, with repeated images opening distinct invitations to recognition."
-        },
-        {
-          "key": "source:BH04193",
           "why": "Attend to the movement from earlier announcement to present address, with repeated images opening distinct invitations to recognition."
         },
         {
@@ -1657,18 +1235,6 @@
           "why": "Attend to the movement from earlier announcement to present address, with repeated images opening distinct invitations to recognition."
         },
         {
-          "key": "source:BH04447",
-          "why": "Attend to the movement from earlier announcement to present address, with repeated images opening distinct invitations to recognition."
-        },
-        {
-          "key": "source:BH04578",
-          "why": "Attend to the movement from earlier announcement to present address, with repeated images opening distinct invitations to recognition."
-        },
-        {
-          "key": "source:BH04595",
-          "why": "Attend to the movement from earlier announcement to present address, with repeated images opening distinct invitations to recognition."
-        },
-        {
           "key": "source:BH04598",
           "why": "Attend to the movement from earlier announcement to present address, with repeated images opening distinct invitations to recognition."
         },
@@ -1677,103 +1243,15 @@
           "why": "Attend to the movement from earlier announcement to present address, with repeated images opening distinct invitations to recognition."
         },
         {
-          "key": "source:BH04801",
-          "why": "Attend to the movement from earlier announcement to present address, with repeated images opening distinct invitations to recognition."
-        },
-        {
-          "key": "source:BH04839",
-          "why": "Attend to the movement from earlier announcement to present address, with repeated images opening distinct invitations to recognition."
-        },
-        {
-          "key": "source:BH04895",
-          "why": "Attend to the movement from earlier announcement to present address, with repeated images opening distinct invitations to recognition."
-        },
-        {
-          "key": "source:BH05043",
-          "why": "Attend to the movement from earlier announcement to present address, with repeated images opening distinct invitations to recognition."
-        },
-        {
           "key": "source:BH05067",
           "why": "Attend to the movement from earlier announcement to present address, with repeated images opening distinct invitations to recognition."
-        },
-        {
-          "key": "source:BH05235",
-          "why": "Let the claims of revealed words encounter their hearers: preserve prayer, objection, ethical counsel and the names of those addressed rather than reducing the passages to proof texts."
-        },
-        {
-          "key": "source:BH05424",
-          "why": "Let the claims of revealed words encounter their hearers: preserve prayer, objection, ethical counsel and the names of those addressed rather than reducing the passages to proof texts."
-        },
-        {
-          "key": "source:BH05604",
-          "why": "Let the claims of revealed words encounter their hearers: preserve prayer, objection, ethical counsel and the names of those addressed rather than reducing the passages to proof texts."
-        },
-        {
-          "key": "source:BH05714",
-          "why": "Let the claims of revealed words encounter their hearers: preserve prayer, objection, ethical counsel and the names of those addressed rather than reducing the passages to proof texts."
-        },
-        {
-          "key": "source:BH05788",
-          "why": "Let the claims of revealed words encounter their hearers: preserve prayer, objection, ethical counsel and the names of those addressed rather than reducing the passages to proof texts."
-        },
-        {
-          "key": "source:BH05802",
-          "why": "Let the claims of revealed words encounter their hearers: preserve prayer, objection, ethical counsel and the names of those addressed rather than reducing the passages to proof texts."
-        },
-        {
-          "key": "source:BH05825",
-          "why": "Let the claims of revealed words encounter their hearers: preserve prayer, objection, ethical counsel and the names of those addressed rather than reducing the passages to proof texts."
-        },
-        {
-          "key": "source:BH05832",
-          "why": "Let the claims of revealed words encounter their hearers: preserve prayer, objection, ethical counsel and the names of those addressed rather than reducing the passages to proof texts."
-        },
-        {
-          "key": "source:BH05882",
-          "why": "Let the claims of revealed words encounter their hearers: preserve prayer, objection, ethical counsel and the names of those addressed rather than reducing the passages to proof texts."
-        },
-        {
-          "key": "source:BH05921",
-          "why": "Let the claims of revealed words encounter their hearers: preserve prayer, objection, ethical counsel and the names of those addressed rather than reducing the passages to proof texts."
-        },
-        {
-          "key": "source:BH06032",
-          "why": "Let the claims of revealed words encounter their hearers: preserve prayer, objection, ethical counsel and the names of those addressed rather than reducing the passages to proof texts."
-        },
-        {
-          "key": "source:BH06066",
-          "why": "Let the claims of revealed words encounter their hearers: preserve prayer, objection, ethical counsel and the names of those addressed rather than reducing the passages to proof texts."
         },
         {
           "key": "source:BH06162",
           "why": "Let the claims of revealed words encounter their hearers: preserve prayer, objection, ethical counsel and the names of those addressed rather than reducing the passages to proof texts."
         },
         {
-          "key": "source:BH06165",
-          "why": "Let the claims of revealed words encounter their hearers: preserve prayer, objection, ethical counsel and the names of those addressed rather than reducing the passages to proof texts."
-        },
-        {
           "key": "source:BH06208",
-          "why": "Let the claims of revealed words encounter their hearers: preserve prayer, objection, ethical counsel and the names of those addressed rather than reducing the passages to proof texts."
-        },
-        {
-          "key": "source:BH06260",
-          "why": "Let the claims of revealed words encounter their hearers: preserve prayer, objection, ethical counsel and the names of those addressed rather than reducing the passages to proof texts."
-        },
-        {
-          "key": "source:BH06304",
-          "why": "Let the claims of revealed words encounter their hearers: preserve prayer, objection, ethical counsel and the names of those addressed rather than reducing the passages to proof texts."
-        },
-        {
-          "key": "source:BH06323",
-          "why": "Let the claims of revealed words encounter their hearers: preserve prayer, objection, ethical counsel and the names of those addressed rather than reducing the passages to proof texts."
-        },
-        {
-          "key": "source:BH06387",
-          "why": "Let the claims of revealed words encounter their hearers: preserve prayer, objection, ethical counsel and the names of those addressed rather than reducing the passages to proof texts."
-        },
-        {
-          "key": "source:BH06420",
           "why": "Let the claims of revealed words encounter their hearers: preserve prayer, objection, ethical counsel and the names of those addressed rather than reducing the passages to proof texts."
         },
         {
@@ -1785,39 +1263,11 @@
           "why": "Let the claims of revealed words encounter their hearers: preserve prayer, objection, ethical counsel and the names of those addressed rather than reducing the passages to proof texts."
         },
         {
-          "key": "source:BH06596",
-          "why": "Let the claims of revealed words encounter their hearers: preserve prayer, objection, ethical counsel and the names of those addressed rather than reducing the passages to proof texts."
-        },
-        {
           "key": "source:BH06601",
           "why": "Let the claims of revealed words encounter their hearers: preserve prayer, objection, ethical counsel and the names of those addressed rather than reducing the passages to proof texts."
         },
         {
-          "key": "source:BH06647",
-          "why": "Let the claims of revealed words encounter their hearers: preserve prayer, objection, ethical counsel and the names of those addressed rather than reducing the passages to proof texts."
-        },
-        {
-          "key": "source:BH06798",
-          "why": "Let the claims of revealed words encounter their hearers: preserve prayer, objection, ethical counsel and the names of those addressed rather than reducing the passages to proof texts."
-        },
-        {
-          "key": "source:BH06834",
-          "why": "Let the claims of revealed words encounter their hearers: preserve prayer, objection, ethical counsel and the names of those addressed rather than reducing the passages to proof texts."
-        },
-        {
           "key": "source:BH06919",
-          "why": "Let the claims of revealed words encounter their hearers: preserve prayer, objection, ethical counsel and the names of those addressed rather than reducing the passages to proof texts."
-        },
-        {
-          "key": "source:BH07007",
-          "why": "Let the claims of revealed words encounter their hearers: preserve prayer, objection, ethical counsel and the names of those addressed rather than reducing the passages to proof texts."
-        },
-        {
-          "key": "source:BH07043",
-          "why": "Let the claims of revealed words encounter their hearers: preserve prayer, objection, ethical counsel and the names of those addressed rather than reducing the passages to proof texts."
-        },
-        {
-          "key": "source:BH07194",
           "why": "Let the claims of revealed words encounter their hearers: preserve prayer, objection, ethical counsel and the names of those addressed rather than reducing the passages to proof texts."
         },
         {
@@ -1829,31 +1279,7 @@
           "why": "Let the claims of revealed words encounter their hearers: preserve prayer, objection, ethical counsel and the names of those addressed rather than reducing the passages to proof texts."
         },
         {
-          "key": "source:BH07434",
-          "why": "Let the claims of revealed words encounter their hearers: preserve prayer, objection, ethical counsel and the names of those addressed rather than reducing the passages to proof texts."
-        },
-        {
-          "key": "source:BH07435",
-          "why": "Let the claims of revealed words encounter their hearers: preserve prayer, objection, ethical counsel and the names of those addressed rather than reducing the passages to proof texts."
-        },
-        {
           "key": "source:BH07506",
-          "why": "Let the claims of revealed words encounter their hearers: preserve prayer, objection, ethical counsel and the names of those addressed rather than reducing the passages to proof texts."
-        },
-        {
-          "key": "source:BH07519",
-          "why": "Let the claims of revealed words encounter their hearers: preserve prayer, objection, ethical counsel and the names of those addressed rather than reducing the passages to proof texts."
-        },
-        {
-          "key": "source:BH07547",
-          "why": "Let the claims of revealed words encounter their hearers: preserve prayer, objection, ethical counsel and the names of those addressed rather than reducing the passages to proof texts."
-        },
-        {
-          "key": "source:BH07897",
-          "why": "Let the claims of revealed words encounter their hearers: preserve prayer, objection, ethical counsel and the names of those addressed rather than reducing the passages to proof texts."
-        },
-        {
-          "key": "source:BH07936",
           "why": "Let the claims of revealed words encounter their hearers: preserve prayer, objection, ethical counsel and the names of those addressed rather than reducing the passages to proof texts."
         },
         {
@@ -1861,55 +1287,7 @@
           "why": "Let the claims of revealed words encounter their hearers: preserve prayer, objection, ethical counsel and the names of those addressed rather than reducing the passages to proof texts."
         },
         {
-          "key": "source:BH08045",
-          "why": "Let the claims of revealed words encounter their hearers: preserve prayer, objection, ethical counsel and the names of those addressed rather than reducing the passages to proof texts."
-        },
-        {
-          "key": "source:BH08049",
-          "why": "Let the claims of revealed words encounter their hearers: preserve prayer, objection, ethical counsel and the names of those addressed rather than reducing the passages to proof texts."
-        },
-        {
-          "key": "source:BH08116",
-          "why": "Let the claims of revealed words encounter their hearers: preserve prayer, objection, ethical counsel and the names of those addressed rather than reducing the passages to proof texts."
-        },
-        {
-          "key": "source:BH08229",
-          "why": "Let the claims of revealed words encounter their hearers: preserve prayer, objection, ethical counsel and the names of those addressed rather than reducing the passages to proof texts."
-        },
-        {
-          "key": "source:BH08286",
-          "why": "Let the claims of revealed words encounter their hearers: preserve prayer, objection, ethical counsel and the names of those addressed rather than reducing the passages to proof texts."
-        },
-        {
           "key": "source:BH08346",
-          "why": "Let the claims of revealed words encounter their hearers: preserve prayer, objection, ethical counsel and the names of those addressed rather than reducing the passages to proof texts."
-        },
-        {
-          "key": "source:BH08413",
-          "why": "Let the claims of revealed words encounter their hearers: preserve prayer, objection, ethical counsel and the names of those addressed rather than reducing the passages to proof texts."
-        },
-        {
-          "key": "source:BH08469",
-          "why": "Let the claims of revealed words encounter their hearers: preserve prayer, objection, ethical counsel and the names of those addressed rather than reducing the passages to proof texts."
-        },
-        {
-          "key": "source:BH08473",
-          "why": "Let the claims of revealed words encounter their hearers: preserve prayer, objection, ethical counsel and the names of those addressed rather than reducing the passages to proof texts."
-        },
-        {
-          "key": "source:BH08685",
-          "why": "Let the claims of revealed words encounter their hearers: preserve prayer, objection, ethical counsel and the names of those addressed rather than reducing the passages to proof texts."
-        },
-        {
-          "key": "source:BH08759",
-          "why": "Let the claims of revealed words encounter their hearers: preserve prayer, objection, ethical counsel and the names of those addressed rather than reducing the passages to proof texts."
-        },
-        {
-          "key": "source:BH08873",
-          "why": "Let the claims of revealed words encounter their hearers: preserve prayer, objection, ethical counsel and the names of those addressed rather than reducing the passages to proof texts."
-        },
-        {
-          "key": "source:BH08988",
           "why": "Let the claims of revealed words encounter their hearers: preserve prayer, objection, ethical counsel and the names of those addressed rather than reducing the passages to proof texts."
         },
         {
@@ -1925,15 +1303,7 @@
           "why": "Read assurance together with patience, prayer, vulnerability and future expectation; preserve source omissions and do not supply missing endings."
         },
         {
-          "key": "source:BH03464",
-          "why": "Read assurance together with patience, prayer, vulnerability and future expectation; preserve source omissions and do not supply missing endings."
-        },
-        {
           "key": "source:BH05002",
-          "why": "Read assurance together with patience, prayer, vulnerability and future expectation; preserve source omissions and do not supply missing endings."
-        },
-        {
-          "key": "source:BH09557",
           "why": "Read assurance together with patience, prayer, vulnerability and future expectation; preserve source omissions and do not supply missing endings."
         },
         {
@@ -1953,55 +1323,7 @@
           "why": "Read assurance together with patience, prayer, vulnerability and future expectation; preserve source omissions and do not supply missing endings."
         },
         {
-          "key": "source:BH03383",
-          "why": "Read assurance together with patience, prayer, vulnerability and future expectation; preserve source omissions and do not supply missing endings."
-        },
-        {
-          "key": "source:BH03935",
-          "why": "Read assurance together with patience, prayer, vulnerability and future expectation; preserve source omissions and do not supply missing endings."
-        },
-        {
           "key": "source:BH03991",
-          "why": "Read assurance together with patience, prayer, vulnerability and future expectation; preserve source omissions and do not supply missing endings."
-        },
-        {
-          "key": "source:BH04576",
-          "why": "Read assurance together with patience, prayer, vulnerability and future expectation; preserve source omissions and do not supply missing endings."
-        },
-        {
-          "key": "source:BH06033",
-          "why": "Read assurance together with patience, prayer, vulnerability and future expectation; preserve source omissions and do not supply missing endings."
-        },
-        {
-          "key": "source:BH06142",
-          "why": "Read assurance together with patience, prayer, vulnerability and future expectation; preserve source omissions and do not supply missing endings."
-        },
-        {
-          "key": "source:BH07079",
-          "why": "Read assurance together with patience, prayer, vulnerability and future expectation; preserve source omissions and do not supply missing endings."
-        },
-        {
-          "key": "source:BH07257",
-          "why": "Read assurance together with patience, prayer, vulnerability and future expectation; preserve source omissions and do not supply missing endings."
-        },
-        {
-          "key": "source:BH07640",
-          "why": "Read assurance together with patience, prayer, vulnerability and future expectation; preserve source omissions and do not supply missing endings."
-        },
-        {
-          "key": "source:BH08456",
-          "why": "Read assurance together with patience, prayer, vulnerability and future expectation; preserve source omissions and do not supply missing endings."
-        },
-        {
-          "key": "source:BH09784",
-          "why": "Read assurance together with patience, prayer, vulnerability and future expectation; preserve source omissions and do not supply missing endings."
-        },
-        {
-          "key": "source:BH01657",
-          "why": "Read assurance together with patience, prayer, vulnerability and future expectation; preserve source omissions and do not supply missing endings."
-        },
-        {
-          "key": "source:BH01741",
           "why": "Read assurance together with patience, prayer, vulnerability and future expectation; preserve source omissions and do not supply missing endings."
         },
         {
@@ -2013,39 +1335,7 @@
           "why": "Read assurance together with patience, prayer, vulnerability and future expectation; preserve source omissions and do not supply missing endings."
         },
         {
-          "key": "source:BH03807",
-          "why": "Read assurance together with patience, prayer, vulnerability and future expectation; preserve source omissions and do not supply missing endings."
-        },
-        {
-          "key": "source:BH03968",
-          "why": "Read assurance together with patience, prayer, vulnerability and future expectation; preserve source omissions and do not supply missing endings."
-        },
-        {
-          "key": "source:BH04018",
-          "why": "Read assurance together with patience, prayer, vulnerability and future expectation; preserve source omissions and do not supply missing endings."
-        },
-        {
-          "key": "source:BH04189",
-          "why": "Read assurance together with patience, prayer, vulnerability and future expectation; preserve source omissions and do not supply missing endings."
-        },
-        {
-          "key": "source:BH05225",
-          "why": "Read assurance together with patience, prayer, vulnerability and future expectation; preserve source omissions and do not supply missing endings."
-        },
-        {
-          "key": "source:BH05660",
-          "why": "Read assurance together with patience, prayer, vulnerability and future expectation; preserve source omissions and do not supply missing endings."
-        },
-        {
-          "key": "source:BH07397",
-          "why": "Read assurance together with patience, prayer, vulnerability and future expectation; preserve source omissions and do not supply missing endings."
-        },
-        {
           "key": "source:BH07471",
-          "why": "Read assurance together with patience, prayer, vulnerability and future expectation; preserve source omissions and do not supply missing endings."
-        },
-        {
-          "key": "source:BH07716",
           "why": "Read assurance together with patience, prayer, vulnerability and future expectation; preserve source omissions and do not supply missing endings."
         },
         {
@@ -2057,39 +1347,7 @@
           "why": "Read assurance together with patience, prayer, vulnerability and future expectation; preserve source omissions and do not supply missing endings."
         },
         {
-          "key": "source:BH01535",
-          "why": "Read assurance together with patience, prayer, vulnerability and future expectation; preserve source omissions and do not supply missing endings."
-        },
-        {
-          "key": "source:BH01553",
-          "why": "Read assurance together with patience, prayer, vulnerability and future expectation; preserve source omissions and do not supply missing endings."
-        },
-        {
-          "key": "source:BH02658",
-          "why": "Read assurance together with patience, prayer, vulnerability and future expectation; preserve source omissions and do not supply missing endings."
-        },
-        {
-          "key": "source:BH03393",
-          "why": "Read assurance together with patience, prayer, vulnerability and future expectation; preserve source omissions and do not supply missing endings."
-        },
-        {
-          "key": "source:BH03856",
-          "why": "Read assurance together with patience, prayer, vulnerability and future expectation; preserve source omissions and do not supply missing endings."
-        },
-        {
-          "key": "source:BH05055",
-          "why": "Read assurance together with patience, prayer, vulnerability and future expectation; preserve source omissions and do not supply missing endings."
-        },
-        {
           "key": "source:BH05198",
-          "why": "Read assurance together with patience, prayer, vulnerability and future expectation; preserve source omissions and do not supply missing endings."
-        },
-        {
-          "key": "source:BH05260",
-          "why": "Read assurance together with patience, prayer, vulnerability and future expectation; preserve source omissions and do not supply missing endings."
-        },
-        {
-          "key": "source:BH05269",
           "why": "Read assurance together with patience, prayer, vulnerability and future expectation; preserve source omissions and do not supply missing endings."
         },
         {
@@ -2101,23 +1359,7 @@
           "why": "Read assurance together with patience, prayer, vulnerability and future expectation; preserve source omissions and do not supply missing endings."
         },
         {
-          "key": "source:BH07979",
-          "why": "Read assurance together with patience, prayer, vulnerability and future expectation; preserve source omissions and do not supply missing endings."
-        },
-        {
-          "key": "source:BH08331",
-          "why": "Read assurance together with patience, prayer, vulnerability and future expectation; preserve source omissions and do not supply missing endings."
-        },
-        {
-          "key": "source:BH08993",
-          "why": "Read assurance together with patience, prayer, vulnerability and future expectation; preserve source omissions and do not supply missing endings."
-        },
-        {
           "key": "source:BH09101",
-          "why": "Read assurance together with patience, prayer, vulnerability and future expectation; preserve source omissions and do not supply missing endings."
-        },
-        {
-          "key": "source:BH09127",
           "why": "Read assurance together with patience, prayer, vulnerability and future expectation; preserve source omissions and do not supply missing endings."
         },
         {
@@ -2125,43 +1367,7 @@
           "why": "Read assurance together with patience, prayer, vulnerability and future expectation; preserve source omissions and do not supply missing endings."
         },
         {
-          "key": "source:BH09188",
-          "why": "Read assurance together with patience, prayer, vulnerability and future expectation; preserve source omissions and do not supply missing endings."
-        },
-        {
-          "key": "source:BH09259",
-          "why": "Read assurance together with patience, prayer, vulnerability and future expectation; preserve source omissions and do not supply missing endings."
-        },
-        {
           "key": "source:BH09318",
-          "why": "Read assurance together with patience, prayer, vulnerability and future expectation; preserve source omissions and do not supply missing endings."
-        },
-        {
-          "key": "source:BH09352",
-          "why": "Read assurance together with patience, prayer, vulnerability and future expectation; preserve source omissions and do not supply missing endings."
-        },
-        {
-          "key": "source:BH09462",
-          "why": "Read assurance together with patience, prayer, vulnerability and future expectation; preserve source omissions and do not supply missing endings."
-        },
-        {
-          "key": "source:BH09465",
-          "why": "Read assurance together with patience, prayer, vulnerability and future expectation; preserve source omissions and do not supply missing endings."
-        },
-        {
-          "key": "source:BH09542",
-          "why": "Read assurance together with patience, prayer, vulnerability and future expectation; preserve source omissions and do not supply missing endings."
-        },
-        {
-          "key": "source:BH09548",
-          "why": "Read assurance together with patience, prayer, vulnerability and future expectation; preserve source omissions and do not supply missing endings."
-        },
-        {
-          "key": "source:BH09623",
-          "why": "Read assurance together with patience, prayer, vulnerability and future expectation; preserve source omissions and do not supply missing endings."
-        },
-        {
-          "key": "source:BH09669",
           "why": "Read assurance together with patience, prayer, vulnerability and future expectation; preserve source omissions and do not supply missing endings."
         },
         {
@@ -2169,23 +1375,7 @@
           "why": "Read assurance together with patience, prayer, vulnerability and future expectation; preserve source omissions and do not supply missing endings."
         },
         {
-          "key": "source:BH09714",
-          "why": "Read assurance together with patience, prayer, vulnerability and future expectation; preserve source omissions and do not supply missing endings."
-        },
-        {
-          "key": "source:BH09834",
-          "why": "Read assurance together with patience, prayer, vulnerability and future expectation; preserve source omissions and do not supply missing endings."
-        },
-        {
           "key": "source:BH09938",
-          "why": "Read assurance together with patience, prayer, vulnerability and future expectation; preserve source omissions and do not supply missing endings."
-        },
-        {
-          "key": "source:BH10109",
-          "why": "Read assurance together with patience, prayer, vulnerability and future expectation; preserve source omissions and do not supply missing endings."
-        },
-        {
-          "key": "source:BH10125",
           "why": "Read assurance together with patience, prayer, vulnerability and future expectation; preserve source omissions and do not supply missing endings."
         },
         {
@@ -2197,31 +1387,11 @@
           "why": "Read assurance together with patience, prayer, vulnerability and future expectation; preserve source omissions and do not supply missing endings."
         },
         {
-          "key": "source:BH11150",
-          "why": "Read assurance together with patience, prayer, vulnerability and future expectation; preserve source omissions and do not supply missing endings."
-        },
-        {
-          "key": "source:BH11162",
-          "why": "Read assurance together with patience, prayer, vulnerability and future expectation; preserve source omissions and do not supply missing endings."
-        },
-        {
           "key": "source:BH11181",
           "why": "Read assurance together with patience, prayer, vulnerability and future expectation; preserve source omissions and do not supply missing endings."
         },
         {
-          "key": "source:BH11339",
-          "why": "Read assurance together with patience, prayer, vulnerability and future expectation; preserve source omissions and do not supply missing endings."
-        },
-        {
           "key": "source:BH11362",
-          "why": "Read assurance together with patience, prayer, vulnerability and future expectation; preserve source omissions and do not supply missing endings."
-        },
-        {
-          "key": "source:BH11621",
-          "why": "Read assurance together with patience, prayer, vulnerability and future expectation; preserve source omissions and do not supply missing endings."
-        },
-        {
-          "key": "source:BH11903",
           "why": "Read assurance together with patience, prayer, vulnerability and future expectation; preserve source omissions and do not supply missing endings."
         },
         {
@@ -2238,22 +1408,6 @@
         },
         {
           "key": "source:ABU0483",
-          "why": "Return to useful work, justice, disciplined speech, patience and peace; finish by asking what the promised transformation requires of conduct and community."
-        },
-        {
-          "key": "source:BH09176",
-          "why": "Return to useful work, justice, disciplined speech, patience and peace; finish by asking what the promised transformation requires of conduct and community."
-        },
-        {
-          "key": "source:BH10849",
-          "why": "Return to useful work, justice, disciplined speech, patience and peace; finish by asking what the promised transformation requires of conduct and community."
-        },
-        {
-          "key": "source:BH10711",
-          "why": "Return to useful work, justice, disciplined speech, patience and peace; finish by asking what the promised transformation requires of conduct and community."
-        },
-        {
-          "key": "source:BH06709",
           "why": "Return to useful work, justice, disciplined speech, patience and peace; finish by asking what the promised transformation requires of conduct and community."
         },
         {
@@ -2275,10 +1429,6 @@
         {
           "key": "source:BH00585",
           "why": "Return to useful work, justice, disciplined speech, patience and peace; finish by asking what the promised transformation requires of conduct and community."
-        },
-        {
-          "key": "selection:253367aa8327746e582804aa",
-          "why": "Keep the two supplied quotations independently and unlinked, ending with the Deuteronomic test as an invitation to examine criteria honestly."
         },
         {
           "key": "selection:333a8e3ece5dc97491a010a6",

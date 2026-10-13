@@ -5,6 +5,312 @@
       "id": "2BEF6248EF094C6E9F1AE87D842D03E0",
       "slug": "mysteryofsacrifice",
       "displayTitle": "The mystery of sacrifice: a life that gives life",
+      "selection": {
+        "review": "selections/mysteryofsacrifice.json",
+        "sha256": "5fd959156fa1c898f91c1b386f1c9642c7751f53257a3664e406d5e054633355",
+        "ids": [
+          "b321b53bbeb4cb2d726bbcd4",
+          "9a08e0d5bbaae8b5900e6e7c",
+          "a2a71ac80259ec25278986f0",
+          "8da9f1774fe6d9e51f63a687",
+          "5fc051f04ecd84e1e7a1f28c",
+          "f337003e5c25a48fa1954bf9",
+          "29fb0e934eb9a49ba9c9a0e7",
+          "3cd794c6a97364f8a0d01d3c",
+          "ec39d885514998b414dabb95",
+          "8a374f6e8bc234f705d5f687",
+          "3267a0d31d90535f3ba45a65",
+          "ec03cf2195c556efd40ee480",
+          "c7a4f9d30e091dd7c0fc3cb4",
+          "2896af20d167a5ca6e366e72",
+          "62ec60df7f461772e0698b97",
+          "2267454b1d623a07e1201fb2",
+          "5b4c163f4bf439d2855c1cab",
+          "4b1fac171257503caa2f59d1",
+          "b0e8bb27dcd0cf05bc7b8078",
+          "7dfc55ca112fa89fccb2c71a",
+          "b1f965111567f3a7db7eb62c",
+          "0c58f1def082a7b7e5d0c823",
+          "bd55e5c8f469f7df1eaddc08",
+          "9b770809b58dc0085b5bcfcf",
+          "b86c4bf8ee94a8eca2d9fa68",
+          "a9e6da1302a96caf8b96ece8",
+          "ee0688096d18db141c493dbe",
+          "1c374df966ccfd1c6a8b6a02",
+          "3141097107310718f17cba3d",
+          "9b7cad66c65d44d4aa474915",
+          "a2cbbef761e32ccb49f74c33",
+          "9ab0bd506d3653e787e95665",
+          "d82e98f3457c4abd78b668bc",
+          "78284dffb7b3de63adcaab2b",
+          "760e8cc79aa8d54aeb5f3a4b",
+          "1163c365e8cf917c6b86ae39",
+          "b88ef0cb48b07f3bcb8ed61c",
+          "ea1428c2e6076b6965bc1c19",
+          "c2134282eced7ddc52481203",
+          "814236a2012143bc7e7952b8",
+          "ce096c9e7e920109c4b74a7f",
+          "11e25ad9a0537ef4d29eee2e",
+          "297c169948988686136b0a81",
+          "f5e01fa1c07ed68e2145aed7",
+          "084892d9b52ab0d99aadf1ee",
+          "24d4228c9fb675a4ebac8102",
+          "6d85fbba26cae3364fa6c536",
+          "c2f3827a405b7b4872aad7ea",
+          "45d9e4359fc7a97d58fff31c",
+          "635adbb8ca152d257d26f56a",
+          "df6bda230d5910edf28b6a77",
+          "30cf59738c1cda1b221e641f",
+          "5807084bbb3ee2efb23c1d99",
+          "7eb640a9c6666eb7b1d4a6f0",
+          "b0956419476c3477f970ebeb",
+          "2ed86d55ec114f1bda173f58",
+          "cb3eda632caba1d81a581b25",
+          "b0f5119f62c5b6893f610fc6",
+          "7986e7cdf22f1043d8e395ef",
+          "547236220ec48f1068b744b7",
+          "8fbf2881c7c353b04295c8ad",
+          "da9d8ec69319637d7bdb6c23",
+          "fb7f92a41c13c4bfd3f6f1bd",
+          "33edde83feb6387b864dc3fc",
+          "ee134dc6f83c9cc2c44dddc2",
+          "0b4c977d14d906665ccff69a",
+          "4c731318f43b2f369c2787c2",
+          "6fc7f3b9d89125bd91b1f820",
+          "ee22df7d9ced688a758c28a7",
+          "89531c946461e142376709a6",
+          "4f07c0f87911bb1837f6dc5f",
+          "2e965a7c016bfa6a1c7d05f8",
+          "cfca448090abc94f31d3321a",
+          "bbcbbb5e0f3c48a1bcaa82b7",
+          "e37a43a3154f9497154db61e",
+          "8385c22359b7ada22e2838e2",
+          "2466e54ecd525964516dde58",
+          "76224956d6ebffddbcfbdcee",
+          "a28f1466a283fb139450a558",
+          "58f8e8c27f3e7742f72b748f",
+          "cbb4160b32e9965bec934e36",
+          "8ad3891490906b8ce637c5a6",
+          "2b5302f92c8f60a36f1f5fe9",
+          "31059660f8d7c193f26dd5cc",
+          "262ff1f9a086fa29267bc3e6",
+          "df7a585440e6946ff4e2fe47",
+          "024655e010475793d10acd84",
+          "51e7568de72ce72af96e9d92",
+          "fbcec1563c2876e05eedede9",
+          "1c58a63209410ab34e45f7df",
+          "caba556ad34cfa46c44bd0e6",
+          "c0f80147b07011fae1b76c18",
+          "4567d9da94b16fb52f037448",
+          "c428fa8630f69a562978793c",
+          "64e12bfd2136329422341ecc",
+          "1fcd20f01523a3068cd61b5f",
+          "c85a34fcea98dc1a292545da",
+          "2346af076bacc134ddae7c37",
+          "9ad60483d3d9d58232dd71a2",
+          "a802d255479a697ccc2d716a",
+          "5fd8c2821a7b0595d99f4115",
+          "fc2847308bd74c99611525dc",
+          "413af5cb49ce9728bd1bfccd",
+          "04dc3649a51a9b6355a06ef1",
+          "545ca3d3f986926542e4f9a8",
+          "1f8386be85d542883dfcd2e6",
+          "a97d1dc7324632771f834eef",
+          "dd254d796c5f6b4164824113",
+          "bc88e46b31db6ad474fe4a86",
+          "1ab44573f425f203dd91962a",
+          "4221f9b18ba9b1708a25b8eb",
+          "2cd055f1f9c05c743ae98569",
+          "500b6a9ce09b94cf08a4bac6",
+          "8ef734b85cebcf7d6445eb5b",
+          "2c21c1a04f75941c6cc8fac7",
+          "9f7f9c8f77dc8e8353d99be4",
+          "24fb553d07718de67d5d0e19",
+          "03efb967c82b4d65cc3a1be8",
+          "bc8e71a40e35ba43ec6eef75",
+          "8ff24da1275b1d1ed2e06a12",
+          "60d5d9fb910bb2c458bb76d0",
+          "626928d2d7a926094cab8c86",
+          "50e3c346f4dd179b71c689b2",
+          "dd102924c22209fe074e6f20",
+          "5df55d26d1e38df2543acbf0",
+          "ee9d6578fff8ee5109b8ee02",
+          "5c058a4fb1c6d75b42d5c682",
+          "e50a3fcf086908587ebe0f28",
+          "4311b9d85e3850ca39222f43",
+          "eb60cbf5b96e158d92f1ea02",
+          "5b407bd4761baba358022f0d",
+          "628a227beb38ca4b77e109e1",
+          "79eaf5a4a68d90894f56f995",
+          "ff829876ec5deab74237c59a",
+          "b2df18678aec5a153d3a598b",
+          "948c3263e69fd292c4a83b32",
+          "89f29c949d6e02e8b438bb0b",
+          "2c7a5c3c69ea1150c6f74ac7",
+          "5ceaa993d0e83384f00bb4ff",
+          "ef68f6bed82aae386e6e1c6d",
+          "af12a87f671bc2bd10b53743",
+          "df106c05a1e3d6948778f19e",
+          "b4ab3d0edaeec12bc2c2777f",
+          "f5310d7a6dc076f24b9d0be8",
+          "738922db60ec5f3b0e044443",
+          "cd5b2b4b940439e072eb24f4",
+          "28a9e5a4ec425f4bdcb815cc",
+          "78272ab151683bb0ee5c7c7f",
+          "f89961263ce033bf2d7b4f4f",
+          "fc5a0f5eeb5bd167a0419e61",
+          "6c9f211a965411150a6edaaa",
+          "61c775f3a2f3ad567fbf9a94",
+          "398fd46f478252f91fb4fbb4",
+          "a98953a849fba2dddcaf2e27",
+          "a2da39587022c254879a4a99",
+          "f6c004807e65757d2dc59000",
+          "0824ed8d37bfd6a797f5f277",
+          "93972f089da1e7c8e1d0428b",
+          "4e61a094af637e6874271800",
+          "1e0db66141c0984b48b3d18f",
+          "3643de5efeac3e7abd7a0aef",
+          "9f6673626952d31cc0a1c520",
+          "b920c8d563e9f7a8ba23eb47",
+          "f5673d92893f0a5db998f2a7",
+          "9373b2c40e034cf5c40cc853",
+          "80efcc4ff8dca87e65d7f709",
+          "1507858da6e0da2fa950c86d",
+          "c07639eb99e675a763a90901",
+          "208f00323a7dc610726d4a77",
+          "af37d6374fcd2cefe92d1c7f",
+          "f83a86f1ec208f7ced230a0d",
+          "b373da6bfc7b0aeab47e0a98",
+          "9cb69bf8c03192b205f7ac6d",
+          "fe5329a77f3f67468c0c03e9",
+          "dd4a23c21d50cf9da22ae928",
+          "05776de5c86d19e6d757d6a1",
+          "196e2cea58394f11772e1464",
+          "2298d917d133360747dce6fb",
+          "4eabf9c7a777c63b201b5c91",
+          "aeae6d0c91abb6c4ea950628",
+          "db505dce2a884d4b877a3a77",
+          "eb96e8e8b4bd028c9a8aaa29",
+          "a4752eacdf9e44db7a187cab",
+          "6ea36784b09bcd58d3828712",
+          "e490ac95f3c767842d042fd6",
+          "615fa46506054cf9de0cc5eb",
+          "4f67b604d7c9d63a2f16b27a",
+          "8ee4364d5ea7787eec229ec5",
+          "2a9cc19a72c64ff8fdadba45",
+          "95aa898481c332b8f1abaffd",
+          "355c3c11c2a75d7af81eb9ac",
+          "bb6e90a27ab2ce4ea32d6a05",
+          "ac1a731bb3b8be8b58e0bc31",
+          "bdd40447908b956e6faecd0c",
+          "1d6a35be86cf763702c3acce",
+          "1f9d5464abb7fa0505fb270e",
+          "b876bc073560f5479d98e0f0",
+          "5c073eb3d851185254ccd151",
+          "def15512004a2d0fc2b0d82a",
+          "6eaf172773ca6b581b628ca0",
+          "cbc796df464bc2861bdcc8da",
+          "bac3703b1ba8163ff43e5958",
+          "2cdd87abbb4f6b8f3fc42f01",
+          "4d312b5398aa7d60e67c4c65",
+          "91901b5349b66a696bf202d7",
+          "ad6da8490ddcee44214edce9",
+          "73d72387d791c17a27e4aeae",
+          "3aff0ff1dc15ff99b2f8ac97",
+          "34027fd42d54fa76ef1517ec",
+          "fff2ba142214ea3a0af8fe73",
+          "0a5078be678a09f5a0e204fd",
+          "6c470576b94e09042ef8f1b5",
+          "8022a0b4b6eb1b50a893297d",
+          "84b93f0670bedaa3cbf2b3c6",
+          "a285225047d48e607a4ae30d",
+          "d533c36e80d3aba6158bf0e4",
+          "e287aed5074507c1692ca62b",
+          "01c514c50c681b6df0da8d2f",
+          "5db41e7571911880599ce39b",
+          "30ceba6789f6ffea426b774b",
+          "89c10577219ce858c30747da",
+          "c02ab154e5edff0732049b01",
+          "edf545ea4aafd3f0c4b441d2",
+          "3b515b2142b861805e32cd65",
+          "a01bd0ca094572b02e877ab6",
+          "49abcfe5a163092f84dc7c96",
+          "c6da3258a426c5cf8c85ad02",
+          "4443d3c168b73cf2d46d739f",
+          "58532dd1f93580603e5ed20a",
+          "26f37d39d36d6b70e86845aa",
+          "6977748f790f896fa5ab5d37",
+          "f940a9ac90744b2c7c42f71b",
+          "00b594d4b751ba725407668f",
+          "9bb6b76740a2298fd9984419",
+          "3b21904f2f55036166ea11a3",
+          "b7cadf4e35d2fb54fd2a6bfa",
+          "e8935b43492319ebeca315f0",
+          "ec568762052ea86df36f9d9b",
+          "2b79bcd4d1e780c03c60910b",
+          "121d9e20626912298041c570",
+          "159489103ee5343636fab4c4",
+          "bce24f376b1ca7bae308334f",
+          "90546ec649fcdf37594bba28",
+          "fd021c7ba45099e68a1aa293",
+          "a18b5ea3471d95eb32fc574d",
+          "5e05e7a378d0f219ffd901ad",
+          "857242c9c4e5ebcdbc724e06",
+          "1c2bc21a575fcb0d1d67cbe0",
+          "31075b6ce81455f4669f526a",
+          "f94c6eba81aeb0f2deb5bc5d",
+          "d94388fb29516d20c9f0861e",
+          "84b92d3dab6578c3d50a7f20",
+          "a2992e3e88d69d97ba1b9d8c",
+          "70c634d8532d43b4e3d5482a",
+          "2b42ef91ca6f0bee6eaed7db",
+          "a3a0cd0de4b90b17a5b37fa2",
+          "01741eee61872105b16d7536",
+          "4cd1a8aa6413d85e4f81e170",
+          "6a1d876d54ae5b9f368806d1",
+          "ccf4533760d533e8e4c4e357",
+          "0b3146e0e3a6f1f3a9551dd2",
+          "c7b8221be6672f60fe84bcd3",
+          "d821c5acf23282c1bbdad5e1",
+          "54381d1f9e772291c99458bb",
+          "21d96aa7b27697901f54bb78",
+          "6ebfeb52fc827f7b7564c3d5",
+          "da74308ee2344ad894a671c4",
+          "a7604e5a3b7299c9b42c4472",
+          "ac4da0e3a080dd2fbc8c2ac9",
+          "cae5e696a2c11546fb79018f",
+          "9524cb98a996b13f0eb5e5bf",
+          "4a5bee4cba7b343a23f34ccf",
+          "bc1d8b04338086b6d3116a1b",
+          "108f0a3b69e66be660582307",
+          "0819339ad26a20c3730150a2",
+          "65d3c340a6439e2ccbbb683a",
+          "4527b0dc72938b41ea6dc889",
+          "af2c370b275d9ed5aa31c9e2",
+          "d318ee994675e9f3cee1a3e7",
+          "9bcf6398ea1693c398b9cc63",
+          "fe01c54251645da35d00559b",
+          "e17a5e49cb71e0c0bb4976fb",
+          "a1ead9bba2b1e30f75f4fa4e",
+          "8267024147e15cd573bfba99",
+          "c891fcc969dee6cb78f04533",
+          "73bb14e15157cad7b345adf4",
+          "9f4800691cd7c279c3097b91",
+          "02dbe2a08ad5f875c6b4696e",
+          "2da75999f68c4f3215fce439",
+          "3685d60dfcbaa83a3e91f35e",
+          "24ce0447287207fede6e7fc5",
+          "cb721a99003f15a9f195c9e5",
+          "6673c68fcbe6ad11b889365e",
+          "b5a3c7f16f3ed4beb96cbd9e",
+          "a042543137eb9e3496259bcf",
+          "81b947146dfe088f49ca2d86",
+          "ed3f754e4659e627dc8afcd7",
+          "11c44bd682ec31e1e139b5e4",
+          "ddc2f5995ef8de061afd7f53",
+          "3ddfa8f0942fbf5620e4dc54"
+        ]
+      },
       "introduction": "What is given up in sacrifice, and what becomes possible through the giving? This collection opens with a fruitful tension: self-forgetfulness calls for the removal of blameworthy qualities, while life itself is to be cherished and devoted to remembrance and service. The mystery unfolds through images of iron acquiring the qualities of fire, a seed appearing in the life of a tree, and a candle sharing its light. Its practical settings are equally revealing: nursing a sick friend, helping a traveler, educating children, offering a modest gift, and relinquishing a cherished opinion for unity. The neighboring subjects of detachment, courage and tests and trials help us ask how such acts grow from love and freedom. Accounts of persecution and martyrdom then bring us into the lives of people facing extreme suffering, alongside the grief and hopes of those who survived them; personal prayers, poetry and recollections each speak in a different register. Reading their circumstances closely makes room for both steadfastness and sorrow. The sacrifice of the Manifestation opens a further horizon, in which a life of revelation and endurance bears fruit in the spiritual life of others. John’s grain of wheat, Paul’s living offering and the Qur’anic account of Abraham invite comparison without exhausting these meanings. Throughout, the question returns in a widening circle: how might giving of oneself release qualities, relationships and possibilities through which other lives can flourish?",
       "arc": "A life given to what gives life → What is being relinquished, and what is born? → The person beside us → Giving with judgment and a purpose → Service in motion → Faithfulness through change and trial → Dedication renewed in daily life → The continuing summons → The life offered by the Manifestation → An inherited image, newly encountered → Lives remembered under persecution → Grief, consolation and what survives → The lives of those who follow → The servant’s own longing → Poetry, paradox and the language of love → Prayer at the threshold of surrender → Prayer for lives that become a gift → Returning to life and its fruits → Further supplied readings",
       "order": [
@@ -23,10 +329,6 @@
         {
           "key": "source:AB02144",
           "why": "Identify the positive qualities that replace what is relinquished."
-        },
-        {
-          "key": "source:AB06437",
-          "why": "Keep the answer to a wish for martyrdom with its counsel to be patient and teach."
         },
         {
           "key": "source:AB09180",
@@ -69,19 +371,11 @@
           "why": "Move from purification of self to the explanations of fire, seed, spiritual qualities and lived dedication; let questions and stories complicate the idea of renunciation."
         },
         {
-          "key": "source:AB07004",
-          "why": "Move from purification of self to the explanations of fire, seed, spiritual qualities and lived dedication; let questions and stories complicate the idea of renunciation."
-        },
-        {
           "key": "source:AB10074",
           "why": "Move from purification of self to the explanations of fire, seed, spiritual qualities and lived dedication; let questions and stories complicate the idea of renunciation."
         },
         {
           "key": "source:AB03064",
-          "why": "Move from purification of self to the explanations of fire, seed, spiritual qualities and lived dedication; let questions and stories complicate the idea of renunciation."
-        },
-        {
-          "key": "source:AB07054",
           "why": "Move from purification of self to the explanations of fire, seed, spiritual qualities and lived dedication; let questions and stories complicate the idea of renunciation."
         },
         {
@@ -94,14 +388,6 @@
         },
         {
           "key": "source:BH00997",
-          "why": "Move from purification of self to the explanations of fire, seed, spiritual qualities and lived dedication; let questions and stories complicate the idea of renunciation."
-        },
-        {
-          "key": "source:BH02107",
-          "why": "Move from purification of self to the explanations of fire, seed, spiritual qualities and lived dedication; let questions and stories complicate the idea of renunciation."
-        },
-        {
-          "key": "source:AB03872",
           "why": "Move from purification of self to the explanations of fire, seed, spiritual qualities and lived dedication; let questions and stories complicate the idea of renunciation."
         },
         {
@@ -118,10 +404,6 @@
         },
         {
           "key": "source:ABU0341",
-          "why": "Move from purification of self to the explanations of fire, seed, spiritual qualities and lived dedication; let questions and stories complicate the idea of renunciation."
-        },
-        {
-          "key": "source:ABU3419",
           "why": "Move from purification of self to the explanations of fire, seed, spiritual qualities and lived dedication; let questions and stories complicate the idea of renunciation."
         },
         {
@@ -153,10 +435,6 @@
           "why": "Move from purification of self to the explanations of fire, seed, spiritual qualities and lived dedication; let questions and stories complicate the idea of renunciation."
         },
         {
-          "key": "source:AB06735",
-          "why": "Bring inward dedication into mutual care: hospitality, nursing, family responsibility, generosity and the recipient’s reciprocal concern."
-        },
-        {
           "key": "source:AB02335",
           "why": "Bring inward dedication into mutual care: hospitality, nursing, family responsibility, generosity and the recipient’s reciprocal concern."
         },
@@ -173,15 +451,7 @@
           "why": "Bring inward dedication into mutual care: hospitality, nursing, family responsibility, generosity and the recipient’s reciprocal concern."
         },
         {
-          "key": "source:AB11431",
-          "why": "Bring inward dedication into mutual care: hospitality, nursing, family responsibility, generosity and the recipient’s reciprocal concern."
-        },
-        {
           "key": "source:ABU1702",
-          "why": "Bring inward dedication into mutual care: hospitality, nursing, family responsibility, generosity and the recipient’s reciprocal concern."
-        },
-        {
-          "key": "source:AB09833",
           "why": "Bring inward dedication into mutual care: hospitality, nursing, family responsibility, generosity and the recipient’s reciprocal concern."
         },
         {
@@ -229,14 +499,6 @@
           "why": "Bring inward dedication into mutual care: hospitality, nursing, family responsibility, generosity and the recipient’s reciprocal concern."
         },
         {
-          "key": "source:ABU1004",
-          "why": "Bring inward dedication into mutual care: hospitality, nursing, family responsibility, generosity and the recipient’s reciprocal concern."
-        },
-        {
-          "key": "source:ABU1371",
-          "why": "Bring inward dedication into mutual care: hospitality, nursing, family responsibility, generosity and the recipient’s reciprocal concern."
-        },
-        {
           "key": "source:AB01956",
           "why": "Bring inward dedication into mutual care: hospitality, nursing, family responsibility, generosity and the recipient’s reciprocal concern."
         },
@@ -277,10 +539,6 @@
           "why": "Explore concrete offerings and their particular occasions, beginning with children’s gifts and ending with the surrender of a cherished opinion."
         },
         {
-          "key": "source:AB09297",
-          "why": "Explore concrete offerings and their particular occasions, beginning with children’s gifts and ending with the surrender of a cherished opinion."
-        },
-        {
           "key": "source:BH00735",
           "why": "Preserve the specific request about possessions and distribution before its intense figurative language."
         },
@@ -301,15 +559,7 @@
           "why": "Explore concrete offerings and their particular occasions, beginning with children’s gifts and ending with the surrender of a cherished opinion."
         },
         {
-          "key": "source:AB05794",
-          "why": "Explore concrete offerings and their particular occasions, beginning with children’s gifts and ending with the surrender of a cherished opinion."
-        },
-        {
           "key": "source:AB08151",
-          "why": "Explore concrete offerings and their particular occasions, beginning with children’s gifts and ending with the surrender of a cherished opinion."
-        },
-        {
-          "key": "source:AB09421",
           "why": "Explore concrete offerings and their particular occasions, beginning with children’s gifts and ending with the surrender of a cherished opinion."
         },
         {
@@ -325,15 +575,7 @@
           "why": "Trace how conviction becomes teaching, travel, work and patient community building; vary personal commissions with reflections on the source of effective service."
         },
         {
-          "key": "source:AB03251",
-          "why": "Trace how conviction becomes teaching, travel, work and patient community building; vary personal commissions with reflections on the source of effective service."
-        },
-        {
           "key": "source:AB04681",
-          "why": "Trace how conviction becomes teaching, travel, work and patient community building; vary personal commissions with reflections on the source of effective service."
-        },
-        {
-          "key": "source:AB06443",
           "why": "Trace how conviction becomes teaching, travel, work and patient community building; vary personal commissions with reflections on the source of effective service."
         },
         {
@@ -373,43 +615,7 @@
           "why": "Trace how conviction becomes teaching, travel, work and patient community building; vary personal commissions with reflections on the source of effective service."
         },
         {
-          "key": "source:AB04008",
-          "why": "Trace how conviction becomes teaching, travel, work and patient community building; vary personal commissions with reflections on the source of effective service."
-        },
-        {
-          "key": "source:AB02778",
-          "why": "Trace how conviction becomes teaching, travel, work and patient community building; vary personal commissions with reflections on the source of effective service."
-        },
-        {
-          "key": "source:AB01211",
-          "why": "Trace how conviction becomes teaching, travel, work and patient community building; vary personal commissions with reflections on the source of effective service."
-        },
-        {
-          "key": "source:AB02768",
-          "why": "Trace how conviction becomes teaching, travel, work and patient community building; vary personal commissions with reflections on the source of effective service."
-        },
-        {
-          "key": "source:AB05104",
-          "why": "Trace how conviction becomes teaching, travel, work and patient community building; vary personal commissions with reflections on the source of effective service."
-        },
-        {
-          "key": "source:AB12457",
-          "why": "Trace how conviction becomes teaching, travel, work and patient community building; vary personal commissions with reflections on the source of effective service."
-        },
-        {
-          "key": "source:ABU3108",
-          "why": "Trace how conviction becomes teaching, travel, work and patient community building; vary personal commissions with reflections on the source of effective service."
-        },
-        {
           "key": "source:AB01146",
-          "why": "Trace how conviction becomes teaching, travel, work and patient community building; vary personal commissions with reflections on the source of effective service."
-        },
-        {
-          "key": "source:ABU1057",
-          "why": "Trace how conviction becomes teaching, travel, work and patient community building; vary personal commissions with reflections on the source of effective service."
-        },
-        {
-          "key": "source:ABU1440",
           "why": "Trace how conviction becomes teaching, travel, work and patient community building; vary personal commissions with reflections on the source of effective service."
         },
         {
@@ -418,14 +624,6 @@
         },
         {
           "key": "source:ABU2427",
-          "why": "Trace how conviction becomes teaching, travel, work and patient community building; vary personal commissions with reflections on the source of effective service."
-        },
-        {
-          "key": "source:AB05705",
-          "why": "Trace how conviction becomes teaching, travel, work and patient community building; vary personal commissions with reflections on the source of effective service."
-        },
-        {
-          "key": "source:AB10033",
           "why": "Trace how conviction becomes teaching, travel, work and patient community building; vary personal commissions with reflections on the source of effective service."
         },
         {
@@ -449,39 +647,7 @@
           "why": "Trace how conviction becomes teaching, travel, work and patient community building; vary personal commissions with reflections on the source of effective service."
         },
         {
-          "key": "source:AB12334",
-          "why": "Trace how conviction becomes teaching, travel, work and patient community building; vary personal commissions with reflections on the source of effective service."
-        },
-        {
-          "key": "source:AB02485",
-          "why": "Trace how conviction becomes teaching, travel, work and patient community building; vary personal commissions with reflections on the source of effective service."
-        },
-        {
-          "key": "source:AB03436",
-          "why": "Trace how conviction becomes teaching, travel, work and patient community building; vary personal commissions with reflections on the source of effective service."
-        },
-        {
           "key": "source:AB03411",
-          "why": "Trace how conviction becomes teaching, travel, work and patient community building; vary personal commissions with reflections on the source of effective service."
-        },
-        {
-          "key": "source:AB08159",
-          "why": "Trace how conviction becomes teaching, travel, work and patient community building; vary personal commissions with reflections on the source of effective service."
-        },
-        {
-          "key": "source:AB06298",
-          "why": "Trace how conviction becomes teaching, travel, work and patient community building; vary personal commissions with reflections on the source of effective service."
-        },
-        {
-          "key": "source:AB11205",
-          "why": "Trace how conviction becomes teaching, travel, work and patient community building; vary personal commissions with reflections on the source of effective service."
-        },
-        {
-          "key": "source:ABU0567",
-          "why": "Trace how conviction becomes teaching, travel, work and patient community building; vary personal commissions with reflections on the source of effective service."
-        },
-        {
-          "key": "source:AB01736",
           "why": "Trace how conviction becomes teaching, travel, work and patient community building; vary personal commissions with reflections on the source of effective service."
         },
         {
@@ -509,10 +675,6 @@
           "why": "Follow trust through opposition and uncertainty, beginning with the relation between darkness and revelation and moving toward the value of a life’s choices."
         },
         {
-          "key": "source:AB01691",
-          "why": "Follow trust through opposition and uncertainty, beginning with the relation between darkness and revelation and moving toward the value of a life’s choices."
-        },
-        {
           "key": "source:AB03796",
           "why": "Follow trust through opposition and uncertainty, beginning with the relation between darkness and revelation and moving toward the value of a life’s choices."
         },
@@ -521,19 +683,7 @@
           "why": "Follow trust through opposition and uncertainty, beginning with the relation between darkness and revelation and moving toward the value of a life’s choices."
         },
         {
-          "key": "source:AB04226",
-          "why": "Follow trust through opposition and uncertainty, beginning with the relation between darkness and revelation and moving toward the value of a life’s choices."
-        },
-        {
           "key": "source:AB05575",
-          "why": "Follow trust through opposition and uncertainty, beginning with the relation between darkness and revelation and moving toward the value of a life’s choices."
-        },
-        {
-          "key": "source:AB06302",
-          "why": "Follow trust through opposition and uncertainty, beginning with the relation between darkness and revelation and moving toward the value of a life’s choices."
-        },
-        {
-          "key": "source:AB06372",
           "why": "Follow trust through opposition and uncertainty, beginning with the relation between darkness and revelation and moving toward the value of a life’s choices."
         },
         {
@@ -577,39 +727,7 @@
           "why": "Let distinct personal addresses develop the relation between faithfulness, comfort, effort and endurance."
         },
         {
-          "key": "source:AB00898",
-          "why": "Let distinct personal addresses develop the relation between faithfulness, comfort, effort and endurance."
-        },
-        {
-          "key": "source:AB01364",
-          "why": "Let distinct personal addresses develop the relation between faithfulness, comfort, effort and endurance."
-        },
-        {
-          "key": "source:AB01722",
-          "why": "Let distinct personal addresses develop the relation between faithfulness, comfort, effort and endurance."
-        },
-        {
-          "key": "source:AB02008",
-          "why": "Let distinct personal addresses develop the relation between faithfulness, comfort, effort and endurance."
-        },
-        {
-          "key": "source:AB02621",
-          "why": "Let distinct personal addresses develop the relation between faithfulness, comfort, effort and endurance."
-        },
-        {
           "key": "source:AB03475",
-          "why": "Let distinct personal addresses develop the relation between faithfulness, comfort, effort and endurance."
-        },
-        {
-          "key": "source:AB04938",
-          "why": "Let distinct personal addresses develop the relation between faithfulness, comfort, effort and endurance."
-        },
-        {
-          "key": "source:AB05555",
-          "why": "Let distinct personal addresses develop the relation between faithfulness, comfort, effort and endurance."
-        },
-        {
-          "key": "source:AB05833",
           "why": "Let distinct personal addresses develop the relation between faithfulness, comfort, effort and endurance."
         },
         {
@@ -645,15 +763,7 @@
           "why": "Let distinct personal addresses develop the relation between faithfulness, comfort, effort and endurance."
         },
         {
-          "key": "source:BH05830",
-          "why": "Let distinct personal addresses develop the relation between faithfulness, comfort, effort and endurance."
-        },
-        {
           "key": "source:BH08054",
-          "why": "Let distinct personal addresses develop the relation between faithfulness, comfort, effort and endurance."
-        },
-        {
-          "key": "source:BH09142",
           "why": "Let distinct personal addresses develop the relation between faithfulness, comfort, effort and endurance."
         },
         {
@@ -665,19 +775,11 @@
           "why": "Let distinct personal addresses develop the relation between faithfulness, comfort, effort and endurance."
         },
         {
-          "key": "source:AB02168",
-          "why": "Let distinct personal addresses develop the relation between faithfulness, comfort, effort and endurance."
-        },
-        {
           "key": "source:AB02345",
           "why": "Let distinct personal addresses develop the relation between faithfulness, comfort, effort and endurance."
         },
         {
           "key": "source:AB02403",
-          "why": "Let distinct personal addresses develop the relation between faithfulness, comfort, effort and endurance."
-        },
-        {
-          "key": "source:AB02546",
           "why": "Let distinct personal addresses develop the relation between faithfulness, comfort, effort and endurance."
         },
         {
@@ -689,43 +791,11 @@
           "why": "Hear the invitations to steadfastness and joyful dedication across changing circumstances, moving from planting hope to overcoming fear."
         },
         {
-          "key": "source:AB04724",
-          "why": "Hear the invitations to steadfastness and joyful dedication across changing circumstances, moving from planting hope to overcoming fear."
-        },
-        {
           "key": "source:AB07183",
           "why": "Hear the invitations to steadfastness and joyful dedication across changing circumstances, moving from planting hope to overcoming fear."
         },
         {
           "key": "source:AB07327",
-          "why": "Hear the invitations to steadfastness and joyful dedication across changing circumstances, moving from planting hope to overcoming fear."
-        },
-        {
-          "key": "source:AB07700",
-          "why": "Hear the invitations to steadfastness and joyful dedication across changing circumstances, moving from planting hope to overcoming fear."
-        },
-        {
-          "key": "source:AB07905",
-          "why": "Hear the invitations to steadfastness and joyful dedication across changing circumstances, moving from planting hope to overcoming fear."
-        },
-        {
-          "key": "source:AB08537",
-          "why": "Hear the invitations to steadfastness and joyful dedication across changing circumstances, moving from planting hope to overcoming fear."
-        },
-        {
-          "key": "source:AB08665",
-          "why": "Hear the invitations to steadfastness and joyful dedication across changing circumstances, moving from planting hope to overcoming fear."
-        },
-        {
-          "key": "source:AB09006",
-          "why": "Hear the invitations to steadfastness and joyful dedication across changing circumstances, moving from planting hope to overcoming fear."
-        },
-        {
-          "key": "source:AB09232",
-          "why": "Hear the invitations to steadfastness and joyful dedication across changing circumstances, moving from planting hope to overcoming fear."
-        },
-        {
-          "key": "source:AB10123",
           "why": "Hear the invitations to steadfastness and joyful dedication across changing circumstances, moving from planting hope to overcoming fear."
         },
         {
@@ -745,10 +815,6 @@
           "why": "Hear the invitations to steadfastness and joyful dedication across changing circumstances, moving from planting hope to overcoming fear."
         },
         {
-          "key": "source:ABU1099",
-          "why": "Hear the invitations to steadfastness and joyful dedication across changing circumstances, moving from planting hope to overcoming fear."
-        },
-        {
           "key": "source:ABU1123",
           "why": "Hear the invitations to steadfastness and joyful dedication across changing circumstances, moving from planting hope to overcoming fear."
         },
@@ -758,10 +824,6 @@
         },
         {
           "key": "source:ABU3056",
-          "why": "Hear the invitations to steadfastness and joyful dedication across changing circumstances, moving from planting hope to overcoming fear."
-        },
-        {
-          "key": "source:ABU3403",
           "why": "Hear the invitations to steadfastness and joyful dedication across changing circumstances, moving from planting hope to overcoming fear."
         },
         {
@@ -777,10 +839,6 @@
           "why": "Hear the invitations to steadfastness and joyful dedication across changing circumstances, moving from planting hope to overcoming fear."
         },
         {
-          "key": "source:BH02364",
-          "why": "Hear the invitations to steadfastness and joyful dedication across changing circumstances, moving from planting hope to overcoming fear."
-        },
-        {
           "key": "source:BH03953",
           "why": "Hear the invitations to steadfastness and joyful dedication across changing circumstances, moving from planting hope to overcoming fear."
         },
@@ -789,27 +847,7 @@
           "why": "Hear the invitations to steadfastness and joyful dedication across changing circumstances, moving from planting hope to overcoming fear."
         },
         {
-          "key": "source:BH06442",
-          "why": "Hear the invitations to steadfastness and joyful dedication across changing circumstances, moving from planting hope to overcoming fear."
-        },
-        {
-          "key": "source:BH06994",
-          "why": "Hear the invitations to steadfastness and joyful dedication across changing circumstances, moving from planting hope to overcoming fear."
-        },
-        {
-          "key": "source:BH08422",
-          "why": "Hear the invitations to steadfastness and joyful dedication across changing circumstances, moving from planting hope to overcoming fear."
-        },
-        {
-          "key": "source:BH08663",
-          "why": "Hear the invitations to steadfastness and joyful dedication across changing circumstances, moving from planting hope to overcoming fear."
-        },
-        {
           "key": "source:BH09280",
-          "why": "Hear the invitations to steadfastness and joyful dedication across changing circumstances, moving from planting hope to overcoming fear."
-        },
-        {
-          "key": "source:BH09596",
           "why": "Hear the invitations to steadfastness and joyful dedication across changing circumstances, moving from planting hope to overcoming fear."
         },
         {
@@ -861,23 +899,11 @@
           "why": "Read sacrifice through the purpose of revelation: guidance, spiritual life, freedom and the renewal of humanity, while retaining each passage’s particular voice."
         },
         {
-          "key": "source:BH11261",
-          "why": "Read sacrifice through the purpose of revelation: guidance, spiritual life, freedom and the renewal of humanity, while retaining each passage’s particular voice."
-        },
-        {
           "key": "source:AB01358",
           "why": "Read sacrifice through the purpose of revelation: guidance, spiritual life, freedom and the renewal of humanity, while retaining each passage’s particular voice."
         },
         {
           "key": "source:BH08085",
-          "why": "Read sacrifice through the purpose of revelation: guidance, spiritual life, freedom and the renewal of humanity, while retaining each passage’s particular voice."
-        },
-        {
-          "key": "source:BH02682",
-          "why": "Read sacrifice through the purpose of revelation: guidance, spiritual life, freedom and the renewal of humanity, while retaining each passage’s particular voice."
-        },
-        {
-          "key": "source:BH07188",
           "why": "Read sacrifice through the purpose of revelation: guidance, spiritual life, freedom and the renewal of humanity, while retaining each passage’s particular voice."
         },
         {
@@ -906,10 +932,6 @@
         },
         {
           "key": "source:BH02468",
-          "why": "Read sacrifice through the purpose of revelation: guidance, spiritual life, freedom and the renewal of humanity, while retaining each passage’s particular voice."
-        },
-        {
-          "key": "source:BH01433",
           "why": "Read sacrifice through the purpose of revelation: guidance, spiritual life, freedom and the renewal of humanity, while retaining each passage’s particular voice."
         },
         {
@@ -973,10 +995,6 @@
           "why": "Keep the named people and narrated events together; preserve accounts of opposition, steadfastness and violence as historical testimony in their stated sources."
         },
         {
-          "key": "source:AB01837",
-          "why": "Keep the named people and narrated events together; preserve accounts of opposition, steadfastness and violence as historical testimony in their stated sources."
-        },
-        {
           "key": "source:AB02656",
           "why": "Keep the named people and narrated events together; preserve accounts of opposition, steadfastness and violence as historical testimony in their stated sources."
         },
@@ -1009,10 +1027,6 @@
           "why": "Keep the named people and narrated events together; preserve accounts of opposition, steadfastness and violence as historical testimony in their stated sources."
         },
         {
-          "key": "source:BH02842",
-          "why": "Keep the named people and narrated events together; preserve accounts of opposition, steadfastness and violence as historical testimony in their stated sources."
-        },
-        {
           "key": "source:BH02765",
           "why": "Keep the named people and narrated events together; preserve accounts of opposition, steadfastness and violence as historical testimony in their stated sources."
         },
@@ -1029,23 +1043,11 @@
           "why": "Keep the named people and narrated events together; preserve accounts of opposition, steadfastness and violence as historical testimony in their stated sources."
         },
         {
-          "key": "source:AB10614",
-          "why": "Keep the named people and narrated events together; preserve accounts of opposition, steadfastness and violence as historical testimony in their stated sources."
-        },
-        {
           "key": "source:BH00575",
           "why": "Keep the named people and narrated events together; preserve accounts of opposition, steadfastness and violence as historical testimony in their stated sources."
         },
         {
-          "key": "source:BH03085",
-          "why": "Keep the named people and narrated events together; preserve accounts of opposition, steadfastness and violence as historical testimony in their stated sources."
-        },
-        {
           "key": "source:BH01143",
-          "why": "Keep the named people and narrated events together; preserve accounts of opposition, steadfastness and violence as historical testimony in their stated sources."
-        },
-        {
-          "key": "source:BH03745",
           "why": "Keep the named people and narrated events together; preserve accounts of opposition, steadfastness and violence as historical testimony in their stated sources."
         },
         {
@@ -1058,10 +1060,6 @@
         },
         {
           "key": "source:AB04827",
-          "why": "Keep the named people and narrated events together; preserve accounts of opposition, steadfastness and violence as historical testimony in their stated sources."
-        },
-        {
-          "key": "source:AB02176",
           "why": "Keep the named people and narrated events together; preserve accounts of opposition, steadfastness and violence as historical testimony in their stated sources."
         },
         {
@@ -1089,14 +1087,6 @@
           "why": "Allow lament and bereavement their full voice, then move through remembrance, prayer, protection and hope for those who remain."
         },
         {
-          "key": "source:AB00483",
-          "why": "Allow lament and bereavement their full voice, then move through remembrance, prayer, protection and hope for those who remain."
-        },
-        {
-          "key": "source:AB02468",
-          "why": "Allow lament and bereavement their full voice, then move through remembrance, prayer, protection and hope for those who remain."
-        },
-        {
           "key": "source:AB01460",
           "why": "Allow lament and bereavement their full voice, then move through remembrance, prayer, protection and hope for those who remain."
         },
@@ -1110,10 +1100,6 @@
         },
         {
           "key": "source:AB06100",
-          "why": "Allow lament and bereavement their full voice, then move through remembrance, prayer, protection and hope for those who remain."
-        },
-        {
-          "key": "source:AB01393",
           "why": "Allow lament and bereavement their full voice, then move through remembrance, prayer, protection and hope for those who remain."
         },
         {
@@ -1141,19 +1127,11 @@
           "why": "Allow lament and bereavement their full voice, then move through remembrance, prayer, protection and hope for those who remain."
         },
         {
-          "key": "source:BH07498",
-          "why": "Allow lament and bereavement their full voice, then move through remembrance, prayer, protection and hope for those who remain."
-        },
-        {
           "key": "source:BH03619",
           "why": "Allow lament and bereavement their full voice, then move through remembrance, prayer, protection and hope for those who remain."
         },
         {
           "key": "source:AB02685",
-          "why": "Allow lament and bereavement their full voice, then move through remembrance, prayer, protection and hope for those who remain."
-        },
-        {
-          "key": "source:AB02859",
           "why": "Allow lament and bereavement their full voice, then move through remembrance, prayer, protection and hope for those who remain."
         },
         {
@@ -1173,10 +1151,6 @@
           "why": "Allow lament and bereavement their full voice, then move through remembrance, prayer, protection and hope for those who remain."
         },
         {
-          "key": "source:AB00950",
-          "why": "Explore inheritance as an active responsibility through aid, care for descendants, remembrance and new acts of service."
-        },
-        {
           "key": "source:AB01015",
           "why": "Explore inheritance as an active responsibility through aid, care for descendants, remembrance and new acts of service."
         },
@@ -1193,23 +1167,7 @@
           "why": "Explore inheritance as an active responsibility through aid, care for descendants, remembrance and new acts of service."
         },
         {
-          "key": "source:AB06485",
-          "why": "Explore inheritance as an active responsibility through aid, care for descendants, remembrance and new acts of service."
-        },
-        {
-          "key": "source:AB07444",
-          "why": "Explore inheritance as an active responsibility through aid, care for descendants, remembrance and new acts of service."
-        },
-        {
-          "key": "source:AB12480",
-          "why": "Explore inheritance as an active responsibility through aid, care for descendants, remembrance and new acts of service."
-        },
-        {
           "key": "source:AB00627",
-          "why": "Explore inheritance as an active responsibility through aid, care for descendants, remembrance and new acts of service."
-        },
-        {
-          "key": "source:AB04382",
           "why": "Explore inheritance as an active responsibility through aid, care for descendants, remembrance and new acts of service."
         },
         {
@@ -1253,10 +1211,6 @@
           "why": "Hear personal devotion and the burdens of service in their original letters and reports, including the questions, family circumstances and prison settings."
         },
         {
-          "key": "source:AB10291",
-          "why": "Hear personal devotion and the burdens of service in their original letters and reports, including the questions, family circumstances and prison settings."
-        },
-        {
           "key": "source:AB09109",
           "why": "Hear personal devotion and the burdens of service in their original letters and reports, including the questions, family circumstances and prison settings."
         },
@@ -1290,18 +1244,6 @@
         },
         {
           "key": "source:ABU1148",
-          "why": "Hear personal devotion and the burdens of service in their original letters and reports, including the questions, family circumstances and prison settings."
-        },
-        {
-          "key": "source:ABU1961",
-          "why": "Hear personal devotion and the burdens of service in their original letters and reports, including the questions, family circumstances and prison settings."
-        },
-        {
-          "key": "source:AB08008",
-          "why": "Hear personal devotion and the burdens of service in their original letters and reports, including the questions, family circumstances and prison settings."
-        },
-        {
-          "key": "source:AB06524",
           "why": "Hear personal devotion and the burdens of service in their original letters and reports, including the questions, family circumstances and prison settings."
         },
         {
@@ -1345,10 +1287,6 @@
           "why": "Let the images of lover and beloved, candle, wine, wandering and surrender converse; keep stories and quoted verses intact so their voices remain recognizable."
         },
         {
-          "key": "source:AB04941",
-          "why": "Retain the opening statement that this personal address is a jest."
-        },
-        {
           "key": "source:AB05617",
           "why": "Let the images of lover and beloved, candle, wine, wandering and surrender converse; keep stories and quoted verses intact so their voices remain recognizable."
         },
@@ -1361,23 +1299,7 @@
           "why": "Let the images of lover and beloved, candle, wine, wandering and surrender converse; keep stories and quoted verses intact so their voices remain recognizable."
         },
         {
-          "key": "source:AB02708",
-          "why": "Let the images of lover and beloved, candle, wine, wandering and surrender converse; keep stories and quoted verses intact so their voices remain recognizable."
-        },
-        {
           "key": "source:AB04298",
-          "why": "Let the images of lover and beloved, candle, wine, wandering and surrender converse; keep stories and quoted verses intact so their voices remain recognizable."
-        },
-        {
-          "key": "source:AB01565",
-          "why": "Let the images of lover and beloved, candle, wine, wandering and surrender converse; keep stories and quoted verses intact so their voices remain recognizable."
-        },
-        {
-          "key": "source:AB00367",
-          "why": "Let the images of lover and beloved, candle, wine, wandering and surrender converse; keep stories and quoted verses intact so their voices remain recognizable."
-        },
-        {
-          "key": "source:AB07558",
           "why": "Let the images of lover and beloved, candle, wine, wandering and surrender converse; keep stories and quoted verses intact so their voices remain recognizable."
         },
         {
@@ -1401,31 +1323,7 @@
           "why": "Let the images of lover and beloved, candle, wine, wandering and surrender converse; keep stories and quoted verses intact so their voices remain recognizable."
         },
         {
-          "key": "source:AB01580",
-          "why": "Let the images of lover and beloved, candle, wine, wandering and surrender converse; keep stories and quoted verses intact so their voices remain recognizable."
-        },
-        {
-          "key": "source:AB04055",
-          "why": "Let the images of lover and beloved, candle, wine, wandering and surrender converse; keep stories and quoted verses intact so their voices remain recognizable."
-        },
-        {
-          "key": "source:AB04428",
-          "why": "Let the images of lover and beloved, candle, wine, wandering and surrender converse; keep stories and quoted verses intact so their voices remain recognizable."
-        },
-        {
-          "key": "source:AB04451",
-          "why": "Let the images of lover and beloved, candle, wine, wandering and surrender converse; keep stories and quoted verses intact so their voices remain recognizable."
-        },
-        {
           "key": "source:AB04511",
-          "why": "Let the images of lover and beloved, candle, wine, wandering and surrender converse; keep stories and quoted verses intact so their voices remain recognizable."
-        },
-        {
-          "key": "source:AB05080",
-          "why": "Let the images of lover and beloved, candle, wine, wandering and surrender converse; keep stories and quoted verses intact so their voices remain recognizable."
-        },
-        {
-          "key": "source:AB05711",
           "why": "Let the images of lover and beloved, candle, wine, wandering and surrender converse; keep stories and quoted verses intact so their voices remain recognizable."
         },
         {
@@ -1434,14 +1332,6 @@
         },
         {
           "key": "source:AB05984",
-          "why": "Let the images of lover and beloved, candle, wine, wandering and surrender converse; keep stories and quoted verses intact so their voices remain recognizable."
-        },
-        {
-          "key": "source:AB06365",
-          "why": "Let the images of lover and beloved, candle, wine, wandering and surrender converse; keep stories and quoted verses intact so their voices remain recognizable."
-        },
-        {
-          "key": "source:AB06545",
           "why": "Let the images of lover and beloved, candle, wine, wandering and surrender converse; keep stories and quoted verses intact so their voices remain recognizable."
         },
         {
@@ -1461,15 +1351,7 @@
           "why": "Let the images of lover and beloved, candle, wine, wandering and surrender converse; keep stories and quoted verses intact so their voices remain recognizable."
         },
         {
-          "key": "source:ABU0620",
-          "why": "Let the images of lover and beloved, candle, wine, wandering and surrender converse; keep stories and quoted verses intact so their voices remain recognizable."
-        },
-        {
           "key": "source:ABU1050",
-          "why": "Let the images of lover and beloved, candle, wine, wandering and surrender converse; keep stories and quoted verses intact so their voices remain recognizable."
-        },
-        {
-          "key": "source:ABU1413",
           "why": "Let the images of lover and beloved, candle, wine, wandering and surrender converse; keep stories and quoted verses intact so their voices remain recognizable."
         },
         {
@@ -1482,10 +1364,6 @@
         },
         {
           "key": "source:ABU3282",
-          "why": "Move through personal petitions, thanksgiving and uncertainty, attending to the speaker and the divine will to which the prayer is addressed."
-        },
-        {
-          "key": "source:BH02524",
           "why": "Move through personal petitions, thanksgiving and uncertainty, attending to the speaker and the divine will to which the prayer is addressed."
         },
         {
@@ -1541,19 +1419,11 @@
           "why": "Move through personal petitions, thanksgiving and uncertainty, attending to the speaker and the divine will to which the prayer is addressed."
         },
         {
-          "key": "source:AB06434",
-          "why": "Move through personal petitions, thanksgiving and uncertainty, attending to the speaker and the divine will to which the prayer is addressed."
-        },
-        {
           "key": "source:BH03531",
           "why": "Move through personal petitions, thanksgiving and uncertainty, attending to the speaker and the divine will to which the prayer is addressed."
         },
         {
           "key": "source:BH03952",
-          "why": "Move through personal petitions, thanksgiving and uncertainty, attending to the speaker and the divine will to which the prayer is addressed."
-        },
-        {
-          "key": "source:BH05044",
           "why": "Move through personal petitions, thanksgiving and uncertainty, attending to the speaker and the divine will to which the prayer is addressed."
         },
         {
@@ -1565,10 +1435,6 @@
           "why": "Move through personal petitions, thanksgiving and uncertainty, attending to the speaker and the divine will to which the prayer is addressed."
         },
         {
-          "key": "source:BH09513",
-          "why": "Move through personal petitions, thanksgiving and uncertainty, attending to the speaker and the divine will to which the prayer is addressed."
-        },
-        {
           "key": "source:BH11723",
           "why": "Move through personal petitions, thanksgiving and uncertainty, attending to the speaker and the divine will to which the prayer is addressed."
         },
@@ -1577,31 +1443,11 @@
           "why": "Turn toward prayers for others and for a community whose dedication may bear fruit beyond itself."
         },
         {
-          "key": "source:AB03673",
-          "why": "Turn toward prayers for others and for a community whose dedication may bear fruit beyond itself."
-        },
-        {
-          "key": "source:AB05913",
-          "why": "Turn toward prayers for others and for a community whose dedication may bear fruit beyond itself."
-        },
-        {
           "key": "source:AB11110",
           "why": "Turn toward prayers for others and for a community whose dedication may bear fruit beyond itself."
         },
         {
           "key": "source:AB11758",
-          "why": "Turn toward prayers for others and for a community whose dedication may bear fruit beyond itself."
-        },
-        {
-          "key": "source:AB03832",
-          "why": "Turn toward prayers for others and for a community whose dedication may bear fruit beyond itself."
-        },
-        {
-          "key": "source:AB04818",
-          "why": "Turn toward prayers for others and for a community whose dedication may bear fruit beyond itself."
-        },
-        {
-          "key": "source:AB05490",
           "why": "Turn toward prayers for others and for a community whose dedication may bear fruit beyond itself."
         },
         {
@@ -1639,10 +1485,6 @@
         {
           "key": "selection:cb721a99003f15a9f195c9e5",
           "why": "Return to the iron and fire image in the supplied translation, without substituting wording or changing its approximate catalogue status."
-        },
-        {
-          "key": "selection:bbd2e66df2cabe57cbb13889",
-          "why": "Retain the supplied translations and letters in their required separate position, moving from inner transformation and devotion to the effects of service."
         },
         {
           "key": "selection:11c44bd682ec31e1e139b5e4",

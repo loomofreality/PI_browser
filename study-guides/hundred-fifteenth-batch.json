@@ -5,6 +5,312 @@
       "id": "0DB1352636234AF3A5E69C0111872F10",
       "slug": "truebelievers",
       "displayTitle": "True believers: faith made visible",
+      "selection": {
+        "review": "selections/truebelievers.json",
+        "sha256": "ec8a3b36ad44471a0d97b1fc1a03f5860954312b2d3f00bbece115d60626889f",
+        "ids": [
+          "19b956ae4ddcb023ac79f6dd",
+          "cffafb2642c25764b4b89a76",
+          "905d94293412524d1ddd1c85",
+          "b5877a927fea2b5a0a807b72",
+          "277c2f22885c7a10e9a3fd85",
+          "7cdb70bc956bc51e8543dc4d",
+          "06888f05bdec2cb2a42d1173",
+          "5c775566386f7a49caf69c72",
+          "83f9e5fabda9f54082d8ebc1",
+          "51f8a6851c43b0b838469de5",
+          "3e25d26c40d6db54099cb6b2",
+          "cfed8046fa1f1ba4574f3f8a",
+          "08137b7c34efad451f660230",
+          "0136ce13d67238dbf2babc8c",
+          "12599fc28e750e56ab80ccb9",
+          "1cbf6649036ce4687a180304",
+          "cd5e7e09ed5f76c8b6aaf867",
+          "24094b95b2f7f28626b399b2",
+          "946de95e8701ac10fe45f847",
+          "b08024b4cf7690ce56806a0a",
+          "e48cf44d80535ea0a153e5d9",
+          "5b54845043d180c00be458fe",
+          "6ddb5b5d41181e90024f3efa",
+          "ca9a21ca12a7d6fa9e49c01a",
+          "f5896bd767a831461b4b4e52",
+          "d78b902419afb07297f01344",
+          "9b546695e2fc06ad1dc537ed",
+          "eb6af8810d21c366b39651a7",
+          "20dc41645259bfdded792685",
+          "a1829d09ab34e41cc2673829",
+          "62b221532e7192b456fe6122",
+          "1d8c3a5f343c43dff071f89a",
+          "ec61b36b004d045871479984",
+          "59071da13b468a6deff56371",
+          "b2f3b9657a557ce15daea7fd",
+          "dc77ceba58ca64983fd665b9",
+          "693e213d19a3b0311b127f61",
+          "8bd873a03667359bc76d8a05",
+          "35d622e9f433380214ec251b",
+          "4cd73259473c48fc8df33b7e",
+          "3e41614bc9b8ffd1f267e04b",
+          "e655d697bb15c7cd835f35f5",
+          "50881dbdba8640eef61afbf1",
+          "7f4f9d9b9cfb3ac5f368cd1d",
+          "c05312c9ddb6f439231ac92e",
+          "029f655da37b0a151bc2b18b",
+          "a915c9501c0125cb1087110c",
+          "cebd5e735f794689d8b84441",
+          "5135b28c734c844ddc8215e1",
+          "09c8bd068683daa5ee2cf894",
+          "dcfcb91358f470a1bf6cd33e",
+          "e7b17762001e334119f5a4d4",
+          "86fbde1f8974d27c820e115a",
+          "79d79441c5006c189c4073bf",
+          "04cd70b5424693ac67d7f069",
+          "a7e35bb86651413612e69feb",
+          "2313175e5d2a64fd210fd578",
+          "324a37b52148a9e3bf0c0a1c",
+          "89b86a2ad28b65a4918194cb",
+          "16e614f837956cd1f5f9342d",
+          "75c00c57c15b4e757d257ac2",
+          "87e51cdbddb36ccc125950f7",
+          "b045730c18bae824df85f532",
+          "23afdf0b2cda5fdad50b4cbf",
+          "6e2d641c634b8676f1ddec67",
+          "49de5e19e4e6df1a7ddb8c89",
+          "3fd8237decaf12679512453e",
+          "c2e43bf3ed7dba1eec5a6f63",
+          "74b7d0d178a693b932403ff0",
+          "534a92c833d930c18c414bb1",
+          "c11f5c51ba0baba905359ac7",
+          "46f9fdc7652cb33e64d12d95",
+          "24a2edcae992a4a40901e3c1",
+          "20d00a2ebe5a03c6d4d2305d",
+          "44d03d003767d754f513005f",
+          "a689151e47618f80f6eb7bd6",
+          "1c0dd661329c7c46b484cbf6",
+          "ea0e879f0e919e20050dbad9",
+          "ef91d58a4d79a8f59999bdee",
+          "cc38985b6565cc971437c655",
+          "4ce32c6789fc1ab110efec1a",
+          "95361654c8953656f8ffd2e1",
+          "a57c69301e30b9c19270f8d7",
+          "028753e1e4c5cb2447e25088",
+          "bf0c3b074a9e9247c697182c",
+          "eddc4bf84c081a2935facb1a",
+          "ce2e7adce67e966fc13f423e",
+          "17ec776d81909ece9c2a0c19",
+          "f2b7a9e35e66141deb34c17f",
+          "c8ad2dee2849c3c52a6cf47f",
+          "3febad2c77981a9579b77de1",
+          "8838bbfaf33d5bb6e93abf69",
+          "f5c5c4fecf3197d7a40aeebb",
+          "08b83ba1764d164d3b290d10",
+          "bbc5e00367534ff25dfdeaf3",
+          "40e5bf77a884fcdc8fc72b52",
+          "d0027d4ec6047e50d9967dda",
+          "bf77787e01871864a3c9f642",
+          "d5228edbbeabb9e56e59b54c",
+          "1ec4608169468b50d3898457",
+          "1b8f7ddc308b9bcd917e0085",
+          "b25265e453ad0b673433861f",
+          "8ef84178eaa5c1549a1ccaa5",
+          "3cc8dd8f8f73c3696b5f2554",
+          "f48140a2a4dd63f6264b7632",
+          "93a079262487a369ded1e0d6",
+          "682f365586bc75d9414e51c4",
+          "75db3a728b03121927930b47",
+          "7842ff74367bddacb175fc4b",
+          "4de33af57d4b8ca0c1674a63",
+          "5188facfa0163056029f0e3d",
+          "9011c119760959e2dbdb5d94",
+          "a96a052cc23065e9c44399f5",
+          "93fa6ff9a3f10b038a25a4e4",
+          "535ea7d1de208ce6bc44b774",
+          "5276e2b44e1cdef45a9670eb",
+          "6dc203f94a865d07b4cad6bc",
+          "b3d1d621ec7dab04b281fc20",
+          "a70747275d13b49c250d1d89",
+          "624869b2b7d1fbeee4b8fa18",
+          "11993034f9f8ae3597edd744",
+          "8f927e8a9e9bdda1656e0198",
+          "1bb29b449602c3a5ebdd3845",
+          "a062cc92fe83a4fc5ce17565",
+          "fe6fc29e841c698a087ccd75",
+          "6e260e472091c36d88f6cca7",
+          "8167cc4df9507b6e337fc33b",
+          "8a6d123d706d8897a1c0809b",
+          "0a64975342bdb002e3950ff9",
+          "ec34e81cc4b3329a6407e436",
+          "cc287c5e2f70d3a1461999db",
+          "fd986a18553af42257df46f2",
+          "af70ccb8f5afe64788917560",
+          "bda44b13b9f4edca1d017cf7",
+          "e9aee127a21f75946f89847e",
+          "d5859afce32b5d7d5fb9b127",
+          "415e93e5d9f404df8e2da562",
+          "56962bb2ea087ac7ec91ebf2",
+          "4e6684ec30cbc220d2fb2293",
+          "1cfdb08e30b430204cd8b8f5",
+          "d73f437b5d36073ed7681086",
+          "4a0e286072030d0a4be482b2",
+          "a7598ec4f50352eaf1054970",
+          "60e89d614f6a40b36da267b3",
+          "b62315c51781048b3b0b575e",
+          "faf6b39f417608f454b8d7d0",
+          "c9d833fa47faea09d0486ec5",
+          "1c70db68831d15ddcce5daac",
+          "5ef2bd8e74fe4ebd272fadc6",
+          "63110e237cf42c666b23d0b5",
+          "2db980a922ca29177bae39fd",
+          "a6ce3e82feec4028d005455d",
+          "d6c05089f6653e1fe1a58436",
+          "6e81c8bd42201f8da1664751",
+          "49b69daf81364ef74591ef63",
+          "eab420c71116a9ed43068a8f",
+          "af1fb49e59ca72ca77970f95",
+          "861b6e14e62f3d561bcf2446",
+          "a0c94d984af9e6e7a56b0458",
+          "8bee82d3e9150565ed1f868c",
+          "590a350ac52db07f589225e7",
+          "ae850600e727cbb5cfb6716c",
+          "34ed158998c34c57bdca07a2",
+          "ebf2885d348ec3bbdcace901",
+          "4342b5d4008383f2e760163b",
+          "a868c4e71edb3d952cf96a2d",
+          "999b126c87253a15152b2e92",
+          "8c8f4f33900e575771e4de78",
+          "0ee2e00cfdf3d90bebd2390e",
+          "c33d300955adfb3a7ccbaa68",
+          "004dc79dfef2a4856a7776ed",
+          "bf9851edcbd10c6b2dfe798c",
+          "ce62fb30a78550ea02807245",
+          "9e7b4f255cec0cdad33b72c0",
+          "e7636b0f9abeaa5e57276940",
+          "8a60b88f5f201340b0a3cd18",
+          "645a46a9153643f16acac14e",
+          "e2eb967c6f146eced225d525",
+          "afb6ac8624ebc600ecc029cf",
+          "fa46aa467e9429ee93faef0a",
+          "2cf32355e5dfc6d086073358",
+          "6119c4c443c34dde52070dcb",
+          "6a43f3e9fc2b852e528bcf20",
+          "1b99859c32d8e67255bc4008",
+          "ccf0e894d9a4264e73e0c4a9",
+          "d0cb58f0805aa271baf7fd66",
+          "26f65cf8522d557c5ffb60bb",
+          "07a151509c9e3e70d3d8a8a6",
+          "71894edcacadf33c99a98c22",
+          "a11bbafbfa226011a876d7ad",
+          "4f4674f5140b325887d7f6dd",
+          "233b1bb1964ddf3b21b66b85",
+          "f8d8fff47923c54f23fdca69",
+          "eb02da616e2a2679c067b518",
+          "3e775227d5067d9be36e81e3",
+          "7b367478eaf5488bcb344d12",
+          "86254e5db2c5cbd099536d3a",
+          "509d71bb11d5871506d90c8b",
+          "f9401addd1b270ea33189d27",
+          "2daf9185f9075ae8be093877",
+          "d07b037c27cd16461de3c1a1",
+          "75d9826b9ebb2f18767190e4",
+          "ff15a9827c79893ee8f2773e",
+          "a9b9025cd8c84b1531e39c5c",
+          "073e19c4dec3a05b41c54ec0",
+          "7ff8c27f12a438e8a44236eb",
+          "a75e731d0757f7954ba4dc22",
+          "166bfe62faf38506d6a5028d",
+          "d50b6c69f8e04ba8b2192f15",
+          "92de12ea0296bd274e64c6d7",
+          "3c76aeb8f80727841a5d28ff",
+          "49223710d2b83c2187d99cc9",
+          "d13e8e9db0908b591ed41186",
+          "acccafc9451f44b058785326",
+          "cecaa6192be8d297bf011cc0",
+          "b1e69de7ee9bd1f2fa317c24",
+          "65ec61004076b8fbcd01f018",
+          "a1eddab8b9ccad0cc7fd4d4d",
+          "4075abaf418b5e9cb5df3430",
+          "bc309f9fd84040d83036f1c5",
+          "52f57ecd3032fbfcd9c1b42e",
+          "b298e7539b365f7797e6d97c",
+          "475183c1340f222b664dea88",
+          "46b11f660306c3f0f278d9c6",
+          "35a6542dd43754b071817026",
+          "b595dc9d45210aa217252229",
+          "f1fbee011de5f6d0f32d0554",
+          "5e87c8bc226683b975964ed6",
+          "fd95cde2cabbed8f9d0b689f",
+          "379b9b5ef0d402ef4312aa65",
+          "c8f26a9173bac72ea5092ca2",
+          "11bb8ba1016cb686b57998f5",
+          "a9afa82e4b858a725dd01748",
+          "2c2e1c33aba5a1c3960e38f5",
+          "7dc9bff9e8dddf2bc9813ccd",
+          "2116189f13e069a30853397c",
+          "c77e1d8b23b079ae31c398b6",
+          "17d2226d575beca0bdbbaf4d",
+          "078bc9fdaa95e9c7b7d78b6d",
+          "c9d963858547d5af0d328fdf",
+          "2d0d526170f9a939875d6a5f",
+          "2bc459797ab02ea7644c3013",
+          "ff90d3ed856344a39ce58e9c",
+          "648a0838f41005a33922d5af",
+          "a19b73941bb1433c66926903",
+          "3f0fc954b7c297f8e0840a59",
+          "13281cbf960670b0036170dd",
+          "050e0bfad12626c48a7ad4a2",
+          "7d32fc3bddd7feb0474ecd44",
+          "c9153aa5c07c71c90c3fcef0",
+          "c505abecfeae137dad450e4f",
+          "a1b6cf9ffea9c26e11353e13",
+          "dfe9afd0906377e7d316344a",
+          "34110314741d48021b8438c1",
+          "b6c02c4d9b27ebd84beb4d8d",
+          "8e278b079d9137a13e4c29e8",
+          "a53b41a87860b3bd05e4296b",
+          "ba3ab5b66e33b1b70cef5ba0",
+          "59dc1c172b2aa8638f7d7a6a",
+          "e3c52b8f03cf9f7c3b7ee7d7",
+          "fbe9cecadeaa04987d579fd6",
+          "cd7b8a20008e376fe61f5ecd",
+          "fd7873c8b4d92cfd45a5065c",
+          "ec61a678f47e4cf4f648ecd1",
+          "ab211781f1fa1acae253ee19",
+          "915176b35dccde79a06da0e9",
+          "638b490199d6249c39104040",
+          "1f35f8967970cdafadf481f5",
+          "48e5034a9831ccc154c8d59c",
+          "dee5dea7a497a194b03b37ee",
+          "faee015239891d3abf93c8e9",
+          "328f2f18e956491a60261c3d",
+          "5b4e0c02a391dfc7d835af71",
+          "4ce8741a2a7a832e812797e7",
+          "de55f6c5fb66faf0b327f5ec",
+          "b77c78299c81ad4da4cfed75",
+          "e84a0258d14cc8c1a6ba50b4",
+          "aba2bc17731350a2e0f01062",
+          "d62b602974362d18e34bf51d",
+          "21a6145f63b2d019d35acdfe",
+          "b3455b028476b2186ff02588",
+          "d0a9528814218ee3f798a016",
+          "29b1b0410851d79be8366ea0",
+          "8b08aa5b8415b68032b7afff",
+          "d4b50aa882ae2bfd97d2321a",
+          "3cf7ab54f9d4eea659d3fdfa",
+          "5e9da18a30841804267c16d5",
+          "8b3be203c92b28f6a7ce3747",
+          "d092c24a9593b62444357e37",
+          "038fc100c87fa0db9d5aefea",
+          "f4c8bece22ed505d358c1624",
+          "829a73e748ef6ef4d8f8673b",
+          "a86f2a5963c12ed948dc587f",
+          "96a29fbe17c37235d2636783",
+          "95230baee6c0c91d4ac790aa",
+          "ecb7be73428b75ad2dfd5834",
+          "583e65a6a1704e461c65b0a0",
+          "5706db569f2c8b26f9e77e68",
+          "c5311ada31f01d6cd2e9e117",
+          "83c9cf40e70cbafe6600f8e9"
+        ]
+      },
       "introduction": "What would remain of a profession of faith if its name, emblem and claims were set aside? These selections repeatedly direct attention to what a life makes possible for other people: trust in a transaction, welcome for a stranger, patience with a difficult companion, and help offered without a concealed bargain. Faith is pictured as a tree known by its fruits, while love of God, prayer, the Covenant and continuing self-examination supply the inward sources of growth. The calls to become distinguished are demanding, yet they stand beside counsels of humility and the refusal to prefer oneself above others. Letters, prayers and reported conversations also remember particular people and communities, including lives of service under persecution; their circumstances matter to how their examples are understood. The connected subjects of kindness, justice, forgiveness, the golden rule and the power of example widen the inquiry from personal virtue to shared life. James’s challenge to faith without practical care and the Dhammapada’s contrast between recitation and practice provide distinct comparative readings. Together, these texts invite us to ask how conviction becomes dependable conduct—and how that conduct can remain generous when recognition, agreement or reward never comes.",
       "arc": "What makes belief visible? → Words that become deeds → A widening circle of care → The trust of other people → The work on oneself → Steadfastness under trial → The inward sources of conduct → People and communities remembered → Families, education and the life of women → Leaving light in the world",
       "order": [
@@ -45,10 +351,6 @@
           "why": "Open with the difference between a badge and a way of life, then make the implications concrete in kindness, integrity and self-examination."
         },
         {
-          "key": "source:AB10789",
-          "why": "Restore the hope of forgiveness even after many errors and the trust that opponents should be able to place in believers."
-        },
-        {
           "key": "source:AB00531",
           "why": "Open with the difference between a badge and a way of life, then make the implications concrete in kindness, integrity and self-examination."
         },
@@ -78,10 +380,6 @@
         },
         {
           "key": "source:ABU3745",
-          "why": "Explore the recurring tests of practice, including the limits of names, claims, reputation and mere recital."
-        },
-        {
-          "key": "source:ABU3506",
           "why": "Explore the recurring tests of practice, including the limits of names, claims, reputation and mere recital."
         },
         {
@@ -173,14 +471,6 @@
           "why": "Explore the recurring tests of practice, including the limits of names, claims, reputation and mere recital."
         },
         {
-          "key": "source:AB03387",
-          "why": "Explore the recurring tests of practice, including the limits of names, claims, reputation and mere recital."
-        },
-        {
-          "key": "source:AB11098",
-          "why": "Explore the recurring tests of practice, including the limits of names, claims, reputation and mere recital."
-        },
-        {
           "key": "source:ABU2721",
           "why": "Explore the recurring tests of practice, including the limits of names, claims, reputation and mere recital."
         },
@@ -205,23 +495,11 @@
           "why": "Explore the recurring tests of practice, including the limits of names, claims, reputation and mere recital."
         },
         {
-          "key": "source:AB08907",
-          "why": "Explore the recurring tests of practice, including the limits of names, claims, reputation and mere recital."
-        },
-        {
-          "key": "source:AB12709",
-          "why": "Explore the recurring tests of practice, including the limits of names, claims, reputation and mere recital."
-        },
-        {
           "key": "source:BH02815",
           "why": "Explore the recurring tests of practice, including the limits of names, claims, reputation and mere recital."
         },
         {
           "key": "source:ABU0653",
-          "why": "Move from actual encounters with strangers to impartial service, generosity, forgiveness and the refusal of hostility; keep care for difficult people in view."
-        },
-        {
-          "key": "source:ABU3105",
           "why": "Move from actual encounters with strangers to impartial service, generosity, forgiveness and the refusal of hostility; keep care for difficult people in view."
         },
         {
@@ -277,10 +555,6 @@
           "why": "Move from actual encounters with strangers to impartial service, generosity, forgiveness and the refusal of hostility; keep care for difficult people in view."
         },
         {
-          "key": "source:AB09561",
-          "why": "Move from actual encounters with strangers to impartial service, generosity, forgiveness and the refusal of hostility; keep care for difficult people in view."
-        },
-        {
           "key": "source:AB09696",
           "why": "Move from actual encounters with strangers to impartial service, generosity, forgiveness and the refusal of hostility; keep care for difficult people in view."
         },
@@ -297,14 +571,6 @@
           "why": "Move from actual encounters with strangers to impartial service, generosity, forgiveness and the refusal of hostility; keep care for difficult people in view."
         },
         {
-          "key": "source:AB01933",
-          "why": "Move from actual encounters with strangers to impartial service, generosity, forgiveness and the refusal of hostility; keep care for difficult people in view."
-        },
-        {
-          "key": "source:ABU2793",
-          "why": "Move from actual encounters with strangers to impartial service, generosity, forgiveness and the refusal of hostility; keep care for difficult people in view."
-        },
-        {
           "key": "source:ABU3227",
           "why": "Move from actual encounters with strangers to impartial service, generosity, forgiveness and the refusal of hostility; keep care for difficult people in view."
         },
@@ -314,10 +580,6 @@
         },
         {
           "key": "source:ABU3383",
-          "why": "Move from actual encounters with strangers to impartial service, generosity, forgiveness and the refusal of hostility; keep care for difficult people in view."
-        },
-        {
-          "key": "source:ABU2394",
           "why": "Move from actual encounters with strangers to impartial service, generosity, forgiveness and the refusal of hostility; keep care for difficult people in view."
         },
         {
@@ -345,20 +607,8 @@
           "why": "Move from actual encounters with strangers to impartial service, generosity, forgiveness and the refusal of hostility; keep care for difficult people in view."
         },
         {
-          "key": "source:AB03842",
-          "why": "Move from actual encounters with strangers to impartial service, generosity, forgiveness and the refusal of hostility; keep care for difficult people in view."
-        },
-        {
-          "key": "source:AB11822",
-          "why": "Move from actual encounters with strangers to impartial service, generosity, forgiveness and the refusal of hostility; keep care for difficult people in view."
-        },
-        {
           "key": "source:AB09155",
           "why": "Move from actual encounters with strangers to impartial service, generosity, forgiveness and the refusal of hostility; keep care for difficult people in view."
-        },
-        {
-          "key": "source:AB08803",
-          "why": "Retain the lion metaphor in its complete source context, beside the instruction to give life rather than death and the surrounding counsels against violence."
         },
         {
           "key": "source:ABU1105",
@@ -377,10 +627,6 @@
           "why": "Move from actual encounters with strangers to impartial service, generosity, forgiveness and the refusal of hostility; keep care for difficult people in view."
         },
         {
-          "key": "source:BH02180",
-          "why": "Move from actual encounters with strangers to impartial service, generosity, forgiveness and the refusal of hostility; keep care for difficult people in view."
-        },
-        {
           "key": "source:BH02503",
           "why": "Move from actual encounters with strangers to impartial service, generosity, forgiveness and the refusal of hostility; keep care for difficult people in view."
         },
@@ -394,10 +640,6 @@
         },
         {
           "key": "source:AB11431",
-          "why": "Move from actual encounters with strangers to impartial service, generosity, forgiveness and the refusal of hostility; keep care for difficult people in view."
-        },
-        {
-          "key": "source:BH09808",
           "why": "Move from actual encounters with strangers to impartial service, generosity, forgiveness and the refusal of hostility; keep care for difficult people in view."
         },
         {
@@ -449,15 +691,7 @@
           "why": "Make the moral claims tangible in transactions, public service, punctuality, gratitude and accounts of confidence gradually earned."
         },
         {
-          "key": "source:ABU0238",
-          "why": "Make the moral claims tangible in transactions, public service, punctuality, gratitude and accounts of confidence gradually earned."
-        },
-        {
           "key": "source:AB09378",
-          "why": "Make the moral claims tangible in transactions, public service, punctuality, gratitude and accounts of confidence gradually earned."
-        },
-        {
-          "key": "source:AB12363",
           "why": "Make the moral claims tangible in transactions, public service, punctuality, gratitude and accounts of confidence gradually earned."
         },
         {
@@ -509,14 +743,6 @@
           "why": "Make the moral claims tangible in transactions, public service, punctuality, gratitude and accounts of confidence gradually earned."
         },
         {
-          "key": "source:BH05917",
-          "why": "Make the moral claims tangible in transactions, public service, punctuality, gratitude and accounts of confidence gradually earned."
-        },
-        {
-          "key": "source:BH11522",
-          "why": "Make the moral claims tangible in transactions, public service, punctuality, gratitude and accounts of confidence gradually earned."
-        },
-        {
           "key": "source:BH00547",
           "why": "Make the moral claims tangible in transactions, public service, punctuality, gratitude and accounts of confidence gradually earned."
         },
@@ -549,19 +775,7 @@
           "why": "Bring the demanding ideals back to humility, patient self-examination, learning and the daily effort to embody rather than advertise them."
         },
         {
-          "key": "source:ABU3402",
-          "why": "Bring the demanding ideals back to humility, patient self-examination, learning and the daily effort to embody rather than advertise them."
-        },
-        {
           "key": "source:AB07816",
-          "why": "Bring the demanding ideals back to humility, patient self-examination, learning and the daily effort to embody rather than advertise them."
-        },
-        {
-          "key": "source:AB10527",
-          "why": "Bring the demanding ideals back to humility, patient self-examination, learning and the daily effort to embody rather than advertise them."
-        },
-        {
-          "key": "source:AB06448",
           "why": "Bring the demanding ideals back to humility, patient self-examination, learning and the daily effort to embody rather than advertise them."
         },
         {
@@ -605,10 +819,6 @@
           "why": "Bring the demanding ideals back to humility, patient self-examination, learning and the daily effort to embody rather than advertise them."
         },
         {
-          "key": "source:ABU2404",
-          "why": "Bring the demanding ideals back to humility, patient self-examination, learning and the daily effort to embody rather than advertise them."
-        },
-        {
           "key": "source:ABU0714",
           "why": "Bring the demanding ideals back to humility, patient self-examination, learning and the daily effort to embody rather than advertise them."
         },
@@ -622,14 +832,6 @@
         },
         {
           "key": "source:AB05578",
-          "why": "Bring the demanding ideals back to humility, patient self-examination, learning and the daily effort to embody rather than advertise them."
-        },
-        {
-          "key": "source:AB04755",
-          "why": "Bring the demanding ideals back to humility, patient self-examination, learning and the daily effort to embody rather than advertise them."
-        },
-        {
-          "key": "source:AB06113",
           "why": "Bring the demanding ideals back to humility, patient self-examination, learning and the daily effort to embody rather than advertise them."
         },
         {
@@ -649,35 +851,11 @@
           "why": "Bring the demanding ideals back to humility, patient self-examination, learning and the daily effort to embody rather than advertise them."
         },
         {
-          "key": "source:AB03301",
-          "why": "Bring the demanding ideals back to humility, patient self-examination, learning and the daily effort to embody rather than advertise them."
-        },
-        {
-          "key": "source:AB03583",
-          "why": "Bring the demanding ideals back to humility, patient self-examination, learning and the daily effort to embody rather than advertise them."
-        },
-        {
-          "key": "source:AB09149",
-          "why": "Bring the demanding ideals back to humility, patient self-examination, learning and the daily effort to embody rather than advertise them."
-        },
-        {
-          "key": "source:AB10838",
-          "why": "Bring the demanding ideals back to humility, patient self-examination, learning and the daily effort to embody rather than advertise them."
-        },
-        {
-          "key": "source:AB05560",
-          "why": "Bring the demanding ideals back to humility, patient self-examination, learning and the daily effort to embody rather than advertise them."
-        },
-        {
           "key": "source:AB07271",
           "why": "Bring the demanding ideals back to humility, patient self-examination, learning and the daily effort to embody rather than advertise them."
         },
         {
           "key": "source:AB05713",
-          "why": "Bring the demanding ideals back to humility, patient self-examination, learning and the daily effort to embody rather than advertise them."
-        },
-        {
-          "key": "source:AB04796",
           "why": "Bring the demanding ideals back to humility, patient self-examination, learning and the daily effort to embody rather than advertise them."
         },
         {
@@ -705,10 +883,6 @@
           "why": "Keep the encouragements, warnings and historical accounts of persecution together, reading courage through service, patience and enduring loyalty."
         },
         {
-          "key": "source:AB04731",
-          "why": "Keep the encouragements, warnings and historical accounts of persecution together, reading courage through service, patience and enduring loyalty."
-        },
-        {
           "key": "source:ABU0777",
           "why": "Keep the encouragements, warnings and historical accounts of persecution together, reading courage through service, patience and enduring loyalty."
         },
@@ -717,23 +891,11 @@
           "why": "Keep the encouragements, warnings and historical accounts of persecution together, reading courage through service, patience and enduring loyalty."
         },
         {
-          "key": "source:ABU1856",
-          "why": "Keep the encouragements, warnings and historical accounts of persecution together, reading courage through service, patience and enduring loyalty."
-        },
-        {
           "key": "source:AB03952",
           "why": "Keep the encouragements, warnings and historical accounts of persecution together, reading courage through service, patience and enduring loyalty."
         },
         {
-          "key": "source:AB02136",
-          "why": "Keep the encouragements, warnings and historical accounts of persecution together, reading courage through service, patience and enduring loyalty."
-        },
-        {
           "key": "source:AB01637",
-          "why": "Keep the encouragements, warnings and historical accounts of persecution together, reading courage through service, patience and enduring loyalty."
-        },
-        {
-          "key": "source:AB07443",
           "why": "Keep the encouragements, warnings and historical accounts of persecution together, reading courage through service, patience and enduring loyalty."
         },
         {
@@ -747,10 +909,6 @@
         {
           "key": "source:AB11283",
           "why": "Keep the severe warning in the context of its account of persecution and trials."
-        },
-        {
-          "key": "source:ABU2040",
-          "why": "Keep the encouragements, warnings and historical accounts of persecution together, reading courage through service, patience and enduring loyalty."
         },
         {
           "key": "source:ABU0289",
@@ -793,10 +951,6 @@
           "why": "Keep the encouragements, warnings and historical accounts of persecution together, reading courage through service, patience and enduring loyalty."
         },
         {
-          "key": "source:BH05895",
-          "why": "Keep the encouragements, warnings and historical accounts of persecution together, reading courage through service, patience and enduring loyalty."
-        },
-        {
           "key": "source:BH00353",
           "why": "Keep the encouragements, warnings and historical accounts of persecution together, reading courage through service, patience and enduring loyalty."
         },
@@ -805,27 +959,11 @@
           "why": "Keep the encouragements, warnings and historical accounts of persecution together, reading courage through service, patience and enduring loyalty."
         },
         {
-          "key": "source:AB02392",
-          "why": "Keep the encouragements, warnings and historical accounts of persecution together, reading courage through service, patience and enduring loyalty."
-        },
-        {
           "key": "source:AB07205",
           "why": "Keep the encouragements, warnings and historical accounts of persecution together, reading courage through service, patience and enduring loyalty."
         },
         {
-          "key": "source:AB07670",
-          "why": "Keep the encouragements, warnings and historical accounts of persecution together, reading courage through service, patience and enduring loyalty."
-        },
-        {
           "key": "source:AB07882",
-          "why": "Keep the encouragements, warnings and historical accounts of persecution together, reading courage through service, patience and enduring loyalty."
-        },
-        {
-          "key": "source:AB11580",
-          "why": "Keep the encouragements, warnings and historical accounts of persecution together, reading courage through service, patience and enduring loyalty."
-        },
-        {
-          "key": "source:AB12329",
           "why": "Keep the encouragements, warnings and historical accounts of persecution together, reading courage through service, patience and enduring loyalty."
         },
         {
@@ -857,19 +995,11 @@
           "why": "Follow the language of love, remembrance, prayer, the Covenant and divine assistance that gives these qualities their spiritual setting."
         },
         {
-          "key": "source:AB06140",
-          "why": "Follow the language of love, remembrance, prayer, the Covenant and divine assistance that gives these qualities their spiritual setting."
-        },
-        {
           "key": "source:BH07492",
           "why": "Follow the language of love, remembrance, prayer, the Covenant and divine assistance that gives these qualities their spiritual setting."
         },
         {
           "key": "source:AB00293",
-          "why": "Follow the language of love, remembrance, prayer, the Covenant and divine assistance that gives these qualities their spiritual setting."
-        },
-        {
-          "key": "source:AB01156",
           "why": "Follow the language of love, remembrance, prayer, the Covenant and divine assistance that gives these qualities their spiritual setting."
         },
         {
@@ -885,23 +1015,11 @@
           "why": "Follow the language of love, remembrance, prayer, the Covenant and divine assistance that gives these qualities their spiritual setting."
         },
         {
-          "key": "source:AB03427",
-          "why": "Follow the language of love, remembrance, prayer, the Covenant and divine assistance that gives these qualities their spiritual setting."
-        },
-        {
-          "key": "source:AB04394",
-          "why": "Follow the language of love, remembrance, prayer, the Covenant and divine assistance that gives these qualities their spiritual setting."
-        },
-        {
           "key": "source:AB04847",
           "why": "Follow the language of love, remembrance, prayer, the Covenant and divine assistance that gives these qualities their spiritual setting."
         },
         {
           "key": "source:AB05957",
-          "why": "Follow the language of love, remembrance, prayer, the Covenant and divine assistance that gives these qualities their spiritual setting."
-        },
-        {
-          "key": "source:AB07389",
           "why": "Follow the language of love, remembrance, prayer, the Covenant and divine assistance that gives these qualities their spiritual setting."
         },
         {
@@ -914,10 +1032,6 @@
         },
         {
           "key": "source:ABU1535",
-          "why": "Follow the language of love, remembrance, prayer, the Covenant and divine assistance that gives these qualities their spiritual setting."
-        },
-        {
-          "key": "source:ABU2098",
           "why": "Follow the language of love, remembrance, prayer, the Covenant and divine assistance that gives these qualities their spiritual setting."
         },
         {
@@ -961,19 +1075,7 @@
           "why": "Follow the language of love, remembrance, prayer, the Covenant and divine assistance that gives these qualities their spiritual setting."
         },
         {
-          "key": "source:AB06257",
-          "why": "Follow the language of love, remembrance, prayer, the Covenant and divine assistance that gives these qualities their spiritual setting."
-        },
-        {
           "key": "source:AB06377",
-          "why": "Follow the language of love, remembrance, prayer, the Covenant and divine assistance that gives these qualities their spiritual setting."
-        },
-        {
-          "key": "source:AB06605",
-          "why": "Follow the language of love, remembrance, prayer, the Covenant and divine assistance that gives these qualities their spiritual setting."
-        },
-        {
-          "key": "source:ABU0750",
           "why": "Follow the language of love, remembrance, prayer, the Covenant and divine assistance that gives these qualities their spiritual setting."
         },
         {
@@ -1001,10 +1103,6 @@
           "why": "Follow the language of love, remembrance, prayer, the Covenant and divine assistance that gives these qualities their spiritual setting."
         },
         {
-          "key": "source:AB04101",
-          "why": "Follow the language of love, remembrance, prayer, the Covenant and divine assistance that gives these qualities their spiritual setting."
-        },
-        {
           "key": "source:AB04200",
           "why": "Follow the language of love, remembrance, prayer, the Covenant and divine assistance that gives these qualities their spiritual setting."
         },
@@ -1017,10 +1115,6 @@
           "why": "Follow the language of love, remembrance, prayer, the Covenant and divine assistance that gives these qualities their spiritual setting."
         },
         {
-          "key": "source:AB04939",
-          "why": "Follow the language of love, remembrance, prayer, the Covenant and divine assistance that gives these qualities their spiritual setting."
-        },
-        {
           "key": "source:AB06586",
           "why": "Follow the language of love, remembrance, prayer, the Covenant and divine assistance that gives these qualities their spiritual setting."
         },
@@ -1029,15 +1123,7 @@
           "why": "Follow the language of love, remembrance, prayer, the Covenant and divine assistance that gives these qualities their spiritual setting."
         },
         {
-          "key": "source:AB09066",
-          "why": "Follow the language of love, remembrance, prayer, the Covenant and divine assistance that gives these qualities their spiritual setting."
-        },
-        {
           "key": "source:AB09399",
-          "why": "Follow the language of love, remembrance, prayer, the Covenant and divine assistance that gives these qualities their spiritual setting."
-        },
-        {
-          "key": "source:AB09683",
           "why": "Follow the language of love, remembrance, prayer, the Covenant and divine assistance that gives these qualities their spiritual setting."
         },
         {
@@ -1065,15 +1151,7 @@
           "why": "Follow the language of love, remembrance, prayer, the Covenant and divine assistance that gives these qualities their spiritual setting."
         },
         {
-          "key": "source:ABU3411",
-          "why": "Follow the language of love, remembrance, prayer, the Covenant and divine assistance that gives these qualities their spiritual setting."
-        },
-        {
           "key": "source:BH00792",
-          "why": "Follow the language of love, remembrance, prayer, the Covenant and divine assistance that gives these qualities their spiritual setting."
-        },
-        {
-          "key": "source:BH00840",
           "why": "Follow the language of love, remembrance, prayer, the Covenant and divine assistance that gives these qualities their spiritual setting."
         },
         {
@@ -1090,18 +1168,6 @@
         },
         {
           "key": "source:BH06039",
-          "why": "Follow the language of love, remembrance, prayer, the Covenant and divine assistance that gives these qualities their spiritual setting."
-        },
-        {
-          "key": "source:BH07886",
-          "why": "Follow the language of love, remembrance, prayer, the Covenant and divine assistance that gives these qualities their spiritual setting."
-        },
-        {
-          "key": "source:BH09972",
-          "why": "Follow the language of love, remembrance, prayer, the Covenant and divine assistance that gives these qualities their spiritual setting."
-        },
-        {
-          "key": "source:BH10656",
           "why": "Follow the language of love, remembrance, prayer, the Covenant and divine assistance that gives these qualities their spiritual setting."
         },
         {
@@ -1129,15 +1195,7 @@
           "why": "Read the particular letters, reports and remembrances as examples with their own settings, preserving the difference between a testimony about someone and a universal prescription."
         },
         {
-          "key": "source:AB00525",
-          "why": "Read the particular letters, reports and remembrances as examples with their own settings, preserving the difference between a testimony about someone and a universal prescription."
-        },
-        {
           "key": "source:AB03761",
-          "why": "Read the particular letters, reports and remembrances as examples with their own settings, preserving the difference between a testimony about someone and a universal prescription."
-        },
-        {
-          "key": "source:AB02135",
           "why": "Read the particular letters, reports and remembrances as examples with their own settings, preserving the difference between a testimony about someone and a universal prescription."
         },
         {
@@ -1146,14 +1204,6 @@
         },
         {
           "key": "source:AB05877",
-          "why": "Read the particular letters, reports and remembrances as examples with their own settings, preserving the difference between a testimony about someone and a universal prescription."
-        },
-        {
-          "key": "source:AB06077",
-          "why": "Read the particular letters, reports and remembrances as examples with their own settings, preserving the difference between a testimony about someone and a universal prescription."
-        },
-        {
-          "key": "source:AB06973",
           "why": "Read the particular letters, reports and remembrances as examples with their own settings, preserving the difference between a testimony about someone and a universal prescription."
         },
         {
@@ -1170,14 +1220,6 @@
         },
         {
           "key": "source:AB04761",
-          "why": "Read the particular letters, reports and remembrances as examples with their own settings, preserving the difference between a testimony about someone and a universal prescription."
-        },
-        {
-          "key": "source:AB04894",
-          "why": "Read the particular letters, reports and remembrances as examples with their own settings, preserving the difference between a testimony about someone and a universal prescription."
-        },
-        {
-          "key": "source:AB05378",
           "why": "Read the particular letters, reports and remembrances as examples with their own settings, preserving the difference between a testimony about someone and a universal prescription."
         },
         {
@@ -1201,15 +1243,7 @@
           "why": "Read the particular letters, reports and remembrances as examples with their own settings, preserving the difference between a testimony about someone and a universal prescription."
         },
         {
-          "key": "source:AB09896",
-          "why": "Read the particular letters, reports and remembrances as examples with their own settings, preserving the difference between a testimony about someone and a universal prescription."
-        },
-        {
           "key": "source:ABU1182",
-          "why": "Read the particular letters, reports and remembrances as examples with their own settings, preserving the difference between a testimony about someone and a universal prescription."
-        },
-        {
-          "key": "source:ABU3467",
           "why": "Read the particular letters, reports and remembrances as examples with their own settings, preserving the difference between a testimony about someone and a universal prescription."
         },
         {
@@ -1257,10 +1291,6 @@
           "why": "Read the particular letters, reports and remembrances as examples with their own settings, preserving the difference between a testimony about someone and a universal prescription."
         },
         {
-          "key": "source:AB03426",
-          "why": "Read the particular letters, reports and remembrances as examples with their own settings, preserving the difference between a testimony about someone and a universal prescription."
-        },
-        {
           "key": "source:AB03625",
           "why": "Read the particular letters, reports and remembrances as examples with their own settings, preserving the difference between a testimony about someone and a universal prescription."
         },
@@ -1281,10 +1311,6 @@
           "why": "Read the particular letters, reports and remembrances as examples with their own settings, preserving the difference between a testimony about someone and a universal prescription."
         },
         {
-          "key": "source:AB04509",
-          "why": "Read the particular letters, reports and remembrances as examples with their own settings, preserving the difference between a testimony about someone and a universal prescription."
-        },
-        {
           "key": "source:AB04913",
           "why": "Read the particular letters, reports and remembrances as examples with their own settings, preserving the difference between a testimony about someone and a universal prescription."
         },
@@ -1293,19 +1319,7 @@
           "why": "Read the particular letters, reports and remembrances as examples with their own settings, preserving the difference between a testimony about someone and a universal prescription."
         },
         {
-          "key": "source:AB05958",
-          "why": "Read the particular letters, reports and remembrances as examples with their own settings, preserving the difference between a testimony about someone and a universal prescription."
-        },
-        {
-          "key": "source:AB06224",
-          "why": "Read the particular letters, reports and remembrances as examples with their own settings, preserving the difference between a testimony about someone and a universal prescription."
-        },
-        {
           "key": "source:AB06242",
-          "why": "Read the particular letters, reports and remembrances as examples with their own settings, preserving the difference between a testimony about someone and a universal prescription."
-        },
-        {
-          "key": "source:AB06642",
           "why": "Read the particular letters, reports and remembrances as examples with their own settings, preserving the difference between a testimony about someone and a universal prescription."
         },
         {
@@ -1313,31 +1327,7 @@
           "why": "Read the particular letters, reports and remembrances as examples with their own settings, preserving the difference between a testimony about someone and a universal prescription."
         },
         {
-          "key": "source:AB07000",
-          "why": "Read the particular letters, reports and remembrances as examples with their own settings, preserving the difference between a testimony about someone and a universal prescription."
-        },
-        {
-          "key": "source:AB07012",
-          "why": "Read the particular letters, reports and remembrances as examples with their own settings, preserving the difference between a testimony about someone and a universal prescription."
-        },
-        {
-          "key": "source:AB07369",
-          "why": "Read the particular letters, reports and remembrances as examples with their own settings, preserving the difference between a testimony about someone and a universal prescription."
-        },
-        {
           "key": "source:AB07717",
-          "why": "Read the particular letters, reports and remembrances as examples with their own settings, preserving the difference between a testimony about someone and a universal prescription."
-        },
-        {
-          "key": "source:AB08836",
-          "why": "Read the particular letters, reports and remembrances as examples with their own settings, preserving the difference between a testimony about someone and a universal prescription."
-        },
-        {
-          "key": "source:AB08966",
-          "why": "Read the particular letters, reports and remembrances as examples with their own settings, preserving the difference between a testimony about someone and a universal prescription."
-        },
-        {
-          "key": "source:AB09107",
           "why": "Read the particular letters, reports and remembrances as examples with their own settings, preserving the difference between a testimony about someone and a universal prescription."
         },
         {
@@ -1349,19 +1339,7 @@
           "why": "Read the particular letters, reports and remembrances as examples with their own settings, preserving the difference between a testimony about someone and a universal prescription."
         },
         {
-          "key": "source:AB09269",
-          "why": "Read the particular letters, reports and remembrances as examples with their own settings, preserving the difference between a testimony about someone and a universal prescription."
-        },
-        {
-          "key": "source:AB09453",
-          "why": "Read the particular letters, reports and remembrances as examples with their own settings, preserving the difference between a testimony about someone and a universal prescription."
-        },
-        {
           "key": "source:AB09820",
-          "why": "Read the particular letters, reports and remembrances as examples with their own settings, preserving the difference between a testimony about someone and a universal prescription."
-        },
-        {
-          "key": "source:AB10261",
           "why": "Read the particular letters, reports and remembrances as examples with their own settings, preserving the difference between a testimony about someone and a universal prescription."
         },
         {
@@ -1369,15 +1347,7 @@
           "why": "Read the particular letters, reports and remembrances as examples with their own settings, preserving the difference between a testimony about someone and a universal prescription."
         },
         {
-          "key": "source:AB11651",
-          "why": "Read the particular letters, reports and remembrances as examples with their own settings, preserving the difference between a testimony about someone and a universal prescription."
-        },
-        {
           "key": "source:AB11854",
-          "why": "Read the particular letters, reports and remembrances as examples with their own settings, preserving the difference between a testimony about someone and a universal prescription."
-        },
-        {
-          "key": "source:AB11896",
           "why": "Read the particular letters, reports and remembrances as examples with their own settings, preserving the difference between a testimony about someone and a universal prescription."
         },
         {
@@ -1385,15 +1355,7 @@
           "why": "Read the particular letters, reports and remembrances as examples with their own settings, preserving the difference between a testimony about someone and a universal prescription."
         },
         {
-          "key": "source:AB12103",
-          "why": "Read the particular letters, reports and remembrances as examples with their own settings, preserving the difference between a testimony about someone and a universal prescription."
-        },
-        {
           "key": "source:AB12189",
-          "why": "Read the particular letters, reports and remembrances as examples with their own settings, preserving the difference between a testimony about someone and a universal prescription."
-        },
-        {
-          "key": "source:AB12418",
           "why": "Read the particular letters, reports and remembrances as examples with their own settings, preserving the difference between a testimony about someone and a universal prescription."
         },
         {
@@ -1410,10 +1372,6 @@
         },
         {
           "key": "source:ABU2318",
-          "why": "Read the particular letters, reports and remembrances as examples with their own settings, preserving the difference between a testimony about someone and a universal prescription."
-        },
-        {
-          "key": "source:ABU2349",
           "why": "Read the particular letters, reports and remembrances as examples with their own settings, preserving the difference between a testimony about someone and a universal prescription."
         },
         {
@@ -1434,10 +1392,6 @@
         },
         {
           "key": "source:BH04428",
-          "why": "Bring education, family relationships and the repeated calls to women’s spiritual accomplishment into conversation, retaining the particular names and circumstances of the letters."
-        },
-        {
-          "key": "source:BH05551",
           "why": "Bring education, family relationships and the repeated calls to women’s spiritual accomplishment into conversation, retaining the particular names and circumstances of the letters."
         },
         {
@@ -1473,19 +1427,7 @@
           "why": "Bring education, family relationships and the repeated calls to women’s spiritual accomplishment into conversation, retaining the particular names and circumstances of the letters."
         },
         {
-          "key": "source:AB05050",
-          "why": "Bring education, family relationships and the repeated calls to women’s spiritual accomplishment into conversation, retaining the particular names and circumstances of the letters."
-        },
-        {
           "key": "source:AB06050",
-          "why": "Bring education, family relationships and the repeated calls to women’s spiritual accomplishment into conversation, retaining the particular names and circumstances of the letters."
-        },
-        {
-          "key": "source:AB06195",
-          "why": "Bring education, family relationships and the repeated calls to women’s spiritual accomplishment into conversation, retaining the particular names and circumstances of the letters."
-        },
-        {
-          "key": "source:AB07411",
           "why": "Bring education, family relationships and the repeated calls to women’s spiritual accomplishment into conversation, retaining the particular names and circumstances of the letters."
         },
         {
@@ -1509,15 +1451,7 @@
           "why": "Bring education, family relationships and the repeated calls to women’s spiritual accomplishment into conversation, retaining the particular names and circumstances of the letters."
         },
         {
-          "key": "source:BH11501",
-          "why": "Bring education, family relationships and the repeated calls to women’s spiritual accomplishment into conversation, retaining the particular names and circumstances of the letters."
-        },
-        {
           "key": "source:AB07474",
-          "why": "Return to the purpose of spiritual distinction: a life that brings mercy, help and encouragement to others, and keeps growing to its end."
-        },
-        {
-          "key": "source:ABU2348",
           "why": "Return to the purpose of spiritual distinction: a life that brings mercy, help and encouragement to others, and keeps growing to its end."
         },
         {
