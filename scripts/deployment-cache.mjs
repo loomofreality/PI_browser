@@ -22,7 +22,8 @@ export async function buildInputs(root){
   }
   await collect('data');
   await collect('subject-summaries');
-  await collect('study-guides');
+  // study-guides/ is not an input: guides are rebuilt from it on every deployment
+  // (refreshSite), so editing a guide reuses the cached collection.
   // Public builds use only the filtered archive; private raw extracts never affect them.
   try{await fs.access(path.join(root,'data/subject-extracts-public.json.gz'));}catch(error){if(error.code!=='ENOENT')throw error;await collect('subject_extracts');}
   await collect('pdf_volumes - copy');

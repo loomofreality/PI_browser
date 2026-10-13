@@ -57,6 +57,23 @@ To publish your decisions:
   Export regularly as a backup: clearing browser data removes drafts.
 
 
+STUDY GUIDES
+
+Edit-Study-Guide.cmd
+  Change a guide's title, introduction, reading arc, the order of its readings
+  and the note explaining each one's place, its discussion questions, the
+  invitations under "Continue exploring", and its comparative readings.
+  1. Type part of a title, choose the guide and click Open guide. Each reading
+     shows its quotation, taken from the published website.
+  2. Make the changes and click Save on this computer. The tool checks them
+     against the website's rules (for example, the number of questions a guide
+     may have, and that [1], [2] ... in the introduction match the comparative
+     readings). The previous file is backed up under .qa\guide-backups.
+  3. Save other guides if you like, then click Publish saved guides. All saved
+     guides go up together and the tool waits for the website.
+  The quotations a guide contains come from the subject's reviewed passages and
+  are not changed here. New guides are still written with an assistant.
+
 SUBJECT ORDER
 
 Update-Subject-Order.cmd

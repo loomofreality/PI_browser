@@ -22,6 +22,8 @@ Read AGENTS.md first; it holds the project invariants. Then read DESIGN.md befor
 - Subject passages for the Catalog reader are grouped per source in `subjects/passages/<record filename>`.
 - Repository and site URLs in the update and item-publishing tools come from the `origin` remote.
 - User-facing tools are launchers in `maintenance/`; their logic lives in `scripts/` (`run-node-tool.ps1`, `publish-changes.mjs`, `publish-editorial-decisions.mjs`, `open-site-page.mjs`, `update-subject-order.ps1`).
+- `maintenance/Edit-Study-Guide.cmd` runs `scripts/edit-study-guide-server.mjs`: a local page that edits a guide's wording and reading order in `study-guides/*.json` (checks in `study-guide-store.mjs` mirror `build-compilation-pilot.mjs`; quotation previews come from the published site via `study-guide-quotations.mjs`). It never changes `selection`, `slug`, `id` or neighbor evidence.
+- `study-guides/` is not part of the deployment cache key: `deployment-cache.mjs refresh` rebuilds the guides on every deployment, so guide-only pushes reuse the cached collection.
 - Volume view loads PDF.js after `src/map-polyfill.mjs` and uses `src/pdf-worker.mjs` as the worker entry; without them PDF.js 6 fails to render in browsers lacking `getOrInsertComputed`/`Math.sumPrecise`.
 
 ## Working environment

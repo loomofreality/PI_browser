@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Edit a study guide</title>
+<style>
+:root{color-scheme:light;font:17px/1.5 Georgia,serif;color:#203a32;background:#f7f6f0}*{box-sizing:border-box}body{max-width:1100px;margin:32px auto;padding:0 24px}h1{font-size:36px;margin-bottom:8px}h2{font-size:24px}p{max-width:80ch}.note{color:#627069;font-size:15px}button,input,textarea,select{font:inherit;color:inherit}input,textarea,select{background:#fffefa;border:1px solid #afb7aa;border-radius:4px;padding:9px;width:100%}textarea{resize:vertical;field-sizing:content;min-height:3.2em}button{min-height:44px;border:1px solid #839585;background:#203a32;color:white;border-radius:4px;padding:8px 18px;cursor:pointer}button.secondary{background:transparent;color:#203a32}button.small{min-height:36px;padding:4px 12px;font-size:15px}button:disabled{opacity:.45;cursor:default}button:focus-visible,input:focus-visible,textarea:focus-visible,select:focus-visible,summary:focus-visible{outline:3px solid #8b6c36;outline-offset:3px}
+.lookup,.actions,.row{display:flex;gap:12px;align-items:end;flex-wrap:wrap}.lookup label{flex:1 1 260px}.actions{position:sticky;bottom:0;background:#f7f6f0;padding:18px 0;border-top:1px solid #dddfd4;margin-top:24px;align-items:center}label{display:block;margin:12px 0}label span{display:block;margin-bottom:4px}details{border-top:1px solid #dddfd4;padding:18px 0}summary{font-size:23px;cursor:pointer}#status{white-space:pre-wrap;padding:12px 0}#status.error{color:#962f27}#publication{white-space:pre-wrap;overflow-wrap:anywhere;font:14px/1.6 system-ui;max-height:300px;overflow:auto;border:1px solid #dddfd4;padding:12px}.badge{font:14px system-ui;color:#627069}a{color:#365c8f}
+ol.entries{list-style:none;padding:0;margin:0}.entry{display:grid;grid-template-columns:3.2em 1fr;gap:4px 16px;border-top:1px solid #e6e7de;padding:16px 0}.entry .number{font:600 22px system-ui;color:#8b6c36;text-align:right}.entry .source{font:14px system-ui;color:#627069}.entry blockquote{margin:6px 0;padding-left:14px;border-left:3px solid #c9cdbf;max-height:7.5em;overflow:hidden;cursor:pointer}.entry blockquote.open{max-height:none}.entry .moves{display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin-top:6px}.entry .moves input{width:5em;padding:5px}.entry label{margin:6px 0}.section-label{font:600 15px system-ui;color:#627069;margin:20px 0 0;text-transform:uppercase;letter-spacing:.04em}.item{border-top:1px solid #e6e7de;padding:10px 0}.item .row label{flex:1 1 280px;margin:6px 0}.moved{animation:flash 1.2s}@keyframes flash{from{background:#efe3c4}to{background:transparent}}
+@media(max-width:650px){body{padding:0 16px}h1{font-size:30px}.entry{grid-template-columns:2.2em 1fr}}
+</style>
+<h1>Edit a study guide</h1>
+<p>Change a guide’s title, introduction, reading arc, reading order and notes, discussion questions, neighbor invitations and comparative reading. Save keeps a backup on this computer. Publish uploads the saved guides and waits for the website’s checks.</p>
+<p class="note">The quotations themselves come from the subject’s reviewed passages and are not edited here. The introduction and questions appear only in the study guide’s PDF view.</p>
+<form id="lookup" class="lookup"><label><span>Find a guide</span><input id="filter" placeholder="Type part of a title" autocomplete="off"></label><label><span>Study guide</span><select id="guide"></select></label><button id="load">Open guide</button></form>
+<p id="status" role="status" aria-live="polite">Loading the list of guides…</p>
+<main id="editor" hidden>
+<h2 id="heading"></h2><p><a id="live" target="_blank" rel="noopener">View published guide ↗</a> · <a id="subject" target="_blank" rel="noopener">Subject view ↗</a> <span id="dirty" class="badge"></span></p>
+<p id="preview-note" class="note"></p>
+<details open><summary>Title and introduction</summary>
+<label><span>Title</span><input id="displayTitle"></label>
+<label><span>Introduction</span><textarea id="introduction" rows="8"></textarea></label>
+<p class="note">One paragraph. Write [1], [2] … to cite the comparative readings below, in their order.</p>
+<label><span>Reading arc</span><textarea id="arc" rows="2"></textarea></label>
+<p class="note">One sentence describing the path through the readings. It appears on the list of guides and under “About this reading sequence”.</p>
+</details>
+<details open><summary>Reading order</summary>
+<p class="note">Move readings with the arrows, or type a position and press Move. The note under each reading explains its place in the sequence. Readings linked to the catalog come first; supplied quotations stay at the end. Click a quotation to show all of it.</p>
+<ol id="order" class="entries"></ol>
+</details>
+<details open><summary>Questions to carry forward</summary>
+<p id="question-limits" class="note"></p>
+<div id="questions"></div><button type="button" class="secondary small" id="add-question">Add a question</button>
+</details>
+<details open><summary>Continue exploring</summary>
+<p class="note">The neighboring subjects follow the subject connections. Only the invitation shown under each one is edited here.</p>
+<div id="neighbors"></div>
+</details>
+<details open><summary>Comparative reading</summary>
+<p class="note">Each reading needs a label, a web address and a short note. If you remove or reorder readings, update the [1], [2] … markers in the introduction and the numbers at the start of the labels. Changing a web address removes its earlier “Checked” note.</p>
+<div id="references"></div><button type="button" class="secondary small" id="add-reference">Add a reading</button>
+</details>
+<div class="actions"><button id="save">Save on this computer</button><button id="publish" disabled>Publish saved guides</button><button class="secondary" id="reload">Reload guide</button><span id="pending" class="badge"></span></div>
+</main>
+<section id="job" hidden><h2>Publication progress</h2><p class="note">Keep the editor’s command window open until publication finishes. The website’s guides are rebuilt and checked before they go live.</p><pre id="publication" role="log" aria-live="polite"></pre></section>
+<script>
+const $=id=>document.getElementById(id),token=new URLSearchParams(location.hash.slice(1)).get('token'),site='%SITE%';
+let guides=[],current=null,work=null,preview=null,dirty=false,busy=false,polling=false,pending=[],savedSlugs=new Set();
+function status(text,error=false){$('status').textContent=text;$('status').classList.toggle('error',error);}
+async function api(operation,body={}){const response=await fetch('/'+operation,{method:'POST',headers:{'Content-Type':'application/json','X-Editor-Token':token||''},body:JSON.stringify(body)});const value=await response.json();if(!response.ok)throw Error(value.error||'Operation failed.');return value;}
+const el=(tag,props={},...children)=>{const node=Object.assign(document.createElement(tag),props);node.append(...children);return node;};
+function buttons(){for(const id of ['load','save','reload','add-question','add-reference'])$(id).disabled=busy;$('publish').disabled=busy||dirty||!pending.length;$('dirty').textContent=dirty?'Unsaved changes':'';$('pending').textContent=pending.length?`Saved, not yet published: ${pending.join(', ')}`:'';for(const input of $('editor').querySelectorAll('textarea,input,.entry button,.item button'))input.disabled=busy;const [least,most]=current?.questionLimits||[0,0];if(work){$('add-question').disabled=busy||work.questions.length>=most;$('question-limits').textContent=most?`This guide has ${current.readingEntries} reading entries, so it needs ${least===most?most:least+' to '+most} question${most===1?'':'s'} (now ${work.questions.length}).`:'This guide has too few readings for questions.';}}
+function edited(){dirty=true;buttons();}
+function fillList(){const words=$('filter').value.trim().toLowerCase(),chosen=$('guide').value;$('guide').replaceChildren(...guides.filter(g=>!words||g.title.toLowerCase().includes(words)||g.slug.includes(words)).map(g=>el('option',{value:g.slug,textContent:g.title+(g.curated?' (selected quotations)':'')})));if([...$('guide').options].some(o=>o.value===chosen))$('guide').value=chosen;}
+const bind=(input,set)=>{input.addEventListener('input',()=>{set(input.value);edited();});return input;};
+function renderOrder(focusKey){
+  const list=$('order');list.replaceChildren();let shownLabel=false;
+  work.order.forEach((entry,i)=>{
+    const info=preview?.entries?.[entry.key];
+    if(entry.key.startsWith('selection:')&&!shownLabel){shownLabel=true;list.append(el('li',{className:'section-label',textContent:'Further quotations · supplied wording and references'}));}
+    const quote=el('blockquote',{textContent:info?info.text:'(Quotation preview unavailable.)',title:'Click to show or hide the whole quotation'});quote.onclick=()=>quote.classList.toggle('open');
+    const label=entry.key.startsWith('source:')?entry.key.slice(7)+(info?.quotations>1?` · ${info.quotations} quotations from this source`:''):(info?.reference||'Supplied quotation');
+    const why=bind(el('textarea',{value:entry.why,rows:2}),v=>{entry.why=v;});why.setAttribute('aria-label',`Note for reading ${i+1}`);
+    const move=(to)=>{to=Math.max(0,Math.min(work.order.length-1,to));if(to===i)return;const [item]=work.order.splice(i,1);work.order.splice(to,0,item);edited();renderOrder(item.key);};
+    const position=el('input',{type:'number',min:1,max:work.order.length,value:i+1});position.setAttribute('aria-label',`New position for reading ${i+1}`);
+    const go=el('button',{type:'button',className:'secondary small',textContent:'Move'});go.onclick=()=>move(Number(position.value)-1);
+    position.onkeydown=event=>{if(event.key==='Enter'){event.preventDefault();go.click();}};
+    const up=el('button',{type:'button',className:'secondary small',textContent:'↑ Up',disabled:i===0});up.onclick=()=>move(i-1);
+    const down=el('button',{type:'button',className:'secondary small',textContent:'↓ Down',disabled:i===work.order.length-1});down.onclick=()=>move(i+1);
+    const item=el('li',{className:'entry'},el('div',{className:'number',textContent:String(i+1).padStart(2,'0')}),el('div',{},el('div',{className:'source',textContent:label}),quote,el('label',{},el('span',{className:'note',textContent:'Why it comes here'}),why),el('div',{className:'moves'},up,down,el('span',{className:'badge',textContent:'Move to position'}),position,go)));
+    if(entry.key===focusKey){item.classList.add('moved');requestAnimationFrame(()=>{item.scrollIntoView({block:'nearest'});(i===0?down:up).focus();});}
+    list.append(item);
+  });
+  buttons();
+}
+function renderQuestions(){
+  $('questions').replaceChildren(...work.questions.map((q,i)=>{
+    const input=bind(el('textarea',{value:q,rows:2}),v=>{work.questions[i]=v;});input.setAttribute('aria-label',`Question ${i+1}`);
+    const remove=el('button',{type:'button',className:'secondary small',textContent:'Remove'});remove.onclick=()=>{work.questions.splice(i,1);edited();renderQuestions();};
+    return el('div',{className:'item'},el('div',{className:'row'},el('label',{},el('span',{textContent:`Question ${i+1}`}),input),remove));
+  }));buttons();
+}
+function renderNeighbors(){
+  $('neighbors').replaceChildren(...(work.neighbors.length?work.neighbors.map(n=>el('div',{className:'item'},el('label',{},el('span',{textContent:(preview?.neighbors?.[n.id]||n.id)+' · '+n.relationship}),bind(el('textarea',{value:n.invitation,rows:2}),v=>{n.invitation=v;})))):[el('p',{className:'note',textContent:'This guide has no recorded neighbor invitations.'})]));
+}
+function renderReferences(){
+  $('references').replaceChildren(...work.references.map((r,i)=>{
+    const field=(name,label,props={})=>el('label',{},el('span',{textContent:label}),bind(el(name==='note'?'textarea':'input',{value:r[name]??'',rows:2,...props}),v=>{r[name]=v;if(name==='url'){delete r.verified;verified.hidden=true;}}));
+    const verified=el('p',{className:'note',textContent:'Checked: '+(r.verified||''),hidden:!r.verified});
+    const remove=el('button',{type:'button',className:'secondary small',textContent:'Remove'});remove.onclick=()=>{if(!confirm(`Remove reading [${i+1}]? Update the markers in the introduction afterwards.`))return;work.references.splice(i,1);edited();renderReferences();};
+    return el('div',{className:'item'},el('p',{className:'section-label',textContent:`Reading [${i+1}]`}),el('div',{className:'row'},field('label','Label'),field('url','Web address',{type:'url',placeholder:'https://'})),field('note','Note'),verified,remove);
+  }));buttons();
+}
+function fill(loaded){
+  current=loaded;work=structuredClone(loaded.guide);dirty=false;
+  if(loaded.preview)preview=loaded.preview;
+  $('heading').textContent=work.displayTitle;
+  $('live').href=site+'study-guides/'+work.slug+'-pdf.html';$('subject').href=site+'subjects.html?subject='+encodeURIComponent(work.id);
+  $('preview-note').textContent=(preview?.error||preview?.changed||(preview?.from?'Quotation previews come from '+preview.from+'.':''))+(work.selection?' This guide uses a reviewed selection of quotations.':'')+' File: '+loaded.file;
+  for(const name of ['displayTitle','introduction','arc']){const input=$(name);input.value=work[name];input.oninput=()=>{work[name]=input.value;if(name==='displayTitle')$('heading').textContent=input.value;edited();};}
+  renderOrder();renderQuestions();renderNeighbors();renderReferences();
+  $('editor').hidden=false;buttons();
+}
+async function load(slug){if(dirty&&!confirm('Discard unsaved edits and open the guide?'))return;busy=true;buttons();preview=null;try{fill(await api('load',{slug}));status('Guide opened. Changes stay on this computer until you publish.');}catch(error){status(error.message,true);}finally{busy=false;buttons();}}
+$('lookup').onsubmit=event=>{event.preventDefault();if($('guide').value)load($('guide').value);};
+$('filter').oninput=fillList;
+$('reload').onclick=()=>{if(current)load(current.guide.slug);};
+$('add-question').onclick=()=>{work.questions.push('');edited();renderQuestions();$('questions').querySelector('.item:last-child textarea').focus();};
+$('add-reference').onclick=()=>{work.references.push({label:'',url:'',note:''});edited();renderReferences();$('references').querySelector('.item:last-child input').focus();};
+$('save').onclick=async()=>{busy=true;buttons();try{const result=await api('save',{slug:current.guide.slug,revision:current.revision,guide:work});fill(result);savedSlugs.add(result.guide.slug);status(result.backup?'Saved. Backup of the previous file: '+result.backup:'No changes to save.');await refresh();}catch(error){status('Not saved: '+error.message,true);}finally{busy=false;buttons();}};
+async function refresh(){const value=await api('status');pending=value.pending||[];if(value.job){$('job').hidden=false;$('publication').textContent=value.job.log;}buttons();return value;}
+async function poll(){if(polling)return;polling=true;try{const {job}=await refresh();if(job){if(job.status==='running'){busy=true;setTimeout(poll,2500);}else{busy=false;status(job.status==='success'?'Publication completed. See the progress log for the verified result.':'Publication stopped. Your saved guides and backups are preserved; see the progress log.',job.status==='failed');}buttons();}}catch(error){status('Could not read publication progress: '+error.message,true);setTimeout(poll,5000);}finally{polling=false;}}
+$('publish').onclick=async()=>{if(!confirm('Publish the saved study guides to the public website?\n\n'+pending.join('\n')))return;busy=true;buttons();try{await api('publish',{slugs:[...savedSlugs]});status('Publishing…');poll();}catch(error){busy=false;buttons();status(error.message,true);}};
+addEventListener('beforeunload',event=>{if(dirty||busy){event.preventDefault();event.returnValue='';}});
+if(!token)status('Open this page from maintenance/Edit-Study-Guide.cmd so it has its private local access link.',true);
+else api('list').then(value=>{guides=value.guides;fillList();status(`${guides.length} study guides. Choose one and click Open guide.`);poll();},error=>status(error.message,true));
+</script></html>
