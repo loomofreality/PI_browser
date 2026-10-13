@@ -112,8 +112,8 @@ for(const config of editorial.subjects){
       const sentences=completeSentenceParagraphs(record,selected);
       const authorization=authorizedRanges(record.metadata?.Authorized);
       const paragraphs=shortened?shortenParagraphs(record,sentences.paragraphs,shortened,label):sentences.paragraphs;
-      // A shortened passage with an authorized translation keeps authorized wording.
-      if(shortened&&sentences.paragraphs.some(p=>isAuthorizedParagraph(authorization,p.number))&&!paragraphs.some(p=>isAuthorizedParagraph(authorization,p.number)))throw Error(`Shortened passage omits its authorized wording: ${label}`);
+      // A shortened passage keeps authorized wording when its chosen quotation has any.
+      if(shortened&&selected.some(p=>isAuthorizedParagraph(authorization,p.number))&&!paragraphs.some(p=>isAuthorizedParagraph(authorization,p.number)))throw Error(`Shortened passage omits its authorized wording: ${label}`);
       entry.selectedParagraphs=selected;
       entry.sentenceContextExpanded=sentences.changed;
       entry.boundaryIssues=shortened?paragraphs.flatMap(p=>p.ranges.map(r=>record.en.paragraphs[p.number-1].plain.slice(r.start,r.end))).flatMap(t=>boundaryConcerns(t).map(issue=>({issue,text:t}))):sentences.issues;
