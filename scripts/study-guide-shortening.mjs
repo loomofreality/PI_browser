@@ -24,14 +24,18 @@ export function shortenParagraphs(record,paragraphs,shortened,label){
  for(const r of shown){starts.add(r.start);ends.add(r.end);}
  const kept=[];let cursor=0,position=-1;
  for(const piece of shortened){
-  let found=-1,range;
+  // The first occurrence on sentence boundaries counts: a short sentence such
+  // as “Say:” can also begin a longer one earlier in the passage.
+  let found=-1,range,inside=false;
   for(const [i,r] of shown.entries()){
    if(i<position)continue;
-   const at=text.indexOf(piece,Math.max(r.start,i===position?cursor:0));
-   if(at>=0&&at+piece.length<=r.end){found=at;range=i;break;}
+   for(let at=text.indexOf(piece,Math.max(r.start,i===position?cursor:0));at>=0&&at+piece.length<=r.end;at=text.indexOf(piece,at+1)){
+    inside=true;
+    if(starts.has(at)&&ends.has(at+piece.length)){found=at;range=i;break;}
+   }
+   if(found>=0)break;
   }
-  if(found<0)fail(label,`“${piece.slice(0,60)}…” is not in the passage, or is out of order`);
-  if(!starts.has(found)||!ends.has(found+piece.length))fail(label,`“${piece.slice(0,60)}…” does not begin and end on sentence boundaries`);
+  if(found<0)fail(label,inside?`“${piece.slice(0,60)}…” does not begin and end on sentence boundaries`:`“${piece.slice(0,60)}…” is not in the passage, or is out of order`);
   kept.push({range,start:found,end:found+piece.length});
   position=range;cursor=found+piece.length;
  }
@@ -59,9 +63,10 @@ export function shortenSupplied(wording,shortened,label){
  const spans=sentenceSpans(wording),starts=new Set([0,...spans.map(s=>s.start)]),ends=new Set([wording.trimEnd().length,...spans.map(s=>s.end)]);
  const pieces=[];let cursor=0,previous=null;
  for(const piece of shortened){
-  const at=wording.indexOf(piece,cursor);
-  if(at<0)fail(label,`“${piece.slice(0,60)}…” is not in the supplied wording, or is out of order`);
-  if(!starts.has(at)||!ends.has(at+piece.length))fail(label,`“${piece.slice(0,60)}…” does not begin and end on sentence boundaries`);
+  let at=wording.indexOf(piece,cursor);
+  const inside=at>=0;
+  while(at>=0&&!(starts.has(at)&&ends.has(at+piece.length)))at=wording.indexOf(piece,at+1);
+  if(at<0)fail(label,inside?`“${piece.slice(0,60)}…” does not begin and end on sentence boundaries`:`“${piece.slice(0,60)}…” is not in the supplied wording, or is out of order`);
   if(previous!==null&&/^\s*$/u.test(wording.slice(previous,at)))pieces[pieces.length-1]=wording.slice(cursor-pieces.at(-1).length,at+piece.length);
   else pieces.push(piece);
   previous=at+piece.length;cursor=previous;
