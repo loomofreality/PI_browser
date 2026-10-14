@@ -5,7 +5,7 @@
       "id": "EF0FF1BFD66BE7BE40FF7CAA4012DDF3",
       "slug": "truthfulness",
       "displayTitle": "Truthfulness and trust: becoming someone others can rely on",
-      "introduction": "A child asks where a parent is going; a commander reports a defeat; someone receives money belonging to another person. In these ordinary and difficult moments, truthfulness becomes a relationship between what is known, what is said, and what is done. The readings move from accuracy in speech to fidelity in promises, care for entrusted property, and the public value of dependable conduct. Trustworthiness appears as a source of security and prosperity because other people can act without constant fear of deception. Yet the collection also asks what happens beneath the appearance of honesty: whether intention, humility, courage, and love sustain it. Neighboring subjects on hypocrisy, bribery, commerce, and concealment invite careful attention to circumstance and responsibility. The Dhammapada places truthful speech beside restraint of anger and generosity, offering a useful comparison. Together these readings invite inquiry into how integrity grows from isolated decisions into a recognizable way of life.",
+      "introduction": "A parent who would rather not take a child to the garden is tempted to say the family is going somewhere dull instead; a commander who has just lost a battle must decide what to put in his dispatch. Truthfulness is tested in moments as small as these, and Bahá’u’lláh and ‘Abdu’l-Bahá treat it as the foundation on which every other virtue is built, because a person who will not lie cannot long steal, betray or pretend. The teaching reaches from accuracy in speech to kept promises, honest weights, money held for an absent friend, and the public office served without a bribe, until trustworthiness becomes the door of security for a whole people and the light by which commerce and government can function at all. The Dhammapada sets truthful speech beside restraint of anger and a readiness to give [1], a reminder that integrity is a cluster of qualities rather than a single rule. The road from here leads into the nature of hypocrisy and of lying itself, into honest conduct in business and finance, and onward along the spiritual path where sincerity turns isolated honest choices into a dependable character.",
       "arc": "Begin with small promises and unwelcome facts; connect truthful inquiry with gentle speech; examine money, work and public trust; explore sincerity and the wider social consequences of betrayal; close with the beauty and sustaining power attributed to trustworthy character.",
       "order": [
         {
@@ -26,11 +26,19 @@
         },
         {
           "key": "source:BH03420",
-          "why": "Give trust a neighbor’s face."
+          "why": "Give trust a neighbor’s face.",
+          "shortened": [
+            "Be worthy of the trust of thy neighbor, and look upon him with a bright and friendly face.",
+            "Be a treasure to the poor, an admonisher to the rich, an answerer of the cry of the needy, a preserver of the sanctity of thy pledge.",
+            "Let integrity and uprightness distinguish all thine acts."
+          ]
         },
         {
           "key": "source:AB10703",
-          "why": "Name truthfulness as the foundation of virtues."
+          "why": "Name truthfulness as the foundation of virtues.",
+          "shortened": [
+            "Fourth is truthfulness, for truthfulness is the foundation of all human virtues. Without truthfulness progress and success, in all the worlds of God, are impossible for any soul. When this holy attribute is established in man, all the divine qualities will also be acquired."
+          ]
         },
         {
           "key": "source:ABU2362",
@@ -38,11 +46,18 @@
         },
         {
           "key": "source:BH00001",
-          "why": "Expose appearance at odds with inward ambition."
+          "why": "Expose appearance at odds with inward ambition.",
+          "shortened": [
+            "Amongst the people is he who seateth himself amid the sandals by the door whilst coveting in his heart the seat of honour. Say: What manner of man art thou, O vain and heedless one, who wouldst appear as other than thou art?",
+            "Adorn your heads with the garlands of trustworthiness and fidelity, your hearts with the attire of the fear of God, your tongues with absolute truthfulness, your bodies with the vesture of courtesy. These are in truth seemly adornings unto the temple of man, if ye be of them that reflect."
+          ]
         },
         {
           "key": "source:ABU1005",
-          "why": "Join investigation of a statement with gentle speech."
+          "why": "Join investigation of a statement with gentle speech.",
+          "shortened": [
+            "We must be humble. We must not have the spirit of destructive criticism. Before making any statement we must investigate it well, whether it is true or not. We must not make the hearts of other people sad. We must speak with gentleness and brotherliness."
+          ]
         },
         {
           "key": "source:BH01025",
@@ -50,15 +65,24 @@
         },
         {
           "key": "source:BH01683",
-          "why": "Add the need for evidence in a particular disputed account."
+          "why": "Add the need for evidence in a particular disputed account.",
+          "shortened": [
+            "Regarding what was mentioned about obtaining permission concerning the person from whom the Nazir (upon him be 66 9 [Baha'u'llah]) purchased the papers - that you would identify him and establish that he obtained the papers from him rather than finding them in transit - if this statement truly has basis, certainly make it known and present it to the honored master, His Holiness the Afnan (upon him be the Most Glorious Beauty of God), so that all may know and understand that you are truthful in your statements and can prove it with clear evidence."
+          ]
         },
         {
           "key": "source:ABU1505",
-          "why": "State the demand that speech correspond with reality."
+          "why": "State the demand that speech correspond with reality.",
+          "shortened": [
+            "Again be ye most careful that, God forbid, not one single word contrary to truth may issue from your mouths. One falsehood throws man from the highest station of honor to the lowest abyss of disgrace. Always guard yourselves against this enemy;- so that all that you state may correspond with reality."
+          ]
         },
         {
           "key": "source:ABU1347",
-          "why": "Preserve the related counsel to students."
+          "why": "Preserve the related counsel to students.",
+          "shortened": [
+            "Again: you must be most careful that, God forbid, not one single word contrary to truth issue from your mouths. One falsehood throws man from the highest station of honor to the lowest abyss of disgrace. Always guard yourselves against this enemy, so that all you state may correspond with reality."
+          ]
         },
         {
           "key": "source:AB09090",
@@ -74,23 +98,39 @@
         },
         {
           "key": "source:BH01509",
-          "why": "Question unreliable guides and fear of speaking truth."
+          "why": "Question unreliable guides and fear of speaking truth.",
+          "shortened": [
+            "The Lord of the worlds declareth: O servants! Abandon your desires and seek that which I have desired for you. Travel not the way without a guide, nor accept every guide's words. Many guides are themselves astray and have not found the right path. A guide is one who is free from the bonds of the world and whom nothing preventeth from speaking the truth.",
+            "O servants! Practice truthfulness, turn not away from the destitute, make mention of Me before the great ones, and fear not."
+          ]
         },
         {
           "key": "source:BH02940",
-          "why": "Retain the demand for courage even under hostility."
+          "why": "Retain the demand for courage even under hostility.",
+          "shortened": [
+            "Speak the truth, stand with truth, and utter truth, even if thou shouldst behold all on earth as enemies."
+          ]
         },
         {
           "key": "source:BH00698",
-          "why": "Give the tongue a purpose in bearing witness."
+          "why": "Give the tongue a purpose in bearing witness.",
+          "shortened": [
+            "Say: The tongue hath been created to bear witness to My truth; defile it not with falsehood."
+          ]
         },
         {
           "key": "source:BH02683",
-          "why": "Pair truthful speech with the path of justice."
+          "why": "Pair truthful speech with the path of justice.",
+          "shortened": [
+            "Speak naught but truth and walk in no path save that of justice."
+          ]
         },
         {
           "key": "source:BH00223",
-          "why": "Join eye, hand, tongue and heart."
+          "why": "Join eye, hand, tongue and heart.",
+          "shortened": [
+            "Let your eye be chaste, your hand faithful, your tongue truthful and your heart enlightened."
+          ]
         },
         {
           "key": "source:BH00238",
@@ -98,11 +138,17 @@
         },
         {
           "key": "source:BH00846",
-          "why": "Add forbearance and fairness to truthful speech."
+          "why": "Add forbearance and fairness to truthful speech.",
+          "shortened": [
+            "Say: Let truthfulness and courtesy be your adorning. Suffer not yourselves to be deprived of the robe of forbearance and justice, that the sweet savors of holiness may be wafted from your hearts upon all created things."
+          ]
         },
         {
           "key": "source:BH09100",
-          "why": "Gather wisdom and courtesy around integrity."
+          "why": "Gather wisdom and courtesy around integrity.",
+          "shortened": [
+            "O people of Baha! Adorn your temples with the ornament of trustworthiness and courtesy, and your heads with the crown of truthfulness and wisdom."
+          ]
         },
         {
           "key": "source:BH11527",
@@ -114,7 +160,11 @@
         },
         {
           "key": "source:ABU2141",
-          "why": "Retain the writer’s public responsibility."
+          "why": "Retain the writer’s public responsibility.",
+          "shortened": [
+            "An editor is the moulder of public opinions, the educator of the masses of mankind. Truth is his sharpest weapon. Forceful, strong statements his impregnable fort, and plain, direct language his shield.",
+            "He must be a worshipper of Truth, the standard-bearer of justice, and the champion of civilization."
+          ]
         },
         {
           "key": "source:ABU1275",
@@ -122,7 +172,10 @@
         },
         {
           "key": "source:ABU0536",
-          "why": "Return to the unvarnished report in a second historical account."
+          "why": "Return to the unvarnished report in a second historical account.",
+          "shortened": [
+            "When this report was presented to Nadir Shah for perusal he sent for his general and rebuked him severely:- \"What kind of foolish stuff is this piece of writing. It does not contain a word of truth. Why hast thou not written the naked facts as we have faced them these dark days?"
+          ]
         },
         {
           "key": "source:ABU1984",
@@ -150,7 +203,10 @@
         },
         {
           "key": "source:AB05153",
-          "why": "Let the hidden pearl complicate easy certainty."
+          "why": "Let the hidden pearl complicate easy certainty.",
+          "shortened": [
+            "O pure soul! Truth is a precious pearl that has remained estranged and veiled within the shell of contingent existence, hidden and concealed."
+          ]
         },
         {
           "key": "source:ABU3375",
@@ -166,11 +222,18 @@
         },
         {
           "key": "source:ABU3669",
-          "why": "Test a contract when its terms become unwelcome."
+          "why": "Test a contract when its terms become unwelcome.",
+          "shortened": [
+            "\"We have concluded the transaction and made a contract,\" the Bab responded. \"Whether the terms are favorable or disagreeable, you must now pay the full sum.\" \"But it is the custom of the realm,\" they said. To which He replied, \"Soon many of these ignoble customs will be changed.\"",
+            "The Bab did not give in and eventually the Prussian blue dyes were brought back to His office."
+          ]
         },
         {
           "key": "source:ABU0296",
-          "why": "Retain the related episode of pressure to change stipulations."
+          "why": "Retain the related episode of pressure to change stipulations.",
+          "shortened": [
+            "A few days passed and in order to gain their point they turned another leaf of double-dealing and pretended the papers were tampered with and certain conditions were incorporated therein by the force of circumstance. Boisterous and noisy they came to the Bab, shouting for a considerable reduction of price and insisting that it must be done immediately. Without heeding their heated protestations he gently said: 'Are you not satisfied with our former stipulations?'"
+          ]
         },
         {
           "key": "source:ABU1671",
@@ -178,7 +241,10 @@
         },
         {
           "key": "source:BH00801",
-          "why": "Apply trust to debts one can discharge."
+          "why": "Apply trust to debts one can discharge.",
+          "shortened": [
+            "As to the claims about which you wrote, it is most clear and evident that whosoever is able to discharge a debt and yet neglecteth to do so hath acted contrary to God's good-pleasure. Those who are in debt must strive with the utmost diligence to settle it. The binding command of God concerning trustworthiness, honesty, and rights is clear and manifest in all the Books, Tablets, Scriptures and Holy Writings."
+          ]
         },
         {
           "key": "source:BH00895",
@@ -190,7 +256,10 @@
         },
         {
           "key": "source:ABU1289",
-          "why": "Introduce the entrusted satchel and the absent sisters."
+          "why": "Introduce the entrusted satchel and the absent sisters.",
+          "shortened": [
+            "After a day or so, Mirza Mussa came to me and told me confidentially that he has in his possession all his father's money in gold and nobody else knew anything about it. He wanted me to have all that money for my services. I asked him to show me where the money was. He took me to his room and produced a satchel full of gold. I locked the satchel, sealed it with wax and ordered him to call his sisters in."
+          ]
         },
         {
           "key": "source:ABU0197",
@@ -198,11 +267,18 @@
         },
         {
           "key": "source:ABU0717",
-          "why": "Show the confidence placed in one person’s care."
+          "why": "Show the confidence placed in one person’s care.",
+          "shortened": [
+            "I have in the house money and jewels. I have three daughters and two sons-in-laws, but I cannot trust them, and even my partner. I want to leave things in your charge and go. I can trust no one else."
+          ]
         },
         {
           "key": "source:AB04326",
-          "why": "Keep the report of safely delivered trusts."
+          "why": "Keep the report of safely delivered trusts.",
+          "shortened": [
+            "He delivered the trusts safely and securely.",
+            "But let all know that whatever they submitted to Jinab-i-Amin has all been received, for he is truly my trusted one. He is sincere in service and a well-wisher of the friends. The friends should be infinitely grateful and pleased with him, for from the days of the Blessed Beauty until now he has served with complete truthfulness and uprightness."
+          ]
         },
         {
           "key": "source:BH00678",
@@ -234,7 +310,10 @@
         },
         {
           "key": "source:ABU1367",
-          "why": "Retain the employment story within its source context."
+          "why": "Retain the employment story within its source context.",
+          "shortened": [
+            "He was even in need of his daily bread. This man, whose name was Zaynu'l-'abidin Khan, came to me one day, informed me of his condition and asked for my help. Muhammad Khan, an Indian Rajah, was a friend of mine and I secured employment with him for Zaynu'l-'abidin Khan. The Rajah sent for him, favoured him highly and made him his own companion. He even allowed Zaynu'l-'abidin Khan to sit and have his meals at the same table with him."
+          ]
         },
         {
           "key": "source:AB12365",
@@ -246,7 +325,10 @@
         },
         {
           "key": "source:AB01134",
-          "why": "Preserve the specific work obligation involving Arbab Jamshid."
+          "why": "Preserve the specific work obligation involving Arbab Jamshid.",
+          "shortened": [
+            "And let them know that truthfulness and trustworthiness and effort and goodwill toward all humanity, especially in matters related to his honor Arbab Jamshid, is incumbent and obligatory upon all and is counted as service to the Sacred Threshold. Let them consider dishonesty and laxity and untrustworthiness as sin against the Truth and rebellion and transgression in the Cause of the Lord God."
+          ]
         },
         {
           "key": "source:AB12691",
@@ -258,19 +340,31 @@
         },
         {
           "key": "source:AB00817",
-          "why": "Require integrity and refusal of bribery in public office."
+          "why": "Require integrity and refusal of bribery in public office.",
+          "shortened": [
+            "Those who are employed in government service should make their duties a means of drawing near to the divine threshold, and occupy themselves with integrity and uprightness, completely avoiding bribery and corruption, being content with their salary and considering wisdom, competence and insight as the basis of honor."
+          ]
         },
         {
           "key": "source:AB06831",
-          "why": "Distinguish honor in excellence from pride in possessions."
+          "why": "Distinguish honor in excellence from pride in possessions.",
+          "shortened": [
+            "Let them be content with their wages, and seek distinction in truthfulness, straightforwardness, and the pursuit of virtue and excellence; for vanity in riches is worthy of none but the base, and pride in possessions beseemeth only the foolish."
+          ]
         },
         {
           "key": "source:AB03376",
-          "why": "Retain the direct counsel on public service."
+          "why": "Retain the direct counsel on public service.",
+          "shortened": [
+            "You wrote that you are employed at the royal printing press. Certainly serve the government with the utmost truthfulness, trustworthiness, zeal, honor, uprightness and goodwill."
+          ]
         },
         {
           "key": "source:AB08643",
-          "why": "Show the practical significance of an official’s work through wheat prices."
+          "why": "Show the practical significance of an official’s work through wheat prices.",
+          "shortened": [
+            "Trustworthiness and religiosity, especially in official duties, becomes the cause of quickening souls and astonishing minds - particularly the effort you made that resulted in wheat prices dropping from forty-five tumans per kharvar to eighteen tumans per kharvar."
+          ]
         },
         {
           "key": "source:AB12386",
@@ -278,7 +372,10 @@
         },
         {
           "key": "source:ABU1735",
-          "why": "Make demonstrated character a qualification for office."
+          "why": "Make demonstrated character a qualification for office.",
+          "shortened": [
+            "If at this time someone is desired for a position in the government and state, they must seek one who possesses the utmost truthfulness, trustworthiness and religiosity. People should testify that such a person is a Baha'i, for all their characteristics and conduct bear witness to this fact. In whatever station they may be, they must be thus."
+          ]
         },
         {
           "key": "source:AB00808",
@@ -290,11 +387,18 @@
         },
         {
           "key": "source:ABU1404",
-          "why": "Trace confidence earned over time in ‘Akka."
+          "why": "Trace confidence earned over time in ‘Akka.",
+          "shortened": [
+            "He trusts them, confidence is the corner-stone of all life's activities. In the early days after our arrival in Acca, we acted in such a manner and all the Persians lived such a life of righteousness that after two years and a half all the inhabitants began to trust them in all their business transactions.",
+            "Such was the great confidence the people had in the Baha'is in those days ..."
+          ]
         },
         {
           "key": "source:ABU1113",
-          "why": "Bring dependability into both business and ordinary companionship."
+          "why": "Bring dependability into both business and ordinary companionship.",
+          "shortened": [
+            "If the day be dark, how much a gleam of sunshine is prized; so let believers wear smiling happy faces, gleaming like sunshine in the darkness. Let the Light of Truth and Honesty shine from them, so that all who behold them may know that their word in business or pleasure will be a word to trust and depend upon."
+          ]
         },
         {
           "key": "source:AB07533",
@@ -302,7 +406,10 @@
         },
         {
           "key": "source:AB01037",
-          "why": "Let goodwill and honesty become manifest through conduct."
+          "why": "Let goodwill and honesty become manifest through conduct.",
+          "shortened": [
+            "We act with utmost truthfulness, honesty, trustworthiness and goodwill towards all peoples of the world, and inevitably this truth cannot remain hidden but will become evident and manifest."
+          ]
         },
         {
           "key": "source:AB06977",
@@ -318,15 +425,24 @@
         },
         {
           "key": "source:AB00004",
-          "why": "Move inward to sincerity and the restraint of selfish desire."
+          "why": "Move inward to sincerity and the restraint of selfish desire.",
+          "shortened": [
+            "Sincerity is the foundation-stone of faith. That is, a religious individual must disregard his personal desires and seek in whatever way he can wholeheartedly to serve the public interest; and it is impossible for a human being to turn aside from his own selfish advantages and sacrifice his own good for the good of the community except through true religious faith."
+          ]
         },
         {
           "key": "source:ABU0594",
-          "why": "Distinguish sincere feeling from its outward expression."
+          "why": "Distinguish sincere feeling from its outward expression.",
+          "shortened": [
+            "He was a sincere soul. There was nothing about him but sincerity. Never had he any superfluities about him. He was all sincerity. For example, if he loved a person, he used to love him more in his heart. If he attributed anything to a man, he used to attribute it more in his heart. And if he was in harmony with a man, he was more in harmony in his heart. He was sincere, not insincere."
+          ]
         },
         {
           "key": "source:AB04676",
-          "why": "Make pure intention part of practical conduct."
+          "why": "Make pure intention part of practical conduct.",
+          "shortened": [
+            "However, in all matters you must make your intention pure and conduct yourself with the utmost trustworthiness and religious devotion."
+          ]
         },
         {
           "key": "source:ABU1428",
@@ -342,31 +458,55 @@
         },
         {
           "key": "source:ABU2077",
-          "why": "Keep both truth in speech and honesty in dealings."
+          "why": "Keep both truth in speech and honesty in dealings.",
+          "shortened": [
+            "The believers must be firmly founded in the principles of morality and honesty.",
+            "First--Truthfulness; no one should ever tell a lie!",
+            "Second--Honesty in all their transactions."
+          ]
         },
         {
           "key": "source:AB01059",
-          "why": "Question religious profession without trustworthiness."
+          "why": "Question religious profession without trustworthiness.",
+          "shortened": [
+            "A man deprived of this quality is destitute of everything. What shall faith and piety avail if trustworthiness be lacking? Of what consequence can they be? What benefit or advantage can they confer?"
+          ]
         },
         {
           "key": "source:ABU2139",
-          "why": "Test faith by others’ confidence that they will not be wronged."
+          "why": "Test faith by others’ confidence that they will not be wronged.",
+          "shortened": [
+            "He who has no trustworthiness has no faith. Man must be trustworthy - all souls must trust in his dealings, trust in his honesty, trust in his fairness, trust that he will not oppress. If man has no trustworthiness, he has no religion."
+          ]
         },
         {
           "key": "source:BH00718",
-          "why": "Connect faith with fairness and rectitude."
+          "why": "Connect faith with fairness and rectitude.",
+          "shortened": [
+            "O Ali! Say to the loved ones of God that the first quality of human nature is fairness, and all matters depend upon it.",
+            "Rectitude and trustworthiness are essential to faith, not discord and corruption."
+          ]
         },
         {
           "key": "source:BH00501",
-          "why": "Recognize the harm untrustworthiness does beyond the individual."
+          "why": "Recognize the harm untrustworthiness does beyond the individual.",
+          "shortened": [
+            "Should the loved ones of God not be adorned with the ornaments of trustworthiness, truthfulness, and rectitude, the detriment thereof will redound both to those people themselves and all mankind more generally."
+          ]
         },
         {
           "key": "source:BH01642",
-          "why": "Relate protection of lives and rights to trustworthy conduct."
+          "why": "Relate protection of lives and rights to trustworthy conduct.",
+          "shortened": [
+            "Ever has God's purpose in sending Messengers, revealing Books, establishing firm laws and ordained religions been several things, among them the preservation of souls and their rights, and this depends on the appearance of the light of trustworthiness among people. Counsel the friends of God to conduct themselves among people with perfect trustworthiness, religiosity and what was mentioned before. Whoever is adorned with these qualities is attributed to Truth and reckoned of Truth; without them one has never been and will never be accepted."
+          ]
         },
         {
           "key": "source:BH02224",
-          "why": "Place these virtues within the stated purpose of revelation."
+          "why": "Place these virtues within the stated purpose of revelation.",
+          "shortened": [
+            "The purpose of the one true God in manifesting Himself is to summon all mankind to truthfulness and sincerity, to piety and trustworthiness, to resignation and submissiveness to the Will of God, to forbearance and kindliness, to uprightness and wisdom. His object is to array every man with the mantle of a saintly character, and to adorn him with the ornament of holy and goodly deeds."
+          ]
         },
         {
           "key": "source:BH00841",
@@ -402,7 +542,11 @@
         },
         {
           "key": "source:BH08062",
-          "why": "Interpret the entrusted charge as love and fidelity."
+          "why": "Interpret the entrusted charge as love and fidelity.",
+          "shortened": [
+            "O servant! Be trustworthy in the trust of thy Lord, which is the love of God and the love of His chosen ones.",
+            "Strive thou therefore to preserve them, and be thou faithful to the truth."
+          ]
         },
         {
           "key": "source:AB07576",
@@ -410,7 +554,10 @@
         },
         {
           "key": "source:ABU0136",
-          "why": "Let an individual life exemplify kept engagements."
+          "why": "Let an individual life exemplify kept engagements.",
+          "shortened": [
+            "In character he was irreproachable, in truthfulness he was proverbial, in the fulfillment of his engagements he was an example, in the honesty of his purpose he was unquestioned and in the beauty of his life he was well-known."
+          ]
         },
         {
           "key": "source:ABU2597",
@@ -418,19 +565,32 @@
         },
         {
           "key": "source:BH01462",
-          "why": "Preserve remembered integrity during imprisonment."
+          "why": "Preserve remembered integrity during imprisonment.",
+          "shortened": [
+            "Praise be to God that thou art adorned with the ornament of grace and art known among the friends for thy goodliness. Thou shouldst render thanks for this station with a hundred thousand tongues, for they singled thee out for this bounty in the first days of imprisonment. Well is it with thee and pleasant it is unto thee! Thy trustworthiness, religiosity, deeds and actions have been and are remembered. Each of these attributes is counted among the highest ornaments."
+          ]
         },
         {
           "key": "source:BH03348",
-          "why": "Recognize fidelity in two addressed persons."
+          "why": "Recognize fidelity in two addressed persons.",
+          "shortened": [
+            "We have found from them both the fragrance of trustworthiness and fidelity. We beseech God to assist them to praise His Exalted and Great Self."
+          ]
         },
         {
           "key": "source:BH02204",
-          "why": "Keep praise of truthfulness and sincerity."
+          "why": "Keep praise of truthfulness and sincerity.",
+          "shortened": [
+            "A hundred thousand thanks and praise unto the Ancient Lord who has purified His loved ones from treachery and all that is unseemly. Praise be to God, they are adorned and embellished with the ornament of truthfulness, sincerity, trustworthiness and fidelity."
+          ]
         },
         {
           "key": "source:BH01214",
-          "why": "Contrast material ornaments with qualities seen in lives."
+          "why": "Contrast material ornaments with qualities seen in lives.",
+          "shortened": [
+            "The atoms of creation bear witness to their trustworthiness, faithfulness, station and rank.",
+            "The ornaments of the world are not mentioned before the trusted ones of God. That which is worthy of mention are those qualities which have been manifested among the servants from the friends of God."
+          ]
         },
         {
           "key": "source:BH00479",
@@ -438,7 +598,10 @@
         },
         {
           "key": "source:BH01086",
-          "why": "Read praise of an Afnan against attempted concealment of truth."
+          "why": "Read praise of an Afnan against attempted concealment of truth.",
+          "shortened": [
+            "He - may our spirits be sacrificed for His sake - said: \"Praise be to God Who hath aided the Afnan to manifest the truth and that which beseemeth him in such days wherein the oppressors desired to veil the beauty of trustworthiness with their own treachery and the beauty of truthfulness with the veils of their lies."
+          ]
         },
         {
           "key": "source:AB02349",
@@ -450,23 +613,39 @@
         },
         {
           "key": "source:AB03123",
-          "why": "Place the value of action within love of God."
+          "why": "Place the value of action within love of God.",
+          "shortened": [
+            "O thou son of the Kingdom! All things are beneficial if joined with the love of God; and without His love all things are harmful, and act as a veil between man and the Lord of the Kingdom. When His love is there, every bitterness turneth sweet, and every bounty rendereth a wholesome pleasure."
+          ]
         },
         {
           "key": "source:ABU0399",
-          "why": "Expand love as the source of other gifts."
+          "why": "Expand love as the source of other gifts.",
+          "shortened": [
+            "The more love is expressed among mankind and the stronger the power of unity, the greater will be this reflection and revelation, for the greatest bestowal of God is love. Love is the source of all the bestowals of God. Until love takes possession of the heart, no other divine bounty can be revealed in it."
+          ]
         },
         {
           "key": "source:ABU0984",
-          "why": "Let love clear perception and sustain progress."
+          "why": "Let love clear perception and sustain progress.",
+          "shortened": [
+            "By the fire of the Love of God the veil is burnt which separates us from the Heavenly Realities, and with clear vision we are enabled to struggle onward and upward, ever progressing in the paths of virtue and holiness, and becoming the means of light to the world.",
+            "There is nothing greater or more blessed than the Love of God! It gives healing to the sick, balm to the wounded, joy and consolation to the whole world, and through it alone can man attain Life Everlasting. The essence of all religions is the Love of God, and it is the foundation of all the sacred teachings."
+          ]
         },
         {
           "key": "source:BH00308",
-          "why": "Turn toward trust as a door of common security."
+          "why": "Turn toward trust as a door of common security.",
+          "shortened": [
+            "The fourth Taraz concerneth trustworthiness. Verily it is the door of security for all that dwell on earth and a token of glory on the part of the All-Merciful. He who partaketh thereof hath indeed partaken of the treasures of wealth and prosperity. Trustworthiness is the greatest portal leading unto the tranquillity and security of the people. In truth the stability of every affair hath depended and doth depend upon it. All the domains of power, of grandeur and of wealth are illumined by its light."
+          ]
         },
         {
           "key": "source:BH00871",
-          "why": "Link social tranquility with the image of sight."
+          "why": "Link social tranquility with the image of sight.",
+          "shortened": [
+            "Trustworthiness among deeds is as sight in the human temple and as the sun amidst the stars of heaven. The comfort and tranquility of the servants and the glory and wealth of those in the land have depended upon trustworthiness. God willing, all must hold fast unto it and appear among the people with this supreme gift and mighty bounty. Blessed is he who hath attained thereunto, and alas and regret for the treacherous ones!"
+          ]
         },
         {
           "key": "source:BH02680",
@@ -474,7 +653,11 @@
         },
         {
           "key": "source:BH00495",
-          "why": "Describe trust as a pillar of justice and a fortress of equity."
+          "why": "Describe trust as a pillar of justice and a fortress of equity.",
+          "shortened": [
+            "O friends of God in His lands and His loved ones in His realms! We counsel you to trustworthiness and godliness. Blessed is the city that hath been illumined by their light. Through them the station of man is elevated and the door of tranquility is opened to all in creation. Blessed is he who hath held fast unto them and recognized their station, and woe unto him who hath denied their rank and deprived himself of their adorning.",
+            "O people of God! Trustworthiness is as the sun. Wealth and security depend upon it. It is the pillar of the pavilion of justice and the fortress of equity."
+          ]
         },
         {
           "key": "source:BH00850",
@@ -490,7 +673,10 @@
         },
         {
           "key": "source:BH00961",
-          "why": "Place moral reform within a world governed through utterance and love."
+          "why": "Place moral reform within a world governed through utterance and love.",
+          "shortened": [
+            "This Wronged One beareth witness that servants have been brought from nothingness into being for the betterment, fellowship and unity of mankind. Corruption and conflict have ever been and are condemned. The divine Books, Tablets and Scriptures have given the glad-tidings that the purpose of this Most Great Manifestation is none other than the reformation of the world and its peoples, that perchance through the power of utterance military might may be abolished, and the world be governed through the power of love."
+          ]
         },
         {
           "key": "source:BH00289",
@@ -498,7 +684,10 @@
         },
         {
           "key": "source:BH02473",
-          "why": "Make personal conduct a source of assurance for seekers."
+          "why": "Make personal conduct a source of assurance for seekers.",
+          "shortened": [
+            "Say: Be ye My trustees on earth, that every seeker and every aspirant may find in you the fragrance of trustworthiness and assurance."
+          ]
         },
         {
           "key": "source:BH01972",
@@ -510,7 +699,10 @@
         },
         {
           "key": "source:BH00767",
-          "why": "Imagine a city enduring the vicissitudes of time through virtue."
+          "why": "Imagine a city enduring the vicissitudes of time through virtue.",
+          "shortened": [
+            "Blessed is the city that the vicissitudes of time have not prevented from the light of religion, trustworthiness and chastity. These blessed words have shone forth like the Most Great Luminary from the horizon of divine Tablets. Blessed is he who hath recognized and acted accordingly, and woe unto the heedless ones."
+          ]
         },
         {
           "key": "source:BH10748",
@@ -518,27 +710,45 @@
         },
         {
           "key": "source:BH04691",
-          "why": "Join steadfast resolve with good character in public life."
+          "why": "Join steadfast resolve with good character in public life.",
+          "shortened": [
+            "Rather, with firm resolve, steadfast hearts, penetrating vision and the light of certitude, appear amongst men with the utmost trustworthiness and goodly character."
+          ]
         },
         {
           "key": "source:BH02929",
-          "why": "Make detachment and rectitude visible in walking among people."
+          "why": "Make detachment and rectitude visible in walking among people.",
+          "shortened": [
+            "The loved ones of this Revelation must walk among men with utmost sanctity and detachment, and must hold fast to trustworthiness and rectitude in such wise that their light may shine forth like the morning star unto all the world."
+          ]
         },
         {
           "key": "source:AB04324",
-          "why": "Preserve the hope for a truthful and just path."
+          "why": "Preserve the hope for a truthful and just path.",
+          "shortened": [
+            "My hope is that you will be as I desire - that your path and conduct will be one of truthfulness, uprightness and justice."
+          ]
         },
         {
           "key": "source:AB11916",
-          "why": "Connect that path with universal peace."
+          "why": "Connect that path with universal peace.",
+          "shortened": [
+            "I beseech God that ye may tread the path of truthfulness and rectitude, of fellowship and of devotion to God, that ye may gain everlasting life, be adorned with every human virtue, become the heavenly angels of the kingdom of universal peace and the conquering hosts of the realm of the oneness of humanity."
+          ]
         },
         {
           "key": "source:BH07536",
-          "why": "Let trustworthy behavior itself become a means of guidance."
+          "why": "Let trustworthy behavior itself become a means of guidance.",
+          "shortened": [
+            "For example, if today a soul becomes successful in trustworthiness and manifests praiseworthy qualities and virtues, this will surely become the cause of guidance for people."
+          ]
         },
         {
           "key": "source:BH03997",
-          "why": "Contrast character that discloses faith with conduct that veils it."
+          "why": "Contrast character that discloses faith with conduct that veils it.",
+          "shortened": [
+            "Trustworthiness and truthfulness are two garments adorned with the ornament of honor and acceptance. God willing, all must appear with perfect trustworthiness and speak with truthfulness, arising to serve God through their deeds. The manifestation of these qualities has been and ever shall be the cause of the exaltation of God's Word, while their absence is the cause of the veiling of humanity, as is evident."
+          ]
         },
         {
           "key": "source:BH00019",
@@ -550,7 +760,10 @@
         },
         {
           "key": "source:BH08478",
-          "why": "Retain the corresponding appeal concerning ‘Akka."
+          "why": "Retain the corresponding appeal concerning ‘Akka.",
+          "shortened": [
+            "Say: O people, hold fast unto trustworthiness. I swear by the Lord of Names that had the city of 'Akka attained unto it, the face of the Cause would not have been clouded, nor would the hearts of them who are nigh have been saddened. Say: Hold ye fast unto it and cling to its hem, and be not of the ignorant ones."
+          ]
         },
         {
           "key": "source:BH00508",
@@ -558,11 +771,17 @@
         },
         {
           "key": "source:BH00755",
-          "why": "Preserve the account of greed after received kindness."
+          "why": "Preserve the account of greed after received kindness.",
+          "shortened": [
+            "The unfair one in the great city tore the veil of honor and did that which caused the pillars of trustworthiness and religion to shake, despite being shown kindness and assistance and being aided by God's command. Glory be to God! The fire of greed and avarice appeared with a strange flame in that city, burning away spiritual qualities, and in its place the fire of envy was kindled."
+          ]
         },
         {
           "key": "source:BH01016",
-          "why": "Name greed and passion as barriers to truthful response."
+          "why": "Name greed and passion as barriers to truthful response.",
+          "shortened": [
+            "We have ever counseled all to trustworthiness, religious devotion, truthfulness and sincerity. Some accepted, while others were prevented from the word of truth by the fire of greed, passion, avarice and transgression."
+          ]
         },
         {
           "key": "source:BH00608",
@@ -574,15 +793,24 @@
         },
         {
           "key": "source:BH04845",
-          "why": "Hear the lament despite repeated exhortation."
+          "why": "Hear the lament despite repeated exhortation.",
+          "shortened": [
+            "We have counseled all to be trustworthy, religious, and God-fearing, yet the people have committed that which hath caused My heart and My Pen to lament before the kingdom of God, the Mighty, the All-Praised."
+          ]
         },
         {
           "key": "source:BH01111",
-          "why": "Preserve the wider image of eclipsed trust and fidelity."
+          "why": "Preserve the wider image of eclipsed trust and fidelity.",
+          "shortened": [
+            "Praise be to God Who hath illumined the horizon of the world with the Sun of His Most Great Name, and hath commanded all to be trustworthy and faithful, and to that whereby His Cause may be exalted amongst the peoples. Among men are those who have turned to the Supreme Horizon and acted according to that which was commanded by God, the Lord of Names; among them are those who have halted in perplexity; and among them are those who have turned away and committed that which hath caused the Concourse on High and the dwellers of the Cities of Names to lament, until matters reached such a pass that, by God, the sun of trustworthiness hath been darkened among creatures and the moon of faithfulness hath been eclipsed among men."
+          ]
         },
         {
           "key": "source:BH06153",
-          "why": "Concentrate that image in the darkened horizon."
+          "why": "Concentrate that image in the darkened horizon.",
+          "shortened": [
+            "The horizon of trustworthiness has been darkened after We had commanded all to observe it in My wise Book."
+          ]
         },
         {
           "key": "source:BH01209",
@@ -590,15 +818,24 @@
         },
         {
           "key": "source:BH00531",
-          "why": "Read the severe statement of deprivation in its own source."
+          "why": "Read the severe statement of deprivation in its own source.",
+          "shortened": [
+            "They who have cast trustworthiness behind their backs--these cannot be truly accounted as human, nor befit its station and rank. To this testify the Books of God, our Lord and the Lord of the mighty Throne."
+          ]
         },
         {
           "key": "source:BH06989",
-          "why": "Preserve the bodily metaphor and its strong conclusion."
+          "why": "Preserve the bodily metaphor and its strong conclusion.",
+          "shortened": [
+            "The trust bestowed upon man is as his head, and truthfulness is as his sight - and if anyone be deprived of these two, he shall be mentioned by the name of 'animal'."
+          ]
         },
         {
           "key": "source:BH00736",
-          "why": "Turn lament toward the hope for renewed character."
+          "why": "Turn lament toward the hope for renewed character.",
+          "shortened": [
+            "The horizon of trustworthiness remains darkened and the horizon of truthfulness and faithfulness is seen to be dust-laden. I beseech and implore God, exalted be His glory, to raise up souls through whose religiosity, trustworthiness, truthfulness and faithfulness the world may be adorned and illumined."
+          ]
         },
         {
           "key": "source:BH00860",
@@ -606,7 +843,10 @@
         },
         {
           "key": "source:BH00823",
-          "why": "Return from lament to the need for deeds."
+          "why": "Return from lament to the need for deeds.",
+          "shortened": [
+            "Today, deeds are necessary, especially deeds from which the fragrance of service and trustworthiness emanates. The affairs of the Threshold have descended like swords upon the temple of trustworthiness, truthfulness, and purity."
+          ]
         },
         {
           "key": "source:BH00959",
@@ -614,7 +854,10 @@
         },
         {
           "key": "source:BH00748",
-          "why": "Preserve the addressed prayer for standards of integrity."
+          "why": "Preserve the addressed prayer for standards of integrity.",
+          "shortened": [
+            "We beseech God, blessed and exalted be He, to raise up through His Afnan and through thee and His loved ones the standards of trustworthiness and godliness, of truthfulness and sincerity amongst all men, and to strengthen you with the hosts of wisdom and utterance. Verily, He is the Mighty, the Helper.\" And We beseech Him to make manifest through your existence the trustworthiness of the people of truth and the treachery of the faithless and the false ones."
+          ]
         },
         {
           "key": "source:BH04900",
@@ -622,11 +865,17 @@
         },
         {
           "key": "source:BH04437",
-          "why": "Read the counsel to trustworthiness under persecution."
+          "why": "Read the counsel to trustworthiness under persecution.",
+          "shortened": [
+            "We counsel you, O people of unity, to be trustworthy and religious and chaste, and to that whereby your stations may be exalted among the idolaters who have denied God and His signs and have surrounded the believers with such tyranny as hath caused the people of the cities of justice and equity to lament."
+          ]
         },
         {
           "key": "source:BH09448",
-          "why": "Retain remembrance and moral counsel from imprisonment."
+          "why": "Retain remembrance and moral counsel from imprisonment.",
+          "shortened": [
+            "Convey to all the friends greetings from God, and say: The Wronged One of the world remembereth you from the prison of the people of discord, and calleth you unto trustworthiness, truthfulness, steadfastness and fidelity."
+          ]
         },
         {
           "key": "source:BH02551",
@@ -646,15 +895,24 @@
         },
         {
           "key": "source:BH06104",
-          "why": "Bring the virtues into walking among people."
+          "why": "Bring the virtues into walking among people.",
+          "shortened": [
+            "At all times gaze toward the horizon of the All-Merciful, and walk among people with utmost truthfulness, sincerity, trustworthiness and piety."
+          ]
         },
         {
           "key": "source:BH08287",
-          "why": "Keep the direct pairing of trust and sincerity."
+          "why": "Keep the direct pairing of trust and sincerity.",
+          "shortened": [
+            "Wherefore doth this Wronged One counsel thee unto the fear of God. He directeth thee unto trustworthiness and sincerity. Be characterized by this twain; embrace these two qualities."
+          ]
         },
         {
           "key": "source:BH10116",
-          "why": "Retain the appeal to fidelity."
+          "why": "Retain the appeal to fidelity.",
+          "shortened": [
+            "Say: O concourse of loved ones! Hold fast unto trustworthiness, chastity and faithfulness."
+          ]
         },
         {
           "key": "source:BH04007",
@@ -662,7 +920,10 @@
         },
         {
           "key": "source:BH04318",
-          "why": "Join worthy character with human flourishing."
+          "why": "Join worthy character with human flourishing.",
+          "shortened": [
+            "We counsel thee with that which beseemeth man - trustworthiness, religious devotion, righteousness and prosperity."
+          ]
         },
         {
           "key": "source:BH06067",
@@ -674,7 +935,10 @@
         },
         {
           "key": "source:BH01930",
-          "why": "Connect counsel with good deeds and human station."
+          "why": "Connect counsel with good deeds and human station.",
+          "shortened": [
+            "God mentioneth all and commandeth what is right, and hath counseled and doth counsel to trustworthiness and godliness and praiseworthy character and goodly deeds and that whereby the station of man is exalted."
+          ]
         },
         {
           "key": "source:BH02237",
@@ -682,19 +946,31 @@
         },
         {
           "key": "source:BH02374",
-          "why": "Use fruit as a measure of existence."
+          "why": "Use fruit as a measure of existence.",
+          "shortened": [
+            "The fruits of the tree of existence which are attributed to God, glorified be He, have been and are trustworthiness, religiousness, truthfulness and sincerity."
+          ]
         },
         {
           "key": "source:BH03761",
-          "why": "Retain a second closing counsel in its own source."
+          "why": "Retain a second closing counsel in its own source.",
+          "shortened": [
+            "At the end of the Book We counsel all to trustworthiness, religiosity, truthfulness and purity."
+          ]
         },
         {
           "key": "source:BH04815",
-          "why": "Hold righteousness and justice with kindness."
+          "why": "Hold righteousness and justice with kindness.",
+          "shortened": [
+            "We counsel thee and Our loved ones to observe justice and fairness, trustworthiness and righteousness, and kindliness."
+          ]
         },
         {
           "key": "source:BH07543",
-          "why": "Preserve the pairing of devotion and trust."
+          "why": "Preserve the pairing of devotion and trust.",
+          "shortened": [
+            "I summon the loved ones of God, exalted be His glory, to two most great matters: first, the recognition of the Ancient Being, and second, steadfastness in His Cause. And likewise I counsel them to two most excellent attributes: religiousness and trustworthiness."
+          ]
         },
         {
           "key": "source:BH00309",
@@ -710,15 +986,24 @@
         },
         {
           "key": "source:BH03175",
-          "why": "Present character as a visible example to the world."
+          "why": "Present character as a visible example to the world.",
+          "shortened": [
+            "We counsel you to be trustworthy and truthful that God's trustworthiness may be manifest in all else and that those in the heavens and earth may glorify Him. Be ye emblems of fidelity, the essence of creation, and dawning-places of virtuous character for all the world."
+          ]
         },
         {
           "key": "source:BH04727",
-          "why": "Join pure truth with trust among all people."
+          "why": "Join pure truth with trust among all people.",
+          "shortened": [
+            "O loved ones of the All-Merciful! Hold fast to the cord of trustworthiness amongst all people and speak with pure truthfulness, that there may be manifested through you that which beseemeth this irrevocable Cause."
+          ]
         },
         {
           "key": "source:BH05011",
-          "why": "Retain the charge to manifest human qualities."
+          "why": "Retain the charge to manifest human qualities.",
+          "shortened": [
+            "The Most Exalted Pen hath counseled all to be trustworthy and truthful and to manifest whatsoever befitteth the station of man."
+          ]
         },
         {
           "key": "source:BH06212",
@@ -726,27 +1011,45 @@
         },
         {
           "key": "source:BH06729",
-          "why": "Preserve the theological significance assigned to trust."
+          "why": "Preserve the theological significance assigned to trust.",
+          "shortened": [
+            "Adorn yourselves with the ornament of trustworthiness among all people, that through it God's sanctification may be made manifest in all else."
+          ]
         },
         {
           "key": "source:BH06893",
-          "why": "Contrast the counsel with heedlessness."
+          "why": "Contrast the counsel with heedlessness.",
+          "shortened": [
+            "Verily He counseleth His servants to truthfulness and faithfulness, and that whereby the Cause of God, the Lord of Names, may be uplifted, but most of the people are heedless."
+          ]
         },
         {
           "key": "source:BH07367",
-          "why": "Retain the testimony distinguishing truth and falsehood."
+          "why": "Retain the testimony distinguishing truth and falsehood.",
+          "shortened": [
+            "Praise be to God that whatsoever hath been manifested at the Threshold hath clearly distinguished truth from falsehood."
+          ]
         },
         {
           "key": "source:BH09176",
-          "why": "Join faithfulness with trustworthy conduct."
+          "why": "Join faithfulness with trustworthy conduct.",
+          "shortened": [
+            "Say: O chosen ones of God! Hold fast to the cord of trustworthiness and faithfulness, and to that whereby the Cause of God is exalted amongst His servants."
+          ]
         },
         {
           "key": "source:BH10627",
-          "why": "Connect these qualities with earlier revelation."
+          "why": "Connect these qualities with earlier revelation.",
+          "shortened": [
+            "We have counseled all to be trustworthy, truthful and faithful, and to manifest those qualities through which the Cause of God was revealed in former ages."
+          ]
         },
         {
           "key": "source:BH11174",
-          "why": "Preserve the addressed charge to ‘Ali-Akbar."
+          "why": "Preserve the addressed charge to ‘Ali-Akbar.",
+          "shortened": [
+            "O 'Ali-Akbar! We have enjoined upon all trustworthiness and godliness, and that whereby their stations may be elevated amidst the peoples."
+          ]
         },
         {
           "key": "source:BH01650",
@@ -754,11 +1057,17 @@
         },
         {
           "key": "source:BH02103",
-          "why": "Keep the paired counsel of patience and forbearance."
+          "why": "Keep the paired counsel of patience and forbearance.",
+          "shortened": [
+            "We counsel them to trustworthiness and godliness and patience and forbearance, and I am the Patient, the Forbearing."
+          ]
         },
         {
           "key": "source:BH06988",
-          "why": "Gather those virtues in a closing exhortation."
+          "why": "Gather those virtues in a closing exhortation.",
+          "shortened": [
+            "At the close of this letter, We counsel you with that which befitteth man: to be patient and forbearing, trustworthy and religious, truthful and faithful."
+          ]
         },
         {
           "key": "source:BH04556",
@@ -766,19 +1075,32 @@
         },
         {
           "key": "source:BH03081",
-          "why": "Use the twin luminaries to hold them together."
+          "why": "Use the twin luminaries to hold them together.",
+          "shortened": [
+            "O friends! Fix your gaze in all conditions upon steadfastness and trustworthiness. These two qualities are as two great luminaries shining forth and manifest from the heaven of the divine Tablet."
+          ]
         },
         {
           "key": "source:BH07743",
-          "why": "Preserve the corresponding image of the human heaven."
+          "why": "Preserve the corresponding image of the human heaven.",
+          "shortened": [
+            "We have raised up the heaven of man and adorned it with the twin luminaries of steadfastness and trustworthiness.",
+            "Say: He counseleth you to observe pure truthfulness and trustworthiness, whereby the station of every insightful soul is made manifest."
+          ]
         },
         {
           "key": "source:BH06086",
-          "why": "Repeat the enduring place of those two qualities."
+          "why": "Repeat the enduring place of those two qualities.",
+          "shortened": [
+            "Say: O friends! The heaven of human station hath ever been and shall remain illumined and adorned by two luminaries: steadfastness and trustworthiness."
+          ]
         },
         {
           "key": "source:BH09424",
-          "why": "Turn their pairing into an appeal for action."
+          "why": "Turn their pairing into an appeal for action.",
+          "shortened": [
+            "O loved ones of the All-Merciful in all lands! Be ye steadfast, and be ye trustworthy, and do that whereby the Cause of God, the Powerful, the Almighty, may be exalted."
+          ]
         },
         {
           "key": "source:BH00053",
@@ -786,23 +1108,39 @@
         },
         {
           "key": "source:BH00005",
-          "why": "Retain its parallel setting beside counsels on honesty."
+          "why": "Retain its parallel setting beside counsels on honesty.",
+          "shortened": [
+            "Say: O people of God! Adorn your temples with the adornment of trustworthiness and piety. Help, then, your Lord with the hosts of goodly deeds and a praiseworthy character. We have forbidden you dissension and conflict in My Books, and My Scriptures, and My Scrolls, and My Tablets, and have wished thereby naught else save your exaltation and advancement.",
+            "Turning, then, to the left We gazed on one of the Beauties of the Most Sublime Paradise, standing on a pillar of light, and calling aloud saying: 'O inmates of earth and heaven! Behold ye My beauty, and My radiance, and My revelation, and My effulgence. By God, the True One! I am Trustworthiness and the revelation thereof, and the beauty thereof. I will recompense whosoever will cleave unto Me, and recognize My rank and station, and hold fast unto My hem. I am the  most great ornament of the people of Baha, and the vesture of glory unto all who are in the kingdom of creation. I am the supreme instrument for the prosperity of the world, and the horizon of assurance unto all beings.'"
+          ]
         },
         {
           "key": "source:BH00560",
-          "why": "Hear the personified virtue in another source."
+          "why": "Hear the personified virtue in another source.",
+          "shortened": [
+            "I am Trustworthiness and the revelation thereof, and the beauty thereof. I will recompense whosoever will cleave unto Me, and recognize My rank and station, and hold fast unto My hem. I am the most great ornament of the people of Baha, and the vesture of glory unto all who are in the kingdom of creation. I am the supreme instrument for the prosperity of the world, and the horizon of assurance unto all beings.'"
+          ]
         },
         {
           "key": "source:BH01766",
-          "why": "Preserve the distinct retelling of the verdant isle."
+          "why": "Preserve the distinct retelling of the verdant isle.",
+          "shortened": [
+            "In a Tablet from a few days ago, these exalted words were recorded: \"Verily We came upon a verdant isle whose rivers were flowing and whose trees were intertwined. I turned to the right and beheld a countenance from among the countenances of the most exalted Paradise, standing upon a pillar of light, crying out with the most elevated call: 'I am Trustworthiness and its beauty, and the adornment of lands and their light. Blessed is he who holdeth fast unto it and recognizeth its station. Through it wealth appeareth and blessings descend.'\""
+          ]
         },
         {
           "key": "source:BH04634",
-          "why": "Expand the sun image across person, city and world."
+          "why": "Expand the sun image across person, city and world.",
+          "shortened": [
+            "Trustworthiness is a sun that, when it shineth forth from the horizon of the heaven of wisdom, illumineth all regions. And for it hath been ordained a heaven, and verily it is man himself. Blessed be the All-Merciful Who hath created all possibility and adorned it with the lights of this sun, shining from this station. He in whom the lights of this sun shine not forth cannot truly be called man. To this doth the Book of God, the Lord of lords, bear witness. Blessed is the city that is illumined thereby. By My life! It is the mother of cities and countries, and through it divine grace descendeth from God, the Lord of creation, and blessings grow in every season."
+          ]
         },
         {
           "key": "source:BH07549",
-          "why": "Locate its horizon within a goodly heart."
+          "why": "Locate its horizon within a goodly heart.",
+          "shortened": [
+            "O friends! Trustworthiness is like unto the sun that illumineth the world, and its heaven is man, and its horizon is the goodly heart. He who doth not veil this most great luminary with the clouds of treachery and baseness, so that its radiance may enlighten the world and its inhabitants - this is the bounty that hath been revealed from the Pen of the Most High."
+          ]
         },
         {
           "key": "source:BH06097",
@@ -814,7 +1152,11 @@
         },
         {
           "key": "source:BH08953",
-          "why": "Use earth and water to describe trust’s sustaining role."
+          "why": "Use earth and water to describe trust’s sustaining role.",
+          "shortened": [
+            "He is the Most Holy, the Most Glorious!",
+            "Say: The Bayan is as the earth, and trustworthiness is as its water. Blessed is he who holdeth fast unto it and pondereth that which hath been sent down by God, the Revealer of Laws."
+          ]
         },
         {
           "key": "source:ABU3622",
@@ -822,7 +1164,10 @@
         },
         {
           "key": "source:BH01013",
-          "why": "Preserve the claim of an enduring fragrance."
+          "why": "Preserve the claim of an enduring fragrance.",
+          "shortened": [
+            "Trustworthiness before God is among those attributes that hath had and hath no likeness or equal, and it is the cause of glory and the source of wealth. Concerning its description there hath flowed from the Supreme Pen that whose fragrance shall endure throughout the kingdom of earth and heaven."
+          ]
         },
         {
           "key": "source:BH00557",
@@ -834,11 +1179,17 @@
         },
         {
           "key": "source:BH09839",
-          "why": "Retain the crown bestowed on character."
+          "why": "Retain the crown bestowed on character.",
+          "shortened": [
+            "We have made glory an ornament for your souls and truthfulness a crown for your heads."
+          ]
         },
         {
           "key": "source:BH05160",
-          "why": "Adorn tongue, body and heart with mutually supporting qualities."
+          "why": "Adorn tongue, body and heart with mutually supporting qualities.",
+          "shortened": [
+            "Adorn your tongues with truthfulness, your temples with the ornament of trustworthiness, and your hearts with the remembrance of God, the Mighty, the Beloved."
+          ]
         },
         {
           "key": "source:BH07952",
@@ -846,7 +1197,10 @@
         },
         {
           "key": "source:BH10676",
-          "why": "Place truthfulness beside trust in the garment image."
+          "why": "Place truthfulness beside trust in the garment image.",
+          "shortened": [
+            "Say: O friends! The best garment in the sight of the Lord of Oneness, after trustworthiness, has been and ever shall be truthfulness. Hold fast unto it and be free and detached from its opposite."
+          ]
         },
         {
           "key": "source:AB10433",
@@ -858,11 +1212,17 @@
         },
         {
           "key": "source:BH10486",
-          "why": "Retain the invitation to know trust’s value."
+          "why": "Retain the invitation to know trust’s value.",
+          "shortened": [
+            "The door of wealth is trustworthiness. We counsel all Our loved ones to observe it. Hold fast unto it, then know its station."
+          ]
         },
         {
           "key": "source:BH07368",
-          "why": "Connect it with grace and bounty."
+          "why": "Connect it with grace and bounty.",
+          "shortened": [
+            "Trustworthiness is the sign of God amongst His creation. Blessed is the soul that hath clung fast unto it. It is the key to wealth and the door to grace and bounty."
+          ]
         },
         {
           "key": "source:BH02014",
@@ -870,19 +1230,32 @@
         },
         {
           "key": "source:BH08211",
-          "why": "Preserve the image of recognition by the heavenly realms."
+          "why": "Preserve the image of recognition by the heavenly realms.",
+          "shortened": [
+            "Every light hath been eclipsed before its light, its radiance and its effulgence. Thus doth He Who hath with Him the Preserved Tablet make clear unto you. Verily, he who adorneth himself with the ornament of trustworthiness is remembered by the Concourse on High, and upon him do the denizens of the realms of dominion and kingdom offer prayers."
+          ]
         },
         {
           "key": "source:BH11714",
-          "why": "Choose enduring character over passing adornments."
+          "why": "Choose enduring character over passing adornments.",
+          "shortened": [
+            "The ornament of man hath ever been and shall continue to be truthfulness and sincerity. O friends! Let not the ornaments of two fleeting days, which all testify shall perish, deprive you of the everlasting bounty and the heavenly food sent down."
+          ]
         },
         {
           "key": "source:BH09250",
-          "why": "Retain the brief exaltation claim with its source context."
+          "why": "Retain the brief exaltation claim with its source context.",
+          "shortened": [
+            "We have manifested trustworthiness upon the temple of man, and verily he crieth out amidst the people of existence, saying: \"All bounty belongeth unto him who hath clung unto me and acted according to that which was commanded by God, the Lord of all men.\" Those who have turned away from me have no portion in the Book.",
+            "O people of the earth! Hearken unto my call and hold fast unto my cord. By God! Through it the Cause of God and His dominion over all religions shall be exalted."
+          ]
         },
         {
           "key": "source:AB02974",
-          "why": "Recognize a life that shines among others."
+          "why": "Recognize a life that shines among others.",
+          "shortened": [
+            "Blessed is the soul that shines with the light of trustworthiness among all and is a sign of perfection among the people."
+          ]
         },
         {
           "key": "source:BH00384",
@@ -890,15 +1263,24 @@
         },
         {
           "key": "source:BH01151",
-          "why": "Pray that loved ones receive this quality."
+          "why": "Pray that loved ones receive this quality.",
+          "shortened": [
+            "O my God and the God of all things, the Educator of all names! I beseech Thee by Thy Name, the Manifest, the Hidden, and by Thy Beauty, the Shining, the Treasured, to adorn Thy loved ones with the vesture of trustworthiness among all creatures, and deprive them not of this most exalted station and this most holy, most mighty, most glorious attribute."
+          ]
         },
         {
           "key": "source:BH02596",
-          "why": "Extend the final hope to everyone."
+          "why": "Extend the final hope to everyone.",
+          "shortened": [
+            "God willing, we hope that the Truth, exalted be His glory, will adorn all with the ornament of trustworthiness, religiosity, truthfulness and sincerity."
+          ]
         },
         {
           "key": "source:BH01089",
-          "why": "Close with the image of protection that sustains confidence."
+          "why": "Close with the image of protection that sustains confidence.",
+          "shortened": [
+            "All that hath befallen you hath been for God's sake, this is the truth, no doubt lieth therein. And now too refer all matters unto Him, trust in Him and commit all unto Him. Assuredly He will not abandon you, of this too there is no doubt. No father delivereth his child to the lion, and no shepherd entrusteth his sheep to the wolf. Surely he exerteth his utmost in their protection."
+          ]
         }
       ],
       "questions": [

@@ -5,7 +5,7 @@
       "id": "6B2E2534F05E41069B3E1A18F5B552D4",
       "slug": "godsoneness",
       "displayTitle": "Divine oneness: beyond number, likeness, and possession",
-      "introduction": "What can it mean to call God one when even the number one is an inadequate comparison? These readings move between a direct confession of faith, the language of love and prayer, and searching distinctions about essence, attributes, and manifestation. A painting points toward its maker without becoming the painter; many mirrors receive a light whose source remains beyond them. Such images invite attention to both nearness and transcendence. The terms ahadiyyih and wahidiyyih appear within differing theological and philosophical explanations, whose distinctions should be examined rather than assumed away. Neighboring subjects on divine names, archetypes, the cloud, and idolatry deepen the question of what thought can disclose and what it may mistake for God. The Shema in Deuteronomy brings another emphasis: oneness remembered through wholehearted love and the rhythms of daily life. The compilation finally asks how confession might shape humility, worship, and unity among people.",
+      "introduction": "To say that God is one is not to count. Bahá’u’lláh prays to the One who is single in no numerical sense, and the Báb strips the Divine Essence of every likeness, partner and similitude, so that oneness means freedom from comparison rather than the first step in a series. Yet the same Writings overflow with intimacy: lovers perplexed by a mystery they cannot fathom, atoms and hairs bearing witness, a lamp and a leaf confessing what no mind can hold. ‘Abdu’l-Bahá offers the sun that shines in many mirrors without ever descending into them, and Bahá’u’lláh the painter whose work points to him without becoming him; both images guard nearness and transcendence at once. The terms ahadiyyih and wahidiyyih open onto the names and attributes of God, the subtle cloud that is seen and unseen, and the eternal archetypes, while the question of idolatry asks what thought may mistake for its Maker. The Shema’s call to love the one God wholeheartedly and to speak of him at home and on the road [1] turns confession into a rhythm of living, and that is finally what oneness asks: that a life, and a gathering of lives, become its sign.",
       "arc": "Begin with the limits of number and the distinction between maker and sign; explore essence, names and manifestation; pass through devotional testimony and the witness of creation; return to human unity before comparing the supplied philosophical voices.",
       "order": [
         {
@@ -14,11 +14,18 @@
         },
         {
           "key": "source:BH01850",
-          "why": "Give the question a tangible image through painter and painting."
+          "why": "Give the question a tangible image through painter and painting.",
+          "shortened": [
+            "Consider the relation between the craftsman and his handiwork, between the painter and his painting.",
+            "Can it ever be maintained that the work their hands have produced is the same as themselves? By Him Who is the Lord of the Throne above and of earth below! They can be regarded in no other light except as evidences that proclaim the excellence and perfection of their author."
+          ]
         },
         {
           "key": "source:ABU0129",
-          "why": "Explore the many mirrors and one sun without collapsing their distinction."
+          "why": "Explore the many mirrors and one sun without collapsing their distinction.",
+          "shortened": [
+            "Although it transcends our realization, its lights, bestowals, traces and virtues have become manifest in the realities of the Prophets, even as the sun becomes resplendent in various mirrors. These holy realities are as reflectors, and the reality of Divinity is as the sun, which, although it is reflected from the mirrors, and its virtues and perfections become resplendent therein, does not stoop from its own station of majesty and glory and seek abode in the mirrors; it remains in its heaven of sanctity. At most it is this: that its lights become manifest and evident in its mirrors or manifestations. Therefore, its bounty proceeding from them is one bounty, but the recipients of that bounty are many. This is the unity of God; this is oneness -- unity of Divinity, holy above ascent or descent, embodiment, comprehension or idealization -- divine unity."
+          ]
         },
         {
           "key": "source:ABU1762",
@@ -26,11 +33,17 @@
         },
         {
           "key": "source:BH02693",
-          "why": "Let confessed powerlessness become a beginning of understanding."
+          "why": "Let confessed powerlessness become a beginning of understanding.",
+          "shortened": [
+            "From eternity Thou hast, in Thy transcendent oneness, been immeasurably exalted above Thy servants' conception of Thy unity, and wilt to eternity remain, in Thine unapproachable singleness, far above the praise of Thy creatures. No words that any one beside Thee may utter can ever beseem Thee, and no man's description except Thine own description can befit Thy nature. All who adore Thy unity have been sore perplexed to fathom the mystery of Thy oneness, and all have confessed their powerlessness to attain unto the comprehension of Thine essence and to scale the pinnacle of Thy knowledge."
+          ]
         },
         {
           "key": "source:BH01664",
-          "why": "State the insistence on freedom from likeness."
+          "why": "State the insistence on freedom from likeness.",
+          "shortened": [
+            "True belief in the unity of God [tawhid-i-haqiqi] consists in acknowledging and confessing the unity of God, exalted be His glory, sanctifying His Essence from all likeness and purifying His Being from all similitudes. This has ever been and shall ever be the case."
+          ]
         },
         {
           "key": "source:BH08441",
@@ -38,11 +51,18 @@
         },
         {
           "key": "source:AB02025",
-          "why": "Hear the simple repeated denial of peers and equals."
+          "why": "Hear the simple repeated denial of peers and equals.",
+          "shortened": [
+            "Thou art One, no partner hast Thou; Thou art One, no peer hast Thou; Thou art One, no equal hast Thou; Thou art One, no likeness hast Thou! Thou art unique in Thy oneness and sanctified in Thy singleness."
+          ]
         },
         {
           "key": "source:BB00413",
-          "why": "Read the compact declaration of oneness and incomparability."
+          "why": "Read the compact declaration of oneness and incomparability.",
+          "shortened": [
+            "Say:",
+            "He is God, the One! God, the Eternal! He begetteth not, nor was begotten, and there is none comparable unto Him."
+          ]
         },
         {
           "key": "source:AB02343",
@@ -54,23 +74,41 @@
         },
         {
           "key": "source:BB00017",
-          "why": "Read the Bab’s account of names, essence and the relation to creation."
+          "why": "Read the Bab’s account of names, essence and the relation to creation.",
+          "shortened": [
+            "His Essence hath no attribute or name besides His Essence. He is the Truth, there is no God but Him. Thee do we worship and Thine aid we seek.",
+            "All else besides Him are brought into being through His creation and origination. There is neither connection nor separation between Him and contingent beings."
+          ]
         },
         {
           "key": "source:BB00021",
-          "why": "Consider knowledge that does not depend on the prior existence of its objects."
+          "why": "Consider knowledge that does not depend on the prior existence of its objects.",
+          "shortened": [
+            "He knoweth all things as they are, whether universals or particulars, substances or accidents, after their creation just as on the day He had not created them. He knoweth them because knowledge is life, and just as God, glory be to Him, is Ever-Living in the eternity of eternities, and needeth not the existence of any living thing to prove His life, He was All-Knowing of all things without there being any object of knowledge."
+          ]
         },
         {
           "key": "source:AB00006",
-          "why": "Enter the extended explanation through the dot, numbers, and the Hidden Treasure."
+          "why": "Enter the extended explanation through the dot, numbers, and the Hidden Treasure.",
+          "shortened": [
+            "For example, consider the dot (or point); how letters and words are folded up and hidden within the essence (huwiyyat , ipseity) and reality of a dot with perfect effacement and annihilation so that no trace can be discerned of the existence of these letters and words nor is there any differentiation between them.  Rather they are completely obliterated and utterly annihilated and have no existence except in the essence (dhat) of the point.  In the same way the Names and Attributes of God and the Essential Dispositions [shu'unat dhatiyya]  are completely and utterly annihilated in the station of Primary Oneness so that not a whiff can be inhaled from them of substantial or intellectual existence.   This original point is the \"Hidden Treasure\" of these letters and words and they were incorporated and immersed within it and from it they appeared.",
+            "And similarly consider the Unitary Concept [ahad]; how all the numbers appear from it and it is in no number since it is the point of origin of all numbers.  And the first to be specified and to appear from it is the number \"one\" [wahid] and from \"one\" all other numbers come into being.  So all these numbers are contained in the unitary concept in the most perfect simplicity and oneness.  And so it is the \"Hidden Treasure\" of all numbers and from it do they appear."
+          ]
         },
         {
           "key": "source:AB00013",
-          "why": "Compare the distinctions among essence, necessity and contingency."
+          "why": "Compare the distinctions among essence, necessity and contingency.",
+          "shortened": [
+            "For existence is either identical with quiddity or other than it. If other than it, is it inseparable from it and among its requirements without suspension or detachment, or is suspension and detachment possible?",
+            "The first is the reality of the Essence from the perspective of its oneness - its existence is identical with its quiddity and its quiddity identical with its existence. The second is the station of necessity, where existence is distinct from quiddity but inseparable from it in a way that neither detachment nor separation can be conceived, for it is among its requirements. The third is the station of contingency - that is, existence derived from another and acquired from what is other than itself. Here its existence is other than its quiddity and its quiddity other than its existence, with the possibility of detachment and separation."
+          ]
         },
         {
           "key": "source:AB06442",
-          "why": "Use the subtle cloud to explore specification that is seen and unseen."
+          "why": "Use the subtle cloud to explore specification that is seen and unseen.",
+          "shortened": [
+            "Al-'Ama' in the language means a very light and subtle cloud that is seen and unseen. If you gaze with utmost care you find something, but as soon as you look, it cannot be seen. That is why, in the tradition of the investigators, by Al-'Ama' they mean the Universal Reality with no specifications, for specifications exist in the mode of simplicity and unity and are not distinguished from the essence. So it is both specified and unspecified, and this station is described as Divine Oneness and Al-'Ama', and it is the station of the Hidden Treasure mentioned in the Hadith."
+          ]
         },
         {
           "key": "source:AB04144",
@@ -78,7 +116,10 @@
         },
         {
           "key": "source:AB03187",
-          "why": "Read the movement from unity toward oneness as an invitation to effort."
+          "why": "Read the movement from unity toward oneness as an invitation to effort.",
+          "shortened": [
+            "Therefore strive and sacrifice yourself, make every effort despite distress, so that your speaking reality and your eternal archetype may turn from the station of unity toward the heart-expanding wilderness of oneness."
+          ]
         },
         {
           "key": "source:AB09406",
@@ -86,15 +127,24 @@
         },
         {
           "key": "source:BB00128",
-          "why": "Explore the cited tradition concerning the hidden and manifested Name."
+          "why": "Explore the cited tradition concerning the hidden and manifested Name.",
+          "shortened": [
+            "Again, in al-Kafi, from Abu 'Abdu'llah -- peace be upon him -- He said: Verily God, blessed and exalted, created a Name -- of letters, yet unvocalized; of utterance, yet unpronounced; of person, yet unembodied; by likeness, yet undescribed; of colour, yet untinged. Denied of it are the confines of direction; far removed from the senses of all who sense -- hidden, yet not concealed. He made it a steadfast Word upon four parts together -- none preceding another. Of these He manifested three as a Name, by reason of the creatures' need for them, and He veiled one thereof -- and that is the Hidden, Treasured Name."
+          ]
         },
         {
           "key": "source:BH00267",
-          "why": "Let the description of Hahut mark a limit to interpretation."
+          "why": "Let the description of Hahut mark a limit to interpretation.",
+          "shortened": [
+            "Among them is the station of the Throne of Hahut, the Paradise of Oneness. None can interpret a single letter of that verse in that Paradise, for this is the station of the mystery of the Divine Eternality, the edifices of Unity, the Israel of Singleness, and the essence of Luminosity. Its outward is identical with its inward, and its inward identical with its outward. It behooveth no one to comprehend a single letter thereof, but God shall reveal it, when He willeth, to whom He willeth."
+          ]
         },
         {
           "key": "source:BB00075",
-          "why": "Distinguish glorification from a claim to attain the Divine Essence."
+          "why": "Distinguish glorification from a claim to attain the Divine Essence.",
+          "shortened": [
+            "God hath desired naught from the expression of unity save the word of glorification, and from it naught save the word of praise, and from it naught save the word of His oneness, and from it naught save the word of His greatness. For the unity of the Divine Essence, as established in the beginning and end of the Command, is impossible for any created thing to attain, nor can any claim \"I am capable of this,\" for such a statement would be pure falsehood and manifest untruth, and can only operate within its own rank."
+          ]
         },
         {
           "key": "source:BB00196",
@@ -114,7 +164,10 @@
         },
         {
           "key": "source:BH02504",
-          "why": "Distinguish a name’s ordinary reference from its relation to the Truth."
+          "why": "Distinguish a name’s ordinary reference from its relation to the Truth.",
+          "shortened": [
+            "O seeker! Though a name indicates that which is named, this applies only to the realm of creation. But the Truth is sanctified above all names - all names end in His Most Exalted Word and all attributes return to His Primal Will. Whoever attains unto Him has attained unto all names, both now and forever."
+          ]
         },
         {
           "key": "source:BB00064",
@@ -130,15 +183,24 @@
         },
         {
           "key": "source:BB00123",
-          "why": "Consider the failure of names and attributes before enduring oneness."
+          "why": "Consider the failure of names and attributes before enduring oneness.",
+          "shortened": [
+            "There is no God but Thee! Thou hast ever been as Thou wert. Attributes have gone astray, names have been cut off, and traces have returned. And now Thou art as Thou hast ever been in might and oneness."
+          ]
         },
         {
           "key": "source:BH06400",
-          "why": "Join unity of essence and attributes with transcendence of praise."
+          "why": "Join unity of essence and attributes with transcendence of praise.",
+          "shortened": [
+            "Thou hast ever been one in Thy Essence and one in Thy attributes, sanctified above every wondrous mention and every beauteous praise, and Thou wilt ever continue to be what Thou hast been from time immemorial."
+          ]
         },
         {
           "key": "source:BH06392",
-          "why": "Keep the concise separate statement on essence and attributes."
+          "why": "Keep the concise separate statement on essence and attributes.",
+          "shortened": [
+            "The Wronged One testifies that there is none other God but Him. He has ever been One in His Essence and One in His attributes."
+          ]
         },
         {
           "key": "source:BH02975",
@@ -146,23 +208,38 @@
         },
         {
           "key": "source:BH03790",
-          "why": "Preserve the brief independent affirmation of incomparability."
+          "why": "Preserve the brief independent affirmation of incomparability.",
+          "shortened": [
+            "He hath ever been One in His Essence, having taken neither partner nor peer unto Himself."
+          ]
         },
         {
           "key": "source:BH05976",
-          "why": "Extend the statement to actions and sufficiency."
+          "why": "Extend the statement to actions and sufficiency.",
+          "shortened": [
+            "Find sufficiency in Him rather than in aught else, and associate not any partner with Him, for verily He is One in His essence and then in His actions, were ye of them that know."
+          ]
         },
         {
           "key": "source:BH01887",
-          "why": "Ask how a coequal would contradict incomparability."
+          "why": "Ask how a coequal would contradict incomparability.",
+          "shortened": [
+            "From everlasting Thou wert alone, with none to describe Thee, and wilt abide for ever the same with no one else to equal or rival Thee. Were the existence of any co-equal with Thee to be recognized, how could it then be maintained that Thou art the Incomparable, or that Thy Godhead is immeasurably exalted above all peers or likeness?"
+          ]
         },
         {
           "key": "source:BH06114",
-          "why": "Hear the extended exclusion of rival, opposite and likeness."
+          "why": "Hear the extended exclusion of rival, opposite and likeness.",
+          "shortened": [
+            "And thy Lord hath taken unto Himself no partner, nor any peer, nor any minister, nor any likeness, nor any equal, nor any opposite, nor any similitude."
+          ]
         },
         {
           "key": "source:BH00941",
-          "why": "Keep the warning against associating partners."
+          "why": "Keep the warning against associating partners.",
+          "shortened": [
+            "Beware lest thou ascribe partners unto Him Who hath ever been One in His Essence and hath taken neither peer nor likeness unto Himself. To this beareth witness all that hath been sent down aforetime from the presence of the Mighty, the Bestower."
+          ]
         },
         {
           "key": "source:BH01702",
@@ -170,7 +247,10 @@
         },
         {
           "key": "source:BH08127",
-          "why": "Read the absence of likeness as integral to recognition."
+          "why": "Read the absence of likeness as integral to recognition.",
+          "shortened": [
+            "And this recognition is not complete except through acknowledging His oneness and confessing His singleness, in such wise that no likeness, peer, similitude or equal be seen for Him."
+          ]
         },
         {
           "key": "source:BH07041",
@@ -178,11 +258,17 @@
         },
         {
           "key": "source:BH11714",
-          "why": "Consider the testimony of creation alongside the inadequacy of all description."
+          "why": "Consider the testimony of creation alongside the inadequacy of all description.",
+          "shortened": [
+            "He hath ever existed, sanctified from all peers and likenesses, and exalted above all that hath been said or shall be said. He hath been, and is, the One, the Single, the Unique, the Self-Subsisting, the Eternal--He unto Whose oneness and singleness the tongues of all created things have testified, and through Whose remembrance and praise all things have spoken."
+          ]
         },
         {
           "key": "source:BH00769",
-          "why": "Introduce divine self-testimony independent of any creature."
+          "why": "Introduce divine self-testimony independent of any creature.",
+          "shortened": [
+            "God testifieth to the unity of His Godhood and to the singleness of His own Being. On the throne of eternity, from the inaccessible heights of His station, His tongue proclaimeth that there is none other God but Him. He Himself, independently of all else, hath ever been a witness unto His own oneness, the revealer of His own nature, the glorifier of His own essence."
+          ]
         },
         {
           "key": "source:BH00048",
@@ -190,7 +276,10 @@
         },
         {
           "key": "source:BH01640",
-          "why": "Invite inward acknowledgment of the testimony."
+          "why": "Invite inward acknowledgment of the testimony.",
+          "shortened": [
+            "Bear thou witness in thine inmost heart unto this testimony which God hath Himself and for Himself pronounced, that there is none other God but Him, that all else besides Him have been created by His behest, have been fashioned by His leave, are subject to His law, are as a thing forgotten when compared to the glorious evidences of His oneness, and are as nothing when brought face to face with the mighty revelations of His unity."
+          ]
         },
         {
           "key": "source:BB00012",
@@ -198,11 +287,17 @@
         },
         {
           "key": "source:BH04568",
-          "why": "Explore how a Manifestation’s oneness demonstrates divine unity."
+          "why": "Explore how a Manifestation’s oneness demonstrates divine unity.",
+          "shortened": [
+            "Thy unity is inscrutable, O my God, to all except them that have recognized Him Who is the Manifestation of Thy singleness and the Day-Spring of Thy oneness. Whoso assigneth a rival unto Him hath assigned a rival unto Thee, and whoso hath set up a peer for Him hath set up a peer for Thyself. No, no, none can withstand Thee in the whole of creation. Thou hast everlastingly been exalted far above all comparison and likeness. Thy oneness hath been demonstrated by the oneness of Him Who is the Dawning-Place of Thy Revelation."
+          ]
         },
         {
           "key": "source:BH03333",
-          "why": "Read the first-person proclamation of creation through Will and Purpose."
+          "why": "Read the first-person proclamation of creation through Will and Purpose.",
+          "shortened": [
+            "And God addresseth therein all who are in the heavens and on earth, and all that hath been and shall be, saying: \"There is no God but Me, Who created all contingent things from nothing through My Will, and brought all beings into existence from naught through My Purpose. I am the One with power over whatsoever I desire, and I am the All-Encompassing, the Self-Subsisting."
+          ]
         },
         {
           "key": "source:BH01228",
@@ -210,7 +305,10 @@
         },
         {
           "key": "source:BH07214",
-          "why": "Connect recognition with teaching the path of oneness."
+          "why": "Connect recognition with teaching the path of oneness.",
+          "shortened": [
+            "I testify that Thou didst create me for the recognition of the Dayspring of Thy Revelation and the Dawning-place of Thy signs and the Manifestation of Thy Self, and Thou hast revealed unto Thy servants that which draweth them nigh unto the court of Thy glory, and taught them the oneness of Thy Being and Thy sanctification from all peers and likenesses, and made them to know Thy straight path and Thy firm and mighty command."
+          ]
         },
         {
           "key": "source:BH05846",
@@ -218,11 +316,17 @@
         },
         {
           "key": "source:BH06674",
-          "why": "Read the renewed decree and Nightingale’s testimony."
+          "why": "Read the renewed decree and Nightingale’s testimony.",
+          "shortened": [
+            "Say: Through this Revelation the decree of origination is established and the Nightingale of the All-Merciful hath sung upon the branches of the Tree of Utterance that \"There is none other God beside Me, the Single, the All-Informed.\" Say: Whosoever affirmeth a likeness hath indeed associated partners with God - to this doth the Ancient Beauty testify from His exalted station."
+          ]
         },
         {
           "key": "source:BH05465",
-          "why": "Keep the Tree’s utterance in its stated station."
+          "why": "Keep the Tree’s utterance in its stated station.",
+          "shortened": [
+            "And in another station it referreth to this Breast wherein the Tree uttereth: \"There is none other God but Me, the All-Knowing, the All-Wise.\""
+          ]
         },
         {
           "key": "source:BB00256",
@@ -234,7 +338,10 @@
         },
         {
           "key": "source:BH01905",
-          "why": "Consider the enduring radiance of the divine Sun."
+          "why": "Consider the enduring radiance of the divine Sun.",
+          "shortened": [
+            "From the beginning that has no beginning, the lights of the glory of divine unity have shone forth without pause or delay, and the radiant gleams of the divine Sun have ever appeared and will continue to appear without concealment or diminution."
+          ]
         },
         {
           "key": "source:BH05789",
@@ -242,11 +349,17 @@
         },
         {
           "key": "source:BH07443",
-          "why": "Keep the image of a sun shining upon visible and unseen realms."
+          "why": "Keep the image of a sun shining upon visible and unseen realms.",
+          "shortened": [
+            "And therein did the Sun of Thy oneness shine forth from the horizon of the House upon all who dwell in the unseen and the visible realms."
+          ]
         },
         {
           "key": "source:BH10491",
-          "why": "Extend the proclamation of oneness across religions."
+          "why": "Extend the proclamation of oneness across religions.",
+          "shortened": [
+            "This is a day wherein grace hath encompassed all religions, and the Divine Lott Tree hath called out from the Most Exalted Horizon: 'Verily, there is none other God but Him, the One, the Single, the All-Knowing.'"
+          ]
         },
         {
           "key": "source:BH00952",
@@ -254,11 +367,17 @@
         },
         {
           "key": "source:BB00002",
-          "why": "Read the reflection on ordered creation and the Gate in its own source."
+          "why": "Read the reflection on ordered creation and the Gate in its own source.",
+          "shortened": [
+            "O people of the earth! Have you not reflected upon the creation of the heavens and the earth? If there were two gates in them from the Remembrance, they would have corrupted. And verily God has arranged the kingdom through His Gate of Truth, and God is indeed knowing of all things."
+          ]
         },
         {
           "key": "source:BH02533",
-          "why": "Attend to the testimony of seen and unseen existence."
+          "why": "Attend to the testimony of seen and unseen existence.",
+          "shortened": [
+            "O Lord! All things testify to Thy oneness, and whatsoever can be described as having existence, whether seen or unseen, beareth witness to Thy singleness."
+          ]
         },
         {
           "key": "source:BH07454",
@@ -266,19 +385,31 @@
         },
         {
           "key": "source:BH04053",
-          "why": "Keep the separate testimony of created things."
+          "why": "Keep the separate testimony of created things.",
+          "shortened": [
+            "All created things have borne witness to Thy unity, and every dweller in Thy kingdom hath confessed Thy oneness."
+          ]
         },
         {
           "key": "source:BH04742",
-          "why": "Retain the parallel wording concerning all existing things."
+          "why": "Retain the parallel wording concerning all existing things.",
+          "shortened": [
+            "All created things bear witness to Thy singleness, and all existing things to Thy oneness."
+          ]
         },
         {
           "key": "source:BB00372",
-          "why": "Read appearances and realities as signs."
+          "why": "Read appearances and realities as signs.",
+          "shortened": [
+            "All appearances and realities indicate the oneness of Thine Essence, and all evidences and signs reflect the truth that Thou art God and there is no peer or partner for Thee throughout the kingdoms of heaven and earth."
+          ]
         },
         {
           "key": "source:BH07774",
-          "why": "Keep the concise statement of universal testimony."
+          "why": "Keep the concise statement of universal testimony.",
+          "shortened": [
+            "Thou art He to Whose oneness and singleness all have testified."
+          ]
         },
         {
           "key": "source:BH03112",
@@ -310,11 +441,17 @@
         },
         {
           "key": "source:BH04091",
-          "why": "Read inward and outward testimony with the First and Last."
+          "why": "Read inward and outward testimony with the First and Last.",
+          "shortened": [
+            "When you attain unto My Tablet and find the fragrance of your Lord's verses, say: \"My God, my God! My outer and inner tongue, my limbs and members, my veins and the very hairs of my body bear witness to Your unity and oneness, and that You are the First and the Last, the Manifest and the Hidden."
+          ]
         },
         {
           "key": "source:BH06682",
-          "why": "Preserve the separately voiced bodily confession."
+          "why": "Preserve the separately voiced bodily confession.",
+          "shortened": [
+            "Say: My God, my God! My outward and inward tongue, my limbs and members all bear witness to Thy oneness and Thy singleness, and that Thou art God, there is no God but Thee, the Single, the One, the Powerful, the All-Compelling, the All-Knowing, the All-Wise."
+          ]
         },
         {
           "key": "source:BH07687",
@@ -322,23 +459,39 @@
         },
         {
           "key": "source:BH08372",
-          "why": "Keep the paired inward and outward testimony to enduring oneness."
+          "why": "Keep the paired inward and outward testimony to enduring oneness.",
+          "shortened": [
+            "My outward and inward tongue both testify that Thou hast ever been One God, Single, Sole, Self-Subsisting, and wilt ever continue to be even as Thou hast been. There is no God but Thee, the Mighty, the Dominant, the Powerful, the Omnipotent."
+          ]
         },
         {
           "key": "source:BB00003",
-          "why": "Enter the Book of Names through its many forms of praise and sovereignty."
+          "why": "Enter the Book of Names through its many forms of praise and sovereignty.",
+          "shortened": [
+            "Praise be to God, Who hath exalted Himself in His transcendence above all contingent things, Who hath manifested His sovereignty above all created things, Who hath demonstrated His dominion above all things that have being, Who hath shown His might above all atoms, and Who hath revealed His grandeur above all who dwell in the kingdoms of earth and heaven. He is the One beside Whom there is no equal, the Most Exalted above all likeness and duration, and the Most Holy, sanctified beyond every attribute and number. He hath created what He willeth by His command and ordained what He desireth by His sovereignty. Every created thing beareth witness that there is none other God but Him - a testimony purified from the ways of associating partners with God and from all veils, sanctified from the paths of remoteness and separation."
+          ]
         },
         {
           "key": "source:BB00005",
-          "why": "Read repeated confession alongside the degrees of names and attributes."
+          "why": "Read repeated confession alongside the degrees of names and attributes.",
+          "shortened": [
+            "And in every night and day, say nineteen times \"There is no God but God\" in truth, in very truth, for even if thou shouldst say it unto infinity, there hath been and shall be but one Divine Unity, for in names there appeareth naught but the Named One Himself, even as thou sayest there is no sun but the true Sun, shouldst thou observe. Yet consider thou the degrees of unity in relation to the degrees of names and attributes, for in the presence of every true soul that which is contrary to it hath been and shall be negated, and unto God is the journey's end."
+          ]
         },
         {
           "key": "source:BB00004",
-          "why": "Follow the Book of Reckoning’s extended rhythm of return, praise and command."
+          "why": "Follow the Book of Reckoning’s extended rhythm of return, praise and command.",
+          "shortened": [
+            "God beareth witness that there is none other God but Him. Say: All stand before His presence. God beareth witness that there is none other God but Him. Say: All glorify Him. God beareth witness that there is none other God but Him. Say: All proclaim His oneness. God beareth witness that there is none other God but Him. Say: All magnify Him. God beareth witness that there is none other God but Him. Say: All extol His greatness."
+          ]
         },
         {
           "key": "source:BB00011",
-          "why": "Let the Book of Thirty Prayers carry oneness through every direction and condition."
+          "why": "Let the Book of Thirty Prayers carry oneness through every direction and condition.",
+          "shortened": [
+            "Thou hast ever been one God, Single, Unique, Independent, Self-Subsisting, Self-Sufficient. Thou hast taken neither consort nor offspring, nor hath there been any partner with Thee, neither before nor after.",
+            "I testify to Thy independence of me and of all things, and I acknowledge Thy oneness before all things and after all things and above all things and beneath all things and to the right of all things and to the left of all things, that Thou hast ever been and wilt ever be free from the praise of any besides Thee and sanctified from that which Thy creation may acclaim."
+          ]
         },
         {
           "key": "source:BB00035",
@@ -354,7 +507,10 @@
         },
         {
           "key": "source:BB00294",
-          "why": "Retain the independent prayer denying consort, son and helper."
+          "why": "Retain the independent prayer denying consort, son and helper.",
+          "shortened": [
+            "Thou hast ever been one God, single, eternal, self-subsisting, living, enduring, sovereign, all-pervading, holy, everlasting, forever, inaccessible, possessing, ruling, manifest, powerful. Thou hast taken neither consort nor son, and Thou hast no partner in what Thou hast created, nor any helper in what Thou hast fashioned."
+          ]
         },
         {
           "key": "source:BB00053",
@@ -370,19 +526,31 @@
         },
         {
           "key": "source:BB00218",
-          "why": "Consider the formation of things through power and will."
+          "why": "Consider the formation of things through power and will.",
+          "shortened": [
+            "Thou hast taken neither consort nor son, nor hath there been any partner in what Thou hast created, nor any protector in what Thou hast fashioned. Thou hast created all things by Thy power with precision, and formed all things by Thy will with perfection."
+          ]
         },
         {
           "key": "source:BB00231",
-          "why": "Keep the further refusal of limiting similitude."
+          "why": "Keep the further refusal of limiting similitude.",
+          "shortened": [
+            "Thou art He Who hath no equal, no peer, no likeness, no companion, no similitude, and Thou art He Who begetteth not, nor wast Thou begotten, Who cannot be limited or described by any similitude."
+          ]
         },
         {
           "key": "source:BB00253",
-          "why": "Connect perfect form with the submission of all realms."
+          "why": "Connect perfect form with the submission of all realms.",
+          "shortened": [
+            "Thou hast created all things by Thy power, in due measure, and hast fashioned the creation of all things by Thy will, with perfect form. Thou art He before Whom all who are in the heavens and all who are on the earth and whatsoever lieth between them prostrate themselves; and all who are in the realms of command and creation and whatsoever is beneath them are humble and submissive."
+          ]
         },
         {
           "key": "source:BB00264",
-          "why": "Preserve the separate prayer’s affirmation of enduring sovereignty."
+          "why": "Preserve the separate prayer’s affirmation of enduring sovereignty.",
+          "shortened": [
+            "Thou hast ever been one God, single, eternal, self-subsisting, living, unchanging, sovereign, supreme, holy, everlasting, endless, inaccessible, exalted, ruling, possessing, glorified, powerful. Thou hast taken neither consort nor son, and Thou hast no partner in what Thou hast created, nor any protector in what Thou hast fashioned."
+          ]
         },
         {
           "key": "source:BB00277",
@@ -390,7 +558,10 @@
         },
         {
           "key": "source:BB00310",
-          "why": "Let the brief confession provide a pause."
+          "why": "Let the brief confession provide a pause.",
+          "shortened": [
+            "Thou hast ever been one God, single, unique, ever-living, self-subsisting, eternal, everlasting."
+          ]
         },
         {
           "key": "source:BB00434",
@@ -406,7 +577,10 @@
         },
         {
           "key": "source:BB00293",
-          "why": "Preserve the separate memorial prayer for the second Letter."
+          "why": "Preserve the separate memorial prayer for the second Letter.",
+          "shortened": [
+            "Thou hast ever been one God, Single, Unique, Eternal, Self-Subsisting, the Ever-Abiding, the Ever-Enduring, the Self-Dependent. Thou hast taken neither consort nor son, and Thou hast no partner in what Thou hast created, nor any protector in what Thou hast fashioned."
+          ]
         },
         {
           "key": "source:BB00311",
@@ -414,19 +588,31 @@
         },
         {
           "key": "source:BB00166",
-          "why": "Retain the supplied omission within the visitation for Quddus."
+          "why": "Retain the supplied omission within the visitation for Quddus.",
+          "shortened": [
+            "Then upon Thee, O Light of the Divine Identity, and Garment of the Countenance of Oneness, and Mystery of Eternality, and the Divine Grandeur, and the Glory of the Divine Essence, and the Sublimity of the Realm of Might, and [...] praise be upon my father and what is in my Lord's knowledge!"
+          ]
         },
         {
           "key": "source:BB00120",
-          "why": "Read testimony within the particular practice of visitation."
+          "why": "Read testimony within the particular practice of visitation.",
+          "shortened": [
+            "When you enter the Blessed Shrine, pray in the small chamber near the abandoned well, then turn towards the Kaaba and say: I bear witness that there is no God but God, alone, with no partner, just as His Essence has testified to His Essence that there is no God but He, the Mighty, the Wise."
+          ]
         },
         {
           "key": "source:BB00226",
-          "why": "Keep the acknowledgment from a mountain setting in its own voice."
+          "why": "Keep the acknowledgment from a mountain setting in its own voice.",
+          "shortened": [
+            "I bear witness before God, from my station amidst these mountains, that there is no God but Him, alone without partner, even as His Essence hath testified to His Essence in the loftiness of His Being."
+          ]
         },
         {
           "key": "source:BB00291",
-          "why": "Read self-testimony in the letter to Tahirih."
+          "why": "Read self-testimony in the letter to Tahirih.",
+          "shortened": [
+            "O my God! I bear witness before Thee and before those who bear witness in Thy presence that in this Book I testify that there is no God but God, alone without partner, even as He hath testified of His Own Self unto His Own Self, and sanctified His Own Being above any likeness to aught else beside Him. He is as He is in the glory of His Being, the majesty of His Essence, the beauty of His Self, and the sanctity of His Identity."
+          ]
         },
         {
           "key": "source:BB00278",
@@ -438,11 +624,17 @@
         },
         {
           "key": "source:BB00302",
-          "why": "Let praise acknowledge its own inadequacy."
+          "why": "Let praise acknowledge its own inadequacy.",
+          "shortened": [
+            "I glorify Thee beyond all wherewith contingent things have glorified Thee or can glorify Thee, and I sanctify Thee beyond all wherewith contingent things have sanctified Thee or can sanctify Thee, and I testify to Thy oneness as Thou hast testified to Thine own oneness, that Thou art God, there is no God but Thee, and all else besides Thee is Thy creation and within Thy grasp."
+          ]
         },
         {
           "key": "source:BB00163",
-          "why": "Preserve the prayer’s severe language within its devotional setting."
+          "why": "Preserve the prayer’s severe language within its devotional setting.",
+          "shortened": [
+            "Thou didst not create that creation save that all things might attain, to the extent possible, unto that which is manifested at the revelation of Thy power and the exaltation of Thy Will. Perished be the essence that glorifieth not Thy Being, and annihilated be the reality that praiseth not Thine Essence. Extinguished be the spirits that recognize not the Sovereign of Thy holy Oneness, and abolished be the bodies that prostrate not before the Monarch of Thy Unity."
+          ]
         },
         {
           "key": "source:BB00227",
@@ -450,7 +642,12 @@
         },
         {
           "key": "source:BB00347",
-          "why": "Follow the long litany asking entry into paradise by mercy."
+          "why": "Follow the long litany asking entry into paradise by mercy.",
+          "shortened": [
+            "O God! I beseech Thee by the sovereignty wherein Thou art unique, O Most Merciful, to grant permission unto me and unto them that have believed in Thee and in Thy signs, to enter Thy paradise through Thy bounty and Thy mercy.",
+            "O God! I beseech Thee, O First One in Thy uniqueness, O Last One, to grant permission unto me and unto them that have believed in Thee and in Thy signs, to enter Thy paradise through Thy bounty and Thy mercy.",
+            "O God! I beseech Thee, O Most Glorious in Thy uniqueness, O Hidden One, to grant permission unto me and unto them that have believed in Thee and in Thy signs, to enter Thy paradise through Thy bounty and Thy mercy."
+          ]
         },
         {
           "key": "source:BB00140",
@@ -458,11 +655,18 @@
         },
         {
           "key": "source:BB00392",
-          "why": "Hear the warning to heed the declaration."
+          "why": "Hear the warning to heed the declaration.",
+          "shortened": [
+            "Say: O servants, take heed! There is none other God but God.",
+            "God beareth witness that there is none other God but Him, before and hereafter, and all shall return unto Him."
+          ]
         },
         {
           "key": "source:BH00759",
-          "why": "Turn confession toward concentrated attention."
+          "why": "Turn confession toward concentrated attention.",
+          "shortened": [
+            "Enable them then, O my God, to bear witness to Thy unity and to testify to Thy oneness in such wise that they may behold naught save Thee and shut their eyes to all else."
+          ]
         },
         {
           "key": "source:AB04368",
@@ -470,7 +674,10 @@
         },
         {
           "key": "source:BH03109",
-          "why": "Join power and loving-kindness in testimony."
+          "why": "Join power and loving-kindness in testimony.",
+          "shortened": [
+            "I testify to Thine omnipotence and Thy might, Thy sovereignty and Thy loving-kindness, Thy grace and Thy power, the oneness of Thy Being and the unity of Thine Essence, Thy sanctity and exaltation above the world of being and all that is therein."
+          ]
         },
         {
           "key": "source:BH04007",
@@ -478,19 +685,31 @@
         },
         {
           "key": "source:BH04697",
-          "why": "Preserve the distinct confession joining oneness and wisdom."
+          "why": "Preserve the distinct confession joining oneness and wisdom.",
+          "shortened": [
+            "O Lord! I testify to Thy oneness and singleness, and that Thou art God, there is no God but Thee, the Single, the One, the All-Knowing, the All-Wise."
+          ]
         },
         {
           "key": "source:BH07899",
-          "why": "Address the One as Beloved, Support and Hope."
+          "why": "Address the One as Beloved, Support and Hope.",
+          "shortened": [
+            "O my God, my Beloved, my Lord, my Support, and my Hope! I testify that Thou hast ever been One, Single, Self-Subsisting, Alone, and wilt continue to be what Thou hast always been."
+          ]
         },
         {
           "key": "source:BH04436",
-          "why": "Let the Dove’s cooing prompt a spoken response."
+          "why": "Let the Dove’s cooing prompt a spoken response.",
+          "shortened": [
+            "When thou hearest the cooing of the Dove of My utterance upon the branches of the Tree of My knowledge, say: \"My God, my God! I testify to Thy oneness and Thy singleness, and that Thou hast no partner in Thy dominion nor any equal in Thy kingdom."
+          ]
         },
         {
           "key": "source:BH05270",
-          "why": "Give thanks for acknowledgment and discernment."
+          "why": "Give thanks for acknowledgment and discernment.",
+          "shortened": [
+            "My God, my God! All praise be to Thee for having caused me to acknowledge Thy oneness and confess Thy singleness, and to submit to that which Thou hast sent down in Thy Book, whereby Thou didst distinguish between truth and falsehood through Thy command and Thy power."
+          ]
         },
         {
           "key": "source:BH02733",
@@ -498,15 +717,24 @@
         },
         {
           "key": "source:BH01533",
-          "why": "Read recognition, listening and turning as one act of gratitude."
+          "why": "Read recognition, listening and turning as one act of gratitude.",
+          "shortened": [
+            "Say: My God, my God! Unto Thee be praise and unto Thee be thanksgiving, unto Thee be bounty and generosity, for having honored me with Thy days and caused me to recognize the Dawning-Place of Thy Cause, the Manifestation of Thy Self, and the Dayspring of Thy signs, and for having aided me to turn toward Thy most exalted horizon, to hearken unto Thy sweetest call, and to turn toward the lights of Thy countenance, O Lord of all names and Creator of the heavens! O my Lord! Thou seest me turning toward Thee and turning away from all else, acknowledging that which the tongue of Thy grandeur hath spoken when Thou didst establish Thyself upon the throne by Thy command and will, that verily Thou art God, Who hath ever been One, Single, Alone, and Self-Subsisting, and wilt ever remain as Thou hast been."
+          ]
         },
         {
           "key": "source:BH06796",
-          "why": "Keep the separate thanksgiving for guidance amidst denial."
+          "why": "Keep the separate thanksgiving for guidance amidst denial.",
+          "shortened": [
+            "When thou hast received My Tablet and been blessed with the Kawthar of My utterance, say: My God, my God! Praise be to Thee for having guided me when mankind was in manifest error, and for having caused me to turn toward Thee when the people were in grievous rejection, and for having enabled me to acknowledge the oneness of Thy Being when humanity was in severe denial."
+          ]
         },
         {
           "key": "source:BH06936",
-          "why": "Preserve the particular address to a handmaiden."
+          "why": "Preserve the particular address to a handmaiden.",
+          "shortened": [
+            "O My handmaiden! Hearken thou unto My call, then bear witness to that whereunto God did bear witness before the creation of earth and heaven, that there is none other God but Him, the Mighty, the Bestower."
+          ]
         },
         {
           "key": "source:BH10269",
@@ -518,7 +746,10 @@
         },
         {
           "key": "source:AB11969",
-          "why": "Read another person’s letter as evidence of insight and love."
+          "why": "Read another person’s letter as evidence of insight and love.",
+          "shortened": [
+            "O you who are guided by the light of guidance! I have read your missive with its wonderful contents and eloquent meanings, indicating your recognition of the oneness of God and your acknowledgment of His singleness, and the enlightenment of your insight and the purity of your inner being and the intensity of your love for the Beauty of God."
+          ]
         },
         {
           "key": "source:BH01829",
@@ -526,7 +757,10 @@
         },
         {
           "key": "source:BH04100",
-          "why": "Preserve the distinction between recognition and learned denial."
+          "why": "Preserve the distinction between recognition and learned denial.",
+          "shortened": [
+            "Blessed art thou for having drunk of the Sealed Wine when every heedless one turned away from it veiled, and for having acknowledged the oneness and singleness of God when every rejected learned one denied Him."
+          ]
         },
         {
           "key": "source:BH04367",
@@ -534,11 +768,18 @@
         },
         {
           "key": "source:BH07126",
-          "why": "Keep the confession made while standing in a particular station."
+          "why": "Keep the confession made while standing in a particular station.",
+          "shortened": [
+            "I testify that Thou art God, there is none other God but Thee.",
+            "Thou beholdest me, O my God, standing in this station, acknowledging Thy oneness and confessing Thy singleness, and I acknowledge that which the tongue of Thy grandeur hath spoken and that which Thy chosen ones have acknowledged."
+          ]
         },
         {
           "key": "source:BH07538",
-          "why": "Hear the Pen and respond through testimony."
+          "why": "Hear the Pen and respond through testimony.",
+          "shortened": [
+            "When thou hearest My most sweet call and the rustling of My Most Exalted Pen, say: O Lord of all beings and Sovereign of the hereafter and of former times! I testify to Thy oneness and Thy singleness and to Thy power, Thy might and Thy dominion."
+          ]
         },
         {
           "key": "source:BH09097",
@@ -566,15 +807,25 @@
         },
         {
           "key": "source:BH06333",
-          "why": "Read acknowledgment from the setting of a sorrowful prison."
+          "why": "Read acknowledgment from the setting of a sorrowful prison.",
+          "shortened": [
+            "Give thanks unto God for having turned unto thee the face of Him Who hath been wronged, from the direction of His sorrowful prison, and Who speaketh and saith: There is none other God but He, the Single, the One, the All-Knowing, the All-Wise."
+          ]
         },
         {
           "key": "source:BH05416",
-          "why": "Preserve the selected interval between testimony and forgiveness."
+          "why": "Preserve the selected interval between testimony and forgiveness.",
+          "shortened": [
+            "God beareth witness that there is none other God but Him.",
+            "He, verily, is the Single One, the One, the All-Forgiving, the All-Bountiful."
+          ]
         },
         {
           "key": "source:BH07708",
-          "why": "Keep the concise statement linking testimony and the speaking One."
+          "why": "Keep the concise statement linking testimony and the speaking One.",
+          "shortened": [
+            "God testifieth that there is none other God but Him, and He Who speaketh is indeed the Single One, the All-Informed."
+          ]
         },
         {
           "key": "source:BH08384",
@@ -586,15 +837,24 @@
         },
         {
           "key": "source:BH03690",
-          "why": "Read origin and return through the proclamation of a Day."
+          "why": "Read origin and return through the proclamation of a Day.",
+          "shortened": [
+            "This is the Day wherein the Mystery of Divine Unity hath proclaimed: The Kingdom belongeth unto God, the One, the All-Powerful, the Unconstrained. With Him did the Day begin and with Him shall it end, and from Him have the lights appeared and unto Him have they returned."
+          ]
         },
         {
           "key": "source:BH03444",
-          "why": "Consider unity’s banner alongside detachment."
+          "why": "Consider unity’s banner alongside detachment.",
+          "shortened": [
+            "Through them were revealed the mysteries of divine unity, and through them was raised aloft the word of detachment, and through them was hoisted upon the highest standard the banner of \"There is none other God but Him.\""
+          ]
         },
         {
           "key": "source:BH05025",
-          "why": "Keep the praise and raised banner in their source setting."
+          "why": "Keep the praise and raised banner in their source setting.",
+          "shortened": [
+            "Praise that is sanctified above the comprehension of all created things and the understanding of all beings befits and is worthy of the Lord of names and attributes, Who, to the dismay of the ungodly, has raised aloft the banner of divine unity upon the highest standards and planted the ensign of \"Verily He is God\" upon the most elevated station."
+          ]
         },
         {
           "key": "source:BH11292",
@@ -606,7 +866,10 @@
         },
         {
           "key": "source:BH08310",
-          "why": "Acknowledge the source’s limit on knowing how this occurs."
+          "why": "Acknowledge the source’s limit on knowing how this occurs.",
+          "shortened": [
+            "And none knoweth how this is save him whom Thou hast acquainted with the repositories of Thy Oneness and the treasuries of Thine eternity."
+          ]
         },
         {
           "key": "source:AB10912",
@@ -618,11 +881,18 @@
         },
         {
           "key": "source:BH04060",
-          "why": "Ask to be freed from idle fancies in the act of confession."
+          "why": "Ask to be freed from idle fancies in the act of confession.",
+          "shortened": [
+            "I beseech Thee to inscribe me, by Thy Most Exalted Pen, among those who have acknowledged Divine Unity and detached themselves from idle fancies and from that which befitteth not Thy days."
+          ]
         },
         {
           "key": "source:BH01551",
-          "why": "Connect detachment with readiness to speak the Word of Unity."
+          "why": "Connect detachment with readiness to speak the Word of Unity.",
+          "shortened": [
+            "Blessed is the soul whose heart is free and detached from the world and all that is therein. Such a one is worthy to make mention of the blessed Word of Unity.",
+            "Praise be to God that the favored community has attained to this station and acknowledges and confesses the oneness of God."
+          ]
         },
         {
           "key": "source:BH06028",
@@ -630,15 +900,24 @@
         },
         {
           "key": "source:BH08243",
-          "why": "Read the appeal for preservation through yearning and mercy."
+          "why": "Read the appeal for preservation through yearning and mercy.",
+          "shortened": [
+            "I beseech Thee by the yearning of the hearts of the lovers and the sighs of the hearts of the longing ones, and by Thy Name through which the pavilion of misbelief was destroyed and the canopy of divine unity was raised up, to preserve him who hath believed in Thee and in Thy signs, and hath held fast unto the cord of Thy bounty, and hath turned toward the direction of Thy mercy and Thy good-pleasure."
+          ]
         },
         {
           "key": "source:AB09676",
-          "why": "Attend to humility and supplication before oneness."
+          "why": "Attend to humility and supplication before oneness.",
+          "shortened": [
+            "This is Thy servant who hath bowed down before the King of Thy oneness, who hath humbled himself before the presence of Thy singleness, who hath believed in the Beauty of Thy uniqueness, and who hath supplicated the Kingdom of Thy self-subsistence."
+          ]
         },
         {
           "key": "source:AB10113",
-          "why": "Seek refuge and the attraction of holy fragrance."
+          "why": "Seek refuge and the attraction of holy fragrance.",
+          "shortened": [
+            "O our Lord! Send down upon this one who seeketh refuge at the gate of Thy oneness, from the outpourings of the heaven of Thy glorious unity, and attract him through the holy fragrances of Thy singleness."
+          ]
         },
         {
           "key": "source:AB11176",
@@ -650,23 +929,38 @@
         },
         {
           "key": "source:BH06688",
-          "why": "Let acknowledgment stand at mercy’s gate."
+          "why": "Let acknowledgment stand at mercy’s gate.",
+          "shortened": [
+            "Thus do I acknowledge Thy oneness and confess Thy singleness, submitting to Thy grandeur and Thy sovereignty, and standing before the gate of Thy mercy, turning toward Thy countenance after the passing of the people of Thy kingdom."
+          ]
         },
         {
           "key": "source:BH09869",
-          "why": "Preserve the prayer’s remembrance of steadfastness and martyrdom."
+          "why": "Preserve the prayer’s remembrance of steadfastness and martyrdom.",
+          "shortened": [
+            "I beseech Thee by Thy most exalted Self, and by Thy Most Great Sign, and by Thy Most Beautiful Names, to number me among the people of Thy paradise who have acknowledged Thy oneness and confessed Thy singleness and turned toward the direction of Thy mercy and remained steadfast in Thy remembrance until they were martyred in Thy path and sacrificed themselves in Thy love and good-pleasure."
+          ]
         },
         {
           "key": "source:BH10620",
-          "why": "Keep the appeal to raise remembered souls into divine good-pleasure."
+          "why": "Keep the appeal to raise remembered souls into divine good-pleasure.",
+          "shortened": [
+            "I call upon Thee by Thy Name through which Thou didst raise up the heavens upon the thread of Thine eternity and didst elevate the pavilions of the Cause upon the throne of the glory of Thine oneness, that Thou mayest send down upon those who have mentioned Thy Most Exalted Name and who have followed the path of Thy love in the realm below, and then raise them up, O my God, unto the stations of holiness in Thy presence, that they may dwell in Thy habitations and drink from the cup of Thy good-pleasure."
+          ]
         },
         {
           "key": "source:BH10846",
-          "why": "Imagine a servant becoming a temple of unity."
+          "why": "Imagine a servant becoming a temple of unity.",
+          "shortened": [
+            "I beseech Thee by the beauty of Thy countenance, through which the lights of Thy sun of pre-existence and the splendors of Thy moon of oneness have shone forth upon all created things, that Thou make Thy servant who hath believed in Thee one of the temples of Thy divine unity, and raise him to such a station that he may dwell in the precincts of Thy mercy and rest beneath the shade of Thy loving-kindness."
+          ]
         },
         {
           "key": "source:AB06306",
-          "why": "Ask for divine qualities and an enkindled heart."
+          "why": "Ask for divine qualities and an enkindled heart.",
+          "shortened": [
+            "O Lord! Aid Thy sincere servants to be endowed with the signs of Thy Divine nature and to be inflamed with the fire kindled in the Tree of Thy Oneness."
+          ]
         },
         {
           "key": "source:BH05074",
@@ -686,7 +980,10 @@
         },
         {
           "key": "source:AB04233",
-          "why": "Let the gathered community become a visible sign of oneness."
+          "why": "Let the gathered community become a visible sign of oneness.",
+          "shortened": [
+            "I beseech Thee by the dawn of Thy unity which has risen, appeared, shone forth and proclaimed the light of Thy oneness and the mystery of Thy detachment from all peers and likenesses, to unite the scattered members of this gathering beneath the shade of the tree of Thy oneness and to bring together the dispersed of this company under the word of Thy singleness, and make them a sign of Thy oneness, a token of Thy sovereignty, and a flame of Thy light, and a gleaming that has shone forth in the horizons of Thy kingdom."
+          ]
         },
         {
           "key": "source:BH01656",
@@ -698,7 +995,10 @@
         },
         {
           "key": "source:BH07539",
-          "why": "Keep the richly patterned birds and gardens as a devotional culmination."
+          "why": "Keep the richly patterned birds and gardens as a devotional culmination.",
+          "shortened": [
+            "Praise be to God that the King of power and might is seated upon the throne of glory, and the Sovereign of eternity is established in the realm of meeting, and the sweet-scented breezes of eternity are stirred from the left side of the Beloved's locks, and the fragrant musk of faithfulness wafts from the right side of the Intended One's hair, and the Bird of Light warbles upon the branches of the Tree of Sinai, and the Cock of Glorification sings in the gardens of Divine Unity."
+          ]
         },
         {
           "key": "source:BH10423",
@@ -726,7 +1026,11 @@
         },
         {
           "key": "selection:55375e3543014b51038d99e0",
-          "why": "Follow his fuller account of emanation and archetypes without equating it with every preceding text."
+          "why": "Follow his fuller account of emanation and archetypes without equating it with every preceding text.",
+          "shortened": [
+            "The creative movement, or, to use the technical terminology of wahdat al-wujud philosophy, the self-manifestation (tajalli) of the Absolute which is activated by the principle of love, emerges for the first time at the stage of ahadiyah and is called the 'most sacred Emanation' (Fayd-i-Aqdas). As the result of this Emanation, the stage of wahidiyah becomes established. The wahidiyah, is the ontological state at which the original absolute Oneness of the reality of existence appears with inner articulations. These inner articulations are called, in accordance with the traditional terminology of theology, divine Names and Attributes.",
+            "The essential Perfections of God that are thus established in divine Consciousness with clear demarcations are called the 'eternal Archetypes' (a`yan thabitah)."
+          ]
         },
         {
           "key": "selection:15ee0f5085f20f632dd642ac",

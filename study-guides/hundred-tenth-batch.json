@@ -311,12 +311,15 @@
           "dcbb88c962d18f6aa1470e77"
         ]
       },
-      "introduction": "How long can oppression endure, and what would it mean for every deed to be known? The prayers, warnings, letters, and recorded conversations gathered here approach divine justice through that urgent question. They speak with particular force against tyranny, persecution, deceit, and the misuse of power, while also asking the reader to become fair in judging both others and oneself. Within the Baha’i teachings represented here, accountability appears alongside the claims of mercy and grace: good is preserved, repentance matters, and the sufferings of children and unwilling victims cannot simply be read as evidence of guilt. Some passages describe wrath in vivid images of fire and overthrow; others explore it through moral consequences, estrangement, or the contrast between what is due and what is freely given. Their different forms, historical settings, and degrees of textual authority invite attentive comparison. The connected subjects on lamentation, persecution, trials, divine sovereignty, and the mystery of suffering widen an inquiry that no isolated warning can settle. The Qur’an’s assurance of justice joined to grace and Paul’s counsel about responding to an enemy offer further occasions to consider accountability and restraint. The sequence moves through the cry of the oppressed, the responsibilities of human institutions, the severity of judgment, and the hope that justice may restore a world in which mercy can flourish.",
+      "introduction": "The cry goes up from a prison and from a grave: how long will the oppressor be given respite, and will the murdered ever be avenged? Bahá’u’lláh answers that cry with a Name, the Just, breathed into all created things, and then turns the demand back on the one who utters it, asking each of us to judge ourselves and others without deviating by a hair’s breadth. Justice gives to each his due; grace gives without regard to worthiness, and mercy is said to run ahead of wrath. Yet the warnings are real: the tyrant’s refuge is temporary, every deed is weighed hair by hair, and thrones that seemed secure are overturned within living memory. The Qur’án promises that no good deed is lost and that God wrongs no one [1]; Paul asks the wronged to leave vengeance to God and feed a hungry enemy [2]. From here the path leads into the fate of those who persecute the Prophets, into the trials that test a soul, and into the mystery of why suffering falls on the innocent at all.",
       "arc": "The cry for justice → What fairness asks of us → Deeds have consequences → When power oppresses → The fall of those who seemed secure → Warnings that seek a response → The force of the repeated promise → Prayer under the weight of violence → Reading the language of wrath → Toward the restoration of justice",
       "order": [
         {
           "key": "source:AB12108",
-          "why": "Open with the urgent question of how long the oppressed must suffer, giving the subject its human stakes."
+          "why": "Open with the urgent question of how long the oppressed must suffer, giving the subject its human stakes.",
+          "shortened": [
+            "How long, O my God, wilt Thou leave the oppressed to be toyed with by the hands of the oppressors? How long, O my God, wilt Thou grant respite to the murderers and not take vengeance for the murdered? How long, O my God, wilt Thou be patient with these painful events, these deadly injustices, these tragic calamities and these grievous crimes? Has not the Hour drawn nigh, to be followed by the Catastrophe?"
+          ]
         },
         {
           "key": "source:BH00195",
@@ -324,11 +327,18 @@
         },
         {
           "key": "source:AB09502",
-          "why": "Distinguish giving each their due from grace bestowed beyond worthiness."
+          "why": "Distinguish giving each their due from grace bestowed beyond worthiness.",
+          "shortened": [
+            "O Manifestation of Grace!",
+            "Justice is to give to each one his due, while grace is bestowal without regard to capacity or worthiness."
+          ]
         },
         {
           "key": "source:BH02283",
-          "why": "Introduce the claim that mercy precedes wrath before the long inquiry into judgment."
+          "why": "Introduce the claim that mercy precedes wrath before the long inquiry into judgment.",
+          "shortened": [
+            "O Lord! Thy mercy hath preceded Thy wrath, Thy loving-kindness Thy fury, and Thy grace Thy justice."
+          ]
         },
         {
           "key": "source:BH00009",
@@ -336,7 +346,10 @@
         },
         {
           "key": "source:BH04420",
-          "why": "Begin with the sufferer’s question, then turn the demand for justice toward oneself and introduce the distinction between what is due and what is freely given."
+          "why": "Begin with the sufferer’s question, then turn the demand for justice toward oneself and introduce the distinction between what is due and what is freely given.",
+          "shortened": [
+            "O Lord! The fire of tyranny hath been kindled in the world - where is the light of Thy justice, O Ancient King?"
+          ]
         },
         {
           "key": "source:BH05892",
@@ -352,11 +365,17 @@
         },
         {
           "key": "source:ABU0453",
-          "why": "Let a reported statement on differing capacities complicate easy judgments of personal responsibility."
+          "why": "Let a reported statement on differing capacities complicate easy judgments of personal responsibility.",
+          "shortened": [
+            "What we should do lies between what we will do and what we must do, and God, the Lord, in His eternal Justice, can alone weigh and evaluate the responsibility of our free will versus the compulsion of heredity and instinct. From him to whom the Lord has given much in his cradle, will He require much later.\""
+          ]
         },
         {
           "key": "source:ABU1901",
-          "why": "Restore the question and complete reply about those killed unwillingly in war; suffering is not treated here as proof of guilt."
+          "why": "Restore the question and complete reply about those killed unwillingly in war; suffering is not treated here as proof of guilt.",
+          "shortened": [
+            "As they suffered in the world and were treated unjustly and thus died unwillingly, therefore God will have mercy and forgive their shortcomings and will reward them. He will compensate them for loss. Is it just to be so afflicted and killed and suffer and have no reward? This is contrary to the Kingdom of God. We supplicate God that these murdered ones will become and stay alive in His Kingdom and be submerged in the sea of His mercy and be happy.\""
+          ]
         },
         {
           "key": "source:ABU3593",
@@ -364,11 +383,17 @@
         },
         {
           "key": "source:BH06079",
-          "why": "Give the inquiry concrete objects: rights, education, impartial judgment, accountable government, and care for those without power."
+          "why": "Give the inquiry concrete objects: rights, education, impartial judgment, accountable government, and care for those without power.",
+          "shortened": [
+            "We enjoined upon all men to be just and fair-minded and to fear God, the Lord of the worlds."
+          ]
         },
         {
           "key": "source:BH01517",
-          "why": "Give the inquiry concrete objects: rights, education, impartial judgment, accountable government, and care for those without power."
+          "why": "Give the inquiry concrete objects: rights, education, impartial judgment, accountable government, and care for those without power.",
+          "shortened": [
+            "The glory of existence lieth in justice, not in oppression. At present, falsehood and vainglory have prevented the world and its peoples from turning to the Truth. Soon shall come a day wherein God will raise up His patient and beneficent servants."
+          ]
         },
         {
           "key": "source:AB00335",
@@ -384,11 +409,17 @@
         },
         {
           "key": "source:AB03494",
-          "why": "Make clear that the warning concerns the duty to educate children."
+          "why": "Make clear that the warning concerns the duty to educate children.",
+          "shortened": [
+            "This is one of the stringent and inescapable commandments to neglect which would draw down the wrathful indignation of Almighty God."
+          ]
         },
         {
           "key": "source:BH02503",
-          "why": "Give the inquiry concrete objects: rights, education, impartial judgment, accountable government, and care for those without power."
+          "why": "Give the inquiry concrete objects: rights, education, impartial judgment, accountable government, and care for those without power.",
+          "shortened": [
+            "O concourse of rulers! Turn unto the poor; verily God hath created them and you from the selfsame substance. Let a portion of your wealth be shared by them. This is that which will profit you throughout all times and ages. Bestow a part of that which God in His grace bath given you; for thereby will your wealth be increased...."
+          ]
         },
         {
           "key": "source:BH11720",
@@ -396,7 +427,10 @@
         },
         {
           "key": "source:BH05999",
-          "why": "Give the inquiry concrete objects: rights, education, impartial judgment, accountable government, and care for those without power."
+          "why": "Give the inquiry concrete objects: rights, education, impartial judgment, accountable government, and care for those without power.",
+          "shortened": [
+            "In truth, in these days His Majesty Sultan Abdul-Hamid Khan--may the All-Merciful strengthen him--is established upon the throne of justice. In his reign, oppression hath no place and tyranny no splendor. His sovereignty hath excelled in justice and beneficence."
+          ]
         },
         {
           "key": "source:BH11735",
@@ -412,7 +446,10 @@
         },
         {
           "key": "source:ABU1145",
-          "why": "Give the inquiry concrete objects: rights, education, impartial judgment, accountable government, and care for those without power."
+          "why": "Give the inquiry concrete objects: rights, education, impartial judgment, accountable government, and care for those without power.",
+          "shortened": [
+            "This would not however be an unjust coercion. Such is that exercised by Turkey on the Russian government in the past, but a just coercion in the interest of the people themselves and to prevent disorder and chaos."
+          ]
         },
         {
           "key": "source:ABU0261",
@@ -420,19 +457,31 @@
         },
         {
           "key": "source:AB01357",
-          "why": "Give the inquiry concrete objects: rights, education, impartial judgment, accountable government, and care for those without power."
+          "why": "Give the inquiry concrete objects: rights, education, impartial judgment, accountable government, and care for those without power.",
+          "shortened": [
+            "However, the just government must discipline and admonish the heedless souls, and to the extent possible carry out retribution, so that others may not show audacity or seek aggression, and like predatory wolves and biting dogs not stain their fangs and teeth with the blood of the spiritual ones."
+          ]
         },
         {
           "key": "source:ABU1426",
-          "why": "Keep the specific water-supply incident and its preceding dialogue, rather than offering its final response as a general maxim."
+          "why": "Keep the specific water-supply incident and its preceding dialogue, rather than offering its final response as a general maxim.",
+          "shortened": [
+            "I said: \"Then we have been remiss in our duty toward you. Friends, seize him!\" He received a thorough beating. He immediately went to the governor to complain. When the governor heard the details, he too cursed at him. From then on, the pool was always full. Such is the nature of people."
+          ]
         },
         {
           "key": "source:ABU0884",
-          "why": "Keep the entire reported anecdote so one character’s claim about fairness is not isolated as a universal rule."
+          "why": "Keep the entire reported anecdote so one character’s claim about fairness is not isolated as a universal rule.",
+          "shortened": [
+            "Mu'ayth said, \"Until the warriors return from the battlefield, it would be far from justice and fairness to give you dates.\""
+          ]
         },
         {
           "key": "source:ABU2166",
-          "why": "Give the inquiry concrete objects: rights, education, impartial judgment, accountable government, and care for those without power."
+          "why": "Give the inquiry concrete objects: rights, education, impartial judgment, accountable government, and care for those without power.",
+          "shortened": [
+            "Consider how fortunate was the life he lived as a result of his justice and fairness, and how doomed were the fates of those who practised tyranny and oppression. How high was his rank, and how low the estates of Mirza aqa Khan and Mirza Taqi Khan!'"
+          ]
         },
         {
           "key": "source:BH01710",
@@ -440,7 +489,10 @@
         },
         {
           "key": "source:BH03233",
-          "why": "Give the inquiry concrete objects: rights, education, impartial judgment, accountable government, and care for those without power."
+          "why": "Give the inquiry concrete objects: rights, education, impartial judgment, accountable government, and care for those without power.",
+          "shortened": [
+            "Fear God, O people, and spread not corruption in the land after its reformation, and cast not the ways of God behind your backs, and be not of those who forsake them."
+          ]
         },
         {
           "key": "source:BH05766",
@@ -448,11 +500,17 @@
         },
         {
           "key": "source:BH10321",
-          "why": "Give the inquiry concrete objects: rights, education, impartial judgment, accountable government, and care for those without power."
+          "why": "Give the inquiry concrete objects: rights, education, impartial judgment, accountable government, and care for those without power.",
+          "shortened": [
+            "Glory be unto him who hath shown justice in the Cause of God, the Lord of what was and what shall be."
+          ]
         },
         {
           "key": "source:BH08533",
-          "why": "Give the inquiry concrete objects: rights, education, impartial judgment, accountable government, and care for those without power."
+          "why": "Give the inquiry concrete objects: rights, education, impartial judgment, accountable government, and care for those without power.",
+          "shortened": [
+            "The justice of this Wronged One hath shone forth even as the sun from the horizon of equity."
+          ]
         },
         {
           "key": "source:BH09567",
@@ -464,11 +522,17 @@
         },
         {
           "key": "source:BH01646",
-          "why": "Give the inquiry concrete objects: rights, education, impartial judgment, accountable government, and care for those without power."
+          "why": "Give the inquiry concrete objects: rights, education, impartial judgment, accountable government, and care for those without power.",
+          "shortened": [
+            "Soon shall they behold the recompense of their deeds in this vain life, for divine justice and heavenly wisdom will not forgo reward and punishment, and upon these two depend the order of the world and the tranquility of nations."
+          ]
         },
         {
           "key": "source:BH11701",
-          "why": "Give the inquiry concrete objects: rights, education, impartial judgment, accountable government, and care for those without power."
+          "why": "Give the inquiry concrete objects: rights, education, impartial judgment, accountable government, and care for those without power.",
+          "shortened": [
+            "Repeatedly from the Tongue of Grandeur hath flowed this exalted word - blessed and exalted be His utterance: \"The tabernacle of order in the world is upheld by two pillars: reward and punishment.\" Assuredly the reward of the friends and the punishment of the enemies will become manifest and evident."
+          ]
         },
         {
           "key": "source:BH00038",
@@ -492,7 +556,10 @@
         },
         {
           "key": "source:BH07900",
-          "why": "Move from public standards to personal responsibility, remorse, and effects that reach beyond the person who acts, keeping the questions and reported examples in view."
+          "why": "Move from public standards to personal responsibility, remorse, and effects that reach beyond the person who acts, keeping the questions and reported examples in view.",
+          "shortened": [
+            "Doth the wrongdoer think he hath profited? Nay, by My Self! Soon shall punishment seize him from every direction."
+          ]
         },
         {
           "key": "source:BH06444",
@@ -500,7 +567,10 @@
         },
         {
           "key": "source:BH06538",
-          "why": "Move from public standards to personal responsibility, remorse, and effects that reach beyond the person who acts, keeping the questions and reported examples in view."
+          "why": "Move from public standards to personal responsibility, remorse, and effects that reach beyond the person who acts, keeping the questions and reported examples in view.",
+          "shortened": [
+            "He is the All-Knowing, the All-Seeing, and for every deed He has ordained a recompense."
+          ]
         },
         {
           "key": "source:BH01806",
@@ -508,27 +578,46 @@
         },
         {
           "key": "source:BH05618",
-          "why": "Move from public standards to personal responsibility, remorse, and effects that reach beyond the person who acts, keeping the questions and reported examples in view."
+          "why": "Move from public standards to personal responsibility, remorse, and effects that reach beyond the person who acts, keeping the questions and reported examples in view.",
+          "shortened": [
+            "Soon shall they behold the recompense of their calumnies from the presence of the Just, the Equitable, the Wise One."
+          ]
         },
         {
           "key": "source:BH02207",
-          "why": "Move from public standards to personal responsibility, remorse, and effects that reach beyond the person who acts, keeping the questions and reported examples in view."
+          "why": "Move from public standards to personal responsibility, remorse, and effects that reach beyond the person who acts, keeping the questions and reported examples in view.",
+          "shortened": [
+            "Soon shall the recompense of your deeds encompass you, and ye shall wail and lament and find no helper, for ye have become deserving of divine wrath. The hand of justice is manifest and evident, and hath not and will not overlook the oppression of the oppressors."
+          ]
         },
         {
           "key": "source:ABU2202",
-          "why": "Restore the question about generations and its Answer before the reported examples; retain the period’s language as source material."
+          "why": "Restore the question about generations and its Answer before the reported examples; retain the period’s language as source material.",
+          "shortened": [
+            "For example, if a man does a great injustice to another in his life, then, after his death, his son will be despised for having had such a father, and in some cases the injury might also be so serious that the effect would reach to the grandson, etc., or a man may, by wrong living, fall into consumption and give that disease to his children unto the third or fourth generation.",
+            "Both physically and mentally, the sins of the fathers may be visited upon the children."
+          ]
         },
         {
           "key": "source:ABU1862",
-          "why": "Move from public standards to personal responsibility, remorse, and effects that reach beyond the person who acts, keeping the questions and reported examples in view."
+          "why": "Move from public standards to personal responsibility, remorse, and effects that reach beyond the person who acts, keeping the questions and reported examples in view.",
+          "shortened": [
+            "The reference of the words of the Old Testament An eye for an eye and a tooth for a tooth' is double: it refers, first, to the balance which is preserved by human law, that there may be a check to evil-doing; and, second, to the inevitable retribution which will fall upon each individual during his life, or upon the race after his death, for his evil acts."
+          ]
         },
         {
           "key": "source:ABU3087",
-          "why": "Move from public standards to personal responsibility, remorse, and effects that reach beyond the person who acts, keeping the questions and reported examples in view."
+          "why": "Move from public standards to personal responsibility, remorse, and effects that reach beyond the person who acts, keeping the questions and reported examples in view.",
+          "shortened": [
+            "Our Lord said: By the Justice and judgment of God those who commit evil suffer and are punished for it and eternal punishment is merited by these evil-doers."
+          ]
         },
         {
           "key": "source:ABU2114",
-          "why": "Restore the explicit question and full recorded account of wrath as causality."
+          "why": "Restore the explicit question and full recorded account of wrath as causality.",
+          "shortened": [
+            "You ask: \"What then is the wrath of God?\" The wrath of God is the erroneous designation for logic, causality, in brief, the justice of God. If we ignore God, He will ignore us and subject us to His unchangeable laws of nature; if we avoid Him, He will retreat from our lives. He, the Creator, lets His Sun rise over the just (those loving God) and the unjust (those far from God), but the first have the dew of His blessing, the latter shiver under the mildew of His curse!"
+          ]
         },
         {
           "key": "source:BB00277",
@@ -540,11 +629,17 @@
         },
         {
           "key": "source:BH00380",
-          "why": "Move from public standards to personal responsibility, remorse, and effects that reach beyond the person who acts, keeping the questions and reported examples in view."
+          "why": "Move from public standards to personal responsibility, remorse, and effects that reach beyond the person who acts, keeping the questions and reported examples in view.",
+          "shortened": [
+            "Having affirmed this, we say: How can existence be brought into being except in accordance with acceptance and acquiescence? For the matter resolves to one of four possibilities: either compelling all to obedience, or compelling all to disobedience, or compelling some to obedience and others to disobedience, or giving each its due according to the capacities of contingent beings."
+          ]
         },
         {
           "key": "source:ABU2689",
-          "why": "Move from public standards to personal responsibility, remorse, and effects that reach beyond the person who acts, keeping the questions and reported examples in view."
+          "why": "Move from public standards to personal responsibility, remorse, and effects that reach beyond the person who acts, keeping the questions and reported examples in view.",
+          "shortened": [
+            "All are created in the same station by the Justice of God, but if some of these have become prophets and some teachers, this is from the favours and bounty of God.\""
+          ]
         },
         {
           "key": "source:ABU2188",
@@ -552,11 +647,17 @@
         },
         {
           "key": "source:ABU0414",
-          "why": "Move from public standards to personal responsibility, remorse, and effects that reach beyond the person who acts, keeping the questions and reported examples in view."
+          "why": "Move from public standards to personal responsibility, remorse, and effects that reach beyond the person who acts, keeping the questions and reported examples in view.",
+          "shortened": [
+            "'Has the Lord God foreseen that this human being will not let himself be saved, or has He, for reasons inscrutable to us, let him be ensnared from the begin-ning in folly and delusion?' But as the Lord God is not only the Almighty, but also the All-Merciful - for true might and power are always paired with kind-ness and goodness - and is at the same time the Just and the Avenger, we lowly creatures have to bow to His inscrutable decree and believe that the Potter in His absolute wisdom and goodness, in His justice and truth, creates, changes and completes everything to the best for the individual and for the whole -even where our own understanding and comprehension largely fail."
+          ]
         },
         {
           "key": "source:BH02294",
-          "why": "Move from public standards to personal responsibility, remorse, and effects that reach beyond the person who acts, keeping the questions and reported examples in view."
+          "why": "Move from public standards to personal responsibility, remorse, and effects that reach beyond the person who acts, keeping the questions and reported examples in view.",
+          "shortened": [
+            "Were the mysteries, that are known to none except God, to be unraveled, the whole of mankind would witness the evidences of perfect and consummate justice. With a certitude that none can question, all men would cleave to His commandments, and would scrupulously observe them."
+          ]
         },
         {
           "key": "source:BH01685",
@@ -572,19 +673,31 @@
         },
         {
           "key": "source:BH09525",
-          "why": "Move from public standards to personal responsibility, remorse, and effects that reach beyond the person who acts, keeping the questions and reported examples in view."
+          "why": "Move from public standards to personal responsibility, remorse, and effects that reach beyond the person who acts, keeping the questions and reported examples in view.",
+          "shortened": [
+            "Verily it judgeth between the servants with pure justice, and it is indeed the Judge from God, the Mighty, the Praised."
+          ]
         },
         {
           "key": "source:BB00465",
-          "why": "Move from public standards to personal responsibility, remorse, and effects that reach beyond the person who acts, keeping the questions and reported examples in view."
+          "why": "Move from public standards to personal responsibility, remorse, and effects that reach beyond the person who acts, keeping the questions and reported examples in view.",
+          "shortened": [
+            "Say: My Lord knoweth whatsoever is in the heavens and whatsoever is on earth. There is no God but Him. He shall judge between all with justice on the Day of Resurrection, and not an atom's weight of injustice shall be done this Day, and all shall be questioned concerning the Cause of God."
+          ]
         },
         {
           "key": "source:BB00430",
-          "why": "Move from public standards to personal responsibility, remorse, and effects that reach beyond the person who acts, keeping the questions and reported examples in view."
+          "why": "Move from public standards to personal responsibility, remorse, and effects that reach beyond the person who acts, keeping the questions and reported examples in view.",
+          "shortened": [
+            "Verily He knoweth whatsoever is in the heavens and whatsoever is on earth, and He judgeth between all with justice concerning that wherein they differ."
+          ]
         },
         {
           "key": "source:BB00516",
-          "why": "Move from public standards to personal responsibility, remorse, and effects that reach beyond the person who acts, keeping the questions and reported examples in view."
+          "why": "Move from public standards to personal responsibility, remorse, and effects that reach beyond the person who acts, keeping the questions and reported examples in view.",
+          "shortened": [
+            "Verily thy Lord will judge between all with justice on the Day of Resurrection, and there shall be no injustice on that Day, and all shall be brought before Us."
+          ]
         },
         {
           "key": "source:BB00399",
@@ -592,7 +705,10 @@
         },
         {
           "key": "source:BB00448",
-          "why": "Move from public standards to personal responsibility, remorse, and effects that reach beyond the person who acts, keeping the questions and reported examples in view."
+          "why": "Move from public standards to personal responsibility, remorse, and effects that reach beyond the person who acts, keeping the questions and reported examples in view.",
+          "shortened": [
+            "He is the One Who standeth by His Cause, Who recompenseth every soul for what it hath earned - there is no God but Him, the All-Powerful, the Everlasting. His is the right to question those who are in the heavens and earth, and all shall be tested by Him."
+          ]
         },
         {
           "key": "source:BB00454",
@@ -600,7 +716,10 @@
         },
         {
           "key": "source:BH00021",
-          "why": "Read the warnings against tyranny within accounts of imprisonment, violence, persecution, and the suffering of others; the language of judgment answers those injuries."
+          "why": "Read the warnings against tyranny within accounts of imprisonment, violence, persecution, and the suffering of others; the language of judgment answers those injuries.",
+          "shortened": [
+            "Say: Wait ye till God will have changed His favour unto you. Nothing whatsoever escapeth Him. He knoweth the secrets both of the heavens and of the earth. His knowledge embraceth all things. Rejoice not in what ye have done, or will do in the future, nor delight in the tribulation with which ye have afflicted Us, for ye are unable by such means as these to exalt your stations, were ye to examine your works with acute discernment."
+          ]
         },
         {
           "key": "source:BH00192",
@@ -616,7 +735,10 @@
         },
         {
           "key": "source:BH09690",
-          "why": "Read the warnings against tyranny within accounts of imprisonment, violence, persecution, and the suffering of others; the language of judgment answers those injuries."
+          "why": "Read the warnings against tyranny within accounts of imprisonment, violence, persecution, and the suffering of others; the language of judgment answers those injuries.",
+          "shortened": [
+            "Such oppression hath appeared as hath caused the liver of justice to melt. To this beareth witness the Lord of the unseen and the seen."
+          ]
         },
         {
           "key": "source:BH06844",
@@ -624,7 +746,10 @@
         },
         {
           "key": "source:BH08591",
-          "why": "Read the warnings against tyranny within accounts of imprisonment, violence, persecution, and the suffering of others; the language of judgment answers those injuries."
+          "why": "Read the warnings against tyranny within accounts of imprisonment, violence, persecution, and the suffering of others; the language of judgment answers those injuries.",
+          "shortened": [
+            "O Muhammad-Quli! The world hath been encompassed by tyranny, and the clouds of hatred have prevented the lights of the Sun of Justice from shining forth."
+          ]
         },
         {
           "key": "source:BH02876",
@@ -652,7 +777,10 @@
         },
         {
           "key": "source:ABU1669",
-          "why": "Read the warnings against tyranny within accounts of imprisonment, violence, persecution, and the suffering of others; the language of judgment answers those injuries."
+          "why": "Read the warnings against tyranny within accounts of imprisonment, violence, persecution, and the suffering of others; the language of judgment answers those injuries.",
+          "shortened": [
+            "Then, he readily puts thousands upon thousands of them to the sword's blade. It takes twenty years for a person to grow to maturity and full strength, but in an instant, these people massacre tens of thousands of men and allow them to perish. How many cities are thoroughly destroyed, how many villages are reduced to heaps of dust, how much blood reddens the soil and how immense are the properties that are plundered and wrecked! And yet, there is no benefit in any of this!"
+          ]
         },
         {
           "key": "source:ABU1979",
@@ -660,11 +788,17 @@
         },
         {
           "key": "source:ABU0426",
-          "why": "Read the warnings against tyranny within accounts of imprisonment, violence, persecution, and the suffering of others; the language of judgment answers those injuries."
+          "why": "Read the warnings against tyranny within accounts of imprisonment, violence, persecution, and the suffering of others; the language of judgment answers those injuries.",
+          "shortened": [
+            "How wilt thou answer the moaning and the lamentations of women before the throne of the Almighty on the Judgment Day? Yea, yea, what wilt thou say? Dost thou dare to plea[d] not guilty before the Supreme Judge who seest the secrets of the heart[?]"
+          ]
         },
         {
           "key": "source:ABU1860",
-          "why": "Include the newspaper-story framing of competing wartime prayers and the reported conclusion."
+          "why": "Include the newspaper-story framing of competing wartime prayers and the reported conclusion.",
+          "shortened": [
+            "After listening to their arguments they were astonished and silenced when the heavenly Judge arose from His imperial seat and proclaimed His \"Neutrality."
+          ]
         },
         {
           "key": "source:BB00136",
@@ -680,15 +814,26 @@
         },
         {
           "key": "source:BB00074",
-          "why": "Read the warnings against tyranny within accounts of imprisonment, violence, persecution, and the suffering of others; the language of judgment answers those injuries."
+          "why": "Read the warnings against tyranny within accounts of imprisonment, violence, persecution, and the suffering of others; the language of judgment answers those injuries.",
+          "shortened": [
+            "By reason of the loftiness of His wrath and the greatness of His displeasure, He sent forth Muhammad - peace be upon him and his family - from the innermost heart of eternity unto all nations, distinct from any similitude among the children of his kind. He made him the manifestation of His justice and His overwhelming power, then of His grace and His almighty sovereignty."
+          ]
         },
         {
           "key": "source:BB00003",
-          "why": "Read the warnings against tyranny within accounts of imprisonment, violence, persecution, and the suffering of others; the language of judgment answers those injuries."
+          "why": "Read the warnings against tyranny within accounts of imprisonment, violence, persecution, and the suffering of others; the language of judgment answers those injuries.",
+          "shortened": [
+            "Say: God will assuredly take vengeance on them that act with tyranny in the earth to the extent of a mustard seed, and He will take vengeance on them by His command - He is mighty and severe.",
+            "Say: Nothing can frustrate God from hastening your destruction, yet He granteth you respite that He may intensify your fire. Then will He seize you by His command. Verily He hath power over all things."
+          ]
         },
         {
           "key": "source:BB00002",
-          "why": "Read the warnings against tyranny within accounts of imprisonment, violence, persecution, and the suffering of others; the language of judgment answers those injuries."
+          "why": "Read the warnings against tyranny within accounts of imprisonment, violence, persecution, and the suffering of others; the language of judgment answers those injuries.",
+          "shortened": [
+            "And your Lord, the All-Merciful, is never in the least unjust to His servants.",
+            "If you do good, you do good for your own souls -- this is the truth that exists from God your Lord upon the paths of the Gate around the water. And if you do evil, you do it against yourselves -- this decree from you is inscribed in the Mother Book around the fire."
+          ]
         },
         {
           "key": "source:BH00416",
@@ -696,11 +841,18 @@
         },
         {
           "key": "source:BB00103",
-          "why": "Read the warnings against tyranny within accounts of imprisonment, violence, persecution, and the suffering of others; the language of judgment answers those injuries."
+          "why": "Read the warnings against tyranny within accounts of imprisonment, violence, persecution, and the suffering of others; the language of judgment answers those injuries.",
+          "shortened": [
+            "Thou hast admitted to the Ridvan those who believe in Thy unity, having bestowed upon them glory and immortality. And Thou hast destroyed those who believe not in Thy unity and cast them into the fire for what their hands have wrought. Thy sign admits of no doubt. Who is mightier than Thee in punishment, and greater than Thee in prowess? Such is Thy punishment for him who believeth not in Thee, whom Thou cursest along with all things, even their own souls, by names before them until the Day of Resurrection."
+          ]
         },
         {
           "key": "source:BB00086",
-          "why": "Read the warnings against tyranny within accounts of imprisonment, violence, persecution, and the suffering of others; the language of judgment answers those injuries."
+          "why": "Read the warnings against tyranny within accounts of imprisonment, violence, persecution, and the suffering of others; the language of judgment answers those injuries.",
+          "shortened": [
+            "Therefore, O my God, at this time do Thou chastise all Thine enemies, and the enemies of Thy Beloved, and the enemies of the Manifestations of Thyself, and the enemies of those who claim relationship to Thee.",
+            "Seize them, O my God, through Thy might with a mighty seizure, for verily Thou art the All-Powerful, the Almighty. Chastise them, O my God, through Thy power with a great chastisement, for verily Thou art most severe in punishment and in retribution."
+          ]
         },
         {
           "key": "source:BB00179",
@@ -708,11 +860,17 @@
         },
         {
           "key": "source:BB00329",
-          "why": "Read the warnings against tyranny within accounts of imprisonment, violence, persecution, and the suffering of others; the language of judgment answers those injuries."
+          "why": "Read the warnings against tyranny within accounts of imprisonment, violence, persecution, and the suffering of others; the language of judgment answers those injuries.",
+          "shortened": [
+            "God shall take vengeance upon those who observed not God's command concerning Thee and showed no shame before Thy countenance. He is most severe in might and punishment."
+          ]
         },
         {
           "key": "source:BB00233",
-          "why": "Read the warnings against tyranny within accounts of imprisonment, violence, persecution, and the suffering of others; the language of judgment answers those injuries."
+          "why": "Read the warnings against tyranny within accounts of imprisonment, violence, persecution, and the suffering of others; the language of judgment answers those injuries.",
+          "shortened": [
+            "Sufficient unto them is what they have earned regarding thee, and God will take vengeance upon them through the sovereignty of His overwhelming power, and the dominion of His almightiness, and the might of His everlastingness, and the independence of His glorification, and the enjoyment of His grandeur. For He is the All-Powerful, the Mighty in Punishment, the All-Compelling, the Overwhelming, the Manifest, the All-Prevailing, the Triumphant, the All-Conquering, the Wrathful, the Avenger."
+          ]
         },
         {
           "key": "source:BB00666",
@@ -720,7 +878,10 @@
         },
         {
           "key": "source:BB00129",
-          "why": "Read the warnings against tyranny within accounts of imprisonment, violence, persecution, and the suffering of others; the language of judgment answers those injuries."
+          "why": "Read the warnings against tyranny within accounts of imprisonment, violence, persecution, and the suffering of others; the language of judgment answers those injuries.",
+          "shortened": [
+            "And verily He is the Almighty Who shall assuredly take vengeance upon those who believe not in God and His signs, and who have caused even an atom's weight of sorrow unto them that have believed in God and His signs. Verily He was ever possessed of immense power."
+          ]
         },
         {
           "key": "source:BH00641",
@@ -728,11 +889,18 @@
         },
         {
           "key": "source:BH00392",
-          "why": "Read the warnings against tyranny within accounts of imprisonment, violence, persecution, and the suffering of others; the language of judgment answers those injuries."
+          "why": "Read the warnings against tyranny within accounts of imprisonment, violence, persecution, and the suffering of others; the language of judgment answers those injuries.",
+          "shortened": [
+            "Forty days after the martyrdom of those two noble ones - on their fortieth day - the manifest Ruler seized the Imam of the ungodly through His power with an abasement beyond which none can be conceived. The Causer of causes thereafter brought about circumstances that led to complete discord between him and the governor, who is the son of the sovereign."
+          ]
         },
         {
           "key": "source:BH02842",
-          "why": "Read the warnings against tyranny within accounts of imprisonment, violence, persecution, and the suffering of others; the language of judgment answers those injuries."
+          "why": "Read the warnings against tyranny within accounts of imprisonment, violence, persecution, and the suffering of others; the language of judgment answers those injuries.",
+          "shortened": [
+            "Verily He has seized him who oppressed - thy Lord is indeed the Mighty, the Powerful.",
+            "However, the traces of the blood of those wronged ones shall appear in the earth. Although that oppressor who arose to deny this Cause was seized, yet this much does not suffice and will not suffice."
+          ]
         },
         {
           "key": "source:AB02356",
@@ -740,19 +908,31 @@
         },
         {
           "key": "source:BH05976",
-          "why": "Read the warnings against tyranny within accounts of imprisonment, violence, persecution, and the suffering of others; the language of judgment answers those injuries."
+          "why": "Read the warnings against tyranny within accounts of imprisonment, violence, persecution, and the suffering of others; the language of judgment answers those injuries.",
+          "shortened": [
+            "But as for him who sowed corruption and killed - verily he hath met the recompense of his deeds, for by his action were troubled the hearts of them that profess the unity of God."
+          ]
         },
         {
           "key": "source:AB04722",
-          "why": "Read the warnings against tyranny within accounts of imprisonment, violence, persecution, and the suffering of others; the language of judgment answers those injuries."
+          "why": "Read the warnings against tyranny within accounts of imprisonment, violence, persecution, and the suffering of others; the language of judgment answers those injuries.",
+          "shortened": [
+            "That person imagines that matters will remain thus, not knowing that oppression and tyranny uproot foundations and ultimately no trace of the foolish shall remain. \"For him who is slain unjustly, We have indeed given authority to his heir.\""
+          ]
         },
         {
           "key": "source:AB02773",
-          "why": "Read the warnings against tyranny within accounts of imprisonment, violence, persecution, and the suffering of others; the language of judgment answers those injuries."
+          "why": "Read the warnings against tyranny within accounts of imprisonment, violence, persecution, and the suffering of others; the language of judgment answers those injuries.",
+          "shortened": [
+            "Observe how they treat each other and how they stain their mouths and teeth with each other's blood, showing not a trace of justice but rather pursuing the path of oppression."
+          ]
         },
         {
           "key": "source:AB00071",
-          "why": "Read the warnings against tyranny within accounts of imprisonment, violence, persecution, and the suffering of others; the language of judgment answers those injuries."
+          "why": "Read the warnings against tyranny within accounts of imprisonment, violence, persecution, and the suffering of others; the language of judgment answers those injuries.",
+          "shortened": [
+            "This turmoil, this torment, and this punishment are the consequences of those misdeeds. The Jews beheaded John the Baptist, and after forty years God raised up Titus the Roman, and the land of Palestine was stained with the blood of the slain. Now, if the people of Tabriz shed each other's blood, be not surprised. This is the recompense for those deeds."
+          ]
         },
         {
           "key": "source:ABU0443",
@@ -768,7 +948,14 @@
         },
         {
           "key": "source:BH01494",
-          "why": "Keep the reply with its preceding accusation and carry the long quoted speech to its close."
+          "why": "Keep the reply with its preceding accusation and carry the long quoted speech to its close.",
+          "shortened": [
+            "He made reply: \"I held command over the people, and here is the mandate of my authority.\"",
+            "\"Hold thy peace, O denier of the Day of Judgement!\"",
+            "He implored: \"Is no respite possible so that I may send for my family?\"",
+            "\"Far from it, O disbeliever in the verses of God!\"",
+            "Thereupon the keepers of the fathomless abyss called unto him: \"The gates of Hell have opened wide to receive thee, O thou who hast turned away from thy Lord, the Unconstrained! Repair unto its fire, for it yearneth after thee."
+          ]
         },
         {
           "key": "source:BH03337",
@@ -780,11 +967,17 @@
         },
         {
           "key": "source:BB00147",
-          "why": "Follow the historical narratives and images of overturned power, reading their named and dated circumstances before the more general warnings that follow."
+          "why": "Follow the historical narratives and images of overturned power, reading their named and dated circumstances before the more general warnings that follow.",
+          "shortened": [
+            "Verily Thou art most severe in punishment and most exemplary in retribution. And how many servants have possessed the east of the earth and its west, yet today none remembereth them save to curse them if they are remembered, or else Thou hast elevated their mention as though they had no mention. Thus dost Thou cause the Tree of Negation to perish, even as Thou hast promised unto Thyself."
+          ]
         },
         {
           "key": "source:BH01441",
-          "why": "Follow the historical narratives and images of overturned power, reading their named and dated circumstances before the more general warnings that follow."
+          "why": "Follow the historical narratives and images of overturned power, reading their named and dated circumstances before the more general warnings that follow.",
+          "shortened": [
+            "O thou who gazest upon the Countenance! Observe how the Hand of Divine Power hath seized nearly one million souls in retribution for their deeds and consigned them to a most wretched destination. How many princes and ministers, together with their kings and rulers, were returned to the fire."
+          ]
         },
         {
           "key": "source:BH01490",
@@ -800,7 +993,10 @@
         },
         {
           "key": "source:ABU1415",
-          "why": "Follow the historical narratives and images of overturned power, reading their named and dated circumstances before the more general warnings that follow."
+          "why": "Follow the historical narratives and images of overturned power, reading their named and dated circumstances before the more general warnings that follow.",
+          "shortened": [
+            "Because of your arrogance, God will shortly destroy your sovereignty and a revolution shall be set up in that kingdom, and the reins of government shall be taken from your hands, and in the utmost of debasement and degradation will you be cast, and now surely I see you in degradation."
+          ]
         },
         {
           "key": "source:ABU0224",
@@ -808,7 +1004,10 @@
         },
         {
           "key": "source:BH00465",
-          "why": "Follow the historical narratives and images of overturned power, reading their named and dated circumstances before the more general warnings that follow."
+          "why": "Follow the historical narratives and images of overturned power, reading their named and dated circumstances before the more general warnings that follow.",
+          "shortened": [
+            "When he exceeded all bounds, divine justice seized him and the other officials who were his partners and confederates - the seizure of One mighty and powerful. In brief, through two days of authority he prepared for himself eternal retribution."
+          ]
         },
         {
           "key": "source:BH01927",
@@ -816,7 +1015,12 @@
         },
         {
           "key": "source:BH04533",
-          "why": "Retain the express prohibition on bloodshed before the quoted cry for vengeance and its described restraint."
+          "why": "Retain the express prohibition on bloodshed before the quoted cry for vengeance and its described restraint.",
+          "shortened": [
+            "Where are the swords of Thy vengeance, O Destroyer of the worlds?\"",
+            "Therefore We took hold of the reins of wrath with a sovereignty from Our presence.",
+            "The angels of divine wrath suddenly seized them and made them a lesson to the worlds. May the All-Merciful not have mercy on their graves!"
+          ]
         },
         {
           "key": "source:BH00897",
@@ -828,7 +1032,10 @@
         },
         {
           "key": "source:BH06927",
-          "why": "Follow the historical narratives and images of overturned power, reading their named and dated circumstances before the more general warnings that follow."
+          "why": "Follow the historical narratives and images of overturned power, reading their named and dated circumstances before the more general warnings that follow.",
+          "shortened": [
+            "Amin, if you wish details about that land: verily the fly therein became as an eagle, therefore God cast him into the abyss, and likewise his kind - may God curse them. They corrupted and caused corruption to such a degree that after their destruction the Tongue of Grandeur proclaimed: \"The All-Forgiving shall not forgive their burial places.\""
+          ]
         },
         {
           "key": "source:BH05061",
@@ -836,15 +1043,24 @@
         },
         {
           "key": "source:BH03373",
-          "why": "Follow the historical narratives and images of overturned power, reading their named and dated circumstances before the more general warnings that follow."
+          "why": "Follow the historical narratives and images of overturned power, reading their named and dated circumstances before the more general warnings that follow.",
+          "shortened": [
+            "Then know that your namesake has slandered me, and for this God hath seized him by His command, for He is the most severe of avengers."
+          ]
         },
         {
           "key": "source:BH08225",
-          "why": "Follow the historical narratives and images of overturned power, reading their named and dated circumstances before the more general warnings that follow."
+          "why": "Follow the historical narratives and images of overturned power, reading their named and dated circumstances before the more general warnings that follow.",
+          "shortened": [
+            "The divines assembled to harm Us, but God seized them with justice - verily He is the Mighty, the Powerful."
+          ]
         },
         {
           "key": "source:BH04719",
-          "why": "Follow the historical narratives and images of overturned power, reading their named and dated circumstances before the more general warnings that follow."
+          "why": "Follow the historical narratives and images of overturned power, reading their named and dated circumstances before the more general warnings that follow.",
+          "shortened": [
+            "We have seized him who pronounced judgment against My loved ones, then We seized one who was greater than he. Verily thy Lord is the All-Knowing, the All-Wise. He judgeth as He pleaseth, even as He judged in the beginning of the Cause."
+          ]
         },
         {
           "key": "source:BH00142",
@@ -860,7 +1076,10 @@
         },
         {
           "key": "source:BH02748",
-          "why": "Follow the historical narratives and images of overturned power, reading their named and dated circumstances before the more general warnings that follow."
+          "why": "Follow the historical narratives and images of overturned power, reading their named and dated circumstances before the more general warnings that follow.",
+          "shortened": [
+            "God hath seized the source of oppression, and He shall soon seize those who followed him without any clear proof or enlightening Book."
+          ]
         },
         {
           "key": "source:BH04666",
@@ -872,15 +1091,24 @@
         },
         {
           "key": "source:BH04980",
-          "why": "Follow the historical narratives and images of overturned power, reading their named and dated circumstances before the more general warnings that follow."
+          "why": "Follow the historical narratives and images of overturned power, reading their named and dated circumstances before the more general warnings that follow.",
+          "shortened": [
+            "Those who altered the Tablets of God - these have lost both this world and the next, and they shall have no portion of this cup. These have sold the traces of God for their own selves and their desires. Soon shall they discover what they have wrought when the angels of wrath seize them with a grievous punishment. Thus doth God distinguish between truth and falsehood, and between the believers and the idolaters."
+          ]
         },
         {
           "key": "source:BH08426",
-          "why": "Follow the historical narratives and images of overturned power, reading their named and dated circumstances before the more general warnings that follow."
+          "why": "Follow the historical narratives and images of overturned power, reading their named and dated circumstances before the more general warnings that follow.",
+          "shortened": [
+            "Loss in this world and the next shall return to the treacherous souls, and continueth to do so. That which they have taken shall profit them not; rather, humiliation shall descend upon them in this world and in the next, and a grievous chastisement shall afflict them."
+          ]
         },
         {
           "key": "source:BH06972",
-          "why": "Follow the historical narratives and images of overturned power, reading their named and dated circumstances before the more general warnings that follow."
+          "why": "Follow the historical narratives and images of overturned power, reading their named and dated circumstances before the more general warnings that follow.",
+          "shortened": [
+            "The gate of the Most Great Prison was opened by the key of the Name of the Ancient King, and the rain of grace descended from the heaven of mercy, until heedlessness seized some. They did that which caused God to lament, yet We concealed it. Verily thy Lord is the Concealer."
+          ]
         },
         {
           "key": "source:BH04715",
@@ -908,19 +1136,31 @@
         },
         {
           "key": "source:BH00269",
-          "why": "Let the repeated warnings press the question of heedfulness, repentance, and the use of a respite; read severe consequences beside the stated possibility of turning back."
+          "why": "Let the repeated warnings press the question of heedfulness, repentance, and the use of a respite; read severe consequences beside the stated possibility of turning back.",
+          "shortened": [
+            "Several times calamities have overtaken you, and yet ye failed utterly to take heed.  One of them was the conflagration which devoured most of the City with the flames of justice, and concerning which many poems were written, stating that no such fire had ever been witnessed.  And yet, ye waxed more heedless.  Plague, likewise, broke out, and ye still failed to give heed!  Be expectant, however, for the wrath of God is ready to overtake you."
+          ]
         },
         {
           "key": "source:BH02716",
-          "why": "Let the repeated warnings press the question of heedfulness, repentance, and the use of a respite; read severe consequences beside the stated possibility of turning back."
+          "why": "Let the repeated warnings press the question of heedfulness, repentance, and the use of a respite; read severe consequences beside the stated possibility of turning back.",
+          "shortened": [
+            "O My Name! By the life of God, what occurred - the people deserved it, nay, they deserved punishments beyond that, for they were heedless of that which caused the eyes of the people of the cities of justice to weep and the companions of equity to lament."
+          ]
         },
         {
           "key": "source:BH01383",
-          "why": "Let the repeated warnings press the question of heedfulness, repentance, and the use of a respite; read severe consequences beside the stated possibility of turning back."
+          "why": "Let the repeated warnings press the question of heedfulness, repentance, and the use of a respite; read severe consequences beside the stated possibility of turning back.",
+          "shortened": [
+            "Have ye grown heedless of the power of divine justice, or have ye obtained a letter of immunity from His might? By God's life! All the concourse of the near angels and the cherubim lament and shed tears of blood."
+          ]
         },
         {
           "key": "source:BH02879",
-          "why": "Let the repeated warnings press the question of heedfulness, repentance, and the use of a respite; read severe consequences beside the stated possibility of turning back."
+          "why": "Let the repeated warnings press the question of heedfulness, repentance, and the use of a respite; read severe consequences beside the stated possibility of turning back.",
+          "shortened": [
+            "Thereupon We tried its people with that wherewith We tried them, that perchance they might awaken and turn repentant unto God, the Mighty, the Praised. Behold, then, how the might of thy Lord encompassed them; verily I am the All-Compelling, the Severe. We seized them first, for through them the root of oppression was strengthened; ere long shall We return unto it, for He is indeed the Powerful, the Omnipotent."
+          ]
         },
         {
           "key": "source:BB00287",
@@ -932,11 +1172,18 @@
         },
         {
           "key": "source:AB03166",
-          "why": "Let the repeated warnings press the question of heedfulness, repentance, and the use of a respite; read severe consequences beside the stated possibility of turning back."
+          "why": "Let the repeated warnings press the question of heedfulness, repentance, and the use of a respite; read severe consequences beside the stated possibility of turning back.",
+          "shortened": [
+            "As He says: \"We did seize them with punishment closer at hand, before the greater punishment, that perchance they might return.\" \"Verily thy Lord is ever watchful.\""
+          ]
         },
         {
           "key": "source:AB01321",
-          "why": "Let the repeated warnings press the question of heedfulness, repentance, and the use of a respite; read severe consequences beside the stated possibility of turning back."
+          "why": "Let the repeated warnings press the question of heedfulness, repentance, and the use of a respite; read severe consequences beside the stated possibility of turning back.",
+          "shortened": [
+            "But those oppressors, nay rather all the people of that land, will be subjected to the most great and severe calamities.",
+            "He says to grant a respite, do not hasten - punishment is ultimately decreed, unless they become humble and suppliant, repent and show remorse, pray and seek forgiveness for their sins."
+          ]
         },
         {
           "key": "source:AB04642",
@@ -944,7 +1191,10 @@
         },
         {
           "key": "source:BH03439",
-          "why": "Let the repeated warnings press the question of heedfulness, repentance, and the use of a respite; read severe consequences beside the stated possibility of turning back."
+          "why": "Let the repeated warnings press the question of heedfulness, repentance, and the use of a respite; read severe consequences beside the stated possibility of turning back.",
+          "shortened": [
+            "Were it not for My mercy, We would send down chastisement upon them, but We grant them respite, looking to the appointed time."
+          ]
         },
         {
           "key": "source:BH00988",
@@ -956,7 +1206,10 @@
         },
         {
           "key": "source:BH00904",
-          "why": "Let the repeated warnings press the question of heedfulness, repentance, and the use of a respite; read severe consequences beside the stated possibility of turning back."
+          "why": "Let the repeated warnings press the question of heedfulness, repentance, and the use of a respite; read severe consequences beside the stated possibility of turning back.",
+          "shortened": [
+            "In this Revelation, God, exalted be His glory, has not given respite to the oppressors and has seized most with utmost severity and speed. By My life, He is indeed the Powerful, the Mighty!"
+          ]
         },
         {
           "key": "source:BH02766",
@@ -972,15 +1225,25 @@
         },
         {
           "key": "source:AB02218",
-          "why": "Let the repeated warnings press the question of heedfulness, repentance, and the use of a respite; read severe consequences beside the stated possibility of turning back."
+          "why": "Let the repeated warnings press the question of heedfulness, repentance, and the use of a respite; read severe consequences beside the stated possibility of turning back.",
+          "shortened": [
+            "Verily thy Lord is ever watchful, and He hath power over all things.",
+            "Observe how He never overlooks injustice and transgression - He grants respite but does not neglect. Every soul will soon witness the recompense of their deeds and the consequences of their actions."
+          ]
         },
         {
           "key": "source:AB02882",
-          "why": "Let the repeated warnings press the question of heedfulness, repentance, and the use of a respite; read severe consequences beside the stated possibility of turning back."
+          "why": "Let the repeated warnings press the question of heedfulness, repentance, and the use of a respite; read severe consequences beside the stated possibility of turning back.",
+          "shortened": [
+            "But they are unaware that although God the Avenger is patient, He is also jealous. Soon He will strike such an axe to the root of these oppressors that the trees of their hopes will be uprooted from their foundation. Verily thy Lord is ever watchful."
+          ]
         },
         {
           "key": "source:BH03720",
-          "why": "Let the repeated warnings press the question of heedfulness, repentance, and the use of a respite; read severe consequences beside the stated possibility of turning back."
+          "why": "Let the repeated warnings press the question of heedfulness, repentance, and the use of a respite; read severe consequences beside the stated possibility of turning back.",
+          "shortened": [
+            "Sorrow not in the oppression thou encountereth, erelong will your Lord take the tyrants. He is verily powerful in His command and He is mighty in prowess."
+          ]
         },
         {
           "key": "source:BH05159",
@@ -996,39 +1259,66 @@
         },
         {
           "key": "source:BH02498",
-          "why": "Place the counsel to leave injustice to God near the transition from warning to prayer."
+          "why": "Place the counsel to leave injustice to God near the transition from warning to prayer.",
+          "shortened": [
+            "Every injustice manifested by an oppressor - leave it to the Truth Itself. The hand of divine justice is all-encompassing and all-pervading."
+          ]
         },
         {
           "key": "source:BH06755",
-          "why": "Let the repeated warnings press the question of heedfulness, repentance, and the use of a respite; read severe consequences beside the stated possibility of turning back."
+          "why": "Let the repeated warnings press the question of heedfulness, repentance, and the use of a respite; read severe consequences beside the stated possibility of turning back.",
+          "shortened": [
+            "Assuredly the Just and All-Wise shall take from the oppressor the rights of the oppressed. He, verily, is the All-Powerful, the Almighty."
+          ]
         },
         {
           "key": "source:BH08589",
-          "why": "Let the repeated warnings press the question of heedfulness, repentance, and the use of a respite; read severe consequences beside the stated possibility of turning back."
+          "why": "Let the repeated warnings press the question of heedfulness, repentance, and the use of a respite; read severe consequences beside the stated possibility of turning back.",
+          "shortened": [
+            "God shall soon seize those who have wronged, for He is the most severe in retribution. Nothing escapeth His knowledge. He heareth the sighing of the oppressed and the wailing of the oppressors."
+          ]
         },
         {
           "key": "source:BH07204",
-          "why": "Let the repeated warnings press the question of heedfulness, repentance, and the use of a respite; read severe consequences beside the stated possibility of turning back."
+          "why": "Let the repeated warnings press the question of heedfulness, repentance, and the use of a respite; read severe consequences beside the stated possibility of turning back.",
+          "shortened": [
+            "Soon shall the world and the glory of them that oppressed pass away. Then shall they find themselves in the abyss of divine punishment, with none to deliver them from that which God, the Lord of what was and what shall be, hath ordained for them."
+          ]
         },
         {
           "key": "source:BH02218",
-          "why": "Let the repeated warnings press the question of heedfulness, repentance, and the use of a respite; read severe consequences beside the stated possibility of turning back."
+          "why": "Let the repeated warnings press the question of heedfulness, repentance, and the use of a respite; read severe consequences beside the stated possibility of turning back.",
+          "shortened": [
+            "Soon shall the blasts of His chastisement beat upon you, and the dust of hell enshroud you. Those men who, having amassed the vanities and ornaments of the earth, have turned away disdainfully from God -- these have lost both this world and the world to come. Erelong, will God, with the Hand of Power, strip them of their possessions, and divest them of the robe of His bounty."
+          ]
         },
         {
           "key": "source:BH06531",
-          "why": "Let the repeated warnings press the question of heedfulness, repentance, and the use of a respite; read severe consequences beside the stated possibility of turning back."
+          "why": "Let the repeated warnings press the question of heedfulness, repentance, and the use of a respite; read severe consequences beside the stated possibility of turning back.",
+          "shortened": [
+            "Soon shall appear upon the faces of the sinful the dust of fire, and tribulation shall seize them from every direction nigh at hand, except those who have turned their hearts to God and who, when they hear the verses of God, fall down in prostration and weeping."
+          ]
         },
         {
           "key": "source:BH06247",
-          "why": "Let the repeated warnings press the question of heedfulness, repentance, and the use of a respite; read severe consequences beside the stated possibility of turning back."
+          "why": "Let the repeated warnings press the question of heedfulness, repentance, and the use of a respite; read severe consequences beside the stated possibility of turning back.",
+          "shortened": [
+            "For them that have turned unto Him He hath ordained that which shall gladden their hearts, and for them that have turned away, the wrath of thy Lord - verily His punishment is severe."
+          ]
         },
         {
           "key": "source:BH00007",
-          "why": "Let the repeated warnings press the question of heedfulness, repentance, and the use of a respite; read severe consequences beside the stated possibility of turning back."
+          "why": "Let the repeated warnings press the question of heedfulness, repentance, and the use of a respite; read severe consequences beside the stated possibility of turning back.",
+          "shortened": [
+            "As for those who disbelieve in God, and join partners with Him, they shall indeed incur His wrath, shall be cast into the Fire, and shall be made to dwell, fearful and dismayed, in its depths."
+          ]
         },
         {
           "key": "source:BH05909",
-          "why": "Let the repeated warnings press the question of heedfulness, repentance, and the use of a respite; read severe consequences beside the stated possibility of turning back."
+          "why": "Let the repeated warnings press the question of heedfulness, repentance, and the use of a respite; read severe consequences beside the stated possibility of turning back.",
+          "shortened": [
+            "As to them that have disbelieved, nothing shall profit them save the punishment of thy Lord, and He, verily, is possessed of terrible might."
+          ]
         },
         {
           "key": "source:BH02932",
@@ -1036,15 +1326,24 @@
         },
         {
           "key": "source:BH03084",
-          "why": "Let the repeated warnings press the question of heedfulness, repentance, and the use of a respite; read severe consequences beside the stated possibility of turning back."
+          "why": "Let the repeated warnings press the question of heedfulness, repentance, and the use of a respite; read severe consequences beside the stated possibility of turning back.",
+          "shortened": [
+            "But oppressive souls shall be afflicted with the flames of divine wrath a second time, and after their spirits depart they shall be tormented with a punishment a hundred thousand times more severe than earthly torment."
+          ]
         },
         {
           "key": "source:BH06639",
-          "why": "Let the repeated warnings press the question of heedfulness, repentance, and the use of a respite; read severe consequences beside the stated possibility of turning back."
+          "why": "Let the repeated warnings press the question of heedfulness, repentance, and the use of a respite; read severe consequences beside the stated possibility of turning back.",
+          "shortened": [
+            "When the fire of their own selves encompassed them, they cried for help but found no helper, and they called out but received no response. Thus was the matter decreed from the presence of the Mighty, the Powerful. Greater than what befell them in their vain life has been ordained for the transgressors, as attested by the Lord of creation when seated upon His mighty throne."
+          ]
         },
         {
           "key": "source:BH10386",
-          "why": "Let the repeated warnings press the question of heedfulness, repentance, and the use of a respite; read severe consequences beside the stated possibility of turning back."
+          "why": "Let the repeated warnings press the question of heedfulness, repentance, and the use of a respite; read severe consequences beside the stated possibility of turning back.",
+          "shortened": [
+            "Then were the people of Paradise admitted therein, and the denizens of the Fire consigned to their abode. This is clear justice."
+          ]
         },
         {
           "key": "source:BH11797",
@@ -1052,7 +1351,10 @@
         },
         {
           "key": "source:BH07347",
-          "why": "Let the repeated warnings press the question of heedfulness, repentance, and the use of a respite; read severe consequences beside the stated possibility of turning back."
+          "why": "Let the repeated warnings press the question of heedfulness, repentance, and the use of a respite; read severe consequences beside the stated possibility of turning back.",
+          "shortened": [
+            "They that have turned away this Day have no portion in the Book. God will soon seize them with His justice. He, verily, is the Just, the All-Wise."
+          ]
         },
         {
           "key": "source:BH06377",
@@ -1068,7 +1370,10 @@
         },
         {
           "key": "source:BH00616",
-          "why": "Let the repeated warnings press the question of heedfulness, repentance, and the use of a respite; read severe consequences beside the stated possibility of turning back."
+          "why": "Let the repeated warnings press the question of heedfulness, repentance, and the use of a respite; read severe consequences beside the stated possibility of turning back.",
+          "shortened": [
+            "At all times doth the Book of God call out and declare: \"O people of the earth! The True One, glorified be His majesty, hath sent Me down from His Kingdom of utterance that ye might all hold fast unto Me and find the path of salvation. Through Me is the straight path made clear and the evident proof established. Through My being hath the world been established, through Me are mysteries revealed and lights made manifest, the ocean of knowledge billoweth and the sun of wisdom shineth resplendent."
+          ]
         },
         {
           "key": "source:BH02095",
@@ -1076,7 +1381,10 @@
         },
         {
           "key": "source:BH05284",
-          "why": "Read the brief assurances of reckoning as variations in a sustained address to injustice, moving through knowledge, power, and the inability of oppression to secure a lasting refuge."
+          "why": "Read the brief assurances of reckoning as variations in a sustained address to injustice, moving through knowledge, power, and the inability of oppression to secure a lasting refuge.",
+          "shortened": [
+            "Dost thou see those who committed injustice aforetime? We seized them for their sins. Verily thy Lord is the Mighty, the Powerful. Soon shall We seize these ones and join them with an evil and most wretched people."
+          ]
         },
         {
           "key": "source:BH01938",
@@ -1084,7 +1392,10 @@
         },
         {
           "key": "source:BH03659",
-          "why": "Read the brief assurances of reckoning as variations in a sustained address to injustice, moving through knowledge, power, and the inability of oppression to secure a lasting refuge."
+          "why": "Read the brief assurances of reckoning as variations in a sustained address to injustice, moving through knowledge, power, and the inability of oppression to secure a lasting refuge.",
+          "shortened": [
+            "God hath seized those who oppressed Us with a mighty grasp from His presence, and will seize those who transgressed against the Mighty, the All-Wise."
+          ]
         },
         {
           "key": "source:BH01958",
@@ -1092,7 +1403,10 @@
         },
         {
           "key": "source:BH04720",
-          "why": "Read the brief assurances of reckoning as variations in a sustained address to injustice, moving through knowledge, power, and the inability of oppression to secure a lasting refuge."
+          "why": "Read the brief assurances of reckoning as variations in a sustained address to injustice, moving through knowledge, power, and the inability of oppression to secure a lasting refuge.",
+          "shortened": [
+            "He shall lay hold on the wrongdoers, even as He laid hold on him that was their chief; He, truly, is severe in punishing!"
+          ]
         },
         {
           "key": "source:BH05010",
@@ -1108,23 +1422,38 @@
         },
         {
           "key": "source:BH02246",
-          "why": "Read the brief assurances of reckoning as variations in a sustained address to injustice, moving through knowledge, power, and the inability of oppression to secure a lasting refuge."
+          "why": "Read the brief assurances of reckoning as variations in a sustained address to injustice, moving through knowledge, power, and the inability of oppression to secure a lasting refuge.",
+          "shortened": [
+            "Verily thy Lord hath seized him who manifested oppression and arose in tyranny, and He shall soon seize those who have denied God, the Lord of lords."
+          ]
         },
         {
           "key": "source:BH04147",
-          "why": "Read the brief assurances of reckoning as variations in a sustained address to injustice, moving through knowledge, power, and the inability of oppression to secure a lasting refuge."
+          "why": "Read the brief assurances of reckoning as variations in a sustained address to injustice, moving through knowledge, power, and the inability of oppression to secure a lasting refuge.",
+          "shortened": [
+            "Soon shall the wrath and anger of God seize them. He is the most severe of avengers. By My life! My mercy hath preceded My wrath, and My patience hath encompassed the worlds."
+          ]
         },
         {
           "key": "source:BH08314",
-          "why": "Read the brief assurances of reckoning as variations in a sustained address to injustice, moving through knowledge, power, and the inability of oppression to secure a lasting refuge."
+          "why": "Read the brief assurances of reckoning as variations in a sustained address to injustice, moving through knowledge, power, and the inability of oppression to secure a lasting refuge.",
+          "shortened": [
+            "Soon will God seize those who have acted unjustly and make them a lesson to all who are on earth. Verily, He is the All-Powerful, the Almighty."
+          ]
         },
         {
           "key": "source:BH09154",
-          "why": "Read the brief assurances of reckoning as variations in a sustained address to injustice, moving through knowledge, power, and the inability of oppression to secure a lasting refuge."
+          "why": "Read the brief assurances of reckoning as variations in a sustained address to injustice, moving through knowledge, power, and the inability of oppression to secure a lasting refuge.",
+          "shortened": [
+            "Ere long shall the hand of justice decree the punishment that is due. Shame upon you and upon every oppressor!"
+          ]
         },
         {
           "key": "source:BH11495",
-          "why": "Read the brief assurances of reckoning as variations in a sustained address to injustice, moving through knowledge, power, and the inability of oppression to secure a lasting refuge."
+          "why": "Read the brief assurances of reckoning as variations in a sustained address to injustice, moving through knowledge, power, and the inability of oppression to secure a lasting refuge.",
+          "shortened": [
+            "He knoweth what hath been and what shall be. Looking from this horizon upon those who have wronged Us, He shall assuredly seize them through His justice."
+          ]
         },
         {
           "key": "source:BH01575",
@@ -1132,11 +1461,17 @@
         },
         {
           "key": "source:BH02343",
-          "why": "Read the brief assurances of reckoning as variations in a sustained address to injustice, moving through knowledge, power, and the inability of oppression to secure a lasting refuge."
+          "why": "Read the brief assurances of reckoning as variations in a sustained address to injustice, moving through knowledge, power, and the inability of oppression to secure a lasting refuge.",
+          "shortened": [
+            "Know thou with clear certainty that God, exalted be His glory, is just, and assuredly according to the requirements of justice shall He requite those who led astray, the ungodly, the slanderers and the murderers. Not an atom escapeth His knowledge."
+          ]
         },
         {
           "key": "source:BH03767",
-          "why": "Read the brief assurances of reckoning as variations in a sustained address to injustice, moving through knowledge, power, and the inability of oppression to secure a lasting refuge."
+          "why": "Read the brief assurances of reckoning as variations in a sustained address to injustice, moving through knowledge, power, and the inability of oppression to secure a lasting refuge.",
+          "shortened": [
+            "God shall soon seize them with a justice from His presence. Verily, He is the Almighty, doing whatsoever He willeth."
+          ]
         },
         {
           "key": "source:BH06157",
@@ -1144,7 +1479,10 @@
         },
         {
           "key": "source:BH06748",
-          "why": "Read the brief assurances of reckoning as variations in a sustained address to injustice, moving through knowledge, power, and the inability of oppression to secure a lasting refuge."
+          "why": "Read the brief assurances of reckoning as variations in a sustained address to injustice, moving through knowledge, power, and the inability of oppression to secure a lasting refuge.",
+          "shortened": [
+            "Verily He seizeth the transgressors; nothing can frustrate Him. He seizeth every wicked one even as He seized in His days. Thy Lord is, in truth, the All-Powerful, the Almighty."
+          ]
         },
         {
           "key": "source:BH09679",
@@ -1152,15 +1490,24 @@
         },
         {
           "key": "source:BH11626",
-          "why": "Read the brief assurances of reckoning as variations in a sustained address to injustice, moving through knowledge, power, and the inability of oppression to secure a lasting refuge."
+          "why": "Read the brief assurances of reckoning as variations in a sustained address to injustice, moving through knowledge, power, and the inability of oppression to secure a lasting refuge.",
+          "shortened": [
+            "They accepted not the word of truth and move with utmost tyranny in the arena of oppression, heedless that the true Judge and the just Almighty observeth and will surely requite them."
+          ]
         },
         {
           "key": "source:BH08561",
-          "why": "Read the brief assurances of reckoning as variations in a sustained address to injustice, moving through knowledge, power, and the inability of oppression to secure a lasting refuge."
+          "why": "Read the brief assurances of reckoning as variations in a sustained address to injustice, moving through knowledge, power, and the inability of oppression to secure a lasting refuge.",
+          "shortened": [
+            "God shall soon seize them with a mighty wrath from His presence. Verily He destroyed the generations of old and shall exalt your names in truth. He, verily, is the Powerful, the Mighty."
+          ]
         },
         {
           "key": "source:BH04298",
-          "why": "Read the brief assurances of reckoning as variations in a sustained address to injustice, moving through knowledge, power, and the inability of oppression to secure a lasting refuge."
+          "why": "Read the brief assurances of reckoning as variations in a sustained address to injustice, moving through knowledge, power, and the inability of oppression to secure a lasting refuge.",
+          "shortened": [
+            "They shall behold what they have wrought. Verily thy Lord lieth in wait. He seizeth him who hath disbelieved - verily He is severe in punishment."
+          ]
         },
         {
           "key": "source:BH00082",
@@ -1168,11 +1515,17 @@
         },
         {
           "key": "source:BH04569",
-          "why": "Encounter the force of petitions for protection and retribution in their devotional form, without turning them into instructions for personal vengeance."
+          "why": "Encounter the force of petitions for protection and retribution in their devotional form, without turning them into instructions for personal vengeance.",
+          "shortened": [
+            "O Lord! Behold the oppressors among Thy creatures with the glance of Thy wrath and might. In their tyranny they have reached a state which none can reckon save Thy all-knowing Self."
+          ]
         },
         {
           "key": "source:AB05111",
-          "why": "Encounter the force of petitions for protection and retribution in their devotional form, without turning them into instructions for personal vengeance."
+          "why": "Encounter the force of petitions for protection and retribution in their devotional form, without turning them into instructions for personal vengeance.",
+          "shortened": [
+            "O Thou Mighty and Powerful One! The oppressive souls deserve severe punishment and retribution - the longer they remain, the more oppression they commit. Do not let these tyrannical souls endure."
+          ]
         },
         {
           "key": "source:BH09705",
@@ -1180,15 +1533,24 @@
         },
         {
           "key": "source:BH10337",
-          "why": "Encounter the force of petitions for protection and retribution in their devotional form, without turning them into instructions for personal vengeance."
+          "why": "Encounter the force of petitions for protection and retribution in their devotional form, without turning them into instructions for personal vengeance.",
+          "shortened": [
+            "Therefore, O my God, since his heart is clinging to the handhold of trust in the sovereignty of Thy protection, and relying upon the wondrous effulgences of the manifestations of Thy watchfulness, do Thou protect him from every evil and calamity, and from the afflictions that his enemies may bring down upon his head, that Thou mayest gain dominion over them through Thy sovereignty and power, and prevail over Thine enemies through Thy mighty wrath and ancient indignation."
+          ]
         },
         {
           "key": "source:BH03504",
-          "why": "Encounter the force of petitions for protection and retribution in their devotional form, without turning them into instructions for personal vengeance."
+          "why": "Encounter the force of petitions for protection and retribution in their devotional form, without turning them into instructions for personal vengeance.",
+          "shortened": [
+            "I beseech Thee, O God of might and power, by Thy dominant sovereignty and Thy overwhelming authority, to seize them through Thy power and might, and prevent them from what they intended against Thy loved ones."
+          ]
         },
         {
           "key": "source:BH08851",
-          "why": "Encounter the force of petitions for protection and retribution in their devotional form, without turning them into instructions for personal vengeance."
+          "why": "Encounter the force of petitions for protection and retribution in their devotional form, without turning them into instructions for personal vengeance.",
+          "shortened": [
+            "O Lord! Seize them through Thy power, then suffice against their evil through Thy sovereignty. Verily Thou art He Whose power encompasseth all and Whose sovereignty is manifest, and Thou art powerful over all things."
+          ]
         },
         {
           "key": "source:BH02043",
@@ -1196,11 +1558,17 @@
         },
         {
           "key": "source:BH03356",
-          "why": "Encounter the force of petitions for protection and retribution in their devotional form, without turning them into instructions for personal vengeance."
+          "why": "Encounter the force of petitions for protection and retribution in their devotional form, without turning them into instructions for personal vengeance.",
+          "shortened": [
+            "Abase Thou, O my Lord, Thine enemies, and lay hold on them with Thy power and might, and let them be stricken by the blast of Thy wrath. Make them taste, O my God, of Thine awful majesty and vengeance, for they have repudiated the truth of the One in Whom they had believed, Who came unto them with Thy signs and Thy clear tokens and the evidences of Thy power and the manifold revelations of Thy might."
+          ]
         },
         {
           "key": "source:BH02871",
-          "why": "Encounter the force of petitions for protection and retribution in their devotional form, without turning them into instructions for personal vengeance."
+          "why": "Encounter the force of petitions for protection and retribution in their devotional form, without turning them into instructions for personal vengeance.",
+          "shortened": [
+            "Speak Thou Thy word of wrath, O Thou Whom no eyes can see! Well-beloved is Thy mercy unto the sincere among Thy servants, and well-beseeming Thy chastisement of the infidels among Thine enemies."
+          ]
         },
         {
           "key": "source:BH02873",
@@ -1208,7 +1576,10 @@
         },
         {
           "key": "source:BB00228",
-          "why": "Encounter the force of petitions for protection and retribution in their devotional form, without turning them into instructions for personal vengeance."
+          "why": "Encounter the force of petitions for protection and retribution in their devotional form, without turning them into instructions for personal vengeance.",
+          "shortened": [
+            "Therefore, O my God, send down upon them all Thy severity, Thy grasp, Thy might, and Thy vengeance. Seize them with the grasp of One mighty and powerful. Destroy them as Thou didst destroy those of old before them, and shalt destroy those who come after them. Verily, Thou art the Lord of great retribution, of severe chastisement, and of mighty power."
+          ]
         },
         {
           "key": "source:BB00198",
@@ -1216,7 +1587,10 @@
         },
         {
           "key": "source:BB00308",
-          "why": "Encounter the force of petitions for protection and retribution in their devotional form, without turning them into instructions for personal vengeance."
+          "why": "Encounter the force of petitions for protection and retribution in their devotional form, without turning them into instructions for personal vengeance.",
+          "shortened": [
+            "And do Thou send down, O God, upon those who have not believed in Him, all Thy chastisement and retribution, for Thou art the most severe in punishment and the most terrible in vengeance."
+          ]
         },
         {
           "key": "source:BB00038",
@@ -1228,7 +1602,10 @@
         },
         {
           "key": "source:AB01948",
-          "why": "Encounter the force of petitions for protection and retribution in their devotional form, without turning them into instructions for personal vengeance."
+          "why": "Encounter the force of petitions for protection and retribution in their devotional form, without turning them into instructions for personal vengeance.",
+          "shortened": [
+            "The consequences are obvious, unless the Hand of Power uproots the foundation of injustice and punishes the oppressors, so that in this world they may be caught by their evil deeds and in the next world become hopeless and loathe themselves. We beseech God to cut off their posterity, even as He cut off the posterity of the transgressing people."
+          ]
         },
         {
           "key": "source:AB03604",
@@ -1248,11 +1625,18 @@
         },
         {
           "key": "source:BB00396",
-          "why": "Encounter the force of petitions for protection and retribution in their devotional form, without turning them into instructions for personal vengeance."
+          "why": "Encounter the force of petitions for protection and retribution in their devotional form, without turning them into instructions for personal vengeance.",
+          "shortened": [
+            "And We shall forget them as they forget Our presence, for We are all-powerful and all-encompassing.",
+            "By God! He shall seize them and banish them as though they had never been mentioned."
+          ]
         },
         {
           "key": "source:BH07787",
-          "why": "Encounter the force of petitions for protection and retribution in their devotional form, without turning them into instructions for personal vengeance."
+          "why": "Encounter the force of petitions for protection and retribution in their devotional form, without turning them into instructions for personal vengeance.",
+          "shortened": [
+            "And verily it is God's mercy unto the righteous and His vengeance unto the wicked. Thus has the matter been decreed by the finger of might and power."
+          ]
         },
         {
           "key": "source:BH09523",
@@ -1260,11 +1644,17 @@
         },
         {
           "key": "source:BH08658",
-          "why": "Encounter the force of petitions for protection and retribution in their devotional form, without turning them into instructions for personal vengeance."
+          "why": "Encounter the force of petitions for protection and retribution in their devotional form, without turning them into instructions for personal vengeance.",
+          "shortened": [
+            "There has been and will be no remedy for divine wrath. By their own deeds they have become deserving of discord and opposition and darkness and ignorance. Otherwise, the Truth created all through one Word and called all through one Call. Verily He is the Just, the Wise."
+          ]
         },
         {
           "key": "source:AB07769",
-          "why": "Encounter the force of petitions for protection and retribution in their devotional form, without turning them into instructions for personal vengeance."
+          "why": "Encounter the force of petitions for protection and retribution in their devotional form, without turning them into instructions for personal vengeance.",
+          "shortened": [
+            "Thus affairs became disordered, O my God, throughout the realm; oppression and wickedness spread far and wide; darkness prevailed; roads and paths were cut off; hands were lengthened; and every grateful servant was troubled - until Thou didst seize with Thy vengeance the vainglorious ones with the grasp of One mighty, powerful, supreme and jealous. Thou didst take vengeance upon them for their refusal to hearken to Thy counsels and their disobedience to the Messenger."
+          ]
         },
         {
           "key": "source:BH01180",
@@ -1272,7 +1662,10 @@
         },
         {
           "key": "source:BH00437",
-          "why": "Let a prayer articulate the tension between reassurance through mercy and trembling before justice."
+          "why": "Let a prayer articulate the tension between reassurance through mercy and trembling before justice.",
+          "shortened": [
+            "At whatever time I reassure myself and gladden my soul with the wonders of Thy mercy, the tokens of Thy gracious providence, and the evidences of Thy generosity, I tremble before the manifestations of Thy justice and the signs of Thy wrath.  I recognize that Thou art known by these two names and described by these two attributes, yet Thou carest not whether Thou art invoked by Thy name the Ever-Forgiving, or Thy name the Wrathful."
+          ]
         },
         {
           "key": "source:BH01077",
@@ -1284,7 +1677,10 @@
         },
         {
           "key": "source:ABU1046",
-          "why": "Keep the reported statement with its counsel to pity wrongdoers and its account of love."
+          "why": "Keep the reported statement with its counsel to pity wrongdoers and its account of love.",
+          "shortened": [
+            "He is never angry. He curses nothing. It has been said otherwise; but such teaching is the teaching of heathenism- of the teachers of the time -not that of the Messengers of God."
+          ]
         },
         {
           "key": "source:ABU3429",
@@ -1292,39 +1688,67 @@
         },
         {
           "key": "source:ABU1196",
-          "why": "Place severe descriptions beside reported interpretations, questions, and images of divine love. Attend to literary form and source authority without making every expression say the same thing."
+          "why": "Place severe descriptions beside reported interpretations, questions, and images of divine love. Attend to literary form and source authority without making every expression say the same thing.",
+          "shortened": [
+            "These heedless people merit the descent of the terrible wrath of God. they are not at all entitled to His Love. Even what they have and are enjoying has been and is through His limitless Mercy."
+          ]
         },
         {
           "key": "source:BH05692",
-          "why": "Place severe descriptions beside reported interpretations, questions, and images of divine love. Attend to literary form and source authority without making every expression say the same thing."
+          "why": "Place severe descriptions beside reported interpretations, questions, and images of divine love. Attend to literary form and source authority without making every expression say the same thing.",
+          "shortened": [
+            "If thou wouldst observe with the eye of truth, all people deserve punishment, for they are engaged in oppression, save those whom thy Lord willeth."
+          ]
         },
         {
           "key": "source:BH05715",
-          "why": "Place severe descriptions beside reported interpretations, questions, and images of divine love. Attend to literary form and source authority without making every expression say the same thing."
+          "why": "Place severe descriptions beside reported interpretations, questions, and images of divine love. Attend to literary form and source authority without making every expression say the same thing.",
+          "shortened": [
+            "I swear by Thy glory! Wert Thou to look upon them with the eye of justice, all would deserve Thy wrath and the rod of Thine anger."
+          ]
         },
         {
           "key": "source:BH07355",
-          "why": "Place severe descriptions beside reported interpretations, questions, and images of divine love. Attend to literary form and source authority without making every expression say the same thing."
+          "why": "Place severe descriptions beside reported interpretations, questions, and images of divine love. Attend to literary form and source authority without making every expression say the same thing.",
+          "shortened": [
+            "O Thou Who dealest equitably with all who are in heaven and on earth, and rulest over the kingdom of Thy creation and of Thy Revelation! I testify that every man of equity hath recognized his unfairness in the face of the revelation of the splendors of the Day-Star of Thy Justice, and the ablest of pens hath confessed its impotence before the movement of Thy most exalted Pen."
+          ]
         },
         {
           "key": "source:BH10154",
-          "why": "Place severe descriptions beside reported interpretations, questions, and images of divine love. Attend to literary form and source authority without making every expression say the same thing."
+          "why": "Place severe descriptions beside reported interpretations, questions, and images of divine love. Attend to literary form and source authority without making every expression say the same thing.",
+          "shortened": [
+            "O my God, my God! Thy grace hath emboldened me, and Thy justice hath made me fearful. Blessed is the servant with whom Thou dealest with grace, and woe unto him with whom Thou dealest with justice."
+          ]
         },
         {
           "key": "source:BB00374",
-          "why": "Place severe descriptions beside reported interpretations, questions, and images of divine love. Attend to literary form and source authority without making every expression say the same thing."
+          "why": "Place severe descriptions beside reported interpretations, questions, and images of divine love. Attend to literary form and source authority without making every expression say the same thing.",
+          "shortened": [
+            "Even if Thou shouldst make all that Thou hast created and wilt create into fire wherein naught is mentioned save Thy fire, and shouldst enlarge my body to the greatest extent possible within Thy power, and cast me alone therein, and continue to inflict upon me at every moment that supreme torment which none before me can comprehend - even then I would deserve this as requital for my good deeds before Thy face."
+          ]
         },
         {
           "key": "source:BB00182",
-          "why": "Place severe descriptions beside reported interpretations, questions, and images of divine love. Attend to literary form and source authority without making every expression say the same thing."
+          "why": "Place severe descriptions beside reported interpretations, questions, and images of divine love. Attend to literary form and source authority without making every expression say the same thing.",
+          "shortened": [
+            "O my God! By Thy might and Thy majesty, if Thou shouldst punish me in the fire with all Thy torments, and enlarge my body until it fills all the fire with Thy wrath, and extend me in the fire at every moment through Thy power and Thy dominion throughout the eternity of Thine Own Self, [...] I would still declare in the fire as I now declare before Thee: Thou art God, the Just in judgment, the Obeyed in deed, and that judgment from Thee upon me regarding my right is truth, even as Thy Reality is truth, and this stems only from Thy love for me."
+          ]
         },
         {
           "key": "source:BB00587",
-          "why": "Place severe descriptions beside reported interpretations, questions, and images of divine love. Attend to literary form and source authority without making every expression say the same thing."
+          "why": "Place severe descriptions beside reported interpretations, questions, and images of divine love. Attend to literary form and source authority without making every expression say the same thing.",
+          "shortened": [
+            "O God, Thy judgment is justice and Thy decree is final and there is no averting Thy command, and verily He is independent of all the worlds."
+          ]
         },
         {
           "key": "source:BB00081",
-          "why": "Place severe descriptions beside reported interpretations, questions, and images of divine love. Attend to literary form and source authority without making every expression say the same thing."
+          "why": "Place severe descriptions beside reported interpretations, questions, and images of divine love. Attend to literary form and source authority without making every expression say the same thing.",
+          "shortened": [
+            "And shouldst Thou deny us what we have mentioned before Thee, Thy decree would be justice wherein there is no tyranny, and Thy ruling would be truth that cannot be reversed.",
+            "This would be naught but a favor from Thee regarding my right and a bounty from Thy presence regarding my station, for Thou knowest best the interests of one who turns to Thee in his days."
+          ]
         },
         {
           "key": "source:BB00095",
@@ -1336,23 +1760,39 @@
         },
         {
           "key": "source:AB08035",
-          "why": "Place severe descriptions beside reported interpretations, questions, and images of divine love. Attend to literary form and source authority without making every expression say the same thing."
+          "why": "Place severe descriptions beside reported interpretations, questions, and images of divine love. Attend to literary form and source authority without making every expression say the same thing.",
+          "shortened": [
+            "The meaning in Persian is this: \"O Lord, make that judge content who gave the verdict for the shedding of this wanderer's blood both within and without the sanctuary of the Kaaba, while even hunting is forbidden in the sacred precinct. Yet that wretched one was so hard of heart that he made this servant's blood lawless both within and without the sanctuary.\""
+          ]
         },
         {
           "key": "source:BH10889",
-          "why": "Place severe descriptions beside reported interpretations, questions, and images of divine love. Attend to literary form and source authority without making every expression say the same thing."
+          "why": "Place severe descriptions beside reported interpretations, questions, and images of divine love. Attend to literary form and source authority without making every expression say the same thing.",
+          "shortened": [
+            "Although this evil state in which I am, O my God, maketh me deserving of Thy wrath and punishment, Thy good pleasure and Thy bounties demand Thy forgiveness to encompass Thy servants and Thy good favour to reach them."
+          ]
         },
         {
           "key": "source:AB07304",
-          "why": "Place severe descriptions beside reported interpretations, questions, and images of divine love. Attend to literary form and source authority without making every expression say the same thing."
+          "why": "Place severe descriptions beside reported interpretations, questions, and images of divine love. Attend to literary form and source authority without making every expression say the same thing.",
+          "shortened": [
+            "Shouldst Thou deal with us with Thy justice, we are all naught but sinners and deserving to be shut out from Thee, but shouldst Thou uphold mercy, every sinner would be made pure and every stranger a friend."
+          ]
         },
         {
           "key": "source:BH10282",
-          "why": "Place severe descriptions beside reported interpretations, questions, and images of divine love. Attend to literary form and source authority without making every expression say the same thing."
+          "why": "Place severe descriptions beside reported interpretations, questions, and images of divine love. Attend to literary form and source authority without making every expression say the same thing.",
+          "shortened": [
+            "Verily, Thy grace hath preceded Thy justice, and Thy mercy hath preceded Thy wrath."
+          ]
         },
         {
           "key": "source:BH07440",
-          "why": "Place severe descriptions beside reported interpretations, questions, and images of divine love. Attend to literary form and source authority without making every expression say the same thing."
+          "why": "Place severe descriptions beside reported interpretations, questions, and images of divine love. Attend to literary form and source authority without making every expression say the same thing.",
+          "shortened": [
+            "He exalts whomsoever He willeth and abases whomsoever He willeth, and bestows upon whomsoever He willeth the holy and gracious lights.",
+            "His mercy hath preceded all things and His grace hath encompassed all things, and He hath established His Cause with justice throughout all the worlds."
+          ]
         },
         {
           "key": "source:AB00668",
@@ -1360,7 +1800,10 @@
         },
         {
           "key": "source:BH11003",
-          "why": "Place severe descriptions beside reported interpretations, questions, and images of divine love. Attend to literary form and source authority without making every expression say the same thing."
+          "why": "Place severe descriptions beside reported interpretations, questions, and images of divine love. Attend to literary form and source authority without making every expression say the same thing.",
+          "shortened": [
+            "O My Name the All-Forgiving! Through Thee have I been tried, and through Thee have I drunk what no one hath drunk, and tasted what no soul hath tasted. Were I not beholding Thee, I would have destroyed the wicked ones and delivered My chosen ones from the letters of fire."
+          ]
         },
         {
           "key": "source:BH11382",
@@ -1368,15 +1811,24 @@
         },
         {
           "key": "source:BH10869",
-          "why": "Place severe descriptions beside reported interpretations, questions, and images of divine love. Attend to literary form and source authority without making every expression say the same thing."
+          "why": "Place severe descriptions beside reported interpretations, questions, and images of divine love. Attend to literary form and source authority without making every expression say the same thing.",
+          "shortened": [
+            "These are the days of grace - we look to grace. Were we to look to justice, not a single word would flow from the Pen of the Ancient of Days."
+          ]
         },
         {
           "key": "source:ABU0794",
-          "why": "End the petitions about punishment with an urgent appeal to pray for mercy."
+          "why": "End the petitions about punishment with an urgent appeal to pray for mercy.",
+          "shortened": [
+            "Pray, pray that God may not punish His unfaithful servants more than this! that He may pity them! This is indeed a great punishment! Pray, again pray!"
+          ]
         },
         {
           "key": "source:BH01128",
-          "why": "End with the vindication of the oppressed, the preservation of good deeds, and prayers that join fairness to mercy, opening inquiry into healing and the future of society."
+          "why": "End with the vindication of the oppressed, the preservation of good deeds, and prayers that join fairness to mercy, opening inquiry into healing and the future of society.",
+          "shortened": [
+            "Soon shall they see the recompense of their deeds, for after every injustice the light of justice dawns, and after every tyranny the sun of equity shines forth."
+          ]
         },
         {
           "key": "source:BB00477",
@@ -1392,15 +1844,24 @@
         },
         {
           "key": "source:BH10673",
-          "why": "End with the vindication of the oppressed, the preservation of good deeds, and prayers that join fairness to mercy, opening inquiry into healing and the future of society."
+          "why": "End with the vindication of the oppressed, the preservation of good deeds, and prayers that join fairness to mercy, opening inquiry into healing and the future of society.",
+          "shortened": [
+            "Oppression will envelop the world. And following a universal convulsion, the sun of justice will rise from the horizon of the unseen realm."
+          ]
         },
         {
           "key": "source:BH09437",
-          "why": "End with the vindication of the oppressed, the preservation of good deeds, and prayers that join fairness to mercy, opening inquiry into healing and the future of society."
+          "why": "End with the vindication of the oppressed, the preservation of good deeds, and prayers that join fairness to mercy, opening inquiry into healing and the future of society.",
+          "shortened": [
+            "Soon will the luminary of justice shine forth from the horizon of the heaven of divine providence. Then shall they find themselves in manifest error."
+          ]
         },
         {
           "key": "source:BH04268",
-          "why": "End with the vindication of the oppressed, the preservation of good deeds, and prayers that join fairness to mercy, opening inquiry into healing and the future of society."
+          "why": "End with the vindication of the oppressed, the preservation of good deeds, and prayers that join fairness to mercy, opening inquiry into healing and the future of society.",
+          "shortened": [
+            "The banner of tyranny hath been rolled up and the light of justice hath shone forth from the horizon of God's will, the Lord of Religions."
+          ]
         },
         {
           "key": "source:BH04592",
@@ -1408,7 +1869,10 @@
         },
         {
           "key": "source:BH04831",
-          "why": "End with the vindication of the oppressed, the preservation of good deeds, and prayers that join fairness to mercy, opening inquiry into healing and the future of society."
+          "why": "End with the vindication of the oppressed, the preservation of good deeds, and prayers that join fairness to mercy, opening inquiry into healing and the future of society.",
+          "shortened": [
+            "Ere long will the oppressor return to his abode, and the radiance of the Sun of Justice will illumine the world."
+          ]
         },
         {
           "key": "source:BH07252",
@@ -1416,7 +1880,10 @@
         },
         {
           "key": "source:BH06309",
-          "why": "End with the vindication of the oppressed, the preservation of good deeds, and prayers that join fairness to mercy, opening inquiry into healing and the future of society."
+          "why": "End with the vindication of the oppressed, the preservation of good deeds, and prayers that join fairness to mercy, opening inquiry into healing and the future of society.",
+          "shortened": [
+            "Soon will God seize those who have wronged, and raise up those who were oppressed."
+          ]
         },
         {
           "key": "source:BH07275",
@@ -1432,15 +1899,24 @@
         },
         {
           "key": "source:AB05820",
-          "why": "End with the vindication of the oppressed, the preservation of good deeds, and prayers that join fairness to mercy, opening inquiry into healing and the future of society."
+          "why": "End with the vindication of the oppressed, the preservation of good deeds, and prayers that join fairness to mercy, opening inquiry into healing and the future of society.",
+          "shortened": [
+            "That oppression caused the standard of guidance to be raised high, and that tyranny caused the city of justice and fairness to be built."
+          ]
         },
         {
           "key": "source:BH10971",
-          "why": "End with the vindication of the oppressed, the preservation of good deeds, and prayers that join fairness to mercy, opening inquiry into healing and the future of society."
+          "why": "End with the vindication of the oppressed, the preservation of good deeds, and prayers that join fairness to mercy, opening inquiry into healing and the future of society.",
+          "shortened": [
+            "However, God, exalted be His glory, made this imprisonment the cause of freedom and this confinement the means of liberation for all the peoples of the world."
+          ]
         },
         {
           "key": "source:BH09173",
-          "why": "Remember that the preservation of deeds includes the assurance that no good is lost."
+          "why": "Remember that the preservation of deeds includes the assurance that no good is lost.",
+          "shortened": [
+            "No good deed has been or ever will be lost - all are preserved and safeguarded in the treasury of divine knowledge, and their reward shall assuredly come."
+          ]
         },
         {
           "key": "source:BH09341",
@@ -1448,15 +1924,24 @@
         },
         {
           "key": "source:BH06133",
-          "why": "End with the vindication of the oppressed, the preservation of good deeds, and prayers that join fairness to mercy, opening inquiry into healing and the future of society."
+          "why": "End with the vindication of the oppressed, the preservation of good deeds, and prayers that join fairness to mercy, opening inquiry into healing and the future of society.",
+          "shortened": [
+            "Praise be unto Him Who is worthy and deserving, Who hath educated the world through justice and adorned it with the lights of grace."
+          ]
         },
         {
           "key": "source:BH11884",
-          "why": "End with the vindication of the oppressed, the preservation of good deeds, and prayers that join fairness to mercy, opening inquiry into healing and the future of society."
+          "why": "End with the vindication of the oppressed, the preservation of good deeds, and prayers that join fairness to mercy, opening inquiry into healing and the future of society.",
+          "shortened": [
+            "Praise be to God that warfare and strife have been removed, and the light of justice hath shone forth from the horizon of the Will of God, glorified be His majesty, and the pavilion of grace hath been raised at the midmost heart of contingent being."
+          ]
         },
         {
           "key": "source:BH02576",
-          "why": "End with the vindication of the oppressed, the preservation of good deeds, and prayers that join fairness to mercy, opening inquiry into healing and the future of society."
+          "why": "End with the vindication of the oppressed, the preservation of good deeds, and prayers that join fairness to mercy, opening inquiry into healing and the future of society.",
+          "shortened": [
+            "Say: O God of the sea and the pearls of wisdom therein, and Sovereign of the land and whatsoever moves therein of Thy creation, I beseech Thee by Thy Name through which were raised the standards of Thy remembrance and the banners of Thy Revelation, to transform the throne of tyranny and oppression into the seat of justice and equity."
+          ]
         },
         {
           "key": "source:BH10907",
@@ -1464,7 +1949,10 @@
         },
         {
           "key": "source:BH11740",
-          "why": "Close with a prayer that opens the gates of justice and asks for the rain of mercy."
+          "why": "Close with a prayer that opens the gates of justice and asks for the rain of mercy.",
+          "shortened": [
+            "I beseech God by thee and by those who loved thee to open before the faces of His servants the gates of justice and fairness, and to send down upon them from the heaven of His bounty the rain of His mercy and His gifts."
+          ]
         }
       ],
       "questions": [

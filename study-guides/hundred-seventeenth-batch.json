@@ -311,7 +311,7 @@
           "4636346eea1bc47a3b6b5c6b"
         ]
       },
-      "introduction": "A dead dog, a shared loaf, an old man planting trees: a small encounter can unsettle the judgments with which we enter it. These readings use stories to turn attention toward generosity, humility, courage and the distance between professed values and action. Humor exposes pretension; memories of travel, exile and hospitality give spiritual principles a human setting; familiar figures such as Joseph, Jonah and the heroes of Persian epic acquire new meanings when addressed to a person’s inner life. The collection also asks for care in reading. Revealed passages, recorded talks, reported recollections, dreams, parables and literary allusions do different kinds of work, and one reported passage explicitly distinguishes a story’s possible lack of historical foundation from its moral value. Different tellings are therefore kept visible, together with their source attributions and qualifications. Some incidents describe harsh practices or inherited social judgments that call for attention to their setting and to the purpose of the passage. The connected subjects of humor, poetry, dreams, the apostles and the lives of the early believers offer paths for deeper inquiry. Comparative readings from Luke and a Buddhist discourse invite us to examine how a narrative travels, what its framing makes visible, and how its challenge might become a question about our own conduct.",
+      "introduction": "Jesus stops beside a rotting dog and remarks on the whiteness of its teeth. An old gardener plants date palms he will never harvest and talks a caliph out of his treasury. A grieving Arab weeps over his dying dog, yet will not share his bread with it. Stories like these do not argue; they catch us in the middle of a judgment and turn the judgment around. ‘Abdu’l-Bahá told them constantly, on the road, at table, in prison and in the drawing rooms of the West, because a well-placed anecdote reaches a habit of mind that no instruction touches: the generosity that costs nothing, the piety that flees the moment the Imam hands over his horse, the courtier who praises verses he privately despises. A story may be revealed scripture, a remembered conversation or folk wisdom whose history no one can verify and whose moral no one can miss. To follow it further is to walk into humour and jokes, into the dreams and visions that so often carry its meaning, and into the recollections of the early believers, whose lives were themselves the hardest stories to hear.",
       "arc": "Seeing again → Kindness made concrete → Giving, gratitude and contentment → What laughter brings to light → Power, reputation and judgment → What can be left behind → Questions, discernment and learning → On the road and around the table → Remembering the early community → The disciples and the widening circle → Sacred narratives read anew → Joseph: loss, recognition and love → Dream, memory and the unseen → Courage that gives life",
       "order": [
         {
@@ -324,7 +324,10 @@
         },
         {
           "key": "source:ABU2511",
-          "why": "Let the familiar contrast of the two prayers turn scrutiny toward the reader’s own assumptions."
+          "why": "Let the familiar contrast of the two prayers turn scrutiny toward the reader’s own assumptions.",
+          "shortened": [
+            "Once a Pharisee and a Publican entered the Temple to pray. The Pharisee said: 'Thank God I am not as other men.' The other said: 'God have mercy upon me, a sinner!' Christ said of these two: 'The Pharisee is not acceptable in the Kingdom of God, but the other is acceptable, because the Pharisee is trusting in his own action, but the other is depending upon the forgiveness of God.'"
+          ]
         },
         {
           "key": "source:ABU2308",
@@ -340,11 +343,19 @@
         },
         {
           "key": "source:ABU1368",
-          "why": "Set the grief over a dying dog beside the unwillingness to share bread, making the gap between feeling and action visible."
+          "why": "Set the grief over a dying dog beside the unwillingness to share bread, making the gap between feeling and action visible.",
+          "shortened": [
+            "Once a poor Arab was weeping and wailing in the wilderness while tending to his dying dog.",
+            "These expressions were so moving that the passerby too began to weep.",
+            "Insulted, the Arab stared at him and exclaimed, 'I said I loved the dog, but not enough to share my own bread with him!'"
+          ]
         },
         {
           "key": "source:ABU0133",
-          "why": "Introduce the source’s own distinction between a story’s historical foundation and the moral insight it can convey."
+          "why": "Introduce the source’s own distinction between a story’s historical foundation and the moral insight it can convey.",
+          "shortened": [
+            "In the East there are many stories extant about the deeds of this singular man, some of them probably without any historical foundation, yet inculcating a deep moral lesson, the spiritual value of which is brought home to every individual."
+          ]
         },
         {
           "key": "source:ABU1618",
@@ -352,15 +363,25 @@
         },
         {
           "key": "source:ABU0409",
-          "why": "Restore the explicit rejection of this anti-Muhammad fabrication before its retelling; the accusation must not appear as an endorsed account."
+          "why": "Restore the explicit rejection of this anti-Muhammad fabrication before its retelling; the accusation must not appear as an endorsed account.",
+          "shortened": [
+            "It is as follows:-",
+            "\"When Sergius met Mohamad he was so impressed by his general bearing and coupled with an intuitive knowledge he was convinced that later in life this youth will become a King. Hence he took him aside and said:- 'What wilt thou give me if I made thee a King, a ruler over many nations and tribes?'"
+          ]
         },
         {
           "key": "source:ABU3551",
-          "why": "Open with small encounters that overturn an easy judgment, then introduce the question of how stories teach and how their sources should be read."
+          "why": "Open with small encounters that overturn an easy judgment, then introduce the question of how stories teach and how their sources should be read.",
+          "shortened": [
+            "He described how as a young boy he witnessed the Mystery Play of Ali's Betrayal and Passion, and how it affected him so deeply that he wept and could not sleep for many nights."
+          ]
         },
         {
           "key": "source:AB04019",
-          "why": "Follow the change of vision into hospitality, help and care, allowing difficult encounters and the explicit distinction about non-retaliation to complicate a simple moral."
+          "why": "Follow the change of vision into hospitality, help and care, allowing difficult encounters and the explicit distinction about non-retaliation to complicate a simple moral.",
+          "shortened": [
+            "Christ says that if a kind shepherd loses one sheep from the flock, he leaves the other sheep to run after that lost sheep."
+          ]
         },
         {
           "key": "source:ABU3536",
@@ -368,7 +389,11 @@
         },
         {
           "key": "source:ABU2005",
-          "why": "Follow the change of vision into hospitality, help and care, allowing difficult encounters and the explicit distinction about non-retaliation to complicate a simple moral."
+          "why": "Follow the change of vision into hospitality, help and care, allowing difficult encounters and the explicit distinction about non-retaliation to complicate a simple moral.",
+          "shortened": [
+            "When Baha'u'llah left Bagdad and without the knowledge of the friends went to Soleymanie, one day he saw a boy in the streets weeping.",
+            "Then all the learned and wise men of the city gather around him and after a time finding that these men have taken all his time, he retired to the mountains where nobody could reach him."
+          ]
         },
         {
           "key": "source:ABU2659",
@@ -376,11 +401,17 @@
         },
         {
           "key": "source:ABU0256",
-          "why": "Follow the change of vision into hospitality, help and care, allowing difficult encounters and the explicit distinction about non-retaliation to complicate a simple moral."
+          "why": "Follow the change of vision into hospitality, help and care, allowing difficult encounters and the explicit distinction about non-retaliation to complicate a simple moral.",
+          "shortened": [
+            "Where can I find another like him, with such sincerity, such faithfulness, such character, such power? Where can I find one? O Isfandiyar! I am not willing that you should go, yet if you wish to go, let it be according to your own will.\" But because the Blessed Perfection had said, \"You must be faithful,\" Isfandiyar stayed with his master until he died. He was a point of light. Although his color was black, yet his character was luminous; his mind was luminous; his face was luminous. Truly, he was a point of light."
+          ]
         },
         {
           "key": "source:ABU2528",
-          "why": "Follow the change of vision into hospitality, help and care, allowing difficult encounters and the explicit distinction about non-retaliation to complicate a simple moral."
+          "why": "Follow the change of vision into hospitality, help and care, allowing difficult encounters and the explicit distinction about non-retaliation to complicate a simple moral.",
+          "shortened": [
+            "I had a servant, Esphandiar by name; he was better than a hundred whites. He was so good tempered, so faithful and trustworthy. One would be amazed at his intelligence."
+          ]
         },
         {
           "key": "source:ABU2050",
@@ -412,7 +443,10 @@
         },
         {
           "key": "source:ABU1426",
-          "why": "Follow the change of vision into hospitality, help and care, allowing difficult encounters and the explicit distinction about non-retaliation to complicate a simple moral."
+          "why": "Follow the change of vision into hospitality, help and care, allowing difficult encounters and the explicit distinction about non-retaliation to complicate a simple moral.",
+          "shortened": [
+            "One day I summoned him and said: \"When the soldiers were here, this pool was always full; why is it like this now?\" He related a story, saying that in Egypt someone went somewhere and asked: \"Is there anything for God's sake?\" They said no. He asked: \"Is there anything for the Prophet's sake?\" They said no. He asked: \"Is there anything for the sake of the saints?\" They said no. He asked: \"Is there anything for the sake of the stick?\" They said: \"Everything is ready!\""
+          ]
         },
         {
           "key": "source:ABU0396",
@@ -420,7 +454,10 @@
         },
         {
           "key": "source:ABU0598",
-          "why": "Follow the change of vision into hospitality, help and care, allowing difficult encounters and the explicit distinction about non-retaliation to complicate a simple moral."
+          "why": "Follow the change of vision into hospitality, help and care, allowing difficult encounters and the explicit distinction about non-retaliation to complicate a simple moral.",
+          "shortened": [
+            "\"While we were in Baghdad,\" the Master said, \"this Mirza Javad was with us. He had a melancholic and disconsolate disposition; he used to get angry most quickly. It was impossible for any man to associate with him for one day without having a quarrel. His disposition was most bitter and his temper something terrific. With such a person I spent very amicably for eight yrs."
+          ]
         },
         {
           "key": "source:ABU1668",
@@ -428,15 +465,24 @@
         },
         {
           "key": "source:ABU1862",
-          "why": "Preserve the distinction between public restraint of wrongdoing and personal retaliation before the example of forgiveness."
+          "why": "Preserve the distinction between public restraint of wrongdoing and personal retaliation before the example of forgiveness.",
+          "shortened": [
+            "\"As an illustration of what I mean by the spirit of non-retaliation, I may mention the instance of a believer in Russia who was attacked without provocation and almost killed. The criminal was tried and condemned to death. The believer, animated by this spirit, begged the Governor to mitigate the sentence, and obtained its reduction to several years of banishment."
+          ]
         },
         {
           "key": "source:BH01986",
-          "why": "Move from receiving bread with gratitude to sharing limited resources, noticing the difference between possessions and generosity and between comfort and joy."
+          "why": "Move from receiving bread with gratitude to sharing limited resources, noticing the difference between possessions and generosity and between comfort and joy.",
+          "shortened": [
+            "Once His Holiness David wished to meet a thankful person. He observed someone who had taken some wheat and barley mixed together and ground it between two stones until it became like flour. Then he kneaded it and made a loaf, and made a fire from some straw. After the flames died down, he placed the loaf on the embers."
+          ]
         },
         {
           "key": "source:ABU1518",
-          "why": "Move from receiving bread with gratitude to sharing limited resources, noticing the difference between possessions and generosity and between comfort and joy."
+          "why": "Move from receiving bread with gratitude to sharing limited resources, noticing the difference between possessions and generosity and between comfort and joy.",
+          "shortened": [
+            "When everything was ready I told him: \"now start eating but with the same thankfulness you ate your bread yesterday.\" I did not need to say that, he would have done it anyway, but we enjoyed seeing him so thankful."
+          ]
         },
         {
           "key": "source:AB00615",
@@ -448,7 +494,10 @@
         },
         {
           "key": "source:AB06170",
-          "why": "Move from receiving bread with gratitude to sharing limited resources, noticing the difference between possessions and generosity and between comfort and joy."
+          "why": "Move from receiving bread with gratitude to sharing limited resources, noticing the difference between possessions and generosity and between comfort and joy.",
+          "shortened": [
+            "O Hátim of the realm of longing and yearning! Hátim of Ta'iy bestowed dirhams and dinars and horses and camels and brocades and garments. He spread the feast of food and the table of bounty. And this giving and bestowing made his name endure in this transient world. But his food was the flesh of desert camels and his drink the water from dangerous wilderness pits."
+          ]
         },
         {
           "key": "source:ABU2038",
@@ -456,7 +505,10 @@
         },
         {
           "key": "source:ABU2235",
-          "why": "Move from receiving bread with gratitude to sharing limited resources, noticing the difference between possessions and generosity and between comfort and joy."
+          "why": "Move from receiving bread with gratitude to sharing limited resources, noticing the difference between possessions and generosity and between comfort and joy.",
+          "shortened": [
+            "It is said that Sultan Mabmud cut a melon and gave a portion of it to Ayaz who ate it cheerfully and expressed gratitude. When the Sultan ate a little of the same melon, he found it bitter. He asked, 'How did you eat such a bitter melon and show no sign of disliking it?' Ayaz answered, 'I had eaten many sweet and palatable things from the hands of the Sultan and I thought it very unworthy of me to express dislike on eating a slightly bitter thing today.'"
+          ]
         },
         {
           "key": "source:ABU2532",
@@ -496,7 +548,10 @@
         },
         {
           "key": "source:ABU0156",
-          "why": "Let misunderstandings, quick replies and domestic incidents expose habits of mind. Preserve the reported setting and wording without turning every joke into a general rule."
+          "why": "Let misunderstandings, quick replies and domestic incidents expose habits of mind. Preserve the reported setting and wording without turning every joke into a general rule.",
+          "shortened": [
+            "I recall an incident which occurred in Bagdad. There were two friends who knew not each other's language. One fell ill, the other visited him, but not being able to express his sympathy in words, resorted to gesture, as if to say, \"How do you feel?\" With another sign the sick replied, \"I shall soon be dead;\" and his visitor, believing the gesture to indicate that he was getting better, said, \"God be praised!\""
+          ]
         },
         {
           "key": "source:ABU0673",
@@ -508,7 +563,10 @@
         },
         {
           "key": "source:ABU0311",
-          "why": "Let misunderstandings, quick replies and domestic incidents expose habits of mind. Preserve the reported setting and wording without turning every joke into a general rule."
+          "why": "Let misunderstandings, quick replies and domestic incidents expose habits of mind. Preserve the reported setting and wording without turning every joke into a general rule.",
+          "shortened": [
+            "There was once a young mulla who wished to become specialized in the evaluation of human character through the study of physiognomy. Leaving his home, he travelled to Egypt and for six years studied the science of facial features. After a great deal of the hardship which is the lot for any foreigner in a strange land, he passed his tests in both theory and practice, and having been granted the required certificates he mounted his mule and happily headed back towards his homeland."
+          ]
         },
         {
           "key": "source:ABU0566",
@@ -540,11 +598,17 @@
         },
         {
           "key": "source:ABU0546",
-          "why": "Let misunderstandings, quick replies and domestic incidents expose habits of mind. Preserve the reported setting and wording without turning every joke into a general rule."
+          "why": "Let misunderstandings, quick replies and domestic incidents expose habits of mind. Preserve the reported setting and wording without turning every joke into a general rule.",
+          "shortened": [
+            "Smilingly, 'Abdu'l-Baha shared:  The late Mirza Rida-Quli had an argument with his maternal cousin. The cousin bribed Mirza Isma'il Savihchi with a meal, inducing him to present false testimony to the 'ulama, and thereby winning his case. One day Mirza Rida-Quli was walking by Tihran's moat when he saw Mirza Isma'il, who said to him, \"Why do you look at me so angrily? Your cousin fed me and tricked me into testimony. Now, if you feed me, instead of him, I will support you!\""
+          ]
         },
         {
           "key": "source:ABU0406",
-          "why": "Let misunderstandings, quick replies and domestic incidents expose habits of mind. Preserve the reported setting and wording without turning every joke into a general rule."
+          "why": "Let misunderstandings, quick replies and domestic incidents expose habits of mind. Preserve the reported setting and wording without turning every joke into a general rule.",
+          "shortened": [
+            "Once Aga Reza was making confectionary in Adrianople and had a small store. He had made a sort of Persian bon-bon. A Turk passed by the store and his eyes were attracted by this kind of candy. \"What is this?\" he asked. \"It is Nogl.\" 'With what materials hast thou made this?\" \"With sugar and cinnamon.\" The Turk wondered for awhile and said: 'Thou art telling a lie. There is no relationship between sugar and cinnamon.'"
+          ]
         },
         {
           "key": "source:ABU1094",
@@ -552,7 +616,10 @@
         },
         {
           "key": "source:ABU1944",
-          "why": "Let misunderstandings, quick replies and domestic incidents expose habits of mind. Preserve the reported setting and wording without turning every joke into a general rule."
+          "why": "Let misunderstandings, quick replies and domestic incidents expose habits of mind. Preserve the reported setting and wording without turning every joke into a general rule.",
+          "shortened": [
+            "Taki Menshadi often spoke during the hours of sleep. Once I slept with him in the same room and was kept awake because of this habit of his. I thought he will be embarrassed and lose his sleep if I called his attention to it, therefore I never told him anything about it. It is stated that while a person speaks during his sleep, if questions are put to him he will answer truthfully. Menshadi was a blessed soul and he served this Cause with rare faithfulness. His soliloquies during the hours of sleep amused me very much and often I was afraid that the sound of my laughter will awake him ..."
+          ]
         },
         {
           "key": "source:ABU2018",
@@ -572,7 +639,10 @@
         },
         {
           "key": "source:ABU1884",
-          "why": "Let misunderstandings, quick replies and domestic incidents expose habits of mind. Preserve the reported setting and wording without turning every joke into a general rule."
+          "why": "Let misunderstandings, quick replies and domestic incidents expose habits of mind. Preserve the reported setting and wording without turning every joke into a general rule.",
+          "shortened": [
+            "We had a [f... Ba...] by name Hadi Hassan of Tabriz. He was very restless and very nervous. One day he came to the holy presence of the Blessed One. There was a quince there. The B[lessed] B[eauty] gave it to him and said: 'This quince is quieting. This quince is [yours], eat it.' Hadi H[assan] took [the] q[uince] and went out. He was eating and [...] 'it is quieting'. He [...] quiet. This restlessness was [clearly] changed to tranquility."
+          ]
         },
         {
           "key": "source:ABU3393",
@@ -584,7 +654,11 @@
         },
         {
           "key": "source:ABU1156",
-          "why": "Let misunderstandings, quick replies and domestic incidents expose habits of mind. Preserve the reported setting and wording without turning every joke into a general rule."
+          "why": "Let misunderstandings, quick replies and domestic incidents expose habits of mind. Preserve the reported setting and wording without turning every joke into a general rule.",
+          "shortened": [
+            "Then he illustrated the length of his journey by the following story:",
+            "\"A certain Kurd was awakened in the morning to say his prayers. He arose and prayed five times successively. (The Mohammedan morning prayer consists of facing Mecca, reading a passage from the Koran, and bowing and kneeling twice in supplication.) The people said to him, 'What art thou doing? The morning prayer should be uttered only twice and thou art repeating it five times.' He replied, 'God bless you. I do not say my prayers often. When I do say them, why should I say them only twice? The more the better!'"
+          ]
         },
         {
           "key": "source:BHU0016",
@@ -608,11 +682,17 @@
         },
         {
           "key": "source:ABU2148",
-          "why": "Read rulers, courts and social hierarchies through their reversals, bringing vanity and failed judgment into view. These reported incidents retain their historical setting and are not instructions for punishment or governance."
+          "why": "Read rulers, courts and social hierarchies through their reversals, bringing vanity and failed judgment into view. These reported incidents retain their historical setting and are not instructions for punishment or governance.",
+          "shortened": [
+            "Have you heard the story of the emperor who looked into the mirror and became very sad and despondent? He said, \"Oh! What a healthy and vigorous body I had but how worn it has become now! What a handsome face I had but how ugly it has become now! What graceful stature I had but how bent my body has become with age!\" Thus he spoke one by one of the physical conditions of his youth and expressed his sadness at their loss."
+          ]
         },
         {
           "key": "source:ABU2240",
-          "why": "Read rulers, courts and social hierarchies through their reversals, bringing vanity and failed judgment into view. These reported incidents retain their historical setting and are not instructions for punishment or governance."
+          "why": "Read rulers, courts and social hierarchies through their reversals, bringing vanity and failed judgment into view. These reported incidents retain their historical setting and are not instructions for punishment or governance.",
+          "shortened": [
+            "A king at the time of his death wished he was of the poor class. 'I wish I was poor!' he exclaimed. 'In the first place, I would not have ruled with injustice, and, in the second place, at the last moment, I would not be in such a state of remorse and regret!' A poor man who heard him say this exclaimed, 'Thank God that at the time of death, the kings wish to be poor, but we, the poor. At the time of death never desire to say we wish we were kings'!"
+          ]
         },
         {
           "key": "source:AB01245",
@@ -628,11 +708,17 @@
         },
         {
           "key": "source:ABU0509",
-          "why": "Read rulers, courts and social hierarchies through their reversals, bringing vanity and failed judgment into view. These reported incidents retain their historical setting and are not instructions for punishment or governance."
+          "why": "Read rulers, courts and social hierarchies through their reversals, bringing vanity and failed judgment into view. These reported incidents retain their historical setting and are not instructions for punishment or governance.",
+          "shortened": [
+            "When Halakou Khan, the great Tartar Conqueror entered Bagdad, he ordered his men to look over the records and the books of the financial department of the Abbaside Khalifs - so that the revenues of his newly-acquired dominion may be based upon a firm foundation and all those who have not paid their annual taxes may be so taxed according to law. While they were searching through the books they came across two items of taxation and expenditure that gave them much food for thought. Under one of the days of the month (12 Safar) it was recorded that Jafar Barmaki has paid one hundred thousand Dinars as taxes and right beside the above account, another small item was inserted two days afterwards that half Derham (five cents) was expended on old clothes and naphta with which to burn the body of the same man..."
+          ]
         },
         {
           "key": "source:ABU0479",
-          "why": "Read rulers, courts and social hierarchies through their reversals, bringing vanity and failed judgment into view. These reported incidents retain their historical setting and are not instructions for punishment or governance."
+          "why": "Read rulers, courts and social hierarchies through their reversals, bringing vanity and failed judgment into view. These reported incidents retain their historical setting and are not instructions for punishment or governance.",
+          "shortened": [
+            "At this point Hajjaj's army arrived, and the Bedouin became very frightened. Hajjaj ordered, \"Secure his camels and bring him to me.\" When the Beouin came to his presence, weak-kneed, Hajjaj said, \"Peace be upon you.\" He replied, \"Peace be upon you, and the mercy of God and His blessings.\" He asked, \"Do you drink wine?\" He replied, \"No.\" He asked, \"Do you eat food?\" He answered, \"Yes.\" They prepared for him a fine meal. He ate and said, \"It is delicious, but may God preserve me in what is to follow.\" He said, \"Be at ease and eat properly.\" After he ate, he was told, \"There are two choices before you: either be my companion and intimate friend, or I shall have you bound and sent to the Caliph.\" He replied, \"O Commander, there is yet a third option, which is that you let me return to my camels.\" He bestowed a gift upon him and released him."
+          ]
         },
         {
           "key": "source:ABU1051",
@@ -656,15 +742,24 @@
         },
         {
           "key": "source:AB00509",
-          "why": "Read rulers, courts and social hierarchies through their reversals, bringing vanity and failed judgment into view. These reported incidents retain their historical setting and are not instructions for punishment or governance."
+          "why": "Read rulers, courts and social hierarchies through their reversals, bringing vanity and failed judgment into view. These reported incidents retain their historical setting and are not instructions for punishment or governance.",
+          "shortened": [
+            "Mu'awiyah was asked: \"Despite the fact that the Prophet said regarding you 'May God never fill his belly,' and said 'God's curse be upon the she-camel, its rider and its leader,' and your father broke the Prophet's tooth, and your mother sucked the liver of Hamzah the Prophet's uncle, and you yourself were detested - how did you become the sovereign ruler of Islam and establish yourself on the throne of the caliphate?\" He replied, \"It was because the companions of the Commander of the Faithful disagreed so much, and the more they disagreed, the stronger I became.\""
+          ]
         },
         {
           "key": "source:ABU1380",
-          "why": "Read rulers, courts and social hierarchies through their reversals, bringing vanity and failed judgment into view. These reported incidents retain their historical setting and are not instructions for punishment or governance."
+          "why": "Read rulers, courts and social hierarchies through their reversals, bringing vanity and failed judgment into view. These reported incidents retain their historical setting and are not instructions for punishment or governance.",
+          "shortened": [
+            "Mu'tamidu'd-Dawlih of Isfahan, Manuchihr Khan, built extensively. He owned many villages around Tehran. All these edifices, these buildings, these properties - all of them vanished. All of it was ruined, no trace remained. However, in the City of God he laid one brick, and that brick endured and will not be destroyed. For several days he protected the Blessed Beauty from enemies in his private quarters. At first he outwardly sent Him away but then kept Him protected in his private covered quarters."
+          ]
         },
         {
           "key": "source:ABU2742",
-          "why": "Read rulers, courts and social hierarchies through their reversals, bringing vanity and failed judgment into view. These reported incidents retain their historical setting and are not instructions for punishment or governance."
+          "why": "Read rulers, courts and social hierarchies through their reversals, bringing vanity and failed judgment into view. These reported incidents retain their historical setting and are not instructions for punishment or governance.",
+          "shortened": [
+            "Thirty-six persons sat upon the throne of the caliphate, and all were bound to name and fame, yet of none of them does any trace or sign remain. But because Bahlul was known as the madman of God, they are still building domes and shrines in his honor."
+          ]
         },
         {
           "key": "source:ABU0661",
@@ -680,7 +775,10 @@
         },
         {
           "key": "source:ABU1596",
-          "why": "Read rulers, courts and social hierarchies through their reversals, bringing vanity and failed judgment into view. These reported incidents retain their historical setting and are not instructions for punishment or governance."
+          "why": "Read rulers, courts and social hierarchies through their reversals, bringing vanity and failed judgment into view. These reported incidents retain their historical setting and are not instructions for punishment or governance.",
+          "shortened": [
+            "Among the deceptions of Mirza Muhsin Khan, the Iranian Ambassador in Istanbul, was that one time he invited Shakir Pasha, the brother of Grand Vizier Kamil Pasha, to his home and made him understand that he was the foremost admirer of the Most Glorious Station [Baha'u'llah]. Then Shakir Pasha came to me and said the Ambassador had greatly praised and commended you. The Ambassador's purpose was on one hand to portray himself as a supporter of Baha'u'llah while on the other hand to dig a deep pit for Him."
+          ]
         },
         {
           "key": "source:ABU2394",
@@ -712,31 +810,52 @@
         },
         {
           "key": "source:ABU1340",
-          "why": "Read rulers, courts and social hierarchies through their reversals, bringing vanity and failed judgment into view. These reported incidents retain their historical setting and are not instructions for punishment or governance."
+          "why": "Read rulers, courts and social hierarchies through their reversals, bringing vanity and failed judgment into view. These reported incidents retain their historical setting and are not instructions for punishment or governance.",
+          "shortened": [
+            "The inhabitants of one of the provinces of Persia desired to get free from the onerous burden of Military Conscription which was laid upon them by new laws put in force by the then Minister of war. One amongst them said I will do something so that the whole province become exempt from this law. They were naturally very glad. In Teheran there is a Military square in the centre of which they have mounted on a platform a great cannon; so this man got a hearse and bringing it near this platform stationed himself beside it started to cry, bemoan and lament."
+          ]
         },
         {
           "key": "source:ABU1064",
-          "why": "Read rulers, courts and social hierarchies through their reversals, bringing vanity and failed judgment into view. These reported incidents retain their historical setting and are not instructions for punishment or governance."
+          "why": "Read rulers, courts and social hierarchies through their reversals, bringing vanity and failed judgment into view. These reported incidents retain their historical setting and are not instructions for punishment or governance.",
+          "shortened": [
+            "There was a man in Bagdad who was the chief of a thousand warriors. These men were not in the regular army but the government gave the chief two thousand dollars a month so that he may divide it amongst his men with the stipulation that whenever war breaks forth this chief with his one thousand strong warrior [sic] may join the army. But instead of paying two dollars to his men monthly he would give them one dollar and pocket the rest."
+          ]
         },
         {
           "key": "source:ABU0001",
-          "why": "Set stories about attachment beside the longing for freedom, placing different tellings of the wealthy and poor travelers together and asking what makes a person inwardly free."
+          "why": "Set stories about attachment beside the longing for freedom, placing different tellings of the wealthy and poor travelers together and asking what makes a person inwardly free.",
+          "shortened": [
+            "\"In the writings of Baha'u'llah there are events which were not mentioned in the Gospels. These traditions are from the life of Christ. They show the genius and sublimity of Christ. I would like to tell you another story. It is said that one day Christ arrived in a village where the government made a law that the inhabitants must not allow strangers to enter their homes."
+          ]
         },
         {
           "key": "source:ABU0882",
-          "why": "Set stories about attachment beside the longing for freedom, placing different tellings of the wealthy and poor travelers together and asking what makes a person inwardly free."
+          "why": "Set stories about attachment beside the longing for freedom, placing different tellings of the wealthy and poor travelers together and asking what makes a person inwardly free.",
+          "shortened": [
+            "Jesus was a poor man. One night when He was out in the fields, the rain began to fall. He had no place to go for shelter so He lifted His eyes toward heaven, saying, \"O Father! For the birds of the air Thou hast created nests, for the sheep a fold, for the animals dens, for the fish places of refuge, but for Me Thou hast provided no shelter."
+          ]
         },
         {
           "key": "source:ABU0890",
-          "why": "Set stories about attachment beside the longing for freedom, placing different tellings of the wealthy and poor travelers together and asking what makes a person inwardly free."
+          "why": "Set stories about attachment beside the longing for freedom, placing different tellings of the wealthy and poor travelers together and asking what makes a person inwardly free.",
+          "shortened": [
+            "A certain rich man came into the presence of Jesus Christ and said \"O thou Spirit of God, I want to be one of thy disciples.\" Jesus said, \"Go and follow the Ten Commandments.\" In reply the man said, that he had know n the Ten Commandments from his youth and wanted to receive some new teaching. Jesus then said, \"Go to thy house and give all that thou hast in the path of God and carry thy cross and come to be my disciple.\""
+          ]
         },
         {
           "key": "source:ABU1073",
-          "why": "Set stories about attachment beside the longing for freedom, placing different tellings of the wealthy and poor travelers together and asking what makes a person inwardly free."
+          "why": "Set stories about attachment beside the longing for freedom, placing different tellings of the wealthy and poor travelers together and asking what makes a person inwardly free.",
+          "shortened": [
+            "Two friends - one a detached wealthy man and one an attached poor man - suddenly went on a journey at the poor man's request, leaving behind all attachments and means."
+          ]
         },
         {
           "key": "source:ABU0725",
-          "why": "Set stories about attachment beside the longing for freedom, placing different tellings of the wealthy and poor travelers together and asking what makes a person inwardly free."
+          "why": "Set stories about attachment beside the longing for freedom, placing different tellings of the wealthy and poor travelers together and asking what makes a person inwardly free.",
+          "shortened": [
+            "A rich man and a poor man lived in the same town. One day the poor man said to the rich man, \"I want to go to the Holy Land.\""
+          ]
         },
         {
           "key": "source:ABU1478",
@@ -780,7 +899,10 @@
         },
         {
           "key": "source:ABU2023",
-          "why": "Set stories about attachment beside the longing for freedom, placing different tellings of the wealthy and poor travelers together and asking what makes a person inwardly free."
+          "why": "Set stories about attachment beside the longing for freedom, placing different tellings of the wealthy and poor travelers together and asking what makes a person inwardly free.",
+          "shortened": [
+            "This is the Lake around which His Holiness Christ often walked, over which he often sailed. The site wherein he called his apostles into active service is very near. While he was walking and thinking about the Kingdom of God he saw them fishing and realizing that they were endowed with receptive hearts he addressed them: Come and I will make ye the fishers of men and Baha'u'llah addressing the people of the world said: Come and I will make ye the vivifiers of mankind."
+          ]
         },
         {
           "key": "source:ABU1685",
@@ -788,7 +910,10 @@
         },
         {
           "key": "source:ABU1038",
-          "why": "Set stories about attachment beside the longing for freedom, placing different tellings of the wealthy and poor travelers together and asking what makes a person inwardly free."
+          "why": "Set stories about attachment beside the longing for freedom, placing different tellings of the wealthy and poor travelers together and asking what makes a person inwardly free.",
+          "shortened": [
+            "Surely you have read in the wisdom of Solomon - Solomon says: When I was a child, I thought pleasure was in wandering and riding. When I reached youth and experienced excursions, riding and wandering, I saw there was no pleasure in it. I said to myself pleasure is in sovereignty, in power, in ruling. When I attained sovereignty I saw there was no pleasure in that either."
+          ]
         },
         {
           "key": "source:AB03060",
@@ -796,7 +921,10 @@
         },
         {
           "key": "source:AB08388",
-          "why": "Set stories about attachment beside the longing for freedom, placing different tellings of the wealthy and poor travelers together and asking what makes a person inwardly free."
+          "why": "Set stories about attachment beside the longing for freedom, placing different tellings of the wealthy and poor travelers together and asking what makes a person inwardly free.",
+          "shortened": [
+            "Jinab-i-Aqa Siyyid Taqi relates that someone saw a distinguished personage in the realm of dreams and asked him how his affairs had fared at the Divine Threshold. He replied that when we reached that Threshold, they asked \"What gift have you brought?\" I submitted \"Knowledge.\" They said: \"Verily, thy Lord's treasuries are full of this.\" I said \"Good deeds and acts of worship.\" They said: \"Verily, thy Lord's treasuries are full of these.\""
+          ]
         },
         {
           "key": "source:AB01531",
@@ -804,11 +932,17 @@
         },
         {
           "key": "source:AB02731",
-          "why": "Read challenges to literalism and superficial expertise together, keeping actual questions with answers and the qualifications that prevent an illustration from becoming a prescription."
+          "why": "Read challenges to literalism and superficial expertise together, keeping actual questions with answers and the qualifications that prevent an illustration from becoming a prescription.",
+          "shortened": [
+            "Likewise in traditions and narrations, even in the Mathnavi it is versified that someone asked the Prince of Believers (may my spirit be a sacrifice for him): \"Are you confident and assured in God's protection?\" He replied \"I am certain.\" Then the person said \"Then throw yourself down from the roof's height, for God is the Protector.\" He replied \"It befits not the servant to test his Lord, rather it befits God to test His servant.\""
+          ]
         },
         {
           "key": "source:ABU0786",
-          "why": "Retain the actual question and the medical qualification after the fasting story; a reported ordeal is not advice to imitate it."
+          "why": "Retain the actual question and the medical qualification after the fasting story; a reported ordeal is not advice to imitate it.",
+          "shortened": [
+            "Mr. X. in Persia did not believe that one could fast for nine days. He brought a Jew and imprisoned him in a room and locked the door, and did not permit anything (food or water) to be taken to him. Indeed, his prisoner took nothing for nine days, not even water. For six days he slept, then he could not sleep any more, but he was very weak."
+          ]
         },
         {
           "key": "source:ABU1054",
@@ -824,7 +958,11 @@
         },
         {
           "key": "source:ABU3685",
-          "why": "Read challenges to literalism and superficial expertise together, keeping actual questions with answers and the qualifications that prevent an illustration from becoming a prescription."
+          "why": "Read challenges to literalism and superficial expertise together, keeping actual questions with answers and the qualifications that prevent an illustration from becoming a prescription.",
+          "shortened": [
+            "Though time and again Siyyid Mihdi Dihaji would mention some service he had ostensibly rendered with regard to the imprisonment of Mirza Abu'l-Fadl in Tehran, when this subject was raised on a certain occasion, Mirza Abu'l-Fadl immediately said the following with the utmost candour:",
+            "The truth is that none of us did anything worthy of mention. The real effort was made by Mulla Rida Yazdi, who became well-known for his consummate courage, perseverance, and sincerity, and openly discussed matters of religion with the princes of Persia. As he had gained a reputation for his honesty and truthfulness, when he stated that the Baha'is do not involve themselves in political affairs, his words were accepted by his audience. My companions and I, however, preferred to speak more cautiously, and saw fit to give the vicegerent the impression that Mulla Rida Yazdi was a Sufi or Ghali. Mulla Rida Yazdi, for his part, would candidly say to the vicegerent, 'That which I have said is the very truth. When Mirza Abu'l-Fadl and his companions gather at each other's homes, they say precisely the things I am saying.'"
+          ]
         },
         {
           "key": "source:BH01233",
@@ -832,7 +970,10 @@
         },
         {
           "key": "source:BH03045",
-          "why": "Read challenges to literalism and superficial expertise together, keeping actual questions with answers and the qualifications that prevent an illustration from becoming a prescription."
+          "why": "Read challenges to literalism and superficial expertise together, keeping actual questions with answers and the qualifications that prevent an illustration from becoming a prescription.",
+          "shortened": [
+            "Thy desire to leave this land, despite thy assigned duties, for other lands for the sake of another service is like that Bedouin Arab who set out for Baghdad hoping to attain the presence of the Caliph. He took with him as a gift a waterskin filled with water he had collected from a pool, unaware that the Tigris was flowing and the Euphrates coursing."
+          ]
         },
         {
           "key": "source:ABU0487",
@@ -848,11 +989,18 @@
         },
         {
           "key": "source:BH04300",
-          "why": "Read challenges to literalism and superficial expertise together, keeping actual questions with answers and the qualifications that prevent an illustration from becoming a prescription."
+          "why": "Read challenges to literalism and superficial expertise together, keeping actual questions with answers and the qualifications that prevent an illustration from becoming a prescription.",
+          "shortened": [
+            "Behold ye and call to mind what befell 'Ad and Thamud who turned away and opposed those whom God had sent unto them to guide them to His straight path."
+          ]
         },
         {
           "key": "source:ABU2362",
-          "why": "Read challenges to literalism and superficial expertise together, keeping actual questions with answers and the qualifications that prevent an illustration from becoming a prescription."
+          "why": "Read challenges to literalism and superficial expertise together, keeping actual questions with answers and the qualifications that prevent an illustration from becoming a prescription.",
+          "shortened": [
+            "\"There was once a disciple of Muhammad who asked of another disciple, 'What shall I do to please God?' And the other disciple replied: 'Do not kill. Do not steal. Do not covet,' etc., etc., etc.",
+            "Then the disciple went to 'Ali. 'What do you say I should do in order to please God and to become nearer to Him?' 'One thing only: be truthful.'"
+          ]
         },
         {
           "key": "source:ABU1984",
@@ -876,11 +1024,17 @@
         },
         {
           "key": "source:ABU1746",
-          "why": "Read challenges to literalism and superficial expertise together, keeping actual questions with answers and the qualifications that prevent an illustration from becoming a prescription."
+          "why": "Read challenges to literalism and superficial expertise together, keeping actual questions with answers and the qualifications that prevent an illustration from becoming a prescription.",
+          "shortened": [
+            "Hajji Mirza Kamal al-Din Naraqi had an uncle named Hajji Mulla Muhammad Naraqi. One day Hajji Mirza Kamal al-Din related that one night he was sleeping at his uncle's house. In the middle of the night, his uncle got up barefoot and bareheaded, fell to the ground and wept bitterly."
+          ]
         },
         {
           "key": "source:ABU1728",
-          "why": "Read challenges to literalism and superficial expertise together, keeping actual questions with answers and the qualifications that prevent an illustration from becoming a prescription."
+          "why": "Read challenges to literalism and superficial expertise together, keeping actual questions with answers and the qualifications that prevent an illustration from becoming a prescription.",
+          "shortened": [
+            "Virtue and excellence consist in true faith in God, not in having a small or a large appetite for food, or in similar matters. Jinab-i-Tahirih had a good appetite. When asked concerning it, she would answer, 'It is recorded in the Holy traditions that one of the recorded attributes of the people of paradise is 'partaking of food, continually."
+          ]
         },
         {
           "key": "source:AB07752",
@@ -896,7 +1050,10 @@
         },
         {
           "key": "source:AB04651",
-          "why": "Allow the practical difficulties of journeys, shelter, food and company to give texture to the larger accounts of exile and community life; keep alternate tellings recognizable."
+          "why": "Allow the practical difficulties of journeys, shelter, food and company to give texture to the larger accounts of exile and community life; keep alternate tellings recognizable.",
+          "shortened": [
+            "Abraham's migration from His native land caused the bountiful gifts of the All-Glorious to be made manifest, and the setting of Canaan's brightest star unfolded to the eyes the radiance of Joseph. The flight of Moses, the Prophet of Sinai, revealed the Flame of the Lord's burning Fire, and the rise of Jesus breathed the breaths of the Holy Spirit into the world. The departure of Muhammad, the Beloved of God, from the city of His birth was the cause of the exaltation of God's Holy Word, and the banishment of the Sacred Beauty led to the diffusion of the light of His divine\nRevelation throughout all regions."
+          ]
         },
         {
           "key": "source:ABU0542",
@@ -908,7 +1065,11 @@
         },
         {
           "key": "source:ABU0844",
-          "why": "Allow the practical difficulties of journeys, shelter, food and company to give texture to the larger accounts of exile and community life; keep alternate tellings recognizable."
+          "why": "Allow the practical difficulties of journeys, shelter, food and company to give texture to the larger accounts of exile and community life; keep alternate tellings recognizable.",
+          "shortened": [
+            "When we were travelling from Bagdad toward Constantinople, one day, we thought [to] go ahead of the family, pitch the tent and prepare everything till Baha'u'llah and the rest of the party arrive.",
+            "Experience teaches us many lessons that we are not apt to forget."
+          ]
         },
         {
           "key": "source:ABU1050",
@@ -916,7 +1077,10 @@
         },
         {
           "key": "source:ABU0620",
-          "why": "Allow the practical difficulties of journeys, shelter, food and company to give texture to the larger accounts of exile and community life; keep alternate tellings recognizable."
+          "why": "Allow the practical difficulties of journeys, shelter, food and company to give texture to the larger accounts of exile and community life; keep alternate tellings recognizable.",
+          "shortened": [
+            "They were all afraid and pleaded and cried that we may give them back their freedom. They said they did not mean what they did, that it was all a joke, and would not have touched the Caravan for anything in the world. In short they pleaded and supplicated so much that I ordered the believers to unfasten their arms on condition that they must never play such joke on the unsuspecting travelers."
+          ]
         },
         {
           "key": "source:ABU0831",
@@ -932,7 +1096,11 @@
         },
         {
           "key": "source:ABU0943",
-          "why": "Allow the practical difficulties of journeys, shelter, food and company to give texture to the larger accounts of exile and community life; keep alternate tellings recognizable."
+          "why": "Allow the practical difficulties of journeys, shelter, food and company to give texture to the larger accounts of exile and community life; keep alternate tellings recognizable.",
+          "shortened": [
+            "In Haifa there was at one time a German Consul who became Abdul Baha's friend. He used to call on him often, and Abdul Baha returned his visits. At one time, he disappeared for a whole month.",
+            "Suddenly, one day he entered Abdul Baha's room. He had a stick in his hand and was lame. \"Oh, sir, how is it that you have not inquired about my health during the past month?\" -- \"Why, friend, what has happened to thee?\" \"Yes,\" he pitifully answered, \"I am the victim of 'Bravo.'"
+          ]
         },
         {
           "key": "source:ABU0823",
@@ -948,11 +1116,17 @@
         },
         {
           "key": "source:ABU0753",
-          "why": "Allow the practical difficulties of journeys, shelter, food and company to give texture to the larger accounts of exile and community life; keep alternate tellings recognizable."
+          "why": "Allow the practical difficulties of journeys, shelter, food and company to give texture to the larger accounts of exile and community life; keep alternate tellings recognizable.",
+          "shortened": [
+            "A skilled thief first becomes friends with the caravan and acts very benevolent and kind until he leads the caravan near the thieves at the mountaintop. Then it becomes clear he was in league with the thieves - but it's too late, the caravan has been robbed."
+          ]
         },
         {
           "key": "source:ABU1867",
-          "why": "Allow the practical difficulties of journeys, shelter, food and company to give texture to the larger accounts of exile and community life; keep alternate tellings recognizable."
+          "why": "Allow the practical difficulties of journeys, shelter, food and company to give texture to the larger accounts of exile and community life; keep alternate tellings recognizable.",
+          "shortened": [
+            "A lion, wolf, and fox went hunting. They captured a wild ass, a gazelle, and a hare. The lion said to the wolf, 'Divide the spoil.' The wolf said, 'That is easy; the ass for yourself, the gazelle for me, and the hare for the fox.' The lion bit off the wolf's head saying, 'You are not a good divider.' Then turning to the fox, he said, 'You divide!' The fox said, 'The ass, the gazelle, and the hare are yours!' The lion looking at him, said, 'Because you have accounted yourself as nothing, you may take all the prey.'"
+          ]
         },
         {
           "key": "source:ABU1855",
@@ -960,7 +1134,10 @@
         },
         {
           "key": "source:ABU1644",
-          "why": "Allow the practical difficulties of journeys, shelter, food and company to give texture to the larger accounts of exile and community life; keep alternate tellings recognizable."
+          "why": "Allow the practical difficulties of journeys, shelter, food and company to give texture to the larger accounts of exile and community life; keep alternate tellings recognizable.",
+          "shortened": [
+            "One night while the Arab was sound sl[eep] in his bed, the hyena left its crib and attacked him. By the time [he] tried to parry the attack, it got hold of his leg, tore away a large piece of flesh and ran away. He started to cry and lament and his neighbo[rs] gathered from all directions to find out the cause. Seeing his prostrate on the ground and listening to his woeful tale they shook their heads and exclaimed: 'Such will be the reward of those who are kind to hyena.'"
+          ]
         },
         {
           "key": "source:ABU1448",
@@ -972,7 +1149,13 @@
         },
         {
           "key": "source:AB00002",
-          "why": "Move through recollections of people, meetings, departures and service, while distinguishing the voice of a remembered event from that of a revealed text."
+          "why": "Move through recollections of people, meetings, departures and service, while distinguishing the voice of a remembered event from that of a revealed text.",
+          "shortened": [
+            "When they reached there the farrash went on ahead. \"What was all this,\" he said, \"about the sale of an 'aba and your vouching for the payment? Explain yourself.\"",
+            "\"I know nothing about it,\" the money-changer replied.",
+            "\"Come along,\" said the farrash to Salman. \"All is clear at last. You are a Babi.\"",
+            "It happened that the turban which Salman had on his head was similar to those worn in Shushtar. As they were passing a crossroads, a man from Shushtar came out of his shop. He embraced Salman and cried: \"Where have you been, Khajih Muhammad-'Ali? When did you arrive? Welcome!\""
+          ]
         },
         {
           "key": "source:ABU0527",
@@ -988,7 +1171,12 @@
         },
         {
           "key": "source:AB00098",
-          "why": "Keep the preceding question and the full account of Tahirih’s journey together."
+          "why": "Keep the preceding question and the full account of Tahirih’s journey together.",
+          "shortened": [
+            "Question: Can you provide an account of Tahirih's deliverance from Qazvin, her arrival in Tihran, her departure for Badasht, and the events that transpired there?",
+            "Answer: In brief, what happened is the following.",
+            "As a result, Tahirih met with the greatest hardship."
+          ]
         },
         {
           "key": "source:AB03725",
@@ -1000,7 +1188,10 @@
         },
         {
           "key": "source:ABU1492",
-          "why": "Move through recollections of people, meetings, departures and service, while distinguishing the voice of a remembered event from that of a revealed text."
+          "why": "Move through recollections of people, meetings, departures and service, while distinguishing the voice of a remembered event from that of a revealed text.",
+          "shortened": [
+            "There was a Shaykh Baqiri of Yazd, one of those who fled from Badasht. He came to Tehran and caused many souls to waver. He would weep and say that the Babis had deceived him. Later he went to Baghdad and repented, saying he had done those things out of fear."
+          ]
         },
         {
           "key": "source:ABU1501",
@@ -1012,7 +1203,10 @@
         },
         {
           "key": "source:ABU1551",
-          "why": "Move through recollections of people, meetings, departures and service, while distinguishing the voice of a remembered event from that of a revealed text."
+          "why": "Move through recollections of people, meetings, departures and service, while distinguishing the voice of a remembered event from that of a revealed text.",
+          "shortened": [
+            "The morning after Baha'u'llah's arrival, He was sitting in the big reception room receiving the callers. Many prominent people were present. 'Abdu'l-Baha very young was watching people coming and going. Suddenly it was announced that the brother of the Grand Vizir is coming. As soon as he appeared at the door he was so impressed by the majestic presence of Baha'u'llah that he knelt down before him in the presence of all those people. This was the cause of astonishment by all."
+          ]
         },
         {
           "key": "source:ABU1779",
@@ -1020,11 +1214,18 @@
         },
         {
           "key": "source:ABU0073",
-          "why": "Move through recollections of people, meetings, departures and service, while distinguishing the voice of a remembered event from that of a revealed text."
+          "why": "Move through recollections of people, meetings, departures and service, while distinguishing the voice of a remembered event from that of a revealed text.",
+          "shortened": [
+            "In the evening, 'Abdu'l-Baha came to the home of Shaykh Salih and shared the story of 'Abdu'llah Pasha:",
+            "It was in the middle of the night when they informed Me that a local Arab wished to see Me for the delivery of a message. When he came in, I recognized him to be the servant of 'Abdu'llah Pasha. He said, \"Pasha is gravely ill and wishes to see You.\" I left immediately that night and saw that indeed Pasha was in a bad situation."
+          ]
         },
         {
           "key": "source:ABU0480",
-          "why": "Move through recollections of people, meetings, departures and service, while distinguishing the voice of a remembered event from that of a revealed text."
+          "why": "Move through recollections of people, meetings, departures and service, while distinguishing the voice of a remembered event from that of a revealed text.",
+          "shortened": [
+            "Our friend finding his refutations childish answered him in the following story: Mohammad Ali Pasha had a big, fat camel. When the Hajis started on their long pilgrimage to Mecca through the desert, he ordered a rapid-fire cannon to be mounted on the back of the Camel;- so that they may fire it on their start and at their arrival along their road. The ear of the camel was so accustomed to the thundering noise of the cannon that although it was fired on its back, he never moved."
+          ]
         },
         {
           "key": "source:AB01415",
@@ -1040,19 +1241,32 @@
         },
         {
           "key": "source:ABU2661",
-          "why": "Move through recollections of people, meetings, departures and service, while distinguishing the voice of a remembered event from that of a revealed text."
+          "why": "Move through recollections of people, meetings, departures and service, while distinguishing the voice of a remembered event from that of a revealed text.",
+          "shortened": [
+            "When I left Haifa two years and half ago, I was so weak that I could not walk twenty yards and my system was attacked by three kinds of illnesses, but praise be to God the Confirmations reached us wherever we went.",
+            "But in Paris I do not see extraordinary exhilaration. It is like unto a lazy animal. All the beating in the world will not make him get up; even if you enter a needle in his feet he will not get up."
+          ]
         },
         {
           "key": "source:AB12130",
-          "why": "Move through recollections of people, meetings, departures and service, while distinguishing the voice of a remembered event from that of a revealed text."
+          "why": "Move through recollections of people, meetings, departures and service, while distinguishing the voice of a remembered event from that of a revealed text.",
+          "shortened": [
+            "The day you invited me to your home outside New York, and we spent that day and evening in ultimate spirituality remembering God and in love and fellowship, and I spoke that night in that gathering - that day and night will never be forgotten, for it passed with utmost joy and delight. In life, if a person spends one night in joy or passes it in grief and sorrow, these two kinds of nights are never forgotten during one's lifetime, especially if spent with a kind friend who has come to the Holy Land and attained the blessing of circumambulating the Most Holy Threshold."
+          ]
         },
         {
           "key": "source:BH02879",
-          "why": "Move through recollections of people, meetings, departures and service, while distinguishing the voice of a remembered event from that of a revealed text."
+          "why": "Move through recollections of people, meetings, departures and service, while distinguishing the voice of a remembered event from that of a revealed text.",
+          "shortened": [
+            "Were He to will it, He could destroy all that are on the earth by but a word from Him. Verily He is powerful over all worlds. O My loved ones! call ye to mind al-Badi'---his dominion, his power---then ponder the burning ardor that seized him through the Word of God, the Almighty, the All-Conquering, the Mighty, the Wise. Remember, O Pen of the Most High, when he stood before the Throne, and there was breathed into him the spirit of might and dominion from One strong and faithful; and the attractions of longing laid hold upon him after he had been thunderstruck by the first Word."
+          ]
         },
         {
           "key": "source:BH04313",
-          "why": "Move through recollections of people, meetings, departures and service, while distinguishing the voice of a remembered event from that of a revealed text."
+          "why": "Move through recollections of people, meetings, departures and service, while distinguishing the voice of a remembered event from that of a revealed text.",
+          "shortened": [
+            "He traversed land and sea in his longing to attain the presence of God until he entered the shore of the right-hand valley in the blessed crimson spot. We called out to him from behind the pavilions of grandeur, and when he heard it, the sweetness of the call so overwhelmed him that he was transformed. Then We shed upon him the lights of the countenance, and when he beheld the Most Great Sign, he surrendered his spirit at the advent of his Lord, the Lord of all beings."
+          ]
         },
         {
           "key": "source:ABU2060",
@@ -1068,7 +1282,10 @@
         },
         {
           "key": "source:BH00097",
-          "why": "Move through recollections of people, meetings, departures and service, while distinguishing the voice of a remembered event from that of a revealed text."
+          "why": "Move through recollections of people, meetings, departures and service, while distinguishing the voice of a remembered event from that of a revealed text.",
+          "shortened": [
+            "Therefore it is submitted that among the early believers was Khar Valiyani, who was the first to believe and for about a year or more would mount pulpits to promote the Cause and prove its truth, presenting proofs of the truth of Truth, yet afterwards became such an opposer that he issued death sentences against all pure souls. And there were many like him, including Mulla Muhammad-Taqiy-i-Haravi, Mulla 'Abdu'l-'Ali, Mirza Ibrahim-i-Shirazi and others who were all believers but became deniers after a year or two."
+          ]
         },
         {
           "key": "source:ABU1173",
@@ -1076,15 +1293,24 @@
         },
         {
           "key": "source:ABU2780",
-          "why": "Move through recollections of people, meetings, departures and service, while distinguishing the voice of a remembered event from that of a revealed text."
+          "why": "Move through recollections of people, meetings, departures and service, while distinguishing the voice of a remembered event from that of a revealed text.",
+          "shortened": [
+            "A story was related of a Baha'i who was questioned by a great enemy of this Cause: 'Why did you accept this Cause?' He answered: 'because of your opposition.'"
+          ]
         },
         {
           "key": "source:ABU2890",
-          "why": "Move through recollections of people, meetings, departures and service, while distinguishing the voice of a remembered event from that of a revealed text."
+          "why": "Move through recollections of people, meetings, departures and service, while distinguishing the voice of a remembered event from that of a revealed text.",
+          "shortened": [
+            "When we arrived in Baghdad, one day there was a great maneuvers of the Turkish army Corps and as Baha'u'llah looked upon them said. 'My army shall win the eternal victories. These shall be put to rout and defeated.'\""
+          ]
         },
         {
           "key": "source:ABU0182",
-          "why": "Gather accounts of spiritual transformation and teaching, placing the different Mary Magdalene narratives together and attending to the courage of women as well as men."
+          "why": "Gather accounts of spiritual transformation and teaching, placing the different Mary Magdalene narratives together and attending to the courage of women as well as men.",
+          "shortened": [
+            "Consider the disciples of Christ. With respect to his physical life, Peter was a fisherman, and it is known what the life of a fisherman is like. But his spiritual life was so illumined with the outpourings of Christ that even on this speck of dust his traces remain, while the Roman emperor Nero with all his greatness has left no trace, no fruit, no sign, no memory, and no evidence of his existence."
+          ]
         },
         {
           "key": "source:ABU0309",
@@ -1092,7 +1318,10 @@
         },
         {
           "key": "source:AB01206",
-          "why": "Gather accounts of spiritual transformation and teaching, placing the different Mary Magdalene narratives together and attending to the courage of women as well as men."
+          "why": "Gather accounts of spiritual transformation and teaching, placing the different Mary Magdalene narratives together and attending to the courage of women as well as men.",
+          "shortened": [
+            "The Pharisees of the Jews did not consider the apostles of Christ worthy of address in Christ's time and counted them among the lowliest people, while they were the stars of guidance and the lamps of the Supreme Concourse."
+          ]
         },
         {
           "key": "source:AB01812",
@@ -1100,15 +1329,25 @@
         },
         {
           "key": "source:ABU0465",
-          "why": "Gather accounts of spiritual transformation and teaching, placing the different Mary Magdalene narratives together and attending to the courage of women as well as men."
+          "why": "Gather accounts of spiritual transformation and teaching, placing the different Mary Magdalene narratives together and attending to the courage of women as well as men.",
+          "shortened": [
+            "Mary had a friend among the Roman officers (who at that time were Masters of the Holy Lands). He was the one who protected her from enemies after the death of Christ.",
+            "She said to the Emperor: 'I have come on behalf of the Christians to bring to your notice the fact that Herod and Pilate martyred the Christ at the instigation of the Jews."
+          ]
         },
         {
           "key": "source:ABU0332",
-          "why": "Gather accounts of spiritual transformation and teaching, placing the different Mary Magdalene narratives together and attending to the courage of women as well as men."
+          "why": "Gather accounts of spiritual transformation and teaching, placing the different Mary Magdalene narratives together and attending to the courage of women as well as men.",
+          "shortened": [
+            "Having already made firm and steadfast the shaking and afraid apostles she [Mary Magdalene] started on her famous journey toward Rome - the then renowned capital of the Roman Empire."
+          ]
         },
         {
           "key": "source:ABU0436",
-          "why": "Gather accounts of spiritual transformation and teaching, placing the different Mary Magdalene narratives together and attending to the courage of women as well as men."
+          "why": "Gather accounts of spiritual transformation and teaching, placing the different Mary Magdalene narratives together and attending to the courage of women as well as men.",
+          "shortened": [
+            "The essence of the intention is that I wish you to pray for me and I will pray for you. The pathway we shall walk together is the pathway of the disciples of Christ. After the departure of His Holiness to the Supreme Paradise, the disciples who had followed His teachings met together in consultation upon the summit of a mountain near Jaffa. Such a consultation was never before held."
+          ]
         },
         {
           "key": "source:AB00413",
@@ -1124,23 +1363,39 @@
         },
         {
           "key": "source:AB05894",
-          "why": "Gather accounts of spiritual transformation and teaching, placing the different Mary Magdalene narratives together and attending to the courage of women as well as men."
+          "why": "Gather accounts of spiritual transformation and teaching, placing the different Mary Magdalene narratives together and attending to the courage of women as well as men.",
+          "shortened": [
+            "Remember the hardships of the disciples, and what Mary, the Virgin; Mary, the Magdalene; and Mary, the mother of Jesus, bore in the path of God; especially Barbara, until she was martyred in the love of Christ; and she being attracted unto the Kingdom of God, her spirit soared unto the summits of holiness in the paradise of eternal life, in the place of Meeting."
+          ]
         },
         {
           "key": "source:AB02482",
-          "why": "Gather accounts of spiritual transformation and teaching, placing the different Mary Magdalene narratives together and attending to the courage of women as well as men."
+          "why": "Gather accounts of spiritual transformation and teaching, placing the different Mary Magdalene narratives together and attending to the courage of women as well as men.",
+          "shortened": [
+            "Esther was a woman; when she was favoured with pure intent and turned her gaze unto the Lord, what services she was enabled to render! Now behold the tomb of this woman of noble birth, and consider the myriads of mighty kings who ruled over Persia, Transoxania, and other countries in the world."
+          ]
         },
         {
           "key": "source:AB01439",
-          "why": "Gather accounts of spiritual transformation and teaching, placing the different Mary Magdalene narratives together and attending to the courage of women as well as men."
+          "why": "Gather accounts of spiritual transformation and teaching, placing the different Mary Magdalene narratives together and attending to the courage of women as well as men.",
+          "shortened": [
+            "It may be that man can guide a blessed, holy soul into the Kingdom of God while he, himself, is deprived thereof. Consider Judas Iscariot: He invited others, while he, himself, was deprived of the Kingdom of God."
+          ]
         },
         {
           "key": "source:AB01753",
-          "why": "Gather accounts of spiritual transformation and teaching, placing the different Mary Magdalene narratives together and attending to the courage of women as well as men."
+          "why": "Gather accounts of spiritual transformation and teaching, placing the different Mary Magdalene narratives together and attending to the courage of women as well as men.",
+          "shortened": [
+            "And in the days of Christ--may my spirit be a sacrifice unto Him--Iscariot, who was the chief of the apostles, returned to hell.",
+            "Such events are numerous, but in the end all became remorseful and disgusted with themselves."
+          ]
         },
         {
           "key": "source:ABU1053",
-          "why": "Gather accounts of spiritual transformation and teaching, placing the different Mary Magdalene narratives together and attending to the courage of women as well as men."
+          "why": "Gather accounts of spiritual transformation and teaching, placing the different Mary Magdalene narratives together and attending to the courage of women as well as men.",
+          "shortened": [
+            "When Christ was speaking to his disciples about his approaching death and the scattering of the sheep Peter said unto him, 'although all shall be offended, yet will not I.' Then the Master intimated that he shall not remain firm, saying that 'this day, even in this night, before the cock crow twice thou shalt deny me thrice.' but Peter spoke the more vehemently, 'if I should die with thee, I will not deny thee in any wise. Likewise also said they all.' But when they were put under the refining process of examination we find that their assertions did not agree with their actions."
+          ]
         },
         {
           "key": "source:ABU1063",
@@ -1160,15 +1415,24 @@
         },
         {
           "key": "source:AB01072",
-          "why": "Gather accounts of spiritual transformation and teaching, placing the different Mary Magdalene narratives together and attending to the courage of women as well as men."
+          "why": "Gather accounts of spiritual transformation and teaching, placing the different Mary Magdalene narratives together and attending to the courage of women as well as men.",
+          "shortened": [
+            "His Holiness the Prince would say to Muhammad ibn Abi Bakr, \"You are of my lineage.\" It became clear that physical fatherhood and sonship have no significance. Canaan was Noah's son, and Abraham was Azar's son - that father was a Prophet while the son was rebellious and cut off, and this father was an idolater while the son was the glorious and most great Friend of God. From this lusterless shell emerged a brilliant pearl, and from that precious and valuable shell came forth base and worthless pottery full of deceit and cruelty."
+          ]
         },
         {
           "key": "source:AB02222",
-          "why": "Gather accounts of spiritual transformation and teaching, placing the different Mary Magdalene narratives together and attending to the courage of women as well as men."
+          "why": "Gather accounts of spiritual transformation and teaching, placing the different Mary Magdalene narratives together and attending to the courage of women as well as men.",
+          "shortened": [
+            "The owner of the slave Bilal used to beat him with great violence, saying, \"Why dost thou shout about thy love for Muhammad?\" Eventually one of the Prophet's disciples purchased the slave's freedom and soon afterwards his original owner took credit for the fact, saying: \"See that Bilal? He first mentioned the name of Muhammad in my house.\""
+          ]
         },
         {
           "key": "source:AB03174",
-          "why": "Gather accounts of spiritual transformation and teaching, placing the different Mary Magdalene narratives together and attending to the courage of women as well as men."
+          "why": "Gather accounts of spiritual transformation and teaching, placing the different Mary Magdalene narratives together and attending to the courage of women as well as men.",
+          "shortened": [
+            "During the call to prayer in the Dispensation of the Qur'an, placing the hand beside the ear was an ancient custom and longstanding practice of the muezzins. For in the early days of the spread of God's religion in Medina, when the call to prayer was raised, they would stone the muezzin from all sides. Therefore, whoever gave the call to prayer would place both hands beside his ears to protect his head from the stones of the ill-starred ones."
+          ]
         },
         {
           "key": "source:AB07955",
@@ -1180,7 +1444,10 @@
         },
         {
           "key": "source:AB08389",
-          "why": "Gather accounts of spiritual transformation and teaching, placing the different Mary Magdalene narratives together and attending to the courage of women as well as men."
+          "why": "Gather accounts of spiritual transformation and teaching, placing the different Mary Magdalene narratives together and attending to the courage of women as well as men.",
+          "shortened": [
+            "It is said that when Uwais-i-Qarani learned that the blessed tooth of the Holy Prophet was broken by the stone of cruelty from the unfaithful ones, he pulled out all his own teeth so that he would always be mindful of and affected by the breaking of that tooth. Now His honor Aqa Ghulam-'Ali has likewise become affected by and mindful of the tribulation of the Ancient Beauty."
+          ]
         },
         {
           "key": "source:AB03040",
@@ -1196,23 +1463,39 @@
         },
         {
           "key": "source:BB00002",
-          "why": "Read the symbolic and devotional uses of Adam, Abraham, Moses, Jonah and other scriptural figures, allowing a narrative to carry several kinds of meaning without collapsing them."
+          "why": "Read the symbolic and devotional uses of Adam, Abraham, Moses, Jonah and other scriptural figures, allowing a narrative to carry several kinds of meaning without collapsing them.",
+          "shortened": [
+            "\"And he who bought him in Egypt said to his wife: 'Make his dwelling honorable. He may be of benefit to us, or we may adopt him as a son.' Thus did We establish Joseph in the land, that We might teach him the interpretation of events. And God has full power over His affairs, but most men know not.\""
+          ]
         },
         {
           "key": "source:AB09426",
-          "why": "Read the symbolic and devotional uses of Adam, Abraham, Moses, Jonah and other scriptural figures, allowing a narrative to carry several kinds of meaning without collapsing them."
+          "why": "Read the symbolic and devotional uses of Adam, Abraham, Moses, Jonah and other scriptural figures, allowing a narrative to carry several kinds of meaning without collapsing them.",
+          "shortened": [
+            "O lover of the countenance of Baha! It is related that when Abraham, the Friend of God, was cast into the blazing fire, Gabriel called out: \"O illustrious Friend, hast thou any need?\" He replied: \"Not of thee! His knowledge of my condition sufficeth my need.\""
+          ]
         },
         {
           "key": "source:BH03408",
-          "why": "Read the symbolic and devotional uses of Adam, Abraham, Moses, Jonah and other scriptural figures, allowing a narrative to carry several kinds of meaning without collapsing them."
+          "why": "Read the symbolic and devotional uses of Adam, Abraham, Moses, Jonah and other scriptural figures, allowing a narrative to carry several kinds of meaning without collapsing them.",
+          "shortened": [
+            "O Abraham! A Friend [of God] hath appeared from God, and the Hand of Divine favor preserved him from the fire of the idolaters, nay rather, transformed that vengeance into bounty and mercy. His mention is renowned throughout the world and is a mighty cause for those who mount the pulpit."
+          ]
         },
         {
           "key": "source:BH02037",
-          "why": "Read the symbolic and devotional uses of Adam, Abraham, Moses, Jonah and other scriptural figures, allowing a narrative to carry several kinds of meaning without collapsing them."
+          "why": "Read the symbolic and devotional uses of Adam, Abraham, Moses, Jonah and other scriptural figures, allowing a narrative to carry several kinds of meaning without collapsing them.",
+          "shortened": [
+            "Know thou that when Ishmael, son of the Friend of the All-Merciful, desired to set foot in the wilderness of love that he might reach the Sinai of divine nearness - which is the station of complete sacrifice - at the moment he intended to proceed to his destination, he observed one adorned in the garments of knowledge and piety.",
+            "When that lover of the Beauty of the All-Glorious heard the melody of the Friend of the All-Merciful, he drove him away and took refuge in God's protection. Thus was he preserved and safeguarded from the evil of Satan and his deception."
+          ]
         },
         {
           "key": "source:AB09372",
-          "why": "Read the symbolic and devotional uses of Adam, Abraham, Moses, Jonah and other scriptural figures, allowing a narrative to carry several kinds of meaning without collapsing them."
+          "why": "Read the symbolic and devotional uses of Adam, Abraham, Moses, Jonah and other scriptural figures, allowing a narrative to carry several kinds of meaning without collapsing them.",
+          "shortened": [
+            "Therefore, O thou who seekest to behold the countenance of the Chosen Beauty, become as Abraham, the Friend of God in his sacrifice, and freely give thy life like Ishmael, that thou mayest find the gates of bounty opened from every direction and behold the favors of the King of Oneness like a brilliant light."
+          ]
         },
         {
           "key": "source:AB01518",
@@ -1232,27 +1515,45 @@
         },
         {
           "key": "source:ABU2417",
-          "why": "Read the symbolic and devotional uses of Adam, Abraham, Moses, Jonah and other scriptural figures, allowing a narrative to carry several kinds of meaning without collapsing them."
+          "why": "Read the symbolic and devotional uses of Adam, Abraham, Moses, Jonah and other scriptural figures, allowing a narrative to carry several kinds of meaning without collapsing them.",
+          "shortened": [
+            "The journey of the Israelites was both physical and spiritual. They journeyed to the Promised Land, and geography and history both prove that this was a physical journey. Moses viewed the Promised Land, but died before it was reached, having given over his charge to Joshua."
+          ]
         },
         {
           "key": "source:ABU0616",
-          "why": "Read the symbolic and devotional uses of Adam, Abraham, Moses, Jonah and other scriptural figures, allowing a narrative to carry several kinds of meaning without collapsing them."
+          "why": "Read the symbolic and devotional uses of Adam, Abraham, Moses, Jonah and other scriptural figures, allowing a narrative to carry several kinds of meaning without collapsing them.",
+          "shortened": [
+            "That cow was indeed a person who was highly respected, esteemed and honored among the Children of Israel. However, since that sanctified soul opposed the Cause of God, they were commanded to sacrifice it, so that the sacred Cause of God might live. To sacrifice means to cease following that person - the intention of sacrifice is to abandon following him."
+          ]
         },
         {
           "key": "source:AB06292",
-          "why": "Read the symbolic and devotional uses of Adam, Abraham, Moses, Jonah and other scriptural figures, allowing a narrative to carry several kinds of meaning without collapsing them."
+          "why": "Read the symbolic and devotional uses of Adam, Abraham, Moses, Jonah and other scriptural figures, allowing a narrative to carry several kinds of meaning without collapsing them.",
+          "shortened": [
+            "O fish of the boundless sea! When His Holiness Jonah, peace be upon him, became the companion within the whale of natures and elements, and was afflicted in the darkness of the sea of contingent existence - that is, he became separated from the realm of the Kingdom of existence which is the lights of the placeless realm, and came to exist in the realm of place - therefore the reality of Dhun-Nun was his distinctive essence, and the whale was his elemental body and human temple and his outward reality, and the sea was the contingent world and the dark conditions of existence."
+          ]
         },
         {
           "key": "source:AB07249",
-          "why": "Read the symbolic and devotional uses of Adam, Abraham, Moses, Jonah and other scriptural figures, allowing a narrative to carry several kinds of meaning without collapsing them."
+          "why": "Read the symbolic and devotional uses of Adam, Abraham, Moses, Jonah and other scriptural figures, allowing a narrative to carry several kinds of meaning without collapsing them.",
+          "shortened": [
+            "O servant of God! His Holiness Jonah, He of the Fish, became captive in the belly of the whale of contingent existence, but afterwards found deliverance and salvation."
+          ]
         },
         {
           "key": "source:AB09698",
-          "why": "Read the symbolic and devotional uses of Adam, Abraham, Moses, Jonah and other scriptural figures, allowing a narrative to carry several kinds of meaning without collapsing them."
+          "why": "Read the symbolic and devotional uses of Adam, Abraham, Moses, Jonah and other scriptural figures, allowing a narrative to carry several kinds of meaning without collapsing them.",
+          "shortened": [
+            "O thou who followest Noah the Carpenter! O carpenter! Thou art of the same craft and profession as His Holiness Noah. He built the ark of salvation and played the game of service at the Sacred Threshold. He protected a company of souls from the Most Great Flood and preserved them from destruction."
+          ]
         },
         {
           "key": "source:AB03814",
-          "why": "Read the symbolic and devotional uses of Adam, Abraham, Moses, Jonah and other scriptural figures, allowing a narrative to carry several kinds of meaning without collapsing them."
+          "why": "Read the symbolic and devotional uses of Adam, Abraham, Moses, Jonah and other scriptural figures, allowing a narrative to carry several kinds of meaning without collapsing them.",
+          "shortened": [
+            "It is said that God addressed Moses, saying \"O Moses! Call upon Me and pray with a tongue that has not sinned.\" Moses replied, \"O Lord! Where can I find such a tongue? My tongue is the essence of error. How then can such a tongue be possible?\" The reply came from the Court of Glory: \"O Moses! Act in such a way that others pray for you, for you have committed no error with the tongues of others. Therefore this tongue is pure and free from error.\""
+          ]
         },
         {
           "key": "source:AB06205",
@@ -1264,7 +1565,10 @@
         },
         {
           "key": "source:AB01421",
-          "why": "Read the symbolic and devotional uses of Adam, Abraham, Moses, Jonah and other scriptural figures, allowing a narrative to carry several kinds of meaning without collapsing them."
+          "why": "Read the symbolic and devotional uses of Adam, Abraham, Moses, Jonah and other scriptural figures, allowing a narrative to carry several kinds of meaning without collapsing them.",
+          "shortened": [
+            "In this desert, for many years, His Holiness Christ uttered: 'Here am I, O My God, here am I', and in this wilderness for several centuries the Prophets and the chosen ones associated together. The fragrance of their remembrance hath perfumed the mountains and the field, and their quickening breezes have imbued the desert and the sea with new life."
+          ]
         },
         {
           "key": "source:ABU1258",
@@ -1272,11 +1576,17 @@
         },
         {
           "key": "source:BH01338",
-          "why": "Read the symbolic and devotional uses of Adam, Abraham, Moses, Jonah and other scriptural figures, allowing a narrative to carry several kinds of meaning without collapsing them."
+          "why": "Read the symbolic and devotional uses of Adam, Abraham, Moses, Jonah and other scriptural figures, allowing a narrative to carry several kinds of meaning without collapsing them.",
+          "shortened": [
+            "We desired to console and comfort him who was named 'Ali and who was with him during the days and nights. It behooveth Us to mention what befell Muhammad, the Apostle of God, aforetime. When his sons Qasim and Ibrahim ascended unto God, the deniers arose in derision and mockery. Thereupon Gabriel came from his Lord, the Glorious, and recited this blessed verse: \"Wealth and children are an ornament of the life of this world. But the good deeds which endure are better in thy Lord's sight for reward, and better in respect of hope.\""
+          ]
         },
         {
           "key": "source:BH00221",
-          "why": "Read the symbolic and devotional uses of Adam, Abraham, Moses, Jonah and other scriptural figures, allowing a narrative to carry several kinds of meaning without collapsing them."
+          "why": "Read the symbolic and devotional uses of Adam, Abraham, Moses, Jonah and other scriptural figures, allowing a narrative to carry several kinds of meaning without collapsing them.",
+          "shortened": [
+            "Peter, who was the focal point of the saints and source of the righteous, in the time of Jesus (may my soul be a sacrifice for Him), thrice denied Him on the night He was delivered up. And the Lord Himself had told him the night before that \"thou shalt deny Me thrice before the cock crow.\" And after the denial and the crowing of the cock, the words of the Lord came to his mind, whereupon he immediately cried out and lamented until God forgave him and made him one of those near unto Him."
+          ]
         },
         {
           "key": "source:BH00015",
@@ -1292,7 +1602,10 @@
         },
         {
           "key": "source:AB05926",
-          "why": "Follow the recurring Joseph imagery from separation and envy toward recognition, reunion and love; read the allusions as deliberate applications to the addressees’ spiritual lives."
+          "why": "Follow the recurring Joseph imagery from separation and envy toward recognition, reunion and love; read the allusions as deliberate applications to the addressees’ spiritual lives.",
+          "shortened": [
+            "Consider how when Joseph's cruel brothers burned with the fire of envy, they cast him into a deep well and sold him for a paltry price of a few dirhams. But the divine gaze of favor brought him out from the depths of the well and raised him to the heights of the moon. He became the beloved of spiritual Egypt and prince of the divine realm."
+          ]
         },
         {
           "key": "source:AB09599",
@@ -1304,19 +1617,32 @@
         },
         {
           "key": "source:AB07143",
-          "why": "Follow the recurring Joseph imagery from separation and envy toward recognition, reunion and love; read the allusions as deliberate applications to the addressees’ spiritual lives."
+          "why": "Follow the recurring Joseph imagery from separation and envy toward recognition, reunion and love; read the allusions as deliberate applications to the addressees’ spiritual lives.",
+          "shortened": [
+            "O thou who hast approached the Kingdom of God and hast looked toward the Center of the Covenant!",
+            "Verily, thy namesake, the faithful Joseph, fell surely into grievous distress through the jealousy of his brethren, who dishonored him; nay, outraged him, and cast him behind their backs and threw him in a dark well; they sold him for a paltry price—for a few pence—returning to their father at eve weeping, and, with his shirt stained with false blood, they slandered the wolf who was free from blame."
+          ]
         },
         {
           "key": "source:AB06525",
-          "why": "Follow the recurring Joseph imagery from separation and envy toward recognition, reunion and love; read the allusions as deliberate applications to the addressees’ spiritual lives."
+          "why": "Follow the recurring Joseph imagery from separation and envy toward recognition, reunion and love; read the allusions as deliberate applications to the addressees’ spiritual lives.",
+          "shortened": [
+            "O Joseph the Truthful! The story of Joseph has returned in the person of 'Abdu'l-Baha, whom the people of cruelty have cast into the dark well. But soon the messenger of eternity shall come and lower the bucket of faithfulness and cry out: \"O glad tidings! This is the youth of Baha!\""
+          ]
         },
         {
           "key": "source:AB02457",
-          "why": "Follow the recurring Joseph imagery from separation and envy toward recognition, reunion and love; read the allusions as deliberate applications to the addressees’ spiritual lives."
+          "why": "Follow the recurring Joseph imagery from separation and envy toward recognition, reunion and love; read the allusions as deliberate applications to the addressees’ spiritual lives.",
+          "shortened": [
+            "The brothers of Joseph at first reproached and blamed him and cast him into the well, but when they finally saw Joseph as the governor of Egypt, they said \"Verily, God has chosen you from among us and bestowed greatness upon you.\" Your family will ultimately say the same."
+          ]
         },
         {
           "key": "source:AB03324",
-          "why": "Follow the recurring Joseph imagery from separation and envy toward recognition, reunion and love; read the allusions as deliberate applications to the addressees’ spiritual lives."
+          "why": "Follow the recurring Joseph imagery from separation and envy toward recognition, reunion and love; read the allusions as deliberate applications to the addressees’ spiritual lives.",
+          "shortened": [
+            "Therefore give thanks to the Lord of Command that He granted you true brotherhood and did not cast you like the brothers of Joseph of Canaan into the well of envy, did not make you venture upon great injustice, and you did not sell that divine Moon of Egypt for a paltry price, did not tear your collars, and did not come weeping before the father. Glory be to God! Having cast that wronged Joseph into the well and sold him for a few dirhams, they still began crying like the oppressed ones."
+          ]
         },
         {
           "key": "source:AB03298",
@@ -1324,7 +1650,10 @@
         },
         {
           "key": "source:AB02879",
-          "why": "Follow the recurring Joseph imagery from separation and envy toward recognition, reunion and love; read the allusions as deliberate applications to the addressees’ spiritual lives."
+          "why": "Follow the recurring Joseph imagery from separation and envy toward recognition, reunion and love; read the allusions as deliberate applications to the addressees’ spiritual lives.",
+          "shortened": [
+            "When the sight of His Holiness Jacob became inflamed, his sense of smell took the place of sight. \"Indeed I sense the fragrance of Joseph\" he declared from a thousand leagues away. But the bearer of good tidings, lacking insight, could not smell the fragrance of the garment. Had he illumined the eye of insight with the beauty of Joseph, he surely would have detected the fragrance of the kind beloved from a thousand leagues away."
+          ]
         },
         {
           "key": "source:AB02307",
@@ -1332,7 +1661,10 @@
         },
         {
           "key": "source:AB03177",
-          "why": "Follow the recurring Joseph imagery from separation and envy toward recognition, reunion and love; read the allusions as deliberate applications to the addressees’ spiritual lives."
+          "why": "Follow the recurring Joseph imagery from separation and envy toward recognition, reunion and love; read the allusions as deliberate applications to the addressees’ spiritual lives.",
+          "shortened": [
+            "When the women of Egypt beheld the beauty of Joseph, they cut their fingers in their amazement and said \"This is not a mortal, this is none other than a noble angel.\" Likewise will the heedless souls soon awaken and become conscious, and utter words of praise for the friends and handmaidens of the All-Merciful, and envy their servitude and yearn to serve them, and proclaim \"By God, truly God has preferred you above us.\""
+          ]
         },
         {
           "key": "source:AB06639",
@@ -1340,7 +1672,10 @@
         },
         {
           "key": "source:AB06241",
-          "why": "Follow the recurring Joseph imagery from separation and envy toward recognition, reunion and love; read the allusions as deliberate applications to the addressees’ spiritual lives."
+          "why": "Follow the recurring Joseph imagery from separation and envy toward recognition, reunion and love; read the allusions as deliberate applications to the addressees’ spiritual lives.",
+          "shortened": [
+            "When crowds of customers approached, some who were true seekers pressed forward to relinquish pure pearls and regal gems in exchange for His divine goods. Others offered no more than skeins of yarn but though this was a paltry bargain it was their all, whilst there were those, alas, who turned away their gaze from Him in scorn, rejected all He offered and strove to extinguish His light."
+          ]
         },
         {
           "key": "source:AB10524",
@@ -1348,11 +1683,17 @@
         },
         {
           "key": "source:AB10865",
-          "why": "Follow the recurring Joseph imagery from separation and envy toward recognition, reunion and love; read the allusions as deliberate applications to the addressees’ spiritual lives."
+          "why": "Follow the recurring Joseph imagery from separation and envy toward recognition, reunion and love; read the allusions as deliberate applications to the addressees’ spiritual lives.",
+          "shortened": [
+            "O servant of the Most Glorious Beauty! Joseph of Egypt appeared in the marketplace, and Zulaykha, though a stranger, became familiar with him and rent her garment in her love for him. But his own brothers, though familiar with him, rent his garment and stained it with blood and cast him into a well, and sold him for a paltry price of a few pieces of silver."
+          ]
         },
         {
           "key": "source:AB11909",
-          "why": "Follow the recurring Joseph imagery from separation and envy toward recognition, reunion and love; read the allusions as deliberate applications to the addressees’ spiritual lives."
+          "why": "Follow the recurring Joseph imagery from separation and envy toward recognition, reunion and love; read the allusions as deliberate applications to the addressees’ spiritual lives.",
+          "shortened": [
+            "His Holiness Jacob became so intoxicated by the fragrance of the divine Joseph's garment that he rushed dancing to the field of sacrifice."
+          ]
         },
         {
           "key": "source:AB09187",
@@ -1368,7 +1709,10 @@
         },
         {
           "key": "source:ABU1964",
-          "why": "Keep accounts of dreams and their interpretations together, including the limits of what has been supplied and the movement from a reported dream into responsibility."
+          "why": "Keep accounts of dreams and their interpretations together, including the limits of what has been supplied and the movement from a reported dream into responsibility.",
+          "shortened": [
+            "One night when he was away from home he had had an alarming dream of his little daughter.  She had come to him, sat on his knee and complained that her head ached.  Rapidly she grew worse.  They sent for the doctor.  The father knew in his dream that she was hopelessly ill and felt the most acute anguish.  Then he saw her die."
+          ]
         },
         {
           "key": "source:ABU0231",
@@ -1392,7 +1736,11 @@
         },
         {
           "key": "source:BH11679",
-          "why": "Keep accounts of dreams and their interpretations together, including the limits of what has been supplied and the movement from a reported dream into responsibility."
+          "why": "Keep accounts of dreams and their interpretations together, including the limits of what has been supplied and the movement from a reported dream into responsibility.",
+          "shortened": [
+            "This is what We saw in a dream, and We recount it truthfully that it may be a remembrance for all the peoples of the world.",
+            "We were walking in the House on a pitch-dark night. At times We gazed upon the Most Great Scene, and at other times I contemplated the pearls of nightly discourse, and at times the unique gems of destiny, and yet again I spoke to it of the lessons that had befallen Me, until the dawn broke forth with a smile. Then slumber overtook Me, and I reclined upon a pillow for but a brief moment."
+          ]
         },
         {
           "key": "source:BH00034",
@@ -1408,11 +1756,18 @@
         },
         {
           "key": "source:AB02749",
-          "why": "Close by moving from steadfastness in suffering and the reinterpretation of epic heroes toward a strength expressed in service, spiritual renewal and the giving of life."
+          "why": "Close by moving from steadfastness in suffering and the reinterpretation of epic heroes toward a strength expressed in service, spiritual renewal and the giving of life.",
+          "shortened": [
+            "Although this affliction is among the greatest calamities and severest tribulations, and in truth the entire gathering of divine unity has fallen into intense grief - even the maidens of virtue wept in their chambers of purity and the lamentations of mourning arose from all the secluded ones in the sanctuary of eternity, and this indeed is a tremendous sorrow - yet since the descent of this greatest calamity is assuredly based on the Most Great Wisdom, consider that the Holy Prophet (may the spirit of the worlds be sacrificed for Him) had one noble child named Ibrahim.",
+            "When, by the irrevocable divine decree and the destined ordinance of the Lord, he passed away, the people of the sanctuary began to wail and lament that this luminous jewel was an only child, and the hearts of young and old were clouded with sorrow at the setting and disappearance of this radiant star from the horizon of truth."
+          ]
         },
         {
           "key": "source:AB02964",
-          "why": "Close by moving from steadfastness in suffering and the reinterpretation of epic heroes toward a strength expressed in service, spiritual renewal and the giving of life."
+          "why": "Close by moving from steadfastness in suffering and the reinterpretation of epic heroes toward a strength expressed in service, spiritual renewal and the giving of life.",
+          "shortened": [
+            "Noah endured nine hundred and fifty years of tribulation; thou must at least bear a tenth of a tenth thereof. And Noah's lamentation reached such a degree that he was named \"Noah\" (the wailer)."
+          ]
         },
         {
           "key": "source:ABU1587",
@@ -1424,7 +1779,10 @@
         },
         {
           "key": "source:AB06214",
-          "why": "Close by moving from steadfastness in suffering and the reinterpretation of epic heroes toward a strength expressed in service, spiritual renewal and the giving of life."
+          "why": "Close by moving from steadfastness in suffering and the reinterpretation of epic heroes toward a strength expressed in service, spiritual renewal and the giving of life.",
+          "shortened": [
+            "O Rustam! Your namesake became a world-conqueror through the power of the sword, but that world conquest ended in imprisonment in a deep pit, and he bid farewell to this world, for an unkind brother rose up with utmost hatred and enmity and caused his death and passing. Neither empire-building nor world conquest remained - it was a dream that passed, an illusion that vanished."
+          ]
         },
         {
           "key": "source:AB07941",
@@ -1432,7 +1790,10 @@
         },
         {
           "key": "source:AB09377",
-          "why": "Close by moving from steadfastness in suffering and the reinterpretation of epic heroes toward a strength expressed in service, spiritual renewal and the giving of life."
+          "why": "Close by moving from steadfastness in suffering and the reinterpretation of epic heroes toward a strength expressed in service, spiritual renewal and the giving of life.",
+          "shortened": [
+            "O Rustam, though Dastan's mighty son was a lion-tamer, yet through physical might his desire was not attained, for in the end a pit became his resting place."
+          ]
         },
         {
           "key": "source:AB08739",
@@ -1452,15 +1813,24 @@
         },
         {
           "key": "source:AB06409",
-          "why": "Close by moving from steadfastness in suffering and the reinterpretation of epic heroes toward a strength expressed in service, spiritual renewal and the giving of life."
+          "why": "Close by moving from steadfastness in suffering and the reinterpretation of epic heroes toward a strength expressed in service, spiritual renewal and the giving of life.",
+          "shortened": [
+            "Had Farud confined his hope to the All-Loving Lord, he would surely have attained a praiseworthy station. But he placed hope in the obstinate Tus, and thus became disappointed."
+          ]
         },
         {
           "key": "source:AB07335",
-          "why": "Close by moving from steadfastness in suffering and the reinterpretation of epic heroes toward a strength expressed in service, spiritual renewal and the giving of life."
+          "why": "Close by moving from steadfastness in suffering and the reinterpretation of epic heroes toward a strength expressed in service, spiritual renewal and the giving of life.",
+          "shortened": [
+            "Never can the jackal with dyed fur display the radiance of the heavenly peacock, nor can the fox with its howl produce the roar of the lion of paradise. Though the sand grouse may learn the call of the hoopoe, where is the hoopoe's secret and the message from Saba?"
+          ]
         },
         {
           "key": "source:ABU2510",
-          "why": "Close by moving from steadfastness in suffering and the reinterpretation of epic heroes toward a strength expressed in service, spiritual renewal and the giving of life."
+          "why": "Close by moving from steadfastness in suffering and the reinterpretation of epic heroes toward a strength expressed in service, spiritual renewal and the giving of life.",
+          "shortened": [
+            "The mountain is large, but it has no intelligence. The diamond is small, but it is filled with light. The elephant produces no melody; the nightingale's song is like the music of Heaven."
+          ]
         },
         {
           "key": "source:ABU3481",
@@ -1468,15 +1838,24 @@
         },
         {
           "key": "source:AB05206",
-          "why": "Close by moving from steadfastness in suffering and the reinterpretation of epic heroes toward a strength expressed in service, spiritual renewal and the giving of life."
+          "why": "Close by moving from steadfastness in suffering and the reinterpretation of epic heroes toward a strength expressed in service, spiritual renewal and the giving of life.",
+          "shortened": [
+            "O melodious visitor! Remember those days when we were gathered together like a flock of birds, and that melodious bird would chant the Tablets and verses with the most wondrous melodies, and we would all move toward the Holy Shrine in complete humility and supplication, lowly and submissive. And on the way you would intone the blessed poems with marvelous melodies and adorn ears with their precious meanings."
+          ]
         },
         {
           "key": "source:BH00145",
-          "why": "Close by moving from steadfastness in suffering and the reinterpretation of epic heroes toward a strength expressed in service, spiritual renewal and the giving of life."
+          "why": "Close by moving from steadfastness in suffering and the reinterpretation of epic heroes toward a strength expressed in service, spiritual renewal and the giving of life.",
+          "shortened": [
+            "One effulgence from the Sun of detachment fell upon the kings; they passed beyond self and other and laid their heads in the wilderness. Among them was Nu'man, upon whom shone [one night] the Sun of the Word rising from the dayspring of detachment. He became thoughtful and bewildered, and when he emerged from the stupor of wonderment, he addressed himself to himself, saying: 'What use are all these treasures and ornaments thou hast gathered, which tomorrow another shall possess, and another shall sit upon thy throne?' In an instant the wine of detachment so attracted him that it brought him to a station where he passed beyond treasuries and riches, crown and throne, and all the means of pomp and sovereignty, and that very night he left his house and turned toward the wilderness. When morning came and the nobles were present, they found the throne of kingship without its king. However much they searched, they found no trace of him."
+          ]
         },
         {
           "key": "source:BH00379",
-          "why": "Close by moving from steadfastness in suffering and the reinterpretation of epic heroes toward a strength expressed in service, spiritual renewal and the giving of life."
+          "why": "Close by moving from steadfastness in suffering and the reinterpretation of epic heroes toward a strength expressed in service, spiritual renewal and the giving of life.",
+          "shortened": [
+            "He proceeded until He reached the concealing veil, and there at His feet He beheld a child that had removed itself from its mother's breast. And this infant clung to the hem of His robe so earnestly and besought Him in such piteous tones to stay, that the dust of sorrow shrouded the face of every perceiving soul and the winds of anguish blew upon the entire creation."
+          ]
         },
         {
           "key": "source:ABU2725",

@@ -515,7 +515,7 @@
       "id": "8D9F026E4760E4C06FB3125FB37BD27E",
       "slug": "humor",
       "displayTitle": "Humor: affection, perspective, and the art of laughter",
-      "introduction": "A broken telegraph wire becomes an invitation to try wireless communication: a reported exchange turns spiritual discouragement into shared laughter. Elsewhere, a Tablet speaks of jesting in prison, and letters use playful exaggeration to reassure friends or describe the demands of correspondence. Humor can refresh affection, expose self-importance, or loosen a thought that has become rigid. These readings also contain sharp satire, tales of violence, and the stereotypes of their historical settings; their variety calls for attention to speaker, audience, and purpose. Ecclesiastes places laughter beside weeping among the changing seasons of human life [1]. That comparison opens inquiry into when a joke consoles, when it challenges, and when it wounds. Connected subjects on happiness, stories, and autobiographical accounts broaden the setting. Reading slowly lets us ask what a particular laugh makes visible about love, power, vulnerability, and our own habits of mind.",
+      "introduction": "Bahá’u’lláh is remembered asking that two of every twenty-four hours be spent in a way that brings happiness, and ‘Abdu’l-Bahá called joking the salt of conversation: without it, He said, we would get depressed. It is a startling place to find laughter, among exiles and prisoners, yet that is exactly where it lived. A general who hanged whom he pleased is disarmed by a pun about corrupters of religion; a weary pen is threatened with the whip until it gallops to the end of the page; new dentures become a mutinous foreign garrison. Beneath the play run affection, consolation for the dismissed and the grieving, and a sharp eye for pretension, whether the theologian who cannot swim or the guest who praises contentment after eating his host’s only goat. Ecclesiastes sets a time to laugh beside a time to weep [1], and timing matters, since a joke can carry old stereotypes and real violence as easily as kindness. The trail leads on into happiness and its kinship with sorrow, and into the recollections of ‘Abdu’l-Bahá’s own life.",
       "arc": "Begin with encouragement and joy, explore affectionate correspondence and the correction of pretension, then examine the tensions of satire before returning to companionship and a wider horizon.",
       "order": [
         {
@@ -524,7 +524,10 @@
         },
         {
           "key": "source:BH09995",
-          "why": "Read the Tablet’s joy and jest within imprisonment."
+          "why": "Read the Tablet’s joy and jest within imprisonment.",
+          "shortened": [
+            "The Word of God, even if limited to a single word, cannot be equaled by all the books of the world. Grieve not that We have made this Tablet brief, for within it can be seen a mighty Book. This is a Tablet that hath been mixed with the salt of God. When thou hast tasted it and discovered its savor, arise and say: Praise be unto Thee, O God of the worlds! Marvel not if We jest in prison, for sorrows have never overtaken Us in the path of thy Lord, and We are in wondrous joy."
+          ]
         },
         {
           "key": "source:ABU3570",
@@ -532,7 +535,10 @@
         },
         {
           "key": "source:ABU3518",
-          "why": "Read the reported place of happiness amid the risk of discouragement."
+          "why": "Read the reported place of happiness amid the risk of discouragement.",
+          "shortened": [
+            "Abdul Baha: Sometimes joking is necessary. Otherwise we would get depressed. The Blessed Beauty said, 'In every twenty-four hours, two hours must be spent in a way that will cause happiness.'"
+          ]
         },
         {
           "key": "source:BH00738",
@@ -544,7 +550,10 @@
         },
         {
           "key": "source:ABU3350",
-          "why": "Bring laughter into the practical responsibility of giving to the poor."
+          "why": "Bring laughter into the practical responsibility of giving to the poor.",
+          "shortened": [
+            "He laughed and, still laughing, said: \"Assuredly, give to the poor. If you give them only words, when they put their hands into their pockets after you have gone, they will find themselves none the richer for you!\""
+          ]
         },
         {
           "key": "source:AB00429",
@@ -560,7 +569,11 @@
         },
         {
           "key": "source:ABU2792",
-          "why": "Notice shared laughter in the telling and translation of an image."
+          "why": "Notice shared laughter in the telling and translation of an image.",
+          "shortened": [
+            "There is some wood that is very dry; it catches fire quickly and burns well. There is other wood that is so wet that it will not burn even though you should try for a whole day. There is no result but smoke. It will not blaze, it will not keep anyone warm; it will not even cook anything! As he said the latter he smiled.",
+            "But when Ruha Khanum translated it, Cora laughed out loud. That seemed to delight the Master, for he laughed very heartily with the most unaffected enjoyment."
+          ]
         },
         {
           "key": "source:AB08105",
@@ -568,11 +581,20 @@
         },
         {
           "key": "source:AB04491",
-          "why": "Consider consolation during dismissal and distress."
+          "why": "Consider consolation during dismissal and distress.",
+          "shortened": [
+            "Although for some time you have become my partner and companion, and fallen victim to the aggression of every oppressor, do not grieve and seek not sorrow. I hope that this lowest point of obscurity will be transformed to the heights of acceptance, and the means of joy and gladness will be made ready.",
+            "Although the spiritual friends experience continuous and sustained divine joy, if spiritual and physical happiness are joined together it becomes joy upon joy and light upon light. Surely it will become better and more pleasant and more attractive and more satisfying and sweeter. I jest so that you may laugh and be pleased."
+          ]
         },
         {
           "key": "source:AB04372",
-          "why": "Hear companionship in another person’s sadness beneath the jest."
+          "why": "Hear companionship in another person’s sadness beneath the jest.",
+          "shortened": [
+            "Do not grieve, do not be troubled. I am your companion and, God willing, kind to you.",
+            "If you show any laxity it will be upon my neck, and if you commit any shortcoming I will be accused, for we are united in condition and partnership in all circumstances. For in these days affairs are confused - a companion is held accountable for his companion's offense.",
+            "In any case, this was in jest. The point is that I am saddened by your sadness."
+          ]
         },
         {
           "key": "source:AB02255",
@@ -580,11 +602,17 @@
         },
         {
           "key": "source:AB04318",
-          "why": "Keep the recognition of hardship alongside its explicitly playful language."
+          "why": "Keep the recognition of hardship alongside its explicitly playful language.",
+          "shortened": [
+            "Indeed during this journey you have endured many hardships. No matter, it will pass. As the poet says, \"This time will pass, and afterward you will know the value of wellbeing,\" for companionship with the nightingale and peacock has a different sweetness after being afflicted with the company of the ill-omened crow. Soon you will find deliverance, but if God assists, you have no choice but to flee. Anyway, these were jokes."
+          ]
         },
         {
           "key": "source:AB01179",
-          "why": "Consider affectionate companionship expressed through the gambling metaphor."
+          "why": "Consider affectionate companionship expressed through the gambling metaphor.",
+          "shortened": [
+            "O Hakim! It is pleasant to joke with you and brings joy. From the ruins of a house of unbaked clay that remained, you gave that away too. Now neither nest nor dwelling remains. You have become a pure gambler. Now rest. They say pure gambling is life-gambling and the ultimate in gambling. Praise be to God that in this field you are the confidant and intimate of 'Abdu'l-Baha. When two paupers sing the same tune, it makes God laugh."
+          ]
         },
         {
           "key": "source:AB04384",
@@ -592,11 +620,21 @@
         },
         {
           "key": "source:AB07310",
-          "why": "Keep the greeting of a new child and its stated wish to bring joy."
+          "why": "Keep the greeting of a new child and its stated wish to bring joy.",
+          "shortened": [
+            "O you who are firm in the Covenant!",
+            "According to the indications and glad tidings of the honored ladies, God has bestowed upon you a noble son who is of utmost beauty and grace, that is, he is second to your other one of sacred titles. Therefore this verse should be read: \"May the evil eye be far from you, O you of wondrous beauty!\" I jest to bring joy."
+          ]
         },
         {
           "key": "source:AB03354",
-          "why": "Read the family remembrance and poetic allusion as an affectionate address."
+          "why": "Read the family remembrance and poetic allusion as an affectionate address.",
+          "shortened": [
+            "O servant of the Abha Beauty! You are cherished in this court and accepted and near at the Divine Threshold, and full of culture and distinction, for you are the remembrance of the late Haji and the memorial of Jinab-i-Aqa Siyyid Muhsin the forgiven - both grandfathers were accepted and near in the Most Holy Court. In jest it is written:",
+            "This noble one bears the mark of two persons",
+            "From Afrasiyab and from Kay Kavus",
+            "This servant had the utmost heart attachment in Iraq with those two servants of the Luminary of the horizons."
+          ]
         },
         {
           "key": "source:AB11650",
@@ -604,11 +642,17 @@
         },
         {
           "key": "source:AB03457",
-          "why": "Read playful floral and wine imagery celebrating restored sight."
+          "why": "Read playful floral and wine imagery celebrating restored sight.",
+          "shortened": [
+            "Now he will come to you with two eyes like languid narcissus - don't say eyes, say two flasks of pure wine! Don't say hair, say a lock of ambergris! Though he has left no trace of the ambergris with scissors, perhaps fearing whiteness would show, for he has pulled out the roots of his beard. It's not apparent - that is, he has become young. He was weak but has become strong, and like a ball rolls in the field of joy."
+          ]
         },
         {
           "key": "source:AB00704",
-          "why": "Follow the extended military metaphor for troublesome dentures."
+          "why": "Follow the extended military metaphor for troublesome dentures.",
+          "shortened": [
+            "Now with teeth removed, he has taken in his mouth a new string of pearls lined up like a row of soldiers. Its adornment exceeds the defeated first force, and its order and arrangement is more attractive. However, since this new force consists of foreigners and strangers, they are not as obedient and compliant as the previous native and familiar force. Sometimes they arrange battle lines at the borders and create havoc, plundering the tablecloth and feast. Sometimes they cause corruption in the realm of the mouth itself and produce burning inflammation. When their sedition increases and their rebellion and revolt grows, there is no choice but to expel this foreign force from the territory."
+          ]
         },
         {
           "key": "source:AB04095",
@@ -644,11 +688,17 @@
         },
         {
           "key": "source:AB04148",
-          "why": "Follow the treasury metaphor from delayed letters to inexhaustible bounty."
+          "why": "Follow the treasury metaphor from delayed letters to inexhaustible bounty.",
+          "shortened": [
+            "And beyond this, if you knew what upheaval is occurring, you would be content with a mere word for a lifetime. Despite this, your allowance and stipend has been paid in full and complete. Say nothing and do not reveal it, for the allowances and stipends of others have been greatly delayed, and this Pen has become like the treasury of the Ottomans and Persians - from the abundance of allowances and stipends it has beaten the drum of bankruptcy. I have no recourse except to refer all allowances and stipends to the Abha Kingdom, for that treasury is an inexhaustible treasure."
+          ]
         },
         {
           "key": "source:AB04776",
-          "why": "Read the runaway steed of names and the writer taking its reins."
+          "why": "Read the runaway steed of names and the writer taking its reins.",
+          "shortened": [
+            "And the rapid speech of Jinab-i-Furughi proceeded to enumerate names, and like a swift desert steed galloped forth into the field. I quickly took hold of the reins, otherwise the treasures of names would have been exhausted and the steed of Jinab-i-Furughi would not have ceased its prancing, and this page would have become an entire book of names without any stories or addresses or complaints or reproaches or thanksgiving or praise or counsel or guidance accompanying the names."
+          ]
         },
         {
           "key": "source:AB09262",
@@ -672,27 +722,47 @@
         },
         {
           "key": "source:ABU0594",
-          "why": "Read the reported English reply from behind a closed door."
+          "why": "Read the reported English reply from behind a closed door.",
+          "shortened": [
+            "He used to have difficulties with the American and European women because of their numerous questions and persistence. Some of these ladies said, \"We went there and knocked at his door. We heard no answer. We persisted in knocking, knowing that he was in. We knocked and we knocked. And finally, he said in English, 'Abul-Fazl not here.'\" The ladies said, \"We were convulsed with laughter. He himself, from the inside, laughed too. And then we departed.\""
+          ]
         },
         {
           "key": "source:ABU1759",
-          "why": "Keep the reported acknowledgment of indirect persuasion and its child analogy."
+          "why": "Keep the reported acknowledgment of indirect persuasion and its child analogy.",
+          "shortened": [
+            "J. E.: You didn't insist yourself, but you sent the Sheikh to do it.",
+            "Abdul Baha (laughing): You said right. Bravo, bravo (Aferin, Aferin): A young man when he wishes something from the father states his wish with the utmost politeness, but a little child cries, snatches, kicks, and takes what he wants."
+          ]
         },
         {
           "key": "source:AB06173",
-          "why": "Read the mock charge of usurping the station of service."
+          "why": "Read the mock charge of usurping the station of service.",
+          "shortened": [
+            "O servant of the loved ones of God! O usurper of this servant of Baha's right! For service to the friends and servitude to the loved ones is the eternal station and everlasting mission of this servant, yet you have usurped my station and move and walk about with perfect boldness.",
+            "Fear God! This is my robe - why have you put it on? This crown is my crown - why have you placed it on your head?"
+          ]
         },
         {
           "key": "source:AB04796",
-          "why": "Consider servitude as the meaning of an affectionate name."
+          "why": "Consider servitude as the meaning of an affectionate name.",
+          "shortened": [
+            "O 'Abdu'l-Husayn! I could find no title sweeter, more pleasant and more attractive than this with which to address you, for this name signifies servitude to the Blessed Beauty. You are 'Abdu'l-Husayn (Servant of Husayn), and the light of both eyes, and accepted and adorned - what more could you want if you succeed in living up to it? For there is nothing in the world of existence more acceptable, more beloved and more renowned than servitude to the Blessed Beauty, and this name indicates that."
+          ]
         },
         {
           "key": "source:AB05634",
-          "why": "Keep the insistence on servitude beside its severe closing hyperbole."
+          "why": "Keep the insistence on servitude beside its severe closing hyperbole.",
+          "shortened": [
+            "If you wish to make mention of this servant, write: dust of the Sacred Threshold, servant at the court of the One, self-effaced in servitude, wanderer in the wilderness of the love of God, lost in the desert of divine love, intoxicated with the wine of God's love, attracted to the lights of the Absolute Beauty - things of this nature. Anything less than this is absolutely unacceptable. If you were here, I would give you quite a beating!"
+          ]
         },
         {
           "key": "source:AB03204",
-          "why": "Read the exaggerated threat in its demand for language of humility, preserving context."
+          "why": "Read the exaggerated threat in its demand for language of humility, preserving context.",
+          "shortened": [
+            "Either compose and send a ghazal or ode in pure servitude, utter lowliness, complete effacement, and total humility and contrition before this servant, to make up for past offenses and compensate for the excesses, or - though I have never issued a fatwa until now - this time I shall decree that one should seize your head and another your body, one strike with a club and another with a mace, and bring you here running and dragging in bewilderment. And by God, upon arrival you will bow your head to the ground, your feet will be raised high, and you will receive such a severe beating with a stick that henceforth you will forget all obscurity, exaggeration and excess. So choose for yourself what you prefer!"
+          ]
         },
         {
           "key": "source:AB01790",
@@ -700,7 +770,11 @@
         },
         {
           "key": "source:AB04389",
-          "why": "Read the imagined reunion and confrontation as the source presents it."
+          "why": "Read the imagined reunion and confrontation as the source presents it.",
+          "shortened": [
+            "Sometimes he says that since father is constantly traveling and has no fixed abode, therefore he does not send any written pages, and sometimes he says he has grown somewhat lazy and settled down with his loving mother.",
+            "And he says fear God and dread Azrael, for soon breaths will be cut off and we will hasten to that other world and find each other - then we will grab each other by the collar and it will come to fists and slaps and shouting and pistols."
+          ]
         },
         {
           "key": "source:AB06099",
@@ -712,7 +786,10 @@
         },
         {
           "key": "source:ABU3065",
-          "why": "Read the reported camera joke as a playful claim about taking a house away."
+          "why": "Read the reported camera joke as a playful claim about taking a house away.",
+          "shortened": [
+            "Later I met Abdul-Baha at every turn. I was taking pictures of the garden, etc, when He came. He laughed heartily and said: \"You steal my house and put it in your camera and you steal my gardens and put them in your camera! And then you take them to America with you! I shall send my lawyer after you!\""
+          ]
         },
         {
           "key": "source:ABU2035",
@@ -720,11 +797,17 @@
         },
         {
           "key": "source:ABU3208",
-          "why": "Read the delight in electric lights and the reported recollection of Baha’u’llah."
+          "why": "Read the delight in electric lights and the reported recollection of Baha’u’llah.",
+          "shortened": [
+            "As we drove up Broadway, glittering with its electric signs, He spoke of them smiling, apparently much amused. Then He told us that Baha'u'llah had loved light. \"He could never get enough light. He taught us,\" the Master said, \"to economize in everything else but to use light freely.\""
+          ]
         },
         {
           "key": "source:ABU0542",
-          "why": "Keep the childhood recollection of laughter at branding sheep attributed."
+          "why": "Keep the childhood recollection of laughter at branding sheep attributed.",
+          "shortened": [
+            "I stood there laughing to my heart's content (Here the Beloved laughed also very heartily) at their strange noises, because I had never seen before such a f[u]nny confusi[ng] scene. When the sheep were released from the hands of the shepherds branding them they r[a]n hither and thither like distracted animals and their droll cries were very amusing and comical to the ears of the little child. I laughed so much on that day that tears flowed from my eyes."
+          ]
         },
         {
           "key": "source:ABU0623",
@@ -740,7 +823,10 @@
         },
         {
           "key": "source:ABU3259",
-          "why": "Consider the reported salad joke within a claim about human capacities."
+          "why": "Consider the reported salad joke within a claim about human capacities.",
+          "shortened": [
+            "\"If all the spirits of the air\", laughed 'Abdu'l-Baha, \"were to congregate together they could not create a salad! Nevertheless the spirit of man is powerful; for the spirit of man can soar in the firmament of knowledge, can discover realities, can confer life, can receive the divine Glad-Tidings. Is not this greater than making a salad?\""
+          ]
         },
         {
           "key": "source:ABU2532",
@@ -768,7 +854,13 @@
         },
         {
           "key": "source:ABU1051",
-          "why": "Consider the reported religious excuse for smoking as an account of rationalization."
+          "why": "Consider the reported religious excuse for smoking as an account of rationalization.",
+          "shortened": [
+            "While he was in the height of 'smoking', suddenly the door was opened and to his surprise the teacher walked in and a column of smoke escaped into the open air.",
+            "When he was face to face with his pupil he began to upbraid and censure him for thus wantonly disobeying the Command of his noble father, intimating that if he came to know about this, he would surely punish him severely. To the amazement of the teacher the pupil did not show any sign of agitation but in calm and dignified manner asked him to be seated and he would present his case to his impartial judgement.",
+            "'When our holy prophet' the pupil said 'declared his divine mission to the world all the animate creatures and inanimate objects prostrated before him, obeyed his command and offered to them their allegiance, save this accurse[d] and execrable tobacco. It arose in rebellion against its rightful Lord. It is only for this all-sufficient reason that I am subjecting it to smoke as a just punishment for its diabolic disobedience.'",
+            "The teacher listening to this religious explanation exclaimed with evident eagerness[:] If it is so, then let me smoke it too;- so that I may also gain the reward of paradise!"
+          ]
         },
         {
           "key": "source:ABU3002",
@@ -788,7 +880,11 @@
         },
         {
           "key": "source:ABU3448",
-          "why": "Keep the reported correction of both hostile and revised labels."
+          "why": "Keep the reported correction of both hostile and revised labels.",
+          "shortened": [
+            "Did you know what I was smiling for? There was a person inside who called me. when I entered he said: 'Two years ago I came to you and exclaimed that you are the chief of all the infidels. Now I want to tell you that you are not an Arch-infidel.--'",
+            "Then the Master laughed and said: 'In either case he has not understood."
+          ]
         },
         {
           "key": "source:ABU2666",
@@ -864,7 +960,10 @@
         },
         {
           "key": "source:ABU0934",
-          "why": "Read the reported diner’s disappointment after saving his appetite."
+          "why": "Read the reported diner’s disappointment after saving his appetite.",
+          "shortened": [
+            "\"When I was in Paris, a wealthy man invited me to a restaurant to have dinner. For his sake I went. For each person's meal they charged one pound. We sat at table. On the bill of fare was a statement saying: 'Do not eat the first courses. The last one is the best.' This person was a Syrian. I began to eat, but he did not. I repeatedly urged him to eat, but he said: 'No.' At the end of the dinner they brought a course which we could not eat at all. The Syrian tasted it and then left it. He became very disappointed. He said: 'I have eaten nothing. Bring me some food.' The waiter said: 'I cannot, it is against the rule.' It was very hard for him. He remained hungry and it had cost him a pound."
+          ]
         },
         {
           "key": "source:ABU1947",
@@ -888,7 +987,10 @@
         },
         {
           "key": "source:ABU1842",
-          "why": "Read the reported mistaken identity and its violent reception as an anecdote."
+          "why": "Read the reported mistaken identity and its violent reception as an anecdote.",
+          "shortened": [
+            "She was informed that a visitor had come and was sitting in the guestroom. Thinking that this was the same Mirza 'Ali-Akbar Khan Nuri, she had taken a lantern and quickly entered the room only to find a homely and sickly-looking man sitting there. With both hands she had hit him in the head such that his hat was torn, and loudly she had cried, \"Is this you Mirza 'Ali-Akbar Khan Nuri? Is it really you Mirza 'Ali-Akbar? How despicable you look, Mirza 'Ali-Akbar!\""
+          ]
         },
         {
           "key": "source:ABU2047",
@@ -904,7 +1006,10 @@
         },
         {
           "key": "source:ABU2814",
-          "why": "Consider the thief’s delayed noise as an image of consequences."
+          "why": "Consider the thief’s delayed noise as an image of consequences.",
+          "shortened": [
+            "\"There is a Persian story of a thief who, in order to rob a certain house, went to work to undermine the foundation. The owner of the house happened to be on the roof and looking down discovered the thief and asked what he was doing. The man replied, 'I am trumpeting.' 'Trumpeting!' exclaimed the owner, 'Why, you are not making any noise.' 'Oh no,' answered the thief, 'you will hear the noise tomorrow!\""
+          ]
         },
         {
           "key": "source:ABU2439",
@@ -920,7 +1025,10 @@
         },
         {
           "key": "source:ABU0620",
-          "why": "Consider the reported caravan’s panic at a rumor of robbers."
+          "why": "Consider the reported caravan’s panic at a rumor of robbers.",
+          "shortened": [
+            "In those days there was a rumor abroad that the road was infested with brigands and highwaymen and the men composing the Caravan were ready to believe any hearsay. Suddenly a voice was heard from some unknown quarter ;the robbers, the robbers have appeared. Look, look: they are to be seen in the far off horizon riding at a gallop and they are coming nearer and nearer.' This started a panic and the members of the splendid Caravan began to run about like wild rabbits hither and thither but being in the center of a plain there was no way to escape."
+          ]
         },
         {
           "key": "source:ABU1675",
@@ -928,7 +1036,10 @@
         },
         {
           "key": "source:ABU1340",
-          "why": "Retain the brief reported opening of the conscription story without inventing its ending."
+          "why": "Retain the brief reported opening of the conscription story without inventing its ending.",
+          "shortened": [
+            "The inhabitants of one of the provinces of Persia desired to get free from the onerous burden of Military Conscription which was laid upon them by new laws put in force by the then Minister of war. One amongst them said I will do something so that the whole province become exempt from this law."
+          ]
         },
         {
           "key": "source:ABU1277",
@@ -936,11 +1047,18 @@
         },
         {
           "key": "source:ABU1007",
-          "why": "Keep the violent political reversal in its reported setting rather than treating cruelty as advice."
+          "why": "Keep the violent political reversal in its reported setting rather than treating cruelty as advice.",
+          "shortened": [
+            "Now this morning we have heard that the Shah is dead and knowing well the disturbed condition of the country, we have arrested the[se] men, placed halters around their necks, have led them into the stable, tied them before the manger filled with fodder and have been beating them with their own whips to eat the straw and barley. I asked them to take me to the stable to see these miserable fellows. It was a very ludicrous an[d] laughable sight!"
+          ]
         },
         {
           "key": "source:AB01340",
-          "why": "Read the letter’s ironic feast of blows as an account of mistreatment."
+          "why": "Read the letter’s ironic feast of blows as an account of mistreatment.",
+          "shortened": [
+            "But what use was it, when upon arrival, he immediately went with your mother and brother to visit Mahmud's grave. As soon as they met the deceived sister, she served them a rich and sweet slap, and the oppressed leaf handmaiden of Baha, your mother, and the young brother received a full course of slaps, beatings, blows and strikes. Bon appétit! You missed quite a colorful spread - sweet delicacies, shelled pistachios and salted almonds.",
+            "And afterward, to aid digestion, false accusations were also raised against them - that they had raised hands in aggression and cried out in tyranny and self-pride."
+          ]
         },
         {
           "key": "source:ABU2099",
@@ -960,7 +1078,10 @@
         },
         {
           "key": "source:ABU0611",
-          "why": "Read the extraordinary reported laughing funeral in its preserved narrative context."
+          "why": "Read the extraordinary reported laughing funeral in its preserved narrative context.",
+          "shortened": [
+            "Five minutes passed, no movement, ten, fifteen minutes, half an hour, no sign of life. The minutes grew heavy and strained. They looked at each other with wonder in their eyes. Then with another laughter and motion of the arms left the room and gathered around the mat. One of them on tip-toe neared and cautiously took away the mat. Wonder of wonder! the man was dead! Then these men carried him on their shoulders with laughter and singing, took him to the undertaker with laughter, washed his body while laughing and buried him under the earth with the roar and thunder of laughter. It was a most phenomenal event!"
+          ]
         },
         {
           "key": "source:ABU1352",
@@ -968,7 +1089,10 @@
         },
         {
           "key": "source:ABU2780",
-          "why": "Read the reported tree-and-ant rebuke to an opposing editor."
+          "why": "Read the reported tree-and-ant rebuke to an opposing editor.",
+          "shortened": [
+            "Thy example is like unto the ant who scaled a high, old poplar tree and once reaching on its top, it tried to shake the tree and uproot it. The poplar tree laughed at the ant and said: Dost thou not know that I have experienced many storms, gales, hurricanes and wild tempestuous nights! and now thou little ant hast come to shake and uproot me! Vain is thy thought!"
+          ]
         },
         {
           "key": "source:ABU3324",
