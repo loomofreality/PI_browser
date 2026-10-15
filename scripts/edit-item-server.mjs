@@ -4,12 +4,17 @@ import path from 'node:path';
 import {fileURLToPath} from 'node:url';
 import {randomBytes,timingSafeEqual} from 'node:crypto';
 import {spawn} from 'node:child_process';
-import {ItemStore} from './item-store.mjs';
+import {ItemStore,requireSourceFolders} from './item-store.mjs';
+import {githubTarget} from './github-target.mjs';
+import {tool} from './publish-item.mjs';
 
 const directory=path.dirname(fileURLToPath(import.meta.url));
 export async function startEditor({root=path.resolve(directory,'..'),port=0,open=true}={}){
+  await requireSourceFolders(root);
   const store=new ItemStore(root),token=randomBytes(32).toString('hex');let busy=false,job=null;
-  const page=await fs.readFile(path.join(directory,'item-editor.html'));
+  // The live-site link follows this checkout's GitHub origin.
+  const site=await githubTarget(root,{gh:await tool('gh',root),git:await tool('git',root)}).then(target=>target.site,()=>'');
+  const page=(await fs.readFile(path.join(directory,'item-editor.html'),'utf8')).replace('%SITE%',site.replace(/[^\w:/.~-]/g,''));
   const server=http.createServer(async(req,res)=>{
     const send=(status,value)=>{res.writeHead(status,{'Content-Type':'application/json','Cache-Control':'no-store','X-Content-Type-Options':'nosniff'});res.end(JSON.stringify(value));};
     const address=`127.0.0.1:${server.address().port}`,origin='http://'+address;

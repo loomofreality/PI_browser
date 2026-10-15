@@ -5,6 +5,312 @@
       "id": "8C309A3E20044543A9A72F36981F7D2A",
       "slug": "businessmatters",
       "displayTitle": "Business and property: the people behind the accounts",
+      "selection": {
+        "review": "selections/businessmatters.json",
+        "sha256": "4a002aff7499c3b68329e814630802471c5599aa8ea5a33acb10e042a88210b9",
+        "ids": [
+          "0fb5676d51ca537c1b1eb1ec",
+          "7189891e1b8703fd51f2121a",
+          "1315180f5fe9aae9a22792d2",
+          "f222055d07b622dee928a5d9",
+          "2abecf4f462accd6b56a26fb",
+          "89a62da9c774088ccb7e1bdc",
+          "ab4a476f68eb2f6d39ba2b51",
+          "38126536353b0b88d5aa7cd6",
+          "ed63361c3610d5d87ab68133",
+          "30c9e8470d3ad1c0f82f615e",
+          "931eb588fe480d3f7901dc03",
+          "b61d1c2cd9cbc6aeb3c1ba77",
+          "d6ff14c706ecfdaa9de21733",
+          "39c8aa34e766ae6dbfe8d109",
+          "4652f8b90d36bb1bc1b1a5f6",
+          "4bebefc328c056a0635a2706",
+          "71ac6dc5528189441442aa1d",
+          "d88aaa8b23266e7d659081aa",
+          "517766138e427a3ff81e1f0c",
+          "7d16be0f7da64722545269ee",
+          "23208232126b304fcad27dbd",
+          "0c02ac781809b7fb64fe3251",
+          "8642f5136e0e5cf118152c09",
+          "0f7817ce904888ee47ab5538",
+          "bef2b4af5130c5ac9fb8e513",
+          "9089d13c569d4a2b897fd268",
+          "52e5a8b00ec58cca864053bb",
+          "5b6cb38137b1730b13aeb986",
+          "2cc6c8ebeb64e98ab0aae55b",
+          "2e609181702a12028c306d6e",
+          "6ed072597b3010aceac2cd1e",
+          "9db651c2321b155e71c97ca2",
+          "67c4297d0992b142df10daa1",
+          "1facb24058a2b26eafcdfe98",
+          "9de4f0e801a3a64dec505909",
+          "5f68c57d79c632314e682adc",
+          "4878dcd68296a9dd58caf5c5",
+          "0eb10251bd562a57de08d003",
+          "48093dd5d71b5200da0442ac",
+          "0be63d734531ea6f63dbef94",
+          "353eb0fd455e29105a62609d",
+          "138eed6309431879318517ff",
+          "7570747d0cce24283477d1f8",
+          "9876e4999ed4a1b15921e55f",
+          "29c867e2e234c8d6587760c7",
+          "e67f21daf19f45cba23358e9",
+          "e244e90f8c509c6577d4c955",
+          "7e17bb1e65c79e70929af7a6",
+          "32173352e4ca5ba01d1ccf19",
+          "608862a26d4b230cbe973873",
+          "fe7b37227cadcf1886a31bd5",
+          "e3f39cfde16450fd9e493dad",
+          "f1788250624735031fa97f3c",
+          "cdfdce4fc926dca2a1e34459",
+          "d9787ada30f83cd63c947c27",
+          "0574b000744bf63ecaf4889d",
+          "088fb3e41c21d4af2c514ff3",
+          "a3b861590b4b240f86baca42",
+          "5c6fa7c34791c5ece72e0c1e",
+          "17ae80befc621fc989ce549e",
+          "1baa2125149252fa6f80299a",
+          "1466e1fdbd760c512eae3c75",
+          "c1eae7e25ebaf63d956f38ed",
+          "5029bb16e22d822c4107f2ce",
+          "90a004dd68be47be083eb750",
+          "e0a67112b55b4e50e356d9c6",
+          "e9175501c7eac888d71f3a18",
+          "179a9c489dab7628e2ea7e61",
+          "a859c9698f163d5d97e9c974",
+          "3f6b49b135f929b1ce587c55",
+          "2c63e52b31a96447476a18fb",
+          "288d5a02ed3b6e80c9748406",
+          "20628ca510e0c60b4b5df917",
+          "363db44fed48352ff778fc77",
+          "ee5fcfc65946df6bca3f049a",
+          "16da0dbf9ca396c8b46fa781",
+          "221b34c2bd66241f2c92c417",
+          "0a77e87104082ec9160d1e80",
+          "ee3e835ef54b2ead9c324113",
+          "6d0d11b84b2742505a4bc973",
+          "8009161e49c45eb1b16ea6af",
+          "ae54d3e8248aea05bac8a8b2",
+          "4b0b4c75cd1ea40b555d2126",
+          "b5cabfdfccaf3ac1b260615c",
+          "8de6b1fa9b9e140874fdaae7",
+          "54a47e514d1686d22a84c76a",
+          "cf4d9ab1997505ba4adff032",
+          "ed58de6057abd0bc97f8cf4e",
+          "5c31c01ef58c1e8ac502695a",
+          "5c05a5066f2a0df66db3dceb",
+          "515759e65d2002ac48009328",
+          "488307f002bd994d3ca96788",
+          "58e8b8a298fc26f588b17e50",
+          "150e5ff918f0a667334f3b3a",
+          "1d6b65ab3aa7e20f6adeb8d1",
+          "30a32a186ae362e0ae004d12",
+          "5707ec9af8235fc31b12e34b",
+          "96ead4136b5631efa54b68d6",
+          "584911edeae741e8e0658471",
+          "9ce4411b638ca285feb94357",
+          "b5b41783a530d03dc7d32a1d",
+          "d0052683df917c1bd5d1b372",
+          "e72a1761a002e6fa23a1d067",
+          "327425e461fe928d8b95d713",
+          "4d9a3259ea5eaec7c12a40d6",
+          "b0c37db540b4caf69d461e72",
+          "ba9be6c7ba2a8057435a69d7",
+          "3eda51a1bfa3fd9f10e8a0ea",
+          "79ca8d7cecf6bc37ab64872b",
+          "c9bd71fa088a7981345ec039",
+          "2e4b9e63afc356def91f41c6",
+          "302259377f5a2a392c38b62b",
+          "0b107e6511798d576ae86c56",
+          "b25d2902675feeb058199118",
+          "752d90ab3b9e8d8d538c969d",
+          "02cbe65128ec461e8552890d",
+          "a019ecb2e5bcddd4b25b368b",
+          "5b3b497fd3560b69e5fd8edd",
+          "ed3948df0ca67d6587db4787",
+          "6e95ff4a934e12e738f80086",
+          "695d58b98e01e523b0df0a35",
+          "44076db6a53fd142c95dbf1b",
+          "ee88f59b76bdd64a269a47f3",
+          "26a35a4eb740c22e23be4924",
+          "e5ce333616e0b1541b5153a5",
+          "016f46436d488103e156f5fe",
+          "79668c57c6b601b383c25dd4",
+          "7438ced8865fad814374b48b",
+          "4683f87dd817c03ba735625d",
+          "ed8fcfea15c8ac4c8d81b7de",
+          "70aa241a9cb68029734e9fc9",
+          "a07d16212817294e8f4923f2",
+          "f3c4f5250e510fc818f7443f",
+          "209f3c01d18c1e33aa0ee267",
+          "10181192102c4cc6b88bd401",
+          "3ea6ad37a7d56e338bfb870f",
+          "2ca04eef745cef7019f1c963",
+          "2e8134cc62e8b0ed26bbad0b",
+          "c8287150a8a7ec689b31f101",
+          "968e16674b75a6df7994c6d1",
+          "99b3bc72363eaf211050356d",
+          "be3b5172e469a0efa84971fc",
+          "b07843e2abc51fa025582378",
+          "0f3247e8c4b8b48dd0a1423e",
+          "033d2487c39405e661f48dd2",
+          "cdb009e67f77c2b7ae0f1760",
+          "b5f9f26a9e6d41b7be2b80f6",
+          "8b81e9ebcf3d300b678cd75d",
+          "5c069327f40d716ff83ac9ac",
+          "2b6b058a6bcc137032066b64",
+          "cb0225a977d2bfa352a490b2",
+          "c8714671b9aa190ac73c5416",
+          "4c580d1023c985a0cc5602bc",
+          "87bf99cd68083eb045e72fff",
+          "cae86b0e86475c9c3e75aaa4",
+          "873540bc2cc0cbb648a9ad1d",
+          "33f88d8043272c96b0c09d57",
+          "9c8511770c7f0ce65dff4e53",
+          "30525f02062ab4086387b81c",
+          "f3c853fdcb635e37751df389",
+          "95cc795c3eb5a2121148f7c3",
+          "7603a3b9134e3f6b46b77030",
+          "2f254da58efe2cfcf420a2b1",
+          "516257e330cf0f43565b3ad2",
+          "ddc5f4114c0943ea250691e9",
+          "89dc761756a89aaeee611395",
+          "42e52af3293895bff5ab2b03",
+          "909094ea66863f31a61b910a",
+          "c9ac59ed0d0629442c1add72",
+          "52d9e89dfa835b287780ad06",
+          "0089d2406a00bf61ae2ffb83",
+          "1025948442c948d70e387e82",
+          "7c7bd82c948b276c38254048",
+          "c3b39cb497d210cc30879309",
+          "2c3c96c84551e5a1f0c0c039",
+          "bfa86a4f96976e04e7d51374",
+          "ca84d4c6bcba91027c223b58",
+          "b366a94c66db0b102b6defb3",
+          "f995267b893c8b803a77bc43",
+          "ac73c616f5d911b90558fb30",
+          "3db0d0b1f09c242c700f3d20",
+          "00225dad2510e814bd066ee1",
+          "0512f7c63011b3e805f86ce1",
+          "a058e35871f35bcbc8d30f96",
+          "3e44b824783023d2be14229d",
+          "5542dd75ba11e55abb11f6da",
+          "759c840f12bc6618ded96277",
+          "9415f0f7fd1a528087f8a48c",
+          "27b299d1f749e1f2b84b273f",
+          "b5b92dbe3adc65ddd82f91af",
+          "deb15620b2f2cbfd38c9596c",
+          "9817e1d5b7e0a3b3874469d1",
+          "9d3e9c4c8af1eaef58f0f9e4",
+          "a4a9396e70e29a2489883119",
+          "311375d00a3dba6db136acf4",
+          "880134b0a51d1bcb5798ac91",
+          "ed78dee7ba7f5bf1f9b65b16",
+          "49db1c80da3afd55e4ae5241",
+          "0b0aa5764b915714a4c9dbe9",
+          "a2d82fd1076148880f49602c",
+          "eca4346b427f925c44b5526c",
+          "264338815b600a994378f348",
+          "40d3b308d27e53641d30f91d",
+          "4b0838b7708ed4a42b3db3f2",
+          "b007e3a5920c19b38e511fe7",
+          "9422ba456858ba26d4498e02",
+          "f137cb9cea71a9b793b8cc7a",
+          "4576c77d8edcd98ba226e527",
+          "23c70fe82af5f69cc8450398",
+          "1eb7a92262338450d25732a7",
+          "59a3a84e013a6eeef9a95149",
+          "d9e5049ebd9a2391c27f860c",
+          "a495e2cb02dda7cade256e4b",
+          "e1170f897d9b3aada1e01e64",
+          "1c44841314d6b9138038a412",
+          "77fcb8eeebaf55d51b1638d2",
+          "1bb311bec6e8d9290f448e5f",
+          "7e12e78389297c0b38431036",
+          "32f97ef56f83191f76b6f6b8",
+          "7b6a159e77461106b440bdfc",
+          "3fcdd5a5d279ee83c050bddf",
+          "474581c6d2b69fb0cd9e0fe4",
+          "6f351f5d0a942d8c0dc3e52c",
+          "24090923d76409986cb07f7a",
+          "0ffded51152778498f44d9f6",
+          "66baae65602345dd76da38b0",
+          "421a8f7b0fd0b7eaa373d6c1",
+          "094c79876557915b6a723a53",
+          "6b103ae3fc81d8392f947db3",
+          "165be718929403fadd44de9a",
+          "ecd6fc9fb593be7f00f786c8",
+          "0339f33dd326d505bf314a4d",
+          "a56b03965b932e3e19390c99",
+          "fa6135a96e53d04d171abb86",
+          "2798986926c2dcbcde2871a4",
+          "d7eada5263d33f36d8629272",
+          "63b628db532c1108cd0d8625",
+          "d80e0551a722650de027a38f",
+          "204479bd9ba7d4925ef28c8d",
+          "d1495e4b04751e51f2683b16",
+          "473b70c829276f92701ce386",
+          "2c07a9943f3eaa4e57cf8a7b",
+          "ed3100489b8cdc02048d2a68",
+          "673b0fd6137e321846a273bd",
+          "43b27096ff37e8222269b552",
+          "1a616b813f9bb4d247039d0f",
+          "f009b0dfd4b736923b84ff42",
+          "8f051d4b6fb3b371b42c819f",
+          "7229d1cc3eac7ff4e0543e35",
+          "612c0c676a72dbd9d6d59201",
+          "f8ecca1196251a2e79c413a8",
+          "2ea6343b4081acf7a94cdfc2",
+          "ff06a92b79b414b58e5c533e",
+          "b41ae52820087ea503a6350b",
+          "03d339287ef440b3cec7ec44",
+          "025fe3d58ec2e249e3a1a3c0",
+          "41c3c525fce6e0dde773065f",
+          "ebad6c43f66917b3313cc9f5",
+          "40356024aa60d4a057ecf53a",
+          "446059b7be6553be45c6094b",
+          "9ab56143f97b28c4607f0763",
+          "dee6cfe97320ac6dfdedfe91",
+          "11d738e8acb43a750e6388c1",
+          "af4e8af82f559834395b9fa1",
+          "a6a808e9045a7eccd1aba817",
+          "99b16d7a10d710405628777b",
+          "530f54373252919ca0286a9c",
+          "645a425d0ce68f357f4bc8f8",
+          "027e17fc4d544701bdb0c120",
+          "013cf1f5339d92639688129e",
+          "f871ba8c002eafdd0d6a96b4",
+          "2bf82bb2d02a9b18a4f205e7",
+          "d0b8e04b0269bef1a927464d",
+          "218305797f0693cbefe72501",
+          "f37b135ac8e633e9fa1df905",
+          "c486d4eb3a34d1d04115e0c7",
+          "f7dc655fb439d47790eac287",
+          "e6f0485547dc0c16fbaec707",
+          "9f24213377317320aee586e7",
+          "c7f373517b0cf7aaf8d70b59",
+          "fca1136139c0a94bc9022401",
+          "c927dff1437f3f250e0b6506",
+          "3137acdd9fdfaba0f937a078",
+          "4dea9f2742844454ad359185",
+          "17b9c9df605a620ccfb00a3a",
+          "661aac9f21e1d13fef97d0cc",
+          "97446af9e37beac63387c57b",
+          "169252e9eb5803970a46db8b",
+          "2b46a57c5d86f07d69cf58d9",
+          "33c4f81038edb2ba04bd2ad9",
+          "3e20fadb1ec47cedd63db93d",
+          "99f1d9af185a2319fc699ae8",
+          "5b8dc336f95ce0cb3db3d485",
+          "648f1a7377dec881dad884c8",
+          "06c213171074ace75b356f20",
+          "78cba3bf8d21171c67213135",
+          "17efe98bc4966e401f89e787",
+          "5ba45e2d924b77e49addd23a",
+          "1ae2dcfcfb33f14f1ff2dc22",
+          "e17947f7026c3228e42d49ae"
+        ]
+      },
       "introduction": "An account can record more than money: it can reveal whose future is being protected, whose work is sustained and whose trust has been honored. This collection begins with the care of orphan funds, consultation, accurate records and the purpose of enterprise, then follows these concerns into the everyday lives of workers, partners, creditors, heirs and families. Its vision of useful work draws spiritual qualities into concrete arrangements: a clear agreement, a receipt, a fair division, a carefully delivered payment or a means of livelihood that can endure. Yet responsibility also requires judgment. A debt calls for payment, while poverty calls for mercy; a gift may express love, while accepting it may depend on necessity; a building may be cherished, while a family’s immediate need changes what should be done with available funds. The neighboring subjects of financial conduct, gifts and personal instructions help us read these differences attentively. Many selections address particular historical situations, and the collection includes revealed provisions, personal correspondence, prayers and reported recollections whose settings and authority deserve attention. The Báb’s provisions and those of Bahá’u’lláh should likewise be read within their distinct revelatory settings. Luke’s account of Zacchaeus and the Qur’an’s treatment of recorded obligations invite further thought about renewal, justice and trust. Through all this detail runs a searching question: how might the handling of possessions become an expression of love that is dependable enough to sustain other lives?",
       "arc": "The people behind the accounts → Work as a field of service → Judgment, partnership and proportion → Livelihood made possible → Promises, records and financial memory → Debt, distress and restoring confidence → Rights, evidence and reconciliation → Wills, gifts and the future of a household → Money as care for particular lives → Making assistance reach its destination → Resources and preparations for building → Property, consent and secure arrangements → The circumstances of land and houses → Trading under pressure → Travel, presence and responsibility → Supplies and the detail of daily life → Laws and their distinct settings → Love, gratitude and enduring gain",
       "order": [
@@ -45,10 +351,6 @@
           "why": "Move from the habits of a worker to the purposes and practical conditions of a cooperative enterprise."
         },
         {
-          "key": "source:AB07534",
-          "why": "Move from the habits of a worker to the purposes and practical conditions of a cooperative enterprise."
-        },
-        {
           "key": "source:AB01312",
           "why": "Move from the habits of a worker to the purposes and practical conditions of a cooperative enterprise."
         },
@@ -62,10 +364,6 @@
         },
         {
           "key": "source:AB06655",
-          "why": "Move from the habits of a worker to the purposes and practical conditions of a cooperative enterprise."
-        },
-        {
-          "key": "source:AB04158",
           "why": "Move from the habits of a worker to the purposes and practical conditions of a cooperative enterprise."
         },
         {
@@ -181,10 +479,6 @@
           "why": "Consider particular decisions about partners, location, scale and preparedness while preserving the circumstances that make the counsels different."
         },
         {
-          "key": "source:AB06074",
-          "why": "Consider particular decisions about partners, location, scale and preparedness while preserving the circumstances that make the counsels different."
-        },
-        {
           "key": "source:AB02533",
           "why": "Consider particular decisions about partners, location, scale and preparedness while preserving the circumstances that make the counsels different."
         },
@@ -233,14 +527,6 @@
           "why": "Follow the practical work of finding occupations, protecting capital, improving skills and supporting sustained service."
         },
         {
-          "key": "source:AB08634",
-          "why": "Follow the practical work of finding occupations, protecting capital, improving skills and supporting sustained service."
-        },
-        {
-          "key": "source:AB10842",
-          "why": "Follow the practical work of finding occupations, protecting capital, improving skills and supporting sustained service."
-        },
-        {
           "key": "source:AB12364",
           "why": "Follow the practical work of finding occupations, protecting capital, improving skills and supporting sustained service."
         },
@@ -249,31 +535,11 @@
           "why": "Follow the practical work of finding occupations, protecting capital, improving skills and supporting sustained service."
         },
         {
-          "key": "source:AB12523",
-          "why": "Follow the practical work of finding occupations, protecting capital, improving skills and supporting sustained service."
-        },
-        {
           "key": "source:AB12502",
           "why": "Keep the specific employment choice with the need for a firm agreement about salary."
         },
         {
-          "key": "source:BH02310",
-          "why": "Follow the practical work of finding occupations, protecting capital, improving skills and supporting sustained service."
-        },
-        {
           "key": "source:BH06355",
-          "why": "Follow the practical work of finding occupations, protecting capital, improving skills and supporting sustained service."
-        },
-        {
-          "key": "source:BH11704",
-          "why": "Follow the practical work of finding occupations, protecting capital, improving skills and supporting sustained service."
-        },
-        {
-          "key": "source:BH02429",
-          "why": "Follow the practical work of finding occupations, protecting capital, improving skills and supporting sustained service."
-        },
-        {
-          "key": "source:AB06756",
           "why": "Follow the practical work of finding occupations, protecting capital, improving skills and supporting sustained service."
         },
         {
@@ -317,10 +583,6 @@
           "why": "Let signed obligations and accurate records lead into the ordinary correspondence through which distant people keep one another informed."
         },
         {
-          "key": "source:AB12253",
-          "why": "Let signed obligations and accurate records lead into the ordinary correspondence through which distant people keep one another informed."
-        },
-        {
           "key": "source:BH02314",
           "why": "Let signed obligations and accurate records lead into the ordinary correspondence through which distant people keep one another informed."
         },
@@ -341,23 +603,7 @@
           "why": "Let signed obligations and accurate records lead into the ordinary correspondence through which distant people keep one another informed."
         },
         {
-          "key": "source:AB07405",
-          "why": "Let signed obligations and accurate records lead into the ordinary correspondence through which distant people keep one another informed."
-        },
-        {
           "key": "source:AB03670",
-          "why": "Let signed obligations and accurate records lead into the ordinary correspondence through which distant people keep one another informed."
-        },
-        {
-          "key": "source:BH01909",
-          "why": "Let signed obligations and accurate records lead into the ordinary correspondence through which distant people keep one another informed."
-        },
-        {
-          "key": "source:BH02140",
-          "why": "Let signed obligations and accurate records lead into the ordinary correspondence through which distant people keep one another informed."
-        },
-        {
-          "key": "source:BH09807",
           "why": "Let signed obligations and accurate records lead into the ordinary correspondence through which distant people keep one another informed."
         },
         {
@@ -365,31 +611,7 @@
           "why": "Let signed obligations and accurate records lead into the ordinary correspondence through which distant people keep one another informed."
         },
         {
-          "key": "source:BH08546",
-          "why": "Let signed obligations and accurate records lead into the ordinary correspondence through which distant people keep one another informed."
-        },
-        {
-          "key": "source:BH06492",
-          "why": "Let signed obligations and accurate records lead into the ordinary correspondence through which distant people keep one another informed."
-        },
-        {
           "key": "source:AB01046",
-          "why": "Let signed obligations and accurate records lead into the ordinary correspondence through which distant people keep one another informed."
-        },
-        {
-          "key": "source:AB01300",
-          "why": "Let signed obligations and accurate records lead into the ordinary correspondence through which distant people keep one another informed."
-        },
-        {
-          "key": "source:AB07089",
-          "why": "Let signed obligations and accurate records lead into the ordinary correspondence through which distant people keep one another informed."
-        },
-        {
-          "key": "source:AB11020",
-          "why": "Let signed obligations and accurate records lead into the ordinary correspondence through which distant people keep one another informed."
-        },
-        {
-          "key": "source:AB09051",
           "why": "Let signed obligations and accurate records lead into the ordinary correspondence through which distant people keep one another informed."
         },
         {
@@ -418,10 +640,6 @@
         },
         {
           "key": "source:AB04275",
-          "why": "Read financial trouble through both the obligation to repay and the vulnerability of people carrying debts; keep consultation, mutual help and source qualifications in view."
-        },
-        {
-          "key": "source:BH00209",
           "why": "Read financial trouble through both the obligation to repay and the vulnerability of people carrying debts; keep consultation, mutual help and source qualifications in view."
         },
         {
@@ -469,14 +687,6 @@
           "why": "Read financial trouble through both the obligation to repay and the vulnerability of people carrying debts; keep consultation, mutual help and source qualifications in view."
         },
         {
-          "key": "source:BH00771",
-          "why": "Read financial trouble through both the obligation to repay and the vulnerability of people carrying debts; keep consultation, mutual help and source qualifications in view."
-        },
-        {
-          "key": "source:BH03882",
-          "why": "Read financial trouble through both the obligation to repay and the vulnerability of people carrying debts; keep consultation, mutual help and source qualifications in view."
-        },
-        {
           "key": "source:AB03399",
           "why": "Read financial trouble through both the obligation to repay and the vulnerability of people carrying debts; keep consultation, mutual help and source qualifications in view."
         },
@@ -494,10 +704,6 @@
         },
         {
           "key": "source:AB04888",
-          "why": "Read financial trouble through both the obligation to repay and the vulnerability of people carrying debts; keep consultation, mutual help and source qualifications in view."
-        },
-        {
-          "key": "source:AB05925",
           "why": "Read financial trouble through both the obligation to repay and the vulnerability of people carrying debts; keep consultation, mutual help and source qualifications in view."
         },
         {
@@ -569,23 +775,7 @@
           "why": "Explore trust across family and religious differences, the need for proof, the rights of owners and heirs, and the possibility of reconciliation."
         },
         {
-          "key": "source:AB08807",
-          "why": "Explore trust across family and religious differences, the need for proof, the rights of owners and heirs, and the possibility of reconciliation."
-        },
-        {
-          "key": "source:AB12419",
-          "why": "Explore trust across family and religious differences, the need for proof, the rights of owners and heirs, and the possibility of reconciliation."
-        },
-        {
-          "key": "source:AB07568",
-          "why": "Explore trust across family and religious differences, the need for proof, the rights of owners and heirs, and the possibility of reconciliation."
-        },
-        {
           "key": "source:AB08971",
-          "why": "Explore trust across family and religious differences, the need for proof, the rights of owners and heirs, and the possibility of reconciliation."
-        },
-        {
-          "key": "source:AB07533",
           "why": "Explore trust across family and religious differences, the need for proof, the rights of owners and heirs, and the possibility of reconciliation."
         },
         {
@@ -594,10 +784,6 @@
         },
         {
           "key": "source:AB09285",
-          "why": "Explore trust across family and religious differences, the need for proof, the rights of owners and heirs, and the possibility of reconciliation."
-        },
-        {
-          "key": "source:AB06602",
           "why": "Explore trust across family and religious differences, the need for proof, the rights of owners and heirs, and the possibility of reconciliation."
         },
         {
@@ -625,10 +811,6 @@
           "why": "Explore trust across family and religious differences, the need for proof, the rights of owners and heirs, and the possibility of reconciliation."
         },
         {
-          "key": "source:AB12434",
-          "why": "Explore trust across family and religious differences, the need for proof, the rights of owners and heirs, and the possibility of reconciliation."
-        },
-        {
           "key": "source:AB02040",
           "why": "Follow property beyond one lifetime and ask how giving can respect intentions, dependents and present needs."
         },
@@ -649,18 +831,6 @@
           "why": "Follow property beyond one lifetime and ask how giving can respect intentions, dependents and present needs."
         },
         {
-          "key": "source:AB11816",
-          "why": "Follow property beyond one lifetime and ask how giving can respect intentions, dependents and present needs."
-        },
-        {
-          "key": "source:BH06504",
-          "why": "Follow property beyond one lifetime and ask how giving can respect intentions, dependents and present needs."
-        },
-        {
-          "key": "source:AB12297",
-          "why": "Follow property beyond one lifetime and ask how giving can respect intentions, dependents and present needs."
-        },
-        {
           "key": "source:AB12271",
           "why": "Follow property beyond one lifetime and ask how giving can respect intentions, dependents and present needs."
         },
@@ -677,31 +847,11 @@
           "why": "Follow property beyond one lifetime and ask how giving can respect intentions, dependents and present needs."
         },
         {
-          "key": "source:BH02256",
-          "why": "Follow property beyond one lifetime and ask how giving can respect intentions, dependents and present needs."
-        },
-        {
           "key": "source:AB00654",
           "why": "Follow property beyond one lifetime and ask how giving can respect intentions, dependents and present needs."
         },
         {
-          "key": "source:AB01579",
-          "why": "Follow property beyond one lifetime and ask how giving can respect intentions, dependents and present needs."
-        },
-        {
-          "key": "source:AB10893",
-          "why": "Follow property beyond one lifetime and ask how giving can respect intentions, dependents and present needs."
-        },
-        {
           "key": "source:ABU1785",
-          "why": "Follow property beyond one lifetime and ask how giving can respect intentions, dependents and present needs."
-        },
-        {
-          "key": "source:AB10470",
-          "why": "Follow property beyond one lifetime and ask how giving can respect intentions, dependents and present needs."
-        },
-        {
-          "key": "source:BH02441",
           "why": "Follow property beyond one lifetime and ask how giving can respect intentions, dependents and present needs."
         },
         {
@@ -749,39 +899,11 @@
           "why": "Turn accounts into recognizable acts of care, retaining who needs assistance, why it is offered and any conditions attached."
         },
         {
-          "key": "source:AB03170",
-          "why": "Turn accounts into recognizable acts of care, retaining who needs assistance, why it is offered and any conditions attached."
-        },
-        {
-          "key": "source:AB05362",
-          "why": "Turn accounts into recognizable acts of care, retaining who needs assistance, why it is offered and any conditions attached."
-        },
-        {
-          "key": "source:AB09826",
-          "why": "Turn accounts into recognizable acts of care, retaining who needs assistance, why it is offered and any conditions attached."
-        },
-        {
           "key": "source:AB10628",
           "why": "Turn accounts into recognizable acts of care, retaining who needs assistance, why it is offered and any conditions attached."
         },
         {
-          "key": "source:AB12377",
-          "why": "Turn accounts into recognizable acts of care, retaining who needs assistance, why it is offered and any conditions attached."
-        },
-        {
           "key": "source:AB12595",
-          "why": "Turn accounts into recognizable acts of care, retaining who needs assistance, why it is offered and any conditions attached."
-        },
-        {
-          "key": "source:AB09298",
-          "why": "Turn accounts into recognizable acts of care, retaining who needs assistance, why it is offered and any conditions attached."
-        },
-        {
-          "key": "source:AB09314",
-          "why": "Turn accounts into recognizable acts of care, retaining who needs assistance, why it is offered and any conditions attached."
-        },
-        {
-          "key": "source:BH04624",
           "why": "Turn accounts into recognizable acts of care, retaining who needs assistance, why it is offered and any conditions attached."
         },
         {
@@ -794,10 +916,6 @@
         },
         {
           "key": "source:AB11524",
-          "why": "Turn accounts into recognizable acts of care, retaining who needs assistance, why it is offered and any conditions attached."
-        },
-        {
-          "key": "source:AB07398",
           "why": "Turn accounts into recognizable acts of care, retaining who needs assistance, why it is offered and any conditions attached."
         },
         {
@@ -821,22 +939,6 @@
           "why": "Attend to the small practical steps—drafts, receipts, intermediaries and timing—that enable generosity to become effective."
         },
         {
-          "key": "source:AB07965",
-          "why": "Attend to the small practical steps—drafts, receipts, intermediaries and timing—that enable generosity to become effective."
-        },
-        {
-          "key": "source:AB08757",
-          "why": "Attend to the small practical steps—drafts, receipts, intermediaries and timing—that enable generosity to become effective."
-        },
-        {
-          "key": "source:BH00993",
-          "why": "Attend to the small practical steps—drafts, receipts, intermediaries and timing—that enable generosity to become effective."
-        },
-        {
-          "key": "source:BH02257",
-          "why": "Attend to the small practical steps—drafts, receipts, intermediaries and timing—that enable generosity to become effective."
-        },
-        {
           "key": "source:BH00645",
           "why": "Attend to the small practical steps—drafts, receipts, intermediaries and timing—that enable generosity to become effective."
         },
@@ -853,10 +955,6 @@
           "why": "Attend to the small practical steps—drafts, receipts, intermediaries and timing—that enable generosity to become effective."
         },
         {
-          "key": "source:AB08369",
-          "why": "Attend to the small practical steps—drafts, receipts, intermediaries and timing—that enable generosity to become effective."
-        },
-        {
           "key": "source:BH01121",
           "why": "Attend to the small practical steps—drafts, receipts, intermediaries and timing—that enable generosity to become effective."
         },
@@ -865,55 +963,11 @@
           "why": "Attend to the small practical steps—drafts, receipts, intermediaries and timing—that enable generosity to become effective."
         },
         {
-          "key": "source:BH02184",
-          "why": "Attend to the small practical steps—drafts, receipts, intermediaries and timing—that enable generosity to become effective."
-        },
-        {
-          "key": "source:BH03482",
-          "why": "Attend to the small practical steps—drafts, receipts, intermediaries and timing—that enable generosity to become effective."
-        },
-        {
-          "key": "source:BH05300",
-          "why": "Attend to the small practical steps—drafts, receipts, intermediaries and timing—that enable generosity to become effective."
-        },
-        {
           "key": "source:AB02653",
           "why": "Attend to the small practical steps—drafts, receipts, intermediaries and timing—that enable generosity to become effective."
         },
         {
-          "key": "source:AB04258",
-          "why": "Attend to the small practical steps—drafts, receipts, intermediaries and timing—that enable generosity to become effective."
-        },
-        {
-          "key": "source:AB03736",
-          "why": "Attend to the small practical steps—drafts, receipts, intermediaries and timing—that enable generosity to become effective."
-        },
-        {
-          "key": "source:AB05442",
-          "why": "Attend to the small practical steps—drafts, receipts, intermediaries and timing—that enable generosity to become effective."
-        },
-        {
-          "key": "source:AB05874",
-          "why": "Attend to the small practical steps—drafts, receipts, intermediaries and timing—that enable generosity to become effective."
-        },
-        {
-          "key": "source:AB07748",
-          "why": "Attend to the small practical steps—drafts, receipts, intermediaries and timing—that enable generosity to become effective."
-        },
-        {
           "key": "source:AB10213",
-          "why": "Attend to the small practical steps—drafts, receipts, intermediaries and timing—that enable generosity to become effective."
-        },
-        {
-          "key": "source:AB11023",
-          "why": "Attend to the small practical steps—drafts, receipts, intermediaries and timing—that enable generosity to become effective."
-        },
-        {
-          "key": "source:AB11066",
-          "why": "Attend to the small practical steps—drafts, receipts, intermediaries and timing—that enable generosity to become effective."
-        },
-        {
-          "key": "source:AB11501",
           "why": "Attend to the small practical steps—drafts, receipts, intermediaries and timing—that enable generosity to become effective."
         },
         {
@@ -922,26 +976,6 @@
         },
         {
           "key": "source:AB12743",
-          "why": "Attend to the small practical steps—drafts, receipts, intermediaries and timing—that enable generosity to become effective."
-        },
-        {
-          "key": "source:BH01648",
-          "why": "Attend to the small practical steps—drafts, receipts, intermediaries and timing—that enable generosity to become effective."
-        },
-        {
-          "key": "source:BH06505",
-          "why": "Attend to the small practical steps—drafts, receipts, intermediaries and timing—that enable generosity to become effective."
-        },
-        {
-          "key": "source:BH01889",
-          "why": "Attend to the small practical steps—drafts, receipts, intermediaries and timing—that enable generosity to become effective."
-        },
-        {
-          "key": "source:BH02150",
-          "why": "Attend to the small practical steps—drafts, receipts, intermediaries and timing—that enable generosity to become effective."
-        },
-        {
-          "key": "source:BH02008",
           "why": "Attend to the small practical steps—drafts, receipts, intermediaries and timing—that enable generosity to become effective."
         },
         {
@@ -985,19 +1019,11 @@
           "why": "Consider the sequence of raising funds, meeting needs and undertaking projects, including cases where immediate care changes the use of available resources."
         },
         {
-          "key": "source:AB02147",
-          "why": "Consider the sequence of raising funds, meeting needs and undertaking projects, including cases where immediate care changes the use of available resources."
-        },
-        {
           "key": "source:AB03268",
           "why": "Consider the sequence of raising funds, meeting needs and undertaking projects, including cases where immediate care changes the use of available resources."
         },
         {
           "key": "source:AB12370",
-          "why": "Consider the sequence of raising funds, meeting needs and undertaking projects, including cases where immediate care changes the use of available resources."
-        },
-        {
-          "key": "source:AB12557",
           "why": "Consider the sequence of raising funds, meeting needs and undertaking projects, including cases where immediate care changes the use of available resources."
         },
         {
@@ -1021,27 +1047,11 @@
           "why": "Consider the sequence of raising funds, meeting needs and undertaking projects, including cases where immediate care changes the use of available resources."
         },
         {
-          "key": "source:BH01583",
-          "why": "Consider the sequence of raising funds, meeting needs and undertaking projects, including cases where immediate care changes the use of available resources."
-        },
-        {
           "key": "source:AB00229",
           "why": "Consider the sequence of raising funds, meeting needs and undertaking projects, including cases where immediate care changes the use of available resources."
         },
         {
           "key": "source:AB06073",
-          "why": "Consider the sequence of raising funds, meeting needs and undertaking projects, including cases where immediate care changes the use of available resources."
-        },
-        {
-          "key": "source:AB05136",
-          "why": "Consider the sequence of raising funds, meeting needs and undertaking projects, including cases where immediate care changes the use of available resources."
-        },
-        {
-          "key": "source:AB11680",
-          "why": "Consider the sequence of raising funds, meeting needs and undertaking projects, including cases where immediate care changes the use of available resources."
-        },
-        {
-          "key": "source:AB07895",
           "why": "Consider the sequence of raising funds, meeting needs and undertaking projects, including cases where immediate care changes the use of available resources."
         },
         {
@@ -1062,10 +1072,6 @@
         },
         {
           "key": "source:AB12702",
-          "why": "Consider the sequence of raising funds, meeting needs and undertaking projects, including cases where immediate care changes the use of available resources."
-        },
-        {
-          "key": "source:AB12012",
           "why": "Consider the sequence of raising funds, meeting needs and undertaking projects, including cases where immediate care changes the use of available resources."
         },
         {
@@ -1101,19 +1107,7 @@
           "why": "Read deeds, consent, representation and custodianship as concrete responsibilities in the care of places with spiritual and personal significance."
         },
         {
-          "key": "source:AB04934",
-          "why": "Read deeds, consent, representation and custodianship as concrete responsibilities in the care of places with spiritual and personal significance."
-        },
-        {
           "key": "source:AB02093",
-          "why": "Read deeds, consent, representation and custodianship as concrete responsibilities in the care of places with spiritual and personal significance."
-        },
-        {
-          "key": "source:AB02198",
-          "why": "Read deeds, consent, representation and custodianship as concrete responsibilities in the care of places with spiritual and personal significance."
-        },
-        {
-          "key": "source:AB10203",
           "why": "Read deeds, consent, representation and custodianship as concrete responsibilities in the care of places with spiritual and personal significance."
         },
         {
@@ -1126,22 +1120,6 @@
         },
         {
           "key": "source:AB04802",
-          "why": "Read deeds, consent, representation and custodianship as concrete responsibilities in the care of places with spiritual and personal significance."
-        },
-        {
-          "key": "source:AB05901",
-          "why": "Read deeds, consent, representation and custodianship as concrete responsibilities in the care of places with spiritual and personal significance."
-        },
-        {
-          "key": "source:AB02769",
-          "why": "Read deeds, consent, representation and custodianship as concrete responsibilities in the care of places with spiritual and personal significance."
-        },
-        {
-          "key": "source:AB11701",
-          "why": "Read deeds, consent, representation and custodianship as concrete responsibilities in the care of places with spiritual and personal significance."
-        },
-        {
-          "key": "source:AB04483",
           "why": "Read deeds, consent, representation and custodianship as concrete responsibilities in the care of places with spiritual and personal significance."
         },
         {
@@ -1158,10 +1136,6 @@
         },
         {
           "key": "source:AB01997",
-          "why": "Read deeds, consent, representation and custodianship as concrete responsibilities in the care of places with spiritual and personal significance."
-        },
-        {
-          "key": "source:AB05169",
           "why": "Read deeds, consent, representation and custodianship as concrete responsibilities in the care of places with spiritual and personal significance."
         },
         {
@@ -1225,10 +1199,6 @@
           "why": "Keep together the differing circumstances of purchase, sale, preservation and use, widening the question of property toward historical memory and hospitality."
         },
         {
-          "key": "source:BH02760",
-          "why": "Keep together the differing circumstances of purchase, sale, preservation and use, widening the question of property toward historical memory and hospitality."
-        },
-        {
           "key": "source:BH01162",
           "why": "Keep together the differing circumstances of purchase, sale, preservation and use, widening the question of property toward historical memory and hospitality."
         },
@@ -1253,31 +1223,11 @@
           "why": "Keep together the differing circumstances of purchase, sale, preservation and use, widening the question of property toward historical memory and hospitality."
         },
         {
-          "key": "source:ABU3238",
-          "why": "Keep together the differing circumstances of purchase, sale, preservation and use, widening the question of property toward historical memory and hospitality."
-        },
-        {
-          "key": "source:BH07445",
-          "why": "Keep together the differing circumstances of purchase, sale, preservation and use, widening the question of property toward historical memory and hospitality."
-        },
-        {
-          "key": "source:AB12679",
-          "why": "Keep together the differing circumstances of purchase, sale, preservation and use, widening the question of property toward historical memory and hospitality."
-        },
-        {
           "key": "source:ABU0948",
           "why": "Keep together the differing circumstances of purchase, sale, preservation and use, widening the question of property toward historical memory and hospitality."
         },
         {
           "key": "source:BH04026",
-          "why": "Keep together the differing circumstances of purchase, sale, preservation and use, widening the question of property toward historical memory and hospitality."
-        },
-        {
-          "key": "source:BH02313",
-          "why": "Keep together the differing circumstances of purchase, sale, preservation and use, widening the question of property toward historical memory and hospitality."
-        },
-        {
-          "key": "source:BH05601",
           "why": "Keep together the differing circumstances of purchase, sale, preservation and use, widening the question of property toward historical memory and hospitality."
         },
         {
@@ -1298,10 +1248,6 @@
         },
         {
           "key": "source:ABU1254",
-          "why": "Encounter reported experiences and correspondence about pressure, risk, disputes and the limits of personal control."
-        },
-        {
-          "key": "source:ABU1612",
           "why": "Encounter reported experiences and correspondence about pressure, risk, disputes and the limits of personal control."
         },
         {
@@ -1337,31 +1283,7 @@
           "why": "Encounter reported experiences and correspondence about pressure, risk, disputes and the limits of personal control."
         },
         {
-          "key": "source:AB07274",
-          "why": "Encounter reported experiences and correspondence about pressure, risk, disputes and the limits of personal control."
-        },
-        {
-          "key": "source:AB03225",
-          "why": "Encounter reported experiences and correspondence about pressure, risk, disputes and the limits of personal control."
-        },
-        {
-          "key": "source:AB02501",
-          "why": "Encounter reported experiences and correspondence about pressure, risk, disputes and the limits of personal control."
-        },
-        {
-          "key": "source:AB08011",
-          "why": "Encounter reported experiences and correspondence about pressure, risk, disputes and the limits of personal control."
-        },
-        {
           "key": "source:AB01311",
-          "why": "Read journeys alongside their costs, purposes, delays and obligations to people elsewhere."
-        },
-        {
-          "key": "source:AB12320",
-          "why": "Read journeys alongside their costs, purposes, delays and obligations to people elsewhere."
-        },
-        {
-          "key": "source:BH01566",
           "why": "Read journeys alongside their costs, purposes, delays and obligations to people elsewhere."
         },
         {
@@ -1369,31 +1291,7 @@
           "why": "Read journeys alongside their costs, purposes, delays and obligations to people elsewhere."
         },
         {
-          "key": "source:AB11759",
-          "why": "Read journeys alongside their costs, purposes, delays and obligations to people elsewhere."
-        },
-        {
-          "key": "source:AB05612",
-          "why": "Read journeys alongside their costs, purposes, delays and obligations to people elsewhere."
-        },
-        {
           "key": "source:AB09300",
-          "why": "Read journeys alongside their costs, purposes, delays and obligations to people elsewhere."
-        },
-        {
-          "key": "source:BH10258",
-          "why": "Read journeys alongside their costs, purposes, delays and obligations to people elsewhere."
-        },
-        {
-          "key": "source:AB12493",
-          "why": "Read journeys alongside their costs, purposes, delays and obligations to people elsewhere."
-        },
-        {
-          "key": "source:BH01603",
-          "why": "Read journeys alongside their costs, purposes, delays and obligations to people elsewhere."
-        },
-        {
-          "key": "source:BH04590",
           "why": "Read journeys alongside their costs, purposes, delays and obligations to people elsewhere."
         },
         {
@@ -1405,19 +1303,7 @@
           "why": "Read journeys alongside their costs, purposes, delays and obligations to people elsewhere."
         },
         {
-          "key": "source:AB08316",
-          "why": "Read journeys alongside their costs, purposes, delays and obligations to people elsewhere."
-        },
-        {
-          "key": "source:AB03691",
-          "why": "Read journeys alongside their costs, purposes, delays and obligations to people elsewhere."
-        },
-        {
           "key": "source:AB10221",
-          "why": "Read journeys alongside their costs, purposes, delays and obligations to people elsewhere."
-        },
-        {
-          "key": "source:AB10735",
           "why": "Read journeys alongside their costs, purposes, delays and obligations to people elsewhere."
         },
         {
@@ -1433,31 +1319,11 @@
           "why": "Notice the care expressed in provisions, delivery, maintenance and modest decisions; retain selections whose relevance depends on their original setting."
         },
         {
-          "key": "source:BH00946",
-          "why": "Notice the care expressed in provisions, delivery, maintenance and modest decisions; retain selections whose relevance depends on their original setting."
-        },
-        {
-          "key": "source:BH09881",
-          "why": "Notice the care expressed in provisions, delivery, maintenance and modest decisions; retain selections whose relevance depends on their original setting."
-        },
-        {
-          "key": "source:BB00410",
-          "why": "Notice the care expressed in provisions, delivery, maintenance and modest decisions; retain selections whose relevance depends on their original setting."
-        },
-        {
-          "key": "source:BB00541",
-          "why": "Notice the care expressed in provisions, delivery, maintenance and modest decisions; retain selections whose relevance depends on their original setting."
-        },
-        {
           "key": "source:AB05487",
           "why": "Notice the care expressed in provisions, delivery, maintenance and modest decisions; retain selections whose relevance depends on their original setting."
         },
         {
           "key": "source:AB06702",
-          "why": "Notice the care expressed in provisions, delivery, maintenance and modest decisions; retain selections whose relevance depends on their original setting."
-        },
-        {
-          "key": "source:BH09184",
           "why": "Notice the care expressed in provisions, delivery, maintenance and modest decisions; retain selections whose relevance depends on their original setting."
         },
         {
@@ -1467,10 +1333,6 @@
         {
           "key": "source:BH09361",
           "why": "Notice the care expressed in provisions, delivery, maintenance and modest decisions; retain selections whose relevance depends on their original setting."
-        },
-        {
-          "key": "source:BH10899",
-          "why": "Preserve this catalogue-linked selection and its available context even though its visible subject is a personal instruction about washing."
         },
         {
           "key": "source:AB02068",
@@ -1618,14 +1480,6 @@
         },
         {
           "key": "source:AB12378",
-          "why": "Close by revisiting giving, correspondence and spiritual commerce as images and practices of love, ending with prayer for useful work and the opening of possibilities."
-        },
-        {
-          "key": "source:BH00531",
-          "why": "Close by revisiting giving, correspondence and spiritual commerce as images and practices of love, ending with prayer for useful work and the opening of possibilities."
-        },
-        {
-          "key": "source:AB03694",
           "why": "Close by revisiting giving, correspondence and spiritual commerce as images and practices of love, ending with prayer for useful work and the opening of possibilities."
         },
         {

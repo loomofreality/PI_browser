@@ -1,3 +1,5 @@
 # Supplied extracts and review exports retain their exact bytes across platforms.
 subject_extracts/** -text
 extract-review/*.csv -text
+# Windows launchers keep CRLF line endings on every checkout.
+*.cmd text eol=crlf

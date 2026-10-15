@@ -1,7 +1,8 @@
 // Study-guide display context only: never changes source records or selections.
-import reviewedParagraphs from '../study-guides/sentence-paragraphs.json' with {type:'json'};
+import {loadSentenceParagraphs,sameReviewedText} from './sentence-paragraphs.mjs';
+export const reviewedEntries=loadSentenceParagraphs();
 const reviewedBySource=new Map();
-for(const entry of reviewedParagraphs.entries){
+for(const entry of reviewedEntries){
  if(!reviewedBySource.has(entry.source))reviewedBySource.set(entry.source,[]);
  reviewedBySource.get(entry.source).push(entry);
 }
@@ -105,24 +106,24 @@ export function boundaryConcerns(text){
  return issues;
 }
 
-export function completeSentenceParagraphs(record,selected,reviews=reviewedParagraphs.entries){
+export function completeSentenceParagraphs(record,selected,reviews=reviewedEntries){
  const offsets=[];let text='';
  for(const p of record.en.paragraphs){offsets.push(text.length);text+=p.plain+'\n\n';}
  const spans=sentenceSpans(text),expanded=[];
  // A reviewed source can contain a full stop between a dependent clause and
  // its main clause. Keep that exact paragraph together, failing on any change
  // of source version or wording instead of guessing a general grammar rule.
- const sourceReviews=reviews===reviewedParagraphs.entries?(reviewedBySource.get(record.id)||[]):reviews.filter(e=>e.source===record.id);
+ const sourceReviews=reviews===reviewedEntries?(reviewedBySource.get(record.id)||[]):reviews.filter(e=>e.source===record.id);
  for(const entry of sourceReviews){
   const paragraph=record.en.paragraphs[entry.paragraph-1];
-  if(record.enVersion!==entry.sourceVersion||paragraph?.plain!==entry.text)throw Error(`Stale reviewed sentence paragraph: ${record.id}:${entry.paragraph}`);
+  if(record.enVersion!==entry.sourceVersion||!sameReviewedText(entry,paragraph?.plain))throw Error(`Stale reviewed sentence paragraph: ${record.id}:${entry.paragraph}`);
   const start=offsets[entry.paragraph-1];
   let end=start+paragraph.plain.length;
   // A reviewed bracketed passage may continue in the adjacent paragraph.
   // Require its exact wording too, rather than following an arbitrary later ].
   if(entry.continuation){
    const next=entry.continuation,following=record.en.paragraphs[next.paragraph-1];
-   if(next.paragraph!==entry.paragraph+1||following?.plain!==next.text)throw Error(`Stale reviewed sentence continuation: ${record.id}:${next.paragraph}`);
+   if(next.paragraph!==entry.paragraph+1||!sameReviewedText(next,following?.plain))throw Error(`Stale reviewed sentence continuation: ${record.id}:${next.paragraph}`);
    end=offsets[next.paragraph-1]+following.plain.length;
   }
   const first=spans.findIndex(s=>s.end>start&&s.start<end);

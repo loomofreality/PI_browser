@@ -83,3 +83,26 @@ test('unsafe identity, mismatched datasets and uncompressed guide exports are re
   await write('study-guides/manifest.json',JSON.stringify({dataset:'collections/current/',subjects:{}}));
   await write('study-guides/compiled.json','not packed');await assert.rejects(preparePages(root),/Package study guides/);
 });
+
+test('a configured PDF site receives the volume PDFs instead of the reading site',async t=>{
+  const {root,write}=await fixture(t);
+  await write('pdf-hosting.json',JSON.stringify({url:'https://owner.github.io/Volumes/',repository:'owner/Volumes'}));
+  const result=await preparePages(root);
+  await assert.rejects(fs.access(path.join(root,'public-site/pdf-volumes')),{code:'ENOENT'});
+  const pdf=await fs.readFile(path.join(root,'dist/pdf-volumes/volume-1.pdf'));
+  assert.deepEqual(await fs.readFile(path.join(root,'pdf-site/pdf-volumes/volume-1.pdf')),pdf);
+  const manifest=JSON.parse(await fs.readFile(path.join(root,'pdf-site/pdf-site.json'),'utf8'));
+  assert.deepEqual(manifest.files,[{path:'pdf-volumes/volume-1.pdf',bytes:pdf.length,sha256:sha256(pdf)}]);
+  await fs.access(path.join(root,'pdf-site/.nojekyll'));
+  assert.equal(result.pdfSite.url,'https://owner.github.io/Volumes/');assert.equal(result.pdfSite.files,1);
+  assert.ok(result.excluded.some(file=>file.path==='pdf-volumes/volume-1.pdf'&&file.reason==='hosted on PDF site'));
+  // Without a PDF site the PDFs return to the reading site and pdf-site/ is removed.
+  await write('pdf-hosting.json',JSON.stringify({url:''}));
+  // Audit records are retained per commit, so the changed setting is a new publication.
+  const local=await preparePages(root,{commit:'a'.repeat(40)});
+  assert.equal(local.pdfSite,null);
+  assert.deepEqual(await fs.readFile(path.join(root,'public-site/pdf-volumes/volume-1.pdf')),pdf);
+  await assert.rejects(fs.access(path.join(root,'pdf-site')),{code:'ENOENT'});
+  await write('pdf-hosting.json',JSON.stringify({url:'http://insecure.example/'}));
+  await assert.rejects(preparePages(root,{commit:'b'.repeat(40)}),/https address/);
+});

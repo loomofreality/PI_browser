@@ -5,10 +5,12 @@ import {gzipSync,gunzipSync} from 'node:zlib';
 import {parseCsv,parseText} from '../src/text.mjs';
 import {digest,prepareSource,Matcher,hierarchyEdges,validateConfirmedMatch} from './subject-core.mjs';
 import {relationKey} from '../src/subject-relations.mjs';
+import {recordFilename} from '../src/record-file.mjs';
 import {writeReviewIndex} from './build-passage-review.mjs';
 import {parseSubjectSummary} from '../src/subject-summary.mjs';
 import {readExtractInputs,mergeExtracts,writeExtractReview,matchExtract} from './extract-inputs.mjs';
 import {isPublicSelection,hasPublicMatch,isVerifiedMatch} from '../src/selection-policy.mjs';
+import {decodeSource} from './source-encoding.mjs';
 const zip=(file,data)=>fs.writeFile(file,gzipSync(JSON.stringify(data),{level:9}));
 export async function buildSubjects(root,out,dataset){
   const snapshotBytes=await fs.readFile(path.join(root,'data/subjects-snapshot.json.gz'));
@@ -26,7 +28,7 @@ export async function buildSubjects(root,out,dataset){
   report.extractImport=inputs.report;report.snapshotVersion=inputs.version;report.snapshotDate=null;
   report.selectionSource='Local Inventory and Evernote extract files; no website quotations';
   const sourceFiles=(await fs.readdir(path.join(root,'translated_texts - copy'))).filter(f=>f.endsWith('.txt')).sort(),sources=[];
-  for(const file of sourceFiles){const bytes=await fs.readFile(path.join(root,'translated_texts - copy',file));let text;try{text=new TextDecoder('utf8',{fatal:true}).decode(bytes);}catch{text=new TextDecoder('windows-1252').decode(bytes);report.encodingFallbacks.push(file);}sources.push(prepareSource(file.slice(0,-4),digest(bytes),parseText(text,'en').paragraphs));}
+  for(const file of sourceFiles){const bytes=await fs.readFile(path.join(root,'translated_texts - copy',file));const {text,fallback}=decodeSource(bytes);if(fallback)report.encodingFallbacks.push(file);sources.push(prepareSource(file.slice(0,-4),digest(bytes),parseText(text,'en').paragraphs));}
   console.log(`Subject matching: indexing ${sources.length} English sources`);
   const matcher=new Matcher(sources),bySubject=new Map(),usedEdits=new Set(),memo=new Map();
   for(const subject of active){
@@ -95,8 +97,17 @@ export async function writeSubjectOutputs({root,out,dataset,subjects,bySubject,r
     for(const s of data.selections)if(s.passage)s.otherSubjects=passages.get(s.passage).subjects;
     await zip(path.join(base,data.subject.id+'.json.gz'),data);
   }
-  for(const p of passages.values())await zip(path.join(base,'passages',p.id+'.json.gz'),p);
-  for(const file of await fs.readdir(path.join(base,'passages')))if(/^[a-f\d]{24}\.json\.gz$/.test(file)&&!passages.has(file.slice(0,24)))await fs.unlink(path.join(base,'passages',file));
+  // The Catalog reader needs only a passage's version, ranges and subjects. One
+  // file per source (named like its record) keeps the site small and avoids
+  // publishing a separate file for each of the ~100,000 passages.
+  const passageFiles=new Map();
+  for(const p of passages.values()){
+    const file=recordFilename(p.source);
+    if(!passageFiles.has(file))passageFiles.set(file,{format:2,source:p.source,passages:{}});
+    passageFiles.get(file).passages[p.id]={version:p.version,ranges:p.ranges.map(({paragraph,start,end})=>({paragraph,start,end})),subjects:p.subjects};
+  }
+  for(const [file,data] of passageFiles)await zip(path.join(base,'passages',file),data);
+  for(const file of await fs.readdir(path.join(base,'passages')))if(!passageFiles.has(file))await fs.unlink(path.join(base,'passages',file));
   report.passages=passages.size;report.relationships={imported:edges.filter(e=>e.status==='imported').length,suggested:edges.filter(e=>e.status==='suggested').length,reviewed:edits.relationships.length};
   report.emptySubjects=subjects.filter(s=>!s.unavailable&&s.selections===0).map(s=>({id:s.id,name:s.name}));
   await zip(path.join(base,'index.json.gz'),{subjects,edges,report,hierarchy:hierarchy.nodes});

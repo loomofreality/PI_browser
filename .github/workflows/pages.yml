@@ -67,7 +67,7 @@ jobs:
             pages-data-v2-${{ runner.os }}-${{ steps.inputs.outputs.compatible }}-
       - name: Extract source archive for validation of cached data
         if: steps.generated.outputs.cache-hit == 'true'
-        run: tar -xzf data/collection.tar.gz
+        run: for shard in data/collection/*.tar; do tar -xf "$shard"; done
       - name: Build full corpus and search index
         if: steps.generated.outputs.cache-hit != 'true'
         run: PI_INCREMENTAL=1 node --max-old-space-size=6144 scripts/build.mjs
@@ -79,6 +79,10 @@ jobs:
         run: node --test tests/*.test.mjs
       - name: Keep only the verified active dataset in the deployment
         run: node scripts/deployment-cache.mjs prune
+      - name: Publish volume PDFs to the separate PDF site when they change
+        env:
+          PDF_SITE_TOKEN: ${{ secrets.PDF_SITE_TOKEN }}
+        run: node scripts/publish-pdf-site.mjs
       - name: Cache successfully verified collection and PDFs
         if: steps.generated.outputs.cache-hit != 'true' && !inputs.force_rebuild
         uses: actions/cache/save@v4

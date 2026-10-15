@@ -5,6 +5,312 @@
       "id": "7A8DB05467DBEF2954FD9B30F84AA0E8",
       "slug": "stories",
       "displayTitle": "Stories and anecdotes: learning to see again",
+      "selection": {
+        "review": "selections/stories.json",
+        "sha256": "81c2866410eef487cc67bffef2cf18524b1ff21def10ad944e89e0170b338635",
+        "ids": [
+          "8a89ee50faf0d61d0791b0ef",
+          "c9407458a23e7bafe97535db",
+          "9e0af0687bd105a0101f2914",
+          "a7e4604c759875ebe2bda5c7",
+          "183980ea6033562159ee3279",
+          "6d24945dc59d35123f8b20e8",
+          "35cf2822d8a36026701eea86",
+          "902ea7211584b273250b5b42",
+          "7dd35a4149115497bdfd233b",
+          "6456eac5d79056fbaebc6193",
+          "76b3b93db581665453525453",
+          "6470af6cd1e5870e607ec97f",
+          "24c35db18e54301f72d5ef9b",
+          "a9dd02fcf1e84f8f3afa09c6",
+          "652cc6cc09670129948d712c",
+          "a614dfed3cff5814201e9e78",
+          "2852147d814f099b2a015132",
+          "e52ca7cd8a97bd9c4b46f7e3",
+          "f75b78d3a75539438e24d2b3",
+          "bba08b41088237f538d0ed80",
+          "108ee0ae96fe321d73297c50",
+          "a9691d8725def6b146378b2b",
+          "210e851eee7a247370e10cc1",
+          "fe6d43b7f1a46d167daa308c",
+          "5f8119a9c39d5377a6c8be21",
+          "8bbe1faa2eb10cb3f6c3aaf0",
+          "44787bbf81e2d048f3822910",
+          "4d7c72ddc5e0d241d296bda2",
+          "7986594756e83f78209d9bc9",
+          "6905b7d5a76a03ec5cd82f03",
+          "05681ea48fa0e5b9570e0dd6",
+          "f1379a6632313b898e195add",
+          "c931e86b9c0a1736249ef73a",
+          "af19410a218df440a2322a3a",
+          "110f8e64d56d71ab3815d2c5",
+          "73793d6cbfcf106bd81e05d9",
+          "aef4891cc422749839326844",
+          "4019182d459ce4c2fbcec773",
+          "210739e8111b039db4b0ec69",
+          "f0cd70ddaaf268a4c811529d",
+          "7510bd0ecda062582a910237",
+          "cd8dde2b67dd10b546861b79",
+          "7b323c0888eef3ecd923134a",
+          "a855934d69da8af14b53d8f9",
+          "d4bab9d102d80ab2fc970548",
+          "aa4500da8372583b3ebd5c5c",
+          "0a4a4c38d01f04cc845b2546",
+          "4274408a6b9a4662b609dee6",
+          "072f00dc2d13f990fe2bb80a",
+          "755efce852741e22df54bb05",
+          "7a5b00c6841023a1536935cf",
+          "9dd501ceccb5e6713137d6aa",
+          "b6702b4ff742460674d00c05",
+          "363410be5da75c222a1f40f1",
+          "5144a358a5da45c9b9dd8530",
+          "e895c8c7f745ece6e07767d1",
+          "795a1374ce1192ba5fa9011c",
+          "3db801d0258e5297d27a952f",
+          "a5d9845793c856bab42e7ced",
+          "de6d197301b23a73f9d9a5ac",
+          "4623821a5b4af54507fd61fe",
+          "5ab76bf5d4eb878bd9fa735a",
+          "07cabf3719acf5e12fe41ce2",
+          "1324c61d3e381095365aed4c",
+          "13c0ddb3328a3c153c746b3f",
+          "2905f933e2a7734273db508d",
+          "9ead1eebca0adc3d3e748a6b",
+          "06150fb789582b883721f8fa",
+          "d4c82267fb351a76608b2db6",
+          "5fbc2a3985fd84fc946f23ff",
+          "bda90042f3e88999fdc39b56",
+          "c3f3d25283fd9339804fca31",
+          "a21b023677541b355c9eae32",
+          "e8d3b451574a3ed978448ef3",
+          "137bcdc76a131025a7853ec4",
+          "311de21bf5da28020f545ff5",
+          "aa9b03cce8447b8305da267a",
+          "f217a05632ddc3f80fff48f5",
+          "2b92f6f4390c0a6110bfae91",
+          "30cd6c0273a60394bf7892e2",
+          "732ba33bfc5918f792ff8c6c",
+          "3677278e01f7ad7626aae8f7",
+          "944fa252a1984015406eb8d7",
+          "01a59b100a7c5c1ba636db55",
+          "46a674d308bf6e7a5c83c017",
+          "f31b608da722cbbe582d5d2d",
+          "efde86cb524bb94715b6c118",
+          "51d487c2c0da24fd9619fde4",
+          "055f925d69fb9572fc1ceab8",
+          "e9ee658f5b94cdf40cc84f7e",
+          "cad43ea3e9b3df0b2f396d07",
+          "2da5be81b44bf782ab9e48fc",
+          "f744477080dabc1882fde9b4",
+          "e5c1ca17c8644f348d91d2f9",
+          "98a49c5033f0b50e90b1132c",
+          "d86869c9256fb2353280e9e5",
+          "f2de87e0ab67b4ea330a204c",
+          "7ffed00866f6e72399b391ba",
+          "0382f92184035ca1d5502e56",
+          "6a5335632917393f665a3acd",
+          "14973db0f1bcee414496e1f1",
+          "b7321d5e7e7426203c3e2647",
+          "357fa2557adba1502b0c383e",
+          "0b9285848d909aa380f09595",
+          "ee9e062506d694c0524e249d",
+          "4325fa610b1f5dd0acaf9029",
+          "c1909b52ffa9538078dd49e0",
+          "95c148754cabb6a6cc11b50c",
+          "ccbbe2b1221692497d6e8ba7",
+          "38b3879e56cf70da6d0bfa07",
+          "a17ad4dfbfb69d4f83b1e283",
+          "a4f825c6bc3141b426ff0722",
+          "e85b75c3756e4b00ff21d9c5",
+          "97988fdd2f34c3db92e43ebe",
+          "6304ceb3c88b1865b53329f6",
+          "ebec95f7f5998409881a1999",
+          "1ed35873668f7639e2813790",
+          "d0d41c47fc6b0af70db0aca8",
+          "d1971b2907f32afe60c0fab7",
+          "b47bcfc93924136e79d23db6",
+          "e9c65afbd58b730e3b9c728c",
+          "0756f3325a29ab442c0b6589",
+          "803a70c4d0e1ba69b799399c",
+          "dce97dfc6d97151f9eb2ce93",
+          "7a8d6a3ee0958ac9ca071e48",
+          "9bed5f90ed5c62c589436d39",
+          "723b3d1630325f8c9683e1a8",
+          "b6140782b3c730d4060e317e",
+          "9ed5fc3313c79fdce34aa5ce",
+          "3fd2cc5e89d29caf5148649a",
+          "fb8135af147946603a54527c",
+          "cfce8c9f07e0f134734ecd4b",
+          "70bcc15f61d0df7d16e9a9a6",
+          "3f7a1fcf861094d2356aa727",
+          "5789c4ed39d2313cd84bedda",
+          "d00b356f0455e23d65954b80",
+          "39cf56b17900b19cbed5e6fd",
+          "19a0bee7c6caec4a95013e74",
+          "377504adc11cae4c91ef5f24",
+          "a041deaefbf6ffc7adc13cb0",
+          "c7de1984ece51cfb5c628332",
+          "33755fdce7b6e38d29532e9d",
+          "32fa432f8fd7dab00b674136",
+          "4f6f864aad6509ab8ee0f8ca",
+          "97b74074d2e72f8655b21c16",
+          "3a6cc958e05e202079d2aabe",
+          "9f1c418b319a2a6592fd6f22",
+          "240cbf650ff95bb37e85e172",
+          "0cbff931f425878d04576eda",
+          "7b80a605c7774c06730e20da",
+          "e0454b54f679e3711b91a249",
+          "f8316c36213912890b4257a1",
+          "fc6968c9458a1efaf85afee1",
+          "ae4b9680b2fabe3f97129463",
+          "733b414ebd8664830c098a97",
+          "8101ba45c9f3bdff43a689a7",
+          "7f78ca74de297dcab0b228a6",
+          "238291ae0bfb1c17e26df7a6",
+          "14feff5353010bfea81639f8",
+          "29bad7d249ba83beaf73cc68",
+          "11212d841cb72981d7eade72",
+          "7997e0136be7fe27dc64e457",
+          "2c609f02d48252824ae9ae35",
+          "f9d8fd7be4e23b04777b2e17",
+          "28daa30d84434471b6af8f6c",
+          "3cdc4b3c3c6722f5d6eb9cf5",
+          "5c888976c1efcc291c3282f8",
+          "bf5f2ffe9dcbe6f80de2eadd",
+          "dff838f6c18fab2bb0809e09",
+          "b49a1eb7d106b7c82e9dd9dc",
+          "69394d749d278ad639da62d0",
+          "694bce081653c2cb553fbef3",
+          "8a547aaf3d7807605da41874",
+          "116402939ae2165735be5885",
+          "e8bafcb5b4bafdec21f76f67",
+          "c1b7b2504ebfabd8b1f3a226",
+          "72e1841649b1318a7334acc9",
+          "8bfe2070a40c8b44ddf1b823",
+          "8b5aa12d4c1ee439c3801fd3",
+          "b75bc2c9ef8c8187c61aac58",
+          "763bb3e711b01c96f332fa5b",
+          "29fe7cd3be7e212c8b7cc345",
+          "a7ef0c95c94850be22272128",
+          "6028e26fb5c3ead8d0c06081",
+          "a3cc369f2be66323588432dd",
+          "6e17b146718f3ef204fd849e",
+          "eec2eabd17b3bdb70def4518",
+          "a5b4be464ef6e80c523918b4",
+          "edaf286bd231aadcd698868a",
+          "3422d0254d9df34f4a90bd7a",
+          "89629dafbda4bf0238f3b05b",
+          "6bc59f67c66bdafa0876407a",
+          "aa5f3f807be8dbadba062c94",
+          "5ac7acb550d457ef1b3f534c",
+          "fdbac4378e2801952fbc0f74",
+          "11e7347f26bd281abf6dff8b",
+          "29078c083412dfdee1a3a8c4",
+          "d82df5cb66d12d6b1c35f951",
+          "19bbe3a36e6bc0fa29814b0b",
+          "56a411f02ad1b6c97fc3babc",
+          "25cc60c30e7f5f126e12eeb8",
+          "de22293dc76dd9da4b6323b0",
+          "0769abf3f1fba83c180977e4",
+          "1947e281bc4a452c22b2b80f",
+          "9165677ab0c06cf5cea47828",
+          "b72d3d2e26e31eced036b65f",
+          "4ef3d8ef5daf12cae5949497",
+          "91d251f8399208549dbc1dd4",
+          "81d23beb8c1a2260a8354329",
+          "f2cd4916e44c758d8b26c05a",
+          "248a3733981ccb0f81d56e1a",
+          "c5197c1dfc81879341be9cd9",
+          "07bce2079e53b93a0adf1423",
+          "f1da45b9c5b81576924f172d",
+          "f02ad671742a5e2e5b937dd3",
+          "028b1f54b384ff190d991836",
+          "da6eb0c394c7f338a439a535",
+          "8b31806387314eb15d1397ee",
+          "b50c1e24711ab67ee4baf42b",
+          "a140f9c25f394c9da9ac3a48",
+          "fd8d5b8d335e3e43bc8d6b5e",
+          "2a8d1a2c4151ec7eddee80e4",
+          "189681b9c7c962884f4e07a0",
+          "13f8ef08ca705d9b807f40f5",
+          "7b88369b3841a61dcb4599d6",
+          "51b98ea5db69a9ce7f2d352a",
+          "41b79280479dbbf54a657139",
+          "9a162805028d99fa0502716c",
+          "44778ad3166dd68f64ceac44",
+          "108fa5354e0d587d3f34ba2a",
+          "60664aa2050a0478bc5bc4fa",
+          "8ba24211512afd841caf333d",
+          "50203c16a80f3fe2aca90fca",
+          "339b232cd3baac6395dda1a3",
+          "2b195d953c212d692ff2e66c",
+          "29b44f271e7897d5a3b8919d",
+          "3b9bb3a8eab0784f59584565",
+          "50b8a8acfed8fefb1134085d",
+          "2c8363ecb42bef184e9cf4d0",
+          "b158dbda7e2c9ef214d4f9ac",
+          "cbbec0650f7296baa0002a82",
+          "0ef3b8afbd817b3168785caf",
+          "6bf12cfaa3cb99041a0888a4",
+          "6f552fda858da0a6c320412e",
+          "edd8bb03822b987c62511748",
+          "6ed8ead0985af07deb9208e2",
+          "45c4ac553b11e7ad1a338723",
+          "fd24a50b3170318a6bcff4f7",
+          "0f2394f6d960f6a2284a32da",
+          "f8ba5377888d8f580efa80d8",
+          "cba1019a016b23e8ed1a8565",
+          "8711693a395171d6399aaa4a",
+          "85d67ea738e355c207a32b8f",
+          "ff15fc06703f84243b6f5523",
+          "9ae50d737c7fc3eeed1a55bc",
+          "2de13e87303ad9187d469bf2",
+          "c826a4f48b688749e11b48a8",
+          "6af02ba3667b2530829008df",
+          "c47bd9e88c46638646e4e010",
+          "8939434349bbe28659e10857",
+          "9341c10233260537876e233f",
+          "b0dd570df032af07cea96790",
+          "25c7a7472d7fe381960fba69",
+          "7e7bfd10a9d661dba4ff717e",
+          "ba31f75df13627294989f05f",
+          "9764c7a38b5fc069036bab23",
+          "00a8255d0fba0ee8b12da32a",
+          "81e5860cb9cca890d9514a9f",
+          "ee26806feff89dc63abbb62d",
+          "e65c3f4838ba25852c679769",
+          "3df3501229597389d2f68c8a",
+          "eeaf06dae7f835bf11543b68",
+          "0c61a28be46d4b6ef41a028f",
+          "e93e8c8c099cce18de21c030",
+          "32d5cb2dd87d47dc4a45bf10",
+          "fab91311faae6154ece06ab5",
+          "f4bd49b7ad062f4584433306",
+          "bc1f9dde5fe47ef00fd81d4b",
+          "fd9b47dd204ed1448a126706",
+          "a715a2370de8041030ed03e3",
+          "ef80fb990963508a7d674072",
+          "55ae533bc8292703d85d4978",
+          "eafd6770606bb9c36c3d0b2e",
+          "5ad177461a66b333437a3803",
+          "b4efecbfc0612cb58c914447",
+          "cac5528396b40a316afac763",
+          "f9f4bfa10e770566a8cca4d5",
+          "ec5c8c1b99439a981774b54a",
+          "c5f0349ab9a2525b821d2696",
+          "3da03f7cbed01388535b3591",
+          "adfcb81ea27d10bc5a864af2",
+          "dee5295752f805faaa9dc5fb",
+          "3d8a57cd79d021e0c5fb9510",
+          "283c1eacef63806817cad82a",
+          "41bb99dee8eaf4909e53d484",
+          "c07741669a11a9f3585483d7",
+          "7a6e8326c52035076d1a1449",
+          "01e9fcd2a5262ba99c178de4",
+          "dee4f088319b690319b1110d",
+          "4636346eea1bc47a3b6b5c6b"
+        ]
+      },
       "introduction": "A dead dog, a shared loaf, an old man planting trees: a small encounter can unsettle the judgments with which we enter it. These readings use stories to turn attention toward generosity, humility, courage and the distance between professed values and action. Humor exposes pretension; memories of travel, exile and hospitality give spiritual principles a human setting; familiar figures such as Joseph, Jonah and the heroes of Persian epic acquire new meanings when addressed to a person’s inner life. The collection also asks for care in reading. Revealed passages, recorded talks, reported recollections, dreams, parables and literary allusions do different kinds of work, and one reported passage explicitly distinguishes a story’s possible lack of historical foundation from its moral value. Different tellings are therefore kept visible, together with their source attributions and qualifications. Some incidents describe harsh practices or inherited social judgments that call for attention to their setting and to the purpose of the passage. The connected subjects of humor, poetry, dreams, the apostles and the lives of the early believers offer paths for deeper inquiry. Comparative readings from Luke and a Buddhist discourse invite us to examine how a narrative travels, what its framing makes visible, and how its challenge might become a question about our own conduct.",
       "arc": "Seeing again → Kindness made concrete → Giving, gratitude and contentment → What laughter brings to light → Power, reputation and judgment → What can be left behind → Questions, discernment and learning → On the road and around the table → Remembering the early community → The disciples and the widening circle → Sacred narratives read anew → Joseph: loss, recognition and love → Dream, memory and the unseen → Courage that gives life",
       "order": [
@@ -41,14 +347,6 @@
           "why": "Introduce the source’s own distinction between a story’s historical foundation and the moral insight it can convey."
         },
         {
-          "key": "source:ABU0239",
-          "why": "Open with small encounters that overturn an easy judgment, then introduce the question of how stories teach and how their sources should be read."
-        },
-        {
-          "key": "source:ABU3447",
-          "why": "Open with small encounters that overturn an easy judgment, then introduce the question of how stories teach and how their sources should be read."
-        },
-        {
           "key": "source:ABU1618",
           "why": "Open with small encounters that overturn an easy judgment, then introduce the question of how stories teach and how their sources should be read."
         },
@@ -77,23 +375,11 @@
           "why": "Follow the change of vision into hospitality, help and care, allowing difficult encounters and the explicit distinction about non-retaliation to complicate a simple moral."
         },
         {
-          "key": "source:ABU0578",
-          "why": "Follow the change of vision into hospitality, help and care, allowing difficult encounters and the explicit distinction about non-retaliation to complicate a simple moral."
-        },
-        {
-          "key": "source:ABU0087",
-          "why": "Follow the change of vision into hospitality, help and care, allowing difficult encounters and the explicit distinction about non-retaliation to complicate a simple moral."
-        },
-        {
           "key": "source:ABU0256",
           "why": "Follow the change of vision into hospitality, help and care, allowing difficult encounters and the explicit distinction about non-retaliation to complicate a simple moral."
         },
         {
           "key": "source:ABU2528",
-          "why": "Follow the change of vision into hospitality, help and care, allowing difficult encounters and the explicit distinction about non-retaliation to complicate a simple moral."
-        },
-        {
-          "key": "source:ABU1005",
           "why": "Follow the change of vision into hospitality, help and care, allowing difficult encounters and the explicit distinction about non-retaliation to complicate a simple moral."
         },
         {
@@ -114,18 +400,6 @@
         },
         {
           "key": "source:ABU1459",
-          "why": "Follow the change of vision into hospitality, help and care, allowing difficult encounters and the explicit distinction about non-retaliation to complicate a simple moral."
-        },
-        {
-          "key": "source:ABU1883",
-          "why": "Follow the change of vision into hospitality, help and care, allowing difficult encounters and the explicit distinction about non-retaliation to complicate a simple moral."
-        },
-        {
-          "key": "source:ABU1003",
-          "why": "Follow the change of vision into hospitality, help and care, allowing difficult encounters and the explicit distinction about non-retaliation to complicate a simple moral."
-        },
-        {
-          "key": "source:ABU1838",
           "why": "Follow the change of vision into hospitality, help and care, allowing difficult encounters and the explicit distinction about non-retaliation to complicate a simple moral."
         },
         {
@@ -173,10 +447,6 @@
           "why": "Move from receiving bread with gratitude to sharing limited resources, noticing the difference between possessions and generosity and between comfort and joy."
         },
         {
-          "key": "source:AB07265",
-          "why": "Move from receiving bread with gratitude to sharing limited resources, noticing the difference between possessions and generosity and between comfort and joy."
-        },
-        {
           "key": "source:AB06170",
           "why": "Move from receiving bread with gratitude to sharing limited resources, noticing the difference between possessions and generosity and between comfort and joy."
         },
@@ -185,27 +455,11 @@
           "why": "Move from receiving bread with gratitude to sharing limited resources, noticing the difference between possessions and generosity and between comfort and joy."
         },
         {
-          "key": "source:ABU1566",
-          "why": "Move from receiving bread with gratitude to sharing limited resources, noticing the difference between possessions and generosity and between comfort and joy."
-        },
-        {
-          "key": "source:ABU2683",
-          "why": "Move from receiving bread with gratitude to sharing limited resources, noticing the difference between possessions and generosity and between comfort and joy."
-        },
-        {
           "key": "source:ABU2235",
           "why": "Move from receiving bread with gratitude to sharing limited resources, noticing the difference between possessions and generosity and between comfort and joy."
         },
         {
           "key": "source:ABU2532",
-          "why": "Move from receiving bread with gratitude to sharing limited resources, noticing the difference between possessions and generosity and between comfort and joy."
-        },
-        {
-          "key": "source:ABU1095",
-          "why": "Move from receiving bread with gratitude to sharing limited resources, noticing the difference between possessions and generosity and between comfort and joy."
-        },
-        {
-          "key": "source:ABU1367",
           "why": "Move from receiving bread with gratitude to sharing limited resources, noticing the difference between possessions and generosity and between comfort and joy."
         },
         {
@@ -229,19 +483,7 @@
           "why": "Move from receiving bread with gratitude to sharing limited resources, noticing the difference between possessions and generosity and between comfort and joy."
         },
         {
-          "key": "source:ABU2316",
-          "why": "Move from receiving bread with gratitude to sharing limited resources, noticing the difference between possessions and generosity and between comfort and joy."
-        },
-        {
           "key": "source:ABU1418",
-          "why": "Move from receiving bread with gratitude to sharing limited resources, noticing the difference between possessions and generosity and between comfort and joy."
-        },
-        {
-          "key": "source:ABU0077",
-          "why": "Move from receiving bread with gratitude to sharing limited resources, noticing the difference between possessions and generosity and between comfort and joy."
-        },
-        {
-          "key": "source:ABU0330",
           "why": "Move from receiving bread with gratitude to sharing limited resources, noticing the difference between possessions and generosity and between comfort and joy."
         },
         {
@@ -317,10 +559,6 @@
           "why": "Let misunderstandings, quick replies and domestic incidents expose habits of mind. Preserve the reported setting and wording without turning every joke into a general rule."
         },
         {
-          "key": "source:ABU0784",
-          "why": "Let misunderstandings, quick replies and domestic incidents expose habits of mind. Preserve the reported setting and wording without turning every joke into a general rule."
-        },
-        {
           "key": "source:ABU3324",
           "why": "Let misunderstandings, quick replies and domestic incidents expose habits of mind. Preserve the reported setting and wording without turning every joke into a general rule."
         },
@@ -345,31 +583,11 @@
           "why": "Let misunderstandings, quick replies and domestic incidents expose habits of mind. Preserve the reported setting and wording without turning every joke into a general rule."
         },
         {
-          "key": "source:ABU1842",
-          "why": "Let misunderstandings, quick replies and domestic incidents expose habits of mind. Preserve the reported setting and wording without turning every joke into a general rule."
-        },
-        {
-          "key": "source:ABU1494",
-          "why": "Let misunderstandings, quick replies and domestic incidents expose habits of mind. Preserve the reported setting and wording without turning every joke into a general rule."
-        },
-        {
-          "key": "source:ABU1059",
-          "why": "Let misunderstandings, quick replies and domestic incidents expose habits of mind. Preserve the reported setting and wording without turning every joke into a general rule."
-        },
-        {
           "key": "source:ABU1156",
           "why": "Let misunderstandings, quick replies and domestic incidents expose habits of mind. Preserve the reported setting and wording without turning every joke into a general rule."
         },
         {
           "key": "source:BHU0016",
-          "why": "Let misunderstandings, quick replies and domestic incidents expose habits of mind. Preserve the reported setting and wording without turning every joke into a general rule."
-        },
-        {
-          "key": "source:BHU0038",
-          "why": "Let misunderstandings, quick replies and domestic incidents expose habits of mind. Preserve the reported setting and wording without turning every joke into a general rule."
-        },
-        {
-          "key": "source:ABU0289",
           "why": "Let misunderstandings, quick replies and domestic incidents expose habits of mind. Preserve the reported setting and wording without turning every joke into a general rule."
         },
         {
@@ -385,15 +603,7 @@
           "why": "Let misunderstandings, quick replies and domestic incidents expose habits of mind. Preserve the reported setting and wording without turning every joke into a general rule."
         },
         {
-          "key": "source:ABU1277",
-          "why": "Let misunderstandings, quick replies and domestic incidents expose habits of mind. Preserve the reported setting and wording without turning every joke into a general rule."
-        },
-        {
           "key": "source:BH00587",
-          "why": "Read rulers, courts and social hierarchies through their reversals, bringing vanity and failed judgment into view. These reported incidents retain their historical setting and are not instructions for punishment or governance."
-        },
-        {
-          "key": "source:ABU1591",
           "why": "Read rulers, courts and social hierarchies through their reversals, bringing vanity and failed judgment into view. These reported incidents retain their historical setting and are not instructions for punishment or governance."
         },
         {
@@ -425,10 +635,6 @@
           "why": "Read rulers, courts and social hierarchies through their reversals, bringing vanity and failed judgment into view. These reported incidents retain their historical setting and are not instructions for punishment or governance."
         },
         {
-          "key": "source:ABU0536",
-          "why": "Read rulers, courts and social hierarchies through their reversals, bringing vanity and failed judgment into view. These reported incidents retain their historical setting and are not instructions for punishment or governance."
-        },
-        {
           "key": "source:ABU1051",
           "why": "Read rulers, courts and social hierarchies through their reversals, bringing vanity and failed judgment into view. These reported incidents retain their historical setting and are not instructions for punishment or governance."
         },
@@ -453,31 +659,11 @@
           "why": "Read rulers, courts and social hierarchies through their reversals, bringing vanity and failed judgment into view. These reported incidents retain their historical setting and are not instructions for punishment or governance."
         },
         {
-          "key": "source:AB00909",
-          "why": "Read rulers, courts and social hierarchies through their reversals, bringing vanity and failed judgment into view. These reported incidents retain their historical setting and are not instructions for punishment or governance."
-        },
-        {
           "key": "source:ABU1380",
           "why": "Read rulers, courts and social hierarchies through their reversals, bringing vanity and failed judgment into view. These reported incidents retain their historical setting and are not instructions for punishment or governance."
         },
         {
           "key": "source:ABU2742",
-          "why": "Read rulers, courts and social hierarchies through their reversals, bringing vanity and failed judgment into view. These reported incidents retain their historical setting and are not instructions for punishment or governance."
-        },
-        {
-          "key": "source:AB08762",
-          "why": "Read rulers, courts and social hierarchies through their reversals, bringing vanity and failed judgment into view. These reported incidents retain their historical setting and are not instructions for punishment or governance."
-        },
-        {
-          "key": "source:AB09827",
-          "why": "Read rulers, courts and social hierarchies through their reversals, bringing vanity and failed judgment into view. These reported incidents retain their historical setting and are not instructions for punishment or governance."
-        },
-        {
-          "key": "source:AB11797",
-          "why": "Read rulers, courts and social hierarchies through their reversals, bringing vanity and failed judgment into view. These reported incidents retain their historical setting and are not instructions for punishment or governance."
-        },
-        {
-          "key": "source:BH00740",
           "why": "Read rulers, courts and social hierarchies through their reversals, bringing vanity and failed judgment into view. These reported incidents retain their historical setting and are not instructions for punishment or governance."
         },
         {
@@ -494,10 +680,6 @@
         },
         {
           "key": "source:ABU1596",
-          "why": "Read rulers, courts and social hierarchies through their reversals, bringing vanity and failed judgment into view. These reported incidents retain their historical setting and are not instructions for punishment or governance."
-        },
-        {
-          "key": "source:ABU1098",
           "why": "Read rulers, courts and social hierarchies through their reversals, bringing vanity and failed judgment into view. These reported incidents retain their historical setting and are not instructions for punishment or governance."
         },
         {
@@ -525,10 +707,6 @@
           "why": "Read rulers, courts and social hierarchies through their reversals, bringing vanity and failed judgment into view. These reported incidents retain their historical setting and are not instructions for punishment or governance."
         },
         {
-          "key": "source:ABU1346",
-          "why": "Read rulers, courts and social hierarchies through their reversals, bringing vanity and failed judgment into view. These reported incidents retain their historical setting and are not instructions for punishment or governance."
-        },
-        {
           "key": "source:ABU1149",
           "why": "Read rulers, courts and social hierarchies through their reversals, bringing vanity and failed judgment into view. These reported incidents retain their historical setting and are not instructions for punishment or governance."
         },
@@ -538,10 +716,6 @@
         },
         {
           "key": "source:ABU1064",
-          "why": "Read rulers, courts and social hierarchies through their reversals, bringing vanity and failed judgment into view. These reported incidents retain their historical setting and are not instructions for punishment or governance."
-        },
-        {
-          "key": "source:ABU3652",
           "why": "Read rulers, courts and social hierarchies through their reversals, bringing vanity and failed judgment into view. These reported incidents retain their historical setting and are not instructions for punishment or governance."
         },
         {
@@ -566,10 +740,6 @@
         },
         {
           "key": "source:ABU1478",
-          "why": "Set stories about attachment beside the longing for freedom, placing different tellings of the wealthy and poor travelers together and asking what makes a person inwardly free."
-        },
-        {
-          "key": "source:ABU1578",
           "why": "Set stories about attachment beside the longing for freedom, placing different tellings of the wealthy and poor travelers together and asking what makes a person inwardly free."
         },
         {
@@ -609,19 +779,11 @@
           "why": "Set stories about attachment beside the longing for freedom, placing different tellings of the wealthy and poor travelers together and asking what makes a person inwardly free."
         },
         {
-          "key": "source:ABU2393",
-          "why": "Set stories about attachment beside the longing for freedom, placing different tellings of the wealthy and poor travelers together and asking what makes a person inwardly free."
-        },
-        {
           "key": "source:ABU2023",
           "why": "Set stories about attachment beside the longing for freedom, placing different tellings of the wealthy and poor travelers together and asking what makes a person inwardly free."
         },
         {
           "key": "source:ABU1685",
-          "why": "Set stories about attachment beside the longing for freedom, placing different tellings of the wealthy and poor travelers together and asking what makes a person inwardly free."
-        },
-        {
-          "key": "source:ABU1329",
           "why": "Set stories about attachment beside the longing for freedom, placing different tellings of the wealthy and poor travelers together and asking what makes a person inwardly free."
         },
         {
@@ -641,15 +803,7 @@
           "why": "Read challenges to literalism and superficial expertise together, keeping actual questions with answers and the qualifications that prevent an illustration from becoming a prescription."
         },
         {
-          "key": "source:AB04031",
-          "why": "Read challenges to literalism and superficial expertise together, keeping actual questions with answers and the qualifications that prevent an illustration from becoming a prescription."
-        },
-        {
           "key": "source:AB02731",
-          "why": "Read challenges to literalism and superficial expertise together, keeping actual questions with answers and the qualifications that prevent an illustration from becoming a prescription."
-        },
-        {
-          "key": "source:AB03291",
           "why": "Read challenges to literalism and superficial expertise together, keeping actual questions with answers and the qualifications that prevent an illustration from becoming a prescription."
         },
         {
@@ -661,31 +815,11 @@
           "why": "Read challenges to literalism and superficial expertise together, keeping actual questions with answers and the qualifications that prevent an illustration from becoming a prescription."
         },
         {
-          "key": "source:ABU0372",
-          "why": "Read challenges to literalism and superficial expertise together, keeping actual questions with answers and the qualifications that prevent an illustration from becoming a prescription."
-        },
-        {
-          "key": "source:ABU0764",
-          "why": "Read challenges to literalism and superficial expertise together, keeping actual questions with answers and the qualifications that prevent an illustration from becoming a prescription."
-        },
-        {
-          "key": "source:ABU2307",
-          "why": "Read challenges to literalism and superficial expertise together, keeping actual questions with answers and the qualifications that prevent an illustration from becoming a prescription."
-        },
-        {
           "key": "source:ABU2125",
           "why": "Read challenges to literalism and superficial expertise together, keeping actual questions with answers and the qualifications that prevent an illustration from becoming a prescription."
         },
         {
           "key": "source:ABU1503",
-          "why": "Read challenges to literalism and superficial expertise together, keeping actual questions with answers and the qualifications that prevent an illustration from becoming a prescription."
-        },
-        {
-          "key": "source:ABU0556",
-          "why": "Read challenges to literalism and superficial expertise together, keeping actual questions with answers and the qualifications that prevent an illustration from becoming a prescription."
-        },
-        {
-          "key": "source:AB01583",
           "why": "Read challenges to literalism and superficial expertise together, keeping actual questions with answers and the qualifications that prevent an illustration from becoming a prescription."
         },
         {
@@ -698,22 +832,6 @@
         },
         {
           "key": "source:BH03045",
-          "why": "Read challenges to literalism and superficial expertise together, keeping actual questions with answers and the qualifications that prevent an illustration from becoming a prescription."
-        },
-        {
-          "key": "source:BH02631",
-          "why": "Read challenges to literalism and superficial expertise together, keeping actual questions with answers and the qualifications that prevent an illustration from becoming a prescription."
-        },
-        {
-          "key": "source:AB03931",
-          "why": "Read challenges to literalism and superficial expertise together, keeping actual questions with answers and the qualifications that prevent an illustration from becoming a prescription."
-        },
-        {
-          "key": "source:ABU1255",
-          "why": "Read challenges to literalism and superficial expertise together, keeping actual questions with answers and the qualifications that prevent an illustration from becoming a prescription."
-        },
-        {
-          "key": "source:ABU0539",
           "why": "Read challenges to literalism and superficial expertise together, keeping actual questions with answers and the qualifications that prevent an illustration from becoming a prescription."
         },
         {
@@ -730,10 +848,6 @@
         },
         {
           "key": "source:BH04300",
-          "why": "Read challenges to literalism and superficial expertise together, keeping actual questions with answers and the qualifications that prevent an illustration from becoming a prescription."
-        },
-        {
-          "key": "source:BH01942",
           "why": "Read challenges to literalism and superficial expertise together, keeping actual questions with answers and the qualifications that prevent an illustration from becoming a prescription."
         },
         {
@@ -797,10 +911,6 @@
           "why": "Allow the practical difficulties of journeys, shelter, food and company to give texture to the larger accounts of exile and community life; keep alternate tellings recognizable."
         },
         {
-          "key": "source:ABU1007",
-          "why": "Allow the practical difficulties of journeys, shelter, food and company to give texture to the larger accounts of exile and community life; keep alternate tellings recognizable."
-        },
-        {
           "key": "source:ABU1050",
           "why": "Allow the practical difficulties of journeys, shelter, food and company to give texture to the larger accounts of exile and community life; keep alternate tellings recognizable."
         },
@@ -809,31 +919,11 @@
           "why": "Allow the practical difficulties of journeys, shelter, food and company to give texture to the larger accounts of exile and community life; keep alternate tellings recognizable."
         },
         {
-          "key": "source:ABU1675",
-          "why": "Allow the practical difficulties of journeys, shelter, food and company to give texture to the larger accounts of exile and community life; keep alternate tellings recognizable."
-        },
-        {
-          "key": "source:ABU1106",
-          "why": "Allow the practical difficulties of journeys, shelter, food and company to give texture to the larger accounts of exile and community life; keep alternate tellings recognizable."
-        },
-        {
           "key": "source:ABU0831",
           "why": "Allow the practical difficulties of journeys, shelter, food and company to give texture to the larger accounts of exile and community life; keep alternate tellings recognizable."
         },
         {
-          "key": "source:ABU0460",
-          "why": "Allow the practical difficulties of journeys, shelter, food and company to give texture to the larger accounts of exile and community life; keep alternate tellings recognizable."
-        },
-        {
-          "key": "source:ABU1553",
-          "why": "Allow the practical difficulties of journeys, shelter, food and company to give texture to the larger accounts of exile and community life; keep alternate tellings recognizable."
-        },
-        {
           "key": "source:ABU0934",
-          "why": "Allow the practical difficulties of journeys, shelter, food and company to give texture to the larger accounts of exile and community life; keep alternate tellings recognizable."
-        },
-        {
-          "key": "source:ABU1352",
           "why": "Allow the practical difficulties of journeys, shelter, food and company to give texture to the larger accounts of exile and community life; keep alternate tellings recognizable."
         },
         {
@@ -854,14 +944,6 @@
         },
         {
           "key": "source:ABU3127",
-          "why": "Allow the practical difficulties of journeys, shelter, food and company to give texture to the larger accounts of exile and community life; keep alternate tellings recognizable."
-        },
-        {
-          "key": "source:ABU0910",
-          "why": "Allow the practical difficulties of journeys, shelter, food and company to give texture to the larger accounts of exile and community life; keep alternate tellings recognizable."
-        },
-        {
-          "key": "source:ABU0771",
           "why": "Allow the practical difficulties of journeys, shelter, food and company to give texture to the larger accounts of exile and community life; keep alternate tellings recognizable."
         },
         {
@@ -893,23 +975,11 @@
           "why": "Move through recollections of people, meetings, departures and service, while distinguishing the voice of a remembered event from that of a revealed text."
         },
         {
-          "key": "source:ABU0986",
-          "why": "Move through recollections of people, meetings, departures and service, while distinguishing the voice of a remembered event from that of a revealed text."
-        },
-        {
           "key": "source:ABU0527",
           "why": "Move through recollections of people, meetings, departures and service, while distinguishing the voice of a remembered event from that of a revealed text."
         },
         {
-          "key": "source:ABU0813",
-          "why": "Move through recollections of people, meetings, departures and service, while distinguishing the voice of a remembered event from that of a revealed text."
-        },
-        {
           "key": "source:ABU1876",
-          "why": "Move through recollections of people, meetings, departures and service, while distinguishing the voice of a remembered event from that of a revealed text."
-        },
-        {
-          "key": "source:AB01383",
           "why": "Move through recollections of people, meetings, departures and service, while distinguishing the voice of a remembered event from that of a revealed text."
         },
         {
@@ -937,18 +1007,6 @@
           "why": "Move through recollections of people, meetings, departures and service, while distinguishing the voice of a remembered event from that of a revealed text."
         },
         {
-          "key": "source:BH01053",
-          "why": "Move through recollections of people, meetings, departures and service, while distinguishing the voice of a remembered event from that of a revealed text."
-        },
-        {
-          "key": "source:BH07763",
-          "why": "Move through recollections of people, meetings, departures and service, while distinguishing the voice of a remembered event from that of a revealed text."
-        },
-        {
-          "key": "source:ABU1775",
-          "why": "Move through recollections of people, meetings, departures and service, while distinguishing the voice of a remembered event from that of a revealed text."
-        },
-        {
           "key": "source:ABU0711",
           "why": "Move through recollections of people, meetings, departures and service, while distinguishing the voice of a remembered event from that of a revealed text."
         },
@@ -957,15 +1015,7 @@
           "why": "Move through recollections of people, meetings, departures and service, while distinguishing the voice of a remembered event from that of a revealed text."
         },
         {
-          "key": "source:ABU1713",
-          "why": "Move through recollections of people, meetings, departures and service, while distinguishing the voice of a remembered event from that of a revealed text."
-        },
-        {
           "key": "source:ABU1779",
-          "why": "Move through recollections of people, meetings, departures and service, while distinguishing the voice of a remembered event from that of a revealed text."
-        },
-        {
-          "key": "source:ABU2263",
           "why": "Move through recollections of people, meetings, departures and service, while distinguishing the voice of a remembered event from that of a revealed text."
         },
         {
@@ -974,14 +1024,6 @@
         },
         {
           "key": "source:ABU0480",
-          "why": "Move through recollections of people, meetings, departures and service, while distinguishing the voice of a remembered event from that of a revealed text."
-        },
-        {
-          "key": "source:AB04802",
-          "why": "Move through recollections of people, meetings, departures and service, while distinguishing the voice of a remembered event from that of a revealed text."
-        },
-        {
-          "key": "source:ABU0732",
           "why": "Move through recollections of people, meetings, departures and service, while distinguishing the voice of a remembered event from that of a revealed text."
         },
         {
@@ -1025,23 +1067,7 @@
           "why": "Move through recollections of people, meetings, departures and service, while distinguishing the voice of a remembered event from that of a revealed text."
         },
         {
-          "key": "source:ABU2722",
-          "why": "Move through recollections of people, meetings, departures and service, while distinguishing the voice of a remembered event from that of a revealed text."
-        },
-        {
-          "key": "source:BH00103",
-          "why": "Move through recollections of people, meetings, departures and service, while distinguishing the voice of a remembered event from that of a revealed text."
-        },
-        {
           "key": "source:BH00097",
-          "why": "Move through recollections of people, meetings, departures and service, while distinguishing the voice of a remembered event from that of a revealed text."
-        },
-        {
-          "key": "source:ABU1429",
-          "why": "Move through recollections of people, meetings, departures and service, while distinguishing the voice of a remembered event from that of a revealed text."
-        },
-        {
-          "key": "source:ABU2737",
           "why": "Move through recollections of people, meetings, departures and service, while distinguishing the voice of a remembered event from that of a revealed text."
         },
         {
@@ -1065,19 +1091,11 @@
           "why": "Gather accounts of spiritual transformation and teaching, placing the different Mary Magdalene narratives together and attending to the courage of women as well as men."
         },
         {
-          "key": "source:BH05941",
-          "why": "Gather accounts of spiritual transformation and teaching, placing the different Mary Magdalene narratives together and attending to the courage of women as well as men."
-        },
-        {
           "key": "source:AB01206",
           "why": "Gather accounts of spiritual transformation and teaching, placing the different Mary Magdalene narratives together and attending to the courage of women as well as men."
         },
         {
           "key": "source:AB01812",
-          "why": "Gather accounts of spiritual transformation and teaching, placing the different Mary Magdalene narratives together and attending to the courage of women as well as men."
-        },
-        {
-          "key": "source:ABU0482",
           "why": "Gather accounts of spiritual transformation and teaching, placing the different Mary Magdalene narratives together and attending to the courage of women as well as men."
         },
         {
@@ -1133,23 +1151,11 @@
           "why": "Gather accounts of spiritual transformation and teaching, placing the different Mary Magdalene narratives together and attending to the courage of women as well as men."
         },
         {
-          "key": "source:AB04801",
-          "why": "Gather accounts of spiritual transformation and teaching, placing the different Mary Magdalene narratives together and attending to the courage of women as well as men."
-        },
-        {
-          "key": "source:ABU0630",
-          "why": "Gather accounts of spiritual transformation and teaching, placing the different Mary Magdalene narratives together and attending to the courage of women as well as men."
-        },
-        {
           "key": "source:ABU0724",
           "why": "Gather accounts of spiritual transformation and teaching, placing the different Mary Magdalene narratives together and attending to the courage of women as well as men."
         },
         {
           "key": "source:AB02228",
-          "why": "Gather accounts of spiritual transformation and teaching, placing the different Mary Magdalene narratives together and attending to the courage of women as well as men."
-        },
-        {
-          "key": "source:AB01979",
           "why": "Gather accounts of spiritual transformation and teaching, placing the different Mary Magdalene narratives together and attending to the courage of women as well as men."
         },
         {
@@ -1178,14 +1184,6 @@
         },
         {
           "key": "source:AB03040",
-          "why": "Gather accounts of spiritual transformation and teaching, placing the different Mary Magdalene narratives together and attending to the courage of women as well as men."
-        },
-        {
-          "key": "source:ABU3700",
-          "why": "Gather accounts of spiritual transformation and teaching, placing the different Mary Magdalene narratives together and attending to the courage of women as well as men."
-        },
-        {
-          "key": "source:ABU1191",
           "why": "Gather accounts of spiritual transformation and teaching, placing the different Mary Magdalene narratives together and attending to the courage of women as well as men."
         },
         {
@@ -1246,10 +1244,6 @@
         },
         {
           "key": "source:AB07249",
-          "why": "Read the symbolic and devotional uses of Adam, Abraham, Moses, Jonah and other scriptural figures, allowing a narrative to carry several kinds of meaning without collapsing them."
-        },
-        {
-          "key": "source:AB03446",
           "why": "Read the symbolic and devotional uses of Adam, Abraham, Moses, Jonah and other scriptural figures, allowing a narrative to carry several kinds of meaning without collapsing them."
         },
         {
@@ -1361,14 +1355,6 @@
           "why": "Follow the recurring Joseph imagery from separation and envy toward recognition, reunion and love; read the allusions as deliberate applications to the addressees’ spiritual lives."
         },
         {
-          "key": "source:AB10993",
-          "why": "Follow the recurring Joseph imagery from separation and envy toward recognition, reunion and love; read the allusions as deliberate applications to the addressees’ spiritual lives."
-        },
-        {
-          "key": "source:AB02442",
-          "why": "Follow the recurring Joseph imagery from separation and envy toward recognition, reunion and love; read the allusions as deliberate applications to the addressees’ spiritual lives."
-        },
-        {
           "key": "source:AB09187",
           "why": "Follow the recurring Joseph imagery from separation and envy toward recognition, reunion and love; read the allusions as deliberate applications to the addressees’ spiritual lives."
         },
@@ -1409,14 +1395,6 @@
           "why": "Keep accounts of dreams and their interpretations together, including the limits of what has been supplied and the movement from a reported dream into responsibility."
         },
         {
-          "key": "source:AB11330",
-          "why": "Keep accounts of dreams and their interpretations together, including the limits of what has been supplied and the movement from a reported dream into responsibility."
-        },
-        {
-          "key": "source:AB11714",
-          "why": "Keep accounts of dreams and their interpretations together, including the limits of what has been supplied and the movement from a reported dream into responsibility."
-        },
-        {
           "key": "source:BH00034",
           "why": "Close by moving from steadfastness in suffering and the reinterpretation of epic heroes toward a strength expressed in service, spiritual renewal and the giving of life."
         },
@@ -1426,10 +1404,6 @@
         },
         {
           "key": "source:AB08876",
-          "why": "Close by moving from steadfastness in suffering and the reinterpretation of epic heroes toward a strength expressed in service, spiritual renewal and the giving of life."
-        },
-        {
-          "key": "source:AB00106",
           "why": "Close by moving from steadfastness in suffering and the reinterpretation of epic heroes toward a strength expressed in service, spiritual renewal and the giving of life."
         },
         {
@@ -1447,22 +1421,6 @@
         {
           "key": "source:ABU1522",
           "why": "Read this reported retelling with the primary Buddhist comparison, keeping its different wording and religious setting visible."
-        },
-        {
-          "key": "source:AB02134",
-          "why": "Close by moving from steadfastness in suffering and the reinterpretation of epic heroes toward a strength expressed in service, spiritual renewal and the giving of life."
-        },
-        {
-          "key": "source:AB05858",
-          "why": "Close by moving from steadfastness in suffering and the reinterpretation of epic heroes toward a strength expressed in service, spiritual renewal and the giving of life."
-        },
-        {
-          "key": "source:AB06209",
-          "why": "Close by moving from steadfastness in suffering and the reinterpretation of epic heroes toward a strength expressed in service, spiritual renewal and the giving of life."
-        },
-        {
-          "key": "source:AB03675",
-          "why": "Close by moving from steadfastness in suffering and the reinterpretation of epic heroes toward a strength expressed in service, spiritual renewal and the giving of life."
         },
         {
           "key": "source:AB06214",
@@ -1485,14 +1443,6 @@
           "why": "Close by moving from steadfastness in suffering and the reinterpretation of epic heroes toward a strength expressed in service, spiritual renewal and the giving of life."
         },
         {
-          "key": "source:AB07231",
-          "why": "Close by moving from steadfastness in suffering and the reinterpretation of epic heroes toward a strength expressed in service, spiritual renewal and the giving of life."
-        },
-        {
-          "key": "source:AB06690",
-          "why": "Close by moving from steadfastness in suffering and the reinterpretation of epic heroes toward a strength expressed in service, spiritual renewal and the giving of life."
-        },
-        {
           "key": "source:AB09787",
           "why": "Close by moving from steadfastness in suffering and the reinterpretation of epic heroes toward a strength expressed in service, spiritual renewal and the giving of life."
         },
@@ -1502,14 +1452,6 @@
         },
         {
           "key": "source:AB06409",
-          "why": "Close by moving from steadfastness in suffering and the reinterpretation of epic heroes toward a strength expressed in service, spiritual renewal and the giving of life."
-        },
-        {
-          "key": "source:AB10969",
-          "why": "Close by moving from steadfastness in suffering and the reinterpretation of epic heroes toward a strength expressed in service, spiritual renewal and the giving of life."
-        },
-        {
-          "key": "source:AB04910",
           "why": "Close by moving from steadfastness in suffering and the reinterpretation of epic heroes toward a strength expressed in service, spiritual renewal and the giving of life."
         },
         {

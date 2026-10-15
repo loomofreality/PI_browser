@@ -22,7 +22,8 @@ export async function buildInputs(root){
   }
   await collect('data');
   await collect('subject-summaries');
-  await collect('study-guides');
+  // study-guides/ is not an input: guides are rebuilt from it on every deployment
+  // (refreshSite), so editing a guide reuses the cached collection.
   // Public builds use only the filtered archive; private raw extracts never affect them.
   try{await fs.access(path.join(root,'data/subject-extracts-public.json.gz'));}catch(error){if(error.code!=='ENOENT')throw error;await collect('subject_extracts');}
   await collect('pdf_volumes - copy');
@@ -53,7 +54,7 @@ export async function fingerprint(root,compatible=false){
   const hash=createHash('sha256');
   hash.update(`pages-data-v1\0node-${process.versions.node.split('.')[0]}\0`);
   for(const relative of await buildInputs(root)){
-    if(compatible&&relative==='data/collection.tar.gz')continue;
+    if(compatible&&relative.startsWith('data/collection/'))continue;
     const content=createHash('sha256');
     for await(const chunk of createReadStream(path.join(root,relative)))content.update(chunk);
     hash.update(relative+'\0'+content.digest('hex')+'\0');

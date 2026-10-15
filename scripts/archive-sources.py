@@ -1,6 +1,6 @@
 """Pack publishable source inputs without modifying local source folders."""
 from pathlib import Path, PurePosixPath
-import argparse, csv, gzip, io, json, tarfile
+import argparse, csv, hashlib, io, json, tarfile
 FOLDERS = ['metadata - copy', 'original_texts - copy', 'translated_texts - copy']
 MANIFEST = FOLDERS[0] + '/withheld-original-ids.json'
 
@@ -38,26 +38,87 @@ def public_files(files):
     result[MANIFEST] = (json.dumps(sorted(withheld), ensure_ascii=False) + '\n').encode('utf-8')
     return result
 
+# The archive is a directory of uncompressed tar shards. Git compresses stored
+# objects itself, and an uncompressed shard lets Git send a small delta when one
+# item changes instead of re-uploading the whole collection.
+ARCHIVE = Path('data') / 'collection'
+SHARD_FOLDERS = {FOLDERS[1]: 'original', FOLDERS[2]: 'translated'}
+HEX = '0123456789abcdef'
+
+def shard_name(name):
+    folder, filename = name.split('/', 1)
+    if folder == FOLDERS[0]: return 'metadata.tar'
+    return f'{SHARD_FOLDERS[folder]}-{hashlib.sha256(filename.encode("utf-8")).hexdigest()[0]}.tar'
+
+def shard_names():
+    return ['metadata.tar'] + [f'{prefix}-{h}.tar' for prefix in SHARD_FOLDERS.values() for h in HEX]
+
+def _read_entries(archive, files, shard=None):
+    for entry in archive:
+        if entry.isdir(): continue
+        parts = PurePosixPath(entry.name).parts
+        if not entry.isfile() or len(parts) != 2 or parts[0] not in FOLDERS or parts[1] in ('.', '..'):
+            raise ValueError('Unexpected archive entry: ' + entry.name)
+        if entry.name in files: raise ValueError('Duplicate archive entry: ' + entry.name)
+        if shard is not None and shard_name(entry.name) != shard:
+            raise ValueError(f'{entry.name} is in the wrong archive shard {shard}')
+        files[entry.name] = archive.extractfile(entry).read()
+
 def read_archive(source):
-    with tarfile.open(source, 'r:gz') as archive:
-        files = {}
-        for entry in archive:
-            if entry.isdir(): continue
-            parts = PurePosixPath(entry.name).parts
-            if not entry.isfile() or len(parts) != 2 or parts[0] not in FOLDERS or parts[1] in ('.', '..'):
-                raise ValueError('Unexpected archive entry: ' + entry.name)
-            if entry.name in files: raise ValueError('Duplicate archive entry: ' + entry.name)
-            files[entry.name] = archive.extractfile(entry).read()
-        return files
+    """Read a sharded archive directory, or a legacy single .tar.gz archive."""
+    source = Path(source)
+    files = {}
+    if source.is_dir():
+        present = sorted(p.name for p in source.iterdir())
+        if present != sorted(shard_names()):
+            raise ValueError(f'Unexpected archive shards in {source}: expected {len(shard_names())} .tar files')
+        for name in shard_names():
+            with tarfile.open(source / name, 'r:') as archive: _read_entries(archive, files, name)
+    else:
+        with tarfile.open(source, 'r:gz') as archive: _read_entries(archive, files)
+    return files
+
+def shard_bytes(files):
+    """Deterministic shard contents: sorted names, fixed owner, mode and time."""
+    groups = {name: [] for name in shard_names()}
+    for name in sorted(files): groups[shard_name(name)].append(name)
+    result = {}
+    for shard, names in groups.items():
+        buffer = io.BytesIO()
+        with tarfile.open(fileobj=buffer, mode='w', format=tarfile.PAX_FORMAT) as archive:
+            for name in names:
+                info = tarfile.TarInfo(name)
+                info.size = len(files[name])
+                info.mode = 0o644
+                archive.addfile(info, io.BytesIO(files[name]))
+        result[shard] = buffer.getvalue()
+    return result
+
+def write_archive(target, files):
+    """Replace only shards whose bytes change, then remove unexpected files."""
+    target = Path(target)
+    target.mkdir(parents=True, exist_ok=True)
+    shards = shard_bytes(files)
+    changed = 0
+    for name, contents in shards.items():
+        path = target / name
+        if path.exists() and path.read_bytes() == contents: continue
+        temporary = path.with_name(path.name + '.tmp')
+        temporary.write_bytes(contents)
+        temporary.replace(path)
+        changed += 1
+    for path in target.iterdir():
+        if path.name not in shards: path.unlink()
+    return changed
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--root', type=Path, default=Path(__file__).resolve().parents[1])
-    parser.add_argument('--output', type=Path)
-    parser.add_argument('--from-archive', type=Path, help='Filter an archive without importing local edits')
+    parser.add_argument('--output', type=Path, help='Archive directory (default: data/collection)')
+    parser.add_argument('--from-archive', type=Path, help='Filter an archive directory, or a legacy .tar.gz, without importing local edits')
     parser.add_argument('--check', action='store_true', help='Reject an archive containing withheld originals')
     args = parser.parse_args()
-    target = args.output or args.root / 'data' / 'collection.tar.gz'
+    target = args.output or args.root / ARCHIVE
     if args.from_archive or args.check:
         files = read_archive(args.from_archive or target)
     else:
@@ -70,22 +131,7 @@ def main():
         if files != filtered: raise SystemExit('Source archive is not publication-safe; run scripts/archive-sources.py')
         print('Source archive publication policy verified')
         return
-    target.parent.mkdir(parents=True, exist_ok=True)
-    temporary = target.with_name(target.name + '.tmp')
-    with temporary.open('wb') as output:
-        with gzip.GzipFile(fileobj=output, mode='wb', filename='', mtime=0, compresslevel=9) as compressed:
-            with tarfile.open(fileobj=compressed, mode='w|', format=tarfile.PAX_FORMAT) as archive:
-                for folder in FOLDERS:
-                    info = tarfile.TarInfo(folder + '/')
-                    info.type = tarfile.DIRTYPE
-                    info.mode = 0o755
-                    archive.addfile(info)
-                for name, contents in sorted(filtered.items()):
-                    info = tarfile.TarInfo(name)
-                    info.size = len(contents)
-                    info.mode = 0o644
-                    archive.addfile(info, io.BytesIO(contents))
-    temporary.replace(target)
-    print(f'Archived {len(filtered):,} public files; withheld {len(json.loads(filtered[MANIFEST])):,} originals')
+    changed = write_archive(target, filtered)
+    print(f'Archived {len(filtered):,} public files in {changed} changed shard(s); withheld {len(json.loads(filtered[MANIFEST])):,} originals')
 
 if __name__ == '__main__': main()

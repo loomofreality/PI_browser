@@ -5,6 +5,312 @@
       "id": "BD88D70EC7AEE658A00C66FE24E0CA85",
       "slug": "worldliness",
       "displayTitle": "Living in the world with a free heart",
+      "selection": {
+        "review": "selections/worldliness.json",
+        "sha256": "287a2c6fb954de1731ebfdd8611179c441a546df5a65d16ddafd520677bde043",
+        "ids": [
+          "ea803b1e30f996486669197b",
+          "1077643334f56aaad3366fbe",
+          "7b3bc3bbd799ada0c4d1e1c0",
+          "20c4d849a865430113e19a09",
+          "3876f015aa25fde2787a10f6",
+          "9854a4c042bac273a6eb4d07",
+          "809c6cc62584a664f93a4ebe",
+          "63b77cdfcbd3bcf5f03e3772",
+          "d13c8e64f2ceef01ce56154e",
+          "73acaaa97d04ccee414b61b6",
+          "13ddacd247ec16cfe1ec94b7",
+          "95940e235e281c8272595c27",
+          "ded625afb9f1d5052d8ebafd",
+          "ac3c2ec9d7668b9dd3d27998",
+          "6dbd8a1528a632ad4aa690b8",
+          "e8bc43cbddb4a4c755297c52",
+          "a1885e2c61b2da18d41cd34f",
+          "955b3be754eb6fd9b4df485b",
+          "833c87085632a86fc9860827",
+          "3e60d10b44038c5d8d1085cc",
+          "8b6c370eba691a05b4603995",
+          "039d071b003ff749cf983495",
+          "d4eb6a1bcb023991bd2e127d",
+          "3fa550ee97bb4fbd9ddf0ab1",
+          "552b4c44708c8919841b22be",
+          "96d6fa1d393ac6679cb22e02",
+          "d654245048c263547b25cded",
+          "5c67110ae9c3b511b3c570b6",
+          "15b1f89964cc7fd08777fdfc",
+          "3b23e555079c0ef0975eddfc",
+          "e8682c0358bb5453d0d8df06",
+          "5d9c53e1e60356800e0619ef",
+          "379d20951ccaf455449102bf",
+          "803df87d6ea7f5bfff4dd4e3",
+          "823f29cbe87c42d2d8288b48",
+          "86fb9999bc72331fe5f6726c",
+          "632e2d589e074e132d730083",
+          "585d3adaa132cbe80037c7bc",
+          "be8331ff284f09c191aaab96",
+          "6f75c4673a893ec49d287a11",
+          "2f96df6f4b2e5f272b2275f6",
+          "3ccf518019817a1de28cdde0",
+          "0fe992cbe7e17e2f401c8187",
+          "57060000e3438115a7d47666",
+          "e6adc034dbf5b5edeb69c392",
+          "6eb0b2df1acd8cc0ddd31448",
+          "3a5ef5613335a6628ba2c82e",
+          "8b16c6b84a030c464d3c9064",
+          "811a89d158eecc5baaadb5ed",
+          "4ac3a436c375b81333b3f027",
+          "9812c408f1260a3b571c9003",
+          "b8125196de6948148287c660",
+          "252b9f2126f741c29699a725",
+          "4816da2b18be6929d1472542",
+          "1b90d8258adcf854467fa7da",
+          "bc59f52e422cdcdba2b30501",
+          "5ced1b5634945120e0fce3b3",
+          "8db9c9e8b4ea92389735bac9",
+          "0494901c859a279f76f31c14",
+          "512c2e2051fc6abadf9fce9b",
+          "092816f0dbe0ca2961dde515",
+          "9aa87b1877f6a86c6f5d2916",
+          "204db82574499c9438b24909",
+          "bda752206ba2bce6cd465930",
+          "d5253b11b5808fd420a6bf2e",
+          "00b5a20c8e8451926dd94920",
+          "f24945682124379ffddadac2",
+          "c37cc82cb1b4a64c278847b8",
+          "2875c217aaf230ca4696f91c",
+          "86f62163104e425dfc8e5cec",
+          "33eb36ee23c2447574a3916c",
+          "4b501fac5cf9d813e5808977",
+          "717f2e8aafe868637fb5bc99",
+          "9c556757a7f7dd0a0fd40690",
+          "74e58d1251784f8b5df0e259",
+          "87b7c9495021be1ce38b023c",
+          "582d4e84f0dbdd777ba01e6d",
+          "b07ef9307062b8b008ece44b",
+          "25caa0fb6b44d44db4b11267",
+          "b10f4a7d1604dd97530059da",
+          "6b4acffdd21a4705609c47f4",
+          "f61b246a700e57d8df2e9e72",
+          "ed44fe8122c00bf0cfa06f97",
+          "e64769eca2850d37a9390b75",
+          "ee2754f469e0f0e5c3d00a46",
+          "8a709ab0208a06715748778d",
+          "04fb533189f60c684a949e9a",
+          "0653afdf38e2086dccd01164",
+          "bcf444f2ab7fc5da2e906bab",
+          "1ab0230448142fcab49a461f",
+          "8fe5d0b96a91b2c77012f1a6",
+          "7e06e36eddfbab48b63ee98c",
+          "3e25cbd755d20e28ca921f5d",
+          "3913590158d49666936817f9",
+          "51d0a1f6702a20b0da40bbb3",
+          "bfdc37fd18282cf4ba93b881",
+          "58ecefaac91ca50d712dc07f",
+          "b8da9dca8bc51c3c1524e67b",
+          "d1eaf5c61199ee8f5a7baae7",
+          "a3d990b0bd18abbcba9fdc95",
+          "6923d93fb1503c2fa93ed18c",
+          "53d9034b5972b5c49c451394",
+          "d62af21bc0213937e3f29281",
+          "58d3030bc961e54201620b86",
+          "a4f8e620ee0131f6191afbe2",
+          "9a968ac6f31c08e8289a7969",
+          "b27fe570b468716ae88acb42",
+          "a97cf596d91651a50d3fb3ae",
+          "3e805889fee1c18273e44766",
+          "b9856fc9557e4951cbba5056",
+          "10cca131f0df36ad794e4251",
+          "bf8a116d6e446f99bcbfcbc4",
+          "f94f2366f89f269ce4eb0ed8",
+          "337df4f25798dbd1721b9494",
+          "9d5a62685bbedcb782ab192e",
+          "1baf6996cc0aa38a440b8c5a",
+          "4967ee3e1b7129a8e2a4d8dc",
+          "e53d9dbe99848b06a635fd48",
+          "8bda11f7b56fa3488c093641",
+          "800925fc67033a9252ba05e8",
+          "6fec60a7f7514ee6d0159cd7",
+          "4b3980c7c59b51169be587cf",
+          "b34349e39e5f5c0b3460d451",
+          "6e2ffad5de0eff1e276c1ae4",
+          "497327fa9c8a246094bb5b57",
+          "54401f49544d8e7d96add88c",
+          "bc958555f1d84b1d7bd2ef27",
+          "04a84a2db16b7915664bf9c8",
+          "9f2da0561b51f371f2cf63c0",
+          "12a0d2c2a98913cc5652b5c8",
+          "1ac9d532831ab6e3a4a72b04",
+          "2e2ebd12035a8916ccb52107",
+          "c173afd9d2977e18c67f1728",
+          "fa60e5433325622021e61152",
+          "a09c220742f454fed6711f07",
+          "c71da015abf4881f2bfcf2e3",
+          "bb63c56f31dd3dec102ee98f",
+          "8cb3227afab197ea08e90154",
+          "6bd470b877ec304bb1ee3b13",
+          "459bd272369f1d97a7430965",
+          "f3954904c5b64a85064b759a",
+          "49aff2c2611c190e9e831d27",
+          "39213bc12033c29eb4accf38",
+          "34b8fe456e3e828a25112eca",
+          "6cbfd53122ff43e0380d4561",
+          "a0ce29a8ad6db5a904488762",
+          "3202bb1ed0128622f99b1ede",
+          "6217c024bb3db792244c97cf",
+          "e8a0f602c83fccb2e897aa2a",
+          "ec7f97c75e49a910401ee429",
+          "3b1785e6c1eb6b2710e13268",
+          "daee0b3be1ca70af11b8b617",
+          "42f7baf95f5831ca335bc6f2",
+          "6e70febdba9801c9769d0968",
+          "b8ed80a7c64d4fce0cd5b1ae",
+          "a2475b5e07ab2e05fddf15d0",
+          "77b674ba69e9780caededc13",
+          "1b115482b5f73faedac52f40",
+          "8b5d9d093a280d4fb58932bd",
+          "80d524daf1e96eb1ba66b25e",
+          "bb2ccca1625c5b513c42c7da",
+          "e4ac292442d3b84cdb7b059a",
+          "400a3eb4e17ecacaf8f5ea4a",
+          "6de90f08e74ab91cfd166da5",
+          "86c88841ddebe9335ffce343",
+          "46ef24b980611517cfc421e7",
+          "7b1a4052cecc5d19dcb1e3d2",
+          "b951b883a215502f9cd17d7f",
+          "729215a9d8abc1da9cf515d2",
+          "2407c5058c392c2ab921e13b",
+          "75633f108130b894da572b99",
+          "7132499ca7915ac8a8dcf115",
+          "2244dfb17d380a4a70cda437",
+          "3d98cebb9a56b7c4e04102cb",
+          "45620eb4fd744c0698ddab4b",
+          "07bbdbcc40f99ab435af98b8",
+          "07fd5be6f371364b3130cf7d",
+          "9e1e0ff5606a2963a1fbeb6b",
+          "39111be1044ed46f80b4ac0a",
+          "a7e98ca1dfd72eb1773a5ee0",
+          "f0833238a6b57d1620562880",
+          "4660d16c011fa996ad281298",
+          "74b5163328f4c1d59870d656",
+          "d02b7b44cdd3b9875b53e0e8",
+          "f20ecc93e9edaafc05d7ca85",
+          "71bcb3fb7d38ab8746a1e2eb",
+          "2eeb229eabb611f96939e6fc",
+          "6a0c75020b6d471a2da6df33",
+          "175a4c7cd7b94dba2599615f",
+          "6d232f60d8247d94fecd5d7d",
+          "d07ea0e4fe40aabe92ff1752",
+          "97bc1a4fa6dc7deff5a88218",
+          "f6c168e01d1281d42587ea6a",
+          "a238009c9ee374eb87296bae",
+          "9ea624a2da335e80f2d66354",
+          "acfe8bc5942a2aa323738229",
+          "dd9ca2c74e2bbdf461675a1a",
+          "4d7f4996b2defe45b458a473",
+          "47eb6d6cc2cc6d33071c89a6",
+          "5fb37b65306e6e0b47cb71ba",
+          "946ee2f2214b4cb2e30ed949",
+          "fd851bc702da597e0c346c65",
+          "7cafe063639074fbba38fb63",
+          "727760bddd6335a015d83baa",
+          "b543af0daf1b3576971a28e9",
+          "1613ce8a831b32bfea1b2e0f",
+          "981ec9b485129451d089f83b",
+          "43bc4fc4cfd8f4250d7e6bf2",
+          "74df896ce088d67512823653",
+          "ddb4501aebbed7de4000a338",
+          "3a908430f77d108acdaac259",
+          "77241d46e1b3e18fa479bd2d",
+          "a1d3bc0fb55b7c15f45ded86",
+          "b60bdb110b6d2b282fcf5977",
+          "a4eff5f249702c02b4ef191f",
+          "4ddc4a57ce142c820c72297a",
+          "ce24a126edfaa009d351681d",
+          "38e15a4efb1ab4cee8d44b96",
+          "0bf6154f11c715d00483004a",
+          "5c049155327f954d7717ccc6",
+          "b28590169cd29ea29f22431f",
+          "0a066515be28f6d0d7eb5044",
+          "64d669f4cc8fe1a934c7767d",
+          "ef106a7674d1b23ef7ba2729",
+          "644e93f8205091cb56ef0cd0",
+          "80e40b733bac6f6e1c6ab14a",
+          "021107da68eef5ccf250db39",
+          "452fd0451f4584525da20f4a",
+          "84d5eb999ecadc836dec083e",
+          "e743bbea422964d84998acd7",
+          "66d5e84e951064f9a6498e59",
+          "864eb2399b948e04c2c21716",
+          "5336cf55c39dbc9d3a87bf6d",
+          "7a31ef32d50b3fc6dc8e5336",
+          "afbba8895c38ee0e60cbdf19",
+          "2d7297ddb620b4cba3dbb91f",
+          "0832752e9a3351fc8fd8d470",
+          "de9a1d72225b0126b93f9979",
+          "51a0f8524c9792cb11fcd032",
+          "62d0f1af06682954d65fff82",
+          "9be65fd64a2f2d4598855ec1",
+          "e48fa57160f533ed8471cc29",
+          "48e29a66fe7d81a733516e09",
+          "3c9f70ea00727079523436df",
+          "add959322385fff8322706fa",
+          "cb7a318d10eb7737223d83dd",
+          "f29e8d3b858eefc36eafbc79",
+          "671025c9f80251ed1169961b",
+          "e37f91afee8b42eace8692ab",
+          "a1a5d181644a3843e855f47f",
+          "01652fd822390f2402538d06",
+          "953e0058b3efe744fe63610d",
+          "57ae1e78a3ddd20e79958457",
+          "979a2f5b9b06b42ecd4145da",
+          "0ec76e86b4ae6c3c988bde73",
+          "b719c1459f3b1fff0cc0bd18",
+          "a3fc6c279239684327b32b8d",
+          "94fb62f4a9af747eeaa77992",
+          "493add0a19d2c0713d3de362",
+          "633803dea1659d1640bbd440",
+          "662a61c1c89c85bc87b0ecc3",
+          "a4b74f924a051dbd298dceb1",
+          "410860083295c1f2038d9bb3",
+          "b852723a0b096ca3ae563b5f",
+          "5c0490098764272e292f1b2b",
+          "bb22d86e2925ed84e1a3a82f",
+          "44e185bd98856fd3a203221b",
+          "425b4b6af30d0ff534caa56e",
+          "e2d28ab7bfa612e85ae9340d",
+          "f30079427aa7aa9795dc922d",
+          "b3c5a574951932f136b6c5b8",
+          "0f160366169e67f49e9d089e",
+          "3e5bed4552a3a3c7f21ed13a",
+          "ae5927863583ce2635c839e1",
+          "4bea69b5f54c14ce75e091bc",
+          "a948c493a9554a8944cc5336",
+          "7a3131ea4215b2c2e9b83bfa",
+          "5bdb4af85c4c5a7433f8c6e8",
+          "b0f74bd25683aa1bdb4bf523",
+          "95774f1a19fe7cbc07b38ec4",
+          "4d5443c5ed0873c44f4b808e",
+          "fe861d8f3822929c6ba80bda",
+          "3b4a1c468c823f7c628fa863",
+          "c58896d6b09eb755c25388a4",
+          "90b76d356ce70bf673d9bcb1",
+          "748f36d08ff39aa9edfedc9f",
+          "6c2e57ce4c188a3f14a1d33f",
+          "527af1bbb1b98c331f045bf7",
+          "0deba7ea1054ed2db099cbf5",
+          "fe9ac79f3b8b5400f8839356",
+          "e3141e5a06b10aa64780acab",
+          "ef71e3c47cb27ff7f2ac7988",
+          "8bc3138420d617476fab658e",
+          "a6a2da58ffc7f45440377c94",
+          "e7dbf4b49b2dc7eab5a0121e",
+          "0ccebd167c9f88a7cfef0b0b",
+          "5fecd149579677950c1d5755",
+          "fab79b2f2c7b6ab322600083",
+          "fb29d038556ce8606afcb8fc",
+          "551fb682d6272dedeca6245b"
+        ]
+      },
       "introduction": "What would it mean to engage wholeheartedly in life without becoming captive to what we possess or pursue? These passages approach that question through an exacting examination of desire, attention, and the things on which a heart depends. The world can signify whatever obstructs recognition of God, including an apparently excellent deed, while created bounties and the relationships that sustain society receive a different consideration. Images of birds, mirrors, prisons, fleeting shadows, and vanished kingdoms unsettle familiar measures of success; counsels on kindness, work, and inward freedom ask how detachment might take shape within ordinary responsibilities. Neighboring subjects on greed, moderation, and material and spiritual civilization widen the inquiry from private aspiration to shared life. Matthew’s teaching on treasure and trust, alongside a Qur’anic verse joining hope for the hereafter with doing good in this world, invites comparison without erasing their distinct settings. The collection asks what deserves our deepest attachment, and what kind of freedom might help us serve more generously.",
       "arc": "Open with the difficulty of combining inward freedom and practical responsibility; clarify several meanings of worldliness; explore attention, desire and recognition; examine images of transience and the limits of wealth or power; read historical addresses within their settings; return through prayer to kindness, moderation and service.",
       "order": [
@@ -421,18 +727,6 @@
           "why": "Read sadness itself as something that may turn attention away."
         },
         {
-          "key": "source:BH05865",
-          "why": "Keep the connection between discouragement and spiritual attention."
-        },
-        {
-          "key": "source:BH10189",
-          "why": "Retain the brief counsel about the world’s conditions."
-        },
-        {
-          "key": "source:BH11167",
-          "why": "Let the parallel brief counsel retain its distinct source."
-        },
-        {
           "key": "source:ABU0603",
           "why": "Read comfort in relation to purposeful progress."
         },
@@ -501,10 +795,6 @@
           "why": "Clarify how this passage defines or diagnoses the world that can obstruct recognition."
         },
         {
-          "key": "source:BH04656",
-          "why": "Clarify how this passage defines or diagnoses the world that can obstruct recognition."
-        },
-        {
           "key": "source:BH06252",
           "why": "Clarify how this passage defines or diagnoses the world that can obstruct recognition."
         },
@@ -557,19 +847,11 @@
           "why": "Clarify how this passage defines or diagnoses the world that can obstruct recognition."
         },
         {
-          "key": "source:BH07905",
-          "why": "Clarify how this passage defines or diagnoses the world that can obstruct recognition."
-        },
-        {
           "key": "source:BH07928",
           "why": "Clarify how this passage defines or diagnoses the world that can obstruct recognition."
         },
         {
           "key": "source:BH09701",
-          "why": "Clarify how this passage defines or diagnoses the world that can obstruct recognition."
-        },
-        {
-          "key": "source:BH10471",
           "why": "Clarify how this passage defines or diagnoses the world that can obstruct recognition."
         },
         {
@@ -602,10 +884,6 @@
         },
         {
           "key": "source:BH06067",
-          "why": "Examine how desire, attachment, or heedlessness shapes recognition in this passage."
-        },
-        {
-          "key": "source:BH06383",
           "why": "Examine how desire, attachment, or heedlessness shapes recognition in this passage."
         },
         {
@@ -761,19 +1039,11 @@
           "why": "Examine how desire, attachment, or heedlessness shapes recognition in this passage."
         },
         {
-          "key": "source:BH07232",
-          "why": "Examine how desire, attachment, or heedlessness shapes recognition in this passage."
-        },
-        {
           "key": "source:BH07833",
           "why": "Examine how desire, attachment, or heedlessness shapes recognition in this passage."
         },
         {
           "key": "source:BH07964",
-          "why": "Examine how desire, attachment, or heedlessness shapes recognition in this passage."
-        },
-        {
-          "key": "source:BH08403",
           "why": "Examine how desire, attachment, or heedlessness shapes recognition in this passage."
         },
         {
@@ -834,10 +1104,6 @@
         },
         {
           "key": "source:ABU0100",
-          "why": "Follow the passage's image and ask what it reveals about freedom, attention, or transience."
-        },
-        {
-          "key": "source:ABU1927",
           "why": "Follow the passage's image and ask what it reveals about freedom, attention, or transience."
         },
         {
@@ -1017,10 +1283,6 @@
           "why": "Test the passage's account of wealth, status, or power against the collection's spiritual measure."
         },
         {
-          "key": "source:BH06048",
-          "why": "Test the passage's account of wealth, status, or power against the collection's spiritual measure."
-        },
-        {
           "key": "source:BH07455",
           "why": "Test the passage's account of wealth, status, or power against the collection's spiritual measure."
         },
@@ -1039,10 +1301,6 @@
         {
           "key": "source:ABU2187",
           "why": "Consider how this passage joins spiritual freedom with human conduct and shared life."
-        },
-        {
-          "key": "source:ABU2386",
-          "why": "Retain the passage's question or answer and ask what it clarifies about freedom from attachment."
         },
         {
           "key": "source:BH05472",
@@ -1121,14 +1379,6 @@
           "why": "Let this passage extend the collection's reflection on transience, remembrance, and the life of the spirit."
         },
         {
-          "key": "source:ABU3012",
-          "why": "Let this passage extend the collection's reflection on transience, remembrance, and the life of the spirit."
-        },
-        {
-          "key": "source:BH01559",
-          "why": "Let this passage extend the collection's reflection on transience, remembrance, and the life of the spirit."
-        },
-        {
           "key": "source:ABU0411",
           "why": "Let this passage extend the collection's reflection on transience, remembrance, and the life of the spirit."
         },
@@ -1150,10 +1400,6 @@
         },
         {
           "key": "source:BH05997",
-          "why": "Let this passage extend the collection's reflection on transience, remembrance, and the life of the spirit."
-        },
-        {
-          "key": "source:BH08490",
           "why": "Let this passage extend the collection's reflection on transience, remembrance, and the life of the spirit."
         },
         {
@@ -1197,19 +1443,11 @@
           "why": "Let this passage extend the collection's reflection on transience, remembrance, and the life of the spirit."
         },
         {
-          "key": "source:ABU1483",
-          "why": "Let this passage extend the collection's reflection on transience, remembrance, and the life of the spirit."
-        },
-        {
           "key": "source:ABU1836",
           "why": "Let this passage extend the collection's reflection on transience, remembrance, and the life of the spirit."
         },
         {
           "key": "source:ABU1883",
-          "why": "Let this passage extend the collection's reflection on transience, remembrance, and the life of the spirit."
-        },
-        {
-          "key": "source:ABU2712",
           "why": "Let this passage extend the collection's reflection on transience, remembrance, and the life of the spirit."
         },
         {
@@ -1229,10 +1467,6 @@
           "why": "Let this passage extend the collection's reflection on transience, remembrance, and the life of the spirit."
         },
         {
-          "key": "source:BH04078",
-          "why": "Let this passage extend the collection's reflection on transience, remembrance, and the life of the spirit."
-        },
-        {
           "key": "source:BH06456",
           "why": "Let this passage extend the collection's reflection on transience, remembrance, and the life of the spirit."
         },
@@ -1249,19 +1483,11 @@
           "why": "Let this passage extend the collection's reflection on transience, remembrance, and the life of the spirit."
         },
         {
-          "key": "source:BH07519",
-          "why": "Let this passage extend the collection's reflection on transience, remembrance, and the life of the spirit."
-        },
-        {
           "key": "source:BH07629",
           "why": "Let this passage extend the collection's reflection on transience, remembrance, and the life of the spirit."
         },
         {
           "key": "source:BH07879",
-          "why": "Let this passage extend the collection's reflection on transience, remembrance, and the life of the spirit."
-        },
-        {
-          "key": "source:BH08385",
           "why": "Let this passage extend the collection's reflection on transience, remembrance, and the life of the spirit."
         },
         {

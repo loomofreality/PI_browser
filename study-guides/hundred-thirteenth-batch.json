@@ -5,6 +5,312 @@
       "id": "112D55EA871649C98F620B987B18D623",
       "slug": "mysteries",
       "displayTitle": "Mysteries and their discovery: learning to see anew",
+      "selection": {
+        "review": "selections/mysteries.json",
+        "sha256": "70aaa62422594e83922ea946b50adc5dec1088bf0c90dd393a3ba8252cab9bf5",
+        "ids": [
+          "56832504c3d61c5ea36d6752",
+          "a9c1074630b80e9a11d0916c",
+          "3695ba31112fe260114f948b",
+          "16b0d8d7c3b2a679099ee504",
+          "145754dafd4aa731b19cd19e",
+          "54f72f8a937a9c4b5ae516b4",
+          "fe52035c2f1d882cd1dcf9a3",
+          "787af3bdb77335f5ce333b01",
+          "784807c69727a6b00a544ee9",
+          "124f25a43d7ef22ca9c643e6",
+          "682ed645d626743375fab05c",
+          "70c2d1e3730392479cd88f80",
+          "859daccd0a0c67d173257ac3",
+          "68ce6817891c5ba4036c65f1",
+          "921cb86833afaad1ecc50e5c",
+          "b49493e087cd363fdc95a3f3",
+          "c1f917803891716d3feb5ac5",
+          "8de5b4b35650ec0a7f9e6814",
+          "7969e1b42b79eca634c00d52",
+          "925ed96b84c7de7a97a8bba6",
+          "d72790a127fa62c712060f4f",
+          "ff028272de3579688be75fcf",
+          "0d2b94cd8bff7862cb09b1cf",
+          "396cc5c2d0872b7764503695",
+          "bb61b4ecf9cbd4d18ff548bc",
+          "0759d49fee4000056e4eb0ce",
+          "db38949805113dcf7eaf8d0e",
+          "b9c5348ace75b0b0dbca39b4",
+          "2901420896dc688293fe6de8",
+          "7f99247e42c4a4ed8f96fd0c",
+          "fb847f35b6626bdaf639d5af",
+          "0a4276f95e8acb53dad10eb0",
+          "102a153e9b6d6eccffc5e413",
+          "6ce6f19f81ac7eef25f19f34",
+          "c26a26809ba136bda4b3c487",
+          "05a8f59b4f33fc84334bfbdd",
+          "4e5f17a82209aecce6516963",
+          "bca1828f981a35377e801d06",
+          "3e68a964a4f77d264b33b844",
+          "737b97cefd7e47f6483b9135",
+          "31990ca85cca1acc9c216567",
+          "6e849379e107ae94dc375374",
+          "25ff28f695cc079176a5ab88",
+          "e895689cf74170720070ce12",
+          "a6cec96ecf75a373c45d007a",
+          "c4e8bf0af3d87ca7a3b7db42",
+          "f0d8ffc6122bc536248f9042",
+          "055aff02ef5146324f8a8866",
+          "ef32097211b2da661ad19336",
+          "3abfaba5560737a4242dd8c0",
+          "8256302df273070a05ccdc9b",
+          "bf06e3113f96ba192f890f93",
+          "5a1535a2bc2c566a994c9556",
+          "b6d2dad25bfa414b807faae8",
+          "56c1cc65245c8524c9aef47c",
+          "4f3e37b887a4b021fc158381",
+          "1fb40d8e67e48e008a2d26cc",
+          "f66f4578fd03e0f21c7e1516",
+          "fe6563875f31eade9d6d724f",
+          "06bfbd39ebd759b4fc9d01f9",
+          "9fdb2be8d7b1cd3bf1162f3c",
+          "3b5df1b4b1a7acac22dc55d2",
+          "5312f1fa461035b89aac77a8",
+          "8a89656090fbdbafd357c44b",
+          "21134d75bc38f00059bf9d37",
+          "78b9e93b435422c644bba2dd",
+          "affbb4dac8fb91889fa0a87b",
+          "44aa597c76d5fbde8d8df3e8",
+          "1cda1dd510a7768bbaa6d544",
+          "28effa6b1be0b44bf6da6c89",
+          "42adea411e0d2ad1a2d00e64",
+          "188156915bcf2cfd72533bc8",
+          "89037b678c29b9ba736473e0",
+          "623f83d1db46c97e6c6d4a2d",
+          "ada0e60837f828d87cdd688e",
+          "88d2ac03fa9ba911d76fc904",
+          "065217afa1748fd948b608cd",
+          "70e13549ae073deee2b5b7e3",
+          "93260606cf6a8bd660d2dbf8",
+          "e87e72399fe71648ff132c92",
+          "968b9be91ad72d28f72499a7",
+          "7906a06f48353166d0e0cc6e",
+          "74542e544580609a3c0d8a8b",
+          "b65dd272836dcab6b1415553",
+          "df11770579a18646a5ed9759",
+          "bae71c3864721ccea4805943",
+          "ba489b818a4c6eccea7a72f5",
+          "bb4a3058c4b5a0721cf43743",
+          "1a28ebf4bc94265fd4fe5a6a",
+          "27317bcf4a79c45f04e7e26b",
+          "4757d62a05c9a7fd1d33d585",
+          "affcee0f771a4ddacda9544f",
+          "23b02a34bdb79cf8076bd8fc",
+          "f0f74cd8084d8ea7abb2517b",
+          "cd44489e3a9242b2b69c9dd2",
+          "211ee4db8ff853844bbb36b2",
+          "4b70a75da7ee5db425cdaa9a",
+          "a3b05fa6e42f404c632a8d95",
+          "c6c48d2180d257343e18e5ad",
+          "1ba5b9d2549f4836bf4b16b3",
+          "e0fc901593be4d782afcc90d",
+          "bdd0c163b62c47550844cba4",
+          "4c4fc7702675d221d23fca9e",
+          "8bcb6aa924322ea63601de25",
+          "a822fd8a613587bd56935615",
+          "001b9c95c71e0771789fef3e",
+          "a1a7c11bbb9ff2ed0d9e35cf",
+          "31e20e3bffb492a0399bd088",
+          "0c60bafe1d92a4b168c45248",
+          "e2b1c97187fc14b6d6e728fa",
+          "229d78eceac25755ea858214",
+          "03b39ca2037f82f91c83a7d3",
+          "aa0c6bd5a67f76199bdc23d1",
+          "29fd8012c6c1c0af9b9897bb",
+          "8eb0fef48a138bd098415c19",
+          "2174a8559474d1c343834d0f",
+          "e4b87363633fd25d52793a86",
+          "061752b4bef1c9bb32e5c091",
+          "30eacab5f85b818087824e48",
+          "91a39ee54b8589d7d7f4eac9",
+          "3857ddd8d3aab04829385aae",
+          "2f420e2120d749542a26dcf9",
+          "a1b4d30a7dc8d9681efe4e0b",
+          "40aafa08b1f5a49396bbdf25",
+          "30b3db7135e0fb11134cbdd3",
+          "2697cdd9b1b50259d141be40",
+          "564f6a290037d468f5e298ab",
+          "60b322dd25e065cacd0445e2",
+          "7c03a7582e73170d116fc034",
+          "b892afd9eb804a1cf16de1a1",
+          "4ed0b41f703882c95519753c",
+          "393970e50868f3c45d2986e9",
+          "93005cce832ac850d913f63d",
+          "cf6c506737bdd47b8a114454",
+          "07e6451b383d7ee668586383",
+          "443028fef755c9cd9d3cba1b",
+          "043b61073b173f81a60a7402",
+          "bdd07d107036fe12bd2f3c99",
+          "5adf1f92e99d664a5c6041a4",
+          "0b34a6feb8aaaa9f5ba3fd1c",
+          "736f53a8a7d18fe08e2def19",
+          "4cd66778fdefc5596a537009",
+          "ac2b5f8c975c2dac4d0b5a9a",
+          "c8d93bf02d7abe76425d2eb6",
+          "be199e64fe8f6a9a54ab123d",
+          "1aeb3416f66b03325a9a5787",
+          "5b1fb69b1b9cb9a13adaedbc",
+          "9949828b568ecd656863fa80",
+          "f70d533d9e8c8fabc91f0a45",
+          "5650f06a8a6a75504b97a532",
+          "f2ead2fcd79fdd038f7c79c3",
+          "d06c9512496d3e50e6ff85ab",
+          "6dd2efb83c893bfb2ec1cb07",
+          "075c702ea8947a656aad5e91",
+          "21a08b4cc9f3d58eca3f5745",
+          "fdb31f009fdba9cf0e346e5a",
+          "58d833cbf720222b5bcbee5f",
+          "e8ddf0f13a45dc82e1cb9036",
+          "0b47a4cf2a6cc9b5a2a95237",
+          "25b834d6bdee8bddb4a7c713",
+          "0eccedc9a82d3320935d1902",
+          "2289e1ce9755ecb62fe6df1e",
+          "f5a5c98b7623f548057f6c03",
+          "288c6d1e70827196dd77a2dd",
+          "935e0eb987cb28e86295408e",
+          "007e9797f65199b7ddaf9849",
+          "03a931033b677700a8959e03",
+          "1fd01b0ffcdeec50bea796a9",
+          "92e43648deb08c2dedd62439",
+          "bb9778cf14d8a2670003f0cc",
+          "a68eb7b2f532479f44483fa5",
+          "f770d890d659496c93af4dd3",
+          "d6a2df421841ffc6dc3d0d94",
+          "eabd7f90177a7612f9503c62",
+          "1a9689aaf76a8fff93b3d3db",
+          "befaa88a710498c08a086bbf",
+          "0ddb3c58a78e4adb41b7f8c2",
+          "26f373c0e99f84c67b7574d2",
+          "26ae719d7f172ae0186d829a",
+          "941ac1d97b9f1dad91abfd24",
+          "a173936ef76389af0d73de9a",
+          "d505b6e7709dae69e37cfa3c",
+          "99f78a710e6da7861f2c79ea",
+          "3428c19cc5892f39dbaf4f4a",
+          "b05df2ec7eb340fccdac3163",
+          "56a4f167320304e5a1f785cf",
+          "1902d12c8f27da61b97311fc",
+          "77aa3dcd5cc26eaec1cd772a",
+          "4304028d1e12faad31e802f2",
+          "e502df62b1aaf5533ab1b8ea",
+          "06dbe3844932f3a64a9623b0",
+          "addcad2255e67690e01dcbf3",
+          "55e0070136d64a19c6579cb6",
+          "42b3417c62a4211b1c93e26e",
+          "8cf520102d56ac408ca9e6d9",
+          "9959c53202eb89324da036f0",
+          "56a21ab3134b525950a5b2af",
+          "d8c3a3d0de113fad5268144f",
+          "b482a8f6665803044e31d80f",
+          "4be5ae2a0b4483f404267a73",
+          "2bd30d1a0701c05dab1b0ab8",
+          "030551b3bd5f20f59d817bf9",
+          "2ec9e44d1e73cbf9e44cdda3",
+          "60991d3e2d91a8ab1848796b",
+          "a9fbc073bf049cf38d621d6a",
+          "921a58cf675dfa37455b631b",
+          "4427598d778d35fff92667b7",
+          "70f91f89adb6e0e40691baef",
+          "f376d537904396891dde4f1f",
+          "44a2b5ef5de3fd904dc77ae6",
+          "7a3fb41d89c90c1fac8aec37",
+          "03b17756f047455ce41bb831",
+          "9358ac023c5b0568bfb953f8",
+          "b71877e132fd4554147ce9cb",
+          "72b1743260c890cd70944d5b",
+          "ff2b23b5ef0f132a1888dd92",
+          "74e2e32e3f9e459d6c9e0850",
+          "65c67343603607fcd24039ab",
+          "0284f1c78f930fe4a36fb252",
+          "203447596f1486c6c7f42bb6",
+          "0acbd4494396fbe63d5dc3ec",
+          "7ce359b5b806170a73800ed2",
+          "e638924af4affc9f616c23d9",
+          "1a35dab72e62eca34b7ce4e3",
+          "4fb63a8d451389c79ba36761",
+          "5a85830e8adfb07e09a01e5e",
+          "82d2433417faff36bfa7f4a3",
+          "09da6654c6cf7c37321af208",
+          "78339c8d14ae43f489e5d0a2",
+          "4ef0a3419b3e8f919a60207f",
+          "08abbe277e082a55372d4b99",
+          "802462514d5cfe5197ca6d23",
+          "7efe088600752e9810b3a8b5",
+          "d783ce6a0cf22e37ec460700",
+          "f18b96fae9ee2cbacf2356de",
+          "9de05e07193473e322415286",
+          "030fb573b27282ad768434ca",
+          "264a3a7ef0002ad3068e12d6",
+          "4f84ea9a3a954463896fe7e2",
+          "dfa2e8a2e2c1c51d0917aa9e",
+          "5c1162e44a1d2c7149a71249",
+          "b683fddc59ffd012e83c5b81",
+          "0192c01ddf1d2b1fd587b8bc",
+          "5917c52cbf803558d160b35d",
+          "cca0da8d8ef2ee3919af511a",
+          "664a0d53a1180934b5e9a7a7",
+          "d1896b9d2fa71bce2f152692",
+          "53f9939b889e27a63a0bccce",
+          "5d130c82ca246c9988a98e8d",
+          "a62126cecf1685e7340b6feb",
+          "b2106a4dd52815ffedc3e1b3",
+          "c4dd4ab3d508741fce100eaa",
+          "8a5fbf23f6ecacdea7c63958",
+          "6541fbe0880aa206639cd85d",
+          "bc1416804a2e0501df9ccf40",
+          "741d2fafc7d6e6fde569fbdd",
+          "2b0580aeb149f7bf08f18133",
+          "ab0798026b118b9b9b463d6e",
+          "71939bf1a682c9f6f5c9639f",
+          "81a81196e789f154cff579cd",
+          "1018aa05ef3bbeee0c531f79",
+          "2d1a764dfe7ba4a59b26c5c1",
+          "2f1769a605fb7d1762832e8d",
+          "a4beef0dac1459906c4599f2",
+          "b37d26d6ef24d0da6cf0613c",
+          "07c816a789a02bbdf678e97c",
+          "ca741004e5077c795173aa7c",
+          "9efec25361c71a6620ef53f6",
+          "1d5199c2cea5ca5888a1d8a1",
+          "dae9d6d651eb146064177fb4",
+          "393242b67ff0c65395a53bfa",
+          "c6e43e6b2ac0a2dfd5808270",
+          "916ca28a37950085614c2754",
+          "c0a1727d66487b6abb780ac7",
+          "8d3766cceaba8a7c8a466ec8",
+          "82240718ae442901cd5ebace",
+          "beae15ca425748fe10089bb2",
+          "2aae3720dc1c58241f6dd0e1",
+          "1dc2830d34758d3704367663",
+          "4786bbe57f1cfdbe3d297f91",
+          "0dc6a640d318cfc039d960b3",
+          "7d06504ad0fe88b8b81e2156",
+          "ac51bcdfd4e3bee9eef5cd2c",
+          "eb4862cd20cc36b211880543",
+          "5cd1bd0d86f5a6ce91298715",
+          "ecf130f93b5704b3087edd70",
+          "428d37a758efffd45209b3f5",
+          "0d26deeaa21b5009da302de2",
+          "463bb3bc88d89dc483e209f0",
+          "f905bd135d358345307392da",
+          "474a15a5a853605200bdc36a",
+          "4bec67f6eea62ced6ca14511",
+          "34df3c6155443d4d248f57fd",
+          "847aea029d4d1dcca3fc1852",
+          "4c59bc415b98123ce0bd8286",
+          "0bbbe70dd1cb9e2087ce9be7",
+          "380a0ea01c2e6ca95ce529d7",
+          "d73103b261e9ba1914aacab0",
+          "cc05af9c1d7a0094cc8cc4db",
+          "81703b86ae0fda0e7d284b4f"
+        ]
+      },
       "introduction": "A familiar sound, a scriptural image, or an act of love may open a depth of meaning that was present but unnoticed. These selections explore mystery as something encountered through a change in the knower as well as through further knowledge. Their language of veils, mirrors, gardens, and hidden pearls invites patient attention to the world, the soul, and revelation. Within their Baha’i setting, the discovery of divine meanings depends on grace, recognition, purity of heart, and spiritual growth; it does not remove the distinction between the human mind and the inaccessible divine Essence. Invitations to wonder therefore stand beside cautions about imagination, premature disclosure, and the temptation to confuse an experience with understanding. The collection includes visionary accounts, explanations of symbols, prayers, and reminders that insight should become learning, fellowship, and service. Its connections with contemplation, inspiration, faith, spiritual transformation, and the virtuous life widen the inquiry beyond unusual experiences. The opening of the Tao-te Ching and Paul’s account of spiritual discernment offer distinct ways to consider what language can reveal and what kind of attention knowledge requires. Read together, these passages invite both a more receptive eye and a humbler judgment about what it sees.",
       "arc": "What would it mean to see anew? → Learning the inward art of attention → Reading beneath the words → Visions, symbols, and the life of the spirit → Revelation and the hidden made manifest → Wisdom in what is said and withheld → Beyond the veil of this life → Understanding that becomes service and prayer → Further voices on wonder and discernment",
       "order": [
@@ -77,10 +383,6 @@
           "why": "Follow the practices and dispositions of a seeker: reflection, purification, learning, prayer, steadfastness, and receptivity to grace."
         },
         {
-          "key": "source:AB03358",
-          "why": "Follow the practices and dispositions of a seeker: reflection, purification, learning, prayer, steadfastness, and receptivity to grace."
-        },
-        {
           "key": "source:BH11853",
           "why": "Follow the practices and dispositions of a seeker: reflection, purification, learning, prayer, steadfastness, and receptivity to grace."
         },
@@ -101,10 +403,6 @@
           "why": "Restore the schoolchildren and their education, so discovery is not presented as an unexplained private attainment."
         },
         {
-          "key": "source:AB11280",
-          "why": "Follow the practices and dispositions of a seeker: reflection, purification, learning, prayer, steadfastness, and receptivity to grace."
-        },
-        {
           "key": "source:AB08374",
           "why": "Follow the practices and dispositions of a seeker: reflection, purification, learning, prayer, steadfastness, and receptivity to grace."
         },
@@ -122,10 +420,6 @@
         },
         {
           "key": "source:AB03064",
-          "why": "Follow the practices and dispositions of a seeker: reflection, purification, learning, prayer, steadfastness, and receptivity to grace."
-        },
-        {
-          "key": "source:BH11016",
           "why": "Follow the practices and dispositions of a seeker: reflection, purification, learning, prayer, steadfastness, and receptivity to grace."
         },
         {
@@ -169,22 +463,6 @@
           "why": "Follow the practices and dispositions of a seeker: reflection, purification, learning, prayer, steadfastness, and receptivity to grace."
         },
         {
-          "key": "source:AB08889",
-          "why": "Follow the practices and dispositions of a seeker: reflection, purification, learning, prayer, steadfastness, and receptivity to grace."
-        },
-        {
-          "key": "source:AB09156",
-          "why": "Follow the practices and dispositions of a seeker: reflection, purification, learning, prayer, steadfastness, and receptivity to grace."
-        },
-        {
-          "key": "source:AB10440",
-          "why": "Follow the practices and dispositions of a seeker: reflection, purification, learning, prayer, steadfastness, and receptivity to grace."
-        },
-        {
-          "key": "source:AB10563",
-          "why": "Follow the practices and dispositions of a seeker: reflection, purification, learning, prayer, steadfastness, and receptivity to grace."
-        },
-        {
           "key": "source:AB09240",
           "why": "Follow the practices and dispositions of a seeker: reflection, purification, learning, prayer, steadfastness, and receptivity to grace."
         },
@@ -197,10 +475,6 @@
           "why": "Follow the practices and dispositions of a seeker: reflection, purification, learning, prayer, steadfastness, and receptivity to grace."
         },
         {
-          "key": "source:AB09564",
-          "why": "Follow the practices and dispositions of a seeker: reflection, purification, learning, prayer, steadfastness, and receptivity to grace."
-        },
-        {
           "key": "source:ABU1994",
           "why": "Follow the practices and dispositions of a seeker: reflection, purification, learning, prayer, steadfastness, and receptivity to grace."
         },
@@ -209,27 +483,11 @@
           "why": "Follow the practices and dispositions of a seeker: reflection, purification, learning, prayer, steadfastness, and receptivity to grace."
         },
         {
-          "key": "source:BH05930",
-          "why": "Follow the practices and dispositions of a seeker: reflection, purification, learning, prayer, steadfastness, and receptivity to grace."
-        },
-        {
           "key": "source:BH02287",
           "why": "Follow the practices and dispositions of a seeker: reflection, purification, learning, prayer, steadfastness, and receptivity to grace."
         },
         {
-          "key": "source:BH04541",
-          "why": "Follow the practices and dispositions of a seeker: reflection, purification, learning, prayer, steadfastness, and receptivity to grace."
-        },
-        {
-          "key": "source:BH04009",
-          "why": "Follow the practices and dispositions of a seeker: reflection, purification, learning, prayer, steadfastness, and receptivity to grace."
-        },
-        {
           "key": "source:AB06862",
-          "why": "Follow the practices and dispositions of a seeker: reflection, purification, learning, prayer, steadfastness, and receptivity to grace."
-        },
-        {
-          "key": "source:AB09519",
           "why": "Follow the practices and dispositions of a seeker: reflection, purification, learning, prayer, steadfastness, and receptivity to grace."
         },
         {
@@ -242,10 +500,6 @@
         },
         {
           "key": "source:ABU2636",
-          "why": "Follow the practices and dispositions of a seeker: reflection, purification, learning, prayer, steadfastness, and receptivity to grace."
-        },
-        {
-          "key": "source:ABU2829",
           "why": "Follow the practices and dispositions of a seeker: reflection, purification, learning, prayer, steadfastness, and receptivity to grace."
         },
         {
@@ -269,10 +523,6 @@
           "why": "Move from recitation to understanding, attending to scriptural images, layers of meaning, interpretation and the difference between profitable knowledge and fascination with hidden arts."
         },
         {
-          "key": "source:BH04408",
-          "why": "Move from recitation to understanding, attending to scriptural images, layers of meaning, interpretation and the difference between profitable knowledge and fascination with hidden arts."
-        },
-        {
           "key": "source:BH01327",
           "why": "Move from recitation to understanding, attending to scriptural images, layers of meaning, interpretation and the difference between profitable knowledge and fascination with hidden arts."
         },
@@ -293,14 +543,6 @@
           "why": "Move from recitation to understanding, attending to scriptural images, layers of meaning, interpretation and the difference between profitable knowledge and fascination with hidden arts."
         },
         {
-          "key": "source:BH11507",
-          "why": "Move from recitation to understanding, attending to scriptural images, layers of meaning, interpretation and the difference between profitable knowledge and fascination with hidden arts."
-        },
-        {
-          "key": "source:BH06291",
-          "why": "Move from recitation to understanding, attending to scriptural images, layers of meaning, interpretation and the difference between profitable knowledge and fascination with hidden arts."
-        },
-        {
           "key": "source:BH00778",
           "why": "Move from recitation to understanding, attending to scriptural images, layers of meaning, interpretation and the difference between profitable knowledge and fascination with hidden arts."
         },
@@ -313,10 +555,6 @@
           "why": "Move from recitation to understanding, attending to scriptural images, layers of meaning, interpretation and the difference between profitable knowledge and fascination with hidden arts."
         },
         {
-          "key": "source:BH04806",
-          "why": "Move from recitation to understanding, attending to scriptural images, layers of meaning, interpretation and the difference between profitable knowledge and fascination with hidden arts."
-        },
-        {
           "key": "source:BH05171",
           "why": "Move from recitation to understanding, attending to scriptural images, layers of meaning, interpretation and the difference between profitable knowledge and fascination with hidden arts."
         },
@@ -325,32 +563,12 @@
           "why": "Move from recitation to understanding, attending to scriptural images, layers of meaning, interpretation and the difference between profitable knowledge and fascination with hidden arts."
         },
         {
-          "key": "source:BH02138",
-          "why": "Move from recitation to understanding, attending to scriptural images, layers of meaning, interpretation and the difference between profitable knowledge and fascination with hidden arts."
-        },
-        {
-          "key": "source:BH11060",
-          "why": "Move from recitation to understanding, attending to scriptural images, layers of meaning, interpretation and the difference between profitable knowledge and fascination with hidden arts."
-        },
-        {
-          "key": "source:AB06486",
-          "why": "Move from recitation to understanding, attending to scriptural images, layers of meaning, interpretation and the difference between profitable knowledge and fascination with hidden arts."
-        },
-        {
           "key": "source:BB00568",
           "why": "Move from recitation to understanding, attending to scriptural images, layers of meaning, interpretation and the difference between profitable knowledge and fascination with hidden arts."
         },
         {
-          "key": "source:AB05388",
-          "why": "Move from recitation to understanding, attending to scriptural images, layers of meaning, interpretation and the difference between profitable knowledge and fascination with hidden arts."
-        },
-        {
-          "key": "source:ABU2174",
-          "why": "Move from recitation to understanding, attending to scriptural images, layers of meaning, interpretation and the difference between profitable knowledge and fascination with hidden arts."
-        },
-        {
           "key": "source:BH00330",
-          "why": "Complete the third item in the source’s enumeration and its explanation of spiritual death."
+          "why": "Hear how mystics speak in outward words while intending inner meanings, and why the ignorant denounce them."
         },
         {
           "key": "source:BH00007",
@@ -366,10 +584,6 @@
         },
         {
           "key": "source:BH00047",
-          "why": "Read prophetic vision, symbolic language and reported personal experiences with their own source identities intact; compare them without treating every kind of experience as equivalent."
-        },
-        {
-          "key": "source:AB09602",
           "why": "Read prophetic vision, symbolic language and reported personal experiences with their own source identities intact; compare them without treating every kind of experience as equivalent."
         },
         {
@@ -389,19 +603,11 @@
           "why": "Read prophetic vision, symbolic language and reported personal experiences with their own source identities intact; compare them without treating every kind of experience as equivalent."
         },
         {
-          "key": "source:AB03637",
-          "why": "Read prophetic vision, symbolic language and reported personal experiences with their own source identities intact; compare them without treating every kind of experience as equivalent."
-        },
-        {
           "key": "source:AB00479",
           "why": "Read prophetic vision, symbolic language and reported personal experiences with their own source identities intact; compare them without treating every kind of experience as equivalent."
         },
         {
           "key": "source:ABU0055",
-          "why": "Read prophetic vision, symbolic language and reported personal experiences with their own source identities intact; compare them without treating every kind of experience as equivalent."
-        },
-        {
-          "key": "source:ABU0971",
           "why": "Read prophetic vision, symbolic language and reported personal experiences with their own source identities intact; compare them without treating every kind of experience as equivalent."
         },
         {
@@ -449,10 +655,6 @@
           "why": "Read prophetic vision, symbolic language and reported personal experiences with their own source identities intact; compare them without treating every kind of experience as equivalent."
         },
         {
-          "key": "source:AB05166",
-          "why": "Read prophetic vision, symbolic language and reported personal experiences with their own source identities intact; compare them without treating every kind of experience as equivalent."
-        },
-        {
           "key": "source:BB00072",
           "why": "Read prophetic vision, symbolic language and reported personal experiences with their own source identities intact; compare them without treating every kind of experience as equivalent."
         },
@@ -497,10 +699,6 @@
           "why": "Read prophetic vision, symbolic language and reported personal experiences with their own source identities intact; compare them without treating every kind of experience as equivalent."
         },
         {
-          "key": "source:AB03121",
-          "why": "Read prophetic vision, symbolic language and reported personal experiences with their own source identities intact; compare them without treating every kind of experience as equivalent."
-        },
-        {
           "key": "source:AB05305",
           "why": "Read prophetic vision, symbolic language and reported personal experiences with their own source identities intact; compare them without treating every kind of experience as equivalent."
         },
@@ -517,14 +715,6 @@
           "why": "Read prophetic vision, symbolic language and reported personal experiences with their own source identities intact; compare them without treating every kind of experience as equivalent."
         },
         {
-          "key": "source:ABU2664",
-          "why": "Read prophetic vision, symbolic language and reported personal experiences with their own source identities intact; compare them without treating every kind of experience as equivalent."
-        },
-        {
-          "key": "source:ABU2332",
-          "why": "Restore the question and the actual four stations, rather than ending at the promise to explain them."
-        },
-        {
           "key": "source:BH00144",
           "why": "Place the repeated language of unveiled mysteries in its religious setting of revelation, recognition, and renewal, allowing the different voices and images to unfold together."
         },
@@ -533,23 +723,11 @@
           "why": "Place the repeated language of unveiled mysteries in its religious setting of revelation, recognition, and renewal, allowing the different voices and images to unfold together."
         },
         {
-          "key": "source:BB00004",
-          "why": "Place the repeated language of unveiled mysteries in its religious setting of revelation, recognition, and renewal, allowing the different voices and images to unfold together."
-        },
-        {
-          "key": "source:BH04505",
-          "why": "Place the repeated language of unveiled mysteries in its religious setting of revelation, recognition, and renewal, allowing the different voices and images to unfold together."
-        },
-        {
           "key": "source:BB00325",
           "why": "Place the repeated language of unveiled mysteries in its religious setting of revelation, recognition, and renewal, allowing the different voices and images to unfold together."
         },
         {
           "key": "source:BBU0001",
-          "why": "Place the repeated language of unveiled mysteries in its religious setting of revelation, recognition, and renewal, allowing the different voices and images to unfold together."
-        },
-        {
-          "key": "source:BH11210",
           "why": "Place the repeated language of unveiled mysteries in its religious setting of revelation, recognition, and renewal, allowing the different voices and images to unfold together."
         },
         {
@@ -577,19 +755,11 @@
           "why": "Place the repeated language of unveiled mysteries in its religious setting of revelation, recognition, and renewal, allowing the different voices and images to unfold together."
         },
         {
-          "key": "source:BH08305",
-          "why": "Place the repeated language of unveiled mysteries in its religious setting of revelation, recognition, and renewal, allowing the different voices and images to unfold together."
-        },
-        {
           "key": "source:BH10779",
           "why": "Place the repeated language of unveiled mysteries in its religious setting of revelation, recognition, and renewal, allowing the different voices and images to unfold together."
         },
         {
           "key": "source:AB06511",
-          "why": "Place the repeated language of unveiled mysteries in its religious setting of revelation, recognition, and renewal, allowing the different voices and images to unfold together."
-        },
-        {
-          "key": "source:AB09057",
           "why": "Place the repeated language of unveiled mysteries in its religious setting of revelation, recognition, and renewal, allowing the different voices and images to unfold together."
         },
         {
@@ -617,23 +787,11 @@
           "why": "Place the repeated language of unveiled mysteries in its religious setting of revelation, recognition, and renewal, allowing the different voices and images to unfold together."
         },
         {
-          "key": "source:BH04647",
-          "why": "Place the repeated language of unveiled mysteries in its religious setting of revelation, recognition, and renewal, allowing the different voices and images to unfold together."
-        },
-        {
           "key": "source:BB00185",
           "why": "Place the repeated language of unveiled mysteries in its religious setting of revelation, recognition, and renewal, allowing the different voices and images to unfold together."
         },
         {
           "key": "source:BH05765",
-          "why": "Place the repeated language of unveiled mysteries in its religious setting of revelation, recognition, and renewal, allowing the different voices and images to unfold together."
-        },
-        {
-          "key": "source:BH06677",
-          "why": "Place the repeated language of unveiled mysteries in its religious setting of revelation, recognition, and renewal, allowing the different voices and images to unfold together."
-        },
-        {
-          "key": "source:BH06738",
           "why": "Place the repeated language of unveiled mysteries in its religious setting of revelation, recognition, and renewal, allowing the different voices and images to unfold together."
         },
         {
@@ -645,35 +803,11 @@
           "why": "Place the repeated language of unveiled mysteries in its religious setting of revelation, recognition, and renewal, allowing the different voices and images to unfold together."
         },
         {
-          "key": "source:BH07190",
-          "why": "Place the repeated language of unveiled mysteries in its religious setting of revelation, recognition, and renewal, allowing the different voices and images to unfold together."
-        },
-        {
           "key": "source:BH07216",
           "why": "Place the repeated language of unveiled mysteries in its religious setting of revelation, recognition, and renewal, allowing the different voices and images to unfold together."
         },
         {
           "key": "source:BH07331",
-          "why": "Place the repeated language of unveiled mysteries in its religious setting of revelation, recognition, and renewal, allowing the different voices and images to unfold together."
-        },
-        {
-          "key": "source:BH07754",
-          "why": "Place the repeated language of unveiled mysteries in its religious setting of revelation, recognition, and renewal, allowing the different voices and images to unfold together."
-        },
-        {
-          "key": "source:BH08232",
-          "why": "Place the repeated language of unveiled mysteries in its religious setting of revelation, recognition, and renewal, allowing the different voices and images to unfold together."
-        },
-        {
-          "key": "source:BH08913",
-          "why": "Place the repeated language of unveiled mysteries in its religious setting of revelation, recognition, and renewal, allowing the different voices and images to unfold together."
-        },
-        {
-          "key": "source:BH10304",
-          "why": "Place the repeated language of unveiled mysteries in its religious setting of revelation, recognition, and renewal, allowing the different voices and images to unfold together."
-        },
-        {
-          "key": "source:BH11172",
           "why": "Place the repeated language of unveiled mysteries in its religious setting of revelation, recognition, and renewal, allowing the different voices and images to unfold together."
         },
         {
@@ -690,10 +824,6 @@
         },
         {
           "key": "source:AB06056",
-          "why": "Place the repeated language of unveiled mysteries in its religious setting of revelation, recognition, and renewal, allowing the different voices and images to unfold together."
-        },
-        {
-          "key": "source:AB06513",
           "why": "Place the repeated language of unveiled mysteries in its religious setting of revelation, recognition, and renewal, allowing the different voices and images to unfold together."
         },
         {
@@ -729,10 +859,6 @@
           "why": "Place the repeated language of unveiled mysteries in its religious setting of revelation, recognition, and renewal, allowing the different voices and images to unfold together."
         },
         {
-          "key": "source:AB09618",
-          "why": "Place the repeated language of unveiled mysteries in its religious setting of revelation, recognition, and renewal, allowing the different voices and images to unfold together."
-        },
-        {
           "key": "source:BH00377",
           "why": "Place the repeated language of unveiled mysteries in its religious setting of revelation, recognition, and renewal, allowing the different voices and images to unfold together."
         },
@@ -761,10 +887,6 @@
           "why": "Place the repeated language of unveiled mysteries in its religious setting of revelation, recognition, and renewal, allowing the different voices and images to unfold together."
         },
         {
-          "key": "source:BH03683",
-          "why": "Place the repeated language of unveiled mysteries in its religious setting of revelation, recognition, and renewal, allowing the different voices and images to unfold together."
-        },
-        {
           "key": "source:BH03853",
           "why": "Place the repeated language of unveiled mysteries in its religious setting of revelation, recognition, and renewal, allowing the different voices and images to unfold together."
         },
@@ -778,10 +900,6 @@
         },
         {
           "key": "source:BH04671",
-          "why": "Place the repeated language of unveiled mysteries in its religious setting of revelation, recognition, and renewal, allowing the different voices and images to unfold together."
-        },
-        {
-          "key": "source:BH04895",
           "why": "Place the repeated language of unveiled mysteries in its religious setting of revelation, recognition, and renewal, allowing the different voices and images to unfold together."
         },
         {
@@ -810,10 +928,6 @@
         },
         {
           "key": "source:BH07583",
-          "why": "Place the repeated language of unveiled mysteries in its religious setting of revelation, recognition, and renewal, allowing the different voices and images to unfold together."
-        },
-        {
-          "key": "source:BH08045",
           "why": "Place the repeated language of unveiled mysteries in its religious setting of revelation, recognition, and renewal, allowing the different voices and images to unfold together."
         },
         {
@@ -865,14 +979,6 @@
           "why": "Consider the relation between insight, capacity, timing and responsibility. Keep restraint and protection beside the desire to disclose, with the actual question or circumstance restored where available."
         },
         {
-          "key": "source:BH10314",
-          "why": "Consider the relation between insight, capacity, timing and responsibility. Keep restraint and protection beside the desire to disclose, with the actual question or circumstance restored where available."
-        },
-        {
-          "key": "source:BH11295",
-          "why": "Consider the relation between insight, capacity, timing and responsibility. Keep restraint and protection beside the desire to disclose, with the actual question or circumstance restored where available."
-        },
-        {
           "key": "source:BH01010",
           "why": "Consider the relation between insight, capacity, timing and responsibility. Keep restraint and protection beside the desire to disclose, with the actual question or circumstance restored where available."
         },
@@ -889,15 +995,7 @@
           "why": "Consider the relation between insight, capacity, timing and responsibility. Keep restraint and protection beside the desire to disclose, with the actual question or circumstance restored where available."
         },
         {
-          "key": "source:BH08919",
-          "why": "Consider the relation between insight, capacity, timing and responsibility. Keep restraint and protection beside the desire to disclose, with the actual question or circumstance restored where available."
-        },
-        {
           "key": "source:BH03544",
-          "why": "Consider the relation between insight, capacity, timing and responsibility. Keep restraint and protection beside the desire to disclose, with the actual question or circumstance restored where available."
-        },
-        {
-          "key": "source:BB00244",
           "why": "Consider the relation between insight, capacity, timing and responsibility. Keep restraint and protection beside the desire to disclose, with the actual question or circumstance restored where available."
         },
         {
@@ -941,18 +1039,6 @@
           "why": "Consider the relation between insight, capacity, timing and responsibility. Keep restraint and protection beside the desire to disclose, with the actual question or circumstance restored where available."
         },
         {
-          "key": "source:AB01910",
-          "why": "Consider the relation between insight, capacity, timing and responsibility. Keep restraint and protection beside the desire to disclose, with the actual question or circumstance restored where available."
-        },
-        {
-          "key": "source:AB06254",
-          "why": "Consider the relation between insight, capacity, timing and responsibility. Keep restraint and protection beside the desire to disclose, with the actual question or circumstance restored where available."
-        },
-        {
-          "key": "source:AB06507",
-          "why": "Consider the relation between insight, capacity, timing and responsibility. Keep restraint and protection beside the desire to disclose, with the actual question or circumstance restored where available."
-        },
-        {
           "key": "source:AB06963",
           "why": "Consider the relation between insight, capacity, timing and responsibility. Keep restraint and protection beside the desire to disclose, with the actual question or circumstance restored where available."
         },
@@ -961,15 +1047,7 @@
           "why": "Consider the relation between insight, capacity, timing and responsibility. Keep restraint and protection beside the desire to disclose, with the actual question or circumstance restored where available."
         },
         {
-          "key": "source:AB11696",
-          "why": "Consider the relation between insight, capacity, timing and responsibility. Keep restraint and protection beside the desire to disclose, with the actual question or circumstance restored where available."
-        },
-        {
           "key": "source:ABU3252",
-          "why": "Consider the relation between insight, capacity, timing and responsibility. Keep restraint and protection beside the desire to disclose, with the actual question or circumstance restored where available."
-        },
-        {
-          "key": "source:ABU3169",
           "why": "Consider the relation between insight, capacity, timing and responsibility. Keep restraint and protection beside the desire to disclose, with the actual question or circumstance restored where available."
         },
         {
@@ -1029,16 +1107,8 @@
           "why": "Approach the passages on death and what remains concealed through the collection’s language of wisdom and limited understanding, retaining the distinct status of reported anecdotes."
         },
         {
-          "key": "source:AB08139",
-          "why": "Approach the passages on death and what remains concealed through the collection’s language of wisdom and limited understanding, retaining the distinct status of reported anecdotes."
-        },
-        {
           "key": "source:ABU2916",
           "why": "Retain this reported anecdote as a source selection with its own provenance, within the discussion of concealment and capacity, without presenting it as advice or verified history."
-        },
-        {
-          "key": "source:BH08888",
-          "why": "Approach the passages on death and what remains concealed through the collection’s language of wisdom and limited understanding, retaining the distinct status of reported anecdotes."
         },
         {
           "key": "source:AB11868",
@@ -1070,10 +1140,6 @@
         },
         {
           "key": "source:BH06514",
-          "why": "Approach the passages on death and what remains concealed through the collection’s language of wisdom and limited understanding, retaining the distinct status of reported anecdotes."
-        },
-        {
-          "key": "source:BH03304",
           "why": "Approach the passages on death and what remains concealed through the collection’s language of wisdom and limited understanding, retaining the distinct status of reported anecdotes."
         },
         {
@@ -1130,10 +1196,6 @@
         },
         {
           "key": "source:AB02844",
-          "why": "Return from extraordinary experience to the fruits of understanding in guidance, learning, human fellowship, and humble prayer for help."
-        },
-        {
-          "key": "source:AB03372",
           "why": "Return from extraordinary experience to the fruits of understanding in guidance, learning, human fellowship, and humble prayer for help."
         },
         {
@@ -1194,14 +1256,6 @@
         },
         {
           "key": "source:AB01515",
-          "why": "Return from extraordinary experience to the fruits of understanding in guidance, learning, human fellowship, and humble prayer for help."
-        },
-        {
-          "key": "source:AB03181",
-          "why": "Return from extraordinary experience to the fruits of understanding in guidance, learning, human fellowship, and humble prayer for help."
-        },
-        {
-          "key": "source:AB03309",
           "why": "Return from extraordinary experience to the fruits of understanding in guidance, learning, human fellowship, and humble prayer for help."
         },
         {
@@ -1306,63 +1360,55 @@
         },
         {
           "key": "selection:34df3c6155443d4d248f57fd",
-          "why": "Preserve every supplied quotation with its original wording, citation and catalogue status. Move from wonder and communion to cautions about feeling, imagination and disclosure, and end with shared worship."
+          "why": "Preserve each supplied quotation with its original wording, citation and catalogue status. Move from wonder and communion to cautions about feeling, imagination and disclosure."
         },
         {
           "key": "selection:1dc2830d34758d3704367663",
-          "why": "Preserve every supplied quotation with its original wording, citation and catalogue status. Move from wonder and communion to cautions about feeling, imagination and disclosure, and end with shared worship."
+          "why": "Preserve each supplied quotation with its original wording, citation and catalogue status. Move from wonder and communion to cautions about feeling, imagination and disclosure."
         },
         {
           "key": "selection:474a15a5a853605200bdc36a",
-          "why": "Preserve every supplied quotation with its original wording, citation and catalogue status. Move from wonder and communion to cautions about feeling, imagination and disclosure, and end with shared worship."
+          "why": "Preserve each supplied quotation with its original wording, citation and catalogue status. Move from wonder and communion to cautions about feeling, imagination and disclosure."
         },
         {
           "key": "selection:2aae3720dc1c58241f6dd0e1",
-          "why": "Preserve every supplied quotation with its original wording, citation and catalogue status. Move from wonder and communion to cautions about feeling, imagination and disclosure, and end with shared worship."
+          "why": "Preserve each supplied quotation with its original wording, citation and catalogue status. Move from wonder and communion to cautions about feeling, imagination and disclosure."
         },
         {
           "key": "selection:beae15ca425748fe10089bb2",
-          "why": "Preserve every supplied quotation with its original wording, citation and catalogue status. Move from wonder and communion to cautions about feeling, imagination and disclosure, and end with shared worship."
-        },
-        {
-          "key": "selection:4d6965e2536d4d5abe50c9b0",
-          "why": "Preserve every supplied quotation with its original wording, citation and catalogue status. Move from wonder and communion to cautions about feeling, imagination and disclosure, and end with shared worship."
+          "why": "Preserve each supplied quotation with its original wording, citation and catalogue status. Move from wonder and communion to cautions about feeling, imagination and disclosure."
         },
         {
           "key": "selection:380a0ea01c2e6ca95ce529d7",
-          "why": "Preserve every supplied quotation with its original wording, citation and catalogue status. Move from wonder and communion to cautions about feeling, imagination and disclosure, and end with shared worship."
+          "why": "Preserve each supplied quotation with its original wording, citation and catalogue status. Move from wonder and communion to cautions about feeling, imagination and disclosure."
         },
         {
           "key": "selection:0bbbe70dd1cb9e2087ce9be7",
-          "why": "Preserve every supplied quotation with its original wording, citation and catalogue status. Move from wonder and communion to cautions about feeling, imagination and disclosure, and end with shared worship."
+          "why": "Preserve each supplied quotation with its original wording, citation and catalogue status. Move from wonder and communion to cautions about feeling, imagination and disclosure."
         },
         {
           "key": "selection:847aea029d4d1dcca3fc1852",
-          "why": "Preserve every supplied quotation with its original wording, citation and catalogue status. Move from wonder and communion to cautions about feeling, imagination and disclosure, and end with shared worship."
+          "why": "Preserve each supplied quotation with its original wording, citation and catalogue status. Move from wonder and communion to cautions about feeling, imagination and disclosure."
         },
         {
           "key": "selection:4c59bc415b98123ce0bd8286",
-          "why": "Preserve every supplied quotation with its original wording, citation and catalogue status. Move from wonder and communion to cautions about feeling, imagination and disclosure, and end with shared worship."
+          "why": "Preserve each supplied quotation with its original wording, citation and catalogue status. Move from wonder and communion to cautions about feeling, imagination and disclosure."
         },
         {
           "key": "selection:4bec67f6eea62ced6ca14511",
-          "why": "Preserve every supplied quotation with its original wording, citation and catalogue status. Move from wonder and communion to cautions about feeling, imagination and disclosure, and end with shared worship."
+          "why": "Preserve each supplied quotation with its original wording, citation and catalogue status. Move from wonder and communion to cautions about feeling, imagination and disclosure."
         },
         {
           "key": "selection:78339c8d14ae43f489e5d0a2",
-          "why": "Preserve every supplied quotation with its original wording, citation and catalogue status. Move from wonder and communion to cautions about feeling, imagination and disclosure, and end with shared worship."
+          "why": "Preserve each supplied quotation with its original wording, citation and catalogue status. Move from wonder and communion to cautions about feeling, imagination and disclosure."
         },
         {
           "key": "selection:8256302df273070a05ccdc9b",
-          "why": "Preserve every supplied quotation with its original wording, citation and catalogue status. Move from wonder and communion to cautions about feeling, imagination and disclosure, and end with shared worship."
+          "why": "Preserve each supplied quotation with its original wording, citation and catalogue status. Move from wonder and communion to cautions about feeling, imagination and disclosure."
         },
         {
           "key": "selection:81703b86ae0fda0e7d284b4f",
-          "why": "Preserve every supplied quotation with its original wording, citation and catalogue status. Move from wonder and communion to cautions about feeling, imagination and disclosure, and end with shared worship."
-        },
-        {
-          "key": "selection:89b5225b2496fa0703f93c75",
-          "why": "End the supplied readings with the concrete communal setting of worship, keeping its approximate catalogue status."
+          "why": "Preserve each supplied quotation with its original wording, citation and catalogue status. Move from wonder and communion to cautions about feeling, imagination and disclosure."
         }
       ],
       "questions": [

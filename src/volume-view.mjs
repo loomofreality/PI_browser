@@ -1,8 +1,9 @@
 import {loadDefaults,volumeStart} from './view-defaults.mjs';
 import {externalPdfUrl,pdfLinkBoxes,pdfDestinationPage} from './pdf-links.mjs';
+import {loadPdfBase,pdfHref} from './pdf-hosting.mjs';
 const $=id=>document.getElementById(id);
 const wide=matchMedia('(min-width:1100px)');
-let directory={},titles={},pdf,task,lib,volume='',page=1,epoch=0,renderEpoch=0,renders=[];
+let directory={},titles={},pdfSite=null,pdf,task,lib,volume='',page=1,epoch=0,renderEpoch=0,renders=[];
 const count=()=> $('layout').value==='spread'||($('layout').value==='auto'&&wide.matches)?2:1;
 function save(replace=false){
   const url=new URL(location.href);url.searchParams.set('volume',volume);url.searchParams.set('page',page);
@@ -13,7 +14,7 @@ function controls(){
   $('page').disabled=$('go').disabled=!pdf;$('page').value=page;$('page').max=pdf?.numPages||1;
   $('page-total').textContent=pdf?`of ${pdf.numPages}`:'';
   $('previous').disabled=!pdf||page<=1;$('next').disabled=!pdf||page+count()>pdf.numPages;
-  if(volume)$('pdf-link').href=`./${directory[volume]}#page=${page}`;
+  if(volume)$('pdf-link').href=`${pdfHref(directory[volume],pdfSite)}#page=${page}`;
 }
 function clear(){for(const render of renders)render.cancel();renders=[];$('pdf-pages').replaceChildren();}
 async function pageLinks(sheet,current,viewport,number){
@@ -72,9 +73,9 @@ async function openVolume(id,requestedPage=1){
   }
   volume=id;$('volume').value=id;$('volume').title=titles[id];$('pdf-link').hidden=false;controls();$('volume-status').textContent=`Opening volume ${id}…`;
   try{
-    lib ||= await import('./vendor/pdfjs/pdf.mjs');if(version!==epoch)return;
-    lib.GlobalWorkerOptions.workerSrc=new URL('./vendor/pdfjs/pdf.worker.mjs',import.meta.url).href;
-    task=lib.getDocument({url:`./${directory[id]}`,cMapUrl:'./vendor/pdfjs/cmaps/',cMapPacked:true,standardFontDataUrl:'./vendor/pdfjs/standard_fonts/',wasmUrl:'./vendor/pdfjs/wasm/',isEvalSupported:false});
+    if(!lib){await import('./map-polyfill.mjs');lib=await import('./vendor/pdfjs/pdf.mjs');}if(version!==epoch)return;
+    lib.GlobalWorkerOptions.workerSrc=new URL('./pdf-worker.mjs',import.meta.url).href;
+    task=lib.getDocument({url:pdfHref(directory[id],pdfSite),cMapUrl:'./vendor/pdfjs/cmaps/',cMapPacked:true,standardFontDataUrl:'./vendor/pdfjs/standard_fonts/',wasmUrl:'./vendor/pdfjs/wasm/',isEvalSupported:false});
     const loaded=await task.promise;if(version!==epoch)return;pdf=loaded;
     page=Math.max(1,Math.min(pdf.numPages,Math.trunc(Number(requestedPage))||1));save(true);await draw();
   }catch(error){if(version!==epoch)return;$('volume-status').textContent='This volume could not be opened. Try again or open the PDF directly.';$('retry').hidden=false;$('pdf-reader').setAttribute('aria-busy','false');}
@@ -99,7 +100,7 @@ for(const id of ['layout','zoom'])$(id).onchange=()=>{if(volume)save();draw();};
 $('pdf-reader').onkeydown=event=>{if(event.altKey||event.ctrlKey||event.metaKey)return;if(['ArrowLeft','ArrowRight'].includes(event.key)){event.preventDefault();move(page+(event.key==='ArrowRight'?count():-count()));}};
 let resizeTimer,lastWidth=0;new ResizeObserver(([entry])=>{const width=entry.contentRect.width;if(width===lastWidth)return;lastWidth=width;clearTimeout(resizeTimer);resizeTimer=setTimeout(()=>draw(),150);}).observe($('pdf-reader'));
 window.addEventListener('popstate',restore);
-async function init(){try{const responses=await Promise.all([fetch('./volumes.json'),fetch('./volume-titles.json')]);if(responses.some(response=>!response.ok))throw new Error();[directory,titles]=await Promise.all(responses.map(response=>response.json()));
+async function init(){try{pdfSite=await loadPdfBase();const responses=await Promise.all([fetch('./volumes.json'),fetch('./volume-titles.json')]);if(responses.some(response=>!response.ok))throw new Error();[directory,titles]=await Promise.all(responses.map(response=>response.json()));
   const entries=Object.entries(directory).filter(([id,file])=>/^\d+$/.test(id)&&/^pdf-volumes\/volume-\d+\.pdf$/.test(file)).sort((a,b)=>Number(a[0])-Number(b[0]));
   if(!entries.length||entries.some(([id])=>typeof titles[id]!=='string'||!titles[id].trim()))throw new Error();directory=Object.fromEntries(entries);$('volume').replaceChildren(...entries.map(([id])=>new Option(titles[id],id)));$('volume').disabled=false;$('volume-count').textContent=entries.length;await restore();
 }catch{$('volume-status').textContent='The volume directory could not be loaded. Please try again.';$('retry').hidden=false;$('pdf-reader').setAttribute('aria-busy','false');}}

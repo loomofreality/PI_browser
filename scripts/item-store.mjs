@@ -2,6 +2,7 @@ import fs from 'node:fs/promises';
 import path from 'node:path';
 import {createHash,randomUUID} from 'node:crypto';
 import {parseCsv} from '../src/text.mjs';
+import {decodeSource} from './source-encoding.mjs';
 
 const sha=bytes=>createHash('sha256').update(bytes).digest('hex');
 const folders=['original_texts - copy','translated_texts - copy'];
@@ -10,7 +11,14 @@ export function csvText(rows,fields){
   const cell=value=>'"'+String(value??'').replaceAll('"','""')+'"';
   return [fields.map(cell).join(','),...rows.map(row=>fields.map(field=>cell(row[field])).join(','))].join('\n')+'\n';
 }
-export function decode(bytes){try{return new TextDecoder('utf-8',{fatal:true}).decode(bytes);}catch{return new TextDecoder('windows-1252').decode(bytes);}}
+export function decode(bytes){return decodeSource(bytes).text;}
+// The editor changes the local source folders, which are not in Git. Explain
+// how to supply them rather than failing on the first lookup.
+export async function requireSourceFolders(root){
+  const missing=[];
+  for(const folder of ['metadata - copy',...folders])try{if(!(await fs.stat(path.join(root,folder))).isDirectory())missing.push(folder);}catch{missing.push(folder);}
+  if(missing.length)throw Error(`The source folders are missing from ${path.resolve(root)}: ${missing.join(', ')}. Copy them into this project folder (they are not stored in Git), then start the editor again.`);
+}
 export class ItemStore{
   constructor(root){this.root=path.resolve(root);}
   async snapshot(id){

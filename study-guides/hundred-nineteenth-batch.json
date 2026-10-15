@@ -5,6 +5,312 @@
       "id": "0E46A9D425ED4F89AB54563B472E6EF6",
       "slug": "powerofmanifestation",
       "displayTitle": "The power of the Manifestation: a world made new",
+      "selection": {
+        "review": "selections/powerofmanifestation.json",
+        "sha256": "9133530fbcc3b53b75cffbf65aa65a9bcddc2ff7c3831a65f787ece4b0642e96",
+        "ids": [
+          "3025edb31f5a07fcd7c93b0d",
+          "94708ccd90abd81d77de862d",
+          "3c56a8a5d32f791505d29468",
+          "29e048239e73097e23fe08ef",
+          "12c5adb83a7e3aaf8f7d0231",
+          "2c6c5a78e4c11fcba4003030",
+          "f01aaf4c3757e5f9f50dd0ea",
+          "3fde3c7e9fa6e0914661b358",
+          "1511965471eb061322720cbc",
+          "97ff2bdf5868c9e9bab487f5",
+          "caef85a42185473fbb81d6f7",
+          "b98491786b4c16ea7be7135a",
+          "827a86a39401ef47597c4714",
+          "59209d0cc82e2df91a86e53f",
+          "b9edc2ce926c52bb10334122",
+          "1becbdbecd16921c1c4bbb2e",
+          "8e97921504b659d59a0b9ff8",
+          "a1d8b69cc420ce349edb4e10",
+          "f838d07b1049a6eb92a0c537",
+          "ff0c451a0efdbce0f90406d3",
+          "6cd3212af174528b3fa6d318",
+          "27db7f0df6f727d1427befb7",
+          "27f7f7a2da47b32d4f9fd171",
+          "c59ed409e2e22eee9bad3b73",
+          "e0f2897d14323c536d82f30d",
+          "2625a99b9625a193851d4291",
+          "f7f8edb2dca73aff9a2b8b52",
+          "ed05264ac0cd4b90b170bf13",
+          "0ca700b06950f89b30553310",
+          "77eb3c8eb8c0a34129462fca",
+          "98d721c57c74a1a1812def40",
+          "b3a576e1dcbadf7dd7b10ee6",
+          "b130bca754f85a37488572e4",
+          "8bbfde21486205ee4cefa59e",
+          "1ec5157e405810d8506b0732",
+          "cc3cf04ac051296190f02383",
+          "67f36d97c49022d70beb3990",
+          "baaac11153217ad57dadafb4",
+          "bb3fb94b21610d8442f55a95",
+          "2426f782f8868af0a190c66c",
+          "540c37b4d6e938d33e633aa9",
+          "9c70faff5c745db220d9ad2d",
+          "3fd78f375df2a901239f3013",
+          "22e38d39ff5210191407d042",
+          "fae840670ade5d518cd40c2c",
+          "1d9beaa3564a6cddf83e27fe",
+          "d0566c4dcfcc7bab30536717",
+          "07fb0238c0040d4e49964bdf",
+          "59e55f38884690d02faa8d1e",
+          "1d01e287209288c46aef2a67",
+          "0389d5da33e045394a98ee93",
+          "1ae7b29ad9b52bc331a2aedc",
+          "797287c546cde3b14b8d4918",
+          "18ff43f9d3c0b6889a5e19ff",
+          "7cd2045d49ba5306ac15e6f1",
+          "cb24885d077d1cdcf48a00e1",
+          "4973d4d8a254e5d2c582b9e9",
+          "9a894e0038c6d832b6d84e0a",
+          "043a7fd7dd8c28719c280c52",
+          "6620d53121f6929118c4d669",
+          "08bd895fd92bcc102c9dca71",
+          "a3370157b234664e6a9af5bd",
+          "b54130afb9ae0b163046b7bd",
+          "58f1e1d9db8a7f9495f0e26e",
+          "8abe6ce7ab89e56c5fc3b494",
+          "59f3c2e800aa2d816d3811be",
+          "d6cffd6149bd30eed822af48",
+          "ef9a8f5b6f975dd8459f2556",
+          "5443d017bdd4d734434befd8",
+          "02bbe2ee62240c9300845c79",
+          "2b92895ff2f602af291fe96a",
+          "b98b5da835fe55b9b6040238",
+          "cbb71c8e98e5a9fd25e3cc81",
+          "fe89f8956d84cd3049244fdd",
+          "157ba8ec194b4d6101649818",
+          "e8981a2e9902174bbd2c62ee",
+          "1c264d04c1569e827323fbea",
+          "9cc0773616b0ab44a267ce8f",
+          "e3d0ea8d8e04ee0023195891",
+          "cdeab6e10312b7c8ead2b113",
+          "c6df48d1730e149ccdec3201",
+          "52792e0eae114a46e2035c8a",
+          "fd9467503cd98b574f9f4527",
+          "5a19e7a3e250ec63a14d83e4",
+          "392d5fea5bd3ddda73cd54b3",
+          "a11d18f678839d6b3bf75b9f",
+          "1b77bac7f9549d4940eeb6ad",
+          "631bba4df3cca53fa056c8e8",
+          "cafb2e3c9427179c14c2bdf8",
+          "c9ca0b3b265dcc411e6d98e4",
+          "99dfbcf05cb2dcc694f320cb",
+          "2042d020b936310d86135a9b",
+          "c3cf9501621c9e2a24c76340",
+          "76ff48f5953ff0e488afbbde",
+          "dc6ede4e31852af234745e85",
+          "9b2d26d855a24c16eff1127b",
+          "9cfde8758cf18f9d89f79b9d",
+          "c3a539f6f1cf2eb60ce64045",
+          "01925c4dd9bbe364b10b4c8e",
+          "9d5ef2070bf550477bd7aa5d",
+          "00b89ae740c148ff289495d4",
+          "f844c87ab0f5f256db3a2247",
+          "08b1b6794cd9ad44f3ac1d89",
+          "4fb8742332545347a897796b",
+          "3a7db4a20aa3d6929036d165",
+          "e904df8f67b94566fa92eaaa",
+          "dcc72359f9616e41aeff34aa",
+          "f58e448511e8970c67ec874b",
+          "f90c12d8069deb3238275a83",
+          "0ce8ad095a3603b6c0360000",
+          "56bc4d939575dae4657320e2",
+          "bbf9406afcd0a2cfa4044f04",
+          "e78345a8f2a2239483cc6390",
+          "7dffe0b156839b63b01f2338",
+          "a7dd8f69be7237e18a78b092",
+          "ab52dc30d5f85d16703e67e3",
+          "ecb383e42af015a9a15f6c67",
+          "98dc28c548d672aba4d32483",
+          "748a76d5d91e8c256f040e9f",
+          "729ebae3206e3b85cecb1659",
+          "7cc87a33a49e795be895d61d",
+          "070f48d1d2e0aa1480180898",
+          "0f2518e522ef1d0161fe5922",
+          "8b94b1e0e04d287b6a47a7dd",
+          "c2a8ea5bc4ca6d4a5da77dd7",
+          "091c7327caf6f6eacd788332",
+          "43d084bc7981832167f6650d",
+          "e51b17e04233f7ac3842d2a3",
+          "6197928b639419f124d52cb5",
+          "df8c84295288ff04e4318438",
+          "4c006273632a5bde90f716b9",
+          "e4b99ccefe2338b3bcdbfe60",
+          "f1cc241795a7fcc712f156ca",
+          "1e1c28bb9d81a0a9a6cb3ac3",
+          "2d72a2b652009e38cda3ca40",
+          "092b48c6bb0fb668128db943",
+          "697b0a1d5af3529fbd08c0f8",
+          "b6fd5b837617fd6c62f79e5c",
+          "79826e90312eb10b1e5dc585",
+          "d0d47d3791ea61dd1f910f23",
+          "b71cb5be14538e78bf901351",
+          "2570492c2e1f3216a72f221d",
+          "0fbfc3e4f0f8a0bce7188e4d",
+          "d7ce771b0417a51fa6d5ccc1",
+          "a216ab7d6c85e2b2055c58bd",
+          "1efe0738f118851a147ba6a0",
+          "8abd61843b8cd3b0130e8af5",
+          "21a68af9722dd48d607ea8da",
+          "b474992b435c8823f45003bd",
+          "5a1856029b20e69d2d2710c4",
+          "83cab209c8e652c73a4e25be",
+          "8613d3391fc72da9cd983ab7",
+          "9d4fdacaa9f909b563f0d0c6",
+          "282e066e89714e182e3ca07a",
+          "8f6b743c27eb11450390f76e",
+          "24894d7fb37be11b381a2bd8",
+          "e4d9d93e3bf6259a60844814",
+          "c2b9669182f2bb0e09b2284f",
+          "82b983d718a7e690c9e4aa97",
+          "8318ae33e453ebe07ce0a56d",
+          "a48c4d5937e94fee67821391",
+          "a10f65744468f91c9b9d69a2",
+          "aa8b05dbf4294d351d3c8ae4",
+          "54725326fdf7632f7e74ec77",
+          "1df59216ddb50063d125b9c7",
+          "d41cdfe4733c34bc7d3d3dd6",
+          "02b2ea330b82be93135341fa",
+          "49f4d7748b0bbf2f76e6b130",
+          "f291ff8a73a93117c781b6a3",
+          "c177e4cb953cb1253528d74b",
+          "866a2fb5b99c695aa7eb89a3",
+          "4d450f058e954ab98f97ed48",
+          "a40a7efb91ddb26c19dba2c1",
+          "4a15f86d23c8b6487be6ab32",
+          "ab3d79894f114e18168e1295",
+          "2bbf4a4ffd98519f784908cb",
+          "42923085ce2db0c01d86d2ff",
+          "d081531f2fbed37a63226c74",
+          "6c479de873f2626758074854",
+          "d7b08f6738feba144e4c5ebe",
+          "1fd810519ee6126592df5941",
+          "98d58792f609d50b10dbb796",
+          "da2c8dea5274e6f040f39817",
+          "f58375236164a1e50c0c50f9",
+          "714a4fe00284bee8a0198d74",
+          "82f3d9461b206e4f42463f30",
+          "920060c3140eff4b6885b2b0",
+          "29d18ff0a56f4150c55f6155",
+          "deb7df7e9bedd49f99d36fa0",
+          "6a63ff751c742f89eba79908",
+          "45cdd377a620920d4302fbfe",
+          "d48290a37ee015fcbaccd48e",
+          "ec79ebf62c2d82224e8f4eb7",
+          "9d4df30a4f41b8464abafd5d",
+          "584acfc6aa245c33df7fdff8",
+          "57c807b473304a0772024dad",
+          "ea232ce264000fd6a49e06fb",
+          "6e14d2cf32c1a64d04fecb79",
+          "69ec9937e689745b37a68398",
+          "95a0f7f70aee71e3e30e43c5",
+          "3142d1f6ae4f77fcdfe7150c",
+          "a00b970cd79e021b4a4c876b",
+          "4fca994e788ed29da582e5b2",
+          "7191f5fd7b3ff850d40d953c",
+          "60f94a2907530aeb277cc7f1",
+          "141129c05b50fa0845ff8609",
+          "9fed817ce8e51bb9c6cda6f9",
+          "a2869e44484bd8e706341d0f",
+          "5a384d576af08128c6ab20d7",
+          "ea3ca77e835db47f465aaa14",
+          "a991f671fbf68b01fe0d334c",
+          "05c181a9626e049313a39c9e",
+          "f1762cb248f80aa688a866c8",
+          "c6a209d5a5430f650fc30b2c",
+          "b67d2df1f50bcae6d7b30aae",
+          "2f273d253a52ba74b43c5ad2",
+          "66f3d73bed93b8e60672b57b",
+          "16c23a3df1db017f3566e419",
+          "4404407e7d38589ed86d18ab",
+          "87a98cbb953f64443978d798",
+          "4f4a4c3375a0b3892f53a24d",
+          "afe48705840f18626a9a2484",
+          "926ee862428fbb3359e3e2cd",
+          "9ebb94b816081b580af93883",
+          "a14e6f832dea24454d13b9c8",
+          "0413f8ac350f66dc44ee40bf",
+          "389c4171b9494da97d0ab1c4",
+          "2d961121cfb99012b814b2ce",
+          "4848ceefd020a4d2855b2fc8",
+          "242847e21a212af2ede1ff0c",
+          "da78b0fd9727e3db1e15d754",
+          "24ecf8b25614d0210b42d5f2",
+          "6d05a6e6f71785380b6a191b",
+          "53c394fbed28334e0536b8b2",
+          "4a8c53fcd122eed19bf9f227",
+          "1a2d7a6ff36b7d82fc6fc7be",
+          "d1ecc78c1cde85d448bb4270",
+          "369e3a9cd8dbdddd91b89d03",
+          "4d92a2042c44c66a843fc5e8",
+          "dd516daab110656ab01754f9",
+          "e9a1a2ca9213949e39fdbf39",
+          "b68c5ee4d7336dfa968eb14a",
+          "193e12ebdc510574ae4c9f08",
+          "298850788258637eedf85986",
+          "df77f4cd36c1b3332c67d0d8",
+          "1eb13f6043e64f698bdb10f3",
+          "ee97d17410f971ea0ab5d862",
+          "b400df823f5344214f23e88a",
+          "07a33a09735ef170af656679",
+          "99121e409b980b5122c7d9d6",
+          "6fc93dbf3d58050c39aeb1d3",
+          "342ac0eb163451af8bce322e",
+          "e4b6b3aebe2aa4850b2a6371",
+          "5574eb9b6e0b7e0577cd187e",
+          "b44e0bb8b14426cc66b8ce04",
+          "2fdc8682bf11b938b8b6b2fe",
+          "b5d20325207a4836765a4ef4",
+          "ff9e0795ea3a45063be0dc39",
+          "c828c82b9c401eea395c2cbf",
+          "f4854c795307f2ff3537e747",
+          "37fa6e3d29e6292f5fbea01e",
+          "764d5d2ed73cf6efb4e7fc8a",
+          "07ccc9c46ff10bebda6308b4",
+          "ec008e215d7d0bbbfbdda81f",
+          "f4ed4fff96a5d31e4a02d2f7",
+          "4731c46017c39869579f15e4",
+          "0ab816c63646fc26c9e96e59",
+          "44e9dcbf284ede81318dc4eb",
+          "d0be176b132704917ca06518",
+          "795401f5a50163ce0b640dc9",
+          "d234fda2886607db99f62b93",
+          "4dacaa16ed07e596dc750f4e",
+          "d341ffe7d478e049aa85d144",
+          "51d274b0d1a5d97904afe491",
+          "a2658efa6ab750c7c849c840",
+          "a82acb51469aeaa352afe6b1",
+          "8dec8b7a330a33b15a6f69bc",
+          "5057e7c57b856bcba2d90649",
+          "242e559a22986e7e727cb5cf",
+          "ef5910db190a54d59620e49e",
+          "8cc430ca5c4b2140edbd4c66",
+          "f9e6f7d8cb6d309dc705acdf",
+          "a4279aaf002259627cfa78f4",
+          "2e5ccd4afa37f858f229cd76",
+          "c12a9d039cab2344f8de0e3f",
+          "c259fca4806efb76c4c5c7d4",
+          "3cbf5ff6ac9198e765d98bab",
+          "8a61cffef946381ef70aed9c",
+          "2db9089615f22df0870ac530",
+          "24f1673b1e0c84876d75a021",
+          "29e23a77f0ee7e12cc97899b",
+          "b2f915206c677bb1ecd31685",
+          "d95711b0e3cbb32688190617",
+          "65faeaac8e700fc3dab737a1",
+          "b9d7ec38838f4722f392eb1a",
+          "69465f14a617cc13805e18c8",
+          "e1e081949a4c776d9955ef07",
+          "1931aae9693413e99087f8bd",
+          "34a072737224d0732535e539",
+          "7a7c90511886a4d0fa99d0d3"
+        ]
+      },
       "introduction": "What kind of power can be expressed through captivity, bodily weakness and a willingness to suffer for the freedom of others? These readings invite that question before they unfold their language of sovereignty, creative utterance and the renewal of the world. The Manifestation appears as a divine Educator whose influence reaches into character, understanding and the relationships among peoples; images of sunlight, a cultivated garden and latent warmth describe capacities brought to life. Claims of miraculous power stand beside careful distinctions about what reported wonders can prove, what scriptural images may mean, and why inward sight and enduring life matter. The collection also holds together declarations of authority and accounts of forbearance, hidden splendor and a response that cannot simply be compelled. Its letters, prayers, explanations and recollections speak from different settings, and their attributions help keep those voices distinct. The neighboring subjects of the Manifestation’s station, the voice of Divinity, divine omnipotence and the Word of God invite a closer reading of the relationship between the human person and divine revelation. John’s prologue and the encounter of Jesus with Pilate offer further occasions to examine life, recognition and sovereignty. As the sequence returns to service and remembrance, the question becomes personal: what would it mean for the power described here to bear fruit in the way we learn, act and live with one another?",
       "arc": "Power that gives life → The fruits of education → Miracles, evidence and recognition → The station of the divine Educator → A word that renews creation → The promise and the voice → Capacity, veils and the act of seeing → Sovereignty and its purpose → The call from within captivity → Encounters and recollections → An influence that continues → Receiving power through service → Further supplied readings",
       "order": [
@@ -89,10 +395,6 @@
           "why": "Move from the work of an educator to changes in character, capacity and relationships, ending with the possibility of a receptive response."
         },
         {
-          "key": "source:AB08403",
-          "why": "Move from the work of an educator to changes in character, capacity and relationships, ending with the possibility of a receptive response."
-        },
-        {
           "key": "source:AB02558",
           "why": "Move from the work of an educator to changes in character, capacity and relationships, ending with the possibility of a receptive response."
         },
@@ -129,15 +431,7 @@
           "why": "Move from the work of an educator to changes in character, capacity and relationships, ending with the possibility of a receptive response."
         },
         {
-          "key": "source:ABU1857",
-          "why": "Move from the work of an educator to changes in character, capacity and relationships, ending with the possibility of a receptive response."
-        },
-        {
           "key": "source:ABU3025",
-          "why": "Move from the work of an educator to changes in character, capacity and relationships, ending with the possibility of a receptive response."
-        },
-        {
-          "key": "source:AB02617",
           "why": "Move from the work of an educator to changes in character, capacity and relationships, ending with the possibility of a receptive response."
         },
         {
@@ -217,10 +511,6 @@
           "why": "Keep assertions of miraculous power beside the distinctions concerning testimony, interpretation and enduring effects; then consider knowledge, revelation and the freedom of future Manifestations."
         },
         {
-          "key": "source:BHU0027",
-          "why": "Keep assertions of miraculous power beside the distinctions concerning testimony, interpretation and enduring effects; then consider knowledge, revelation and the freedom of future Manifestations."
-        },
-        {
           "key": "source:ABU2440",
           "why": "Keep assertions of miraculous power beside the distinctions concerning testimony, interpretation and enduring effects; then consider knowledge, revelation and the freedom of future Manifestations."
         },
@@ -249,10 +539,6 @@
           "why": "Keep assertions of miraculous power beside the distinctions concerning testimony, interpretation and enduring effects; then consider knowledge, revelation and the freedom of future Manifestations."
         },
         {
-          "key": "source:ABU2515",
-          "why": "Keep assertions of miraculous power beside the distinctions concerning testimony, interpretation and enduring effects; then consider knowledge, revelation and the freedom of future Manifestations."
-        },
-        {
           "key": "source:BB00014",
           "why": "Keep assertions of miraculous power beside the distinctions concerning testimony, interpretation and enduring effects; then consider knowledge, revelation and the freedom of future Manifestations."
         },
@@ -266,10 +552,6 @@
         },
         {
           "key": "source:BH00004",
-          "why": "Keep assertions of miraculous power beside the distinctions concerning testimony, interpretation and enduring effects; then consider knowledge, revelation and the freedom of future Manifestations."
-        },
-        {
-          "key": "source:BH03877",
           "why": "Keep assertions of miraculous power beside the distinctions concerning testimony, interpretation and enduring effects; then consider knowledge, revelation and the freedom of future Manifestations."
         },
         {
@@ -377,10 +659,6 @@
           "why": "Explore the relation of human life, the Word and divine manifestation, keeping the sources’ distinctions and their particular prophetic addresses visible."
         },
         {
-          "key": "source:BB00233",
-          "why": "Explore the relation of human life, the Word and divine manifestation, keeping the sources’ distinctions and their particular prophetic addresses visible."
-        },
-        {
           "key": "source:BB00107",
           "why": "Explore the relation of human life, the Word and divine manifestation, keeping the sources’ distinctions and their particular prophetic addresses visible."
         },
@@ -441,10 +719,6 @@
           "why": "Follow the images of the letter, sun, ocean and creative command from the power of utterance to its effects throughout existence."
         },
         {
-          "key": "source:ABU0227",
-          "why": "Follow the images of the letter, sun, ocean and creative command from the power of utterance to its effects throughout existence."
-        },
-        {
           "key": "source:BH02437",
           "why": "Follow the images of the letter, sun, ocean and creative command from the power of utterance to its effects throughout existence."
         },
@@ -466,18 +740,6 @@
         },
         {
           "key": "source:BH09941",
-          "why": "Follow the images of the letter, sun, ocean and creative command from the power of utterance to its effects throughout existence."
-        },
-        {
-          "key": "source:BH10107",
-          "why": "Follow the images of the letter, sun, ocean and creative command from the power of utterance to its effects throughout existence."
-        },
-        {
-          "key": "source:BH10602",
-          "why": "Follow the images of the letter, sun, ocean and creative command from the power of utterance to its effects throughout existence."
-        },
-        {
-          "key": "source:BH04143",
           "why": "Follow the images of the letter, sun, ocean and creative command from the power of utterance to its effects throughout existence."
         },
         {
@@ -517,19 +779,7 @@
           "why": "Follow the images of the letter, sun, ocean and creative command from the power of utterance to its effects throughout existence."
         },
         {
-          "key": "source:BH01810",
-          "why": "Follow the images of the letter, sun, ocean and creative command from the power of utterance to its effects throughout existence."
-        },
-        {
           "key": "source:BH02632",
-          "why": "Follow the images of the letter, sun, ocean and creative command from the power of utterance to its effects throughout existence."
-        },
-        {
-          "key": "source:BH01876",
-          "why": "Follow the images of the letter, sun, ocean and creative command from the power of utterance to its effects throughout existence."
-        },
-        {
-          "key": "source:BH06600",
           "why": "Follow the images of the letter, sun, ocean and creative command from the power of utterance to its effects throughout existence."
         },
         {
@@ -538,10 +788,6 @@
         },
         {
           "key": "source:BH03005",
-          "why": "Follow the images of the letter, sun, ocean and creative command from the power of utterance to its effects throughout existence."
-        },
-        {
-          "key": "source:BH10562",
           "why": "Follow the images of the letter, sun, ocean and creative command from the power of utterance to its effects throughout existence."
         },
         {
@@ -554,10 +800,6 @@
         },
         {
           "key": "source:BH01363",
-          "why": "Follow the images of the letter, sun, ocean and creative command from the power of utterance to its effects throughout existence."
-        },
-        {
-          "key": "source:AB03270",
           "why": "Follow the images of the letter, sun, ocean and creative command from the power of utterance to its effects throughout existence."
         },
         {
@@ -581,10 +823,6 @@
           "why": "Read the declarations of fulfillment in relation to earlier revelation, then the recurring images of divine sovereignty and the call addressed to the world."
         },
         {
-          "key": "source:BH04385",
-          "why": "Read the declarations of fulfillment in relation to earlier revelation, then the recurring images of divine sovereignty and the call addressed to the world."
-        },
-        {
           "key": "source:BH01775",
           "why": "Read the declarations of fulfillment in relation to earlier revelation, then the recurring images of divine sovereignty and the call addressed to the world."
         },
@@ -593,23 +831,11 @@
           "why": "Read the declarations of fulfillment in relation to earlier revelation, then the recurring images of divine sovereignty and the call addressed to the world."
         },
         {
-          "key": "source:BH09422",
-          "why": "Read the declarations of fulfillment in relation to earlier revelation, then the recurring images of divine sovereignty and the call addressed to the world."
-        },
-        {
           "key": "source:BH08321",
           "why": "Read the declarations of fulfillment in relation to earlier revelation, then the recurring images of divine sovereignty and the call addressed to the world."
         },
         {
-          "key": "source:BH09454",
-          "why": "Read the declarations of fulfillment in relation to earlier revelation, then the recurring images of divine sovereignty and the call addressed to the world."
-        },
-        {
           "key": "source:BH04388",
-          "why": "Read the declarations of fulfillment in relation to earlier revelation, then the recurring images of divine sovereignty and the call addressed to the world."
-        },
-        {
-          "key": "source:BH11161",
           "why": "Read the declarations of fulfillment in relation to earlier revelation, then the recurring images of divine sovereignty and the call addressed to the world."
         },
         {
@@ -645,19 +871,7 @@
           "why": "Read the declarations of fulfillment in relation to earlier revelation, then the recurring images of divine sovereignty and the call addressed to the world."
         },
         {
-          "key": "source:BH07138",
-          "why": "Read the declarations of fulfillment in relation to earlier revelation, then the recurring images of divine sovereignty and the call addressed to the world."
-        },
-        {
-          "key": "source:BH09419",
-          "why": "Read the declarations of fulfillment in relation to earlier revelation, then the recurring images of divine sovereignty and the call addressed to the world."
-        },
-        {
           "key": "source:BH06384",
-          "why": "Read the declarations of fulfillment in relation to earlier revelation, then the recurring images of divine sovereignty and the call addressed to the world."
-        },
-        {
-          "key": "source:BH08039",
           "why": "Read the declarations of fulfillment in relation to earlier revelation, then the recurring images of divine sovereignty and the call addressed to the world."
         },
         {
@@ -673,55 +887,7 @@
           "why": "Read the declarations of fulfillment in relation to earlier revelation, then the recurring images of divine sovereignty and the call addressed to the world."
         },
         {
-          "key": "source:BH08038",
-          "why": "Read the declarations of fulfillment in relation to earlier revelation, then the recurring images of divine sovereignty and the call addressed to the world."
-        },
-        {
-          "key": "source:BH05268",
-          "why": "Read the declarations of fulfillment in relation to earlier revelation, then the recurring images of divine sovereignty and the call addressed to the world."
-        },
-        {
           "key": "source:BH06498",
-          "why": "Read the declarations of fulfillment in relation to earlier revelation, then the recurring images of divine sovereignty and the call addressed to the world."
-        },
-        {
-          "key": "source:BH10892",
-          "why": "Read the declarations of fulfillment in relation to earlier revelation, then the recurring images of divine sovereignty and the call addressed to the world."
-        },
-        {
-          "key": "source:BH04682",
-          "why": "Read the declarations of fulfillment in relation to earlier revelation, then the recurring images of divine sovereignty and the call addressed to the world."
-        },
-        {
-          "key": "source:BH02804",
-          "why": "Read the declarations of fulfillment in relation to earlier revelation, then the recurring images of divine sovereignty and the call addressed to the world."
-        },
-        {
-          "key": "source:BH07075",
-          "why": "Read the declarations of fulfillment in relation to earlier revelation, then the recurring images of divine sovereignty and the call addressed to the world."
-        },
-        {
-          "key": "source:BH00954",
-          "why": "Read the declarations of fulfillment in relation to earlier revelation, then the recurring images of divine sovereignty and the call addressed to the world."
-        },
-        {
-          "key": "source:BH02115",
-          "why": "Read the declarations of fulfillment in relation to earlier revelation, then the recurring images of divine sovereignty and the call addressed to the world."
-        },
-        {
-          "key": "source:AB01633",
-          "why": "Read the declarations of fulfillment in relation to earlier revelation, then the recurring images of divine sovereignty and the call addressed to the world."
-        },
-        {
-          "key": "source:BH05088",
-          "why": "Read the declarations of fulfillment in relation to earlier revelation, then the recurring images of divine sovereignty and the call addressed to the world."
-        },
-        {
-          "key": "source:BH06918",
-          "why": "Read the declarations of fulfillment in relation to earlier revelation, then the recurring images of divine sovereignty and the call addressed to the world."
-        },
-        {
-          "key": "source:BH09529",
           "why": "Read the declarations of fulfillment in relation to earlier revelation, then the recurring images of divine sovereignty and the call addressed to the world."
         },
         {
@@ -737,15 +903,7 @@
           "why": "Read the declarations of fulfillment in relation to earlier revelation, then the recurring images of divine sovereignty and the call addressed to the world."
         },
         {
-          "key": "source:BH06767",
-          "why": "Read the declarations of fulfillment in relation to earlier revelation, then the recurring images of divine sovereignty and the call addressed to the world."
-        },
-        {
           "key": "source:BH05606",
-          "why": "Read the declarations of fulfillment in relation to earlier revelation, then the recurring images of divine sovereignty and the call addressed to the world."
-        },
-        {
-          "key": "source:BH06712",
           "why": "Read the declarations of fulfillment in relation to earlier revelation, then the recurring images of divine sovereignty and the call addressed to the world."
         },
         {
@@ -754,22 +912,6 @@
         },
         {
           "key": "source:BH09980",
-          "why": "Read the declarations of fulfillment in relation to earlier revelation, then the recurring images of divine sovereignty and the call addressed to the world."
-        },
-        {
-          "key": "source:BH10108",
-          "why": "Read the declarations of fulfillment in relation to earlier revelation, then the recurring images of divine sovereignty and the call addressed to the world."
-        },
-        {
-          "key": "source:BH09701",
-          "why": "Read the declarations of fulfillment in relation to earlier revelation, then the recurring images of divine sovereignty and the call addressed to the world."
-        },
-        {
-          "key": "source:BH09564",
-          "why": "Read the declarations of fulfillment in relation to earlier revelation, then the recurring images of divine sovereignty and the call addressed to the world."
-        },
-        {
-          "key": "source:BH08229",
           "why": "Read the declarations of fulfillment in relation to earlier revelation, then the recurring images of divine sovereignty and the call addressed to the world."
         },
         {
@@ -785,15 +927,7 @@
           "why": "Read the declarations of fulfillment in relation to earlier revelation, then the recurring images of divine sovereignty and the call addressed to the world."
         },
         {
-          "key": "source:BH05503",
-          "why": "Read the declarations of fulfillment in relation to earlier revelation, then the recurring images of divine sovereignty and the call addressed to the world."
-        },
-        {
           "key": "source:BH05763",
-          "why": "Read the declarations of fulfillment in relation to earlier revelation, then the recurring images of divine sovereignty and the call addressed to the world."
-        },
-        {
-          "key": "source:AB12097",
           "why": "Read the declarations of fulfillment in relation to earlier revelation, then the recurring images of divine sovereignty and the call addressed to the world."
         },
         {
@@ -821,10 +955,6 @@
           "why": "Place the language of concealed power beside recognition, resistance and the invitation to look anew, preserving the difference between a declaration and its reception."
         },
         {
-          "key": "source:BH02673",
-          "why": "Place the language of concealed power beside recognition, resistance and the invitation to look anew, preserving the difference between a declaration and its reception."
-        },
-        {
           "key": "source:BH02458",
           "why": "Place the language of concealed power beside recognition, resistance and the invitation to look anew, preserving the difference between a declaration and its reception."
         },
@@ -837,15 +967,7 @@
           "why": "Place the language of concealed power beside recognition, resistance and the invitation to look anew, preserving the difference between a declaration and its reception."
         },
         {
-          "key": "source:BH07149",
-          "why": "Place the language of concealed power beside recognition, resistance and the invitation to look anew, preserving the difference between a declaration and its reception."
-        },
-        {
           "key": "source:BH07255",
-          "why": "Place the language of concealed power beside recognition, resistance and the invitation to look anew, preserving the difference between a declaration and its reception."
-        },
-        {
-          "key": "source:BH06642",
           "why": "Place the language of concealed power beside recognition, resistance and the invitation to look anew, preserving the difference between a declaration and its reception."
         },
         {
@@ -885,23 +1007,11 @@
           "why": "Place the language of concealed power beside recognition, resistance and the invitation to look anew, preserving the difference between a declaration and its reception."
         },
         {
-          "key": "source:BH03561",
-          "why": "Place the language of concealed power beside recognition, resistance and the invitation to look anew, preserving the difference between a declaration and its reception."
-        },
-        {
           "key": "source:BH04759",
           "why": "Place the language of concealed power beside recognition, resistance and the invitation to look anew, preserving the difference between a declaration and its reception."
         },
         {
           "key": "source:BH04789",
-          "why": "Place the language of concealed power beside recognition, resistance and the invitation to look anew, preserving the difference between a declaration and its reception."
-        },
-        {
-          "key": "source:BH04893",
-          "why": "Place the language of concealed power beside recognition, resistance and the invitation to look anew, preserving the difference between a declaration and its reception."
-        },
-        {
-          "key": "source:BH06539",
           "why": "Place the language of concealed power beside recognition, resistance and the invitation to look anew, preserving the difference between a declaration and its reception."
         },
         {
@@ -921,10 +1031,6 @@
           "why": "Gather statements of freedom and authority with the explanations of forbearance, mercy and release from self, returning power to its stated purpose."
         },
         {
-          "key": "source:BH01975",
-          "why": "Gather statements of freedom and authority with the explanations of forbearance, mercy and release from self, returning power to its stated purpose."
-        },
-        {
           "key": "source:BH02038",
           "why": "Gather statements of freedom and authority with the explanations of forbearance, mercy and release from self, returning power to its stated purpose."
         },
@@ -933,27 +1039,7 @@
           "why": "Gather statements of freedom and authority with the explanations of forbearance, mercy and release from self, returning power to its stated purpose."
         },
         {
-          "key": "source:BH03862",
-          "why": "Gather statements of freedom and authority with the explanations of forbearance, mercy and release from self, returning power to its stated purpose."
-        },
-        {
           "key": "source:BH04231",
-          "why": "Gather statements of freedom and authority with the explanations of forbearance, mercy and release from self, returning power to its stated purpose."
-        },
-        {
-          "key": "source:BH05398",
-          "why": "Gather statements of freedom and authority with the explanations of forbearance, mercy and release from self, returning power to its stated purpose."
-        },
-        {
-          "key": "source:BH05911",
-          "why": "Gather statements of freedom and authority with the explanations of forbearance, mercy and release from self, returning power to its stated purpose."
-        },
-        {
-          "key": "source:BH09067",
-          "why": "Gather statements of freedom and authority with the explanations of forbearance, mercy and release from self, returning power to its stated purpose."
-        },
-        {
-          "key": "source:BH08642",
           "why": "Gather statements of freedom and authority with the explanations of forbearance, mercy and release from self, returning power to its stated purpose."
         },
         {
@@ -973,31 +1059,7 @@
           "why": "Gather statements of freedom and authority with the explanations of forbearance, mercy and release from self, returning power to its stated purpose."
         },
         {
-          "key": "source:BH03852",
-          "why": "Gather statements of freedom and authority with the explanations of forbearance, mercy and release from self, returning power to its stated purpose."
-        },
-        {
-          "key": "source:BH05549",
-          "why": "Gather statements of freedom and authority with the explanations of forbearance, mercy and release from self, returning power to its stated purpose."
-        },
-        {
           "key": "source:BH11157",
-          "why": "Gather statements of freedom and authority with the explanations of forbearance, mercy and release from self, returning power to its stated purpose."
-        },
-        {
-          "key": "source:BH05747",
-          "why": "Gather statements of freedom and authority with the explanations of forbearance, mercy and release from self, returning power to its stated purpose."
-        },
-        {
-          "key": "source:BH04371",
-          "why": "Gather statements of freedom and authority with the explanations of forbearance, mercy and release from self, returning power to its stated purpose."
-        },
-        {
-          "key": "source:BH08045",
-          "why": "Gather statements of freedom and authority with the explanations of forbearance, mercy and release from self, returning power to its stated purpose."
-        },
-        {
-          "key": "source:BH05713",
           "why": "Gather statements of freedom and authority with the explanations of forbearance, mercy and release from self, returning power to its stated purpose."
         },
         {
@@ -1018,14 +1080,6 @@
         },
         {
           "key": "source:BH06101",
-          "why": "Gather statements of freedom and authority with the explanations of forbearance, mercy and release from self, returning power to its stated purpose."
-        },
-        {
-          "key": "source:BH02917",
-          "why": "Gather statements of freedom and authority with the explanations of forbearance, mercy and release from self, returning power to its stated purpose."
-        },
-        {
-          "key": "source:BH00936",
           "why": "Gather statements of freedom and authority with the explanations of forbearance, mercy and release from self, returning power to its stated purpose."
         },
         {
@@ -1054,10 +1108,6 @@
         },
         {
           "key": "source:BH09463",
-          "why": "Trace remembrance, proclamation and steadfastness through prison, exile and opposition, keeping these accounts grounded in the texts’ own descriptions."
-        },
-        {
-          "key": "source:BH10311",
           "why": "Trace remembrance, proclamation and steadfastness through prison, exile and opposition, keeping these accounts grounded in the texts’ own descriptions."
         },
         {
@@ -1129,10 +1179,6 @@
           "why": "Trace remembrance, proclamation and steadfastness through prison, exile and opposition, keeping these accounts grounded in the texts’ own descriptions."
         },
         {
-          "key": "source:ABU1151",
-          "why": "Trace remembrance, proclamation and steadfastness through prison, exile and opposition, keeping these accounts grounded in the texts’ own descriptions."
-        },
-        {
           "key": "source:ABU0198",
           "why": "Trace remembrance, proclamation and steadfastness through prison, exile and opposition, keeping these accounts grounded in the texts’ own descriptions."
         },
@@ -1141,43 +1187,11 @@
           "why": "Trace remembrance, proclamation and steadfastness through prison, exile and opposition, keeping these accounts grounded in the texts’ own descriptions."
         },
         {
-          "key": "source:BH05680",
-          "why": "Trace remembrance, proclamation and steadfastness through prison, exile and opposition, keeping these accounts grounded in the texts’ own descriptions."
-        },
-        {
-          "key": "source:BH08599",
-          "why": "Trace remembrance, proclamation and steadfastness through prison, exile and opposition, keeping these accounts grounded in the texts’ own descriptions."
-        },
-        {
           "key": "source:BH03494",
           "why": "Trace remembrance, proclamation and steadfastness through prison, exile and opposition, keeping these accounts grounded in the texts’ own descriptions."
         },
         {
-          "key": "source:BH06820",
-          "why": "Trace remembrance, proclamation and steadfastness through prison, exile and opposition, keeping these accounts grounded in the texts’ own descriptions."
-        },
-        {
-          "key": "source:BH08900",
-          "why": "Trace remembrance, proclamation and steadfastness through prison, exile and opposition, keeping these accounts grounded in the texts’ own descriptions."
-        },
-        {
           "key": "source:BH09536",
-          "why": "Trace remembrance, proclamation and steadfastness through prison, exile and opposition, keeping these accounts grounded in the texts’ own descriptions."
-        },
-        {
-          "key": "source:BH07018",
-          "why": "Trace remembrance, proclamation and steadfastness through prison, exile and opposition, keeping these accounts grounded in the texts’ own descriptions."
-        },
-        {
-          "key": "source:BH08914",
-          "why": "Trace remembrance, proclamation and steadfastness through prison, exile and opposition, keeping these accounts grounded in the texts’ own descriptions."
-        },
-        {
-          "key": "source:BH06059",
-          "why": "Trace remembrance, proclamation and steadfastness through prison, exile and opposition, keeping these accounts grounded in the texts’ own descriptions."
-        },
-        {
-          "key": "source:BH02221",
           "why": "Trace remembrance, proclamation and steadfastness through prison, exile and opposition, keeping these accounts grounded in the texts’ own descriptions."
         },
         {
@@ -1193,10 +1207,6 @@
           "why": "Trace remembrance, proclamation and steadfastness through prison, exile and opposition, keeping these accounts grounded in the texts’ own descriptions."
         },
         {
-          "key": "source:BH08148",
-          "why": "Trace remembrance, proclamation and steadfastness through prison, exile and opposition, keeping these accounts grounded in the texts’ own descriptions."
-        },
-        {
           "key": "source:BH05828",
           "why": "Trace remembrance, proclamation and steadfastness through prison, exile and opposition, keeping these accounts grounded in the texts’ own descriptions."
         },
@@ -1206,10 +1216,6 @@
         },
         {
           "key": "source:BH02044",
-          "why": "Trace remembrance, proclamation and steadfastness through prison, exile and opposition, keeping these accounts grounded in the texts’ own descriptions."
-        },
-        {
-          "key": "source:BH05890",
           "why": "Trace remembrance, proclamation and steadfastness through prison, exile and opposition, keeping these accounts grounded in the texts’ own descriptions."
         },
         {
@@ -1249,10 +1255,6 @@
           "why": "Let concrete recollections of composure, daily life, learning and public encounters give human detail to the preceding declarations; preserve each account’s attribution."
         },
         {
-          "key": "source:ABU0296",
-          "why": "Let concrete recollections of composure, daily life, learning and public encounters give human detail to the preceding declarations; preserve each account’s attribution."
-        },
-        {
           "key": "source:ABU2005",
           "why": "Let concrete recollections of composure, daily life, learning and public encounters give human detail to the preceding declarations; preserve each account’s attribution."
         },
@@ -1262,18 +1264,6 @@
         },
         {
           "key": "source:ABU2002",
-          "why": "Let concrete recollections of composure, daily life, learning and public encounters give human detail to the preceding declarations; preserve each account’s attribution."
-        },
-        {
-          "key": "source:ABU2051",
-          "why": "Let concrete recollections of composure, daily life, learning and public encounters give human detail to the preceding declarations; preserve each account’s attribution."
-        },
-        {
-          "key": "source:BH01044",
-          "why": "Let concrete recollections of composure, daily life, learning and public encounters give human detail to the preceding declarations; preserve each account’s attribution."
-        },
-        {
-          "key": "source:BH01155",
           "why": "Let concrete recollections of composure, daily life, learning and public encounters give human detail to the preceding declarations; preserve each account’s attribution."
         },
         {
@@ -1301,10 +1291,6 @@
           "why": "Move from the persistence of Christ’s influence to images of a light whose setting does not end its gifts, and then to remembrance and renewed life."
         },
         {
-          "key": "source:AB07497",
-          "why": "Move from the persistence of Christ’s influence to images of a light whose setting does not end its gifts, and then to remembrance and renewed life."
-        },
-        {
           "key": "source:ABU1201",
           "why": "Move from the persistence of Christ’s influence to images of a light whose setting does not end its gifts, and then to remembrance and renewed life."
         },
@@ -1317,10 +1303,6 @@
           "why": "Move from the persistence of Christ’s influence to images of a light whose setting does not end its gifts, and then to remembrance and renewed life."
         },
         {
-          "key": "source:AB03728",
-          "why": "Move from the persistence of Christ’s influence to images of a light whose setting does not end its gifts, and then to remembrance and renewed life."
-        },
-        {
           "key": "source:AB04441",
           "why": "Move from the persistence of Christ’s influence to images of a light whose setting does not end its gifts, and then to remembrance and renewed life."
         },
@@ -1330,10 +1312,6 @@
         },
         {
           "key": "source:AB05730",
-          "why": "Move from the persistence of Christ’s influence to images of a light whose setting does not end its gifts, and then to remembrance and renewed life."
-        },
-        {
-          "key": "source:ABU0750",
           "why": "Move from the persistence of Christ’s influence to images of a light whose setting does not end its gifts, and then to remembrance and renewed life."
         },
         {
@@ -1357,39 +1335,11 @@
           "why": "Move from the persistence of Christ’s influence to images of a light whose setting does not end its gifts, and then to remembrance and renewed life."
         },
         {
-          "key": "source:AB07978",
-          "why": "Move from the persistence of Christ’s influence to images of a light whose setting does not end its gifts, and then to remembrance and renewed life."
-        },
-        {
-          "key": "source:AB09187",
-          "why": "Move from the persistence of Christ’s influence to images of a light whose setting does not end its gifts, and then to remembrance and renewed life."
-        },
-        {
-          "key": "source:AB06222",
-          "why": "Move from the persistence of Christ’s influence to images of a light whose setting does not end its gifts, and then to remembrance and renewed life."
-        },
-        {
-          "key": "source:BH03736",
-          "why": "Move from the persistence of Christ’s influence to images of a light whose setting does not end its gifts, and then to remembrance and renewed life."
-        },
-        {
           "key": "source:BH04292",
           "why": "Move from the persistence of Christ’s influence to images of a light whose setting does not end its gifts, and then to remembrance and renewed life."
         },
         {
           "key": "source:BH09048",
-          "why": "Move from the persistence of Christ’s influence to images of a light whose setting does not end its gifts, and then to remembrance and renewed life."
-        },
-        {
-          "key": "source:BH10961",
-          "why": "Move from the persistence of Christ’s influence to images of a light whose setting does not end its gifts, and then to remembrance and renewed life."
-        },
-        {
-          "key": "source:BH11193",
-          "why": "Move from the persistence of Christ’s influence to images of a light whose setting does not end its gifts, and then to remembrance and renewed life."
-        },
-        {
-          "key": "source:BH11170",
           "why": "Move from the persistence of Christ’s influence to images of a light whose setting does not end its gifts, and then to remembrance and renewed life."
         },
         {
@@ -1401,16 +1351,8 @@
           "why": "Identify ‘Abdu’l-Bahá’s account of his own service, without equating his station with that of a Manifestation."
         },
         {
-          "key": "source:ABU3030",
-          "why": "Turn toward the reader’s response: service, remembrance, steadfastness, prayer and love. Let personal encouragement and the invitation to God close the linked readings."
-        },
-        {
           "key": "source:ABU1058",
           "why": "Turn toward the reader’s response: service, remembrance, steadfastness, prayer and love. Let personal encouragement and the invitation to God close the linked readings."
-        },
-        {
-          "key": "source:BH02189",
-          "why": "Keep the address to a martyr as testimony to the effects of love and steadfastness, with its own attribution."
         },
         {
           "key": "source:AB03577",
@@ -1422,10 +1364,6 @@
         },
         {
           "key": "source:BH02265",
-          "why": "Turn toward the reader’s response: service, remembrance, steadfastness, prayer and love. Let personal encouragement and the invitation to God close the linked readings."
-        },
-        {
-          "key": "source:BH08457",
           "why": "Turn toward the reader’s response: service, remembrance, steadfastness, prayer and love. Let personal encouragement and the invitation to God close the linked readings."
         },
         {
@@ -1469,35 +1407,7 @@
           "why": "Turn toward the reader’s response: service, remembrance, steadfastness, prayer and love. Let personal encouragement and the invitation to God close the linked readings."
         },
         {
-          "key": "source:BH04902",
-          "why": "Turn toward the reader’s response: service, remembrance, steadfastness, prayer and love. Let personal encouragement and the invitation to God close the linked readings."
-        },
-        {
-          "key": "source:BH11669",
-          "why": "Turn toward the reader’s response: service, remembrance, steadfastness, prayer and love. Let personal encouragement and the invitation to God close the linked readings."
-        },
-        {
-          "key": "source:BH03381",
-          "why": "Turn toward the reader’s response: service, remembrance, steadfastness, prayer and love. Let personal encouragement and the invitation to God close the linked readings."
-        },
-        {
           "key": "source:BH03225",
-          "why": "Turn toward the reader’s response: service, remembrance, steadfastness, prayer and love. Let personal encouragement and the invitation to God close the linked readings."
-        },
-        {
-          "key": "source:BH07064",
-          "why": "Turn toward the reader’s response: service, remembrance, steadfastness, prayer and love. Let personal encouragement and the invitation to God close the linked readings."
-        },
-        {
-          "key": "source:BH08203",
-          "why": "Turn toward the reader’s response: service, remembrance, steadfastness, prayer and love. Let personal encouragement and the invitation to God close the linked readings."
-        },
-        {
-          "key": "source:BH09935",
-          "why": "Turn toward the reader’s response: service, remembrance, steadfastness, prayer and love. Let personal encouragement and the invitation to God close the linked readings."
-        },
-        {
-          "key": "source:BH11147",
           "why": "Turn toward the reader’s response: service, remembrance, steadfastness, prayer and love. Let personal encouragement and the invitation to God close the linked readings."
         },
         {
@@ -1517,23 +1427,7 @@
           "why": "Turn toward the reader’s response: service, remembrance, steadfastness, prayer and love. Let personal encouragement and the invitation to God close the linked readings."
         },
         {
-          "key": "source:BH08782",
-          "why": "Turn toward the reader’s response: service, remembrance, steadfastness, prayer and love. Let personal encouragement and the invitation to God close the linked readings."
-        },
-        {
-          "key": "source:BH07246",
-          "why": "Turn toward the reader’s response: service, remembrance, steadfastness, prayer and love. Let personal encouragement and the invitation to God close the linked readings."
-        },
-        {
           "key": "source:BH10545",
-          "why": "Turn toward the reader’s response: service, remembrance, steadfastness, prayer and love. Let personal encouragement and the invitation to God close the linked readings."
-        },
-        {
-          "key": "source:BH07197",
-          "why": "Turn toward the reader’s response: service, remembrance, steadfastness, prayer and love. Let personal encouragement and the invitation to God close the linked readings."
-        },
-        {
-          "key": "source:BH08682",
           "why": "Turn toward the reader’s response: service, remembrance, steadfastness, prayer and love. Let personal encouragement and the invitation to God close the linked readings."
         },
         {
@@ -1557,10 +1451,6 @@
           "why": "Turn toward the reader’s response: service, remembrance, steadfastness, prayer and love. Let personal encouragement and the invitation to God close the linked readings."
         },
         {
-          "key": "source:BH05910",
-          "why": "Turn toward the reader’s response: service, remembrance, steadfastness, prayer and love. Let personal encouragement and the invitation to God close the linked readings."
-        },
-        {
           "key": "source:BH04369",
           "why": "Turn toward the reader’s response: service, remembrance, steadfastness, prayer and love. Let personal encouragement and the invitation to God close the linked readings."
         },
@@ -1577,35 +1467,7 @@
           "why": "Turn toward the reader’s response: service, remembrance, steadfastness, prayer and love. Let personal encouragement and the invitation to God close the linked readings."
         },
         {
-          "key": "source:BH01127",
-          "why": "Turn toward the reader’s response: service, remembrance, steadfastness, prayer and love. Let personal encouragement and the invitation to God close the linked readings."
-        },
-        {
-          "key": "source:BH09375",
-          "why": "Turn toward the reader’s response: service, remembrance, steadfastness, prayer and love. Let personal encouragement and the invitation to God close the linked readings."
-        },
-        {
           "key": "source:BB00248",
-          "why": "Turn toward the reader’s response: service, remembrance, steadfastness, prayer and love. Let personal encouragement and the invitation to God close the linked readings."
-        },
-        {
-          "key": "source:BH01724",
-          "why": "Turn toward the reader’s response: service, remembrance, steadfastness, prayer and love. Let personal encouragement and the invitation to God close the linked readings."
-        },
-        {
-          "key": "source:BH06446",
-          "why": "Turn toward the reader’s response: service, remembrance, steadfastness, prayer and love. Let personal encouragement and the invitation to God close the linked readings."
-        },
-        {
-          "key": "source:BH08527",
-          "why": "Turn toward the reader’s response: service, remembrance, steadfastness, prayer and love. Let personal encouragement and the invitation to God close the linked readings."
-        },
-        {
-          "key": "source:BH10105",
-          "why": "Turn toward the reader’s response: service, remembrance, steadfastness, prayer and love. Let personal encouragement and the invitation to God close the linked readings."
-        },
-        {
-          "key": "source:BH07949",
           "why": "Turn toward the reader’s response: service, remembrance, steadfastness, prayer and love. Let personal encouragement and the invitation to God close the linked readings."
         },
         {
@@ -1617,19 +1479,7 @@
           "why": "Retain the separately supplied texts and their own translations and references, revisiting the Word, miracles, power and human capacity without merging them into catalogue passages."
         },
         {
-          "key": "selection:f64f23e11d739f2289be24d9",
-          "why": "Retain the separately supplied texts and their own translations and references, revisiting the Word, miracles, power and human capacity without merging them into catalogue passages."
-        },
-        {
           "key": "selection:7a7c90511886a4d0fa99d0d3",
-          "why": "Retain the separately supplied texts and their own translations and references, revisiting the Word, miracles, power and human capacity without merging them into catalogue passages."
-        },
-        {
-          "key": "selection:d0bfffe9d86e5680aff0d8f8",
-          "why": "Retain the separately supplied texts and their own translations and references, revisiting the Word, miracles, power and human capacity without merging them into catalogue passages."
-        },
-        {
-          "key": "selection:7f63b3b25ce549e9df801e13",
           "why": "Retain the separately supplied texts and their own translations and references, revisiting the Word, miracles, power and human capacity without merging them into catalogue passages."
         },
         {
@@ -1643,10 +1493,6 @@
         {
           "key": "selection:1931aae9693413e99087f8bd",
           "why": "Retain the separately supplied texts and their own translations and references, revisiting the Word, miracles, power and human capacity without merging them into catalogue passages."
-        },
-        {
-          "key": "selection:cdd6ac647fecaf0a955cddd2",
-          "why": "Restore the two exact fragments to complete sentences in their explicitly cited source while preserving their approximate-reference status."
         }
       ],
       "questions": [

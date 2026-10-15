@@ -18,6 +18,7 @@ import {parsePeriodRenaming,renamePeriods,requireCompletePeriodRenaming} from '.
 import {buildVolumes} from './build-volumes.mjs';
 import {fingerprint} from './deployment-cache.mjs';
 import {reusableBuild,unzip,affectedBuckets,mergeShard,refreshSubjectMetadata} from './incremental-build.mjs';
+import {decodeSource} from './source-encoding.mjs';
 
 const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
 const out=path.join(root,'dist');
@@ -26,11 +27,13 @@ const corpus=path.join(out,dataset);
 const report={encodings:{utf8:0,windows1252:[]},metadataRows:0,duplicateMetadata:[],missingOriginal:[],missingEnglish:[],metadataOnly:[],textWithoutMetadata:[],unequalParagraphCounts:[],unknownCommands:[]};
 const sources=['original_texts - copy','translated_texts - copy','metadata - copy'];
 try{await fs.access(path.join(root,sources[0]));}catch{
-  const archive=path.join(root,'data','collection.tar.gz');
-  await fs.access(archive);
-  execFileSync('tar',['-xzf',archive,'-C',root],{stdio:'inherit'});
+  // data/collection holds uncompressed tar shards of the publishable sources.
+  const archive=path.join(root,'data','collection');
+  const shards=(await fs.readdir(archive)).filter(name=>name.endsWith('.tar')).sort();
+  if(!shards.length)throw Error('No source archive shards in data/collection');
+  for(const shard of shards)execFileSync('tar',['-xf',path.join(archive,shard),'-C',root],{stdio:'inherit'});
 }
-async function readText(file){const bytes=await fs.readFile(file);try{const text=new TextDecoder('utf-8',{fatal:true}).decode(bytes);report.encodings.utf8++;return text;}catch{report.encodings.windows1252.push(path.relative(root,file));return new TextDecoder('windows-1252').decode(bytes);}}
+async function readText(file){const bytes=await fs.readFile(file);const {text,fallback}=decodeSource(bytes);if(fallback)report.encodings.windows1252.push(path.relative(root,file));else report.encodings.utf8++;return text;}
 const metadata=new Map();
 let metadataOriginalValues=new Map();
 const periodMapping=parsePeriodRenaming(await readText(path.join(root,'period_renaming.csv')));

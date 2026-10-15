@@ -5,6 +5,312 @@
       "id": "79CCBA0D8726E9D920DC566B92556700",
       "slug": "loveunity",
       "displayTitle": "Love that makes unity possible",
+      "selection": {
+        "review": "selections/loveunity.json",
+        "sha256": "444ef36b699f4d7f18c851eb0aa9152c6ebfc249ff772d7867d3f71cac2e5c5a",
+        "ids": [
+          "ca990565fb8a47be8c5ac8f2",
+          "27eec88d20f41dbbcdc44fc3",
+          "65d6cb8887f6be46d005321b",
+          "adb0d5fc1331ca3ad3311db7",
+          "390a1ffbec2923bae000ea62",
+          "e2cc2a518edef78bd8d874f2",
+          "b3b2d9fb1d0650da6d8024da",
+          "b7590d676f6792fb9e03ca1e",
+          "dd7da6e606faa826d469a9d7",
+          "8e6cea9fad5508b0cfc7b88b",
+          "1d7b1679bee649def69bec86",
+          "65c8bb4f1507882196b493b9",
+          "93a9cce4b0ce9493a2f2ee10",
+          "c5906bd8291b35ff31f69d53",
+          "57c4e74e5b4c202e553fe085",
+          "7e0a9b2c83284b8598a8bc26",
+          "4aeb4133cc255df647f16f52",
+          "f9bf6896cac47184e74eeedc",
+          "719b7a9863629aac819f0695",
+          "bd145405a84a133d0fcc3f6a",
+          "128097692b87d4c800bae72b",
+          "c0492fa677a4525bdc3ab8f2",
+          "7bfbb121aa64a2fb9033ccf5",
+          "8ee0ef68ebc5d7d44c55b779",
+          "523a62d89431f568c89c3078",
+          "46f8a6cd2926ef2e3b5b4f7d",
+          "323e2b27bf70226087e6deac",
+          "89017647b7cafd671007baeb",
+          "12a229b7fa333ae91a294c35",
+          "f354c79888ce20df01e10acd",
+          "87d7d4b8cc134b588dd0e08c",
+          "d47bc8438746f5438b8d1f3c",
+          "274a36571eabe8ac4ae4e2a8",
+          "91f379dbb7d83c9ca23d4aa0",
+          "88e82aec5c029959ea68c1c8",
+          "4e10d58ceef98b9dc8de8694",
+          "e4a2bfd44bafc987dec99450",
+          "33b61b32598089b50a86ecce",
+          "bc334ad63673cfe7f5296ce7",
+          "6243c3b5a29466a3a59c13a7",
+          "27cdc386fa314e31e8e452b0",
+          "df867f2fe1c139a308b6b9fa",
+          "0b8cad3322e7608d1b5cebfa",
+          "df5a3fecca7f0c4dda8e8c2c",
+          "65af45f02277c5308d3fa980",
+          "469ea2555f9836c8a38a465c",
+          "58d27b67e18f6473ddea6374",
+          "642799431a8fb89f34aad63b",
+          "6c89f771f7e3ccd3b9e169a8",
+          "05663c81e2933fefbe581e51",
+          "acdaf2a873610f9bc3375575",
+          "ee04ed8feb8eb80ebe289f94",
+          "61ac7aad0c6fb97c367d023a",
+          "26d10b683dbac2cb13105611",
+          "e87eec856ace5c76568af1ab",
+          "4841e5e0f9fef4b3fa2174e0",
+          "a89df43c8b8806952485c873",
+          "9e1d03e18d213077b1c1f97d",
+          "16741f214bf91c4a68a24708",
+          "e39a76dedfbd22ebf765ee02",
+          "b9159339b2334bc84176cf7f",
+          "7e5262e458ee943f8e786de4",
+          "0918bfd1e0d2af8d0c52358d",
+          "92649c057eb7465562a9b283",
+          "0a9c6a70a175ae29fa771107",
+          "5c6eb7744e1d7d7b291f9841",
+          "f6390386649a1b9a2901a005",
+          "9388d5f4e3ca0fd26bc8f7ab",
+          "9e922b3d9c5661b307e5a4cf",
+          "6544ee3e4a5de8e096740c3f",
+          "3d568d734518d44939f3ac6a",
+          "e7a842b7e2496c38f7124e3d",
+          "bde5edd221586d19d8791dae",
+          "470de8d396d3a2d01863fa20",
+          "214231b439abaad91a8d1b54",
+          "e73befc44e056e88eaad3bc5",
+          "6716d2cfdafb1fe41e28df80",
+          "1fcfd05dea92f52541a1d8fd",
+          "c84480e2929fe0cb424f26b0",
+          "530ecb21488b1c3c4173d739",
+          "9b4ab6c8352a8279675730c8",
+          "4ce68d9115e19295f86c9d52",
+          "90f1e987ab50315d8b78e2de",
+          "42588b264992b9a87784699b",
+          "489c963a5250d5ad4912095e",
+          "3620f87f791e0264b2ba33b2",
+          "b3601dba06467913926ff48b",
+          "e37d1ad997aeeb2db672b504",
+          "d2037f7705ff5c8afd4e938a",
+          "2197f90b01e2f53c2efed817",
+          "534a411fbc22a8aaaae80f75",
+          "c16c94b19634e641ecdcecc2",
+          "d8f6d740b6e6f6cce62a8cf4",
+          "2a7d06c692ef95931343b811",
+          "a750a50102cefc25ae0deec1",
+          "eb9d0f8e3a9443aeebe1e234",
+          "6bfc5a3bed83c37907f83cd0",
+          "faf55caa45e12b59cc34dd2b",
+          "f5f41969ff5b2c42c4d87542",
+          "6ca64448675e12a7e50c55b4",
+          "0826d1ec6a61a27e3f999dd5",
+          "1fb0babf688b3fd4e0add268",
+          "0181c46ba9863d343e43279d",
+          "980a1bcf6d8852da6b3f6eb1",
+          "f03e5165c656093f988fc33e",
+          "ec33c299597417ac7a53c305",
+          "4a134d902e3e115afa78c026",
+          "379d5daf2833c3a6c3c14a65",
+          "63dcbd46598a64b66dddadfa",
+          "1019817999d6ccc69f7950a5",
+          "2e2786bb17e44a1dddadd52a",
+          "c98f4256f1e757f11293fc6e",
+          "6fa2136411a210c7bfda1978",
+          "568269ad4abfcc2ecc1fde5e",
+          "9355ba9d9c8778a01c7450d5",
+          "3d0e07e9fd4bd8616747cbe8",
+          "129ff7913240639d38e952ee",
+          "9d0b45d2ec34c97d4f3d1aa9",
+          "ccfc18aa971b52457e781686",
+          "b78e9756f158352fbf610f0c",
+          "5efd278b373f690f48e374ac",
+          "4beff01ab549d0a8d377a6d4",
+          "6379d7a16424173c6a934590",
+          "cd9f1f6c0c1de94d996ab06a",
+          "1b19229a341dfe01cf6d95bc",
+          "15539beef15f777f5d7aa32c",
+          "84607938e3f72068b2905b1c",
+          "8545751b39015d73461c6cad",
+          "76347596bd8ad41907b6b5f4",
+          "aa88d1ff3e4f2cbb298e5363",
+          "a851f8ea416c3247c24b2748",
+          "27467569f28129de80193033",
+          "8d1f82ee18f65c16fbfcfc88",
+          "49055c1c42476920acbdbefb",
+          "709f84e6658a4ac3fc7fbc56",
+          "5f55c582cd21caed9d440bec",
+          "933b941d5c4b5c8a28307e1f",
+          "8f29caf80117f6a9e2c43412",
+          "eeec216b3ce53b66f70427f9",
+          "3a0b4d8339f43c2e5e9a14ff",
+          "d10afd4e9c464aff7c34e8fb",
+          "b57ac8f9b63e857d0a7fef49",
+          "5b5018ffb17dd1ae65bc960a",
+          "1090cacdc0da6c295a1823f3",
+          "43d94b7379891f774b4d287f",
+          "120045613109e108a82879b0",
+          "f882ddfd3539a170888901d9",
+          "b76678c269aa9c420b4149e3",
+          "270e4fc400fb933a7e0c0abe",
+          "876eb40f256c7d688c8065ea",
+          "8f77eafed0039564121f2932",
+          "a9691ba076b3fb179d56d8cf",
+          "0b2169d091b6553eabc01a74",
+          "d6411c8bc036a8be7ff7911c",
+          "4d7d9ba1c934d6416442b686",
+          "8af0109a6ca49039741128a4",
+          "5c0a08edcd36b93391601575",
+          "ad89d01a83720ff05371aedc",
+          "df685222ea74070f5bceb026",
+          "2b199cb742776316c3f729e2",
+          "02c17c176741335519a56bba",
+          "33f7da1ced7e2fa22a166447",
+          "95fa4c3e7fc72efbcd0d3417",
+          "44681dc9faf37e6c36b2b347",
+          "d2f39e96bf81a09ba8b2ad26",
+          "22702df331455f2082edf883",
+          "18df882c7ac75bd16517c9a9",
+          "c4930a890191b291b0c7fa2a",
+          "9c55e2c3588cfb014a26b281",
+          "6aa0c9ceb998fb551e3b5f30",
+          "2b6d5589c629c17de2c34011",
+          "39ba1dff9adcd2d02024964e",
+          "204ae5a8157579a5bb6ded5e",
+          "f3bc3c83d4597e8f663b4127",
+          "76272c3e4c74de9714c10d1a",
+          "055d01c80c2e3f0f6cc52c7e",
+          "5629973fa299122748ee4d74",
+          "afc5077ea107b1d7fa66477e",
+          "fe112d7c2c69c84365b2f5c0",
+          "412f02f5877533c9d4ce559a",
+          "5a2d2a6aaa9e2d5e9479478e",
+          "3d56d917e2b4419f21ca639a",
+          "649c0316c9761aa9adddafba",
+          "6ad809d495adc6854f32d38f",
+          "9a8f748e07e066229b684375",
+          "4288365fdcc055f265c46760",
+          "f70e0a8249ad49d0fda02c58",
+          "c92af06893dfd755a99b8b6b",
+          "cca9df1ec020c8e881e9841c",
+          "263877e77c48578e2d257791",
+          "307184b6e831003fbbac011b",
+          "0a90495eb65eb4702ddbe5e5",
+          "c0eaab10a26c343bd18d7f9f",
+          "4a2e35b4f3c789afb9f90247",
+          "de9818bf7e5e1105e9198f64",
+          "e722d4ea60142e614295b817",
+          "58374ef95aab3b82986e8a9d",
+          "b389106dfb08358d6c6706e3",
+          "a5a9cddfe811f8c1418269b8",
+          "00ca5f5b7efcde4ce30983a9",
+          "a87a1a28b8c530fd349d4460",
+          "cd5aeba9e0ccdc92f6b32b8e",
+          "ce0943b56310ddff89881088",
+          "67f4ab3307ba372f790b066f",
+          "dbdf528769367dcb420cb61a",
+          "d173050c0ca0516d3213e2bf",
+          "f55c2617c67e92b6341ce4c1",
+          "d2da95d50ddf010e305e269f",
+          "06d97d2abcf2cc590cb8bb40",
+          "465fe1bf1887500c3b37312a",
+          "fa7810f09ae5998b67a32b12",
+          "459c6a8fbeabdfd633530da8",
+          "012b6424bd541c266036f2e4",
+          "f0c2f8d0b1179eb1944f5386",
+          "44c3ac817fb9724ae6a3951d",
+          "8b3ba3323b7f750a9b267aa2",
+          "8cdb677a2a4ce6fea50672a7",
+          "4b9ea200e03262450399f0f8",
+          "322728217d9e45086d757078",
+          "50af52318e168e07b7892045",
+          "8d12d39cf800330f877f2fb3",
+          "a953cd64fe3a6a80fba04997",
+          "3425dea224965d2631bb3c25",
+          "b30e6f08217bed5761b59201",
+          "fbefdabdfc0a6eb96db5d2f2",
+          "af6fc9cbd52d044d2036f303",
+          "55e93c35e0feac48e7562c53",
+          "b92d4fffa12391c9dd1f06d5",
+          "9321d70fa7670e20c16b529c",
+          "287f8065c86b62b1b106482f",
+          "8dcbf71cf267b6060e1a0239",
+          "1ed2bcecf5e0691c3774fec2",
+          "02abaeb04f1c018ae9500922",
+          "21c9ae99bd4f9095c8f260b8",
+          "7ae04ca7d936edaaa9be6ec8",
+          "29d26dd3bc558f9a138fd4aa",
+          "cc392ce2287ae4c666336631",
+          "23a77623ed7bbd48bf3e93a8",
+          "aa298f92f912d721be5dd500",
+          "3b956928c4d7b172bc1a1231",
+          "28f7a91bf22123644897840f",
+          "04052c1e246f5d9688040091",
+          "c39dfeb2e2b471d2caa3d3bb",
+          "838f3442b53834081dad394f",
+          "e6b4e16c9000ca5909681960",
+          "3e0a8c97a5f08730f98249bd",
+          "a1d67c5544734bede928ba95",
+          "a8360008bb498a3b4d42fd8c",
+          "5758dc809386fb5788b96e4c",
+          "7d6c30f07a7d5c1f967c527f",
+          "d925903a9022d9c2c062607e",
+          "7eee48b7f38ca84210313b4c",
+          "3a198f8a9416d62f5eaf3715",
+          "2aec36a3efb70d4bb7404723",
+          "4488519520e0b9e0b5f79563",
+          "6fa81d9ddd94fd89edb1748e",
+          "7f60cde983fd2daa26e5ae31",
+          "7f13b35c619afa97a0e9c4b9",
+          "fe2967859856acc6881e4568",
+          "175a561996669454b86dcc17",
+          "608f67a2dc9cace9d0c2335a",
+          "a3acedf0c5e0fd4ba57511cb",
+          "1d38b2af036cb30bd96c1222",
+          "6ec902e6b2fe2642df4ac4c0",
+          "5811d0cfa58999242894ccc7",
+          "d847f2c9e47f95bfa9e98118",
+          "de2f326f5093f4b85aef2e9a",
+          "eabbe557c51bd956bd16206c",
+          "abfb06eeb4dbc3981003b3cd",
+          "90459fb4dae4973e4de065ab",
+          "84b2b11ae75bda6b274ce867",
+          "ea75694ce003bc306c1fc5cf",
+          "b55a847cd33b7a18fab92650",
+          "479630f1f3cb7b9d5e4ec861",
+          "4811861c50c8182072a70ef2",
+          "1b1e8e5c775626ea4c70babf",
+          "35ef4c26f49ae82ef0a88a31",
+          "c7f4ec721d7b96d85d012372",
+          "3d7ebbcc2fc4a72099a61dc9",
+          "58d71fd2caf8745074115ef2",
+          "c7f405f64dd0e55ebeb34f6e",
+          "5b53169695517df8cc222fed",
+          "d4b8bdead48692b2f1fbf4d7",
+          "4fc13b4c5ebc951cd1ef2c5c",
+          "897d6fd0226a5cf8ea1889a1",
+          "c4c48de88d5b792ba6516ab5",
+          "3502178eb573795339078665",
+          "28843ccc6d921bad2f52a481",
+          "8880e497365b41ead445badc",
+          "a9af37c6ffa11a42eb1e2db2",
+          "2b01b7c0b0b6b6b38bd337b0",
+          "af4292e4bf852e789305e406",
+          "503913ce95d614aca7ed355f",
+          "0f6e483cfc00462acc0776fc",
+          "ddd4c65723836ce3bffff397",
+          "34441ad5df259588072016f9",
+          "9c595378c4d558e602a6c6e1",
+          "bc1d7c9cda96c893b081c00d",
+          "bdaa7e27e7b2c29cdad7bd14",
+          "e48baf0efe6e3f6e66e30a25"
+        ]
+      },
       "introduction": "How can love become more than a feeling and unity more than agreement? These passages move from fellowship among religions and peoples to the intimate work of cleansing resentment, treating strangers as friends, and making kindness visible in deeds. They distinguish spiritual unity from political or social coordination while also asking how families, assemblies, and nations might learn to act together. Love appears as the source of peace, the power that heals enmity, and the motive for service, justice, education, and the protection of every human capacity. The warnings are equally practical: self-love, prejudice, contention, and the desire to dominate can fracture relationships even when people speak of unity. Neighboring subjects on fellowship, enemies, love of God, religion, unity in diversity, and world unity widen the inquiry from personal conduct to the structure of society. Paul’s hymn to charity and Qur’an 49:13 offer distinct comparative voices on patience, mutual knowledge, and the measure of human worth. Read in sequence, the collection asks what kind of love can sustain difference, responsibility, and a shared future.",
       "arc": "Open with love as the ground of peace and unity; widen fellowship across religions, races, nations, and strangers; examine the inward work of overcoming hatred and self-love; bring unity into families, assemblies, service, justice, and education; close by returning to spiritual foundations and the question of how a shared future can honor difference.",
       "order": [
@@ -349,10 +655,6 @@
           "why": "Widen love beyond familiar circles and religious or national boundaries."
         },
         {
-          "key": "source:AB01609",
-          "why": "Widen love beyond familiar circles and religious or national boundaries."
-        },
-        {
           "key": "source:AB01814",
           "why": "Widen love beyond familiar circles and religious or national boundaries."
         },
@@ -493,10 +795,6 @@
           "why": "Widen love beyond familiar circles and religious or national boundaries."
         },
         {
-          "key": "source:ABU2570",
-          "why": "Widen love beyond familiar circles and religious or national boundaries."
-        },
-        {
           "key": "source:ABU2935",
           "why": "Widen love beyond familiar circles and religious or national boundaries."
         },
@@ -538,10 +836,6 @@
         },
         {
           "key": "source:AB00901",
-          "why": "Trace how love becomes shared unity, peace, and social coherence."
-        },
-        {
-          "key": "source:AB02393",
           "why": "Trace how love becomes shared unity, peace, and social coherence."
         },
         {
@@ -617,10 +911,6 @@
           "why": "Trace how love becomes shared unity, peace, and social coherence."
         },
         {
-          "key": "source:AB03783",
-          "why": "Trace how love becomes shared unity, peace, and social coherence."
-        },
-        {
           "key": "source:AB10211",
           "why": "Trace how love becomes shared unity, peace, and social coherence."
         },
@@ -645,10 +935,6 @@
           "why": "Trace how love becomes shared unity, peace, and social coherence."
         },
         {
-          "key": "source:AB02592",
-          "why": "Trace how love becomes shared unity, peace, and social coherence."
-        },
-        {
           "key": "source:AB02729",
           "why": "Trace how love becomes shared unity, peace, and social coherence."
         },
@@ -662,10 +948,6 @@
         },
         {
           "key": "source:AB03815",
-          "why": "Trace how love becomes shared unity, peace, and social coherence."
-        },
-        {
-          "key": "source:AB12119",
           "why": "Trace how love becomes shared unity, peace, and social coherence."
         },
         {
@@ -725,10 +1007,6 @@
           "why": "Trace how love becomes shared unity, peace, and social coherence."
         },
         {
-          "key": "source:AB03407",
-          "why": "Trace how love becomes shared unity, peace, and social coherence."
-        },
-        {
           "key": "source:AB03575",
           "why": "Trace how love becomes shared unity, peace, and social coherence."
         },
@@ -761,10 +1039,6 @@
           "why": "Trace how love becomes shared unity, peace, and social coherence."
         },
         {
-          "key": "source:AB08002",
-          "why": "Trace how love becomes shared unity, peace, and social coherence."
-        },
-        {
           "key": "source:AB08710",
           "why": "Trace how love becomes shared unity, peace, and social coherence."
         },
@@ -786,14 +1060,6 @@
         },
         {
           "key": "source:AB10775",
-          "why": "Trace how love becomes shared unity, peace, and social coherence."
-        },
-        {
-          "key": "source:AB10979",
-          "why": "Trace how love becomes shared unity, peace, and social coherence."
-        },
-        {
-          "key": "source:AB11523",
           "why": "Trace how love becomes shared unity, peace, and social coherence."
         },
         {
@@ -909,10 +1175,6 @@
           "why": "Bring the ideal of unity into families, friendships, and communities."
         },
         {
-          "key": "source:AB02441",
-          "why": "Bring the ideal of unity into families, friendships, and communities."
-        },
-        {
           "key": "source:AB02472",
           "why": "Bring the ideal of unity into families, friendships, and communities."
         },
@@ -950,18 +1212,6 @@
         },
         {
           "key": "source:AB06185",
-          "why": "Bring the ideal of unity into families, friendships, and communities."
-        },
-        {
-          "key": "source:AB11752",
-          "why": "Bring the ideal of unity into families, friendships, and communities."
-        },
-        {
-          "key": "source:AB11997",
-          "why": "Bring the ideal of unity into families, friendships, and communities."
-        },
-        {
-          "key": "source:AB12167",
           "why": "Bring the ideal of unity into families, friendships, and communities."
         },
         {
@@ -1121,19 +1371,7 @@
           "why": "Return from social ideals to the inward source of love and spiritual transformation."
         },
         {
-          "key": "source:AB03951",
-          "why": "Return from social ideals to the inward source of love and spiritual transformation."
-        },
-        {
-          "key": "source:AB06088",
-          "why": "Return from social ideals to the inward source of love and spiritual transformation."
-        },
-        {
           "key": "source:AB06888",
-          "why": "Return from social ideals to the inward source of love and spiritual transformation."
-        },
-        {
-          "key": "source:AB09366",
           "why": "Return from social ideals to the inward source of love and spiritual transformation."
         },
         {
@@ -1165,19 +1403,11 @@
           "why": "Return from social ideals to the inward source of love and spiritual transformation."
         },
         {
-          "key": "source:BH10810",
-          "why": "Return from social ideals to the inward source of love and spiritual transformation."
-        },
-        {
           "key": "source:ABU3687",
           "why": "Consider how shared understanding can support unity without erasing difference."
         },
         {
           "key": "source:AB04430",
-          "why": "Let this passage extend the collection’s exploration of love, unity, and the conditions of shared life."
-        },
-        {
-          "key": "source:AB08255",
           "why": "Let this passage extend the collection’s exploration of love, unity, and the conditions of shared life."
         },
         {
@@ -1189,19 +1419,11 @@
           "why": "Let this passage extend the collection’s exploration of love, unity, and the conditions of shared life."
         },
         {
-          "key": "source:ABU2468",
-          "why": "Let this passage extend the collection’s exploration of love, unity, and the conditions of shared life."
-        },
-        {
           "key": "source:BH00385",
           "why": "Let this passage extend the collection’s exploration of love, unity, and the conditions of shared life."
         },
         {
           "key": "source:AB02783",
-          "why": "Let this passage extend the collection’s exploration of love, unity, and the conditions of shared life."
-        },
-        {
-          "key": "source:AB07003",
           "why": "Let this passage extend the collection’s exploration of love, unity, and the conditions of shared life."
         },
         {
@@ -1213,19 +1435,7 @@
           "why": "Let this passage extend the collection’s exploration of love, unity, and the conditions of shared life."
         },
         {
-          "key": "source:BH06307",
-          "why": "Let this passage extend the collection’s exploration of love, unity, and the conditions of shared life."
-        },
-        {
           "key": "source:AB01368",
-          "why": "Let this passage extend the collection’s exploration of love, unity, and the conditions of shared life."
-        },
-        {
-          "key": "source:AB05038",
-          "why": "Let this passage extend the collection’s exploration of love, unity, and the conditions of shared life."
-        },
-        {
-          "key": "source:AB11960",
           "why": "Let this passage extend the collection’s exploration of love, unity, and the conditions of shared life."
         },
         {
@@ -1242,10 +1452,6 @@
         },
         {
           "key": "source:ABU3473",
-          "why": "Let this passage extend the collection’s exploration of love, unity, and the conditions of shared life."
-        },
-        {
-          "key": "source:BH03813",
           "why": "Let this passage extend the collection’s exploration of love, unity, and the conditions of shared life."
         },
         {

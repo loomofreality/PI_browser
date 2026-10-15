@@ -8,12 +8,13 @@ import {renderMetadata,renderReferenceList,hasFilter} from './metadata.mjs';
 import {FacetPanel} from './facets-ui.mjs';
 import {catalogFilterLabel} from './catalog-filters.mjs';
 import {renderVolume} from './volumes.mjs';
+import {loadPdfBase} from './pdf-hosting.mjs';
 const $=id=>document.getElementById(id);
 const filters=['author'];
 const labels={author:'Author'};
 let metadataFields=[],facetPanel,metadataTimer;
 let translationRanges=[];
-let volumePdfs={},volumeTitles={};
+let volumePdfs={},volumeTitles={},volumePdfBase=null;
 const facetRequests=new Map();
 let worker,requestId=0,currentSearch=0,readerRequest=0,facets={},lastResults=null,reading=null;
 let datasetBase,datasetPath;
@@ -113,7 +114,7 @@ function resetAll(){state={query:'',language:'both',sort:'citations',page:1,id:'
 function showCollection(){readerRequest++;$('collection').hidden=false;$('reader').hidden=true;document.title='Partial Inventory browser';}
 function backToCollection(){state.id='';updateUrl();showCollection();syncControls();if(!lastResults)runSearch();$('results-heading').scrollIntoView({block:'start'});$('query').focus({preventScroll:true});}
 function metadataValue(label,value){return `<div><dt>${label}</dt><dd>${esc(value||'Not recorded')}</dd></div>`;}
-function catalogueValue(key,value){return key==='Volume'?renderVolume(value,volumePdfs,volumeTitles):['Manuscripts','Publications','Translations'].includes(key)?renderReferenceList(value):renderMetadata(value);}
+function catalogueValue(key,value){return key==='Volume'?renderVolume(value,volumePdfs,volumeTitles,volumePdfBase):['Manuscripts','Publications','Translations'].includes(key)?renderReferenceList(value):renderMetadata(value);}
 function paragraphHtml(part,i,language){if(i===null)return `<div class="paragraph-cell alignment-blank ${language==='en'?'english-cell':'original-cell'}" aria-hidden="true"></div>`;return `<div class="paragraph-cell ${language==='en'?'english-cell':'original-cell'}${language==='en'&&isAuthorizedParagraph(translationRanges,i+1)?' authorized-translation':''}" dir="${language==='en'?'ltr':'rtl'}" lang="${language==='en'?'en':'fa'}" id="p-${language}-${i+1}"><a class="paragraph-number" href="#p-${language}-${i+1}" aria-label="${language==='en'?'English':'Original'} paragraph ${i+1}">${String(i+1).padStart(2,'0')}</a><p>${part.html}</p></div>`;}
 function notesHtml(record){if(!record.en.notes.length&&!record.original.notes.length)return '';return `<section class="footnotes" aria-label="Footnotes"><h2>Notes</h2>${['en','original'].map(lang=>record[lang].notes.length?`<div class="${lang==='en'?'english':'original'}-notes" dir="${lang==='en'?'ltr':'rtl'}"><h3>${lang==='en'?'English translation':'فارسی / العربية'}</h3><ol>${record[lang].notes.map(note=>`<li id="note-${lang}-${note.number}">${note.html} <a href="#ref-${lang}-${note.number}" aria-label="Return to footnote ${note.number}">↩</a></li>`).join('')}</ol></div>`:'').join('')}</section>`;}
 let visibleParagraphs=100;
@@ -186,7 +187,7 @@ async function openReader(id,{push=true}={}){
     const counts=alignmentCounts(record);record.paired=record.hasEnglish&&record.hasOriginal&&counts.en===counts.original;
     reading=record;translationRanges=authorizedRanges(record.metadata?.Authorized);selectedPassage=null;visibleParagraphs=100;readerMatches=collectReadingMatches(record);matchCursor=-1;
     const passageId=new URLSearchParams(location.search).get('passage');
-    if(passageId){if(!/^[a-f\d]{24}$/.test(passageId))throw Error('Invalid passage ID');const passage=await loadCompressed(new URL(`subjects/passages/${passageId}.json.gz`,datasetBase));if(token!==readerRequest)return;if(passage.source!==record.id||passage.version!==record.enVersion)throw Error('Passage source version has changed; reopen the subject to locate the current selection.');selectedPassage=passage;visibleParagraphs=Math.max(100,...passage.ranges.map(r=>Math.ceil((readingPosition(record.en,r.paragraph-1)+1)/100)*100));}
+    if(passageId){if(!/^[a-f\d]{24}$/.test(passageId))throw Error('Invalid passage ID');const group=await loadCompressed(new URL(`subjects/passages/${encodeURIComponent(recordFilename(record.id))}`,datasetBase)).catch(()=>null);if(token!==readerRequest)return;const found=group?.source===record.id?group.passages[passageId]:null;if(!found)throw Error('This subject passage is no longer available; reopen the subject to locate the current selection.');const passage={id:passageId,source:record.id,...found};if(passage.version!==record.enVersion)throw Error('Passage source version has changed; reopen the subject to locate the current selection.');selectedPassage=passage;visibleParagraphs=Math.max(100,...passage.ranges.map(r=>Math.ceil((readingPosition(record.en,r.paragraph-1)+1)/100)*100));}
     const title=record.title||(record.addressee?`To ${record.addressee}`:record.id);
     document.title=`${record.id} · ${title} — Partial Inventory browser`;
     const extra=catalogueDetails(metadataFields,record.metadata);
@@ -236,7 +237,7 @@ try{
   metadataFields=await fieldsResponse.json();
   const volumesResponse=await fetch(new URL('./volumes.json',import.meta.url));
   if(!volumesResponse.ok)throw new Error('Volume PDFs could not be loaded. Please reload the page.');
-  volumePdfs=await volumesResponse.json();
+  volumePdfs=await volumesResponse.json();volumePdfBase=await loadPdfBase(new URL('./pdf-hosting.json',import.meta.url));
   const titlesResponse=await fetch(new URL('./volume-titles.json',import.meta.url));
   if(!titlesResponse.ok)throw new Error('Volume titles could not be loaded. Please reload the page.');
   volumeTitles=await titlesResponse.json();

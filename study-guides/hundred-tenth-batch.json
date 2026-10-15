@@ -5,6 +5,312 @@
       "id": "9170438CF5C0E2D84968B1DE41C36F0F",
       "slug": "divinejustice",
       "displayTitle": "Divine justice: accountability, judgment, and mercy",
+      "selection": {
+        "review": "selections/divinejustice.json",
+        "sha256": "bf5a160cfaa10cbe037d5041b6f9a07a722dad2399476e9a02205fa86310abe4",
+        "ids": [
+          "d1f335fd3e654404f58183cd",
+          "008f3706948c3e309b78a95e",
+          "69185a64e0349ded6d6c1659",
+          "69b224fd16f90afba16928ff",
+          "032221b63105df9abd11ea4b",
+          "08dc281967a4f545bd8d3647",
+          "c2849bc9831b1d56fe7cd99c",
+          "fac9d277bbbf283ad5e0b913",
+          "e698c0688e6bd2b8fd6a1274",
+          "5e0721ddebf5691c4814612b",
+          "684c497caeacd7642f78742b",
+          "4e2e508c66ec856a9c406827",
+          "8337359b7630af82a9513a8b",
+          "32e5f893c401870610593941",
+          "14d2df6889e32c4115f51c2c",
+          "d8f54dec4473e5f464b6e5bc",
+          "f928b0a0f48b86590ccdb0c1",
+          "39331c7e0c7cb915f8eab9ca",
+          "86a449f04484171fce2ebfc7",
+          "53b956dc40fb4d921e1a722d",
+          "8c194146236bfd40f6565ba2",
+          "7d010bea212dd4eafe361a0a",
+          "a0ef0c74f15a16ec774dc8f9",
+          "5bfd40b7dfe69e8389e21e3d",
+          "05d8234338d89d68f367cd3a",
+          "00b4fbbc95ac685aa168125c",
+          "b54a917f19c686ad3950d88d",
+          "d47029cfa9896e84e50ff54b",
+          "211912dd39b76122950bd894",
+          "9db51feb61efc5a085ebde48",
+          "851de7081ae4458fabe2c2e5",
+          "e95242e0ca580c1079064af7",
+          "9da5f368184ff550a280e85c",
+          "6d5a62cf8363c4fdc0a30420",
+          "5f73963828da23e7ef302269",
+          "b9d20b65b83b3bb3b03ea8e4",
+          "3b0ad357120234ea603e06ab",
+          "43e3f92b246027d51014d7a6",
+          "a56e0ac79eaf0e1f38cc880b",
+          "cf580ba612f83871b41dbed3",
+          "1a6aa5981f0833457394595f",
+          "9b56cf1230583ad3953ab66b",
+          "8466a28acf332a5dda01d160",
+          "2849bed14135c4a5fc5a327c",
+          "5a8170e9f5f81d35e4f10b7d",
+          "a25007224a1419d320c2db87",
+          "8a400ebef1557faecf19a6de",
+          "976e6588aad766b798ef7062",
+          "c1b837eac977c76b2b547bd1",
+          "5d3b461d07cf618e75896143",
+          "390599c7053db24defbf625a",
+          "30e727b6e610bbb43b362651",
+          "2565cba2193f4dcec6238dea",
+          "2891e9e2c7b7805c6fc69414",
+          "5d24fd2423e3e9a1d9817508",
+          "bc6d9dde8fa503fc8030c123",
+          "5c2f96ade13b7241b5bde5f9",
+          "5592732835b8527be0d08a86",
+          "806f67d73d0deb0be4556183",
+          "252003262cd887cc75aaaa23",
+          "3c06a9c56294e0cd0e7c1884",
+          "c23ee2837edacd13a200542b",
+          "ce81dbf3bce2dcac1f70c9b9",
+          "8f5eb7473f5efbcbdb6dfc4c",
+          "626f6d770900fc7bf8cdfec3",
+          "60326df8ac9b39158f0e74d5",
+          "3e00c45333b7849230a1d60f",
+          "e70945ba3f352d013a8c51b3",
+          "9c0c572d1f814f283ee23d43",
+          "fe8c75628b2355b94e7a590b",
+          "2e158a88c6ba0853addfe4d3",
+          "ae7734fd1071abd2a61e1a15",
+          "283000f9e4bb2024570ea3b2",
+          "e90698bc52ddd9836cd4cfd6",
+          "8856dd288ea599b7a4c51bd3",
+          "e4755dee4151d723479b33ba",
+          "8b3b771e88dc72a956f1e2b2",
+          "337454bd41c832bcccb6b2d4",
+          "b8ea48c6620e29957d2629f4",
+          "f7041b3c75a995d3605baa91",
+          "46420255e1919f75f2d6672e",
+          "8e8eed049e4f590f368d1f74",
+          "df166a17deca2760fdc16d69",
+          "6077388d0adc142779894831",
+          "5ee04266838d933bbed001ba",
+          "b10ccd541d7aa8ee4507baf6",
+          "cf20e04e891d8144e5c0d136",
+          "fc1639df6f5550593f807e85",
+          "980ac34f533855a575f1a366",
+          "57b496cf65ba84a77a7a1db4",
+          "d636e5c72960cc8eb4d08d1a",
+          "20d2dd4b19091490960afa5c",
+          "7136bf23a02a8d1f989da0cf",
+          "7d2d06e6f761103696ace63e",
+          "8a6adf396ea273c7f5b0333e",
+          "ec562cc58b995f712a6c6946",
+          "77bb0a1a6b762f71616f08b6",
+          "1a3eef7451a0329171544c8f",
+          "94285d784f0d8c71101da11a",
+          "902d6522ae96c3e2d215d9f6",
+          "e9626fd32c155e9a02e40c10",
+          "4ba1acee8691385641d84bd3",
+          "25ba1a787879e8da787e3767",
+          "baef9bf33fd31d3cf06bfaf1",
+          "129197f4fb2a84027a62ff16",
+          "6e201dd1ba4d57ee03281bab",
+          "896aef4501bb4ddbcae5df3f",
+          "83543569f60143ca6fd9eefe",
+          "b25c1e8fe7c1d92e6a43bb7f",
+          "281753b08427f7acfff35e15",
+          "a6d74a6a84f6568b16e99c64",
+          "df7bd23c9f11a4f5ad96d733",
+          "3e111802f2b2b94a6339944a",
+          "616811e212cfaa4953bf9203",
+          "15955c8b8bae87e102cfe5d5",
+          "ff99bcc1501e6221e8f9095b",
+          "dea5066f9bb280bff2e47ec9",
+          "282d35f467ed824381300dc3",
+          "417da5d60de916c1f4857b9f",
+          "d388388d3a8fff2053357f46",
+          "84ac9e70a7355437e6106512",
+          "b63c2d8868c3e361dc8956c5",
+          "b955bbdbe6b8c58b52fd6f40",
+          "8e5b328fe32b27820b2a9c48",
+          "da98a73152363389da510f67",
+          "066ea404e643ab53be5c486e",
+          "6acdf579d981fef5701ea70d",
+          "7a114798cdd2512276e100c5",
+          "acf8b17e4daa0dc73b095b67",
+          "2c30b2ccdc04e41a03e52c7a",
+          "11b9ed8ea37d16c10d6e9175",
+          "605fa28e578ecdb3b878d82d",
+          "7b19c5769a6c1d42e96517d1",
+          "5fb7f028bd15cea1079f39bd",
+          "ba3891734ecbf5a4bbe19bfc",
+          "0a8c3b77cf94f22ede645bac",
+          "432c4e15c9e5f1dd7bd61fc3",
+          "7b65e0ce61388df7c3327c71",
+          "066071c2dbf8285586be4631",
+          "185ea1db6d5081669471a210",
+          "a2c4e366e59b0df78f6f36c8",
+          "2d61c56d34837e2e76baff4a",
+          "5172db6d1275545757723ecd",
+          "42aee5e990af9f497567763a",
+          "d90da30d05c47b6bf4d7071f",
+          "0be0b71d608a0d7b0a6d185a",
+          "0a9c96db46721cde2e9d6b85",
+          "76557a1019f23906f0544b65",
+          "29cabb49ce9a1ce9dd13373f",
+          "9916d5885a9dbc531a1fb536",
+          "6e0047808ba81b6a5d46efec",
+          "8d04bb87a5e442abe81595d6",
+          "6648380ba139497b66e015dd",
+          "3bcdd1296e64849308e479bd",
+          "e6d4f7c7fc6394f6947525ff",
+          "70b4f0ca2027d21bfd97a882",
+          "478bbaad0aea402a0ed86c3e",
+          "ca2e7b841476d96c3c91e866",
+          "0318683e791836e6056df2fb",
+          "d079d52e69d1c3f8da713828",
+          "1f24f0af4d42cf8698d449dd",
+          "adc5ff04644719b1a3e9b292",
+          "380459bd5ba2a650a4d11b47",
+          "0287eb89e323dc1d270de24f",
+          "e48c86044b73d5c25652190b",
+          "158041c636e43d386d9dbf85",
+          "26882e3bdca27d0159d2534d",
+          "8fb0d5f62861a5b1191483ad",
+          "9109ad0d3243bfc9d1047beb",
+          "8a57d7935ce98d4408d8059a",
+          "da70735c4957bcf54bab5f1d",
+          "fc089de28341c2b2e0a77154",
+          "117f8830d66cf695c095ac2a",
+          "98ce073925b2cb12ec3ee2ac",
+          "04e7270c24ede98aee29dcf4",
+          "48edd83cd1b332c993767093",
+          "9a04c5a23664ad8d8fe7261d",
+          "7851ea06c4238d30515524c4",
+          "2f038a3214b893ec32e43e6f",
+          "65d27bd4f8f8f431579b6afe",
+          "189f1063d5db78a333b022f2",
+          "15d8835733160f0b627df656",
+          "d3fb8e3c911ffe3b9b9058f8",
+          "2af8ad476a95be466f163026",
+          "2ff98ce156c8034e0ff51446",
+          "7994d17cd602a916505ef319",
+          "e3b9b486f1dbcd10d6083d1a",
+          "12b5bd982cacf2301f1b2f8e",
+          "e9d32e796a328215c17df0b9",
+          "f1ea731e8322118ab47d20d2",
+          "cb72f94ae8f7e99533d8109c",
+          "ad31bbb72f852118891e14fb",
+          "ac0de6480862866fa23cd487",
+          "f58ea7adaab29d0e74a887f1",
+          "ba9234df50d43b338e8c92dc",
+          "9c6d54aa2c1eecf9576b1d71",
+          "40c19fb4a79b2d9df786f3e8",
+          "84ba33e4f6ff01e324f84a21",
+          "3473f8bf39363f0298da8f4d",
+          "3d694a9ff84a4cce2649fb46",
+          "3a175396ec27775c462abab3",
+          "1000d7387a594ebe22dbf88d",
+          "d043a8ac1acea86150575b58",
+          "05d49bd819ba7eab83cabe66",
+          "c582156c30a00035ee12ad7d",
+          "cf206fe3ca4ff89abf5267c4",
+          "1d3e4d26e484b4ecb7c1f2fb",
+          "c6fbe1cb113251ab6f8730e6",
+          "d77c83c50e546e742b0c19f0",
+          "2f34afd409310e24249e9be3",
+          "3cefaa060a3532fca59ef532",
+          "40a5162a9f3ace770ab0dc2d",
+          "6952b809976edce43b9b3cd5",
+          "758570284d086d332f62fd7d",
+          "afda441af5de63184ea50efb",
+          "a9ba02ba5cde449066d15d12",
+          "864330138caa42867c81e8a6",
+          "48d69647d3af83eaae2da8b0",
+          "f95bba0c1c7a2ef346980f90",
+          "e279684a2122a4267a78f0e6",
+          "1c51bf47d800a1f6ce2036b4",
+          "0d0a6b9d4d833c897cd539e7",
+          "c94442b3e52d804245f4c647",
+          "4d986177b857bf2c6bc16299",
+          "535b526467aad421b380d734",
+          "198ce64422e9f1f5502a8cea",
+          "6004ccb77da7fd84ff6e1ff4",
+          "b14a489614556d19c3dd938d",
+          "d749aa1a343238585eb75150",
+          "ddfd9c8977e568d8e6c2740e",
+          "74bcac97a4aca529f5085b51",
+          "adb928f1fd5ecde846fb6098",
+          "789d51b1fbc570acf1ed5c2d",
+          "23e4dfc86aa62411da27c6b6",
+          "1d8e26e9867b5d6515df6561",
+          "d976604334a3d4261e009b9d",
+          "34bf89a94472483850e6035a",
+          "549871504cfbadf280e29f14",
+          "a1b53f6fb3649e9b543edb99",
+          "231de9541a984c591c4817e0",
+          "1e78a2c03c72d37099ee2107",
+          "0ad4312eadd9734f70cd1c98",
+          "c9f4e6c1b0025895aa1de0e6",
+          "7d02370088a3a6f2bb0c8f2b",
+          "3291c726b519c2f269fb4d62",
+          "9d2aff20d4aa5a42c11c66fa",
+          "015f04bda9c2e5524d0e7ece",
+          "9eb33a6af973047cb46fc2a9",
+          "a09ce43a965002f678ec37a8",
+          "06d369a9b8abf81c550d0cac",
+          "88eae9afbc7255dc4a81f0bd",
+          "4cc4f7de9d06e2168614319b",
+          "b57bb4f6f230676ef6d315a3",
+          "02ef42b65928be48e7a8b9fb",
+          "73d96fae50a9d2aa7b5891c2",
+          "154615d266dbef248671f986",
+          "77d79ab4c9fe6cd9b496867e",
+          "4735541b23c84b153c162083",
+          "9c74c59374b5f06ab05eb71c",
+          "106658f7aee4ca6911f42c98",
+          "74425ea4ada62785bafc481a",
+          "5f5c0185108173f4129a05ed",
+          "df44a9f2f332b0438db531f3",
+          "932e0ef1aacbe52a87029802",
+          "a6b478d1d56eea3b9b38b71f",
+          "b326560f752ee33fd85d189f",
+          "24793b8f72740e2492b192de",
+          "09d3e3cec30a999c63ad961a",
+          "d807e0bf9f1e28b1743c7865",
+          "513771846b00e45475200fd7",
+          "dd20994337e549c08cea98f4",
+          "f97830caa883a3e704ca53de",
+          "327d950c26e15a25a2fecb52",
+          "c4f7847ae3e2a12f6793d741",
+          "9af2d4e49c96c210bec73fc8",
+          "edc50ba39ce8941e0571c1f1",
+          "8eea16b8081f5adfa2c245d6",
+          "44cdb332b8924cf312411ba9",
+          "52813d1f91bdaafc156b9e10",
+          "69722ed07e3498b5458b90b6",
+          "e315618d067089b4590ceb0f",
+          "0230eb4f2a2e7523abd5e196",
+          "ba1afe72e90cb29a74e0ef0d",
+          "67078d797b0a19137e44eb28",
+          "9b670630339226927006204c",
+          "b051d305500e2e046b1c8b3a",
+          "6d141f1589d1f7e3529ef0d2",
+          "7462402d960e566a14b28c01",
+          "7a15e1432cb0a411b3a865ca",
+          "db0688793326f757dc5e23ff",
+          "85586d7c18eb1c7b34b12035",
+          "9f4e8aa416ca30a5ce5a7b98",
+          "7e322e94e39b457bdfac8d8d",
+          "a06e134a8b79286343b8dd2e",
+          "e4ce94f3f1f5f60aa0750ab8",
+          "f549e7b212209c750e942c4b",
+          "1e6b9466a6f72be28938ef9b",
+          "23f2f5229e1076a4bb34b4f9",
+          "9939f1b702bdf3ac111f5c8a",
+          "dcbb88c962d18f6aa1470e77"
+        ]
+      },
       "introduction": "How long can oppression endure, and what would it mean for every deed to be known? The prayers, warnings, letters, and recorded conversations gathered here approach divine justice through that urgent question. They speak with particular force against tyranny, persecution, deceit, and the misuse of power, while also asking the reader to become fair in judging both others and oneself. Within the Baha’i teachings represented here, accountability appears alongside the claims of mercy and grace: good is preserved, repentance matters, and the sufferings of children and unwilling victims cannot simply be read as evidence of guilt. Some passages describe wrath in vivid images of fire and overthrow; others explore it through moral consequences, estrangement, or the contrast between what is due and what is freely given. Their different forms, historical settings, and degrees of textual authority invite attentive comparison. The connected subjects on lamentation, persecution, trials, divine sovereignty, and the mystery of suffering widen an inquiry that no isolated warning can settle. The Qur’an’s assurance of justice joined to grace and Paul’s counsel about responding to an enemy offer further occasions to consider accountability and restraint. The sequence moves through the cry of the oppressed, the responsibilities of human institutions, the severity of judgment, and the hope that justice may restore a world in which mercy can flourish.",
       "arc": "The cry for justice → What fairness asks of us → Deeds have consequences → When power oppresses → The fall of those who seemed secure → Warnings that seek a response → The force of the repeated promise → Prayer under the weight of violence → Reading the language of wrath → Toward the restoration of justice",
       "order": [
@@ -141,10 +447,6 @@
           "why": "Give the inquiry concrete objects: rights, education, impartial judgment, accountable government, and care for those without power."
         },
         {
-          "key": "source:BH09649",
-          "why": "Give the inquiry concrete objects: rights, education, impartial judgment, accountable government, and care for those without power."
-        },
-        {
           "key": "source:BH10321",
           "why": "Give the inquiry concrete objects: rights, education, impartial judgment, accountable government, and care for those without power."
         },
@@ -154,10 +456,6 @@
         },
         {
           "key": "source:BH09567",
-          "why": "Give the inquiry concrete objects: rights, education, impartial judgment, accountable government, and care for those without power."
-        },
-        {
-          "key": "source:BH11923",
           "why": "Give the inquiry concrete objects: rights, education, impartial judgment, accountable government, and care for those without power."
         },
         {
@@ -174,10 +472,6 @@
         },
         {
           "key": "source:BH00038",
-          "why": "Give the inquiry concrete objects: rights, education, impartial judgment, accountable government, and care for those without power."
-        },
-        {
-          "key": "source:BB00492",
           "why": "Give the inquiry concrete objects: rights, education, impartial judgment, accountable government, and care for those without power."
         },
         {
@@ -209,15 +503,7 @@
           "why": "Move from public standards to personal responsibility, remorse, and effects that reach beyond the person who acts, keeping the questions and reported examples in view."
         },
         {
-          "key": "source:BH08147",
-          "why": "Move from public standards to personal responsibility, remorse, and effects that reach beyond the person who acts, keeping the questions and reported examples in view."
-        },
-        {
           "key": "source:BH01806",
-          "why": "Move from public standards to personal responsibility, remorse, and effects that reach beyond the person who acts, keeping the questions and reported examples in view."
-        },
-        {
-          "key": "source:BH04483",
           "why": "Move from public standards to personal responsibility, remorse, and effects that reach beyond the person who acts, keeping the questions and reported examples in view."
         },
         {
@@ -225,23 +511,7 @@
           "why": "Move from public standards to personal responsibility, remorse, and effects that reach beyond the person who acts, keeping the questions and reported examples in view."
         },
         {
-          "key": "source:BH01093",
-          "why": "Move from public standards to personal responsibility, remorse, and effects that reach beyond the person who acts, keeping the questions and reported examples in view."
-        },
-        {
-          "key": "source:BH03793",
-          "why": "Move from public standards to personal responsibility, remorse, and effects that reach beyond the person who acts, keeping the questions and reported examples in view."
-        },
-        {
-          "key": "source:BH10104",
-          "why": "Move from public standards to personal responsibility, remorse, and effects that reach beyond the person who acts, keeping the questions and reported examples in view."
-        },
-        {
           "key": "source:BH02207",
-          "why": "Move from public standards to personal responsibility, remorse, and effects that reach beyond the person who acts, keeping the questions and reported examples in view."
-        },
-        {
-          "key": "source:BH02241",
           "why": "Move from public standards to personal responsibility, remorse, and effects that reach beyond the person who acts, keeping the questions and reported examples in view."
         },
         {
@@ -297,23 +567,11 @@
           "why": "Move from public standards to personal responsibility, remorse, and effects that reach beyond the person who acts, keeping the questions and reported examples in view."
         },
         {
-          "key": "source:BH10395",
-          "why": "Move from public standards to personal responsibility, remorse, and effects that reach beyond the person who acts, keeping the questions and reported examples in view."
-        },
-        {
           "key": "source:BH05409",
           "why": "Move from public standards to personal responsibility, remorse, and effects that reach beyond the person who acts, keeping the questions and reported examples in view."
         },
         {
-          "key": "source:BH07696",
-          "why": "Move from public standards to personal responsibility, remorse, and effects that reach beyond the person who acts, keeping the questions and reported examples in view."
-        },
-        {
           "key": "source:BH09525",
-          "why": "Move from public standards to personal responsibility, remorse, and effects that reach beyond the person who acts, keeping the questions and reported examples in view."
-        },
-        {
-          "key": "source:BH05245",
           "why": "Move from public standards to personal responsibility, remorse, and effects that reach beyond the person who acts, keeping the questions and reported examples in view."
         },
         {
@@ -365,10 +623,6 @@
           "why": "Read the warnings against tyranny within accounts of imprisonment, violence, persecution, and the suffering of others; the language of judgment answers those injuries."
         },
         {
-          "key": "source:BH07430",
-          "why": "Read the warnings against tyranny within accounts of imprisonment, violence, persecution, and the suffering of others; the language of judgment answers those injuries."
-        },
-        {
           "key": "source:BH08591",
           "why": "Read the warnings against tyranny within accounts of imprisonment, violence, persecution, and the suffering of others; the language of judgment answers those injuries."
         },
@@ -386,10 +640,6 @@
         },
         {
           "key": "source:BH04433",
-          "why": "Read the warnings against tyranny within accounts of imprisonment, violence, persecution, and the suffering of others; the language of judgment answers those injuries."
-        },
-        {
-          "key": "source:BH08520",
           "why": "Read the warnings against tyranny within accounts of imprisonment, violence, persecution, and the suffering of others; the language of judgment answers those injuries."
         },
         {
@@ -449,10 +699,6 @@
           "why": "Read the warnings against tyranny within accounts of imprisonment, violence, persecution, and the suffering of others; the language of judgment answers those injuries."
         },
         {
-          "key": "source:BB00432",
-          "why": "Read the warnings against tyranny within accounts of imprisonment, violence, persecution, and the suffering of others; the language of judgment answers those injuries."
-        },
-        {
           "key": "source:BB00086",
           "why": "Read the warnings against tyranny within accounts of imprisonment, violence, persecution, and the suffering of others; the language of judgment answers those injuries."
         },
@@ -474,10 +720,6 @@
         },
         {
           "key": "source:BB00129",
-          "why": "Read the warnings against tyranny within accounts of imprisonment, violence, persecution, and the suffering of others; the language of judgment answers those injuries."
-        },
-        {
-          "key": "source:BH08075",
           "why": "Read the warnings against tyranny within accounts of imprisonment, violence, persecution, and the suffering of others; the language of judgment answers those injuries."
         },
         {
@@ -514,10 +756,6 @@
         },
         {
           "key": "source:ABU0443",
-          "why": "Read the warnings against tyranny within accounts of imprisonment, violence, persecution, and the suffering of others; the language of judgment answers those injuries."
-        },
-        {
-          "key": "source:AB00483",
           "why": "Read the warnings against tyranny within accounts of imprisonment, violence, persecution, and the suffering of others; the language of judgment answers those injuries."
         },
         {
@@ -621,10 +859,6 @@
           "why": "Follow the historical narratives and images of overturned power, reading their named and dated circumstances before the more general warnings that follow."
         },
         {
-          "key": "source:BH09530",
-          "why": "Follow the historical narratives and images of overturned power, reading their named and dated circumstances before the more general warnings that follow."
-        },
-        {
           "key": "source:BH02748",
           "why": "Follow the historical narratives and images of overturned power, reading their named and dated circumstances before the more general warnings that follow."
         },
@@ -649,19 +883,7 @@
           "why": "Follow the historical narratives and images of overturned power, reading their named and dated circumstances before the more general warnings that follow."
         },
         {
-          "key": "source:BH09405",
-          "why": "Follow the historical narratives and images of overturned power, reading their named and dated circumstances before the more general warnings that follow."
-        },
-        {
-          "key": "source:ABU1491",
-          "why": "Follow the historical narratives and images of overturned power, reading their named and dated circumstances before the more general warnings that follow."
-        },
-        {
           "key": "source:BH04715",
-          "why": "Follow the historical narratives and images of overturned power, reading their named and dated circumstances before the more general warnings that follow."
-        },
-        {
-          "key": "source:BH08935",
           "why": "Follow the historical narratives and images of overturned power, reading their named and dated circumstances before the more general warnings that follow."
         },
         {
@@ -757,10 +979,6 @@
           "why": "Let the repeated warnings press the question of heedfulness, repentance, and the use of a respite; read severe consequences beside the stated possibility of turning back."
         },
         {
-          "key": "source:BH10737",
-          "why": "Let the repeated warnings press the question of heedfulness, repentance, and the use of a respite; read severe consequences beside the stated possibility of turning back."
-        },
-        {
           "key": "source:BH03720",
           "why": "Let the repeated warnings press the question of heedfulness, repentance, and the use of a respite; read severe consequences beside the stated possibility of turning back."
         },
@@ -813,14 +1031,6 @@
           "why": "Let the repeated warnings press the question of heedfulness, repentance, and the use of a respite; read severe consequences beside the stated possibility of turning back."
         },
         {
-          "key": "source:BH04855",
-          "why": "Let the repeated warnings press the question of heedfulness, repentance, and the use of a respite; read severe consequences beside the stated possibility of turning back."
-        },
-        {
-          "key": "source:BH07406",
-          "why": "Let the repeated warnings press the question of heedfulness, repentance, and the use of a respite; read severe consequences beside the stated possibility of turning back."
-        },
-        {
           "key": "source:BH02932",
           "why": "Let the repeated warnings press the question of heedfulness, repentance, and the use of a respite; read severe consequences beside the stated possibility of turning back."
         },
@@ -850,18 +1060,6 @@
         },
         {
           "key": "source:BH11670",
-          "why": "Let the repeated warnings press the question of heedfulness, repentance, and the use of a respite; read severe consequences beside the stated possibility of turning back."
-        },
-        {
-          "key": "source:BH08177",
-          "why": "Let the repeated warnings press the question of heedfulness, repentance, and the use of a respite; read severe consequences beside the stated possibility of turning back."
-        },
-        {
-          "key": "source:BH03702",
-          "why": "Let the repeated warnings press the question of heedfulness, repentance, and the use of a respite; read severe consequences beside the stated possibility of turning back."
-        },
-        {
-          "key": "source:BB00459",
           "why": "Let the repeated warnings press the question of heedfulness, repentance, and the use of a respite; read severe consequences beside the stated possibility of turning back."
         },
         {
@@ -901,10 +1099,6 @@
           "why": "Read the brief assurances of reckoning as variations in a sustained address to injustice, moving through knowledge, power, and the inability of oppression to secure a lasting refuge."
         },
         {
-          "key": "source:BH10227",
-          "why": "Read the brief assurances of reckoning as variations in a sustained address to injustice, moving through knowledge, power, and the inability of oppression to secure a lasting refuge."
-        },
-        {
           "key": "source:AB03572",
           "why": "Read the brief assurances of reckoning as variations in a sustained address to injustice, moving through knowledge, power, and the inability of oppression to secure a lasting refuge."
         },
@@ -918,10 +1112,6 @@
         },
         {
           "key": "source:BH04147",
-          "why": "Read the brief assurances of reckoning as variations in a sustained address to injustice, moving through knowledge, power, and the inability of oppression to secure a lasting refuge."
-        },
-        {
-          "key": "source:BH04157",
           "why": "Read the brief assurances of reckoning as variations in a sustained address to injustice, moving through knowledge, power, and the inability of oppression to secure a lasting refuge."
         },
         {
@@ -949,35 +1139,11 @@
           "why": "Read the brief assurances of reckoning as variations in a sustained address to injustice, moving through knowledge, power, and the inability of oppression to secure a lasting refuge."
         },
         {
-          "key": "source:BH04056",
-          "why": "Read the brief assurances of reckoning as variations in a sustained address to injustice, moving through knowledge, power, and the inability of oppression to secure a lasting refuge."
-        },
-        {
           "key": "source:BH06157",
           "why": "Read the brief assurances of reckoning as variations in a sustained address to injustice, moving through knowledge, power, and the inability of oppression to secure a lasting refuge."
         },
         {
-          "key": "source:BH06337",
-          "why": "Read the brief assurances of reckoning as variations in a sustained address to injustice, moving through knowledge, power, and the inability of oppression to secure a lasting refuge."
-        },
-        {
-          "key": "source:BH06354",
-          "why": "Read the brief assurances of reckoning as variations in a sustained address to injustice, moving through knowledge, power, and the inability of oppression to secure a lasting refuge."
-        },
-        {
-          "key": "source:BH06496",
-          "why": "Read the brief assurances of reckoning as variations in a sustained address to injustice, moving through knowledge, power, and the inability of oppression to secure a lasting refuge."
-        },
-        {
           "key": "source:BH06748",
-          "why": "Read the brief assurances of reckoning as variations in a sustained address to injustice, moving through knowledge, power, and the inability of oppression to secure a lasting refuge."
-        },
-        {
-          "key": "source:BH06930",
-          "why": "Read the brief assurances of reckoning as variations in a sustained address to injustice, moving through knowledge, power, and the inability of oppression to secure a lasting refuge."
-        },
-        {
-          "key": "source:BH07944",
           "why": "Read the brief assurances of reckoning as variations in a sustained address to injustice, moving through knowledge, power, and the inability of oppression to secure a lasting refuge."
         },
         {
@@ -997,10 +1163,6 @@
           "why": "Read the brief assurances of reckoning as variations in a sustained address to injustice, moving through knowledge, power, and the inability of oppression to secure a lasting refuge."
         },
         {
-          "key": "source:BH10052",
-          "why": "Read the brief assurances of reckoning as variations in a sustained address to injustice, moving through knowledge, power, and the inability of oppression to secure a lasting refuge."
-        },
-        {
           "key": "source:BH00082",
           "why": "Read the brief assurances of reckoning as variations in a sustained address to injustice, moving through knowledge, power, and the inability of oppression to secure a lasting refuge."
         },
@@ -1014,10 +1176,6 @@
         },
         {
           "key": "source:BH09705",
-          "why": "Encounter the force of petitions for protection and retribution in their devotional form, without turning them into instructions for personal vengeance."
-        },
-        {
-          "key": "source:BH06191",
           "why": "Encounter the force of petitions for protection and retribution in their devotional form, without turning them into instructions for personal vengeance."
         },
         {
@@ -1066,10 +1224,6 @@
         },
         {
           "key": "source:BB00504",
-          "why": "Encounter the force of petitions for protection and retribution in their devotional form, without turning them into instructions for personal vengeance."
-        },
-        {
-          "key": "source:BH09563",
           "why": "Encounter the force of petitions for protection and retribution in their devotional form, without turning them into instructions for personal vengeance."
         },
         {
@@ -1185,10 +1339,6 @@
           "why": "Place severe descriptions beside reported interpretations, questions, and images of divine love. Attend to literary form and source authority without making every expression say the same thing."
         },
         {
-          "key": "source:AB11252",
-          "why": "Place severe descriptions beside reported interpretations, questions, and images of divine love. Attend to literary form and source authority without making every expression say the same thing."
-        },
-        {
           "key": "source:BH10889",
           "why": "Place severe descriptions beside reported interpretations, questions, and images of divine love. Attend to literary form and source authority without making every expression say the same thing."
         },
@@ -1237,10 +1387,6 @@
           "why": "End with the vindication of the oppressed, the preservation of good deeds, and prayers that join fairness to mercy, opening inquiry into healing and the future of society."
         },
         {
-          "key": "source:BH08638",
-          "why": "End with the vindication of the oppressed, the preservation of good deeds, and prayers that join fairness to mercy, opening inquiry into healing and the future of society."
-        },
-        {
           "key": "source:BH10238",
           "why": "End with the vindication of the oppressed, the preservation of good deeds, and prayers that join fairness to mercy, opening inquiry into healing and the future of society."
         },
@@ -1278,14 +1424,6 @@
         },
         {
           "key": "source:BH00860",
-          "why": "End with the vindication of the oppressed, the preservation of good deeds, and prayers that join fairness to mercy, opening inquiry into healing and the future of society."
-        },
-        {
-          "key": "source:BH11828",
-          "why": "End with the vindication of the oppressed, the preservation of good deeds, and prayers that join fairness to mercy, opening inquiry into healing and the future of society."
-        },
-        {
-          "key": "source:BH11180",
           "why": "End with the vindication of the oppressed, the preservation of good deeds, and prayers that join fairness to mercy, opening inquiry into healing and the future of society."
         },
         {

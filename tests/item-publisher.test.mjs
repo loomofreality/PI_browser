@@ -1,6 +1,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import {run,watchDeployment} from '../scripts/publish-item.mjs';
+import {parseGithubRemote} from '../scripts/github-target.mjs';
 
 test('publisher keeps successful JSON separate from stderr and retains failure diagnostics',async()=>{
   const json=await run(process.execPath,['-e',"console.error('warning');console.log(JSON.stringify({id:1}))"],process.cwd(),true);
@@ -13,11 +14,18 @@ test('a failed deployment identifies the check and preserves the uploaded versus
     if(args[1]==='watch')throw Error('gh failed');
     return JSON.stringify({status:'completed',conclusion:'failure',jobs:[{name:'build',steps:[{name:'Verify generated collection',conclusion:'failure'}]}]});
   };
-  await assert.rejects(watchDeployment('gh',123,process.cwd(),execute),error=>{
+  await assert.rejects(watchDeployment('gh',123,process.cwd(),'owner/example',execute),error=>{
     assert.match(error.message,/correction was uploaded/);
     assert.match(error.message,/build: Verify generated collection/);
-    assert.match(error.message,/actions\/runs\/123/);
+    assert.match(error.message,/github\.com\/owner\/example\/actions\/runs\/123/);
     assert.match(error.message,/Do not re-enter/);
     return true;
   });
+});
+
+test('repository and public site follow the GitHub origin remote',()=>{
+  for(const url of ['https://github.com/Owner/Some_Repo.git','https://github.com/Owner/Some_Repo','git@github.com:Owner/Some_Repo.git'])
+    assert.deepEqual(parseGithubRemote(url),{repository:'Owner/Some_Repo',remote:'https://github.com/Owner/Some_Repo.git',site:'https://owner.github.io/Some_Repo/'});
+  assert.equal(parseGithubRemote('https://example.org/a/b.git'),null);
+  assert.equal(parseGithubRemote('https://github.com/a/b/c'),null);
 });

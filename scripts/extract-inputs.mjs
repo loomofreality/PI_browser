@@ -3,6 +3,7 @@ import path from 'node:path';
 import {parseCsv} from '../src/text.mjs';
 import {readPublicExtracts} from './public-extracts.mjs';
 import {digest,tokens,mappedTokens,locateRanges} from './subject-core.mjs';
+import {decodeSource} from './source-encoding.mjs';
 
 export const extractFolders=['subjects_inv_length_ordered','Evernote_scrape'];
 export const accepted=s=>['exact','normalized','confirmed'].includes(s.status);
@@ -24,7 +25,7 @@ export async function readExtractInputs(root,subjects,decisions={},options={}){
       if(name!==target)report.filenameAliases.push({folder,filename,subject:target});
       covered.add(target);
       const bytes=await fs.readFile(path.join(root,'subject_extracts',folder,filename));
-      let text;try{text=new TextDecoder('utf-8',{fatal:true}).decode(bytes);}catch{text=new TextDecoder('windows-1252').decode(bytes);report.encodingFallbacks.push(`subject_extracts/${folder}/${filename}`);}
+      const {text,fallback}=decodeSource(bytes);if(fallback)report.encodingFallbacks.push(`subject_extracts/${folder}/${filename}`);
       const version=digest(bytes);
       hashes.push([folder,filename,version]);
       for(const block of extractBlocks(text)){

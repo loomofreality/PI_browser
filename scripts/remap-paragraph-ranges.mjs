@@ -1,9 +1,10 @@
 import assert from 'node:assert/strict';
 import {createHash} from 'node:crypto';
 import {parseText} from '../src/text.mjs';
+import {decodeSource} from './source-encoding.mjs';
 
 const version=bytes=>createHash('sha256').update(bytes).digest('hex');
-function decode(bytes){try{return new TextDecoder('utf-8',{fatal:true}).decode(bytes);}catch{return new TextDecoder('windows-1252').decode(bytes);}}
+function decode(bytes){return decodeSource(bytes).text;}
 function coordinates(paragraphs){
   let text='';const positions=[],offsets=[];
   for(const [i,p] of paragraphs.entries()){

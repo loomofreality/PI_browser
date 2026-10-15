@@ -5,6 +5,312 @@
       "id": "E52E5452873A452AA14119AAB8CFFC41",
       "slug": "houseofworship",
       "displayTitle": "House of Worship: a gathering place for prayer and service",
+      "selection": {
+        "review": "selections/houseofworship.json",
+        "sha256": "d047915a8ed401880ac377e0b4b7649848d9e8e213fe152c8a071cd3888b819c",
+        "ids": [
+          "6d16bda63ea026638f5bc399",
+          "d0522719762fbe22a92eac55",
+          "72241cf857c7a5a6d7c3ab13",
+          "d284ccbb44cde0723631a2a0",
+          "2fbeb59e4c7f35c4581cc1eb",
+          "4ca7ca9e3e42ea08a0f2fa15",
+          "957983fc843490a6ca2d60c3",
+          "87a07b4225fd6a5f1e0c2cb6",
+          "08b5d25b617a9985d2448a1b",
+          "9ee22bfab2327d25fcd354ec",
+          "a09ce39913a1cdeed33a5000",
+          "3a51cfbc58dabf09823f8a80",
+          "b6e1a72cfefd572000ce2511",
+          "d1ac207828de333ecfce1873",
+          "b3ac0988906849d26e765417",
+          "5077f39e368f063767aca5d2",
+          "ff140d7b6fc1da7d3f628462",
+          "fc5ecf85cae3472b3756b1b9",
+          "df617d165a45a8a82f961f92",
+          "57d3cb586a60b59f5521cacd",
+          "127587c6ea5d206eefdeafe4",
+          "2a4d64c9f002331dbfcfebee",
+          "21b10873e7908ba8d5343d1c",
+          "3e4da6106f1f87149358fd28",
+          "e6c93e95ef820ab3ede92f82",
+          "6710dda3144123f2e7fc4343",
+          "9d41e1799f5e1c435fd8aaef",
+          "b3efa98da9c803c9d02dcac3",
+          "8b2e91db871797294e45f865",
+          "977a91b279ad87a6c5bc09ad",
+          "1bb8fc2c6eec956ec1b57886",
+          "25344f294c75661199582b6d",
+          "b3fde8d6e63d02c496966463",
+          "4d33e19c4924a57c98700a2b",
+          "6823da40eafc69129dfc7db9",
+          "b3f167b78f182f4fec464a46",
+          "217f837181ea5b067ba2bd56",
+          "ecc4f30173575d3f777c00ce",
+          "32699b2ea757cc8d5bc7cc6b",
+          "79065030ecdce8584d641994",
+          "41b71b21abc327a1c70ab323",
+          "a954aceafb9f7fefb6fec4f5",
+          "639b391a379e6ee9d41456c3",
+          "c8de6dfa42823aad4e88102e",
+          "979f27d699aaf640eabea935",
+          "79f68bcc1afa65eb9405d6fe",
+          "5579c72099d4fb0b2570a5bc",
+          "abae7c944b8b9cb846725c54",
+          "001ede5363e480e63b19750e",
+          "d03f994560f1c4e42e83155f",
+          "23df3b0340a76fbdf45d5d70",
+          "d075764385d36ab1bbc90f21",
+          "a1289a42a6ffde13fde278ee",
+          "69f09dd87548577db8bd1e5f",
+          "43141b3536010556399392c5",
+          "1733c73d33bb66615a806984",
+          "ea92e5e084207b8d19b1b736",
+          "434d9b26ecb1140ac0b2f74d",
+          "9f97ecdd13b3aff24c7dc3df",
+          "5d860c1a39c6fd566d1e1fc7",
+          "02db1a9359c738a68895b16b",
+          "a7116837823d7d665e3f3320",
+          "8d37efd41a0c82f603071d32",
+          "a0ea541bd01e36ad5209595a",
+          "5d1541e84b9da63546f4dbd9",
+          "0b2ac8d6c2c15d5499553bca",
+          "aadf225120b705bd13893634",
+          "0bb6e1607af154a7e606d9dd",
+          "ab533dfdcf35862870d8cd96",
+          "28537d1f9b12f508e65a1632",
+          "f25e8280ef895bfb84b16e46",
+          "2bdc76015708114f77d8b31d",
+          "3b017cb22e4a0bddc72a7f3d",
+          "8870892e90a8342b4583f6cd",
+          "141006fa5aa71f9a4a89d338",
+          "870b844a7053b0fe44dd6cdd",
+          "ebbb6e7e36d6d7a978fe9d91",
+          "afddc2c313ab96135254aa57",
+          "dedf0ae35f52b4a86bb93eb7",
+          "d6a93dcba9e5627dffde535e",
+          "084fec01970ac12a1efd80de",
+          "33db65f1d20296c4b5f606be",
+          "765c3272255510cb96a5f0a7",
+          "55dc00cc8bc884f07d4d26c5",
+          "08a93cdcc513f82ddb6b97d3",
+          "f25482a4c22391a588f448cc",
+          "a627e29923114763fce9e4fc",
+          "2f542af9a00014d8863fc02e",
+          "c06b70d420a2ce456af1b3be",
+          "66b4e69796b94a85bf136bdc",
+          "89965ccc9c654aeb3fae70a0",
+          "d1e8d1496c86f3ef6051b3cd",
+          "97b4487c08d7ffdd63e2eb7f",
+          "a6de033309cb86eebc7214ac",
+          "34562ac1023fb934766754b7",
+          "e6fbbd1a1dbc5556f7ecbe90",
+          "26e11141ba89045d1f678055",
+          "b8d8e77124599f04fdcb403e",
+          "0203e76e37c625a673d0ce63",
+          "45c9ff72e14b7705f82a20d2",
+          "a78d53f9aba520fa283317c8",
+          "e09a2e0d64dfea6b1a713467",
+          "ac1d2e1ee99cefff9a54232f",
+          "7df499ca27c2e42bf9d4fb3b",
+          "4a543d6a2f03323a046b6558",
+          "f28c09459491c6a6044a1a6e",
+          "a3878211064cec790d7edbca",
+          "e51b7e411411fcb2b4c2e24b",
+          "04dbd38104613f44754bcff1",
+          "74b2ce6e7a4855480306bc47",
+          "474b9f0aa5a4bf0c636793dd",
+          "a2cc474de8a6d5cc76db9d0a",
+          "65cb4135d93315ac084da012",
+          "e132e331564d28013cb4c40d",
+          "d651e2c61485d422eb634999",
+          "eb6c28e1684cdc3cd7f33696",
+          "366ab662427cd78e21e6e23e",
+          "f730639a61422fe7fffded00",
+          "05302199359b0c73c099ca12",
+          "ac85fe2667cd728f161b692b",
+          "d3ecdd7fa94946dcb5f0bf69",
+          "223b48006f32f8858794d54d",
+          "72ad0a806bd7e261ce8bc5e1",
+          "4ca28e58d9151c3c0d520ef5",
+          "3d8a317aaa9396e47ba9c7fe",
+          "44be6b7a433344eec9ed2d9b",
+          "025d3df361987e15f6c511c3",
+          "5ae1ad9e1c6d559ee99ddf20",
+          "4ed2efe365084773cb67ac73",
+          "3d599077e0a09200617f1660",
+          "dc34213a6fc21ee8a9552294",
+          "d15bc8b5c1a5c50f32e93f1d",
+          "f2a8a831d3589ec51a96b0da",
+          "59a7bf5cf3c047e34a5ebd5d",
+          "f58442d27cacd066fefad602",
+          "377015b913ebe5462a08acc7",
+          "6cbc77352ce19c3a073f747f",
+          "aa269a8a64118c9c03862bbe",
+          "9ec26e134dde593531843ab4",
+          "cdf9174dd31594686ce18a87",
+          "99a9c216a5f32c691c0be598",
+          "ea9ee7ab14f26e6d74e5dd3f",
+          "5fbd87d024730d2dfdbed122",
+          "555ffc93433864d90493293f",
+          "3d9cebc4b0ee36daa3dd0c5e",
+          "6c18f8038b4ec84bf781e045",
+          "87487fd5ca99270892b11f12",
+          "712676db75e60220ec9c4efa",
+          "25ed02510caab06a5ed9ac1f",
+          "e586a02eee409425474fb729",
+          "d5359cbe30db8954c3f6a912",
+          "396d0e16ffafa29b82cfc479",
+          "fc8af08b819a7a0c2412ffb1",
+          "642d17248f516a374e5303aa",
+          "5733aa53efbbe3b5d14e37ac",
+          "53f4a0ea1397104578c2959c",
+          "784e82b62f832062d7b74b36",
+          "e32a743e7c20b049698f8b8b",
+          "1c644a4859effb9e3983d46b",
+          "1f23e28107094666d87e7004",
+          "42f6b8d6373aff0e256c0793",
+          "2112924e3ea15a06a8d3df4d",
+          "c0a15589f59c3238a9a32ccb",
+          "2b85e9e11e080dcc73d638f1",
+          "0a0cc08edca0564266dddb84",
+          "0794f7da78f036f06f4146cc",
+          "9e32275031341a177e856b63",
+          "7076ce012c5a21407243a4ed",
+          "60c7c84674d6c3040d6fed6c",
+          "56a310fc9e4719b91303176d",
+          "7dfc97b05a367b9848340b56",
+          "a9adf199cdedde74de021c7f",
+          "fc251c99d93596c123e5ebfe",
+          "421b1a04a60b7a46f26fb330",
+          "af807f0d812b928c31946839",
+          "24a267875470aaf421764c27",
+          "7e7af0a7ba4d9529a7f14beb",
+          "06b6547655e1b5d0a4e8cd2c",
+          "3f602e1c6a2da97e1c0df8e5",
+          "7e28bf1bbf89e1ac8daae60c",
+          "54086f3f2c0e65264d76174e",
+          "88c3f45c62527caaee588ba9",
+          "58d0ddd0ab3cf4a9932acf78",
+          "9d5d9035e973a0f19b878437",
+          "6b09014fb443625006149772",
+          "ad9c5f64c94344633f845425",
+          "7676e67fc3c741523a9cf621",
+          "950c8f72753b30f9aa6fca26",
+          "c937a1148985845aa0608905",
+          "532f4a142075209428153f6a",
+          "ee7dcc68206a52e33be3ccf0",
+          "281a5d25684c0b394420e374",
+          "4099aa7810de795956b20369",
+          "c188d27656ccabad02a37043",
+          "c87376478b62d886b7cc5a9a",
+          "98025eece1c7c3ec2d779e2e",
+          "ca05543b71e3eee40fb8720e",
+          "b94efe3bdda237cbafc640e5",
+          "4b233a06e1455aa0bbfe8b5f",
+          "1934755370e4bfa280a04a09",
+          "79921c5bbf9083e3bb07849f",
+          "a220ef96080809083701b921",
+          "788f6f51660a5ff0c9dd0526",
+          "199cb8f2c32e6b0d8ea11c8c",
+          "5e18c67a1f8b3aec9eb3021b",
+          "a4e5ed64b56e625a96cb6b82",
+          "2287a8cc350fedea095c086f",
+          "25a86273dcb6be1d4bb7b292",
+          "db6f927f85ae5e398bab5fd5",
+          "ef4180c6f14765df3759d6cd",
+          "7a4f52ccf208dd1f7766dfc3",
+          "3e77bbff7dbac368be96dd4d",
+          "727cda56aab4de3daab6952f",
+          "122075ef0fc9066f6bd9f531",
+          "cf9c32594b587c23f685c3f9",
+          "4f4c22a82d1e91f430d9806e",
+          "f929ef2cf989478db4b1135d",
+          "93b4ca6ff9c3209134281f42",
+          "e9c491fa0407e7624ae89f2b",
+          "2d47a4e388de8a6017192b37",
+          "b438d86c98e166f0b23dc68a",
+          "9fc801cd0e2761b2f02c271c",
+          "077416b282196948506c5682",
+          "8f42ad3242b4981cf509f6a4",
+          "78a96ccaa484cb957aaef55a",
+          "1de34abb9b4eb491eee91ae1",
+          "ceebf503e8e80474d88afaf0",
+          "ab3440ff288a8b3c86f5fab4",
+          "d004f038704924fd21c009b9",
+          "87f807e87b20a276ae1bda60",
+          "58651d0b95396c7f9c681839",
+          "3cee1293cd848ae375b1707c",
+          "8cc4807a8026c06aeb08f8a7",
+          "0b190fa0d2a7494ec058e5a6",
+          "2d020184306d203a2f8e2877",
+          "652df4dc068d062675bf8a21",
+          "eeae5436dcd1f07bd826d4ad",
+          "03176e22c33909087304e663",
+          "5490e47bd2f04bb929072b46",
+          "e34f0727ee8774fe2c3a5278",
+          "cf87aef44cf5436a1967901f",
+          "f7b7131ecf9d2cb26e44ff38",
+          "0d95c28c72f837799f862037",
+          "09ddf275b630aa5d49892072",
+          "4f0da5f442cc82088be9ac29",
+          "4cfc94f473f07e11afc64707",
+          "43001cb350c1d83f38935fb9",
+          "5eb0ca7486c1a576502807b5",
+          "9dce070fd29fa9a9229be288",
+          "75a62e41781858f8c7b0aa90",
+          "79b9b932b0c3c600472f5195",
+          "269518cab7fc9addb9f88f8a",
+          "f9f4f76a31e9566893c50f21",
+          "318bcf0a6e4d6b68a49c28ac",
+          "158f2402d0689f877f0f1ba8",
+          "3afc6c9a89dcb6ccf7123b9d",
+          "932e5057efec7cb445aed9b7",
+          "5431363e42c6ae9d24b857a1",
+          "cefad411cc4c54857e0ef7a5",
+          "9380a53263278cd12de91285",
+          "b0f2a511043ea9d191d7d84f",
+          "8d09e67fa4f30b2f065285a9",
+          "286c59949333af1ff961c34a",
+          "3cc70012c5412770703c8a9c",
+          "e845e9f0adfd1ceff267b19f",
+          "99ed41903a9202076d13d9d2",
+          "5db216755d3b0a7c612dd2e4",
+          "07f02296ac4dd5f0db61001e",
+          "0d467713244e0e5980b6b3c0",
+          "8c8ced2baf77424512032f00",
+          "0d7bcf5b703510f696a2b513",
+          "b1922da660e02fdf1ee4cdbc",
+          "076aaa7e75cebb434dfab0b0",
+          "303de46d6f10cc8759cff388",
+          "892bf2e5f67d7218ec800437",
+          "68ba299acdbb98f20470ac05",
+          "e3ce4c5fae0cad8b01de418d",
+          "047ebda6a1b72a5ff12f9731",
+          "0e1b84d6f59c8cd15a4ce306",
+          "d0646285f29bf42381491487",
+          "886e3ba9860b31f21d10e8b8",
+          "614014e269d5a6a897fba95e",
+          "23133f7dbb8ed7bcebb513ac",
+          "3faa6107dbbac7cc5018a05e",
+          "dae226b9a00868d026beafbc",
+          "c38bcfb046b99edc32efab0f",
+          "77bcaef9204e8fb708b07304",
+          "b77725f3a5978d5fc4eb30b5",
+          "2a9a71cb6cab8a58b169e7aa",
+          "e2032647f1e064d3cf509fad",
+          "af19828964378eebf8454b39",
+          "819ac500c6163f6af784c8a6",
+          "7f283fdae6f777a09ab3658e",
+          "1de5bf6f328d4dd9e219997d",
+          "977d94a1e4e88a0aff041b4c",
+          "b511f5dcead4474dc9ad38f3",
+          "49fd477337624953d742d6bd",
+          "4d5ff6598209c972e092c1b6",
+          "e537a69bc38d5d6c50ec5aca",
+          "cc793c86a9c54b430ee07929"
+        ]
+      },
       "introduction": "What might grow around a place where people of every background are welcomed to pray? These selections imagine a House of Worship whose influence extends into education, healing, hospitality, and the daily life of a community. The movement from silent listening to service is central to the Baha’i conception of the Mashriqu’l-Adhkar: devotion finds expression in institutions and relationships that nurture human oneness. The letters also bring this large vision close to the ground, through a small gift, a borrowed room, a caretaker’s labor, a committee’s decision, or a stone carried by hand. The connected subjects on sacred places, music, devotional gatherings, community building, and humanitarian activity invite us to ask how inward reverence becomes a shared way of life. These historical selections include directions for particular places and circumstances, as well as recorded conversations and later institutional explanations; their dates and authority matter when different practices or stages of development appear side by side. Isaiah’s welcome to those who fear exclusion, the Qur’an’s concern for threatened places of worship, and the prayerful sharing described in Acts offer distinct settings for exploring hospitality and collective responsibility. As the sequence unfolds, the building becomes an invitation to consider what people can create together when worship, beauty, consultation, and practical care inform one another.",
       "arc": "A door open to everyone → Prayer takes root in a community → The voice, the garden, and the form → A center of learning and care → Hands that build, hearts that give → Consultation becomes a shared undertaking → One beginning and many future houses → Wisdom amid difficulty → The promise carried forward → Further supplied readings: worship and service together",
       "order": [
@@ -50,7 +356,7 @@
         },
         {
           "key": "source:ABU3250",
-          "why": "Retain both questions and replies so the account of dependencies is read in relation to community need."
+          "why": "Read the school and other accessories as useful, not worldly, accompaniments that answer a community’s need."
         },
         {
           "key": "source:ABU0006",
@@ -75,10 +381,6 @@
         {
           "key": "source:AB12106",
           "why": "Follow worship from a household or a small gathering toward an enduring institution, attending to the relation between regular devotion and shared life."
-        },
-        {
-          "key": "source:ABU3089",
-          "why": "Restore Mrs. Allen’s question before the blessing of her intention to offer her home."
         },
         {
           "key": "source:AB07449",
@@ -205,10 +507,6 @@
           "why": "Explore beauty and the senses as invitations to worship. Read these dated architectural and musical directions with their source attributions, allowing their differing settings to remain visible."
         },
         {
-          "key": "source:ABU3315",
-          "why": "Explore beauty and the senses as invitations to worship. Read these dated architectural and musical directions with their source attributions, allowing their differing settings to remain visible."
-        },
-        {
           "key": "source:ABU0288",
           "why": "Explore beauty and the senses as invitations to worship. Read these dated architectural and musical directions with their source attributions, allowing their differing settings to remain visible."
         },
@@ -234,10 +532,6 @@
         },
         {
           "key": "source:AB02405",
-          "why": "Explore beauty and the senses as invitations to worship. Read these dated architectural and musical directions with their source attributions, allowing their differing settings to remain visible."
-        },
-        {
-          "key": "source:AB01774",
           "why": "Explore beauty and the senses as invitations to worship. Read these dated architectural and musical directions with their source attributions, allowing their differing settings to remain visible."
         },
         {
@@ -301,14 +595,6 @@
           "why": "Explore beauty and the senses as invitations to worship. Read these dated architectural and musical directions with their source attributions, allowing their differing settings to remain visible."
         },
         {
-          "key": "source:ABU3489",
-          "why": "Include the reply correcting reliance on hearsay; the selected report of a crypt is not an endorsed instruction."
-        },
-        {
-          "key": "source:ABU1905",
-          "why": "Explore beauty and the senses as invitations to worship. Read these dated architectural and musical directions with their source attributions, allowing their differing settings to remain visible."
-        },
-        {
           "key": "source:ABU2266",
           "why": "Explore beauty and the senses as invitations to worship. Read these dated architectural and musical directions with their source attributions, allowing their differing settings to remain visible."
         },
@@ -326,10 +612,6 @@
         },
         {
           "key": "source:ABU2151",
-          "why": "Return from the central edifice to schools, shelter, medical care, and places of learning, considering how an institution grows in response to human need."
-        },
-        {
-          "key": "source:ABU1954",
           "why": "Return from the central edifice to schools, shelter, medical care, and places of learning, considering how an institution grows in response to human need."
         },
         {
@@ -437,10 +719,6 @@
           "why": "Let the builders and caretakers make devotion concrete: humble labor, gifts measured by love, and work that joins generations and distant communities."
         },
         {
-          "key": "source:ABU2989",
-          "why": "Let the builders and caretakers make devotion concrete: humble labor, gifts measured by love, and work that joins generations and distant communities."
-        },
-        {
           "key": "source:AB11855",
           "why": "Let the builders and caretakers make devotion concrete: humble labor, gifts measured by love, and work that joins generations and distant communities."
         },
@@ -458,10 +736,6 @@
         },
         {
           "key": "source:AB03745",
-          "why": "Let the builders and caretakers make devotion concrete: humble labor, gifts measured by love, and work that joins generations and distant communities."
-        },
-        {
-          "key": "source:AB10281",
           "why": "Let the builders and caretakers make devotion concrete: humble labor, gifts measured by love, and work that joins generations and distant communities."
         },
         {
@@ -529,10 +803,6 @@
           "why": "Let the builders and caretakers make devotion concrete: humble labor, gifts measured by love, and work that joins generations and distant communities."
         },
         {
-          "key": "source:AB02436",
-          "why": "Let the builders and caretakers make devotion concrete: humble labor, gifts measured by love, and work that joins generations and distant communities."
-        },
-        {
           "key": "source:AB00615",
           "why": "Let the builders and caretakers make devotion concrete: humble labor, gifts measured by love, and work that joins generations and distant communities."
         },
@@ -589,10 +859,6 @@
           "why": "Let the builders and caretakers make devotion concrete: humble labor, gifts measured by love, and work that joins generations and distant communities."
         },
         {
-          "key": "source:AB04774",
-          "why": "Let the builders and caretakers make devotion concrete: humble labor, gifts measured by love, and work that joins generations and distant communities."
-        },
-        {
           "key": "source:AB10289",
           "why": "Let the builders and caretakers make devotion concrete: humble labor, gifts measured by love, and work that joins generations and distant communities."
         },
@@ -617,14 +883,6 @@
           "why": "Move from individual generosity to representatives, committees, choices, and accountable use of resources. Keep the original question with each recorded answer."
         },
         {
-          "key": "source:AB03378",
-          "why": "Move from individual generosity to representatives, committees, choices, and accountable use of resources. Keep the original question with each recorded answer."
-        },
-        {
-          "key": "source:AB04428",
-          "why": "Move from individual generosity to representatives, committees, choices, and accountable use of resources. Keep the original question with each recorded answer."
-        },
-        {
           "key": "source:AB07840",
           "why": "Move from individual generosity to representatives, committees, choices, and accountable use of resources. Keep the original question with each recorded answer."
         },
@@ -637,15 +895,7 @@
           "why": "Move from individual generosity to representatives, committees, choices, and accountable use of resources. Keep the original question with each recorded answer."
         },
         {
-          "key": "source:AB05656",
-          "why": "Move from individual generosity to representatives, committees, choices, and accountable use of resources. Keep the original question with each recorded answer."
-        },
-        {
           "key": "source:AB01678",
-          "why": "Move from individual generosity to representatives, committees, choices, and accountable use of resources. Keep the original question with each recorded answer."
-        },
-        {
-          "key": "source:AB09213",
           "why": "Move from individual generosity to representatives, committees, choices, and accountable use of resources. Keep the original question with each recorded answer."
         },
         {
@@ -655,14 +905,6 @@
         {
           "key": "source:AB06031",
           "why": "Move from individual generosity to representatives, committees, choices, and accountable use of resources. Keep the original question with each recorded answer."
-        },
-        {
-          "key": "source:ABU1111",
-          "why": "Move from individual generosity to representatives, committees, choices, and accountable use of resources. Keep the original question with each recorded answer."
-        },
-        {
-          "key": "source:ABU2941",
-          "why": "Include the immediate answer to the Liberty Bonds question, locating the decision with the Convention."
         },
         {
           "key": "source:AB11874",
@@ -686,14 +928,6 @@
         },
         {
           "key": "source:AB01312",
-          "why": "Move from individual generosity to representatives, committees, choices, and accountable use of resources. Keep the original question with each recorded answer."
-        },
-        {
-          "key": "source:AB11079",
-          "why": "Move from individual generosity to representatives, committees, choices, and accountable use of resources. Keep the original question with each recorded answer."
-        },
-        {
-          "key": "source:AB11096",
           "why": "Move from individual generosity to representatives, committees, choices, and accountable use of resources. Keep the original question with each recorded answer."
         },
         {
@@ -741,15 +975,7 @@
           "why": "Move from individual generosity to representatives, committees, choices, and accountable use of resources. Keep the original question with each recorded answer."
         },
         {
-          "key": "source:AB01557",
-          "why": "Move from individual generosity to representatives, committees, choices, and accountable use of resources. Keep the original question with each recorded answer."
-        },
-        {
           "key": "source:AB06895",
-          "why": "Move from individual generosity to representatives, committees, choices, and accountable use of resources. Keep the original question with each recorded answer."
-        },
-        {
-          "key": "source:AB11088",
           "why": "Move from individual generosity to representatives, committees, choices, and accountable use of resources. Keep the original question with each recorded answer."
         },
         {
@@ -817,15 +1043,7 @@
           "why": "Read the early calls for concentration beside the hope of future growth; the sequence makes room for patience, limited means, and changing local circumstances."
         },
         {
-          "key": "source:AB00351",
-          "why": "Read the early calls for concentration beside the hope of future growth; the sequence makes room for patience, limited means, and changing local circumstances."
-        },
-        {
           "key": "source:ABU1892",
-          "why": "Read the early calls for concentration beside the hope of future growth; the sequence makes room for patience, limited means, and changing local circumstances."
-        },
-        {
-          "key": "source:AB07833",
           "why": "Read the early calls for concentration beside the hope of future growth; the sequence makes room for patience, limited means, and changing local circumstances."
         },
         {
@@ -845,23 +1063,11 @@
           "why": "Read the early calls for concentration beside the hope of future growth; the sequence makes room for patience, limited means, and changing local circumstances."
         },
         {
-          "key": "source:ABU3252",
-          "why": "Read the early calls for concentration beside the hope of future growth; the sequence makes room for patience, limited means, and changing local circumstances."
-        },
-        {
           "key": "source:AB00643",
           "why": "Read the early calls for concentration beside the hope of future growth; the sequence makes room for patience, limited means, and changing local circumstances."
         },
         {
           "key": "source:AB00405",
-          "why": "Read the early calls for concentration beside the hope of future growth; the sequence makes room for patience, limited means, and changing local circumstances."
-        },
-        {
-          "key": "source:AB01530",
-          "why": "Read the early calls for concentration beside the hope of future growth; the sequence makes room for patience, limited means, and changing local circumstances."
-        },
-        {
-          "key": "source:ABU1599",
           "why": "Read the early calls for concentration beside the hope of future growth; the sequence makes room for patience, limited means, and changing local circumstances."
         },
         {
@@ -926,14 +1132,6 @@
         },
         {
           "key": "source:AB07324",
-          "why": "Read the early calls for concentration beside the hope of future growth; the sequence makes room for patience, limited means, and changing local circumstances."
-        },
-        {
-          "key": "source:AB11563",
-          "why": "Read the early calls for concentration beside the hope of future growth; the sequence makes room for patience, limited means, and changing local circumstances."
-        },
-        {
-          "key": "source:AB12679",
           "why": "Read the early calls for concentration beside the hope of future growth; the sequence makes room for patience, limited means, and changing local circumstances."
         },
         {
@@ -1153,10 +1351,6 @@
           "why": "Let expressions of joy, praise, and enduring purpose gather the historical efforts into a question about what future communities may inherit."
         },
         {
-          "key": "source:AB01513",
-          "why": "Let expressions of joy, praise, and enduring purpose gather the historical efforts into a question about what future communities may inherit."
-        },
-        {
           "key": "source:AB04045",
           "why": "Let expressions of joy, praise, and enduring purpose gather the historical efforts into a question about what future communities may inherit."
         },
@@ -1198,10 +1392,6 @@
         },
         {
           "key": "source:AB06141",
-          "why": "Let expressions of joy, praise, and enduring purpose gather the historical efforts into a question about what future communities may inherit."
-        },
-        {
-          "key": "source:AB07015",
           "why": "Let expressions of joy, praise, and enduring purpose gather the historical efforts into a question about what future communities may inherit."
         },
         {
@@ -1261,24 +1451,16 @@
           "why": "Let expressions of joy, praise, and enduring purpose gather the historical efforts into a question about what future communities may inherit."
         },
         {
-          "key": "selection:c0531c9fb5bfd781a52971ec",
-          "why": "Preserve the supplied reading about a concealed gathering place, recalling that worship can begin in modest and difficult circumstances."
-        },
-        {
-          "key": "selection:1f190ffd1fb9e80191ac4af8",
-          "why": "Retain the original supplied selections and their citation status, ending with institutional explanations that distinguish stages of development, worship, service, and the roles of community buildings."
-        },
-        {
           "key": "selection:b511f5dcead4474dc9ad38f3",
           "why": "Let the institution’s several meanings clarify the different forms encountered throughout the historical selections."
         },
         {
           "key": "selection:7f283fdae6f777a09ab3658e",
-          "why": "Retain the original supplied selections and their citation status, ending with institutional explanations that distinguish stages of development, worship, service, and the roles of community buildings."
+          "why": "Retain the original supplied selections and their citation status, ending with institutional explanations that distinguish stages of development, worship, and service."
         },
         {
           "key": "selection:977d94a1e4e88a0aff041b4c",
-          "why": "Retain the original supplied selections and their citation status, ending with institutional explanations that distinguish stages of development, worship, service, and the roles of community buildings."
+          "why": "Retain the original supplied selections and their citation status, ending with institutional explanations that distinguish stages of development, worship, and service."
         },
         {
           "key": "selection:cc793c86a9c54b430ee07929",
@@ -1286,7 +1468,7 @@
         },
         {
           "key": "selection:1de5bf6f328d4dd9e219997d",
-          "why": "Retain the original supplied selections and their citation status, ending with institutional explanations that distinguish stages of development, worship, service, and the roles of community buildings."
+          "why": "Retain the original supplied selections and their citation status, ending with institutional explanations that distinguish stages of development, worship, and service."
         },
         {
           "key": "selection:49fd477337624953d742d6bd",
@@ -1294,19 +1476,7 @@
         },
         {
           "key": "selection:4d5ff6598209c972e092c1b6",
-          "why": "Retain the original supplied selections and their citation status, ending with institutional explanations that distinguish stages of development, worship, service, and the roles of community buildings."
-        },
-        {
-          "key": "selection:b1f5206a7d017500b4831a3c",
-          "why": "Distinguish the teaching and administrative center from the House of Worship."
-        },
-        {
-          "key": "selection:1f3d85a82b3ba42281dc28ea",
-          "why": "Retain the original supplied selections and their citation status, ending with institutional explanations that distinguish stages of development, worship, service, and the roles of community buildings."
-        },
-        {
-          "key": "selection:819d22635aa1b927787ca564",
-          "why": "Keep the final supplied selection in the related discussion of institutional uses; no original selection is dropped."
+          "why": "Retain the original supplied selections and their citation status, ending with institutional explanations that distinguish stages of development, worship, and service."
         }
       ],
       "questions": [

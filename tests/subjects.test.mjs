@@ -68,7 +68,8 @@ test('export shares identical passages, preserves associations and applies relat
   const a=await load('a'),b=await load('b');assert.equal(a.selections[0].passage,b.selections[0].passage);assert.deepEqual(a.selections[0].otherSubjects,['a','b']);
   assert.deepEqual(a.summary,[[{text:'Introduction A.'}],[{text:'Related to '},{text:'B',subject:'b'},{text:'.'}]]);
   assert.equal(b.summary[1][1].subject,'a');
-  const p=await load('passages/'+a.selections[0].passage);assert.deepEqual(p.selections,[{id:'a-selection',subject:'a'},{id:'b-selection',subject:'b'}]);
+  const group=await load('passages/BH00001');assert.equal(group.source,'BH00001');assert.deepEqual(Object.keys(group.passages),[a.selections[0].passage]);
+  assert.deepEqual(group.passages[a.selections[0].passage],{version:'v1',ranges:[{paragraph:1,start:0,end:5},{paragraph:2,start:0,end:4}],subjects:['a','b']});
   const index=await load('index');assert.equal(index.report.duplicateRanges,1);assert.equal(index.report.passages,1);assert.equal(index.report.selections,2);assert.equal(index.report.counts.exact,2);
   const decisions=await load('editorial-decisions');assert.deepEqual(decisions.relationships,[{source:'b',target:'a',type:'related',status:'rejected',note:'Distinct concepts'}]);
   assert.ok(index.edges.some(e=>e.type==='broader'&&e.status==='imported'));assert.equal(index.edges.filter(e=>e.type==='related').length,1);assert.equal(index.edges.find(e=>e.type==='related').status,'rejected');
@@ -78,7 +79,7 @@ test('export shares identical passages, preserves associations and applies relat
   await writeSubjectOutputs({root,out,dataset,subjects,bySubject,report,edits:{relationships:[]},hierarchyHtml:''});
   const updated=await load('index'),approximate=(await load('b')).selections[0];
   assert.equal(approximate.status,'approximate');assert.equal(approximate.passage,a.selections[0].passage);
-  assert.equal((await load('passages/'+approximate.passage)).source,'BH00001');
+  assert.ok((await load('passages/BH00001')).passages[approximate.passage]);
   assert.equal(updated.report.publicSelections,2);assert.equal(updated.report.selections,3);
   assert.equal(updated.edges.filter(e=>e.status==='suggested').length,0);
   const review=await load('review-index');assert.ok(review.subjects.find(s=>s.subject==='b')?.items.some(s=>s.id===approximate.id));

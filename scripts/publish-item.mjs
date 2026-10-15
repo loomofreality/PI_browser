@@ -10,12 +10,12 @@ import {publicMetadata,mayPublishOriginal} from '../src/original-publication.mjs
 import {recordFilename} from '../src/record-file.mjs';
 import {parseText} from '../src/text.mjs';
 import assert from 'node:assert/strict';
+import {githubTarget} from './github-target.mjs';
 
 const codeRoot=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
-const repository='portlandiator/PI_browser',remote='https://github.com/'+repository+'.git';
 export async function tool(name,root){
   const runtime=path.join(os.homedir(),'.cache/codex-runtimes/codex-primary-runtime/dependencies');
-  const candidates=name==='python'?[process.env.PI_EDITOR_PYTHON,path.join(runtime,'python/python.exe')]:name==='gh'?[process.env.PI_EDITOR_GH,path.join(root,'.tools/gh/bin/gh.exe')]:[];
+  const candidates=name==='python'?[process.env.PI_EDITOR_PYTHON,path.join(runtime,'python/python.exe')]:name==='gh'?[process.env.PI_EDITOR_GH,path.join(root,'.tools/gh/bin/gh.exe')]:name==='git'?[path.join(runtime,'native/git/cmd/git.exe')]:[];
   for(const candidate of candidates.filter(Boolean))try{await fs.access(candidate);return candidate;}catch{}
   return name;
 }
@@ -27,7 +27,7 @@ export async function run(command,args,cwd,quiet=false){
     child.on('error',reject);child.on('close',code=>code===0?resolve(result.trim()):reject(Error(`${path.basename(command)} ${args.slice(0,2).join(' ')} failed (${code}). ${diagnostic.trim()||result.trim().slice(-2000)||'No diagnostic output was returned.'}`)));
   });
 }
-export async function watchDeployment(gh,runId,repo,execute=run){
+export async function watchDeployment(gh,runId,repo,repository,execute=run){
   const url=`https://github.com/${repository}/actions/runs/${runId}`;
   console.log('Deployment: '+url);
   try{await execute(gh,['run','watch',String(runId),'--repo',repository,'--interval','15','--exit-status'],repo);}
@@ -40,6 +40,15 @@ export async function watchDeployment(gh,runId,repo,execute=run){
     }catch{}
     throw Error(`Your saved correction was uploaded, but publication could not be confirmed. ${detail}\nSee ${url}\nYour local edits and backups are preserved. Do not re-enter the correction.`);
   }
+}
+// Wait for the GitHub Pages workflow GitHub starts for this pushed commit.
+export async function findDeploymentRun(gh,repository,sha,cwd,execute=run,delay=4000){
+  for(let attempt=0;attempt<30;attempt++){
+    const runs=JSON.parse(await execute(gh,['run','list','--repo',repository,'--workflow','pages.yml','--commit',sha,'--limit','1','--json','databaseId'],cwd,true));
+    if(runs.length)return runs[0].databaseId;
+    await new Promise(resolve=>setTimeout(resolve,delay));
+  }
+  throw Error('The commit was uploaded, but GitHub has not started its workflow. Check repository Actions.');
 }
 export async function publishItem(root,id,revision){
   root=path.resolve(root);
@@ -57,11 +66,12 @@ export async function publishItem(root,id,revision){
       if(snapshot.bytes[i]!==null)await fs.writeFile(path.join(input,name),snapshot.bytes[i]);
     }
     const gh=await tool('gh',root),python=await tool('python',root);
+    const {repository,remote,site}=await githubTarget(root,{gh,git:await tool('git',root)});
     await run('git',['clone','--shared','--no-checkout',root,repo],root);
     await run('git',['remote','set-url','origin',remote],repo);
     await run('git',['config','core.sparseCheckout','true'],repo);
     await fs.mkdir(path.join(repo,'.git/info'),{recursive:true});
-    await fs.writeFile(path.join(repo,'.git/info/sparse-checkout'),'/data/collection.tar.gz\n');
+    await fs.writeFile(path.join(repo,'.git/info/sparse-checkout'),'/data/collection/\n');
     await run('git',['fetch','--no-tags','origin','main'],repo);
     await run('git',['checkout','-B','main','FETCH_HEAD'],repo);
     const nextEnglish=snapshot.bytes[2]===null?undefined:createHash('sha256').update(snapshot.bytes[2]).digest('hex');
@@ -75,28 +85,22 @@ export async function publishItem(root,id,revision){
       check(decisions);
     }
     console.log('Preparing the current published archive with this item only.');
-    await run(python,[path.join(codeRoot,'scripts/patch-item-archive.py'),'--root',input,'--archive',path.join(repo,'data/collection.tar.gz'),'--id',id],repo);
+    await run(python,[path.join(codeRoot,'scripts/patch-item-archive.py'),'--root',input,'--archive',path.join(repo,'data/collection'),'--id',id],repo);
     await run(python,[path.join(codeRoot,'scripts/archive-sources.py'),'--root',repo,'--check'],repo);
     const status=await run('git',['status','--porcelain'],repo);
     if(!status)console.log('This item already matches the uploaded source. Checking deployment and the live item.');
     else{
-    if(status.split('\n').some(line=>!line.endsWith('data/collection.tar.gz')))throw Error('Unexpected files changed in the isolated publication checkout.');
+    if(status.split('\n').some(line=>!/ data\/collection\/[\w-]+\.tar$/.test(line)))throw Error('Unexpected files changed in the isolated publication checkout.');
     const account=JSON.parse(await run(gh,['api','user','--jq','{login,id}'],repo));
-    await run('git',['add','--','data/collection.tar.gz'],repo);
+    await run('git',['add','--','data/collection'],repo);
     await run('git',['-c','user.name='+account.login,'-c',`user.email=${account.id}+${account.login}@users.noreply.github.com`,'commit','-m','Correct catalog item '+id],repo);
     // A concurrent update rejects this ordinary push. Never overwrite remote history.
     await run('git',['push','origin','HEAD:main'],repo);
     }
     const sha=await run('git',['rev-parse','HEAD'],repo);
     console.log('Waiting for the build, validation and Pages deployment.');
-    let runId;
-    for(let attempt=0;attempt<30;attempt++){
-      const runs=JSON.parse(await run(gh,['run','list','--repo',repository,'--workflow','pages.yml','--commit',sha,'--limit','1','--json','databaseId'],repo));
-      if(runs.length){runId=runs[0].databaseId;break;}await new Promise(resolve=>setTimeout(resolve,4000));
-    }
-    if(!runId)throw Error('The commit was uploaded, but GitHub has not started its workflow. Check repository Actions.');
-    await watchDeployment(gh,runId,repo);
-    const site='https://portlandiator.github.io/PI_browser/';
+    const runId=await findDeploymentRun(gh,repository,sha,repo);
+    await watchDeployment(gh,runId,repo,repository);
     const statsResponse=await fetch(site+'stats.json?item-update='+sha);if(!statsResponse.ok)throw Error('Cannot verify the published manifest.');
     const stats=await statsResponse.json(),response=await fetch(site+stats.dataset+'data/'+recordFilename(id));
     if(!response.ok)throw Error('Cannot verify the published item.');

@@ -41,12 +41,12 @@ async function fixture(t){
   return {root,write};
 }
 
-test('interface and documentation changes reuse data, but every source and transitive build input invalidates it',async t=>{
+test('interface, documentation and study-guide changes reuse data, but every source and transitive build input invalidates it',async t=>{
   const {root,write}=await fixture(t);
   const initial=await fingerprint(root);
-  for(const name of ['src/app.mjs','src/index.html','src/style.css','README.md'])await write(name,'changed interface or documentation');
+  for(const name of ['src/app.mjs','src/index.html','src/style.css','README.md','study-guides/editorial.json'])await write(name,'changed interface, documentation or study-guide wording');
   assert.equal(await fingerprint(root),initial);
-  for(const name of ['subject_extracts/Evernote_scrape/A.txt','subject-summaries/A.md','study-guides/editorial.json','data/collection.tar.gz','data/subject-edits.json','pdf_volumes - copy/volume_01.pdf','period_renaming.csv','subjects - reference.docx','src/normalization.mjs','scripts/deployment-cache.mjs']){
+  for(const name of ['subject_extracts/Evernote_scrape/A.txt','subject-summaries/A.md','data/collection.tar.gz','data/subject-edits.json','pdf_volumes - copy/volume_01.pdf','period_renaming.csv','subjects - reference.docx','src/normalization.mjs','scripts/deployment-cache.mjs']){
     const before=await fingerprint(root);
     await fs.appendFile(path.join(root,name),'\n// changed');
     assert.notEqual(await fingerprint(root),before,name);
