@@ -18,6 +18,16 @@ jobs:
     if: github.event_name != 'workflow_run' || (github.event.workflow_run.conclusion == 'success' && github.event.workflow_run.head_repository.full_name == github.repository)
     runs-on: ubuntu-latest
     timeout-minutes: 90
+    env:
+      GENERATED_PATHS: |
+        dist/collections
+        dist/pdf-volumes
+        dist/build-state.json
+        dist/stats.json
+        dist/volumes.json
+        dist/volume-titles.json
+        build-report.json
+        subject-import-report.json
     steps:
       - uses: actions/checkout@v4
         with:
@@ -29,8 +39,23 @@ jobs:
         run: node --test ios/tests/*.test.mjs
       - name: Verify publishable inputs
         run: python scripts/archive-sources.py --check
+      - name: Fingerprint collection inputs
+        id: inputs
+        run: node scripts/deployment-cache.mjs key >> "$GITHUB_OUTPUT"
+      - name: Restore the exact verified collection cache
+        id: generated
+        uses: actions/cache/restore@v4
+        with:
+          path: ${{ env.GENERATED_PATHS }}
+          key: pages-data-v2-${{ runner.os }}-${{ steps.inputs.outputs.compatible }}-${{ steps.inputs.outputs.key }}
+      - name: Extract source archive for cached-data validation
+        if: steps.generated.outputs.cache-hit == 'true'
+        run: for shard in data/collection/*.tar; do tar -xf "$shard"; done
       - name: Build the complete collection from the exact source revision
+        if: steps.generated.outputs.cache-hit != 'true'
         run: node --max-old-space-size=6144 scripts/build.mjs
+      - name: Apply the current reader and study guides
+        run: node scripts/deployment-cache.mjs refresh
       - name: Prepare the audited site and separate PDFs
         env:
           SOURCE_COMMIT: ${{ github.event.workflow_run.head_sha || github.sha }}
@@ -50,6 +75,12 @@ jobs:
           cd ios
           npx playwright install --with-deps chromium
           npm run test:browser
+      - name: Cache the verified generated collection
+        if: steps.generated.outputs.cache-hit != 'true'
+        uses: actions/cache/save@v4
+        with:
+          path: ${{ env.GENERATED_PATHS }}
+          key: pages-data-v2-${{ runner.os }}-${{ steps.inputs.outputs.compatible }}-${{ steps.inputs.outputs.key }}
       - name: Archive the prepared Xcode workspace
         run: tar --exclude=ios/node_modules --exclude=ios/build -czf ios-workspace.tar.gz ios
       - uses: actions/upload-artifact@v4

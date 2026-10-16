@@ -34,17 +34,23 @@ struct SiteRouter {
     let publicBase: URL
     var pdfPublicBase: URL? = nil
 
+    // URL.path can omit a directory URL's trailing slash on Apple platforms.
+    // URLComponents preserves it, which is essential for roots and path boundaries.
+    private func urlPath(_ url: URL) -> String {
+        URLComponents(url: url, resolvingAgainstBaseURL: true)?.path ?? ""
+    }
+
     func isLocal(_ url: URL) -> Bool {
         url.scheme == "http" && url.host == "127.0.0.1" && url.port == localBase.port &&
-        url.path.hasPrefix(AppConfiguration.sitePath)
+        url.user == nil && url.password == nil && urlPath(url).hasPrefix(AppConfiguration.sitePath)
     }
 
     func localURL(for url: URL) -> URL? {
         if isLocal(url) { return url }
         if url == AppConfiguration.bibliography { return page("bibliography.pdf") }
         if let pdfPublicBase, url.scheme == "https", url.host == pdfPublicBase.host,
-           url.port == nil, url.user == nil, url.password == nil, url.path.hasPrefix(pdfPublicBase.path) {
-            let relative = String(url.path.dropFirst(pdfPublicBase.path.count))
+           url.port == nil, url.user == nil, url.password == nil, urlPath(url).hasPrefix(urlPath(pdfPublicBase)) {
+            let relative = String(urlPath(url).dropFirst(urlPath(pdfPublicBase).count))
             if relative.range(of: "^pdf-volumes/volume-[0-9]+\\.pdf$", options: .regularExpression) != nil {
                 var parts = URLComponents(url: page(relative), resolvingAgainstBaseURL: false)!
                 parts.query = url.query; parts.fragment = url.fragment; return parts.url
@@ -52,7 +58,7 @@ struct SiteRouter {
         }
         guard url.scheme == "https", url.host == publicBase.host, url.port == nil,
               url.user == nil, url.password == nil,
-              url.path.hasPrefix(publicBase.path) else { return nil }
+              urlPath(url).hasPrefix(urlPath(publicBase)) else { return nil }
         var parts = URLComponents(url: url, resolvingAgainstBaseURL: false)!
         parts.scheme = localBase.scheme; parts.host = localBase.host; parts.port = localBase.port
         return parts.url
@@ -60,9 +66,9 @@ struct SiteRouter {
 
     func publicURL(for url: URL) -> URL? {
         guard isLocal(url) else { return nil }
-        if url.path == AppConfiguration.sitePath + "bibliography.pdf" { return AppConfiguration.bibliography }
-        if let pdfPublicBase, url.path.hasPrefix(AppConfiguration.sitePath + "pdf-volumes/") {
-            let relative = String(url.path.dropFirst(AppConfiguration.sitePath.count))
+        if urlPath(url) == AppConfiguration.sitePath + "bibliography.pdf" { return AppConfiguration.bibliography }
+        if let pdfPublicBase, urlPath(url).hasPrefix(AppConfiguration.sitePath + "pdf-volumes/") {
+            let relative = String(urlPath(url).dropFirst(AppConfiguration.sitePath.count))
             var parts = URLComponents(url: pdfPublicBase.appendingPathComponent(relative), resolvingAgainstBaseURL: false)!
             parts.query = url.query; parts.fragment = url.fragment; return parts.url
         }

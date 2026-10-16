@@ -66,10 +66,14 @@ final class OfflineReaderTests: XCTestCase {
         let publicURL = URL(string:"https://portlandiator.github.io/PI_browser/?id=BH00001#p-en-3")!
         let local = try XCTUnwrap(router.localURL(for: publicURL))
         XCTAssertEqual(local.port, 9000)
+        XCTAssertTrue(router.isLocal(router.localBase))
+        XCTAssertEqual(router.publicURL(for: router.localBase), AppConfiguration.publicBase)
         XCTAssertEqual(router.publicURL(for: local), publicURL)
         XCTAssertNil(router.localURL(for: URL(string:"https://portlandiator.github.io.evil.test/PI_browser/")!))
         XCTAssertNil(router.localURL(for: URL(string:"https://portlandiator.github.io/PI_browser-evil/")!))
         XCTAssertNil(router.publicURL(for: URL(string:"http://127.0.0.1:9001/PI_browser/")!))
+        XCTAssertNil(router.publicURL(for: URL(string:"http://127.0.0.1:9000/PI_browser-evil/")!))
+        XCTAssertNil(router.publicURL(for: URL(string:"http://user@127.0.0.1:9000/PI_browser/")!))
     }
 
     @MainActor func testBookmarksPersistAndHistoryIsBounded() throws {
@@ -94,6 +98,7 @@ final class OfflineReaderTests: XCTestCase {
         let publicURL = try XCTUnwrap(router.publicURL(for:local))
         XCTAssertEqual(publicURL.absoluteString,"https://loomofreality.github.io/PI_volumes/pdf-volumes/volume-12.pdf#page=5")
         XCTAssertEqual(router.localURL(for:publicURL),local)
+        XCTAssertNil(router.localURL(for: URL(string:"https://loomofreality.github.io/PI_volumes-evil/pdf-volumes/volume-12.pdf")!))
         XCTAssertEqual(router.publicURL(for:router.page("bibliography.pdf")),AppConfiguration.bibliography)
         XCTAssertEqual(router.localURL(for:AppConfiguration.bibliography),router.page("bibliography.pdf"))
     }
