@@ -1,9 +1,40 @@
 import XCTest
 
 final class ReaderUITests: XCTestCase {
+    func testBookMenuReturnsToCatalogRepeatedly() throws {
+        continueAfterFailure = false
+        let app = XCUIApplication(); app.launch()
+        let browse = app.buttons["Browse collection"]
+        XCTAssertTrue(browse.waitForExistence(timeout: 30))
+        XCTAssertEqual(XCTWaiter.wait(for: [XCTNSPredicateExpectation(predicate: NSPredicate(format: "enabled == true"), object: browse)], timeout: 30), .completed)
+        func choose(_ section: String) {
+            browse.tap()
+            let item = app.buttons[section]
+            XCTAssertTrue(item.waitForExistence(timeout: 5))
+            item.tap()
+        }
+        // Exercise the native menu, not the similarly named link inside the website.
+        for (section, heading) in [("Subjects", "Browse by subject."), ("Volumes", "Read by volume."), ("Subjects", "Browse by subject.")] {
+            choose(section)
+            XCTAssertTrue(app.webViews.staticTexts[heading].firstMatch.waitForExistence(timeout: 30))
+            choose("Catalog")
+            let search = app.webViews.textFields.matching(NSPredicate(format: "placeholderValue CONTAINS 'Search words'")).firstMatch
+            XCTAssertTrue(search.waitForExistence(timeout: 30))
+            XCTAssertEqual(app.state, .runningForeground)
+        }
+        let search = app.webViews.textFields.matching(NSPredicate(format: "placeholderValue CONTAINS 'Search words'")).firstMatch
+        search.tap(); search.typeText("BH00001\n")
+        let result = app.webViews.links.matching(NSPredicate(format: "label CONTAINS %@", "BH00001")).firstMatch
+        if result.waitForExistence(timeout: 15) { result.tap() }
+        XCTAssertTrue(app.webViews.buttons["← Back to collection"].waitForExistence(timeout: 30))
+    }
+
     func testCatalogBookmarksAndCollection() throws {
         let app = XCUIApplication(); app.launch()
         XCTAssertTrue(app.webViews.firstMatch.waitForExistence(timeout:30))
+        let browse = app.buttons["Browse collection"]
+        XCTAssertEqual(XCTWaiter.wait(for: [XCTNSPredicateExpectation(predicate: NSPredicate(format: "enabled == true"), object: browse)], timeout: 30), .completed)
+        browse.tap(); app.buttons["Catalog"].tap()
         let search = app.webViews.textFields.matching(NSPredicate(format:"placeholderValue CONTAINS 'Search words'")).firstMatch
         XCTAssertTrue(search.waitForExistence(timeout:30))
         search.tap(); search.typeText("BH00001\n")

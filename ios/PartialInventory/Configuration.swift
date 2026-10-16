@@ -78,6 +78,8 @@ struct SiteRouter {
     }
 
     func page(_ relative: String) -> URL {
-        URL(string: relative, relativeTo: localBase)!.absoluteURL
+        // Menu destinations are bundle paths. Foundation can reject an empty
+        // relative URL on iOS; Catalog must use the already validated root.
+        relative.isEmpty ? localBase : localBase.appendingPathComponent(relative)
     }
 }

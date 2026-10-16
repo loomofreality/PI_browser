@@ -2,6 +2,23 @@ import XCTest
 @testable import PartialInventory
 
 final class OfflineReaderTests: XCTestCase {
+    func testNativeMenuDestinationsIncludeCatalogRoot() throws {
+        for port in [9000, 54321] {
+            let base = try XCTUnwrap(URL(string: "http://127.0.0.1:\(port)/PI_browser/"))
+            let router = SiteRouter(localBase: base, publicBase: AppConfiguration.publicBase)
+            // Catalog uses an empty path in the native book menu. This previously
+            // force-unwrapped a nil URL and terminated the app on a real iPhone.
+            XCTAssertEqual(router.page(""), base)
+            XCTAssertEqual(router.publicURL(for: router.page("")), AppConfiguration.publicBase)
+            for page in ["subjects.html", "volume-view.html", "study-guides/index.html", "bibliography.pdf", "pdf-volumes/volume-12.pdf"] {
+                let local = router.page(page)
+                XCTAssertEqual(local.absoluteString, base.absoluteString + page)
+                XCTAssertTrue(router.isLocal(local))
+                XCTAssertEqual(router.localURL(for: local), local)
+            }
+        }
+    }
+
     func testLoopbackTransportAndPDFRange() async throws {
         let root = FileManager.default.temporaryDirectory.appendingPathComponent(UUID().uuidString)
         try FileManager.default.createDirectory(at: root, withIntermediateDirectories: true)
