@@ -1,0 +1,90 @@
+name: Build offline iOS app
+on:
+  workflow_run:
+    workflows: [Build and deploy Partial Inventory browser]
+    types: [completed]
+    branches: [main]
+  push:
+    branches: [main]
+    paths: ['ios/**', '.github/workflows/ios.yml']
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: ios-build
+  cancel-in-progress: false
+jobs:
+  package:
+    if: github.event_name != 'workflow_run' || (github.event.workflow_run.conclusion == 'success' && github.event.workflow_run.head_repository.full_name == github.repository)
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.workflow_run.head_sha || github.sha }}
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Test the offline packager
+        run: node --test ios/tests/*.test.mjs
+      - name: Verify publishable inputs
+        run: python scripts/archive-sources.py --check
+      - name: Build the complete collection from the exact source revision
+        run: node --max-old-space-size=6144 scripts/build.mjs
+      - name: Prepare the audited site and separate PDFs
+        env:
+          SOURCE_COMMIT: ${{ github.event.workflow_run.head_sha || github.sha }}
+        run: node scripts/prepare-pages.mjs "$SOURCE_COMMIT"
+      - name: Run website tests before packaging
+        run: node --test tests/*.test.mjs
+      - name: Package all content for offline use
+        env:
+          SOURCE_COMMIT: ${{ github.event.workflow_run.head_sha || github.sha }}
+        run: |
+          DATASET=$(node -p "require('./public-site/publication.json').dataset.split('/')[1]")
+          node ios/scripts/package-website.mjs --site public-site --audit "publication-audit/$SOURCE_COMMIT/$DATASET" --pdf-site pdf-site --output ios/PartialInventory/Website --bibliography 'docs/Bibliography, Source Codes and Subject Schema.pdf' --commit "$SOURCE_COMMIT"
+          python ios/scripts/generate-project.py
+      - name: Exercise the web bundle with external network requests blocked
+        run: |
+          npm install --prefix ios --ignore-scripts --no-package-lock
+          cd ios
+          npx playwright install --with-deps chromium
+          npm run test:browser
+      - name: Archive the prepared Xcode workspace
+        run: tar --exclude=ios/node_modules --exclude=ios/build -czf ios-workspace.tar.gz ios
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: ios-offline-browser-results
+          path: ios/build/browser-check
+          retention-days: 30
+      - uses: actions/upload-artifact@v4
+        with:
+          name: ios-workspace
+          path: ios-workspace.tar.gz
+          compression-level: 0
+          retention-days: 30
+  simulator:
+    needs: package
+    runs-on: macos-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          name: ios-workspace
+      - run: tar -xzf ios-workspace.tar.gz
+      - name: Select an available iPhone simulator
+        run: |
+          xcodebuild -version
+          xcrun simctl list devices available -j > devices.json
+          python3 -c 'import json,os; ds=json.load(open("devices.json"))["devices"]; d=next(d for k,v in ds.items() if "iOS" in k for d in v if "iPhone" in d["name"]); print("SIMULATOR_ID="+d["udid"])' >> "$GITHUB_ENV"
+      - name: Build and test the actual offline app
+        run: xcodebuild -project ios/PartialInventory.xcodeproj -scheme PartialInventory -destination "platform=iOS Simulator,id=$SIMULATOR_ID" -derivedDataPath ios/build -resultBundlePath ios/TestResults.xcresult CODE_SIGNING_ALLOWED=NO test
+      - name: Compile for a real device without signing
+        run: xcodebuild -project ios/PartialInventory.xcodeproj -scheme PartialInventory -configuration Release -destination 'generic/platform=iOS' -derivedDataPath ios/device-build CODE_SIGNING_ALLOWED=NO build
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: ios-simulator-results
+          path: ios/TestResults.xcresult
+          retention-days: 30

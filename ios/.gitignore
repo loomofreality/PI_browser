@@ -1,0 +1,8 @@
+PartialInventory/Website/
+PartialInventory/Website.staging-*/
+build/
+*.xcuserstate
+xcuserdata/
+.DS_Store
+node_modules/
+package-lock.json

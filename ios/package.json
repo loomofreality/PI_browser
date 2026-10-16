@@ -1,0 +1,10 @@
+{
+  "name": "partial-inventory-ios-verification",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/*.test.mjs",
+    "test:browser": "node scripts/browser-smoke.mjs PartialInventory/Website build/browser-check"
+  },
+  "devDependencies": { "playwright": "1.62.1" }
+}

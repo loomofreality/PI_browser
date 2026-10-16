@@ -1,0 +1,60 @@
+name: Publish tested iOS build to TestFlight
+on:
+  workflow_dispatch:
+    inputs:
+      build_run_id:
+        description: Successful Build offline iOS app workflow run ID
+        required: true
+      version:
+        description: App marketing version
+        default: '1.0'
+        required: true
+permissions:
+  contents: read
+  actions: read
+concurrency:
+  group: ios-testflight
+  cancel-in-progress: false
+jobs:
+  upload:
+    runs-on: macos-latest
+    environment: testflight
+    timeout-minutes: 60
+    steps:
+      - name: Require a successful trusted build
+        uses: actions/github-script@v7
+        env:
+          BUILD_RUN_ID: ${{ inputs.build_run_id }}
+        with:
+          script: |
+            if (!/^\d+$/.test(process.env.BUILD_RUN_ID)) throw new Error('Invalid run ID');
+            const {data:r} = await github.rest.actions.getWorkflowRun({...context.repo, run_id:Number(process.env.BUILD_RUN_ID)});
+            if (r.name !== 'Build offline iOS app' || r.conclusion !== 'success' || r.head_branch !== 'main' || r.head_repository.full_name !== `${context.repo.owner}/${context.repo.repo}`) throw new Error('Select a successful iOS build from this repository main branch');
+      - uses: actions/download-artifact@v4
+        with:
+          name: ios-workspace
+          run-id: ${{ inputs.build_run_id }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+      - run: tar -xzf ios-workspace.tar.gz
+      - name: Install signing material in the temporary runner
+        env:
+          CERTIFICATE_BASE64: ${{ secrets.IOS_DISTRIBUTION_P12_BASE64 }}
+          CERTIFICATE_PASSWORD: ${{ secrets.IOS_DISTRIBUTION_P12_PASSWORD }}
+          PROFILE_BASE64: ${{ secrets.IOS_PROFILE_BASE64 }}
+          ASC_PRIVATE_KEY: ${{ secrets.ASC_PRIVATE_KEY }}
+          KEYCHAIN_PASSWORD: ${{ secrets.IOS_KEYCHAIN_PASSWORD }}
+        run: |
+          python3 ios/scripts/signing.py prepare
+      - name: Archive and upload
+        env:
+          TEAM_ID: ${{ vars.IOS_TEAM_ID }}
+          BUNDLE_ID: ${{ vars.IOS_BUNDLE_ID }}
+          PROFILE_NAME: ${{ vars.IOS_PROFILE_NAME }}
+          ASC_KEY_ID: ${{ secrets.ASC_KEY_ID }}
+          ASC_ISSUER_ID: ${{ secrets.ASC_ISSUER_ID }}
+          APP_VERSION: ${{ inputs.version }}
+          BUILD_NUMBER: ${{ github.run_number }}.${{ github.run_attempt }}
+        run: python3 ios/scripts/signing.py upload
+      - name: Clean temporary signing files
+        if: always()
+        run: python3 ios/scripts/signing.py cleanup
