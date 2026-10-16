@@ -5,7 +5,7 @@
       "id": "C607ACD036BEE32B103A75FD10883CF2",
       "slug": "creativity",
       "displayTitle": "Creativity in art",
-      "introduction": "An outward garden begins, in one of these passages, with a garden in the heart. That image makes artistic creation a question about the life we cultivate within and the forms we bring into the world. The selections move between inspiration and patient development: poetry may disclose hidden meanings, while talent advances through effort and the pursuit of proficiency. Their encouragement reaches painting, music, verse, and the making of things that serve others. Read beside the subjects of literature and the high station of the arts and sciences, creativity becomes part of a shared culture in which capacities are educated and meanings communicated. John Dewey’s concern with the continuity between art and everyday experience offers a useful philosophical conversation [1]; the passages here give that relationship a spiritual orientation. They leave us with a generous challenge: to make something through which another person can see, feel, or understand more fully, and to let the making enlarge the maker.",
+      "introduction": "Every flower a gardener raises, ‘Abdu’l-Bahá suggests, first blooms in an inner garden. Creative work begins there, in a heart made beautiful, and then the one light of the Sun of Truth shines out as harmony through the musician, as fine verse through the poet, and as marvelous pictures through the painter. Inspiration is a gift, yet He asks that it grow day by day through striving, until the forms of the Concourse on High are mirrored in the world below. He urges His friends to create, reminding them that creation belongs first to God, who has nonetheless entrusted a share of it to humankind, and He hopes they will paint the world anew with the fine brush of the spirit. John Dewey’s thought on the continuity of art and ordinary experience [1] finds here a spiritual horizon. To make something beautiful and useful becomes a form of service, opening onto the high station of the arts and sciences, the riches of literature and drama, and the whole family of the arts.",
       "arc": "Enter through the garden of the heart, discover inspiration in several arts, attend to the cultivation of skill, and widen creation toward shared life.",
       "order": [
         {
@@ -26,7 +26,10 @@
         },
         {
           "key": "source:AB07288",
-          "why": "Connect the pursuit of proficiency with the ambition to give spiritual perception a visible form."
+          "why": "Connect the pursuit of proficiency with the ambition to give spiritual perception a visible form.",
+          "shortened": [
+            "Now if that one intoxicated with the divine cup seeks complete proficiency in the art of drawing and illustration, he must strive until the image of the Concourse on High is reflected in the mirror of the world below, and those celestial forms draw back the veil in every realm of the material world."
+          ]
         },
         {
           "key": "source:AB09263",
@@ -42,7 +45,10 @@
         },
         {
           "key": "source:ABU2928",
-          "why": "Retain the unlinked account and end with personal encouragement to pursue artistic study."
+          "why": "Retain the unlinked account and end with personal encouragement to pursue artistic study.",
+          "shortened": [
+            "The Master said: \"You must let the children study that which they like best. If your daughter loves art, she can devote her time to it and surely she will succeed. Painting is a lovely art and most refined."
+          ]
         }
       ],
       "questions": [
@@ -90,28 +96,45 @@
       "id": "B06717AAA123E08900D241D1781A5E55",
       "slug": "silence",
       "displayTitle": "Silence; fewness of words",
-      "introduction": "A silence can hold understanding that speech has not yet learned to carry. These passages explore restraint as a protection for reflection, a support to steadfastness, and a way of allowing deeds to give substance to faith. Their images are arresting: eyes opened while lips are sealed, silence worn as an ornament, words capable of casting a spark. The surrounding source paragraphs sometimes address danger, misunderstanding, and the need for wisdom in particular circumstances; their counsel calls for discernment in its application. The compilation also opens the garment of silence and summons the reader to speak in remembrance of God. Ecclesiastes likewise places silence and speech within a question of their proper time [1]. Read with the neighboring subjects of contemplation and moderation, the tension becomes fruitful: inward attention may prepare us to recognize both the harm of an unnecessary word and the responsibility of a word that needs to be spoken.",
+      "introduction": "When the mystery of God is taught to a man, an old Persian saying holds, his eyes are opened and his lips are sealed. The Writings return to that wisdom often, and to the tradition that the sign of intellect is contemplation and the sign of contemplation is silence. Silence becomes a fortress for the servants of God, an ornament that guards them from the spark of careless speech, and a source of steadfastness in times of danger. When words are needed, the best are few and full of benefit, like the brief letter of Solomon to the Queen of Sheba. Ecclesiastes, too, sets a time to keep silence beside a time to speak [1]. Yet the divine voice calls the soul out of the garment of silence altogether when the theme is His remembrance. Learning which moment is which leads into wisdom and the restraint against idle talk and backbiting, and toward the deeds that alone give words their weight.",
       "arc": "Open with inward understanding, explore the protection offered by restraint, test speech by its usefulness and its deeds, then end with the summons to speak.",
       "order": [
         {
           "key": "source:AB06599",
-          "why": "The image of opened eyes and sealed lips draws the reader into the relationship between insight and restraint."
+          "why": "The image of opened eyes and sealed lips draws the reader into the relationship between insight and restraint.",
+          "shortened": [
+            "Thou hast prayed and supplicated to God that thou mayest be protected from temptation, discover the inner life, close thy lips and find great confirmation. It is said in the Persian language that when a man is taught the mystery of God, his eyes are opened but his lips are sealed. I ask of God that thou mayest be protected and preserved from losing thy footing and in the time of testing remain firm and steadfast."
+          ]
         },
         {
           "key": "source:BH02558",
-          "why": "Give the inward image an explicit connection to contemplation and worship; preserve the reported tradition’s attribution."
+          "why": "Give the inward image an explicit connection to contemplation and worship; preserve the reported tradition’s attribution.",
+          "shortened": [
+            "The Seal of the Prophets and Guide of all paths - may the spirit of all else be sacrificed for His sake - hath said: \"O Abu Dharr! For everything there is an evidence: the evidence of intellect is contemplation, and the evidence of contemplation is silence.\" And likewise He hath said: \"O Abu Dharr! The most excellent worship is silence.\""
+          ]
         },
         {
           "key": "source:BH00990",
-          "why": "Develop the protective images of fortress, ornament, and spark while keeping its two source paragraphs together."
+          "why": "Develop the protective images of fortress, ornament, and spark while keeping its two source paragraphs together.",
+          "shortened": [
+            "The virtues of silence are many. In truth it is a mighty fortress for the protection of the servants.",
+            "Let this matter not escape the notice of that spiritual friend. The perfect mystics, mature scholars, and those possessed of protection and preservation have complained of speech and praised and extolled silence. The servant beseeches his Lord to adorn His servants with the ornament of silence and protect them from the spark of speech."
+          ]
         },
         {
           "key": "source:AB11984",
-          "why": "Offer a brief statement about steadiness, with its particular circumstances available in source context."
+          "why": "Offer a brief statement about steadiness, with its particular circumstances available in source context.",
+          "shortened": [
+            "Silence and quietude are the cause of steadfastness and firmness, because promotion is forbidden in these parts and this prohibition is explicitly stated."
+          ]
         },
         {
           "key": "source:AB03943",
-          "why": "Turn toward speech itself: concision is judged by comprehensive meaning and benefit."
+          "why": "Turn toward speech itself: concision is judged by comprehensive meaning and benefit.",
+          "shortened": [
+            "It is said that the most eloquent letter written in ancient times was that of Solomon to Bilqis of Sheba.",
+            "Observe how concise and beneficial it is - forbidding pride and haughtiness, which is the root of all vices, and calling to submission, which is the mother of all virtues. Thus it becomes clear that prolixity and verbosity yield no fruit. A letter should be comprehensive in meaning while being beneficial and concise in both word and meaning."
+          ]
         },
         {
           "key": "source:BH01690",
@@ -163,20 +186,29 @@
       "id": "19BF26DB7B3FE2CF0ECEEB58485A8C6D",
       "slug": "meditation",
       "displayTitle": "Meditation",
-      "introduction": "An hour of reflection is set beside seventy years of worship: the startling comparison asks what depth of attention can accomplish that the passage of time alone cannot. This compilation gives meditation several forms—pondering the divine verses, discerning what draws the heart nearer to God, quiet prayer, and a widening capacity for discovery. It also places passages about inward life beside demanding counsels of kindness, justice, and service. That arrangement invites a searching question about how contemplation bears fruit in our dealings with others. Read alongside the subjects of silence, concentration, and cooperation, withdrawal can be considered within a larger rhythm of return and participation. The closing passages bring the Báb’s account of worship without reward into conversation with Psalm 23’s language of trust, restoration, and guidance. These different voices invite patient reflection on what we seek in meditation, what we bring to it, and what we carry back into the world.",
+      "introduction": "An hour’s reflection, Bahá’u’lláh repeats from an old saying, is worth more than seventy years of worship, and He sharpens the point by recalling the divines who prayed night and day for the Promised One and then condemned Him when He came. Devotion without thought can miss what it longs for. ‘Abdu’l-Bahá, who for years kept a bare room in the mosque at ‘Akká where He would spend a whole day in quiet prayer, describes meditation as the faculty through which the spirit is fed, mysteries are unlocked and the sciences and arts are drawn from the invisible plane; in that inward state a person withdraws from all outside things and is immersed in the ocean of spiritual life. Yet His counsel moves at once outward: discern what brings nearness and what causes estrangement, wound no heart with a word, pray for all, meet the one who stabs you with healing salve. The Báb asks a harder question still, whether we would worship with no fear of fire and no hope of paradise. From here the path turns toward bringing oneself to account each day, the reading of the Sacred Writings, the discipline of concentration, and the long road of spiritual wayfaring where contemplation becomes a virtuous life.",
       "arc": "Begin with the startling value assigned to reflection, enter its inward practice, turn toward its ethical fruits, and close with devotion, renewal, and trust.",
       "order": [
         {
           "key": "source:BH01933",
-          "why": "The contrast between an hour and seventy years gives the reader an immediate puzzle about the quality of attention."
+          "why": "The contrast between an hour and seventy years gives the reader an immediate puzzle about the quality of attention.",
+          "shortened": [
+            "He has said: \"An hour's reflection is better than seventy years of worship.\""
+          ]
         },
         {
           "key": "source:BH03346",
-          "why": "Repeat the motif as an invitation to observe and ponder; the source context deepens its challenge to unexamined devotion."
+          "why": "Repeat the motif as an invitation to observe and ponder; the source context deepens its challenge to unexamined devotion.",
+          "shortened": [
+            "Observe and ponder, for an hour's reflection is better than seventy years of pious worship. How many were the divines, mystics and doctors of the Shi'ih sect who, throughout the days and nights, occupied themselves with the remembrance of the Qa'im, beseeching God - glorified be His majesty - from pulpits and in mosques for His appearance, yearning to attain His presence. Yet when the horizon of the world was illumined with the lights of His countenance and the divine Lote-Tree sprouted forth by the leave of the Glorious Lord, all arose in the early years to oppose Him and issued the verdict for the shedding of His most pure blood."
+          ]
         },
         {
           "key": "source:AB03376",
-          "why": "Keep the third formulation nearby, with its source context connecting reflection to self-awareness and awakening."
+          "why": "Keep the third formulation nearby, with its source context connecting reflection to self-awareness and awakening.",
+          "shortened": [
+            "This insight causes awakening, and awakening leads to remembrance and reflection. This is why it is said that an hour's reflection is better than seventy years of worship."
+          ]
         },
         {
           "key": "source:ABU1900",
@@ -184,7 +216,10 @@
         },
         {
           "key": "source:BH09019",
-          "why": "Introduce sustained attention to the divine verses as an orientation for inward life."
+          "why": "Introduce sustained attention to the divine verses as an orientation for inward life.",
+          "shortened": [
+            "God willing, may you occupy yourself at all times in the remembrance of God and in meditation upon His verses with a pure heart, an illumined breast, a sanctified tongue and a penetrating vision."
+          ]
         },
         {
           "key": "source:BH11336",
@@ -192,7 +227,12 @@
         },
         {
           "key": "source:ABU0395",
-          "why": "Open the larger account of meditation as spiritual nourishment and discovery. Place scientific and practical discovery beside the earlier account of spiritual insight."
+          "why": "Open the larger account of meditation as spiritual nourishment and discovery. Place scientific and practical discovery beside the earlier account of spiritual insight.",
+          "shortened": [
+            "The spirit of man is itself informed and strengthened during meditation; through it affairs of which man knew nothing are unfolded before his view. Through it he receives Divine inspiration, through it he receives heavenly food.",
+            "Meditation is the key for opening the doors of mysteries. In that state man abstracts himself: in that state man withdraws himself from all outside objects; in that subjective mood he is immersed in the ocean of spiritual life and can unfold the secrets of things-in-themselves.",
+            "This faculty brings forth from the invisible plane the sciences and arts. Through the meditative faculty inventions are made possible, colossal undertakings are carried out; through it governments can run smoothly."
+          ]
         },
         {
           "key": "source:AB08924",
@@ -204,7 +244,12 @@
         },
         {
           "key": "source:AB08838",
-          "why": "Follow with trust and receptivity, keeping its several source paragraphs in their original sequence."
+          "why": "Follow with trust and receptivity, keeping its several source paragraphs in their original sequence.",
+          "shortened": [
+            "Ask whatsoever thou wishest of Him alone; seek whatsoever thou seekest from Him alone.",
+            "With a look He granteth a hundred thousand hopes, with a glance He healeth a hundred thousand incurable ills, with a nod He layeth balm on every wound, with a glimpse He freeth the hearts from the shackles of grief.",
+            "He doeth as He doeth, and what recourse have we? He carrieth out His Will, He ordaineth what He pleaseth. Then better for thee to bow down thy head in submission, and put thy trust in the All-Merciful Lord."
+          ]
         },
         {
           "key": "source:AB02378",
@@ -212,35 +257,59 @@
         },
         {
           "key": "source:AB06807",
-          "why": "Direct attention toward the human heart, preparing the movement into relationships."
+          "why": "Direct attention toward the human heart, preparing the movement into relationships.",
+          "shortened": [
+            "This is the time to soar into the atmosphere of knowledge and to rise and expound the divine mysteries. Concentrate your thoughts on the human heart and seek communion with the spirits of the Kingdom."
+          ]
         },
         {
           "key": "source:AB00044",
-          "why": "Let the inward turn encounter a concrete ethical test in speech, injury, and the wish for another’s well-being."
+          "why": "Let the inward turn encounter a concrete ethical test in speech, injury, and the wish for another’s well-being.",
+          "shortened": [
+            "O army of God! Beware lest ye harm any soul, or make any heart to sorrow; lest ye wound any man with your words, be he known to you or a stranger, be he friend or foe. Pray ye for all; ask ye that all be blessed, all be forgiven. Beware, beware, lest any of you seek vengeance, even against one who is thirsting for your blood. Beware, beware, lest ye offend the feelings of another, even though he be an evil-doer, and he wish you ill."
+          ]
         },
         {
           "key": "source:BH00005",
-          "why": "Widen that test through a sustained series of images of generosity, refuge, and justice."
+          "why": "Widen that test through a sustained series of images of generosity, refuge, and justice.",
+          "shortened": [
+            "\"Be generous in prosperity, and thankful in adversity. Be worthy of the trust of thy neighbor, and look upon him with a bright and friendly face. Be a treasure to the poor, an admonisher to the rich, an answerer to the cry of the needy, a preserver of the sanctity of thy pledge. Be fair in thy judgment, and guarded in thy speech. Be unjust to no man, and show all meekness to all men. Be as a lamp unto them that walk in darkness, a joy to the sorrowful, a sea for the thirsty, a haven for the distressed, an upholder and defender of the victim of oppression."
+          ]
         },
         {
           "key": "source:AB00915",
-          "why": "Deepen the difficulty by asking how loving conduct responds to hostility."
+          "why": "Deepen the difficulty by asking how loving conduct responds to hostility.",
+          "shortened": [
+            "Care for the stranger as for one of your own; show to alien souls the same loving kindness ye bestow upon your faithful friends. Should any come to blows with you, seek to be friends with him; should any stab you to the heart, be ye a healing salve unto his sores; should any taunt and mock at you, meet him with love. Should any heap his blame upon you, praise ye him; should he offer you a deadly poison, give him the choicest honey in exchange; and should he threaten your life, grant him a remedy that will heal him evermore. Should he be pain itself, be ye his medicine; should he be thorns, be ye his roses and sweet herbs."
+          ]
         },
         {
           "key": "source:AB05247",
-          "why": "Bring worship, recitation, love, and service into a connected account of a life’s direction."
+          "why": "Bring worship, recitation, love, and service into a connected account of a life’s direction.",
+          "shortened": [
+            "Be thou a summoner to love, and be thou kind to all the human race. Love thou the children of men and share in their sorrows. Be thou of those who foster peace. Offer thy friendship, be worthy of trust. Be thou a balm to every sore, be thou a medicine for every ill. Bind thou the souls together. Recite thou the verses of guidance. Be engaged in the worship of thy Lord, and rise up to lead the people aright. Loose thy tongue and teach, and let thy face be bright with the fire of God's love."
+          ]
         },
         {
           "key": "source:AB03158",
-          "why": "Give the ethical sequence a concise outward aim in kindness and the upliftment of society."
+          "why": "Give the ethical sequence a concise outward aim in kindness and the upliftment of society.",
+          "shortened": [
+            "It is your duty to be exceedingly kind to every human being, and to wish him well; to work for the upliftment of society; to blow the breath of life into the dead; to act in accordance with the instructions of Baha'u'llah and walk His path -- until ye change the world of man into the world of God."
+          ]
         },
         {
           "key": "source:AB00874",
-          "why": "Add steadiness and generosity amid difficulty, extending the practice beyond a sheltered moment."
+          "why": "Add steadiness and generosity amid difficulty, extending the practice beyond a sheltered moment.",
+          "shortened": [
+            "As for you, O ye lovers of God, make firm your steps in His Cause, with such resolve that ye shall not be shaken though the direst of calamities assail the world. By nothing, under no conditions, be ye perturbed. Be ye anchored fast as the high mountains, be stars that dawn over the horizon of life, be bright lamps in the gatherings of unity, be souls humble and lowly in the presence of the friends, be innocent in heart."
+          ]
         },
         {
           "key": "source:AB04893",
-          "why": "End the linked sequence with the memorable image of departing life with a candle, brightness, and spirit."
+          "why": "End the linked sequence with the memorable image of departing life with a candle, brightness, and spirit.",
+          "shortened": [
+            "O Friends of God! Now is the time for joy and gladness, for acquiring the characteristics of the All-Merciful. This transitory world is passing even as a fleeting shadow, and the days of life are speeding by. When finally we hasten from this world to the next, we should do so with a candle in our hand, a brightness in our countenance, and a spirit in our heart."
+          ]
         },
         {
           "key": "source:ABU3486",
@@ -248,7 +317,10 @@
         },
         {
           "key": "source:BH05704",
-          "why": "Widen attention from the place of prayer to signs in the world and within oneself."
+          "why": "Widen attention from the place of prayer to signs in the world and within oneself.",
+          "shortened": [
+            "Today striving is necessary, and likewise meditation on the signs in the horizons and within yourselves. His exalted Word: \"And those who strive in Our path, We shall assuredly guide them to Our ways.\" Look ye in the Book of Certitude and ponder."
+          ]
         },
         {
           "key": "source:AB09382",
@@ -256,11 +328,19 @@
         },
         {
           "key": "source:BB00001",
-          "why": "Examine the motive of devotion through the Báb’s account of worship for God’s sake."
+          "why": "Examine the motive of devotion through the Báb’s account of worship for God’s sake.",
+          "shortened": [
+            "Worship thou God in such wise that if thy worship lead thee to the fire, no alteration in thine adoration would be produced, and so likewise if thy recompense should be paradise.",
+            "Fire and paradise both bow down and prostrate themselves before God. That which is worthy of His Essence is to worship Him for His sake, without fear of fire, or hope of paradise.",
+            "Although when true worship is offered, the worshipper is delivered from the fire, and entereth the paradise of God’s good-pleasure, yet such should not be the motive of his act."
+          ]
         },
         {
           "key": "source:AB00034",
-          "why": "Let a prayer for renewal follow the examination of motives, moving from analysis into supplication."
+          "why": "Let a prayer for renewal follow the examination of motives, moving from analysis into supplication.",
+          "shortened": [
+            "O holy Lord! O Lord of loving-kindness! We stray about Thy dwelling, longing to behold Thy beauty, and loving all Thy ways. We are hapless, lowly, and of small account. We are paupers: show us mercy, give us bounty; look not upon our failings, hide Thou our endless sins. Whatever we are, still are we Thine, and what we speak and hear is praise of Thee, and it is Thy face we seek, Thy path we follow. Thou art the Lord of loving-kindness, we are sinners and astray and far from home. Wherefore, O Cloud of Mercy, grant us some drops of rain. O Flowering Bed of grace, send forth a fragrant breeze. O Sea of all bestowals, roll towards us a great wave. O Sun of Bounty, send down a shaft of light. Grant us pity, grant us grace."
+          ]
         },
         {
           "key": "selection:ba272631b06dc24cb83bccd9",

@@ -5,7 +5,7 @@
       "id": "1EBA961BF35048008A08B489196F1A6E",
       "slug": "bibleinterpretation",
       "displayTitle": "Reading the Bible: symbols, recognition, and a life of understanding",
-      "introduction": "What happens when a familiar scriptural phrase becomes a question about the way we live? These readings move from the savor of salt and the fruit of a tree to visions of resurrection, heaven, and a renewed world. Biblical words appear within Baha’i interpretation, devotional exhortation, and reported conversations, sometimes interwoven with Quranic narratives. Their different settings invite careful attention to who speaks, what is being interpreted, and what kind of claim is made. Some passages turn toward character and service; others explore prophecy, spiritual return, or the relationship between historical accounts and revelation. Luke 24:13–32 offers a primary comparison in which conversation, hospitality, and an opened understanding of scripture lead toward recognition [1]. Connected subjects of symbolism, multiple meanings, miracles, and the biblical figures invite further reading. The collection asks how interpretation can deepen both understanding and the quality of a person’s response.",
+      "introduction": "Salt that has lost its savour, a tree known by its fruit, a beam in one’s own eye: the sayings of Christ are familiar enough to be recited without a tremor, and ‘Abdu’l-Bahá turns each of them back on the person reciting it. Do the believers love one another enough to be salt? Does the tree bear anything? Read this way, the Bible becomes a test of conduct before it becomes a puzzle of prophecy. Yet the prophecies are not left alone: Bahá’u’lláh reads the oppression that precedes the coming of the Son of man as the bewilderment of a soul that no longer knows where to seek God, and ‘Abdu’l-Bahá explains sacrifice, the sun that stood still and the woman clothed with the sun as symbols whose meaning is spiritual and whose truth is lived. The Emmaus road, where sorrow, remembered scripture and a shared meal end in recognition [1], shows what such understanding feels like from inside. From here the path leads into symbolism and the multiple meanings of a single verse, into the question of miracles, and into the lives of Moses, Abraham and Christ.",
       "arc": "Begin with the fruits of a lived teaching, then explore inner meanings, recognition, prophetic imagery, particular narratives, and the humility needed to understand.",
       "order": [
         {
@@ -14,11 +14,18 @@
         },
         {
           "key": "source:AB04430",
-          "why": "Bring calling and election beside the tree’s visible fruits."
+          "why": "Bring calling and election beside the tree’s visible fruits.",
+          "shortened": [
+            "O thou rose of the Rose-Garden of the Love of God! His Holiness Christ-may my spirit be His sacrifice!--saith in the Gospel, \"Many are called, but few chosen.\"",
+            "Endeavor and make an effort that certain souls may be trained, of whom His Holiness Christ said, \"Ye shall know the tree by its fruits.\""
+          ]
         },
         {
           "key": "source:AB09718",
-          "why": "Read steadfastness through the fruit-bearing tree."
+          "why": "Read steadfastness through the fruit-bearing tree.",
+          "shortened": [
+            "O thou who hast diffused the fragrances of truth! Stand thou firm in the Cause of God like unto a tree firmly rooted, with massive trunk, spreading branches and abundant fruits, that thou mayest become the manifestation of that which the glorious Lord hath said in the Gospel: \"By their fruits ye shall know them.\""
+          ]
         },
         {
           "key": "source:ABU2326",
@@ -26,7 +33,10 @@
         },
         {
           "key": "source:AB00994",
-          "why": "Consider the account of mercy toward the accused woman."
+          "why": "Consider the account of mercy toward the accused woman.",
+          "shortened": [
+            "In the Gospel it is recorded that an adulteress was brought before Christ and confessed. Those present asked why He did not command her to be stoned. He said that whoever was without sin - that is, had committed no wrong - should arise and stone her. When all examined themselves, they found themselves sinful, and so each fled in a different direction."
+          ]
         },
         {
           "key": "source:AB00090",
@@ -34,15 +44,24 @@
         },
         {
           "key": "source:AB04865",
-          "why": "Hear the concise invitation to give freely."
+          "why": "Hear the concise invitation to give freely.",
+          "shortened": [
+            "In the Glorious Gospel it is said: \"Freely ye have received, freely give.\""
+          ]
         },
         {
           "key": "source:AB11928",
-          "why": "Consider leadership through service while retaining the quoted omissions."
+          "why": "Consider leadership through service while retaining the quoted omissions.",
+          "shortened": [
+            "The Spirit [Jesus] hath said: \"...If any man desire to be first, the same shall be last of all and servant of all...and whosoever will be chief among you, let him be your servant.\""
+          ]
         },
         {
           "key": "source:AB01975",
-          "why": "Return to the concise saying about salt."
+          "why": "Return to the concise saying about salt.",
+          "shortened": [
+            "Christ addressed the disciples saying: \"Ye are the salt of the earth but if the salt hath lost its savour wherefore should it be salted?\""
+          ]
         },
         {
           "key": "source:ABU2426",
@@ -50,7 +69,10 @@
         },
         {
           "key": "source:ABU3179",
-          "why": "Consider the reported concern for the lost lamb."
+          "why": "Consider the reported concern for the lost lamb.",
+          "shortened": [
+            "The Lord Christ, two thousand years ago, spoke of the importance of finding the lost sheep, so that you have even to leave ninety-nine sheep, in order to go and find the lost lamb, and the joy is greater in finding the little lost lamb than over the ninety-nine sheep."
+          ]
         },
         {
           "key": "source:ABU3429",
@@ -66,7 +88,10 @@
         },
         {
           "key": "source:BH00002",
-          "why": "Explore the Book of Certitude’s reading of oppression and coming."
+          "why": "Explore the Book of Certitude’s reading of oppression and coming.",
+          "shortened": [
+            "What \"oppression\" is more grievous than that a soul seeking the truth, and wishing to attain unto the knowledge of God, should know not where to go for it and from whom to seek it? For opinions have sorely differed, and the ways unto the attainment of God have multiplied. This \"oppression\" is the essential feature of every Revelation. Unless it cometh to pass, the Sun of Truth will not be made manifest."
+          ]
         },
         {
           "key": "source:AB00575",
@@ -74,7 +99,10 @@
         },
         {
           "key": "source:AB01218",
-          "why": "Read spiritual birth through John’s Gospel."
+          "why": "Read spiritual birth through John’s Gospel.",
+          "shortened": [
+            "Furthermore, in John 1:12–13 it is said: \"But as many as received Him, to them gave He power to become the sons of God, even to them that believe on His name: Which were born, not of blood, nor of the will of the flesh, nor of the will of man, but of God.\" It follows clearly from this verse of John that even the existence of the Apostles proceeds from a spiritual reality rather than from a material power."
+          ]
         },
         {
           "key": "source:ABU3594",
@@ -86,19 +114,31 @@
         },
         {
           "key": "source:AB00570",
-          "why": "Read the thief image as a challenge to expectations of recognition."
+          "why": "Read the thief image as a challenge to expectations of recognition.",
+          "shortened": [
+            "And yet even more astonishing is that Christ said: Perchance I shall come when you are sleeping, for the coming of the Son of man is like the coming of a thief. Perhaps the thief will be in the house and the owner will be unaware."
+          ]
         },
         {
           "key": "source:AB05248",
-          "why": "Hear the related appeal to wakefulness."
+          "why": "Hear the related appeal to wakefulness.",
+          "shortened": [
+            "His Holiness Christ, addressing the believers, uttereth the following in the Gospel: \"Be awake lest the Son of Man come and find ye asleep!\""
+          ]
         },
         {
           "key": "source:AB00173",
-          "why": "Explore the interpretation of the Comforter as a revelatory Person."
+          "why": "Explore the interpretation of the Comforter as a revelatory Person.",
+          "shortened": [
+            "Thirdly, He says that He speaks not of Himself but is confirmed by the hosts of divine revelation, and declares whatsoever He hears from the Kingdom of Glory. Observe how clear it is that the Comforter is a Person who is inspired by heavenly inspirations and is the source and fountainhead of divine revelation, for the Holy Spirit has no ear to hear."
+          ]
         },
         {
           "key": "source:ABU2650",
-          "why": "Retain the reported identification of the Advocate in its own setting."
+          "why": "Retain the reported identification of the Advocate in its own setting.",
+          "shortened": [
+            "Also in John 16: 7-15 (ino.) \"The Advocate\" and the \"Spirit of Truth\" here spoken of signify Mahomet."
+          ]
         },
         {
           "key": "source:AB00061",
@@ -110,7 +150,10 @@
         },
         {
           "key": "source:BH00008",
-          "why": "Read the cluster of prophetic passages associated with the Holy Land and Akka."
+          "why": "Read the cluster of prophetic passages associated with the Holy Land and Akka.",
+          "shortened": [
+            "This is that Day of which Joel in his Book saith: \"For the day of the Lord is great and very terrible; and who can abide it?\" Likewise Jeremiah saith: \"Alas! for that day is great, so that none is like it.\" All that hath appeared was mentioned in the Books of the Messengers, even unto the mention of the Fortress which is now the seat of the Throne and is known as the Most Great Prison, as David saith: \"Who will lead me into the strong city?\" The strong city is Akka, whose fortress is well-known. This is that Fortress upon which He saith the lights of the Sun of Truth would shine and from whose horizon they would dawn."
+          ]
         },
         {
           "key": "source:BH00243",
@@ -118,7 +161,11 @@
         },
         {
           "key": "source:BH00091",
-          "why": "Explore changing ordinances through the passage from Isaiah."
+          "why": "Explore changing ordinances through the passage from Isaiah.",
+          "shortened": [
+            "In the first chapter of the Book of Isaiah it is recorded: \"To what purpose is the multitude of your sacrifices unto me? saith the Lord: I am full of the burnt offerings of rams, and the fat of fed beasts; and I delight not in the blood of bullocks, or of lambs, or of he goats. When ye come to appear before me, who hath required this at your hand, to tread my courts? Bring no more vain oblations; incense is an abomination unto me; the new moons and sabbaths, the calling of assemblies, and your festivals are mere corruption. Your new moons and your feasts my soul hateth; they are a burden unto me; I am weary to bear them.\"",
+            "One day He commandeth by the sacrifice of a decree, and another day He may lift that very ordinance. He shall not be asked of what He doeth, and He is the All-Knowing Questioner."
+          ]
         },
         {
           "key": "source:AB00012",
@@ -138,7 +185,10 @@
         },
         {
           "key": "source:ABU2490",
-          "why": "Read the water that ends thirst in its reported context."
+          "why": "Read the water that ends thirst in its reported context.",
+          "shortened": [
+            "It was in this instance that His Holiness Christ says: He that drinketh of this water shall never thirst! This means the infinite bestowals of God; the virtues of the Divine world, the perfections of the world of humanity and the ideals of the heavenly realm."
+          ]
         },
         {
           "key": "source:ABU0898",
@@ -146,11 +196,18 @@
         },
         {
           "key": "source:ABU1014",
-          "why": "Read sacrifice as a transformation of character."
+          "why": "Read sacrifice as a transformation of character.",
+          "shortened": [
+            "Just as the sheep sacrificed its life, likewise this natural state of man, which is the animalistic state, must be sacrificed. How should it be sacrificed? The vices of the animalistic state of man must be entirely annihilated, and he must be characterized with divine virtues.",
+            "This was a mystery of that higher sacrifice and when Christ came he said, I will sacrifice myself for the sake of the salvation of all. What did He mean? He meant to change their characters, and in this way make them heavenly, in this way make them God-like, spiritual and divine."
+          ]
         },
         {
           "key": "source:ABU2089",
-          "why": "Keep both material and spiritual meanings in the reported Cain and Abel explanation."
+          "why": "Keep both material and spiritual meanings in the reported Cain and Abel explanation.",
+          "shortened": [
+            "There are two meanings to this narrative - the material and the spiritual. As to the former the occurrence is correctly stated and really happened. In the spiritual significance, we find that Abel represents the Divine Law or Religion, and Cain the human nature. The Divine Law is present in man and attains a certain development when the human nature overcomes it. A man may take a forest and by skillful attention turn it into a garden. But if it be neglected for a time, it reverts into its former condition. So there is always present the tendency to nullify the action of the Divine Law or Religion."
+          ]
         },
         {
           "key": "source:ABU1681",
@@ -162,7 +219,11 @@
         },
         {
           "key": "source:ABU1683",
-          "why": "Explore the reported argument about the sun and freely chosen faith."
+          "why": "Explore the reported argument about the sun and freely chosen faith.",
+          "shortened": [
+            "Think about it - if today a general were to stand and say 'Sun, stand still!' and the sun stood still, would the opposing side dare to continue fighting? All these things have meanings, but it is not that they are beyond divine power.",
+            "\"In God's sight, forced belief is not acceptable. Consider - is a forced friendship acceptable to you? If you tell someone 'If you don't believe, I will kill you' and they believe, this is not faith. Faith must be through recognition, through insight, through guidance, through the diffusion of divine fragrances, through the dawning of lights."
+          ]
         },
         {
           "key": "source:ABU3045",
@@ -170,7 +231,10 @@
         },
         {
           "key": "source:ABU2375",
-          "why": "Keep the brief reported statement about ascension attributed."
+          "why": "Keep the brief reported statement about ascension attributed.",
+          "shortened": [
+            "Elijah and Enoch were believed to have come from human source, but ascended bodily into heaven. Jesus said this could not be."
+          ]
         },
         {
           "key": "source:ABU2786",
@@ -182,7 +246,11 @@
         },
         {
           "key": "source:AB01405",
-          "why": "Read the Holy Land through the many sacred memories gathered around it."
+          "why": "Read the Holy Land through the many sacred memories gathered around it.",
+          "shortened": [
+            "Unto Him Who conversed with God it is the haven of peace and security, and unto the Friend of God a shelter and a refuge. For Lot it is \"a mighty pillar\", and for Jacob a glorious homeland. For David it is the altar of adoration, and for Solomon the throne alluded to thus: \"My Lord, grant a kingdom unto me such as shall not befit anyone after me.\" Unto Zechariah it is the sanctuary of supplication and servitude, and unto John the Baptist the vale of the Kingdom and the wilderness of glad-tidings.",
+            "It is the abode of the Prophets and the dawning-place of the lights of the mighty signs of the Lord. It is the dayspring of holiness and the niche wherein appear the splendours of the all-glorious Lord."
+          ]
         },
         {
           "key": "source:AB04064",
@@ -194,7 +262,10 @@
         },
         {
           "key": "source:BH07010",
-          "why": "Hear the longing for Joseph’s garment."
+          "why": "Hear the longing for Joseph’s garment.",
+          "shortened": [
+            "When will the dark nights of separation and estrangement finally end? Even if lovers' souls should depart their bodies, when will the messenger of the soul journey from the Sheba of the Beloved? When will the Egyptian herald bring to the aged one of Canaan glad tidings of Joseph's garment?"
+          ]
         },
         {
           "key": "source:BB00002",
@@ -202,11 +273,17 @@
         },
         {
           "key": "source:BH05186",
-          "why": "Read Solomon through the flame of divine love."
+          "why": "Read Solomon through the flame of divine love.",
+          "shortened": [
+            "O Isma'il! A single flame from the fire of God's love shone forth upon Solomon and set him ablaze - such a blaze that he lost all control and spoke that which he spoke. God aided him to recognize Him and enabled him to build that renowned edifice which was named the Remote Mosque in the kingdom of creation."
+          ]
         },
         {
           "key": "source:AB01333",
-          "why": "Consider the account of nobility and virtues in the time of David and Solomon."
+          "why": "Consider the account of nobility and virtues in the time of David and Solomon.",
+          "shortened": [
+            "They progressed in all degrees of existence until, in the time of David and Solomon, they reached such a station that the fame of their nobility reached all horizons and news of their virtues and qualities reached East and West."
+          ]
         },
         {
           "key": "source:ABU3530",
@@ -214,7 +291,10 @@
         },
         {
           "key": "source:ABU1277",
-          "why": "Hear the reported recollection of deliverance from Egypt."
+          "why": "Hear the reported recollection of deliverance from Egypt.",
+          "shortened": [
+            "Thus said the Lord of Host, the Lord who delivered you out of the tyranny of Pharaohs, brought you out of Egypt and gave you the land flowing with milk and honey; the God of your fathers Abraham, Jacob, Isaac and Joseph."
+          ]
         },
         {
           "key": "source:AB00168",
@@ -222,7 +302,10 @@
         },
         {
           "key": "source:AB00078",
-          "why": "Keep the argument about narrative and revelation attributed to this text."
+          "why": "Keep the argument about narrative and revelation attributed to this text.",
+          "shortened": [
+            "Know then that the Torah consists of that which was revealed on the Tablets to Moses - peace be upon Him - or what He commanded. As for the stories, these are historical accounts written after Moses - peace be upon Him. The proof of this is that in the final book, events that occurred after Moses are recorded and related. This is clear and evident proof that these stories were recorded after Moses - peace be upon Him. Therefore, there can be no reliance upon such sayings which are mere stories and accounts, for which God has sent down no authority."
+          ]
         },
         {
           "key": "source:ABU1695",
@@ -230,7 +313,11 @@
         },
         {
           "key": "source:BH00018",
-          "why": "Read the objection concerning David’s chronology in its polemical setting."
+          "why": "Read the objection concerning David’s chronology in its polemical setting.",
+          "shortened": [
+            "Some among mankind are ever intent upon denial and objection, as evidenced by how the people of the Bayan have repeatedly inquired why the Point (the Bab), may the spirit of all else be sacrificed for His sake, made mention of David, the Psalmist, before Moses, peace be upon Him, when historically David came after Moses.",
+            "Say: Fear God and object not to Him Whom God hath adorned with the Most Great Infallibility, His most beautiful names and His most exalted attributes. It behooveth the servants to affirm whatsoever proceedeth from the Dayspring of God's Cause, for none save God is aware of the requirements of His consummate wisdom."
+          ]
         },
         {
           "key": "source:AB04677",
@@ -246,11 +333,17 @@
         },
         {
           "key": "source:ABU3075",
-          "why": "Retain the reported statement concerning the dates of the Gospels."
+          "why": "Retain the reported statement concerning the dates of the Gospels.",
+          "shortened": [
+            "We have at present time in our hands four Gospels, two of these were written 60 years after Christ; but today there are ever so many books written on the Cause, proving its authority and greatness."
+          ]
         },
         {
           "key": "source:ABU0747",
-          "why": "Read the reported historical identification of the abomination of desolation with its wording intact."
+          "why": "Read the reported historical identification of the abomination of desolation with its wording intact.",
+          "shortened": [
+            "Matthew, chapter 24 verse 15 to 16: Abomination of desolation is Titus and when he came Judea's Christians fled into the mountains of Leganan and to owe that remained were killed and in that time Mt. Lebanon was give its glory."
+          ]
         },
         {
           "key": "source:ABU2076",
@@ -270,23 +363,38 @@
         },
         {
           "key": "source:AB01161",
-          "why": "Consider the Gospel saying about the Good Master."
+          "why": "Consider the Gospel saying about the Good Master.",
+          "shortened": [
+            "It is mentioned in the Gospel that a man called His Holiness, Christ, \"Good Master.\" His Holiness said unto him, \"Why callest thou Me good? None is good save One, that is God.\""
+          ]
         },
         {
           "key": "source:AB04316",
-          "why": "Keep the allusion to Habib in its Quranic and interpretive setting."
+          "why": "Keep the allusion to Habib in its Quranic and interpretive setting.",
+          "shortened": [
+            "The allusions followed the pattern of the words of Habib the Carpenter, who was one of the trustees of Christ, who said \"Why should I not worship Him Who hath created me, and unto Whom ye shall be brought back?\" - meaning \"Why do ye not worship Him Who created you?\""
+          ]
         },
         {
           "key": "source:AB03911",
-          "why": "Read lineage and conduct through the account of Noah’s family."
+          "why": "Read lineage and conduct through the account of Noah’s family.",
+          "shortened": [
+            "Canaan did not appreciate, therefore the divine address came to His Holiness Noah: \"He is not of thy family,\" for misconduct and violation of the Covenant removed nobility of lineage."
+          ]
         },
         {
           "key": "source:ABU2602",
-          "why": "Consider the reported distinction between kinship and spiritual fellowship."
+          "why": "Consider the reported distinction between kinship and spiritual fellowship.",
+          "shortened": [
+            "And that is the words of Christ when told that 'your brothers have come to see you'. He said, 'They are not my brethren but you are my brethren and kindred.'"
+          ]
         },
         {
           "key": "source:AB04210",
-          "why": "Retain the concise Gospel instruction concerning departure."
+          "why": "Retain the concise Gospel instruction concerning departure.",
+          "shortened": [
+            "It is stated in the Gospel, (Mathew 10:14) \"Even shake the dust from off your feet.\" Consider how great is the Cause and how much it requires Sanctification and purity."
+          ]
         },
         {
           "key": "source:AB06205",
@@ -298,7 +406,10 @@
         },
         {
           "key": "source:ABU2709",
-          "why": "Consider the reported account of Christ resisting temptation."
+          "why": "Consider the reported account of Christ resisting temptation.",
+          "shortened": [
+            "Thus it is said in the Gospel that Satan took Christ to the top of a high mountain, showed Him the world outspread and told Him that he would give Him all these things if he would follow him. But Christ refused."
+          ]
         },
         {
           "key": "source:ABU2126",
@@ -310,7 +421,10 @@
         },
         {
           "key": "source:ABU3101",
-          "why": "Keep the reported reference to the spiritually dead."
+          "why": "Keep the reported reference to the spiritually dead.",
+          "shortened": [
+            "Caiaphas had great influence during his life, but as soon as he died, his influence ceased. It was of this kind that Christ said, 'Let the dead bury their dead.'"
+          ]
         },
         {
           "key": "source:AB09123",
@@ -318,7 +432,10 @@
         },
         {
           "key": "source:AB05888",
-          "why": "Read the challenge presented by wealth and the needle’s eye."
+          "why": "Read the challenge presented by wealth and the needle’s eye.",
+          "shortened": [
+            "The glorious Lord Christ - glory be to Him - said in the Gospel that it is easier for a camel to pass through the eye of a needle than for a rich person to enter the Kingdom of God."
+          ]
         },
         {
           "key": "source:ABU0933",
@@ -330,7 +447,10 @@
         },
         {
           "key": "source:ABU0725",
-          "why": "Consider the reported rich man’s desire to become a disciple."
+          "why": "Consider the reported rich man’s desire to become a disciple.",
+          "shortened": [
+            "A rich man said to Christ, \"I would fain be thy disciple.\" \"Go and put into practice the ten commandments,\" replied the Christ."
+          ]
         },
         {
           "key": "source:ABU3174",
@@ -338,15 +458,24 @@
         },
         {
           "key": "source:AB09005",
-          "why": "Consider the Kingdom through the image of children."
+          "why": "Consider the Kingdom through the image of children.",
+          "shortened": [
+            "Marvel not at the command of God, for the Kingdom of God, according to the explicit text of Christ - glory be unto Him - belongeth to children who have nursed at the breast of the bounty of God."
+          ]
         },
         {
           "key": "source:AB08281",
-          "why": "Retain the concise saying about children’s condition."
+          "why": "Retain the concise saying about children’s condition.",
+          "shortened": [
+            "His Highness Christ says: \"Happy is the condition of the children.\""
+          ]
         },
         {
           "key": "source:ABU2723",
-          "why": "Hear the reported counsel to become as children."
+          "why": "Hear the reported counsel to become as children.",
+          "shortened": [
+            "This is due to excessive power, the Power of God; for he has tried it and experienced it and has seen the unimportance of worldly matters, the same as the child has. This is what Christ says: 'Ye must become as little children.'\""
+          ]
         },
         {
           "key": "source:ABU3166",
@@ -354,7 +483,10 @@
         },
         {
           "key": "source:AB01032",
-          "why": "Consider the bountiful feast as an image of invitation."
+          "why": "Consider the bountiful feast as an image of invitation.",
+          "shortened": [
+            "O, Ye, the Sons of the Kingdom, the Holy Spirit hath uttered no one like you in the glorious Gospel, that a generous Prince hath spread a bountiful feast adorned with various gifts and bounties, and with all that one desires, that the hearts of the people of righteousness rejoice."
+          ]
         },
         {
           "key": "source:AB00918",
@@ -362,7 +494,10 @@
         },
         {
           "key": "source:AB12229",
-          "why": "Retain the call and election saying addressed to those attracted to beauty."
+          "why": "Retain the call and election saying addressed to those attracted to beauty.",
+          "shortened": [
+            "O ye who are attracted to the Beauty of Truth! Christ - may my soul be a sacrifice unto Him - hath said in the Gospel: \"Many are called but few are chosen.\""
+          ]
         },
         {
           "key": "source:ABU0945",
@@ -374,7 +509,10 @@
         },
         {
           "key": "source:AB00558",
-          "why": "Retain the parallel statement of widening participation."
+          "why": "Retain the parallel statement of widening participation.",
+          "shortened": [
+            "In the Gospel it is stated that groups will come from all corners of the world and enter the Kingdom while the children of the Kingdom will be cast out."
+          ]
         },
         {
           "key": "source:AB01737",
@@ -382,19 +520,32 @@
         },
         {
           "key": "source:ABU0784",
-          "why": "Keep the incomplete reported quotation and editorial reminder visible as source evidence."
+          "why": "Keep the incomplete reported quotation and editorial reminder visible as source evidence.",
+          "shortened": [
+            "This is the condition which Christ foretold: \"(men) shall come from the east and from the west, etc. but the sons of the Kingdom shall go out, etc., (find correct quote)."
+          ]
         },
         {
           "key": "source:ABU3681",
-          "why": "Retain the source’s explicitly cited Matthew passage."
+          "why": "Retain the source’s explicitly cited Matthew passage.",
+          "shortened": [
+            "(Or literally: 'But I say unto you, That many shall come from the east and west, and shall sit down with Abraham, and Isaac, and Jacob, in the kingdom of heaven. But the children of the kingdom shall be cast out into outer darkness: there shall be weeping and gnashing of teeth.' Matthew 8:11-12)."
+          ]
         },
         {
           "key": "source:ABU3253",
-          "why": "Keep the speaker’s grief and trust in the Psalms in their reported setting."
+          "why": "Keep the speaker’s grief and trust in the Psalms in their reported setting.",
+          "shortened": [
+            "\"But my mother reads the Psalms all the time; she doesn't deserve that God should desert her so. I read the Psalms myself--the ninety-first Psalm and the twenty-third Psalm every night before I go to bed."
+          ]
         },
         {
           "key": "source:ABU3207",
-          "why": "Read the reported recollection of the Lord’s Prayer."
+          "why": "Read the reported recollection of the Lord’s Prayer.",
+          "shortened": [
+            "The Master replied:",
+            "\"It is nearly two thousand years since His holiness the Lord Christ taught this prayer to His people: \"Thy Kingdom come, Thy will be done on earth, as it is in Heaven.'"
+          ]
         },
         {
           "key": "source:ABU3746",
@@ -402,7 +553,10 @@
         },
         {
           "key": "source:BH10020",
-          "why": "Close with the Quranic question about professed belief and testing."
+          "why": "Close with the Quranic question about professed belief and testing.",
+          "shortened": [
+            "This blessed verse has ever been inscribed at the head of the book of deeds by the Most Exalted Pen: \"Do men think that they will be left alone on saying, 'We believe,' and will not be tested?\""
+          ]
         }
       ],
       "questions": [
@@ -535,24 +689,38 @@
       "id": "73709CA9F1694378BFE128A306C8D7CC",
       "slug": "transcendingmaterial",
       "displayTitle": "Transcending material limitations: freedom expressed in life",
-      "introduction": "What kind of freedom can remain when circumstances are difficult or the body is confined? These readings answer through enlarged understanding, strength of character, and a heart directed toward God. Their birds, wings, and open horizons suggest a life whose purposes reach beyond comfort, possession, and habitual desire. The practical signs are equally striking: hands continue working, wealth can serve the poor, and violence can give way to gentleness and reconciliation. A reported passage distinguishes spiritual discipline from the weakness produced by bodily deprivation. Bhagavad Gita 5.10 offers a comparison through action without attachment and the image of a lotus leaf in water [1]. Connected subjects of detachment, spiritual wayfaring, and material and spiritual civilization extend the inquiry from the individual to society. The question running through the collection is how inward freedom becomes a source of clearer purpose, generous action, and enduring joy.",
+      "introduction": "Your hands and feet will be working, ‘Abdu’l-Bahá told a questioner, but your heart must be attached to the Almighty: the body was made for this world and the heart for the dwelling of the Holy Spirit. Transcending the material condition is not escape from circumstance but a change in what a life is for. He speaks of a love of heights that marks human beings off from every other creature, and of a knowledge that breaks the laws of nature even while a mosquito bite can still kill the knower. The test is practical: the blood-thirsty grow gentle, wealth is spent on the poor, and a conscience soars while the body sits in chains. Bahá’u’lláh asks how long human birds will nest in a perishable ash-pit. The Bhagavad Gita’s lotus leaf, untouched by the water it rests on, gives a kindred image of action without attachment to its fruit [1]. From here the way leads toward detachment and renunciation, the discipline of the spiritual wayfarer, and the meeting of material and spiritual civilization.",
       "arc": "Begin with working hands and an inwardly free heart, test transcendence through character and service, then explore knowledge, detachment, resilience, and the language of spiritual flight.",
       "order": [
         {
           "key": "source:ABU2111",
-          "why": "Open with working hands and a heart attached to the Almighty."
+          "why": "Open with working hands and a heart attached to the Almighty.",
+          "shortened": [
+            "Your hands and feet will be working but your heart must be attached to the Almighty. The body of man is created for this world but his heart is made for the habitation of the Holy Spirit."
+          ]
         },
         {
           "key": "source:AB00034",
-          "why": "Test spiritual transformation through gentleness, reconciliation, and peace."
+          "why": "Test spiritual transformation through gentleness, reconciliation, and peace.",
+          "shortened": [
+            "It is that the portionless should gain their share of the boundless sea, and the ignorant drink their fill from the living fount of knowledge; that those who thirst for blood should forsake their savagery, and those who are barbed of claw should turn gentle and forbearing, and those who love war should seek instead for true conciliation; it is that the brutal, their talons razor-sharp, should enjoy the benefits of lasting peace; that the foul should learn that there is a realm of purity, and the tainted find their way to the rivers of holiness.",
+            "Unless these divine bestowals be revealed from the inner self of humankind, the bounty of the Manifestation will prove barren, and the dazzling rays of the Sun of Truth will have no effect whatever."
+          ]
         },
         {
           "key": "source:ABU0687",
-          "why": "Distinguish strength of character from weakness produced by deprivation."
+          "why": "Distinguish strength of character from weakness produced by deprivation.",
+          "shortened": [
+            "Now we come to the subject.",
+            "By enduring ascetic hardships, the powers of nature will undergo dissolution, which will result in great weakness whereby one is made incapable of doing anything. He will not show any temper. He will not do any corruption. He will not cause a riot. He is quiet. He is wronged. He is like a lamb. But this is due to weakness. But he who has attained spiritual asceticism acquires these attributes by the strength of character."
+          ]
         },
         {
           "key": "source:AB01279",
-          "why": "Read heavenly treasure beside the use of wealth for the poor."
+          "why": "Read heavenly treasure beside the use of wealth for the poor.",
+          "shortened": [
+            "O handmaid of God! The treasures of earth are corrupted by rust and moth, as Christ hath said, and thieves break in and steal them, and in the end they vanish like scattered dust. They profit not the wealthy except those who spend them in the path of God upon the poor and weak out of love for their Generous Lord. But the treasures of heaven are preserved and protected with God. Nothing can corrupt them and no thief can steal them. Blessed is the one who acquireth from that mighty treasure."
+          ]
         },
         {
           "key": "source:AB00057",
@@ -568,7 +736,10 @@
         },
         {
           "key": "source:ABU2552",
-          "why": "Keep the reported relation of enjoyment, intellect, and character together."
+          "why": "Keep the reported relation of enjoyment, intellect, and character together.",
+          "shortened": [
+            "One must have been retrograded to the lowest point as to be perfectly satisfied with eating, drinking and sleeping. The enjoyment of man comes through the unfoldment of his intellect, intelligence, the virtues of the world of humanity and the divine characteristics."
+          ]
         },
         {
           "key": "source:ABU0116",
@@ -584,7 +755,11 @@
         },
         {
           "key": "source:ABU0112",
-          "why": "Explore the address’s challenge to attend also to divine mysteries."
+          "why": "Explore the address’s challenge to attend also to divine mysteries.",
+          "shortened": [
+            "Consider how he seeks knowledge of everything except knowledge of God. For instance, his utmost desire is to penetrate the mysteries of the lowest strata of the earth. Day by day he strives to know what can be found ten meters below the surface, what he can discover within the stone, what he can learn by archaeological research in the dust.",
+            "How much he is attracted to the mysteries of matter, and how completely unaware he is of the mysteries of Divinity!"
+          ]
         },
         {
           "key": "source:ABU1999",
@@ -604,15 +779,24 @@
         },
         {
           "key": "source:ABU0999",
-          "why": "Read nobler sentiments as a strength to cultivate."
+          "why": "Read nobler sentiments as a strength to cultivate.",
+          "shortened": [
+            "The duty of man is to overcome the lower nature by the omnipotence and positiveness of the higher. He must not let his nobler sentiments be stifled and asphyxiated."
+          ]
         },
         {
           "key": "source:ABU0310",
-          "why": "Consider the reported account of love, knowledge, and freedom from limitations."
+          "why": "Consider the reported account of love, knowledge, and freedom from limitations.",
+          "shortened": [
+            "The world of nature is darkness upon darkness, and its illumination comes through divine knowledge. The glory of the human world lies in divine love. The outcome of life is entrance into the Kingdom of God, and the fruit of existence is to be characterized by divine attributes. If man is deprived of these divine lights, he becomes lower than the animal. But if his face is illumined by the lights of God's love and his heart adorned with divine knowledge, he will soar beyond the world of limitations."
+          ]
         },
         {
           "key": "source:ABU1172",
-          "why": "Read spiritual education as movement toward fuller humanity."
+          "why": "Read spiritual education as movement toward fuller humanity.",
+          "shortened": [
+            "Through the power of the Kingdom, man is saved from the grasp of nature by the sanctified Manifestations of God and is illumined by the light of divinity. That is, he is released from the clutches of the animal world and guided to the highest pinnacle of humanity."
+          ]
         },
         {
           "key": "source:AB00374",
@@ -624,15 +808,24 @@
         },
         {
           "key": "source:ABU0318",
-          "why": "Hear the reported affirmation of human freedom."
+          "why": "Hear the reported affirmation of human freedom.",
+          "shortened": [
+            "Do not be captives of materiality, be free of these bonds, for animals are captives of materiality but humans are not. God created them free."
+          ]
         },
         {
           "key": "source:AB05130",
-          "why": "Read freedom through release from captivity to nature."
+          "why": "Read freedom through release from captivity to nature.",
+          "shortened": [
+            "Freedom is this: that man gains deliverance from captivity to the world of nature and becomes a prince in the city of eternal glory."
+          ]
         },
         {
           "key": "source:ABU0886",
-          "why": "Consider the reported account of spiritual power and divine law."
+          "why": "Consider the reported account of spiritual power and divine law.",
+          "shortened": [
+            "Through spiritual power humans can free themselves from this captivity, through divine laws can find salvation from these perils - becoming luminous instead of dark, living instead of dead, seeing instead of blind, unlimited instead of limited."
+          ]
         },
         {
           "key": "source:BB00297",
@@ -640,11 +833,17 @@
         },
         {
           "key": "source:AB02541",
-          "why": "Connect freedom from desire with the capacity to serve."
+          "why": "Connect freedom from desire with the capacity to serve.",
+          "shortened": [
+            "Man will never be able to render service at the divine threshold unless he is free from desire and he shall never attain everlasting glory and honour unless he is rescued from the humiliation of attachment to this world."
+          ]
         },
         {
           "key": "source:AB05164",
-          "why": "Extend liberation to the assistance of others."
+          "why": "Extend liberation to the assistance of others.",
+          "shortened": [
+            "Enable others, too, to free themselves from this material world so that they may soar in the limitless expanse of the Kingdom."
+          ]
         },
         {
           "key": "source:BHU0039",
@@ -664,7 +863,10 @@
         },
         {
           "key": "source:AB10350",
-          "why": "Consider purity of intention, insight, and discovery of truth."
+          "why": "Consider purity of intention, insight, and discovery of truth.",
+          "shortened": [
+            "If thou fulfill its requirements, which are purity of intention, attractive love, insight, discovery of truth and absolute spiritual attitude, thou wilt become entirely free from the physical conditions and wilt soar to the spiritual realms."
+          ]
         },
         {
           "key": "source:AB06271",
@@ -676,11 +878,17 @@
         },
         {
           "key": "source:AB01001",
-          "why": "Explore another flight and another song."
+          "why": "Explore another flight and another song.",
+          "shortened": [
+            "These souls have another flight and another song. They speak of another world and call to another realm. The world of nature is dark and narrow; they seek progress in the world of the Kingdom. They are free from every bond and detached from the contaminated world of water and clay."
+          ]
         },
         {
           "key": "source:AB08863",
-          "why": "Read birds and fish through their appropriate spiritual elements."
+          "why": "Read birds and fish through their appropriate spiritual elements.",
+          "shortened": [
+            "How long shall human souls seek their abode and dwelling-place in this earthly dust-heap? And for how much longer shall these human birds build their nests and make their homes in this perishable ash-pit? If they be birds of the meadow of divine knowledge, they must needs spread their wings and take flight unto the branches of the gardens of oneness. And if they be fish of the ocean of love, they must needs move and swim therein. The wingless bird is but a worm clinging to the earth, and the waterless fish is naught but dust in the lowest of the low."
+          ]
         },
         {
           "key": "source:AB09192",
@@ -692,15 +900,24 @@
         },
         {
           "key": "source:BH02948",
-          "why": "Read lofty resolve on the wings of detachment."
+          "why": "Read lofty resolve on the wings of detachment.",
+          "shortened": [
+            "Let your resolve be lofty, and soar ye in this pure atmosphere on the wings of detachment."
+          ]
         },
         {
           "key": "source:AB06193",
-          "why": "Consider flight toward a realm beyond description."
+          "why": "Consider flight toward a realm beyond description.",
+          "shortened": [
+            "Spread thy wings and fly until thou dost reach a world that is sanctified above description and explanation, and exalted above the understanding of the peoples of the world."
+          ]
         },
         {
           "key": "source:BH02550",
-          "why": "Hear the passage from dust toward sacred precincts."
+          "why": "Hear the passage from dust toward sacred precincts.",
+          "shortened": [
+            "It is evident that spiritual friends who dwell in the divine nest must pass beyond the dust and transcend the spheres, lift their feet from the earth and step into the sacred precincts of the Lord of Lords."
+          ]
         },
         {
           "key": "source:BH01509",
@@ -708,7 +925,10 @@
         },
         {
           "key": "source:BH08751",
-          "why": "Consider the fragrances of love and the realm of placelessness."
+          "why": "Consider the fragrances of love and the realm of placelessness.",
+          "shortened": [
+            "I hope that thou art occupied with the sweet fragrances of the love of the Beloved and the breezes of attraction to the countenance of the Desired One, having transcended the world and all who dwell therein and hastened to the realm of placelessness."
+          ]
         },
         {
           "key": "source:AB05531",
@@ -716,7 +936,10 @@
         },
         {
           "key": "source:AB03481",
-          "why": "Read the petition for joy through turning toward the Kingdom."
+          "why": "Read the petition for joy through turning toward the Kingdom.",
+          "shortened": [
+            "How strange and bewildering! For this is a world of dust, and this human reality is hopelessly enmeshed in its corrupt desires. How shall it ever become happy and joyous, unless it first forgets all save God and turns its gaze from this nether world to that which is in the realms above, beholds the reality of the concourse on high, and earnestly beseeches the assistance of the divine kingdom of Abha?"
+          ]
         },
         {
           "key": "source:AB05227",
@@ -740,7 +963,10 @@
         },
         {
           "key": "source:AB02963",
-          "why": "Hear the shared prayer for spiritual attractions."
+          "why": "Hear the shared prayer for spiritual attractions.",
+          "shortened": [
+            "You pray and we too will pray that people may turn away from the world of nature and seek godly feelings and find spiritual attractions and become enkindled with the fire of divine love and be quickened by the spirit of heavenly bestowal."
+          ]
         },
         {
           "key": "source:AB03169",
@@ -748,7 +974,10 @@
         },
         {
           "key": "source:AB04194",
-          "why": "Read guidance as the wings that enable ascent."
+          "why": "Read guidance as the wings that enable ascent.",
+          "shortened": [
+            "But thou shalt spread thy wings and soar from the depths of earth to the heights of heaven, ascending from this elemental world to the most luminous realm, for thou hast gained wings from God's guidance and, God willing, hast turned away from all save the Beloved and recognized the goal of all."
+          ]
         },
         {
           "key": "source:AB05941",
@@ -780,11 +1009,17 @@
         },
         {
           "key": "source:AB01156",
-          "why": "Keep the philosophical account of determination in its own terminology."
+          "why": "Keep the philosophical account of determination in its own terminology.",
+          "shortened": [
+            "Although they too are determined beings, yet being illumined from the praised station and assisted from the extended shadow, they attain eternal realization in the world of existence and find everlasting determination."
+          ]
         },
         {
           "key": "source:ABU1180",
-          "why": "Consider the reported distinction between bodily and spiritual existence."
+          "why": "Consider the reported distinction between bodily and spiritual existence.",
+          "shortened": [
+            "We are not physical beings, He said, but spiritual bodies. We must thank GOD for our spiritual existence. The body is earthly, but the spirit is heavenly. The first is of this world, and the second belongs to the Kingdom. The first is of the attributes of darkness and the other of illumination. The first is limited to space the second is Placeless and Limitless."
+          ]
         },
         {
           "key": "source:AB06764",
@@ -812,19 +1047,32 @@
         },
         {
           "key": "source:ABU2370",
-          "why": "Keep the reported experience of inward freedom under confinement attributed."
+          "why": "Keep the reported experience of inward freedom under confinement attributed.",
+          "shortened": [
+            "When the heart is full of the love of God it loses consciousness of the body. Then pain is as pleasure, then darkness is as light! If such a one is shut in a prison there are no walls for him, no solitude, he knows not a prison!"
+          ]
         },
         {
           "key": "source:ABU2059",
-          "why": "Read high purpose in relation to bodily ease."
+          "why": "Read high purpose in relation to bodily ease.",
+          "shortened": [
+            "We should not always be focused on physical comfort, but rather should seek a high purpose and goal even if it is contrary to bodily ease."
+          ]
         },
         {
           "key": "source:ABU0313",
-          "why": "Retain the reported account of sacrifice in its devotional and historical setting."
+          "why": "Retain the reported account of sacrifice in its devotional and historical setting.",
+          "shortened": [
+            "They sacrifice spiritually in the way of God and so they sacrifice all apparent and outward conditions in order to show the perfection and completeness of the Truth of their Manifestation. This is the station of simple radiance which shines forth and makes them separate from all worldly things and leads them into such a condition that while they are walking on the earth yet they are travelling in the supreme Horizon, they close their eyes to their ease and everything else and hasten with all joy and fragrance to martyrdom in the Cause of God."
+          ]
         },
         {
           "key": "source:ABU0544",
-          "why": "Keep the wartime contrast of sacrifice and territorial attachment attributed."
+          "why": "Keep the wartime contrast of sacrifice and territorial attachment attributed.",
+          "shortened": [
+            "These poor people are being killed and don't know why they are sacrificing their lives for dirt - dirt which is the lowest of created things.",
+            "What a difference between these and those - between souls who sacrifice themselves for dirt and souls who sacrifice themselves for the Blessed Beauty!"
+          ]
         },
         {
           "key": "source:AB02563",
@@ -832,7 +1080,10 @@
         },
         {
           "key": "source:BH09575",
-          "why": "Consider the counsel not to grieve over fleeting circumstances."
+          "why": "Consider the counsel not to grieve over fleeting circumstances.",
+          "shortened": [
+            "Fix not your gaze upon these fleeting days, nor be ye saddened by whatsoever befalleth you therein. Rather, fix your gaze upon that which hath been ordained in the Kingdom for His devoted men and women."
+          ]
         },
         {
           "key": "source:BH05541",
@@ -840,27 +1091,45 @@
         },
         {
           "key": "source:AB01074",
-          "why": "Read consolation after a home’s burning with the source omission visible."
+          "why": "Read consolation after a home’s burning with the source omission visible.",
+          "shortened": [
+            "If the earthen house and mortal dwelling-place was burned, yet I hope that thou mayest build thy nest and abode, like unto the birds of holiness, in the Tree of Life in the Divine Kingdom. [...]"
+          ]
         },
         {
           "key": "source:AB07569",
-          "why": "Hear the promise of enduring riches after material loss."
+          "why": "Hear the promise of enduring riches after material loss.",
+          "shortened": [
+            "The wealth of which thou hast been thus deprived shall be transformed into endless riches and the treasure chests of heaven!"
+          ]
         },
         {
           "key": "source:ABU0182",
-          "why": "Keep the reported argument about vanished traces within its rhetorical setting."
+          "why": "Keep the reported argument about vanished traces within its rhetorical setting.",
+          "shortened": [
+            "Consider those persons whose lives were limited to material concerns, who took no share of the life of the soul. Their traces have become completely obliterated. No mention, no sign, no fruit, no name from them remains. Even on this speck of dust, neither tomb nor trace. At most, for a few days their tombs were inhabited, only to become covered with earth and vanish."
+          ]
         },
         {
           "key": "source:ABU0635",
-          "why": "Read the reported relinquishing of name and worldly foundations."
+          "why": "Read the reported relinquishing of name and worldly foundations.",
+          "shortened": [
+            "But in the view of God's loved ones, this world and survival therein and the endurance of traces in this world hold absolutely no importance. Their concern is to establish in another world, to build foundations in the highest horizon rather than this lowest earth. They seek neither name nor sign nor foundation in this world, for they see that this world's foundation is built upon wind."
+          ]
         },
         {
           "key": "source:ABU1733",
-          "why": "Consider the reported narrowing of conversation around wealth."
+          "why": "Consider the reported narrowing of conversation around wealth.",
+          "shortened": [
+            "In these days when people assemble together the conversation is all about the acquiring of wealth. Man in this way becomes self-centered, spirituality leaves him, and he becomes like children who delight to play with pebbles on the shore. When a matured man associates with children, his heart will become depressed."
+          ]
         },
         {
           "key": "source:ABU0411",
-          "why": "Hear the reported search for lasting fruits."
+          "why": "Hear the reported search for lasting fruits.",
+          "shortened": [
+            "My hope is that you may become free from the material world and strive to understand the meaning of the heavenly world, the world of lasting qualities, the world of truth, the world of eternal kingliness, so that your life may not be barren of results, for the life of the material man has no fruit of reality. Lasting results are produced by reflecting the heavenly existence."
+          ]
         },
         {
           "key": "source:AB08949",
@@ -872,7 +1141,10 @@
         },
         {
           "key": "source:BH07887",
-          "why": "Read the station beyond conditions and vain imaginings."
+          "why": "Read the station beyond conditions and vain imaginings.",
+          "shortened": [
+            "I swear by the Dawning-Place of Revelation, shouldst thou become aware of it, thou wouldst behold thyself in a station that is sanctified, holy and pure from the clouds and conditions and vain imaginings of the world of creation."
+          ]
         },
         {
           "key": "source:BH06581",
@@ -880,11 +1152,17 @@
         },
         {
           "key": "source:BH07593",
-          "why": "Consider revelation guiding from poverty and weakness toward certitude."
+          "why": "Consider revelation guiding from poverty and weakness toward certitude.",
+          "shortened": [
+            "Say: The Day of Return is manifest and the Mother Book speaks without veil or concealment that which will guide all from poverty, weakness and vain imaginings to the horizons of wealth, power and certitude."
+          ]
         },
         {
           "key": "source:ABU0899",
-          "why": "Keep the reported upward gaze and healing through bounty together."
+          "why": "Keep the reported upward gaze and healing through bounty together.",
+          "shortened": [
+            "Without the help of God man is even as the beasts that perish, but God has bestowed such wonderful power upon him that he might ever look upward, and receive, among other gifts, healing from His divine Bounty."
+          ]
         },
         {
           "key": "source:ABU3003",
@@ -908,7 +1186,10 @@
         },
         {
           "key": "source:ABU2870",
-          "why": "Hear the concise reported call to look forward and heavenward."
+          "why": "Hear the concise reported call to look forward and heavenward.",
+          "shortened": [
+            "Man must be freed from every material tie and must seek the path of the Kingdom. He must not look backward, he must look forward; not downward, but heavenward."
+          ]
         },
         {
           "key": "source:AB07171",
@@ -916,15 +1197,25 @@
         },
         {
           "key": "source:AB08622",
-          "why": "Keep the source’s brief, irregularly punctuated petition intact."
+          "why": "Keep the source’s brief, irregularly punctuated petition intact.",
+          "shortened": [
+            "That it may free the souls from the darkness of the world of nature. May illumine them by the Divine Light."
+          ]
         },
         {
           "key": "source:ABU1155",
-          "why": "Read the fruit of existence through the city of light."
+          "why": "Read the fruit of existence through the city of light.",
+          "shortened": [
+            "This is the fruit of the tree of creation - to be freed from the darkness of the planet in order to enter the worlds of light. This is the object of existence; this is the fruit of the tree of humanity.",
+            "May the radiant sea of reality become clear and unveiled of its clouds; may people become freed from the quagmires of the world of matter and soar upward to the city of light."
+          ]
         },
         {
           "key": "source:ABU2011",
-          "why": "Hear the reported prayer for divine happiness and an expanded intellect."
+          "why": "Hear the reported prayer for divine happiness and an expanded intellect.",
+          "shortened": [
+            "Pray that our Happiness be divine in origin and not parasitical; our progress be ideal and not wholly material; the sphere of our intellect be vast, our cognate faculties be marvelous, our severance he perfect and our sanctity and holiness be heavenly."
+          ]
         },
         {
           "key": "source:ABU2189",
@@ -932,7 +1223,10 @@
         },
         {
           "key": "source:ABU2483",
-          "why": "Consider the reported release from gratification of self."
+          "why": "Consider the reported release from gratification of self.",
+          "shortened": [
+            "The Master- By attaching no importance to material things. According to the laws which bind us to this planet, everyone is tied to the gratification of self, to the satisfying of desires. What I meant for you is that you may be freed - that you may become the embodiment of spirit - that you may become an angel."
+          ]
         },
         {
           "key": "source:ABU2484",
@@ -1009,28 +1303,44 @@
       "id": "4FAFE46E3FC7417BAC3D18A3C7D260C2",
       "slug": "lifeinakka",
       "displayTitle": "Life in ‘Akka: confinement, care, and widening horizons",
-      "introduction": "How does a place of confinement become a setting for care, learning, and renewed relationships? These accounts place the harsh conditions of ‘Akka beside quieter scenes: preparing food for the sick, opening a neighbor’s sealed doorway, telling stories within a family, and noticing a green tree. Letters and later recollections preserve different perspectives on banishment, crowded rooms, guarded movement, and eventual access to gardens and the countryside. They also show the work of ‘Abdu’l-Baha and others who sustained daily life. Spiritual descriptions of the prison as paradise gain texture when read alongside these material circumstances. Jeremiah 29:4–7 offers a comparison through its counsel to exiles to build, plant, and seek their city’s peace [1]. Connected subjects of banishment, suffering, personal recollection, and Mount Carmel extend the historical inquiry. The readings invite reflection on how perseverance and practical kindness can alter the possibilities of a shared place.",
+      "introduction": "Within a fortnight of nailing shut every door between his house and the strangers next door, a landlord in ‘Akka sent his wife to knock and say the doors must be opened. That small reversal is the shape of a whole period. Bahá’u’lláh arrived in a city He had already described as the foulest in water and air, with companions who soon fell sick like leaves in the barracks, and a decree of perpetual imprisonment read aloud by a crier. Yet the years there were filled with soup cooked for the sick, a struggle over the water supply, evening gatherings in which He taught His family through stories and jokes, and a nine-year longing to see a single blade of grass that ended among the orchards of Mazra’ih and under a tent on Mount Carmel. ‘Abdu’l-Bahá bore the hardships so that others might have ease. Jeremiah’s counsel to the exiles in Babylon to build houses, plant gardens and seek the peace of their city gives a measure for all this [1]. The way onward runs through the earlier banishments of Bahá’u’lláh, the meaning of suffering and imprisonment, and the anecdotes a household kept alive.",
       "arc": "Begin with a closed doorway becoming open, then follow banishment, daily hardship and care, the changing conditions of confinement, and the flowering of family life and wider influence.",
       "order": [
         {
           "key": "source:ABU0717",
-          "why": "Open with the reported transformation of suspicion into an opened doorway."
+          "why": "Open with the reported transformation of suspicion into an opened doorway.",
+          "shortened": [
+            "Notwithstanding this the owner of the house was still distrustful and dissatisfied, until a Greek doctor in Akka who was also related to him, implored on their behalf, saying, 'The Consul and I will be responsible.' At last they satisfied him and we came and lived in the small house adjoining this. The owner of the house carefully nailed up the doors connecting the two houses, both in the upper and lower floors, so that there should be no going and coming between the two houses.",
+            "Less than a fortnight afterwards we heard a knocking at the door. On opening it we found the wife of the owner of the house who had come to visit the ladies. She asked, 'Why do you not come to visit us?' They answered, 'You have nailed up the doors between the houses.' She said, 'Ah! We did not know you, at first, but now the doors must be opened, both upstairs and downstairs, and you can fetch water (from our house).'"
+          ]
         },
         {
           "key": "source:ABU0274",
-          "why": "Bring care into focus through food prepared for sick companions."
+          "why": "Bring care into focus through food prepared for sick companions.",
+          "shortened": [
+            "When we first came here we were put into the barracks. In ten or fifteen days we began to fall like leaves because of sickness. No one remained upon his feet except myself and the late Agha Riza. I used to cook a kettle of soup for them to eat in the daytime and a kettle of rice for the night."
+          ]
         },
         {
           "key": "source:BH00269",
-          "why": "Read the companions’ decision to share banishment."
+          "why": "Read the companions’ decision to share banishment.",
+          "shortened": [
+            "Later, when the order was issued to banish this Youth, all were filled with dismay.  The officials in charge of My expulsion declared, however:  \"These others have not been charged with any offence and have not been expelled by the government.  Should they desire to accompany you, no one will oppose them.\"  These hapless souls therefore paid their own expenses, forsook all their possessions, and, contenting themselves with Our presence and placing their whole trust in God, journeyed once again with Him until the fortress of 'Akka became the prison of Baha."
+          ]
         },
         {
           "key": "source:BH00583",
-          "why": "Follow the sudden arrests and uncertainty before departure."
+          "why": "Follow the sudden arrests and uncertainty before departure.",
+          "shortened": [
+            "At the eighth hour of the day, the friends of God who were in the market were all arrested, and suddenly soldiers surrounded the Most Pure House and likewise stood guard at the doors of other homes of the friends, and conditions became so severe that women and children were prevented from entering or leaving, and that night most went without food. Outwardly it was not at all clear what they intended. Some said we would be sent to the Sudan toward Abyssinia, some said we would be drowned in the sea, and there were various other claims."
+          ]
         },
         {
           "key": "source:ABU0962",
-          "why": "Hear the reported sorrow surrounding exile from Adrianople."
+          "why": "Hear the reported sorrow surrounding exile from Adrianople.",
+          "shortened": [
+            "When the two despotic governments decided to exile us from Adrianople to Acca, there was such a manifestation of sorrow and anxiety that neither the word nor pen can describe it adequately. The floodgate of unutterable grief was set loose."
+          ]
         },
         {
           "key": "source:BH02025",
@@ -1038,19 +1348,32 @@
         },
         {
           "key": "source:BH06024",
-          "why": "Retain the parallel description as the source’s own judgment of conditions."
+          "why": "Retain the parallel description as the source’s own judgment of conditions.",
+          "shortened": [
+            "Soon will they imprison Baha in the fortress of 'Akka with utmost humiliation. Verily it is the most unsightly of the world's cities in appearance, the most detestable in climate, and the most putrid in water."
+          ]
         },
         {
           "key": "source:ABU0959",
-          "why": "Keep the reported travel itinerary and date in its supplied wording."
+          "why": "Keep the reported travel itinerary and date in its supplied wording.",
+          "shortened": [
+            "Now and then we urged him to ride at least for a few miles but never did he accept it.",
+            "on August 5th 1868 A.D. we were exiled from Adrianople to Acca. We travelled in carriages as far as Gallipoli, guarded by a company of Turkish soldiers with their lieutenant Hassan Effendi. After spending a few days in Gallipoli we all embarked on the steamer of the Austrian Lloyd Company for Acca by way of Smyrna and Alexandria."
+          ]
         },
         {
           "key": "source:BH00510",
-          "why": "Follow the vessel, rowboat, and separation of four companions."
+          "why": "Follow the vessel, rowboat, and separation of four companions.",
+          "shortened": [
+            "Then on an Austrian vessel They proceeded toward Akka. Near that celestial city it stopped, and the Ancient Beauty came by rowboat. Four persons were prevented from accompanying Them: his honor Sayyah, Mishkin-Qalam, Aqa Muhammad-Baqir, and Aqa Abdul-Ghaffar - upon them be the Glory of God and His praise."
+          ]
         },
         {
           "key": "source:BH02009",
-          "why": "Read the shipboard account with attention to the anguish of forced separation."
+          "why": "Read the shipboard account with attention to the anguish of forced separation.",
+          "shortened": [
+            "We disembarked from the ship, and with Us the whole band of Our companions save only four, who were prevented by the oppressors from accompanying Us, and whose hearts so blazed forth that one of them, in his grief at separation from Us, cast himself from the first deck of the ship into the sea."
+          ]
         },
         {
           "key": "source:BH01440",
@@ -1062,19 +1385,33 @@
         },
         {
           "key": "source:BH10174",
-          "why": "Read the arrival with seventy souls."
+          "why": "Read the arrival with seventy souls.",
+          "shortened": [
+            "O thou who gazest upon the Countenance! Know thou that We arrived at the fortress of 'Akka with seventy souls, and it was the most desolate of all lands."
+          ]
         },
         {
           "key": "source:ABU0643",
-          "why": "Hear the reported procession to the barracks and restrictions on buying necessities."
+          "why": "Hear the reported procession to the barracks and restrictions on buying necessities.",
+          "shortened": [
+            "Upon arriving in Akka, we saw soldiers lined up on both sides of the gate, with two soldiers for each one of us. In this manner they took us to the fortress and closed the door upon us - there was neither food nor water until morning. We observed that just as had been revealed in the divine Tablet, the hooting of owls could truly be heard from the walls.",
+            "Yes, in the morning they came and said that no one was permitted to leave this barracks. Four people could go to the bazaar with soldiers to get whatever bread and water they needed. These were not to speak with anyone, not to associate with anyone, only to buy bread and water."
+          ]
         },
         {
           "key": "source:ABU2291",
-          "why": "Keep the reported description of the city’s inhabitants in its historical voice."
+          "why": "Keep the reported description of the city’s inhabitants in its historical voice.",
+          "shortened": [
+            "It was about 4 p.m. when we reached Acca.",
+            "As we entered the place we found the inhabitants of Acca, without exception, sickly looking people of sallow, yellow complexion, a good many unable to walk and hence strewn on the narrow streets. Even the soldiers and officers, who possessed privileges, looked ill."
+          ]
         },
         {
           "key": "source:BH02263",
-          "why": "Read the account of early confinement and deprivation."
+          "why": "Read the account of early confinement and deprivation.",
+          "shortened": [
+            "Then they turned with blackened faces against faces of light, and banished Us from the Land of Mystery and made Us enter 'Akka. It is the most desolate of the cities of the world. When We entered the prison, its doors were guarded by souls who had never inhaled the fragrance of faith from the Egypt of certitude, nor had the breezes of the All-Glorious ever wafted upon their hearts. Three successive months passed and We did not enter a bath. Thus did it befall the Youth at the hands of those who denied God's favor after its descent."
+          ]
         },
         {
           "key": "source:ABU1242",
@@ -1086,47 +1423,86 @@
         },
         {
           "key": "source:ABU2193",
-          "why": "Keep the reported crowding of families in view."
+          "why": "Keep the reported crowding of families in view.",
+          "shortened": [
+            "Imagine the conditions and surroundings when we were exiled by the Turkish Government and were imprisoned in the barracks of 'Akka; Baha'u'llah occupied one room; His family and several other families were forced to occupy one room."
+          ]
         },
         {
           "key": "source:BH01925",
-          "why": "Read the urgent account of illness, food, medicine, and expenses."
+          "why": "Read the urgent account of illness, food, medicine, and expenses.",
+          "shortened": [
+            "In these days, the case of these prisoners has become extremely serious. Hour by hour, the severity of our condition increases. They have imprisoned nearly seventy individuals, all of whom are in discomfort and ill, yet they will not allow anyone to go out to obtain medicine or food, nor have they yet given us even a dinar for our expenses. A few days ago, a pasha came to my son and said they had telegraphed to say that some (of us) would be given one franc per day, others half a franc."
+          ]
         },
         {
           "key": "source:BH02739",
-          "why": "Consider deprivation of food and clothing in the speaker’s own account."
+          "why": "Consider deprivation of food and clothing in the speaker’s own account.",
+          "shortened": [
+            "Say: O people of the Bayan! That which was present at that moment before His face was but a piece of bread and a small amount of cheese.",
+            "Say: Days passed over Us when nothing was present before Us with which to feed ourselves, if ye but know.",
+            "Once We wore silk after it was presented before Us, and once We found no garment to change into, and We mentioned it not to anyone and concealed it to preserve God's Cause, the Guardian, the Self-Subsisting, though in His hand was the key to the treasures of the heavens and earth, as ye yourselves have witnessed and do witness."
+          ]
         },
         {
           "key": "source:ABU1426",
-          "why": "Keep the reported struggle over the water supply as a practical detail."
+          "why": "Keep the reported struggle over the water supply as a practical detail.",
+          "shortened": [
+            "In Akka there was a well that supplied water to four places: the mosque, the barracks, the governor's house, and the public bath. The rest had to bring water from outside the city. There was a person who supplied water - he would give water to the barracks for half an hour and then there would be none, whereas previously there had always been water. We would give this person gifts and tea, but it had absolutely no effect."
+          ]
         },
         {
           "key": "source:ABU1269",
-          "why": "Read the reported account of crowded housing and requests for a bath."
+          "why": "Read the reported account of crowded housing and requests for a bath.",
+          "shortened": [
+            "It was a two story house, having two rooms on the lower and four rooms on the upper floor but they were very small indeed. On the other hand or party was composed of many people and we wondered how could all these souls be accommodated in this small house. Finally 13 of us agreed to live in one room. they lived and slept and worked in this one small room. We lived in this house well-nigh for 20 years.",
+            "At the end of 20 years we rented a much larger house but it had no bath. I went to Baha'u'llah and asked permission to build one. The more I begged the stronger was his refusal. I said only with fifty pounds a little, comfortable bath can be build but he did not give his consent."
+          ]
         },
         {
           "key": "source:ABU0237",
-          "why": "Hear the newspaper interviewer’s reaction to the barracks account."
+          "why": "Hear the newspaper interviewer’s reaction to the barracks account.",
+          "shortened": [
+            "\"We were thrown into the barrack with no permission to have intercourse with the outside world!\"",
+            "The Correspondent could not believe in such a cruel treatment. \"Do you mean the barrack?\" he exclaimed in incredulously. \"The barrack where the criminals are imprisoned? Do you mean that? How is that? What was your crime?\" he asked indignant against the tyrants."
+          ]
         },
         {
           "key": "source:ABU1607",
-          "why": "Consider the reported response to a decree of perpetual imprisonment."
+          "why": "Consider the reported response to a decree of perpetual imprisonment.",
+          "shortened": [
+            "Then the public speaker went behind a podium and read the royal decree, which was in Turkish. In essence, it said that the family of Baha'u'llah would be imprisoned in 'Akka forever and that they would not have the right to leave the city.",
+            "After hearing this edict I laughed. Those present were quite surprised and asked me, 'Why do you laugh?' I said, 'This passage has no meaning. If we are to remain in the city forever, we must also live forever. But we are not going to live eternally.'"
+          ]
         },
         {
           "key": "source:ABU1266",
-          "why": "Read the related decree account and later request to leave confinement."
+          "why": "Read the related decree account and later request to leave confinement.",
+          "shortened": [
+            "Then when the matter of imprisonment became prolonged, I petitioned the Blessed Beauty the first time, a second time, and a third time to leave the prison and honor the Mansion of Mazra'ih with His presence, but He would not accept. After that I did not dare to repeat the request. However, I informed the Mufti and sent him into the Blessed Presence. He went, knelt, and began kissing the feet of the Blessed Beauty, saying, \"O my Lord, will you not come out? The air in the garden is pleasant and the view is beautiful.\" He answered, \"I am a prisoner and the government would not approve.\" The Mufti said, \"They all agree.\" The Mufti persisted with complete humility and supplication until finally the Blessed Beauty consented to leave the prison."
+          ]
         },
         {
           "key": "source:AB00002",
-          "why": "Explore surveillance, blocked visitors, and the contrast with the later tent on Carmel."
+          "why": "Explore surveillance, blocked visitors, and the contrast with the later tent on Carmel.",
+          "shortened": [
+            "For the Most Great Name was held prisoner and confined nine years in the fortress-town of 'Akka; and at all times, both in the barracks and afterward, from without the house, the police and farrashes had Him under constant guard. The Blessed Beauty lived in a very small house, and He never set foot outside that narrow lodging, because His oppressors kept continual watch at the door.",
+            "Although the royal farman specifically decreed that Baha'u'llah was to be held in solitary confinement within the 'Akka fortress, in a cell, under perpetual guard; that He was never to set foot outside; that He was never even to see any of the believers--notwithstanding such a farman, such a drastic order, His tent was raised in majesty on the heights of Mount Carmel."
+          ]
         },
         {
           "key": "source:ABU0732",
-          "why": "Keep the reported efforts to bring visitors into the presence in their circumstances."
+          "why": "Keep the reported efforts to bring visitors into the presence in their circumstances.",
+          "shortened": [
+            "Through planning and giving gifts to the officers, I was able to win the entrance of some of the believers and bring them into Baha'u'llah's presence. With great kindness I dealt with a certain Bayk-bashi - may God's bounties surround his departed soul - and also won the affection of some other officers. At nights they would go and secretly bring in the friends."
+          ]
         },
         {
           "key": "source:BH11686",
-          "why": "Retain the brief acknowledgment of the first person to attain the prison presence."
+          "why": "Retain the brief acknowledgment of the first person to attain the prison presence.",
+          "shortened": [
+            "Thou art the first one to attain the divine presence in His Most Great Prison."
+          ]
         },
         {
           "key": "source:BH03248",
@@ -1138,19 +1514,33 @@
         },
         {
           "key": "source:BH02316",
-          "why": "Consider the prayer of one longing to reach the fortress."
+          "why": "Consider the prayer of one longing to reach the fortress.",
+          "shortened": [
+            "Is there a way for me, O my God, to the fortress which Thou hast made a prison for the Manifestation of Thyself?",
+            "O Lord! This is one dead who desireth the breaths of Thy revelation and what would give him life through the eternity of Thy might and sovereignty; and this is one non-existent who seeketh existence from the heaven of Thy bounty and the sea of Thy generosity and the sun of Thy grace; and this is one poor whom Thou seest clinging to the hem of Thy riches and holding fast to the cord of Thy bestowals; and a sinner who desireth the ocean of Thy forgiveness; and one deaf who desireth to hear Thy most sweet call which hath been raised from the direction of Thy prison."
+          ]
         },
         {
           "key": "source:BH02600",
-          "why": "Read a companion’s life from childhood through migration."
+          "why": "Read a companion’s life from childhood through migration.",
+          "shortened": [
+            "Thou wert with Us in thy childhood and grew to maturity beneath the sheltering grace of God, the Lord of the worlds, and thou didst migrate with the Wronged One until imprisonment ended in the Most Great Prison."
+          ]
         },
         {
           "key": "source:BH00708",
-          "why": "Keep the arrest and questioning narrative in the aftermath of the three killings explicit."
+          "why": "Keep the arrest and questioning narrative in the aftermath of the three killings explicit.",
+          "shortened": [
+            "After the Ancient Beauty's arrival, the Pasha and the members of the assembly apologized, saying they were obliged to investigate since three people had been killed and all the inhabitants of the city were fearful and terrified, therefore they must proceed according to law. The poor man seemed to have no knowledge of the law.",
+            "In any case, they asked about His blessed name and homeland, explaining that according to law these questions must be asked and recorded. He said: \"It is more manifest than the sun.\" They asked again. He said: \"It behooveth not to mention the name. Look at the government decree which is in your possession.\" Then with utmost courtesy they requested that He Himself tell them. The Temple of Grandeur sat composed upon the chair and spoke with the tongue of power and might: \"My name is Baha'u'llah and My country is Nur. Be ye apprized of it.\""
+          ]
         },
         {
           "key": "source:BH00861",
-          "why": "Read the account of those killings alongside the text’s stated prohibition of killing."
+          "why": "Read the account of those killings alongside the text’s stated prohibition of killing.",
+          "shortened": [
+            "O My Name! We have lifted the decree of killing lest anyone slay another or oppose another soul, yet despite this supreme prohibition what was destined came to pass. Thy Lord is indeed the All-Knowing, the All-Informed. Those who were killed in this land ['Akka], by God, were slain by the swords of their own deeds - to this testifies every informed sage."
+          ]
         },
         {
           "key": "source:BH11842",
@@ -1158,7 +1548,10 @@
         },
         {
           "key": "source:BHU0011",
-          "why": "Read the reported account of the Most Great Branch’s protective and practical service."
+          "why": "Read the reported account of the Most Great Branch’s protective and practical service.",
+          "shortened": [
+            "In the Land of Mystery too, we would meet with some and grant audience to others. But in the Most Great Prison we have met with no one and have completely closed the doors of association. The Master has borne all the hardships for our comfort and ease. He has become an impregnable fortress and a mighty shield before the world and its peoples, bringing us comfort. For us, they first obtained the Mansion of Mazra'ih where we stayed, and then the Mansion of Bahji."
+          ]
         },
         {
           "key": "source:BHU0008",
@@ -1166,23 +1559,44 @@
         },
         {
           "key": "source:ABU1970",
-          "why": "Consider the reported relocation of a smoky kitchen as an act of care."
+          "why": "Consider the reported relocation of a smoky kitchen as an act of care.",
+          "shortened": [
+            "This day, while pacing in the hallway [of the house of 'Abbud], the Master remarked:",
+            "This room was the kitchen. The smoke bothered the Blessed Beauty, so I changed its location. For twenty years, the Blessed Beauty resided in this house, and for nine years, He did not descend these stairs."
+          ]
         },
         {
           "key": "source:ABU0246",
-          "why": "Read the longing for grass and the preparations for a home outside the city."
+          "why": "Read the longing for grass and the preparations for a home outside the city.",
+          "shortened": [
+            "One day while he was walking in the house in the course of his conversation he said 'It is now nine years that my eyes have not beheld one blade of grass.' He loved the green pastures, verdant plains blossoming trees and flowering spots; especially the prairie of Acca which was wonderfully green and carpeted with wild flowers during the months of spring. For this reason he often remarked: 'the city is the world of bodies; the country is the world of spirits.'",
+            "Having prepared everything and attended to every detail I went to the Blessed Presence and said: 'A good mansion is made ready for you outside of Acca.",
+            "The Blessed Perfection answered 'I am a prisoner. The prisoner is not allowed to go beyond the town of Acca.'"
+          ]
         },
         {
           "key": "source:ABU0583",
-          "why": "Follow the reported negotiations over Mazra’ih."
+          "why": "Follow the reported negotiations over Mazra’ih.",
+          "shortened": [
+            "He had a palace called Mazra'ih, about four miles north of the city, a lovely place, surrounded by gardens and with a stream of running water.",
+            "I went and called on this Pasha at his home. I said: 'Pasha, you have left the palace empty, and are living in 'Akka.' He replied: 'I am an invalid and cannot leave the city. If I go there it is lonely and I am cut off from my friends.' I said: 'While you are not living there and the place is empty, let it to us.'"
+          ]
         },
         {
           "key": "source:ABU1750",
-          "why": "Consider the reported mufti’s intervention in leaving confinement."
+          "why": "Consider the reported mufti’s intervention in leaving confinement.",
+          "shortened": [
+            "We had made every effort to persuade the Blessed Beauty to relocate to the garden [of Mazra'ih], but He refused every time, and would say, 'We are prisoners, and prisoners must be confined.'",
+            "After obtaining His permission to attain His presence, the mufti threw himself at the feet of Baha'u'llah and said, 'I have a request to make of You, and I will not rise up from this spot until You agree to do it.' The mufti insisted and implored repeatedly, until at last the Blessed Beauty consented to his request. He left the fortress to which He had been confined and went to the Mansion of Mazra'ih, which had been prepared to receive Him."
+          ]
         },
         {
           "key": "source:ABU0211",
-          "why": "Keep the separate reported request and explanation of property and simple living."
+          "why": "Keep the separate reported request and explanation of property and simple living.",
+          "shortened": [
+            "\"One day I went to His Holy Presence and said: 'The palace is ready and also the carriage to drive you there.' At that time there was no carriage in 'Akka or Haifa. He replied: 'I will not go. I am a prisoner.' Later on I requested again. Again He refused. I went so far as to beg Him a third time.",
+            "However, He lived very simply and economically regarding his own welfare. He had no return from his property at that time. His property was confined to half the village of Adasieh [near Tiberias]. It was in ruins and yielded no revenues."
+          ]
         },
         {
           "key": "source:BH01402",
@@ -1190,11 +1604,17 @@
         },
         {
           "key": "source:BH05209",
-          "why": "Read emergence from Akka through its devotional imagery."
+          "why": "Read emergence from Akka through its devotional imagery.",
+          "shortened": [
+            "The Wronged One hath emerged from the prison of Akka, whereupon the Kingdom of Names was stirred and every stone cried out: \"God hath fulfilled what He promised in the Book. He, verily, is the Expositor, the All-Informed.\""
+          ]
         },
         {
           "key": "source:BH05378",
-          "why": "Retain the address concerning the palace."
+          "why": "Retain the address concerning the palace.",
+          "shortened": [
+            "We have emerged from the Most Great Prison and made this palace Our Most Sublime Vision, to the dismay of those who have denied God, the Lord of the worlds."
+          ]
         },
         {
           "key": "source:BH01860",
@@ -1202,7 +1622,10 @@
         },
         {
           "key": "source:BH03020",
-          "why": "Read the distinctive account of a voluntary migration."
+          "why": "Read the distinctive account of a voluntary migration.",
+          "shortened": [
+            "This is the third time that successive migrations have occurred in this supreme migration, yet none have been like unto this one, for it was undertaken with complete volition while its people were rendering the utmost service."
+          ]
         },
         {
           "key": "source:BHU0048",
@@ -1210,15 +1633,25 @@
         },
         {
           "key": "source:BH07418",
-          "why": "Hear the outing in a gifted cloak and remembrance of friends."
+          "why": "Hear the outing in a gifted cloak and remembrance of friends.",
+          "shortened": [
+            "For several days We have worn thy cloak and gone forth, that is, from Our residence to the countryside, and have made mention of the friends with such mention as hath raised high the pavilions of glory and the tabernacle of grace, and hath caused the banner of revelation to be unfurled upon the Mount, whereupon the Tree did proclaim: \"The Kingdom belongeth unto God, the Lord of all worlds!\""
+          ]
         },
         {
           "key": "source:BH09251",
-          "why": "Read the garden journey, companionship, tea, and gratitude."
+          "why": "Read the garden journey, companionship, tea, and gratitude.",
+          "shortened": [
+            "We left the House, proceeding toward the garden, and on the way We encountered servants who had believed in God, the Single, the All-Informed. There accompanied Us a certain number of those who had acknowledged what God had testified in His Noble Book. We journeyed until We entered the place and drank Chinese tea, and We said: \"Praise be to Thee, O God of the worlds!\""
+          ]
         },
         {
           "key": "source:BH03509",
-          "why": "Consider hospitality in the garden and the singing-leaf imagery."
+          "why": "Consider hospitality in the garden and the singing-leaf imagery.",
+          "shortened": [
+            "On the morning of the blessed Friday We proceeded from the mansion and entered the garden. Every tree uttered a word, and every leaf sang a melody.",
+            "Upon Our being seated, Radiyih, upon her be My glory, attained Our presence on thy behalf, laid the table of God's bounty and in thy name extended hospitality to all present."
+          ]
         },
         {
           "key": "source:ABU1649",
@@ -1226,27 +1659,48 @@
         },
         {
           "key": "source:ABU2002",
-          "why": "Read the reported attention to nature amid the work of revelation."
+          "why": "Read the reported attention to nature amid the work of revelation.",
+          "shortened": [
+            "Often he would order us to go and prepare tea five or six miles away from the city, because one could see there a patch of green or one pine. He would cut the cucumber into two pieces and smell only its odor and enjoy it as though he has eaten it.",
+            "While dictating Tablets to his Secretary at a rapid fire rate, he had papers in his hand writing on some entirely different topic and now and then carry an interesting conversation with those who were present and suddenly he would raise his head and point to us from the window a wonderful, tall, noble tree in a garden far away. One occupation would not prevent him from attending to other things."
+          ]
         },
         {
           "key": "source:ABU2500",
-          "why": "Retain the reported garden gathering and encounter with the governor."
+          "why": "Retain the reported garden gathering and encounter with the governor.",
+          "shortened": [
+            "Abdul Baha: \"In the days of the Blessed Perfection this was a place of recreation. He used to sit there (pointing) and the friends used to sit around on those seats. Words and prayers used to be revealed and they were all in the utmost of humility and submissiveness. One day I came here with the Motesareff (Governor). His holiness Baha'u'llah was here and the friends were here. He did not receive the Motesareff. He did not meet him. He did not meet me, either. He said, 'Return with the Motasereff,' and I returned.\""
+          ]
         },
         {
           "key": "source:ABU0283",
-          "why": "Explore the reported family evenings as occasions for moral education."
+          "why": "Explore the reported family evenings as occasions for moral education.",
+          "shortened": [
+            "Every evening after having partaken of his dinner he would retire inside of His mosquito-net and then send for all the members of the Blessed Household to gather around and converse with him. This delightful nightly gathering of the family before sleep was an essential feature of the spiritual system of education fostered and upheld by the Blessed Perfection.",
+            "Generally the meeting lasted one hour during which time he exhorted his hearers and tried to teach them in manifold ways, relating stories, uttering pithy remarks, cracking jokes and expressing truths laconically."
+          ]
         },
         {
           "key": "source:ABU0731",
-          "why": "Read the reported New Year celebration amid imprisonment."
+          "why": "Read the reported New Year celebration amid imprisonment.",
+          "shortened": [
+            "During the days of the Blessed Perfection we celebrated this National New year's day with great elaboration and festivity ... Everybody was in the utmost joy and happiness, attraction and hopefulness. The Newyear's day is a day of pleasure and delight. Although in those days we were prisoners, yet according to our ability the room of Baha'u'llah was decorated with roses and flowers and there were a variety of candies and bonbons which were distributed amongst the friends with his own hands..."
+          ]
         },
         {
           "key": "source:ABU1214",
-          "why": "Consider the reported planting of a garden under uncertainty."
+          "why": "Consider the reported planting of a garden under uncertainty.",
+          "shortened": [
+            "How pleasant it was when we were in prison, when in times of hardship no one would come and we were at peace. I would write letters to the East and West. I planted a garden and built a wooden house within it in 'Akka. Someone thought they would cast us into the sea or send us to the Sahara of Fezzan, but I was resigned.",
+            "I planted trees, and they laughed at me saying I was taking needless trouble."
+          ]
         },
         {
           "key": "source:ABU2019",
-          "why": "Hear the recollection of a room as a place of memory and reflection."
+          "why": "Hear the recollection of a room as a place of memory and reflection.",
+          "shortened": [
+            "Nowhere do[es] my heart truly rest save in this room where the Blessed Beauty spent His days and nights for many years. When I sit there alone how vividly the living picture is brought before my mind! In the evenings, after I go t[o] bed I lay awake for hours, thinking rapidly over the miraculous events of this Cause, how we were at first brought to Acca and imprisoned in the Barrack, how the breast of Baha'u'llah became the target for the arrows of oppression, how He suffered all these ignominies for our sake, how His Celestial Faith shone bright and luminous through untol[d] miseries and trials and how He conquered the hearts of men!"
+          ]
         },
         {
           "key": "source:ABU3024",
@@ -1262,7 +1716,10 @@
         },
         {
           "key": "source:BH03090",
-          "why": "Consider the name’s concealed meanings in the source’s own account."
+          "why": "Consider the name’s concealed meanings in the source’s own account.",
+          "shortened": [
+            "O thou who hast turned unto Me! We have named this prison the Most Great Prison, and assuredly this name was not given without cause. However, We have, as a token of Our grace - and verily, I am the All-Bountiful, the Most Generous - concealed its mysteries and future manifestations from the eyes of Our loved ones."
+          ]
         },
         {
           "key": "source:BH05761",
@@ -1278,7 +1735,10 @@
         },
         {
           "key": "source:BH05393",
-          "why": "Keep the polemical judgment of the city’s people attributed while following the spread of the call."
+          "why": "Keep the polemical judgment of the city’s people attributed while following the spread of the call.",
+          "shortened": [
+            "We arrived at the Most Great Prison in the city whose inhabitants were the most wicked of all people, as attesteth to this the Lord of creation in a perspicuous Book. When We arrived, We summoned all to God, thy Lord and the Lord of all worlds, and the call was raised from the precincts of the prison in such wise as to encompass earth and heaven."
+          ]
         },
         {
           "key": "source:BH11753",
@@ -1286,7 +1746,10 @@
         },
         {
           "key": "source:BH02044",
-          "why": "Hear the prison described as the Most Exalted Paradise."
+          "why": "Hear the prison described as the Most Exalted Paradise.",
+          "shortened": [
+            "Praise be unto the Lord of all creation, sanctified from all mention and description, Who, through His complete power and conquering might, hath transformed the prison of 'Akka into the Most Exalted Paradise."
+          ]
         },
         {
           "key": "source:BH03637",
@@ -1294,7 +1757,10 @@
         },
         {
           "key": "source:BH00345",
-          "why": "Read the contrast between former restrictions and later freedom."
+          "why": "Read the contrast between former restrictions and later freedom.",
+          "shortened": [
+            "Through His will, the Most Great Prison, with all its severity and confinement, became the All-Highest Paradise and the Dawning-Place of His supreme mercy. Those who were forbidden from beholding the paths, mosques, and streets of the city are now observed in complete freedom."
+          ]
         },
         {
           "key": "source:ABU2722",
@@ -1310,7 +1776,11 @@
         },
         {
           "key": "source:ABU1442",
-          "why": "Attribute the reported cholera claims rather than presenting them as verified epidemiology."
+          "why": "Attribute the reported cholera claims rather than presenting them as verified epidemiology.",
+          "shortened": [
+            "During the twenty-five years that the Blessed Beauty resided in 'Akka, there was never an outbreak of cholera. Throughout Greater Syria cholera became prevalent four times, even reaching the gates of 'Akka, but it never entered the city, and all the physicians were astonished that 'Akka, which was known as the home of diseases, remained untouched by the illness while other places with better climate were affected.",
+            "Until His ascension occurred, there was no cholera anywhere, but then it broke out in 'Akka."
+          ]
         },
         {
           "key": "source:ABU1596",
@@ -1326,11 +1796,17 @@
         },
         {
           "key": "source:ABU1343",
-          "why": "Keep the concise reported account of the Shah’s role attributed."
+          "why": "Keep the concise reported account of the Shah’s role attributed.",
+          "shortened": [
+            "Therefore the King of Persia, Nasser-Ud-Din, Shah, endeavored until he succeeded in having him transported to the prison of Acca."
+          ]
         },
         {
           "key": "source:ABU1552",
-          "why": "Read the reported expectation that banishment would extinguish the Cause."
+          "why": "Read the reported expectation that banishment would extinguish the Cause.",
+          "shortened": [
+            "When they banished the Blessed Beauty to Baghdad and Akka, they were certain that this Cause would be completely obliterated and no trace of it would remain."
+          ]
         },
         {
           "key": "source:ABU0947",
@@ -1342,7 +1818,11 @@
         },
         {
           "key": "source:ABU0740",
-          "why": "Read the reported garden and light imagery of wider influence."
+          "why": "Read the reported garden and light imagery of wider influence.",
+          "shortened": [
+            "Accordingly, the clergy, or learned men of Persia, being hostile to this holy Cause, so arranged that the Blessed Perfection was sent from Adrianople (the land of Mystery) to Acre, Syria.",
+            "In this prison (Acre) the flag of the Gardener of god was raised, the greatness of the Word of God appeared and the Sun of Truth shone in such a degree that all the horizons became clear."
+          ]
         },
         {
           "key": "source:ABU0062",
@@ -1350,15 +1830,24 @@
         },
         {
           "key": "source:AB00454",
-          "why": "Read the spread of the Word toward Europe and America."
+          "why": "Read the spread of the Word toward Europe and America.",
+          "shortened": [
+            "And when He was transferred from that land to the Most Great Prison, and the ruined fortress became the prison of the Beloved of the world of being, and the utmost abasement and humiliation were imposed, the call of the Cause of God and the voice of the Word of God spread to the countries of Europe and America."
+          ]
         },
         {
           "key": "source:AB04651",
-          "why": "Place the meaning of banishment alongside the earlier departure of Muhammad."
+          "why": "Place the meaning of banishment alongside the earlier departure of Muhammad.",
+          "shortened": [
+            "The departure of Muhammad, the Beloved of God, from the city of His birth was the cause of the exaltation of God's Holy Word, and the banishment of the Sacred Beauty led to the diffusion of the light of His divine\nRevelation throughout all regions."
+          ]
         },
         {
           "key": "source:ABU2218",
-          "why": "Consider the reported relation between exile and the revelation of Tablets."
+          "why": "Consider the reported relation between exile and the revelation of Tablets.",
+          "shortened": [
+            "Later, when the Blessed Beauty was exiled, the friends were grief-stricken and disheartened while the enemies rejoiced, saying 'Praise be to God, Baha'u'llah was exiled.' But had the Blessed Beauty not been exiled, the Tablet to the King and the Tablet to Ra'is would not have been revealed and the Cause of God would not have been spread abroad."
+          ]
         },
         {
           "key": "source:ABU0621",

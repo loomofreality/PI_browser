@@ -5,7 +5,7 @@
       "id": "02B4E611F3EC4C52AD11023CE5588FA7",
       "slug": "moderation",
       "displayTitle": "Moderation: making room for a generous life",
-      "introduction": "A simple life can be generous, liberal, and full of beauty. The reported invitation with which this guide begins gives moderation a positive horizon: freedom to give attention and energy to what matters. The passages explore food, spending, speech, recreation, public power, and religious commitment, repeatedly asking when something beneficial becomes harmful through excess. Their range prevents simplicity from becoming a single prescribed lifestyle; one reported selection explicitly refuses to measure virtue by appetite. Neighboring subjects of beauty, refinement, detachment, and material wealth add further dimensions to this inquiry. A Qur’anic image, cited within the compilation, describes a hand neither bound shut nor extended to exhaustion [1]. Later letters complicate easy formulas about balance, especially when discussing sacrifice and the relationship between spiritual life and organization. Together the readings invite thoughtful proportion, grounded in justice and purpose, rather than a rule that every commitment should receive an equal share.",
+      "introduction": "Our needs were once few, ‘Abdu’l-Bahá observes, and most of what now weighs on us was added later, custom by custom, until a simple life came to look like a sacrifice rather than a liberation. Moderation in the Bahá’í writings is not a diet of less but a way of making room: for generosity, for attention, for the work that matters. Bahá’u’lláh calls it desirable in all matters and warns that anything carried to excess, even liberty or civilization itself, turns from a blessing into a source of harm. The measure is never appetite, since virtue does not lie in eating little or much, but justice and purpose: a person content with a crust who deals fairly with others is the master of all worlds. The Qur’án pictures a hand neither tied to the neck nor stretched to exhaustion [1], and that middle path runs through speech, spending, recreation, and public power alike. It leads naturally onward to detachment, to the true standing of material wealth, and to the refinement and beauty that a life freed from clutter can finally afford.",
       "arc": "Begin with the freedom of a simpler life, examine excess in personal and public affairs, then consider balance across work, devotion, and community.",
       "order": [
         {
@@ -14,19 +14,32 @@
         },
         {
           "key": "source:AB00817",
-          "why": "Measure dignity through justice rather than possessions."
+          "why": "Measure dignity through justice rather than possessions.",
+          "shortened": [
+            "If a person is content with a morsel of bread and deals with justice and fairness according to his capacity, he is the master of all worlds and the most praiseworthy of men - noble though his purse be empty, the master of the free though his garment be old and worn."
+          ]
         },
         {
           "key": "source:ABU1728",
-          "why": "Refuse to measure virtue by appetite."
+          "why": "Refuse to measure virtue by appetite.",
+          "shortened": [
+            "Virtue and excellence consist in true faith in God, not in having a small or a large appetite for food, or in similar matters."
+          ]
         },
         {
           "key": "source:ABU0361",
-          "why": "Join care for the body with freedom from its mastery."
+          "why": "Join care for the body with freedom from its mastery.",
+          "shortened": [
+            "Do not mortify the flesh. Care for the body as the vehicle of the soul and the spirit within; but at the same time do not pamper it.",
+            "Cultivate your finer nature through your senses and your emotions, taking care meanwhile that they do not become your masters."
+          ]
         },
         {
           "key": "source:AB00004",
-          "why": "Ground character in reason, knowledge, and moderation."
+          "why": "Ground character in reason, knowledge, and moderation.",
+          "shortened": [
+            "A good character is in the sight of God and His chosen ones and the possessors of insight, the most excellent and praiseworthy of all things, but always on condition that its center of emanation should be reason and knowledge and its base should be true moderation."
+          ]
         },
         {
           "key": "source:AB11157",
@@ -38,7 +51,10 @@
         },
         {
           "key": "source:BH00111",
-          "why": "Extend the question of excess to civilization and destruction."
+          "why": "Extend the question of excess to civilization and destruction.",
+          "shortened": [
+            "The word of God which the Supreme Pen hath recorded on the ninth leaf of the Most Exalted Paradise is this: In all matters moderation is desirable. If a thing is carried to excess, it will prove a source of evil. Consider the civilization of the West, how it hath agitated and alarmed the peoples of the world. An infernal engine hath been devised, and hath proved so cruel a weapon of destruction that its like none hath ever witnessed or heard."
+          ]
         },
         {
           "key": "source:BH00140",
@@ -62,11 +78,17 @@
         },
         {
           "key": "source:BH00223",
-          "why": "Connect effective utterance with tact and a pure heart."
+          "why": "Connect effective utterance with tact and a pure heart.",
+          "shortened": [
+            "Teach thou the Cause of God with an utterance which will cause the bushes to be enkindled, and the call 'Verily, there is no God but Me, the Almighty, the Unconstrained' to be raised therefrom. Say: Human utterance is an essence which aspireth to exert its influence and needeth moderation. As to its influence, this is conditional upon refinement which in turn is dependent upon hearts which are detached and pure. As to its moderation, this hath to be combined with tact and wisdom as prescribed in the Holy Scriptures and Tablets."
+          ]
         },
         {
           "key": "source:AB04320",
-          "why": "Read the practical instruction about speech."
+          "why": "Read the practical instruction about speech.",
+          "shortened": [
+            "In whatever country you go, speak with moderation."
+          ]
         },
         {
           "key": "source:ABU0326",
@@ -78,7 +100,10 @@
         },
         {
           "key": "source:ABU0886",
-          "why": "Read bodily necessities as support for spiritual growth."
+          "why": "Read bodily necessities as support for spiritual growth.",
+          "shortened": [
+            "But in sleep and food and such things, humans are compelled since these are requirements of life, and moderation in them assists and supports the acquisition of spiritual perfections and attainment of eternal stations."
+          ]
         },
         {
           "key": "source:ABU1885",
@@ -86,11 +111,17 @@
         },
         {
           "key": "source:ABU1452",
-          "why": "Read the preference for one dish as particular counsel."
+          "why": "Read the preference for one dish as particular counsel.",
+          "shortened": [
+            "\"When the people invite me alone to their houses\" he said \"I ask them to prepare only one dish. Simplicity in food is better."
+          ]
         },
         {
           "key": "source:ABU0558",
-          "why": "Consider the reported plain table and shared simplicity."
+          "why": "Consider the reported plain table and shared simplicity.",
+          "shortened": [
+            "This is a uniform (or plain) table - the same kind of food served to all. Uniformity and simplicity are good not only in food, but even in dress, in heart and in temperament."
+          ]
         },
         {
           "key": "source:AB00162",
@@ -102,11 +133,17 @@
         },
         {
           "key": "source:ABU1752",
-          "why": "Read the reported account of need and relief."
+          "why": "Read the reported account of need and relief.",
+          "shortened": [
+            "Hunger is a hardship for humans, and food removes it - it is not that there is pleasure in food. Thirst is a hardship for humans, and water removes it - it is not that there is pleasure in water. Tiredness is a trouble for humans, and rest removes it. There is no pleasure in water itself, but it removes thirst. Therefore if one is hungry, any food gives pleasure, and if not, there is no pleasure at all."
+          ]
         },
         {
           "key": "source:ABU2552",
-          "why": "Keep the reported dietary counsel attributed."
+          "why": "Keep the reported dietary counsel attributed.",
+          "shortened": [
+            "One must eat in moderation. Man is not created for food. He must not indulge in eating too much. Over-eating is the cause of many diseases. Rise from the table always before your are satisfied."
+          ]
         },
         {
           "key": "source:ABU2408",
@@ -114,7 +151,10 @@
         },
         {
           "key": "source:ABU1189",
-          "why": "Read contentment as a source of endurance."
+          "why": "Read contentment as a source of endurance.",
+          "shortened": [
+            "Man must walk in the path of contentment and be satisfied with few things. This will insure his happiness, give him the power of endurance and make him independent of all unnecessary appendages of this mundane life."
+          ]
         },
         {
           "key": "source:ABU1920",
@@ -126,7 +166,10 @@
         },
         {
           "key": "source:ABU2420",
-          "why": "Read the remembered simple pillow."
+          "why": "Read the remembered simple pillow.",
+          "shortened": [
+            "When I was young I often had a brick or a piece of rock as my pillow, and I slept soundly.\""
+          ]
         },
         {
           "key": "source:ABU1682",
@@ -134,7 +177,10 @@
         },
         {
           "key": "source:ABU0339",
-          "why": "Retain the reported praise of a particular frugal life."
+          "why": "Retain the reported praise of a particular frugal life.",
+          "shortened": [
+            "He was one of the most economical men of this age and lived in the most rigorous frugality and extreme simplicity."
+          ]
         },
         {
           "key": "source:ABU1578",
@@ -142,11 +188,17 @@
         },
         {
           "key": "source:ABU1996",
-          "why": "Read the reported caution about unnecessary spending."
+          "why": "Read the reported caution about unnecessary spending.",
+          "shortened": [
+            "Never be a spendthrift. Do not be extravagant in thy expenses. An extravagant person comes always to a sad end and feels the pinch of want and misery. Ever expend less than your income. Do not borrow money for unnecessary things."
+          ]
         },
         {
           "key": "source:AB07534",
-          "why": "Join work, trust, and economy in particular advice about debt."
+          "why": "Join work, trust, and economy in particular advice about debt.",
+          "shortened": [
+            "Trust in God and engage in your work and practice economy; the confirmations of God shall descend and you will be enabled to pay off your debts."
+          ]
         },
         {
           "key": "source:AB06680",
@@ -158,7 +210,10 @@
         },
         {
           "key": "source:ABU2187",
-          "why": "Read the birds as an image of contentment and praise."
+          "why": "Read the birds as an image of contentment and praise.",
+          "shortened": [
+            "The people of God are like the birds, who satisfy themselves with a few crumbs, and sit the whole time on the branches of the trees and sing the praises of God."
+          ]
         },
         {
           "key": "source:ABU2085",
@@ -174,7 +229,10 @@
         },
         {
           "key": "selection:197d0693b967a25e4ec8627d",
-          "why": "Join livelihood and service in the supplied letter."
+          "why": "Join livelihood and service in the supplied letter.",
+          "shortened": [
+            "In one of His Tablets Baha'u'llah says that the highest form of detachment in this day is to be occupied with some profession and be self-supporting. A good Baha'i, therefore, is the one who so arranges his life as to devote time both to his material needs and also to the service of the Cause."
+          ]
         },
         {
           "key": "selection:5f9aba391bebacfcdca9ad55",
@@ -277,7 +335,7 @@
       "id": "4925B84D51C04E3DB0D1AB40021DA116",
       "slug": "deliberation",
       "displayTitle": "Thoughtful action: order, care, and flexibility",
-      "introduction": "Even a household needs organization, yet organization need not be rigid. That reported observation introduces a collection in which orderly action is inseparable from attention to people, consequences, and purpose. Numbered letters, prompt communication, a carefully prepared cup of tea, and exact architectural measurements place spiritual responsibility within ordinary details. Other selections call for consultation, discretion under persecution, and the patience to postpone an ill-timed undertaking. The neighboring subjects of discipline and refinement help connect outward arrangements with habits of care. Luke’s image of a builder considering the cost of completing a tower offers a comparison about preparation and commitment [1]. The later letters then insist that administrative forms remain instruments, capable of adaptation. The inquiry asks how we can become dependable and thorough while keeping the work responsive to its living purpose and to the different conditions in which people undertake it.",
+      "introduction": "Even a household, ‘Abdu’l-Bahá once remarked, falls into hopeless confusion without organization; the point is only that the organization should not be rigid. Deliberation, in the sense Bahá’u’lláh gives the word, is the opposite of hesitation: it is the discretion that lets an undertaking actually succeed, the several days of consultation before an important decision, the attention to consequences that governments rushing into war so conspicuously lacked. It lives in small things too, a well-prepared cup of tea, a numbered letter, a promise kept, and in the care that no one be made sorrowful by one’s actions. Luke’s builder, counting the cost before laying a foundation, puts the same wisdom in a single picture [1]. Shoghi Effendi then adds the necessary caution: the machinery of administration is a channel for the spirit and never its substitute, and a tool that supersedes its purpose has failed. From here the path leads into discipline, into cleanliness and refinement as outward signs of inward care, and into the patient work of self-improvement.",
       "arc": "Begin with order that remains flexible, move through preparation and consequences into practical care, then test administrative forms against the purposes they serve.",
       "order": [
         {
@@ -294,11 +352,18 @@
         },
         {
           "key": "source:ABU1831",
-          "why": "Consider consequences through the reported warning about war."
+          "why": "Consider consequences through the reported warning about war.",
+          "shortened": [
+            "Now that the world is in turmoil, let us see what will happen after this tempest; God willing, it will turn out well. These governments, without remembering the difficulties of this war, or considering its consequences, or taking into account the gravity of the situation, rush recklessly into war. Now both sides are remorseful. Had they known it would come to this, they would not have acted so rashly.",
+            "This is why in all matters, whether small or great, one must consider their consequences."
+          ]
         },
         {
           "key": "source:AB09128",
-          "why": "Place care for people and prevention of harm at the center."
+          "why": "Place care for people and prevention of harm at the center.",
+          "shortened": [
+            "Exercise caution that no one, of whatever type of person, be made sorrowful by you. Great moderation is necessary, and likewise be vigilant and alert that no one should cause harm."
+          ]
         },
         {
           "key": "source:AB05912",
@@ -306,11 +371,17 @@
         },
         {
           "key": "source:AB01632",
-          "why": "Connect service with thoroughness and care."
+          "why": "Connect service with thoroughness and care.",
+          "shortened": [
+            "But whatever matter the divine friends undertake should be carried out with utmost perfection, thoroughness and order. The lessons should be organized, the times fixed, the teachers accomplished, and the students should make every effort, so that the desired results may be achieved from these established schools and day by day the young plants of the divine garden may progress in all branches of knowledge and win the trophy of excellence over all other children."
+          ]
         },
         {
           "key": "source:BH00352",
-          "why": "Keep wisdom present in every undertaking."
+          "why": "Keep wisdom present in every undertaking.",
+          "shortened": [
+            "O Ali! In no matter should the loved ones of Truth let go of wisdom. In all conditions they should be mindful of it. It is the firm decree of God and the luminary of the heaven of divine ordinances."
+          ]
         },
         {
           "key": "source:AB07085",
@@ -322,7 +393,10 @@
         },
         {
           "key": "source:ABU3027",
-          "why": "Consider the reported counsel about moods."
+          "why": "Consider the reported counsel about moods.",
+          "shortened": [
+            "Be not the slave of your moods, but their master."
+          ]
         },
         {
           "key": "source:ABU3173",
@@ -330,11 +404,17 @@
         },
         {
           "key": "source:ABU2222",
-          "why": "Bring order into the home."
+          "why": "Bring order into the home.",
+          "shortened": [
+            "The home should be orderly and well-organized."
+          ]
         },
         {
           "key": "source:ABU3127",
-          "why": "Read the reported cup of tea as attention to beginnings."
+          "why": "Read the reported cup of tea as attention to beginnings.",
+          "shortened": [
+            "Tea must be like this: good sugar, excellent tea, purified water, clean cup and in every way neat and organized. Otherwise, it is better not to drink it. 'What is not cared for at the beginning cannot be remedied at the end.'"
+          ]
         },
         {
           "key": "source:AB07213",
@@ -342,7 +422,10 @@
         },
         {
           "key": "source:AB00824",
-          "why": "Read the school clothing proposal with its explicit allowance for difficulty."
+          "why": "Read the school clothing proposal with its explicit allowance for difficulty.",
+          "shortened": [
+            "As to the organization of the schools: if possible the children should all wear the same kind of clothing, even if the fabric is varied. It is preferable that the fabric as well should be uniform; if, however, this is not possible, there is no harm done."
+          ]
         },
         {
           "key": "source:AB04928",
@@ -354,11 +437,18 @@
         },
         {
           "key": "source:AB08664",
-          "why": "Read the effects of delayed letters and incomplete communication."
+          "why": "Read the effects of delayed letters and incomplete communication.",
+          "shortened": [
+            "O thou who art firm in the Covenant! Please write about any news or events that arrive from anywhere, or like the late Aqa Siyyid Taqi, write a brief summary of that news on the back of the same letter and send it.",
+            "O Jinab-i-Aqa Siyyid Asadu'llah! Letters arrive and remain with you for several days. Among them, Mirza Jalal had sent a letter, but after he himself arrived, his letter reached us. Please be attentive in this matter."
+          ]
         },
         {
           "key": "source:AB09672",
-          "why": "Consider the obligation created by a promise."
+          "why": "Consider the obligation created by a promise.",
+          "shortened": [
+            "But alas, the appointed time of arrival is the fourth of the month, while this yearning one will be departing for Paris on the morning of the third month, as some respected individuals have extended invitations and I have made promises, and breaking promises is wrong."
+          ]
         },
         {
           "key": "source:BH08778",
@@ -366,15 +456,24 @@
         },
         {
           "key": "source:ABU1452",
-          "why": "Read the reported need for continuing attention after organization."
+          "why": "Read the reported need for continuing attention after organization.",
+          "shortened": [
+            "In every affair constant vigilance and attention are necessary; otherwise, no matter how perfect the organization, once negligence is crept in, it will loose its efficiency little by little. If a piece of productive farm is left to take care of itself and supervision over the farmers is slackened, it will be either abandoned or turn into a thorny-patch."
+          ]
         },
         {
           "key": "source:AB02355",
-          "why": "Recognize the joy associated with well-arranged community life."
+          "why": "Recognize the joy associated with well-arranged community life.",
+          "shortened": [
+            "Its contents were as sweet as honey and sugar, for they conveyed that in Yazd the friends of God show great steadfastness, the affairs of the Cause are well organized and arranged, the meetings for encouragement and teaching are eloquent and complete, and in Rafsanjan the ocean of the love of God is surging, and in Kirman the glory of the All-Merciful has made faces bright and radiant like the shining sun."
+          ]
         },
         {
           "key": "source:BH06839",
-          "why": "Join a council’s conduct with changing requirements."
+          "why": "Join a council’s conduct with changing requirements.",
+          "shortened": [
+            "In that Council, let them hold fast unto whatsoever conduceth to exaltation, elevation, dignity, composure, goodly deeds, spiritual qualities, words of counsel, and the reformation of heedless souls, according to the requirements of the days, until God shall come with His command."
+          ]
         },
         {
           "key": "source:AB00586",
@@ -390,7 +489,11 @@
         },
         {
           "key": "source:AB06185",
-          "why": "Read wisdom as a means of preventing conflict."
+          "why": "Read wisdom as a means of preventing conflict.",
+          "shortened": [
+            "I have heard that you intend to prepare a guest house for travelers.",
+            "However, it must be carried out with wisdom, lest the heedless arise to create disorder and engage in conflict. Affairs must be conducted with wisdom, and the meaning of wisdom is to be fervent and enthusiastic, without a moment's rest, while proceeding with reason and prudence, \"By those who govern affairs.\""
+          ]
         },
         {
           "key": "source:AB01033",
@@ -398,35 +501,60 @@
         },
         {
           "key": "source:AB09271",
-          "why": "Keep the travel instruction within the circumstances of surveillance."
+          "why": "Keep the travel instruction within the circumstances of surveillance.",
+          "shortened": [
+            "O steadfast servant of the Ancient Beauty! Anton Haddad will arrive in Beirut with one of the handmaidens of the All-Merciful. Tell Anton Effendi that the utmost wisdom is necessary, for government spies are secretly very vigilant. Therefore they must stay at the Prussian hotel in the Prussian quarter of Haifa, and come to 'Akka in the morning as tourists, returning in the afternoon. Any other arrangement would be contrary to wisdom."
+          ]
         },
         {
           "key": "source:AB09644",
-          "why": "Consider deliberate postponement."
+          "why": "Consider deliberate postponement.",
+          "shortened": [
+            "Do not pursue this matter now. Let it remain unspoken of for the present - it will be properly resolved later."
+          ]
         },
         {
           "key": "source:AB11984",
-          "why": "Retain the concise counsel to cling to wisdom."
+          "why": "Retain the concise counsel to cling to wisdom.",
+          "shortened": [
+            "Silence and quietude are the cause of steadfastness and firmness, because promotion is forbidden in these parts and this prohibition is explicitly stated. One must be constrained and cling to wisdom."
+          ]
         },
         {
           "key": "source:BH03180",
-          "why": "Read permission and the choice of a wise time together."
+          "why": "Read permission and the choice of a wise time together.",
+          "shortened": [
+            "And He said that this year or next year, whenever wisdom requireth, they may proceed, for the Most Exalted Leaf - upon her be the Most Glorious Glory of God and His Most Resplendent Light - hath long made this request of the True One, hence permission hath been granted. However, all must be done in accordance with wisdom."
+          ]
         },
         {
           "key": "source:BH07891",
-          "why": "Keep the further condition of wisdom."
+          "why": "Keep the further condition of wisdom.",
+          "shortened": [
+            "In all circumstances they must observe wisdom. Thus hath God ordained, both before and after, in the Scriptures and Tablets. If wisdom requireth it, let them turn with spirit and fragrance."
+          ]
         },
         {
           "key": "source:BH11833",
-          "why": "Respect the scope of a particular authorization."
+          "why": "Respect the scope of a particular authorization.",
+          "shortened": [
+            "Since the petition was submitted to the Most Holy Court, therefore nothing is permitted except what was submitted."
+          ]
         },
         {
           "key": "source:ABU1211",
-          "why": "Retain the reported historical diplomatic intervention."
+          "why": "Retain the reported historical diplomatic intervention.",
+          "shortened": [
+            "[The Prime Minister] Qa'im-Maqam promised to find an amicable solution and prevent further fighting. He wrote a long letter to [St.] Petersburg, and explained the critical importance that the Iranian people place in womanly virtues of chastity and honor."
+          ]
         },
         {
           "key": "source:ABU3691",
-          "why": "Keep the reported account of ministers’ decisions as historical testimony."
+          "why": "Keep the reported account of ministers’ decisions as historical testimony.",
+          "shortened": [
+            "From that point onward, they would not give the matter a second thought, and nothing would hinder them from executing their decision. They dispensed with intermediaries, and refused to accept any vetoes.",
+            "On every one of these occasions, the ministers were engaged in consultations and discussions from dusk till dawn. They would disperse at the approach of morning, having only just eaten their dinner, and on the following day they would carry out what they had put into writing."
+          ]
         },
         {
           "key": "source:BB00003",
@@ -434,7 +562,10 @@
         },
         {
           "key": "selection:522c46d804a2ebe636048e4d",
-          "why": "Read administration as an instrument serving the Faith."
+          "why": "Read administration as an instrument serving the Faith.",
+          "shortened": [
+            "I need not dwell upon what I have already reiterated and emphasized that the administration of the Cause is to be conceived as an instrument and not a substitute for the Faith of Baha'u'llah, that it should be regarded as a channel through which His promised blessings may flow, that it should guard against such rigidity as would clog and fetter the liberating forces released by His Revelation. ...the whole machinery of assemblies, of committees and conventions is to be regarded as a means, and not an end in itself; that they will rise or fall according to their capacity to further the interests, to coordinate the activities, to apply the principles, to embody the ideals and execute the purpose of the Baha'i Faith...."
+          ]
         },
         {
           "key": "selection:94fb4f6db936005f9d587673",
@@ -470,7 +601,10 @@
         },
         {
           "key": "selection:61e131418d1331c4fc973806",
-          "why": "Close with adaptive, diverse contributions to a common purpose."
+          "why": "Close with adaptive, diverse contributions to a common purpose.",
+          "shortened": [
+            "Since change, ever more rapid change, is a constant characteristic of life at this time, and since our growth, size and external relations demand much of us, our community must be ready to adapt. In a sense this means that the community must become more adept at accommodating a wide range of actions without losing concentration on the primary objectives of teaching, namely, expansion and consolidation. A unity in diversity of actions is called for, a condition in which different individuals will concentrate on different activities, appreciating the salutary effect of the aggregate on the growth and development of the Faith, because each person cannot do everything and all persons cannot do the same thing."
+          ]
         }
       ],
       "questions": [
@@ -522,7 +656,7 @@
       "id": "30C2D59E16E1E7182E7735000387E1F7",
       "slug": "rulersprayer",
       "displayTitle": "Praying for rulers: justice, protection, and humility",
-      "introduction": "A sovereign is invited to pray as a servant before the King of kings. This reversal of perspective sets the tone for petitions that join goodwill toward rulers with hopes for justice, equity, and protection of the weak. Some prayers concern particular monarchs, governments, illnesses, or acts of protection; others widen to rulers and learned people throughout the world. Their historical particulars deserve attention, especially when language of enduring sovereignty appears alongside prayers for a ruler to acknowledge error or turn away from oppression. The neighboring subject of proclamation to rulers connects supplication with the responsibility to address power. First Timothy offers a comparison in its prayer for those in authority so that people may live peaceably [1]. These readings invite consideration of how prayer might enlarge public concern, sustaining goodwill while making the welfare of the governed a central measure of what is sought.",
+      "introduction": "A king is told to lift his hands and call himself a vassal before the King of kings. Prayer for rulers begins there, in a reversal that strips power of its pretension and then asks the most for it: that kings walk in guidance, justice and fairness, that they shield the poor and weak, that their subjects find rest under their protection, that sovereigns in error be helped to acknowledge it. Bahá’u’lláh prays for the Sultan’s relief from affliction and the Shah’s illumination by justice; ‘Abdu’l-Bahá asks confirmation for governments that act justly and gives thanks for a ruler who sheltered a wronged community. The welfare of the governed is the recurring measure of what is sought, as it is in First Timothy’s call to pray for those in authority so that all may live peaceably [1]. To pray this way is to enlarge one’s concern beyond a familiar circle. The path continues toward the proclamation addressed to kings, toward the responsibilities of rulers themselves, and into the wider world of prayer.",
       "arc": "Begin with a ruler’s humility, place justice and protection at the center, then read particular historical petitions within an encompassing concern for human welfare.",
       "order": [
         {
@@ -543,7 +677,10 @@
         },
         {
           "key": "source:BH02816",
-          "why": "Give the endangered community’s need for protection a voice."
+          "why": "Give the endangered community’s need for protection a voice.",
+          "shortened": [
+            "We beseech Thee by the sovereignty of the Names and by the Call which hath been raised between earth and heaven to protect us from the evil of Thy tyrannical servants who have shed the blood of Thy loved ones and cast aside Thy Book and violated Thy Covenant and disputed Thy proof. O Lord! Aid His Majesty the Sultan to assist the oppressed that he may protect them from the evil of their enemies. Verily Thou art powerful over whatsoever Thou willest and Thou art the Mighty, the All-Conquering, the All-Powerful."
+          ]
         },
         {
           "key": "source:BH01329",
@@ -559,7 +696,10 @@
         },
         {
           "key": "source:BH01874",
-          "why": "Join a sovereign’s turning to God with equity."
+          "why": "Join a sovereign’s turning to God with equity.",
+          "shortened": [
+            "I beseech Thee by the ocean of Thy verses and by the mysteries treasured within Thy knowledge to aid the sovereign to turn unto Thee and to illumine him, O my God, with the light of Thy justice and to adorn him with the ornament of equity through Thy power and might and grandeur."
+          ]
         },
         {
           "key": "source:BH10434",
@@ -579,7 +719,10 @@
         },
         {
           "key": "source:AB07072",
-          "why": "Join service to a monarch with the rights of nations."
+          "why": "Join service to a monarch with the rights of nations.",
+          "shortened": [
+            "We beseech God that you may be assisted and confirmed at all times and under all conditions to serve that great monarch and to secure the rights of nations and justice and equity among peoples, and to render outstanding services to the eternal throne of sovereignty."
+          ]
         },
         {
           "key": "source:BH00760",
@@ -595,11 +738,17 @@
         },
         {
           "key": "source:BH04514",
-          "why": "Consider wisdom and utterance as aids to rulers."
+          "why": "Consider wisdom and utterance as aids to rulers.",
+          "shortened": [
+            "We beseech God to reinforce the princes and sovereigns with the hosts of wisdom and utterance, and to guide them to His manifest and conspicuous Path, and to ordain for them the good of the hereafter and of the former life, and to grant them His presence that they may attend and circle round the Throne at eventide and at dawn, at sunset and at morn."
+          ]
         },
         {
           "key": "source:BH11609",
-          "why": "Read goodwill together with justice and recognition."
+          "why": "Read goodwill together with justice and recognition.",
+          "shortened": [
+            "O God of Bounty and Educator of all existence! I beseech Thee by Thy Name, the One Who dominateth both the unseen and the visible, to adorn him who was mentioned with the lights of the Day-Star of Thy justice. Moreover, protect him from the evil of those who secretly desire to seize his kingdom. O my Lord! Illumine his heart with the light of recognition and aid him to turn toward the horizon of Thy Revelation, the Dawning-Place of Thy verses and the Manifestation of Thy Self. O Lord! Withhold him not from turning toward the direction of Thy gifts, and make him not deprived of the outpourings of Thy days."
+          ]
         },
         {
           "key": "source:AB10593",
@@ -611,19 +760,31 @@
         },
         {
           "key": "source:AB05795",
-          "why": "Read the remembrance of official assistance."
+          "why": "Read the remembrance of official assistance.",
+          "shortened": [
+            "I will continually pray that the glances of divine mercy may encompass that respected group, and that this incident - namely the assistance and care shown by the officials of the just government - may be recorded and preserved as a brilliant page in Baha'i history."
+          ]
         },
         {
           "key": "source:AB05739",
-          "why": "Keep gratitude joined with truthfulness."
+          "why": "Keep gratitude joined with truthfulness.",
+          "shortened": [
+            "All the friends must engage night and day in offering prayers of gratitude for this justice and kindness, serving His Majesty the Shah with sincere prayers and truthfulness."
+          ]
         },
         {
           "key": "source:AB04250",
-          "why": "Read the particular historical praise with its attribution intact."
+          "why": "Read the particular historical praise with its attribution intact.",
+          "shortened": [
+            "Ever offer prayers of good-will, and beseech from the Threshold of the Divine Unity victory and assistance for His Majesty the Shah. In very truth, during these latter years he hath exercised the utmost justiceâ€\"nay, even favor and solicitude. Pray ye, therefore, and at the court of God offer supplication and entreaty, that day by day the equity of his sovereignty and the majesty of his kingship may increase. By the Most Great Name! The confirmations of the Kingdom shall descend, and the aid and favor of the Sovereign of the Realm of Might shall be vouchsafed in succession."
+          ]
         },
         {
           "key": "source:AB04239",
-          "why": "Retain the particular prayer for a protective sovereign."
+          "why": "Retain the particular prayer for a protective sovereign.",
+          "shortened": [
+            "Empower them in the land to freely call out Thy name under the shadow of their just king and perfect sovereign who hath raised the standard of equity in those regions and extended the hands of dominion in those parts - the protector of the loved ones of God, the guardian of the chosen ones of God, the King of Kings of the East whose pavilion of glory hath extended to the West."
+          ]
         },
         {
           "key": "source:AB01572",
@@ -631,7 +792,10 @@
         },
         {
           "key": "source:AB00886",
-          "why": "Read the situated call to prayer and obedience."
+          "why": "Read the situated call to prayer and obedience.",
+          "shortened": [
+            "Similarly, it is obligatory upon all the friends of God, by the decisive sacred text of the All-Merciful, to pray wholeheartedly for His Majesty the just King and to make great efforts in obedience and submission."
+          ]
         },
         {
           "key": "source:AB01526",
@@ -639,7 +803,10 @@
         },
         {
           "key": "source:AB00551",
-          "why": "Read the further instruction for places of worship."
+          "why": "Read the further instruction for places of worship.",
+          "shortened": [
+            "In gatherings of remembrance and places of worship, seek confirmation for the government. Pray for the throne of sovereignty."
+          ]
         },
         {
           "key": "source:AB00603",
@@ -659,11 +826,17 @@
         },
         {
           "key": "source:AB00293",
-          "why": "Retain the prayer for protection and assistance."
+          "why": "Retain the prayer for protection and assistance.",
+          "shortened": [
+            "O God! Assist this victorious and mighty King with Thy invisible confirmations, and aid him with heavenly assistance. Protect him from the evil of enemies under the shelter of Thy protection, and encompass him with the glances of the eyes of Thy care. Verily, Thou art the Great Protector."
+          ]
         },
         {
           "key": "source:AB00382",
-          "why": "Keep the short petition for a particular government."
+          "why": "Keep the short petition for a particular government.",
+          "shortened": [
+            "O Lord, assist the center of the conquering sovereignty and the pivot of the sphere of brilliant government with Thy manifest confirmations and complete success. Verily Thou art the Strong, the Powerful, the Mighty."
+          ]
         },
         {
           "key": "source:AB11737",
@@ -671,15 +844,24 @@
         },
         {
           "key": "source:AB02771",
-          "why": "Retain the further petition for established sovereignty."
+          "why": "Retain the further petition for established sovereignty.",
+          "shortened": [
+            "Night and day supplicate and implore at the threshold of the Divine Unity, and seek confirmation that the throne of sovereignty may endure and the royal court remain firm and established."
+          ]
         },
         {
           "key": "source:BH07156",
-          "why": "Keep the historical promise of continued goodwill."
+          "why": "Keep the historical promise of continued goodwill.",
+          "shortened": [
+            "In reality, what you are doing involves good-will towards the King of the Age (and his government?), for a large number (of people) will arise to pray for the continuation of his rule; in all the provinces of Iran, there shall endure until the resurrection continued well-wishing for the King of the Age and for yourself."
+          ]
         },
         {
           "key": "source:BH06618",
-          "why": "Hear the prisoners’ prayer for a recipient’s well-being."
+          "why": "Hear the prisoners’ prayer for a recipient’s well-being.",
+          "shortened": [
+            "The one God is witness that the tongues of these prisoners and confined ones are occupied night and day in praying for your excellency's life, felicity, and prosperity. At every moment, we beseech the True One to increase your life, your felicity, and your glory."
+          ]
         },
         {
           "key": "source:BH01338",
@@ -691,15 +873,24 @@
         },
         {
           "key": "source:AB02714",
-          "why": "Preserve the historical language about a ruling lineage."
+          "why": "Preserve the historical language about a ruling lineage.",
+          "shortened": [
+            "This servant supplicates at the threshold of Divine Unity that this glorious crown may rest upon the head of the great leader - may God assist him. May his sovereignty be eternal and kingship in his lineage everlasting. May the sun of his rule shine so brightly that it illumines both East and West, making them into gardens and meadows."
+          ]
         },
         {
           "key": "source:AB04682",
-          "why": "Include the petition for the Crown Prince."
+          "why": "Include the petition for the Crown Prince.",
+          "shortened": [
+            "The divine friends must pray day and night and supplicate for confirmation and increased divine assistance for the precious person of His Highness the Crown Prince."
+          ]
         },
         {
           "key": "source:AB05081",
-          "why": "Read enduring government beside just leadership."
+          "why": "Read enduring government beside just leadership.",
+          "shortened": [
+            "It is incumbent upon all the friends to occupy themselves with prayers for the perpetuity of this mighty government and praise His Majesty the King and seek enduring glory for the just leaders, so that this eternal government may raise the pavilion of glory at the pole of the horizons."
+          ]
         },
         {
           "key": "source:AB07851",
@@ -758,7 +949,7 @@
       "id": "4F32835BDB1F4C02956E92DB1AE38C5F",
       "slug": "religionmorality",
       "displayTitle": "Religion and moral life: the roots of a just civilization",
-      "introduction": "What connects the direction of a person’s heart with the character of a civilization? These selections present religion as a formative power that cultivates motives, educates character, and sustains justice and fellowship. Their claims are demanding: several argue for religion’s necessity, while others warn that fanaticism or incompetent leadership can turn a remedy into harm. Reading those strands together makes the quality of religious life central to the inquiry. Neighboring subjects concerning love, justice, knowledge, and the purpose of religion help place outward order within a wider account of human flourishing. Micah’s movement from extravagant offerings toward justice, mercy, and humility supplies a comparison about what devotion requires [1]. The compilation invites readers to examine both its account of moral motivation and the evidence of conduct, asking how faith becomes service to the common good and how religious communities can be accountable to that purpose.",
+      "introduction": "Religion, ‘Abdu’l-Bahá once said, is an attitude toward God that shows itself in our attitude toward other people. Faith is the tree and deeds its fruit; a brigand from the Caucasus became so meek, once he believed, that he would not return fire when shot at. ‘Abdu’l-Bahá presses the claim further than modern readers expect: the sense of human dignity we call natural is itself a harvest of the Prophets’ teaching, and only someone certain of a reward beyond this life will freely give up his own advantage for the common good. Yet the same voices insist that religion was never meant for tyranny or hatred, and that fanatical leaders can turn the brightest light into blackest night. Micah’s question about what offering could suffice, answered with justice, mercy and a humble walk with God, keeps the measure of devotion in conduct [1]. From here the journey leads into justice as the light of men, into love as the foundation of all, and into the purpose of religion in the world.",
       "arc": "Begin with the relation of devotion and conduct, examine justice and moral education, then test religion’s civilizing claims against its purpose and possible misuse.",
       "order": [
         {
@@ -767,7 +958,10 @@
         },
         {
           "key": "source:BH00111",
-          "why": "Read justice through its purpose of unity."
+          "why": "Read justice through its purpose of unity.",
+          "shortened": [
+            "The word of God which the Supreme Pen hath recorded on the sixth leaf of the Most Exalted Paradise is the following: The light of men is Justice. Quench it not with the contrary winds of oppression and tyranny. The purpose of justice is the appearance of unity among men. The ocean of divine wisdom surgeth within this exalted word, while the books of the world cannot contain its inner significance."
+          ]
         },
         {
           "key": "source:BH00053",
@@ -779,7 +973,10 @@
         },
         {
           "key": "source:ABU1084",
-          "why": "Consider the reported relation between faith and its fruits."
+          "why": "Consider the reported relation between faith and its fruits.",
+          "shortened": [
+            "Its spiritual influence refines the character suffers man to become humble and meek, places in his heart the fear of God, prompts him to devote his time to humanitarian deeds, spiritualizes his nature, exalts his ideals and enkindles his lamp. The greater the faith of man the more numerous will be his philanthropic actions. Faith is like unto the trees, deeds are like unto the fruits. Faith is like unto the lamp, deeds are like unto the light. Faith is like unto a beautiful body, deeds are like unto the spirit."
+          ]
         },
         {
           "key": "source:ABU0062",
@@ -791,19 +988,32 @@
         },
         {
           "key": "source:AB00004",
-          "why": "Read the extended argument together with its warnings about fanaticism and harmful treatment."
+          "why": "Read the extended argument together with its warnings about fanaticism and harmful treatment.",
+          "shortened": [
+            "Universal benefits derive from the grace of the Divine religions, for they lead their true followers to sincerity of intent, to high purpose, to purity and spotless honor, to surpassing kindness and compassion, to the keeping of their covenants when they have covenanted, to concern for the rights of others, to liberality, to justice in every aspect of life, to humanity and philanthropy, to valor and to unflagging efforts in the service of mankind. It is religion, to sum up, which produces all human virtues, and it is these virtues which are the bright candles of civilization.",
+            "The purpose of these statements is to make it abundantly clear that the Divine religions, the holy precepts, the heavenly teachings, are the unassailable basis of human happiness, and that the peoples of the world can hope for no real relief or deliverance without this one great remedy. This panacea must, however, be administered by a wise and skilled physician, for in the hands of an incompetent all the cures that the Lord of men has ever created to heal men's ills could produce no health, and would on the contrary only destroy the helpless and burden the hearts of the already afflicted."
+          ]
         },
         {
           "key": "source:AB02574",
-          "why": "Place moral life among linked teachings on education, equality, and inquiry."
+          "why": "Place moral life among linked teachings on education, equality, and inquiry.",
+          "shortened": [
+            "For every era hath a spirit; the spirit of this illumined era lieth in the teachings of Baha'u'llah. For these lay the foundation of the oneness of the world of humanity and promulgate universal brotherhood. They are founded upon the unity of science and religion and upon investigation of truth. They uphold the principle that religion must be the cause of amity, union and harmony among men. They establish the equality of both sexes and propound economic principles which are for the happiness of individuals. They diffuse universal education, that every soul may as much as possible have a share of knowledge. They abrogate and nullify religious, racial, political, patriotic and economic prejudices and the like."
+          ]
         },
         {
           "key": "source:AB04352",
-          "why": "Connect exemplary conduct with peace and harmony with science."
+          "why": "Connect exemplary conduct with peace and harmony with science.",
+          "shortened": [
+            "Since the friends of God are confirmed by heavenly power, I hope they will illuminate the lamp of human unity in all the gatherings of the world and the melody of universal peace will reach both East and West. Religion will become the cause of fellowship between people, and justice and fairness will raise its banner at the pole of the world. Religion will accord with science and promote peace and harmony. No ignorant prejudices will remain and the light of truth will be diffused."
+          ]
         },
         {
           "key": "source:ABU2312",
-          "why": "Read the reported responsibility of religious leaders to bind hearts."
+          "why": "Read the reported responsibility of religious leaders to bind hearts.",
+          "shortened": [
+            "The leaders of religions must be the means of binding the hearts together, establishing good-fellowship between the members of the human family, creating a desire for universal Peace and emphasizing more the essential unity of mankind."
+          ]
         },
         {
           "key": "source:ABU0006",
@@ -811,7 +1021,10 @@
         },
         {
           "key": "source:ABU0275",
-          "why": "Read moral education as a purpose of the Prophets."
+          "why": "Read moral education as a purpose of the Prophets.",
+          "shortened": [
+            "All the Prophets have come to promote divine bestowals, to found the spiritual civilization and teach the principles of morality."
+          ]
         },
         {
           "key": "source:ABU0174",
@@ -819,7 +1032,10 @@
         },
         {
           "key": "source:ABU0109",
-          "why": "Retain the further account of the moral world’s spiritual source."
+          "why": "Retain the further account of the moral world’s spiritual source.",
+          "shortened": [
+            "The moral world is only attained through the effulgence of the Sun of Reality and the quickening life of the divine spirit. For this reason the holy Manifestations of God appear in the human world."
+          ]
         },
         {
           "key": "source:ABU3035",
@@ -831,7 +1047,10 @@
         },
         {
           "key": "source:ABU1270",
-          "why": "Examine the reported argument concerning motives and moral reform."
+          "why": "Examine the reported argument concerning motives and moral reform.",
+          "shortened": [
+            "They have been of the opinion that the greatest means for the development of humanity is reformation of morals; whereas, the most potent factor for the reformation of morals is religion, for man anticipates reward from GOD for his good morals, is hopeful of life eternal and fears Divine retribution. Hence he is perforce striving for the acquisition of good morals, and when his attention is directed to the Kingdom of GOD he will surely improve in morals."
+          ]
         },
         {
           "key": "source:ABU2583",
@@ -839,7 +1058,10 @@
         },
         {
           "key": "source:ABU2139",
-          "why": "Read the reported claim about faith and virtues as a claim to examine."
+          "why": "Read the reported claim about faith and virtues as a claim to examine.",
+          "shortened": [
+            "These matters are to show that civilization cannot be attained except through faith and certitude. Man cannot attain to justice, fairness, compassion, kindness, patience and forgiveness except through faith."
+          ]
         },
         {
           "key": "source:ABU3079",
@@ -855,7 +1077,10 @@
         },
         {
           "key": "source:BH00001",
-          "why": "Read divine precepts through the claim of public security."
+          "why": "Read divine precepts through the claim of public security.",
+          "shortened": [
+            "They whom God hath endued with insight will readily recognize that the precepts laid down by God constitute the highest means for the maintenance of order in the world and the security of its peoples. He that turneth away from them is accounted among the abject and foolish."
+          ]
         },
         {
           "key": "source:BH03974",
@@ -863,7 +1088,10 @@
         },
         {
           "key": "source:BH00005",
-          "why": "Face the warning about the weakening of religion."
+          "why": "Face the warning about the weakening of religion.",
+          "shortened": [
+            "Religion is, verily, the chief instrument for the establishment of order in the world, and of tranquillity amongst its peoples.  The weakening of the pillars of religion hath strengthened the foolish, and emboldened them, and made them more arrogant.  Verily I say: The greater the decline of religion, the more grievous the waywardness of the ungodly.  This cannot but lead in the end to chaos and confusion."
+          ]
         },
         {
           "key": "source:AB00130",
@@ -871,27 +1099,46 @@
         },
         {
           "key": "source:AB00016",
-          "why": "Distinguish essential virtues from inherited forms unsuited to present conditions."
+          "why": "Distinguish essential virtues from inherited forms unsuited to present conditions.",
+          "shortened": [
+            "For if we wish to arrange and organize the world of mankind in accordance with the present religious imitations and thereby to establish the felicity of the world of mankind, it is impossible and impracticable--for example, the enforcement of the laws of the Torah and also of the other religions in accordance with present imitations. But the essential basis of all the Divine Religions which pertains to the virtues of the world of mankind and is the foundation of the welfare of the world of man, is found in the teachings of Baha'u'llah in the most perfect presentation."
+          ]
         },
         {
           "key": "source:BH00662",
-          "why": "Examine the physician image and the obstruction of a remedy."
+          "why": "Examine the physician image and the obstruction of a remedy.",
+          "shortened": [
+            "That which the Lord hath ordained as the sovereign remedy and mightiest  instrument for the healing of all the world is the union of all its peoples in one universal Cause, one common Faith.  This can in no wise be achieved except through the power of a skilled, an all-powerful and inspired Physician.",
+            "Each time that Most Mighty Instrument hath come, and that Light shone forth from the Ancient Dayspring, He was withheld by ignorant physicians who, even as clouds, interposed themselves between Him and the world.  It failed, therefore, to recover, and its sickness hath persisted until this day."
+          ]
         },
         {
           "key": "source:BH02484",
-          "why": "Hear the contrast between renewal of the world and confinement."
+          "why": "Hear the contrast between renewal of the world and confinement.",
+          "shortened": [
+            "He Who hath come to build anew the whole world, behold, how they that have joined partners with God have forced Him to dwell within the most desolate of cities!"
+          ]
         },
         {
           "key": "source:ABU1670",
-          "why": "Close the linked readings with the reported enduring work of the Manifestations."
+          "why": "Close the linked readings with the reported enduring work of the Manifestations.",
+          "shortened": [
+            "These holy Manifestations of God establish eternal institutions for humanity in all worlds, even in this dusty realm, but alas that human souls do not appreciate their worth."
+          ]
         },
         {
           "key": "selection:d02add173da410b396d53cc3",
-          "why": "Distinguish living faith from the criticized forms in the supplied letter."
+          "why": "Distinguish living faith from the criticized forms in the supplied letter.",
+          "shortened": [
+            "Religion, as in the past is still the world's sole hope, but not that form of religion which our ecclesiastical leaders strive vainly to preach. Divorced from true religion, morals lose their effectiveness and cease to guide and control man's individual and social life. But when true religion is combined with true ethics, then moral progress becomes a possibility and not a mere ideal."
+          ]
         },
         {
           "key": "selection:87db9c503e142f8dcac211a0",
-          "why": "Read recognition of other movements alongside the claim for fundamental renewal."
+          "why": "Read recognition of other movements alongside the claim for fundamental renewal.",
+          "shortened": [
+            "All the spiritual and social movements existing in the world, and undoubtedly there are many of them, have some spark of the divine truth. Their very existence shows that they have something to offer to man and fulfil some purpose. But what the world needs, at such a critical moment in its history, is not a mere palliative. It needs a movement that goes deep into its social and spiritual illness and brings about a complete, fundamental change - a change that will include in its scope both the social and spiritual reform of man. But such a movement cannot be inaugurated save by a messenger of God, revealed by Him for that very object."
+          ]
         },
         {
           "key": "selection:5ab430ef20acac81336f326b",
@@ -983,12 +1230,16 @@
       "id": "FFC8B795919D48FD82F6DD702B6A4A3E",
       "slug": "religionunity",
       "displayTitle": "Religion’s test: does it bring hearts together?",
-      "introduction": "A remedy that makes the patient sicker has failed its purpose. Repeated in many settings, that image gives this compilation its searching test of religious life: the effect it has upon human relationships. The passages affirm love and unity as religion’s purpose and speak sharply against hatred, bloodshed, estrangement, and the creation of social privilege in its name. They also connect fellowship with investigation, reason, and freedom from prejudice. Neighboring subjects on religion’s foundations and its changing forms help distinguish the purpose from practices that may obscure it. First John similarly questions a claim to love God that coexists with hatred of another person [1]. The repetition across letters, public addresses, and reported conversations invites more than agreement with a principle. It asks how a gathering, a way of speaking, or a pattern of action could make the promised fellowship tangible in the lives of those who encounter it.",
+      "introduction": "Religion is a remedy, ‘Abdu’l-Bahá says, and a remedy that makes the patient sicker should be put aside. He returned to that image before audiences in London, Paris and America and in letters to individual believers, and it never softened: if faith becomes the cause of enmity, strife and bloodshed, then the absence of religion is preferable, and an irreligious person is better than one who professes faith and hates. Bahá’u’lláh had laid down the ground for this: the religion of God is for love and unity, and whoever turns it into dissension has made of it something other than religion, a man-made imitation. The positive claim is just as strong. When Moses gathered the scattered tribes, their fellowship became the beginning of their freedom and their flourishing; divine teaching binds hearts and gives life. First John puts the same test to the single believer, asking how anyone can love the unseen God while hating the brother who stands in plain view [1]. The question will not let a person rest in agreement with a principle; it asks what a gathering, a way of speaking, a habit of cooperation actually does to the people it touches. From here the subject widens into what religion is for, in a life and in a society, into the unchanging core and changing forms of religion, and into love and unity themselves.",
       "arc": "Begin with the remedy judged by its effects, clarify the purpose of religion, then move from criticism of estrangement toward concrete fellowship and cooperation.",
       "order": [
         {
           "key": "source:AB00016",
-          "why": "Open with the remedy’s purpose and its relation to reason."
+          "why": "Open with the remedy’s purpose and its relation to reason.",
+          "shortened": [
+            "And among the teachings of Baha'u'llah is that religion must be the cause of fellowship and love. If it becomes the cause of estrangement then it is not needed, for religion is like a remedy; if it aggravates the disease then it becomes unnecessary.",
+            "And among the teachings of Baha'u'llah is that religion must be in conformity with science and reason, so that it may influence the hearts of men. The foundation must be solid and must not consist of imitations."
+          ]
         },
         {
           "key": "source:BH00003",
@@ -996,7 +1247,10 @@
         },
         {
           "key": "source:BH00499",
-          "why": "State the purpose in its widest human scope."
+          "why": "State the purpose in its widest human scope.",
+          "shortened": [
+            "The purpose for which God, exalted and glorified be He, established religion was the unity and concord of all the world's peoples."
+          ]
         },
         {
           "key": "source:BH01084",
@@ -1004,11 +1258,17 @@
         },
         {
           "key": "source:BH01895",
-          "why": "Keep the further warning about turning religion into hatred."
+          "why": "Keep the further warning about turning religion into hatred.",
+          "shortened": [
+            "O Kazim! The divine religion has ever been for unity, concord, fellowship and love, yet ignorant servants have made it the cause and reason for hatred."
+          ]
         },
         {
           "key": "source:AB00197",
-          "why": "Test the stronghold by whether it engenders love."
+          "why": "Test the stronghold by whether it engenders love.",
+          "shortened": [
+            "His third teaching is that religion is a mighty stronghold, but that it must engender love, not malevolence and hate. Should it lead to malice, spite, and hate, it is of no value at all. For religion is a remedy, and if the remedy bring on disease, then put it aside."
+          ]
         },
         {
           "key": "source:ABU0052",
@@ -1016,7 +1276,10 @@
         },
         {
           "key": "source:ABU0008",
-          "why": "Consider the consequences of misapprehension and defilement."
+          "why": "Consider the consequences of misapprehension and defilement.",
+          "shortened": [
+            "According to His teachings if religious belief proves to be the cause of discord and dissension, its absence would be preferable; for religion was intended to be the divine remedy and panacea for the ailments of humanity, the healing balm for the wounds of mankind. If its misapprehension and defilement have brought about warfare and bloodshed instead of remedy and cure, the world would be better under irreligious conditions."
+          ]
         },
         {
           "key": "source:ABU0009",
@@ -1028,7 +1291,10 @@
         },
         {
           "key": "source:ABU0007",
-          "why": "Include the challenge to religious profession without fellowship."
+          "why": "Include the challenge to religious profession without fellowship.",
+          "shortened": [
+            "The third teaching of Baha'u'llah is that religion must be the source of fellowship, the cause of unity and the nearness of God to man. If it rouses hatred and strife, it is evident that absence of religion is preferable and an irreligious man better than one who professes it."
+          ]
         },
         {
           "key": "source:ABU0091",
@@ -1036,11 +1302,17 @@
         },
         {
           "key": "source:ABU0150",
-          "why": "Attend to charity as the expected bond between hearts."
+          "why": "Attend to charity as the expected bond between hearts.",
+          "shortened": [
+            "Man must spiritually perceive that religion has been intended by God to be the means of grace, the source of life and cause of agreement. If it becomes the cause of discord, enmity and hatred, it is better that man should be without it. For in its teachings we seek the spirit of charity and love to bind the hearts of men together. If, on the contrary, we find it alienates and embitters human hearts, we are justified in casting it aside."
+          ]
         },
         {
           "key": "source:ABU0219",
-          "why": "Distinguish divine religion from man-made imitation in the address."
+          "why": "Distinguish divine religion from man-made imitation in the address.",
+          "shortened": [
+            "In a word, according to the explicit text of God, to be found in all the heavenly books, religion must needs be the bond of amity and love among men. If religion should prove to be the cause of alienation, then it is not divine religion, but an imitation that man has created, because divine religion, being a bond to unite human hearts, creates fellowship, love and life. Anything contrary thereto is not religion but man made superstition."
+          ]
         },
         {
           "key": "source:ABU0024",
@@ -1060,7 +1332,11 @@
         },
         {
           "key": "source:ABU0178",
-          "why": "Keep the historical example and its conclusion attributed."
+          "why": "Keep the historical example and its conclusion attributed.",
+          "shortened": [
+            "When Moses appeared, the tribes of Israel were in a state of disunion as captives of the Pharaohs. Moses gathered them together, and the divine law established fellowship among them. They became as one people, united, consolidated, after which they were rescued from bondage.",
+            "It is evident, therefore, that religion is the cause of unity, fellowship and progress among mankind."
+          ]
         },
         {
           "key": "source:ABU0987",
@@ -1068,7 +1344,10 @@
         },
         {
           "key": "source:AB00801",
-          "why": "Consider the extended account of a shared foundation and spiritual power."
+          "why": "Consider the extended account of a shared foundation and spiritual power.",
+          "shortened": [
+            "The foundation of divine religions is one - that foundation will become universal through the power of Baha'u'llah. In the East, various teachings were previously spread that appeared universal, but as they were not confirmed by divine power, their flame was quickly extinguished. But the teachings of Baha'u'llah penetrated to such a degree that twenty thousand souls were martyred, yet day by day their power increased."
+          ]
         },
         {
           "key": "source:AB07457",
@@ -1076,7 +1355,10 @@
         },
         {
           "key": "source:BH00323",
-          "why": "Hear the warning against making the Faith a cause of difference."
+          "why": "Hear the warning against making the Faith a cause of difference.",
+          "shortened": [
+            "\"Say: The sea of bestowal hath appeared, and the sun of knowledge hath shone forth. Make not the Divine Faith---which is the cause of the unity of the peoples of the world---a reason for difference. O Nabil! if men were to become informed of that which hath been made manifest, all would turn unto the Most Exalted Horizon, and would behold themselves freed and delivered from all save Him."
+          ]
         },
         {
           "key": "source:ABU0130",
@@ -1084,7 +1366,10 @@
         },
         {
           "key": "source:ABU0038",
-          "why": "Keep its further historical presentation."
+          "why": "Keep its further historical presentation.",
+          "shortened": [
+            "Another fundamental announcement made by Baha'u'llah is that religion must be the source of unity and fellowship in the world. If it is productive of enmity, hatred and bigotry, the absence of religion would be preferable. This is a new principle of revelation found only in the utterances of Baha'u'llah."
+          ]
         },
         {
           "key": "source:ABU0023",
@@ -1104,11 +1389,17 @@
         },
         {
           "key": "source:AB01118",
-          "why": "Include connection among the signs of religion’s reality."
+          "why": "Include connection among the signs of religion’s reality.",
+          "shortened": [
+            "Third is that the reality of religion must be the cause of fellowship, love, connection and unity between people, otherwise irreligion is better."
+          ]
         },
         {
           "key": "source:AB01419",
-          "why": "Retain the further concise formulation."
+          "why": "Retain the further concise formulation.",
+          "shortened": [
+            "Third, religion must be the cause of fellowship and love - if it is not, it has no result - with the details you have heard."
+          ]
         },
         {
           "key": "source:ABU1754",
@@ -1144,11 +1435,17 @@
         },
         {
           "key": "source:ABU0496",
-          "why": "Join knowledge of God with love of humanity."
+          "why": "Join knowledge of God with love of humanity.",
+          "shortened": [
+            "The quintessence of religion is the knowledge of God and the love of mankind. There are many people who are deprived of these spiritual gifts."
+          ]
         },
         {
           "key": "source:AB09893",
-          "why": "Read the concise identification with love and kindness."
+          "why": "Read the concise identification with love and kindness.",
+          "shortened": [
+            "The divine teachings today promote love and righteousness, and make fellowship and human welfare as resplendent as the moon, and mankind as brilliant as a shining star. For the religion of God today is love and kindness."
+          ]
         },
         {
           "key": "source:ABU0034",
@@ -1160,7 +1457,10 @@
         },
         {
           "key": "source:ABU0050",
-          "why": "Consider the reported practice of attending to others’ good."
+          "why": "Consider the reported practice of attending to others’ good.",
+          "shortened": [
+            "To live in peace, love, union, and agreement, and overlook the faults and defects of others and to see only their good actions and not their bad ones. These are things that will lead to perfect success and thorough happiness."
+          ]
         },
         {
           "key": "source:AB00406",
@@ -1234,7 +1534,7 @@
       "id": "7E47D15B29E2E0A0D13CF981131C65BF",
       "slug": "tranquillity",
       "displayTitle": "Tranquillity: a steady heart in a changing world",
-      "introduction": "A storm can trouble the sea’s surface while its depths remain calm. The reported image with which this guide begins invites an exploration of steadiness amid changing circumstances. These selections speak of faith, contentment, patience, prayer, and the quiet joy of contemplation; they also commend rest and the calm arrangement of practical affairs. A reported passage carefully distinguishes outward self-control from the deeper cultivation of character and a desire to do good. Neighboring subjects of detachment, mindfulness, and steadfastness help connect tranquillity with attention and action. The Bhagavad Gita’s ocean image offers a comparison concerning peace amid the flow of desires [1]. Read as spiritual counsels addressed within particular circumstances, the passages can encourage growth without making another person’s distress a measure of their worth. Their invitation is to seek sources of stability from which courage, care, and useful action can arise.",
+      "introduction": "The surface of a sea can be torn by a gale while its depths stay perfectly still, and ‘Abdu’l-Bahá offered that picture of the person whose heart is anchored. Tranquillity, in His counsel, is not a clenched jaw. Outward self-mastery is admirable, He says, but no one should mistake it for the highest cultivation of character; the calm that matters is inward, rooted in faith and certitude, and it shows itself in contentment, in patience, in the quiet joy of a frugal meal and a peaceful night’s sleep, and in the composed handling of practical affairs. Prayer asks for it directly, and Bahá’u’lláh commands it: be not disturbed by anything, for that is the way of the heedless. The Bhagavad Gita’s undisturbed ocean, receiving every river without rising, pictures a similar peace, though it has desire rather than circumstance in view [1]. Such counsel, given to people in prison, in epidemic and in upheaval, is meant to steady and not to shame; another’s distress is never a measure of their worth. The road passes through acquiescence and contentment, through detachment and severance, and on to the steadfastness that lets courage and care arise from a settled heart.",
       "arc": "Begin with calm beneath the storm, distinguish inner steadiness from outward control, then explore faith, rest, attention, and action through changing circumstances.",
       "order": [
         {
@@ -1243,7 +1543,11 @@
         },
         {
           "key": "source:ABU0361",
-          "why": "Distinguish inward cultivation from outward control."
+          "why": "Distinguish inward cultivation from outward control.",
+          "shortened": [
+            "Be calm, be joyous, and not only when the sky is clear, but when the clouds gather as well. To be calm and brave under difficulties is a proof of spiritual force.",
+            "But let no man, because he has gained outward control over himself, imagine that he has accomplished the highest cultivation of his character. There must be inner calmness, based on a sense of security in God's protection, and a desire to do good for the sake of good."
+          ]
         },
         {
           "key": "source:ABU2691",
@@ -1251,15 +1555,24 @@
         },
         {
           "key": "source:ABU1453",
-          "why": "Read peace of mind amid affliction."
+          "why": "Read peace of mind amid affliction.",
+          "shortened": [
+            "Peace of mind is the soul's delight, as it is the means of acquiring that extraordinary state in which man finds happiness in times of affliction and tranquility in trouble."
+          ]
         },
         {
           "key": "source:BH04421",
-          "why": "Hear tranquillity sought through prayer."
+          "why": "Hear tranquillity sought through prayer.",
+          "shortened": [
+            "Let Thine everlasting melodies breathe tranquillity on me, O my Companion, and let the riches of Thine ancient countenance deliver me from all except Thee, O my Master, and let the tidings of the revelation of Thine incorruptible Essence bring me joy, O Thou Who art the most manifest of the manifest and the most hidden of the hidden!"
+          ]
         },
         {
           "key": "source:AB09479",
-          "why": "Join prayer for new life with steadfastness and repose."
+          "why": "Join prayer for new life with steadfastness and repose.",
+          "shortened": [
+            "O God, give me a new life at every instant and bestow upon me the breaths of the Holy Spirit at every moment, in order that I may remain steadfast in Thy love, attain unto great felicity, perceive the manifest light and be in the state of utmost tranquillity and submissiveness."
+          ]
         },
         {
           "key": "source:ABU1110",
@@ -1271,19 +1584,31 @@
         },
         {
           "key": "source:AB03055",
-          "why": "Connect composure with faith and certitude."
+          "why": "Connect composure with faith and certitude.",
+          "shortened": [
+            "Dignity and composure arising from faith and certitude are most acceptable."
+          ]
         },
         {
           "key": "source:AB08156",
-          "why": "Read contentment through an expansive heart."
+          "why": "Read contentment through an expansive heart.",
+          "shortened": [
+            "Live thou in the station of resignation and contentment so that thy heart and soul may obtain peace and serenity. Do thou ever possess the immensity of heart so that it may never be contracted."
+          ]
         },
         {
           "key": "source:ABU1198",
-          "why": "Consider the reported ordinary life of a contented person."
+          "why": "Consider the reported ordinary life of a contented person.",
+          "shortened": [
+            "The mind of a contented person is always peaceful and his heart is at rest. He is like a monarch ruling over the whole world. How happily such a man helps himself to his frugal meals. How joyfully he takes his walks and how peacefully he sleeps!"
+          ]
         },
         {
           "key": "source:ABU1296",
-          "why": "Read the reported ideal of radiant acquiescence."
+          "why": "Read the reported ideal of radiant acquiescence.",
+          "shortened": [
+            "But a wisely-directed soul, a person whose heart is illumined with the Light of God, who is imbued with the quality of radiant acquiescence, and who is informed with the open mysteries of the divine world - is always in the same condition and is never upset by the constantly-changing events of life."
+          ]
         },
         {
           "key": "source:ABU2572",
@@ -1295,11 +1620,17 @@
         },
         {
           "key": "source:AB12038",
-          "why": "Consider the images of mountain and shelter in a storm."
+          "why": "Consider the images of mountain and shelter in a storm.",
+          "shortened": [
+            "In the fire of tribulations they remain fresh and verdant, and in the tempest of trials and afflictions tranquil and at peace, for they rest their backs against a mighty mountain and take refuge in a ship wrought of steel."
+          ]
         },
         {
           "key": "source:AB05092",
-          "why": "Hear the strong exhortation within a world of upheaval."
+          "why": "Hear the strong exhortation within a world of upheaval.",
+          "shortened": [
+            "Anxiety is not permitted. The world is a theater of upheaval. One should not be affected by anything, but rather should conduct oneself with the utmost expansion of heart, joy of conscience, peace of mind, dignity and steadfastness."
+          ]
         },
         {
           "key": "source:AB10896",
@@ -1307,19 +1638,31 @@
         },
         {
           "key": "source:AB01845",
-          "why": "Read the situated counsel during an epidemic."
+          "why": "Read the situated counsel during an epidemic.",
+          "shortened": [
+            "Now the loved ones of God must also act with perfect calm, dignity, confidence and strength of heart in such situations, meaning during the onslaught of the cholera epidemic."
+          ]
         },
         {
           "key": "source:AB10163",
-          "why": "Join a strong heart with the practical arrangement of affairs."
+          "why": "Join a strong heart with the practical arrangement of affairs.",
+          "shortened": [
+            "Therefore, keep your heart strong and attend to the arrangement of affairs with the utmost calm and composure, and seek utter devotion at the sacred threshold of the Self-Subsisting One."
+          ]
         },
         {
           "key": "source:AB00899",
-          "why": "Retain the direction toward composed action."
+          "why": "Retain the direction toward composed action.",
+          "shortened": [
+            "Among the divine commands is composure and tranquility in affairs. If the release of Ibn-i-Abhar is delayed, do not become extremely agitated."
+          ]
         },
         {
           "key": "source:AB06703",
-          "why": "Bring patience and forbearance into the inquiry."
+          "why": "Bring patience and forbearance into the inquiry.",
+          "shortened": [
+            "What is incumbent upon the people of Baha is patience, calmness, steadfastness and forbearance in all things."
+          ]
         },
         {
           "key": "source:BH00529",
@@ -1339,31 +1682,53 @@
         },
         {
           "key": "source:BH06911",
-          "why": "Retain the further call to tranquil movement."
+          "why": "Retain the further call to tranquil movement.",
+          "shortened": [
+            "The people of truth must move with the utmost tranquility and dignity. Conflict, contention and the like have been forbidden in God's Book, and the triumph of His Cause hath been made dependent upon and conditional on wisdom and utterance."
+          ]
         },
         {
           "key": "source:BH05482",
-          "why": "Read tranquillity and dignity as an adornment."
+          "why": "Read tranquillity and dignity as an adornment.",
+          "shortened": [
+            "O peoples of the earth! Adorn your temples with the ornament of tranquility and dignity. Thus have We commanded you aforetime and in this Book."
+          ]
         },
         {
           "key": "source:BH07491",
-          "why": "Connect outward composure with the example a community offers."
+          "why": "Connect outward composure with the example a community offers.",
+          "shortened": [
+            "We counsel you, O My loved ones, to observe calmness and dignity, and that whereby the Cause of God may be exalted throughout all lands."
+          ]
         },
         {
           "key": "source:BH05068",
-          "why": "Join patience with preservation of one’s station."
+          "why": "Join patience with preservation of one’s station.",
+          "shortened": [
+            "Preserve your stations through patience and tranquility.",
+            "Thus doth My Most Exalted Pen command you from this praiseworthy station."
+          ]
         },
         {
           "key": "source:BH06896",
-          "why": "Hear the counsel addressed to a named recipient."
+          "why": "Hear the counsel addressed to a named recipient.",
+          "shortened": [
+            "O Fayd'u'llah! The Wronged One makes mention of thee on this blessed day and commands all to patience and tranquility."
+          ]
         },
         {
           "key": "source:AB04621",
-          "why": "Keep the concise appeal to calm."
+          "why": "Keep the concise appeal to calm.",
+          "shortened": [
+            "O loved ones of God! Ye must be calm and composed."
+          ]
         },
         {
           "key": "source:BH06344",
-          "why": "Read assurance through a fixed spiritual direction."
+          "why": "Read assurance through a fixed spiritual direction.",
+          "shortened": [
+            "Be thou assured in all conditions and fix thy gaze upon His horizon."
+          ]
         },
         {
           "key": "source:BH11236",
@@ -1375,7 +1740,10 @@
         },
         {
           "key": "source:AB02892",
-          "why": "Retain the selected statement about peace of conscience in its limited context."
+          "why": "Retain the selected statement about peace of conscience in its limited context.",
+          "shortened": [
+            "At all times one should consider positive possibilities in matters and attribute good intentions, or hidden obstacles. When this is one's approach, peace of mind and tranquility of conscience result; otherwise one is constantly tormented."
+          ]
         },
         {
           "key": "source:ABU3559",
@@ -1391,11 +1759,17 @@
         },
         {
           "key": "source:ABU2539",
-          "why": "Read the reminder that a difficult moment will pass."
+          "why": "Read the reminder that a difficult moment will pass.",
+          "shortened": [
+            "Should anyone at any time encounter hard and perplexing times, he must say to himself, \"This will soon pass.\" Then he will be calm and quiet."
+          ]
         },
         {
           "key": "source:BH06635",
-          "why": "Keep the concise exhortation in its source form."
+          "why": "Keep the concise exhortation in its source form.",
+          "shortened": [
+            "Be not disturbed by anything, for this is the way of the heedless."
+          ]
         },
         {
           "key": "source:AB05391",
@@ -1419,7 +1793,11 @@
         },
         {
           "key": "source:ABU1432",
-          "why": "Read the reported link between peace and enduring happiness."
+          "why": "Read the reported link between peace and enduring happiness.",
+          "shortened": [
+            "They find no anxiety except confidence, and seek no war and cruelty except peace and tranquility.",
+            "Such happiness is eternal and such a station is the cause of everlasting life."
+          ]
         },
         {
           "key": "source:AB03851",

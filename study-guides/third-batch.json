@@ -5,16 +5,22 @@
       "id": "91DA577AA068EEADBB6D0F598A93F0CC",
       "slug": "courage",
       "displayTitle": "Courage",
-      "introduction": "The first victory in this compilation is over one’s own impulses. Its opening passage redirects the language of heroism toward mastery of the self, and the selections that follow ask what gives such courage endurance. Images of lions, armies, and legendary warriors acquire inward meanings: detachment, a firm conscience, resistance to ignorance, and fidelity under pressure. Aristotle’s distinction between courage and rashness offers a useful point of comparison [1], while these passages locate spiritual valor in a life sustained by faith and service. The neighboring subjects of prayer for strength and daily self-examination deepen that picture: courage can include admitting weakness, correcting a fault, and beginning again. As the sequence moves from inward struggle to the spread of love and knowledge, the reader is invited to consider a demanding possibility—that the bravest action may be the one that makes another person’s life less fearful.",
+      "introduction": "Courage, ‘Abdu’l-Bahá insists, is not bloodshed; that belongs to wild beasts. True valour is victory over self and desire and triumph over the armies of passion. He writes to a man named Rustam, after the hero of Persian legend, and asks him to become known for spiritual valour and detachment as his namesake was for strength of arm. A believer is praised as a lion who breaks through the ranks of vain imaginings, and the ancients are recalled for saying that in battle the more steadfast side prevails. Aristotle drew his own line between courage and rashness, and between the brave and those who only wish to seem so [1]. Here courage belongs to the truthful and grows from faith, tested in real ordeals rather than in boasting, and expressed at last in the roar of love and divine knowledge. Such a path leads naturally to confidence, to the inner meaning of spiritual warfare, and to the mystery of sacrifice.",
       "arc": "Begin with victory over the self, reinterpret heroic images, then carry steadfastness into loving and knowledgeable service.",
       "order": [
         {
           "key": "source:AB02729",
-          "why": "Open with the arresting relocation of courage from bloodshed to mastery of desire."
+          "why": "Open with the arresting relocation of courage from bloodshed to mastery of desire.",
+          "shortened": [
+            "For courage is not bloodshed and destruction of human foundations - that befits wild beasts. Rather, courage lies in victory over self and desire, and triumph over the armies of passion."
+          ]
         },
         {
           "key": "source:AB09379",
-          "why": "Develop that reversal through the contrast between physical prowess and spiritual valor."
+          "why": "Develop that reversal through the contrast between physical prowess and spiritual valor.",
+          "shortened": [
+            "O Rustam! Your namesake became renowned throughout the horizons for physical courage. You must become known throughout the world for spiritual valor and detachment."
+          ]
         },
         {
           "key": "source:AB08638",
@@ -38,7 +44,11 @@
         },
         {
           "key": "source:AB10927",
-          "why": "Close the linked sequence with love and knowledge as the means of overcoming ignorance and the insistent self."
+          "why": "Close the linked sequence with love and knowledge as the means of overcoming ignorance and the insistent self.",
+          "shortened": [
+            "The heedless ones are but a pack of rabbits. Like a lion in the arena of divine knowledge, let forth the roar of lions and display the might of those intoxicated with the wine of God's love.",
+            "Make the claw of the love of God into a sword of steel, and with the talon of divine proof as a sharp-cutting dagger, rend asunder the vitals of ignorance and scatter the insistent self. This, O my dear child, is spiritual valor."
+          ]
         }
       ],
       "questions": [
@@ -78,12 +88,15 @@
       "id": "2D710809ABBEE0A86D74432B30AF72EC",
       "slug": "dailyaccount",
       "displayTitle": "Bringing oneself to account each day",
-      "introduction": "What would we notice if we reviewed a day by the good it made possible? These selections turn that question into a recurring practice: remembering one’s deeds, giving thanks, acknowledging failure, and preparing to act more wisely tomorrow. Some speak with the urgency of mortality; others offer the quieter image of a soul that must keep moving to remain aloft. The inclusion of a passage from the Dhammapada places vigilance in a wider religious conversation, without making its account of awakening identical to the Bahá’í language of accountability before God. Read beside meditation and courage, self-examination becomes an encounter with both attention and resolve. A passage addressed to rulers carries the practice beyond private conscience: judging others demands that we first weigh ourselves with equity. The sequence invites a form of honesty in which gratitude and repentance can sustain the next good action.",
+      "introduction": "The Báb asked that every evening a person look back over the day and see what was accomplished: give thanks for anything worthy, and for the rest repent and try to live better tomorrow. It is a small, repeatable discipline, and the Writings return to it in several keys. Bahá’u’lláh makes it urgent, since death comes unheralded and the reckoning cannot be postponed, and He makes it exact, asking for an accounting hair by hair before the unerring Balance. ‘Abdu’l-Bahá makes it hopeful, picturing the soul as a bird that stays aloft only by continuing to fly, and tells us to compare each morning with the one before to see whether faith has grown and attachment loosened. He also asks what thought fills the mind on waking, since that first thought shapes the day. The practice is not confined to private conscience: rulers are told to weigh their own being in the balance of equity before judging anyone else. Honest accounting leads naturally into deeper knowledge of self, into meditation and the discipline of thought, and into the patient work of self-improvement.",
       "arc": "Start with the possibility of a better tomorrow, develop daily attention, face mortality, and extend accountability to the exercise of power.",
       "order": [
         {
           "key": "source:ABU1223",
-          "why": "Begin with a practical and hopeful rhythm of gratitude, recognition, and improvement."
+          "why": "Begin with a practical and hopeful rhythm of gratitude, recognition, and improvement.",
+          "shortened": [
+            "His Holiness the Bab has said, every person must review his deeds every evening, to see what he has done and accomplished. If he has done something worthy and noble, if his spiritual susceptibilities are increased he must be thankful to God; if not, repent and try to live a better life tomorrow."
+          ]
         },
         {
           "key": "source:ABU2046",
@@ -95,15 +108,24 @@
         },
         {
           "key": "source:ABU2870",
-          "why": "Ask what occupies the mind on waking and what gives a day its purpose."
+          "why": "Ask what occupies the mind on waking and what gives a day its purpose.",
+          "shortened": [
+            "Everyone upon awaking in the morning awakes with a thought. The commercial man awakes with the thought of commerce; the inventor awakes with the thought of his inventions; the banker with the thought of money. But you, when you awake, must at once think of God and begin the day with an earnest desire to attain to the will of God and His good pleasure."
+          ]
         },
         {
           "key": "source:BH01077",
-          "why": "Explore the written record of deeds and its stated purpose of transforming conduct."
+          "why": "Explore the written record of deeds and its stated purpose of transforming conduct.",
+          "shortened": [
+            "This is the mystery of that utterance which sayeth that man should record his deeds each day and present them at the next Manifestation. The purpose of this statement is man's awareness of his own deeds, that perchance he may become conscious and turn from evil to good, and from the remoteness of doubt to the nearness of certitude."
+          ]
         },
         {
           "key": "source:BB00580",
-          "why": "Introduce the searching precision of the balance as a challenge to casual self-approval."
+          "why": "Introduce the searching precision of the balance as a challenge to casual self-approval.",
+          "shortened": [
+            "And take account of thyself as though thou art standing before the Balance, hair by hair and shell by shell."
+          ]
         },
         {
           "key": "source:BH00021",
@@ -119,7 +141,10 @@
         },
         {
           "key": "source:ABU1108",
-          "why": "Connect honest appraisal with prayer for the strength to live better."
+          "why": "Connect honest appraisal with prayer for the strength to live better.",
+          "shortened": [
+            "\"His Holiness, the blessed Bab, mentions in his book that every one must consider at the end of each day what have been his actions. If he finds something which would please God, he must thank Him and pray to be strengthened to do this good act throughout his life; but if his actions have not been approvable or honest, he must earnestly ask God for strength to do better."
+          ]
         }
       ],
       "questions": [
@@ -159,7 +184,7 @@
       "id": "11125D8F1B304196A35D82E2DD0EBFBF",
       "slug": "rest",
       "displayTitle": "Day of rest",
-      "introduction": "A day set apart can change our experience of every other day. This small compilation approaches rest through several lenses: renewal when tired, the spiritual meaning attached to a Sabbath, and the place of a shared day in a religious calendar. Its references to Jewish, Christian, and Muslim observances invite attention to how communities organize time around remembrance and belonging. The passages also differ in purpose. Statements identifying Friday sit alongside a letter written on behalf of Shoghi Effendi in 1949 that distinguishes a future Bahá’í practice from following the rest day of one’s country at that time. Reading these voices in context keeps a historical compilation from becoming a simple rule detached from its circumstances. Beside meditation and daily self-examination, rest opens a larger inquiry: how can the rhythm of a week make room for reflection, renewed relationships, and a more attentive return to work?",
+      "introduction": "A real Sabbath, ‘Abdu’l-Bahá once said, is not just a date on the calendar: whenever we grow tired we withdraw, and that withdrawal is the true rest, for the Sabbath was meant to be a day of triumph. He explains that each dispensation sets apart its own day according to its needs, Saturday in the time of Moses, Sunday after Christ, and He names Friday as the day the Bahá’ís will eventually keep, though He gives no reason for the choice. A letter written on behalf of Shoghi Effendi in 1949 adds that the small community of that time followed the rest day of whatever country it lived in, with its own observance still ahead. Deuteronomy bound rest to the memory of deliverance from slavery and extended it to servants, strangers, and animals. Rest, then, is shared time as well as private relief. It leads into the Holy Days and the Bahá’í calendar, where the year itself is shaped around remembrance.",
       "arc": "Open with the meaning of rest, consider the sacred meanings of weekly observance, then read the statements about Friday alongside their historical qualifications.",
       "order": [
         {
@@ -223,7 +248,7 @@
       "id": "897DD84096DC4E809E4ED2D3637A0FD0",
       "slug": "lovingteaching",
       "displayTitle": "Genuine love and affection in teaching the Cause",
-      "introduction": "Before a person weighs our words, they may already have sensed how we regard them. These passages bring that ordinary experience into the sharing of faith: warmth, patience, friendship, and freedom from prejudice give a message its lived meaning. The opening counsel meets narrowness with kindness; a prayer then turns the responsibility inward, asking for a tender heart. Later selections place particular weight on the sensitivity of people who have been underestimated and on the example a community sets in its own relationships. Beside hospitality and care for another person’s heart, teaching becomes a searching test of the love we profess. This also opens an ethical question familiar wherever convictions are shared: what makes friendship sincere when we hope another person will come to see what we see? The closing emphasis on love expressed in action invites us to examine what our conduct communicates before, during, and after a conversation about belief.",
+      "introduction": "People usually know how we regard them before they weigh a word we say. ‘Abdu’l-Bahá made that ordinary fact the ground of teaching: the way to open a narrow and prejudiced heart is the greatest kindness and love, and if love is real it does not need announcing, because the other person already feels it. He asked that believers weave bonds of friendship first, choosing even one person a year to befriend until every apprehension has gone, and only then, gradually, share the message. Shoghi Effendi carried the same insistence further: love and patience among the friends themselves are what attract others, and the world is not asking for preaching and rules but for love and action. Paul’s test is the same, since eloquence, knowledge, and even costly giving are nothing without charity [1]. Beneath the method lies a harder question: what keeps a friendship sincere when one hopes the other will come to see what one sees? The way leads on to consorting with all in fellowship, to the power of love itself, and to the other spiritual prerequisites of teaching.",
       "arc": "Begin with kindness that broadens understanding, turn toward the teacher’s own heart, and test the message through friendship, freedom from prejudice, and communal life.",
       "order": [
         {
@@ -236,11 +261,17 @@
         },
         {
           "key": "source:ABU2032",
-          "why": "Introduce the vivid test of whether love is recognizable without declarations."
+          "why": "Introduce the vivid test of whether love is recognizable without declarations.",
+          "shortened": [
+            "The man who does very little good and magnifies it in his speech, is not good. if I love you, you know it, I need not tell you all the time; on the other hand, if I did not love you, you would know it also, and you would not believe me if I said I did love you a thousand times."
+          ]
         },
         {
           "key": "source:AB04113",
-          "why": "Explore friendship, the removal of fear, and attentiveness to receptivity."
+          "why": "Explore friendship, the removal of fear, and attentiveness to receptivity.",
+          "shortened": [
+            "The friends of God should weave bonds of fellowship with others and show absolute love and affection towards them. These links have a deep influence on people and they will listen. When the friends sense receptivity to the Word of God, they should deliver the Message with wisdom. They must first try and remove any apprehensions in the people they teach. In fact, every one of the believers should choose one person every year and try to establish ties of friendship with him, so that all his fear would disappear. Only then, and gradually, must he teach that person."
+          ]
         },
         {
           "key": "selection:2eee8e2b48edd6a3353efab6",
@@ -299,7 +330,7 @@
       "id": "F8C2BCC87103ECC20416229ED5DCB87C",
       "slug": "careforhearts",
       "displayTitle": "Saddening another soul",
-      "introduction": "A wounded heart can be easy to overlook and slow to heal. The urgency of these passages makes the inward effects of our conduct a matter of spiritual consequence: grief, lost hope, and humiliation demand our attention alongside more visible injuries. The sequence moves from emphatic warnings to a particular family relationship, then to moderation in dealing with anyone we meet. The Báb’s identification with the grief and joy of a believer gives this care a devotional depth. A closing recollection of Moses and Aaron’s gentle address to Pharaoh opens a Qur’anic connection [1] and a demanding question about how to speak when much is at stake. Read beside silence and genuine affection in teaching, this compilation asks us to consider intention, manner, and effect together. Its counsels invite sustained reflection on how truth can be spoken with a concern for the person who must hear it.",
+      "introduction": "Some wounds leave no mark that anyone can see. ‘Abdu’l-Bahá calls the best of people the one who gladdens the broken-hearted and the worst the one who brings pain to a heart, and His warnings against grieving any soul or making anyone lose hope ring out with unusual urgency. The concern reaches into the home, in the counsel to treat a father with the utmost love, and outward to every kind of person one meets, where moderation and vigilance become daily disciplines. The Báb goes further still: to grieve a believer is to grieve Him, and to bring joy to one is to gladden Him. Even hard truths are to be spoken gently, as God bade Moses and Aaron address Pharaoh with mild words [1]. Such tenderness does not weaken honesty; it makes honesty bearable. From here the path leads to becoming a source of light for others, to the nature of true guidance, and to the plainer harms that the hand, and not only the tongue, can do.",
       "arc": "Make the hidden injury to a heart visible, carry that concern into family and public conduct, and close with gentleness under difficult circumstances.",
       "order": [
         {
@@ -316,7 +347,10 @@
         },
         {
           "key": "source:AB09128",
-          "why": "Extend the concern to every kind of person and introduce moderation as a practical discipline."
+          "why": "Extend the concern to every kind of person and introduce moderation as a practical discipline.",
+          "shortened": [
+            "Exercise caution that no one, of whatever type of person, be made sorrowful by you. Great moderation is necessary, and likewise be vigilant and alert that no one should cause harm."
+          ]
         },
         {
           "key": "source:BB00234",
@@ -364,7 +398,7 @@
       "id": "3FE1E7AD528FE2A75CD3483C385076C4",
       "slug": "strength",
       "displayTitle": "Prayer for strength",
-      "introduction": "What kind of strength do we ask for when our own resources seem insufficient? These prayers give the question several answers: firmness under intimidation, constancy in remembrance, capacity for service, relief from anguish, and contentment with God’s good pleasure. Their images join the bodily and the spiritual—fortified backs and loins, light reaching the heart, and mercy descending like rain. Such language places dependence within the act of turning toward God. Beside courage and cooperation, strength appears as a capacity that can sustain both an individual conscience and a community of servants. The sequence moves from the singular voice toward concern for the grief of others, inviting reflection on whose burdens we carry into prayer. It leaves us considering how a request for divine assistance might change the way we act, the help we receive, and the support we offer someone else.",
+      "introduction": "Fear has a body: it weakens the back, dims the eyes, tightens the chest. Bahá’u’lláh’s prayers for strength answer it in the same bodily terms, asking God to fortify the back and loins, to illumine the sight, to expand the breast, so that neither the onslaught of enemies nor the might of oppressors can unsettle the one who prays. Yet the strength sought is never mere toughness. It is steadfastness in remembrance, a tongue made articulate in praise, contentment with God’s good pleasure, and a power that lets life, mind, heart and spirit be given wholly to Him. Paul, pleading for relief, was answered instead with a grace that met him in his weakness. Admitting need turns out to be where might begins. Nor does the prayer stay with the self: it widens to the grief of God’s loved ones, asking that their anguish be lifted and mercy fall on them like rain. From here the way opens into the whole life of prayer, where asking for help and offering it become one movement of the heart.",
       "arc": "Begin with strength under pressure, deepen its inward purposes, then widen the prayer toward the grief and service of others.",
       "order": [
         {
@@ -373,15 +407,24 @@
         },
         {
           "key": "source:AB03075",
-          "why": "Make the appeal tangible through the bodily images of loins and back."
+          "why": "Make the appeal tangible through the bodily images of loins and back.",
+          "shortened": [
+            "Therefore strengthen my loins with Thy power that prevails over all created things, fortify my back with Thy might that dominates all contingent beings, illumine my sight with Thy brilliant lights that shine from the dawning-place of Thy words, expand my breast through Thy manifest signs from the daysprings of Thy revelation, strengthen my hosts through Thy banners raised upon the hills of the hearts of holy realities that speak forth in the earth and heavens."
+          ]
         },
         {
           "key": "source:BH09966",
-          "why": "Connect endurance with sustained remembrance and praise."
+          "why": "Connect endurance with sustained remembrance and praise.",
+          "shortened": [
+            "I beseech Thee by the lights that shine forth from Thy Most Exalted Pen and by the waves of the ocean of Thy utterance before the faces of the enemies, to make me strong through Thy power and steadfast in Thy remembrance and praise amidst Thy servants."
+          ]
         },
         {
           "key": "source:BH08018",
-          "why": "Add contentment to the meaning of might, broadening the purpose of the request."
+          "why": "Add contentment to the meaning of might, broadening the purpose of the request.",
+          "shortened": [
+            "Then ordain for me, O my Goal and my King, that which shall make me mighty through Thy might, articulate in Thy praise, and content with Thy good-pleasure."
+          ]
         },
         {
           "key": "source:AB11758",
@@ -428,7 +471,7 @@
       "id": "02AB9A3E1C13E61D5B0AE0F70778680D",
       "slug": "hospitality",
       "displayTitle": "Hospitality",
-      "introduction": "A burnt cake in a poor home can become the best reception someone remembers. That reversal opens a compilation in which the value of a welcome rests in love, attentiveness, and the dignity accorded to the guest. Open doors, boiling samovars, crowded rooms, and late arrivals make hospitality a vivid practice rather than an abstract virtue. One passage invokes Abraham, whose welcome to strangers in Genesis offers a wider scriptural setting [1]. Others bring the experience of the guest into view: a meal gains its value through the love with which it is offered, while a traveler enters the shared life of an already crowded room. Read beside cooperation and genuine affection in teaching, hospitality invites reflection on the relationships a shared table can nourish. The sequence asks what makes a place feel open to another person, and how both host and guest can help love become tangible there.",
+      "introduction": "A thorn-picker’s wife in Baghdad burned the little cake she made for her guest, and ‘Abdu’l-Bahá called it the best reception He ever attended. Food, He says, is to be judged by the love it is seasoned with, not by what is on the table. From that beginning hospitality widens outward: a neighbour is to be treated as kin, a stranger honoured simply for being a stranger, a believer arriving in a new city received with gladness and brought into the company of friends. Abraham, who hurried to welcome three travellers at his tent, is held up as the ancestor of this virtue [1]. Open doors, a boiling samovar, late arrivals, a host worn out by a long day: the welcome costs something, and a thoughtful guest learns to honour the host’s means and time as well as the meal. The same spirit animates the courtesy that shapes a culture, the care we show the person next door, and the feasts and devotional gatherings in which a community learns to be at home with itself.",
       "arc": "Enter through a poor host’s unforgettable welcome, widen the circle to strangers and neighbors, attend to the work of hosting, and end with what a thoughtful guest brings to the table.",
       "order": [
         {
@@ -441,23 +484,39 @@
         },
         {
           "key": "source:ABU0136",
-          "why": "Show that simple means can sustain a generous home remembered by friends and strangers."
+          "why": "Show that simple means can sustain a generous home remembered by friends and strangers.",
+          "shortened": [
+            "Although he was not well off yet he was open-handed and generous, the door of his home was open always and friends and strangers received a cheering welcome. His simple but hearty feasts were ever remembered."
+          ]
         },
         {
           "key": "source:BH00889",
-          "why": "Deepen generosity through the example of someone offering what remains after dispossession."
+          "why": "Deepen generosity through the example of someone offering what remains after dispossession.",
+          "shortened": [
+            "There he hath spread before Thy presence such of Thy gifts as he hath been able to provide, notwithstanding that the people had plundered all his possessions and the possessions of others among Thy loved ones."
+          ]
         },
         {
           "key": "source:ABU1719",
-          "why": "Introduce the home as a place where a visitor may receive light."
+          "why": "Introduce the home as a place where a visitor may receive light.",
+          "shortened": [
+            "My home is the home of joy and delight. My home is the home of laughter and exultation. Whosoever enters through the portals of this home must go out with a gladsome heart. This is the home of Light, whosoever enters therein must become illumined."
+          ]
         },
         {
           "key": "source:ABU2602",
-          "why": "Make openness concrete through the guest’s freedom to enter and leave."
+          "why": "Make openness concrete through the guest’s freedom to enter and leave.",
+          "shortened": [
+            "Notwithstanding this, my house is open to all. He who wishes may enter and he who wishes to go out may leave."
+          ]
         },
         {
           "key": "source:AB05843",
-          "why": "Extend the welcome outward to neighbors considered as kin."
+          "why": "Extend the welcome outward to neighbors considered as kin.",
+          "shortened": [
+            "O respected neighbor, upon whom be the Most Glorious Glory of God!",
+            "Blessed Baha'u'llah gave emphatic counsel regarding neighbors, that one should consider neighbors as kith and kin."
+          ]
         },
         {
           "key": "source:AB06018",
@@ -473,7 +532,10 @@
         },
         {
           "key": "source:ABU0670",
-          "why": "Consider the reception of a newly arrived believer by a community."
+          "why": "Consider the reception of a newly arrived believer by a community.",
+          "shortened": [
+            "If a believer enter a city, the believers of that city must receive him with the utmost cordiality. They must be happy that one of the believers of God has entered into that city. They must show him the greatest hospitality, present him in their assembly, and exercise toward him the utmost kindness and consideration."
+          ]
         },
         {
           "key": "source:AB08632",
@@ -485,15 +547,25 @@
         },
         {
           "key": "source:AB04213",
-          "why": "Connect the practical beauty of hospitality with the beginnings of friendship."
+          "why": "Connect the practical beauty of hospitality with the beginnings of friendship.",
+          "shortened": [
+            "In the beginning he must show him the beauty of friendship and hospitality in a practical way - so that he may not shun his association, then little by little he may teach him the truth."
+          ]
         },
         {
           "key": "source:AB10104",
-          "why": "Let the open doors and whistling samovar bring the gathering to life."
+          "why": "Let the open doors and whistling samovar bring the gathering to life.",
+          "shortened": [
+            "O honored guest, welcome, welcome!",
+            "The doors are open and the dwelling is the banquet-hall of the All-Loving Lord. The ship is ready and the way is clear, the companions are in harmony, and the place is adorned. The pot is boiling and the samovar is whistling, and the host, his honor Aqa Muhammad Hasan, is present and waiting."
+          ]
         },
         {
           "key": "source:AB01179",
-          "why": "Join material food with the spiritual sustenance of joyful company."
+          "why": "Join material food with the spiritual sustenance of joyful company.",
+          "shortened": [
+            "You host every arrival and accompany every departure with utmost respect. You constantly spread the feast of hospitality, arrange gatherings of love, prepare celebrations of joy for the friends, and set an abundant table. The samovars are always boiling and hearts are aflame with the fire of the love of God. Spiritual sustenance is present and delicious physical food is available."
+          ]
         },
         {
           "key": "source:ABU1499",
@@ -501,7 +573,10 @@
         },
         {
           "key": "source:ABU2904",
-          "why": "Show the cost and attentiveness involved in receiving someone at an inconvenient hour."
+          "why": "Show the cost and attentiveness involved in receiving someone at an inconvenient hour.",
+          "shortened": [
+            "Often in the middle of night when I was in bed, they would bring to me the word that such and such a person had called and I would get up and dress again to receive him."
+          ]
         },
         {
           "key": "source:ABU3123",
@@ -517,15 +592,24 @@
         },
         {
           "key": "source:ABU1365",
-          "why": "Turn toward the trust a shared meal can create, retaining the account as a reported custom."
+          "why": "Turn toward the trust a shared meal can create, retaining the account as a reported custom.",
+          "shortened": [
+            "Among the Arabs it is customary that if someone drinks another's coffee and then betrays him, it is considered reprehensible. They say: \"How could he drink his coffee and then betray him, oppose him, and act against him?\""
+          ]
         },
         {
           "key": "source:BH02894",
-          "why": "Acknowledge the joy of both hosts and guests in repeated gatherings."
+          "why": "Acknowledge the joy of both hosts and guests in repeated gatherings.",
+          "shortened": [
+            "A new letter was also written and sent in detail. This year, praise be to God, you were enabled to provide food and feasting time after time and occasion after occasion. In your words, may it continue! The Command is in God's hands, the Lord of creation. You should be occupied with preparations while the guests are getting ready."
+          ]
         },
         {
           "key": "source:ABU1095",
-          "why": "Return to gratitude for plain food and sincere affection in the separately supplied accounts."
+          "why": "Return to gratitude for plain food and sincere affection in the separately supplied accounts.",
+          "shortened": [
+            "Having made the fire, he threw upon it some lumps of dough which he made before us with no yeast to raise it. This was his bread which he threw upon the fire to bake by covering it with ashes! After a few minutes he took the lumps out of the fire. The outside was burnt while the inside was plain dough. Then he brought some dates and served us with the bread. Because he was a true believer and had a great love, that plain coarse food tasted so delicious that we all enjoyed it. He had great faith and our presence filled him with joy."
+          ]
         },
         {
           "key": "source:ABU1792",
@@ -570,12 +654,15 @@
       "id": "DFD7CEB3B4E44FA3B8BE8B17E353D434",
       "slug": "interconnectedness",
       "displayTitle": "Interconnectedness of the teachings",
-      "introduction": "A single beneficial principle cannot, by itself, make the world a paradise. The opening passage’s comparison with elements combining into a living being turns this compilation into an invitation to read for relationships. A tree, a sphere, an expanse containing suns, and a many-faceted jewel offer different ways to imagine a whole whose parts illuminate one another. The later selections make this a discipline of interpretation: apparent tensions call for deeper study, attention to context, and a willingness to follow a thought beyond the first striking phrase. The invitation also reaches outward to history, economics, science, and other fields of knowledge. Read beside silence and courage, it raises practical questions about how restraint and bold action may belong in one life. This approach asks us to let the teachings enlarge one another’s meaning while we examine carefully how their relationships bear on a particular situation.",
+      "introduction": "No single principle, however beneficial, can turn the world into a paradise, ‘Abdu’l-Bahá says; like a chemical element, it gives life only in combination. The teachings of Bahá’u’lláh are meant to be read in that way, as a trunk that sends out branches, a space holding many suns, a sphere whose opposite poles are joined by everything in between, a jewel whose facets each catch a different light. Shoghi Effendi draws the practical consequence: study more, not less, in history, economics and science as well as in the Writings, and when two strong statements seem to pull apart, look for the links that unite them instead of setting one against the other. The Buddhist story of the blind men and the elephant warns how confidently a fragment can be mistaken for the whole [1]. The result is a faith whose balance keeps any virtue from hardening into a bias. From this habit of reading, the mind is drawn to the way all things are involved in all things, to the great chain of being, and to the complementary truths that make one religion of many.",
       "arc": "Begin with the limits of a single principle, explore images of an integrated whole, then turn those images into a discipline of reading and application.",
       "order": [
         {
           "key": "source:AB01335",
-          "why": "The living combination of elements makes the need for multiple principles immediately concrete."
+          "why": "The living combination of elements makes the need for multiple principles immediately concrete.",
+          "shortened": [
+            "Furthermore, the human world will not become a heavenly paradise through the promotion of a single matter. This education of children is one of many matters. Each beneficial matter that causes the progress of the human world is like an element - a single element does not bestow life, but when elements combine, a being comes into existence."
+          ]
         },
         {
           "key": "source:ABU1508",
@@ -595,7 +682,11 @@
         },
         {
           "key": "selection:97d08ebd80db664b5b9cb72e",
-          "why": "Turn the image of a sphere into an invitation to study broadly and relate different fields of knowledge."
+          "why": "Turn the image of a sphere into an invitation to study broadly and relate different fields of knowledge.",
+          "shortened": [
+            "Shoghi Effendi has for years urged the Baha'is (who have asked his advice, and in general also) to study history, economics, sociology, etc. in order to be au courant with all the progressive movements and thoughts being put forth today, and so that they could correlate these to the Baha'i teachings. What he wants the Baha'is to do is to study more, not to study less.",
+            "One might liken Baha'u'llah's teachings to a sphere; there are points poles apart, and in between the thoughts and doctrines that unite them."
+          ]
         },
         {
           "key": "selection:0f9c146a6faf1c2384a0c323",
@@ -668,16 +759,22 @@
       "id": "6333FDFFA1A7E1E6F2E6E954BADDF7DE",
       "slug": "opposites",
       "displayTitle": "Things are known by their opposites",
-      "introduction": "A lamp may become most noticeable at the moment it goes out. The images in this compilation ask how contrast awakens recognition: abundance and want, knowledge and ignorance, joy and sorrow, freedom and confinement. They also open a philosophical distinction between understanding something through its opposite and treating that opposite as an independent reality. Several passages describe darkness, ignorance, and oppression as absences; another speaks of opposites as necessary to recognition and reality. Reading them together invites patient attention to what each statement is trying to explain. Beside the interconnectedness of the teachings and care for another person’s heart, these questions acquire an ethical edge: appreciating a good through contrast does not settle how we should respond to someone’s suffering. The sequence returns us to ordinary life with a fresh challenge—to recognize and cultivate the goods that habit can make nearly invisible.",
+      "introduction": "Nobody remarks on a lamp while it burns; only when the room goes dark does everyone exclaim what a good thing a lamp is. ‘Abdu’l-Bahá uses such homely observations to open a principle that runs through creation: things are known by their opposites. A person who has lived beside a river does not know what thirst is; sight is valued in the company of the blind; the world itself is a theatre of heat and cold, sickness and health, prison and freedom, and we are to watch every drama. Yet he draws a careful distinction. Darkness is not a thing but the absence of light, poverty the want of wealth, oppression the want of justice, so that the opposites which teach us are in reality non-existences, and in the realm of the sun there is no night. The Dao De Jing’s pairing of beauty and ugliness, difficult and easy, offers a kindred and different way of thinking about contrast [1]. From here the path leads into the pairs built into creation, into composition and decomposition, and into the mystery of evil and suffering, where the recognition of a good through its absence meets the duty to relieve it.",
       "arc": "Begin with the changing conditions of lived experience, explore recognition through contrast, then distinguish opposites from absences and return to gratitude and moral choice.",
       "order": [
         {
           "key": "source:AB04365",
-          "why": "Start with familiar changes in fortune, feeling, and age."
+          "why": "Start with familiar changes in fortune, feeling, and age.",
+          "shortened": [
+            "This world contains opposites - sometimes there is abundance and sometimes hardship, sometimes joy and sometimes sorrow and tribulation, sometimes the season of youth and sometimes the time of weakness. It does not remain in one state."
+          ]
         },
         {
           "key": "source:ABU2945",
-          "why": "Give those changes the memorable form of dramas one is called to observe."
+          "why": "Give those changes the memorable form of dramas one is called to observe.",
+          "shortened": [
+            "Man must observe every drama. There is the drama of heat and the drama of cold: the drama of Spring and the drama of Summer--the drama of happiness and of sorrow, of sickness and of health, of shame and of glory, of freedom and of prison--Yes: indeed the world is a great theatre, and man must observe each of these plays.\""
+          ]
         },
         {
           "key": "source:ABU0844",
@@ -685,7 +782,10 @@
         },
         {
           "key": "source:AB04043",
-          "why": "State the central principle after the reader has encountered concrete examples."
+          "why": "State the central principle after the reader has encountered concrete examples.",
+          "shortened": [
+            "Everything is made manifest through its opposite."
+          ]
         },
         {
           "key": "source:ABU0122",
@@ -693,7 +793,10 @@
         },
         {
           "key": "source:ABU0102",
-          "why": "Introduce the philosophical language of antithesis and the account of ignorance as absence."
+          "why": "Introduce the philosophical language of antithesis and the account of ignorance as absence.",
+          "shortened": [
+            "To make it plainer for you, if there were no wealth in the world, you would not have poverty. If there were no light in the world, you could not conceive of darkness, for we know things philosophically by their antitheses. We know, for example, that poverty is the lack of wealth. Where there is no knowledge, there is no ignorance. What is ignorance? It is the absence of knowledge."
+          ]
         },
         {
           "key": "source:ABU3139",
@@ -709,7 +812,10 @@
         },
         {
           "key": "source:AB01695",
-          "why": "Return the metaphor of darkness to the recognition of spiritual light."
+          "why": "Return the metaphor of darkness to the recognition of spiritual light.",
+          "shortened": [
+            "Things are known by their opposites. Until the darkness of the darkest night appears, the lights of the Sun of Truth will not be visible."
+          ]
         },
         {
           "key": "source:ABU3163",
@@ -717,11 +823,18 @@
         },
         {
           "key": "source:ABU3323",
-          "why": "Turn the inquiry toward discernment between ethical alternatives."
+          "why": "Turn the inquiry toward discernment between ethical alternatives.",
+          "shortened": [
+            "You know which path to follow: you cannot be mistaken, for there's a great distinction between God and evil, between Light and darkness, Truth and falsehood, Love and hatred, Generosity and meanness, Education and ignorance, Faith in God and superstition, good Laws and unjust laws."
+          ]
         },
         {
           "key": "source:ABU0682",
-          "why": "Close with the lamp and the fish, leaving a vivid invitation to appreciate what sustains us."
+          "why": "Close with the lamp and the fish, leaving a vivid invitation to appreciate what sustains us.",
+          "shortened": [
+            "For example, so long as this lamp is burning in this room, irradiating ligh[t] to all directions, no one is especially moved to make a comment upon it, but if we are suddenly plunged into a great darkness, we will all exclai[m] what a good and valuable thing a lamp is!",
+            "The fish disports itself quite heedlessly in the water, never suspecting tha[t] it alone is the preserver of its life, but when it is thrown out of the water, it realizes the truth."
+          ]
         }
       ],
       "questions": [
@@ -762,7 +875,7 @@
       "id": "6280A04C18E1EDA8175C748BAC2D2A19",
       "slug": "religionandscience",
       "displayTitle": "Religion as a source and stimulus of knowledge and science",
-      "introduction": "What if the pursuit of knowledge were understood as one of religion’s own aspirations? The opening selection makes that claim with unusual force, presenting learning as a human perfection and asking how religion could oppose it. The historical passages that follow interpret the growth of arts, sciences, and institutions of learning as evidence of the transforming power of revelation, with particular attention to Islam. Their comparisons and rhetoric invite further historical inquiry as well as reflection on the story a civilization tells about its intellectual debts. The wider Bahá’í teaching on the harmony of science and religion gives this inquiry an enduring frame [1]. Read beside the interconnectedness of the teachings and creativity, the compilation also raises a practical question: how might intellectual discovery, spiritual purpose, and the cultivation of human capacities strengthen one another in the institutions we build today?",
+      "introduction": "Learning, ‘Abdu’l-Bahá insists, is a human perfection, and religion, far from fearing it, is its founder and friend. The claim is made to be tested against history. He points to the desert peoples of Arabia, who within a few generations of Muhammad’s appearance led the world in sciences, crafts and governance, with Baghdad a centre of learning and students from Europe travelling to Cordova to carry the light home; to prophets planting a seed from which Europe’s later material civilization was harvested; and to the quiet prejudice that credits every people for its gifts except the one whose faith kindled them. The wider Bahá’í teaching on the harmony of science and religion gives these arguments their enduring frame [1]. The journey from here leads naturally to the call to acquire knowledge, to the high station of the arts and sciences, and to the question of what a divine civilization asks of our schools and laboratories: whether rigour and spiritual purpose can again strengthen one another, as he says they once did.",
       "arc": "Open with learning as a religious aspiration, explore the compilation’s historical arguments, examine prejudice in the telling of history, and turn toward the spiritual purposes of knowledge.",
       "order": [
         {
@@ -775,7 +888,10 @@
         },
         {
           "key": "source:AB00076",
-          "why": "Make the historical account concrete through its named centers of learning and reported transmission to Europe. Close by returning to the opening claim about religion as a promoter of learning, preserving the supplied wording and its historical rhetoric."
+          "why": "Make the historical account concrete through its named centers of learning and reported transmission to Europe. Close by returning to the opening claim about religion as a promoter of learning, preserving the supplied wording and its historical rhetoric.",
+          "shortened": [
+            "When the Beauty of Muhammad dawned from the horizon of Yathrib and Bat'ha, the religion of God manifested such power and might that in a brief span these ignorant peoples became the foremost among the learned in all sciences and arts, and perfected the deficiencies in the sciences and arts of the philosophers. Likewise, in all degrees of progress they reached the highest pinnacle, such that Baghdad became the center of learning and Bukhara the source of the arts, and knowledge raised such a standard in Andalusia that all the learned ones of Europe came to the schools of Cordova and Cordoba to acquire the light of knowledge from the lamp of Islamic schools."
+          ]
         },
         {
           "key": "source:ABU3688",
@@ -791,11 +907,17 @@
         },
         {
           "key": "source:ABU1653",
-          "why": "Turn from civilizational history toward the spiritual dimension of an individual’s intellectual development."
+          "why": "Turn from civilizational history toward the spiritual dimension of an individual’s intellectual development.",
+          "shortened": [
+            "Although a man may progress in science and philosophy, if he does not take advantage of the power of the spirit, he is incomplete."
+          ]
         },
         {
           "key": "source:ABU1595",
-          "why": "Retain the separately supplied account of the transformation associated with Muhammad."
+          "why": "Retain the separately supplied account of the transformation associated with Muhammad.",
+          "shortened": [
+            "Consider how the Arabian desert, a wilderness of sand, dried mountains, hot climate, uncultivable ground, savage, primitive inhabitants, the country situated near the Equator - through the appearance of Mohammad and his disciples - became the mother of all the countries, the Kaaba for millions of souls and the object of veneration by all mankind."
+          ]
         }
       ],
       "questions": [

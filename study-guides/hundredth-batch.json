@@ -5,7 +5,7 @@
       "id": "494449F7A4D0EFBD315D4C3846620994",
       "slug": "integrationdisintegration",
       "displayTitle": "Breakdown and renewal: learning to give life",
-      "introduction": "How can we recognize renewal within a world that seems to be coming apart? These passages ask us to look closely at what human actions produce: cohesion or estrangement, learning or ignorance, care or destruction. Images of light, storms, seeds, and changing seasons accompany accounts of persecution, war, and social upheaval. They express confidence in spiritual transformation while repeatedly calling for effort, discernment, and a life useful to others. The explicit counsel to advance through wisdom and utterance gives a practical setting for the collection’s language of spiritual struggle. Connected subjects on material and spiritual civilization, calamity, prophecy, and peace invite further examination of both historical circumstances and religious interpretation. The Qur’an’s image of passing foam and enduring benefit, and Paul’s appeal to overcome evil through good, deepen the inquiry. What might it mean to contribute to renewal without becoming indifferent to the suffering through which people are living?",
+      "introduction": "Every human act leaves something behind it: cohesion or estrangement, learning or ignorance, a harvest or a wasteland. ‘Abdu’l-Bahá sets the choice starkly. While others sharpen swords, lift an olive branch; while nations think hate, think love with all your powers. Bahá’u’lláh adds that fairness is the very measure of being human, and that oppression and its agents will pass while justice endures. The breakdown is real: wars that breed lasting hatreds, armaments that drain nations, a heedlessness that sleeps through its own warnings. The seed that rots in the ground is the figure to hold onto, since its dissolution is what yields the harvest, and the flood that wrecks a town may be the prelude to rebuilding. The Qur’an’s image of foam that passes while what benefits people remains, and Paul’s counsel to overcome evil with good, sharpen the question of how to serve renewal without growing numb to present suffering. From here the path leads into material and spiritual civilization, into present and future calamities, and into the long argument between war and peace.",
       "arc": "Open with giving life and the conditions of cohesion; confront injustice, prejudice and the costs of war; examine material and spiritual civilization; read historical trials, opposition and reversal in their source settings; return through discernment and steadfastness to constructive service.",
       "order": [
         {
@@ -18,15 +18,24 @@
         },
         {
           "key": "source:AB00143",
-          "why": "Ground the inquiry in the cohesion of living forms."
+          "why": "Ground the inquiry in the cohesion of living forms.",
+          "shortened": [
+            "When thou dost consider all phenomena, thou wilt see that every created thing hath come into being through the mingling of many elements, and once this collectivity of elements is dissolved, and this harmony of components is dissevered, the life form is wiped out."
+          ]
         },
         {
           "key": "source:AB01795",
-          "why": "Consider the seed whose dissolution yields a harvest."
+          "why": "Consider the seed whose dissolution yields a harvest.",
+          "shortened": [
+            "When you scatter a seed in the earth, that seed decomposes and becomes annihilated beneath the soil, yet that very annihilation is the cause of its permanence, that dispersion leads to gathering, and that dissolution results in the formation of great abundant harvests."
+          ]
         },
         {
           "key": "source:BH02199",
-          "why": "Make wisdom and utterance the explicit means of advancing the Cause."
+          "why": "Make wisdom and utterance the explicit means of advancing the Cause.",
+          "shortened": [
+            "In all Tablets it has been revealed that the victory of God's Cause today has been and will be through wisdom and utterance, not through conflict and contention."
+          ]
         },
         {
           "key": "source:ABU2610",
@@ -46,15 +55,24 @@
         },
         {
           "key": "source:AB00902",
-          "why": "Look for the enduring influence of work that comforts humanity."
+          "why": "Look for the enduring influence of work that comforts humanity.",
+          "shortened": [
+            "The end is loss upon loss, except for souls who lay the foundation of eternal glory and the basis of comfort for the world of creation, and adorn the world with the light of the gift of the All-Merciful. Even the whispers of such souls remain forever permanent and endless."
+          ]
         },
         {
           "key": "source:BH05097",
-          "why": "Distinguish passing oppression from enduring justice."
+          "why": "Distinguish passing oppression from enduring justice.",
+          "shortened": [
+            "Soon shall oppression and its perpetrator pass away, while justice and its manifestations shall endure, by the decree of the All-Knowing, the All-Wise."
+          ]
         },
         {
           "key": "source:AB00246",
-          "why": "Read the passing foam beside what remains useful to people."
+          "why": "Read the passing foam beside what remains useful to people.",
+          "shortened": [
+            "Soon shall the carpet of acceptance be rolled up and the couch of indolence spread out. The floods shall leave naught but traces, and the pampered ones shall fall from palaces to graves. The throes of death shall seize them and intense regrets shall overtake them, when there shall be no escape, and no sound nor trace of them shall be heard. As for the foam, it passeth away as scum upon the surface, while that which is useful to mankind remaineth in the earth."
+          ]
         },
         {
           "key": "source:ABU1605",
@@ -62,11 +80,17 @@
         },
         {
           "key": "source:AB09115",
-          "why": "Distinguish material victory from a victory that gives life."
+          "why": "Distinguish material victory from a victory that gives life.",
+          "shortened": [
+            "Victory is of two kinds: material and spiritual. Material victory is not so important but spiritual victory is conducive to the life of the world of humanity."
+          ]
         },
         {
           "key": "source:BBU0001",
-          "why": "Test professed truth through deeds."
+          "why": "Test professed truth through deeds.",
+          "shortened": [
+            "Strive that by your deeds you may bear witness to the truth of these words of God, and beware lest, by \"turning back,\" He may \"change you for another people,\" who \"shall not be your like,\" and who shall take from you the Kingdom of God."
+          ]
         },
         {
           "key": "source:ABU0064",
@@ -74,11 +98,17 @@
         },
         {
           "key": "source:AB00951",
-          "why": "Confront a society in which ruthlessness commands respect."
+          "why": "Confront a society in which ruthlessness commands respect.",
+          "shortened": [
+            "The darkness of enmity has encompassed the world and the swords of cruelty and oppression are in the hands of the misguided. There is hardly a fair-minded soul to be found anywhere nor any who does not oppress others in some form. Only those who are most greedy and most ruthless, most bloody and most brutal seem to command respect."
+          ]
         },
         {
           "key": "source:ABU0084",
-          "why": "Read the reported discarding of loving counsel through self and passion."
+          "why": "Read the reported discarding of loving counsel through self and passion.",
+          "shortened": [
+            "They have cast those precious jewels into the furnace of self and passion. They have set aside those loving counsels and admonitions, and have arisen in such oppression and aggression as hath never been witnessed in the world."
+          ]
         },
         {
           "key": "source:AB00607",
@@ -118,7 +148,10 @@
         },
         {
           "key": "source:AB02082",
-          "why": "Trace the spread of war through misunderstanding."
+          "why": "Trace the spread of war through misunderstanding.",
+          "shortened": [
+            "All the peoples of the world are opposed to each other and day by day their misunderstanding increases. This is why the fire of war has reached to the heavens."
+          ]
         },
         {
           "key": "source:AB02186",
@@ -126,11 +159,17 @@
         },
         {
           "key": "source:AB02915",
-          "why": "Read the warning about racial hatred in America with its call for healing."
+          "why": "Read the warning about racial hatred in America with its call for healing.",
+          "shortened": [
+            "The world of America should be grateful for this matter, for this enmity and hatred that exists between these two races, black and white, is very dangerous and without doubt will eventually end in bloodshed - unless the power of the Word of God and the breaths of the Holy Spirit and the teachings of Baha'u'llah spread and bring healing between these two groups, uprooting the foundation of hatred and animosity and laying the basis of love and the path of unity."
+          ]
         },
         {
           "key": "source:ABU2309",
-          "why": "Retain the supplied warning about agitation between races in its historical setting."
+          "why": "Retain the supplied warning about agitation between races in its historical setting.",
+          "shortened": [
+            "These enemies are agitating both sides, that is, they are stirring up the white race against the colored race and the colored race against the white race. But of this the Americans are submerged in the sea of ignorance. They will regret it. But of what use will their regret be after the destruction of America?"
+          ]
         },
         {
           "key": "source:ABU0125",
@@ -146,7 +185,10 @@
         },
         {
           "key": "source:AB02963",
-          "why": "Keep the historical account of war, disease and agitation attributed to its source."
+          "why": "Keep the historical account of war, disease and agitation attributed to its source.",
+          "shortened": [
+            "It is medically proven that from the abundance of dead bodies and fiery explosions the air changes, and from the change in air numerous diseases result and spread to other regions. Certainly millions of souls killed on the battlefield must change the air, and from the change in air diseases arise. Similarly, from psychological disturbances severe agitation results in humans, and certainly from severe agitation various diseases are born."
+          ]
         },
         {
           "key": "source:ABU0315",
@@ -162,7 +204,10 @@
         },
         {
           "key": "source:ABU2181",
-          "why": "Consider the supplied criticism of religion enlisted for war."
+          "why": "Consider the supplied criticism of religion enlisted for war.",
+          "shortened": [
+            "It is now demonstrated that all their existent powers have contributed something toward the realization of this world war, even their so-called Christian religion has been made a pliable instrument for the promotion of war purposes."
+          ]
         },
         {
           "key": "source:AB07144",
@@ -174,7 +219,10 @@
         },
         {
           "key": "source:ABU1571",
-          "why": "Recognize the reported economic pressures alongside military power."
+          "why": "Recognize the reported economic pressures alongside military power.",
+          "shortened": [
+            "Today the Armies of Europe, well-drilled, well-provisioned, phalanx-like are like unto the waves of the ocean attacking Asia. Asia in her present state cannot stand before these irresistible, victory-inspired armies. There is not only the army of war; there are other more influential, economic armies that are surrounding the Eastern countries. There is an army of commerce, an army of industry, an army of agriculture, an army of science and arts. All these well-disciplined hosts, supplied with the latest modern methods and instruments are bent upon great conquests in their respective fields."
+          ]
         },
         {
           "key": "source:AB00386",
@@ -230,7 +278,10 @@
         },
         {
           "key": "source:BH01234",
-          "why": "Consider the elixir image of transforming diverse elements."
+          "why": "Consider the elixir image of transforming diverse elements.",
+          "shortened": [
+            "The dross of nations has seized them; the greatest elixir is required. O Wise One! Has the crown of victory such power as to transform diverse elements in a single thing and bring them to the station of pure gold?"
+          ]
         },
         {
           "key": "source:AB12475",
@@ -238,11 +289,17 @@
         },
         {
           "key": "source:AB01489",
-          "why": "Read the teachings through peace, fellowship and security."
+          "why": "Read the teachings through peace, fellowship and security.",
+          "shortened": [
+            "The teachings of Baha'u'llah are, in this day, the very spirit of life; they are the cause of peace and security, the source of fellowship and love, the means of the unity of the human world."
+          ]
         },
         {
           "key": "source:AB00829",
-          "why": "Consider the proposed remedy for the social fevers of hatred."
+          "why": "Consider the proposed remedy for the social fevers of hatred.",
+          "shortened": [
+            "Note thou: could these fevers in the world of the mind, these fires of war and hate, of resentment and malice among the nations, this aggression of peoples against peoples, which have destroyed the tranquillity of the whole world ever be made to abate, except through the living waters of the teachings of God? No, never!"
+          ]
         },
         {
           "key": "source:AB04069",
@@ -254,7 +311,10 @@
         },
         {
           "key": "source:ABU0161",
-          "why": "Examine spiritual brotherhood as a means of removing war’s causes."
+          "why": "Examine spiritual brotherhood as a means of removing war’s causes.",
+          "shortened": [
+            "The spiritual brotherhood which is enkindled and established through the breaths of the Holy Spirit unites nations and removes the cause of warfare and strife. It transforms mankind into one great family and establishes the foundations of the oneness of humanity."
+          ]
         },
         {
           "key": "source:AB00138",
@@ -262,11 +322,17 @@
         },
         {
           "key": "source:AB00740",
-          "why": "Read the role of education alongside the condition of receptivity."
+          "why": "Read the role of education alongside the condition of receptivity.",
+          "shortened": [
+            "It is certain that spirituality will defeat materialism, that the heavenly will subdue the human, and that through divine education the masses of mankind generally will take great steps forward in all degrees of life---except for those who are blind and deaf and mute and dead. How can such as they understand the light? Though the sun's rays illumine every darkest corner of the globe, still the blind can have no share in the glory, and though the rain of heavenly mercy come down in torrents over all the earth, no shrub or flower will bloom from a barren land."
+          ]
         },
         {
           "key": "source:ABU1091",
-          "why": "Hear the reported connection of knowledge, service and unity."
+          "why": "Hear the reported connection of knowledge, service and unity.",
+          "shortened": [
+            "\"The Light of Knowledge hath appeared, before which the darkness of every superstitious fancy will be annihilated.  The Hosts of the Supreme Concourse are descending to assist all those who rise up to serve their Lord, to subdue and gain the victory over the city of the hearts; to proclaim the Glad-Tidings of the Coming of GOD and to united the souls of His creatures.\""
+          ]
         },
         {
           "key": "source:AB02094",
@@ -274,7 +340,10 @@
         },
         {
           "key": "source:ABU1357",
-          "why": "Read the reported call to abandon imitations and prejudice."
+          "why": "Read the reported call to abandon imitations and prejudice.",
+          "shortened": [
+            "Awake, O people of the world, awake! Give heed, O peoples and nations, give heed! Destroy the mot of conflict and strife; abandon imitations and prejudices which lead to cruelty, so that you may acknowledge the Truth and the light of the oneness of humanity may shine brilliant and manifest as the sun; the standard of universal peace be hoisted; perfect love and harmony may reign among the races, religions and nations; and the world of man may find peace and acquire a divine image and likeness."
+          ]
         },
         {
           "key": "source:AB12316",
@@ -286,7 +355,10 @@
         },
         {
           "key": "source:AB00803",
-          "why": "Imagine the education of souls as a country’s illumination."
+          "why": "Imagine the education of souls as a country’s illumination.",
+          "shortened": [
+            "Now the Lord has cast a glance of favor, and the witness of heavenly bounty has appeared in the land of Iran. The Sun of Truth has risen and cast its rays of grace upon that country, and heavenly teachings have spread and a divine faith has come forth. The hope is that the rays of this sun will make the land of Iran like the celestial realm - that is, souls will be educated who, like bright stars, will shine in the heights of that country."
+          ]
         },
         {
           "key": "source:ABU1663",
@@ -294,11 +366,17 @@
         },
         {
           "key": "source:ABU1004",
-          "why": "Retain the reported relation between strikes and common laws."
+          "why": "Retain the reported relation between strikes and common laws.",
+          "shortened": [
+            "A.B.---- Now everywhere there are strikes. It is very strange- It is necessary that all the nations and peoples should make laws and regulations. At the end all the nations will be united so that no one can break those laws and regulations."
+          ]
         },
         {
           "key": "source:ABU0543",
-          "why": "Look within self-interest as a source of estrangement."
+          "why": "Look within self-interest as a source of estrangement.",
+          "shortened": [
+            "Today the nations of the world are self-engaged, occupied with mortal and transitory accomplishments, consumed by the fires of passion and self. Self is dominant; enmity and animosity prevail. Nations and peoples are thinking only of their worldly interests and outcomes. The clash of war and din of strife are heard among them. But the friends of the Blessed Perfection have no thoughts save the thoughts of heaven and the love of God."
+          ]
         },
         {
           "key": "source:AB11809",
@@ -306,31 +384,53 @@
         },
         {
           "key": "source:AB02074",
-          "why": "Hear the warning about sleep, desire and ensuing calamity."
+          "why": "Hear the warning about sleep, desire and ensuing calamity.",
+          "shortened": [
+            "Despite this, people are still caught in the sleep of negligence, clinging to the metaphorical and shunning reality. People are still so immersed in carnal desires that even the trumpet of Israfil would not awaken them. Surely this heedlessness, ingratitude for divine bounties, and lack of awareness will lead to regret, hardship, war and strife, and bring about loss and calamity."
+          ]
         },
         {
           "key": "source:AB04275",
-          "why": "Keep the parallel warning about ingratitude and unawareness."
+          "why": "Keep the parallel warning about ingratitude and unawareness.",
+          "shortened": [
+            "Despite this, people are still captive in the sleep of heedlessness, clinging to the metaphorical and averse to reality, and still so immersed in carnal desires that even the trumpet of Israfil would not awaken them. Surely this heedlessness, ingratitude for blessings, and lack of awakening will cause grief and hardship, war and strife, and bring about loss and calamity."
+          ]
         },
         {
           "key": "source:AB09328",
-          "why": "Distinguish ignorance, pride and desire within the image of darkness."
+          "why": "Distinguish ignorance, pride and desire within the image of darkness.",
+          "shortened": [
+            "The regions of the world, cities and villages in the East and West are encompassed by the darkness of ignorance and rebellion - the darkness of unknowing, the darkness of pride, the darkness of self and desire have combined. These triple darknesses, layer upon layer, have formed, leaving souls bewildered, wandering, and drowning in the sea of heedlessness and forgetfulness."
+          ]
         },
         {
           "key": "source:BH00960",
-          "why": "Ask why people remain unaware of the causes of upheaval."
+          "why": "Ask why people remain unaware of the causes of upheaval.",
+          "shortened": [
+            "O Mihdi! The world is in upheaval while the people remain heedless. The dust of the deeds and words of the veiled ones hath obscured the luminous morn. Today every firm and mighty foundation is shaken, and every steadfast and upright foot hath faltered, save those whom thy Lord hath willed. The world's convulsions increase daily, yet its people perceive not the cause and reason, and remain veiled from what is with God by what is with themselves."
+          ]
         },
         {
           "key": "source:BH08750",
-          "why": "Confront unrecognized bondage to suppositions."
+          "why": "Confront unrecognized bondage to suppositions.",
+          "shortened": [
+            "The fire of suppositions and idle fancies has encompassed the world, and supreme abasement has seized the people, yet none are aware of it."
+          ]
         },
         {
           "key": "source:AB12430",
-          "why": "Read the puzzle of lethargy amid abundant opportunity."
+          "why": "Read the puzzle of lethargy amid abundant opportunity.",
+          "shortened": [
+            "Despite the fact that the outpouring of grace encompasses all, and the bounty of the Most Glorious Kingdom surrounds both the great and the lowly, and the melody of the Supreme Concourse reaches the ears of both young and old, still there is coldness and lifelessness and lethargy that has encompassed those who are frozen."
+          ]
         },
         {
           "key": "source:AB09862",
-          "why": "Keep the tension between worldwide light and inward imaginings."
+          "why": "Keep the tension between worldwide light and inward imaginings.",
+          "shortened": [
+            "O servant of the Ancient Beauty!",
+            "The lights of the Greatest Name have encompassed the horizons of all nations, yet the heedless remain submerged in the depths of vain imaginings."
+          ]
         },
         {
           "key": "source:AB10909",
@@ -338,15 +438,24 @@
         },
         {
           "key": "source:AB12605",
-          "why": "Retain the particular criticism of heedlessness in Iran."
+          "why": "Retain the particular criticism of heedlessness in Iran.",
+          "shortened": [
+            "The East and West have been stirred into motion by the breezes from the rose garden of mysteries, yet the Iranians are still captive in the sleep of heedlessness."
+          ]
         },
         {
           "key": "source:BH03866",
-          "why": "Read revealed mysteries beside continuing veils."
+          "why": "Read revealed mysteries beside continuing veils.",
+          "shortened": [
+            "The lights have shone forth and the mysteries have appeared and the verses have been sent down, yet the people remain in evident veils. The hidden treasure hath been revealed and the concealed secret hath appeared, yet most of the people are among the heedless ones."
+          ]
         },
         {
           "key": "source:AB11719",
-          "why": "Hold the few who see beside confidence that darkness will pass."
+          "why": "Hold the few who see beside confidence that darkness will pass.",
+          "shortened": [
+            "Despite this, the veil has so obscured vision that among the people of the world only a few are enlightened while all the rest remain captive to the darkness of the furnace. However, the rays of the Sun of Truth have become so brilliant that this darkness cannot endure."
+          ]
         },
         {
           "key": "source:AB10534",
@@ -354,11 +463,17 @@
         },
         {
           "key": "source:BH10983",
-          "why": "Read the projection of one’s own motives upon the divine."
+          "why": "Read the projection of one’s own motives upon the divine.",
+          "shortened": [
+            "However, those souls who are deprived of sincerity and purity have imagined the True One to be like themselves, and therefore strive and struggle to extinguish the divine light."
+          ]
         },
         {
           "key": "source:BH02097",
-          "why": "Examine inherited conjectures as part of awakening."
+          "why": "Examine inherited conjectures as part of awakening.",
+          "shortened": [
+            "In these days, in one of the Tablets this blessed word hath dawned from the horizon of the Supreme Pen: Until thou becomest aware of the falsehood of the past, thou shalt not bear witness to the truth of this wondrous Day. The heedless people must be awakened that they may recognize the daysprings of conjecture and fancy of the past and future, and may hold fast to the straight path and the firm and mighty cord."
+          ]
         },
         {
           "key": "source:ABU2021",
@@ -370,7 +485,10 @@
         },
         {
           "key": "source:ABU1084",
-          "why": "Keep the reported appeal for mastery of oneself amid moral disorder."
+          "why": "Keep the reported appeal for mastery of oneself amid moral disorder.",
+          "shortened": [
+            "Just at this time a mad wave of evil habits, immoral acts, shameless customs and most lewd representations is sweeping over some parts of the world, it seems that the very gates of hell are flung wide and the ghastly fiends of unbridled desires, dissolution, sensualism, unchastity and debauchery are set loose, desecrating the sanctity of the homes and polluting the clear stream of morality. Now the friends of God must do their utmost to purify the world from the stains of these licentious habits. They must master their innate God-given forces and strike at the very root of these evil deeds and social scourge."
+          ]
         },
         {
           "key": "source:BH10616",
@@ -382,7 +500,10 @@
         },
         {
           "key": "source:ABU1735",
-          "why": "Keep the supplied parallel statement of those calls."
+          "why": "Keep the supplied parallel statement of those calls.",
+          "shortened": [
+            "Two calls are raised in the contingent world: one the call of the All-Merciful, the other the call of Satan."
+          ]
         },
         {
           "key": "source:BH09661",
@@ -390,19 +511,31 @@
         },
         {
           "key": "source:AB06257",
-          "why": "Read the moral qualities behind the opposing light and darkness images."
+          "why": "Read the moral qualities behind the opposing light and darkness images.",
+          "shortened": [
+            "The forces of good and evil have raised aloft their banners in the world of humanity and, in the arena of tests and trials, are locked in battle. The light of good shineth forth from the countenances of the friends of God, even as the darkness of evil hath become manifested in the gloomy faces of the haughty and the proud. The faces of the former are the dawning place of the light of guidance, whereas the latter are the depths of utter darkness; the one is manifest light, the other is enmity, malice and spite. The former is the temple of the spirit, the latter the body of death itself. How great is the difference, how clear and evident is the distinction."
+          ]
         },
         {
           "key": "source:ABU0529",
-          "why": "Keep the supplied classification of spiritual and material orientations attributed."
+          "why": "Keep the supplied classification of spiritual and material orientations attributed.",
+          "shortened": [
+            "First of all we have to establish the fact that all human beings fall into only two categories: into spiritually oriented beings centred on God, and into materially-minded ungodly beings far removed and estranged from God, depending on the degree of their centrifugal development."
+          ]
         },
         {
           "key": "source:ABU0709",
-          "why": "Read the supplied test of union and discord by their fruits."
+          "why": "Read the supplied test of union and discord by their fruits.",
+          "shortened": [
+            "In the world everything which promotes union, harmony, and love is from God, for union is life, but everything which causes discord is from Satan and is death and annihilation."
+          ]
         },
         {
           "key": "source:ABU1199",
-          "why": "Retain the supplied account of destructive differences."
+          "why": "Retain the supplied account of destructive differences.",
+          "shortened": [
+            "Such differences as between the wolf and the sheep, for instance, between light and darkness, water and fire, are the cause of enmity. Water extinguishes fire in the same way that religious differences cause annihilation."
+          ]
         },
         {
           "key": "source:ABU3163",
@@ -414,19 +547,31 @@
         },
         {
           "key": "source:BH02486",
-          "why": "Read the supplied shooting-star image in relation to understanding and love."
+          "why": "Read the supplied shooting-star image in relation to understanding and love.",
+          "shortened": [
+            "O people! Stand firm in the Cause of God and in the praise of His Self, and when ye behold Satan seeking to ascend unto the heaven of understanding that he may discover what is in your hearts of the love of the All-Merciful, drive him away with the shooting stars."
+          ]
         },
         {
           "key": "source:BH00687",
-          "why": "Hear the Fire Tablet’s plea against pervasive whisperings."
+          "why": "Hear the Fire Tablet’s plea against pervasive whisperings.",
+          "shortened": [
+            "The whisperings of Satan have been breathed to every creature: Where is the meteor of Thy fire, O Light of the worlds?"
+          ]
         },
         {
           "key": "source:BH04089",
-          "why": "Keep the warning concerning an influence that leads astray."
+          "why": "Keep the warning concerning an influence that leads astray.",
+          "shortened": [
+            "The idolaters rush headlong toward the Evil One. Say: He dwelleth in the lowest depths of the fire. We have shown them who led them astray from the straight path that they might recognize him and seek for themselves a way of escape unto God."
+          ]
         },
         {
           "key": "source:BH06540",
-          "why": "Read the contrast between turning and heedlessness."
+          "why": "Read the contrast between turning and heedlessness.",
+          "shortened": [
+            "They who have turned unto the Countenance are the people of Baha in the Crimson Book, and they who remained heedless are among the people of the fire."
+          ]
         },
         {
           "key": "source:AB07802",
@@ -434,7 +579,10 @@
         },
         {
           "key": "source:AB09077",
-          "why": "Consider the opposed settings of the different birds."
+          "why": "Consider the opposed settings of the different birds.",
+          "shortened": [
+            "O thou who art intoxicated with the wine of the love of God! Indeed, the wings of the peacock spread out in the midmost heart of paradise and the crow croaked in the ruinous waste. The Dove sang in the thickly planted grove of faithfulness and the owl screeched in the ominous land."
+          ]
         },
         {
           "key": "source:AB03292",
@@ -442,7 +590,10 @@
         },
         {
           "key": "source:BH00848",
-          "why": "Examine revelation described as revealing discord and distinct character."
+          "why": "Examine revelation described as revealing discord and distinct character.",
+          "shortened": [
+            "No sooner had that Revelation been unveiled to men's eyes than the signs of universal discord appeared among the peoples of the world, and commotion seized the dwellers of earth and heaven, and the foundations of all things were shaken. The forces of dissension were released, the meaning of the Word was unfolded, and every several atom in all created things acquired its own distinct and separate character."
+          ]
         },
         {
           "key": "source:AB11291",
@@ -462,15 +613,24 @@
         },
         {
           "key": "source:BH06046",
-          "why": "Keep the earth’s shaking and raised cry together."
+          "why": "Keep the earth’s shaking and raised cry together.",
+          "shortened": [
+            "The earth hath been shaken in these days and the cry hath been raised between earth and heaven. Thus hath the matter been decreed from the presence of the Lord of the Throne above and of the earth below."
+          ]
         },
         {
           "key": "source:BH07993",
-          "why": "Receive the concise description of peoples in agitation."
+          "why": "Receive the concise description of peoples in agitation.",
+          "shortened": [
+            "Earthquakes have appeared and the tribes have lamented, and the people are in manifest agitation."
+          ]
         },
         {
           "key": "source:AB10436",
-          "why": "Picture foundations trembling."
+          "why": "Picture foundations trembling.",
+          "shortened": [
+            "The pillars of the earth are quaking and the foundations of humanity are trembling."
+          ]
         },
         {
           "key": "source:BH00309",
@@ -478,7 +638,10 @@
         },
         {
           "key": "source:BH03295",
-          "why": "Consider an unexpected change from misleader to guide."
+          "why": "Consider an unexpected change from misleader to guide.",
+          "shortened": [
+            "Say to 'Ali, upon him be My glory: \"The Truth hath secretly assisted the one who was occupied with abasement. The world hath changed, the mountain moveth, the sun speaketh, the vibration of the manifestation hath set Mount Sinai in motion. Glory be to God! It is as though the Resurrection is at hand and the Hour hath appeared. The one who led astray hath become a guide.\""
+          ]
         },
         {
           "key": "source:AB05838",
@@ -490,27 +653,46 @@
         },
         {
           "key": "source:BH02699",
-          "why": "Place the summons to service within a world-shaking Cause."
+          "why": "Place the summons to service within a world-shaking Cause.",
+          "shortened": [
+            "Let him who findeth himself worthy of this most exalted station arise to render this service; otherwise, let him choose for himself a deputy to manifest this Cause whereby every firm edifice hath been shaken, the mountains have been crushed, and souls have been thunderstruck."
+          ]
         },
         {
           "key": "source:BH04492",
-          "why": "Keep the veiled relation of events to divine will."
+          "why": "Keep the veiled relation of events to divine will.",
+          "shortened": [
+            "Were We to lift the veil, thou wouldst witness the people circling round the will of thy Lord, Who ruleth over all that are in the heavens and on earth."
+          ]
         },
         {
           "key": "source:BH08838",
-          "why": "Read the discernment of providence amid mischief and darkness."
+          "why": "Read the discernment of providence amid mischief and darkness.",
+          "shortened": [
+            "Darkness hath fallen upon every land, and the forces of mischief have encompassed all the nations. Through them, however, I perceive the splendors of Thy wisdom, and discern the brightness of the light of Thy providence."
+          ]
         },
         {
           "key": "source:BH00969",
-          "why": "Retain the supplied contemplative statement and blessing upon sincerity."
+          "why": "Retain the supplied contemplative statement and blessing upon sincerity.",
+          "shortened": [
+            "Although in one sense this servant observes that just as it is, is beloved, as was said before: \"Nothing in creation is more perfect than what is.\"",
+            "Blessed are the sincere ones. Today is the day of the sincere ones. Today is the day of those drawn nigh. They drink from the cups of recognition despite the people of creation, and they partake of the Kawthar of life, hidden from those who have denied the All-Merciful."
+          ]
         },
         {
           "key": "source:ABU0585",
-          "why": "Keep the reported reversal of high and low stations attributed."
+          "why": "Keep the reported reversal of high and low stations attributed.",
+          "shortened": [
+            "He replied: \"This refers to the great disturbance which is to occur in that day -- the latter day. That those souls who occupy the highest stations shall be reverted to the lowest and the souls who occupy the lowest degrees shall be promoted to the highest."
+          ]
         },
         {
           "key": "source:ABU1251",
-          "why": "Include the reported separation of family members."
+          "why": "Include the reported separation of family members.",
+          "shortened": [
+            "The power of the Word of God has rent asunder the veils - how it has united us, given complete connection to hearts, made East and West one, brought the distant near, and made the stranger intimate! Yet from another perspective it has separated brother from brother and father from son."
+          ]
         },
         {
           "key": "source:ABU1143",
@@ -518,19 +700,32 @@
         },
         {
           "key": "source:ABU2914",
-          "why": "Keep the supplied account of physical and spiritual destruction through changed teachings."
+          "why": "Keep the supplied account of physical and spiritual destruction through changed teachings.",
+          "shortened": [
+            "The abomination of desolation is the one who appears and tries to destroy the Truth and who makes some changes in the teachings of GOD. He will destroy the foundation of the teachings of GOD from among the people.",
+            "His intention is destruction, and it is divided into two parts, one physical and the other spiritual."
+          ]
         },
         {
           "key": "source:ABU2116",
-          "why": "Read the reported connection of broken promises and physical consequences."
+          "why": "Read the reported connection of broken promises and physical consequences.",
+          "shortened": [
+            "Whenever a promise is broken, it causes a commotion. For instance, suppose two nations have a disagreement has a physical effect. It causes war, and thousands of men are cut in pieces. So, when man breaks his promise to God, in other words when he \"violates the Covenant,\" the effect is physical, and calamities appear."
+          ]
         },
         {
           "key": "source:AB04248",
-          "why": "Retain the source fragment identifying internal, external and communal troubles."
+          "why": "Retain the source fragment identifying internal, external and communal troubles.",
+          "shortened": [
+            "On one side the attacks of the enemies from within, on another side the onslaught of the adversaries from without, still on another side the disunity among the friends."
+          ]
         },
         {
           "key": "source:AB00871",
-          "why": "Consider the vulnerability of apparently secure dwellings."
+          "why": "Consider the vulnerability of apparently secure dwellings.",
+          "shortened": [
+            "Consider how the diverse tribes, the many nations of the world and all our human kindred are like ants who make their nests under the layers of the earth where they store up their food. But when the sudden rains begin, when floods start to flow, then every little nest and all these homes are washed away and utterly destroyed."
+          ]
         },
         {
           "key": "source:BH00592",
@@ -546,7 +741,10 @@
         },
         {
           "key": "source:AB00265",
-          "why": "Retain the forceful imagery of overturned factions and revealed proofs."
+          "why": "Retain the forceful imagery of overturned factions and revealed proofs.",
+          "shortened": [
+            "The standards of divine unity shall be raised high, and the banners of the signs of your Glorious Lord shall wave upon the lofty edifice. The foundation of doubts shall be shaken, the veil of darkness shall be rent asunder, the dawn of clear proofs shall break forth, and the Kingdom of earth and heaven shall be illumined with the lights of His signs. You shall see the banners of the various factions brought low and their standards reversed, faces effaced and transformed, eyes vacant and sunken, hearts trembling and failing, houses empty and desolate, bodies weak and decaying, and souls plunging into the abyss."
+          ]
         },
         {
           "key": "source:BH09265",
@@ -562,19 +760,31 @@
         },
         {
           "key": "source:AB02308",
-          "why": "Keep the account of reversals in Europe within its own setting."
+          "why": "Keep the account of reversals in Europe within its own setting.",
+          "shortened": [
+            "Consider the upheavals in European lands ahead - all became hopeless, then new souls benefited. Those helpless ones suffered crises, then strangers came and seized the ball from the field."
+          ]
         },
         {
           "key": "source:ABU3492",
-          "why": "Retain the reported expectation of a European conflagration."
+          "why": "Retain the reported expectation of a European conflagration.",
+          "shortened": [
+            "The social unrest in all countries, the growing religious scepticism prophesied as antecedent to the millennium, will set aflame the whole of Europe, as is prophesied in the 1st of Daniel and in the Book of John."
+          ]
         },
         {
           "key": "source:ABU0718",
-          "why": "Read the supplied historical interpretation of Malachi as an attributed account."
+          "why": "Read the supplied historical interpretation of Malachi as an attributed account.",
+          "shortened": [
+            "In Malachi Chapter 4, verse1: Since creation the world has been controlled by wicked people who have oppressed the good people. They have tortured the messengers of God but in this time, thorough the powers of Europe and America, justice has prevailed, oppression has been suppressed. The world has been put in a better condition and thus the wicked will be burned and have no power nor influence."
+          ]
         },
         {
           "key": "source:ABU0805",
-          "why": "Keep the supplied interpretation of resurrection and war in its reported setting."
+          "why": "Keep the supplied interpretation of resurrection and war in its reported setting.",
+          "shortened": [
+            "Those who are endued with spiritual insight see in th[is] small chapter a small portrayal of the present upheaval in all parts of the world for it demonstrates the depth of wisdom and divine perception of the founder of Islam. Many Koranic commentators have written pages after page[s] on the interpretation of this chapter referring their exegesis to the day of resurrection. We are now in the Cycle of resurrection and one of its manifold phases is the Universal War."
+          ]
         },
         {
           "key": "source:ABU0868",
@@ -586,19 +796,31 @@
         },
         {
           "key": "source:ABU1001",
-          "why": "Keep the supplied prediction for a particular plain and its future inhabitants."
+          "why": "Keep the supplied prediction for a particular plain and its future inhabitants.",
+          "shortened": [
+            "Now the flood of destruction hath reached its crest. From now on there will be a period of construction. This plain will be built and will become inhabited by a happy people. It will not take a long time this prediction will become fulfilled!"
+          ]
         },
         {
           "key": "source:BH03856",
-          "why": "Read the supplied statement connecting current turmoil to recorded revelation."
+          "why": "Read the supplied statement connecting current turmoil to recorded revelation.",
+          "shortened": [
+            "The world is in turmoil and whatsoever hath been recorded and set down by the Pen of Revelation in the Sacred Tablets is now manifest and evident."
+          ]
         },
         {
           "key": "source:ABU0279",
-          "why": "Consider unintended outcomes in both peace and calamity."
+          "why": "Consider unintended outcomes in both peace and calamity.",
+          "shortened": [
+            "Sometimes a stupendous, unforeseen calamity results from the means intended for peace and quiet; and sometimes calamity leads to tranquility and rest, confusion precedes composure, and a destruction results in rebuilding."
+          ]
         },
         {
           "key": "source:ABU1022",
-          "why": "Read the reported flood interpretation with attention to present suffering and hoped-for rebuilding."
+          "why": "Read the reported flood interpretation with attention to present suffering and hoped-for rebuilding.",
+          "shortened": [
+            "Now the wisdom of this American disaster is not known to the many people of this generation, because they are too much absorbed in the immediate sufferings and hardships that it has brought in its train. When the flood is subsided and the people shake off the temporary gloom, they will then realize that after this destruction there is construction; after this suffering there will be blessing. After this death there will be life. After this darkness there will be light. After this loss there will be profit. After this devastation there will be upbuilding. After this havoc there will be prosperity. After this failure there will be success and after this war of elements there will be glorious peace and greater civilization."
+          ]
         },
         {
           "key": "source:ABU2400",
@@ -630,11 +852,17 @@
         },
         {
           "key": "source:AB00757",
-          "why": "Keep growing disorder beside the need for awakening."
+          "why": "Keep growing disorder beside the need for awakening.",
+          "shortened": [
+            "Day by day chaos and disorder in the world are increasing. Finally it will reach such a degree that human nature cannot bear it. At that time awakening will occur and souls will become aware that religion is an impregnable fortress and faith is a manifest light and divine laws, counsels and teachings are the quickener of the earth."
+          ]
         },
         {
           "key": "source:AB00947",
-          "why": "Turn the experience of factional suffering toward making amends."
+          "why": "Turn the experience of factional suffering toward making amends.",
+          "shortened": [
+            "Now that the calamity of following the fatwas of thoughtless clerics has become apparent, and the result of party divisions has become evident, if they now awaken and undertake to make amends for what was lost, they will no longer count the friends of God as strangers, and will not consider souls following their own desires as well-wishers and kind ones, will not count wolves as shepherds, and will engage in love and unity, uproot the foundation of division, and make the counsels and advice found in the sacred tablets their course of action, once again times will become sweet as sugar."
+          ]
         },
         {
           "key": "source:AB05171",
@@ -642,7 +870,10 @@
         },
         {
           "key": "source:AB12175",
-          "why": "Acknowledge recurring waves as a feature of the work."
+          "why": "Acknowledge recurring waves as a feature of the work.",
+          "shortened": [
+            "Although you are right - these events do disturb minds - yet this ship is always in the mighty ocean with continuous and successive waves, sometimes intense and sometimes mild. But calm and tranquility are impossible and unattainable. Rather, these are necessary aspects of the work and nothing new."
+          ]
         },
         {
           "key": "source:AB10937",
@@ -650,7 +881,10 @@
         },
         {
           "key": "source:BH05695",
-          "why": "Keep patience through the stated duration of disorder."
+          "why": "Keep patience through the stated duration of disorder.",
+          "shortened": [
+            "For a time it shall continue thus, even as the duration thereof hath been revealed and recorded in the Book of God. But be not thou sorrowful, for the effulgences of the Sun of Truth shall assuredly absorb the superfluous moistures of nature and shall gather together the scattered letters."
+          ]
         },
         {
           "key": "source:AB02272",
@@ -662,7 +896,10 @@
         },
         {
           "key": "source:ABU2714",
-          "why": "Keep the reported growth of peace-loving people."
+          "why": "Keep the reported growth of peace-loving people.",
+          "shortened": [
+            "However, afterwards, the number of peace-loving people will grow considerably, and the commotions, uproars and the mighty tumult will precipitate [universal] peace."
+          ]
         },
         {
           "key": "source:ABU2393",
@@ -674,7 +911,10 @@
         },
         {
           "key": "source:AB02063",
-          "why": "Notice that the clouds have only partly dissipated."
+          "why": "Notice that the clouds have only partly dissipated.",
+          "shortened": [
+            "Praise to be God, the gloomy clouds of war have been partly dissipated from the horizon of the world. The hope is entertained that gradually they will utterly vanish and rest and comfort will be established."
+          ]
         },
         {
           "key": "source:ABU1515",
@@ -686,23 +926,38 @@
         },
         {
           "key": "source:ABU1736",
-          "why": "Retain the supplied account of communal peace amid conflict."
+          "why": "Retain the supplied account of communal peace amid conflict.",
+          "shortened": [
+            "The whole world has fallen upon each other. There is killing and plunder, there is beating, there is destruction. We, praise be to God, are in perfect love and peace, apart from all these conflicts and struggles."
+          ]
         },
         {
           "key": "source:AB00130",
-          "why": "Read the claim of preservation amid a universal tempest."
+          "why": "Read the claim of preservation amid a universal tempest.",
+          "shortened": [
+            "This universal tempest was so terrifying, frightening and dreadful that reason could not conceive that this oppressed community would remain protected and preserved in all lands. This is naught but through the extraordinary conquering power of the Desired One - may my spirit be sacrificed for His loved ones' footsteps."
+          ]
         },
         {
           "key": "source:AB00161",
-          "why": "Connect preservation with the community’s peaceful purposes."
+          "why": "Connect preservation with the community’s peaceful purposes.",
+          "shortened": [
+            "In any case, all the governments and peoples of the world have fallen into grievous torment from the fire of this universal war. The foundation of humanity was shaken and the human world fell into a great crisis. All peoples became the target of the arrows of calamities. Yet through the infinite favors of the Blessed Beauty, this oppressed party remained protected and preserved in all regions, and this is due to the blessedness of the divine teachings, for all nations and governments are certain that the Party of God has no purpose or intention except peace, reconciliation, the unity of the human world, and fellowship and kindness."
+          ]
         },
         {
           "key": "source:AB00415",
-          "why": "Keep the contrast between wider decline and the community’s ascent."
+          "why": "Keep the contrast between wider decline and the community’s ascent.",
+          "shortened": [
+            "Observe that although this terrible war has uprooted the foundation of all peoples and all nations have fallen into great turmoil and compared to before have become disordered, have declined and reached a state of fall and descent - except these supplicating, imploring souls who are in the shadow of the favor of the Blessed Beauty and are day by day ascending and progressing while all others are falling and declining."
+          ]
         },
         {
           "key": "source:AB00937",
-          "why": "Retain the stated experience of safety through war."
+          "why": "Retain the stated experience of safety through war.",
+          "shortened": [
+            "Praise be to God that in these years of upheaval you have been protected in divine safekeeping, while most people are in the utmost turmoil and distress and all regions of the world have been consumed and inflamed in the fire of bloodshed. Yet the friends of God, through the blessedness of the divine teachings, have passed through the days of war in Asia, America and Africa in perfect peace and security, protected from all calamities and full of joy and delight."
+          ]
         },
         {
           "key": "source:AB02221",
@@ -710,19 +965,31 @@
         },
         {
           "key": "source:AB00003",
-          "why": "Examine persecution’s unintended effect on public inquiry."
+          "why": "Examine persecution’s unintended effect on public inquiry.",
+          "shortened": [
+            "Now since the doctors of Persia have no administrative capacity, they thought that violence and interference would cause extinction and silence and lead to suppression and oblivion; whereas interference in matters of conscience causes stability and firmness and attracts the attention of men's sight and souls; which fact has received experimental proof many times and often. So this punishment caused notoriety, and most men fell to making inquiry."
+          ]
         },
         {
           "key": "source:AB00198",
-          "why": "Trace awareness spreading through attempts to suppress it."
+          "why": "Trace awareness spreading through attempts to suppress it.",
+          "shortened": [
+            "Indeed, the attacks and the obstructiveness of the ignorant but cause the Word of God to be exalted, and spread His signs and tokens far and wide. Were it not for this opposition by the disdainful, this obduracy of the slanderers, this shouting from the pulpits, this crying and wailing of great and small alike, these accusations of unbelief levelled by the ignorant, this uproar from the foolish -- how could news of the advent of the Primal Point and the bright dawning of the Day-Star of Baha ever have reached to east and west?"
+          ]
         },
         {
           "key": "source:AB00541",
-          "why": "Consider the wisdom claimed in opposition increasing fame."
+          "why": "Consider the wisdom claimed in opposition increasing fame.",
+          "shortened": [
+            "If their instigation and corruption did not exist, the fame of God's Cause would not be raised. In this there is wisdom for those who have insight."
+          ]
         },
         {
           "key": "source:BH05984",
-          "why": "Keep reassurance amid sedition beside confidence in the Word."
+          "why": "Keep reassurance amid sedition beside confidence in the Word.",
+          "shortened": [
+            "Say: Be not grieved by the fire of sedition and corruption that has been kindled through the hardness of men's hearts. I swear by the light of God's countenance, shining and manifest from the Most Exalted Horizon, these matters have been and are the cause of the exaltation of the Word of God."
+          ]
         },
         {
           "key": "source:BH01085",
@@ -734,7 +1001,10 @@
         },
         {
           "key": "source:ABU0707",
-          "why": "Keep the reported account of opposition intensifying influence."
+          "why": "Keep the reported account of opposition intensifying influence.",
+          "shortened": [
+            "You observed what severe trials and tribulations befell this Cause in Iran. The Iranians thought this Cause had human foundations and that through government and people's opposition, its mention would be erased and forgotten from the pages of hearts. They did not understand that opposition, tribulation, killing of souls and great martyrdom would increase the influence of God's Cause and exalt the Word of God. Therefore the more they tried to extinguish this divine lamp, the brighter it became."
+          ]
         },
         {
           "key": "source:ABU2464",
@@ -742,11 +1012,17 @@
         },
         {
           "key": "source:BH04432",
-          "why": "Read the supplied fire image of opposition increasing ardor."
+          "why": "Read the supplied fire image of opposition increasing ardor.",
+          "shortened": [
+            "Thus, even after the opposition and objection of kings and others, in every age the fire of the divine Tree hath enkindled the hearts of the servants, such that now in most lands the standards of His Cause are raised up. The murky waters of the objections of heedless souls cannot extinguish this fire; rather they cause it to blaze more fiercely."
+          ]
         },
         {
           "key": "source:AB00367",
-          "why": "Confront the scale of resistance described in the source."
+          "why": "Confront the scale of resistance described in the source.",
+          "shortened": [
+            "Observe how different nations of the world are openly and evidently in constant war with the Blessed Cause, sparing no means to extinguish the kindled fire of God."
+          ]
         },
         {
           "key": "source:ABU0181",
@@ -754,15 +1030,25 @@
         },
         {
           "key": "source:AB00708",
-          "why": "Keep the bats’ lament over a lost market as polemical imagery."
+          "why": "Keep the bats’ lament over a lost market as polemical imagery.",
+          "shortened": [
+            "O thou who speaketh the praise of God!",
+            "When the Morn of Eternity illumined the horizon of the world, the bats were scattered, crying \"Woe unto us! No scope or field remains for us, our shop and market are ruined!\""
+          ]
         },
         {
           "key": "source:AB02085",
-          "why": "Hear the attempt to interrupt life-giving breezes."
+          "why": "Hear the attempt to interrupt life-giving breezes.",
+          "shortened": [
+            "O companions of `Abdu'l-Baha! The people of malice have stretched forth the hand of aggression, perpetrated injustices and acts of cruelty, and raised a clamor and cry that they might interrupt the life-giving breezes blowing from the paradise of Abha and conceal the lights shining from the Daystar of Truth."
+          ]
         },
         {
           "key": "source:ABU1543",
-          "why": "Retain the reported uprooting of planted trees."
+          "why": "Retain the reported uprooting of planted trees.",
+          "shortened": [
+            "Wherever We go, We kindle a light. Our enemies, the violators of the Covenant, however, exert to extinguish that light. Wherever We plant a tree, our rebellious acquaintances try to uproot it."
+          ]
         },
         {
           "key": "source:AB00174",
@@ -774,15 +1060,25 @@
         },
         {
           "key": "source:BH00225",
-          "why": "Hold personal reassurance beside objections, fear, pride and wealth."
+          "why": "Hold personal reassurance beside objections, fear, pride and wealth.",
+          "shortened": [
+            "Say: Beware, O people of Baha, lest the strong ones of the earth rob you of your strength, or they who rule the world fill you with fear. Put your trust in God, and commit your affairs to His keeping. He, verily, will, through the power of truth, render you victorious, and He, verily, is powerful to do what He willeth, and in His grasp are the reins of omnipotent might.",
+            "How strange, how utterly strange, that most of the servants are seen to be deprived. Some are held back by the intoxication of pride, others by the intoxication of wealth, some by the conditions of self and desire, and yet others by the doubts and intimations of the divines, together with the turning away, objections and denial of the people of the earth."
+          ]
         },
         {
           "key": "source:BH00007",
-          "why": "Receive consolation when offered revelation is refused."
+          "why": "Receive consolation when offered revelation is refused.",
+          "shortened": [
+            "Grieve not if none be found to accept the crimson wine proffered by Thy snow-white hand and to seize it in the name of Thy Lord, the Most Exalted, the Most High -- He Who hath appeared again in His name, the Most Glorious.  Leave this people unto themselves, and repair unto the Tabernacle of majesty and glory, wherein Thou shalt encounter a people whose faces shine as brightly as the sun in its noontide splendour, and who praise and extol their Lord in this Name that hath arisen, in the plenitude of might and power, to assume the throne of independent sovereignty."
+          ]
         },
         {
           "key": "source:BH07999",
-          "why": "Keep the call not to be saddened by oppression."
+          "why": "Keep the call not to be saddened by oppression.",
+          "shortened": [
+            "O people of God! Let not the oppression of the oppressors sadden you. The Cause of God hath encompassed the world. Soon shall the standard of divine sanctification be raised through you and in your name throughout the world."
+          ]
         },
         {
           "key": "source:AB01203",
@@ -802,23 +1098,38 @@
         },
         {
           "key": "source:AB02412",
-          "why": "Receive the heavenly armies image in its devotional setting."
+          "why": "Receive the heavenly armies image in its devotional setting.",
+          "shortened": [
+            "O promulgator of the Covenant! The hosts of the Abha Kingdom and the legions of the Most Exalted Realm are successively rushing down from the heavenly realm. The ranks and multitudes of the peoples of the nether world are consecutively routed, condemned and broken. Armies like waves are continuous and tumultuous forces are successive. With this overwhelming might and resplendent majesty and conquering strength and perfect power, assuredly soon \"necks shall be humbled and voices hushed.\""
+          ]
         },
         {
           "key": "source:AB01821",
-          "why": "Keep the assurance of unseen assistance to the steadfast."
+          "why": "Keep the assurance of unseen assistance to the steadfast.",
+          "shortened": [
+            "O friends steadfast in the Covenant and Testament! A hundred glad tidings that the hosts of the Abha Kingdom and the unseen legions have been dispatched by the Beauty of Baha to the East and West, and they have broken and continue to break the ranks throughout all regions."
+          ]
         },
         {
           "key": "source:AB09623",
-          "why": "Read the Kingdom’s armies as the source’s spiritual imagery."
+          "why": "Read the Kingdom’s armies as the source’s spiritual imagery.",
+          "shortened": [
+            "The Kingdom hath advanced with its hosts, retinue, armies and banners, and cast its waves upon the desert of the contingent world. It hath pitched its tents in the valley of existence with its forces and legions, and soon shall its spiritual armies seize the pillars of the world."
+          ]
         },
         {
           "key": "source:AB04022",
-          "why": "Retain the concise description of routed armies."
+          "why": "Retain the concise description of routed armies.",
+          "shortened": [
+            "The battle lines of nations are being successively broken, and thousands of armies of peoples are repeatedly being routed moment by moment."
+          ]
         },
         {
           "key": "source:AB05585",
-          "why": "Let the prayer for light’s victory join this sequence."
+          "why": "Let the prayer for light’s victory join this sequence.",
+          "shortened": [
+            "Therefore, O Lord of Hosts, confirm us so that the army of light may achieve victory and the forces of darkness may be defeated."
+          ]
         },
         {
           "key": "source:AB00941",
@@ -826,15 +1137,24 @@
         },
         {
           "key": "source:AB05570",
-          "why": "Keep the paired historical figures within that comparison."
+          "why": "Keep the paired historical figures within that comparison.",
+          "shortened": [
+            "In all the worlds, who is the victor? Yazid or the noble 'Ali, the Jews or the promised Christ, the powerful Herod or John the chaste, the prophet Noah or the foolish people, the illustrious Abraham or the despised Nimrod, and so forth."
+          ]
         },
         {
           "key": "source:ABU1487",
-          "why": "Read the reported contrast between Napoleon’s force and Christ’s love."
+          "why": "Read the reported contrast between Napoleon’s force and Christ’s love.",
+          "shortened": [
+            "Napoleon established his kingdom through the power of oppression while Christ established His through the power of the love of God. A hundred thousand Napoleons may be effaced but the Kingdom of Christ will remain forever."
+          ]
         },
         {
           "key": "source:ABU1438",
-          "why": "Keep the reported crown of thorns beside spiritual victory."
+          "why": "Keep the reported crown of thorns beside spiritual victory.",
+          "shortened": [
+            "Our own 'war' is good because it conquers all. When a crown of thorns was placed on the head of Christ, He saw with His own eyes the crowns of kings under His feet. Now, when I look, I see all the powers and nations defeated, scattered and lost in the wilderness while the Cause of God is victorious over all and subdues all."
+          ]
         },
         {
           "key": "source:ABU2949",
@@ -842,15 +1162,24 @@
         },
         {
           "key": "source:ABU1757",
-          "why": "Read the reported energy impelling service to fellow human beings."
+          "why": "Read the reported energy impelling service to fellow human beings.",
+          "shortened": [
+            "Although invisible, yet it works its way through the hearts of the people, impelling them to rise and serve their fellowmen. It is the most irresistible, irrepressible energy in the world of creation. In a twinkling of an eye it removes the most insurmountable barriers and defeats the most determined army of opposition."
+          ]
         },
         {
           "key": "source:ABU2726",
-          "why": "Retain the reported revolution in hearts and experience of assistance."
+          "why": "Retain the reported revolution in hearts and experience of assistance.",
+          "shortened": [
+            "Observe how the power of the Cause of God has created a tumult in the hearts and what a revolution it has produced. See how the aid and assistance of the Abha Beauty have reached us constantly and invariably the lights of victory have shone from the supreme horizon."
+          ]
         },
         {
           "key": "source:AB02718",
-          "why": "Read victory through the conquering of hearts."
+          "why": "Read victory through the conquering of hearts.",
+          "shortened": [
+            "The confirmations of the Ancient Beauty are in every moment the intimate companion, and the victory of the Greatest Name in every breath conquers the hearts of the people of the world."
+          ]
         },
         {
           "key": "source:ABU2782",
@@ -858,27 +1187,45 @@
         },
         {
           "key": "source:AB06352",
-          "why": "Read the creatures opposing celestial powers as figurative polemic."
+          "why": "Read the creatures opposing celestial powers as figurative polemic.",
+          "shortened": [
+            "What ignorance is this, that a handful of dust should seek to eclipse the stars of heaven, that a few bats should pursue the concealment of the rays of the sun, that contemptible sparrows should seek the abasement of the soaring vulture of the ethereal realm, that lowly worms should seek to prevent the sweet fragrance of Paradise, that abject kites should desire the defeat of the glorious eagle, and that a weak gnat should covet the throne of Solomon, the king of existence."
+          ]
         },
         {
           "key": "source:AB02175",
-          "why": "Hear the insistence that attempted extinction cannot defeat divine light."
+          "why": "Hear the insistence that attempted extinction cannot defeat divine light.",
+          "shortened": [
+            "They desire to extinguish God's light with their mouths, but God refuses except to perfect His light, though the unbelievers detest it."
+          ]
         },
         {
           "key": "source:AB03004",
-          "why": "Consider clouds scattered by an effulgence."
+          "why": "Consider clouds scattered by an effulgence.",
+          "shortened": [
+            "The ignorant people and the indolent masses imagined that the accumulated clouds and piled-up mists would darken the Sun at the zenith of bounties and conceal it in the west of decline. But with one burning effulgence from the Dawning-Place of the unseen Kingdom, He so dissolved and scattered those dense clouds that minds were amazed."
+          ]
         },
         {
           "key": "source:AB04689",
-          "why": "Compare obstructing a spring with obstructing a sea."
+          "why": "Compare obstructing a spring with obstructing a sea.",
+          "shortened": [
+            "The darkness of negligence shall not darken the light of truth, especially after it has set Africa and America ablaze. It may be possible and easy to block a spring, but what can be done about the sea? Cutting off the water of a stream is feasible, but how can one obstruct a mighty flood?"
+          ]
         },
         {
           "key": "source:AB07585",
-          "why": "Keep the advancing ocean and rays that cannot be stopped."
+          "why": "Keep the advancing ocean and rays that cannot be stopped.",
+          "shortened": [
+            "O you who are stirred by the breezes of grace! In this Most Great Resurrection, when the services to the Ancient Beauty have set the heart of the world in motion, a group of the frozen and dead have imagined they can prevent the Most Great Sea from its advancing waves, or deprive the Most Glorious Orb of its dawn-time rays, or deny the horizons of nations from the continuous outpourings of this daybreak. Vain indeed are their deeds."
+          ]
         },
         {
           "key": "source:ABU1465",
-          "why": "Read the supplied image of waves overcoming artificial barriers."
+          "why": "Read the supplied image of waves overcoming artificial barriers.",
+          "shortened": [
+            "How thoughtless are those people whose aim is to [down] this Great Ocean. They construct around it with their puny efforts dams and fortifications, ramparts and embankments but the perennial waves of the Great Ocean beat against them and slowly, slowly, surely, unmistakably wash them all away into its own body, absorb them and leave behind not a single trace."
+          ]
         },
         {
           "key": "source:ABU0785",
@@ -894,7 +1241,10 @@
         },
         {
           "key": "source:BH05413",
-          "why": "Read the prospect of light without malice’s veil."
+          "why": "Read the prospect of light without malice’s veil.",
+          "shortened": [
+            "Although the dust of malice hath prevented the light from shining forth, yet the time shall come when it will appear without any veil and illumine the whole world."
+          ]
         },
         {
           "key": "source:BH05647",
@@ -914,7 +1264,10 @@
         },
         {
           "key": "source:AB09376",
-          "why": "Read the Word as champion overcoming ignorance."
+          "why": "Read the Word as champion overcoming ignorance.",
+          "shortened": [
+            "O Rustam! The people of tyranny desired to overthrow the divine ordinance. The divine champion, the Word of God, entered the arena, routed the army of ignorance, and with the rays of the Sun of Truth scattered the hosts of darkness. This radiant effulgence shone forth like the dawn, and the celestial Sun cast its rays. Day by day this light grows brighter and the darkness of ignorance is dispelled."
+          ]
         },
         {
           "key": "source:ABU0615",
@@ -926,15 +1279,25 @@
         },
         {
           "key": "source:AB08850",
-          "why": "Ask what can dispel darkness and separation."
+          "why": "Ask what can dispel darkness and separation.",
+          "shortened": [
+            "For this pitch darkness a dispeller is needed, and for these devastating trials a remover is required. For darkness there can be no dispeller save light, and for the sorrowful darkness of night there can be no remover save the luminous lamp.",
+            "Thus did the Lord kindle the lamp of guidance, and the heat of its blazing fire consumed the veil of separation from sincere seekers."
+          ]
         },
         {
           "key": "source:AB04162",
-          "why": "Question the assumption that estrangement is an inevitable human condition."
+          "why": "Question the assumption that estrangement is an inevitable human condition.",
+          "shortened": [
+            "At a time when humanity was surrounded by the darkness of estrangement and alienation, when dissension, hatred, enmity and ignorance stalked the world, when negligence, selfishness and the rapacity of wild beasts had become common among men, when the horizon of the world had become so dim that everyone had forgotten about the existence of light and thought darkness an essential condition of humanity, something from which it was absolutely impossible to be free, suddenly the light of truth did shine, the horizon of the world was illumined and its rays were spread in the east and the west."
+          ]
         },
         {
           "key": "source:AB08712",
-          "why": "Read the two candles addressed in the breaking dawn."
+          "why": "Read the two candles addressed in the breaking dawn.",
+          "shortened": [
+            "O ye two candles of the love of God! The world of existence was darkness, and the contingent world was in blindness and gloom. Darkness was piled upon darkness, and error upon error. Light was wholly absent, and bewilderment and confusion were present. Then did the resplendent dawn break, and the brilliant Sun rent asunder the veil. The light of truth shone forth, and the glad tidings of union arrived."
+          ]
         },
         {
           "key": "source:AB00083",
@@ -942,11 +1305,18 @@
         },
         {
           "key": "source:AB09706",
-          "why": "Receive the illumination of souls and horizons."
+          "why": "Receive the illumination of souls and horizons.",
+          "shortened": [
+            "O thou who art stirred by the breaths of God!",
+            "When the light of His Essence shone forth from the lamp of oneness, both the horizons and the souls were illumined, and the darksome dust became the dawning-place of the signs of the All-Merciful."
+          ]
         },
         {
           "key": "source:AB07546",
-          "why": "Read the shining beams from divine unity."
+          "why": "Read the shining beams from divine unity.",
+          "shortened": [
+            "The shining beams of light emanating from the Sun of Truth have illumined the horizons of the world of creation and the rays issuing forth from the Kingdom of divine unity have lit up the realm of being."
+          ]
         },
         {
           "key": "source:AB11012",
@@ -954,7 +1324,10 @@
         },
         {
           "key": "source:AB07131",
-          "why": "Consider the claim that reality will overcome dogma."
+          "why": "Consider the claim that reality will overcome dogma.",
+          "shortened": [
+            "This is the century in which the Divine Spirit pervades all things. This is the Age of Reality. The Sun of Reality will shine with such intensity as to entirely dispel the darkness of dogmas."
+          ]
         },
         {
           "key": "source:ABU0644",
@@ -962,15 +1335,24 @@
         },
         {
           "key": "source:ABU1590",
-          "why": "Hear the reported hope of unity after suppression."
+          "why": "Hear the reported hope of unity after suppression.",
+          "shortened": [
+            "The darkness of suppression will disappear and the Light of Unity will shine."
+          ]
         },
         {
           "key": "source:ABU2031",
-          "why": "Read the reported dawn within hearts."
+          "why": "Read the reported dawn within hearts.",
+          "shortened": [
+            "The darkness of this gloomy night shall pass away. Again the Sun of Reality will dawn from the horizon of the hearts."
+          ]
         },
         {
           "key": "source:AB05820",
-          "why": "Consider concealment followed by manifestation."
+          "why": "Consider concealment followed by manifestation.",
+          "shortened": [
+            "That darkness was transformed into light and that concealment led to manifestation. The lights of truth illumined the horizons and the fragrances from the garden of the All-Merciful perfumed all creation."
+          ]
         },
         {
           "key": "source:BH10848",
@@ -978,7 +1360,10 @@
         },
         {
           "key": "source:AB01193",
-          "why": "Keep first twilight distinct from fuller illumination."
+          "why": "Keep first twilight distinct from fuller illumination.",
+          "shortened": [
+            "Now this infinite divine bounty is like the morning twilight appearing from the Dawning-Place, and soon the Sun of Reality will shed such radiance that the world will become illumined and East and West will become brilliant and radiant."
+          ]
         },
         {
           "key": "source:AB06633",
@@ -986,11 +1371,17 @@
         },
         {
           "key": "source:AB02682",
-          "why": "Read the passing clouds and the hope of a garden."
+          "why": "Read the passing clouds and the hope of a garden.",
+          "shortened": [
+            "Soon these dark clouds will disperse and this dust will settle and the true dawn will shine forth and the real sun will spread its rays. The world will become the gardens of the All-Merciful and the earth will become the Most Glorious Paradise."
+          ]
         },
         {
           "key": "source:AB08462",
-          "why": "Receive the image of the earth’s transformation."
+          "why": "Receive the image of the earth’s transformation.",
+          "shortened": [
+            "Thus will the dark world become luminous, the satanic field transformed into the courts of the Merciful, the mound of earth become the mound of Heaven and the terrestrial globe the Eternal Rose-garden."
+          ]
         },
         {
           "key": "source:AB05556",
@@ -998,11 +1389,17 @@
         },
         {
           "key": "source:AB04998",
-          "why": "Read the spiritual spring through human trees and new fruits."
+          "why": "Read the spiritual spring through human trees and new fruits.",
+          "shortened": [
+            "The Sun of the divine world hath dawned from the horizon of the temperate, spring equinox, resurrecting into new life the countries of the orient and the occident. The mountain and prairie of the Ideal world are adorned with green and verdant vegetation. The trees of the temples of humanity are clothed with the garments of New Bestowals and be gemmed with New blossoms and fruits. A most tremendous stir or motion is witnessed in the world of creation. All the phenomena are in the process of reformation and regeneration and all the creatures are chanting the verses of oneness with their tongues of consciousness and reality."
+          ]
         },
         {
           "key": "source:AB01687",
-          "why": "Keep the well-rooted tree’s continuing fruitfulness."
+          "why": "Keep the well-rooted tree’s continuing fruitfulness.",
+          "shortened": [
+            "Rather, this heavenly tree becomes more firmly rooted day by day, puts forth branches, displays blossoms, and yields goodly fruits. It is like the good tree mentioned in the verse: \"A goodly word is as a goodly tree, whose root is firmly fixed, and its branches reach to heaven, giving its fruit at all times.\""
+          ]
         },
         {
           "key": "source:AB12461",
@@ -1010,7 +1407,10 @@
         },
         {
           "key": "source:AB01867",
-          "why": "Retain the particular hope for Turkistan and Transoxiana."
+          "why": "Retain the particular hope for Turkistan and Transoxiana.",
+          "shortened": [
+            "Now that the Sun of Reality has risen and the lights of the Most Great Luminary have shone upon Turkistan, the breeze of favor is wafting and the divine fragrances are perfuming the nostrils. Turkistan must become a rose garden and Transoxiana must receive its portion and share from the Most Great Sea."
+          ]
         },
         {
           "key": "source:AB09441",
@@ -1026,15 +1426,24 @@
         },
         {
           "key": "source:AB12286",
-          "why": "Read the hope addressed to Germany."
+          "why": "Read the hope addressed to Germany.",
+          "shortened": [
+            "My hope is that the region of Germany may become, through the effulgent rays of the Sun of Reality, a supreme paradise and a divine realm."
+          ]
         },
         {
           "key": "source:AB08021",
-          "why": "Keep the hope for Paris within its stated setting."
+          "why": "Keep the hope for Paris within its stated setting.",
+          "shortened": [
+            "Even in the center of materialism, that is, Paris, the divine teachings have been established, and it is hoped that the spirit of holiness will overthrow the foundation of every devil, the lights of truth will shine forth, and the darkness will be dispelled."
+          ]
         },
         {
           "key": "source:ABU2682",
-          "why": "Receive the reported emergence of a universal consciousness."
+          "why": "Receive the reported emergence of a universal consciousness.",
+          "shortened": [
+            "The thoughts of human brotherhood are permeating all regions. New ideals are stirring the depths of hearts and a new spirit of universal consciousness is being profoundly felt by all men."
+          ]
         },
         {
           "key": "source:ABU2438",
@@ -1046,23 +1455,39 @@
         },
         {
           "key": "source:ABU1237",
-          "why": "Keep the supplied appeal to moral education amid political division."
+          "why": "Keep the supplied appeal to moral education amid political division.",
+          "shortened": [
+            "You must think now of spiritual affairs. Try to enlighten the morals and try to spread the teachings of Baha'u'llah, so that this fire of dissension which is burning in the world may be extinguished. It is impossible for the different nations and parties which exist now - such as socialists, Bolshevists, the extremists or radicals, strikers and those who wish for absolute authority, to leave these dissensions and be united - save through Baha'u'llah's teachings."
+          ]
         },
         {
           "key": "source:ABU1189",
-          "why": "Read the supplied search for a lasting remedy."
+          "why": "Read the supplied search for a lasting remedy.",
+          "shortened": [
+            "Spiritual Light is the only thing that will banish the present gross darkness and our duty is to find the centre of that Light. All other remedies are palliative and not permanent."
+          ]
         },
         {
           "key": "source:ABU0504",
-          "why": "Hear the supplied musical contrast between destruction and reconciliation."
+          "why": "Hear the supplied musical contrast between destruction and reconciliation.",
+          "shortened": [
+            "Today from all the countries of the world discordant and harsh voices are being raised which have a jarring and disagreeable effect upon the hearts. Above and beyond this dissonant babel, the harmonious melody of the Kingdom of Abha is poured forth by the Bird of Paradise to calm the contentious spirits and soothe the wrangling hearts. How sad it is that one is forced to listen to the strain of the martial music sung by the soldiers as they march, column after column disappearing forever in the darkness of the night of destruction! Will they not lend their ears to the celestial concert played by the Angels of Peace?"
+          ]
         },
         {
           "key": "source:ABU0325",
-          "why": "Keep the supplied encouragement to persevere in love and peace."
+          "why": "Keep the supplied encouragement to persevere in love and peace.",
+          "shortened": [
+            "Those who serve the Cause of Love are confirmed. Let nothing discourage you. Cry out the word Peace. Push ahead. Seest thou not the light?\""
+          ]
         },
         {
           "key": "source:ABU2008",
-          "why": "Read the supplied appeal for mutual affection amid turbulent conditions."
+          "why": "Read the supplied appeal for mutual affection amid turbulent conditions.",
+          "shortened": [
+            "But the donkeys kick, the dogs bark, the wolves tear other animals to pieces and the beasts of prey play havoc in the animal Kingdom. We must not be like the latter but exercise towards each other perfect love and amity ...",
+            "The earth has periodic waves like unto the waves of the Sea. The rising of one earth-wave covers under it all these wars, revolutions, contentions and strives."
+          ]
         },
         {
           "key": "source:ABU1474",
@@ -1070,7 +1495,10 @@
         },
         {
           "key": "source:ABU1192",
-          "why": "Keep the supplied account of growth through working for others."
+          "why": "Keep the supplied account of growth through working for others.",
+          "shortened": [
+            "There is no such thing as self-development. Growth only comes by working for others."
+          ]
         },
         {
           "key": "source:ABU2368",
@@ -1090,11 +1518,17 @@
         },
         {
           "key": "source:AB03678",
-          "why": "Cultivate composure and service amid other people’s tumult."
+          "why": "Cultivate composure and service amid other people’s tumult.",
+          "shortened": [
+            "I hope that through the confirmations of the Abha Kingdom in these times when all parties are in tumult and upheaval, the friends of God may arise in perfect calm and composure and attraction to the divine fragrances and enkindlement with the fire of the love of God, and may become so radiant as to illumine both East and West."
+          ]
         },
         {
           "key": "source:AB04035",
-          "why": "Make the lamp’s brightness a present responsibility."
+          "why": "Make the lamp’s brightness a present responsibility.",
+          "shortened": [
+            "But now is a time when the lamps must be full-flamed and kindled and brilliant so they may resist and dispel the accumulated darkness."
+          ]
         },
         {
           "key": "source:AB09213",
@@ -1102,15 +1536,24 @@
         },
         {
           "key": "source:BH04895",
-          "why": "Keep steadfastness amid competing calls."
+          "why": "Keep steadfastness amid competing calls.",
+          "shortened": [
+            "Convey greetings to all the friends from the True One and say: What is beloved today is steadfastness, for the call of the All-Merciful is raised and likewise the cry of Satan."
+          ]
         },
         {
           "key": "source:BH07231",
-          "why": "Receive the image of drinking steadfastness."
+          "why": "Receive the image of drinking steadfastness.",
+          "shortened": [
+            "Today the Call of God is raised high, and likewise the cawing of Satan. Strive ye that ye may drink from the Kawthar of steadfastness."
+          ]
         },
         {
           "key": "source:BH08146",
-          "why": "Read firmness as protection against misleading influences."
+          "why": "Read firmness as protection against misleading influences.",
+          "shortened": [
+            "That which is of paramount importance today is steadfastness in the Cause of God, inasmuch as the satans of the earth have been and are engaged in misleading and seducing the people."
+          ]
         },
         {
           "key": "selection:cc918ba0abe356d7da7a17e9",
@@ -1138,15 +1581,26 @@
         },
         {
           "key": "selection:6f83541d6833a190b34f764e",
-          "why": "Keep future hope beside the acknowledged limits of present understanding."
+          "why": "Keep future hope beside the acknowledged limits of present understanding.",
+          "shortened": [
+            "Who knows but that out of the turmoil which agitates the face of present-day society there may not emerge, sooner than we expect, the World-Order of Baha'u'llah, the bare outline of which is being but faintly discerned among the world-wide communities that bear His name?",
+            "Surely, we stand too near the colossal edifice His hand has reared to be able, at the present stage of the evolution of His Revelation, to claim to be able even to conceive the full measure of its promised glory."
+          ]
         },
         {
           "key": "selection:c96ae596e6c63026992ed4ba",
-          "why": "Read the supplied tide image as encouragement to work toward renewal."
+          "why": "Read the supplied tide image as encouragement to work toward renewal.",
+          "shortened": [
+            "This is the ebb of the tide. The Baha'is know that the tide will turn and come in, after mankind has suffered, with mighty waves of faith and devotion. The people will enter the Cause of God in troops, and the whole condition will change. The Baha'is see this new condition which will take place, as one on the mountain-top sees the first glimpse of the dawn, before others are aware of it; and it is toward that that the Baha'is must work."
+          ]
         },
         {
           "key": "selection:fcd32a8b0c7c86231455d747",
-          "why": "Retain the supplied call to prepare through sustained teaching."
+          "why": "Retain the supplied call to prepare through sustained teaching.",
+          "shortened": [
+            "The Faith advances, not at a uniform rate of growth, but in vast surges, precipitated by the alternation of crisis and victory.",
+            "This is the time for which we must now prepare ourselves; this is the hour whose coming it is our task to hasten."
+          ]
         },
         {
           "key": "selection:27139a6571e30e207da80a9f",
@@ -2763,7 +3217,7 @@
       "id": "98B67B70516949FD856C36A52AE23098",
       "slug": "purityheart",
       "displayTitle": "A pure heart: seeing clearly and serving freely",
-      "introduction": "What changes when the heart becomes less occupied with itself? The opening counsel to possess a pure, kindly, radiant heart unfolds here into questions about perception, intention, and conduct. Purity includes freedom from malice, prejudice, hypocrisy, and the desire to claim credit for generosity; it is expressed in justice, trustworthy relationships, and service to the common good. The recurring mirror image suggests a capacity to receive and reflect light, while the image of childhood raises the possibility of a simplicity attained through mature understanding. Connected subjects on deeds, sincerity in teaching, prayer, and the soul as a mirror help trace these relationships. Psalm 24 joins inward purity with clean hands and truthful speech; the Dhammapada relates the quality of mind to speech, action, and their consequences. Read together, these passages invite us to explore how inward renewal might make us more receptive to truth and more thoughtfully present to others.",
+      "introduction": "Bahá’u’lláh’s first counsel is to possess a pure, kindly and radiant heart, and He calls it a sovereignty no one can take away. Purity here is not pallor or withdrawal. It means a heart cleared of malice, envy and prejudice, a tongue that does not deceive, and a hand that will not reach for a neighbour’s property even in hunger. ‘Abdu’l-Bahá presses the question deeper, into motive: the help that quietly remembers it was given loses its worth at the moment the thought occurs. The polished mirror runs through His teaching as the picture of what a cleansed heart becomes, able to receive light and give it back, and He insists that a grown person can win a child’s simplicity through strength of understanding rather than innocence. Psalm 24 joins clean hands to a pure heart and truthful speech, and the Dhammapada traces every word and act to the mind behind it. The way onward leads through the soul as a mirror, through goodly deeds that make sincerity visible, and through prayer for a heart kept clean.",
       "arc": "Begin with kindness and freedom from prejudice; examine motives through concrete conduct; explore the mirror and mature simplicity; investigate purity as a condition of understanding; follow prayer and remembrance into steadfast, generous service.",
       "order": [
         {
@@ -2772,23 +3226,38 @@
         },
         {
           "key": "source:BH00698",
-          "why": "Define defilement through harm and self-admiration."
+          "why": "Define defilement through harm and self-admiration.",
+          "shortened": [
+            "Say: O children of dust! He Who is the Spirit of Purity saith: In this glorious Day whatsoever can purge you from defilement and ensure your peace and tranquillity, that indeed is the Straight Path, the Path that leadeth unto Me. To be purged from defilement is to be cleansed of that which is injurious to man and detracteth from his high station--among which is to take undue pleasure in one's own words and deeds, notwithstanding their unworthiness."
+          ]
         },
         {
           "key": "source:ABU0573",
-          "why": "Explicitly separate purity of heart from racial color."
+          "why": "Explicitly separate purity of heart from racial color.",
+          "shortened": [
+            "A man's heart may be pure and white though his outer skin be black; or his heart be dark and sinful though his racial color is white. The character and purity of the heart is of all importance. The heart illumined by the light of God is nearest and dearest to God, and inasmuch as God has endowed man with such favor that he is called the image of God, this is truly a supreme perfection of attainment, a divine station which is not to be sacrificed by the mere accident of color."
+          ]
         },
         {
           "key": "source:BH06328",
-          "why": "Name hatred and malice as the thorns."
+          "why": "Name hatred and malice as the thorns.",
+          "shortened": [
+            "Illumine and hallow your hearts; let them not be profaned by the thorns of hate or the thistles of malice."
+          ]
         },
         {
           "key": "source:AB02849",
-          "why": "Connect cleansing prejudice with love across every community."
+          "why": "Connect cleansing prejudice with love across every community.",
+          "shortened": [
+            "Abstract yourselves from these imaginations and cleanse and polish the mirrors of your hearts form the dross of these ignorant prejudices - thus you may become real kind and loving to the world of humanity, serving mankind with faithfulness and entertaining not the least trace of ill-feeling against the individual members of any nation, any religion, any community, any race and any country."
+          ]
         },
         {
           "key": "source:BH01454",
-          "why": "Join freedom from rancor with joyful fellowship."
+          "why": "Join freedom from rancor with joyful fellowship.",
+          "shortened": [
+            "Blessed is the servant who hath cast away vain desire and taken unto himself the fear of God, and hath purified his heart from all rancor and hatred, and who associateth with all people in a spirit of fragrant joy."
+          ]
         },
         {
           "key": "source:BH04700",
@@ -2796,27 +3265,45 @@
         },
         {
           "key": "source:BH03270",
-          "why": "Bring envy into the work of the heart."
+          "why": "Bring envy into the work of the heart.",
+          "shortened": [
+            "Purify your hearts from envy and hatred that ye may meet your Lord, the All-Merciful, with sanctified hearts."
+          ]
         },
         {
           "key": "source:BH03800",
-          "why": "Read purification as preparation to serve all."
+          "why": "Read purification as preparation to serve all.",
+          "shortened": [
+            "By the command of God, exalted be His glory, they have arisen to serve all, their hearts sanctified and purified from rancor, hatred, doubts, idle fancies, selfish desires and vain imaginings."
+          ]
         },
         {
           "key": "source:ABU2032",
-          "why": "Join pure hearts with justice against oppression."
+          "why": "Join pure hearts with justice against oppression.",
+          "shortened": [
+            "I hope you will always avoid tyranny and oppression, and that you will always uphold and practice justice towards all men and keep your hearts pure."
+          ]
         },
         {
           "key": "source:BH02224",
-          "why": "Test purity through respect for another’s property."
+          "why": "Test purity through respect for another’s property.",
+          "shortened": [
+            "Verily I say: Incline your ears to My sweet voice, and sanctify yourselves from the defilement of your evil passions and corrupt desires. They who dwell within the tabernacle of God, and are established upon the seats of everlasting glory, will refuse, though they be dying of hunger, to stretch their hands and seize unlawfully the property of their neighbor, however vile and worthless he may be."
+          ]
         },
         {
           "key": "source:AB00004",
-          "why": "Connect sincerity with the public interest."
+          "why": "Connect sincerity with the public interest.",
+          "shortened": [
+            "Sincerity is the foundation-stone of faith. That is, a religious individual must disregard his personal desires and seek in whatever way he can wholeheartedly to serve the public interest; and it is impossible for a human being to turn aside from his own selfish advantages and sacrifice his own good for the good of the community except through true religious faith."
+          ]
         },
         {
           "key": "source:AB01896",
-          "why": "Keep the welfare of all as the aim."
+          "why": "Keep the welfare of all as the aim.",
+          "shortened": [
+            "But I bear witness regarding you that you have no purpose save the good-pleasure of God, no desire save the welfare of all."
+          ]
         },
         {
           "key": "source:ABU3277",
@@ -2828,7 +3315,11 @@
         },
         {
           "key": "source:BH02697",
-          "why": "Join inward stability with refusing corruption."
+          "why": "Join inward stability with refusing corruption.",
+          "shortened": [
+            "Be ye pure in heart before God such that your feet slip not and your souls be not troubled.",
+            "Further do I counsel you not to spread corruption in the earth and to be God's trusted ones among His servants, such that the signs of sanctity may appear from your faces and the lights of detachment from your temples."
+          ]
         },
         {
           "key": "source:BH01970",
@@ -2840,7 +3331,10 @@
         },
         {
           "key": "source:BH01025",
-          "why": "Connect truthful speech, sincerity and freedom from guile."
+          "why": "Connect truthful speech, sincerity and freedom from guile.",
+          "shortened": [
+            "Adorn your temples with the robes of detachment, and your tongues with truthfulness, and your hearts with sincerity, then make your breasts free from all deceit and guile and doubt."
+          ]
         },
         {
           "key": "source:ABU3521",
@@ -2848,11 +3342,17 @@
         },
         {
           "key": "source:AB00993",
-          "why": "Connect purity with character visible among all communities."
+          "why": "Connect purity with character visible among all communities.",
+          "shortened": [
+            "This is impossible unless we purify the hem of sanctification and illumine the face of morality, such that we shine like the sun among all communities and move like banners on the hills of nations from the breeze of providence."
+          ]
         },
         {
           "key": "source:AB00063",
-          "why": "Examine intention beneath an apparently good action."
+          "why": "Examine intention beneath an apparently good action.",
+          "shortened": [
+            "The third virtue of humanity is goodly intention, which is the foundation of all good deeds. Some seekers after truth have held intention to be superior to action, for a goodly intention is absolute light and is entirely sanctified from the least trace of malice, scheming, or deception. Now, one can perform an action which appears to be righteous but which is in reality prompted by self-interest."
+          ]
         },
         {
           "key": "source:BHU0001",
@@ -2860,15 +3360,24 @@
         },
         {
           "key": "source:ABU1168",
-          "why": "Read charity without an expectation of return."
+          "why": "Read charity without an expectation of return.",
+          "shortened": [
+            "If you serve someone, do not allow this hypocrisy to enter your heart, so that your service and your charity may be true to God, and its effects more enduring. As far as you can, you must be charitable without the slightest hint of hypocrisy and without any expectation of result or reward."
+          ]
         },
         {
           "key": "source:AB01013",
-          "why": "Consider how a motive changes even a small deed or word."
+          "why": "Consider how a motive changes even a small deed or word.",
+          "shortened": [
+            "Even the smallest of deeds could lead to manifest loss in this day if it is not performed for the sake of God; even the barest word is capable of causing fires to blaze if uttered without motives that are purely for the sake of God."
+          ]
         },
         {
           "key": "source:AB11659",
-          "why": "Join pure intention with work founded on truth."
+          "why": "Join pure intention with work founded on truth.",
+          "shortened": [
+            "The intention must be pure and the work must be founded on truth. This is the truth, and after truth there is nothing but clear error."
+          ]
         },
         {
           "key": "source:AB00044",
@@ -2876,27 +3385,45 @@
         },
         {
           "key": "source:BBU0001",
-          "why": "Read motive supported by actual deeds."
+          "why": "Read motive supported by actual deeds.",
+          "shortened": [
+            "The days when idle worship was deemed sufficient are ended. The time is come when naught but the purest motive, supported by deeds of stainless purity, can ascend to the throne of the Most High and be acceptable unto Him."
+          ]
         },
         {
           "key": "source:BH00113",
-          "why": "Bring the Hidden Words’ counsel into daily life."
+          "why": "Bring the Hidden Words’ counsel into daily life.",
+          "shortened": [
+            "Holy words and pure and goodly deeds ascend unto the heaven of celestial glory. Strive that your deeds may be cleansed from the dust of self and hypocrisy and find favor at the court of glory; for ere long the assayers of mankind shall, in the holy presence of the Adored One, accept naught but absolute virtue and deeds of stainless purity."
+          ]
         },
         {
           "key": "source:BH00571",
-          "why": "Consider the value of one pure deed."
+          "why": "Consider the value of one pure deed.",
+          "shortened": [
+            "Repeatedly hath this exalted word been uttered by the Lord of all being: One pure deed will cause the essence of earth to transcend the heavens and reach the Dayspring of Revelation. O people of God! Strive! O people of God! Endeavor! that perchance the idols of self and desire may be destroyed through the power of detachment, and godliness may be established upon its throne."
+          ]
         },
         {
           "key": "source:BH04889",
-          "why": "Keep the single deed performed for God’s sake."
+          "why": "Keep the single deed performed for God’s sake.",
+          "shortened": [
+            "The fragrance of a single deed performed purely for His sake in the Day of God is reckoned as the chief of deeds before God and is recorded by the Most Exalted Pen."
+          ]
         },
         {
           "key": "source:BH04173",
-          "why": "Join goodly words with pure deeds."
+          "why": "Join goodly words with pure deeds.",
+          "shortened": [
+            "Nothing but pure deeds and goodly words have ever been or shall ever be worthy of God's threshold."
+          ]
         },
         {
           "key": "source:BH04976",
-          "why": "Read sincerity as a fragrance of conduct."
+          "why": "Read sincerity as a fragrance of conduct.",
+          "shortened": [
+            "Then adorn your deeds with the ornament of sanctity, that the fragrance of sincerity may waft from you amongst all servants."
+          ]
         },
         {
           "key": "source:BH00721",
@@ -2908,27 +3435,46 @@
         },
         {
           "key": "source:BH04818",
-          "why": "Connect discernment of actions with their purity."
+          "why": "Connect discernment of actions with their purity.",
+          "shortened": [
+            "Say: It behoveth every one that holdeth fast to the hem of Our Robe to be untainted by anything from which the Concourse on high may be averse.",
+            "We verily behold your actions. If We perceive from them the sweet smelling savor of purity and holiness, We will most certainly bless you."
+          ]
         },
         {
           "key": "source:BH01706",
-          "why": "Read sanctified conduct as true victory."
+          "why": "Read sanctified conduct as true victory.",
+          "shortened": [
+            "Sanctify your souls and your deeds in such wise that all atoms shall testify to your sanctification, and this verily is the true victory, would that ye might know."
+          ]
         },
         {
           "key": "source:BH02836",
-          "why": "Consider deeds that attract hearts."
+          "why": "Consider deeds that attract hearts.",
+          "shortened": [
+            "Say: O people! Purify your deeds and sanctify your souls, that there may appear from you that whereby the hearts of all men shall be attracted."
+          ]
         },
         {
           "key": "source:BH06903",
-          "why": "Ask how conduct exalts other people."
+          "why": "Ask how conduct exalts other people.",
+          "shortened": [
+            "We counsel the loved ones of God to purify and sanctify themselves, and to perform such deeds as will cause the exaltation of His servants."
+          ]
         },
         {
           "key": "source:BH09998",
-          "why": "Imagine an action’s influence spreading outward."
+          "why": "Imagine an action’s influence spreading outward.",
+          "shortened": [
+            "Blessed is he who hath arisen to act in such wise that the fragrance of sanctity hath been wafted therefrom throughout the world. We testify that he is among the faithful and the sincere ones."
+          ]
         },
         {
           "key": "source:BH02245",
-          "why": "Connect intention with reformation."
+          "why": "Connect intention with reformation.",
+          "shortened": [
+            "Assuredly when intention becomes pure, the effulgences of the light of reformation become manifest and evident."
+          ]
         },
         {
           "key": "source:AB03298",
@@ -2940,51 +3486,89 @@
         },
         {
           "key": "source:AB05670",
-          "why": "Join sincerity with exertion."
+          "why": "Join sincerity with exertion.",
+          "shortened": [
+            "Therefore, strive in sincerity of intention and exertion of effort so that like a magnet you may attract divine confirmations."
+          ]
         },
         {
           "key": "source:AB03774",
-          "why": "Allow effort and its results time to develop."
+          "why": "Allow effort and its results time to develop.",
+          "shortened": [
+            "One must not look to the beginning of matters - one must strive in affairs with pure intention and ultimately await the results."
+          ]
         },
         {
           "key": "source:AB04856",
-          "why": "Read encouragement concerning righteous motives."
+          "why": "Read encouragement concerning righteous motives.",
+          "shortened": [
+            "Indeed, thou hast a pure intention and a radiant heart. Rest assured that sincere intentions and righteous motives in themselves attract divine confirmation and draw the assistance of the Glorious Lord."
+          ]
         },
         {
           "key": "source:AB01322",
-          "why": "Connect pure intention with joyful service."
+          "why": "Connect pure intention with joyful service.",
+          "shortened": [
+            "Be certain that your pure intention will definitely yield results and divine confirmations will surely be attained.",
+            "Whether I am present or absent, I am with you and seek your success so that with a pure heart and joyous soul you may succeed in serving the Kingdom of God."
+          ]
         },
         {
           "key": "source:AB03639",
-          "why": "Keep the assurance concerning work for God."
+          "why": "Keep the assurance concerning work for God.",
+          "shortened": [
+            "Praise be to God, since the intention is for God's sake, be assured, and God will establish the truth through His words."
+          ]
         },
         {
           "key": "source:AB03857",
-          "why": "Seek an intention made visible through action."
+          "why": "Seek an intention made visible through action.",
+          "shortened": [
+            "May you be assisted to achieve that which will make your pure intention and turning to truth manifest and evident like the sun."
+          ]
         },
         {
           "key": "source:AB04397",
-          "why": "Retain the tribute to a faithful friend."
+          "why": "Retain the tribute to a faithful friend.",
+          "shortened": [
+            "What can I write of the pure intentions, the supreme endeavor, the worship of truth, and the servitude at the threshold of oneness of that faithful friend who is in the utmost joy and delight."
+          ]
         },
         {
           "key": "source:ABU1514",
-          "why": "Read the reported testimony to a community’s aim."
+          "why": "Read the reported testimony to a community’s aim.",
+          "shortened": [
+            "Your hearts are pure. I bear witness that you have no other aim but that which is good. Your aim is to serve the Kingdom of GOD."
+          ]
         },
         {
           "key": "source:BH04068",
-          "why": "Imagine sincerity perceptible to others."
+          "why": "Imagine sincerity perceptible to others.",
+          "shortened": [
+            "How excellent is the state of those souls who in this day manifest complete sincerity, such that every possessor of spiritual sense can detect from them the fragrance of the sanctified Garment of the All-Merciful."
+          ]
         },
         {
           "key": "source:BH00047",
-          "why": "Introduce the mirror polished by love and detachment."
+          "why": "Introduce the mirror polished by love and detachment.",
+          "shortened": [
+            "A pure heart is as a mirror; cleanse it with the burnish of love and severance from all save God, that the true sun may shine therein and the eternal morning dawn."
+          ]
         },
         {
           "key": "source:AB01870",
-          "why": "Distinguish the reflecting mirror from the source of light."
+          "why": "Distinguish the reflecting mirror from the source of light.",
+          "shortened": [
+            "Souls are like unto mirrors, and the bounty of God is like unto the sun. When the mirrors pass beyond all coloring and attain purity and polish, and are confronted with the sun, they will reflect in full perfection its light and glory. In this condition one should not consider the mirror, but the power of the light of the sun, which hath penetrated the mirror, making it a reflector of the heavenly glory."
+          ]
         },
         {
           "key": "source:ABU0399",
-          "why": "Make polishing the mirror a continuing responsibility."
+          "why": "Make polishing the mirror a continuing responsibility.",
+          "shortened": [
+            "The most important thing is to polish the mirrors of hearts in order that they may become illumined and receptive of the divine light.",
+            "Therefore, our duty lies in seeking to polish the mirrors of our hearts in order that we shall become reflectors of that light and recipients of the divine bounties which may be fully revealed through them."
+          ]
         },
         {
           "key": "source:AB10784",
@@ -2992,7 +3576,10 @@
         },
         {
           "key": "source:BH08462",
-          "why": "Read hearts as mirrors of divine attributes."
+          "why": "Read hearts as mirrors of divine attributes.",
+          "shortened": [
+            "Ye are the mirrors of My attributes - polish your hearts from the rust of vain imaginings."
+          ]
         },
         {
           "key": "source:AB01721",
@@ -3004,11 +3591,18 @@
         },
         {
           "key": "source:AB00862",
-          "why": "Explore hearts that reflect one another."
+          "why": "Explore hearts that reflect one another.",
+          "shortened": [
+            "When man's soul is rarified and cleansed, spiritual links are established, and from these bonds sensations felt by the heart are produced. The human heart resembleth a mirror. When this is purified human hearts are attuned and reflect one another, and thus spiritual emotions are generated."
+          ]
         },
         {
           "key": "source:ABU2405",
-          "why": "Read the reported conditions for spiritual communication."
+          "why": "Read the reported conditions for spiritual communication.",
+          "shortened": [
+            "A clear mind, a pure heart and a concentrated attention are the requisites for that spiritual inter-communication.",
+            "Like unto a mirror, man's heart and mind must be purified, clarified and polished."
+          ]
         },
         {
           "key": "source:AB03622",
@@ -3036,7 +3630,10 @@
         },
         {
           "key": "source:AB01262",
-          "why": "Consider capacity through the clearer mirror."
+          "why": "Consider capacity through the clearer mirror.",
+          "shortened": [
+            "Capacity, worth (or merit) and ability, are necessary, for the clearer and purer the mirror is, the lights of the Sun are more manifest thereon."
+          ]
         },
         {
           "key": "source:ABU0574",
@@ -3048,7 +3645,11 @@
         },
         {
           "key": "source:ABU0528",
-          "why": "Distinguish innocent simplicity from mature simplicity."
+          "why": "Distinguish innocent simplicity from mature simplicity.",
+          "shortened": [
+            "The hearts of all children are of the utmost purity. They are mirrors upon which no dust has fallen. But this purity is on account of weakness and innocence, not on account of any strength and testing, for as this is the early period of their childhood, their hearts and minds are unsullied by the world.",
+            "This is on account of the child's weakness, whereas the man becomes pure through his strength. Through the power of intelligence he becomes simple; through the great power of reason and understanding and not through the power of weakness he becomes sincere. When he attains to the state of perfection, he will receive these qualities; his heart becomes purified, his spirit enlightened, his soul is sensitized and tender -- all through his great strength. This is the difference between the perfect man and the child. Both have the underlying qualities of simplicity and sincerity -- the child through the power of weakness and the man through the power of strength."
+          ]
         },
         {
           "key": "source:ABU1844",
@@ -3056,11 +3657,17 @@
         },
         {
           "key": "source:ABU2725",
-          "why": "Connect adult purity with the hope of the Kingdom."
+          "why": "Connect adult purity with the hope of the Kingdom.",
+          "shortened": [
+            "Their hearts are like pure mirrors. They are in utmost cleanliness. When the hearts of the grown people become as pure then the Kingdom of God will come on earth. Children in their childhood are beloved because of the purity of their hearts."
+          ]
         },
         {
           "key": "source:ABU2244",
-          "why": "Retain the brief reported appreciation of children."
+          "why": "Retain the brief reported appreciation of children.",
+          "shortened": [
+            "Truly, the hearts of the children are very pure."
+          ]
         },
         {
           "key": "source:ABU3166",
@@ -3096,7 +3703,10 @@
         },
         {
           "key": "source:AB08766",
-          "why": "Let the heart become a rose garden."
+          "why": "Let the heart become a rose garden.",
+          "shortened": [
+            "I cherish the hope that through the grace of Baha thy face may be illumined with faithfulness and thy heart may, through purity, become the envy of the rose garden."
+          ]
         },
         {
           "key": "source:AB09592",
@@ -3108,15 +3718,24 @@
         },
         {
           "key": "source:BH00002",
-          "why": "Read the extended Iqan account of seeking without bias."
+          "why": "Read the extended Iqan account of seeking without bias.",
+          "shortened": [
+            "But, O my brother, when a true seeker determineth to take the step of search in the path leading to the knowledge of the Ancient of Days, he must, before all else, cleanse and purify his heart, which is the seat of the revelation of the inner mysteries of God, from the obscuring dust of all acquired knowledge, and the allusions of the embodiments of satanic fancy. He must purge his breast, which is the sanctuary of the abiding love of the Beloved, of every defilement, and sanctify his soul from all that pertaineth to water and clay, from all shadowy and ephemeral attachments. He must so cleanse his heart that no remnant of either love or hate may linger therein, lest that love blindly incline him to error, or that hate repel him away from the truth."
+          ]
         },
         {
           "key": "source:AB00030",
-          "why": "Examine both love and hatred as possible barriers to inquiry."
+          "why": "Examine both love and hatred as possible barriers to inquiry.",
+          "shortened": [
+            "Furthermore, he must endure every tribulation, embody the utmost purity and sanctity, and renounce the love or hatred of all the peoples of the world, lest his love for one thing hinder him from investigating another, or his hatred for something prevent him from discerning its truth."
+          ]
         },
         {
           "key": "source:AB08143",
-          "why": "Join purified attention with rational and authoritative arguments."
+          "why": "Join purified attention with rational and authoritative arguments.",
+          "shortened": [
+            "O seeker of the True One! If thou wishest divine knowledge and recognition, purify thy heart from all beside God, be wholly attracted to the ideal, beloved One; search for and choose Him and apply thyself to rational and authoritative arguments. For arguments are a guide to the path and by this the heart will be turned unto the Sun of Truth. And when the heart is turned unto the Sun, then the eye will be opened and will recognize the Sun through the Sun itself."
+          ]
         },
         {
           "key": "source:AB02799",
@@ -3128,31 +3747,52 @@
         },
         {
           "key": "source:ABU0473",
-          "why": "Distinguish reading scripture from understanding it."
+          "why": "Distinguish reading scripture from understanding it.",
+          "shortened": [
+            "It is easy to read the Holy Scriptures, but it is only with a clean heart and a pure mind that one may understand their true meaning."
+          ]
         },
         {
           "key": "source:BH00004",
-          "why": "Consider what prior possessions can obscure."
+          "why": "Consider what prior possessions can obscure.",
+          "shortened": [
+            "Among the words of the Most Glorious One - may the spirit of all else be sacrificed for Him - are these: \"Whoso hath not purified his heart and his breast and his sight and his hearing from that which he possesseth, he shall not be able to understand what hath been revealed in truth in the Tablets of manifest glory.\""
+          ]
         },
         {
           "key": "source:BH01362",
-          "why": "Include hearing and sight in preparation for recognition."
+          "why": "Include hearing and sight in preparation for recognition.",
+          "shortened": [
+            "Hasten with pure hearts that ye may attain and discover that which is befitting. Purify yourselves with the water of detachment from covetousness and unseemly deeds, that ye may discover the mystery of the Day of the Self-Subsisting. The Primal Light hath appeared in the Final Day. Through three things shall the Meeting be attained and deliverance made manifest: purity of heart, purity of sight, and purity of hearing from that which hath been heard."
+          ]
         },
         {
           "key": "source:BH01168",
-          "why": "Ask how names and expectations can become veils."
+          "why": "Ask how names and expectations can become veils.",
+          "shortened": [
+            "Likewise must they purify their hearing and sight to such degree that names will not prevent them from turning towards Him, nor will the veils of beauty and the clouds of majesty hold them back from the Self-Subsisting Lord. In brief, they must sanctify their thoughts from the mention of all else but God, that they may become worthy to turn towards Him and capable of drawing near."
+          ]
         },
         {
           "key": "source:BH07286",
-          "why": "Enter inquiry with longing and free will."
+          "why": "Enter inquiry with longing and free will.",
+          "shortened": [
+            "O servant! Purify thy heart from all that thou hast heard, then enter with thy heart the holy precincts with longing and free will."
+          ]
         },
         {
           "key": "source:BH00827",
-          "why": "Connect sanctified perception with recognition and praise."
+          "why": "Connect sanctified perception with recognition and praise.",
+          "shortened": [
+            "Sanctified must be the eye if it is to truly recognize Him, and sanctified must be the tongue if it is to befittingly utter His praise."
+          ]
         },
         {
           "key": "source:BH02388",
-          "why": "Read hearing and sight as complementary capacities."
+          "why": "Read hearing and sight as complementary capacities.",
+          "shortened": [
+            "O people! Purify your ears that ye may hear My melodies, then your eyes that ye may behold My beauty. Thus hath God commanded you in all the Tablets and in this Tablet which hath appeared and shone forth from the horizon of the finger of your Lord, the Most High, the Most Exalted, and God is witness unto this."
+          ]
         },
         {
           "key": "source:BH02418",
@@ -3160,27 +3800,47 @@
         },
         {
           "key": "source:AB00740",
-          "why": "Join love with an opening of knowledge."
+          "why": "Join love with an opening of knowledge.",
+          "shortened": [
+            "Likewise, ask thou of God that the magnet of His love should draw unto thee the knowledge of Him. Once a soul becometh holy in all things, purified, sanctified, the gates of the knowledge of God will open wide before his eyes."
+          ]
         },
         {
           "key": "source:BH10751",
-          "why": "Read divine love as the teacher of pure hearts."
+          "why": "Read divine love as the teacher of pure hearts.",
+          "shortened": [
+            "If thou remainest firm in the love of God, the wellsprings of divine wisdom will flow from thy heart and tongue, and thou wilt become aware of the meanings of the divine words, for His love hath ever been and shall continue to be the teacher of pure hearts and sanctified souls."
+          ]
         },
         {
           "key": "source:AB00282",
-          "why": "Consider spiritual perception of unseen realms."
+          "why": "Consider spiritual perception of unseen realms.",
+          "shortened": [
+            "Know then that the Lord God possesseth invisible realms which the human intellect can never hope to fathom nor the mind of man conceive. When once thou hast cleansed the channel of thy spiritual sense from the pollution of this worldly life, then wilt thou breathe in the sweet scents of holiness that blow from the blissful bowers of that heavenly land."
+          ]
         },
         {
           "key": "source:AB00128",
-          "why": "Distinguish the universal breeze from receiving its fragrance."
+          "why": "Distinguish the universal breeze from receiving its fragrance.",
+          "shortened": [
+            "O ye beloved of Abdu'l-Baha and ye handmaids of the Merciful! It is early morning, and the reviving winds of the Abha Paradise are blowing over all creation, but they can stir only the pure of heart, and only the pure sense can detect their fragrance. Only the perceiving eye beholdeth the rays of the sun; only the listening ear can hear the singing of the Concourse on high.",
+            "Today the soft and holy breathings of the Abha Realm are passing over every land, but only the pure in heart draw nigh and derive a benefit therefrom."
+          ]
         },
         {
           "key": "source:ABU0095",
-          "why": "Connect purity, nearness and spiritual discovery."
+          "why": "Connect purity, nearness and spiritual discovery.",
+          "shortened": [
+            "The more pure and sanctified the heart of man becomes, the nearer it draws to God, and the light of the Sun of Reality is revealed within it. This light sets hearts aglow with the fire of the love of God, opens in them the doors of knowledge and unseals the divine mysteries so that spiritual discoveries are made possible.",
+            "Behold how the sun shines upon all creation, but only surfaces that are pure and polished can reflect its glory and light. The darkened soul has no portion of the revelation of the glorious effulgence of reality; and the soil of self, unable to take advantage of that light, does not produce growth."
+          ]
         },
         {
           "key": "source:ABU0749",
-          "why": "Read effort and self-abnegation alongside understanding."
+          "why": "Read effort and self-abnegation alongside understanding.",
+          "shortened": [
+            "He has endowed us with a power to penetrate the realities of things; but we must be self-abnegating, we must have pure spirits, pure intentions, and strive with heart and soul while in the human world to attain everlasting glory."
+          ]
         },
         {
           "key": "source:AB06843",
@@ -3188,11 +3848,17 @@
         },
         {
           "key": "source:AB09094",
-          "why": "Follow the mirror image into knowledge and joy."
+          "why": "Follow the mirror image into knowledge and joy.",
+          "shortened": [
+            "O dear friend! Man can only draw near to the embodied luminosity of heaven and the personified mercifulness of the All-Glorious through nobility of nature, purity of essence, sanctity of soul and conscience, and the power of certitude. Therefore, when a person of pure heart and sanctified mind becomes, mirror-like, free from the rust of attachment to aught else but God, he derives light from the Sun of Reality, becomes a polished surface reflecting divine lights, becomes an unveiler of mysteries, becomes the joy of the righteous, attains to true existence, and is freed from all sorrow."
+          ]
         },
         {
           "key": "source:ABU1278",
-          "why": "Read the reported inward meaning of heaven."
+          "why": "Read the reported inward meaning of heaven.",
+          "shortened": [
+            "When the heart is pure and filled with the light of the Spirit, we will know that we are in the true ' Heaven.'"
+          ]
         },
         {
           "key": "source:ABU2024",
@@ -3200,23 +3866,42 @@
         },
         {
           "key": "source:ABU0464",
-          "why": "Read the heart prepared as a dwelling place."
+          "why": "Read the heart prepared as a dwelling place.",
+          "shortened": [
+            "The Blessed Perfection has spoken to like effect: \"The heart is My room; cleanse it, make it ready, that I may come and dwell in it. Thy spirit is My desire; purify it, that I may visit it.\""
+          ]
         },
         {
           "key": "source:BH00994",
-          "why": "Remember the purpose for which hearts are made."
+          "why": "Remember the purpose for which hearts are made.",
+          "shortened": [
+            "Say: Deliver your souls, O people, from the bondage of self, and purify them from all attachment to anything besides Me. Remembrance of Me cleanseth all things from defilement, could ye but perceive it.",
+            "He hath chosen out of the whole world the hearts of His servants, and made them each a seat for the revelation of His glory. Wherefore, sanctify them from every defilement, that the things for which they were created may be engraven upon them."
+          ]
         },
         {
           "key": "source:BH00001",
-          "why": "Compare earthly treasure with receptive acceptance."
+          "why": "Compare earthly treasure with receptive acceptance.",
+          "shortened": [
+            "The treasures ye have laid up have drawn you far away from your ultimate objective.",
+            "Wash from your hearts all earthly defilements, and hasten to enter the Kingdom of your Lord, the Creator of earth and heaven, Who caused the world to tremble and all its peoples to wail, except them that have renounced all things and clung to that which the Hidden Tablet hath ordained.",
+            "How many an embodiment of heedlessness who came unto Us with purity of heart have We established upon the seat of Our acceptance; and how many an exponent of wisdom have We in all justice consigned to the fire."
+          ]
         },
         {
           "key": "source:BH00021",
-          "why": "Explore the heart’s undivided affection."
+          "why": "Explore the heart’s undivided affection.",
+          "shortened": [
+            "Return, then, and cleave wholly unto God, and cleanse thine heart from the world and all its vanities, and suffer not the love of any stranger to enter and dwell therein. Not until thou dost purify thine heart from every trace of such love can the brightness of the light of God shed its radiance upon it, for to none hath God given more than one heart.",
+            "And as the human heart, as fashioned by God, is one and undivided, it behoveth thee to take heed that its affections be, also, one and undivided."
+          ]
         },
         {
           "key": "source:BH00958",
-          "why": "Read the role of innate powers in drawing near."
+          "why": "Read the role of innate powers in drawing near.",
+          "shortened": [
+            "He Who is the Dayspring of Truth is, no doubt, fully capable of rescuing from such remoteness wayward souls and of causing them to draw nigh unto His court and attain His Presence. “If God had pleased He had surely made all men one people.” His purpose, however, is to enable the pure in spirit and the detached in heart to ascend, by virtue of their own innate powers, unto the shores of the Most Great Ocean, that thereby they who seek the Beauty of the All-Glorious may be distinguished and separated from the wayward and perverse. Thus hath it been ordained by the all-glorious and resplendent Pen."
+          ]
         },
         {
           "key": "source:AB02378",
@@ -3228,15 +3913,24 @@
         },
         {
           "key": "source:AB00109",
-          "why": "Read inward freedom alongside outward cleanliness and refinement."
+          "why": "Read inward freedom alongside outward cleanliness and refinement.",
+          "shortened": [
+            "First in a human being's way of life must be purity, then freshness, cleanliness, and independence of spirit. First must the stream bed be cleansed, then may the sweet river waters be led into it. Chaste eyes enjoy the beatific vision of the Lord and know what this encounter meaneth; a pure sense inhaleth the fragrances that blow from the rose gardens of His grace; a burnished heart will mirror forth the comely face of truth."
+          ]
         },
         {
           "key": "source:ABU2264",
-          "why": "Keep the reported relationship of bodily and inward care."
+          "why": "Keep the reported relationship of bodily and inward care.",
+          "shortened": [
+            "Just as the heart - the invisible Shekinah - must be a rosegarden - fragrant, delicate, so also the body must be kept clean and pure - letting the outward appearance be a key to the inward clearness, transparency and purity."
+          ]
         },
         {
           "key": "source:BB00004",
-          "why": "Read the Bab’s washing counsel within sincere intention."
+          "why": "Read the Bab’s washing counsel within sincere intention.",
+          "shortened": [
+            "Choose ye nothing for yourselves except that ye desire it for God, the Lord of the worlds. Do no deed except that ye act sincerely for God, the Lord of the worlds. Hearken not to any word except that ye hearken through God, for God, the Lord of the worlds. Look not upon anything except that ye look through God, for God, the Lord of the worlds."
+          ]
         },
         {
           "key": "source:BB00001",
@@ -3244,7 +3938,11 @@
         },
         {
           "key": "source:BH04421",
-          "why": "Begin the prayer sequence with a renewed conscience."
+          "why": "Begin the prayer sequence with a renewed conscience.",
+          "shortened": [
+            "Thereupon say:",
+            "Create in me a pure heart, O my God, and renew a tranquil conscience within me, O my Hope!"
+          ]
         },
         {
           "key": "source:AB11605",
@@ -3252,27 +3950,46 @@
         },
         {
           "key": "source:AB07709",
-          "why": "Pray for a spiritual heart and conscience."
+          "why": "Pray for a spiritual heart and conscience.",
+          "shortened": [
+            "O God! Sanctify me from all else save Thee, purge me from the dross of sins and transgressions and cause me to possess a spiritual heart and conscience."
+          ]
         },
         {
           "key": "source:ABU1226",
-          "why": "Read supplication as the mirror’s polish."
+          "why": "Read supplication as the mirror’s polish.",
+          "shortened": [
+            "The heart of man is like a mirror that is covered with dust, and to cleanse it one must continually pray to GOD that it may become clean, and the act of supplication is the polish which erases all worldly desires. The delight of supplicating and entreating before GOD cuts one's heart from the world. When the taste of man is nourished by honey, he never likes to taste any other sweetmeat."
+          ]
         },
         {
           "key": "source:ABU1205",
-          "why": "Follow attentive prayer into daily life."
+          "why": "Follow attentive prayer into daily life.",
+          "shortened": [
+            "The worshipper must pray with a detached spirit, unconditional surrender of the will, concentrated attention and a magnetic spiritual passion. His innermost being must be stirred with the ethereal breezes of sanctification. If the mirror of his soul is polished from the dross of all desires the heavenly pictures and sidereal images of the Kingdom of God will become fully reflected therein. Then he will be given the power, to translate these celestial forms into his own daily life and the lives of many thousands."
+          ]
         },
         {
           "key": "source:BH06924",
-          "why": "Purify the heart through utterance and prayer."
+          "why": "Purify the heart through utterance and prayer.",
+          "shortened": [
+            "O thou who art mentioned before the Wronged One! Purify thy heart with the water of thy Lord's utterance, the Wronged, the Stranger, and say: I beseech Thee, O Thou in Whose grasp is the reins of all beings and in Whose right hand are the reins of all creation, and I beseech Thee by the Dawning-Places of Thy names and the Daysprings of Thy attributes, and by the light of Thy Word which has shone forth from the horizon of the heaven of Thy Tablets, to ordain for me that which will draw me nigh unto Thee and will accompany me in every world of Thy worlds."
+          ]
         },
         {
           "key": "source:BH00915",
-          "why": "Ask for the mirror’s freedom from dust."
+          "why": "Ask for the mirror’s freedom from dust.",
+          "shortened": [
+            "Then I beseech Thee, O my God, to purify their hearts from the dust of contingent things and the soil of created things, that the mirrors of their hearts may be cleansed and there may be reflected therein the wondrous splendors of the lights of Thy luminous beauty."
+          ]
         },
         {
           "key": "source:BH02896",
-          "why": "Keep the Naw-Ruz petition and its stated omission."
+          "why": "Keep the Naw-Ruz petition and its stated omission.",
+          "shortened": [
+            "I implore Thee to help Thy chosen ones through Thy strengthening grace to conform unto that which shall please Thee and to purge them from whatsoever might soil the hem of their garments in Thy days.",
+            "Sanctify them, O Lord, with this life-giving water whereby Thou hast sanctified the well-favoured among Thy people and the loved ones who are wholly devoted to Thee."
+          ]
         },
         {
           "key": "source:BH04778",
@@ -3280,11 +3997,17 @@
         },
         {
           "key": "source:BH09383",
-          "why": "Retain the prayer for protected vision."
+          "why": "Retain the prayer for protected vision.",
+          "shortened": [
+            "Cause them, then, to be numbered among those whose eyes Thou hast cleansed and kept from turning to any one save Thee, and whose eyes Thou hast protected from beholding any face except Thy face."
+          ]
         },
         {
           "key": "source:BH08265",
-          "why": "Extend the petition to children and kindred."
+          "why": "Extend the petition to children and kindred.",
+          "shortened": [
+            "I beseech Thee by Thy Lastness which is the same as Thy Firstness, and by Thy Revelation which is identical with Thy Concealment, to grant that they who are dear to Thee, and their children, and their kindred, may become the revealers of Thy purity amidst Thy creatures, and the manifestations of Thy sanctity amongst Thy servants."
+          ]
         },
         {
           "key": "source:BH09508",
@@ -3292,11 +4015,17 @@
         },
         {
           "key": "source:BH03289",
-          "why": "Ask for words to sink deeply into hearts."
+          "why": "Ask for words to sink deeply into hearts.",
+          "shortened": [
+            "Purify, O my God, the hearts of Thy creatures with the power of Thy sovereignty and might, that Thy words may sink deep into them."
+          ]
         },
         {
           "key": "source:BH09446",
-          "why": "Connect pure love with sincere devotion."
+          "why": "Connect pure love with sincere devotion.",
+          "shortened": [
+            "Then send upon him that which will purify his heart from the remembrance of aught else besides Thee, that he may become pure in Thy love, sincere in his devotion to Thee, and obedient to Thy decree."
+          ]
         },
         {
           "key": "source:AB01852",
@@ -3308,7 +4037,10 @@
         },
         {
           "key": "source:BH06422",
-          "why": "Join purification with service by one’s kindred."
+          "why": "Join purification with service by one’s kindred.",
+          "shortened": [
+            "I beseech Thee by Thyself and by what Thou art, to purify me from whatsoever is abhorrent unto Thy good-pleasure, and to assist me and my kindred to serve and obey Thee."
+          ]
         },
         {
           "key": "source:BH07190",
@@ -3320,7 +4052,10 @@
         },
         {
           "key": "source:AB04143",
-          "why": "Join pure intention with constant good deeds."
+          "why": "Join pure intention with constant good deeds.",
+          "shortened": [
+            "I pray God to make you pure and clean from self and desire, obedient to the command of the Lord, attracted by the breaths of God, steadfast in pure intention in the love of God, constant in good deeds and complete sanctification."
+          ]
         },
         {
           "key": "source:AB08998",
@@ -3328,7 +4063,10 @@
         },
         {
           "key": "source:AB10323",
-          "why": "Ask for good together with sincerity."
+          "why": "Ask for good together with sincerity.",
+          "shortened": [
+            "I have turned toward the Dawning-Place of Thy mercy and the Dayspring of Thy oneness, supplicating Thee to ordain for me every good thing in Thy Kingdom and make me pure and sincere before Thy gracious countenance."
+          ]
         },
         {
           "key": "source:AB11301",
@@ -3336,7 +4074,10 @@
         },
         {
           "key": "source:BH03976",
-          "why": "Keep the expansive prayer’s imagery and petition."
+          "why": "Keep the expansive prayer’s imagery and petition.",
+          "shortened": [
+            "I beseech Thee by Thy Beauty, through whose manifestation the dwellers of the Supreme Paradise rejoiced, and the denizens of the crimson seas in their most exalted retreats were gladdened by its presence, and the Maids of Heaven in the All-Highest Paradise were blessed by its beauty at the Ultimate Lote-Tree, and through which those at Sinai fell unconscious upon the dust of self and passion, and the skin of the sincere ones trembled in the wilderness of fancy and blindness - to preserve us, O my God, from all else but Thee, and purify our hearts from the mention of aught save Thee."
+          ]
         },
         {
           "key": "source:BH02991",
@@ -3344,11 +4085,18 @@
         },
         {
           "key": "source:BH07671",
-          "why": "Retain the brief remembrance of sincere seekers."
+          "why": "Retain the brief remembrance of sincere seekers.",
+          "shortened": [
+            "Thou seest Thy loved ones, detached from their homes, turning toward the seat of Thy mighty throne, fleeing from Thy enemies to the shelter of Thy mercy and favors.",
+            "And among them, O my God, are those who have sought Thee with pure intention. Therefore, O Lord, accept from them what they have desired in Thy love and good-pleasure."
+          ]
         },
         {
           "key": "source:BB00248",
-          "why": "Read the Bab’s visitation text and purifying light."
+          "why": "Read the Bab’s visitation text and purifying light.",
+          "shortened": [
+            "I testify that Thou art pure, purifying, and purified. Nay, God hath sanctified Thee beyond such mention and purified Thee beyond such praise, for all that turneth toward Thee becometh pure, and every fire that draweth nigh unto Thee becometh light."
+          ]
         },
         {
           "key": "source:BB00077",
@@ -3356,15 +4104,25 @@
         },
         {
           "key": "source:ABU0767",
-          "why": "Preserve the reported personal analogy without making medical advice."
+          "why": "Preserve the reported personal analogy without making medical advice.",
+          "shortened": [
+            "Some (persons) with serious ills go from celebrated doctor to celebrated doctor, but they all fail to cure for the power is with the divine. So it is with your soul. Your heart is pure and the Spirit can enter therein. Cut yourself from the world. Pray in the Greatest Name, then the breeze of truth, the flood of light will enter your searching soul. There is nothing else to be sought on earth or in the universe."
+          ]
         },
         {
           "key": "source:BH00718",
-          "why": "Read remembrance and love as the polish of existence."
+          "why": "Read remembrance and love as the polish of existence.",
+          "shortened": [
+            "By My life, whoso attaineth unto His knowledge soareth in the atmosphere of His love and detacheth himself from all who dwell on earth, let alone those who speak according to their desires that which God hath not permitted them.",
+            "Hear ye the voice of the Wronged One. Speak ye in the name of Truth, and be adorned with the ornament of His remembrance and illumined by the lights of His love. This is the key to hearts and the polish of existence."
+          ]
         },
         {
           "key": "source:BH03143",
-          "why": "Join knowledge, love and remembrance."
+          "why": "Join knowledge, love and remembrance.",
+          "shortened": [
+            "Sanctify your souls for My knowledge, your hearts for My love, and your tongues for My wondrous remembrance."
+          ]
         },
         {
           "key": "source:BH04849",
@@ -3376,11 +4134,17 @@
         },
         {
           "key": "source:BH11700",
-          "why": "Read receptive hearts beside remembering tongues."
+          "why": "Read receptive hearts beside remembering tongues.",
+          "shortened": [
+            "O people! Purify your hearts that the lights of your Lord's revelation, the Merciful, the Compassionate, may be imprinted thereon. Then purify your tongues that they may move in remembrance of your Creator, for this is better for you than all that hath been created between the heavens and the earth, were ye but to know."
+          ]
         },
         {
           "key": "source:AB02893",
-          "why": "Consider worship in every gathering and land."
+          "why": "Consider worship in every gathering and land.",
+          "shortened": [
+            "In all gatherings and all lands, guide souls to worship and engagement in the remembrance of God, so that through these purifying waters, souls may day by day increase in purity of heart and sanctification of spirit, become manifestations of piety, and arise with what is necessary, fitting and worthy of the Day of the Covenant in terms of inner and outer purity and sanctification of spirit and heart."
+          ]
         },
         {
           "key": "source:ABU1129",
@@ -3388,7 +4152,11 @@
         },
         {
           "key": "source:ABU0896",
-          "why": "Read the reported influence of sincerity through translation."
+          "why": "Read the reported influence of sincerity through translation.",
+          "shortened": [
+            "If the speaker's intention is pure, if his heart is transparent, no matter through how many translators the words may go, the audience is touched.",
+            "You must purify your heart. This is the most important thing, otherwise all your learning and philosophy will not assist you."
+          ]
         },
         {
           "key": "source:ABU3021",
@@ -3396,19 +4164,31 @@
         },
         {
           "key": "source:BH01102",
-          "why": "Consider a sincere word’s influence."
+          "why": "Consider a sincere word’s influence.",
+          "shortened": [
+            "Every word that issues forth from the mouth with sincerity for God's sake has been and will ever be effective throughout all existence."
+          ]
         },
         {
           "key": "source:BH07947",
-          "why": "Connect the Word’s influence with the heart’s preparation."
+          "why": "Connect the Word’s influence with the heart’s preparation.",
+          "shortened": [
+            "Ask thou of God that He may sanctify the hems of His servants from the dust of self and passion. The penetrating influence of the Word hath ever been and will continue to be dependent upon the sanctification of the heart."
+          ]
         },
         {
           "key": "source:BH02115",
-          "why": "Keep inspiration and calling others within service."
+          "why": "Keep inspiration and calling others within service.",
+          "shortened": [
+            "And it is for this that we have given thee inspiration and revealed to thee our verses, that that mayest show thy mettle in the Cause of thy Lord, calling mankind to this path, for thee to be of those who are well guided."
+          ]
         },
         {
           "key": "source:AB01432",
-          "why": "Join independence of spirit with meekness and joy."
+          "why": "Join independence of spirit with meekness and joy.",
+          "shortened": [
+            "Let God's beloved, each and every one, be the essence of purity, the very life of holiness, so that in every country they may become famed for their sanctity, independence of spirit, and meekness. Let them be cheered by draughts from the eternal cup of love for God, and make merry as they drink from the wine-vaults of Heaven."
+          ]
         },
         {
           "key": "source:AB00672",
@@ -3416,15 +4196,24 @@
         },
         {
           "key": "source:AB04920",
-          "why": "Draw near with a cheerful face and joyful spirit."
+          "why": "Draw near with a cheerful face and joyful spirit.",
+          "shortened": [
+            "Draw nigh unto Him with a pure heart, cheerful face, gazing eye and a joyful spirit and plunge with thy whole being into the sea of the love of God and forget all else save Him, so that thou mayest be filled with such spiritual sentiments from the kingdom of God, which will take the reins of desire from thy hands and move thee with the power of thy Lord, just as the wind moveth a mote in the open air as it willeth."
+          ]
         },
         {
           "key": "source:AB05347",
-          "why": "Keep the tribute to a refined, illumined heart."
+          "why": "Keep the tribute to a refined, illumined heart.",
+          "shortened": [
+            "Thanks be to the Most Holy One that, through love for the True Beloved, thou hast rent thy garment and possessest a heart that is illumined, pure and refined."
+          ]
         },
         {
           "key": "source:AB05766",
-          "why": "Read the joy carried by a sincere letter."
+          "why": "Read the joy carried by a sincere letter.",
+          "shortened": [
+            "Your letter reached this station of poverty and evanescence, and its contents, like the breeze from the gardens of the highest paradise, brought spirit and fragrance, for it was written with pure intention, sincere love and complete attention. Such a state is surely among the signs of heavenly bestowals."
+          ]
         },
         {
           "key": "source:BH09475",
@@ -3436,7 +4225,11 @@
         },
         {
           "key": "source:AB02726",
-          "why": "Read a child’s character within the father’s example."
+          "why": "Read a child’s character within the father’s example.",
+          "shortened": [
+            "I wish for you luminosity of character and purity and sanctity of behavior, so that you may become of the essence of the soul and heart of that one near to the Divine Threshold, and become \"the child is the inner secret of his father.\"",
+            "This is befitting of you and I hope that like your father you will become valiant and like a spiritual rose garden adorned with the flowers of purity and sanctity."
+          ]
         },
         {
           "key": "source:AB11491",
@@ -3444,7 +4237,10 @@
         },
         {
           "key": "source:AB06295",
-          "why": "Remember women whose fidelity is praised."
+          "why": "Remember women whose fidelity is praised.",
+          "shortened": [
+            "All became absolute nothingness and utter non-existence, and shall continue so, except for those gems of sanctity who shone forth like morning stars at the dawn of creation - namely, those women who were dawning-places of the signs of faithfulness and who, with pure hearts and radiant faces, turned toward the Manifestation of \"were it not for Thee.\""
+          ]
         },
         {
           "key": "source:AB06764",
@@ -3456,15 +4252,24 @@
         },
         {
           "key": "source:BH08631",
-          "why": "Keep sincerity and unity alongside steadfastness."
+          "why": "Keep sincerity and unity alongside steadfastness.",
+          "shortened": [
+            "Today the handmaidens of God must remain steadfast in the Cause of God with perfect sincerity, unity, sanctity and detachment, and be engaged in His remembrance."
+          ]
         },
         {
           "key": "source:BH03933",
-          "why": "Read counsel to women in its stated setting."
+          "why": "Read counsel to women in its stated setting.",
+          "shortened": [
+            "We make mention of the handmaidens of that land and counsel them to be chaste and pure, that all may be sanctified from self and passion, may gaze toward the Most Exalted Horizon, and cling to the hem of His grace."
+          ]
         },
         {
           "key": "source:BH08106",
-          "why": "Retain the counsel to the women of that land."
+          "why": "Retain the counsel to the women of that land.",
+          "shortened": [
+            "We counsel all the women of that land to sanctification and detachment and whatsoever the All-Bountiful hath sent down in the Book."
+          ]
         },
         {
           "key": "source:BH09020",
@@ -3472,7 +4277,10 @@
         },
         {
           "key": "source:BH09410",
-          "why": "Keep the invitation to praise."
+          "why": "Keep the invitation to praise.",
+          "shortened": [
+            "The handmaidens of God must in this day engage themselves with absolute sanctity and purity in the utterance of the praise of the Beloved of all creation."
+          ]
         },
         {
           "key": "source:BH02828",
@@ -3484,7 +4292,10 @@
         },
         {
           "key": "source:BH07607",
-          "why": "Follow greetings across lands with a call to holiness."
+          "why": "Follow greetings across lands with a call to holiness.",
+          "shortened": [
+            "God willing, thou shalt pass through the lands of God with a spiritual breeze from the true, original homeland which is the seat of the Throne, and convey to all the handmaidens the greetings from God, and call all to sanctification and holiness, that all may gaze toward God's direction with illumined breasts, penetrating vision, pure hearts and sanctified souls."
+          ]
         },
         {
           "key": "source:BH11391",
@@ -3492,7 +4303,10 @@
         },
         {
           "key": "source:BH05809",
-          "why": "Imagine remembrance imprinted on the heart."
+          "why": "Imagine remembrance imprinted on the heart.",
+          "shortened": [
+            "And thou, O handmaiden of God, purify thy heart from the love of aught else, that the sun of the beauty of thy Lord's remembrance may be imprinted thereon, for verily it hath been recorded by this name in the Mother Book."
+          ]
         },
         {
           "key": "source:BH00144",
@@ -3512,11 +4326,17 @@
         },
         {
           "key": "source:BH01459",
-          "why": "Keep the invitation toward the Lote-Tree."
+          "why": "Keep the invitation toward the Lote-Tree.",
+          "shortened": [
+            "Sanctify yourselves, O people, from this world, then hasten to the Ultimate Lote-Tree in this Farthest Mosque, that ye may hearken unto the call of your Lord, the All-Merciful, in this Paradise which hath been created by the Kawthar of life from the very Spirit of Glory, and before whose gate the people of the holy and guarded pavilions have fallen prostrate."
+          ]
         },
         {
           "key": "source:BH05195",
-          "why": "Read refinement as receptivity to fragrance."
+          "why": "Read refinement as receptivity to fragrance.",
+          "shortened": [
+            "Be ye utterly refined, for whoso lacketh refinement shall never perceive the fragrances of the All-Merciful nor associate with the dwellers of the Ridvan."
+          ]
         },
         {
           "key": "source:BH08328",
@@ -3524,31 +4344,52 @@
         },
         {
           "key": "source:BH10209",
-          "why": "Guard the pearls entrusted to the heart."
+          "why": "Guard the pearls entrusted to the heart.",
+          "shortened": [
+            "O friends! Every precious and desirable thing hath thieves in pursuit of it. Therefore, you must preserve with the utmost effort and striving the pearls of divine love--which are the most excellent, delicate and beautiful jewels of the world--within the treasuries of your hearts."
+          ]
         },
         {
           "key": "source:AB04266",
-          "why": "Read purification within service to the Threshold."
+          "why": "Read purification within service to the Threshold.",
+          "shortened": [
+            "It is a condition of severance from self and from the defilement of the physical world, of purification of self in the service of the divine Threshold."
+          ]
         },
         {
           "key": "source:AB04641",
-          "why": "Join virtue, remembrance and steadfastness."
+          "why": "Join virtue, remembrance and steadfastness.",
+          "shortened": [
+            "Let them arise with utmost chastity, with consummate purity, with steadfastness in the Cause, and faithfulness in the Covenant. Let them distinguish themselves through the illumination of their hearts, their unsullied spirituality, and their continual remembrance of His Name and their genuine virtue."
+          ]
         },
         {
           "key": "source:AB06619",
-          "why": "Imagine purity becoming cleansing service."
+          "why": "Imagine purity becoming cleansing service.",
+          "shortened": [
+            "Each of the friends of God must manifest such sanctity that he would purify and sanctify the world, become pure and holy as the light, and should, like unto pure water, wash away every stain."
+          ]
         },
         {
           "key": "source:BH01948",
-          "why": "Remove what estranges and draw near."
+          "why": "Remove what estranges and draw near.",
+          "shortened": [
+            "Sanctify yourselves from all that would remove you from God, then draw nigh with your hearts unto the court of sublime glory."
+          ]
         },
         {
           "key": "source:BH02457",
-          "why": "Join purification with seeking bounty each day."
+          "why": "Join purification with seeking bounty each day.",
+          "shortened": [
+            "Purify thyself from whatsoever is unworthy of thee, then seek bounty from thy Lord every morn and eve."
+          ]
         },
         {
           "key": "source:BH03348",
-          "why": "Preserve the stated meaning of reflecting the Great Name."
+          "why": "Preserve the stated meaning of reflecting the Great Name.",
+          "shortened": [
+            "It behooveth thee to be sanctified, that thou mayest reflect this Great Name. Know thou that God's purpose in this Name is the sanctification of the soul from His enemies."
+          ]
         },
         {
           "key": "source:BH03374",
@@ -3560,7 +4401,10 @@
         },
         {
           "key": "source:BH10516",
-          "why": "Remove allusions that obscure illumination."
+          "why": "Remove allusions that obscure illumination.",
+          "shortened": [
+            "Purify thy heart from all allusions, that it may be illumined by the lights of the countenance of thy Lord, the Possessor of Names and Attributes."
+          ]
         },
         {
           "key": "source:AB06825",
@@ -3568,15 +4412,24 @@
         },
         {
           "key": "source:AB07053",
-          "why": "Join freedom from egotism with service and sacrifice."
+          "why": "Join freedom from egotism with service and sacrifice.",
+          "shortened": [
+            "O my dear one! This day is the day of purification, the day of sanctification, the day of turning toward God, the day of severance from all else save God, the day of lowliness and humiliation, the day of serving the beloved ones of God, the day of becoming utterly destitute of and free from egotism and desire and the day of purity and sacrifice in the path of God."
+          ]
         },
         {
           "key": "source:AB07281",
-          "why": "Retain the brief image of sanctification’s lights."
+          "why": "Retain the brief image of sanctification’s lights.",
+          "shortened": [
+            "In the world of existence, the greatest purpose is complete attention to the Promised Beauty, and when the heart becomes enkindled and engaged with the Beloved Lord, it inevitably becomes heedless and detached from all else. Therefore, the greatest means of illuminating the heart is through the lights of sanctification."
+          ]
         },
         {
           "key": "source:AB07498",
-          "why": "Read detachment, sincerity and faithfulness together."
+          "why": "Read detachment, sincerity and faithfulness together.",
+          "shortened": [
+            "Today, that which draws one near to the threshold of grandeur is detachment from the world of self and passion, purity of heart, sincerity of intention, and faithfulness."
+          ]
         },
         {
           "key": "source:AB07524",
@@ -3596,11 +4449,17 @@
         },
         {
           "key": "source:BH02683",
-          "why": "Keep the paired counsel to heart and mind."
+          "why": "Keep the paired counsel to heart and mind.",
+          "shortened": [
+            "Speak naught but truth and walk in no path save that of justice. Sanctify your heart and purify your mind."
+          ]
         },
         {
           "key": "source:BH02860",
-          "why": "Join freedom from fancy with remembrance."
+          "why": "Join freedom from fancy with remembrance.",
+          "shortened": [
+            "Purify yourselves from the veils of idle fancy and your breasts from all doubt. Thus have We commanded you aforetime, and now through a holy and exalted Pen. Then purify your tongues for the remembrance of God, the Most Great, for verily He hath appeared in truth with a sovereignty that encompasseth all the worlds."
+          ]
         },
         {
           "key": "source:BH04187",
@@ -3612,15 +4471,24 @@
         },
         {
           "key": "source:BH05672",
-          "why": "Follow devotion through daily movements and desires."
+          "why": "Follow devotion through daily movements and desires.",
+          "shortened": [
+            "Sanctify thyself from all that veils thee from the beauty of the Divine Essence, in such wise that thou shalt dwell only in His remembrance, walk only in His name, sleep only by His leave, arise only at His bidding, drink only of His love, gaze only upon His beauty, seek only His presence, and desire only His meeting, that thou mayest enter the City of Immortality in the most exalted Paradise, attain unto every good, and find every light, and be in truth the guided one as thou art named."
+          ]
         },
         {
           "key": "source:BH05986",
-          "why": "Read pure deeds beside an unencumbered heart."
+          "why": "Read pure deeds beside an unencumbered heart.",
+          "shortened": [
+            "O Qasim! Today pure deeds are required, and a heart detached and free. Beseech thou God that thou mayest attain unto this station and enter the kingdom of His good-pleasure."
+          ]
         },
         {
           "key": "source:BH06140",
-          "why": "Consider divine love as the cleansing means."
+          "why": "Consider divine love as the cleansing means.",
+          "shortened": [
+            "Purify thy heart through the love of God, thy Lord, for by it are all worlds purified."
+          ]
         },
         {
           "key": "source:BH07638",
@@ -3632,11 +4500,17 @@
         },
         {
           "key": "source:BH10199",
-          "why": "Join a shared gaze with praise."
+          "why": "Join a shared gaze with praise.",
+          "shortened": [
+            "All must, God willing, gaze with utmost sanctity and detachment toward the most exalted horizon and give voice to the praise and glorification of the Lord of Names."
+          ]
         },
         {
           "key": "source:BH10216",
-          "why": "Read certitude as cleansing water."
+          "why": "Read certitude as cleansing water.",
+          "shortened": [
+            "Thou must needs cleanse it with the water of certitude that it may be purified and sanctified from the mention of aught else but Me, and become worthy of this most great bounty and supreme gift."
+          ]
         },
         {
           "key": "source:BH11006",
@@ -3644,7 +4518,10 @@
         },
         {
           "key": "source:AB01114",
-          "why": "Connect truthfulness with entrance into the Kingdom."
+          "why": "Connect truthfulness with entrance into the Kingdom.",
+          "shortened": [
+            "For most of those people possess hearts of utmost purity and innate truthfulness, and today the greatest means of entry into the divine Kingdom is truthfulness and purity of heart."
+          ]
         },
         {
           "key": "source:AB04268",
@@ -3652,7 +4529,11 @@
         },
         {
           "key": "source:AB04311",
-          "why": "Keep detachment and love beside fidelity."
+          "why": "Keep detachment and love beside fidelity.",
+          "shortened": [
+            "O thou who art firm in the Covenant!",
+            "Today the glance of the favor of His Holiness, Baha'u'llah is directed to those souls who are full of the love of God, are detached from self and passion and are reflectors of purity, sanctity and piety."
+          ]
         },
         {
           "key": "source:AB05973",
@@ -3664,19 +4545,31 @@
         },
         {
           "key": "source:AB07054",
-          "why": "Read the sacrifices aimed at bringing transformed souls into being."
+          "why": "Read the sacrifices aimed at bringing transformed souls into being.",
+          "shortened": [
+            "It is evident that these wanderers have sacrificed all physical and spiritual affairs in the path of God, that perchance souls might come into being and appear in the realm of existence who would be quickened by the holy breaths of the Spirit of God and become the manifestation of sanctification and detachment, so that the brilliant reality of \"Purify thy heart for My descent\" might be fulfilled."
+          ]
         },
         {
           "key": "source:AB08208",
-          "why": "Keep the invitation to receive the horizon’s light."
+          "why": "Keep the invitation to receive the horizon’s light.",
+          "shortened": [
+            "Remove from thy heart every trace of the conditions of misbelief, that the lights of this luminous horizon may shine upon it."
+          ]
         },
         {
           "key": "source:AB08726",
-          "why": "Read purity itself as demanded evidence."
+          "why": "Read purity itself as demanded evidence.",
+          "shortened": [
+            "Yet proof is required, and that proof is attraction and rapture, purity and detachment, freedom from defilement, and sanctification and holiness."
+          ]
         },
         {
           "key": "source:AB09200",
-          "why": "Join holiness with love and servitude."
+          "why": "Join holiness with love and servitude.",
+          "shortened": [
+            "There is no way of salvation other than through sanctity and purity, through love and servitude to the All-Glorious Lord."
+          ]
         },
         {
           "key": "source:ABU1671",
@@ -3692,7 +4585,10 @@
         },
         {
           "key": "source:BH01869",
-          "why": "Imagine holiness as a perceptible fragrance."
+          "why": "Imagine holiness as a perceptible fragrance.",
+          "shortened": [
+            "Fear God, O people, and be of them from whom waft the sweet fragrances of holiness and detachment, and to whose sanctity the Concourse on High bear witness."
+          ]
         },
         {
           "key": "source:BH02345",
@@ -3704,15 +4600,24 @@
         },
         {
           "key": "source:BH02849",
-          "why": "Keep the particular appeal to relinquish aversion."
+          "why": "Keep the particular appeal to relinquish aversion.",
+          "shortened": [
+            "Now purify your heart from aversion to this Youth and from love of His enemies, that healing manifestations may appear from the treasury of mighty oneness."
+          ]
         },
         {
           "key": "source:BH03193",
-          "why": "Prepare the heart as a receptacle of love."
+          "why": "Prepare the heart as a receptacle of love.",
+          "shortened": [
+            "Purify thy heart from all allusions, then make it a receptacle for the love of My Name, the All-Merciful, and be not of the heedless."
+          ]
         },
         {
           "key": "source:BH03233",
-          "why": "Read the stated purpose of the command."
+          "why": "Read the stated purpose of the command.",
+          "shortened": [
+            "Say: He has commanded you only to that which would purify your souls from the turbidities of self and passion, yet you heeded not his word and followed the ways of the corrupt."
+          ]
         },
         {
           "key": "source:BH03540",
@@ -3720,7 +4625,10 @@
         },
         {
           "key": "source:BH05105",
-          "why": "Connect conduct with the transcendence of the divine."
+          "why": "Connect conduct with the transcendence of the divine.",
+          "shortened": [
+            "It behooveth My loved ones to be sanctified from all things and from whatsoever is repugnant to God's good-pleasure, that through them may be made manifest the sanctification of His Self from any likeness and the exaltation of His Being above any similitude."
+          ]
         },
         {
           "key": "source:BH05917",
@@ -3728,11 +4636,17 @@
         },
         {
           "key": "source:BH06331",
-          "why": "Associate with a brother for the All-Merciful’s sake."
+          "why": "Associate with a brother for the All-Merciful’s sake.",
+          "shortened": [
+            "Blessed is he who has turned his gaze away from his brother and associated with him in spirit and fragrance, purely for the sake of the All-Merciful."
+          ]
         },
         {
           "key": "source:BH06769",
-          "why": "Let the heart reflect the revealed light."
+          "why": "Let the heart reflect the revealed light.",
+          "shortened": [
+            "Purify your hearts from all earthly suggestions, that the revelation of your Lord, the All-Merciful, may be reflected therein."
+          ]
         },
         {
           "key": "source:BH07004",
@@ -3744,7 +4658,10 @@
         },
         {
           "key": "source:BH07244",
-          "why": "Remove what prevents worthy human conduct."
+          "why": "Remove what prevents worthy human conduct.",
+          "shortened": [
+            "Today the divine decree in the holy scriptures and tablets is to sanctify oneself from all that preventeth man from that which beseemeth him."
+          ]
         },
         {
           "key": "source:BH07298",
@@ -3768,11 +4685,17 @@
         },
         {
           "key": "source:BH09945",
-          "why": "Read reverence as water preparing the heart’s inscription."
+          "why": "Read reverence as water preparing the heart’s inscription.",
+          "shortened": [
+            "The heart must needs be purified with the water of the fear of God, that it may be adorned with the inscription of the blessed words \"Verily I am God's.\""
+          ]
         },
         {
           "key": "source:BH10178",
-          "why": "Keep the particular invitation to the mystics’ gathering."
+          "why": "Keep the particular invitation to the mystics’ gathering.",
+          "shortened": [
+            "O Ali! If you desire to enter the gathering of the mystics, purify yourself from all that souls detest."
+          ]
         },
         {
           "key": "source:BH11712",
@@ -3780,11 +4703,17 @@
         },
         {
           "key": "source:BH11722",
-          "why": "Retain the counsel concerning the promptings of opponents."
+          "why": "Retain the counsel concerning the promptings of opponents.",
+          "shortened": [
+            "Purify thyself from whatsoever hath occurred to thee, and thy breast from the promptings of them who have disbelieved in God and who move about in the wilderness of passion, having deprived themselves of God's mercy."
+          ]
         },
         {
           "key": "source:BH11718",
-          "why": "Close linked readings with purified senses and wholehearted service."
+          "why": "Close linked readings with purified senses and wholehearted service.",
+          "shortened": [
+            "O dear one, soul and spirit, beseech the Eternal God that we may attain to that which befits this Day, which is to wholly forget ourselves and others, and arise to serve with a hundred thousand bodies and a hundred thousand souls. The first service is to purify the heart, sight, hearing, inner consciousness and all limbs from that which is unworthy."
+          ]
         },
         {
           "key": "selection:d9153cd532936dffd5f319fd",

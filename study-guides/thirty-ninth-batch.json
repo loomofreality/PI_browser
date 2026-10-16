@@ -5,7 +5,7 @@
       "id": "39795FE0FF8AE70BF2A0D5EF2720675C",
       "slug": "moses",
       "displayTitle": "Moses: the hesitant speaker and the power to liberate",
-      "introduction": "A person described as slow of speech becomes the one who converses with God. This striking reversal opens the collection, inviting attention to a power that cannot be measured by outward advantages alone. The passages remember Moses as liberator and educator, while the burning bush, staff, white hand, wilderness, and mountain become images of recognition and renewed revelation. Some passages interpret scripture; others use poetic language or offer historical arguments in reported talks. Their sweeping descriptions of ancient peoples and their development belong to those particular settings, rather than serving as timeless judgments about a community. Exodus places Moses’ hesitation beside promised assistance and Aaron’s companionship [1]. The connected subjects of Judaism, biblical interpretation, and Mosaic imagery invite readers to distinguish the Torah’s narrative from its later spiritual readings, then ask how hearing a call might become patient instruction, courageous action, and a people’s release from bondage.",
+      "introduction": "The man who called Himself slow of speech became the One Who conversed with God. ‘Abdu’l-Bahá returns to that reversal again and again: a shepherd reared in the house of tyranny, reputed a murderer, hated by Pharaoh’s court, who freed a captive people and gave them a moral education so thorough that the philosophers of Greece came to learn from them. Capacity, on this reading, is not something a person brings to a calling but something the calling supplies. Bahá’u’lláh makes the burning bush, the staff, the white hand and the mountain into a vocabulary of recognition: many crossed Sinai, but only Moses heard the Voice, and that same fire still guides whoever is willing to cast off the sandals of desire. Exodus sets Moses’ hesitation beside the promise of divine teaching and the companionship of Aaron [1], a reminder that no one is liberated or liberates alone. The road onward leads into Judaism and the Torah, into the way the Bible is read and interpreted in the Writings, and into Mosaic imagery, where an ancient encounter is offered as a pattern for hearing a call today.",
       "arc": "Begin with speech and assistance, follow the encounter and confrontation, then explore liberation, education, and the continuing life of Mosaic imagery.",
       "order": [
         {
@@ -14,23 +14,39 @@
         },
         {
           "key": "source:ABU1489",
-          "why": "Read the reported request for Aaron’s aid and the contrast with Pharaoh."
+          "why": "Read the reported request for Aaron’s aid and the contrast with Pharaoh.",
+          "shortened": [
+            "His Holiness Moses had a stammering speech and asked [God], 'I am slow of speech, and of a slow tongue. Grant me [the aid of] Aaron, my brother.' And His wish was granted. However, Pharaoh spoke mockingly to Him, 'You are a murderer and claim to be a Prophet?!' Behold now that in America, after 3000 years, they raise temples in the name of Moses.",
+            "Where is Pharaoh now to behold the majesty of Moses?"
+          ]
         },
         {
           "key": "source:AB00855",
-          "why": "Consider the unlikely shepherd as liberator."
+          "why": "Consider the unlikely shepherd as liberator.",
+          "shortened": [
+            "Moses was for a long time a shepherd in the wilderness. To outward seeming He was a man Who had been reared in the bosom of tyranny, had become reputed among men as a murderer, had taken up the shepherd's staff, and was fiercely hated and reviled by Pharaoh's government and people. It was such a man Who freed a great people from the fetters of captivity and persuaded them to leave Egypt and settle in the Holy Land."
+          ]
         },
         {
           "key": "source:ABU1511",
-          "why": "Keep the reported contrast between outward weakness and divine power."
+          "why": "Keep the reported contrast between outward weakness and divine power.",
+          "shortened": [
+            "His highness, Moses, was apparently a shepherd, but through the Divine Power, he overcame Pharaoh and his armies."
+          ]
         },
         {
           "key": "source:ABU1840",
-          "why": "Read the reported distinction between crossing Sinai and hearing its call."
+          "why": "Read the reported distinction between crossing Sinai and hearing its call.",
+          "shortened": [
+            "Many people crossed the desert of Sinai but it was Moses who heard the voice of God because the divine Manifestations have a spiritual power peculiar to themselves."
+          ]
         },
         {
           "key": "source:BH00794",
-          "why": "Enter the wilderness through longing and supplication."
+          "why": "Enter the wilderness through longing and supplication.",
+          "shortened": [
+            "How greatly did the Son of 'Imran supplicate and implore in this wilderness, wherein is situated the Sinai of divine knowledge, that he might attain the presence of the All-Merciful, until at last he heard that which is recorded in detail in the Holy Books."
+          ]
         },
         {
           "key": "source:AB04091",
@@ -38,7 +54,10 @@
         },
         {
           "key": "source:AB02584",
-          "why": "Consider the green tree and the light of divine identity."
+          "why": "Consider the green tree and the light of divine identity.",
+          "shortened": [
+            "O thou who hast borrowed the light of guidance! His Holiness Moses, the Speaker with God, beheld the emanation of the light of the Divine Identity from the kindled fire in the green tree, and heard the call, saying \"Verily I perceive guidance in the fire\" and \"Lo, I perceive a fire!\""
+          ]
         },
         {
           "key": "source:AB08898",
@@ -50,11 +69,17 @@
         },
         {
           "key": "source:BH04890",
-          "why": "Consider the fire that guides toward the Voice."
+          "why": "Consider the fire that guides toward the Voice.",
+          "shortened": [
+            "This fire hath ever been and shall ever remain the reality of light. This fire guided the Son of Imran to the highest horizon and enabled him to hearken unto the Voice."
+          ]
         },
         {
           "key": "source:BH07827",
-          "why": "Hear the rustling that becomes guidance."
+          "why": "Hear the rustling that becomes guidance.",
+          "shortened": [
+            "Its rustling was raised up and it spoke that which guided Moses unto God, the Lord of the unseen and the seen."
+          ]
         },
         {
           "key": "source:BH00335",
@@ -78,7 +103,11 @@
         },
         {
           "key": "source:BH01342",
-          "why": "Enter the extended sacred retelling of encounter and mission."
+          "why": "Enter the extended sacred retelling of encounter and mission.",
+          "shortened": [
+            "When Moses cast off the sandals of allusion and detached himself unto God, then did God call unto him from the holy Tree amidst the flames of fire: \"O Moses! Verily, I am God, thy Lord and the Lord of thy fathers, Abraham, Isaac, and Jacob.\" \"Cast down thy staff!\" He cast it down and lo! by God's command it became a serpent that sought to devour all in the heavens and earth. Thus was it decreed for him in holy Paran, that perchance the people might be mindful in the days of their Lord. Then did the Hand of Power emerge from the Bosom of Knowledge, whereupon the light shone forth and illumined all who dwell in the dominion of command and creation, would ye but understand.",
+            "\"Go forth, O Moses, with My proof unto Pharaoh and his chiefs, remind them of the lights of divine unity, and give them glad tidings of the paradise of immortality, that they may incline toward the direction of the Throne. Say: This is My path, walk ye therein, O ye who stand still!\""
+          ]
         },
         {
           "key": "source:BH00002",
@@ -86,7 +115,10 @@
         },
         {
           "key": "source:BH01686",
-          "why": "Consider the staff as command and the hand as knowledge."
+          "why": "Consider the staff as command and the hand as knowledge.",
+          "shortened": [
+            "He sent forth Moses with the rod of Command and the white hand of knowledge. All people arose to oppose Him, yet this only increased the loss of the wrongdoers."
+          ]
         },
         {
           "key": "source:BH02051",
@@ -98,19 +130,32 @@
         },
         {
           "key": "source:BH00705",
-          "why": "Read the fuller account of denial, pursuit, and deliverance."
+          "why": "Read the fuller account of denial, pursuit, and deliverance.",
+          "shortened": [
+            "Then after him We sent forth Him Who conversed with God (Moses) with clear signs and made him a proof unto all in the heavens and earth. We sent him to Pharaoh and his chiefs.",
+            "We commanded him to depart with the Children of Israel, and when he departed, Pharaoh and his hosts pursued them from behind to seize them unjustly. We drowned them and delivered those who believed in God, the Powerful, the Mighty, the Praiseworthy."
+          ]
         },
         {
           "key": "source:BH04942",
-          "why": "Consider the sea and deliverance within the language of signs."
+          "why": "Consider the sea and deliverance within the language of signs.",
+          "shortened": [
+            "O Moses! We chose the Interlocutor aforetime and sent him to Pharaoh and his chiefs with nine clear signs, and I am verily the Sender, the Most Exalted, the All-Knowing, the Ancient. Among these was the staff of Command whereby We parted the sea and delivered those who believed, and drowned the idolaters."
+          ]
         },
         {
           "key": "source:BH02423",
-          "why": "Keep the lament over rejection and its consequences."
+          "why": "Keep the lament over rejection and its consequences.",
+          "shortened": [
+            "Then look before Him at Moses when He came with His Lord's signs, and the people turned away from Him on that day and denied God's Cause after its manifestation and committed that which caused the clouds to cry out."
+          ]
         },
         {
           "key": "source:BH07991",
-          "why": "Read the reference to secret early support."
+          "why": "Read the reference to secret early support.",
+          "shortened": [
+            "His Holiness Moses conveyed the Word of God to the Pharaoh of his time, and in the early days a strong party secretly supported him."
+          ]
         },
         {
           "key": "source:ABU3237",
@@ -122,7 +167,10 @@
         },
         {
           "key": "source:ABU0168",
-          "why": "Turn toward the reported educational meaning of liberation."
+          "why": "Turn toward the reported educational meaning of liberation.",
+          "shortened": [
+            "Anyone who closely examines the facts of generally accepted history, revealing the hidden truths of previous eras, will be assured that Moses, peace be upon him, drew the children of Israel from abasement, humiliation, captivity and hopelessness, and taught them with immense strength until they attained to the apex of glory and distinction. He smoothed their path to the greatest happiness."
+          ]
         },
         {
           "key": "source:ABU0032",
@@ -134,7 +182,10 @@
         },
         {
           "key": "source:ABU0280",
-          "why": "Consider the reported description of a universal Teacher."
+          "why": "Consider the reported description of a universal Teacher.",
+          "shortened": [
+            "For example, Moses was a universal Teacher. He trained and disciplined the people of Israel, enabled them to rescue themselves from the lowest abyss of despair and ignorance and caused them to attain an advanced degree of knowledge and development."
+          ]
         },
         {
           "key": "source:ABU1159",
@@ -150,7 +201,10 @@
         },
         {
           "key": "source:AB01333",
-          "why": "Read divine law and education together."
+          "why": "Read divine law and education together.",
+          "shortened": [
+            "The essence of the matter is this: When His Holiness Moses the Great delivered Israel from ancient Egypt and brought them to the Holy Land, through the power of God's law, the force of God's Kingdom, the breaths of prophetic revelation, and the education of the pure ones, Israel ascended from the depths of abasement to the heights of glory in both worlds."
+          ]
         },
         {
           "key": "source:AB01160",
@@ -162,7 +216,11 @@
         },
         {
           "key": "source:ABU0692",
-          "why": "Consider the extended reported argument for Moses as a spiritual educator."
+          "why": "Consider the extended reported argument for Moses as a spiritual educator.",
+          "shortened": [
+            "Therefore there remains no shadow of a doubt that His Holiness Moses was the first Educator of mankind. Unique, single, with no assistance, no support, no aid and notwithstanding a stammering tongue, he caused the rise of such a lowly, degraded nation to the apogee of spiritual attainment and wisdom. This shows that he was unquestionably confirmed by the divine Holy-Spirit, because from every standpoint this is unparalleled.",
+            "From these instances we comprehend that His Holiness Moses was inspired by the spiritual power; because mere man would be unable to reform a nation like unto that of Israelites, delivering millions of people from the claws of defects and ignorance and causing them to fly upward toward the realms of light and the Effulgence of God!"
+          ]
         },
         {
           "key": "source:ABU1202",
@@ -170,11 +228,18 @@
         },
         {
           "key": "source:ABU1653",
-          "why": "Consider the reported shepherd’s influence on a whole nation."
+          "why": "Consider the reported shepherd’s influence on a whole nation.",
+          "shortened": [
+            "Moses was neither a philosopher nor a scientist. Outwardly he was but a simple shepherd, but he was able to instruct and develop a whole nation which had been in a state of demoralization; but which through his influence reached a very enlightened civilization."
+          ]
         },
         {
           "key": "source:ABU0797",
-          "why": "Read the reported contrast between enduring spiritual influence and worldly rule."
+          "why": "Read the reported contrast between enduring spiritual influence and worldly rule.",
+          "shortened": [
+            "Yesterday, incidentally, I was writing to a philosopher who maintained that the Prophets are barriers to progress, and I proved his error. I wrote him about the truth of His Holiness Moses. Consider how lofty is His sovereignty!",
+            "Conversely, consider the case of Pharaoh. There is no sign of him, no name of him, no trace of him. The little name that remains of him is because he was a contemporary of His Holiness Moses. Otherwise, pharaohs were many."
+          ]
         },
         {
           "key": "source:ABU0785",
@@ -186,7 +251,10 @@
         },
         {
           "key": "source:ABU0015",
-          "why": "Read the reported account of changing laws and circumstances."
+          "why": "Read the reported account of changing laws and circumstances.",
+          "shortened": [
+            "And when His Holiness Moses was in the wilderness and had no prison or place of confinement, He said: tooth for tooth and eye for eye, according to the exigency of that time. But is this possible now? Nay, it is not possible today to enforce each of the ten penalties of death found in the Torah; indeed, people are now engaged in inquiry and discussion concerning a single matter, namely the abolition of the execution of the murderer."
+          ]
         },
         {
           "key": "source:BB00585",
@@ -262,12 +330,15 @@
       "id": "4A93A1AFA0B44305BB29CFD7BF83CFC4",
       "slug": "peterpaul",
       "displayTitle": "Peter and Paul: failure, renewal, and steadfast service",
-      "introduction": "A failure need not become the final description of a life. Peter’s fear and denial and Paul’s movement from opposition to service recur in these passages alongside extraordinary courage, teaching, and enduring influence. The compilation also considers the meaning of the rock, the relationship between recognition and authority, and the wisdom of approaching people through friendship and understanding. Its accounts have different source status and should not be combined into a seamless biography. In particular, ABU0550 reports a hostile claim that Christ was invented as an example of dismissal, not as its own affirmation; broad religious generalizations likewise require their historical context. John’s account of Peter being entrusted with care after affirming his love offers a focused comparison [1]. The connected subject of Christ and Christianity widens the inquiry into how grace, human frailty, and sustained responsibility can shape a life of faith.",
+      "introduction": "Peter, the head of the Apostles, denied his Master three times before the cock crowed, and the one who was called the rock quaked for a moment. Paul began as an enemy of Christ and ended as His foremost servant. ‘Abdu’l-Bahá returns to these two lives when consoling people who have stumbled under tests: a fall is not the final description of anyone. A fisherman who had never read a word of learning rose to a knowledge whose fragrance perfumed the world, and that was grace; a scholar of the Pharisees, once filled with Christ, forgot his philosophy and became a heavenly bird. The two are remembered too for the patient wisdom of their teaching, and for rising, bruised and barely able to move, to go to the next fair and begin again. On the shore after the resurrection Jesus asked Peter three times whether he loved Him, and each time entrusted him with the care of the flock [1]. The journey from these two apostles leads naturally into the life of Christ and the story of Christianity itself.",
       "arc": "Begin with renewal after failure, explore the source of capacity and the meaning of the rock, then follow wisdom and steadfastness in service.",
       "order": [
         {
           "key": "source:AB01293",
-          "why": "Open with falling into tests followed by renewed firmness."
+          "why": "Open with falling into tests followed by renewed firmness.",
+          "shortened": [
+            "There is no wonder if thou hast fallen into the tests, for, verily, the great Peter, who was the head of the Apostles, fell into tests thrice; but, verily, God made him so firm that he sacrificed his life in love for Christ."
+          ]
         },
         {
           "key": "source:ABU0285",
@@ -283,7 +354,10 @@
         },
         {
           "key": "source:AB00305",
-          "why": "Read Peter’s tears within the account of testing."
+          "why": "Read Peter’s tears within the account of testing.",
+          "shortened": [
+            "As for tests, they are inevitable. Hast thou not heard and read how in the days of Christ and after Christ divine tests appeared and the winds of trials grew severe, until even the illustrious Peter could not escape the talons of tests and was shaken, then awakened and wept as one bereft, his lamentation ascending to the Concourse on High?"
+          ]
         },
         {
           "key": "source:AB00958",
@@ -291,23 +365,38 @@
         },
         {
           "key": "source:AB06342",
-          "why": "Consider the rock that quakes."
+          "why": "Consider the rock that quakes.",
+          "shortened": [
+            "Peter, who was the Rock (of the Christian dispensation), was firm and solid; but, in the moment of Christis deliverance, that Rock quaked a little, until the crowing of the cock was raised."
+          ]
         },
         {
           "key": "source:ABU1385",
-          "why": "Keep the reported denial beside the description of greatness."
+          "why": "Keep the reported denial beside the description of greatness.",
+          "shortened": [
+            "The greatest of these disciples was Peter, and the weakness of even his belief was such that he denied the Master three times."
+          ]
         },
         {
           "key": "source:AB01623",
-          "why": "Read severe testing and later reverence together."
+          "why": "Read severe testing and later reverence together.",
+          "shortened": [
+            "Consider the greatness of the Cause, and the severity of the tests, that Peter, whom Christ addressed: \"Thou art Peter, an upon this rock will I build My Church\" - denied Jesus thrice. This was not save on account of the severity of the tests. Now the nations of the world bless themselves in his (Peter's) name, and hope - kissing the dust beneath his feet, because of his relation to Jesus."
+          ]
         },
         {
           "key": "source:AB02145",
-          "why": "Keep the account of persecution and its generalized language within its setting."
+          "why": "Keep the account of persecution and its generalized language within its setting.",
+          "shortened": [
+            "In that time no one but a certain few persons believed in Him; and the great one among them was Peter the disciple, who, through the burning of the fire of test and persecution, was in great fear and denied Christ three times; then the Jews who were scoffing persecuting, deriding and laughing at Him, despised Him as though He were a thief, a murderer, or a villain, and committed against Him that which made the hearts lament, distressed the minds, caused tears to flow and the foundations of existence to tremble and shake!"
+          ]
         },
         {
           "key": "source:BH00548",
-          "why": "Read response, grace, lapse, and renewed steadfastness in one passage."
+          "why": "Read response, grace, lapse, and renewed steadfastness in one passage.",
+          "shortened": [
+            "But the fisherman who was occupied with catching fish - when the Spirit [Jesus] passed by him and said \"Come, I will make you a fisher of men\" - instantly turned to Him, forsook the sea and fish and all therein. Having never seen a word of knowledge, he ascended to the kingdom of knowledge. Finally he reached such a station that his sweet fragrances perfumed the world. That is from God's grace - He giveth it to whom He willeth. This same Peter, despite his exalted station, at the end of his days showed that which was unworthy, but in an instant the hand of grace seized him again and he was sustained by the Kawthar of steadfastness. Blessed is he."
+          ]
         },
         {
           "key": "source:BH06291",
@@ -315,7 +404,10 @@
         },
         {
           "key": "source:AB00388",
-          "why": "Ground capacity in the light of Christ’s blessings."
+          "why": "Ground capacity in the light of Christ’s blessings.",
+          "shortened": [
+            "Peter was a fisherman and Mary Magdalene a peasant, but as they were specially favored with the blessings of Christ, the horizon of their faith became illumined, and down to the present day they are shining from the horizon of everlasting glory. In this station, merit and capacity are not to be considered; nay rather, the resplendent rays of the Sun of Truth, which have illumined these mirrors, must be taken into account."
+          ]
         },
         {
           "key": "source:ABU2200",
@@ -323,7 +415,10 @@
         },
         {
           "key": "source:ABU1128",
-          "why": "Consider the reported use of whatever capacity was available."
+          "why": "Consider the reported use of whatever capacity was available.",
+          "shortened": [
+            "Just think that Peter and other apostles of Christ belonged to the common people and were not educated but as they expended whatever capacity they had in the path of Christ, they shone forth from the horizon of eternity. The results of the dedication of their lives to the Cause of Christ are yet continued."
+          ]
         },
         {
           "key": "source:AB02110",
@@ -335,19 +430,31 @@
         },
         {
           "key": "source:AB04648",
-          "why": "Read unexpected reception of grace without generalizing about a present religious community."
+          "why": "Read unexpected reception of grace without generalizing about a present religious community.",
+          "shortened": [
+            "It is even as in the time of the Messiah, when the Pharisees and the pious were left without a portion, while Peter, John and Andrew, given neither to pious worship nor ascetic practice, won the day. Wherefore, thank ye God for setting upon your heads the crown of glory everlasting, for granting unto you this immeasurable grace."
+          ]
         },
         {
           "key": "source:ABU0585",
-          "why": "Keep the reported reversal of recognized status."
+          "why": "Keep the reported reversal of recognized status.",
+          "shortened": [
+            "To illustrate: The great Rabbi Caiaphas becomes the abased one, whereas an humble fisherman such as Peter is so greatly elevated."
+          ]
         },
         {
           "key": "source:AB00473",
-          "why": "Read the contrast between religious office and recognition in its attributed form."
+          "why": "Read the contrast between religious office and recognition in its attributed form.",
+          "shortened": [
+            "Give my greeting to Mr... and announce to him, \"Caiaphas and Annas were the colossal pillars of the Mosaic Dispensation in the day of His Highness the Spirit; but as they did not acknowledge the Word of God, they fell from the apex of glory to the bottom of the pit of the greatest abasement. But Peter was a catcher of fish; as he turned his face toward the Word of God, the fame of his imperishable, deathless and immortal glory encircled East and West; and he found in the sovereignty of the Kingdom, eternal and everlasting majesty."
+          ]
         },
         {
           "key": "source:ABU3681",
-          "why": "Consider the reported contrast between belief and familial proximity."
+          "why": "Consider the reported contrast between belief and familial proximity.",
+          "shortened": [
+            "Peter believed in Him, but His own brothers did not believe in Him."
+          ]
         },
         {
           "key": "source:AB00256",
@@ -359,7 +466,10 @@
         },
         {
           "key": "source:AB00945",
-          "why": "Consider the recorded tradition and its role in unity."
+          "why": "Consider the recorded tradition and its role in unity.",
+          "shortened": [
+            "Christ, referring to Peter, said: \"Thou art a Rock and upon this Rock I shall build My Church.\" This statement is not recorded by the pen of Christ, nor doth it clearly call for turning to Peter, nor hath it been revealed by Christ in His Book. It is but a tradition handed down by the apostles. This tradition, however, caused everyone to obey, and eliminated misunderstandings among the apostles and the Christians."
+          ]
         },
         {
           "key": "source:AB01409",
@@ -367,11 +477,17 @@
         },
         {
           "key": "source:AB10791",
-          "why": "Read the influence attributed to that word."
+          "why": "Read the influence attributed to that word.",
+          "shortened": [
+            "Jesus Christ said only a few words to Peter, telling him that upon that rock he would build his church. He left no written instruction or will, and yet because it was the Word of God, it took root, and millions have obeyed it."
+          ]
         },
         {
           "key": "source:AB02519",
-          "why": "Keep the historical claim about unity attributed to the source."
+          "why": "Keep the historical claim about unity attributed to the source.",
+          "shortened": [
+            "Christ, for the preservation of Christian unity, spoke one word to Peter: \"Thou art the rock, and upon this rock I will build my church.\" This word preserved Christian unity for eight hundred years, even though it was just a tradition."
+          ]
         },
         {
           "key": "source:ABU0703",
@@ -379,11 +495,17 @@
         },
         {
           "key": "source:AB00872",
-          "why": "Read envy and the response to Peter’s distinction."
+          "why": "Read envy and the response to Peter’s distinction.",
+          "shortened": [
+            "Then it seemed to him that Jesus was showing increasing regard to the Apostle Peter, and when Jesus said, 'Thou art Peter, and upon this rock I will build My church,' these words addressed to Peter, and this singling out of Peter for special honour, had a marked effect on the Apostle, and kindled envy within the heart of Judas. For this reason he who had once drawn nigh did turn aside, and he who had believed in the Faith denied it, and his love changed to hate, until he became a cause of the crucifixion of that glorious Lord, that manifest Splendour."
+          ]
         },
         {
           "key": "source:AB06438",
-          "why": "Consider tests as revealing differing motives."
+          "why": "Consider tests as revealing differing motives.",
+          "shortened": [
+            "Had the doors of comfort and wealth been opened to the apostles of Christ, how could the sincerity of Peter the Apostle have been distinguished from the treachery of Judas Iscariot? The virtues of the former and vices of the latter were only revealed through tests and trials."
+          ]
         },
         {
           "key": "source:ABU1182",
@@ -395,11 +517,18 @@
         },
         {
           "key": "source:AB02740",
-          "why": "Consider the transformation of Paul’s learning and priorities."
+          "why": "Consider the transformation of Paul’s learning and priorities.",
+          "shortened": [
+            "There were many Jewish scholars, but they were earthbound, while Saint Paul was heavenly - this is why he could fly. In his time no one recognized him; rather he spent his days in utmost contempt and trials. Later it became clear that he was not an earthly bird but a heavenly bird, not a natural philosopher but a divine philosopher.",
+            "Although Saint Paul was learned, when he received news of Christ he completely forgot philosophy and became filled with Christ, as he mentions in his epistles."
+          ]
         },
         {
           "key": "source:AB03367",
-          "why": "Read being filled with Christ as the reorientation of knowledge."
+          "why": "Read being filled with Christ as the reorientation of knowledge.",
+          "shortened": [
+            "When Saint Paul was asked about certain philosophical questions, he answered that before he had news of Christ, he knew everything, but when he received news of Christ, he became unaware of everything. For Christ so infused him that no room remained for anything else."
+          ]
         },
         {
           "key": "source:AB06532",
@@ -407,11 +536,19 @@
         },
         {
           "key": "source:ABU2053",
-          "why": "Read the reported hope for service addressed to a minister."
+          "why": "Read the reported hope for service addressed to a minister.",
+          "shortened": [
+            "During the days of Christ there were many Rabbis and high-priests but none of them was confirmed except Paul. All of them were deprived but he became the confirmed King of the ministers. I hope that thou mayst become like Paul, receive a goodly portion from the heavenly Bestowals and arise in the service of thy fellowmen."
+          ]
         },
         {
           "key": "source:ABU2806",
-          "why": "Retain the reported criticism of Paul and marriage as a distinct account."
+          "why": "Retain the reported criticism of Paul and marriage as a distinct account.",
+          "shortened": [
+            "The monasticism of the Christian church was mistaken.",
+            "St. Paul was responsible for much of this because in one of his epistles he praises those who do not marry and prophesied that sects would arise which would not marry. St. Paul disapproved of marriage.",
+            "But God did not give us good gifts that we should reject them. He created all these blessings that His servants may bless Him."
+          ]
         },
         {
           "key": "source:AB01127",
@@ -423,19 +560,31 @@
         },
         {
           "key": "source:AB06361",
-          "why": "Consider the hope that a new journey may bear comparable fruit."
+          "why": "Consider the hope that a new journey may bear comparable fruit.",
+          "shortened": [
+            "Through the favors of the Lord of Hosts, the Promised One, my hope is that this journey of thine may become like the journey of Paul and like the journey of Peter when he went to Antioch - see what mighty results it had!"
+          ]
         },
         {
           "key": "source:AB01507",
-          "why": "Connect contemporary communication with the approach of Paul and faith of Peter."
+          "why": "Connect contemporary communication with the approach of Paul and faith of Peter.",
+          "shortened": [
+            "We must strive to awaken sleeping souls, make the heedless mindful, and bring the divine teachings, which are the spirit of this age, to the ears of the people of the world. They must be published in newspapers and eloquently explained in gatherings. The approach should be like Paul's and the faith like Peter's. This sweet fragrance will perfume the nostrils of the people of the world, and this spirit will bring dead souls to life."
+          ]
         },
         {
           "key": "source:AB00197",
-          "why": "Place peace and the sheathed sword beside religious service."
+          "why": "Place peace and the sheathed sword beside religious service.",
+          "shortened": [
+            "Christ Jesus summoned all mankind to amity and peace. Unto Peter He said: 'Put up thy sword into the sheath.' Such was the bidding and counsel of the Lord Christ; and yet today the Christians one and all have drawn their swords from out the scabbard. How wide is the discrepancy between such acts and the clear Gospel text!"
+          ]
         },
         {
           "key": "source:AB02597",
-          "why": "Read the example of renewed proclamation after injury."
+          "why": "Read the example of renewed proclamation after injury.",
+          "shortened": [
+            "That is, God willing, like Paul the Apostle who, after receiving severe beatings, being struck on the head, slapped on the face and cheek, falling unconscious in the wilderness from unbearable blows, arose and hastened to the nearby city and proclaimed the Cause of God with most eloquent speech and wondrous explanation."
+          ]
         },
         {
           "key": "source:AB00302",
@@ -447,7 +596,10 @@
         },
         {
           "key": "source:ABU0671",
-          "why": "Hear the reported connection between firmness and accomplishment."
+          "why": "Hear the reported connection between firmness and accomplishment.",
+          "shortened": [
+            "If Paul had not stood firm, he would have accomplished nothing. See the result of his firmness! I hope you may be more steadfast than Paul and strive to accomplish greater things."
+          ]
         },
         {
           "key": "source:ABU3495",
@@ -455,15 +607,24 @@
         },
         {
           "key": "source:ABU1569",
-          "why": "Keep the reported comparison with Bahá’í steadfastness in its setting."
+          "why": "Keep the reported comparison with Bahá’í steadfastness in its setting.",
+          "shortened": [
+            "When Christ passed away, He had eleven disciples. The greatest among them was Peter, and he denied Christ three times, but when Baha'u'llah departed He had a hundred thousand believers who were calling out 'Ya Baha'u'l-Abha while they were under swords and daggers, and in these late years many men and women in Yazd were killed by inches without uttering a single cry or complaint, but rather called out the Greatest Name."
+          ]
         },
         {
           "key": "source:ABU0550",
-          "why": "Read the hostile claim as a reported example of dismissal, not an affirmation."
+          "why": "Read the hostile claim as a reported example of dismissal, not an affirmation.",
+          "shortened": [
+            "After three hundred years, Saint Helena went to the Holy Land and some people, for their personal benefit, came to her saying \"We dug here and found the cross on which Christ was crucified.\" This was the foundation of Christ's tomb. Even the graves of Mary and the apostles are unknown. The Catholics say Paul and Peter's graves are in Rome, while the Orthodox say they are in Antioch. It was considered so unimportant that one of the philosophers of that time who wrote a book against Christ says this person Christ never existed and there was no such person - Peter and Paul invented him."
+          ]
         },
         {
           "key": "source:AB09477",
-          "why": "Close with a prayer for firmness expressed through teaching and conduct."
+          "why": "Close with a prayer for firmness expressed through teaching and conduct.",
+          "shortened": [
+            "O thou who hast turned thy face toward the Kingdom of God! I supplicate God that thou mayest become like unto Peter, the \"Rock\"--unshaken, immovable and strong; be assisted by heavenly confirmation; be helped to the service of the Cause of God, opening thy tongue to teach the divine instructions, and living and walking according to the laws of the Book of Aqdas."
+          ]
         }
       ],
       "questions": [
@@ -497,12 +658,16 @@
       "id": "C6BB86F3DB8D4B58AF903A5ABB8B052F",
       "slug": "natureperfection",
       "displayTitle": "Nature’s perfection and imperfection: learning to distinguish the questions",
-      "introduction": "A tree made entirely of fruit would lose the beauty of a tree. This simple image opens a collection in which perfection depends on relationships, diversity, and the standpoint from which something is considered. The passages can praise creation’s order and also describe nature as incomplete: a creature may be fitted to its own degree while human conduct still requires education and moral purpose. Potential perfection can unfold gradually, and every achievement can open toward further growth. Images of weeds, animals, and cultivation serve these arguments in their historical settings; they call for interpretation rather than a blanket dismissal of wild life. Neighboring subjects on divine attributes, diversity, and the relativity of good and evil sharpen the inquiry. Genesis offers a parallel pairing of creation’s goodness [1] with a human task of tending [2], inviting reflection on how admiration and responsible action might belong together.",
+      "introduction": "A tree that turned entirely into fruit would lose the perfection of a tree, ‘Abdu’l-Bahá observes, just as a body that was all brain or all eyes would be a deformity; leaves, blossoms, nails and hair all belong to beauty. Perfection, in His account, is a matter of relationship and degree. The mineral has no right to complain that it lacks the perfections of the plant, and every creature is complete in its own station, yet the whole contingent world is deficient beside its Maker as a painting is beside the painter. A seed already holds the entire plant and discloses it only gradually, so completeness and growth are not rivals. The same teacher who says nothing in creation could be imagined better than what exists also calls nature dark and imperfect until education awakens it, because a field left to itself grows thorns and the animal’s instincts, blameless in the animal, become sins in a human being; greed for knowledge and anger at tyrants are praiseworthy, the same impulses misdirected are not. Genesis holds the two together, pronouncing creation very good [1] and then placing the human being in the garden to tend and keep it [2]. The road leads on toward diversity as a requirement of existence, the relativity of good and evil, and the Perfect Man in whom nature’s possibilities are fulfilled.",
       "arc": "Begin with the tree’s diverse parts, distinguish relative and potential perfection, then consider moral education and the possibility of unending growth.",
       "order": [
         {
           "key": "source:AB01359",
-          "why": "Open with the tree and body whose perfection requires diversity."
+          "why": "Open with the tree and body whose perfection requires diversity.",
+          "shortened": [
+            "For example, if this tree were to become entirely fruit, the perfections of the vegetable kingdom could not be attained, for leaves, blossoms, and fruit are all needed for the tree to appear in the utmost beauty and perfection.",
+            "Consider likewise the body of man, which must of necessity be composed of different parts, limbs, and organs. The beauty and perfection of the human body require the existence of the ear, the eye, the brain, and even the nails and hair: If man were all brain, eyes, or ears, this would be tantamount to imperfection."
+          ]
         },
         {
           "key": "source:BB00354",
@@ -510,31 +675,54 @@
         },
         {
           "key": "source:AB00441",
-          "why": "Consider the different perfections appropriate to different degrees."
+          "why": "Consider the different perfections appropriate to different degrees.",
+          "shortened": [
+            "The meaning of these words is that souls occupy different stations. That which occupies the lowest station of existence, like the mineral, has no right to object, saying, \"O God, why have you denied me the perfections of the plant?\" Likewise, the plant has no right to protest that it has been deprived of the perfections of the animal realm. And, similarly, it is not befitting for the animal to complain of the want of human perfections. No, all these things are perfect in their own degree and must pursue the perfections of that degree."
+          ]
         },
         {
           "key": "source:AB00345",
-          "why": "Make the comparative meaning of perfection explicit."
+          "why": "Make the comparative meaning of perfection explicit.",
+          "shortened": [
+            "For the world of things is a world of imperfection in relation to that of man, and the world of man is a world of perfection in relation to that of things."
+          ]
         },
         {
           "key": "source:AB00815",
-          "why": "Read the painting’s deficiency in relation to the painter."
+          "why": "Read the painting’s deficiency in relation to the painter.",
+          "shortened": [
+            "Is it possible for a painting to be a masterpiece and the painter to be deficient in his craft, notwithstanding that he is its creator? No: The painting cannot be like the painter, for otherwise it would have painted itself. And no matter how perfect the painting may be, in comparison with the painter it is utterly deficient."
+          ]
         },
         {
           "key": "source:AB00713",
-          "why": "Keep the absolute distinction between God and creation in view."
+          "why": "Keep the absolute distinction between God and creation in view.",
+          "shortened": [
+            "God is pure perfection and the creation is absolute imperfection."
+          ]
         },
         {
           "key": "source:AB00399",
-          "why": "Consider infinite perfections and dependence upon God."
+          "why": "Consider infinite perfections and dependence upon God.",
+          "shortened": [
+            "If you examine the matter with care you will see that even in their most outward sense the perfections of existence are infinite, for it is impossible to find any created thing such that nothing superior to it can be imagined.",
+            "As the grace of God is limitless, so too are the perfections of man. If it were possible for the reality of anything to reach the very summit of perfection, then it would become independent of God and the contingent reality would attain to the station of the necessary reality. But every created thing has been assigned a degree which it can in no wise overpass."
+          ]
         },
         {
           "key": "source:AB00722",
-          "why": "Read the seed and the gradual appearance of potential capacities."
+          "why": "Read the seed and the gradual appearance of potential capacities.",
+          "shortened": [
+            "All beings, whether universal or particular, were created perfect and complete from the beginning. The most one can say is that their perfections only become apparent gradually.",
+            "Every seed has, from the beginning, all the perfections of the plant. For example, all the vegetable perfections existed in this seed at the outset but were invisible and appeared only gradually. So it is the shoot which first appears from the seed, then the branches, leaves, and blossoms, and finally the fruit. But from the beginning of its formation, all of these existed potentially, albeit invisibly, in the seed."
+          ]
         },
         {
           "key": "source:AB00278",
-          "why": "Hear the affirmation of creation’s order and completeness."
+          "why": "Hear the affirmation of creation’s order and completeness.",
+          "shortened": [
+            "When one examines creation with a penetrating eye, when one grasps the intricacies of created things and witnesses the condition, the order, and the completeness of the world of existence, one is convinced of the truth that \"there is naught in creation more wondrous than that which already exists\". For all existing things, whether on earth or in the heavens, even this limitless firmament and all that it contains, have been most befittingly created, arranged, composed, ordered, and completed, and suffer no imperfection."
+          ]
         },
         {
           "key": "source:BH02726",
@@ -546,7 +734,10 @@
         },
         {
           "key": "source:AB00103",
-          "why": "Consider order as an argument for a directing power."
+          "why": "Consider order as an argument for a directing power.",
+          "shortened": [
+            "Likewise, look into this endless universe: a universal power inevitably existeth, which encompasseth all, directing and regulating all the parts of this infinite creation; and were it not for this Director, this Co-ordinator, the universe would be flawed and deficient. It would be even as a madman; whereas ye can see that this endless creation carrieth out its functions in perfect order, every separate part of it performing its own task with complete reliability, nor is there any flaw to be found in all its workings. Thus it is clear that a Universal Power existeth, directing and regulating this infinite universe."
+          ]
         },
         {
           "key": "source:AB00475",
@@ -554,7 +745,10 @@
         },
         {
           "key": "source:ABU0384",
-          "why": "Keep the reported affirmation of wisdom in individuality."
+          "why": "Keep the reported affirmation of wisdom in individuality.",
+          "shortened": [
+            "The individuality of each created thing is based upon divine wisdom, for in the creation of God there is no defect."
+          ]
         },
         {
           "key": "source:AB09263",
@@ -574,11 +768,20 @@
         },
         {
           "key": "source:BH00047",
-          "why": "Read contemplation of flawless creation beside the call to transcend the animal condition."
+          "why": "Read contemplation of flawless creation beside the call to transcend the animal condition.",
+          "shortened": [
+            "24 Gazing with the eye of absolute insight, the wayfarer in this valley seeth in God's creation neither contradiction nor incongruity, and at every moment exclaimeth, \"No defect canst thou see in the creation of the God of mercy. Repeat the gaze: Seest thou a single flaw?\"",
+            "71 We must therefore labour to destroy the animal condition, till the meaning of humanity cometh to light."
+          ]
         },
         {
           "key": "source:ABU0104",
-          "why": "Explore the extended account of nature’s sufficiency for animals and insufficiency for humanity."
+          "why": "Explore the extended account of nature’s sufficiency for animals and insufficiency for humanity.",
+          "shortened": [
+            "When we look upon it, we see that it is dark and imperfect. For instance, if we allow a piece of land to remain in its natural condition, we will find it covered with thorns and thistles; useless weeds and wild vegetation will flourish upon it, and it will become like a jungle. The trees will be fruitless, lacking beauty and symmetry; wild animals, noxious insects and reptiles will abound in its dark recesses. This is the incompleteness and imperfection of the world of nature.",
+            "It is evident, therefore, that the world of nature is incomplete, imperfect until awakened and illumined by the light and stimulus of education.",
+            "The world of nature is the kingdom of the animal. In its natural condition and plane of limitation the animal is perfect."
+          ]
         },
         {
           "key": "source:ABU0019",
@@ -590,7 +793,11 @@
         },
         {
           "key": "source:ABU0109",
-          "why": "Keep the reported disagreement between material and divine philosophers in its terms."
+          "why": "Keep the reported disagreement between material and divine philosophers in its terms.",
+          "shortened": [
+            "The materialists hold to the opinion that the world of nature is complete. The divine philosophers declare that the world of nature is incomplete. There is a wide difference between the two.",
+            "The divine philosophers deny this seeming perfection and completeness in nature's kingdom, even though admitting the beauty of its scenes and aspects and acknowledging the irresistible cosmic forces which control the colossal suns and planets. They hold that while nature seems perfect, it is, nevertheless, imperfect because it has need of intelligence and education."
+          ]
         },
         {
           "key": "source:ABU0033",
@@ -602,23 +809,40 @@
         },
         {
           "key": "source:AB00117",
-          "why": "Examine how the direction of an innate quality affects its moral value."
+          "why": "Examine how the direction of an innate quality affects its moral value.",
+          "shortened": [
+            "In the innate nature of things there is no evil---all is good.",
+            "The answer is that greed, which is to demand ever more, is a praiseworthy quality provided that it is displayed under the right circumstances. Thus, should a person show greed in acquiring science and knowledge, or in the exercise of compassion, high-mindedness, and justice, this would be most praiseworthy. And should he direct his anger and wrath against the bloodthirsty tyrants who are like ferocious beasts, this too would be most praiseworthy. But should he display these qualities under other conditions, this would be deserving of blame."
+          ]
         },
         {
           "key": "source:AB00096",
-          "why": "Distinguish animal behavior from human moral responsibility."
+          "why": "Distinguish animal behavior from human moral responsibility.",
+          "shortened": [
+            "All sin is prompted by the dictates of nature.  These dictates of nature, which are among the hallmarks of corporeal existence, are not sins with respect to the animal but are sins with regard to man.  The animal is the source of imperfections such as anger, lust, envy, greed, cruelty, and pride.  All these blameworthy qualities are found in the nature of the animal, and do not constitute sins with regard to the animal, whereas they are sins with regard to man."
+          ]
         },
         {
           "key": "source:AB00100",
-          "why": "Read the interpretation of Adam and attachment as a relative account of sin."
+          "why": "Read the interpretation of Adam and attachment as a relative account of sin.",
+          "shortened": [
+            "Now consider how closely this interpretation conforms to reality: For when the spirit and the self of Adam became attached to the material world, they passed from the realm of freedom into the realm of bondage, this condition was perpetuated with each succeeding generation, and this attachment of spirit and self to the material world, which is sin, was inherited by His descendants.",
+            "This sin in Adam, moreover, is relative to His station: Although this worldly attachment produced substantial results, yet in relation to attachment to the spiritual realm it is nonetheless regarded as a sin, and the truth of the saying \"The good deeds of the righteous are the sins of the near ones\" is established."
+          ]
         },
         {
           "key": "source:ABU1421",
-          "why": "Keep the reported description of harmful qualities within the moral argument."
+          "why": "Keep the reported description of harmful qualities within the moral argument.",
+          "shortened": [
+            "When a man has the vices of lying, dishonesty, tyranny, deceit, these are impurities that have attacked his human spirit, and he is dark, animal, satanic. Such evil qualities are characteristic of the world of nature."
+          ]
         },
         {
           "key": "source:ABU2403",
-          "why": "Read the reported connection between education and release from imperfection."
+          "why": "Read the reported connection between education and release from imperfection.",
+          "shortened": [
+            "Abdu'l-Baha. -- 'Evil is imperfection. Sin is the state of man in the world of the baser nature, for in nature exist defects such as injustice, tyranny, hatred, hostility, strife: these are characteristics of the lower plane of nature. These are the sins of the world, the fruits of the tree from which Adam did eat. Through education we must free ourselves from these imperfections."
+          ]
         },
         {
           "key": "source:ABU2463",
@@ -626,7 +850,10 @@
         },
         {
           "key": "source:BH01231",
-          "why": "Keep the devotional paradox of disobedience and the manifestation of generosity."
+          "why": "Keep the devotional paradox of disobedience and the manifestation of generosity.",
+          "shortened": [
+            "My essence be a sacrifice for the disobedience of those who disobey Thee, for through it the sun of Thy gifts has shone forth from the horizon of Thy bounty and the rains of Thy generosity have descended upon the realities of Thy creation."
+          ]
         },
         {
           "key": "source:ABU1956",
@@ -721,20 +948,30 @@
       "id": "41DF1CE89518406AB97E142EE368CE54",
       "slug": "proofsgod",
       "displayTitle": "Reasoning toward God: evidence, causation, and the limits of knowing",
-      "introduction": "Can an argument establish existence without enclosing its subject in a definition? That distinction gives this collection a demanding point of entry. The passages reason from causation, order, composition, limitation, and the signs perceived within human life, while repeatedly setting the divine Essence beyond the mind’s grasp. They also distinguish rational argument from spiritual perception and divine self-disclosure. The supplied materials include a criticism attributed to Carl Sagan and a passage from Plato, making careful attention to premises and the scope of a conclusion especially valuable. Historical scientific illustrations should be examined in their own terms, without silently turning them into present scientific demonstrations. Aquinas offers a primary comparison through arguments from effects and causes, presented alongside objections [1]. The connected subjects of rational argument and proofs of the Manifestations invite further inquiry into what counts as evidence, for whom it is persuasive, and what recognition asks beyond inference.",
+      "introduction": "The most one can say, ‘Abdu’l-Bahá writes, is that the existence of the divine Essence can be proved while the conditions of that existence stay unknown. A page of writing presupposes a writer; an effect presupposes a cause, and a chain of causes cannot run back for ever; the weakness of creatures bears witness to a power, the order of an endless universe argues for a will that orders it. Each is offered as help for minds that want it, with the admission that a heart in which the spirit is felt needs no argument. Aquinas, separating the demonstration that God is from any comprehension of what God is, then setting his arguments from motion and causes beside the objections to them, makes a natural companion here [1]. Reading further means weighing premises honestly, including a modern objection that the laws of chemistry explain what an older argument assigned to a conscious agent, and asking what rational arguments can deliver and how the proofs of the Manifestations of God ask for a recognition beyond inference.",
       "arc": "Begin with the distinction between existence and comprehension, examine the arguments in detail, then set reason beside spiritual perception, self-disclosure, and supplied critical readings.",
       "order": [
         {
           "key": "source:AB01117",
-          "why": "Open with the distinction between proving existence and comprehending essence."
+          "why": "Open with the distinction between proving existence and comprehending essence.",
+          "shortened": [
+            "But that Essence of Essences, that Invisible of Invisibles, is sanctified above all human speculation, and never to be overtaken by the mind of man. Never shall that immemorial Reality lodge within the compass of a contingent being. His is another realm, and of that realm no understanding can be won. No access can be gained thereto; all entry is forbidden there. The utmost one can say is that Its existence can be proved, but the conditions of Its existence are unknown."
+          ]
         },
         {
           "key": "source:AB00103",
-          "why": "Read the finite knower and the sequence of reasoned arguments."
+          "why": "Read the finite knower and the sequence of reasoned arguments.",
+          "shortened": [
+            "The existence of the Divine Being hath been clearly established, on the basis of logical proofs, but the reality of the Godhead is beyond the grasp of the mind.",
+            "Likewise, look into this endless universe: a universal power inevitably existeth, which encompasseth all, directing and regulating all the parts of this infinite creation; and were it not for this Director, this Co-ordinator, the universe would be flawed and deficient. It would be even as a madman; whereas ye can see that this endless creation carrieth out its functions in perfect order, every separate part of it performing its own task with complete reliability, nor is there any flaw to be found in all its workings. Thus it is clear that a Universal Power existeth, directing and regulating this infinite universe."
+          ]
         },
         {
           "key": "source:ABU0150",
-          "why": "Consider the reported invitation to analyze rather than rely entirely on tradition."
+          "why": "Consider the reported invitation to analyze rather than rely entirely on tradition.",
+          "shortened": [
+            "In the same proportion that the body of man is developing, the spirit of man must be strengthened; and just as his outer perceptions have been quickened, his inner intellectual powers must be sensitized so that he need not rely wholly upon tradition and human precedent. In divine questions we must not depend entirely upon the heritage of tradition and former human experience; nay, rather, we must exercise reason, analyze and logically examine the facts presented so that confidence will be inspired and faith attained. Then and then only the reality of things will be revealed to us."
+          ]
         },
         {
           "key": "source:ABU3156",
@@ -742,19 +979,34 @@
         },
         {
           "key": "source:ABU2507",
-          "why": "Consider the reported inference from effects, keeping its historical scientific examples visible."
+          "why": "Consider the reported inference from effects, keeping its historical scientific examples visible.",
+          "shortened": [
+            "We confess that we do not know the essence of electricity and ether, but we know it by its effect of light, heat, magnetism and attraction. These evident and undeniable effects lead us to the conclusion that there must be a cause of the function and nature of which we are entirely unaware.",
+            "Do we not see the signs and traces of God - the Unknowable, primal Cause - scattered all about us? Are not these \"effects\" sufficient reason to demonstrate to us that there is behind all of them, a Creative Cause?"
+          ]
         },
         {
           "key": "source:AB00815",
-          "why": "Examine the arguments from dependence, deficiency, and change."
+          "why": "Examine the arguments from dependence, deficiency, and change.",
+          "shortened": [
+            "Thus the contingent world is the source of deficiencies and God is the source of perfection. The very deficiencies of the contingent world testify to God's perfections. For example, when you consider man, you observe that he is weak, and this very weakness of the creature betokens the power of One Who is Eternal and Almighty; for were it not for power, weakness could not be imagined. Thus the weakness of the creature is evidence of the power of God: Without power there could be no weakness.",
+            "These are theoretical arguments adduced for weak souls, but if the eye of inner vision be opened, a hundred thousand clear proofs will be seen. Thus, when man feels the indwelling spirit, he is in no need of arguments for its existence; but for those who are deprived of the grace of the spirit, it is necessary to set forth external arguments."
+          ]
         },
         {
           "key": "source:AB00395",
-          "why": "Read creation and human souls as signs."
+          "why": "Read creation and human souls as signs.",
+          "shortened": [
+            "When we examine the world and the souls of men, the perspicuous signs of the perfections of the Divinity appear clear and manifest, for the realities of all things attest to the existence of a universal Reality. The reality of the Divinity is even as the sun, which from the heights of its sanctity shines upon every land, and of whose radiance every land and every soul receives a share."
+          ]
         },
         {
           "key": "source:BB00002",
-          "why": "Consider the invitation to reflect upon the world and oneself."
+          "why": "Consider the invitation to reflect upon the world and oneself.",
+          "shortened": [
+            "And verily, in the wondrous succession of night and day, in their entering one into the other, and in the bringing forth of the living from the dead and the dead from the living, are signs of the Most Great Remembrance of God.",
+            "Do you not reflect upon the creation of the heavens and your own selves, with a swift reflection, in truth, with truth, through truth? Verily God created not the heavens and the earth and whatsoever is between them in truth and through truth in vain or for sport."
+          ]
         },
         {
           "key": "source:BB00003",
@@ -762,7 +1014,11 @@
         },
         {
           "key": "source:ABU0122",
-          "why": "Read the reported writer analogy and the argument from order."
+          "why": "Read the reported writer analogy and the argument from order.",
+          "shortened": [
+            "Consider the lady beside me who is writing in this little book. It seems a very trifling, ordinary matter; but upon intelligent reflection you will conclude that what has been written presupposses and proves the existence of a writer. These words have not written themselves, and these letters have not come together of their own volition. It is evident there must be a writer.",
+            "And now consider this infinite universe. Is it possible that it could have been created without a Creator? Or that the Creator and cause of this infinite congeries of worlds should be without intelligence?"
+          ]
         },
         {
           "key": "source:AB01029",
@@ -778,19 +1034,39 @@
         },
         {
           "key": "source:AB00020",
-          "why": "Read the Tablet to Dr Forel’s connected arguments and limits of description."
+          "why": "Read the Tablet to Dr Forel’s connected arguments and limits of description.",
+          "shortened": [
+            "Thus man cannot grasp the Essence of Divinity, but can, by his reasoning power, by observation, by his intuitive faculties and the revealing power of his faith, believe in God, discover the bounties of His Grace. He becometh certain that though the Divine Essence is unseen of the eye, and the existence of the Deity is intangible, yet conclusive spiritual proofs assert the existence of that unseen Reality. The Divine Essence as it is in itself is however beyond all description.",
+            "Such process of causation goes on, and to maintain that this process goes on indefinitely is manifestly absurd. Thus such a chain of causation must of necessity lead eventually to Him who is the Ever-Living, the All-Powerful, who is Self-Dependent and the Ultimate Cause. This Universal Reality cannot be sensed, it cannot be seen. It must be so of necessity, for it is All-Embracing, not circumscribed, and such attributes qualify the effect and not the cause."
+          ]
         },
         {
           "key": "source:ABU0102",
-          "why": "Examine the reported three kinds of composition."
+          "why": "Examine the reported three kinds of composition.",
+          "shortened": [
+            "One form of composition is termed philosophically the accidental, another the involuntary, and a third the voluntary. As to the first, or accidental, composition: This would signify that certain elements through inherent qualities and powers of attraction or affinity have been gathered together, have blended, and so composed a certain form, being or organism. This can be proven to be false; for composition is an effect, and philosophically no effect is conceivable without causation.",
+            "Then what have we left as a form of composition? It is the voluntary form of composition, which means that composition is effected through a superior will, that there is will expressed in this motive or action. It is thus proved that the existence of phenomena is effected through the eternal Will, the Will of the Living, Eternal and Self-subsistent, and this is a rational proof concerning composition whereof there is no doubt or uncertainty."
+          ]
         },
         {
           "key": "source:ABU0591",
-          "why": "Read the related reported argument with its explicit appeal to reason."
+          "why": "Read the related reported argument with its explicit appeal to reason.",
+          "shortened": [
+            "There is such a great difference between theories upheld by belief, and facts which are substantiated by science.",
+            "Beliefs are the susceptibilities of the conscience, but scientific facts are the deductions of reason and inexorable logic.",
+            "While we observe that after each composite organism, there is a process of decomposition we learn that the composition of the organisms of life is neither accidental nor involuntary. Then what have we as a form of composition? It is the third, that is the voluntary composition. And that means that the infinite forms of organisms are composed through a superior will, the eternal will, the will of the living and self-subsistent Lord.",
+            "This is a rational proof, that the Will of the creator is effected through the process of composition."
+          ]
         },
         {
           "key": "source:ABU0965",
-          "why": "Compare the reported examples used to distinguish kinds of composition."
+          "why": "Compare the reported examples used to distinguish kinds of composition.",
+          "shortened": [
+            "But there are three kinds of composition.",
+            "One is accomplished by force; for instance, fire attracts water, this is made through force - that is, the elements attract each other; when they come together they form an object. This kind of composition is called innate or natural attraction, made by force.",
+            "The second kind of composition is said to be done by chance, for instance, it rained by chance, the sun cast its rays by chance; therefore, vegetables grow.",
+            "The third is a composition made by will, by aim;--for instance,--A doctor gives a medicine which is composed of various elements, compounded by his will; knowing the ingredients of the drugs he compounds them by will.'"
+          ]
         },
         {
           "key": "source:ABU0097",
@@ -810,7 +1086,10 @@
         },
         {
           "key": "source:ABU0240",
-          "why": "Hear the reported summary connecting divinity, revelation, and continuing bounty."
+          "why": "Hear the reported summary connecting divinity, revelation, and continuing bounty.",
+          "shortened": [
+            "I have brought rational proofs for the existence of Divinity. I have brought rational proofs for the existence of revelation. I have established rational arguments that the mercy of the Lord is continuous, that the gates of the Kingdom are open, that divine bounty is eternal, that the rays of the Sun of Reality are shining and have no cessation."
+          ]
         },
         {
           "key": "source:AB00966",
@@ -818,11 +1097,17 @@
         },
         {
           "key": "source:AB00268",
-          "why": "Distinguish rational consideration from spiritual perception in the discussion of immortality."
+          "why": "Distinguish rational consideration from spiritual perception in the discussion of immortality.",
+          "shortened": [
+            "This is a rational proof that we are providing, that rational minds may weigh it in the balance of reason and fair-mindedness. But if the human spirit be rejoiced and attracted to the Kingdom, if the inner eye be opened and the spiritual ear attuned, and if spiritual feelings come to predominate, the immortality of the spirit will be seen as clearly as the sun and heavenly tidings and intimations will encompass that spirit."
+          ]
         },
         {
           "key": "source:ABU0744",
-          "why": "Read the reported distinction between intellectual proof and spiritual sight."
+          "why": "Read the reported distinction between intellectual proof and spiritual sight.",
+          "shortened": [
+            "The soul can prove the Existence of God through its intellectual powers, but the true perception of God is through the spiritual eye of the soul."
+          ]
         },
         {
           "key": "source:BB00001",
@@ -897,20 +1182,29 @@
       "id": "4723FB63AE3C460CB0D434538890EED6",
       "slug": "manifestationsreturn",
       "displayTitle": "The return of the Manifestations: recognizing a familiar light",
-      "introduction": "When a rose returns to the garden, what has returned? The flower’s fragrance and beauty can be familiar even though this year’s blossom is another individual. This image opens a collection that interprets religious return through qualities, perfections, spiritual power, and renewed revelation. Its declarations of identity belong beside explicit distinctions between the recurrence of attributes and the return of an individual soul or body. The passages also address the challenge of recognizing a divine message through an unfamiliar name, setting, or language, while accounts of opposition ask whether old patterns can recur as well. Luke’s description of John coming in Elijah’s spirit and power offers a precise comparative starting point [1]. Connected subjects on cycles, the oneness of the Manifestations, progressive revelation, and Christ’s return invite readers to explore continuity without erasing difference, and renewal without reducing it to repetition.",
+      "introduction": "Last year’s rose has returned to the garden, we say, though this blossom is another flower; tonight’s lamp is last night’s, though we mean only the light. With such homely examples ‘Abdu’l-Bahá explains what the scriptures mean by return: the coming back of qualities, perfections and spiritual power, never of an individual soul or body. This is why Jesus could call John the Baptist Elijah while John could truthfully deny it; one spoke of attributes, the other of his own person. Bahá’u’lláh presses the thought further in the Kitáb-i-Íqán, asking the reader to purge the sight of earthly limits and see every Messenger as a bearer of one Name. The hard part is recognition, since a familiar light arrives in an unfamiliar setting, and the old refusals can return as surely as the old glory. Luke’s announcement that John would go before the Lord in the spirit and power of Elijah offers a precise point of comparison [1]. The journey continues into the return of Christ, progressive revelation, the oneness of the Manifestations, and the cycles that renew the world.",
       "arc": "Begin with the returning rose and lamp, distinguish attributes from individual identity, then explore recognition, repeated responses, and an open future of revelation.",
       "order": [
         {
           "key": "source:AB00282",
-          "why": "Open with the return of the rose and lamplight rather than fixed identity."
+          "why": "Open with the return of the rose and lamplight rather than fixed identity.",
+          "shortened": [
+            "It may be said, for instance, that this lamplight is last night's come back again, or that last year's rose hath returned to the garden this year. Here the reference is not to the individual reality, the fixed identity, the specialized being of that other rose, rather doth it mean that the qualities, the distinctive characteristics of that other light, that other flower, are present now, in these. Those perfections, that is, those graces and gifts of a former springtime are back again this year."
+          ]
         },
         {
           "key": "source:AB00419",
-          "why": "Read the fuller explanation of Elijah, John, and differing standpoints."
+          "why": "Read the fuller explanation of Elijah, John, and differing standpoints.",
+          "shortened": [
+            "In the same way, if we consider the individual, it is a different one, but if we consider the attributes and perfections, the same have returned.  Thus when Christ said, \"This is Elias,\" He meant:  This person is a manifestation of the grace, the perfections, the qualities, the attributes and the virtues of Elias.  And when John the Baptist said, \"I am not Elias,\" he meant, \"I am not the same person as Elias.\"  Christ considered their attributes, perfections, qualities and virtues, and John referred to his own substance and individuality."
+          ]
         },
         {
           "key": "source:AB00036",
-          "why": "Make the distinction from reincarnation explicit."
+          "why": "Make the distinction from reincarnation explicit.",
+          "shortened": [
+            "For what the Prophets of God meant by \"return\" is not the return of the essence but of the attributes; it is not the return of the Manifestation Himself but of His perfections. In the Gospel it is said that John the son of Zacharias is Elijah. By these words is not meant the return of the rational soul and personality of Elijah in the body of John, but rather that the perfections and attributes of Elijah became plain and manifest in him."
+          ]
         },
         {
           "key": "source:ABU1773",
@@ -926,7 +1220,10 @@
         },
         {
           "key": "source:ABU0299",
-          "why": "Read the reported distinction concerning body, soul, and the spirit of God."
+          "why": "Read the reported distinction concerning body, soul, and the spirit of God.",
+          "shortened": [
+            "Neither the body nor the soul will return to this world, but the spirit of GOD in them may come again, and is the same in all the prophets.  The difference is in degree."
+          ]
         },
         {
           "key": "source:ABU1457",
@@ -938,11 +1235,18 @@
         },
         {
           "key": "source:ABU0808",
-          "why": "Read the seed’s return through growth and sacrifice."
+          "why": "Read the seed’s return through growth and sacrifice.",
+          "shortened": [
+            "When the tree attains its maturity and perfection you will also find the original seed appearing upon it, and the new seed signifies the second manifestation of the first, and of the second contains all of the perfections of the first. Thus the return of the first seed is apparent, but when the second seed grows into a tree the same leaves, branches, fruits do not appear, but the seed has sacrificed all of itself the same as the first, that the second tree may appear."
+          ]
         },
         {
           "key": "source:ABU1009",
-          "why": "Keep the reported tree and its spiritual type distinct from physical construction."
+          "why": "Keep the reported tree and its spiritual type distinct from physical construction.",
+          "shortened": [
+            "Baha'u'llah said that He was the Lote Tree and the teachers and prophets the Branches and the believers, the leaves.",
+            "The Manifestation said that \"When I say that I am going to plan this tree again,\" that it will mean that it will be the identical tree, hence if Baha'u'llah says that He will plant this Tree again, it will be the identical Tree again as its spiritual type only, and there will be a difference in the physical construction of the Tree, as there will also be a difference in the material tree, just as there was in the previous life of that tree, but no difference in the Spirit."
+          ]
         },
         {
           "key": "source:AB00123",
@@ -950,23 +1254,40 @@
         },
         {
           "key": "source:BB00005",
-          "why": "Read differing names and books beside the oneness of command."
+          "why": "Read differing names and books beside the oneness of command.",
+          "shortened": [
+            "And the difference in the manifestations of the Thrones, their tongues, their books, and their verses should not veil the observer, for that which is manifest in all is one Command, and that Command is not the Essence of the Unseen Eternity, but rather is a Will that hath been created by itself for itself, not within anything, and in every manifestation is exalted through His bounty and in every concealment is made impregnable through His grace."
+          ]
         },
         {
           "key": "source:BH00002",
-          "why": "Enter the Book of Certitude’s argument concerning return and recognition."
+          "why": "Enter the Book of Certitude’s argument concerning return and recognition.",
+          "shortened": [
+            "In like manner, in every subsequent Revelation, the return of the former Revelation is a fact, the truth of which is firmly established. Inasmuch as the return of the Prophets of God, as attested by verses and traditions, hath been conclusively demonstrated, the return of their chosen ones also is therefore definitely proven. This return is too manifest in itself to require any evidence or proof.",
+            "Purge thy sight, therefore, from all earthly limitations, that thou mayest behold them all as the bearers of one Name, the exponents of one Cause, the manifestations of one Self, and the revealers of one Truth, and that thou mayest apprehend the mystic \"return\" of the Words of God as unfolded by these utterances."
+          ]
         },
         {
           "key": "source:BH00354",
-          "why": "Consider beginning, end, and the return of all things."
+          "why": "Consider beginning, end, and the return of all things.",
+          "shortened": [
+            "Know thou that the end is like unto the beginning. Even as thou dost consider the beginning, similarly shouldst thou consider the end, and be of them that truly perceive. Nay, rather consider the beginning as the end itself, and so conversely, that thou mayest acquire a clear perception. Know thou moreover that every created thing is continually brought forth and returned at the bidding of thy Lord, the God of power and might."
+          ]
         },
         {
           "key": "source:AB00460",
-          "why": "Read the life conferred by the spirit of faith."
+          "why": "Read the life conferred by the spirit of faith.",
+          "shortened": [
+            "But the Spirit of Faith which is of the Kingdom (of God) consists of the all-comprehending Grace and the perfect attainment (or salvation, fruition, achievement) and the power of sanctity and the divine effulgence from the Sun of Truth on luminous light-seeking essences from the presence of the divine Unity. And by this Spirit is the life of the spirit of man, when it is fortified thereby, as Christ saith: \"That which is born of the Spirit is Spirit.\""
+          ]
         },
         {
           "key": "source:BB00001",
-          "why": "Hear the Persian Bayán’s declarations of return and maturation."
+          "why": "Hear the Persian Bayán’s declarations of return and maturation.",
+          "shortened": [
+            "The substance of this gate is this, that Muhammad, blessings of God rest upon Him, and the Manifestations of His Self, have all returned to this world.",
+            "There should also be no doubt that Their Return in the Next Revelation is far greater in the sight of God than Their First Revelation in the past. Thus, that which aforetimes hath proven the station of prophethood, today vindicateth the station of Viceregency."
+          ]
         },
         {
           "key": "source:BB00003",
@@ -974,7 +1295,10 @@
         },
         {
           "key": "source:BB00350",
-          "why": "Read renewed creation in the declaration of Qá’imiyyat."
+          "why": "Read renewed creation in the declaration of Qá’imiyyat.",
+          "shortened": [
+            "Say: We initiated this creation and We shall repeat it - a promise binding upon Us. Verily We are powerful to accomplish it. Say: He Who created Muhammad before will create him again on the Day of Resurrection, then those who are witnesses from His presence, then whomsoever God willeth from among the Prophets and the truthful ones."
+          ]
         },
         {
           "key": "source:BB00170",
@@ -982,11 +1306,17 @@
         },
         {
           "key": "source:BH00358",
-          "why": "Hear the declaration concerning ‘Alí’s return."
+          "why": "Hear the declaration concerning ‘Alí’s return.",
+          "shortened": [
+            "Say: This is indeed Ali Who hath appeared once again in this most pure, most manifest, most luminous Beauty, and Who speaketh the truth in the heaven of immortality and the kingdom on high, if ye be of them that hear."
+          ]
         },
         {
           "key": "source:BH08487",
-          "why": "Consider the return of the Friend and the One who conversed with God."
+          "why": "Consider the return of the Friend and the One who conversed with God.",
+          "shortened": [
+            "O Ibrahim! The Friend of God and He Who conversed with God have returned and bear witness and see. And the Mount is once again perfumed by the fragrances of revelation."
+          ]
         },
         {
           "key": "source:BH05549",
@@ -994,15 +1324,25 @@
         },
         {
           "key": "source:BH10962",
-          "why": "Hear the call to awaken to the appearance associated with the Burning Bush."
+          "why": "Hear the call to awaken to the appearance associated with the Burning Bush.",
+          "shortened": [
+            "O Muhammad-Qabli-Hasan! The Light crieth out and saith: O ye that lie buried in the graves! By God, He Who conversed with Moses from the Burning Bush hath appeared."
+          ]
         },
         {
           "key": "source:BH00188",
-          "why": "Consider the names and promises drawn from several scriptures."
+          "why": "Consider the names and promises drawn from several scriptures.",
+          "shortened": [
+            "Praise be to God Who hath named Himself Jehovah in the Torah, the Comforter and Spirit of Truth in the Gospel, and in the Qur'an the Great Announcement, at Whose appearance all who are in the heavens and on earth were thunderstruck, and the limbs of all creation trembled, save those who clung to the hem of the protection of their Lord, the All-Forgiving, the Most Generous."
+          ]
         },
         {
           "key": "source:BH00926",
-          "why": "Read the challenging address to successive religious communities as a claim of shared prophetic identity."
+          "why": "Read the challenging address to successive religious communities as a claim of shared prophetic identity.",
+          "shortened": [
+            "O Jews! If ye be intent on crucifying once again Jesus, the Spirit of God, put Me to death, for He hath once more, in My person, been made manifest unto you.",
+            "Followers of the Gospel! If ye cherish the desire to slay Muḥammad, the Apostle of God, seize Me and put an end to My life, for I am He, and My Self is His Self."
+          ]
         },
         {
           "key": "source:BB00242",
@@ -1010,11 +1350,17 @@
         },
         {
           "key": "source:BH03732",
-          "why": "Read opposition at the beginning and at the return."
+          "why": "Read opposition at the beginning and at the return.",
+          "shortened": [
+            "Absolute Being cries out in utter nothingness, saying: At two times is the clamor and cry of the people of contingent existence raised up - once at the beginning, that is, at the first creation, and again at the return. Observe how when the Sun of Truth dawned from the horizon of the Divine Command in the name of Muhammad (may the spirit of all else be sacrificed for His sake), the people of the world rose up in opposition and raised their cry."
+          ]
         },
         {
           "key": "source:BH11616",
-          "why": "Keep the particular reference to Shaykh Ahmad and the return of Husayn."
+          "why": "Keep the particular reference to Shaykh Ahmad and the return of Husayn.",
+          "shortened": [
+            "The matter of Return, which according to the words of Shaykh Ahmad-i-Ahsa'i - upon him be the Glory of God - is established and proven, was the Return of Husayn. All the Messengers and the Qa'im stand and dwell beneath His blessed standard, yet eyes and ears are prevented from seeing and hearing, and hearts from contemplation and attention."
+          ]
         },
         {
           "key": "source:BB00479",
@@ -1022,7 +1368,10 @@
         },
         {
           "key": "source:BB00004",
-          "why": "Read the appeal to recognize and treat rightly the coming Tree."
+          "why": "Read the appeal to recognize and treat rightly the coming Tree.",
+          "shortened": [
+            "And if they who are God's witnesses teach you their names, then shall ye mention them by their names and shall beseech God's justice upon them, that perchance the people may fear on the day when the Tree shall come, and they shall do naught unto it save what is right, and they shall follow the signs of God and shall seek forgiveness for what their hands have formerly wrought."
+          ]
         },
         {
           "key": "source:BH01043",
@@ -1030,31 +1379,52 @@
         },
         {
           "key": "source:BH03915",
-          "why": "Read the appeal to sayings about departure and another’s coming."
+          "why": "Read the appeal to sayings about departure and another’s coming.",
+          "shortened": [
+            "As He says in the Gospel: \"I go away and come again,\" and in another place: \"I go away and the Comforter will come to complete what I have said and to say what I have not said.\""
+          ]
         },
         {
           "key": "source:BH03558",
-          "why": "Hear the question about the promised appearance."
+          "why": "Hear the question about the promised appearance.",
+          "shortened": [
+            "Say: Verily the Primal Point, in His latter Manifestation, speaketh with the Most Glorious tongue, saying: \"O people! Did We not give you glad tidings of My appearance after Me?"
+          ]
         },
         {
           "key": "source:BH08003",
-          "why": "Consider recognition as the ultimate goal."
+          "why": "Consider recognition as the ultimate goal.",
+          "shortened": [
+            "Joy be unto thee, O servant, in that thou hast ascended unto the Sadratu'l-Muntaha and attained the ultimate goal, which is none other than the recognition of God in the Manifestation of His Self, Who hath come yet again."
+          ]
         },
         {
           "key": "source:BB00085",
-          "why": "Read the Báb’s declaration spanning past and future."
+          "why": "Read the Báb’s declaration spanning past and future.",
+          "shortened": [
+            "Verily, I have been before and shall be hereafter, and God hath revealed no Book except unto Me, nor hath He sent any Messenger save by My leave, and We have been witness over them."
+          ]
         },
         {
           "key": "source:BB00063",
-          "why": "Follow the extended declaration of unity through successive names."
+          "why": "Follow the extended declaration of unity through successive names.",
+          "shortened": [
+            "From the Manifestation of the First Point until now, God hath manifested Me in every Dispensation by whatever name hath been manifested, and all do follow Me. I was Noah in the day of Noah, and Abraham in the day of Abraham, and Moses in the day of Moses, and Jesus in the day of Jesus, and Muhammad in the day of Muhammad, and the Primal Point in the day of the Primal Point, Him Whom God shall make manifest in His day, and Him Whom God shall make manifest after Him in His day, and Him Who shall be manifested after Him Whom God shall make manifest in His day, unto the end that hath no end, even as the beginning that had no beginning."
+          ]
         },
         {
           "key": "source:ABU0374",
-          "why": "Keep the reported description of an unending manifestation."
+          "why": "Keep the reported description of an unending manifestation.",
+          "shortened": [
+            "If the true Prophets (Nabi) represent the embodied Voice of God, They are at the same time the embodied conscience of the people. Better than the word 'embodiment' would be the concept of the 'Manifestation'. Already His Holiness the Bab said: According to the doctrine of the Return (raj'a) the Prophets are always the same Man and to this I (the Bab) can testify: 'That which spoke in the Prophets of the past, now speaks in Me and will after Me speak in \"Man Yu?hiruhu'llah\" (Baha'u'llah), for there is no final end of manifestation'."
+          ]
         },
         {
           "key": "source:BH01185",
-          "why": "Read detachment from a limiting interpretation of finality."
+          "why": "Read detachment from a limiting interpretation of finality.",
+          "shortened": [
+            "Indeed, they became so detached from all things that even the mention of the Seal [of the Prophets], which was an explicit text of the Book, did not prevent them from attaining the exalted court and the praiseworthy station in the presence of the Sovereign Lord. And now they testify, both secretly and openly, that prophethood hath been from the beginning that hath no beginning and will continue unto the end that hath no end."
+          ]
         },
         {
           "key": "source:BH02874",
@@ -1132,12 +1502,15 @@
       "id": "9C1D65E1D0354A79817EF2304DA940E8",
       "slug": "selfishness",
       "displayTitle": "Beyond selfishness: widening the circle of concern",
-      "introduction": "A man mourns his starving dog while refusing to share his bread. The reported story makes a searching opening: affection can be sincere in feeling and still stop short of action. These passages examine both obvious self-interest and the subtler ways ambition can hide inside service, religious language, or a desire to be right. Their images of clouds, veils, mirrors, and bondage ask what becomes obscured when the self occupies the center. Historical anecdotes and criticisms of particular people belong to their settings; the invitation to reflection reaches toward our own motives. Connected subjects concerning generosity, self-discipline, and the meaning of Satan provide practical and symbolic paths onward. Luke’s parable of two people praying sharpens the inquiry into self-righteousness [1]. The collection closes with a constructive direction: to turn concern outward and work continually for the betterment of one another’s lives.",
+      "introduction": "A man weeps over his starving dog and will not share his bread. The traveller’s story cuts to the difference between feeling love and acting on it, and selfishness is then followed into subtler hiding places: a desire to be right, the wish for the chief seat, office used for private ends, even sincere religious words that conceal an ego ignorant of itself. ‘Abdu’l-Bahá warns that if a person has every virtue but is selfish, the rest will fade; and that service tainted with self-love leads to nothing, while the servant free of private motive shines like the morning star. Tests, he says, cleanse the spotting of self from the mirror of the heart, for no veil is more obstructive. Luke’s two men at prayer sharpen the question of self-righteousness, and the parable loses its point the moment it becomes a label for someone else [1]. The direction is outward: justice in place of self-seeking and a shared happiness. From here the path leads into generosity, into the discipline of self-improvement, and into the meaning of Satan as the insistent self.",
       "arc": "Begin with love that withholds bread, examine visible and hidden self-interest, then turn toward freedom, generosity, and the common good.",
       "order": [
         {
           "key": "source:ABU1368",
-          "why": "Open with the reported story of professed love and withheld bread."
+          "why": "Open with the reported story of professed love and withheld bread.",
+          "shortened": [
+            "'Why do you not give some of it to this dying animal?' asked the traveller. Insulted, the Arab stared at him and exclaimed, 'I said I loved the dog, but not enough to share my own bread with him!'"
+          ]
         },
         {
           "key": "source:ABU0396",
@@ -1149,7 +1522,10 @@
         },
         {
           "key": "source:ABU0660",
-          "why": "Consider the reported gap between good words and selfish action."
+          "why": "Consider the reported gap between good words and selfish action.",
+          "shortened": [
+            "But all these sayings are but words and we see very few of them carried into the world of action. On the contrary, we perceive that men are carried away by passion and selfishness, each man thinking only of what will benefit himself even if it means the ruin of his brother."
+          ]
         },
         {
           "key": "source:ABU1446",
@@ -1157,27 +1533,46 @@
         },
         {
           "key": "source:ABU2348",
-          "why": "Consider the reported contrast between love and an expected reward."
+          "why": "Consider the reported contrast between love and an expected reward.",
+          "shortened": [
+            "Others may love you but it may be for some ulterior purpose. They may love you because they expect some day or some time to receive some reward from you; but I expect reward from no one."
+          ]
         },
         {
           "key": "source:ABU0361",
-          "why": "Move from obvious selfishness to its unrecognized forms."
+          "why": "Move from obvious selfishness to its unrecognized forms.",
+          "shortened": [
+            "Selfishness must also be rooted out, not only in its gross, but in its exceedingly subtle forms. A man may be selfish even to an extreme and be quite ignorant of it.",
+            "Not until a man has wholly freed himself from lust and selfishness will he be able to distinguish between what is good in him and what is not."
+          ]
         },
         {
           "key": "source:ABU1898",
-          "why": "Read the reported possibility of an ego concealed in sincere religious language."
+          "why": "Read the reported possibility of an ego concealed in sincere religious language.",
+          "shortened": [
+            "The initial wish does not come from Abdul Baha. It comes from them. It is generally clothed with such words as these: 'We only wish to do that which Abdul Baha wishes us to do.' And they are sincere in this, for they do not know the subtlety of the ego of man. It is the Tempter (the subtle serpent of the mind), and the poor soul not entirely emancipated from its suggestions is deceived until entirely severed from all save God.\""
+          ]
         },
         {
           "key": "source:ABU1710",
-          "why": "Distinguish destructive self-love from the reported spur of conscious spiritual development."
+          "why": "Distinguish destructive self-love from the reported spur of conscious spiritual development.",
+          "shortened": [
+            "If this is simply selfishness it is as disastrous to the soul, but if it be spiritual and conscious devotion to self it becomes a spur upward and onward. Mere selfish love is like a man whirling round and round until he becomes dizzy and falls."
+          ]
         },
         {
           "key": "source:ABU0069",
-          "why": "Keep the reported account of self-importance and criticism in its setting."
+          "why": "Keep the reported account of self-importance and criticism in its setting.",
+          "shortened": [
+            "From the untrained self of the child grows the desire of the youth to be something, and from this there will arise in the mature man, besides the desire for respect, the feelings of being misunderstood, of being underrated, of being slighted. From this again develop the feeling of knowing better, self-assurance, the delusion of being infallible. It comes to blind criticism of each and every thing that the leader or the leaders decide or do."
+          ]
         },
         {
           "key": "source:AB03092",
-          "why": "Read the warning that selfishness can undermine other virtues."
+          "why": "Read the warning that selfishness can undermine other virtues.",
+          "shortened": [
+            "All these wishes are well worthy of asking. Especially the rescue from self-love. This is a strange trait and the means of the destruction of many important souls in the world. If man be imbued with all good qualities but be selfish, all the other virtues will fade or pass away and eventually he will grow worse."
+          ]
         },
         {
           "key": "source:AB10792",
@@ -1189,15 +1584,24 @@
         },
         {
           "key": "source:ABU0467",
-          "why": "Read the reported connection between leadership-seeking and disharmony."
+          "why": "Read the reported connection between leadership-seeking and disharmony.",
+          "shortened": [
+            "That which is always the cause of inharmony and delays the progress of the Cause of God is love for leadership and self-interest. Those who cherish such tendencies imagine that these will be concealed from others."
+          ]
         },
         {
           "key": "source:BH01638",
-          "why": "Consider the desire for precedence and chief seats."
+          "why": "Consider the desire for precedence and chief seats.",
+          "shortened": [
+            "And likewise I have detached Myself from these who follow the desires of their souls and are not conscious in any matter, and whose only concern in this world is to put themselves before God's servants and to sit in the chief seats of gatherings and to boast and make claims about that which they neither know nor understand."
+          ]
         },
         {
           "key": "source:ABU2720",
-          "why": "Keep the reported warning concerning office used for personal interests."
+          "why": "Keep the reported warning concerning office used for personal interests.",
+          "shortened": [
+            "If the object, however, is to promote personal interests, then such a position will be injurious to humanity and not beneficial to the public."
+          ]
         },
         {
           "key": "source:ABU2638",
@@ -1217,7 +1621,10 @@
         },
         {
           "key": "source:BH05325",
-          "why": "Keep the charge that another person is being used for private purposes."
+          "why": "Keep the charge that another person is being used for private purposes.",
+          "shortened": [
+            "Never was their purpose the branch, nor is it now. Rather, they have made him a means for attracting people to their own causes."
+          ]
         },
         {
           "key": "source:BH03374",
@@ -1225,11 +1632,17 @@
         },
         {
           "key": "source:AB00388",
-          "why": "Contrast private material interests with the common good."
+          "why": "Contrast private material interests with the common good.",
+          "shortened": [
+            "Today, all the peoples of the world are indulging in self-interest and exert the utmost effort and endeavor to promote their own material interests. They are worshipping themselves and not the divine reality, nor the world of mankind. They seek diligently their own benefit and not the common weal."
+          ]
         },
         {
           "key": "source:ABU2214",
-          "why": "Hear the reported question about a life limited to private advantage."
+          "why": "Hear the reported question about a life limited to private advantage.",
+          "shortened": [
+            "Then what value can be placed on these souls who desire nothing except the promotion of their own interests and advantages?"
+          ]
         },
         {
           "key": "source:ABU3165",
@@ -1237,7 +1650,10 @@
         },
         {
           "key": "source:ABU1040",
-          "why": "Consider the reported account of pleasure that scatters attention."
+          "why": "Consider the reported account of pleasure that scatters attention.",
+          "shortened": [
+            "Some may imagine that because they frequent theaters, accumulate wealth, or attend balls, they are always enjoying life: whereas, in reality, these things often scatter thoughts, confuse the minds and dissipate the faculties. The effect of these amusements is like the effect of the wine upon the body:-it exhilarates at first, but its after effect leaves one weak and the mental faculties exhausted."
+          ]
         },
         {
           "key": "source:AB00004",
@@ -1245,19 +1661,31 @@
         },
         {
           "key": "source:AB05312",
-          "why": "Keep the warning about the ungrateful self in its source form."
+          "why": "Keep the warning about the ungrateful self in its source form.",
+          "shortened": [
+            "Such is the condition of people and the fruit of the whisperings of the ungrateful self. Vain indeed is that which they do! Soon thou shalt see them in evident loss."
+          ]
         },
         {
           "key": "source:ABU0426",
-          "why": "Consider the reported mire of egoism."
+          "why": "Consider the reported mire of egoism.",
+          "shortened": [
+            "It is because they are seeking their own interests and not the good-pleasure of the Lord of mankind. They are steeped in the quagmire of their own egoism and are not striving to save themselves out of the bog of selfishness and shake their bespattered bodies with soiled mud and dirt."
+          ]
         },
         {
           "key": "source:ABU2009",
-          "why": "Read the reported danger of mistaking a narrow circle for universal sympathy."
+          "why": "Read the reported danger of mistaking a narrow circle for universal sympathy.",
+          "shortened": [
+            "Stiff-necked and self-willed they take their narrow circle of affected fellow-feeling as the limitless sea of universal sympathy or the tiny rivulet of their self-love as the fountain-head of an all-inclusive brotherhood."
+          ]
         },
         {
           "key": "source:ABU2407",
-          "why": "Consider the reported cloud that hides inner light."
+          "why": "Consider the reported cloud that hides inner light.",
+          "shortened": [
+            "How often they let the cloud of self and ego becloud the horizon and thus prevent the stars of their divine verities from shinning!"
+          ]
         },
         {
           "key": "source:BH00516",
@@ -1265,7 +1693,11 @@
         },
         {
           "key": "source:AB01404",
-          "why": "Consider tests as cleansing the obstructing veil of self."
+          "why": "Consider tests as cleansing the obstructing veil of self.",
+          "shortened": [
+            "It is clear, then, that tests and trials are, for sanctified souls, but God's bounty and grace, while to the weak, they are a calamity, unexpected and sudden.",
+            "These tests, even as thou didst write, do but cleanse the spotting of self from off the mirror of the heart, till the Sun of Truth can cast its rays thereon; for there is no veil more obstructive than the self, and however tenuous that veil may be, at the last it will completely shut a person out, and deprive him of his portion of eternal grace."
+          ]
         },
         {
           "key": "source:ABU3645",
@@ -1277,7 +1709,10 @@
         },
         {
           "key": "source:BH06923",
-          "why": "Hear the image of desire as intoxication."
+          "why": "Hear the image of desire as intoxication.",
+          "shortened": [
+            "The intoxication of selfish desire hath held men back from the Lord of all being."
+          ]
         },
         {
           "key": "source:BH02684",
@@ -1285,19 +1720,31 @@
         },
         {
           "key": "source:BH04801",
-          "why": "Consider the choice between divine guidance and private prompting."
+          "why": "Consider the choice between divine guidance and private prompting.",
+          "shortened": [
+            "This Day they have cast away what is with God and taken what their own selves and desires have commanded them."
+          ]
         },
         {
           "key": "source:BH09091",
-          "why": "Hear the direct counsel concerning the promptings of self."
+          "why": "Hear the direct counsel concerning the promptings of self.",
+          "shortened": [
+            "O My handmaidens! Follow not the promptings of self, but follow that which hath come by a clear command."
+          ]
         },
         {
           "key": "source:BH00994",
-          "why": "Turn toward release from bondage through remembrance."
+          "why": "Turn toward release from bondage through remembrance.",
+          "shortened": [
+            "Say: Deliver your souls, O people, from the bondage of self, and purify them from all attachment to anything besides Me. Remembrance of Me cleanseth all things from defilement, could ye but perceive it."
+          ]
         },
         {
           "key": "source:BH00386",
-          "why": "Read renunciation and trust in relation to peace."
+          "why": "Read renunciation and trust in relation to peace.",
+          "shortened": [
+            "There is no peace for thee save by renouncing thyself and turning unto Me; for it behooveth thee to glory in My name, not in thine own; to put thy trust in Me and not in thyself, since I desire to be loved alone and above all that is."
+          ]
         },
         {
           "key": "source:BH02747",
@@ -1309,7 +1756,10 @@
         },
         {
           "key": "source:ABU1872",
-          "why": "Read the reported severance from egotism in the language of love."
+          "why": "Read the reported severance from egotism in the language of love.",
+          "shortened": [
+            "By them, man is brought to the condition of severance from his egotism and being absorbed into the Ocean of Love Divine."
+          ]
         },
         {
           "key": "source:BH09179",
@@ -1321,11 +1771,17 @@
         },
         {
           "key": "source:ABU1256",
-          "why": "Read the reported hope for justice and fairness in place of selfishness."
+          "why": "Read the reported hope for justice and fairness in place of selfishness.",
+          "shortened": [
+            "Perchance, God willing, they may become mindful and aware, be released from negligence, abandon tyranny and oppression, treat each other with justice and fairness, and give up the dictates of selfishness and personal interest."
+          ]
         },
         {
           "key": "source:ABU1527",
-          "why": "Close the linked sequence with the reported vision of shared happiness under justice."
+          "why": "Close the linked sequence with the reported vision of shared happiness under justice.",
+          "shortened": [
+            "Therefore we must all live in the utmost of happiness and comfort under a just rule and regulation in accordance with the laws of God, because this life is fleeting, and if man looks after himself only, he is no better than the animal, for the animal alone is to that degree egotistic."
+          ]
         },
         {
           "key": "selection:3f61d7afa5fe15a643d99ed2",

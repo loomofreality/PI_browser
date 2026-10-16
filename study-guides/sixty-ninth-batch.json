@@ -5,12 +5,15 @@
       "id": "65B32249C87F46A6BEA80B4FE5F9C1EE",
       "slug": "humansoul",
       "displayTitle": "The human soul: identity, understanding, and the growth of a life",
-      "introduction": "A heart can gather knowledge like a reservoir, or give like a spring that becomes more abundant as it flows. That reported image opens a compilation in which inquiry into the soul repeatedly returns to the quality of human life. The readings consider identity, thought, embodiment, immortality, and the acquisition of virtues, while acknowledging limits to knowledge of the soul’s essence. Soul, spirit, and mind also appear in different senses across writings, translations, and recollections; the supplied guidance near the close makes these interpretive difficulties explicit. Images of light, mirrors, speech, and birth invite patient comparison rather than a single mechanical picture. John 3:3–8 provides a primary reading on birth through the Spirit, a passage echoed within the compilation [1]. Connected subjects on the soul’s origin, its relationship to the body, its mirror-like qualities, and spiritual transformation extend the inquiry from what a person is toward what a person may become.",
+      "introduction": "Some hearts are pools, filling themselves a cupful at a time; others are springs that grow purer the more they give. ‘Abdu’l-Bahá’s image is a good place to begin asking what a human being is, because the soul in the Bahá’í writings is known less by definition than by what it does. It is a sign of God that the learned have never comprehended, the first thing in creation to speak His name, a mirror that stays dark until a ray falls on it, a word spoken by a Speaker who is not diminished by speaking. It is sanctified from time and space, unchanged while the body alters, yet it can sink into greed and aggression or be lifted into justice and loving-kindness. Jesus’ night conversation with Nicodemus about being born of the Spirit [1] is echoed when ‘Abdu’l-Bahá distinguishes the natural human spirit, shared by everyone, from the spirit of faith that must be breathed into it. The inquiry opens onward: to the mind as the link between soul and body, to the soul’s immortality, and to the spiritual transformation by which a person becomes a source of life to others.",
       "arc": "Begin with generous inward life, clarify the varied language of soul and spirit, examine knowledge and embodiment, then follow the movement toward spiritual growth and responsible reading.",
       "order": [
         {
           "key": "source:ABU0860",
-          "why": "Open with the reported contrast between gathering pools and flowing springs."
+          "why": "Open with the reported contrast between gathering pools and flowing springs.",
+          "shortened": [
+            "Hearts should be like fountains. The scholars and philosophers of the age are like pools, gathering a cup from here and a cup from there to fill their reservoirs, but some hearts are like springs that become purer and more abundant the more they flow."
+          ]
         },
         {
           "key": "source:BH00386",
@@ -18,11 +21,18 @@
         },
         {
           "key": "source:AB00398",
-          "why": "Read original purity beside the acquisition of virtues and vices."
+          "why": "Read original purity beside the acquisition of virtues and vices.",
+          "shortened": [
+            "Know thou that every soul is fashioned after the nature of God, each being pure and holy at his birth. Afterwards, however, the individuals will vary according to what they acquire of virtues or vices in this world."
+          ]
         },
         {
           "key": "source:BH00328",
-          "why": "Explore the soul as an incomprehensible sign with a transformative effect on the world."
+          "why": "Explore the soul as an incomprehensible sign with a transformative effect on the world.",
+          "shortened": [
+            "As to your question concerning the reality of the soul, it is a divine sign and a heavenly essence which all the learned have failed to comprehend and all the wise have been powerless to understand. It is the first entity to speak of God, its Creator, to turn towards Him, to hold fast unto Him, and to bow down before Him.",
+            "Such a soul is the leaven that giveth rise to the world and the crafts and visible things therein, through the command of the True Sovereign and the True Educator. Observe ye the leaven, how it requireth a leavening agent - and pure souls are the leaven of the world."
+          ]
         },
         {
           "key": "source:AB00020",
@@ -30,7 +40,11 @@
         },
         {
           "key": "source:AB02018",
-          "why": "Introduce the rational soul and the mirror’s need for light."
+          "why": "Introduce the rational soul and the mirror’s need for light.",
+          "shortened": [
+            "The human spirit, which distinguishes man from the animal, is the rational soul, and these two terms---the human spirit and the rational soul---designate one and the same thing.",
+            "But the human spirit, unless it be assisted by the spirit of faith, cannot become acquainted with the divine mysteries and the heavenly realities. It is like a mirror which, although clear, bright, and polished, is still in need of light. Not until a sunbeam falls upon it can it discover the divine mysteries."
+          ]
         },
         {
           "key": "source:ABU2940",
@@ -46,27 +60,50 @@
         },
         {
           "key": "source:AB00620",
-          "why": "Consider the particular account of spirit, mind, and soul as three powers."
+          "why": "Consider the particular account of spirit, mind, and soul as three powers.",
+          "shortened": [
+            "As to ... whom thou hast mentioned, it behooveth him to seek only the divine bounties and subjects which lead to the real knowledge of the invisible (world of God), through the mediation of the Holy Spirit. Then he will perceive the reality of the triune powers in man, through his innate perception. For, verily, the sign of these triune powers which exist in mankind are spirit, mind, and soul. The spirit is the power of life, the mind is the power which apprehendeth the reality of things, and the soul is an intermediary between the Supreme Concourse (or Spiritual World) and the lower concourse (or material world)."
+          ]
         },
         {
           "key": "source:AB02513",
-          "why": "Read the rational soul as intermediary while preserving the supplied translation’s terminology."
+          "why": "Read the rational soul as intermediary while preserving the supplied translation’s terminology.",
+          "shortened": [
+            "The human spirit (ruh-i insani), in other words the rational soul (nafs-i natiqa), in the world of existence is the intermediary between things corporeal ('disengaged' mujarradat) and delimited worldly things (mutahayyizat); that is to say, between realities spiritual and things corporeal."
+          ]
         },
         {
           "key": "source:ABU0179",
-          "why": "Explore the reported range of meanings of spirit across degrees of existence."
+          "why": "Explore the reported range of meanings of spirit across degrees of existence.",
+          "shortened": [
+            "This human spirit, which is the rational soul, encompasses all things, discovers all things, and comprehends all things. It is this that brings forth the mysteries of being from the invisible plane to the visible.",
+            "But when spiritual people speak of the spirit, they do not mean this spirit. They mean that eternal spirit, that life of faith, that spirit of which Christ says man must be baptized with it, and until he is baptized with that spirit he cannot enter the Kingdom of God."
+          ]
         },
         {
           "key": "source:AB00460",
-          "why": "Attend to the scriptural distinction between physical life and the life of faith."
+          "why": "Attend to the scriptural distinction between physical life and the life of faith.",
+          "shortened": [
+            "Now these \"spirits\" are not reckoned as Spirit in the terminology of the Scriptures and the usage of the people of the Truth, inasmuch as the laws governing them are as the laws which govern all phenomenal being (i.e., all existences belonging to the phenomenal or material universe, called \"the world of generation and corruption\"), in respect to generation, corruption, production, change and reversion, as is clearly indicated in the Gospel where it says: \"Let the dead bury their dead;\" \"That which is born of the flesh is flesh, and that which is born of the Spirit is Spirit\"; inasmuch as he who would bury these dead was alive with the vegetative, animal and rational human soul, yet did Christ--to whom be glory!--declare such dead and devoid of life, in that this person was devoid of the Spirit of Faith, which is the Kingdom of God."
+          ]
         },
         {
           "key": "source:ABU0586",
-          "why": "Read the reported account of soul, mind, and spirit through its Gospel references."
+          "why": "Read the reported account of soul, mind, and spirit through its Gospel references.",
+          "shortened": [
+            "There is still another power which is differentiated from that of the soul and mind. This third power is the spirit which is an emanation from the divine bestower; it is the effulgence of the sun of reality, the radiation of the celestial world, the spirit of faith, the spirit His Holiness the Christ refers to when he says, \"Those that are born of the flesh are flesh, and those that are born of the spirit are spirit.\"",
+            "This spirit of faith is the flame of reality, the life of humanity and the cause of eternal illumination. It inspires man to attain the virtues and perfections of the divine world."
+          ]
         },
         {
           "key": "source:ABU0744",
-          "why": "Keep the concise reported definitions in their own source setting."
+          "why": "Keep the concise reported definitions in their own source setting.",
+          "shortened": [
+            "Soul is the human will to live temporally.",
+            "Spirit is the Divine Will to live forever.",
+            "Salvation is the quickening of soul into Spirit.",
+            "All souls are alike in essence or quality as created."
+          ]
         },
         {
           "key": "source:ABU3225",
@@ -78,15 +115,25 @@
         },
         {
           "key": "source:ABU0185",
-          "why": "Examine the reported classification and its warning that essence cannot be comprehended."
+          "why": "Examine the reported classification and its warning that essence cannot be comprehended.",
+          "shortened": [
+            "Be it known that to know the reality or essence of the soul of man is impossible, for in order to know a thing, one must comprehend it, and since a thing cannot comprehend itself, to know one's self in substance or essence is impossible. As the comprehender cannot be comprehended, man cannot know himself in reality or essence. In order to obtain knowledge of any reality, or soul of man, the student must study the manifestations, qualities, names and characteristics of man. This much can be stated, that the reality of man is a pure and unknown essence constituting a depository, emanating from the light of the Ancient Entity -- God."
+          ]
         },
         {
           "key": "source:ABU0647",
-          "why": "Read the reported relation of the perceiving soul to the spirit of faith."
+          "why": "Read the reported relation of the perceiving soul to the spirit of faith.",
+          "shortened": [
+            "Spirit in man is the perceiving soul, able to understand the realities of things and predominating over all things else. The spirit of faith endows man with the capacity to love God and to know God. If the spirit of man, his perceiving soul, be confirmed by the spirit of faith so that it loves and knows God, and if it be guided by the guidance of God, and if the divine attributes be manifested in it, then there is a living soul which attains to eternal life."
+          ]
         },
         {
           "key": "source:ABU0114",
-          "why": "Consider the reported account of discovery, unity, and eternal life through spirit."
+          "why": "Consider the reported account of discovery, unity, and eternal life through spirit.",
+          "shortened": [
+            "Man is not human by virtue of his body; man is human by virtue of his spirit.",
+            "It is the spirit that makes man heavenly; it is the spirit that makes man recipient of the Holy Spirit's breaths; it is the spirit that discovers the realities of things; it is the spirit that has produced all these effects; it is the spirit that has established all sciences; it is the spirit that bestows eternal life; it is the spirit that unites different nations; it is the spirit that brings together East and West; it is the spirit that makes the human world divine. Therefore, those souls who are recipients of the power of the spirit are the cause of life to the world."
+          ]
         },
         {
           "key": "source:AB00057",
@@ -94,11 +141,19 @@
         },
         {
           "key": "source:ABU0262",
-          "why": "Keep the historical Columbus example attributed while examining the distinction between emanation and division."
+          "why": "Keep the historical Columbus example attributed while examining the distinction between emanation and division.",
+          "shortened": [
+            "For instance, Christopher Columbus from information based upon known and provable facts drew conclusions which led him unerringly across the vast ocean to the unknown continent of America. Such power of accomplishment is beyond the range of animal intelligence. Therefore, this power is a distinctive attribute of the human spirit and kingdom.",
+            "But the reality of Divinity is indivisible, and each individual of humankind cannot be a part of it as is often claimed. Nay, rather, the individual realities of mankind, when spiritually born, are emanations from the reality of Divinity, just as the flame, heat and light of the sun are the effulgence of the sun and not a part of the sun itself. Therefore, a spirit has emanated from the reality of Divinity, and its effulgences have become visible in human entities or realities."
+          ]
         },
         {
           "key": "source:ABU0690",
-          "why": "Consider the reported argument from discovery and will."
+          "why": "Consider the reported argument from discovery and will.",
+          "shortened": [
+            "Through this power it becomes the discoverer of the realities of things and attains the progress of the human world.",
+            "Humans comprehend the realities of things while animals are ignorant. Through the power of will, humans uncover the hidden realities of beings while animals have no share or portion of human reality."
+          ]
         },
         {
           "key": "source:ABU0780",
@@ -114,7 +169,10 @@
         },
         {
           "key": "source:ABU3259",
-          "why": "Retain the reported question contrasting spiritual capacity with making a salad."
+          "why": "Retain the reported question contrasting spiritual capacity with making a salad.",
+          "shortened": [
+            "Nevertheless the spirit of man is powerful; for the spirit of man can soar in the firmament of knowledge, can discover realities, can confer life, can receive the divine Glad-Tidings. Is not this greater than making a salad?\""
+          ]
         },
         {
           "key": "source:ABU0577",
@@ -122,11 +180,17 @@
         },
         {
           "key": "source:AB00709",
-          "why": "Read the rational soul and baptism by water and spirit together."
+          "why": "Read the rational soul and baptism by water and spirit together.",
+          "shortened": [
+            "The human spirit is the rational soul, that is, the one that perceives the realities of things, discovers them and encompasses them. It has brilliant effects, radiant lights, penetrating power and perfect ability, distinguished in all its conditions and concept from other spirits. It is baptized by water and spirit."
+          ]
         },
         {
           "key": "source:ABU0055",
-          "why": "Keep the reported opening about three realities and its source omission visible."
+          "why": "Keep the reported opening about three realities and its source omission visible.",
+          "shortened": [
+            "Such gatherings belong to the study and the investigation of spiritual facts... The spiritual power has gathered us together. Our aim is to discover the realities of phenomena. When we ponder over the reality of the microcosm, we discover that in the microcosm, or the little man, there are deposited three realities. Man is endowed with an outward or physical reality."
+          ]
         },
         {
           "key": "source:ABU3609",
@@ -142,7 +206,10 @@
         },
         {
           "key": "source:AB01631",
-          "why": "Read the chapter’s account of individuality and its development in this world."
+          "why": "Read the chapter’s account of individuality and its development in this world.",
+          "shortened": [
+            "The rational soul is endowed from the beginning with individuality; it does not acquire it through the intermediary of the body. At most, what can be said is that the individuality and identity of the rational soul may be strengthened in this world, and that it may either progress and attain to the degrees of perfection or remain in the lowest abyss of ignorance and be veiled from and deprived of beholding the signs of God."
+          ]
         },
         {
           "key": "source:ABU1477",
@@ -150,7 +217,10 @@
         },
         {
           "key": "source:ABU3236",
-          "why": "Explore the reported matrix-world analogy for developing consciousness."
+          "why": "Explore the reported matrix-world analogy for developing consciousness.",
+          "shortened": [
+            "'Abdu'l-Baha replied: \"Individual consciousness is realized after birth here. This is the matrix world for the soul, even as the womb was the matrix world for the body or vehicle. - Birth into consciousness of another world begins here, a world for which this physical and material one is but the preparation and foundation.\""
+          ]
         },
         {
           "key": "source:ABU0252",
@@ -158,7 +228,11 @@
         },
         {
           "key": "source:AB00316",
-          "why": "Read emanation through the analogy of speech from a speaker."
+          "why": "Read emanation through the analogy of speech from a speaker.",
+          "shortened": [
+            "The spirits of men proceed from God by emanation, in the same way as the discourse proceeds from the speaker and the writing from the writer; that is, the speaker himself does not become the speech, any more than the writer becomes the writing: the connection is rather one of emanational procession.",
+            "The procession of human spirits from God is therefore an emanational procession. When it is said in the Torah that God breathed His spirit into man, this spirit is even as speech that has emanated from the true Speaker and taken effect in the reality of man."
+          ]
         },
         {
           "key": "source:BH02601",
@@ -166,7 +240,10 @@
         },
         {
           "key": "source:ABU0226",
-          "why": "Keep the reported Logos and emanation account attributed to its source."
+          "why": "Keep the reported Logos and emanation account attributed to its source.",
+          "shortened": [
+            "The creation is an emanation of light of the eternal Light. The description of the Logos (Soul of the world) as effulgence of light also goes back to ar-Razi. From the throne of the Glory of the Creator His Light shines on the Soul emanated from Him (Soul of the world, Logos) and is then further reflected on the individual soul, so that it too would reflect it and look back in longing to its divine origin in Him!\""
+          ]
         },
         {
           "key": "source:AB10286",
@@ -174,15 +251,24 @@
         },
         {
           "key": "source:AB00479",
-          "why": "Hear the distinction between spiritual substance and physical elements."
+          "why": "Hear the distinction between spiritual substance and physical elements.",
+          "shortened": [
+            "The human spirit refers to the rational soul by which humans are distinguished from animals. It is not from the realm of physical elements but rather from spiritual substances that are not subject to corruption."
+          ]
         },
         {
           "key": "source:BH01497",
-          "why": "Read the rational soul’s potential alongside the consequences of turning away from guidance."
+          "why": "Read the rational soul’s potential alongside the consequences of turning away from guidance.",
+          "shortened": [
+            "The human spirit, which is the rational soul that distinguishes man from animal, is not of the physical elements but rather of spiritual substance that is not subject to corruption. It is tormented when veiled from God, its Lord, and prevented from beholding its Creator and perceiving His signs in the worlds of souls and horizons. It has the power to comprehend all things and encompasses the realities of all contingent beings as they are, should it turn to the center of guidance among the concourse of creation; otherwise it descends into the depths of ignorance and blindness and falls to the lowest levels of error and misguidance."
+          ]
         },
         {
           "key": "source:AB00457",
-          "why": "Consider connection with the body without material entry or exit."
+          "why": "Consider connection with the body without material entry or exit.",
+          "shortened": [
+            "In regard to the phenomenon of death, know that the soul of man is sanctified and independent from material existence. It has no need to enter or exit, ascend or descend, penetrate or commingle, for these are the properties of bodies, not of souls. Therefore, the soul of man does not enter into this corporeal frame, but rather it has a connection to it."
+          ]
         },
         {
           "key": "source:AB03491",
@@ -206,7 +292,10 @@
         },
         {
           "key": "source:ABU0757",
-          "why": "Read the reported description of the Spirit of God as a changeless reality."
+          "why": "Read the reported description of the Spirit of God as a changeless reality.",
+          "shortened": [
+            "But the Spirit of God, the heavenly bestowal, is one reality, and in all ages - the prophetic ages - that reality has been, and that reality is, changeless; is not to be decomposed, for it is not composed."
+          ]
         },
         {
           "key": "source:AB00018",
@@ -214,7 +303,10 @@
         },
         {
           "key": "source:ABU0182",
-          "why": "Distinguish bodily life from the life of the soul in the reported formulation."
+          "why": "Distinguish bodily life from the life of the soul in the reported formulation.",
+          "shortened": [
+            "Man possesses two kinds of life. One is the life of the body; the other is the life of the soul. The bodily life of man is the life of the animal."
+          ]
         },
         {
           "key": "source:ABU2533",
@@ -226,19 +318,32 @@
         },
         {
           "key": "source:ABU2279",
-          "why": "Consider the reported activity of the soul during sleep."
+          "why": "Consider the reported activity of the soul during sleep.",
+          "shortened": [
+            "The soul is always active--it travels even where man is asleep."
+          ]
         },
         {
           "key": "source:AB00068",
-          "why": "Read the soul’s independence from time and space as a metaphysical claim."
+          "why": "Read the soul’s independence from time and space as a metaphysical claim.",
+          "shortened": [
+            "As to your fourth question concerning the state of souls after their departure from the body, know that the soul is one of the abstract realities, and abstract reality is sanctified beyond time and space, for time and space pertain to the physical world and to that which occupies space. How can abstract reality, which hath neither body nor form, be confined by time or space? It transcendeth both. It is spirit, not matter--a heavenly grace, not earthly dross."
+          ]
         },
         {
           "key": "source:AB03919",
-          "why": "Keep the incomplete source’s luminous imagery and omissions visible."
+          "why": "Keep the incomplete source’s luminous imagery and omissions visible.",
+          "shortened": [
+            "Concerning the condition of the human soul after its ascension from the material world: the essence of the human soul is clarified from material substances and purified from the embodiment of physical things. It is exclusively luminous; it has no body; it is a dazzling pencil of light; it is a celestial orb of brightness....",
+            "..."
+          ]
         },
         {
           "key": "source:ABU2186",
-          "why": "Hear the reported acknowledgment of difficulty describing consciousness after death."
+          "why": "Hear the reported acknowledgment of difficulty describing consciousness after death.",
+          "shortened": [
+            "The power of consciousness is also thus recognized. After death the condition is one which cannot be clearly explained in words. It is one of comprehension, understanding which involves all other things - feeling, etc."
+          ]
         },
         {
           "key": "source:ABU2909",
@@ -254,19 +359,31 @@
         },
         {
           "key": "source:ABU1355",
-          "why": "Consider the reported analogy for powers beyond present comprehension."
+          "why": "Consider the reported analogy for powers beyond present comprehension.",
+          "shortened": [
+            "To the animals other than man, the attainments of man are inconceivable, just as inconceivable as the next plane above and beyond this is now inconceivable to us. For there we shall find new powers, new senses, as far transcending those we now have as these transcend the powers of those on the planes below us.\""
+          ]
         },
         {
           "key": "source:AB01584",
-          "why": "Hear the devotional image of departed souls as stars."
+          "why": "Hear the devotional image of departed souls as stars.",
+          "shortened": [
+            "And when they concealed their faces from this lower horizon, they shone forth like brilliant stars from the horizons of the Abha Kingdom, and ran to the private chamber of the Truth, attaining the joy of meeting."
+          ]
         },
         {
           "key": "source:ABU2606",
-          "why": "Read the reported school analogy and its rejection of returning to this world."
+          "why": "Read the reported school analogy and its rejection of returning to this world.",
+          "shortened": [
+            "No: No one ever returns here, for this world is a school were the soul of man learns its first lessons in spirituality, and if he leaves this place without having learned his lessons sufficiently, the time is past and the opportunity lost; for the evolution of God's plans waits not for man. When one enters the other world, he sees and knows so much that is now hidden that this world seems but a dark and narrow prison from which he has escaped."
+          ]
         },
         {
           "key": "source:ABU0343",
-          "why": "Keep the reported conditional language concerning immortality distinct from the chapter on the rational soul’s subsistence."
+          "why": "Keep the reported conditional language concerning immortality distinct from the chapter on the rational soul’s subsistence.",
+          "shortened": [
+            "Life is eternal, but the individual human consciousness is not inherently so. It can only gain immortality by uniting with the pure Divine Essence. This union man may reach by a pure life and love for God and his fellows."
+          ]
         },
         {
           "key": "source:ABU2645",
@@ -274,7 +391,11 @@
         },
         {
           "key": "source:ABU0024",
-          "why": "Return to the address’s affirmation that all souls receive divine bounty."
+          "why": "Return to the address’s affirmation that all souls receive divine bounty.",
+          "shortened": [
+            "When the man who is spiritually sagacious and possessed of insight views the world of humanity, he will observe that the lights of the divine bounty are flooding all mankind, just as the lights of the sun shed their splendor upon all existing things.",
+            "This human plane, or kingdom, is one creation, and all souls are the signs and traces of the divine bounty. In this plane there are no exceptions; all have been recipients of their bestowals through the heavenly bounty."
+          ]
         },
         {
           "key": "source:AB00919",
@@ -290,15 +411,25 @@
         },
         {
           "key": "source:ABU0655",
-          "why": "Read the reported transformation of aggression into justice and loving-kindness."
+          "why": "Read the reported transformation of aggression into justice and loving-kindness.",
+          "shortened": [
+            "The soul that lives in the material world is dark for in the material world there is aggression, struggle, greed, vice and transgression. If the soul remains in this station, and moves along these paths it will receive no uplift, but if it becomes the recipient of the world of mind, its darkness will be transformed into light; its tyranny into justice, its ignorance into wisdom and its aggression into loving kindness. There will be no more struggle for existence and man will become free from egotism. He will be released from the material world and become the embodiment of justice, the personification of the virtues."
+          ]
         },
         {
           "key": "source:ABU1895",
-          "why": "Consider the reported power to choose whether to show love."
+          "why": "Consider the reported power to choose whether to show love.",
+          "shortened": [
+            "Man is the only creature who can receive reward, because he has the power of choice--whether he will show forth love or withhold it. He has the power to choose immortal life or to reject it, while the animals have no qualities that are immortal."
+          ]
         },
         {
           "key": "source:ABU2120",
-          "why": "Read the reported account of vices as the spirit’s retribution."
+          "why": "Read the reported account of vices as the spirit’s retribution.",
+          "shortened": [
+            "Question. What becomes of the spirit of a murderer?",
+            "Answer. Human spirits are manifested in physical molds or bodies. One spirit may be imperfect; that is to say, it may be imbued with qualities and characteristics of a baser nature; it may be ignorant, inadvertent, immoral, evil, contaminating, tyrannical. These vices are the retribution of this spirit."
+          ]
         },
         {
           "key": "source:ABU2162",
@@ -306,7 +437,10 @@
         },
         {
           "key": "source:AB06948",
-          "why": "Consider the contrast between liberation and the limitations of the contingent world."
+          "why": "Consider the contrast between liberation and the limitations of the contingent world.",
+          "shortened": [
+            "The pure in spirit have, through this bounty from the All-Merciful, ascended from the depths of nothingness to the highest heights of being, while those defiled with the dust and limitations of the contingent world have withered and languished in the lowest of the low."
+          ]
         },
         {
           "key": "source:AB00100",
@@ -326,7 +460,10 @@
         },
         {
           "key": "source:BH00002",
-          "why": "Explore wisdom and understanding as ways to kindle and guard an inward flame."
+          "why": "Explore wisdom and understanding as ways to kindle and guard an inward flame.",
+          "shortened": [
+            "Oceans can never allay this Leviathan's burning thirst, and this Phoenix of the undying fire can abide nowhere save in the glow of the countenance of the Well-Beloved. Therefore, O brother! kindle with the oil of wisdom the lamp of the spirit within the innermost chamber of thy heart, and guard it with the globe of understanding, that the breath of the infidel may extinguish not its flame nor dim its brightness."
+          ]
         },
         {
           "key": "source:ABU3334",
@@ -342,7 +479,10 @@
         },
         {
           "key": "source:AB09379",
-          "why": "Consider the contrast between physical strength and spiritual influence."
+          "why": "Consider the contrast between physical strength and spiritual influence.",
+          "shortened": [
+            "The strength of body and physical might can at most overcome a hundred men, but the power of spirit and vigor of soul can capture and possess whole worlds."
+          ]
         },
         {
           "key": "source:BH00827",
@@ -350,7 +490,10 @@
         },
         {
           "key": "source:ABU0626",
-          "why": "Hear the reported promise of a foretaste of spiritual distinctions."
+          "why": "Hear the reported promise of a foretaste of spiritual distinctions.",
+          "shortened": [
+            "God, in His Bounty, has given us a foretaste here, has given us certain proofs of the difference that exists between body, soul and spirit."
+          ]
         },
         {
           "key": "source:BH10248",
@@ -358,19 +501,32 @@
         },
         {
           "key": "source:BH06720",
-          "why": "Close the linked readings with the drop seeking the ocean of grace."
+          "why": "Close the linked readings with the drop seeking the ocean of grace.",
+          "shortened": [
+            "O my Lord! Thou seest the drop seeking the ocean of Thy grace and the sea of Thy bounty, and the atom seeking the effulgences of the sun of Thy generosity and munificence."
+          ]
         },
         {
           "key": "selection:928abc32c70ced1e465ae6a0",
-          "why": "Introduce the supplied guidance on translation difficulties and body, mind, and immortal identity."
+          "why": "Introduce the supplied guidance on translation difficulties and body, mind, and immortal identity.",
+          "shortened": [
+            "But there is no doubt that spirit and soul seem to have been interchanged in meaning sometimes; soul and mind have, likewise, been interchanged in meaning, no doubt due to difficulties arising from different translations. What the Baha'is do believe though is that we have three aspects of our humanness, so to speak, a body, a mind and an immortal identity - soul or spirit. We believe the mind forms a link between the soul and the body, and the two interact on each other."
+          ]
         },
         {
           "key": "selection:49e7fa60d97e34569f1cf077",
-          "why": "Read Mirza Abu’l-Fadl’s supplied discussion of the limits of defining spirit by negation."
+          "why": "Read Mirza Abu’l-Fadl’s supplied discussion of the limits of defining spirit by negation.",
+          "shortened": [
+            "The best, most perfect, and clearest of these is that spirit is an abstract substance separate from matter in essence but not in act. It will not be hidden from the wise that this definition, insofar as it is a definition by negation, fails to elucidate the reality of the essence of the thing described.",
+            "Yet it remains in need of matter in all acts, and inseparable from it in all conditions, for it is unimaginable that matter be stripped from it. No act can issue from spirit except through matter, and it is inconceivable that an effect could be produced by spirit save through the instrumentality of matter."
+          ]
         },
         {
           "key": "selection:7388bcb99fca32b9a341a715",
-          "why": "Consider the supplied distinction between existence in different states and particular kinds of spirit."
+          "why": "Consider the supplied distinction between existence in different states and particular kinds of spirit.",
+          "shortened": [
+            "In brief, existence hath one signification, but its manifestations, appearances, and attributes vary in every grade and station.     As for the kinds of spirit, these are fixed realities each having its own specification and individualization, particular perfections and attributes, which distinguish one from another. They differ with respect to their essential qualities and what they signify. The mineral spirit, therefore, cannot be compared to the plant spirit, because the latter is the power of growth. The animal spirit, also, is a specialized reality distinct from all besides itself through its attributes and significations, for it is the power of sense perception and volitional movement."
+          ]
         },
         {
           "key": "selection:2124d4f3f72b6321716151ea",
@@ -386,7 +542,11 @@
         },
         {
           "key": "selection:9f97b4b0e0fed923d2ffb4c6",
-          "why": "End with the supplied provisional distinction between natural and heavenly spirit."
+          "why": "End with the supplied provisional distinction between natural and heavenly spirit.",
+          "shortened": [
+            "By the soul is meant the reality of man that is inclined towards the contingent world, and is associated with the worldly aspects of human life.",
+            "So in this sense, the spirit and the soul are one and the same. But the heavenly spirit is that reality of man that is derived from the outpourings of divine Grace, and blessed by the splendours of the Sun of Truth. The heavenly spirit is confined to true believers."
+          ]
         }
       ],
       "questions": [
@@ -492,7 +652,7 @@
       "id": "E7BFAD48788E4AFE9B6EA752F7671AB1",
       "slug": "worldcreation",
       "displayTitle": "Creation of the world: beginnings, dependence, and renewal",
-      "introduction": "What can a day mean in a creation account before the sun appears? This question opens readings that invite attention to different senses of beginning, existence, and divine action. Creation is described as brought forth from nothingness, as having no beginning or end, and as continually dependent upon its Creator. The distinction between temporal duration and essential dependence helps readers explore these statements together. Alongside philosophical arguments stand prayers, symbolic accounts of letters and spheres, and descriptions of spiritual renewal. These forms ask different things of their readers and should be considered in their own settings. Genesis 1, especially its first and fourth days, offers a primary comparison for the interpretive question with which the sequence begins [1]. Connected subjects on the creative Word, divine love, the Primal Will, continual renewal, and the purpose of creation extend the inquiry toward gratitude, recognition, and the meaning of a new spiritual life.",
+      "introduction": "How can there be a first day before a sun exists to make one? ‘Abdu’l-Bahá asks it of Genesis not to dismiss the text but to open it. Bahá’u’lláh writes that creation has always been and always will be, since the name Creator requires a creation as the name Lord requires something ruled over, and that what makes the world contingent is not a date but a cause. Everything else hangs on a Word, a Will made by God for Himself and ordained as the cause of all. Then the thought moves in several keys: the Báb’s praise of One who reared the heavens from nothing without helper, a symbolic cosmology of water, earth and rising spheres, and the quiet claim that the world was made for the knowledge of God. Genesis, with its light on the first day, its lamps on the fourth, and its refrain that what was made is good, is the natural companion [1]. The road runs on toward the creative Word, the self-generation of the Primal Will, and the renewal of creation that never ceases.",
       "arc": "Begin with a puzzle about the creation days, distinguish dependence from temporal beginning, explore arguments and symbolic descriptions, and return to the purposes of recognition and renewal.",
       "order": [
         {
@@ -501,7 +661,10 @@
         },
         {
           "key": "source:BH00223",
-          "why": "Read the Tablet of Wisdom’s acknowledgment of differing conceptions."
+          "why": "Read the Tablet of Wisdom’s acknowledgment of differing conceptions.",
+          "shortened": [
+            "As regards thine assertions about the beginning of creation, this is a matter on which conceptions vary by reason of the divergences in men's thoughts and opinions. Wert thou to assert that it hath ever existed and shall continue to exist, it would be true; or wert thou to affirm the same concept as is mentioned in the sacred Scriptures, no doubt would there be about it, for it hath been revealed by God, the Lord of the worlds."
+          ]
         },
         {
           "key": "source:BH00048",
@@ -529,11 +692,17 @@
         },
         {
           "key": "source:BH00001",
-          "why": "Read procession and return as a concise orientation to the whole inquiry."
+          "why": "Read procession and return as a concise orientation to the whole inquiry.",
+          "shortened": [
+            "All things proceed from God and unto Him they return. He is the source of all things and in Him all things are ended."
+          ]
         },
         {
           "key": "source:ABU0491",
-          "why": "Consider the reported unity of Creator and the goal of nature’s yearning."
+          "why": "Consider the reported unity of Creator and the goal of nature’s yearning.",
+          "shortened": [
+            "The Creator of all is One God. From this same God all creation sprang into existence, and He is the one goal, towards which everything in nature yearns."
+          ]
         },
         {
           "key": "source:ABU0119",
@@ -553,19 +722,33 @@
         },
         {
           "key": "source:ABU0017",
-          "why": "Read the reported philosophical reconciliation in its own vocabulary, including its claims about Christian interpretation."
+          "why": "Read the reported philosophical reconciliation in its own vocabulary, including its claims about Christian interpretation.",
+          "shortened": [
+            "Baha'u'llah, the Blessed Perfection, the Greatest Light of the present time, attributes the preexistence in time of God before the world to the logical preexistence of the causal relationship of God to the world; or in other words: Baha'u'llah ties the idea of emanation of the philosophers and learned to the idea of creation of the prophets and founders of religion. He reconciles and unites science and faith, recognition and will; knowledge and ability; wish and accomplishment.",
+            "God did not create the world out of nothing. The early Christian church teachers have spoken in incorrect interpretation of the bible, of a \"creatio ex nihilo\", that is \"creation of out nothing\". That is an error."
+          ]
         },
         {
           "key": "source:AB00020",
-          "why": "Consider the Tablet to Dr Forel’s argument from the universe’s order."
+          "why": "Consider the Tablet to Dr Forel’s argument from the universe’s order.",
+          "shortened": [
+            "Similarly the wise and reflecting soul will know of a certainty that this infinite universe with all its grandeur and perfect order could not have come to exist by itself."
+          ]
         },
         {
           "key": "source:AB00815",
-          "why": "Read the argument from the smallest change to the wider universe."
+          "why": "Read the argument from the smallest change to the wider universe.",
+          "shortened": [
+            "The change in the outward form of the smallest thing proves the existence of a creator: Then how could this vast, boundless universe have created itself and come to exist solely through the mutual interaction of the elements?"
+          ]
         },
         {
           "key": "source:ABU0102",
-          "why": "Examine the public address’s inference from composition to will."
+          "why": "Examine the public address’s inference from composition to will.",
+          "shortened": [
+            "Furthermore, it is a philosophical principle that the existence of phenomena implies composition and that mortality, or nonexistence, is equivalent to decomposition.",
+            "Then what have we left as a form of composition? It is the voluntary form of composition, which means that composition is effected through a superior will, that there is will expressed in this motive or action. It is thus proved that the existence of phenomena is effected through the eternal Will, the Will of the Living, Eternal and Self-subsistent, and this is a rational proof concerning composition whereof there is no doubt or uncertainty."
+          ]
         },
         {
           "key": "source:ABU0591",
@@ -577,11 +760,18 @@
         },
         {
           "key": "source:ABU2507",
-          "why": "Consider the reported reasoning from effects to a creative Cause."
+          "why": "Consider the reported reasoning from effects to a creative Cause.",
+          "shortened": [
+            "Do we not see the signs and traces of God - the Unknowable, primal Cause - scattered all about us? Are not these \"effects\" sufficient reason to demonstrate to us that there is behind all of them, a Creative Cause?"
+          ]
         },
         {
           "key": "source:ABU0226",
-          "why": "Read the reported account of creation and preservation as continuous dependence."
+          "why": "Read the reported account of creation and preservation as continuous dependence.",
+          "shortened": [
+            "In the creation and the preservation of the world, God is the sole Cause, all that happens in the world derives from Him, originally and continuously.",
+            "Nature did not originate of itself - by accident, - but it sprang from a divine act of creation."
+          ]
         },
         {
           "key": "source:AB00077",
@@ -589,7 +779,10 @@
         },
         {
           "key": "source:AB00920",
-          "why": "Keep the account of the globe’s development within the chapter’s philosophical exchange."
+          "why": "Keep the account of the globe’s development within the chapter’s philosophical exchange.",
+          "shortened": [
+            "The material philosophers insist upon their belief, and the divine philosophers reply: \"Is this terrestrial globe eternal or was it originated?\" The material philosophers answer that, according to well-established scientific findings, it is proven to be originated; that in the beginning it was a molten sphere and gradually became temperate; that a crust was formed around it; and that upon this crust plants came into being, then animals, and finally man."
+          ]
         },
         {
           "key": "source:ABU1534",
@@ -601,7 +794,10 @@
         },
         {
           "key": "source:BH09598",
-          "why": "Consider created things as emblems of power, grace, and generosity."
+          "why": "Consider created things as emblems of power, grace, and generosity.",
+          "shortened": [
+            "Thou art that Omnipotent One Who through a single word hath fashioned the heavens and the earth and caused them to be the emblems of Thy Might, Thy Power and Thy Majesty; of Thy Grace, Thy Bounty and Thy Generosity, that the possessors of vision may behold the signs of Thy power and greatness in all things and bear witness to Thy grandeur."
+          ]
         },
         {
           "key": "source:BH11459",
@@ -609,7 +805,10 @@
         },
         {
           "key": "source:BH00512",
-          "why": "Explore the conjunction of nothingness, infinite creation, and unceasing bounty."
+          "why": "Explore the conjunction of nothingness, infinite creation, and unceasing bounty.",
+          "shortened": [
+            "A drop of the billowing ocean of His endless mercy hath adorned all creation with the ornament of existence, and a breath wafted from His peerless Paradise hath invested all beings with the robe of His sanctity and glory. A sprinkling from the unfathomed deep of His sovereign and all-pervasive Will hath, out of utter nothingness, called into being a creation which is infinite in its range and deathless in its duration.  The wonders of His bounty can never cease, and the stream of His merciful grace can never be arrested."
+          ]
         },
         {
           "key": "source:BB00005",
@@ -617,7 +816,10 @@
         },
         {
           "key": "source:BB00064",
-          "why": "Consider the distinction between the divine Essence and the cause of created things."
+          "why": "Consider the distinction between the divine Essence and the cause of created things.",
+          "shortened": [
+            "The philosophers' statement that the cause of things is the Essence is false due to impossibility of association, change, and the requirement of similarity between cause and effect. The truth is that Causation is the handiwork of God -- the act which He hath wrought by Himself for Himself -- and He hath made it the cause of all His creation; even as the Imam hath indicated: \"The cause of all things is His workmanship, while He Himself hath no cause.\""
+          ]
         },
         {
           "key": "source:BB00154",
@@ -637,11 +839,17 @@
         },
         {
           "key": "source:BB00257",
-          "why": "Keep the related prayer’s language of before, after, and at all times."
+          "why": "Keep the related prayer’s language of before, after, and at all times.",
+          "shortened": [
+            "Verily, Thou art the Creator of the heavens and the earth and whatsoever is between them by Thy command, not from anything. And verily Thou art the Fashioner of all things by Thy command, not from anything. Thou hast ever been, existing before all things, and Thou wilt ever be, existing after all things, and Thou art at all times the Maker of all things."
+          ]
         },
         {
           "key": "source:BB00253",
-          "why": "Read the affirmation of no helper or partner in creation."
+          "why": "Read the affirmation of no helper or partner in creation.",
+          "shortened": [
+            "From everlasting Thou hast been God -- One, Single, Self-Subsisting, Unique, Living, Ever-Abiding. Thou hast taken unto Thyself neither consort nor child; Thou hast had no partner in what Thou hast created, nor any helper in what Thou hast wrought. Thou didst rear up the heavens and the earth and whatsoever lieth between them out of nothing, by Thy command; then didst Thou create the creation of all things through Thy power, and didst provide sustenance for the creation of all things through Thy will."
+          ]
         },
         {
           "key": "source:BB00028",
@@ -657,11 +865,17 @@
         },
         {
           "key": "source:BB00302",
-          "why": "Read the Creator together with Provider, Fashioner, and giver of life."
+          "why": "Read the Creator together with Provider, Fashioner, and giver of life.",
+          "shortened": [
+            "Verily Thou art the Creator of all things and their Ordainer, the Provider of all things and their Fashioner, the One Who causeth all things to die and bringeth them into being, Who giveth life to all things and taketh account of them."
+          ]
         },
         {
           "key": "source:BB00647",
-          "why": "Keep divine transcendence in view beside the account of six emanations."
+          "why": "Keep divine transcendence in view beside the account of six emanations.",
+          "shortened": [
+            "No being hath place within the court of His holiness; He is exalted above the qualities of whatsoever is beneath Him. By the manifestation of His might and His dominion He hath brought the contingent world into being from utter nothingness through His Will; and through its six effulgent emanations He hath so irradiated all atoms that they shine with the light of His invention, yearn to behold the vesture of the beauty of His Countenance, and stand in awe before the justice of His decree."
+          ]
         },
         {
           "key": "source:BB00295",
@@ -669,7 +883,10 @@
         },
         {
           "key": "source:BB00622",
-          "why": "Hear the question about doubt and the return to God."
+          "why": "Hear the question about doubt and the return to God.",
+          "shortened": [
+            "This is God, your Lord, and unto Him shall ye return. Is there any doubt concerning God? He hath created you and all things. The Lord of all worlds is He."
+          ]
         },
         {
           "key": "source:BB00085",
@@ -677,11 +894,21 @@
         },
         {
           "key": "source:BB00004",
-          "why": "Explore creation, return, life, and death through the command."
+          "why": "Explore creation, return, life, and death through the command.",
+          "shortened": [
+            "He it is Who createth what He willeth through His command \"Be\" and it is. He it is Who determineth the measures of all things in the Book.",
+            "Say: God giveth life and causeth death, then causeth death and giveth life, and ye have no god but God, the Lord of all the worlds.",
+            "He originateth creation, then causeth it to return. Will ye not see?"
+          ]
         },
         {
           "key": "source:BB00002",
-          "why": "Read the command, human formation, and Joseph imagery in the Qayyumu’l-Asma."
+          "why": "Read the command, human formation, and Joseph imagery in the Qayyumu’l-Asma.",
+          "shortened": [
+            "The likeness of creation before God is as the likeness of Our Command: when We will a thing, We but say unto it \"Be!\" and it is -- thus recorded in God's Praised Book round about the Fire.",
+            "\"Dost thou disbelieve in Him Who created thee from dust, then from a sperm-drop, then fashioned thee into a man with limits?\"",
+            "Verily God created Joseph and his brethren in the realms of holiness from a sprinkling upon a name from the drop of creation, from that water brought into being."
+          ]
         },
         {
           "key": "source:BB00563",
@@ -701,11 +928,17 @@
         },
         {
           "key": "source:BH01640",
-          "why": "Read created things springing forth at command."
+          "why": "Read created things springing forth at command.",
+          "shortened": [
+            "It is He Who hath called into being the whole of creation, Who hath caused every created thing to spring forth at His behest."
+          ]
         },
         {
           "key": "source:BH02010",
-          "why": "Hear the repeated testimony to creating, providing, and quickening."
+          "why": "Hear the repeated testimony to creating, providing, and quickening.",
+          "shortened": [
+            "Say: God is the Creator of all things, and We, verily, are witness unto this. Say: God is the Provider of all things, and We, verily, are cognizant of this. Say: God is the Quickener of all things, their Maker, the Sovereign over all things and their Creator, and He, verily, encompasseth all things."
+          ]
         },
         {
           "key": "source:BH00111",
@@ -721,15 +954,24 @@
         },
         {
           "key": "source:BH05265",
-          "why": "Hear the concise affirmation of contingent beings created by power."
+          "why": "Hear the concise affirmation of contingent beings created by power.",
+          "shortened": [
+            "He has created all contingent beings from nothing by His power."
+          ]
         },
         {
           "key": "source:BH00648",
-          "why": "Explore the speaking atom and the gift of existence."
+          "why": "Explore the speaking atom and the gift of existence.",
+          "shortened": [
+            "Glorified be He! There is none other God but Him. How wondrous His handiwork! How mighty His creation! He hath made manifest, in the arena of existence, a vast creation out of nothing; He hath brought into being, by the hand of His power, an atom from no thing, and made it to speak; He hath bestowed, through His theophanies, pure being upon sheer non-existence, and granted absolute existence; and upon them hath He revealed Himself by His most holy Self, through the dawning of the Sun of His Lordship."
+          ]
         },
         {
           "key": "source:BH01587",
-          "why": "Read the thread and garments imagery as an account of manifested names."
+          "why": "Read the thread and garments imagery as an account of manifested names.",
+          "shortened": [
+            "Thereafter, Thou didst move the thread of pre-existence through the garments of nothingness, and breathed the spirit of life into the essence of sublime glory, that thereby the countenance of Thy names might be revealed in the kingdom of Thy attributes, and the beauty of Thy face might be made manifest in the realm of Thy grandeur."
+          ]
         },
         {
           "key": "source:BH02205",
@@ -737,11 +979,17 @@
         },
         {
           "key": "source:BH04102",
-          "why": "Hear the robe of being and ornament of existence."
+          "why": "Hear the robe of being and ornament of existence.",
+          "shortened": [
+            "Thou art He Who bestowed the ornament of existence upon absolute nothingness, and conferred the robe of being upon sheer non-existence."
+          ]
         },
         {
           "key": "source:BH04707",
-          "why": "Keep the parallel praise in its distinct source wording."
+          "why": "Keep the parallel praise in its distinct source wording.",
+          "shortened": [
+            "Praise and glory befit the Lord of Names, Who through His conquering power adorned the world from sheer nothingness with the ornament of existence."
+          ]
         },
         {
           "key": "source:BH06624",
@@ -749,7 +997,10 @@
         },
         {
           "key": "source:BH11700",
-          "why": "Consider Will and Word together in the praise of the Creator."
+          "why": "Consider Will and Word together in the praise of the Creator.",
+          "shortened": [
+            "He hath created all things out of nothing by His Will, and brought forth all beings out of non-existence by His Word. Blessed, then, be God, the Best of creators!"
+          ]
         },
         {
           "key": "source:BH03093",
@@ -765,7 +1016,10 @@
         },
         {
           "key": "source:BB00279",
-          "why": "Read letters, waters, firmaments, trees, and mountains in the khutba’s imagery."
+          "why": "Read letters, waters, firmaments, trees, and mountains in the khutba’s imagery.",
+          "shortened": [
+            "Praise be to God, Who, by His command, upraised the heaven; Who, by His revelation, established the Throne upon the waters; then rent asunder the firmaments, cleft the air, and pierced the veils through the Word \"Kaf\" and \"Alif\"; Who raised the leaves upon the trees, the earth by the mountains, the seas by the rains, and the eyes by the similitudes. There is no God but He, the Ancient, the All-Bountiful."
+          ]
         },
         {
           "key": "source:BH04621",
@@ -797,11 +1051,17 @@
         },
         {
           "key": "source:BB00129",
-          "why": "Keep the acknowledgment of incomprehensible creation beside its account of religious culmination."
+          "why": "Keep the acknowledgment of incomprehensible creation beside its account of religious culmination.",
+          "shortened": [
+            "I have created what I have created in such wise that none besides Me can comprehend it. How then can ye hope to understand the extent of the worlds set forth in the Book until the time of Adam? Until this moment, what ye would enumerate hath been ordained. Creation reached its culmination at the appearance of Muhammad, the Apostle of God, and We sent down the Furqan (Qur'an) unto him that ye might be assured of the signs of God, that the fruits of your faith might be manifested on the Day of My Manifestation."
+          ]
         },
         {
           "key": "source:BB00286",
-          "why": "Read hearts formed from light in relation to response to revelation."
+          "why": "Read hearts formed from light in relation to response to revelation.",
+          "shortened": [
+            "When the Truth shall reveal it, the possessors of minds shall be unable to bear it; they shall tremble before the justice of God, and turn unto God, the All-Compelling. But since God hath created their hearts from the Light of lights, they love [that which leadeth] unto God, the One, the All-Compelling."
+          ]
         },
         {
           "key": "source:AB00111",
@@ -829,11 +1089,17 @@
         },
         {
           "key": "source:BH11631",
-          "why": "Retain the concise statement of creation for divine knowledge."
+          "why": "Retain the concise statement of creation for divine knowledge.",
+          "shortened": [
+            "The world was brought from nothingness into being for the knowledge of God."
+          ]
         },
         {
           "key": "source:BH09817",
-          "why": "Consider grace shining equally upon all in a particular day of recognition."
+          "why": "Consider grace shining equally upon all in a particular day of recognition.",
+          "shortened": [
+            "God, the Exalted Truth, brought creation into being from nothingness specifically for this Day, and afterwards caused the sun of grace to shine forth equally upon all, that all might attain to the recognition of the true Friend."
+          ]
         },
         {
           "key": "source:BH06416",
@@ -845,11 +1111,17 @@
         },
         {
           "key": "source:BH05054",
-          "why": "Read remembrance and return together."
+          "why": "Read remembrance and return together.",
+          "shortened": [
+            "A mention from the Leaf of Paradise unto His servant, that he may be among those who remember God Who created him and created all things, and all unto Him shall return."
+          ]
         },
         {
           "key": "source:BH11853",
-          "why": "Consider the holy fire within a breast and the language of causation."
+          "why": "Consider the holy fire within a breast and the language of causation.",
+          "shortened": [
+            "And if a holy fire, sanctified from the divine Tree, free from flame and smoke, appears in a breast, no other cause for existence would be considered. Thus has the time of causation been completed, if you would but witness the Causer in the garment of holiness."
+          ]
         },
         {
           "key": "source:ABU1143",
@@ -857,7 +1129,10 @@
         },
         {
           "key": "source:AB01880",
-          "why": "Hear the praise of new creation and renewed life."
+          "why": "Hear the praise of new creation and renewed life.",
+          "shortened": [
+            "Praised be to He Who hath brought into being a new creation and given life to the lifeless! Praised be to He Who hath gathered His creatures and scattered them abroad!"
+          ]
         },
         {
           "key": "source:AB00121",
@@ -865,7 +1140,10 @@
         },
         {
           "key": "source:AB00171",
-          "why": "Close the linked readings with the prayer’s new creation and fruitful gardens."
+          "why": "Close the linked readings with the prayer’s new creation and fruitful gardens.",
+          "shortened": [
+            "My God, my God! Through Thy power Thou hast brought into being a new creation, and created and fashioned and brought forth an unerring age. Thou hast created the heaven and adorned it with the lights of guidance, and prepared a luminous white earth and blessed spot, and embellished it with dense gardens. Thou hast made the seas to surge and the rivers to flow and the clouds to rain, and hast purified the meadows and made the herbs and sweet-basils to grow until there appeared of every fruit two kinds."
+          ]
         },
         {
           "key": "selection:0093ec647875c4463e8599c7",
@@ -973,40 +1251,66 @@
       "id": "3C7DBDDAC30A4CEDA9AF6EA4D195C374",
       "slug": "creativeword",
       "displayTitle": "The creative Word: existence, understanding, and the renewal of hearts",
-      "introduction": "How can one light awaken wisdom in one heart and a new art in another? These readings connect the creative Word with the emergence of existence, the education of human beings, and the renewal of their relationships. The Word is described through light, water, breath, letters, and command, yet one passage expressly refuses to confine it to ordinary speech or writing. Its effects unfold both in cosmic imagery and in the practical worlds of knowledge, craftsmanship, fellowship, and peace. Prayers then turn the inquiry inward, asking that this creative power shape conduct, steadfastness, and service. John 1:1–5 offers a primary comparison through the relation of Word, creation, life, and light [1]. Connected subjects concerning the Primal Will, creation’s renewal, complementary pairs, and the Word’s freedom from time and place invite readers to explore the reach of these images while attending to each tradition’s distinct theological claims.",
+      "introduction": "One light falls on many mirrors, and each returns its own colour: in the wise it becomes wisdom, in the craftsman a new art, in the seeker true knowledge. So Bahá’u’lláh describes the Word of God, the Sun of Truth by which all things are quickened. The same Word is the dewdrop from which the firmament of existence was reared, the command Be that calls creation into being, and the educator who summons the thirsty from the valley of separation to the ocean of reunion. Yet it is not speech or writing; words of tongue and pen pass away, while the Word that made them is sanctified above both. To dwell with it is to pray that our movement, speech and hearing may answer its purpose. John’s account of the Word with God, through whom all things were made, offers a companion to this vision [1]. From here the path leads toward the Primal Will from which the Word proceeds, the continual renewal of creation, and the pairs through which the world is made.",
       "arc": "Begin with creative effects in human hearts, distinguish the divine Word from ordinary language, explore existence and renewal, and bring the inquiry back to unity, conduct, and prayer.",
       "order": [
         {
           "key": "source:BH04673",
-          "why": "Open with light taking different creative forms in wise and skillful hearts."
+          "why": "Open with light taking different creative forms in wise and skillful hearts.",
+          "shortened": [
+            "The Sun of Truth is the Word of God, upon which dependeth the education of those who are endowed with the power of understanding and of utterance.",
+            "Its appearance in every mirror is conditioned by the colour of that mirror. For instance, when its light is cast upon the mirrors of the hearts of the wise, it bringeth forth wisdom. In like manner, when it manifesteth itself in the mirrors of the hearts of craftsmen, it unfoldeth new and unique arts, and when reflected in the hearts of those that apprehend the truth, it revealeth wondrous tokens of true knowledge and discloseth the verities of God’s utterance."
+          ]
         },
         {
           "key": "source:BH00140",
-          "why": "Connect creation through the Word with education and the mine of human capacities."
+          "why": "Connect creation through the Word with education and the mine of human capacities.",
+          "shortened": [
+            "Through a word proceeding out of the mouth of God he was called into being; by one word more he was guided to recognize the Source of his education; by yet another word his station and destiny were safeguarded. The Great Being saith:  Regard man as a mine rich in gems of inestimable value."
+          ]
         },
         {
           "key": "source:BH00911",
-          "why": "Establish that the Primal Word cannot be confined to spoken or written language."
+          "why": "Establish that the Primal Word cannot be confined to spoken or written language.",
+          "shortened": [
+            "He hath created the whole world through His Primal Word, and all do acknowledge and confess this truth. Yet none hath ever understood that Word, let alone its Creator and Source. For if it be claimed that this Word is like unto words that flow from the tongue, this would be sheer injustice and pure fabrication, since such words are subject to extinction while the Word of God is sanctified therefrom. And if it be said that it is of the words that flow from the pen, this too is bounded by contingent limitations, while the Divine Word is exalted above such constraints."
+          ]
         },
         {
           "key": "source:BH00698",
-          "why": "Explore the dewdrop, Water of Life, and Primal Light as complementary images."
+          "why": "Explore the dewdrop, Water of Life, and Primal Light as complementary images.",
+          "shortened": [
+            "Praise be to the all-perceiving, the ever-abiding Lord Who, from a dewdrop out of the ocean of His grace, hath reared the firmament of existence, adorned it with the stars of knowledge, and admitted man into the lofty court of insight and understanding. This dewdrop, which is the Primal Word of God, is at times called the Water of Life, inasmuch as it quickeneth with the waters of knowledge them that have perished in the wilderness of ignorance. Again it is called the Primal Light, a light born of the Sun of divine knowledge, through whose effulgence the first stirrings of existence were made plain and manifest."
+          ]
         },
         {
           "key": "source:BH00223",
-          "why": "Read the Word as cause within a world continually renewed."
+          "why": "Read the Word as cause within a world continually renewed.",
+          "shortened": [
+            "Such as communicate the generating influence and such as receive its impact are indeed created through the irresistible Word of God which is the Cause of the entire creation, while all else besides His Word are but the creatures and the effects thereof.",
+            "Every thing must needs have an origin and every building a builder. Verily, the Word of God is the Cause which hath preceded the contingent world -- a world which is adorned with the splendours of the Ancient of Days, yet is being renewed and regenerated at all times. Immeasurably exalted is the God of Wisdom Who hath raised this sublime structure."
+          ]
         },
         {
           "key": "source:BH02258",
-          "why": "Consider the Word’s transcendence of the horizons and souls it creates."
+          "why": "Consider the Word’s transcendence of the horizons and souls it creates.",
+          "shortened": [
+            "The whole world has been created from the Divine Word, and that Word has been and will continue to be sanctified above mention of all horizons and souls, and by it were created the horizons and souls, yet most people know it not."
+          ]
         },
         {
           "key": "source:BB00001",
-          "why": "Examine the Persian Bayan’s relationship of revelation, letters, and their spiritual realities."
+          "why": "Examine the Persian Bayan’s relationship of revelation, letters, and their spiritual realities.",
+          "shortened": [
+            "The wonderful mystery of this lieth in the fact that God hath revealed the Qur'an out of the Tree of the Will, which is the inner truth of Muhammad Himself, through the tongue of the Apostle Himself. But that supremely exalted Tree revealeth no letter, unless He bringeth into existence, at that very moment of revelation, the spirit of the same letter. For example, should He reveal, \"We verily have called into being the proceeding of this creation, by virtue of Our behest, for verily We are supreme over all things,\" then the utterance of proceeding is attached unto all that is called by the name all things."
+          ]
         },
         {
           "key": "source:BB00020",
-          "why": "Read the creative address of the Arabic Bayan in its own voice."
+          "why": "Read the creative address of the Arabic Bayan in its own voice.",
+          "shortened": [
+            "In truth I have created Thee through Thyself, then at My Own behest I have fashioned all things through the creative power of Thy Word. We are All-Powerful. I have appointed Thee to be the Beginning and the End, the Seen and the Hidden."
+          ]
         },
         {
           "key": "source:BH09746",
@@ -1026,15 +1330,26 @@
         },
         {
           "key": "source:ABU0017",
-          "why": "Read the reported Logos interpretation with its theological and translation claims attributed."
+          "why": "Read the reported Logos interpretation with its theological and translation claims attributed.",
+          "shortened": [
+            "Let us return now to the Writing of Baha'u'llah (Law-i-Hikmat). The creative word of command of God, the logos, is not merely a spark out of God, but the logos is the life-breath of God. In the logos, in the life-breath of God, already all the possibilities of existence rest, all the forms of being of creation. Let Baha'u'llah Himself speak: \"The word of God, the logos, is God's highest, overflowing (emanating) love, kindness and the \"being\" in all that is and has been; that is,  goodness [kindness] and love, thought of as logos, are the resting pole in the transientness  [evanescence] of appearances."
+          ]
         },
         {
           "key": "source:AB00023",
-          "why": "Explore the manifestation of names and attributes in ascending and descending arcs."
+          "why": "Explore the manifestation of names and attributes in ascending and descending arcs.",
+          "shortened": [
+            "Praise be to God Who hath ever caused His Names and Attributes to penetrate the degrees of existence; Who hath made the effects of those Names and Attributes to shine resplendent and their signs to be firmly established in both the hidden and manifest worlds. By them He hath made the Sanctified Realities, they who are the Recipients of the grace of God and the Bearers of glad-tidings, to be the sole Revealers of His Being, and hath caused them to move in the firmament of perfection in descending and ascending arcs. He hath ordained them to be the origin and cause of existence in the world of creation and the source of gradated realities in the degrees of being."
+          ]
         },
         {
           "key": "source:BB00004",
-          "why": "Read command, creation, return, and the spiritual fruits of verses together."
+          "why": "Read command, creation, return, and the spiritual fruits of verses together.",
+          "shortened": [
+            "Glorified be He Who createth what He willeth through His command \"Be,\" and it is. Glorified be He before Whom prostrateth whosoever is in the heavens and whosoever is on the earth. Say: All are submissive unto Him.",
+            "He it is Who hath created all things by His command, and unto Him shall all return. He it is Who createth what He willeth by His command \"Be,\" and it is.",
+            "Say: These verses are the leaves of that Tree, and God hath ordained within the verses spiritual fruits thereof, if ye would but take them."
+          ]
         },
         {
           "key": "source:BB00200",
@@ -1054,11 +1369,17 @@
         },
         {
           "key": "source:BH04148",
-          "why": "Consider the Mother of Tablets and the creative letter."
+          "why": "Consider the Mother of Tablets and the creative letter.",
+          "shortened": [
+            "Say: By God! He is verily the Sovereign of the Messengers and His Tablet is the Mother of Tablets, and through a single letter from Him was everything created with the ornament of luminous glory."
+          ]
         },
         {
           "key": "source:BH06114",
-          "why": "Hear the direct assertion of all things created through the Word."
+          "why": "Hear the direct assertion of all things created through the Word.",
+          "shortened": [
+            "Say: O people! All besides Me have been created by My Word."
+          ]
         },
         {
           "key": "source:BH11218",
@@ -1070,11 +1391,17 @@
         },
         {
           "key": "source:BH07658",
-          "why": "Hear the prayerful acknowledgment of creating and fashioning."
+          "why": "Hear the prayerful acknowledgment of creating and fashioning.",
+          "shortened": [
+            "Thou art He Who hath created all things through a word uttered by Thy behest, and fashioned the entire creation through the power of Thy sovereignty and might."
+          ]
         },
         {
           "key": "source:BH03572",
-          "why": "Consider the luminous Word across all eternity."
+          "why": "Consider the luminous Word across all eternity.",
+          "shortened": [
+            "Thus have We illumined the horizon of the firmaments of this Tablet with the Luminary of Our Word, a Word through which God hath brought into being all creation from all eternity to all eternity."
+          ]
         },
         {
           "key": "source:BH00092",
@@ -1082,7 +1409,10 @@
         },
         {
           "key": "source:BH02533",
-          "why": "Consider the return of all meanings and utterances to the Word."
+          "why": "Consider the return of all meanings and utterances to the Word.",
+          "shortened": [
+            "All the meanings and utterances that have been created in the realm of origination return unto the Word that hath flowed from the Pen of Thy Command and the Finger of Thy Decree."
+          ]
         },
         {
           "key": "source:BH02766",
@@ -1098,7 +1428,10 @@
         },
         {
           "key": "source:BH07030",
-          "why": "Read existence beside continued nurture."
+          "why": "Read existence beside continued nurture.",
+          "shortened": [
+            "The essence of praise befitteth and is worthy of that Beloved One Who, through a single word of His words, adorned the world with the ornament of existence, and through His sublime and glorious bounty nurtured it."
+          ]
         },
         {
           "key": "source:BH01567",
@@ -1114,27 +1447,45 @@
         },
         {
           "key": "source:BH02764",
-          "why": "Consider the holy breeze that creates and the letter that brings to naught."
+          "why": "Consider the holy breeze that creates and the letter that brings to naught.",
+          "shortened": [
+            "God’s invincible Will far transcendeth their devices, and His Purpose is supreme above all human desires, inasmuch as all that is in the heavens and all that is on the earth have been called into being through a single holy breeze---the Word of His command---wafted from His presence, and all shall be brought to naught through but one letter of His."
+          ]
         },
         {
           "key": "source:BH03585",
-          "why": "Read separation and reunion through successive words."
+          "why": "Read separation and reunion through successive words.",
+          "shortened": [
+            "Glorified, immeasurably glorified art Thou, in Whose hands is the empire of whatsoever is in the heavens and whatsoever is on earth, Thou, Who through but one word of Thy mouth, caused all things to expire and dissolve asunder, and Who, by yet another word, caused whatever had been separated to be combined and reunited!"
+          ]
         },
         {
           "key": "source:BH00848",
-          "why": "Explore the First Call’s transformation of the realities of created things."
+          "why": "Explore the First Call’s transformation of the realities of created things.",
+          "shortened": [
+            "I testify that no sooner had the First Word proceeded, through the potency of Thy will and purpose, out of His mouth, and the First Call gone forth from His lips than the whole creation was revolutionized, and all that are in the heavens and all that are on earth were stirred to the depths. Through that Word the realities of all created things were shaken, were divided, separated, scattered, combined and reunited, disclosing, in both the contingent world and the heavenly kingdom, entities of a new creation, and revealing, in the unseen realms, the signs and tokens of Thy unity and oneness."
+          ]
         },
         {
           "key": "source:BH00821",
-          "why": "Consider new creation as a token of grace."
+          "why": "Consider new creation as a token of grace.",
+          "shortened": [
+            "This is the Day whereon naught can be seen except the splendors of the Light that shineth from the face of Thy Lord, the Gracious, the Most Bountiful. Verily, We have caused every soul to expire by virtue of Our irresistible and all-subduing sovereignty. We have, then, called into being a new creation, as a token of Our grace unto men."
+          ]
         },
         {
           "key": "source:BH04231",
-          "why": "Hear the prayer’s movement from expiration to renewed life."
+          "why": "Hear the prayer’s movement from expiration to renewed life.",
+          "shortened": [
+            "I bear witness, O my God, that through a word spoken by Thee in this Revelation all created things were made to expire, and through yet another word all such as Thou didst wish were, by Thy grace and bounty, endued with new life."
+          ]
         },
         {
           "key": "source:BH01094",
-          "why": "Read all things finding a voice in divine remembrance."
+          "why": "Read all things finding a voice in divine remembrance.",
+          "shortened": [
+            "Praise sanctified beyond the bounds of time and space, and hallowed above mention of possibility and impossibility, befits that Beloved One Who, through a single call issued from the Source of His Will, adorned all contingent beings with a new creation. Through that call, the voices of all things were raised up, all bore witness to the oneness of His holy Being and became vocal in His remembrance."
+          ]
         },
         {
           "key": "source:BH05504",
@@ -1142,23 +1493,39 @@
         },
         {
           "key": "source:BH05360",
-          "why": "Read the manifestation of resurrection, judgment, and paradise through a single Word."
+          "why": "Read the manifestation of resurrection, judgment, and paradise through a single Word.",
+          "shortened": [
+            "All praise, sanctified beyond mention and limitations, befits and is worthy of the Lord of existence and the Sovereign of the unseen and the seen, Who through a single Word made manifest the Straight Path and the Balance, the Hour and the Resurrection, the Reckoning and Paradise and the Fire."
+          ]
         },
         {
           "key": "source:BH00002",
-          "why": "Connect renewed life with liberation from selfish desires and the binding of hearts."
+          "why": "Connect renewed life with liberation from selfish desires and the binding of hearts.",
+          "shortened": [
+            "For, verily, powerful is He, the King of divine might, to extinguish with one letter of His wondrous words, the breath of life in the whole of the Bayan and the people thereof, and with one letter bestow upon them a new and everlasting life, and cause them to arise and speed out of the sepulchers of their vain and selfish desires.",
+            "Such is the binding force of the Word of God, which uniteth the hearts of them that have renounced all else but Him, who have believed in His signs, and quaffed from the Hand of glory the Kawthar of God's holy grace."
+          ]
         },
         {
           "key": "source:BH00238",
-          "why": "Read the capacity to hear beside gathering and spiritual resurrection."
+          "why": "Read the capacity to hear beside gathering and spiritual resurrection.",
+          "shortened": [
+            "Behold how the generality of mankind hath been endued with the capacity to hearken unto God's most exalted Word - the Word upon which must depend the gathering together and spiritual resurrection of all men."
+          ]
         },
         {
           "key": "source:BH02834",
-          "why": "Consider the distinction between being created and responding in belief."
+          "why": "Consider the distinction between being created and responding in belief.",
+          "shortened": [
+            "He hath created all contingent beings through a word from Him, then cast upon them another word - whoso holdeth fast to it and believeth in Him, he is indeed among the most exalted of creation with Him, and this is certain truth."
+          ]
         },
         {
           "key": "source:BH02307",
-          "why": "Hear the Tablet of Visitation’s testimony to creation and revelation."
+          "why": "Hear the Tablet of Visitation’s testimony to creation and revelation.",
+          "shortened": [
+            "I testify, moreover, that with but a movement of Thy Pen Thine injunction \"Be Thou\" hath been enforced, and God's hidden Secret hath been divulged, and all created things have been called into being, and all the Revelations have been sent down."
+          ]
         },
         {
           "key": "source:BB00107",
@@ -1170,7 +1537,10 @@
         },
         {
           "key": "source:BH09960",
-          "why": "Consider the desire to be known as the stated purpose of creation."
+          "why": "Consider the desire to be known as the stated purpose of creation.",
+          "shortened": [
+            "Thou didst wish to make Thyself known unto men; therefore, Thou didst, through a word of Thy mouth, bring creation into being and fashion the universe."
+          ]
         },
         {
           "key": "source:BH00783",
@@ -1178,7 +1548,10 @@
         },
         {
           "key": "source:BH00970",
-          "why": "Turn the cosmic imagery toward the reader’s own enkindling."
+          "why": "Turn the cosmic imagery toward the reader’s own enkindling.",
+          "shortened": [
+            "The Word of God hath set the heart of the world afire; how regrettable if ye fail to be enkindled with its flame!"
+          ]
         },
         {
           "key": "source:BH00005",
@@ -1186,15 +1559,24 @@
         },
         {
           "key": "source:BH00091",
-          "why": "Read the Word as educator through the example concerning Isaac and Ishmael."
+          "why": "Read the Word as educator through the example concerning Isaac and Ishmael.",
+          "shortened": [
+            "There is no doubt that these matters have been realized and established through the Word of God, and the Word of God is the overseer of all things. It is the creator of the world and the educator of the world. It is that which summons those who thirst in the valley of separation to the ocean of reunion, and it is that which illumines the darkness of ignorance with the dawn of knowledge. Consider how all people who lived in the past affirmed that Isaac was the sacrifice, and likewise the followers of the Qur'an have affirmed this station for Ishmael, even though it is clear and evident to every person of insight and understanding that, outwardly, no sacrifice actually took place, and by universal agreement, it was an animal that was sacrificed."
+          ]
         },
         {
           "key": "source:BH00627",
-          "why": "Consider the statement that the Word’s energies exceed human capacity to bear at once."
+          "why": "Consider the statement that the Word’s energies exceed human capacity to bear at once.",
+          "shortened": [
+            "Should the Word be allowed to release suddenly all the energies latent within it, no man could sustain the weight of so mighty a Revelation. Nay, all that is in heaven and on earth would flee in consternation before it."
+          ]
         },
         {
           "key": "source:BH00668",
-          "why": "Read the response of astonishment to a revealed Word."
+          "why": "Read the response of astonishment to a revealed Word.",
+          "shortened": [
+            "He is made manifest through the power of Truth and hath uttered a Word whereby all that are in the heavens and on the earth have been dumbfounded, except those whom the Almighty was pleased to exempt."
+          ]
         },
         {
           "key": "source:BH05904",
@@ -1206,19 +1588,33 @@
         },
         {
           "key": "source:BH00428",
-          "why": "Read verses as sign, mirror, and proof."
+          "why": "Read verses as sign, mirror, and proof.",
+          "shortened": [
+            "These are the verses of God, sent down in truth from the presence of the Mighty, the All-Knowing. God hath made them the sign of His Revelation unto all those in the Concourse on High, and the mirror of His Beauty unto all who dwell in the kingdom of creation, and His conclusive proof unto all created things."
+          ]
         },
         {
           "key": "source:BH05407",
-          "why": "Examine the invitation to turn with the eyes and ears one has received."
+          "why": "Examine the invitation to turn with the eyes and ears one has received.",
+          "shortened": [
+            "I testify that if Thy servants were to turn towards Thee with the eyes Thou didst create in them and with the ears wherewith Thou didst endow them, they would all be carried away by a single word sent down from the right hand of the throne of Thy majesty."
+          ]
         },
         {
           "key": "source:BH02535",
-          "why": "Hear the prayer that nations be enraptured and hidden wisdom disclosed."
+          "why": "Hear the prayer that nations be enraptured and hidden wisdom disclosed.",
+          "shortened": [
+            "I implore Thee, O my God, by Thy Most Great Name, to enrapture the nations through the potency of the Word which Thou didst ordain to be the king of all words, the Word whereby the goodly pearls of Thy hidden wisdom were uncovered, and the gem-like mysteries which were wrapped up within Thee were unraveled."
+          ]
         },
         {
           "key": "source:BH00001",
-          "why": "Read recitation, awakening, and the Book as a lamp within the Aqdas selections."
+          "why": "Read recitation, awakening, and the Book as a lamp within the Aqdas selections.",
+          "shortened": [
+            "Whoever hath been transported by the rapture born of adoration for My Name, the Most Compassionate, will recite the verses of God in such wise as to captivate the hearts of those yet wrapped in slumber.",
+            "Every name hath been created by His Word, and every cause is dependent on His irresistible, His mighty and wondrous Cause.",
+            "This is a Book which hath become the Lamp of the Eternal unto the world, and His straight, undeviating Path amidst the peoples of the earth. Say: This is the Dayspring of Divine knowledge, if ye be of them that understand, and the Dawning-place of God's commandments, if ye be of those who comprehend."
+          ]
         },
         {
           "key": "source:AB07005",
@@ -1226,23 +1622,39 @@
         },
         {
           "key": "source:AB00276",
-          "why": "Read teachings as healing and a motive force for inward life."
+          "why": "Read teachings as healing and a motive force for inward life.",
+          "shortened": [
+            "Then wilt thou see that today these heavenly Teachings are the remedy for a sick and suffering world, and a healing balm for the sores on the body of mankind. They are the spirit of life, the ark of salvation, the magnet to draw down eternal glory, the dynamic power to motivate the inner self of man."
+          ]
         },
         {
           "key": "source:AB00022",
-          "why": "Explore differences of habit and thought as an adornment within unity."
+          "why": "Explore differences of habit and thought as an adornment within unity.",
+          "shortened": [
+            "Thus when that unifying force, the penetrating influence of the Word of God, taketh effect, the difference of customs, manners, habits, ideas, opinions and dispositions embellisheth the world of humanity.",
+            "Naught but the celestial potency of the Word of God, which ruleth and transcendeth the realities of all things, is capable of harmonizing the divergent thoughts, sentiments, ideas, and convictions of the children of men. Verily, it is the penetrating power in all things, the mover of souls and the binder and regulator in the world of humanity."
+          ]
         },
         {
           "key": "source:ABU0268",
-          "why": "Consider the Word as the real temple and a center of communion."
+          "why": "Consider the Word as the real temple and a center of communion.",
+          "shortened": [
+            "The real temple is the very Word of God; for to it all humanity must turn, and it is the center of unity for all mankind. It is the collective center, the cause of accord and communion of hearts, the sign of the solidarity of the human race, the source of eternal life."
+          ]
         },
         {
           "key": "source:AB00189",
-          "why": "Read the image of peoples unified in a sea of oneness."
+          "why": "Read the image of peoples unified in a sea of oneness.",
+          "shortened": [
+            "In this wondrous Age, at this time when the Ancient Beauty, the Most Great Name, bearing unnumbered gifts, hath risen above the horizon of the world, the Word of God hath infused such awesome power into the inmost essence of humankind that He hath stripped men's human qualities of all effect, and hath, with His all-conquering might, unified the peoples in a vast sea of oneness."
+          ]
         },
         {
           "key": "source:ABU0104",
-          "why": "Keep the public address’s account of the Word and civilization attributed."
+          "why": "Keep the public address’s account of the Word and civilization attributed.",
+          "shortened": [
+            "The conclusion is irresistible that the splendors of the Sun of Truth, the Word of God, have been the source and cause of human upbuilding and civilization."
+          ]
         },
         {
           "key": "source:AB00055",
@@ -1250,7 +1662,10 @@
         },
         {
           "key": "source:BH04422",
-          "why": "Read creative power beside counsel addressed to people returning from pilgrimage."
+          "why": "Read creative power beside counsel addressed to people returning from pilgrimage.",
+          "shortened": [
+            "Through the Most Great Word He adorned all things from nothingness with the ornament of being, and through another Word which in this moment floweth from the Supreme Pen He counseleth all, and this blessed Word which is the cause of the salvation of the world and the unity of nations is this: O friends of God! There are many emigrants who, after arrival and observation and hearing, return to their countries."
+          ]
         },
         {
           "key": "source:AB04688",
@@ -1258,7 +1673,10 @@
         },
         {
           "key": "source:AB02012",
-          "why": "Keep the affirmation of irresistible influence within its context of opposition."
+          "why": "Keep the affirmation of irresistible influence within its context of opposition.",
+          "shortened": [
+            "They imagine that they are able to resist this Power, which penetrates into the heart of the contingent world, or to cover the Truth through their false tongues and complicated opinions, and to withhold this Sea from surging, the holy fragrances from being spread, and the breaths of the Spirit of the Ancient from reaching the beloved! No, by no means! Verily, the Word of God penetrates into the core of all things and cannot be resisted either by the hosts of the world or by the armies of the enemies! In the past ages there is a warning to every intelligent one!"
+          ]
         },
         {
           "key": "source:BH00053",
@@ -1266,11 +1684,17 @@
         },
         {
           "key": "source:BH07181",
-          "why": "Connect the creative Word with acting on commands and refraining from what is forbidden."
+          "why": "Connect the creative Word with acting on commands and refraining from what is forbidden.",
+          "shortened": [
+            "I beseech Thee by the Most Great Word through which Thou didst create earth and heaven, and by Thy Prophets and Messengers, and by the lights of the dawn of Thy Manifestation, to aid me to act according to what Thou hast commanded me in Thy Book and to keep me from what Thou hast forbidden through Thy wisdom and Thy will."
+          ]
         },
         {
           "key": "source:BH08244",
-          "why": "Read steadfast love and obedience as the requested effects of divine power."
+          "why": "Read steadfast love and obedience as the requested effects of divine power.",
+          "shortened": [
+            "I beseech Thee by Thy power that hath encompassed all created things, and by Thy sovereignty that hath transcended the entire creation, and by Thy Word which was hidden in Thy wisdom and whereby Thou didst create Thy heaven and Thy earth, both to enable us to be steadfast in our love for Thee and in our obedience to Thy pleasure, and to fix our gaze upon Thy face, and celebrate Thy glory."
+          ]
         },
         {
           "key": "source:BH09380",
@@ -1282,19 +1706,31 @@
         },
         {
           "key": "source:BH04794",
-          "why": "Read detachment beside practical service."
+          "why": "Read detachment beside practical service.",
+          "shortened": [
+            "I beseech Thee by the Word through which Thou didst bring the contingent world into being, and by the power of Thy Pen, and the potency of Thy Will, and the manifestation of Thy Purpose, and by the ocean of Thy knowledge whereon sailed the ships of Thy might by Thy leave and command, that Thou make me detached from all else save Thee and assisted in serving Thy Cause."
+          ]
         },
         {
           "key": "source:BH04248",
-          "why": "Hear the prayer for receptivity to verses and signs."
+          "why": "Hear the prayer for receptivity to verses and signs.",
+          "shortened": [
+            "I beseech Thee by the ocean of Thy verses and the heaven of Thy bounty, and by the Word through which Thou didst bring existence out of nothingness and didst guide them to Thy Most Great Name, to make me submissive at the revelation of Thy verses and the manifestation of Thy clear tokens."
+          ]
         },
         {
           "key": "source:BH07904",
-          "why": "Consider steadfastness in love."
+          "why": "Consider steadfastness in love.",
+          "shortened": [
+            "I beseech Thee by the Word through which Thou didst create all things, to strengthen me in steadfastness in Thy love in such wise that nothing whatsoever shall prevent me."
+          ]
         },
         {
           "key": "source:BH10579",
-          "why": "Read assistance for those who have turned toward the Cause."
+          "why": "Read assistance for those who have turned toward the Cause.",
+          "shortened": [
+            "Glorified art Thou, O my God! I beseech Thee by Thy Pen through which Thou didst give life to all worlds, and by Thy Name through which Thou didst create the heavens and the earth, to aid those who have turned unto Thee and have entered the stronghold of Thy Cause, detached from all who dwell on earth."
+          ]
         },
         {
           "key": "source:BH03234",
@@ -1302,11 +1738,17 @@
         },
         {
           "key": "source:BH08140",
-          "why": "Consider the prayer for what will profit a soul across worlds."
+          "why": "Consider the prayer for what will profit a soul across worlds.",
+          "shortened": [
+            "I beseech Thee by the Word through which Thou didst create all beings and didst manifest all existence to send down upon me from the clouds of Thy gifts that which will profit me in Thy worlds."
+          ]
         },
         {
           "key": "source:BH08375",
-          "why": "Close the linked readings with the request for enduring benefit."
+          "why": "Close the linked readings with the request for enduring benefit.",
+          "shortened": [
+            "I beseech Thee by the Word through which earth and heaven were revolutionized to inscribe for me by Thy Pen that which shall profit me in every world of Thy worlds."
+          ]
         },
         {
           "key": "selection:6942bf3cfc172e79ebc982fc",

@@ -5,7 +5,7 @@
       "id": "0948136C6D64E09F1F3FE2F80C9585D3",
       "slug": "westernvalues",
       "displayTitle": "Western values: inquiry, justice, and an unfinished promise",
-      "introduction": "What makes a civilization worthy of admiration, and how can praise become an invitation to further growth? These passages commend openness to investigation, education, public justice, philanthropy, and the advancement of women, while repeatedly directing such capacities toward spiritual development and peace. Their portraits of nations belong to particular encounters and historical settings; broad comparisons, especially in reported conversations, should not be treated as timeless descriptions of whole peoples or as present scientific findings. The connected compilation critiquing Western values makes this an especially fruitful subject to read in company with its neighbors. East and West appear as partners in an unfinished human undertaking, rather than self-sufficient models. Mill’s defense of discussion provides a philosophical comparison for the value placed on inquiry [1]. The question running through this collection is how admired capacities become a responsibility to serve humanity, including those whom prosperity and power have failed to protect.",
+      "introduction": "Admiration, when it is honest, is a demanding thing. ‘Abdu’l-Bahá praised the Europeans for one trait above all: that after investigation they accept the truth even when it overturns what they believed, and he praised the Americans for open minds, listening ears and a dissatisfaction with mere material success that keeps them reaching for the better and the best. He commended philanthropy that remembers the poor, courts where the law is the same for rich and for pauper, schools where women teach and learn, and a British justice that sheltered the oppressed. Yet every such tribute bends toward a purpose beyond itself: the solidarity of the human race, the banner of universal peace, a civilization that is spiritual as well as technical. Mill’s argument that a suppressed opinion costs us either a truth or a sharper grasp of it offers a philosophical measure for the openness so admired [1]. To read these tributes fairly is to hold them beside the equally searching critique of Western values, to see East and West as partners who each lack what the other has, and to ask what the changing station of women and the growth of constitutional government ask of those who enjoy them.",
       "arc": "Begin with inquiry and its ethical purpose, examine the qualities admired in particular settings, and turn national praise toward reciprocal learning and peace.",
       "order": [
         {
@@ -14,15 +14,24 @@
         },
         {
           "key": "source:ABU0020",
-          "why": "Give investigation the horizon of human solidarity."
+          "why": "Give investigation the horizon of human solidarity.",
+          "shortened": [
+            "I consider the American people a highly civilized and intelligent nation, a nation investigating truth and reality. It is my hope that through the efforts of this noble nation the solidarity of humanity may be continually advanced, that the illumination of the human world may become widespread, that the banner of universal peace may be held aloft, the lamp of the oneness of the human world be ignited and the hearts of the East and West be conjoined."
+          ]
         },
         {
           "key": "source:ABU0219",
-          "why": "Ground admiration in care for others."
+          "why": "Ground admiration in care for others.",
+          "shortened": [
+            "Their philanthropic endeavors are an evidence of their desire to serve others and to benefit the body politic. They are thoughtful of the poor; they are interested in the questions of education, capital punishment, and the alleviation of suffering. They are occupied with activities relative to the betterment of their kind. Their endeavors are exceedingly praiseworthy, and I am hopeful that through their united efforts war and the making of infernal instruments may be abolished."
+          ]
         },
         {
           "key": "source:ABU2523",
-          "why": "Bring the changing position of women into view."
+          "why": "Bring the changing position of women into view.",
+          "shortened": [
+            "In the olden time, it was not possible for women to sit at table in equality with the men, but in this Day it is different, and the change has been largely brought about by the position given to women in free America."
+          ]
         },
         {
           "key": "source:ABU2631",
@@ -46,7 +55,10 @@
         },
         {
           "key": "source:ABU0743",
-          "why": "Examine the reported judicial example."
+          "why": "Examine the reported judicial example.",
+          "shortened": [
+            "These Judges from the Court of the last Appeal and all the inter-state disputes and supposed unconstitutional legislations are presented to them for final decision. Their power and influence are tremendous and their judgment absolutely binding upon the nation. They are learned in law and legality. They are loved and respected by the people."
+          ]
         },
         {
           "key": "source:ABU1164",
@@ -54,7 +66,10 @@
         },
         {
           "key": "source:BH11727",
-          "why": "Connect praise of government with assistance to the oppressed."
+          "why": "Connect praise of government with assistance to the oppressed.",
+          "shortened": [
+            "This supreme grace was bestowed upon the glorious government, which has surpassed the kings of the world in assisting the oppressed. We beseech God to strengthen it, preserve it, and ordain for it what He willeth. Verily, He is the Powerful, the Mighty, and worthy to answer prayers."
+          ]
         },
         {
           "key": "source:ABU1600",
@@ -70,19 +85,31 @@
         },
         {
           "key": "source:ABU2728",
-          "why": "Observe the significance assigned to public religious speech."
+          "why": "Observe the significance assigned to public religious speech.",
+          "shortened": [
+            "But today through the assistance of the Abha Beauty the Cause of God is proclaimed with the utmost openness in the churches and assemblies of the West."
+          ]
         },
         {
           "key": "source:AB00245",
-          "why": "Keep the account of audiences receiving the teachings."
+          "why": "Keep the account of audiences receiving the teachings.",
+          "shortened": [
+            "In all temples, gatherings, assemblies of the West Abdul-Baha has spread these teachings most forcibly. Not a single person could oppose him, nobody raised an objection. Everyone listened, and with great applause and in the utmost respect manifested their approval."
+          ]
         },
         {
           "key": "source:AB01035",
-          "why": "Read the claim concerning public press testimony in context."
+          "why": "Read the claim concerning public press testimony in context.",
+          "shortened": [
+            "In all Western newspapers and journals, from all religions and nations, testimony to the greatness of the Cause exists, with clear acknowledgment that the Blessed Beauty is the renowned Personage of the horizons and the supreme Educator of the human world."
+          ]
         },
         {
           "key": "source:AB02805",
-          "why": "Consider freedom of thought through a historical counterfactual."
+          "why": "Consider freedom of thought through a historical counterfactual.",
+          "shortened": [
+            "Had He appeared in Europe, its people would have seized their opportunity and His Cause, by virtue of the freedom of thought, would by this time have encompassed the earth."
+          ]
         },
         {
           "key": "source:AB03298",
@@ -90,7 +117,11 @@
         },
         {
           "key": "source:ABU0728",
-          "why": "Hear the reported portrait of searching minds."
+          "why": "Hear the reported portrait of searching minds.",
+          "shortened": [
+            "An Englishman who is an Arabic professor in London, came with his wife to see 'Abdul-Baha, who spoke to him in Arabic about America: \"The American people investigate everything. Their minds are open, their ears are listening.",
+            "They listen to every discussion with dignity, urbanity and politeness. If it is in accord with reason they will accept, if they do not understand they ask questions."
+          ]
         },
         {
           "key": "source:ABU1608",
@@ -122,7 +153,11 @@
         },
         {
           "key": "source:ABU1113",
-          "why": "Consider integrity and firmness in a particular encounter."
+          "why": "Consider integrity and firmness in a particular encounter.",
+          "shortened": [
+            "He spoke much of the pleasure he had felt in the atmosphere of England. He said there was a strength of purpose in the English people and a firmness which he liked and admired, There was honesty and uprightness. They were slow in starting a new idea, but, when they did, it was only because their minds and common-sense had told them that the idea was sound.",
+            "The English as a nation had pleased him greatly."
+          ]
         },
         {
           "key": "source:ABU1068",
@@ -134,11 +169,17 @@
         },
         {
           "key": "source:ABU2570",
-          "why": "Retain the further brief assessment in its own source."
+          "why": "Retain the further brief assessment in its own source.",
+          "shortened": [
+            "The German people on the whole are religious. They are very noble and progressive."
+          ]
         },
         {
           "key": "source:ABU0771",
-          "why": "Observe praise directed to a community’s conduct."
+          "why": "Observe praise directed to a community’s conduct.",
+          "shortened": [
+            "A letter had arrived from Mr. Herrigel. It was translated in their presence, and in connection with it, they mentioned the German believers, saying how good they were since no unsavory rumors had blown there, and God willing, great souls would appear there."
+          ]
         },
         {
           "key": "source:ABU3744",
@@ -146,11 +187,18 @@
         },
         {
           "key": "source:ABU0873",
-          "why": "Let Paris become a setting for hoped-for solidarity."
+          "why": "Let Paris become a setting for hoped-for solidarity.",
+          "shortened": [
+            "\"I hope that, as this century is a radiant century and this age a merciful age, the human world will become united and the standard of the solidarity of the human race will be hoisted in Paris; for Paris is a center of refined civilization and has advanced marvelously along the path of science.",
+            "\"I hope that the soul of Paris will arise from the city of obscurity and progress steadily forward to the new civilization.\""
+          ]
         },
         {
           "key": "source:ABU1241",
-          "why": "Move from visible prosperity toward further possibility."
+          "why": "Move from visible prosperity toward further possibility.",
+          "shortened": [
+            "This is a beautiful city; the climate is pleasant; the views are charming. All the cities of America seem to be large and beautiful, and the people appear prosperous. The American continent gives signs and evidences of very great advancement; its future is even more promising, for its influence and illumination are far-reaching, and it will lead all nations spiritually."
+          ]
         },
         {
           "key": "source:AB02094",
@@ -162,11 +210,18 @@
         },
         {
           "key": "source:ABU0866",
-          "why": "Emphasize dissatisfaction with material accomplishment alone."
+          "why": "Emphasize dissatisfaction with material accomplishment alone.",
+          "shortened": [
+            "The American people are not satisfied with their present day civilization. It is true that they have built a marvellous civilization of their own through giant-like forces and energy which in many respects is superior to the European civilization, yet they are striving for higher things, nobler ideals and universal principles.",
+            "They may be proud of their civilization, because they have made the desert blossom like unto the rose, but they are not satisfied with it, they are seeking after new solutions of old and modern problems, they are thirsty for salubrious water, they are hungry for the bread of life, they are investigating the reality of everything. Their hearts are open, their minds receptive and in discussion never overbearing."
+          ]
         },
         {
           "key": "source:ABU2360",
-          "why": "Connect progress with responsibility for further advance."
+          "why": "Connect progress with responsibility for further advance.",
+          "shortened": [
+            "The American civilization has done much toward the progress and the upbuilding of the world. God has turned His special Glance toward America and has encircled that continent with His particular favor. Day by day it is progressing. Truly I say it is worthy of this Blessed Cause. Indeed it merits to be the herald of this Glad-tiding."
+          ]
         },
         {
           "key": "source:ABU2197",
@@ -186,7 +241,10 @@
         },
         {
           "key": "source:ABU1099",
-          "why": "Consider a gesture intended to cultivate future brotherhood."
+          "why": "Consider a gesture intended to cultivate future brotherhood.",
+          "shortened": [
+            "Only in America such brilliant ideas are born. This will be a most effective token of America's attitude in the matter of brotherhood and the rising generations of the several countries will not forget this unique lesson of charity and solidarity. America is big and their ideas are also big and all-inclusive."
+          ]
         },
         {
           "key": "source:ABU0823",
@@ -194,7 +252,10 @@
         },
         {
           "key": "source:AB12128",
-          "why": "Read the assessment of American intentions in its stated setting."
+          "why": "Read the assessment of American intentions in its stated setting.",
+          "shortened": [
+            "As for the American government and people, they are truly well-wishers and have no purpose except the benefit of all - meaning that if they undertake any work, or promote any matter in Iran, or establish a bank, or open commercial relations, or give a loan to the government, their ultimate hope and desire is mutual benefit, not restricted to America alone."
+          ]
         },
         {
           "key": "source:ABU1894",
@@ -206,7 +267,10 @@
         },
         {
           "key": "source:AB06107",
-          "why": "Hear the Western speakers’ self-description within the letter’s dialogue."
+          "why": "Hear the Western speakers’ self-description within the letter’s dialogue.",
+          "shortened": [
+            "Though we are people of the West, yet in intelligence, knowledge, freedom and wisdom we are leaders over the people of the East."
+          ]
         },
         {
           "key": "source:BH00120",
@@ -234,11 +298,17 @@
         },
         {
           "key": "source:AB00835",
-          "why": "Recall the Christian apostles’ sacrifice behind this selected passage."
+          "why": "Recall the Christian apostles’ sacrifice behind this selected passage.",
+          "shortened": [
+            "They strove with heart and soul and endured various hardships and difficulties until they traversed the path of faithfulness and sacrificed their lives and spirits for that Unique Light."
+          ]
         },
         {
           "key": "source:AB01046",
-          "why": "Widen the geography with praise for believers in Turkestan."
+          "why": "Widen the geography with praise for believers in Turkestan.",
+          "shortened": [
+            "You had praised the friends of Ishqabad, Merv, Baku, Samarkand and other parts of Turkestan - men, women and children. Indeed this is exactly true. Those blessed souls have the utmost desire for attraction to the divine fragrances, detachment from all else save God, exaltation of the Word of God, and service to the Cause of God."
+          ]
         },
         {
           "key": "source:AB00137",
@@ -246,15 +316,26 @@
         },
         {
           "key": "source:AB11262",
-          "why": "Turn national capacity into a prayer for spiritual transformation."
+          "why": "Turn national capacity into a prayer for spiritual transformation.",
+          "shortened": [
+            "For America has developed powers and capacities greater and more wonderful than other nations...",
+            "May the inhabitants of this country become like angels of heaven with faces turned continually toward God.",
+            "May they rise from their present material attainments to such a height that heavenly illumination may stream from this center to all the peoples of the world..."
+          ]
         },
         {
           "key": "source:ABU0901",
-          "why": "Bring receptive conditions toward the work of peace."
+          "why": "Bring receptive conditions toward the work of peace.",
+          "shortened": [
+            "In this western world with its stimulating climate, its capacities for knowledge and lofty ideals, the message of peace should be easily spread. The people are not so influenced by imitations and prejudices, and through their comprehension of the real and unreal they should attain the truth. They should become leaders in the effort to establish the oneness of humankind."
+          ]
         },
         {
           "key": "source:ABU0404",
-          "why": "Close with the responsibility to build a shelter for peace."
+          "why": "Close with the responsibility to build a shelter for peace.",
+          "shortened": [
+            "Truly, this is a great and revered nation. Here liberty has reached its highest degree. The intentions of its people are most praiseworthy. They are, indeed, worthy of being the first to build the Tabernacle of the Most Great Peace and proclaim the oneness of mankind."
+          ]
         }
       ],
       "questions": [
@@ -351,7 +432,7 @@
       "id": "6193A5AE5579E4039E4D0589AE21DACA",
       "slug": "prayerchildren",
       "displayTitle": "Prayers for children: tenderness, growth, and the capacity to serve",
-      "introduction": "A child speaks as a small plant, a star not yet shining brightly, or a learner seeking a place of safety. Adults answer with prayers for nourishment, education, protection, and a life that will bring benefit to others. These varied voices make childhood a relationship of trust and responsibility: potential needs cultivation, and spiritual hopes call for schools, character, knowledge, and loving care. Prayers for newborns, daughters and sons, bereaved families, and particular young people preserve the intimacy of their occasions while opening onto shared concerns. The connected subjects of education, moral formation, and the divine Gardener deepen this movement from nurture to fruitful action. Jesus’ welcome and blessing of children offers a complementary scene for reflection [1]. As the prayers unfold, protection gradually becomes more than shelter from harm: it becomes the freedom and strength to grow into a generous participant in the life of the world.",
+      "introduction": "A child asks to be made a shining lamp and a brilliant star, and in those few words the whole hope of this subject is already present. ‘Abdu’l-Bahá gave children prayers in their own voice: I am a tender plant, nourish me; I am a sapling of the garden of love, cause me to grow. Around those small voices gather the prayers of parents and teachers, for the child still in the womb, the newborn, the daughter, the son who has left home, the household bereaved of a father. The images are of gardens, rain and sunlight, and behind them stands the divine Gardener, without whose care the sapling melts away. Protection here is never only shelter from harm; it is the freedom to grow into knowledge, upright conduct and a life that brings benefit to others. The scene in which Jesus takes the children in His arms and blesses them while the disciples try to send them away belongs beside these petitions [1]. Praying for a child soon opens onto the education of children, their moral formation, and the gardener who tends every soul.",
       "arc": "Hear the child’s own voice, surround it with care, and follow growth through education toward service and steadfastness.",
       "order": [
         {
@@ -360,7 +441,10 @@
         },
         {
           "key": "source:AB09040",
-          "why": "Let the child ask for nurture and education."
+          "why": "Let the child ask for nurture and education.",
+          "shortened": [
+            "I am a child of tender years. Nourish me from the breast of Thy mercy, train me in the bosom of Thy love, educate me in the school of Thy guidance and develop me under the shadow of Thy bounty. Deliver me from darkness, make me a brilliant light; free me from unhappiness, make me a flower of the rose-garden; suffer me to become a servant of Thy threshold and confer upon me the disposition and nature of the righteous; make me a cause of bounty to the human world and crown my head with the diadem of eternal life."
+          ]
         },
         {
           "key": "source:AB10901",
@@ -384,7 +468,10 @@
         },
         {
           "key": "source:AB07375",
-          "why": "Give the Gardener a central place in protection."
+          "why": "Give the Gardener a central place in protection.",
+          "shortened": [
+            "O Kind God! Though we are helpless children and weak infants, distressed and without direction, yet we are saplings of Thy garden and Thou art the Gardener."
+          ]
         },
         {
           "key": "source:AB08693",
@@ -392,15 +479,24 @@
         },
         {
           "key": "source:AB01410",
-          "why": "Attend to a child’s distress and need for tranquillity."
+          "why": "Attend to a child’s distress and need for tranquillity.",
+          "shortened": [
+            "\"O loving God! I am a young child, a suppliant, a captive. Be Thou my refuge, my support, my protector. I am in distress: give me the means of tranquillity. I am needy: bestow upon me the treasure of the Kingdom. I am dead: give me the Spirit of Life. I am weak: favor me with power and strength, so that I may be a maid-servant in Thy Threshold, with perfect purity and sanctity; sacrifice myself unto Thee, be quit of myself and seek Thee, walk in the path of Thy good pleasure, speak Thy secret and witness the signs of Thy Oneness wherever I look. O God! Make me ablaze, like unto the fire of Thy love, and make me free from attachment to this mortal world, until I find the peace of soul and the rest of conscience."
+          ]
         },
         {
           "key": "source:AB07155",
-          "why": "Begin the surrounding adult prayers before birth."
+          "why": "Begin the surrounding adult prayers before birth.",
+          "shortened": [
+            "O my Lord! I dedicate that which is in my womb to Thee. Grant that this child may be praised in Thy Kingdom, may be blessed by Thy grace and bounty, and may grow and develop within the stronghold of Thine education."
+          ]
         },
         {
           "key": "source:BH09855",
-          "why": "Hear care for an infant in concrete nurturing language."
+          "why": "Hear care for an infant in concrete nurturing language.",
+          "shortened": [
+            "Graciously grant that this infant be fed from the breast of Thy tender mercy and loving providence and be nourished with the fruit of Thy celestial trees. Suffer him not to be committed to the care of anyone save Thee, inasmuch as Thou, Thyself, through the potency of Thy sovereign will and power, didst create and call him into being."
+          ]
         },
         {
           "key": "source:AB11356",
@@ -408,7 +504,10 @@
         },
         {
           "key": "source:BH06845",
-          "why": "Welcome the newborn as a blessing."
+          "why": "Welcome the newborn as a blessing.",
+          "shortened": [
+            "I beseech Thee, O Thou Who precedeth all bounties and Who showeth mercy unto all peoples, by Thy Most Great Name, to make the footsteps of this newborn blessed and a blessing from Thee."
+          ]
         },
         {
           "key": "source:AB07422",
@@ -420,7 +519,10 @@
         },
         {
           "key": "source:BH10076",
-          "why": "Retain the child’s particular place within a prayer of dedication."
+          "why": "Retain the child’s particular place within a prayer of dedication.",
+          "shortened": [
+            "O my Lord and my God! This is a child whom Thou hast brought forth from the loins of one of Thy servants, for whom Thou hast ordained a station among the stations in the tablets of Thy decree and the pages of Thy destiny. I beseech Thee by Thy Name through which every soul hath attained unto that which it desired, that Thou make him perfect among Thy servants, manifest through Thy Name, speaking forth Thy praise, turned toward Thy direction, and drawing nigh unto Thyself."
+          ]
         },
         {
           "key": "source:AB07774",
@@ -432,7 +534,10 @@
         },
         {
           "key": "source:AB12570",
-          "why": "Keep the short petition for development."
+          "why": "Keep the short petition for development.",
+          "shortened": [
+            "O my Lord, assist this child to be developed in the garden of Thy love. Verily thou art the Merciful, the Clement, the Compassionate."
+          ]
         },
         {
           "key": "source:AB07303",
@@ -440,19 +545,32 @@
         },
         {
           "key": "source:AB10701",
-          "why": "Locate growth within the garden of the Covenant."
+          "why": "Locate growth within the garden of the Covenant.",
+          "shortened": [
+            "O Lord! Make these children excellent plants. Let them grow and develop in the Garden of Thy Covenant, and bestow freshness and beauty through the outpourings of the clouds of the Abha Kingdom."
+          ]
         },
         {
           "key": "source:AB10324",
-          "why": "Let varied images disclose children’s worth."
+          "why": "Let varied images disclose children’s worth.",
+          "shortened": [
+            "O God, my God! Thou seest these children, branches of the tree of life and birds of the garden of salvation, pearls of the shell of Thy mercy, and roses of the bower of Thy guidance."
+          ]
         },
         {
           "key": "source:AB10714",
-          "why": "Join protection with education and service."
+          "why": "Join protection with education and service.",
+          "shortened": [
+            "O Thou kind Lord! These lovely children are the handiwork of the fingers of Thy might and the wondrous signs of Thy greatness. O God! Protect these children, graciously assist them to be educated and enable them to render service to the world of humanity. O God! These children are pearls, cause them to be nurtured within the shell of Thy loving-kindness."
+          ]
         },
         {
           "key": "source:AB01097",
-          "why": "Read the prayer for a generation born in a new day."
+          "why": "Read the prayer for a generation born in a new day.",
+          "shortened": [
+            "O Lord! Guard Thou the children that are born in Thy day, are nurtured at the breast of Thy love, and fostered in the bosom of Thy grace.",
+            "O Lord, they are verily young branches growing in the gardens of Thy knowledge, they are boughs budding in Thy groves of grace. Grant them a share of Thy generous gifts, make them to thrive and flourish in the rain that raineth from the clouds of Thy bestowal."
+          ]
         },
         {
           "key": "source:AB10342",
@@ -460,15 +578,24 @@
         },
         {
           "key": "source:AB03229",
-          "why": "Make schools and educational centers an explicit responsibility."
+          "why": "Make schools and educational centers an explicit responsibility.",
+          "shortened": [
+            "O my God, my God! Aid Thy trusted servants to establish schools and educational centers like mighty fortresses in every region and clime, so that children may be raised from their earliest days beneath Thy sheltering shade and be adorned with excellence of character, breadth of morals, and the effusion of illumination from Thy manifest light. O Lord, make these little ones great ones in Thy Kingdom, and these children lions roaring in the meadows of Thy guidance, and birds singing and cooing in the garden of Thy bestowals. Verily Thou art the Generous, Thou art the Mighty, Thou art the Merciful, the Compassionate."
+          ]
         },
         {
           "key": "source:AB09134",
-          "why": "Join spiritual nurture with learning and sciences."
+          "why": "Join spiritual nurture with learning and sciences.",
+          "shortened": [
+            "O Lord! Through the vernal showers of Thy mercy, bestow freshness and beauty upon these saplings, and make them blossoms of knowledge and learning and verdant leaves of wisdom and sciences. Make this school of ours the envy of Paradise and a musk-diffusing rose-garden."
+          ]
         },
         {
           "key": "source:ABU3070",
-          "why": "Preserve the reported prayer for successful study."
+          "why": "Preserve the reported prayer for successful study.",
+          "shortened": [
+            "O Thou Kind Lord! These beloved children are created by Thy Mighty Hand. They are the signs of Thy Omnipotence. Confirm them in their lessons. Make them successful in their studies; - so that when they reach the age of maturity they may arise in the service of the world of humanity."
+          ]
         },
         {
           "key": "source:AB04553",
@@ -484,15 +611,24 @@
         },
         {
           "key": "source:AB10018",
-          "why": "Keep the personal wish for maturity in love."
+          "why": "Keep the personal wish for maturity in love.",
+          "shortened": [
+            "I supplicate the Almighty that thou mayest be reared in the bosom of the love of God and attain maturity with utmost love and ecstasy."
+          ]
         },
         {
           "key": "source:BH05274",
-          "why": "Read youth as a time for advancement of souls."
+          "why": "Read youth as a time for advancement of souls.",
+          "shortened": [
+            "We beseech God, exalted be His glory, to assist thee in the days of thy youth in that which causeth the elevation of being and the advancement of souls."
+          ]
         },
         {
           "key": "source:AB03211",
-          "why": "Connect early nurture with a youth’s devotion."
+          "why": "Connect early nurture with a youth’s devotion.",
+          "shortened": [
+            "O Lord! This is a youth who has grown up in obedience to Thee and has nursed from the breast of Thy love from his tender years, and has developed in the embrace of Thy most special servants and been raised in the lap of Thy most dear bondsmen, and has reached maturity among those devoted to Thee. O Lord! Protect him in the shelter of Thy protection and assist him with Thy help and care, and expand his breast through the verses of Thy oneness, and make his affairs easy through the outpourings of Thy confirmation."
+          ]
         },
         {
           "key": "source:AB10320",
@@ -500,11 +636,17 @@
         },
         {
           "key": "source:AB05507",
-          "why": "Hear the sustained plea for a small servant’s safety."
+          "why": "Hear the sustained plea for a small servant’s safety.",
+          "shortened": [
+            "O my God, my Refuge, and Haven of those who turn to the Kingdom of Thy supreme sanctification! Thou seest me imploring at Thy exalted threshold and beseeching Thy holy Presence to guard and protect this small servant, the apple of the eye of Thy servant 'Andalib and a piece of his heart, within the shelter of Thy protection, and to rear him in the fortress of Thy providence and the bosom of Thy bounty. O Lord! Nourish him from the breast of Thy favors, and cause him to grow into a goodly plant through Thy grace, Thy generosity and Thy benevolence."
+          ]
         },
         {
           "key": "source:AB10806",
-          "why": "Keep the prayer for two children together."
+          "why": "Keep the prayer for two children together.",
+          "shortened": [
+            "My God, my God! I take refuge at the gate of Thy mercy and favors, that Thou mayest guard these two noble children, who have been nursed at the breast of Thy love since their tender years, within the protection of Thy shelter from the accidents of night and the predators of day."
+          ]
         },
         {
           "key": "source:AB08099",
@@ -528,11 +670,17 @@
         },
         {
           "key": "source:BH03386",
-          "why": "Read the longing for a child who will remember God."
+          "why": "Read the longing for a child who will remember God.",
+          "shortened": [
+            "I entreat Thee, moreover, O Lord of all being and Possessor of all things visible and invisible, to bestow upon me a righteous child who may make mention of Thee on Thine earth and sing Thy praise throughout Thy realms; this, notwithstanding that Thou hast, with this Tablet, made me rich enough to dispense with every fruit, trace, or mention."
+          ]
         },
         {
           "key": "source:BH03635",
-          "why": "Give hoped-for offspring a vocation of wisdom and utterance."
+          "why": "Give hoped-for offspring a vocation of wisdom and utterance.",
+          "shortened": [
+            "Furthermore I beseech Thee, O Lord of the worlds and Educator of the nations, to ordain for me goodly offspring who will remember Thee among Thy creatures and aid Thee in Thy realm through wisdom and utterance."
+          ]
         },
         {
           "key": "source:BH03415",
@@ -540,11 +688,17 @@
         },
         {
           "key": "source:BH06072",
-          "why": "Retain the prayer’s setting in a woman’s faithfulness."
+          "why": "Retain the prayer’s setting in a woman’s faithfulness.",
+          "shortened": [
+            "Say: Glory be to Thee, O my God! I beseech Thee by Thy Name through which the ocean of Thy grace surged and the sun of loving-kindness and favors shone forth in Thy days, to make me among the women who have remained faithful to Thy Covenant and have held fast to the handle of Thy bounty. Then grant me, from Thy presence, goodly offspring who will remember Thee amongst Thy creatures and arise to serve Thy Cause."
+          ]
         },
         {
           "key": "source:BH10829",
-          "why": "Keep the petition’s language of divine utterance and favor."
+          "why": "Keep the petition’s language of divine utterance and favor.",
+          "shortened": [
+            "Praise be unto thee, O Lord my God, I beseech Thee by Thy decisive Holy Utterance whereby the root of doubt and misgivings hath been eradicated and the glory of Thy name, the Almighty, the Bountiful, hath shone forth, to protect every child that hath been admitted beneath the shade of Thy loving-kindness, and to have mercy, O my God, on those babes whom the people have banished from their homes while [sic] were still at their mothers' breasts, for no other reason than the love they have cherished for Thee."
+          ]
         },
         {
           "key": "source:BH05573",
@@ -556,7 +710,10 @@
         },
         {
           "key": "source:BH07127",
-          "why": "Preserve the specific language of relationship to the Tree."
+          "why": "Preserve the specific language of relationship to the Tree.",
+          "shortened": [
+            "I beseech Thee, by that wherewith Thou hast described Thyself through Thy most excellent names and most exalted attributes, to grant unto him whom Thou hast related to the branches of the Tree of Thy Cause, and brought forth from the loins of one whom Thou didst single out for Thy service, Thy love, Thy grace and Thy tender mercy, every good thing which Thou hast ordained in Thy Book."
+          ]
         },
         {
           "key": "source:BH07898",
@@ -568,11 +725,17 @@
         },
         {
           "key": "source:AB02030",
-          "why": "Remember children left after a parent’s death."
+          "why": "Remember children left after a parent’s death.",
+          "shortened": [
+            "And assist these children whom he left behind to follow his footsteps and emulate his character and form until they become signs of his devotion and traces of his humility and the lamps of his hopes and the flowers of his gardens and the fruits of the tree of his existence and the lights of the gathering of his witnessing."
+          ]
         },
         {
           "key": "source:AB04574",
-          "why": "Hear the hope that a successor will continue a worthy example."
+          "why": "Hear the hope that a successor will continue a worthy example.",
+          "shortened": [
+            "O Lord, assist his righteous, distinguished and radiant successor that he may follow in his father's footsteps and remain firm in Your mighty Cause."
+          ]
         },
         {
           "key": "source:AB11418",
@@ -640,7 +803,7 @@
       "id": "3CD1B6C1EA79E50DBEE4211DC6F9A186",
       "slug": "proclamation",
       "displayTitle": "Proclamation: hearing a call addressed to the world",
-      "introduction": "A tree speaks, an ocean bears witness, and a voice rises from a prison to address the peoples of the earth. Proclamation in these passages is both announcement and invitation: the reader is asked to hear, investigate, turn, and respond to a claimed renewal of revelation. The language gathers memories of earlier scriptures while declaring their promises fulfilled in the present dispensation. These are the texts’ religious claims, which call for attentive understanding without presuming that every tradition interprets its promises in the same way. Particular addresses to women, merchants, communities, and followers of different religions give the universal summons a human setting. The Báb’s appeal to a common word invites direct comparison with Qur’an 3:64 [1]. The neighboring proclamations to specific religious and civic audiences can then deepen the inquiry into how shared language, startling imagery, and wise utterance meet the circumstances of different hearers.",
+      "introduction": "Come to a word common between us and you: the Báb opens with the Qur’an’s own invitation to the People of the Book, worship of the one God without partners, and makes it the ground on which a new announcement can be heard [1]. What is announced is startling. A Tree raised up by the power of truth speaks from every leaf, and from a prison in ‘Akká a voice addresses kings, divines, merchants, the women of the earth, the followers of Zoroaster and the people of the Bayán, claiming that the Day promised in every scripture has dawned. Bahá’u’lláh tells those who carry the news to arise with wisdom and utterance, for the hearers differ in readiness, and ‘Abdu’l-Bahá turns the message into a litany of glad tidings. Proclamation is both testimony and invitation, and it admits that most people remain veiled. From this universal summons the way branches toward Christians, Jews and Muslims, toward the kings and rulers of the earth, and toward the religious leaders whose response so often decided what the people heard.",
       "arc": "Begin with common ground and wise utterance, enter the imagery of revelation, and follow the summons from particular audiences toward the whole world.",
       "order": [
         {
@@ -653,19 +816,31 @@
         },
         {
           "key": "source:BH03063",
-          "why": "Invite attention to the act of hearing."
+          "why": "Invite attention to the act of hearing.",
+          "shortened": [
+            "Today all things proclaim \"The Truth hath come!\" Blessed is the soul that hath attained to hearing the Call."
+          ]
         },
         {
           "key": "source:BH08864",
-          "why": "Let the Lamp make the summons intimate."
+          "why": "Let the Lamp make the summons intimate.",
+          "shortened": [
+            "The Lamp of God calleth out between you saying: \"Unto Me, unto Me, O My people and My servants! By My life, I have manifested Myself unto you and I am the Mighty, the Bountiful."
+          ]
         },
         {
           "key": "source:BH05443",
-          "why": "Hear the recurring invitation through divine names."
+          "why": "Hear the recurring invitation through divine names.",
+          "shortened": [
+            "The All-Bountiful has come, saying: \"To Me, to Me, O people of understanding!\" The All-Merciful has come, saying: \"Hasten, hasten, O followers of the religions!\" The All-Forgiving has appeared with truth, saying: \"Come, come, O people of the Furqan and O people of the Bayan!\""
+          ]
         },
         {
           "key": "source:AB11807",
-          "why": "Give the call the form of a shared heavenly table."
+          "why": "Give the call the form of a shared heavenly table.",
+          "shortened": [
+            "Hasten to success, O companions! Hasten to prosperity, O people of understanding! Hasten to the heavenly table! Hasten to the divine gift! Hasten to celestial guidance! Hasten to the heavenly manifestations! Hasten to the promised bounty! Hasten to the anticipated presence! Hasten to the praiseworthy station! Hasten to eternal life! Hasten to the divine creation! Hasten to the cup brimming with divine outpourings! Hasten to hear the cooing of the dove in the gardens! Hasten to the roaring of the lions in the thickets!"
+          ]
         },
         {
           "key": "source:ABU2110",
@@ -673,7 +848,16 @@
         },
         {
           "key": "source:AB02628",
-          "why": "Connect glad tidings with confidence of heart."
+          "why": "Connect glad tidings with confidence of heart.",
+          "shortened": [
+            "Consequently arise with the greatest confidence of the heart and summon the people to the Kingdom of God and proclaim:-",
+            "Glad-tiding! Glad-tiding! The Morn of Guidance hath dawned!",
+            "Glad-tiding! Glad-tiding! The Sun of Reality hath shone forth!",
+            "Glad-tiding! Glad-tiding! The Breeze of the Rose-garden of God hath wafted.",
+            "Glad-tiding! Glad-tiding! A new Grace hath appeared in the world of humanity.",
+            "Glad-tiding! Glad-tiding! The ideal of the solidarity of the human race hath pitched its Tent upon the apex of the world.",
+            "Glad-tiding! Glad-tiding! The Flag of Peace and Salvation hath been unfurled in this century, waving over the East and the West!"
+          ]
         },
         {
           "key": "source:AB02346",
@@ -685,11 +869,17 @@
         },
         {
           "key": "source:BH00610",
-          "why": "Listen to the speaking Tree in a particular address."
+          "why": "Listen to the speaking Tree in a particular address.",
+          "shortened": [
+            "O loved ones of God among the Arabs!  Hearken to the summons of God issuing from this Tree which hath been raised up through the power of truth, every leaf of which proclaimeth within all things:  Verily, I am God; there is no God but Him, the Most Holy, the All-Glorious, the Most Bountiful!  Hasten, O people, unto the Tree of God, and seek shelter beneath its shadow."
+          ]
         },
         {
           "key": "source:BH09694",
-          "why": "Attend to rustling, light and perception."
+          "why": "Attend to rustling, light and perception.",
+          "shortened": [
+            "O Muhammad-Sadiq! Say: By God, the rustling of the Divine Lote-Tree hath been raised, and the lights of the Countenance have shone forth from the supreme horizon. Blessed is he who hath witnessed and seen, and woe unto every heedless and veiled one. O peoples of the earth! All the signs have appeared, and the Lord of Names calleth aloud amongst mankind, yet most of the people understand not."
+          ]
         },
         {
           "key": "source:BH05275",
@@ -697,7 +887,10 @@
         },
         {
           "key": "source:BH07757",
-          "why": "Connect the speaking Tree with what had been hidden."
+          "why": "Connect the speaking Tree with what had been hidden.",
+          "shortened": [
+            "That which was hidden hath appeared and that which was treasured hath spoken, and the Divine Lote-Tree hath called out: The Day of God, the Sovereign, the Peerless, the All-Informed, hath come. O peoples of the earth, fear God and follow not your desires. Follow Him Who calleth you unto the Straight Path."
+          ]
         },
         {
           "key": "source:BH04858",
@@ -705,15 +898,25 @@
         },
         {
           "key": "source:BH04814",
-          "why": "Let Ocean and Sun bear witness."
+          "why": "Let Ocean and Sun bear witness.",
+          "shortened": [
+            "On this day the Herald hath called out from every direction: \"The King is come, and sovereignty belongeth unto God, the Mighty, the All-Praised.\" Verily the Ocean hath testified to the truth, and the Sun proclaimeth: \"He Who was hidden within God's knowledge, the Lord of the heavens and earth, hath come.\""
+          ]
         },
         {
           "key": "source:BH07194",
-          "why": "Continue the testimony through atoms and the Balance."
+          "why": "Continue the testimony through atoms and the Balance.",
+          "shortened": [
+            "The atoms have testified to the Revealer of verses that there is none other God besides Him, the Mighty, the Bestower. The Balance hath appeared and verily it speaketh throughout the world and summoneth the peoples unto God, the Mighty, the Self-Subsisting."
+          ]
         },
         {
           "key": "source:BH06220",
-          "why": "Introduce revelation as an unveiled treasure."
+          "why": "Introduce revelation as an unveiled treasure.",
+          "shortened": [
+            "Say: This is the Day whereon the Treasure hath been unveiled and that which lay hidden from time immemorial hath appeared.",
+            "O people! Fear ye the All-Merciful, and deny not Him Who hath come from the heaven of utterance with clear proof and testimony."
+          ]
         },
         {
           "key": "source:ABU0817",
@@ -721,31 +924,53 @@
         },
         {
           "key": "source:BH05321",
-          "why": "Set manifest signs beside the problem of response."
+          "why": "Set manifest signs beside the problem of response.",
+          "shortened": [
+            "O servants! The light hath appeared, the Sun hath risen, the Book hath been revealed, the proof is resplendent, and the Kingdom of Utterance is manifest at the midmost heart of contingent being. Yet the people remain heedless and in denial.",
+            "Today the Straight Path is manifest and calleth out, guiding all to the supreme horizon. The Balance uttereth \"The All-Merciful is come,\" and the Herald between earth and heaven proclaimeth this most exalted Word: \"The Desired One is come with a sovereignty before which the sovereignty of the world and the might of the nations cannot stand."
+          ]
         },
         {
           "key": "source:BH08196",
-          "why": "Keep doubt within the proclamation’s horizon."
+          "why": "Keep doubt within the proclamation’s horizon.",
+          "shortened": [
+            "The Day of God hath come, and the Balance hath been set up, and the Trumpet hath been blown, and the Lord of Revelation hath spoken; yet the people are in strange doubt."
+          ]
         },
         {
           "key": "source:BH10126",
-          "why": "Hear the contrast between announcement and unawareness."
+          "why": "Hear the contrast between announcement and unawareness.",
+          "shortened": [
+            "This is the Day of God, and the Speaker of the Bayan hath mounted the pulpit of glory in the City of Love, crying aloud: O people of God! The Day is come, yet the people are in grievous stupor."
+          ]
         },
         {
           "key": "source:BH09706",
-          "why": "Read the rejoicing of Book and Tablet."
+          "why": "Read the rejoicing of Book and Tablet.",
+          "shortened": [
+            "This is the Day whereon the Mother Book and the Preserved Tablet cry out before the Face, speaking and saying: \"My Lord hath manifested Me - rejoice, O concourse of the chosen ones!\""
+          ]
         },
         {
           "key": "source:BH09176",
-          "why": "Continue through the Book’s voiced testimony."
+          "why": "Continue through the Book’s voiced testimony.",
+          "shortened": [
+            "The Book calleth aloud: The All-Bestowing hath come, and sovereignty belongeth unto God, the Lord of the Final Return! The tongue of the All-Merciful in the Kingdom of Utterance proclaimeth with loudest voice: That which was promised in the Books of God, the Lord of Creation, hath been made manifest!"
+          ]
         },
         {
           "key": "source:BH05081",
-          "why": "Place Spirit and Bayan in the chorus of witnesses."
+          "why": "Place Spirit and Bayan in the chorus of witnesses.",
+          "shortened": [
+            "The Most Great, Most Holy, Most Glorious! The Spirit bears witness: The Light has come, and sovereignty belongs to God, the Mighty, the All-Wise. The Bayan bears witness: The All-Merciful has come with a clear proof. The Beloved bears witness: By God! This indeed is the Best-Beloved. Blessed is he who turns to Him."
+          ]
         },
         {
           "key": "source:BH06042",
-          "why": "Hear the claimed testimony of Torah and Gospel."
+          "why": "Hear the claimed testimony of Torah and Gospel.",
+          "shortened": [
+            "Verily the Torah cries out saying: \"He Who revealed Me has come with His mighty signs. Turn unto Him, O concourse of Jews!\" The Gospel exclaims: \"He has come from heaven, He through Whose mention God, the Lord of the seen and unseen, adorned His Book.\" And the Qur'an calls humanity unto the Truth Who was promised by the Most Exalted Pen in a preserved tablet."
+          ]
         },
         {
           "key": "source:BH03196",
@@ -757,19 +982,31 @@
         },
         {
           "key": "source:BH05816",
-          "why": "Consider the address concerning the Day of Return."
+          "why": "Consider the address concerning the Day of Return.",
+          "shortened": [
+            "O People of the Book! This is the Day of Return, and the Truth calleth out with its loudest voice, summoning all to the straight path."
+          ]
         },
         {
           "key": "source:BH05380",
-          "why": "Read the claim of a Day heralded by the Prophets."
+          "why": "Read the claim of a Day heralded by the Prophets.",
+          "shortened": [
+            "This is the Day which all the Prophets and chosen ones have heralded, and all peoples have besought and yearned for the presence of God, exalted be His glory."
+          ]
         },
         {
           "key": "source:BH06847",
-          "why": "Connect the books’ promises with obstacles to recognition."
+          "why": "Connect the books’ promises with obstacles to recognition.",
+          "shortened": [
+            "O Ali, upon thee be the everlasting splendor of God! This is the Day which all divine Books have been adorned with its mention. Blessed is the soul whom neither doubts nor allusions of the heedless ones prevented from the direction of divine unity. Today the Supreme Paradise crieth out with the most exalted call \"The All-Merciful hath come!\" and the gates of the most exalted Paradise and the supreme Heaven are opened wide. Blessed is he who hath advanced and entered therein, and woe unto every remote denier."
+          ]
         },
         {
           "key": "source:BH07177",
-          "why": "Retain the imagery of heaven and earth opening."
+          "why": "Retain the imagery of heaven and earth opening.",
+          "shortened": [
+            "The heaven hath been cleft asunder, and the Lord of Names hath come with manifest sovereignty. The earth hath been rent, and that which lay concealed within it hath appeared by command of God, the Mighty, the Praiseworthy."
+          ]
         },
         {
           "key": "source:BH09824",
@@ -777,11 +1014,17 @@
         },
         {
           "key": "source:BH07397",
-          "why": "Hear the appeal to followers of every religion."
+          "why": "Hear the appeal to followers of every religion.",
+          "shortened": [
+            "Say: O peoples of all religions! Fear ye the All-Merciful, and oppose not Him before Whom, when He appeared, the Concourse on High and the dwellers of Paradise bowed down morning and evening."
+          ]
         },
         {
           "key": "source:BH07425",
-          "why": "Let the brief direct summons stand beside it."
+          "why": "Let the brief direct summons stand beside it.",
+          "shortened": [
+            "O peoples of all religions! Hearken unto the Call of the All-Merciful. Verily it hath been raised in truth from this Spot which hath been named the Most Great Prison in a Preserved Tablet."
+          ]
         },
         {
           "key": "source:BH00459",
@@ -789,11 +1032,17 @@
         },
         {
           "key": "source:BH05228",
-          "why": "Keep the succinct statement of appearance and invitation."
+          "why": "Keep the succinct statement of appearance and invitation.",
+          "shortened": [
+            "He hath appeared with the truth and hath manifested whatsoever He desired, and hath called all to the supreme horizon."
+          ]
         },
         {
           "key": "source:BH05436",
-          "why": "Move from manifestation toward opened grace."
+          "why": "Move from manifestation toward opened grace.",
+          "shortened": [
+            "This is the Day when the Ancient Beauty hath appeared without veil or covering, and the Most Great Name is manifest without any concealment. The door of His grace hath been opened before the faces of His loved ones, and His favors have encompassed all."
+          ]
         },
         {
           "key": "source:BH09723",
@@ -809,7 +1058,10 @@
         },
         {
           "key": "source:BH07319",
-          "why": "Keep the particular promise addressed to London believers."
+          "why": "Keep the particular promise addressed to London believers.",
+          "shortened": [
+            "O beloved of the Lord in London! Know ye assuredly that He who had departed from your midst is come again. Verily He hath fulfilled His promise and manifested His Cause. He passeth amongst you at all times, and yet ye heed Him not."
+          ]
         },
         {
           "key": "source:BH02271",
@@ -817,7 +1069,10 @@
         },
         {
           "key": "source:BH03652",
-          "why": "Read the challenge addressed to merchants."
+          "why": "Read the challenge addressed to merchants.",
+          "shortened": [
+            "Say: O concourse of merchants! The Chosen One hath come with grandeur and power. By what proof have ye turned away from the Intended One? Hath this world prevented you from the Lord of Names, and have ye been withheld by following every heedless sinner? Cast away what ye possess and take what ye have been commanded by One mighty and powerful."
+          ]
         },
         {
           "key": "source:BH04959",
@@ -825,11 +1080,17 @@
         },
         {
           "key": "source:BH05156",
-          "why": "Give women’s response its explicit place."
+          "why": "Give women’s response its explicit place.",
+          "shortened": [
+            "Say: O women of the earth! Deprive not yourselves, and keep not distant from a Law which hath trickled down from the clouds of grace."
+          ]
         },
         {
           "key": "source:BH11774",
-          "why": "Keep the further address to women as its own reading."
+          "why": "Keep the further address to women as its own reading.",
+          "shortened": [
+            "Say: O women of the earth! Hearken unto that which the Spirit imparteth unto you."
+          ]
         },
         {
           "key": "source:AB04092",
@@ -845,15 +1106,24 @@
         },
         {
           "key": "source:BH02364",
-          "why": "Let the Pen testify from the same confined setting."
+          "why": "Let the Pen testify from the same confined setting.",
+          "shortened": [
+            "The Pen testifieth in the Most Great Prison and calleth out amongst the nations: \"The Kingdom is God's, the Lord of eternity!\" Yet the people understand not."
+          ]
         },
         {
           "key": "source:BH06724",
-          "why": "Contrast the prison’s horizon with the whole creation addressed."
+          "why": "Contrast the prison’s horizon with the whole creation addressed.",
+          "shortened": [
+            "Say: O people, by His Name the Self-Subsisting, He calleth out with the most exalted call from the horizon of the prison and summoneth the entire creation unto God, the Lord of the beginning and the end."
+          ]
         },
         {
           "key": "source:BH08049",
-          "why": "Keep the tension between summons and heedlessness."
+          "why": "Keep the tension between summons and heedlessness.",
+          "shortened": [
+            "The Wronged One calleth aloud from the Most Great Prison and summoneth all to God, the Lord of eternity, yet most of the peoples remain heedless."
+          ]
         },
         {
           "key": "source:BH02331",
@@ -861,7 +1131,10 @@
         },
         {
           "key": "source:BH05130",
-          "why": "Let the invitation widen toward the Ocean."
+          "why": "Let the invitation widen toward the Ocean.",
+          "shortened": [
+            "We summoned all, without veil or barrier, unto God, the Lord of the worlds. We stood before all faces, speaking that which would draw them nigh unto the Most Great Ocean which surgeth by My Name, the All-Compelling over all who are in the heavens and earth."
+          ]
         },
         {
           "key": "source:BH04584",
@@ -869,7 +1142,11 @@
         },
         {
           "key": "source:BH00898",
-          "why": "Join particular Tablets with the address to creation."
+          "why": "Join particular Tablets with the address to creation.",
+          "shortened": [
+            "We address all created things with the most exalted call: Awaken ye to the call of your Lord Who hath come with power and sovereignty!",
+            "Know thou, moreover, that We have written Tablets for the followers of the Magian Faith and have therein adorned the Law. Blessed is he who remembereth them with joy and fragrance. And We have revealed therein the essence of what was concealed in their Books of symbols and allusions."
+          ]
         },
         {
           "key": "source:BH00379",
@@ -877,7 +1154,10 @@
         },
         {
           "key": "source:AB12833",
-          "why": "Hear the response imagined across seen and unseen worlds."
+          "why": "Hear the response imagined across seen and unseen worlds.",
+          "shortened": [
+            "At the time when the Cause of Him Who is the Day-Star of the heights of glory was being proclaimed, the essences of existence were, from the kingdom of the seen and the unseen, listening and exclaiming, \"Well done, O people of God, well done!\""
+          ]
         },
         {
           "key": "source:ABU2944",
@@ -969,7 +1249,7 @@
       "id": "A8B7BAB865C1EDFF1E086B0B1C1C8B38",
       "slug": "wealthinequality",
       "displayTitle": "Wealth inequality: a common life with room for everyone",
-      "introduction": "What does it mean to call humanity one family when some of its members lack necessities while others possess abundance? These passages make that contradiction a question of justice, social stability, and spiritual responsibility. They distinguish improving everyone’s conditions from making all possessions identical, and place generous voluntary sharing beside laws, public provision, and fair relations between workers and owners. Neither inward transformation nor institutional change exhausts the inquiry. Concrete proposals in reported conversations should be read with their source status and historical setting, rather than converted into a single binding economic program. Paul’s appeal that one community’s abundance meet another’s need offers a revealing comparison within a different religious and communal setting [1]. The connected subjects of moderation, labor relations, wealth, and voluntary giving help trace a demanding middle course: preserving initiative while making deprivation, exploitation, and indifference incompatible with the well-being of the whole.",
+      "introduction": "One household in which some members feast in costly garments while others go without food or shelter: that is ‘Abdu’l-Bahá’s picture of the body politic as it stands. Every human being, He says, has a right to live, to rest and to a measure of well-being; if the rich man has his palace, the poor man must at least have a house and a mat to lie on. Yet making everyone identical would be ruinous, since a world of masters and no masons would stop. The aim is moderation: laws that keep a few from amassing fortunes beyond any need and that meet the wants of the many, workers given a wage and a share of profits, and alongside all this a love so strong that the wealthy give willingly. Paul’s appeal that one community’s abundance should meet another’s need shows how old this hope for reciprocal provision is [1]. From here the way leads into the principle of balance and moderation, into labour relations and profit sharing, and into voluntary giving as the inward counterpart of just laws.",
       "arc": "Begin with the contradiction within one human family, examine both institutions and motives, and end with shared responsibility and further consultation.",
       "order": [
         {
@@ -986,7 +1266,11 @@
         },
         {
           "key": "source:AB00099",
-          "why": "Examine the accumulation mechanism named in the passage."
+          "why": "Examine the accumulation mechanism named in the passage.",
+          "shortened": [
+            "For all the wealth, power, commerce and industry are concentrated in the hands of a few individuals, while all others toil under the burden of endless hardships and difficulties, are bereft of advantages and benefits, and remain deprived of comfort and peace. One must therefore enact such laws and regulations as will moderate the excessive fortunes of the few and meet the basic needs of the myriad millions of the poor, that a degree of moderation may be achieved.",
+            "It is preferable then that some measure of moderation be achieved; and by moderation is meant the enactment of such laws and regulations as would prevent the unwarranted concentration of wealth in the hands of the few and satisfy the essential needs of the many."
+          ]
         },
         {
           "key": "source:ABU0462",
@@ -1038,7 +1322,11 @@
         },
         {
           "key": "source:ABU1216",
-          "why": "Begin institutional proposals at village level."
+          "why": "Begin institutional proposals at village level.",
+          "shortened": [
+            "\"The solution begins with the village, and when the village is reconstructed, then the cities will be also. The idea is this, that in each village will be erected a store-house. In the language of Religion it is called the House of Finance. That is a universal store-house, which is commenced in the village. Its administration is through a committee of the wise ones of the community, and with the approval of that committee all the affairs are directed.",
+            "The greater the income, the greater is the ratio (of taxation)."
+          ]
         },
         {
           "key": "source:ABU0034",
@@ -1062,7 +1350,10 @@
         },
         {
           "key": "source:ABU2832",
-          "why": "Retain the contrast drawn between material and spiritual sharing."
+          "why": "Retain the contrast drawn between material and spiritual sharing.",
+          "shortened": [
+            "Tell the socialists that sharing of property and land in this mortal world is the source of strife and warfare but sharing and inheritance in the Kingdom is the cause of love and unity."
+          ]
         },
         {
           "key": "source:ABU3190",
@@ -1070,7 +1361,10 @@
         },
         {
           "key": "source:ABU3026",
-          "why": "Place the expectation of change beside voluntary division."
+          "why": "Place the expectation of change beside voluntary division.",
+          "shortened": [
+            "It will not be possible in the future for men to amass great fortunes by the labor of others. The rich will willingly divide. They will come to this gradually, naturally, by their own volition."
+          ]
         },
         {
           "key": "source:AB05171",
@@ -1086,11 +1380,18 @@
         },
         {
           "key": "source:ABU0689",
-          "why": "Ask what love contributes to economic transformation."
+          "why": "Ask what love contributes to economic transformation.",
+          "shortened": [
+            "Hearts must be so cemented together, love must become so dominant that the rich shall most willingly extend assistance to the poor and take steps to establish these economic adjustments permanently.",
+            "For example, it will be as if the rich inhabitants of a city should say, \"It is neither just nor lawful that we should possess great wealth while there is abject poverty in this community,\" and then willingly give their wealth to the poor, retaining only as much as will enable them to live comfortably."
+          ]
         },
         {
           "key": "source:BH04200",
-          "why": "Give fellowship its practical meaning of regarding others as oneself."
+          "why": "Give fellowship its practical meaning of regarding others as oneself.",
+          "shortened": [
+            "The meaning of \"fellowship\" that hath been revealed in the Book of God is this: that each of the believers should regard others as they regard themselves, that is, they should not consider themselves superior, and the wealthy should not deprive the poor of their wealth, and whatever they choose for themselves of good things, they should choose the same for other believers."
+          ]
         },
         {
           "key": "source:BH00021",
@@ -1106,15 +1407,24 @@
         },
         {
           "key": "source:ABU0991",
-          "why": "Read the companion appeal for shared happiness."
+          "why": "Read the companion appeal for shared happiness.",
+          "shortened": [
+            "Furthermore, during these days the wealthy must show great consideration for the poor, so that all may be joyful, and joy and delight not be confined to the wealthy alone. Both poor and wealthy should be in the same state and enjoy the same kind of festivity."
+          ]
         },
         {
           "key": "source:ABU1198",
-          "why": "Bring stewardship and waste into the discussion."
+          "why": "Bring stewardship and waste into the discussion.",
+          "shortened": [
+            "Economy is the foundation of human prosperity. The spendthrift is always in trouble. Prodigality on the part of any person is an unpardonable sin."
+          ]
         },
         {
           "key": "source:AB00793",
-          "why": "Keep the stated argument concerning differentiated conditions."
+          "why": "Keep the stated argument concerning differentiated conditions.",
+          "shortened": [
+            "The reality of this matter is that it is required by God's universal system in this infinite universe that both rich and poor exist. If all became rich, the system of existence would be disrupted, and if all became poor, the connection between beings would be severed. Thus this poverty and wealth are requirements of the chain of beings and the firm relationships between existences."
+          ]
         },
         {
           "key": "source:ABU1508",
@@ -1122,7 +1432,10 @@
         },
         {
           "key": "source:ABU0152",
-          "why": "Return to the promise of readjustment and assistance."
+          "why": "Return to the promise of readjustment and assistance.",
+          "shortened": [
+            "It is not meant that all will be equal, for inequality in degree and capacity is a property of nature. Necessarily there will be rich people and also those who will be in want of their livelihood, but in the aggregate community there will be equalization and readjustment of values and interests. In the future there will be no very rich nor extremely poor. There will be an equilibrium of interests, and a condition will be established which will make both rich and poor comfortable and content."
+          ]
         },
         {
           "key": "source:ABU2221",
@@ -1130,11 +1443,18 @@
         },
         {
           "key": "source:ABU1527",
-          "why": "Revisit the family image in its distinct source."
+          "why": "Revisit the family image in its distinct source.",
+          "shortened": [
+            "Although the body-politic is one family, yet because of the lack of symmetry some members are comfortable and some are in the utmost misery; some members are satisfied and some are hungry; some are clothed with the most costly garments while some families are in need of food and shelter.",
+            "Is it possible for a member of a family to be subjected to the utmost of misery and abject poverty, and for the rest of the family to be comfortable? It is impossible, unless the rest of the family be without feeling, having become spiritually atrophied, inhospitable, unkind..."
+          ]
         },
         {
           "key": "source:ABU0656",
-          "why": "Recognize the poor as agents of society’s upbuilding."
+          "why": "Recognize the poor as agents of society’s upbuilding.",
+          "shortened": [
+            "The poor have ever been the cause of the freedom of the world of humanity; the poor have ever been the cause of the upbuilding of the country; the poor have ever labored for the world's production; the morals of the poor have ever been above those of the rich; the poor are ever nearer to the threshold of God; the humanitarianism of the poor has ever been more acceptable at the threshold of God."
+          ]
         },
         {
           "key": "source:ABU0933",
@@ -1142,7 +1462,10 @@
         },
         {
           "key": "source:ABU0437",
-          "why": "Read spiritual reflections on poverty beside obligations of care."
+          "why": "Read spiritual reflections on poverty beside obligations of care.",
+          "shortened": [
+            "When one is physically destitute, spiritual thoughts are more likely. Poverty is a stimulus toward God. Each one of you must have great consideration for the poor and render them assistance. Organize in an effort to help them and prevent increase of poverty. The greatest means for prevention is that whereby the laws of the community will be so framed and enacted that it will not be possible for a few to be millionaires and many destitute."
+          ]
         },
         {
           "key": "source:ABU1843",
@@ -1150,7 +1473,10 @@
         },
         {
           "key": "source:AB05888",
-          "why": "Hear the acknowledgment that riches need not prevent faith."
+          "why": "Hear the acknowledgment that riches need not prevent faith.",
+          "shortened": [
+            "The glorious Lord Christ - glory be to Him - said in the Gospel that it is easier for a camel to pass through the eye of a needle than for a rich person to enter the Kingdom of God. However, praise be to God, wealth and riches did not prevent you from entering the Kingdom of God."
+          ]
         },
         {
           "key": "source:AB12612",
@@ -1174,15 +1500,25 @@
         },
         {
           "key": "source:ABU1047",
-          "why": "Read the hope for dignity beyond dependence on charity."
+          "why": "Read the hope for dignity beyond dependence on charity.",
+          "shortened": [
+            "The time must come and the work get so high that every community will have a box for charity which may be full to the brim of gold and yet a poor man will refuse to take any so long as he is able to work for himself. The work must reach such a pitch.",
+            "Now, in Persia many very poor believers will not accept anything from anyone. They are true believers. They want to serve themselves and to contribute themselves."
+          ]
         },
         {
           "key": "source:ABU3667",
-          "why": "Close linked readings with the demand to overcome inherited oppression."
+          "why": "Close linked readings with the demand to overcome inherited oppression.",
+          "shortened": [
+            "The civilizations of the past have all been founded upon the enslavement of mankind and the poor working class has suffered every oppression for the sake of the enrichment of the few. This limited wealthy class has alone had the privilege of developing individuality. The down trodden worker after laboring long hours each day, has not had sufficient mental capcity at the conclusion of his task to do anything but eat and sleep."
+          ]
         },
         {
           "key": "selection:6023c0155a84cbd910fa22ce",
-          "why": "End with the supplied call to consultation and collective responsibility."
+          "why": "End with the supplied call to consultation and collective responsibility.",
+          "shortened": [
+            "The solution calls for the combined application of spiritual, moral and practical approaches. A fresh look at the problem is required, entailing consultation with experts from a wide spectrum of disciplines, devoid of economic and ideological polemics, and involving the people directly affected in the decisions that must urgently be made. It is an issue that is bound up not only with the necessity for eliminating extremes of wealth and poverty but also with those spiritual verities the understanding of which can produce a new universal attitude. Fostering such an attitude is itself a major part of the solution."
+          ]
         }
       ],
       "questions": [
@@ -1279,12 +1615,15 @@
       "id": "9D847C787D6FEA9EBEB20CB63CD11BDC",
       "slug": "familymuhammad",
       "displayTitle": "The family of Muhammad: remembrance, devotion, and spiritual kinship",
-      "introduction": "Names recur here as blessings, testimony, memory, and examples of costly fidelity. Muhammad’s household and companions appear through devotion to Khadíjah and Fátimih, accounts of sacrifice, reverence for ‘Alí and Husayn, and the named succession of Imáms in the Báb’s writings. Yet nearness is not reduced to ancestry: the contrast between Salmán and Abú Lahab asks what faith and conduct make of kinship. The collection draws on prayers, interpretations, letters, and reported stories; its polemical descriptions and disputed historical claims belong to those sources rather than a consensus account of Islamic history. A narration in Sahih Muslim, in which ‘Á’ishah describes Muhammad gathering members of his household beneath a cloak, offers a particularly useful comparison [1]. Reading beside the connected subjects of Muhammad, ‘Alí, Husayn, and religious stories invites attention both to the reverence these figures inspire and to how different forms of remembrance shape spiritual understanding.",
+      "introduction": "Salmán the Persian was a foreigner and a bath attendant; Abú Lahab was of the Prophet’s own tribe. ‘Abdu’l-Bahá sets the two side by side to ask what blood alone can claim, and the answer runs through every remembrance of Muhammad’s family and companions: Khadíjah honoured for her thankfulness in affliction, Fátimih and ‘Alí fasting for their sick sons and giving away the food, Abú Dharr the weeping shepherd, Bilál the slave, Uvays the camel-driver whose line is still honoured after thirteen centuries. Husayn blazes among the Imáms like the sun at dawn, and the Báb, in prayer after prayer, names the twelve successors one by one, so that a list becomes a litany of witness. A narration in Sahih Muslim, where the Prophet draws ‘Alí, Fátimih, Hasan and Husayn beneath his cloak, offers the same reverence in a single gesture [1]. The way continues toward Imám ‘Alí and Imám Husayn, toward Muhammad Himself, and into the stories through which such memory is kept alive.",
       "arc": "Begin with blessing and spiritual kinship, meet exemplary lives and stories, then enter the successive devotional and interpretive testimonies.",
       "order": [
         {
           "key": "source:BH02216",
-          "why": "Open with a blessing on the Prophet, family and faithful companions."
+          "why": "Open with a blessing on the Prophet, family and faithful companions.",
+          "shortened": [
+            "O Lord! Send Thy blessings upon the Lord of Yathrib and Batha, and upon His family and companions who were not prevented by anything whatsoever from helping Thy Cause, O Thou in Whose grasp is the reins of creation."
+          ]
         },
         {
           "key": "source:AB09478",
@@ -1300,11 +1639,18 @@
         },
         {
           "key": "source:ABU1566",
-          "why": "Keep the related reported account in its own wording."
+          "why": "Keep the related reported account in its own wording.",
+          "shortened": [
+            "When Mohamad was living one day his son-in-law Ali, his wife and his two sons kept fast.",
+            "When Mohamad heard the self-sacrifice of his son-in-law, his daughter and his two grand-children he sent them special food and asked them to eat themselves."
+          ]
         },
         {
           "key": "source:AB07810",
-          "why": "Introduce Husayn through the imagery of radiant guidance."
+          "why": "Introduce Husayn through the imagery of radiant guidance.",
+          "shortened": [
+            "Behold the Imams of Guidance - all of them are brilliant stars shining in the supreme horizon, yet the Prince of Martyrs is like the sun of dawn blazing in the Most Glorious Horizon. This is a gift with which God has distinguished him among all humanity."
+          ]
         },
         {
           "key": "source:AB02020",
@@ -1312,11 +1658,17 @@
         },
         {
           "key": "source:AB01177",
-          "why": "Read Uvays as an example of spiritual distinction."
+          "why": "Read Uvays as an example of spiritual distinction.",
+          "shortened": [
+            "Although Uvays was a camel-driver, through faith and certitude on the Day of Manifestation he attained such a station that after thirteen hundred years his lineage is distinguished and honored."
+          ]
         },
         {
           "key": "source:ABU1544",
-          "why": "Consider the honored memory of humble companions."
+          "why": "Consider the honored memory of humble companions.",
+          "shortened": [
+            "Abu Dharr al-Ghifari was outwardly a shepherd, and Abu Ayyub al-Ansari was a lowly man, but because they were companions of the Messenger of God, their descendants still take pride in their names. Aws and Khazraj were two tribes who were companions - one group were the Emigrants who had come with the Blessed Beauty from Mecca to Medina, and one group were the Helpers who were natives of Medina itself."
+          ]
         },
         {
           "key": "source:AB04823",
@@ -1328,7 +1680,10 @@
         },
         {
           "key": "source:AB00793",
-          "why": "Attend to migration, hardship and fidelity."
+          "why": "Attend to migration, hardship and fidelity.",
+          "shortened": [
+            "Just as the companions of the Messenger of God (peace be upon him) in Mecca gave up their homes to plunder and fled as emigrants to Medina, where they spent days in utmost poverty and need. It reached the point in the Battle of the Trench where they had no sustenance except water. The blessed person of the Prophet would tie stones to his blessed belly from intense hunger."
+          ]
         },
         {
           "key": "source:ABU0312",
@@ -1336,11 +1691,18 @@
         },
         {
           "key": "source:ABU0165",
-          "why": "Read the particular story involving Salman."
+          "why": "Read the particular story involving Salman.",
+          "shortened": [
+            "Salman, the Persian, the well-known disciple of Mohamad was at the time in the house as his guest and he was appealed to, to find a means of escape.",
+            "Then he went to Ali, the son-in-law of the prophet and asked him also to tell him something of the sayings of the prophet."
+          ]
         },
         {
           "key": "source:ABU0884",
-          "why": "Keep the difficult reported anecdote in its narrative setting."
+          "why": "Keep the difficult reported anecdote in its narrative setting.",
+          "shortened": [
+            "When he came before the Prophet, who asked what had happened, he submitted, \"In the Qur'an, God has said 'Do not cast yourselves into destruction with your own hands.'"
+          ]
         },
         {
           "key": "source:ABU2666",
@@ -1352,7 +1714,10 @@
         },
         {
           "key": "source:ABU3551",
-          "why": "Explore drama’s educational relation to religious memory."
+          "why": "Explore drama’s educational relation to religious memory.",
+          "shortened": [
+            "\"The drama is of the utmost importance.\" said Abdu'l-Baha. \"It has been a great educational power in the past; it will be so again.\" He described how as a young boy he witnessed the Mystery Play of Ali's Betrayal and Passion, and how it affected him so deeply that he wept and could not sleep for many nights."
+          ]
         },
         {
           "key": "source:ABU1364",
@@ -1368,7 +1733,10 @@
         },
         {
           "key": "source:AB00005",
-          "why": "Encounter the polemical account of suffering and conflict with its source status visible."
+          "why": "Encounter the polemical account of suffering and conflict with its source status visible.",
+          "shortened": [
+            "Fatimih, of whom Muhammad had said \"she is a part of Me, and whoso harmeth her hath harmed Me,\"  mourned disconsolate in her abode until she perished; and the brazen 'Ayishih hastened to battle that unsullied soul  with a brutal and bloodthirsty host, and was honoured by the lines:  \"Thou didst ride a camel; thou didst ride a mule; live long and thou sure wilt ride an elephant too!\""
+          ]
         },
         {
           "key": "source:AB00773",
@@ -1376,7 +1744,10 @@
         },
         {
           "key": "source:ABU0917",
-          "why": "Consider the warning concerning descendants and conduct."
+          "why": "Consider the warning concerning descendants and conduct.",
+          "shortened": [
+            "For instance, consider the role of 'Umar ibn Sa'd ibn Waqqas. He was the son of Sa'd ibn Waqqas who conquered the whole of Iran with his sword. Or Sannan ibn Ans ibn Malik who ranked among the closest companions of the Prophet. How grievously they erred by listening to hearsay."
+          ]
         },
         {
           "key": "source:AB01034",
@@ -1388,7 +1759,10 @@
         },
         {
           "key": "source:BB00151",
-          "why": "Enter the mystical explanation of light and manifestation."
+          "why": "Enter the mystical explanation of light and manifestation.",
+          "shortened": [
+            "He replied: \"A light that hath dawned from the Dawn of Pre-Eternity; its traces gleam upon the frames of unity.\" (That is, he desired Kumayl to know that the stations of theophany of act and its effects are from the eternal dawn; the Sun of pre-eternity is Muhammad; \"its indication\" pointeth to the two Hasans; \"it shone forth\" pointeth to the Imams; and \"the light\" unto Fatimah. The \"frames of unity\" are the Prophets and the successors; its \"effects\" are their station and the station of the Shi'ah.)"
+          ]
         },
         {
           "key": "source:BB00268",
@@ -1396,11 +1770,20 @@
         },
         {
           "key": "source:BH02373",
-          "why": "Widen reflection toward signs evident in all things."
+          "why": "Widen reflection toward signs evident in all things.",
+          "shortened": [
+            "His signs are manifest and evident in all things. Were all the minds of the world to contemplate and reflect upon a single one of His signs, they would prove incapable of describing it. In a single leaf of a tree are inscribed and visible volumes of knowledge and wisdom, and the ocean of creation is apparent and surging.",
+            "And blessings and peace be upon the first sign that shone forth from the horizon of Will and Purpose, and the first Word whereby was adorned the preamble of the Book of Unity and Love - He Who was named Muhammad in the Book of Names and by the Most Beautiful Names in a Tablet which none has seen save God, the Lord of Names and Creator of heaven, and upon His family and companions through whom flowed the rivers of generosity in the world and through whom was made manifest the decree of the Lord of Eternity amongst the peoples - blessings which no understanding or mind can encompass and which none can enumerate."
+          ]
         },
         {
           "key": "source:BB00002",
-          "why": "Read pilgrimage to Husayn in the Báb’s symbolic language."
+          "why": "Read pilgrimage to Husayn in the Báb’s symbolic language.",
+          "shortened": [
+            "And God hath made the pilgrims to Husayn a caravan unto the Sacred Precinct, save by leave of God, the Most High -- and He is God, the Mighty, the Wise.",
+            "These are they who journey in the Mother Book through the mention of the Mystery around the Fire, with truth upon truth, inscribed.",
+            "And if ye deny God after He hath sent down unto you the Remembrance and this Most Great Book, ye shall be inscribed as followers of the tree of Satan in the Book of the Prison, having shown arrogance against God, the Truth."
+          ]
         },
         {
           "key": "source:BH00487",
@@ -1428,7 +1811,10 @@
         },
         {
           "key": "source:BB00209",
-          "why": "Keep the prayer seeking intercession through the chosen ones."
+          "why": "Keep the prayer seeking intercession through the chosen ones.",
+          "shortened": [
+            "O my God! I beseech Thee by Thy truth, I call upon Thee by Thy call, and I seek intercession through Thy chosen ones in Thy kingdom -- Muhammad and 'Ali and Fatimih and Hasan and Husayn and 'Ali and Muhammad and Ja'far and Musa and 'Ali and Muhammad and 'Ali and Hasan and Thy Proof, He Who standeth in Thy place and conveyeth Thy message unto Thy servants -- that Thou shouldst bless them as befitteth Thee and as Thou art worthy, for Thou art the Lord of grandeur and glory, Thou art the Lord of splendor and praise, Thou art the Lord of power and majesty."
+          ]
         },
         {
           "key": "source:BH01692",
@@ -1444,7 +1830,10 @@
         },
         {
           "key": "source:BH02249",
-          "why": "Return to the places honored through the Prophet."
+          "why": "Return to the places honored through the Prophet.",
+          "shortened": [
+            "And prayers and peace be upon him through whom Yathrib was honored and the Hijaz smiled - verily he is the Lord through whom God's power was manifested throughout the lands and among the servants - and upon his family and companions who aided the Faith, holding fast to God's mighty cord, and through them the text of the world was adorned with the beauty of commandments and laws, and the faces of nations with the light of His knowledge in the beginning and the end."
+          ]
         },
         {
           "key": "source:BH02664",
@@ -1468,35 +1857,60 @@
         },
         {
           "key": "source:BB00011",
-          "why": "Read the thirteen souls within this source’s formulation."
+          "why": "Read the thirteen souls within this source’s formulation.",
+          "shortened": [
+            "And Thou didst choose for the manifestation of Thy Beloved's religion and the exaltation of Thy Book thirteen souls, whom Thou didst select for Thyself, and chose them for Thy remembrance, and appointed them for Thy revelation when Thou didst reveal in Thy Book, and Thou didst place them before all Thy creation and raised them above all the dwellers of Thy heaven and earth. Until this day we have believed in this and have had faith in that which Thou didst take from us as a covenant: that there is no God but Thee, and that Muhammad is Thy Beloved, and that Ali, Fatima, Hasan, Husayn, Ali ibn Husayn, Muhammad ibn Ali, Jafar ibn Muhammad, Musa ibn Jafar, Ali ibn Musa, Muhammad ibn Ali, Ali ibn Muhammad, Hasan ibn Ali, and Muhammad ibn Hasan are the successors of Thy Beloved, and that verily the Book is the Qur'an wherein there is no doubt, which was revealed from Thy presence, containing the detailed explanation of all things, and wherein Thou hast revealed the decree of all things in its outward and inward meanings, its beginning and its end, its unseen and its manifest aspects.",
+            "And send Thy blessings, O God, upon Muhammad and the family of Muhammad, the Manifestations of Thy holiness in the hereafter and in the former times."
+          ]
         },
         {
           "key": "source:BB00120",
-          "why": "Retain this complete sequence of names and its distinctive petition."
+          "why": "Retain this complete sequence of names and its distinctive petition.",
+          "shortened": [
+            "And I bear witness to Muhammad, may God's blessings be upon him and his family, and to Ali, Fatima, Hassan, Hussein, Ali, Muhammad, Ja'far, Musa, Ali, Muhammad, Ali, Hassan and Muhammad, with whatever God has willed and loved for them in the knowledge of the unseen, for He is truly the All-Knowing, the All-Powerful."
+          ]
         },
         {
           "key": "source:BB00124",
-          "why": "Keep the related testimony and expected Proof in its own source."
+          "why": "Keep the related testimony and expected Proof in its own source.",
+          "shortened": [
+            "And I bear witness in this Book to Muhammad and 'Ali and Fatimih and Hasan and Husayn and 'Ali and Muhammad and Ja'far and Musa and 'Ali and Muhammad and 'Ali and Hasan and Thy Proof who standeth by Thy Command - Thy blessings be upon them as Thou willest concerning them and as Thy knowledge encompasseth them - for Thou hast created them as the Manifestation of Thy Lordship and the Sign of Thy Oneness and the Station of Thy knowledge, and Thou hast raised the distinction between them and Thee save that they are Thy honored servants who speak not before Him and who act by His command."
+          ]
         },
         {
           "key": "source:BB00138",
-          "why": "Read the successors’ names through divine love and will."
+          "why": "Read the successors’ names through divine love and will.",
+          "shortened": [
+            "And I bear witness to the successors of Thy Beloved Muhammad, may Thy blessings be upon him and his family, as Thou lovest and willest concerning them. And I bear witness that their names with Thee are 'Ali, Hasan, Husayn, 'Ali, Muhammad, Ja'far, Musa, 'Ali, Muhammad, 'Ali, Hasan, and Muhammad."
+          ]
         },
         {
           "key": "source:BB00413",
-          "why": "Join the Messenger’s glad tidings with testimony to the household."
+          "why": "Join the Messenger’s glad tidings with testimony to the household.",
+          "shortened": [
+            "And that Muhammad (peace be upon him) is Thy servant and Messenger whom Thou didst send as a bearer of glad-tidings to all the worlds. And I testify that Ali, Fatima, Hassan, Hussein, Ali, Muhammad, Ja'far, Musa, Ali, Muhammad, Ali, Hassan and Muhammad (God's blessings be upon them) are Thy friends in every condition."
+          ]
         },
         {
           "key": "source:BB00467",
-          "why": "Consider the named figures as guardians in this testimony."
+          "why": "Consider the named figures as guardians in this testimony.",
+          "shortened": [
+            "And I bear witness to Muhammad, Ali, Fatima, Hassan, Hussein, Ali, Muhammad, Ja'far, Musa, Ali, Muhammad, Ali, Hassan, and Muhammad - Thy blessings be upon them all - the Guardians of the Faith and the Pillars of the people of certitude, even as Thou hast testified to them in the knowledge of the unseen and as Thou desirest from Thy servants."
+          ]
         },
         {
           "key": "source:BB00145",
-          "why": "Preserve the further complete declaration of witness."
+          "why": "Preserve the further complete declaration of witness.",
+          "shortened": [
+            "And I bear witness unto Muhammad, Ali, Fatima, Hassan, Hussein, Ali, Muhammad, Ja'far, Musa, Ali, Muhammad, Ali, Hassan and Muhammad - Thy blessings be upon them all - even as Thou didst create them for the station of Thy knowledge and didst make them the manifestations of Thy sovereignty, raising up no distinction between them and the example of Thy revelation within them, save the word of servitude."
+          ]
         },
         {
           "key": "source:BB00493",
-          "why": "Keep this distinct testimony rather than collapsing recurring names."
+          "why": "Keep this distinct testimony rather than collapsing recurring names.",
+          "shortened": [
+            "I bear witness that there is no God but Him, and I bear witness to Muhammad and Ali and Fatima and Hasan and Husayn and Ali and Muhammad and Ja'far and Musa and Ali and Muhammad and Ali and Hasan and Muhammad, the Master of the Command and the Successor, peace be upon them, as God has indicated concerning them."
+          ]
         },
         {
           "key": "source:BB00077",
@@ -1573,24 +1987,36 @@
       "id": "C8C2297FED2AE873B7C3387A09CF2ADB",
       "slug": "waywardfellowship",
       "displayTitle": "Discerning companionship: care, influence, and protective boundaries",
-      "introduction": "Friendship can awaken hope and generosity, but it can also normalize deception, cruelty, or heedlessness. These passages ask readers to notice that formative power and to consider when closeness should give way to protective distance. Their strongest warnings stand beside instructions to show kindness, avoid aggression and backbiting, and help others become more aware. The connected subject of fellowship with all therefore belongs inside the inquiry, while the distinct subject of Covenant-breaking calls for attention to particular religious circumstances. Some letters and reported conversations use severe polemical language, broad group descriptions, or disease analogies; these should not become contemporary medical claims or a license to label whole populations. The Dhammapada’s contrast between discerning companionship and unreflective proximity offers a useful comparison [1]. Read together, the selections make discernment a demanding practice: examining both the influence of others and one’s own motives while seeking forms of relationship that sustain truthfulness, dignity, and love.",
+      "introduction": "There are people whose conversation revives the withered and rescues the doubting, ‘Abdu’l-Bahá observes, and others whose very breath puts out the light of faith; association, He adds, is contagious. That is the whole difficulty of companionship: it forms us whether we intend it or not. Bahá’u’lláh tells the seeker to treasure the company of the righteous and shun the ungodly, and in the same writings commands His followers to consort with the followers of every religion in fragrance and joy and to treat even enemies with love. The two instructions are not in conflict once avoidance is understood rightly. There is a withdrawal that protects, done without harshness, censure or slander, leaving the other in the hand of God; and there is a hostility that is forbidden. The Dhammapada’s advice to walk with an equal or a better, or else alone, and its warning that nearness to the wise is not understanding them, sharpen the same discernment [1]. Severe language in some letters belongs to its own circumstances and licenses no label for whole groups. The road leads toward consorting with all, kindness and love to everyone, and the particular case of avoiding Covenant-breakers.",
       "arc": "Begin with the difference between protective distance and hostility, examine formative influence, and bring severe cautions into conversation with universal kindness.",
       "order": [
         {
           "key": "source:AB02358",
-          "why": "Open with kindness and the distinction between two forms of avoidance."
+          "why": "Open with kindness and the distinction between two forms of avoidance.",
+          "shortened": [
+            "When any of the friends associate with the heedless ones, they should, with utmost kindness and joy, become the cause of their awareness and the means of their remembrance. Avoidance is of two kinds: One kind is to protect the Cause of God, and this should be done with spirit and fragrance, not with harshness and severity. The other kind stems from harshness, and this is not acceptable."
+          ]
         },
         {
           "key": "source:AB08844",
-          "why": "State the command to treat even enemies with love."
+          "why": "State the command to treat even enemies with love.",
+          "shortened": [
+            "We are commanded to deal with the utmost love and kindness even with our enemies, how much more so with friends."
+          ]
         },
         {
           "key": "source:AB00204",
-          "why": "Join vigilance with restraint from aggression and backbiting."
+          "why": "Join vigilance with restraint from aggression and backbiting.",
+          "shortened": [
+            "O ye beloved ones, guard the Cause of God! Let no sweetness of tongue beguile you -- nay, rather consider the motive of every soul, and ponder the thought he cherisheth. Be ye straightway mindful and on your guard. Avoid him, yet be not aggressive! Refrain from censure and from slander, and leave him in the Hand of God."
+          ]
         },
         {
           "key": "source:BH10448",
-          "why": "Recall that religion must not become a cause of hatred."
+          "why": "Recall that religion must not become a cause of hatred.",
+          "shortened": [
+            "From the earliest days until now, this Wronged One's purpose hath been that the religion of God should not become a cause of hatred, and that all should act with and associate with those on earth in a spirit of fragrance and delight, save those souls from whom the odor of malice is diffused - in such case, avoidance is necessary...."
+          ]
         },
         {
           "key": "source:AB05094",
@@ -1606,19 +2032,34 @@
         },
         {
           "key": "source:BH00113",
-          "why": "Introduce companionship as nourishment of the heart."
+          "why": "Introduce companionship as nourishment of the heart.",
+          "shortened": [
+            "Treasure the companionship of the righteous and eschew all fellowship with the ungodly.",
+            "Give ear unto this: Never shall mortal eye recognize the everlasting Beauty, nor the lifeless heart delight in aught but in the withered bloom. For like seeketh like, and taketh pleasure in the company of its kind."
+          ]
         },
         {
           "key": "source:BH00002",
-          "why": "Connect wise company with the discipline of the seeker."
+          "why": "Connect wise company with the discipline of the seeker.",
+          "shortened": [
+            "He should be content with little, and be freed from all inordinate desire. He should treasure the companionship of those that have renounced the world, and regard avoidance of boastful and worldly people a precious benefit."
+          ]
         },
         {
           "key": "source:ABU1295",
-          "why": "Make the life-giving effect of conversation tangible."
+          "why": "Make the life-giving effect of conversation tangible.",
+          "shortened": [
+            "There are persons with whom you associate and converse whose utterances are life-imparting, joy-giving. The withered and faded are refreshed, the joyless become happy, the extinct become enkindled and the lifeless are quickened with the breaths of the Holy Spirit.",
+            "On the other hand there are some persons whose very respiration extinguishes the light of faith; whose conversation weakens firmness and steadfastness in the Cause of God; whose company divert oneis attention from the kingdom of Abha."
+          ]
         },
         {
           "key": "source:AB00739",
-          "why": "Read the contrast between righteous and harmful influence."
+          "why": "Read the contrast between righteous and harmful influence.",
+          "shortened": [
+            "This is why one must avoid the wicked and associate with the righteous.",
+            "In the Persian Hidden Words He states: \"O My son! The company of the ungodly increaseth sorrow, whilst fellowship with the righteous cleanseth the rust from off the heart.\""
+          ]
         },
         {
           "key": "source:AB11147",
@@ -1630,7 +2071,10 @@
         },
         {
           "key": "source:AB02067",
-          "why": "Place the garden of the heart beside the choice of companions."
+          "why": "Place the garden of the heart beside the choice of companions.",
+          "shortened": [
+            "In the Persian Hidden Words it is stated: O Friend! In the garden of the heart plant only flowers of Love, and withdraw not from clinging to the Nightingale of Love and yearning. Esteem the friendship of the just but withdraw both mind and hand from the company of the wicked.\" It is also stated \"O my Son, the company of the wicked increaseth sorrow and the fellowship of the righteous removeth the rust of the mind.\""
+          ]
         },
         {
           "key": "source:AB09837",
@@ -1638,7 +2082,10 @@
         },
         {
           "key": "source:AB09030",
-          "why": "Consider the particular counsel concerning supportive company."
+          "why": "Consider the particular counsel concerning supportive company.",
+          "shortened": [
+            "Deliver the enclosed letter to him and say that the assistance and grace of the Divine Unity is conditional upon and dependent on the fellowship of one or two holy souls with perfect wisdom, and avoidance of heedless, hateful persons."
+          ]
         },
         {
           "key": "source:BH00745",
@@ -1646,11 +2093,17 @@
         },
         {
           "key": "source:AB04527",
-          "why": "Examine the qualities proposed as grounds for trust."
+          "why": "Examine the qualities proposed as grounds for trust.",
+          "shortened": [
+            "Trust no man save him whose breast hath been dilated by God through the light of faith, whom God hath confirmed in His Religion, and who is severed from all else save God and attracted by His Fragrances."
+          ]
         },
         {
           "key": "source:ABU2182",
-          "why": "Distinguish formal acquaintance from dangerous intimacy."
+          "why": "Distinguish formal acquaintance from dangerous intimacy.",
+          "shortened": [
+            "But, if you find a soul whose friendship or association is dangerous, which may perchance be the cause of harm to yourself, you should have only a formal acquaintanceship. Be kind and speak with such people not harshly, but leave them alone; do not mix with them. There are many bad people in the world; have nothing to do with them. Do not gossip about them."
+          ]
         },
         {
           "key": "source:ABU1972",
@@ -1662,15 +2115,24 @@
         },
         {
           "key": "source:BHU0001",
-          "why": "Consider the test of mutual influence over repeated meetings."
+          "why": "Consider the test of mutual influence over repeated meetings.",
+          "shortened": [
+            "And in this connection the Tongue of Grandeur declares that if after associating with a person in three gatherings you observe no effect from you upon him, surely withdraw, for an effect from him upon you will become manifest."
+          ]
         },
         {
           "key": "source:AB00629",
-          "why": "Hear the account of attraction eroded by association."
+          "why": "Hear the account of attraction eroded by association.",
+          "shortened": [
+            "For example, it has often been observed that some souls, with the utmost love and attraction and joy and fragrance, associated with materialists and the morally corrupt and became completely worthless and empty. Even in the Holy Land, the Protestants took one or two youth to their homes under the pretext of teaching language, and arranged some improper circumstances such as mixing with women. They nearly caused them to go completely astray through these means."
+          ]
         },
         {
           "key": "source:ABU0879",
-          "why": "Keep the warning about speech that extinguishes devotion."
+          "why": "Keep the warning about speech that extinguishes devotion.",
+          "shortened": [
+            "In contrast to the above, there are people whose breath will extinguish the fire of devotion, who will turn steadfastness into waywardness and beguile those focused on the Abha Kingdom, which is why it is revealed, \"Do not associate with stonehearted.\""
+          ]
         },
         {
           "key": "source:AB00335",
@@ -1678,15 +2140,25 @@
         },
         {
           "key": "source:ABU2187",
-          "why": "Read the poison analogy as a spiritual comparison."
+          "why": "Read the poison analogy as a spiritual comparison.",
+          "shortened": [
+            "The material men of this world are like poison to the spiritual. They are the calamities and inconveniences which a man meets within the worldly life. They are like people who are very much intoxicated and do not understand the bitter taste of the cup, while the conscientious and mindful understand its bitterness."
+          ]
         },
         {
           "key": "source:ABU1427",
-          "why": "Continue the sensory analogy without making a medical claim."
+          "why": "Continue the sensory analogy without making a medical claim.",
+          "shortened": [
+            "One may live in a place where there are foul odors and not be weakened by that odor, nor become ill, nor contract any sickness or disease. Likewise with heedless souls who harbor ill will and disease toward the Divine Cause and are unmindful of the Truth. When one associates and sits with such souls, one inevitably inhales foul odors which leave their mark.",
+            "One must show utmost love and kindness to the followers of all religions, but if a person is a Baha'i and is of bad character and conduct, one must avoid that person even though he be a Baha'i."
+          ]
         },
         {
           "key": "source:ABU1483",
-          "why": "Consider reputation and conduct together."
+          "why": "Consider reputation and conduct together.",
+          "shortened": [
+            "Ponder upon this and understand what it means. One who associates with evil companions loses his reputation and his good name; from being good he becomes bad, from being virtuous he becomes impure, from being holy he becomes depraved. Do not take example from the vicious, do not permit your-selves to be corrupted by the evil-minded."
+          ]
         },
         {
           "key": "source:ABU1626",
@@ -1698,11 +2170,18 @@
         },
         {
           "key": "source:ABU0793",
-          "why": "Examine the reported children’s example without adopting its group generalization."
+          "why": "Examine the reported children’s example without adopting its group generalization.",
+          "shortened": [
+            "The Iranian children in 'Akka were like angels, but alas, some of them associated with the Arabs or with ill-mannered children. When they argued, all their speech was in Persian, but then they would curse in Arabic since they were not taught similar words in Persian. When they became youth, they associated with non-Baha'is and became totally corrupt. Soon I had no choice but to expel them all.",
+            "Therefore I exhort you to protect your children from the evil influence of the wayward."
+          ]
         },
         {
           "key": "source:ABU0368",
-          "why": "Encounter the forceful comparison concerning deviation."
+          "why": "Encounter the forceful comparison concerning deviation.",
+          "shortened": [
+            "No one can deny the plain fact that the association of those souls who have deviated from the path of rectitude is harmful. Who will advise you to hug a serpent to your breast or keep a scorpion in your sleeve? We must avail ourselves of the association of the righteous and withdraw our hand and mind from the company of the wickedness."
+          ]
         },
         {
           "key": "source:ABU2073",
@@ -1710,11 +2189,17 @@
         },
         {
           "key": "source:AB00024",
-          "why": "Distinguish the particular concern for firmness in the Covenant."
+          "why": "Distinguish the particular concern for firmness in the Covenant.",
+          "shortened": [
+            "In light of these blessed utterances and the words of Christ, it is clear and evident that one must associate with souls who are firm in the Covenant and be intimate with the righteous, for an evil companion causes the contagion of evil character, like unto leprosy where it is impossible for one to associate and be intimate with a leper without contracting the disease. This is for protection and preservation."
+          ]
         },
         {
           "key": "source:AB04007",
-          "why": "Keep the warning about specific disruptive motives."
+          "why": "Keep the warning about specific disruptive motives.",
+          "shortened": [
+            "Beware, beware of meeting or associating with these corrupt souls, for they have no purpose except self and passion, and no intention except sedition and corruption."
+          ]
         },
         {
           "key": "source:BH00715",
@@ -1722,19 +2207,31 @@
         },
         {
           "key": "source:AB02946",
-          "why": "Read the immediate caution in its particular address."
+          "why": "Read the immediate caution in its particular address.",
+          "shortened": [
+            "And whenever you observe anyone who has the slightest unseemly movement or from whom you detect an unholy fragrance, you must absolutely and immediately shun and avoid them, for harm to the Cause of God lies in association with such ones. For certain souls have appeared who are captives to self and passion yet speak the name of Truth. These souls are worse than deadly poison to the Cause of God. Great caution is necessary."
+          ]
         },
         {
           "key": "source:BH03068",
-          "why": "Consider hypocrisy as a specific danger."
+          "why": "Consider hypocrisy as a specific danger.",
+          "shortened": [
+            "And thou, O servant, fear God and associate not with those from whose hearts and souls thou perceivest the winds of hypocrisy, and avoid them and abide under a preserved protection."
+          ]
         },
         {
           "key": "source:BH05298",
-          "why": "Attend to deception through attractive speech."
+          "why": "Attend to deception through attractive speech.",
+          "shortened": [
+            "Beware lest thou consort with the deceitful ones. Turn thy face from their faces and thine ears from their melodies, lest thou shouldst inhale the poisonous fumes from their souls and find thyself far removed from the shore of the sea."
+          ]
         },
         {
           "key": "source:BH01509",
-          "why": "Keep the identification of heedlessness within the demonic imagery."
+          "why": "Keep the identification of heedlessness within the demonic imagery.",
+          "shortened": [
+            "O servants! The world is the abode of demons - keep yourselves from approaching them. The demons are the wayward ones who lie in the sleep of heedlessness with corrupt deeds. Their sleep is sweeter than wakefulness, and their death more attractive than life."
+          ]
         },
         {
           "key": "source:BH02440",
@@ -1754,51 +2251,90 @@
         },
         {
           "key": "source:BH01388",
-          "why": "Hear the particular warning against aversion."
+          "why": "Hear the particular warning against aversion.",
+          "shortened": [
+            "However, it behooveth thee not to turn to those from whom thou perceivest the fragrance of aversion, nor to draw near unto them, nor to associate with them. Thus have We commanded Our servants who have believed in God, the Almighty, the Most Powerful, the All-Wise."
+          ]
         },
         {
           "key": "source:BH01556",
-          "why": "Keep the two selected warnings together in their source."
+          "why": "Keep the two selected warnings together in their source.",
+          "shortened": [
+            "When you see one who is immersed in his desires, listen not to what he says.",
+            "O My creation, behold Me!\" When you detect from anyone the fragrance of aversion, draw not near to him - thus does the Lord of the seen and unseen command you."
+          ]
         },
         {
           "key": "source:BH03987",
-          "why": "Read the differing responses to receptivity and turning away."
+          "why": "Read the differing responses to receptivity and turning away.",
+          "shortened": [
+            "When ye behold those on whose faces shineth the light of the All-Merciful, remind them of this momentous News. And when ye find those who have turned away, avoid them and remain in an impregnable fortress."
+          ]
         },
         {
           "key": "source:BH03221",
-          "why": "Preserve the succinct contrast concerning loved ones and enemies."
+          "why": "Preserve the succinct contrast concerning loved ones and enemies.",
+          "shortened": [
+            "Associate with My loved ones and shun Mine enemies. Thus doth the Pen of might and glory command thee."
+          ]
         },
         {
           "key": "source:BH04392",
-          "why": "Read whispering and rebellion as the passage’s spiritual language."
+          "why": "Read whispering and rebellion as the passage’s spiritual language.",
+          "shortened": [
+            "Unite with the loved ones of God and shun the devils who whisper in the breasts of men and call them to rebellion. By God! They are but in manifest error."
+          ]
         },
         {
           "key": "source:BH06404",
-          "why": "Attend to the specific condition of known hatred."
+          "why": "Attend to the specific condition of known hatred.",
+          "shortened": [
+            "And God's greatest commandment is that association with those souls known for their hatred of the Truth is never permitted. Therefore shun them that you may prosper."
+          ]
         },
         {
           "key": "source:BH09345",
-          "why": "Keep the counsel addressed to the recipient and fellow believers."
+          "why": "Keep the counsel addressed to the recipient and fellow believers.",
+          "shortened": [
+            "We counsel thee and those who have believed in that which hath been sent down in the Book of God, the King of this wondrous Day: Shun those who have turned away and consort with My servants who have turned towards Me."
+          ]
         },
         {
           "key": "source:BH11754",
-          "why": "Observe the stated exception concerning championing the Cause."
+          "why": "Observe the stated exception concerning championing the Cause.",
+          "shortened": [
+            "O Majid!",
+            "Consort not with Mine enemies, nor turn thy attention unto them, save when thou arisest to champion My Cause."
+          ]
         },
         {
           "key": "source:BH11791",
-          "why": "Preserve the source’s unusual wording without silently harmonizing it."
+          "why": "Preserve the source’s unusual wording without silently harmonizing it.",
+          "shortened": [
+            "And if thou findest the people heedless of the Cause and intoxicated with love, turn away from them and set thy face toward God."
+          ]
         },
         {
           "key": "source:BB00510",
-          "why": "Consider the passage’s distinction concerning accompanying others."
+          "why": "Consider the passage’s distinction concerning accompanying others.",
+          "shortened": [
+            "Draw not nigh unto those who have wronged lest their torment touch thee, for they have no life in them. Walk with them toward thy goal, for this is permitted to the believers in the Book of God.\""
+          ]
         },
         {
           "key": "source:BH04391",
-          "why": "Close linked readings with examination of love within one’s own heart."
+          "why": "Close linked readings with examination of love within one’s own heart.",
+          "shortened": [
+            "And if thou findest in thy heart My love, then cleave unto it; otherwise, keep aloof therefrom and be of those who turn aside."
+          ]
         },
         {
           "key": "selection:79f304cd7382b93cb93ec9dd",
-          "why": "Read the supplied report’s distinction between harms to oneself and to others."
+          "why": "Read the supplied report’s distinction between harms to oneself and to others.",
+          "shortened": [
+            "Question: 'How should one associate with people of bad character?'",
+            "There are certain evils whose consequences affect the doer only and do not extend to others. Of course, with discretion and tact, we must try to warn and educate wrongdoers. They are sick; we must bring healing to them. But there are actions which are injurious to others. Association with persons who commit such deeds leads to a deterioration of morals and therefore to mingle with them is not advisable, except for persons of perfect integrity, who can also impart education."
+          ]
         },
         {
           "key": "selection:9bcaed5a7a6bea78066d3f1f",

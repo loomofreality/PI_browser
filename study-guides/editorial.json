@@ -9,12 +9,15 @@
       "id": "05E420B98BD2E4B67D13B89EF7D1AFDF",
       "slug": "beauty",
       "displayTitle": "Beauty, grace, and aesthetics",
-      "introduction": "Beauty can arrest our attention in a moment; these passages ask what could make it deepen over a lifetime. Bahá’u’lláh begins with the attraction of outward beauty and directs attention toward the beauty expressed in deeds, speech, and spiritual qualities. ‘Abdu’l-Bahá places the fragility of physical loveliness beside an inward radiance capable of continual growth, and identifies faith as a source of that radiance. Read alongside the neighboring subjects of cleanliness and artistic creativity, this movement invites care for both character and the forms through which it becomes perceptible: a gracious encounter, a tended garden, a thoughtfully made object. Plato’s account of an ascent from bodily beauty toward beauty of soul offers a fruitful comparison [1]; here, the emphasis falls on a life whose conduct attracts and nourishes others. The invitation is to cultivate a beauty that time can enrich, and to discover how love changes what we learn to see.",
+      "introduction": "Beauty draws us before we know why. Bahá’u’lláh observes that even one ray of the divine name the Beautiful shining in a person attracts hearts and minds, and then insists that inner beauty has a power a thousand times greater. ‘Abdu’l-Bahá speaks frankly of physical loveliness as a play of water and color upon dust and stone, so fragile that a little discord among the elements turns its grace to disgrace and sends its admirers away. Against that impermanence stands a radiance that can grow, and He names its source plainly: the light of faith is the essence of beauty and the true grace of humankind. Plato too imagined a lover climbing from bodily beauty toward beauty of soul [1], though here the ascent is lived out in conduct that attracts and nourishes others. To seek such beauty is to tend one’s character as carefully as a garden. The path continues into cleanliness and refinement, into the courtesy that gives grace a social form, and into the simplicity that lets inward light show through.",
       "arc": "Begin with the attraction of beauty, confront its impermanence, and end with the inward source of a beauty that can grow.",
       "order": [
         {
           "key": "source:BH03182",
-          "why": "The direct invitation to observe beauty provides the most immediate entrance. Its movement from attraction to conduct gives the reader a question to carry forward."
+          "why": "The direct invitation to observe beauty provides the most immediate entrance. Its movement from attraction to conduct gives the reader a question to carry forward.",
+          "shortened": [
+            "Observe outer beauty: if but one ray from the divine name \"the Beautiful\" is manifested in a person, hearts and minds are seen to be attracted. But by the life of God! The power and might of inner beauty is a thousand times greater and more glorious. Blessed is the soul that hath attained this most exalted station. Whosoever acteth according to and is adorned with goodly deeds, pure words and spiritual qualities - such a one possesseth inner beauty in the sight of God, exalted be His glory."
+          ]
         },
         {
           "key": "source:AB08855",
@@ -61,7 +64,7 @@
       "id": "24036FC18E7148F7B77AFAD9C5485720",
       "slug": "knowledge",
       "displayTitle": "Four methods of acquiring knowledge",
-      "introduction": "Certainty is easy to feel and harder to justify. These passages invite us to examine the instruments with which we judge reality: sense perception, reason, received religious testimony, and inward inspiration. Their images of light and faulty balances turn an abstract problem into a personal inquiry: how do we recognize the limits of the very faculties on which recognition depends? Philosophical debates about perception, reason, and testimony offer a neighboring conversation [1]. Within this compilation, some accounts emphasize the agreement of several criteria, while others locate certitude in the confirmations of the Holy Spirit or the illumination of the inmost heart. Reading them together invites patient attention to these different emphases. The adjacent topics of independent investigation and intuition deepen the challenge: freedom from inherited prejudice must be accompanied by scrutiny of our own inward impressions. The reader is left with a demanding possibility—that spiritual receptivity and intellectual humility might strengthen one another as we learn how to seek.",
+      "introduction": "Sight takes a mirage for water and a whirling point for a circle; reason, trusted by the philosophers of every age, has never brought two of them to agree; scripture must be understood by the same fallible mind; and an inward prompting may come from the All-Merciful or from a whisper of the lower self, with no label to tell them apart. ‘Abdu’l-Bahá names these four balances, the senses, reason, tradition and inspiration, as the only instruments by which human beings weigh the truth of anything, and then shows each of them bending. The honesty of that diagnosis is the beginning of real seeking. Philosophers have long argued over perception, reason and testimony in their own terms [1], and His account reaches further: a conclusion that every balance confirms may be trusted, and beyond them all lies the inmost heart, lit by the confirmations of the Holy Spirit, where certitude is found. To know how we know is to be freed to answer the call to acquire knowledge, to honour the sciences without idolising them, and to see why the intellect has limits it cannot see on its own.",
       "arc": "Open with light and perception; establish the available methods; unsettle easy confidence; then place converging evidence and spiritual assurance in conversation.",
       "order": [
         {
@@ -74,11 +77,18 @@
         },
         {
           "key": "source:ABU0608",
-          "why": "Let the reader meet the different approaches to knowledge before examining their limitations. Begin the unlinked quotations with a recognizable map of the methods, preserving this separately supplied wording."
+          "why": "Let the reader meet the different approaches to knowledge before examining their limitations. Begin the unlinked quotations with a recognizable map of the methods, preserving this separately supplied wording.",
+          "shortened": [
+            "There are four means of knowledge. Among scientists and philosophers a method of attaining knowledge is through the senses, principally through observation. Light shows us that light exists. Reality is limited to the perceptible thing; all that is not perceptible is subject to doubt.",
+            "Among the ancient philosophers the infallible way to knowledge was through logic. The different schools of logic weighed everything in the scales of cold scholasticism. As to religious people their criterion has ever been the sacred text which must be accepted as final. One is not allowed the slightest reflection. \"The word of God,\" they say, \"is truth.\" Inspiration is the fourth criterion. Occultists say, \"I have had a revelation. This truth has been revealed to me.\" For them everything outside direct revelation is viewed with doubt. So we have indicated the four criterions: the senses, reason, the sacred text, inspirations. There is no fifth."
+          ]
         },
         {
           "key": "source:ABU0251",
-          "why": "Add a related formulation, including its use of revelation, to encourage attention to differences in terminology."
+          "why": "Add a related formulation, including its use of revelation, to encourage attention to differences in terminology.",
+          "shortened": [
+            "Knowledge is measured by four things, viz., first, sensation (that is, the things understood by the five senses); second, reason; third, revelation; fourth, inspiration."
+          ]
         },
         {
           "key": "source:AB00223",
@@ -90,23 +100,43 @@
         },
         {
           "key": "source:ABU0029",
-          "why": "Focus the challenge on perception and reason before considering all four criteria together."
+          "why": "Focus the challenge on perception and reason before considering all four criteria together.",
+          "shortened": [
+            "The criterion of perception among the philosophers of the West is sense. Their opinion is that whatsoever is sensible is real; that is, in that which is perceived by the senses there is neither doubt nor uncertainty.",
+            "But among the philosophers of the East---especially the philosophers of Greece and Persia---the criterion of perception hath been reason; and their proof is this: sense is liable to error, and, since it erreth, it cannot be called a perfect criterion."
+          ]
         },
         {
           "key": "source:ABU0004",
-          "why": "Introduce the constructive proposal that several forms of evidence can test a conclusion together."
+          "why": "Introduce the constructive proposal that several forms of evidence can test a conclusion together.",
+          "shortened": [
+            "Consequently, it has become evident that the four criteria or standards of judgment by which the human mind reaches its conclusions are faulty and inaccurate. All of them are liable to mistake and error in conclusions. But a statement presented to the mind accompanied by proofs which the senses can perceive to be correct, which the faculty of reason can accept, which is in accord with traditional authority and sanctioned by the promptings of the heart, can be adjudged and relied upon as perfectly correct, for it has been proved and tested by all the standards of judgment and found to be complete."
+          ]
         },
         {
           "key": "source:ABU0648",
-          "why": "Develop the proposal of convergence while introducing a distinction between human confidence and the Holy Spirit. Keep this parallel extract beside the related account and preserve its explicit pilgrim-note attribution."
+          "why": "Develop the proposal of convergence while introducing a distinction between human confidence and the Holy Spirit. Keep this parallel extract beside the related account and preserve its explicit pilgrim-note attribution.",
+          "shortened": [
+            "Our conclusion must, therefore, be that none of these standards for the determination of truth is worthy of implicit confidence; and man has no other means for reaching a true understanding.",
+            "Yet if the conclusion declared by all four of these standards be the same, it is worthy of confidence. Then we may be assured that the common report is correct. Otherwise we cannot be sure.",
+            "Yet there is another standard which is the peculiar possession of the Chosen of God. This standard is the breathings of the Holy Spirit. By that power assurance is produced, man becomes certain, and the consciousness is satisfied."
+          ]
         },
         {
           "key": "source:ABU0300",
-          "why": "Let the question of how knowledge is attained become explicit and urgent."
+          "why": "Let the question of how knowledge is attained become explicit and urgent.",
+          "shortened": [
+            "Briefly then, these four criteria according to the declarations of men are: first, sense perception; second, reason; third, traditions; fourth, inspiration.",
+            "Briefly, the point is that in the human material world of phenomena these four are the only existing criteria or avenues of knowledge, and all of them are faulty and unreliable. What then remains? How shall we attain the reality of knowledge? By the breaths and promptings of the Holy Spirit, which is light and knowledge itself. Through it the human mind is quickened and fortified into true conclusions and perfect knowledge."
+          ]
         },
         {
           "key": "source:AB00207",
-          "why": "Introduce the inmost heart as a bridge to the final, more developed account. End with the fullest exploration of the balances and the inmost heart, leaving discernment as an active question."
+          "why": "Introduce the inmost heart as a bridge to the final, more developed account. End with the fullest exploration of the balances and the inmost heart, leaving discernment as an active question.",
+          "shortened": [
+            "Verily, inspiration indicateth certain inclinations of the heart. And the whisperings of Satan are also inclinations which arrive successively upon the heart by the agency of the soul. If there occureth to the heart a certain idea or question, how is it to be known whether it is an inspiration of the All-Merciful or a whispering of Satan? Therefore, it is evident that all of balances current among the people are defective and their conclusions are unreliable. Nay, they are confused dreams, doubts, and idle fancies that neither allay the sore athirst nor appease the seeker of knowledge ['irfan].",
+            "As for the true, divine balance which never strayeth, and which ever comprehendeth the universal realities and the sublime inner meanings, it is the balance of the inmost heart [mizanu'l-fu'ad], of which God hath made mention in the blessed verse. It is an effulgence of the brilliant lights of the Divine Outpouring, the secret of the All-Merciful, the manifestation of sincere faith, and the lordly sign."
+          ]
         }
       ],
       "questions": [
@@ -155,16 +185,23 @@
       "id": "B5CA8DC45DCC48AABFC267FC9214C6E2",
       "slug": "cooperation",
       "displayTitle": "Need for cooperation; solitary existence not possible",
-      "introduction": "A lamp in an empty room offers a searching image of unused capacity: its light needs a relationship in which to become a gift. From that intimate starting point, these passages widen the field of attention to fellowship, work, the exchange between communities, and the interdependence of nations. They distinguish the cooperation compelled by material necessity from the willing service that engages heart and soul. Read beside the subjects of the struggle for existence and the conduct of believers, dependence becomes an ethical question: how shall we live within relationships that already sustain us? Paul’s image of a body whose members share one another’s suffering offers a resonant comparison [1]; the Bahá’í horizon here extends toward the unity of the human family. The closing passages widen reciprocity still further, into thought, feeling, and understanding. They invite us to ask what becomes possible when another person’s flourishing enters into our understanding of our own.",
+      "introduction": "Light is of no value in an empty room, ‘Abdu’l-Bahá says, and a tree on a mountain top shades no one; the point of a capacity is the relationship in which it becomes a gift. A tree can stand alone on a prairie and a hawk can soar alone, but a human being left solitary in the wilderness will starve, and from that plain fact he draws an ethic. The carpenter who makes a chair for his wages already serves the social body, and that compulsory cooperation is good; help given for God’s sake from heart and soul is better. To care only for oneself is the propensity of the sheep that goes on grazing while the flock is slaughtered, whereas a human being was made to be fair, merciful and unwilling to prosper while others suffer. The circle widens from village to city to country, until no nation can be self-sufficient and the unity of mankind becomes possible. Paul’s image of a body whose members suffer and rejoice together [1] speaks to the same interdependence from another setting. At its furthest reach, reciprocity extends to thoughts, feelings and understanding. The inquiry continues into competition and cooperation, the struggle for existence, the interconnectedness of all things, and the question monasticism raises about living apart.",
       "arc": "Start with an unforgettable image of useful light; move through fellowship and willing service; broaden into social responsibility, world interdependence, and reciprocity of mind and heart.",
       "order": [
         {
           "key": "source:ABU1794",
-          "why": "The empty room and the inaccessible tree turn an abstract principle into an immediate human question: who benefits from our capacities?"
+          "why": "The empty room and the inaccessible tree turn an abstract principle into an immediate human question: who benefits from our capacities?",
+          "shortened": [
+            "People must live for one another and not live in seclusion as the monks and nuns. People should not live solitary lives. Light is of no value in an empty room. A tree is of no service to anyone on the summit of a mountain, but should be in a place where it can give shade and where its fruits may be gathered."
+          ]
         },
         {
           "key": "source:AB11082",
-          "why": "Keep this separately catalogued version adjacent, preserving both source identities and allowing comparison in context."
+          "why": "Keep this separately catalogued version adjacent, preserving both source identities and allowing comparison in context.",
+          "shortened": [
+            "People must live for one another, and not live in seclusion as do the monks and nuns.",
+            "The believers should be together as much as possible."
+          ]
         },
         {
           "key": "source:AB02048",
@@ -172,7 +209,10 @@
         },
         {
           "key": "source:ABU0885",
-          "why": "Introduce the important difference between necessary economic cooperation and willing service of heart and soul."
+          "why": "Introduce the important difference between necessary economic cooperation and willing service of heart and soul.",
+          "shortened": [
+            "Other animals can live in the wilderness, and beasts can dwell in the forests, but humans must live collectively, and social existence is impossible except through cooperation and mutual aid, especially genuine cooperation and mutual assistance that comes from heart and soul. Even compulsory cooperation is good - for example, one who makes this chair is compelled to do so for his livelihood, but in any case it is assistance to the social body. He who farms, he who plants this tree - these too assist the world of humanity, but that cooperation and mutual aid which is for God and in God is divine, it is voluntary, that is good."
+          ]
         },
         {
           "key": "source:ABU0448",
@@ -180,15 +220,26 @@
         },
         {
           "key": "source:AB00446",
-          "why": "Expand the field from association within a species to reciprocal relationships across created life. Finish by extending reciprocity into minds, feelings, and understanding, opening the discussion beyond material exchange."
+          "why": "Expand the field from association within a species to reciprocal relationships across created life. Finish by extending reciprocity into minds, feelings, and understanding, opening the discussion beyond material exchange.",
+          "shortened": [
+            "Hence it was stated that co-operation and reciprocity are essential properties which are inherent in the unified system of the world of existence, and without which the entire creation would be reduced to nothingness.",
+            "And thus when contemplating the human world thou beholdest this wondrous phenomenon shining resplendent from all sides with the utmost perfection, inasmuch as in this station acts of co-operation, mutual assistance and reciprocity are not confined to the body and to things that pertain to the material world, but for all conditions, whether physical or spiritual, such as those related to minds, thoughts, opinions, manners, customs, attitudes, understandings, feelings or other human susceptibilities."
+          ]
         },
         {
           "key": "source:AB00362",
-          "why": "Draw out mutual aid as a foundation of life and a principle to cultivate deliberately."
+          "why": "Draw out mutual aid as a foundation of life and a principle to cultivate deliberately.",
+          "shortened": [
+            "The foundation of life and existence is cooperation and mutual aid, whereas the cause of annihilation and deterioration is the cessation of aid and assistance. The higher the realm of existence, the stronger and more vital this weighty matter of cooperation and assistance doth become."
+          ]
         },
         {
           "key": "source:ABU0042",
-          "why": "Raise the ethical stakes: dependence entails concern for the distress of others. Retain the source’s separated paragraphs and explicit omission marks."
+          "why": "Raise the ethical stakes: dependence entails concern for the distress of others. Retain the source’s separated paragraphs and explicit omission marks.",
+          "shortened": [
+            "On the contrary, man cannot live singly and alone. He is in need of continuous cooperation and mutual help. For example, a man living alone in the wilderness will eventually starve. He can never, singly and alone, provide himself with all the necessities of existence. Therefore, he is in need of cooperation and reciprocity.",
+            "To look after one's self only is therefore an animal propensity. It is the animal propensity to live solitary and alone. It is the animal proclivity to look after one's own comfort. But man was created to be a man -- to be fair, to be just, to be merciful, to be kind to all his species, never to be willing that he himself be well off while others are in misery and distress -- this is an attribute of the animal and not of man."
+          ]
         },
         {
           "key": "source:ABU0987",
@@ -196,15 +247,26 @@
         },
         {
           "key": "source:ABU0057",
-          "why": "Bring cooperation into conversation with altruism and the religious purpose of unity."
+          "why": "Bring cooperation into conversation with altruism and the religious purpose of unity.",
+          "shortened": [
+            "The supreme need of humanity is cooperation and reciprocity. The stronger the ties of fellowship and solidarity amongst men, the greater will be the power of constructiveness and accomplishment in all the planes of human activity. Without cooperation and reciprocal attitude the individual member of human society remains self-centered, uninspired by altruistic purposes, limited and solitary in development like the animal and plant organisms of the lower kingdoms.",
+            "A tree can live solitary and alone, but this is impossible for man without retrogression. Therefore, every cooperative attitude and activity of human life is praiseworthy and foreintended by the will of God."
+          ]
         },
         {
           "key": "source:ABU0404",
-          "why": "Widen the scale step by step, from villages to cities to countries, keeping overlapping selections together."
+          "why": "Widen the scale step by step, from villages to cities to countries, keeping overlapping selections together.",
+          "shortened": [
+            "But this is impossible for man. In his life and being cooperation and association are essential. Through association and meeting we find happiness and development, individual and collective.",
+            "For instance, when there is intercourse and cooperation between two villages, the advancement of each will be assured. Likewise, if intercommunication is established between two cities, both will benefit and progress. And if a reciprocal basis of agreement be reached between two countries, their individual and mutual interests will find great development."
+          ]
         },
         {
           "key": "source:AB00143",
-          "why": "Give the linked sequence its broadest horizon: world interdependence makes a new degree of unity possible."
+          "why": "Give the linked sequence its broadest horizon: world interdependence makes a new degree of unity possible.",
+          "shortened": [
+            "For none is self-sufficiency any longer possible, inasmuch as political ties unite all peoples and nations, and the bonds of trade and industry, of agriculture and education, are being strengthened every day. Hence the unity of all mankind can in this day be achieved. Verily this is none other but one of the wonders of this wondrous age, this glorious century. Of this past ages have been deprived, for this century -- the century of light -- hath been endowed with unique and unprecedented glory, power and illumination."
+          ]
         },
         {
           "key": "source:ABU0866",

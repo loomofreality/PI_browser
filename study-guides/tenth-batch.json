@@ -5,12 +5,15 @@
       "id": "9FA6AD866A4C4579AB7D06AFE744DE67",
       "slug": "twinpillars",
       "displayTitle": "Interpretation and legislation: the twin pillars",
-      "introduction": "How can a religious community remain faithful to a revealed text while responding to circumstances the text does not explicitly address? These readings approach that question through two distinct functions: authoritative interpretation and legislation. They place both within a covenant of trust, then explain why elucidation arising from legislation differs from an interpretation that states the meaning of scripture. Alongside this distinction stands another, between the corporate work of elected bodies and the service of the learned. Acts describes an early Christian community deliberating over a new question through testimony and scripture [1]. The comparison opens inquiry into continuity and change without identifying its arrangements with Bahá’í institutions. Neighboring discussions of priestcraft and civil government help clarify why spiritual authority, individual learning, and political power require separate attention.",
+      "introduction": "Abase not the learned, Bahá’u’lláh warns, and belittle not the rulers who administer justice; they are His trustees. From that respect grows the architecture of the Bahá’í Covenant, in which ‘Abdu’l-Bahá places the Guardian and the Universal House of Justice alike under the unerring protection of God and declares that whatever they decide is of God. The two functions are kept carefully apart. Authoritative interpretation, the Guardian’s domain, states what the revealed Word means and cannot be amended; legislation, the House of Justice’s domain, says what must be done in cases the Book leaves open, and its elucidations may be revised by the House itself. Beside that distinction stands another, between the corporate decisions of elected bodies and the individual service of the learned, the Hands, Counsellors and teachers. The apostles and elders in Acts, weighing testimony and scripture to settle what Gentile believers owed [1], show an earlier community facing the same need to answer new questions faithfully, in a very different institutional setting. The path leads on to the House of Justice and to Shoghi Effendi and the Guardianship.",
       "arc": "Begin with respect for learning and just leadership, enter the covenantal framework, and distinguish the functions through which continuity and adaptation are served.",
       "order": [
         {
           "key": "source:BH00223",
-          "why": "Open with a concise call to respect learning and justice."
+          "why": "Open with a concise call to respect learning and justice.",
+          "shortened": [
+            "Abase not the station of the learned in Baha and belittle not the rank of such rulers as administer justice amidst you."
+          ]
         },
         {
           "key": "source:BH00003",
@@ -18,7 +21,10 @@
         },
         {
           "key": "source:AB00001",
-          "why": "Read the covenantal foundation of the two institutions."
+          "why": "Read the covenantal foundation of the two institutions.",
+          "shortened": [
+            "The sacred and youthful branch, the Guardian of the Cause of God, as well as the Universal House of Justice, to be universally elected and established, are both under the care and protection of the Abha Beauty, under the shelter and unerring guidance of the Exalted One (may my life be offered up for them both). Whatsoever they decide is of God."
+          ]
         },
         {
           "key": "selection:fe0c2bd36ba3f55a93962f02",
@@ -58,7 +64,11 @@
         },
         {
           "key": "selection:d8174fcdf4503c808506703c",
-          "why": "Identify the different forms of service included among the learned."
+          "why": "Identify the different forms of service included among the learned.",
+          "shortened": [
+            "...the beloved Guardian wrote on 4 Nov. 1931: 'In this holy cycle the 'learned' are, on the one hand, the Hands of the Cause of God, and, on the other, the teachers and diffusers of His teachings who do not rank as Hands, but who have attained an eminent position in the teaching work. As to the 'rulers' they refer to the members of the Local, National and International House of Justice.",
+            "\"The Hands of the Cause of God, the Counsellors and the members of the Auxiliary Boards fall within the definition of the 'learned' given by the beloved Guardian. Thus they are intimately interrelated and it is not incorrect to refer to the three ranks collectively as one institution."
+          ]
         },
         {
           "key": "selection:a1ff9063172bc27451d56497",
@@ -101,7 +111,7 @@
       "id": "75A9D94E0E8246BB9A1ABA6AC13D6E04",
       "slug": "churchstate",
       "displayTitle": "Religion and government: responsibilities and horizons",
-      "introduction": "The relationship between spiritual conviction and public power becomes especially demanding when a faith envisions the transformation of society. This collection places the distinction between temporal affairs and religious doctrine beside statements about constitutional obedience, non-partisanship, and possible future forms of government. Its varied settings matter: a provisional translation, reported conversation, and composite supplied extracts cannot be read as though they were a single constitutional blueprint. Matthew’s account of the question about tribute to Caesar provides a primary comparison of obligations to God and civil authority [1]. Read with the twin pillars and the critique of priestcraft, these passages invite patient examination of the difference between serving a society, administering a religious community, and exercising the powers of a state.",
+      "introduction": "God looks upon the hearts of His servants, Bahá’u’lláh writes, and everything else, land and sea, ornament and colour, He has left to kings and rulers. That division of attention sets the terms for thinking about religion and government. ‘Abdu’l-Bahá calls religion the spirit of life and government the power of salvation, a sun and a vernal cloud that need each other, and in the same breath insists that religion belongs to the realm of spirit while politics belongs to the body, so that religious leaders should train souls and stay out of affairs of state. Bahá’ís are to obey the constitutions and laws of their countries, to stand apart from partisan politics, and never to seek the powers of government; whatever a future society might choose by constitutional means is left to that future. The sources differ in kind, a provisional translation, a pilgrim’s note, a composite of citations, and none of them is a blueprint. Jesus, shown a coin and asked about tribute, distinguished what is owed to Caesar from what is owed to God [1], a question that still has no complete constitutional answer. The subject leads on to the two kinds of civilisation, material and spiritual, to religion understood as reality, and to the means by which a future civilisation is to be built.",
       "arc": "Begin by distinguishing kinds of responsibility, read the restraints governing present conduct, and only then approach statements about distant institutional possibilities.",
       "order": [
         {
@@ -110,11 +120,18 @@
         },
         {
           "key": "source:BH01333",
-          "why": "Introduce the image of hearts belonging to God and worldly protection entrusted to rulers."
+          "why": "Introduce the image of hearts belonging to God and worldly protection entrusted to rulers.",
+          "shortened": [
+            "God, exalted be His glory, hath ever gazed and continueth to gaze upon the hearts of His servants. All else - whether of land or sea, ornaments or colors - He hath relinquished to kings, sovereigns and rulers, for the banner of \"He doeth what He willeth\" hath ever shone resplendent before His Manifestation. That which is necessary today is obedience to government and adherence to wisdom. In truth, the reins of preservation, tranquility and assurance outwardly lie within the grasp of governmental authority."
+          ]
         },
         {
           "key": "source:AB00011",
-          "why": "Compare the complementary roles described in the supplied provisional translation."
+          "why": "Compare the complementary roles described in the supplied provisional translation.",
+          "shortened": [
+            "To return to our theme: Religion is as the spirit of life, and government as the power of salvation. Religion is as the shining sun, and government as the vernal cloud. These two brilliant stars, like the twin stars of heaven, cast their radiance upon the peoples of the world. One illumines the realm of the soul, while the other transforms the expanse of earth into a garden.",
+            "The meaning is that these two mighty signs are like milk and honey, two celestial figures, each the helper and supporter of the other. Thus, to demean one is to betray the other, and to be negligent in obeying one is to rebel against the other."
+          ]
         },
         {
           "key": "source:ABU0130",
@@ -134,7 +151,11 @@
         },
         {
           "key": "selection:b244986c0fe55e0981570e1c",
-          "why": "Retain the composite extract with its varied references and translation notices."
+          "why": "Retain the composite extract with its varied references and translation notices.",
+          "shortened": [
+            "Religion has no jurisdiction or involvement in political matters, for religion is related to spirits and to ecstasy, while politics relates to the body. Therefore the leaders of religions should not be involved in political matters, but should busy themselves with rectifying the morals of the community. ... They teach the [religious] sciences, but they have no involvement with political matters, for all time. Baha'u'llah has commanded this. In the Gospels it is said, \"Render to Caesar what is Caesar's, and to God what is God's.\"",
+            "(Abdu'l-Baha, A Traveler's Narrative, 86-88) \"The ninth [teaching of Baha'u'llah]: religion is separated from politics: religion does not enter into political matters, in fact, it is linked with the hearts, not with the world of bodies. The leaders of religion should devote themselves to teaching and training the souls and propagating good morals, and they should not enter into political matters.\""
+          ]
         },
         {
           "key": "selection:202b9d76fba0c3fc9eed266b",
@@ -193,7 +214,7 @@
       "id": "DDEEC1B26F36E7A24978B407110501F7",
       "slug": "primogeniture",
       "displayTitle": "The eldest son: inheritance and interpretation",
-      "introduction": "A few words about inheritance can open large questions about language, family, and the limits of an excerpt. These four readings distinguish the eldest surviving son from all male descendants, identify particular property associated with that position, and preserve a reported statement about an owner’s freedom to distribute property. Their brevity makes close reading essential: they are selections about specific questions, not a complete account of Bahá’í inheritance law. Deuteronomy’s protection of a firstborn son against a father’s preference for another wife’s child offers a different legal setting for comparison [1]. Alongside the twin pillars and context-sensitive discussions of social practice, the collection asks how precise interpretation changes what a rule appears to mean and what remains to be learned from its larger framework.",
+      "introduction": "Inheritance touches some of the most tender ground in family life: what parents owe their children, what a home means, and how fairness is kept among brothers and sisters. ‘Abdu’l-Bahá, asked about the share of the firstborn, explains that the term means the eldest of the surviving sons, so that if the eldest dies the next takes his place, and that the family dwelling with its dependencies passes to him. Pressed about entailed estates in England, He answered without waiting for translation that a person may dispose of his own property as he wishes, and that an heir is free in turn to divide it. Deuteronomy, in another age, protected a firstborn son against a father’s favour for a younger wife’s child [1]. Such provisions are small pieces of a larger whole and ask for careful understanding before conclusions are drawn. They lead naturally into the wider law of inheritance, the bonds between parents and children, and the life of families.",
       "arc": "Start with the interpretive problem, clarify the meaning of eldest, move to the property described, and finish with the separately supplied report about discretion.",
       "order": [
         {
@@ -210,7 +231,11 @@
         },
         {
           "key": "source:ABU0699",
-          "why": "End with the reported statement about disposal of property, retaining its supplied attribution."
+          "why": "End with the reported statement about disposal of property, retaining its supplied attribution.",
+          "shortened": [
+            "Then Dr. Esslemont asked a question about entailed estates in England, explaining in detail how some property is set aside for some purpose and then increases very much in value, but cannot be touched and that these entailed estates are handed down from one person to another intact, to the eldest son.",
+            "He said: \"In accordance with Baha'u'llah's Teachings, a Baha'i can give all his property to his eldest son. He may do just as he likes. As long as it is his own property he may do as he wishes. One's property cannot be snatched by another. There is one difference, however; when a, Baha'i leaves all to his eldest son, the eldest son in turn may break the line and divide as he wants to-according to Baha'u'llah's method, or as he wishes.\""
+          ]
         }
       ],
       "questions": [
@@ -248,7 +273,7 @@
       "id": "7A3285F9D060E1FFC9B67CEF57102DA7",
       "slug": "veiling",
       "displayTitle": "Veiling: inward freedom, learning, and circumstance",
-      "introduction": "A veil can be a garment, a social restriction, or a barrier continually woven by the mind. Moving among these meanings, the readings place Ṭáhirih’s courage beside a woman’s resolve to serve, criticism of restrictions on learning, and counsel attentive to local danger and custom. The differences among these historical statements make their occasions and forms of transmission central to interpretation. The Qur’án addresses the gaze and modesty of both men and women, with further instructions concerning women’s adornment [1] [2]; reading both verses broadens comparison beyond clothing alone. Beside the interpretation of law and the critique of outward religious status, this collection invites inquiry into agency, education, chastity, and wise action without turning historically situated remarks into a uniform contemporary dress prescription.",
+      "introduction": "Some veils are torn away once and are gone, ‘Abdu’l-Bahá observes; others the mind weaves again as fast as they are torn. Veiling in the Bahá’í writings moves among those meanings: a garment, a social restriction, an inner barrier. A woman writes that she sits concealed behind the screen of modesty and longs to raise the banner of service; ‘Abdu’l-Bahá answers that the veil has kept Eastern women from education and that chastity, though necessary, must never bar the acquiring of virtues, recalling ‘Á’ishah answering questions in public. Ṭáhirih went forth unveiled like a lioness, and Bahá’u’lláh remembered her at His door. Yet the same voice counsels that covering must suit each country’s conditions, that an Iranian veil in America would draw stones and an unveiled face in Tehran would draw worse, until the Cause is proclaimed. The Qur’án addresses the gaze of believing men before it addresses women’s adornment [1] [2], so that modesty is a shared responsibility rather than a dress code for one sex. The road continues into Islamic law and jurisprudence, into the critique of Eastern values, and into culture.",
       "arc": "Open with the inward veil, hear the desire to serve and learn, and then approach the relation between a courageous public act and counsel sensitive to circumstance.",
       "order": [
         {
@@ -257,31 +282,53 @@
         },
         {
           "key": "source:AB03615",
-          "why": "Hear a woman’s aspiration to service within the restrictions described."
+          "why": "Hear a woman’s aspiration to service within the restrictions described.",
+          "shortened": [
+            "With a firm heart, a steadfast step and an eloquent tongue arise to spread the Word of God and say: \"O God, although I am sitting concealed behind the screen of chastity and am restricted by the veil and exigencies of modesty, my cherished hope is to raise the banner of service and to become a maidservant at Thy Holy Threshold; to ride on a charger and penetrate the army of the ignorant, defeat the mighty regiments and subvert the foundations of error and violation."
+          ]
         },
         {
           "key": "source:ABU1604",
-          "why": "Bring education and the acquisition of virtues into the center of the question."
+          "why": "Bring education and the acquisition of virtues into the center of the question.",
+          "shortened": [
+            "The veil of women prevents education and learning. The religious scholars went to extremes in this matter, even considering it impermissible to hear women's voices. Yet it is established that Aisha, who was the consort of the Prophet, would sit and people would ask her questions which she would answer.",
+            "Chastity is necessary and self-control is very important, but not to the degree that it prevents education and learning, for the Law of God establishes virtues - they should not be prevented from acquiring virtues."
+          ]
         },
         {
           "key": "source:ABU0086",
-          "why": "Encounter the courage attributed to Ṭáhirih’s action."
+          "why": "Encounter the courage attributed to Ṭáhirih’s action.",
+          "shortened": [
+            "This rigid veiling is unspeakable. Qurratu'l-Ayn tore off her veils and went forth fearlessly. She was like a lioness. Her action caused a great turmoil throughout the land of Persia. So excessive and compulsory is the requirement for veiling in the East that the people in the West have no idea of the excitement and indignation produced by the appearance of an unveiled woman. Qurratu'l-Ayn lost all thought of herself and was unconscious of fear in her attraction to God."
+          ]
         },
         {
           "key": "source:BHU0003",
-          "why": "Retain the reported encounter and its unfinished supplied wording for review."
+          "why": "Retain the reported encounter and its unfinished supplied wording for review.",
+          "shortened": [
+            "Tahirih sent a request to call upon Us. We were surprised at her message, and were at a loss as to what We should reply. Suddenly We saw her at the door, her face unveiled before Us. How well has Mirza Aqa Jan commented upon that incident. 'The face of Fatimih,' he said, 'must needs be revealed on the Day of Judgment and appear unveiled before the eyes of men. At that moment the voice of the Unseen shall be heard saying: \"Turn your eyes away from that which ye have seen."
+          ]
         },
         {
           "key": "source:AB03342",
-          "why": "Read the extended explanation of differing local conditions."
+          "why": "Read the extended explanation of differing local conditions.",
+          "shortened": [
+            "Now, covering and veiling in every country must be according to what is suitable for that country's conditions, so that it does not cause commotion and upheaval. There is no doubt that in Iran, according to the requirements of the time, the face must be hidden, but in America a light veil suffices. If someone were to observe Iranian-style covering and veiling there, children would chase them in the streets and markets, and might even stone them. Therefore, now in each place one must act according to the requirements of the time so that no alarm and distress arises and no mischief and corruption occurs, until such time as the Cause of God is proclaimed."
+          ]
         },
         {
           "key": "source:AB06692",
-          "why": "Consider the importance assigned to consultation and guidance in a specific setting."
+          "why": "Consider the importance assigned to consultation and guidance in a specific setting.",
+          "shortened": [
+            "As for the matter of the veil, such important issues must be referred to 'Abdu'l-Baha. There is no more important matter than this in Iran at present. America and Europe have different requirements, and Tehran now has different requirements. All of Iran must follow the Holy Land in such matters, as this accords with wisdom."
+          ]
         },
         {
           "key": "source:AB08760",
-          "why": "Attend to the concern that an action could be used for harmful purposes."
+          "why": "Attend to the concern that an action could be used for harmful purposes.",
+          "shortened": [
+            "Show utmost love and kindness to his respected sister and tell her that regarding the veil, what flowed from the Pen of the Covenant you now see was pure wisdom, and the Yahya'is were making the removal of the veil the greatest means of corruption."
+          ]
         },
         {
           "key": "source:AB04972",
@@ -341,7 +388,7 @@
       "id": "2E899D7A2A2DE9B09ABA9A4160C9D3F8",
       "slug": "crosstrinity",
       "displayTitle": "The cross and the Trinity: unity, image, and encounter",
-      "introduction": "A sun reflected in mirrors offers one way to approach how divine unity can be expressed through more than one appearance. Other readings explore fire and iron, the giver and recipient of grace, and recurring relationships in several religious dispensations. These images stand beside forceful objections to limitation of the divine and an uncomfortable story of a dispute over the cross. The Catholic Catechism supplies a necessary comparative voice: it distinguishes divine persons while affirming one undivided divine nature [1]. Its account and the Bahá’í explanations should each be heard in their own terms. Read beside the Christian clergy and religious recognition, the collection invites precision about theological difference and reflection on the manner in which that difference is discussed.",
+      "introduction": "The Father, ‘Abdu’l-Bahá explains, is the Sun of Truth, and the Son and the Holy Spirit are two mirrors in which that one Sun appears without ever descending from its station. The picture answers a difficulty that has perplexed Christian thinkers from the beginning: how three can be one when, as He states plainly, three cannot become one nor one three. Other images follow, the iron that glows in the fire and may say I am fire, and the recurring pattern in every age of a giver of grace, a gift, and a recipient, visible with Moses on Sinai and with Muhammad as much as with Christ. The Báb speaks more severely, rejecting any reading of the cross that would confine the divine nature within limits, and one account of a believer baiting a priest over the cross he wore shows how a clever argument can land as an insult on a person’s devotion. The Catechism gives the other side its own voice, affirming one undivided nature while distinguishing the persons by their relations [1]; hearing each account in its own terms is the beginning of honest conversation. The wider field of Christian doctrine and practice lies just beyond.",
       "arc": "Begin with illuminating analogies, explore their recurring relationships, approach the explicit disagreements, and examine how a theological exchange can affect another person.",
       "order": [
         {
@@ -358,19 +405,32 @@
         },
         {
           "key": "source:ABU2625",
-          "why": "Read the separately reported comparison among religious dispensations."
+          "why": "Read the separately reported comparison among religious dispensations.",
+          "shortened": [
+            "Apropos of someone asking a question he gave the explanation that in every dispensation three persons are mentioned. In the Mosaic dispensation there was Jehovah, the burning bush and Moses. In the Christian time we had Christ, the holy-Spirit and the Father. In Islam we have Mohamad, Gabriel and Allah."
+          ]
         },
         {
           "key": "source:ABU2649",
-          "why": "Add the account that includes Abraham and the Mosaic setting."
+          "why": "Add the account that includes Abraham and the Mosaic setting.",
+          "shortened": [
+            "In the time of Moses, the ides of the Trinity was shown in (1) God, (2) the speaker of Mount Sinai, and (3) The Fire (which corresponds to our idea of the Holy Spirit). In the time of Abraham, this thought was represented by Abraham, the Angels, and God."
+          ]
         },
         {
           "key": "source:AB00952",
-          "why": "Encounter the explicit difficulty posed in the discussion of three and one."
+          "why": "Encounter the explicit difficulty posed in the discussion of three and one.",
+          "shortened": [
+            "O thou seeker after Truth!",
+            "The question of the Trinity, since the time of His Holiness Christ until now, is the belief of the Christians, and to the present time all the learned among them are perplexed and confounded. All have confessed that the question is beyond the grasp of reason, for three cannot become one, nor one three."
+          ]
         },
         {
           "key": "source:ABU0356",
-          "why": "Follow an extended reported argument and its sea-and-cup illustration."
+          "why": "Follow an extended reported argument and its sea-and-cup illustration.",
+          "shortened": [
+            "All those who came in the days of Christ have been unable to explain the trinity to make it agree with the unity. St. John ( the gold-mouthed) was one day walking and thinking how he could combine unity and trinity. He came upon a little boy who was sitting by the sea, having a small cup in his hand. St. John asked what He was going to do and he said he was going to put all the water of the sea in it. Just as impossible to combine trinity and unity."
+          ]
         },
         {
           "key": "source:BB00216",
@@ -386,11 +446,17 @@
         },
         {
           "key": "source:AB00460",
-          "why": "Return to the constructive relation between the giver, gift, and recipient of grace."
+          "why": "Return to the constructive relation between the giver, gift, and recipient of grace.",
+          "shortened": [
+            "But as to the question of the Trinity, know, O advancer unto God, that in each one of the cycles wherein the Lights have shone forth upon the horizons (i. e., in each prophetic dispensation) and the Forgiving Lord hath revealed Himself on Mount Paran (see Habbakkuk 3:3, etc.) or Mount Sinai, or Mount Seir (see Ezekiel 35), there are necessarily three things: The Giver of Grace, and the Grace, and the Recipient of the Grace; the Source of the Effulgence, and the Effulgence, and the Recipient of the Effulgence; the Illuminator, and the Illumination, and Illuminated."
+          ]
         },
         {
           "key": "source:BB00364",
-          "why": "Retain the supplied metaphysical passage and its polemical conclusion."
+          "why": "Retain the supplied metaphysical passage and its polemical conclusion.",
+          "shortened": [
+            "Glorified be God, the All-Knowing, Who hath fashioned things by the art of choice in a manner worthy of the wondrous lights: by the Will -- the secret of possibilities; by the Purpose -- the hidden core of existents; and by Decree -- He ordained the triune marking for the sake of the sign of delimitation. From this did the Christians take the form of the cross and the notion of the indwelling of lahut in nasut. The Beloved hath informed of their corrupted consciences, and the Christians said, \"God is the third of three,\" though He is but One God -- exalted be He above that which they associate!"
+          ]
         }
       ],
       "questions": [
@@ -429,20 +495,30 @@
       "id": "4D5490992BA8448D9D69A7F746351B89",
       "slug": "priestcraft",
       "displayTitle": "Religious office and the responsibility to serve",
-      "introduction": "A camel carrying turbans becomes an arresting test of how easily a sign of learning can be mistaken for learning itself. These readings press beyond clothing to the uses of religious power: monopolizing knowledge, defending privilege, resisting inquiry, and allowing worldly ambition to eclipse service. Their criticism is severe, but the collection also acknowledges exemplary figures and ends by placing the work of care and spiritual encouragement upon every believer. James offers a Christian criterion of wisdom recognizable in gentleness, mercy, and the fruits of conduct [1]. Beside the twin pillars and the Christian clergy, the question becomes how a community can value knowledge and guidance while preventing office, reputation, or inherited status from replacing the qualities those forms are meant to serve.",
+      "introduction": "A hat, Bahá’u’lláh warns, is no proof of ignorance, and a turban no proof of knowledge; ‘Abdu’l-Bahá adds that the humble man in a congregation may know more of God than the cleric ordained to teach him. The warning is not against learning but against what office does to it: the self-seeking leaders who gathered every right and power to themselves, the profit in upholding inherited imitations, the denunciation of science when it disturbs old superstitions, the papal government that forgot Christ once worldly sovereignty was secured, and the meddling in politics that made whole peoples resentful of religion itself. There were blessed souls among the Popes too, especially in the early centuries, and the criticism is careful to say so. James gives a test any community can apply to its teachers: wisdom shows in gentleness, mercy and the fruits of conduct [1]. With no priestly caste, the work of care and encouragement rests in every believer’s hands. The journey continues into the independent investigation of truth, the end of confession to a human intermediary, and the paring away of ritual so that reality itself can be seen.",
       "arc": "Begin with the difference between appearance and capacity, trace the injuries of self-serving authority, and finish with the responsibility for service shared by every believer.",
       "order": [
         {
           "key": "source:ABU1249",
-          "why": "Open with the image that exposes the limits of judging by dress."
+          "why": "Open with the image that exposes the limits of judging by dress.",
+          "shortened": [
+            "They even considered the garb of the learned as a sign of piety and devotion, and took outward appearance as evidence of good character. They became sources of sedition and corruption in the verses of revelation.",
+            "That is why the Blessed Beauty said: \"Not every hat is a sign of ignorance, nor every turban a mark of knowledge. How many a hat has raised high the banner of knowledge, and how many a turban has cast down the law of God. If human excellence were measured by turbans, then the camel that carries a thousand turbans would have to be counted among the most learned of scholars.\""
+          ]
         },
         {
           "key": "source:ABU2599",
-          "why": "Ask whether an office guarantees deeper knowledge than a humble listener possesses."
+          "why": "Ask whether an office guarantees deeper knowledge than a humble listener possesses.",
+          "shortened": [
+            "A clergy, assuming that he is ordained to his ministry he may think that he knows more about God, while the humble man in his congregation may know more. This sacerdotal and theological position makes many a clergy proud and haughty!"
+          ]
         },
         {
           "key": "source:ABU0722",
-          "why": "Identify the concentration of rights and powers as a central concern."
+          "why": "Identify the concentration of rights and powers as a central concern.",
+          "shortened": [
+            "The religions of the past have fallen into decay on account of self-seeking leaders who in the course of time appropriated all the rights and powers unto themselves and looked down contemptuously upon the rest of their co-religionists as ignorant and deprived of the knowledge of God."
+          ]
         },
         {
           "key": "source:ABU0761",
@@ -458,11 +534,17 @@
         },
         {
           "key": "source:BH05298",
-          "why": "Consider the encouragement offered to one intimidated by scholarly prestige."
+          "why": "Consider the encouragement offered to one intimidated by scholarly prestige.",
+          "shortened": [
+            "Then know thou thyself to be more learned than those who have not entered the stronghold of My Cause, lest the pride of the turbaned ones who have disbelieved and associated partners with God cause thee to slip."
+          ]
         },
         {
           "key": "source:AB03573",
-          "why": "Retain the sharp rebuke in its particular supplied context."
+          "why": "Retain the sharp rebuke in its particular supplied context.",
+          "shortened": [
+            "He has posed a question in the manner of the divines. Glory be to God! If only such souls possessed the understanding of even a lowly student in those filthy schools."
+          ]
         },
         {
           "key": "source:ABU1902",
@@ -470,11 +552,17 @@
         },
         {
           "key": "source:AB00256",
-          "why": "Read the historical criticism alongside its acknowledgment of blessed souls."
+          "why": "Read the historical criticism alongside its acknowledgment of blessed souls.",
+          "shortened": [
+            "Among the Popes there have indeed been some blessed souls who followed in the footsteps of Christ, particularly in the early centuries of the Christian era when earthly means were lacking and heaven-sent trials were severe. But when the means of temporal sovereignty were secured, and worldly honour and prosperity were obtained, the papal government entirely forgot Christ and occupied itself with earthly dominion and grandeur, with material comforts and luxuries. It put people to death, opposed the diffusion of learning, persecuted men of science, obstructed the light of knowledge, and gave the order to slay and to pillage."
+          ]
         },
         {
           "key": "source:ABU0931",
-          "why": "Keep the reported judgment about an individual distinct from a general principle."
+          "why": "Keep the reported judgment about an individual distinct from a general principle.",
+          "shortened": [
+            "When asked concerning the station of the \"Pope\" who recently departed this life, he answered: \"His condition there, in the world of spirit, is the same as it was here. While here, his eyes were not opened to the real spiritual light, neither did he comprehend the real Truth of god. Thus, when he left the earth, his spiritual eyes were not opened, neither his spiritual ears. He occupied a great and exalted station in this world, inasmuch as he was chosen and elected by men to be a mediator between them and God."
+          ]
         },
         {
           "key": "source:ABU3675",
@@ -486,7 +574,10 @@
         },
         {
           "key": "source:ABU3038",
-          "why": "Hear the charge of division measured against a teaching of unity."
+          "why": "Hear the charge of division measured against a teaching of unity.",
+          "shortened": [
+            "The Christian Church with its hierarchy of clerics has reversed Christ's and Paul's teaching of unity."
+          ]
         },
         {
           "key": "source:ABU3057",
@@ -494,11 +585,17 @@
         },
         {
           "key": "source:BH10203",
-          "why": "Preserve the emphatic supplied warning about dependence on a cleric."
+          "why": "Preserve the emphatic supplied warning about dependence on a cleric.",
+          "shortened": [
+            "Let thine abode be under the stone,\nbut seek not the shelter of the cleric."
+          ]
         },
         {
           "key": "source:ABU2150",
-          "why": "Approach the rejection of inherited titles and ordination as measures of worth."
+          "why": "Approach the rejection of inherited titles and ordination as measures of worth.",
+          "shortened": [
+            "The Blessed Perfection has uptorn the root of the tree of superstitions and religious offices. In the past the ambitious leaders of religions have been the cause of the retrogression and ignorance of a nation. In this Cause there are no religious titles, no ceremonies of ordination. One is not respected simply because he wears a peculiar dress or carries a religious title or has inherited it from the Fathers."
+          ]
         },
         {
           "key": "selection:e342ac8d017a9a6ef7cdcf17",
@@ -545,7 +642,7 @@
       "id": "03AC86CF18154B14AB43126BC79D41F8",
       "slug": "christianclergy",
       "displayTitle": "Christian ministry and the example of Christ",
-      "introduction": "An address asking that a minister receive the utmost kindness opens a collection often unsparing in its criticism of clergy. Its central measure is the life of Christ: humility, sacrifice, and freedom from prejudice are set beside displays of wealth, claims to exclusive knowledge, and hostility to others. The contrast invites self-examination by anyone entrusted with religious influence, while the differing forms of these writings and reported remarks remain important to their reading. Mark’s account of Jesus locating greatness in service gives the comparison a voice from within the Gospel itself [1]. Beside priestcraft and the recognition of a new revelation, these passages ask how ministry can make a teacher’s life more visible, and what happens when reverence for an office obscures the example it invokes.",
+      "introduction": "Show the reverend the utmost kindness, ‘Abdu’l-Bahá writes, and tell him to become a heavenly clergyman, free of prejudice, an intimate companion of Christ. The invitation sets the tone for criticism that is otherwise unsparing. Ordained ministers are many, confirmed ones few; Christ, hungry in the wilderness, grieved no heart, while the Pope rides in a gilded carriage; and in the cardinal’s procession ‘Abdu’l-Bahá watched pass by, He saw a crown of jewels where Christ wore thorns, brocade where Christ wore rags, applause where Christ met abuse, a pulpit where Christ had a cross. The measure throughout is the life of the Teacher the office invokes, and missionary colleges that teach contempt for a student’s parents, or clergy who recite scripture like parrots, fail that measure as surely as wealth does. Jesus telling His disciples that greatness among them means service, with His own self-giving as the pattern [1], speaks from inside the Gospel to the same point. Anyone with religious influence is asked how far their conduct has drifted from what they profess. From here the way leads to Christ and Christianity, and to Bahá’u’lláh’s proclamation to the religious leaders of the world.",
       "arc": "Begin with a generous invitation to a minister, establish Christ as the measure, examine the failures described, and return to the demand that discipleship take practical form.",
       "order": [
         {
@@ -554,7 +651,10 @@
         },
         {
           "key": "source:ABU2053",
-          "why": "Distinguish holding a ministry from the spiritual confirmation described."
+          "why": "Distinguish holding a ministry from the spiritual confirmation described.",
+          "shortened": [
+            "Ordained Ministers are many, confirmed Ministers are few. During the days of Christ there were many Rabbis and high-priests but none of them was confirmed except Paul. All of them were deprived but he became the confirmed King of the ministers."
+          ]
         },
         {
           "key": "source:ABU3201",
@@ -566,19 +666,32 @@
         },
         {
           "key": "source:ABU1262",
-          "why": "Enter the extended comparison of two kinds of procession."
+          "why": "Enter the extended comparison of two kinds of procession.",
+          "shortened": [
+            "In Christ's divine ceremony, He had a crown, but it was made of thorns, while this cardinal wears a crown adorned with lustrous jewels. Christ had garments, but they were torn, while in this ceremony, the cardinal's robe is made of the finest brocade. In that ceremony, those that followed Christ were the object of [people's] contempt and abuse, while those that were with cardinal walked in great honor, pomp and glory.",
+            "Christ's procession was the manifestation of humility, reverence, hardship, spirituality and divine attraction, while the cardinal's is the display of might, wealth and power. Christ's throne was upon a cross, while this cardinal's place is upon a much adorned pulpit."
+          ]
         },
         {
           "key": "source:ABU3671",
-          "why": "Read the parallel account that contrasts self-sacrifice with personal comfort."
+          "why": "Read the parallel account that contrasts self-sacrifice with personal comfort.",
+          "shortened": [
+            "Christ wore a crown, albeit one of thorns; this cardinal also wears a crown, but his is studded with gleaming gems. Christ wore clothing, though it was badly tattered; this cardinal, too, wears clothes, but his are made of silk and gold. One had a cross for His kingly seat, while the other has a golden altar and throne. One gave His life to edify humankind, while the other uses the means and lives of people to secure his own glory and comfort."
+          ]
         },
         {
           "key": "source:ABU0289",
-          "why": "Measure religious claims against the disciples’ example."
+          "why": "Measure religious claims against the disciples’ example.",
+          "shortened": [
+            "Many of such Ministers, priests and clergy are unable to breathe even one breath of the disciples, how much more to walk in their footsteps."
+          ]
         },
         {
           "key": "source:AB08374",
-          "why": "Consider the distinction between reciting words and understanding their meaning."
+          "why": "Consider the distinction between reciting words and understanding their meaning.",
+          "shortened": [
+            "But as for those Jewish doctors, Christian priests and monks who read them - verily, they know only the letter, uttering the words like parrots, without understanding their inner meanings."
+          ]
         },
         {
           "key": "source:ABU1512",
@@ -586,11 +699,17 @@
         },
         {
           "key": "source:ABU1363",
-          "why": "Attend to the role of prejudice in refusing another interpreter a hearing."
+          "why": "Attend to the role of prejudice in refusing another interpreter a hearing.",
+          "shortened": [
+            "I told them, you may go first to your own ministers and clergy and ask this question from them, for they look upon the Easterners as heathens, unbaptized, unregenerated, unconfirmed and unordained while they consider themselves as the heirs and joint-heirs of the Kingdom of God and well-informed of the mysteries of Holy Writ; hence they are not willing to accept our interpretation quite readily.'"
+          ]
         },
         {
           "key": "source:AB01237",
-          "why": "Read the criticism of entanglement with political influence."
+          "why": "Read the criticism of entanglement with political influence.",
+          "shortened": [
+            "When the government lost its influence, naturally the influence of the clergy did not remain either. \"They destroy their houses with their own hands and the hands of the believers.\" If they had intelligence, their benefit lay in the strength of the government's influence, but they did not understand and cast themselves into this trap and snare. Now their blessed beards are caught and no strategy remains, and they cannot bear the humiliation. This is why their cries of \"O Valley! O Sacred Law!\" reach to the ethereal sphere."
+          ]
         },
         {
           "key": "source:ABU2985",
@@ -606,7 +725,10 @@
         },
         {
           "key": "source:ABU1677",
-          "why": "Retain the separate account of ceremony, including its supplied omission."
+          "why": "Retain the separate account of ceremony, including its supplied omission.",
+          "shortened": [
+            "Christ opened the gate of heaven; this cardinal is going to open that of a church. Christ had a crowd following Him but they were there to hurl contempt and abuse at Him. This cardinal had a crowd with him but they are there to help. Christ had a crown but it was made of thorns, while this cardinal wears a crown set with lustrous jewels. Christ had clothes but they were made of old, coarse cloth, while this man's robe is made of the finest brocade of the day. Christ spent His days in sorrow, while this cardinal's days are spent in security and comfort. Christ's home was a desert, while this cardinal's home is a splendid building, like that of a king."
+          ]
         },
         {
           "key": "source:AB00553",
@@ -653,7 +775,7 @@
       "id": "C4984637D6BEEC4DAFE3870A9B894F83",
       "slug": "christianrejection",
       "displayTitle": "Recognition, expectation, and the life of faith",
-      "introduction": "Can loyalty to a sacred promise make it harder to recognize its fulfillment? These readings present the Bahá’í claim that reverence for Christ and recognition of Bahá’u’lláh belong together, then examine the obstacles attributed to literal expectation, inherited membership, and attachment to religious prestige. The recurring contrast between a name and a living spirit brings the question close to every reader’s habits of faith. In John, Jesus challenges listeners to consider whether the scriptures they trust are drawing them toward the life to which they testify [1]. Read beside the Christian clergy and explanations of divine manifestation, this compilation invites scrutiny of one’s own expectations. Its historical polemics express a particular religious perspective; they should not become generalized judgments about Christians or Jews.",
+      "introduction": "The Pharisees took Christ for an enemy of Moses; ‘Abdu’l-Bahá observes that many Christians have taken Bahá’u’lláh for an enemy of Christ, though He proclaimed Christ’s glory far and wide and ‘Abdu’l-Bahá proved it in a synagogue. Devotion to a promise, it seems, can make its fulfilment harder to see. Expecting stars to fall and a Christ to descend from a heaven that is not a place, the heirs of a revelation may miss the One who, like Jesus born of Mary, comes from heaven by appearing on earth. The deeper contrast is between a name and a living spirit: missionaries with hospitals and schools may have the machine without the power that moved the first apostles. In John, Jesus asks whether the scriptures people trust are leading them to the life those scriptures promise [1]. These are arguments from within a particular faith, not verdicts on Christians or Jews, and they end in reverence: souls and hearts offered in devotion to Christ and Muhammad. The way leads on to Christ and Christianity themselves, to the trap of literal interpretation, and to the proclamation addressed to Christians.",
       "arc": "Open with the affirmation of Christ, examine interpretive barriers and the difference between name and spirit, and finish with the devotion expressed beneath the controversy.",
       "order": [
         {
@@ -674,7 +796,11 @@
         },
         {
           "key": "source:ABU0378",
-          "why": "Follow the extended reported discussion of heavenly signs and the coming of Christ."
+          "why": "Follow the extended reported discussion of heavenly signs and the coming of Christ.",
+          "shortened": [
+            "Just what the Jews did in the time of Jesus, the Christians are doing now. They are looking for the prophecies of Jesus to be fulfilled according to the letter, and are expecting the stars to fall from the heavens, before His coming, - yet their own men of science have proved that the sun is infinitely larger than the earth, and also many of the stars.",
+            "Jesus who said, \"I came from heaven\", appeared from a place called Nazareth, and from His mother, Mary, - in such wise, then, must we expect His second appearance to be."
+          ]
         },
         {
           "key": "source:ABU1434",
@@ -686,11 +812,17 @@
         },
         {
           "key": "source:ABU0560",
-          "why": "Approach the reported interpretation of a promise concerning the Spirit."
+          "why": "Approach the reported interpretation of a promise concerning the Spirit.",
+          "shortened": [
+            "It is clearly shown from the thirteenth verse of this chapter that the Christians are mistaken in believing that these promises speak of the descent of the Holy Spirit. Only a man can be indicated by the thirteenth verse, and from the fifteenth we see that He is to be a Manifestation of the Spirit from the same source."
+          ]
         },
         {
           "key": "source:ABU0737",
-          "why": "Pause over the image of stored water and a newly flowing spring."
+          "why": "Pause over the image of stored water and a newly flowing spring.",
+          "shortened": [
+            "When his holiness Christ appeared, the Jews said: 'We have enough water in our vases. We do not need the fountain of Christ. We have been blessed with many prophets during the Jewish history. These prophets have been the divine Cup-bearers. We have quaffed the pure water from their hands. Are we going to run after this new spring?'"
+          ]
         },
         {
           "key": "source:AB00759",
@@ -706,15 +838,26 @@
         },
         {
           "key": "source:BH00089",
-          "why": "Read the forceful judgment alongside its acknowledgment of exceptions."
+          "why": "Read the forceful judgment alongside its acknowledgment of exceptions.",
+          "shortened": [
+            "Concerning what you wrote about certain followers of Christ - may the spirit of the worlds be sacrificed for Him - after it was presented before the Most Holy Court, He said: \"Today Christ is hastening and speaking in the desert of longing, yet His followers are seen to be deprived, save whom God willeth. It is very difficult for those souls to turn to the Most Exalted Horizon and to be detached from what they possess in favor of what God possesseth. Most of those souls are observed to be like the people of the Qur'an, manifesting vain imaginings, speaking of vain imaginings, and returning to vain imaginings."
+          ]
         },
         {
           "key": "source:AB04160",
-          "why": "Consider the account that contrasts outward resources with the spread of faith."
+          "why": "Consider the account that contrasts outward resources with the spread of faith.",
+          "shortened": [
+            "Behold the signs of God's power: A group of Christian missionaries turned toward that remote area for successive years and persisted in their call, clinging to great means such as schools, educational institutions and hospitals, and fulfilled the hopes of those with influence through the expenditure of funds. Yet until now they have not succeeded in spreading their message, and not a single Muslim man or woman has entered their fold.",
+            "But for this mighty Cause and momentous matter, despite storms and tempests, hurricanes and thunderbolts of tests and trials, people are entering into it in troops throughout all regions - east and west, south and north."
+          ]
         },
         {
           "key": "source:ABU1592",
-          "why": "Explore the longer narrative about spiritual power and teaching."
+          "why": "Explore the longer narrative about spiritual power and teaching.",
+          "shortened": [
+            "For the last ninety years the Western missionaries have gone to Orumieh. They have built schools, hospitals and other charitable institutions in order to convert people to so-called Christianity but during all this time they have not been able to attract one soul. This is because they have the machine but not the spirit.",
+            "The most efficient capital of the Baha'i teacher is the divine power. Through that alone he can conquer the cities of the hearts."
+          ]
         },
         {
           "key": "source:AB03738",
@@ -726,7 +869,10 @@
         },
         {
           "key": "source:ABU0592",
-          "why": "End with an explicit statement of reverence for Christ and Muḥammad."
+          "why": "End with an explicit statement of reverence for Christ and Muḥammad.",
+          "shortened": [
+            "Our souls, our hearts, our spirits are sacrificed in devotion to Christ's station and Muhammad's station. We long to give our lives in Their path, while these souls flee at the slightest adversity and become utterly averse if they encounter the least restriction."
+          ]
         }
       ],
       "questions": [

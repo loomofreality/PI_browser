@@ -5,16 +5,22 @@
       "id": "5DC49AA51AAA48EFACCCC2272661585B",
       "slug": "writingsauthentication",
       "displayTitle": "Preserving the writings: care for the words entrusted to us",
-      "introduction": "A single misplaced mark can change a meaning; a repeated story can acquire an authority it never possessed. These readings make the care of sacred writings a matter of trust, joining reverence with comparison, correction, documentation, and responsible transmission. They also reveal the human labor behind a growing collection: scribes working under pressure, couriers carrying letters, readers requesting copies, and decisions about printing, safekeeping, and access. Reports of disputed custody and alteration remain in their historical voices; instructions concerning publication belong to their stated circumstances. Second Thessalonians 3:17–18 offers a primary comparison through a handwritten greeting presented as a distinguishing sign in a letter [1]. Connected subjects of transcription, collection, discrepancies, and translation invite readers to ask how devotion can deepen precision, and how accurate attribution protects both the integrity of a text and the freedom to understand what it actually says.",
+      "introduction": "One wrong letter in a word, and the treatise must be corrected; a Tablet someone claims to have received must be produced, signed in ‘Abdu’l-Bahá’s own hand, before anyone believes it. Such exactness treats the Writings as a trust. The verses came, by the amanuensis’s own account, faster than any pen could follow, twelve hundred in an hour, his hand moving of itself, and dispatched without being compared, so that when printing was contemplated no one could tell which variants were revealed and which were scribal. Hence the labour that follows: copies checked against Zayn’s handwriting, correct versions sent out to replace faulty ones, Tablets read again in Bahá’u’lláh’s presence, boxes of papers carried, lost, withheld or recovered, and at the end the promise that the House of Justice would gather the Sacred Writings and scrutinise them. Paul closes a letter to the Thessalonians with a greeting in his own hand as the token by which his letters may be known, a recognisably similar concern [1]. From here the path runs to the transcription and collection of the Writings, the discrepancies that honest copies preserve, and the questions of translation and publication through which the words reach new readers.",
       "arc": "Begin with evidence and careful comparison, follow the work of recording and transmitting revelation, then consider preservation, publication, and responsible reading.",
       "order": [
         {
           "key": "source:ABU2573",
-          "why": "Keep the reported handwriting and amanuensis evidence in its attributed historical setting."
+          "why": "Keep the reported handwriting and amanuensis evidence in its attributed historical setting.",
+          "shortened": [
+            "In a Tablet from the Bab to Yahya and written in Yahya's own handwriting, he is directed by the Bab to ascertain God's intention by asking Siyyid Husayn, the amanuensis."
+          ]
         },
         {
           "key": "source:AB04820",
-          "why": "Open with a clear criterion for attributed statements."
+          "why": "Open with a clear criterion for attributed statements.",
+          "shortened": [
+            "Thou hast asked regarding the contribution toward the education of the children of the school of Tarbiat. Cooperation and mutual assistance are the basis of the religion of God. The East must assist the West and the West must assist the East. Whosoever quotes any thing from my tongue ask him an authority either with my pen or with my signature. If he has such an authority in his hand all right, if he has no such authority do not give importance to traditions. Keep always this as a criterion in view."
+          ]
         },
         {
           "key": "source:AB11274",
@@ -34,15 +40,24 @@
         },
         {
           "key": "source:BH01306",
-          "why": "Read the distinction between revealed variation and scribal error."
+          "why": "Read the distinction between revealed variation and scribal error.",
+          "shortened": [
+            "Many of the copies made by scribes differed from one another. Now people know not which variations from the Most Holy Court were revealed as such, and which arose from the scribes' inattention. What hath been revealed from God is truth without doubt, but since Jinab-i-Nazir (upon him be the Glory of God) wished to print some of the books, We therefore commanded the Greater Branch and this servant in attendance to compare them and submit whatever variations they found, for most people were and are not aware of these matters and are not informed about the nature of revelation."
+          ]
         },
         {
           "key": "source:BH01288",
-          "why": "Join copying with comparison and verification."
+          "why": "Join copying with comparison and verification.",
+          "shortened": [
+            "Regarding what is being sent, it is beloved that copies be made and, after comparison and verification, be given to their owners."
+          ]
         },
         {
           "key": "source:BH09304",
-          "why": "Hear the concise requirement that distributed copies be correct."
+          "why": "Hear the concise requirement that distributed copies be correct.",
+          "shortened": [
+            "Whatever is given must be correct. Some copies of the Iqan that exist in this land have not all attained the standard of correctness."
+          ]
         },
         {
           "key": "source:BH10816",
@@ -70,7 +85,10 @@
         },
         {
           "key": "source:AB02695",
-          "why": "Consider an argument grounded in the original handwriting."
+          "why": "Consider an argument grounded in the original handwriting.",
+          "shortened": [
+            "This is not a narrative that its narrator could be denied, nor is it in the handwriting of a scribe that could give rise to doubts and result in lack of confidence. Rather, it is by the pen of the Most High."
+          ]
         },
         {
           "key": "source:AB00596",
@@ -82,11 +100,18 @@
         },
         {
           "key": "source:ABU1622",
-          "why": "Keep the reported warning about invented attributed statements distinctly sourced."
+          "why": "Keep the reported warning about invented attributed statements distinctly sourced.",
+          "shortened": [
+            "I have come to these parts and I find out that certain people have attributed to me certain statements of which I am innocent. Anybody who has an opinion and desires to circulate it will attribute it to me. Anyone quoting me must have authority written either with my own hand, or tablets signed with my seal. Otherwise, those statements do not belong to me. Every instruction, every teaching that I desire to spread, I will write with my own hand. You must know this generally. Never accept statements without my writing which is signed and sealed - any statement."
+          ]
         },
         {
           "key": "source:ABU0047",
-          "why": "Read the related reported requirement for signed credentials."
+          "why": "Read the related reported requirement for signed credentials.",
+          "shortened": [
+            "Now that I am leaving you I counsel you not to accept any one coming to you with strange stories attributed to me without first demanding his signed credentials which must be in my handwriting.",
+            "Therefore do not credit such statements. Accept nothing purporting to come from me without my signature."
+          ]
         },
         {
           "key": "source:ABU3434",
@@ -98,7 +123,10 @@
         },
         {
           "key": "source:BH00902",
-          "why": "Examine authorship through the account of letters dictated in an attendant’s voice."
+          "why": "Examine authorship through the account of letters dictated in an attendant’s voice.",
+          "shortened": [
+            "I briefly submit that not a single word was from this servant - all were revealed from the Kingdom of God, my Lord and your Lord and the Lord of all who are in heaven and on earth. At all times, letters that were in this servant's name were, after permission, read in the Most Holy and Most Exalted Presence, and He would command \"Take up the pen,\" and all responses from beginning to end would be revealed from the blessed mouth and recorded."
+          ]
         },
         {
           "key": "source:ABU3647",
@@ -106,7 +134,10 @@
         },
         {
           "key": "source:BH07089",
-          "why": "Read the brief description of hearing and recording utterance."
+          "why": "Read the brief description of hearing and recording utterance.",
+          "shortened": [
+            "We arose this day and left the house, proceeding to another place. When We arrived, We commanded the servant in attendance before Us, and he heard and wrote down what the Tongue of Grandeur spoke forth in his luminous station."
+          ]
         },
         {
           "key": "source:BH11663",
@@ -126,7 +157,10 @@
         },
         {
           "key": "source:BH04009",
-          "why": "Notice the absence of a scribe delaying dispatch."
+          "why": "Notice the absence of a scribe delaying dispatch.",
+          "shortened": [
+            "Tablets have been revealed in these days and mention made of that person, but since no scribe was available to make copies, they were not sent, until we see what divine destiny will require."
+          ]
         },
         {
           "key": "source:BH05653",
@@ -146,15 +180,24 @@
         },
         {
           "key": "source:BB00414",
-          "why": "Retain the statement concerning the Book of Joseph and Book of Justice."
+          "why": "Retain the statement concerning the Book of Joseph and Book of Justice.",
+          "shortened": [
+            "We did indeed change the Book of Joseph [Qayyumu'l-Asma] before, and We sent down the Book of Justice [Kitabu'l-'Adl] thereafter, and verily therein are clear verses for people who believe."
+          ]
         },
         {
           "key": "source:BB00119",
-          "why": "Read the Bab’s objection to faulty copies and unauthorized changes."
+          "why": "Read the Bab’s objection to faulty copies and unauthorized changes.",
+          "shortened": [
+            "Those few sections which had been dispatched from Shiraz arrived in a single day, most of them grievously faulty; and in certain passages they have been altered and corrupted. Inform Mulla Sadiq that some of its verses have, without knowledge and without warrant, been changed; and such a thing, in mine own sight, possesseth no authority -- though for the people, one verse thereof, rightly set down, is sufficient."
+          ]
         },
         {
           "key": "source:BB00004",
-          "why": "Consider the prayer’s account of beautiful material presentation."
+          "why": "Consider the prayer’s account of beautiful material presentation.",
+          "shortened": [
+            "I would have returned unto Thee all the verses, evidences, scriptures and words that Thou hast sent down unto me. Therefore, O my God, bear witness that I have created these letters in the most excellent manner, then fashioned them in the Book, in a mighty and impregnable Book, in the most beautiful script, on the most delicate paper, with the most noble refinement, in the most wondrous and original way."
+          ]
         },
         {
           "key": "source:BB00158",
@@ -162,11 +205,17 @@
         },
         {
           "key": "source:BB00229",
-          "why": "Read the instruction to send a book in golden ink with its accompanying address."
+          "why": "Read the instruction to send a book in golden ink with its accompanying address.",
+          "shortened": [
+            "And send thou likewise this Book unto the King of that region with golden ink that thou mayest be numbered among the helpers of that which is written. And whoso denieth Our verses and departeth not from his house as an emigrant unto the Land of Remembrance - We shall reveal his decree in the Book even as was revealed concerning Abu Lahab in the Qur'an. Fear ye God, O concourse of men, and have mercy upon yourselves, and disgrace not your subjects through what hath been sent down unto you after God's decree, and after all people shall read."
+          ]
         },
         {
           "key": "source:AB12228",
-          "why": "Consider durable ink, suitable paper, margins, and binding as practical care."
+          "why": "Consider durable ink, suitable paper, margins, and binding as practical care.",
+          "shortened": [
+            "Thou didst request permission to transcribe a book in thine own hand. It would be most agreeable to me if thou wouldst write two large-format books in clear handwriting, with the utmost perfection, upon very fine and delicate paper of moderate thickness - not thin - and with permanent ink that will not stick together from moisture in the future. Include therein the Tablets of Tarazat, Tajalliyat, Bisharat, Kalimat and Ishraqat. Prepare two copies, and let Jinab-i-'Andalib add delicate illumination, but illuminate only the margins, not the text itself, and prepare very fine bindings."
+          ]
         },
         {
           "key": "source:BH01331",
@@ -174,19 +223,32 @@
         },
         {
           "key": "source:BH00691",
-          "why": "Read review in the divine presence together with the need for preservation."
+          "why": "Read review in the divine presence together with the need for preservation.",
+          "shortened": [
+            "In these days the revealed Tablets are being read in Our presence, for many Tablets written both before and after were dispatched to various regions without being compared. Therefore, in these days they are repeatedly being read in Our presence, that what God hath intended and what the Tongue of Grandeur hath spoken may become manifest.",
+            "The people of God must make a mighty effort to preserve and protect the Tablets."
+          ]
         },
         {
           "key": "source:AB00002",
-          "why": "Follow Salman’s repeated journeys carrying letters and Tablets."
+          "why": "Follow Salman’s repeated journeys carrying letters and Tablets.",
+          "shortened": [
+            "From the year 69 until the ascension of Baha'u'llah in 1309 A.H., Salman would arrive once a year, bringing letters, leaving with the Tablets, faithfully delivering each one to him for whom it was intended. Every single year throughout that long period, he came on foot from Persia to Iraq, or to Adrianople, or to the Most Great Prison at 'Akka; came with the greatest eagerness and love, and then went back again."
+          ]
         },
         {
           "key": "source:AB02415",
-          "why": "Consider trustworthiness in the transmission of correspondence."
+          "why": "Consider trustworthiness in the transmission of correspondence.",
+          "shortened": [
+            "The honored uncle, in the blessed days, served with utmost truthfulness and trustworthiness, and was the means for transmitting Tablets and letters."
+          ]
         },
         {
           "key": "source:BH11868",
-          "why": "Hear the appreciation of care in recording and dispatch."
+          "why": "Hear the appreciation of care in recording and dispatch.",
+          "shortened": [
+            "The honored Mirza Mihdi hath been specially favored with God's all-embracing mercy. He hath, at no time, been careless in recording the words of God, nor hath he neglected their dispatch."
+          ]
         },
         {
           "key": "source:BH00415",
@@ -198,7 +260,10 @@
         },
         {
           "key": "source:BH03868",
-          "why": "Read transcription from revelation and the use of numbered lists."
+          "why": "Read transcription from revelation and the use of numbered lists.",
+          "shortened": [
+            "And, in accordance with the command, this Tablet was revealed from the heaven of His Will; it was transcribed from the original Revelation and sent forth. Likewise were dispatched the numbered lists, in the Name of the Most Great Name, of the Tablets which thou hadst previously requested."
+          ]
         },
         {
           "key": "source:BH00656",
@@ -222,7 +287,10 @@
         },
         {
           "key": "source:BH03020",
-          "why": "Hear the simple instruction that the packets must not be lost."
+          "why": "Hear the simple instruction that the packets must not be lost.",
+          "shortened": [
+            "O thou who art beloved! Be ye informed that the Tablets contained in these four packets should not be lost."
+          ]
         },
         {
           "key": "source:BH01015",
@@ -238,7 +306,11 @@
         },
         {
           "key": "source:BH09573",
-          "why": "Keep the brief instructions concerning a response and a Tablet to Kalim."
+          "why": "Keep the brief instructions concerning a response and a Tablet to Kalim.",
+          "shortened": [
+            "In response to the person mentioned, a sublime Tablet was revealed and sent.",
+            "Additionally, a brief Tablet was written to Kalim - review it and send it."
+          ]
         },
         {
           "key": "source:BH00373",
@@ -250,7 +322,10 @@
         },
         {
           "key": "source:BH07363",
-          "why": "Distinguish outwardly sent answers from answers described as inscribed in God’s Book."
+          "why": "Distinguish outwardly sent answers from answers described as inscribed in God’s Book.",
+          "shortened": [
+            "Some receive answers that are outwardly revealed and sent, while the answers to others are recorded in God's Book and inscribed by the Pen of His bounty."
+          ]
         },
         {
           "key": "source:BH00207",
@@ -282,7 +357,10 @@
         },
         {
           "key": "source:BH05966",
-          "why": "Consider publication through time, place, and requirements."
+          "why": "Consider publication through time, place, and requirements.",
+          "shortened": [
+            "What they have written regarding the printing of the book is correct and adorned with the ornament of truth. These matters depend upon time, place, occasion and requirements. In all things they must be mindful of wisdom."
+          ]
         },
         {
           "key": "source:AB02081",
@@ -310,7 +388,10 @@
         },
         {
           "key": "source:BH03116",
-          "why": "Keep the marriage-sermon instruction and embedded scribal direction in its source context."
+          "why": "Keep the marriage-sermon instruction and embedded scribal direction in its source context.",
+          "shortened": [
+            "Likewise, in these days a marriage sermon has been revealed from the heaven of unity. After the consent of both parties and the consent of the parents, they should gather in a place among the God-fearing and recite this blessed sermon with the utmost joy and fragrance. After the recitation of the sermon, the beloved and his beloved should, in a separate place, recite these two blessed verses that were revealed in the Bayan. [The verses mentioned in the Bayan should be written.] Then the husband should deliver the dowry to his wife, and both parties should sign the document, as well as the witnesses."
+          ]
         },
         {
           "key": "source:BH01048",
@@ -318,11 +399,17 @@
         },
         {
           "key": "source:AB08757",
-          "why": "Consider the effort to recover an original Tablet."
+          "why": "Consider the effort to recover an original Tablet.",
+          "shortened": [
+            "The photographs of the Bab's Tablet have arrived - may thy face be illumined! If thou canst obtain the original Tablet which is in His own handwriting, even if up to five hundred tumans must be paid, it would be most fitting and would constitute a mighty service to the Cause, for that blessed Tablet must not remain in the hands of the people."
+          ]
         },
         {
           "key": "source:AB04500",
-          "why": "Hear the instruction to preserve recovered writings with reverence."
+          "why": "Hear the instruction to preserve recovered writings with reverence.",
+          "shortened": [
+            "The Tablets that belonged to the King of Martyrs and have come into the possession of the friends from strangers - preserve and protect these Tablets with the utmost reverence and honor."
+          ]
         },
         {
           "key": "source:ABU0768",
@@ -330,11 +417,17 @@
         },
         {
           "key": "source:ABU1502",
-          "why": "Consider the reported recognition of a bequest to a person outside the community."
+          "why": "Consider the reported recognition of a bequest to a person outside the community.",
+          "shortened": [
+            "Sometimes after my arrival a woman brought to me a big bundle containing all my Epistles written to Mrs Cole. She said: 'Mrs Cole has bequeathed these precious, spiritual letters to me. She considered these to be her greatest possessions. I have now thought to bring them to you. As I am not a Baha'i I would not like to keep them without your permission.' Then I told her, 'Because this was her last wish, I am sure you are the proper person to take care of these epistles.'"
+          ]
         },
         {
           "key": "source:AB00878",
-          "why": "Read the account of entrusted papers and their removal."
+          "why": "Read the account of entrusted papers and their removal.",
+          "shortened": [
+            "There are several supplementary ordinances in the Blessed Handwriting, but the Covenant-breakers stole 'Abdu'l-Baha's papers and that document was among them. A few days before the Ascension of the Blessed Beauty, may my spirit be sacrificed for His loved ones, He commanded 'Abdu'l-Baha to gather the papers in His blessed chamber and put them in a bag. According to His blessed command, the papers were collected and placed in two bags. He said \"These papers are entrusted to you.\""
+          ]
         },
         {
           "key": "source:AB06418",
@@ -342,31 +435,54 @@
         },
         {
           "key": "source:AB01618",
-          "why": "Read the disputed papers in connection with the direction of prayer."
+          "why": "Read the disputed papers in connection with the direction of prayer.",
+          "shortened": [
+            "This sacred place has been explicitly designated by the Supreme Pen in a special tablet, and that tablet contains other laws as well, all by the Supreme Pen. That tablet was in the blessed case which was entrusted to Abdu'l-Baha before the Ascension. That case contained numerous papers, but the unfaithful ones took it away under some pretext and now it is with them."
+          ]
         },
         {
           "key": "source:ABU0466",
-          "why": "Keep the reported account of custody and possible alteration as an attributed statement."
+          "why": "Keep the reported account of custody and possible alteration as an attributed statement.",
+          "shortened": [
+            "As it is, he has appropriated many papers and Tablets written by the Blessed Perfection. It is possible for these writings to be altered, as the meanings in Persian are greatly changed by a single dot here and there. Before His Ascension, the Blessed Perfection said to me, 'I have given You all the papers.' He put them in two satchels and sent them to Me. After His Ascension, Muhammad-'Ali said, 'You had better give me the two satchels to take care of.' He took them away and never returned them."
+          ]
         },
         {
           "key": "source:ABU0946",
-          "why": "Retain the separately reported account of boxes withheld."
+          "why": "Retain the separately reported account of boxes withheld.",
+          "shortened": [
+            "At the time of the ascension of Baha'u'llah, as we were otherwise occupied, I gave him [Mirza Muhammad-'Ali] for safekeeping two boxes containing divine Writings. He has concealed them. He has kept them so that after my passing he might bring them out and use them in accord with his personal inclination."
+          ]
         },
         {
           "key": "source:ABU1332",
-          "why": "Read the reported instruction gathering the writings before Baha’u’llah’s passing."
+          "why": "Read the reported instruction gathering the writings before Baha’u’llah’s passing.",
+          "shortened": [
+            "A few days before his departure Baha'u'llah called me into his bedroom and commanded me to gather together all his writing and Tablets telling me that 'they shall belong to thee'."
+          ]
         },
         {
           "key": "source:ABU1162",
-          "why": "Keep the reported narrative of collection, collation, loss, and dispute together."
+          "why": "Keep the reported narrative of collection, collation, loss, and dispute together.",
+          "shortened": [
+            "At the intimation of His Holiness my Master, he transcribed a complete collection---most of it from the handwriting of Aqa Siyyid Husayn---of the writings of His Holiness the Exalted One; and all of it was corrected and collated. With what pains His Holiness my Master had obtained these writings, and at last brought them to 'Akka; but what Mirza Muhammad-'Ali did with them is not known. If such Tablets as these should be lost, it would be a loss to the Cause.",
+            "After the Ascension, a committee was formed under the leadership of Mirza Muhammad-'Ali, that the blessed Tablets might be gathered together and authenticated, so that thereafter they might be known and accounted for.",
+            "They interfered with and tampered with the writings of the Blessed Beauty, and exerted themselves that I should be slain."
+          ]
         },
         {
           "key": "source:BH00371",
-          "why": "Read the allegation about copied writings and a seal in its polemical setting."
+          "why": "Read the allegation about copied writings and a seal in its polemical setting.",
+          "shortened": [
+            "At the time of emergence from between Gog and Magog, who were two idolaters, I sent a box containing blessed writings of the Exalted One and Aqa Siyyid Husayn, along with His seal, to that one who turned away from God. And in the early years of the new Cause, for four years We commanded him to copy from the writings of His Holiness, such that now writings of that apostate in the style of His Holiness exist. In these days he hath begun using those same writings and writing whatever Satan inspires in him, sealing it with His Holiness's seal and showing it to vile souls like himself."
+          ]
         },
         {
           "key": "source:BH04591",
-          "why": "Keep the particular warning about protecting the Bab’s books in its historical address."
+          "why": "Keep the particular warning about protecting the Bab’s books in its historical address.",
+          "shortened": [
+            "O Muhammad-Rafi' Dawlatabadi and those with him have intended to steal the Book of God - that is, the Persian Bayan and Ahsanul-Qisas. Since these two clear Books are adorned with utterances that give glad tidings to all of the appearance of the Great Announcement, they have therefore intended to destroy them. It is obligatory and incumbent upon all the friends of Truth that whosoever possesses them should preserve them and guard them from this rebellious and transgressing band."
+          ]
         },
         {
           "key": "source:ABU2817",
@@ -378,7 +494,11 @@
         },
         {
           "key": "source:BH11742",
-          "why": "Close with the relation between revealed verses, proof, and future divine authority."
+          "why": "Close with the relation between revealed verses, proof, and future divine authority.",
+          "shortened": [
+            "Until this Manifestation, verses alone have been proof for all, for We had sent down this decree in all previous Books.",
+            "Although in this Manifestation all signs of power, manifest proofs, wondrous verses, glorious manifestations and divine attributes have appeared - and all this as a grace from Us to all created things - yet henceforth the matter resteth in God's hands, that He may designate what shall be proof for future Manifestations."
+          ]
         }
       ],
       "questions": [
@@ -448,12 +568,15 @@
       "id": "ED6C3071A4A0E93BF1941116B45ED745",
       "slug": "victoryprayer",
       "displayTitle": "Praying for victory: steadfastness, justice, and transformed hearts",
-      "introduction": "What counts as victory when a community is weak, scattered, or persecuted? One prayer here answers through the capacity to know, remember, and praise God; another seeks the return of enemies to Him. These sit beside uncompromising petitions for judgment and requital, allowing the anguish of oppression to remain audible. Babi and Baha’i prayers retain their different settings and their forceful images, while appeals for wisdom, loving service, and renewed courage widen the meaning of triumph. The connected subject of rendering assistance to God explicitly turns attention toward hearts and away from human contention. Romans 12:19–21 offers a primary comparison by placing requital with God and directing the reader toward good done even to an enemy [1]. Alongside connected readings on prayer and the growth of the Cause, this collection invites reflection on steadfast action, protection from harm, and hope whose fruits extend beyond the defeat of an opponent.",
+      "introduction": "Victory, Bahá’u’lláh testifies in the middle of a prayer, is His loved ones being aided to know God and enabled to remember and praise Him. The definition is startling from a community that was captive, scattered and persecuted. In the same breath He asks that His enemies be aided to return to God; ‘Abdu’l-Bahá begs that those who wronged Him have their diseases healed and the veils lifted from their eyes; triumph is sought through love and the light of the teachings rather than through contention. None of this silences the anguish. Bábí and Bahá’í prayers alike cry out against oppressors, call on the Avenger, and ask for judgment, and those cries keep their own settings. Alongside them stand petitions for wisdom, and a confidence that the fruits of service lie far beyond what any present generation can see. Paul’s counsel in Romans, leaving vengeance to God while feeding a hungry enemy and overcoming evil with good, holds the same tension within a few verses [1]. The way continues into rendering assistance to God, the meaning of victory itself, and the growth of the Cause.",
       "arc": "Begin with victory as remembrance and transformed hearts, hear the prayers of vulnerable communities, then explore divine judgment, human service, and confidence in an unfolding future.",
       "order": [
         {
           "key": "source:BH05773",
-          "why": "Open with the explicit description of victory as knowing, remembering, and praising God."
+          "why": "Open with the explicit description of victory as knowing, remembering, and praising God.",
+          "shortened": [
+            "O Lord! Seize them through Thy power, then aid Thy loved ones through Thy loving-kindness and Thy handmaidens through Thy grace. I testify at this moment that victory is their being aided to know Thee and enabled to remember and praise Thee."
+          ]
         },
         {
           "key": "source:BH00858",
@@ -465,23 +588,39 @@
         },
         {
           "key": "source:AB00218",
-          "why": "Read conquest expressly through love and the illumination of teachings."
+          "why": "Read conquest expressly through love and the illumination of teachings.",
+          "shortened": [
+            "O Thou Incomparable God! O Thou Lord of the Kingdom! These souls are Thy heavenly army. Assist them and, with the cohorts of the Supreme Concourse, make them victorious, so that each one of them may become like unto a regiment and conquer these countries through the love of God and the illumination of divine teachings.",
+            "O God! Be Thou their supporter and their helper, and in the wilderness, the mountain, the valley, the forests, the prairies and the seas, be Thou their confidant---so that they may cry out through the power of the Kingdom and the breath of the Holy Spirit."
+          ]
         },
         {
           "key": "source:BH08556",
-          "why": "Consider assistance to the Cause through wisdom."
+          "why": "Consider assistance to the Cause through wisdom.",
+          "shortened": [
+            "Say: My God, my God! Aid Thy servants to assist Thy Cause through the wisdom which Thou hast sent down in Thy perspicuous Book."
+          ]
         },
         {
           "key": "source:BH09611",
-          "why": "Join steadfastness with wisdom and utterance."
+          "why": "Join steadfastness with wisdom and utterance.",
+          "shortened": [
+            "I beseech Thee by those who have quaffed the wine of supreme steadfastness before the faces of all peoples, to assist me in all conditions to help Thy Cause and exalt Thy Word and to manifest that which Thou hast commanded me in Thy Tablets with wisdom and utterance."
+          ]
         },
         {
           "key": "source:BH09949",
-          "why": "Read protection of the Afnan together with wise remembrance."
+          "why": "Read protection of the Afnan together with wise remembrance.",
+          "shortened": [
+            "O Lord! Protect Thy Afnan from the evil of Thine enemies who have disbelieved in Thy proof, turned away from Thy Manifestation and Thy signs, and ordain for each one of them to assist Thy Cause among Thy creation and to make mention of Thee with wisdom and utterance before the people of Thy realm."
+          ]
         },
         {
           "key": "source:BH09970",
-          "why": "Distinguish fidelity during trials from allegiance after victory."
+          "why": "Distinguish fidelity during trials from allegiance after victory.",
+          "shortened": [
+            "When the victory arriveth, every man shall profess himself a believer and shall hasten to the shelter of God’s Faith. Happy are they who in the days of world-encompassing trials have stood fast in the Cause and refused to swerve from its truth."
+          ]
         },
         {
           "key": "source:BH09919",
@@ -493,23 +632,38 @@
         },
         {
           "key": "source:BH09028",
-          "why": "Consider sorrow transformed into joy."
+          "why": "Consider sorrow transformed into joy.",
+          "shortened": [
+            "I beseech Thee by Thy Self to manifest through Thy sovereignty that which shall transform sorrow into joy and abasement into glory."
+          ]
         },
         {
           "key": "source:BH09809",
-          "why": "Hear the lament of believers facing oppression in many places."
+          "why": "Hear the lament of believers facing oppression in many places.",
+          "shortened": [
+            "Thou seest, O my God, how Thy loved ones have been encompassed by the rebellious amongst Thy creatures and the wicked amidst Thy people. No land remaineth but the lamentation of Thy lovers and the wailing of Thy chosen ones were lifted up therein. I beseech Thee by Thy Most Great Name to draw forth the hand of power from the bosom of Thy might and to assist therewith all them that love Thee."
+          ]
         },
         {
           "key": "source:BH10682",
-          "why": "Read the account of families driven from their homeland."
+          "why": "Read the account of families driven from their homeland.",
+          "shortened": [
+            "O my God! Thou seest and knowest that the oppressors have wronged Thy loved ones who have turned toward the Dayspring of Thy Revelation, the Dawning-Place of Thine inspiration and the Source of Thy Cause, and have driven them, together with their children and their women, from their homeland - though they had manifested naught except that which Thou didst command them through Thy Most Exalted Pen. I beseech Thee, O my Lord, by Thy Most Glorious Name, to send down from the heaven of Thy bounty that which shall exalt the believers and abase the ungodly."
+          ]
         },
         {
           "key": "source:AB00841",
-          "why": "Consider the vulnerability of scattered teachers and the request for a smoother path."
+          "why": "Consider the vulnerability of scattered teachers and the request for a smoother path.",
+          "shortened": [
+            "My God, my God! Thou seest Thy sincere servants scattered throughout the regions, and beholdest Thy assured bondsmen dispersed in all directions among the heedless, calling people to the fountainhead of certitude, guiding them to the Straight Path, and giving them to drink from the Spring of Tasneem. Yet the opponents shoot at them with penetrating arrows and attack them like ravening wolves and fierce beasts, making them taste grievous torment. O Lord! Aid them with hosts from Thy glorious Kingdom, support them with Thy wondrous favor, assist them with Thy manifest sovereignty, and make smooth their path, O my Glorious Lord!"
+          ]
         },
         {
           "key": "source:BH08246",
-          "why": "Hear the sheep-and-wolves image as a prayer for assistance."
+          "why": "Hear the sheep-and-wolves image as a prayer for assistance.",
+          "shortened": [
+            "O Lord! Thou seest how the wolves have seized Thy sheep, through whom the rain of Thy mercy hath poured forth from the clouds of Thy generosity. I beseech Thee to assist Thy party through the hosts of the seen and the unseen. Verily Thou art God, the Almighty, the All-Compelling, the Mighty, the Unconstrained."
+          ]
         },
         {
           "key": "source:BH06585",
@@ -517,7 +671,10 @@
         },
         {
           "key": "source:BH08849",
-          "why": "Consider continued turning toward revelation amid severe trials."
+          "why": "Consider continued turning toward revelation amid severe trials.",
+          "shortened": [
+            "Put forth, therefore, out of the bosom of Thy glory, O my Lord, the hand of Thine omnipotence, and through it assist Thou Thy loved ones who, though sore-tried in Thy path with such trials as have caused the inmates of the kingdom of Thy Cause to groan, were not deterred from turning towards the horizon of Thy Revelation."
+          ]
         },
         {
           "key": "source:BH05821",
@@ -529,11 +686,17 @@
         },
         {
           "key": "source:BH03593",
-          "why": "Read lament and the appeal to the light of justice together."
+          "why": "Read lament and the appeal to the light of justice together.",
+          "shortened": [
+            "Say: Glory be to Thee, O Thou Who art the Goal of the hearts of them that know Thee and the Object of worship of all who are in the heavens and on earth! Thou seest how darkness hath encompassed all lands to such extent that Thy party among Thy servants lamenteth. O my Lord! I beseech Thee by the lights of the Day-Star of Thy justice and the splendors of the Sun of Thy Word to ordain through Thy Most Exalted Pen for those who have turned to Thee, O Thou Owner of Names, that which Thou didst ordain for Thy loved ones and chosen ones."
+          ]
         },
         {
           "key": "source:BH01022",
-          "why": "Hear deliverance sought through remembered sacred narratives."
+          "why": "Hear deliverance sought through remembered sacred narratives.",
+          "shortened": [
+            "I beseech Thee by the light whereby Thou didst deliver Noah and his companions, and didst make the fire cool for Thy Friend despite his enemies, and whereby Thou didst manifest Thy straight path and make it the herald of Thy mighty News, to deliver them through Thy grace and bounty."
+          ]
         },
         {
           "key": "source:BB00494",
@@ -561,7 +724,10 @@
         },
         {
           "key": "source:AB09131",
-          "why": "Keep humility and contrition alongside the forceful request for aid."
+          "why": "Keep humility and contrition alongside the forceful request for aid.",
+          "shortened": [
+            "O my God! I press my brow and cover my face with the dust of lowliness, impotence and contrition, beseeching Thee at eventide and at dawn, supplicating before Thee in the darkness of night and the bright light of day, that Thou mayest assist Thy servant, who hath turned unto Thee in humility and submission and repentance, with the hosts of power and might and the armies of glory and dominion against every aggressive doubter and sinner mentioned in the Book and every contemptible impostor from among the people of the veil."
+          ]
         },
         {
           "key": "source:AB02856",
@@ -573,7 +739,10 @@
         },
         {
           "key": "source:BH01888",
-          "why": "Hear the request for victory and the good of both lives."
+          "why": "Hear the request for victory and the good of both lives.",
+          "shortened": [
+            "Render Thy Cause victorious, O my Lord, and abase Thou Thine enemies. Write down, then, for us the good of this life and of the life to come. Thou art the Truth, Who knoweth the secret things. No God is there but Thee, the Ever-Forgiving, the All-Bountiful."
+          ]
         },
         {
           "key": "source:BH03262",
@@ -581,7 +750,10 @@
         },
         {
           "key": "source:BH02534",
-          "why": "Consider the prayer for divine assistance and manifested power."
+          "why": "Consider the prayer for divine assistance and manifested power.",
+          "shortened": [
+            "O Lord! I beseech Thee by Thy power which hath encompassed all things, that Thou assist these souls with the wonders of Thy succor, strengthen them through Thy might, and make them victorious over Thine enemies, that thereby the manifestations of Thy power may appear among Thy servants and the revelations of Thy might among Thy creatures."
+          ]
         },
         {
           "key": "source:BH08827",
@@ -589,11 +761,17 @@
         },
         {
           "key": "source:BH03356",
-          "why": "Read the invocations of divine restraint, subduing, and chastisement in their prayerful setting."
+          "why": "Read the invocations of divine restraint, subduing, and chastisement in their prayerful setting.",
+          "shortened": [
+            "Glorified art Thou, O Lord my God! I beseech Thee by Thy Name, the Restrainer, to withhold from us the maleficence of Thine adversaries who have disbelieved in Thy testimony, and caviled at Thy beauty. Overpower by Thy Name, the All-Subduing, such as have wronged Thy Previous Manifestation Who hath now appeared invested with Thy title, the All-Glorious. Lay hold, by Thy name, the Chastiser, on them that have treated Thy Cause with scorn, have jested at Thy most mighty utterances, and were hindered from attaining this most exalted station. Enable Thy loved ones, by Thy Name, the Victorious, to prevail against Thine enemies and the infidels among Thy creatures."
+          ]
         },
         {
           "key": "source:BH02871",
-          "why": "Hear the petition for judgment as addressed to God."
+          "why": "Hear the petition for judgment as addressed to God.",
+          "shortened": [
+            "Well-beloved is Thy mercy unto the sincere among Thy servants, and well-beseeming Thy chastisement of the infidels among Thine enemies. Send down upon them, therefore, O my Lord, that which will unmistakably reveal unto them the fury of Thy wrath and the ascendancy of Thy power, and will enable them to recognize the weight of Thy might and the greatness of Thy strength."
+          ]
         },
         {
           "key": "source:BH09705",
@@ -605,11 +783,17 @@
         },
         {
           "key": "source:BH03504",
-          "why": "Read the severe imagery as a petition against oppression in its source’s voice."
+          "why": "Read the severe imagery as a petition against oppression in its source’s voice.",
+          "shortened": [
+            "O Lord! Cut off the hands that were stretched forth against them in tyranny and oppression, and the tongues that were extended against them in hatred and enmity. Then turn back upon them what they intended against those who sought the Dayspring of Thy Revelation and the Dawning-Place of Thy inspiration."
+          ]
         },
         {
           "key": "source:BH10231",
-          "why": "Consider the desire that violence cease to afflict the land and its people."
+          "why": "Consider the desire that violence cease to afflict the land and its people.",
+          "shortened": [
+            "Send down upon them, O my Lord, what will cause them to be busied with each others' concerns. Let, then, their violence be confined to their own selves, that the land and they that dwell therein may find peace."
+          ]
         },
         {
           "key": "source:BH01875",
@@ -621,15 +805,24 @@
         },
         {
           "key": "source:BH07297",
-          "why": "Keep the request to exalt loved ones and abase enemies in its original form."
+          "why": "Keep the request to exalt loved ones and abase enemies in its original form.",
+          "shortened": [
+            "O my Lord! I beseech Thee by what Thou art, to send down from the right hand of Thy power that which shall exalt Thy loved ones and abase Thine enemies."
+          ]
         },
         {
           "key": "source:BB00055",
-          "why": "Read the Bab’s invocation of judgment and aid together."
+          "why": "Read the Bab’s invocation of judgment and aid together.",
+          "shortened": [
+            "Therefore, O God, seize Thine enemies with the assaults of Thy wrath, and aid Thy chosen ones with the breezes of Thy glory. There is no God but Thee, and no Mighty One besides Thee."
+          ]
         },
         {
           "key": "source:BB00086",
-          "why": "Retain the Bab’s prayer for punishment and favor in its historical religious setting."
+          "why": "Retain the Bab’s prayer for punishment and favor in its historical religious setting.",
+          "shortened": [
+            "I beseech God to inflict the severest punishment upon those who acted proudly against You and transgressed against You, for He is most severe in might and in retribution. May God bestow favor upon those who were guided by Your guidance, and may He grant, through His grace and mercy, His good pleasure to those who are pleased with Your good pleasure, as befits His supreme generosity and bounty, for He is the Munificent, the Inaccessible."
+          ]
         },
         {
           "key": "source:BB00422",
@@ -657,15 +850,24 @@
         },
         {
           "key": "source:AB00499",
-          "why": "Move through the image of life’s scattered forces gathering against darkness."
+          "why": "Move through the image of life’s scattered forces gathering against darkness.",
+          "shortened": [
+            "O Lord! Make me and Thy sincere servants as hosts arrayed from Thy most glorious Kingdom and as bands scattered against the parties that oppose the Supreme Concourse, until the ranks of the army of death are scattered and the disheveled forces of life are gathered together, and the power of the rays shining from the realm of light rends asunder the veils of darkness, and the lights of Thy brilliant morn and manifest dawn spread over all regions."
+          ]
         },
         {
           "key": "source:AB05585",
-          "why": "Hear the concise prayer for light’s victory."
+          "why": "Hear the concise prayer for light’s victory.",
+          "shortened": [
+            "Therefore, O Lord of Hosts, confirm us so that the army of light may achieve victory and the forces of darkness may be defeated."
+          ]
         },
         {
           "key": "source:AB08883",
-          "why": "Read the Covenant prayer’s martial imagery in its devotional voice."
+          "why": "Read the Covenant prayer’s martial imagery in its devotional voice.",
+          "shortened": [
+            "O Lord! Make me a herald of the Covenant, and a piercing flame against the people of discord, and an arrow penetrating the breast of the hypocrites, and a light shining throughout all regions."
+          ]
         },
         {
           "key": "source:AB01488",
@@ -673,7 +875,10 @@
         },
         {
           "key": "source:AB03037",
-          "why": "Read the company made verses of unity and banners of praise."
+          "why": "Read the company made verses of unity and banners of praise.",
+          "shortened": [
+            "Through the hosts of the Supreme Concourse make that faithful company victorious and triumphant, and favor them with abundant grace. Make them verses of unity and banners of glorification, and day by day increase their confirmation."
+          ]
         },
         {
           "key": "source:AB06548",
@@ -681,23 +886,39 @@
         },
         {
           "key": "source:AB00963",
-          "why": "Read practical work on a house of worship as a focus of prayer."
+          "why": "Read practical work on a house of worship as a focus of prayer.",
+          "shortened": [
+            "O God! O God! Verily, I implore Thee with throbbing heart and streaming tears to aid every one who endeavors for the erection of this edifice, in the building of a house, wherein Thy Name is mentioned every morn and eve.",
+            "Verily, Thou art the Generous, the Merciful, the Bountiful!"
+          ]
         },
         {
           "key": "source:BH09878",
-          "why": "Extend assistance to those who help the loved ones."
+          "why": "Extend assistance to those who help the loved ones.",
+          "shortened": [
+            "O Lord! Aid Thou Thy loved ones, and them that aid them."
+          ]
         },
         {
           "key": "source:BH08837",
-          "why": "Hear the brief request for aid to one who seeks God."
+          "why": "Hear the brief request for aid to one who seeks God.",
+          "shortened": [
+            "O my God! Glory be unto Thee! Aid, then, O my God, him who hath loved Thee and hath sought Thy face."
+          ]
         },
         {
           "key": "source:BH09849",
-          "why": "Retain the shared prayer for aid to the supplicant and companions."
+          "why": "Retain the shared prayer for aid to the supplicant and companions.",
+          "shortened": [
+            "O Lord! Aid me and those with me through Thy sovereignty and might, for verily Thou art powerful over whatsoever Thou willest."
+          ]
         },
         {
           "key": "source:BH04311",
-          "why": "Read the concise appeal for divine succor."
+          "why": "Read the concise appeal for divine succor.",
+          "shortened": [
+            "I implore Thee, O Thou Who holdest in Thy hands the reins of unconstrained power, to succor them through the wondrous potency of Thy might."
+          ]
         },
         {
           "key": "source:BH09867",
@@ -705,15 +926,24 @@
         },
         {
           "key": "source:BH06118",
-          "why": "Consider the prayer for wondrous assistance."
+          "why": "Consider the prayer for wondrous assistance.",
+          "shortened": [
+            "I beseech Thee by Thy Name which hath conquered all names and encompassed all who are in earth and heaven, to assist Thy loved ones through the wonders of Thy victory."
+          ]
         },
         {
           "key": "source:BH09914",
-          "why": "Join aid to the fruits of the Tree of Oneness."
+          "why": "Join aid to the fruits of the Tree of Oneness.",
+          "shortened": [
+            "I beseech Thee by Thy Name through which Thy Beauty was made manifest, and Thy proof did shine forth, and Thy names did appear, and Thy Dove did warble, and then Thy Most Great Name and Thy Most Ancient Beauty were upraised, to exalt Thy Cause and to aid Thy loved ones, and to bestow upon them from the fruits of the Tree of Thy Oneness and the produce of the holy Tree of Thy Singleness."
+          ]
         },
         {
           "key": "source:BH01859",
-          "why": "Read the exaltation of those who hold fast to God."
+          "why": "Read the exaltation of those who hold fast to God.",
+          "shortened": [
+            "We beseech Thee, O God of the world and Goal of the nations, to send down from the heaven of Thy power that which will exalt the station of those among Thy servants who profess Thy unity and those among Thy creatures who hold fast to Thee."
+          ]
         },
         {
           "key": "source:BH02043",
@@ -721,19 +951,32 @@
         },
         {
           "key": "source:BH09084",
-          "why": "Consider assurance and gladness as desired fruits."
+          "why": "Consider assurance and gladness as desired fruits.",
+          "shortened": [
+            "I beseech Thee by the ocean of Thy knowledge and the heaven of Thy Word and the sun of Thy power to manifest in the world that which will gladden the eyes of Thy loved ones and bring assurance to their hearts in Thy days."
+          ]
         },
         {
           "key": "source:BH03030",
-          "why": "Read nearness, praise, and remembrance together."
+          "why": "Read nearness, praise, and remembrance together.",
+          "shortened": [
+            "O Lord! Deprive us not of the wonders of Thy grace in Thy days, and distance us not from the shores of nearness through Thy bounty and favors.",
+            "O Lord! Send down upon me that which will make me rich through Thy riches, and speaking in Thy praise, and mindful in Thy remembrance. Then ordain for me what Thou hast ordained for Thy chosen ones."
+          ]
         },
         {
           "key": "source:BH05077",
-          "why": "Consider the movement from vain imaginings toward confidence and certitude."
+          "why": "Consider the movement from vain imaginings toward confidence and certitude.",
+          "shortened": [
+            "I entreat Thee, O my God, by Thy Name which irradiateth all things, to raise up such servants as shall incline their ears to the voice of the melodies that hath ascended from the right hand of the throne of Thy glory. Make them, then, to quaff from the hand of Thy grace the wine of Thy mercy, that it may assure their hearts, and cause them to turn away from the left hand of idle fancies and vain imaginings to the right hand of confidence and certitude."
+          ]
         },
         {
           "key": "source:BH04460",
-          "why": "Hear the prayer for quickened hearts ready to carry a message."
+          "why": "Hear the prayer for quickened hearts ready to carry a message.",
+          "shortened": [
+            "Assist Thou Thy servants, O my God, to help Thy Cause, and give them to drink what will quicken their hearts in Thy realm, lest anything hinder them from remembering Thee and from extolling Thy virtues, that they may quit their homes in Thy name, and summon all the multitudes unto Thee."
+          ]
         },
         {
           "key": "source:BH10151",
@@ -741,7 +984,10 @@
         },
         {
           "key": "source:BH04747",
-          "why": "Retain the petition for the particular person mentioned in a Tablet."
+          "why": "Retain the petition for the particular person mentioned in a Tablet.",
+          "shortened": [
+            "Then cause to succeed, O my God, him whom We have desired to mention in this Tablet and assist him to aid Thy Cause and exalt Thy Word."
+          ]
         },
         {
           "key": "source:BH05074",
@@ -749,11 +995,17 @@
         },
         {
           "key": "source:BH02724",
-          "why": "Hear the raising of guidance’s standards."
+          "why": "Hear the raising of guidance’s standards.",
+          "shortened": [
+            "O my Lord! Aid them in that whereby the standards of Thy guidance and the banners of Thy Cause shall be upraised."
+          ]
         },
         {
           "key": "source:BH06903",
-          "why": "Read aid directed toward the signs of triumph."
+          "why": "Read aid directed toward the signs of triumph.",
+          "shortened": [
+            "I beseech Thee, O God of all beings and Educator of all created things, to aid Thy loved ones to that which shall cause the standards of Thy triumph and victory to be raised amidst Thy creation."
+          ]
         },
         {
           "key": "source:BH10322",
@@ -773,7 +1025,10 @@
         },
         {
           "key": "source:BH07000",
-          "why": "Consider the declared aim of exalting the Word."
+          "why": "Consider the declared aim of exalting the Word.",
+          "shortened": [
+            "By Thy might, O God of the world and Goal of the nations, I have desired naught but the exaltation of Thy Word and the manifestation of Thy Cause."
+          ]
         },
         {
           "key": "source:BH08248",
@@ -789,27 +1044,46 @@
         },
         {
           "key": "source:AB00049",
-          "why": "Read the future scope of service through the example of the apostles."
+          "why": "Read the future scope of service through the example of the apostles.",
+          "shortened": [
+            "Consider! The station and the confirmation of the apostles in the time of Christ was not known, and no one looked on them with the feeling of importance--nay, rather, they persecuted and ridiculed them. Later on it became evident what crowns studded with the brilliant jewels of guidance were placed on the heads of the apostles, Mary Magdalene and Mary the mother of John.",
+            "The range of your future achievements still remains undisclosed. I fervently hope that in the near future the whole earth may be stirred and shaken by the results of your achievements."
+          ]
         },
         {
           "key": "source:AB00740",
-          "why": "Consider spiritual education as the form of prevailing described here."
+          "why": "Consider spiritual education as the form of prevailing described here.",
+          "shortened": [
+            "Likewise didst thou ask whether, in this Baha'i Dispensation, the spiritual will ultimately prevail. It is certain that spirituality will defeat materialism, that the heavenly will subdue the human, and that through divine education the masses of mankind generally will take great steps forward in all degrees of life---except for those who are blind and deaf and mute and dead."
+          ]
         },
         {
           "key": "source:AB00915",
-          "why": "Read the dawn and noon as images of unfolding influence."
+          "why": "Read the dawn and noon as images of unfolding influence.",
+          "shortened": [
+            "This, however, is but the beginning of the dawn, and the heat of the rising Orb of Truth is not yet at the fullness of its power. Once the sun hath mounted to high noon, its fires will burn so hot as to stir even the creeping things beneath the earth; and although it is not for them to behold the light, yet will they all be set in frenzied motion by the impact of the heat."
+          ]
         },
         {
           "key": "source:AB08712",
-          "why": "Consider gradual growth and latent capacities becoming visible."
+          "why": "Consider gradual growth and latent capacities becoming visible.",
+          "shortened": [
+            "Now in this world of being, the Hand of Divine Power hath firmly laid the foundations of this all-highest Bounty and this wondrous Gift. Gradually whatsoever is latent in the innermost of this Holy Cycle shall appear and be made manifest, for now is but the beginning of its growth and the dayspring of the revelation of its Signs. Ere the close of this Century and of this Age, it shall be made clear and manifest how wondrous was that Springtide and how heavenly was that Gift!"
+          ]
         },
         {
           "key": "source:AB07871",
-          "why": "Retain the distinction of an originating century within the source’s vision."
+          "why": "Retain the distinction of an originating century within the source’s vision.",
+          "shortened": [
+            "In the ages to come, though the Cause of God may rise and grow a hundredfold and the shade of the Sadratu’l-Muntaha shelter all mankind, yet this present century shall stand unrivalled, for it hath witnessed the breaking of that Morn and the rising of that Sun."
+          ]
         },
         {
           "key": "source:AB06934",
-          "why": "Read the sacred flame’s influence extending beyond its point of origin."
+          "why": "Read the sacred flame’s influence extending beyond its point of origin.",
+          "shortened": [
+            "The fire lit by mortal hand imparteth light and warmth to but a little space, whereas that sacred flame which the Hand of God hath kindled, though burning in the east, will set aflame the west and give warmth to both the north and the south; nay, it shall rise from this world to glow with the hottest flame in the realms on high, flooding with light the Kingdom of eternal glory."
+          ]
         },
         {
           "key": "source:AB00083",
@@ -817,7 +1091,10 @@
         },
         {
           "key": "selection:7c5557c6751977e6b9c2066f",
-          "why": "Read the supplied account of responsibility amid confidence in eventual success."
+          "why": "Read the supplied account of responsibility amid confidence in eventual success.",
+          "shortened": [
+            "This shows that we will ultimately succeed. But could we not through our shortcomings, failures to sacrifice and reluctance to concentrate our efforts in spreading the Cause, retard the realization of that ideal. And what would that mean? It shall mean that we will be held responsible before God, that the race will remain longer in its state of waywardness, that wars would not be soon averted, that human suffering will last longer."
+          ]
         },
         {
           "key": "selection:87db44221a24710ce1cb88cf",
@@ -873,24 +1150,36 @@
       "id": "5410D4DAE5454E8D81B13EC3E9DA2F23",
       "slug": "higherlowernature",
       "displayTitle": "Higher and lower natures: the direction of a human life",
-      "introduction": "The same human powers can become instruments of kindness or of cruelty. These readings locate that troubling possibility within a soul capable of both spiritual growth and profound degradation. Their language of light and darkness, angelic and animal qualities, asks which tendencies govern conduct and how education, reflection, and divine assistance can transform them. Yet material and spiritual capacities also appear as two necessary wings: the inquiry need not become contempt for the body. Historical comparisons with animals function within these moral arguments and should not be treated as comprehensive accounts of animal behavior. Galatians 5:16–23 offers a primary comparison through conflict between flesh and spirit and the character of spiritual fruit [1]. Connected subjects of the human soul, original sin, sight and insight, and material and spiritual civilization invite readers to examine responsibility, habit, and the possibility of becoming more loving, trustworthy, and just.",
+      "introduction": "How lofty a station a human being can reach, Bahá’u’lláh exclaims, and to what depths he can sink, lower than the meanest creature ever fell. Both possibilities live in the same soul. ‘Abdu’l-Bahá calls it the end of night and the beginning of day, a reality poised on the line between darkness and light, bearing an animal side and an angelic side, able to fly through the air by its own devices and to turn those same devices to slaughter. The lower nature shows itself in untruth, cruelty and injustice; the higher in love, mercy, kindness, truth and justice; and the question of a life is which of the two will prevail. The answer is not contempt for the body. A person needs two wings, material and spiritual, and flight is impossible with one. It is education, habit, reflection and the help of God that let intellect govern desire instead of serving it. Paul set the works of the flesh against the fruit of the Spirit, love and patience and gentleness and self-restraint, in the same spirit [1]. Whoever follows this subject will be led on to the nature of the human soul, to the meaning of original sin, to what sets a human being apart from the animal, and to the difference between sight and insight.",
       "arc": "Begin with the soul’s contrasting possibilities, identify the virtues by which growth is recognized, and explore education, habit, spiritual nourishment, and the integration of human capacities.",
       "order": [
         {
           "key": "source:BH04829",
-          "why": "Open with the range between human nobility and degradation."
+          "why": "Open with the range between human nobility and degradation.",
+          "shortened": [
+            "How lofty is the station which man, if he but choose to fulfill his high destiny, can attain! To what depths of degradation he can sink, depths which the meanest of creatures have never reached!"
+          ]
         },
         {
           "key": "source:ABU0706",
-          "why": "Identify the higher nature through love, mercy, truth, and justice."
+          "why": "Identify the higher nature through love, mercy, truth, and justice.",
+          "shortened": [
+            "In man there are two natures; his spiritual or higher nature and his material or lower nature. In one he approaches God, in the other he lives for the world alone. Signs of both these natures are to be found in men. In his material aspect he expresses untruth, cruelty and injustice; all these are the outcome of his lower nature. The attributes of his Divine nature are shown forth in love, mercy, kindness, truth and justice, one and all being expressions of his higher nature."
+          ]
         },
         {
           "key": "source:ABU0275",
-          "why": "Balance moral contrast with the necessity of two wings."
+          "why": "Balance moral contrast with the necessity of two wings.",
+          "shortened": [
+            "For man two wings are necessary. One wing is physical power and material civilization; the other is spiritual power and divine civilization. With one wing only, flight is impossible."
+          ]
         },
         {
           "key": "source:ABU0262",
-          "why": "Read the related account of developing both powers."
+          "why": "Read the related account of developing both powers.",
+          "shortened": [
+            "Man has two powers; and his development, two aspects. One power is connected with the material world, and by it he is capable of material advancement. The other power is spiritual, and through its development his inner, potential nature is awakened. These powers are like two wings. Both must be developed, for flight is impossible with one wing."
+          ]
         },
         {
           "key": "source:ABU1983",
@@ -898,11 +1187,17 @@
         },
         {
           "key": "source:ABU0150",
-          "why": "Join outward education with inward refinement."
+          "why": "Join outward education with inward refinement.",
+          "shortened": [
+            "The purport of our subject is that, just as man is in need of outward education, he is likewise in need of ideal refinement; just as the outer sense of sight is necessary to him, he should also possess insight and conscious perception; as he needs hearing, at the same time memory is essential; as a body is indispensable to him, likewise a mind is requisite; one is a material virtue, the other is ideal."
+          ]
         },
         {
           "key": "source:AB00420",
-          "why": "Read the human station through the image of night becoming day."
+          "why": "Read the human station through the image of night becoming day.",
+          "shortened": [
+            "Man is in the ultimate degree of materiality and the beginning of spirituality, that is, he is at the end of imperfection and the beginning of perfection. He is at the furthermost degree of darkness and the beginning of the light. That is why the station of man is said to be the end of night and the beginning of day, meaning that he encompasses all the degrees of imperfection and that he potentially possesses all the degrees of perfection. He has both an animal side and an angelic side; and the role of the educator is to so train human souls that the angelic side may overcome the animal."
+          ]
         },
         {
           "key": "source:AB00022",
@@ -910,27 +1205,46 @@
         },
         {
           "key": "source:AB01183",
-          "why": "Consider humanity’s place at the meeting of ascent and descent."
+          "why": "Consider humanity’s place at the meeting of ascent and descent.",
+          "shortened": [
+            "Man, however, hath a twofold station: one luminous, the other dark; one pertaining to the realm of the Divine, the other to the world of nature; one inclined towards heavenly virtues, the other towards satanic qualities. For man standeth on the demarcation line between light and darkness. In the circle of existence, he is situated at the lowest point, which marketh at once the end of the arc of descent and the beginning of the arc of ascent."
+          ]
         },
         {
           "key": "source:AB02513",
-          "why": "Explore the rational soul as the confluence of two seas."
+          "why": "Explore the rational soul as the confluence of two seas.",
+          "shortened": [
+            "From one vantage point it possesses spiritual refinement while from the other it exhibits the crassness of carnality, animalistic traits and worldly characteristics. It is neither an absolute abstraction nor is it completely of the world but is the confluence of two seas (majma' al-bahrayn) and a barzakh (\"barrier\", \"isthmus\") between two realities (amrayn). If the spiritual aspect dominates it becometh lofty, luminous, merciful, tranquil (mutma'inna), contented (radiya) and approved (mardiyya). And if it is contaminated with contingent, worldly concerns, it becometh immersed in the ocean of darknessess, reproachful (lawwama), commanding to evil (ammara) and residing in the nethermost regions of the world of existence."
+          ]
         },
         {
           "key": "source:AB00620",
-          "why": "Read the distinction among spirit, mind, and the soul’s two phases."
+          "why": "Read the distinction among spirit, mind, and the soul’s two phases.",
+          "shortened": [
+            "The spirit is the power of life, the mind is the power which apprehendeth the reality of things, and the soul is an intermediary between the Supreme Concourse (or Spiritual World) and the lower concourse (or material world). It, i.e., the soul, hath two phases: The higher aspireth to the Kingdom of El-Baha, and the light of the mind shine forth from the horizon (or kingdom) unto its higher sphere; the other phase inclineth to the lower concourse of the material world and its lowest sphere is enveloped in the darkness of ignorance."
+          ]
         },
         {
           "key": "source:AB00266",
-          "why": "Join inventive capacity with the possibility of virtue or vice."
+          "why": "Join inventive capacity with the possibility of virtue or vice.",
+          "shortened": [
+            "His body is heavy, but he flies through the air by means of vehicles of his own devising. His movement is slow, but he journeys rapidly through East and West by the aid of the devices which he has fashioned. In short, this power encompasses all things.",
+            "But this human spirit has two aspects: one divine and one satanic--that is, it is capable of both the greatest perfection and the greatest deficiency. Should it acquire virtues it is the noblest of all things and should it acquire vices it becomes the most vile."
+          ]
         },
         {
           "key": "source:ABU0033",
-          "why": "Consider the threefold account alongside the twofold descriptions."
+          "why": "Consider the threefold account alongside the twofold descriptions.",
+          "shortened": [
+            "On the other hand, we find in him justice, sincerity, faithfulness, knowledge, wisdom, illumination, mercy and pity, coupled with intellect, comprehension, the power to grasp the realities of things and the ability to penetrate the truths of existence. All these great perfections are to be found in man. Therefore, we say that man is a reality which stands between light and darkness. From this standpoint his nature is threefold: animal, human and divine. The animal nature is darkness; the heavenly is light in light."
+          ]
         },
         {
           "key": "source:ABU0185",
-          "why": "Read the reported pairs of qualities and capacities."
+          "why": "Read the reported pairs of qualities and capacities.",
+          "shortened": [
+            "There are two sides to man. One is divine, the other worldly; one is luminous, the other dark; one is angelic, the other diabolic. In all sensuous conditions man is equal to the animals, for all animal characteristics exist in him. Likewise, divine and satanic qualities are contained in man; knowledge and ignorance; guidance and error; truth and falsehood; generosity and avarice; valor and timidity; inclination towards God and tendency towards Satan."
+          ]
         },
         {
           "key": "source:ABU0667",
@@ -950,7 +1264,10 @@
         },
         {
           "key": "source:ABU1504",
-          "why": "Read divine attraction and continual development as an upward influence."
+          "why": "Read divine attraction and continual development as an upward influence.",
+          "shortened": [
+            "There exist in man two powers. One power uplifts him. This is divine attraction, which causes man's elevation. In all grades of existence he will develop through this power. This belongs to the spirit. The other power causes man to descend. This is the animal nature. The first attracts man to the Kingdom. The second brings him down to the contingent world. Now we must consider which of these will gain more power. If the heavenly power overcome, man will become heavenly, enlightened, merciful; but if the worldly power overcome, he will be dark, satanic, and like the animal."
+          ]
         },
         {
           "key": "source:ABU0118",
@@ -966,15 +1283,24 @@
         },
         {
           "key": "source:ABU2516",
-          "why": "Read the reported distinction between inspiration and enslavement to desire."
+          "why": "Read the reported distinction between inspiration and enslavement to desire.",
+          "shortened": [
+            "The meaning is this: Man has two natures-a higher nature, which is Divine, and a lower nature, which is human. The higher nature is the inspiration of God within us; the lower nature is the slave of sensuous pleasure, desire, attachment, and ignorance."
+          ]
         },
         {
           "key": "source:AB02907",
-          "why": "Recognize the conflict between spiritual longing and the commanding self."
+          "why": "Recognize the conflict between spiritual longing and the commanding self.",
+          "shortened": [
+            "How often it happens that the spirit seeks sanctification and the soul of souls yearns, but the commanding self gains control and afflicts man with a movement that causes the spirit to become troubled."
+          ]
         },
         {
           "key": "source:AB03376",
-          "why": "Read self-mastery through the image of captivity."
+          "why": "Read self-mastery through the image of captivity.",
+          "shortened": [
+            "It is evident that the dominion of the self over man is like the rule of an overwhelming sovereignty, and we are captive in its grip and under its chains, shackles and fetters."
+          ]
         },
         {
           "key": "source:AB00651",
@@ -990,11 +1316,17 @@
         },
         {
           "key": "source:ABU0384",
-          "why": "Read the reported formation of a dominant routine of thought."
+          "why": "Read the reported formation of a dominant routine of thought.",
+          "shortened": [
+            "This passionate personal ego takes the reins from his hands, crowds out the qualities of the divine ego and changes him into an animal, a creature unable to judge good from evil, or to distinguish light from darkness. He becomes blind to divine attributes, for this acquired individuality, the result of an evil routine of thought becomes the dominant note of his life."
+          ]
         },
         {
           "key": "source:ABU2345",
-          "why": "Consider the reported self’s changing preoccupations."
+          "why": "Consider the reported self’s changing preoccupations.",
+          "shortened": [
+            "When the self gains mastery over man, it brings every affliction upon him. For a time it casts him into thoughts of leadership, for a time into thoughts of vice and immorality, for a time into thoughts of falsehood and hypocrisy, for a time into deception, for a time into thoughts of worldliness and wealth - every hour brings a different affliction."
+          ]
         },
         {
           "key": "source:AB06098",
@@ -1006,7 +1338,12 @@
         },
         {
           "key": "source:AB04595",
-          "why": "Read the commanding self in relation to unchecked desire and human destructiveness."
+          "why": "Read the commanding self in relation to unchecked desire and human destructiveness.",
+          "shortened": [
+            "Man like unto the animal is the captive of the world of nature and the laws of nature exercise full control over his nature. He cannot even be compared to the beasts of prey.",
+            "If an animal tears another animal, it is only for its daily food but man destroys one hundred thousand souls in one day.",
+            "What is written concerning the \"ego which is always inclined to do evil\" is no other than the fermentation of the passionate desires in the breast of man and the complete, unchecked sway of the carnal and natural forces over him."
+          ]
         },
         {
           "key": "source:ABU0113",
@@ -1022,19 +1359,33 @@
         },
         {
           "key": "source:ABU0440",
-          "why": "Retain the reported account of nature, self-love, and political conflict."
+          "why": "Retain the reported account of nature, self-love, and political conflict.",
+          "shortened": [
+            "What are passion, desire and the commanding self? These are the exigencies of the natural world. This is not something imaginary - nature itself is the commanding self. If you leave a child in its natural state without education, it remains animal-like. The requirements of nature lead to the commission of every blameworthy act.",
+            "Among nature's demands is the struggle for survival. Among nature's demands is self-love. Among nature's demands is anger. Among nature's demands are cunning and deception. Among nature's demands is domination."
+          ]
         },
         {
           "key": "source:ABU0210",
-          "why": "Read the reported claim about nature beside its appeal to transforming faith."
+          "why": "Read the reported claim about nature beside its appeal to transforming faith.",
+          "shortened": [
+            "Now the world of nature has no will power. Man acts according to the requirements of nature. In the world of nature there is treachery and deceit. Consider what the cat does with the mouse, and the fox does with its prey. In the world of nature there is separation, there is the struggle for existence. These are the natural tendencies. This is irresistible.",
+            "\"That which saves man from the world of nature is the Power of God. It is faith. It is the Fear of God and it will make man an angel; it transforms him."
+          ]
         },
         {
           "key": "source:AB00183",
-          "why": "Consider divine education as a source of transformed conduct."
+          "why": "Consider divine education as a source of transformed conduct.",
+          "shortened": [
+            "When we look at nature we see pride and arrogance, tyranny and evil, imperfection and deficiency, inequity and transgression, ferocity and bloodthirstiness, causing shame and embarrassment. But the divine law abrogates the law of nature and nullifies the vices of base natures, and legislates true virtues so that through divine education the human world may be illumined, satanic whisperings may be transformed into merciful breathings, the utmost abasement will become the essence of glory, and supreme chastisement will be changed into endless mercy."
+          ]
         },
         {
           "key": "source:ABU1172",
-          "why": "Read the reported rescue from vice through the development of virtues."
+          "why": "Read the reported rescue from vice through the development of virtues.",
+          "shortened": [
+            "The state of manis nature is injustice, butchery, tyranny, treachery, lechery, achievement of selfish motives, neglect of God and fulfillment of carnal desires. The sanctified Manifestations of God rescue humanity from this black pit and guide them to the highest stations of spirituality. Thereupon, man gains faith, attraction to the divine fragrance, the ability to discover mysteries, divine recognition, knowledge of hidden secrets, trustworthiness, fidelity, charity, nobility and spirituality."
+          ]
         },
         {
           "key": "source:AB05415",
@@ -1046,11 +1397,17 @@
         },
         {
           "key": "source:ABU0586",
-          "why": "Read the reported transformation of aggression into loving-kindness."
+          "why": "Read the reported transformation of aggression into loving-kindness.",
+          "shortened": [
+            "If the soul remains in this station and moves along these paths it will be the recipient of this darkness; but if it becomes the recipient of the graces of the world of mind, its darkness will be transformed into light, its tyranny into justice, its ignorance into wisdom, its aggression into loving kindness; until it reach the apex."
+          ]
         },
         {
           "key": "source:ABU0343",
-          "why": "Consider good thoughts, deeds, and love as the polishing of a mirror."
+          "why": "Consider good thoughts, deeds, and love as the polishing of a mirror.",
+          "shortened": [
+            "Those who live thinking good thoughts, doing good deeds, and with love in their hearts -the minds of these become ever clearer, reflecting more and more perfectly the love of God, while the minds of those who live in ignorance and desire are clouded and obscured and give forth His light but meagrely."
+          ]
         },
         {
           "key": "source:AB02976",
@@ -1062,7 +1419,10 @@
         },
         {
           "key": "source:ABU1718",
-          "why": "Keep the reported emphasis on early education and habits in its setting."
+          "why": "Keep the reported emphasis on early education and habits in its setting.",
+          "shortened": [
+            "But if these supreme precautions are not taken in the earliest stages of the child's growth, it will be most difficult to curb later on his growing manifold appetites. For then he will live according to the requirements of the world of nature and uncontrolled self. Once the lower and sensual habits of nature take hold of him, it will be very hard to reform him by any human agencies."
+          ]
         },
         {
           "key": "source:ABU1081",
@@ -1070,11 +1430,17 @@
         },
         {
           "key": "source:ABU2139",
-          "why": "Retain the reported account linking restraint and trustworthiness."
+          "why": "Retain the reported account linking restraint and trustworthiness.",
+          "shortened": [
+            "Cruelty is inherent in human nature - if one refrains from it, it is either due to the fear of God or fear of punishment. Otherwise cruelty, oppression, and transgression are inherent in human nature, and the first sign of faith is trustworthiness."
+          ]
         },
         {
           "key": "source:ABU2247",
-          "why": "Hear the related reported role of divine teaching."
+          "why": "Hear the related reported role of divine teaching.",
+          "shortened": [
+            "Nature inclines toward evil, unless divine teachings prevent and intervene."
+          ]
         },
         {
           "key": "source:ABU1398",
@@ -1086,7 +1452,10 @@
         },
         {
           "key": "source:ABU0999",
-          "why": "Consider the reported capacity to overcome a lower tendency."
+          "why": "Consider the reported capacity to overcome a lower tendency.",
+          "shortened": [
+            "However man is endowed by the Creator with a second nature which is supernatural, spiritual, ideal and celestial. With this power he is enabled to overcome his lower, physical nature."
+          ]
         },
         {
           "key": "source:ABU0122",
@@ -1098,7 +1467,11 @@
         },
         {
           "key": "source:ABU1926",
-          "why": "Join development of the body with the cultivation of spiritual gifts."
+          "why": "Join development of the body with the cultivation of spiritual gifts.",
+          "shortened": [
+            "Man thinks too much of perfecting the body, but of what use is it to him without the perfecting of the spirit?",
+            "But man is distinguished from the beast by his spiritual gifts and these he should develop with the other, both together."
+          ]
         },
         {
           "key": "source:ABU0825",
@@ -1114,23 +1487,38 @@
         },
         {
           "key": "source:AB00336",
-          "why": "Distinguish bodily life from the spiritual life described here."
+          "why": "Distinguish bodily life from the spiritual life described here.",
+          "shortened": [
+            "Now, life is of two kinds: that of the body and that of the spirit. The life of the body consists in material life, but the life of the spirit is a heavenly existence which consists in receiving the grace of the Divine Spirit and being quickened through the breath of the Holy Spirit."
+          ]
         },
         {
           "key": "source:AB02144",
-          "why": "Consider the life-giving work attributed to the divine Spirit."
+          "why": "Consider the life-giving work attributed to the divine Spirit.",
+          "shortened": [
+            "O maid-servant of God! The human spirit hath an impression and effect in the world, but the divine Spirit giveth life to the souls and confereth eternal life upon those who are attracted to the fragrances of God. This is the Great Cause from the Kingdom of thy Lord. Be attached to this New Spirit which hath effective power in the realities of things and creates new creatures."
+          ]
         },
         {
           "key": "source:AB00096",
-          "why": "Read Adam and Christ in the account of material and spiritual natures."
+          "why": "Read Adam and Christ in the account of material and spiritual natures.",
+          "shortened": [
+            "Answer:  Know that there are two natures in man:  the material and the spiritual.  The material nature is inherited from Adam, while the spiritual nature is inherited from the reality of the Word of God, which is the spirituality of Christ.  The material nature is born of Adam, but the spiritual nature is born of the grace of the Holy Spirit.  The material nature is the source of every imperfection and the spiritual nature is the source of all perfection."
+          ]
         },
         {
           "key": "source:ABU0757",
-          "why": "Retain the related reported interpretation of Paul."
+          "why": "Retain the related reported interpretation of Paul.",
+          "shortened": [
+            "His Holiness St. Paul says, \"You have died in Adam, you have become alive in the Christ. This statement is most significant. The purpose is this that in man there are two natures. One is material or physical. That is the heritage of Adam to man, for it is elemental; it is material; it belongs to earth. He is possessed of another nature, which is spiritual. That is Christ-like. That is born of the Word of God. That is from the Breaths of the Holy Spirit. That nature is radiant. That nature is heavenly, and that nature is divine."
+          ]
         },
         {
           "key": "source:ABU1953",
-          "why": "Distinguish ordinary human planes from the three stations attributed to Manifestations."
+          "why": "Distinguish ordinary human planes from the three stations attributed to Manifestations.",
+          "shortened": [
+            "Man has two planes: the physical and the intellectual. The divine revelators have three: their physical condition, which is shared by all mankind - they eat, they sleep, they are sometimes ill, they become well again, they become fatigued, they undergo all that man can undergo; their intellectual degree and their holy reality which surrounds all beings and comprehends secrets. Their horizons enfold the universe, for they are the suns of real truth illuminating all the regions of thought, dispersing the darkness, uplifting the world of mankind and making the material world heavenly."
+          ]
         },
         {
           "key": "source:BB00020",
@@ -1146,7 +1534,10 @@
         },
         {
           "key": "source:ABU1956",
-          "why": "Read the separately reported contrast between reliance on guidance and materialism."
+          "why": "Read the separately reported contrast between reliance on guidance and materialism.",
+          "shortened": [
+            "There are two pathways which have been pointed out by the Heavenly Educators. The first is Divine Guidance and reliance upon the Manifestations of God. The other is the road of Materialism and reliance upon the senses. These roads lead in opposite directions. The first leads to the world of the Kingdom; the other ends in the world of human vices, and is contrary to the cause of Divine Guidance."
+          ]
         },
         {
           "key": "source:ABU3163",
@@ -1158,11 +1549,18 @@
         },
         {
           "key": "source:AB07352",
-          "why": "Read the soul’s orientation through the imagery of return."
+          "why": "Read the soul’s orientation through the imagery of return.",
+          "shortened": [
+            "O soul that yearneth for the Beloved! The worldly soul is closely bound to the world of dust and is far removed from the beauty of the celestial world. The divine soul is an intimate of the self-subsistent Lord and is privy to the world of mystery. The earthly soul returneth to the earth, whilst the divine soul returneth unto the Lord of lords."
+          ]
         },
         {
           "key": "source:ABU1999",
-          "why": "Retain the reported account of light, knowledge, and spiritual advancement."
+          "why": "Retain the reported account of light, knowledge, and spiritual advancement.",
+          "shortened": [
+            "Everything save man has one condition, but man has two. The animal has one condition or nature, but man has the animal nature (human) and the Divine nature (spiritual). If the Divine nature predominates he will be good, but if the human nature predominates he will be evil.",
+            "Man has the power of knowledge which will exalt him to Heaven, and the power of ignorance which will debase him to the lowest condition. The more the person advances in Divine things, the more will he receive the Attributes of Light; and the more he retrogrades, the more will he receive the attributes of darkness."
+          ]
         },
         {
           "key": "source:ABU2909",
@@ -1170,19 +1568,31 @@
         },
         {
           "key": "source:ABU1624",
-          "why": "Consider the reported distinction between kinds of love."
+          "why": "Consider the reported distinction between kinds of love.",
+          "shortened": [
+            "Material love is divided into two kinds - the animal and the human love. The animal loves its kind, the bird loves its mate and the gentle dove its offspring. Thus the human being has this quality and a greater power besides. Animal love has no permanent foundation and will soon pass away, but the human being sometimes loves for the sake of God and this another kind of love."
+          ]
         },
         {
           "key": "source:ABU2552",
-          "why": "Read spiritual nourishment alongside the body’s food and drink."
+          "why": "Read spiritual nourishment alongside the body’s food and drink.",
+          "shortened": [
+            "Man has two aspects; a spiritual and an animal aspect. His animal side is sustained through food and drink like unto other beasts but his spiritual life is fed by the ideal perfections, faith, assurance, the Knowledge of God, and the Love of God."
+          ]
         },
         {
           "key": "source:ABU1812",
-          "why": "Consider the paired images of sleep and waking, infancy and maturity."
+          "why": "Consider the paired images of sleep and waking, infancy and maturity.",
+          "shortened": [
+            "Man is possessed of two stations: One is that of sleep and one of wakefulness. One is that of infancy, and one of maturity. One is that of utter helplessness and one is that of great assistance. One is that of utter poverty and one is absolute wealth. These are the two stations of man."
+          ]
         },
         {
           "key": "source:ABU3323",
-          "why": "Close the linked readings with discernment among truth, love, education, and justice."
+          "why": "Close the linked readings with discernment among truth, love, education, and justice.",
+          "shortened": [
+            "You know which path to follow: you cannot be mistaken, for there's a great distinction between God and evil, between Light and darkness, Truth and falsehood, Love and hatred, Generosity and meanness, Education and ignorance, Faith in God and superstition, good Laws and unjust laws."
+          ]
         },
         {
           "key": "selection:9923ccd17d91d416896aed45",
@@ -1309,24 +1719,37 @@
       "id": "70850E6FB45E400FA41773E2557B5CF3",
       "slug": "fanabaqa",
       "displayTitle": "Evanescence and enduring life: what remains when self recedes?",
-      "introduction": "To become less occupied with oneself may open a larger life. These passages develop that paradox through fana and baqa: evanescence and abiding, poverty and wealth, the drop and the sea. Their most intense images of dying, burning, and disappearance belong to a language of spiritual transformation, clarified here through humility, service, and the surrender of self-centered desire. Several readings explicitly distinguish obedience to God’s will from a claim to merge with or comprehend the divine Essence. Qur’an 28:88 offers a primary comparison, already echoed within the selections, through the passing of all things and the enduring divine countenance [1]. Connected subjects of existence and nonexistence, reunion, sacrifice, and spiritual transformation help keep the inquiry grounded: what becomes of action, relationship, and responsibility when the demand for personal distinction recedes, and what kind of freedom might then become possible?",
+      "introduction": "Whoever becomes more evanescent becomes more lasting, Bahá’u’lláh writes, and whoever becomes poorer becomes richer. The mystics called the two sides of this paradox faná and baqá, passing away and abiding, and the Bahá’í writings take up their boldest images without flinching: the drop lost in the sea, the shadow that cannot survive the sun, the iron that takes on the fire’s heat, the dead body in the hands of the washer. Then they explain what the images mean, and the meaning is both humbler and more demanding than mystical union. No one’s will ever merges with God’s; the glory of existence is to let one’s own will fade into His, to have no desire but His desire, and to move by His command with joy. That dying, ‘Abdu’l-Bahá insists, shows itself in love and kindness, peace toward all humanity, and a servitude so complete that it asks no distinction. The Qur’án’s verse that all things perish save the face of God [1] sounds through this teaching as its ground and its promise. What remains when the self recedes is not emptiness but a larger life, and the path from here runs through the sacrifice of self, the question of existence and nonexistence, the hope of reunion with God, and the slow work of spiritual transformation.",
       "arc": "Begin with the paradox of becoming lasting through selflessness, clarify surrender and transcendence, then explore mystical images through service, humility, and transformed relationships.",
       "order": [
         {
           "key": "source:AB06326",
-          "why": "Open with the paradox of becoming more lasting and richer through evanescence and poverty."
+          "why": "Open with the paradox of becoming more lasting and richer through evanescence and poverty.",
+          "shortened": [
+            "Whosoever becometh more evanescent becometh more lasting, and whosoever becometh poorer becometh richer."
+          ]
         },
         {
           "key": "source:AB10703",
-          "why": "Read the explicit explanation in terms of forgetting selfish conditions."
+          "why": "Read the explicit explanation in terms of forgetting selfish conditions.",
+          "shortened": [
+            "7. Evanescence and humility: That is to say man must become evanescent in God - must forget his own selfish conditions that he may thus arise to the station of sacrifice."
+          ]
         },
         {
           "key": "source:BH01850",
-          "why": "Clarify self-surrender through joyful action according to divine commands."
+          "why": "Clarify self-surrender through joyful action according to divine commands.",
+          "shortened": [
+            "O Shaykh, O thou who hast surrendered thy will to God! By self-surrender and perpetual union with God is meant that men should merge their will wholly in the Will of God, and regard their desires as utter nothingness beside His Purpose. Whatsoever the Creator commandeth His creatures to observe, the same must they diligently, and with the utmost joy and eagerness, arise and fulfill.",
+            "The station of absolute self-surrender transcendeth, and will ever remain exalted above, every other station."
+          ]
         },
         {
           "key": "source:BH01427",
-          "why": "Distinguish the fading of personal will from a claim of union with the divine Essence."
+          "why": "Distinguish the fading of personal will from a claim of union with the divine Essence.",
+          "shortened": [
+            "Furthermore, no one's will hath ever been or shall ever be united with God's will, for the will of all hath been and shall ever be as nothingness before His will. The glory of existence is for one to make his own will fade away in God's will - that is, to have no will, thought or imagination of his own, but to move by God's will and act accordingly."
+          ]
         },
         {
           "key": "source:AB06307",
@@ -1334,19 +1757,32 @@
         },
         {
           "key": "source:AB08845",
-          "why": "Connect the station with love, kindness, peace, and harmony toward humanity."
+          "why": "Connect the station with love, kindness, peace, and harmony toward humanity.",
+          "shortened": [
+            "This station is achieved through detachment and attraction, through effacement and evanescence, through love and kindness, and through peace and harmony towards all humanity."
+          ]
         },
         {
           "key": "source:AB03082",
-          "why": "Hear the prayer for selflessness in service to the loved ones."
+          "why": "Hear the prayer for selflessness in service to the loved ones.",
+          "shortened": [
+            "Help me to be selfless at the heavenly entrance of Thy gate, and aid me to be detached from all things within Thy holy precincts. Lord! Give me to drink from the chalice of selflessness; with its robe clothe me, and in its ocean immerse me. Make me as dust in the pathway of Thy loved ones, and grant that I may offer up my soul for the earth ennobled by the footsteps of Thy chosen ones in Thy path, O Lord of Glory in the Highest."
+          ]
         },
         {
           "key": "source:BH00047",
-          "why": "Enter the Seven Valleys’ account of poverty and dying to self."
+          "why": "Enter the Seven Valleys’ account of poverty and dying to self.",
+          "shortened": [
+            "This station is that of dying to the self and living in God, of being poor in self and rich in the Desired One. Poverty, as here referred to, signifieth being poor in that which pertaineth to the world of creation and rich in what belongeth to the realms of God."
+          ]
         },
         {
           "key": "source:BH00012",
-          "why": "Read the City of Absolute Nothingness with its shadow-and-sun image."
+          "why": "Read the City of Absolute Nothingness with its shadow-and-sun image.",
+          "shortened": [
+            "In this station, this most exalted habitation, this journey of utter self-effacement, the wayfarer forgetteth his soul, spirit, body, and very being, immerseth himself in the sea of nothingness, and liveth on earth as one unworthy of mention. Nor will one find any sign of his existence, for he hath vanished from the realm of the visible and attained unto the heights of self-abnegation.",
+            "How can a true lover continue to exist when once the effulgent glories of the Beloved are revealed? How can the shadow endure when once the sun hath shone forth?"
+          ]
         },
         {
           "key": "source:AB03936",
@@ -1354,11 +1790,17 @@
         },
         {
           "key": "source:BH06851",
-          "why": "Read abiding in God through the stated meaning of seeking His will."
+          "why": "Read abiding in God through the stated meaning of seeking His will.",
+          "shortened": [
+            "We have heard thy call and have remembered thee with these sublime words: In this Day, they who attribute themselves to God must be seen as evanescent in themselves and abiding in God - that is, they must seek no desire save His desire and move according to His Will and Purpose."
+          ]
         },
         {
           "key": "source:BH01030",
-          "why": "Retain the concise explanation connecting desire with divine purpose."
+          "why": "Retain the concise explanation connecting desire with divine purpose.",
+          "shortened": [
+            "O My Name! Thy will must be connected to what God willeth, and thy desire must be annihilated in His desire - that is, thou must regard God's will as thy desire and His wish as thy purpose."
+          ]
         },
         {
           "key": "source:BH01289",
@@ -1366,11 +1808,17 @@
         },
         {
           "key": "source:BH07193",
-          "why": "Read affirmation of what has descended from the divine will."
+          "why": "Read affirmation of what has descended from the divine will.",
+          "shortened": [
+            "Blessed is he who hath caused his will to be annihilated in My will and hath attained to the affirmation of that which hath descended from the heaven of My will and flowed from My Pen."
+          ]
         },
         {
           "key": "source:BH07310",
-          "why": "Hear the counsel to set aside personal desire for what God desires."
+          "why": "Hear the counsel to set aside personal desire for what God desires.",
+          "shortened": [
+            "O Abu-Talib! Fix thy gaze upon this blessed word which is as a crown for the head of mystical understanding: \"Set aside what thou desirest and take what thy Lord desireth.\""
+          ]
         },
         {
           "key": "source:BH09290",
@@ -1378,7 +1826,10 @@
         },
         {
           "key": "source:AB01529",
-          "why": "Consider the lover’s good pleasure within the language of surrendered desire."
+          "why": "Consider the lover’s good pleasure within the language of surrendered desire.",
+          "shortened": [
+            "For after the servant is effaced in the good-pleasure of the Worshipped One and the good-pleasure and desire of the lover is erased in the decree of the Beloved, the servant's good-pleasure becomes identical to the good-pleasure of the Worshipped One, and the Beloved's good-pleasure becomes the very reality of the lover's good-pleasure."
+          ]
         },
         {
           "key": "source:BH07898",
@@ -1386,43 +1837,73 @@
         },
         {
           "key": "source:BH07118",
-          "why": "Read hope, deed, purpose, and remembrance joined in one prayer."
+          "why": "Read hope, deed, purpose, and remembrance joined in one prayer.",
+          "shortened": [
+            "O Lord! Make my hope Thy remembrance, my deed Thy praise, my purpose Thy purpose, and my good-pleasure Thy good-pleasure, that I may be effaced from myself and endure through Thy Name, the Ever-Abiding, the Everlasting, the Mighty, the All-Wise."
+          ]
         },
         {
           "key": "source:BH01165",
-          "why": "Consider the prayer for attraction and hope in what is ordained."
+          "why": "Consider the prayer for attraction and hope in what is ordained.",
+          "shortened": [
+            "Then attract him through the melodies of the Source of Thy Revelation to such a station wherein he may become wholly annihilated in Thy good-pleasure and hopeful of what Thou hast ordained in Thy tablets."
+          ]
         },
         {
           "key": "source:AB00851",
-          "why": "Read the interpretation of mystical words through servitude."
+          "why": "Read the interpretation of mystical words through servitude.",
+          "shortened": [
+            "This servant says that the true meaning and the reality of meanings and the innermost secret of these verses, words and poetry is servitude at the Holy Threshold of the Most Glorious Beauty and utter effacement, evanescence and extinction at the Sacred Court."
+          ]
         },
         {
           "key": "source:AB07220",
-          "why": "Retain the concise linking of mystery, service, and self-effacement."
+          "why": "Retain the concise linking of mystery, service, and self-effacement.",
+          "shortened": [
+            "The secret of divine mysteries and the divine secret is servitude at the threshold and self-effacement and evanescence."
+          ]
         },
         {
           "key": "source:AB08940",
-          "why": "Consider purity of intention among the requirements of servitude."
+          "why": "Consider purity of intention among the requirements of servitude.",
+          "shortened": [
+            "O thou who standest in the stations of servitude! The requirements of servitude are purity of intention and complete effacement and self-abnegation. That is, in all conditions one must manifest absolute effacement, utter poverty and complete sacrifice, such that no trace or vestige of one's existence and being remaineth."
+          ]
         },
         {
           "key": "source:AB09838",
-          "why": "Read humility as healing from the maladies of self."
+          "why": "Read humility as healing from the maladies of self.",
+          "shortened": [
+            "One should be the quintessence of humility, the very essence of meekness and be evanescence itself, healed of the maladies of the self."
+          ]
         },
         {
           "key": "source:AB08261",
-          "why": "Keep the stringent warning about distinction and uniqueness in its own admonitory voice."
+          "why": "Keep the stringent warning about distinction and uniqueness in its own admonitory voice.",
+          "shortened": [
+            "When any soul perceiveth an existence for himself and imagineth a distinction and uniqueness, this is from the effects of croaking and a sign of hypocrisy. One must forget one's own conditions and attain to the station of utter evanescence, otherwise the observation of existence will ultimately lead to misbelief and manifest infidelity."
+          ]
         },
         {
           "key": "source:ABU1989",
-          "why": "Consider the reported indifference to fame or obscurity."
+          "why": "Consider the reported indifference to fame or obscurity.",
+          "shortened": [
+            "Thus fame or oblivion, honor or degradation are one and the same to those Gems of existence. Indeed, their ultimate desire is selfless devotion to the one true God and absolute nothingness in His court."
+          ]
         },
         {
           "key": "source:AB11850",
-          "why": "Hear the prayer to retain only the designation of service."
+          "why": "Hear the prayer to retain only the designation of service.",
+          "shortened": [
+            "O Lord! Preserve me from every title, attribute and name that may be uttered by the tongue of Thy loved ones, save the word that signifies servitude to Thy Baha and the sign that indicates evanescence and extinction before the manifestation of any of Thy signs."
+          ]
         },
         {
           "key": "source:AB02001",
-          "why": "Read the writer’s task through service and the quoted image of immortality."
+          "why": "Read the writer’s task through service and the quoted image of immortality.",
+          "shortened": [
+            "Your pen must be the interpreter of this servant's pen, and whatever flows from this pen must stream from that pen - that is, in mentioning this servant's servitude, your pen will, God willing, become a mighty sign. This is what He says: \"Until you are annihilated from the description of existence, O wayfarer, how can you taste the wine of immortality from the sweet ruby lips of the Beloved?\""
+          ]
         },
         {
           "key": "source:AB09320",
@@ -1430,7 +1911,10 @@
         },
         {
           "key": "source:AB04273",
-          "why": "Read effective teaching through enkindlement and humility."
+          "why": "Read effective teaching through enkindlement and humility.",
+          "shortened": [
+            "The teacher, when teaching, must be himself fully enkindled, so that his utterance, like unto a flame of fire, may exert influence and consume the veil of self and passion. He must also be utterly humble and lowly so that others may be edified, and be totally self-effaced and evanescent so that he may teach with the melody of the Concourse on highâ€\"otherwise his teaching will have no effect."
+          ]
         },
         {
           "key": "source:BH01980",
@@ -1438,7 +1922,10 @@
         },
         {
           "key": "source:AB01796",
-          "why": "Read character education as a setting for relinquishing self-centered desire."
+          "why": "Read character education as a setting for relinquishing self-centered desire.",
+          "shortened": [
+            "Now character education must also be done in America so that souls may appear who are truly worthy and deserving of the Blessed Cause - who are completely effaced and evanescent, who are detached from self and passion and have withdrawn from their own desires, who have abandoned their own will and acquiesced to the Will of God, who, like the holy souls of Iran, shine forth from the horizon of the love of God and hasten to the field of sacrifice with utmost joy and delight."
+          ]
         },
         {
           "key": "source:AB11380",
@@ -1462,7 +1949,11 @@
         },
         {
           "key": "source:AB09394",
-          "why": "Consider prostration as an expression of humility."
+          "why": "Consider prostration as an expression of humility.",
+          "shortened": [
+            "O thou who prostrateth thyself at the threshold of the Ancient Beauty!",
+            "Prostration is evidence of the absence of being--that is, of utter humility, evanescence and nothingness."
+          ]
         },
         {
           "key": "source:AB08600",
@@ -1494,7 +1985,10 @@
         },
         {
           "key": "source:AB01189",
-          "why": "Read ray, drop, and lover as related images of return."
+          "why": "Read ray, drop, and lover as related images of return.",
+          "shortened": [
+            "Release yourselves from this world's life, and at every stage long ye for non-existence; for when the ray returneth to the sun, it is wiped out, and when the drop cometh to the sea, it vanisheth, and when the true lover findeth his Beloved, he yieldeth up his soul."
+          ]
         },
         {
           "key": "source:BH03778",
@@ -1502,19 +1996,33 @@
         },
         {
           "key": "source:BH02190",
-          "why": "Read the reciprocal gates of extinction and immortality with the Quranic allusion."
+          "why": "Read the reciprocal gates of extinction and immortality with the Quranic allusion.",
+          "shortened": [
+            "Extinction is the gate to immortality, and immortality the gate to extinction. Non-existence is the door to existence, and existence the door to non-existence. The blessed word \"All things shall perish save His Face\" is a source of patience and solace for the peoples of the world."
+          ]
         },
         {
           "key": "source:AB07492",
-          "why": "Hear the brief affirmation of the One who abides."
+          "why": "Hear the brief affirmation of the One who abides.",
+          "shortened": [
+            "Do not spur on your charger in pursuit of a shadow, for all shades and shadows are non existent. The only abiding one is He whose shade overshadoweth the world of eternity."
+          ]
         },
         {
           "key": "source:BH03210",
-          "why": "Distinguish what passes away from what abides with God."
+          "why": "Distinguish what passes away from what abides with God.",
+          "shortened": [
+            "Drink from the wine of love and close thine eyes to the world, for whatever thou seest will perish and pass away in an instant, while that which is with God remaineth and perisheth not, and endureth and fadeth not away."
+          ]
         },
         {
           "key": "source:BH02091",
-          "why": "Explore the passage’s stations and mystical claims in their own theological setting."
+          "why": "Explore the passage’s stations and mystical claims in their own theological setting.",
+          "shortened": [
+            "Therefore one must lift one's foot from the realm of nothingness and step into the realm of eternity, so that we may raise the banner of being in the heaven of non-being and comprehend the meaning of \"All things perish save His face,\" and pass beyond the earthly homeland to return to the original divine homeland, of which \"Verily we are God's and to Him we return\" is indicative.",
+            "In this station and rank, existence is effaced from self and subsists through the Truth. All are from God and unto God shall they return, and \"Say: All things are from God\" is sufficient witness and adequate proof of this point, as the mystic of Rum has said:",
+            "His attributes are annihilated in the attributes of Him\nWhile His essence remains through the survival of His essence"
+          ]
         },
         {
           "key": "source:BH00108",
@@ -1530,7 +2038,10 @@
         },
         {
           "key": "source:BH04013",
-          "why": "Read the poem of spiritual return and eternity."
+          "why": "Read the poem of spiritual return and eternity.",
+          "shortened": [
+            "One must set one's heart upon the eternal kingdom and pass beyond the mortal dust, that perchance on spiritual wings one may fly to the divine holy nest, there to sing with wondrous Iraqi melody this song of spiritual glory: We are all drunk with annihilation, We are all the light of glory, We are all the spirit of eternity."
+          ]
         },
         {
           "key": "source:BH04069",
@@ -1546,7 +2057,10 @@
         },
         {
           "key": "source:BH07857",
-          "why": "Consider the relation between immortal perception and immortal beauty."
+          "why": "Consider the relation between immortal perception and immortal beauty.",
+          "shortened": [
+            "Yea, an immortal ear is needed to hear the immortal Word, and an immortal eye is needed to behold the immortal Beauty, for that which is evanescent hath no path into the arena of eternity that it may comprehend the degrees of everlasting glory, and the abject one hath no portion of the cup of glory that he may step into His holy court."
+          ]
         },
         {
           "key": "source:BH03234",
@@ -1558,11 +2072,17 @@
         },
         {
           "key": "source:BB00081",
-          "why": "Keep the Bab’s prayer concerning remembrance and self-mention in its own voice."
+          "why": "Keep the Bab’s prayer concerning remembrance and self-mention in its own voice.",
+          "shortened": [
+            "How can I mention any but Thee, O my Beloved, after Thou hast given me to drink of the water of life in Thy knowledge? And how can I mention myself and its conditions after my awareness of Thy Being and Thy manifestations? By Thy might! It beseemeth not the non-existent to mention non-existence before Thy Ancient Self, O Everlasting One!"
+          ]
         },
         {
           "key": "source:AB06211",
-          "why": "Consider prayer that exceeds syllables and sound."
+          "why": "Consider prayer that exceeds syllables and sound.",
+          "shortened": [
+            "Reveal then Thyself, O Lord! by Thy merciful Utterance and the mystery of Thy Divine Being, that the holy ecstasy of prayer may fill our souls -- a prayer that shall rise above words and letters and transcend the murmur of syllables and sounds -- that all things may be merged into nothingness before the revelation of Thy Splendour."
+          ]
         },
         {
           "key": "source:BH05799",
@@ -1578,23 +2098,38 @@
         },
         {
           "key": "source:AB06368",
-          "why": "Consider the striking claim about anger and forgiveness at the wayfarer’s station."
+          "why": "Consider the striking claim about anger and forgiveness at the wayfarer’s station.",
+          "shortened": [
+            "When the wayfarer reaches this most exalted and supreme station, firstly no anger arises in him that he should need to suppress it, and no self remains that should need to forgive."
+          ]
         },
         {
           "key": "source:AB02746",
-          "why": "Read the prayer against losing light after spiritual ascent."
+          "why": "Read the prayer against losing light after spiritual ascent.",
+          "shortened": [
+            "In God alone do we seek refuge from a falling off after this bright ascent, from ashy sleep after enkindlement, from a darkness after having seen the light and from a veiling once again after the blessed sight of God's own mysteries."
+          ]
         },
         {
           "key": "source:BH05687",
-          "why": "Consider confidence in divine permanence amid vicissitudes."
+          "why": "Consider confidence in divine permanence amid vicissitudes.",
+          "shortened": [
+            "If the pure handmaidens and assured believers were certain of the existence and permanence of God, they would not fear their own non-existence and evanescence, nor would they be saddened by any vicissitudes."
+          ]
         },
         {
           "key": "source:AB01580",
-          "why": "Hear the challenge to seek what gives lasting fruit."
+          "why": "Hear the challenge to seek what gives lasting fruit.",
+          "shortened": [
+            "Whatever you do and show forth and strive and boil and cry out, you will become like those who came before - meaning no trace or fruit will remain enduring and established - unless you become bewildered by that Beauty and yearning for that brilliant Moon."
+          ]
         },
         {
           "key": "source:AB05270",
-          "why": "Read longing to move from multiplicity toward a life-giving expanse."
+          "why": "Read longing to move from multiplicity toward a life-giving expanse.",
+          "shortened": [
+            "The reality of existence hopes for the stations of witnessing, and the essence and being of existence longs for nonexistence and annihilation, that perchance through the grace and bounty of the Peerless Lord it may be freed from this world of multiplicity and find its way into the life-giving expanse of the Lord and be guided to the Kingdom of sanctification."
+          ]
         },
         {
           "key": "source:AB03311",
@@ -1606,7 +2141,10 @@
         },
         {
           "key": "source:AB04400",
-          "why": "Read the imagery of melting in love as part of this mystical vocabulary."
+          "why": "Read the imagery of melting in love as part of this mystical vocabulary.",
+          "shortened": [
+            "This is the arena of self-annihilation, of a hundred thousand acts of self -immolation, of being melted in pure love."
+          ]
         },
         {
           "key": "source:AB06366",
@@ -1618,15 +2156,24 @@
         },
         {
           "key": "source:AB04285",
-          "why": "Retain the aspiration to follow the righteous exemplar."
+          "why": "Retain the aspiration to follow the righteous exemplar.",
+          "shortened": [
+            "I hope that we may attain to this station, become utterly effaced and non-existent, completely annihilated and obliterated, so that we may follow the example of that leader of the righteous ones and emerge from the realm of immortality, the supreme horizon, and the Most Glorious Kingdom."
+          ]
         },
         {
           "key": "source:AB01446",
-          "why": "Consider learning the way through hidden pearls and gems."
+          "why": "Consider learning the way through hidden pearls and gems.",
+          "shortened": [
+            "We should enlighten our eyes by observing the gleaming of its hidden pearls and treasured gems, and learn the way of non-existence and evanescence and effacement and obliteration."
+          ]
         },
         {
           "key": "source:AB03187",
-          "why": "Read servitude and return together at the described station."
+          "why": "Read servitude and return together at the described station.",
+          "shortened": [
+            "For in that station the wayfarer, through the obliteration of multiplicity and the power of extinction, becomes free from all qualities of the Incomparable Lord and utters the words \"We are God's and unto Him do we return.\" His existence is witness to Him, his servitude is his praiseworthy station, and complete annihilation is his ultimate goal."
+          ]
         },
         {
           "key": "source:AB04115",
@@ -1638,15 +2185,24 @@
         },
         {
           "key": "source:AB04686",
-          "why": "Read the movement through heights and depths of self-effacement."
+          "why": "Read the movement through heights and depths of self-effacement.",
+          "shortened": [
+            "Sometimes you will hasten to the heights of evanescence, sometimes you will race into the depths of effacement and nothingness."
+          ]
         },
         {
           "key": "source:AB05704",
-          "why": "Consider intoxication as the image of service and selflessness."
+          "why": "Consider intoxication as the image of service and selflessness.",
+          "shortened": [
+            "But now thou art intoxicated with this cup and art a wine-worshipper in the tavern of servitude and self-effacement."
+          ]
         },
         {
           "key": "source:BH01251",
-          "why": "Hear the promised cup offered by the cupbearer of eternity."
+          "why": "Hear the promised cup offered by the cupbearer of eternity.",
+          "shortened": [
+            "Ere long shall ye drink the cup of evanescence from the hand of the cupbearer of eternity, and quaff the chalices of love from the hand of the celestial maiden."
+          ]
         },
         {
           "key": "source:AB06384",
@@ -1654,11 +2210,17 @@
         },
         {
           "key": "source:AB07030",
-          "why": "Consider the addressee’s love, supplication, and turning toward God."
+          "why": "Consider the addressee’s love, supplication, and turning toward God.",
+          "shortened": [
+            "O distinguished and outspoken one! I have intoned the verses of your love which speak of your turning to God, your supplication to the Kingdom of God, your clinging to the hem of the robe of grandeur, your partaking of the choice wine of guidance, and your submergence in the sea of evanescence in God."
+          ]
         },
         {
           "key": "source:AB12152",
-          "why": "Hear the repeated appeal as an expression of devotional intensity."
+          "why": "Hear the repeated appeal as an expression of devotional intensity.",
+          "shortened": [
+            "Evanescence, evanescence, evanescence! Annihilation, annihilation, annihilation! This is the magnet that attracts divine confirmations."
+          ]
         },
         {
           "key": "source:ABU1687",
@@ -1666,19 +2228,31 @@
         },
         {
           "key": "source:ABU1976",
-          "why": "Retain the reported concise paradox of evanescence and eternity."
+          "why": "Retain the reported concise paradox of evanescence and eternity.",
+          "shortened": [
+            "When evanescent, you will become eternal. When evanescent, you will become everlasting."
+          ]
         },
         {
           "key": "source:ABU0774",
-          "why": "Read the reported account of spiritual and worldly well-being in its religious setting."
+          "why": "Read the reported account of spiritual and worldly well-being in its religious setting.",
+          "shortened": [
+            "For all people, from kings to subjects, eternal illumination, everlasting spirituality and perpetual existence lie in accepting the divine Cause, and likewise their worldly glory, comfort and freedom depend upon entering the divine Cause."
+          ]
         },
         {
           "key": "source:ABU3419",
-          "why": "Keep the reported playful enumeration of things relinquished distinctly attributed."
+          "why": "Keep the reported playful enumeration of things relinquished distinctly attributed.",
+          "shortened": [
+            "One is to forfeit possessions, to forfeit estates. One is to forego name, honor, fame. One is to forsake relatives, station, Et Cetera, et cetera, (ended Abdul-Baha, laughing)."
+          ]
         },
         {
           "key": "source:BH10655",
-          "why": "Close the linked readings with the imagery of the Bird and the seas of the Eternal."
+          "why": "Close the linked readings with the imagery of the Bird and the seas of the Eternal.",
+          "shortened": [
+            "The essential realities of the loved ones have perished from a single cry of the Bird of Divine Jealousy, and the radiant beings of the companions have ascended to the realm of evanescence from half a surge of the seas of the Presence of the Eternal."
+          ]
         },
         {
           "key": "selection:a9f1229907a77d11ea9403fa",
@@ -1756,7 +2330,7 @@
       "id": "2863570D944B4AFB91F6F5A9413971B7",
       "slug": "materialreflection",
       "displayTitle": "The visible world as a reflection of spiritual reality",
-      "introduction": "A garden, a human voice, or a page of writing can become an invitation to perceive more than its outward form. These readings describe the material world as a book, mirror, and field of signs, while also distinguishing its relative existence from sheer illusion. Their images invite attention to nature and to the spiritual qualities that human action can express. Correspondence does not make every analogy exact: a reflection points beyond itself without exhausting what it represents. Qur’an 16:10–11 offers a primary comparison through rain, nourishment, and growth becoming signs for reflection [1]. Connected subjects of the two books of creation and revelation, language and reality, humanity in the image of God, and spiritual springtime widen the inquiry. The practical question is how perception becomes conduct—how reading the world might deepen gratitude, overcome prejudice, and make deeds worthy lines in its unfolding book.",
+      "introduction": "Look at the world, Bahá’u’lláh says, and it will unfold the book of its own self before your eyes. The heavens tell of sovereign power, the sea of wealth, the wind of nearness; the leaves of a tree are pages, and a calligrapher is told that deeds and conduct are the lines on an unfurled scroll. ‘Abdu’l-Bahá adds a necessary caution. To call the visible world a reflection, a mirage beside the reality of God, is not to call it nothing; in its own degree it exists, as an image in a mirror has a real person standing behind it. A reflection points beyond itself, and every likeness has its limits. The practical question is what such perception does to a life: whether a heart that reads signs in rain and growth learns gratitude, whether a community can become a mirror of the realm above, whether the earth, a workshop rather than a gallery, can refine character. The Qur’an, turning rain into drink, pasture and crops, calls that provision a sign for people who reflect [1]. From here the road runs toward the two books of creation and revelation, the human reality fashioned in the image of God, and the spiritual springtime in which an outward season answers an inward one.",
       "arc": "Begin with the world as a readable book, distinguish relative reality from illusion, and move through natural images and spiritual correspondence toward worship, character, and shared action.",
       "order": [
         {
@@ -1765,11 +2339,19 @@
         },
         {
           "key": "source:AB02618",
-          "why": "Establish that relative existence need not mean sheer illusion."
+          "why": "Establish that relative existence need not mean sheer illusion.",
+          "shortened": [
+            "This notion is false, for although the existence of things is an illusion compared to the existence of God, yet in the contingent world it is established, proven, and undeniable.",
+            "It is therefore evident that although created things have no existence compared to that of God, being instead like a mirage or an image reflected in a mirror, yet in their own degree they exist."
+          ]
         },
         {
           "key": "source:BH00598",
-          "why": "Enter the prayer through its heavens, seas, winds, and tree."
+          "why": "Enter the prayer through its heavens, seas, winds, and tree.",
+          "shortened": [
+            "Whensoever I raise mine eyes to the heavens and witness their loftiness, I recognize naught therein but the wondrous heights of Thy supreme power and sovereign authority.",
+            "And whensoever, O my God, I behold the sea and its waves, methinks I hear the billowing ocean of Thy wealth and power. In the sun I discern naught but the marvellous splendour of the light of Thy hallowed countenance and presence, and in the wind I sense naught save the stirring breezes of Thy nearness and reunion. In the trees I behold only the revelation of the fruits of Thy wisdom and knowledge, and in their leaves I read but the pages of the books enshrining the mysteries of all that hath been through Thy command or will be through Thy power."
+          ]
         },
         {
           "key": "source:ABU3428",
@@ -1777,43 +2359,75 @@
         },
         {
           "key": "source:AB00170",
-          "why": "Read the two books of creation and revelation together."
+          "why": "Read the two books of creation and revelation together.",
+          "shortened": [
+            "The verse concerns this: there are two unfurled books - one the Book of Creation and the other the Book of Revelation. The Book of Revelation comprises the heavenly scriptures revealed unto the divine Prophets and issued from the pure mouth of Truth. The Book of Creation is this preserved tablet of contingent being and the unfurled scroll of existence, and Creation follows Revelation.",
+            "When thou readest Revelation, thou becomest aware of divine mysteries, and when thou gazest upon the Book of Creation, thou beholdest the signs, symbols, realities, conditions and manifestations of the hidden mystery and the outpourings of the Incomparable Lord."
+          ]
         },
         {
           "key": "source:AB05536",
-          "why": "Retain the related contrast between scripture and the horizons."
+          "why": "Retain the related contrast between scripture and the horizons.",
+          "shortened": [
+            "The former were inscribed in books, psalms, scrolls and tablets, while the latter appeared in the Preserved Tablet and the outstretched parchment of the horizons."
+          ]
         },
         {
           "key": "source:AB00083",
-          "why": "Explore the universe as a scroll of names and attributes."
+          "why": "Explore the universe as a scroll of names and attributes.",
+          "shortened": [
+            "Then wilt thou observe that the universe is a scroll that discloseth His hidden secrets, which are preserved in the well-guarded Tablet. And not an atom of all the atoms in existence, not a creature from amongst the creatures but speaketh His praise and telleth of His attributes and names, revealeth the glory of His might and guideth to His oneness and His mercy: and none will gainsay this who hath ears to hear, eyes to see, and a mind that is sound."
+          ]
         },
         {
           "key": "source:AB08765",
-          "why": "Turn toward careful observation of creation."
+          "why": "Turn toward careful observation of creation.",
+          "shortened": [
+            "O namesake of the Most Desired One! Open the eye of outward vision in the arena of existence, that thou mayest behold the verses of the Supreme Concourse inscribed, recorded and confirmed in clear script upon the scroll of the horizons. And observe with care the pure and delicate pages of creation, that thou mayest perceive the images of the most glorious Kingdom."
+          ]
         },
         {
           "key": "source:AB09343",
-          "why": "Connect the image of writing with the lines formed by deeds."
+          "why": "Connect the image of writing with the lines formed by deeds.",
+          "shortened": [
+            "O Calligrapher! This world of being is an inscribed book and an unfurled scroll.",
+            "These lines are deeds and actions, ways and words and conduct."
+          ]
         },
         {
           "key": "source:AB06288",
-          "why": "Join the inward temple of the heart with outward worship and action."
+          "why": "Join the inward temple of the heart with outward worship and action.",
+          "shortened": [
+            "I ask God to make the heart of every one of you a temple of the Divine Temples and to let the lamp of the great guidance be lighted therein; and when the hearts find such an attainment, they will certainly exert the utmost endeavor and energy in the building of the Mashrak-el-Azcar; thus may the outward express the inward, and the form (or letter) indicate the meaning (or reality)."
+          ]
         },
         {
           "key": "source:AB04957",
-          "why": "Read the assembly’s unity through the removal of prejudice."
+          "why": "Read the assembly’s unity through the removal of prejudice.",
+          "shortened": [
+            "As for the Spiritual Assembly, I pray that God may assist them in all affairs and enable them to exalt the Word of God and promote the divine teachings, so that they may become the cause of human unity and the spread of the divine breaths, until no prejudice remains between religions, denominations and races, and all may hold fast together to the cord of God, and misunderstandings between all parties may vanish, and the human world may become a mirror of the Kingdom of God upon which spiritual lights shine."
+          ]
         },
         {
           "key": "source:AB07234",
-          "why": "Consider conduct as the reflection of teachings."
+          "why": "Consider conduct as the reflection of teachings.",
+          "shortened": [
+            "I hope that this may be so, meaning that the loved ones of God may conduct themselves according to the teachings, counsels and exhortations of Baha'u'llah, so that the lights of the Kingdom may be reflected in the mirror of the human world."
+          ]
         },
         {
           "key": "source:AB00034",
-          "why": "Read the garden’s visible flowers through the image of mystical learning."
+          "why": "Read the garden’s visible flowers through the image of mystical learning.",
+          "shortened": [
+            "Then came forth flowers of mystic learning, and, bespeaking the knowledge of God, fresh greenery from the ground. The contingent world displayed God's bounteous gifts, the visible world reflecting the glories of realms that were hidden from sight."
+          ]
         },
         {
           "key": "source:AB00444",
-          "why": "Explore the appearance of invisible meaning in visible form."
+          "why": "Explore the appearance of invisible meaning in visible form.",
+          "shortened": [
+            "Praise be to Him Who hath made the world of being, and hath fashioned all that is, Him Who hath raised up the sincere to a station of honor and hath made the invisible world to appear on the plane of the visible--yet still, in their drunken stupor, do men wander and stray."
+          ]
         },
         {
           "key": "source:AB00023",
@@ -1833,7 +2447,10 @@
         },
         {
           "key": "source:AB00457",
-          "why": "Read correspondence in the passage’s account of sound inquiry and divine verses."
+          "why": "Read correspondence in the passage’s account of sound inquiry and divine verses.",
+          "shortened": [
+            "Know that this material world is the mirror of the Kingdom, and each of these worlds is in complete correspondence with the other. The correct theories of this world which are the result of sound scientific thinking are in agreement with the divine verses without the slightest divergence between them, for the truth of all things is laid away in the treasuries of the Kingdom."
+          ]
         },
         {
           "key": "source:AB09507",
@@ -1849,7 +2466,10 @@
         },
         {
           "key": "source:AB03656",
-          "why": "Read below and above as forms of correspondence."
+          "why": "Read below and above as forms of correspondence.",
+          "shortened": [
+            "How excellent is what was said: \"That which is below has a form of that which is above.\""
+          ]
         },
         {
           "key": "source:ABU1161",
@@ -1861,11 +2481,17 @@
         },
         {
           "key": "source:AB01073",
-          "why": "Read the world through its mirror image."
+          "why": "Read the world through its mirror image.",
+          "shortened": [
+            "May the human world become a mirror of the divine Kingdom and the lights of the realm of might shine forth in the world of existence."
+          ]
         },
         {
           "key": "source:AB01671",
-          "why": "Retain the related account of the world as a mirror."
+          "why": "Retain the related account of the world as a mirror.",
+          "shortened": [
+            "May the material world become a mirror of the Kingdom and may the Sun of Truth shine upon all regions of the world."
+          ]
         },
         {
           "key": "source:ABU0049",
@@ -1873,7 +2499,10 @@
         },
         {
           "key": "source:AB03721",
-          "why": "Read the earth as an image of heaven."
+          "why": "Read the earth as an image of heaven.",
+          "shortened": [
+            "May the earthly realm take on the image of the heavenly realm and may the contingent world become the dawning-place of the Spirit of God."
+          ]
         },
         {
           "key": "source:AB08279",
@@ -1881,7 +2510,10 @@
         },
         {
           "key": "source:ABU0218",
-          "why": "Read the reported cultural comparison with its qualification that analogies are limited."
+          "why": "Read the reported cultural comparison with its qualification that analogies are limited.",
+          "shortened": [
+            "The Easterner understands better than the Westerner that the world (the cosmos) is a reflection of the Creator. The Godhead is represented in the category (the image) of the light, the sun, and the created (the world) is a reflection of Divine Light, for the relationship of the created to the Creator is incomprehensible and can only be seen and represented in a pale comparison (analogy)."
+          ]
         },
         {
           "key": "source:AB05743",
@@ -1889,7 +2521,10 @@
         },
         {
           "key": "source:ABU0610",
-          "why": "Consider the reported moon reflected in a mirror."
+          "why": "Consider the reported moon reflected in a mirror.",
+          "shortened": [
+            "Now we live in belief, in surmise, in feeling, in delicate, fragile proof by analogy (comparison), in the reflection and refulgence of the Eternal, the Immeasurable, the Incorporeal. -O atheist, I cannot reach down for you, for example, the moon from the firmament, to touch and see close to, but approach the water and at least look at its reflection, the image of the heavenly body. Much can now only be 'seen from afar', imagined from afar, but the day of seeing it close - of touching and possessing, will come, and then we shall speak further.\""
+          ]
         },
         {
           "key": "source:AB07496",
@@ -1897,7 +2532,10 @@
         },
         {
           "key": "source:AB05191",
-          "why": "Compare present perception with the limited senses of the womb."
+          "why": "Compare present perception with the limited senses of the womb.",
+          "shortened": [
+            "For the contingent world - that is, the realm of the senses and the external sphere - in relation to the stations of heart and soul and the world of the heart and spirit, is like the realm of the womb in relation to the world and cosmos."
+          ]
         },
         {
           "key": "source:AB04068",
@@ -1913,11 +2551,17 @@
         },
         {
           "key": "source:AB06829",
-          "why": "Explore earthly music as a sign of celestial melody."
+          "why": "Explore earthly music as a sign of celestial melody.",
+          "shortened": [
+            "Try, if thou canst, to use spiritual melodies, songs and tunes, and to bring the earthly music into harmony with the celestial melody."
+          ]
         },
         {
           "key": "source:ABU1118",
-          "why": "Keep the reported poetic relation of upper and lower worlds in its own voice."
+          "why": "Keep the reported poetic relation of upper and lower worlds in its own voice.",
+          "shortened": [
+            "It is very enlightened; it is spiritual; it is heavenly. As has been said by a Persian poet, the celestial globe is in such a form that the under part is, as it were, a reflection of the upper part. That is to say, whatever exists in heaven is reflected in this world."
+          ]
         },
         {
           "key": "source:AB04959",
@@ -1925,15 +2569,26 @@
         },
         {
           "key": "source:AB07603",
-          "why": "Consider the poetic contrast of wine, dregs, and purity."
+          "why": "Consider the poetic contrast of wine, dregs, and purity.",
+          "shortened": [
+            "Even in this earthly center, consider what news there is from the divine world:",
+            "\"The wine full of dregs makes us mad",
+            "If it becomes pure, I know not what it will do!\""
+          ]
         },
         {
           "key": "source:BH01509",
-          "why": "Read heavens and stars as signs."
+          "why": "Read heavens and stars as signs.",
+          "shortened": [
+            "The heavens are a sign of My greatness - behold them with pure eyes. And the stars bear witness to My truth - testify ye to this truth."
+          ]
         },
         {
           "key": "source:BH02606",
-          "why": "Follow the trees, ark, and breezes in the passage’s spiritual imagery."
+          "why": "Follow the trees, ark, and breezes in the passage’s spiritual imagery.",
+          "shortened": [
+            "Verily in the creation of the heavens and earth, and in the alternation of light and darkness, and in the budding forth of trees, and in the motion of the Ark of Oneness upon the sea of fire, and in the wafting of the holy breezes from the Paradise of Beauty, and in the sending down of verses from the cloud of the Divine Essence are signs for people who reflect."
+          ]
         },
         {
           "key": "source:BH00012",
@@ -1957,7 +2612,10 @@
         },
         {
           "key": "source:AB08712",
-          "why": "Read the earth’s relation to paradise."
+          "why": "Read the earth’s relation to paradise.",
+          "shortened": [
+            "The face of the earth became the highest paradise, and the surface of the world became the Abha Kingdom."
+          ]
         },
         {
           "key": "source:ABU2227",
@@ -1965,7 +2623,10 @@
         },
         {
           "key": "source:AB04374",
-          "why": "Consider renewed hearts and life as the world’s transformation."
+          "why": "Consider renewed hearts and life as the world’s transformation.",
+          "shortened": [
+            "Assuredly it will illumine the human world, breathe new life into hearts, make blind eyes seeing, make deaf ears hearing, resurrect dead souls, make the world another world, and make the material world a mirror of the divine realm."
+          ]
         },
         {
           "key": "source:ABU1932",
@@ -1977,15 +2638,24 @@
         },
         {
           "key": "source:AB06664",
-          "why": "Consider unity across peoples as an earthly reflection."
+          "why": "Consider unity across peoples as an earthly reflection.",
+          "shortened": [
+            "Beyond this it is obvious and observable, in the written Divine and indisputable tablets that the primary Divine Principal and goal, The Holy Will of God, is none other than the unity of all the peoples of the world, that the Oneness of the entire human race, composed of all the diverse, antagonistic and distinct ethnic groups prevails to the extent that God's Word \"Unity\" is embodied and characterized on all levels, so that this earthy kingdom mirrors the Heavenly Kingdom."
+          ]
         },
         {
           "key": "source:AB04249",
-          "why": "Read the local assembly in relation to the Supreme Concourse."
+          "why": "Read the local assembly in relation to the Supreme Concourse.",
+          "shortened": [
+            "Through the grace of the Abha Beauty, may my spirit be sacrificed for His loved ones, this lower assembly must be made into the image of the Supreme Concourse, and this earthly realm must be made to reflect the gatherings of the highest heaven, and this contingent world must be made the dawning-place of the signs of the Sovereign of the throne of the realm of divine transcendence."
+          ]
         },
         {
           "key": "source:ABU2410",
-          "why": "Consider the reported workshop as an image for developing character."
+          "why": "Consider the reported workshop as an image for developing character.",
+          "shortened": [
+            "Yet man must ever remember the earth plane is a workshop, not an art gallery for the exhibits of powers. This is not the plane of perfection, but earth is the crucible for refining and moulding character."
+          ]
         },
         {
           "key": "source:ABU0727",
@@ -2005,47 +2675,84 @@
         },
         {
           "key": "source:BH00423",
-          "why": "Read the forms of deeds and recompense within this account of differing worlds."
+          "why": "Read the forms of deeds and recompense within this account of differing worlds.",
+          "shortened": [
+            "I submit, therefore, that whatever is seen and heard in this temporal world, this world of limitations---of every name and description, of every form and attribute---also has a presence and manifestation in every world of the worlds of God suitable to and befitting that world, where it appears and is revealed by another name and description, and in another form with other attributes.",
+            "Those mature philosophers who have drunk the choice wine of true understanding have acknowledged the embodiment of deeds. The All-Glorious states: \"He will requite them for their [acquired] attributes (wasf).\" The Dayspring of the Revelation of the All-Merciful has declared: \"The people will be requited for their deeds, with reward being the consequence of good deeds and punishment the consequence of wrongdoing.\" It is evident, then, that deeds will be preserved and every [acquired] attribute will continue to exist, so that through the attribute or deed itself requital can be given."
+          ]
         },
         {
           "key": "source:AB00036",
-          "why": "Keep correspondence within the passage’s particular argument concerning reincarnation."
+          "why": "Keep correspondence within the passage’s particular argument concerning reincarnation.",
+          "shortened": [
+            "The outward is the expression of the inward; the earthly realm mirrors the heavenly kingdom; and the material world correspondeth with the spiritual world.",
+            "Now, as the proof of the Divine Unity existeth within all things, and the oneness and singleness of God is visible in the realities of all beings, the recurrence of the same divine appearance is in no wise possible. Therefore, reincarnation, which is the repeated manifestation in this world of the same spirit with its former essence and conditions, would be the self-same appearance and is thus impossible. And since the recurrence of the same divine appearance is impossible for material beings, the repeated assumption of the same station, whether on the arc of descent or on the arc of ascent, is likewise impossible for spiritual beings, for the material world correspondeth to the spiritual world."
+          ]
         },
         {
           "key": "source:AB05577",
-          "why": "Consider the renewal of fleeting forms beneath apparent constancy."
+          "why": "Consider the renewal of fleeting forms beneath apparent constancy.",
+          "shortened": [
+            "O true servant of the Abha Beauty! That which thou beholdest in this temporal world are the fleeting shadows of the world of the Kingdom and the external images of the celestial realm. This is why thou observest that these shadows and forms are continuously being renewed. They are not permanent, but the succession of similar forms and like states is such as to give the appearance of constancy. In the end, however, it will become clear that it was a mirage, not real water; illusions, not the realities of the signs."
+          ]
         },
         {
           "key": "source:ABU1183",
-          "why": "Read the perishable as a reported sign of the imperishable."
+          "why": "Read the perishable as a reported sign of the imperishable.",
+          "shortened": [
+            "The outward and perishable is but the sign of the inward and imperishable."
+          ]
         },
         {
           "key": "source:AB04567",
-          "why": "Consider transient trouble and comfort beside enduring spiritual reality."
+          "why": "Consider transient trouble and comfort beside enduring spiritual reality.",
+          "shortened": [
+            "O thou handmaid aflame with the fire of God's love! Grieve thou not over the troubles and hardships of this nether world, nor be thou glad in times of ease and comfort, for both shall pass away. This present life is even as a swelling wave, or a mirage, or drifting shadows.",
+            "Know thou that the Kingdom is the real world, and this nether place is only its shadow stretching out. A shadow hath no life of its own; its existence is only a fantasy, and nothing more; it is but images reflected in water, and seeming as pictures to the eye."
+          ]
         },
         {
           "key": "source:AB02813",
-          "why": "Read the image of a mirage."
+          "why": "Read the image of a mirage.",
+          "shortened": [
+            "O ye loved ones of God! Know ye that the world is even as a mirage rising over the sands, that the thirsty mistaketh for water."
+          ]
         },
         {
           "key": "source:AB02446",
-          "why": "Compare mirage and sea as different objects of attention."
+          "why": "Compare mirage and sea as different objects of attention.",
+          "shortened": [
+            "O ye who are attracted by the Fragrances of God!",
+            "Verily, this mundane world is as the mirage of the desert, but the Kingdom is like unto a sea of great surges and rolling waves."
+          ]
         },
         {
           "key": "source:AB07819",
-          "why": "Retain the world’s description as a shadow."
+          "why": "Retain the world’s description as a shadow.",
+          "shortened": [
+            "This mortal world is fickle and unstable like unto a shifting shadow, and the human life is like unto a mirage and a reflection on the water."
+          ]
         },
         {
           "key": "source:BH08751",
-          "why": "Read the futility portrayed in pursuing shadows."
+          "why": "Read the futility portrayed in pursuing shadows.",
+          "shortened": [
+            "All that existeth in the world of dominion and the kingdom is but a reflection and shadow of the hidden divine realms, yet the heedless ones hunt after and seek these shadows and reflections."
+          ]
         },
         {
           "key": "source:BH00846",
-          "why": "Hear the admonition concerning vanities and dust."
+          "why": "Hear the admonition concerning vanities and dust.",
+          "shortened": [
+            "The world and its vanities, and its glory, and whatever delights it can offer, are all, in the sight of God, as worthless as, nay, even more contemptible than, dust and ashes."
+          ]
         },
         {
           "key": "source:BH03287",
-          "why": "Consider attachment even under an imagined lasting world."
+          "why": "Consider attachment even under an imagined lasting world.",
+          "shortened": [
+            "Were the world to last as long as Thine own kingdom will last, to set their affections upon it would still be unseemly for such as have quaffed, from the hands of Thy mercy, the wine of Thy presence; how much more when they recognize its fleetingness and are persuaded of its transience."
+          ]
         },
         {
           "key": "source:BH00249",
@@ -2053,7 +2760,10 @@
         },
         {
           "key": "source:BH03550",
-          "why": "Close the linked readings by moving from transience toward service."
+          "why": "Close the linked readings by moving from transience toward service.",
+          "shortened": [
+            "Wert thou to consider this world, and realize how fleeting are the things that pertain unto it, thou wouldst choose to tread no path except the path of service to the Cause of thy Lord. None would have the power to deter thee from celebrating His praise, though all men should arise to oppose thee."
+          ]
         },
         {
           "key": "selection:c9e2bf62700b9e19d1445cb3",
@@ -2061,7 +2771,10 @@
         },
         {
           "key": "selection:5970aa4f51ebc859c5a7d572",
-          "why": "Read the supplied Tablet of Varqa’s account of worlds and similitudes."
+          "why": "Read the supplied Tablet of Varqa’s account of worlds and similitudes.",
+          "shortened": [
+            "The meaning of the Kingdom (malakut) in its primary sense and degree is the scene of His transcendent glory. In another sense it is the world of similitudes ('alam-i-mithal) which existeth between the Dominion on high (jabarut) and this mortal realm (nasut); whatever is in the heavens or on the earth hath its counterpart in that world."
+          ]
         },
         {
           "key": "selection:3155a3bc4a632e8511f5f636",
@@ -2093,7 +2806,10 @@
         },
         {
           "key": "selection:9c3e56164c00ee33c99bdc72",
-          "why": "Consider the supplied Hermetic dialogue in its own philosophical setting."
+          "why": "Consider the supplied Hermetic dialogue in its own philosophical setting.",
+          "shortened": [
+            "And it is not difficult, my son, to contemplate God in thought, or even, if you will, to see him. Look at the order of the Kosmos; look at the necessity which governs all that is presented to our sight, and the providence shown in things that have been, and in things that come to be; look at matter filled to the full with life, and see this great god [Kosmos] in movement, with all things that are contained in him. Tat: But these, father, are nothing but forces at work. Hermes: If they are forces at work, my son, who is it that works them? Is it not God? Do you not know that, just as heaven and earth and water and air are parts of the Kosmos, even so destiny and necessity and providence and nature ar parts of God? And there is nothing that comes to be or has come to be, in which God is not."
+          ]
         },
         {
           "key": "selection:341130603a126315acaa8be9",
@@ -2188,20 +2904,31 @@
       "id": "87CAE620F6194480B20F2C8B053A5841",
       "slug": "literalinterpretation",
       "displayTitle": "Literal and symbolic readings of scripture",
-      "introduction": "How can faithfulness to a text become a barrier to understanding it? These readings explore that question through prophecy, metaphor, miracles, and the recognition of a divine messenger. They also resist interpretations that override a clear text or merely justify personal desires. The resulting challenge is to read attentively enough to distinguish an image from an instruction, and inherited assumptions from the passage’s purpose. Polemical descriptions of Jewish, Christian, Muslim, and Babi readers belong to these particular religious arguments; they should not become blanket descriptions of living communities or their diverse interpretive traditions. John 2:19–22 provides a primary example of a temple saying whose meaning the narrative itself clarifies [1]. Connected subjects of symbolism, multiple meanings, the limits of language, and spiritual warfare invite further exploration of how understanding can deepen while remaining answerable to the words, context, and authority of a text.",
+      "introduction": "Zion dances, the trees clap their hands, a dove descends, the sun goes dark. ‘Abdu’l-Bahá observes that every discipline has its own terminology and that scripture speaks a language of its own, which, read as plain report, becomes a wall between the reader and the One it promises. Bahá’u’lláh traces the pattern through history: people who waited for a Messiah from an unknown place, or for stars to fall from heaven, held so fast to the letter that they failed to recognise the fulfilment standing before them. Yet the same Writings insist that a clear and decisive text cannot be bent by conjecture, and expose the reader who interprets only to license what he already wants. The task is to read attentively enough to tell an image from an instruction, and a text’s purpose from inherited expectation. The temple saying in John’s Gospel, which the narrative itself unfolds as the body of Jesus, shows how a text can carry its own key [1]. From here the path leads into symbolism and the many layers of meaning in scripture, the limits of language itself, and the inner struggle that recognition demands.",
       "arc": "Begin with the pleasure and difficulty of understanding, balance symbolic reading with respect for clear texts, and explore particular examples before returning to humility, recognition, and patience.",
       "order": [
         {
           "key": "source:ABU1808",
-          "why": "Open with the reported pleasure of discovering a passage’s inner significance."
+          "why": "Open with the reported pleasure of discovering a passage’s inner significance.",
+          "shortened": [
+            "Abdu'l-Baha replied: -- \"Divine things are too deep to be expressed by common words. The heavenly teachings are expressed in parable in order to be understood and preserved for ages to come. When the spiritually minded dive deeply into the ocean of their meaning they bring to the surface the pearls of their inner significance. There is no greater pleasure than to study God's Word with a spiritual mind.\""
+          ]
         },
         {
           "key": "source:ABU0316",
-          "why": "Introduce scriptural terminology through the dancing mountain and clapping trees."
+          "why": "Introduce scriptural terminology through the dancing mountain and clapping trees.",
+          "shortened": [
+            "The Holy Books have their special terminologies which must be known and understood.",
+            "In the scripture we read that Zion is dancing. It is evident that this has other than literal interpretation. The meaning is that the people of Zion shall rejoice. The Jews said Christ was not the Messiah but Antichrist, because one of the signs of the Messiah's coming was the dancing of Mount Zion, which had not yet come to pass. In reality, when Christ appeared, not only Mount Zion but all Palestine danced and rejoiced. Again in scriptures it is said, \"The trees of the field shall clap their hands.\" This is symbolical. There are terms and expressions of usage in every language which cannot be taken literally."
+          ]
         },
         {
           "key": "source:AB00801",
-          "why": "Read the distinction between outward meaning and reasoned interpretation."
+          "why": "Read the distinction between outward meaning and reasoned interpretation.",
+          "shortened": [
+            "As for the passages you extracted from the holy books - those that conform to true knowledge, reason and divine wisdom are according to their outward meaning, while other passages all have interpretations that conform to reason, knowledge and wisdom. God willing, you will discover this matter.",
+            "My hope is that through divine confirmation you will discover the interpretation of all these matters."
+          ]
         },
         {
           "key": "source:AB00447",
@@ -2213,7 +2940,11 @@
         },
         {
           "key": "source:AB02540",
-          "why": "Read the warning against altering a decisive text through conjecture."
+          "why": "Read the warning against altering a decisive text through conjecture.",
+          "shortened": [
+            "The delusions of interpretation cannot alter the clear and decisive text, and the winds of the desert cannot cut off from the horizons the fragrance of the rose-garden of the Kingdom.",
+            "\"But as for those in whose hearts is perversity, they follow the part thereof that is ambiguous.\""
+          ]
         },
         {
           "key": "source:BH07633",
@@ -2221,7 +2952,10 @@
         },
         {
           "key": "source:BH02354",
-          "why": "Distinguish interpretation from rationalizing a desired permission."
+          "why": "Distinguish interpretation from rationalizing a desired permission.",
+          "shortened": [
+            "Some of the servants make their own interpretations to justify certain things as lawful, without any evidence from God."
+          ]
         },
         {
           "key": "source:AB00289",
@@ -2261,7 +2995,10 @@
         },
         {
           "key": "source:ABU3339",
-          "why": "Consider the reported interpretation of the dove."
+          "why": "Consider the reported interpretation of the dove.",
+          "shortened": [
+            "The story about the dove is simply a metaphor. No dove came down."
+          ]
         },
         {
           "key": "source:ABU3680",
@@ -2277,7 +3014,11 @@
         },
         {
           "key": "source:AB00100",
-          "why": "Read the appeal to justice within the interpretation of Adam’s story."
+          "why": "Read the appeal to justice within the interpretation of Adam’s story.",
+          "shortened": [
+            "Note that if these words were taken literally, as imagined by the people of the Book, it would be sheer injustice and absolute predestination. If Adam sinned in approaching the forbidden tree, what then was the sin of glorious Abraham, the Friend of God, and the error of Moses, Who conversed with God?",
+            "Would divine justice have suffered these luminous Manifestations to endure, by reason of Adam's sin, the torment of hell until such time as Christ should come and by His sacrifice rescue them from the nethermost fire? Such a notion is beyond the pale of every rule and principle and no rational person can ever accept it."
+          ]
         },
         {
           "key": "source:ABU1107",
@@ -2289,7 +3030,10 @@
         },
         {
           "key": "source:ABU0033",
-          "why": "Consider the public address’s reasoning about days before the sun."
+          "why": "Consider the public address’s reasoning about days before the sun.",
+          "shortened": [
+            "For instance, it is said in the Old Testament that certain things were created in the first day. The narrative shows that at that time the sun was not yet created. How could we conceive of a day if no sun existed in the heavens? For the day depends upon the light of the sun. Inasmuch as the sun had not been made, how could the first day be realized? Therefore, these statements have significances other than literal."
+          ]
         },
         {
           "key": "source:ABU2724",
@@ -2301,7 +3045,11 @@
         },
         {
           "key": "source:AB00030",
-          "why": "Distinguish inner meaning from an account’s use as decisive proof."
+          "why": "Distinguish inner meaning from an account’s use as decisive proof.",
+          "shortened": [
+            "Moreover, most of the miracles attributed to the Prophets have an inner meaning.  For instance, it is recorded in the Gospel that upon the martyrdom of Christ darkness fell, the earth shook, the veil of the Temple was rent in twain, and the dead arose from their graves.",
+            "But as these events have not been recorded in any history it is evident that they are not to be understood literally but according to their inner meaning.  Our purpose is not to deny, but merely to say that these accounts do not constitute a decisive proof, and that they have an inner meaning—nothing more."
+          ]
         },
         {
           "key": "source:AB00503",
@@ -2309,7 +3057,10 @@
         },
         {
           "key": "source:ABU2417",
-          "why": "Keep the reported appeal to Egyptian historical records attributed."
+          "why": "Keep the reported appeal to Egyptian historical records attributed.",
+          "shortened": [
+            "The Egyptian history recorded even trifling events. Had such a wonderful thing happened as the parting of the physical sea, it would also have been recorded."
+          ]
         },
         {
           "key": "source:ABU3618",
@@ -2317,7 +3068,10 @@
         },
         {
           "key": "source:AB00570",
-          "why": "Follow the explanation of signs toward the Book of Certitude."
+          "why": "Follow the explanation of signs toward the Book of Certitude.",
+          "shortened": [
+            "It is therefore clear and evident that these signs have inner meanings and should not be taken literally. These meanings have been fully explained in the Kitab-i-Iqan: Refer to it."
+          ]
         },
         {
           "key": "source:AB00223",
@@ -2325,11 +3079,18 @@
         },
         {
           "key": "source:BH00012",
-          "why": "Examine the consistency demanded when reading successive revelations."
+          "why": "Examine the consistency demanded when reading successive revelations.",
+          "shortened": [
+            "Should they say: \"These words are indeed from God, and have no interpretation other than their outward meaning\", then what objection can they raise against the unbelievers among the people of the Book? For when the latter saw the aforementioned passages in their Scriptures and heard the literal interpretations of their divines, they refused to recognize God in those who are the Manifestations of His unity, the Exponents of His singleness, and the Embodiments of His sanctity, and failed to believe in them and submit to their authority. The reason was that they did not see the sun darken, or the stars of heaven fall to the ground, or the angels visibly descend upon the earth, and hence they contended with the Prophets and Messengers of God."
+          ]
         },
         {
           "key": "source:BH00002",
-          "why": "Read the Book of Certitude’s account of literal expectation and missed recognition."
+          "why": "Read the Book of Certitude’s account of literal expectation and missed recognition.",
+          "shortened": [
+            "Inasmuch as the Christian divines have failed to apprehend the meaning of these words, and did not recognize their object and purpose, and have clung to the literal interpretation of the words of Jesus, they therefore became deprived of the streaming grace of the Muhammadan Revelation and its showering bounties.",
+            "And their conviction is such that were a person to be made manifest with all the promised signs and to promulgate that which is contrary to the letter of the law of the Gospel, they must assuredly renounce him, refuse to submit to his law, declare him an infidel, and laugh him to scorn."
+          ]
         },
         {
           "key": "source:AB00645",
@@ -2341,11 +3102,17 @@
         },
         {
           "key": "source:ABU1558",
-          "why": "Retain the separate reported account of the tongue dividing truth from falsehood."
+          "why": "Retain the separate reported account of the tongue dividing truth from falsehood.",
+          "shortened": [
+            "Secondly: The scepter must be of iron, i.e. he would appear with a sword, while His Holiness Christ did not possess even a wooden stick. This also is correct. The meaning of an iron scepter or the sword or the sword is the tongue of His Holiness which divided the truth from untruth, or truth from falsehood. But the Jews thought that the sword was to be of iron."
+          ]
         },
         {
           "key": "source:ABU0421",
-          "why": "Consider mountains and earthquake as images in a reported interpretation."
+          "why": "Consider mountains and earthquake as images in a reported interpretation.",
+          "shortened": [
+            "They set their expectations on the text of Isaiah---that the Messiah would come from the skies, an unknown place, and that, when He came, He would break the mountains apart and cause a mighty earthquake. In fact, these things did happen, but they did not understand the symbolism thereof. They failed to apprehend this allegory: that by \"mountains\" was not meant mountains of stone, but rather people who resembled mountains and were scattered apart, and that the intended meaning of \"earthquake\" pertained to the realm of human thoughts, not this world of dust."
+          ]
         },
         {
           "key": "source:ABU0019",
@@ -2377,7 +3144,10 @@
         },
         {
           "key": "source:AB08374",
-          "why": "Retain the polemical contrast between recitation and understanding in its own setting."
+          "why": "Retain the polemical contrast between recitation and understanding in its own setting.",
+          "shortened": [
+            "But as for those Jewish doctors, Christian priests and monks who read them - verily, they know only the letter, uttering the words like parrots, without understanding their inner meanings. They comprehend them not at all, because they are engrossed in worldly desires and their hearts are attached to its ornaments. Verily, are they not heedless of God, understanding nothing and finding not the right path?"
+          ]
         },
         {
           "key": "source:ABU2749",
@@ -2401,7 +3171,10 @@
         },
         {
           "key": "source:ABU1804",
-          "why": "Consider the reported effort needed to penetrate inner significance."
+          "why": "Consider the reported effort needed to penetrate inner significance.",
+          "shortened": [
+            "\"One of the veils is literal interpretation. To penetrate the inner significances a mighty effort is needed.\""
+          ]
         },
         {
           "key": "source:ABU2981",
@@ -2409,15 +3182,24 @@
         },
         {
           "key": "source:ABU2441",
-          "why": "Keep the reported critique of falling-star expectations attributed."
+          "why": "Keep the reported critique of falling-star expectations attributed.",
+          "shortened": [
+            "There were explanations about how nations were veiled and clarification of the signs of the Day of Manifestation - that like the Jews, Christians too are afflicted with vain imaginings and imitations, such that they are still waiting for stars to fall from heaven, even though each star is many times larger than the earth."
+          ]
         },
         {
           "key": "source:ABU0953",
-          "why": "Retain the reported comparison of contemporary Jewish positions as a historical claim."
+          "why": "Retain the reported comparison of contemporary Jewish positions as a historical claim.",
+          "shortened": [
+            "The Orthodox Jews according to the literal interpretation of a number of passages in the Old Testament, of course are holding such a belief but the growing literary and intellectual party, having cast away the enthusiasm born out of ignorance, discredit the whole proposition as nothing else but a dream."
+          ]
         },
         {
           "key": "source:ABU0712",
-          "why": "Read the reported lover and house as an image of attachment and recognition."
+          "why": "Read the reported lover and house as an image of attachment and recognition.",
+          "shortened": [
+            "Now all the followers of the great religions of the world are veiled because they are looking at the old dawning places and are not watching for the coming of the Sun. Your lover must love you, not your house. If he really loves you he will recognize you in whatever house you may appear; but if he is attached to the house, he will not find you if you appear in a new house."
+          ]
         },
         {
           "key": "source:ABU2143",
@@ -2449,11 +3231,18 @@
         },
         {
           "key": "source:AB00082",
-          "why": "Keep the polemical spider image in its specific argument about renewed veils."
+          "why": "Keep the polemical spider image in its specific argument about renewed veils.",
+          "shortened": [
+            "In short, praise be to God, the Exalted One---may my spirit be a sacrifice unto Him---left no veil remaining; He rent them all asunder. Yet this obstinate people are like the spider: whatever veil of theirs thou dost tear away, they straightway weave another; for this veiledness springeth from their very being. And when a thing pertaineth to the essential requirements of a reality, its separation therefrom is impossible."
+          ]
         },
         {
           "key": "source:BH00004",
-          "why": "Read the Book of Badi’s criticism of conjecture, names, and rejection."
+          "why": "Read the Book of Badi’s criticism of conjecture, names, and rejection.",
+          "shortened": [
+            "The interpreters are those who discard the manifest and exalted Truth, and with the axe of conjecture carve out idols of fancy, then bow down before their own handiwork in worship and submission, all the while counting themselves among the worshippers of Truth and those detached unto God.",
+            "Ye have become so heedless that ye worship and cling to mere names, continuously making mention of them while drawing the sword of malice against that by which the names subsist, and ye perceive it not."
+          ]
         },
         {
           "key": "source:BH06141",
@@ -2469,7 +3258,10 @@
         },
         {
           "key": "source:AB00547",
-          "why": "Keep the paired assertions about law and resurrection as the passage presents them."
+          "why": "Keep the paired assertions about law and resurrection as the passage presents them.",
+          "shortened": [
+            "One said the glorious Law with its decisive texts is permanent in its ordinances and eternal in its application, while another said the Great Resurrection is conditional upon mighty events and occurrences."
+          ]
         },
         {
           "key": "source:AB06267",
@@ -2497,7 +3289,10 @@
         },
         {
           "key": "source:ABU0873",
-          "why": "Consider the reported lament concerning reality beneath symbolic form."
+          "why": "Consider the reported lament concerning reality beneath symbolic form.",
+          "shortened": [
+            "\"Alas, alas! the world has not discovered the reality of religion hidden beneath the symbolic forms!\""
+          ]
         },
         {
           "key": "source:ABU2096",
@@ -2517,7 +3312,11 @@
         },
         {
           "key": "selection:0c274340e39e92f07fb8da22",
-          "why": "Retain the supplied account of messianic expectation with its separate catalogue-reference status."
+          "why": "Retain the supplied account of messianic expectation with its separate catalogue-reference status.",
+          "shortened": [
+            "When Christ came they denounced and slew Him, saying: 'This is not the One for whom we wait. Behold when the Messiah shall come, signs and wonders shall testify that He is in truth the Christ. We know the signs and conditions, and they have not appeared. The Messiah will arise out of an unknown city. He shall sit upon the throne of David, and behold, He shall come with a sword of steel, and with a sceptre of iron shall He rule!",
+            "According to the Jews, Jesus the Christ fulfilled none of these conditions, for their eyes were holden and they could not see."
+          ]
         }
       ],
       "questions": [

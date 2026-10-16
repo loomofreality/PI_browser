@@ -5,36 +5,59 @@
       "id": "BB987894E7264233BA0C0C5DAB4D3C5F",
       "slug": "multiplemeanings",
       "displayTitle": "Many meanings, one search for understanding",
-      "introduction": "A single word may open a world that no single explanation exhausts. These readings approach scripture through oceans, pearls, mirrors, and a tree bearing varied fruits, inviting readers to discover more than they first perceived. Yet abundance of meaning carries responsibilities: attention to clear texts, fairness toward other readers, and recognition of the difference between personal insight and authoritative interpretation. Examples range from prophecy and dreams to the meanings of names, numbers, and familiar images. Historical explanations and reported remarks retain their particular voices; their presence does not make every proposed reading equally warranted. Augustine’s Confessions, Book XII, chapters 27 and 30, offers a comparison through one fountain nourishing many streams and truth joined with charity [1]. Connected subjects of literal interpretation, individual understanding, authoritative interpretation, and the challenging nature of the divine Word invite an inquiry in which deeper understanding enlarges both humility and love.",
+      "introduction": "The Báb describes a tree beside a spring that bears every kind of fruit, and the people who taste it each call it by the fruit they chose: a pomegranate tree, an apple tree, a basil tree. Each speaks truly, and none grasps the whole. So the Bahá’í writings picture the Word of God, an ocean no cup can exhaust, a single word with seventy-one meanings. Abundance, though, is not licence. Bahá’u’lláh bids the seeker cling to the perspicuous verses and warns against interpretations that slip around an explicit text; ‘Abdu’l-Bahá says the path of the Cause is straight and that only a sense of fairness cleansed of hatred can smell the fragrance of truth. Augustine, comparing a brief narrative to a fountain feeding many streams and asking that true interpretations coexist in charity, meets these claims on familiar ground [1]. The search leads on to literal interpretation, to the encouragement given to individual understanding, to the need for an authoritative interpreter, and into the deliberate difficulty of the Word itself.",
       "arc": "Begin with a tree of varied fruits and the abundance within a word, then balance interpretive openness with clear texts, examine particular examples, and return to fairness, love, and lived understanding.",
       "order": [
         {
           "key": "source:BB00171",
-          "why": "Open with the tree whose varied fruits provoke partial yet truthful descriptions."
+          "why": "Open with the tree whose varied fruits provoke partial yet truthful descriptions.",
+          "shortened": [
+            "Verily, their example is like that wherein Thou hast placed a spring, and there has grown from the earth a tree bearing diverse fruits, and each according to what it loves and its soul desires takes from that tree and judges it according to what it takes. Some say it is a pomegranate tree, and they have spoken truly in what they have said. And some say that tree is an apple tree - these have spoken truly, but they comprehend it not. And some are more refined in view and vision, taking from that tree gardens of delight - these say it is a basil tree, and these comprehend it not."
+          ]
         },
         {
           "key": "source:BH00047",
-          "why": "Consider the meaning of a letter within its particular realm."
+          "why": "Consider the meaning of a letter within its particular realm.",
+          "shortened": [
+            "92 The novel thoughts thou hast expressed as to the symbolism contained in the word \"sparrow\" were considered. Thou appearest to be well grounded in mystic truth. However, in each realm, to every letter a meaning is allotted which pertaineth to that realm. Indeed, the wayfarer findeth a secret in every name and a mystery in every letter."
+          ]
         },
         {
           "key": "source:AB05679",
-          "why": "Read two fitting meanings offered for one expression."
+          "why": "Read two fitting meanings offered for one expression.",
+          "shortened": [
+            "Both meanings are fitting and agreeable and wondrous, indicating that the cups of perpetual love of God will circulate like teacups in Gokchay, or that the river of the Kingdom and the stream of the Realm of Might - Gokchay meaning heavenly stream - will flow and surge like a divine flood in that region."
+          ]
         },
         {
           "key": "source:BH00002",
-          "why": "Enter the ocean of meaning through the Book of Certitude."
+          "why": "Enter the ocean of meaning through the Book of Certitude.",
+          "shortened": [
+            "Thus it is recorded: \"Every knowledge hath seventy meanings, of which one only is known amongst the people. And when the Qa'im shall arise, He shall reveal unto men all that which remaineth.\" He also saith: \"We speak one word, and by it we intend one and seventy meanings; each one of these meanings we can explain.\""
+          ]
         },
         {
           "key": "source:BH00271",
-          "why": "Consider meanings without end alongside the role of their Interpreter."
+          "why": "Consider meanings without end alongside the role of their Interpreter.",
+          "shortened": [
+            "Know thou that just as thou art convinced that there is no end to His words, be likewise convinced that their meanings also have no end - but this is known only to their Interpreter and the treasurers of their mysteries."
+          ]
         },
         {
           "key": "source:BH00004",
-          "why": "Balance interpretive abundance with decisive verses and a common divine proof."
+          "why": "Balance interpretive abundance with decisive verses and a common divine proof.",
+          "shortened": [
+            "For the divine words there are infinite interpretations, yet none is aware of them save God.",
+            "Now reflect which are the decisive verses of God and which the ambiguous ones, and thou shalt know those who took the ambiguous verses and cast the decisive ones behind their backs and were among the ungodly.",
+            "The Truth hath appeared of His own Self with clear signs, and these are indeed a proof from God unto every soul, if thou be of them that know. The Divine Proof hath ever been one, and for all they have ordained those same revealed verses as proof."
+          ]
         },
         {
           "key": "source:AB04985",
-          "why": "Read the call to hold to perspicuous verses."
+          "why": "Read the call to hold to perspicuous verses.",
+          "shortened": [
+            "Say, \"O people! Discard vain imaginings, reject the interpretations of those who adhere to perplexing verses, and cling firmly unto the perspicuous verses. Verily, these are the straight path, the guiding light, the solid edifice, the fortified shelter that protect you against the assaults of the heretics.\""
+          ]
         },
         {
           "key": "source:AB00585",
@@ -46,11 +69,17 @@
         },
         {
           "key": "source:ABU1181",
-          "why": "Read the reported emphasis on love as the meaning of truth."
+          "why": "Read the reported emphasis on love as the meaning of truth.",
+          "shortened": [
+            "Therefore, in order that there may be no discord, all of the believers in the truth must not mention me except as Abdul-Baha, the Servant of God. The essential thing is love. I must love you and you must love me. Such is the meaning of the truth, while untruth means rancor, discord and hatred. All else save love is merely outwardly uttered words."
+          ]
         },
         {
           "key": "source:ABU1268",
-          "why": "Keep the reported rejection of hidden esotericism beside the many-meanings passages."
+          "why": "Keep the reported rejection of hidden esotericism beside the many-meanings passages.",
+          "shortened": [
+            "In this Faith there are no hidden mysteries or esoteric allusions. The path of the Cause is straight. I too, in the position of Interpreter, have explained and written whatever was necessary."
+          ]
         },
         {
           "key": "source:ABU0147",
@@ -58,7 +87,10 @@
         },
         {
           "key": "source:BH04151",
-          "why": "Read the passage’s claim for authoritative interpretation in its theological setting."
+          "why": "Read the passage’s claim for authoritative interpretation in its theological setting.",
+          "shortened": [
+            "Know thou that whatsoever the Mirror of Eternity hath interpreted in the words of God is truth, wherein there is no doubt. None may say \"why\" or \"wherefore\", nor interpret from their own selves, for all this is associating partners with God in His Book."
+          ]
         },
         {
           "key": "source:BB00518",
@@ -74,11 +106,17 @@
         },
         {
           "key": "source:BH00267",
-          "why": "Hear the infinite meanings of a celestial verse."
+          "why": "Hear the infinite meanings of a celestial verse.",
+          "shortened": [
+            "Know thou that for this celestial verse, this subtle fruit, this divine melody, and this heavenly pearl there are infinite meanings unto infinity."
+          ]
         },
         {
           "key": "source:BH05630",
-          "why": "Consider an entire world unfolding from one letter."
+          "why": "Consider an entire world unfolding from one letter.",
+          "shortened": [
+            "Were We to interpret but one letter of the Book, it would lead to an entire world and the interpretation of that letter would have no end."
+          ]
         },
         {
           "key": "source:BH01113",
@@ -94,7 +132,10 @@
         },
         {
           "key": "source:ABU2100",
-          "why": "Hear the concise reported statement about every word of revelation."
+          "why": "Hear the concise reported statement about every word of revelation.",
+          "shortened": [
+            "There are many meanings in each word of the Revelation."
+          ]
         },
         {
           "key": "source:BH01295",
@@ -106,7 +147,10 @@
         },
         {
           "key": "source:BH02610",
-          "why": "Consider meanings clothed in words yet continually unfolding."
+          "why": "Consider meanings clothed in words yet continually unfolding.",
+          "shortened": [
+            "O servant! I desire to make mention of thee, but when meanings are clothed in the garment of every word, it is as though the words are complete in themselves, while in every moment they have manifestations after manifestations, such that they shall never be exhausted throughout the eternity of God, the True, the Great King."
+          ]
         },
         {
           "key": "source:BH00935",
@@ -114,7 +158,10 @@
         },
         {
           "key": "source:BH00066",
-          "why": "Explore words as a treasury whose opening depends on divine will."
+          "why": "Explore words as a treasury whose opening depends on divine will.",
+          "shortened": [
+            "Should anyone, after perceiving this Tablet, reflect upon the aforementioned Word, he would become aware of a wisdom heretofore unknown, for the form of words is the treasury of truth, and their inherent meanings are the spiritual pearls of the Sovereign of Oneness. The hand of Divine infallibility forbiddeth the people from attaining unto it, but when God's Will so decrees and the hand of power unsealeth it, then do the people become cognizant thereof."
+          ]
         },
         {
           "key": "source:BH00172",
@@ -162,7 +209,10 @@
         },
         {
           "key": "source:BB00002",
-          "why": "Retain the brief account of disclosure within a verse."
+          "why": "Retain the brief account of disclosure within a verse.",
+          "shortened": [
+            "And We have revealed unto thee from what God hath concealed within the inmost reality of this verse, that perchance the people may believe in God and His verses with true and mighty faith."
+          ]
         },
         {
           "key": "source:BB00237",
@@ -190,7 +240,11 @@
         },
         {
           "key": "source:AB00650",
-          "why": "Read the two hills through both outward places and inward referents."
+          "why": "Read the two hills through both outward places and inward referents.",
+          "shortened": [
+            "Tina and Zita are outwardly two hills in Jerusalem on which divine revelation was sent to the prophets of God.",
+            "By the mount of Tina the reality of Christ is intended, and by the mount of Zita, the reality of Muhammad, which was the planting place of the blessed olive tree \"neither of the east nor of the west, whose oil would almost glow even if untouched by fire - light upon light.\""
+          ]
         },
         {
           "key": "source:AB00645",
@@ -210,15 +264,24 @@
         },
         {
           "key": "source:BH00423",
-          "why": "Explore Joseph’s dreams as an invitation to consider different forms of meaning."
+          "why": "Explore Joseph’s dreams as an invitation to consider different forms of meaning.",
+          "shortened": [
+            "If you are unable to grasp this theme through your own experience, then refer to the interpretations of the wise among those who interpret dreams, for they have an interpretation for every statement and every action, and for each thing they have an explanation. The most truthful of speakers, in His book, mentions Joseph's vision (upon him and the Lord of our age be peace) and his interpretation of the dreams of two other individuals. Now consider. What kind of world is that wherein his father and mother are seen as the sun and the moon, and his brothers appear in the form of stars?"
+          ]
         },
         {
           "key": "source:BB00023",
-          "why": "Keep the Bab’s dream of living leaves as an attributed vision."
+          "why": "Keep the Bab’s dream of living leaves as an attributed vision.",
+          "shortened": [
+            "And verily I saw in a dream as though I had come to one of the gardens of Paradise wherein were trees and plants, and I saw all the leaves of those trees and plants looking at me, each with two eyes - the gaze of reason - being both leaf and animal. This is but a brief allusion to the life of the Hereafter, and the matter is greater, far greater.\""
+          ]
         },
         {
           "key": "source:AB00039",
-          "why": "Read the account of life and death within comprehensive interpretation."
+          "why": "Read the account of life and death within comprehensive interpretation.",
+          "shortened": [
+            "This is when we look to the clear revelation. But if we rely on comprehensive interpretation, the Glorious Lord has said: \"He bringeth forth the living from the dead, and bringeth forth the dead from the living.\" Whoever sets limits for God in His glorious outpourings is in manifest error and delusion. Moreover, \"Look at the effects of God's mercy - how He quickeneth the earth after its death,\" and how He gathers luminous creatures in human reality after their passing."
+          ]
         },
         {
           "key": "source:BH01744",
@@ -250,11 +313,17 @@
         },
         {
           "key": "source:AB00381",
-          "why": "Distinguish special scriptural terminology from the evidential reach of miracles."
+          "why": "Distinguish special scriptural terminology from the evidential reach of miracles.",
+          "shortened": [
+            "But in the Sacred Scriptures a special terminology is used, and in the sight of the Manifestations of God these marvels and miracles are of no importance, so much so that They do not even wish them to be mentioned. For even if these miracles were considered the greatest of proofs, they would constitute a clear evidence only for those who were present when they took place, not for those who were absent."
+          ]
         },
         {
           "key": "source:ABU0017",
-          "why": "Keep the reported relation of creation narratives to audience and culture attributed."
+          "why": "Keep the reported relation of creation narratives to audience and culture attributed.",
+          "shortened": [
+            "1.\tThe Prophets gave consideration to the level of education of the peoples in their exposition concerning the creation of the world; their reports are therefore adapted to the respective time and culture and have to be interpreted symbolically. Therefore, for example, a day of creation of the Mosaic report of creation may not be understood as a day of 24 hours."
+          ]
         },
         {
           "key": "source:ABU2724",
@@ -286,15 +355,24 @@
         },
         {
           "key": "source:ABU0251",
-          "why": "Read the reported relation of accepting an explanation and recognizing its giver."
+          "why": "Read the reported relation of accepting an explanation and recognizing its giver.",
+          "shortened": [
+            "As they were veiled from Christ, they did not understand the revelation of the Bible, but had they believed in the explanations given by Christ, and which were inspired, they would have understood the meanings of these prophesies. Had they believed in the power of inspiration they would not have been veiled from His bounty. As they did not understand the meaning of the revelation given by Christ they did not understand the revelation given in the Book, and these same revelations caused them to crucify Him."
+          ]
         },
         {
           "key": "source:AB01590",
-          "why": "Keep the polemical account of rejection in its original religious voice."
+          "why": "Keep the polemical account of rejection in its original religious voice.",
+          "shortened": [
+            "In short, since they did not understand the meaning of the Holy Book, they rejected the Spirit of God (Christ), objected and shunned Him, nay, adorned Him with the cross and committed the utmost persecution."
+          ]
         },
         {
           "key": "source:ABU2884",
-          "why": "Retain the reported identification of the Comforter within its historical claim."
+          "why": "Retain the reported identification of the Comforter within its historical claim.",
+          "shortened": [
+            "When Mohammed put forth His claim, a great multitude of the disciples of Christ believed in Him as the man who put forward the claim of being the Comforter mentioned in St. John 16:13."
+          ]
         },
         {
           "key": "source:ABU1513",
@@ -306,7 +384,10 @@
         },
         {
           "key": "source:AB00917",
-          "why": "Follow the reader toward the Book of Certitude’s explanations."
+          "why": "Follow the reader toward the Book of Certitude’s explanations.",
+          "shortened": [
+            "The interpretation of these statements is mentioned in the clearest manner and with the most wonderful proofs in the Book of Ighan. His honor, Ali-Kuli-Khan, has already translated this Book which will soon be published in America. Then you will be informed of the explanation and interpretation of these verses and statements as elucidated by the Blessed Perfection. Therefore my interpretation is not necessary."
+          ]
         },
         {
           "key": "source:AB02699",
@@ -318,11 +399,17 @@
         },
         {
           "key": "source:BH05171",
-          "why": "Retain the account of a disclosed matter without supplying what the excerpt omits."
+          "why": "Retain the account of a disclosed matter without supplying what the excerpt omits.",
+          "shortened": [
+            "We have set forth therein a matter which none hath discovered, and We have turned therein the verses as a remembrance from Our presence unto those who have believed in God and His signs, and have detached themselves from those who have disbelieved and associated partners with God and who stood at the station of opposition."
+          ]
         },
         {
           "key": "source:BH07445",
-          "why": "Consider a meaning associated with the acquisition of land."
+          "why": "Consider a meaning associated with the acquisition of land.",
+          "shortened": [
+            "Although for this blessed verse which was sent down from the heaven of divine will there are many meanings, yet one manifestation from the sun of its meanings dawned after the acquisition of this land, for this new land was adorned with the ornament of God's Name and is near to the River Jordan - and this is the river that was recorded and mentioned in the divine Books of old, and perhaps it will join [with the Sea] in the future as well."
+          ]
         },
         {
           "key": "source:BH00581",
@@ -334,15 +421,25 @@
         },
         {
           "key": "source:AB05119",
-          "why": "Consider the promised opening of meaning in its particular address."
+          "why": "Consider the promised opening of meaning in its particular address.",
+          "shortened": [
+            "O thou who art firm in the Covenant! Praise be to God that thou hast found thy way from the Lutheran denomination to the Kingdom of the Baha'is, and thou shalt understand the meanings of the Holy Book.",
+            "At that time, thou shalt discover all the mysteries and symbols of the Holy Book, the gates of meaning shall be opened before thy face, and divine secrets shall be revealed."
+          ]
         },
         {
           "key": "source:AB11304",
-          "why": "Read the prayer for understanding and expression."
+          "why": "Read the prayer for understanding and expression.",
+          "shortened": [
+            "To this Thy servant give the understanding of the Old Testament and the New and enable her to speak forth with mighty voice and to sing with power the holy songs and to discover the real meaning and the secret mysteries of those verses, for Thou art the Powerful Inspirer and the Mighty One"
+          ]
         },
         {
           "key": "source:AB05900",
-          "why": "Hear the hope of readers explaining several scriptures in distant lands."
+          "why": "Hear the hope of readers explaining several scriptures in distant lands.",
+          "shortened": [
+            "Thou shalt behold men-servants and maid-servants of Baha' in those far-distant lands and wide countries, speaking the secrets of the Gospel and the mysteries of the Bible and the allusions of the Koran and the explanation of the Words of the Merciful One."
+          ]
         },
         {
           "key": "source:AB07757",
@@ -350,11 +447,18 @@
         },
         {
           "key": "source:ABU1808",
-          "why": "Read the reported parable and pearl image as an invitation to continuing study."
+          "why": "Read the reported parable and pearl image as an invitation to continuing study.",
+          "shortened": [
+            "Abdu'l-Baha replied: -- \"Divine things are too deep to be expressed by common words. The heavenly teachings are expressed in parable in order to be understood and preserved for ages to come. When the spiritually minded dive deeply into the ocean of their meaning they bring to the surface the pearls of their inner significance."
+          ]
         },
         {
           "key": "source:BH01200",
-          "why": "Connect the metaphorical bridge and many paths with friendship and love."
+          "why": "Connect the metaphorical bridge and many paths with friendship and love.",
+          "shortened": [
+            "The metaphorical is a bridge to the real.",
+            "When a person of insight enters the path of spiritual wayfaring, after purifying and sanctifying the soul from all that God loveth not, multiple paths appear and he traverses them. This is why they have said \"The paths to God are as numerous as the breaths of created things.\" However, if through God's grace the eye is blessed with the light of truth, it will be observed that the Truth is one, the Path is one, and the Cause is one."
+          ]
         },
         {
           "key": "source:BH10820",
@@ -487,7 +591,7 @@
       "id": "97E01B3F4DF6EC02175D948C7567769E",
       "slug": "raceunity",
       "displayTitle": "Racial unity: making human equality visible",
-      "introduction": "What would change if the oneness of humanity became visible in whom we welcome, trust, learn from, and work beside? These readings join a rejection of racial superiority with calls for friendship, shared gatherings, education, and enduring bonds across imposed divisions. The image of the eye’s dark pupil transforms a mark used for exclusion into a source of illumination, while varied flowers and jewels portray difference as beauty. The collection also preserves historical racial classifications, generalizations about Africa, and reported accounts of emancipation that require critical attention; affirming unity must not conceal unequal conditions or make dignity conditional upon gratitude. Qur’an 49:13 offers a primary comparison through peoples coming to know one another and nobility measured by conduct [1]. Connected subjects of justice, prejudice, unity in diversity, and human oneness invite readers to connect inward freedom from superiority with practical changes in community life.",
+      "introduction": "The pupil of the eye is dark, ‘Abdu’l-Bahá reminded a Black believer, and yet it is the place where light enters; the mark others used for exclusion becomes the seat of vision. Everything He taught about race begins from that reversal. No race is superior to another; colour is an accident of nature while spirit is the essence; a pure heart is accepted whether its face is black, white, red or yellow; the colours of humanity are the sapphires, rubies, diamonds and pearls of one cluster. He called meetings in Washington where neither colour predominated and warned America that bloodshed would follow if the two races did not become friends. Some of His reported words carry the classifications of their era and ask for a reader who takes the demand for equality seriously without mistaking them for a complete history. The Qur’án’s word that peoples were made to know one another, with nobility measured by conduct, is the oldest companion to this vision [1]. The path runs through racial prejudice and justice, and out into unity in diversity and the oneness of humanity.",
       "arc": "Begin with dignity and welcome, recognize prejudice and unequal conditions, then explore shared gatherings, friendship, education, and the sustained work of making equality visible.",
       "order": [
         {
@@ -516,7 +620,10 @@
         },
         {
           "key": "source:ABU0573",
-          "why": "Read the NAACP address’s distinction between color and essential human qualities."
+          "why": "Read the NAACP address’s distinction between color and essential human qualities.",
+          "shortened": [
+            "We must conclude that color is not the standard and estimate of judgment and that it is of no importance, for color is accidental in nature. The spirit and intelligence of man is essential, and that is the manifestation of divine virtues, the merciful bestowals of God, the eternal life and baptism through the Holy Spirit. Therefore, be it known that color or race is of no importance."
+          ]
         },
         {
           "key": "source:AB11278",
@@ -532,11 +639,18 @@
         },
         {
           "key": "source:ABU0627",
-          "why": "Read common capacities alongside the beauty of varied colors."
+          "why": "Read common capacities alongside the beauty of varied colors.",
+          "shortened": [
+            "Between these two races certain points of agreement and points of distinction exist which warrant just and mutual consideration. The points of contact are many; for in the material or physical plane of being, both are constituted alike and exist under the same law of growth and bodily development. Furthermore, both live and move in the plane of the senses and are endowed with human intelligence.",
+            "Therefore, Baha'u'llah hath said that the various races of humankind lend a composite harmony and beauty of color to the whole."
+          ]
         },
         {
           "key": "source:ABU0701",
-          "why": "Hear the image of differently colored jewels."
+          "why": "Hear the image of differently colored jewels.",
+          "shortened": [
+            "In the clustered jewels of the races may the blacks be as sapphires and rubies and the whites as diamonds and pearls."
+          ]
         },
         {
           "key": "source:ABU0157",
@@ -544,23 +658,38 @@
         },
         {
           "key": "source:AB00143",
-          "why": "Read racial unity among the seven candles of unity."
+          "why": "Read racial unity among the seven candles of unity.",
+          "shortened": [
+            "The sixth candle is unity of races, making of all that dwell on earth peoples and kindreds of one race."
+          ]
         },
         {
           "key": "source:ABU0052",
-          "why": "Consider the address’s appeal to one human family."
+          "why": "Consider the address’s appeal to one human family.",
+          "shortened": [
+            "All humanity are the children of God; they belong to the same family, to the same original race. There can be no multiplicity of races, since all are the descendants of Adam. This signifies that racial assumption and distinction are nothing but superstition."
+          ]
         },
         {
           "key": "source:ABU0256",
-          "why": "Read the question of separation through the image of a flock."
+          "why": "Read the question of separation through the image of a flock.",
+          "shortened": [
+            "Man is intelligent and thoughtful, endowed with powers of mind. Why, then, should he be influenced by distinction of color or race, since all belong to one human family? There is no sheep which shuns another as if saying, \"I am white, and you are black.\" They graze together in complete unity, live together in fellowship and happiness. How then can man be limited and influenced by racial colors? The important thing is to realize that all are human, all are one progeny of Adam. Inasmuch as they are all one family, why should they be separated?"
+          ]
         },
         {
           "key": "source:ABU0016",
-          "why": "Retain the question about racial ideas obscuring creative purpose."
+          "why": "Retain the question about racial ideas obscuring creative purpose.",
+          "shortened": [
+            "Man is endowed with superior reasoning power and the faculty of perception; he is the manifestation of divine bestowals. Shall racial ideas prevail and obscure the creative purpose of unity in his kingdom?"
+          ]
         },
         {
           "key": "source:ABU1120",
-          "why": "Hear the reported knowledge of human and religious oneness."
+          "why": "Hear the reported knowledge of human and religious oneness.",
+          "shortened": [
+            "You are loosed from ancient superstitions which have kept men ignorant, destroying the foundations of true humanity. The gift of God of this enlightened age is the knowledge of the oneness of mankind and the fundamental oneness of religion."
+          ]
         },
         {
           "key": "source:ABU3042",
@@ -568,11 +697,17 @@
         },
         {
           "key": "source:ABU2528",
-          "why": "Read the reported measure of a pure heart."
+          "why": "Read the reported measure of a pure heart.",
+          "shortened": [
+            "There should be no differentiation between the blacks and the whites. All are the creatures of God. All are created by one God. There is no black and white in the Kingdom of God. The purest heart is the best whether white or black."
+          ]
         },
         {
           "key": "source:AB03102",
-          "why": "Consider belonging across distance and color."
+          "why": "Consider belonging across distance and color.",
+          "shortened": [
+            "Though outwardly you are in distant lands, in reality you are present in spirit and heart in the Blessed Spot, gathered beneath the banner of guidance and encompassed by endless favors. Praise be to God that the gates of the Kingdom have opened, the divine call has been raised, and no distinction remains between black and white - all are near to the Divine Threshold and all are beloved in the sight of 'Abdu'l-Baha."
+          ]
         },
         {
           "key": "source:AB00425",
@@ -580,7 +715,10 @@
         },
         {
           "key": "source:AB02197",
-          "why": "Retain the particular account of a person illuminating a gathering."
+          "why": "Retain the particular account of a person illuminating a gathering.",
+          "shortened": [
+            "When he arrived at Stuttgart, although being of black color, yet he shone as a bright light in the meeting of the Friends."
+          ]
         },
         {
           "key": "source:AB12530",
@@ -588,7 +726,11 @@
         },
         {
           "key": "source:AB08135",
-          "why": "Face the passage’s acknowledgment of intense hatred before its appeal to the heart."
+          "why": "Face the passage’s acknowledgment of intense hatred before its appeal to the heart.",
+          "shortened": [
+            "Intense is the hatred, in America, between black and white, but my hope is that the power of the Kingdom will bind these two in friendship, and serve them as a healing balm.",
+            "Let them look not upon a man's colour but upon his heart. If the heart be filled with light, that man is nigh unto the threshold of his Lord; but if not, that man is careless of his Lord, be he white or be he black."
+          ]
         },
         {
           "key": "source:ABU1651",
@@ -604,7 +746,11 @@
         },
         {
           "key": "source:ABU0237",
-          "why": "Read race as an excuse for war in the reported interview."
+          "why": "Read race as an excuse for war in the reported interview.",
+          "shortened": [
+            "\"Another excuse for war is that of race. This is black, that is yellow, you are white, he is red and then they fall on each other's lives instead of each other's neck. What utter stupidity! What sheer ignorance! These are all flimsy excuses and they stand neither the test of reason or religion. They are pure fictions of disordered minds and interested parties.",
+            "In the estimation of God there are not many races but one race and that is humanity."
+          ]
         },
         {
           "key": "source:ABU3401",
@@ -612,19 +758,34 @@
         },
         {
           "key": "source:ABU3501",
-          "why": "Hear the reported definition of freedom from several forms of prejudice."
+          "why": "Hear the reported definition of freedom from several forms of prejudice.",
+          "shortened": [
+            "He said, Tell them a Baha'i is a person who is free from all prejudices—racial prejudices, religious prejudices, political prejudices, social prejudices, economic prejudices."
+          ]
         },
         {
           "key": "source:AB01574",
-          "why": "Read the warning about harm together with the appeal to fellowship."
+          "why": "Read the warning about harm together with the appeal to fellowship.",
+          "shortened": [
+            "If matters continue in this way, this enmity will increase day by day and ultimately cause great harm and lead to bloodshed.",
+            "My hope is that this whiteness and blackness of humans will become like the whiteness and blackness of doves and sheep and other birds and animals, for difference of color causes no separation among birds and animals. You observe a flock of doves - some white, some black, some yellow, and some red - yet they fly together in utmost love and harmony. Humans too must be like this. Let there be no separation due to color, for all are human."
+          ]
         },
         {
           "key": "source:AB10765",
-          "why": "Consider the appeal for advancement and the warning about unresolved enmity."
+          "why": "Consider the appeal for advancement and the warning about unresolved enmity.",
+          "shortened": [
+            "I hope that ye may cause that downtrodden race to become glorious, and to be joined with the white race, to serve the world of man with the utmost sincerity, faithfulness, love, and purity.",
+            "This opposition, enmity, and prejudice among the white race and the coloured cannot be effaced except through faith, assurance, and the teachings of the Blessed Beauty...",
+            "This question of the union of the white and the black is very important, for if it is not realized, erelong great difficulties will arise, and harmful results will follow ... enmity will be increased day by day, and the final result will be hardship and may end in bloodshed."
+          ]
         },
         {
           "key": "source:ABU2309",
-          "why": "Keep the reported forecast and claims about outside agitation in their historical attribution."
+          "why": "Keep the reported forecast and claims about outside agitation in their historical attribution.",
+          "shortened": [
+            "If the races do not come to an agreement, there can be no question or doubt of bloodshed. When I was in America, I told the white and colored people that it was incumbent upon them to be united or else there would be the shedding of blood. I did not say more than this so that they might not be saddened. But, indeed, there is a greater danger than only the shedding of blood. It is the destruction of America. Because aside from the racial prejudice there is another agitating factor. It is that of America's enemies. These enemies are agitating both sides, that is, they are stirring up the white race against the colored race and the colored race against the white race."
+          ]
         },
         {
           "key": "source:ABU2091",
@@ -632,23 +793,42 @@
         },
         {
           "key": "source:AB09729",
-          "why": "Keep the historical assertions about rights and shared conditions open to critical reading."
+          "why": "Keep the historical assertions about rights and shared conditions open to critical reading.",
+          "shortened": [
+            "In this country, the United States of America, patriotism is common to both races; all have equal rights to citizenship, speak one language, receive the blessings of the same civilization, and follow the precepts of the same religion. In fact numerous points of partnership and agreement exist between the two races, whereas the one point of distinction is that of color. Shall this, the least of all distinctions, be allowed to separate you as races and individuals?"
+          ]
         },
         {
           "key": "source:ABU0308",
-          "why": "Read the Howard address’s appeals in their particular historical setting."
+          "why": "Read the Howard address’s appeals in their particular historical setting.",
+          "shortened": [
+            "I pray that you attain to such a degree of good character and behavior that the names of black and white shall vanish. All shall be called human, just as the name for a flight of doves is dove.",
+            "I hope that you attain to such a high degree--and this is impossible except through love. You must try to create love between yourselves; and this love does not come about unless you are grateful to the whites, and the whites are loving toward you, and endeavor to promote your advancement and enhance your honor."
+          ]
         },
         {
           "key": "source:ABU0120",
-          "why": "Retain the reported meetings and sweeping emancipation claims without endorsing those claims as a complete history."
+          "why": "Retain the reported meetings and sweeping emancipation claims without endorsing those claims as a complete history.",
+          "shortened": [
+            "In Washington, too, we called a meeting of the blacks and whites. The attendance was very large, the blacks predominating. At our second gathering this was reversed, but at the third meeting we were unable to say which color predominated. These meetings were a great practical lesson upon the unity of colors and races in the Baha'i teaching.",
+            "We said in part: The black man must ever be grateful to the white man, for he has manifested great courage and self-sacrifice in behalf of the black race. Four years he fought their cause, enduring severe hardships, sacrificing life, family, treasure, all for his black brother until the great war ended in the proclamation of freedom. By this effort and accomplishment the black race throughout the world was influenced and benefited."
+          ]
         },
         {
           "key": "source:ABU1471",
-          "why": "Read the reported political constraints and gratitude appeal with their original attribution."
+          "why": "Read the reported political constraints and gratitude appeal with their original attribution.",
+          "shortened": [
+            "For the black and white in America to associate together in a social way is good. The Government has objections on political grounds for granting equality ot the blacks, but you can promote friendly intercourse without interfering with politics.",
+            "The whites in America fought four years to liberate the slaves. This effect has stirred the people in Europe and the East to do the same thing. Even in Africa the blacks have been partly emancipated. The blacks should be grateful for these efforts of the whites."
+          ]
         },
         {
           "key": "source:ABU0344",
-          "why": "Consider divine virtues as the image of God while retaining the report’s historical generalizations."
+          "why": "Consider divine virtues as the image of God while retaining the report’s historical generalizations.",
+          "shortened": [
+            "Surely, colours are not the image and likeness of God. The image and likeness of God signify the virtues of the human world, the bestowals of God, the Divine Laws, the Love of God, the Knowledge of God, and the acquisition, through the Breaths of the Holy Spirit, and in this the colour, the white, the yellow, and all are co-sharers, or partners. He who is more imbued with these attributes, in whom these Favours are more manifest, is the image and likeness of God, be he black or white - let him be green. (Laughter) It makes no difference.",
+            "The coloured must be admonished to be appreciative of the whites, must be thankful to them, for the white people have exerted themselves much. They were the cause of their freedom. They went into war for it and freed them, and this has affected other continents of the world. This was the cause of freeing all the coloured people of Africa, and the coloured people must be very grateful, thankful, and the white people must be very kind and lenient, so that unity may be realized."
+          ]
         },
         {
           "key": "source:AB02243",
@@ -684,7 +864,10 @@
         },
         {
           "key": "source:AB05438",
-          "why": "Retain the historical description of African hearts and the appeal for patience in its particular voice."
+          "why": "Retain the historical description of African hearts and the appeal for patience in its particular voice.",
+          "shortened": [
+            "How good is the intention! And what an excellent aim this great aim is! Indeed the hearts of the Africans are as a blank scroll of paper upon which thou canst write any phrase; but thou must have patience and a heart as firm as a mountain, owing to the innumerable hardships that may intervene, which could be endured only by one who surrenders to grievous calamities."
+          ]
         },
         {
           "key": "source:AB00544",
@@ -692,7 +875,10 @@
         },
         {
           "key": "source:ABU0817",
-          "why": "Consider the reported encouragement of Louis Gregory’s teaching work."
+          "why": "Consider the reported encouragement of Louis Gregory’s teaching work.",
+          "shortened": [
+            "Mr. Gregory must demonstrate a self-sacrificing spirit in teaching the Cause amongst the black race, diffuse the fragrances of God in every part of the South, and let his cry 'Ya-Baha-el-Abha!' reach to the apex of heaven in their meetings, gatherings, churches, colleges and schools."
+          ]
         },
         {
           "key": "source:ABU3409",
@@ -712,7 +898,10 @@
         },
         {
           "key": "source:AB02916",
-          "why": "Turn the principle into wholehearted work for fellowship."
+          "why": "Turn the principle into wholehearted work for fellowship.",
+          "shortened": [
+            "Strive with heart and soul to create fellowship between black and white and to prove the Baha'i unity - that colors have absolutely no importance, rather it is hearts that matter."
+          ]
         },
         {
           "key": "source:AB02583",
@@ -724,11 +913,17 @@
         },
         {
           "key": "source:AB01694",
-          "why": "Read shared gatherings as a manifestation of human oneness."
+          "why": "Read shared gatherings as a manifestation of human oneness.",
+          "shortened": [
+            "The formation of gatherings of blacks and whites is a cause for the manifestation of the oneness of humanity. It will completely erase and eliminate racial prejudice and give everyone to drink from the spring of the water of life."
+          ]
         },
         {
           "key": "source:AB02529",
-          "why": "Hear the encouragement given to a particular mixed gathering."
+          "why": "Hear the encouragement given to a particular mixed gathering.",
+          "shortened": [
+            "Regarding the black friends, you wrote that black and white gathered in one meeting and completely eliminated distinctions of race and differences of color. When an assembly of these two races is arranged, it becomes a magnet for the Concourse on High and the confirmations of the Blessed Beauty encompass it."
+          ]
         },
         {
           "key": "source:AB11292",
@@ -740,19 +935,31 @@
         },
         {
           "key": "source:AB05898",
-          "why": "Consider different voices singing together as one soul."
+          "why": "Consider different voices singing together as one soul.",
+          "shortened": [
+            "Concerning the event of the gathering where four of the white and four of the colored people with the utmost love and harmony sang thy hymn with the utmost joy and fragrance, indeed this is one of the great signs of God, because it hath gathered hearts which were scattered and filled with hatred, souls which were opposing one another, disputing and repelling with enmity and made them as one soul sing the astonishing melodies of harmony in different tones."
+          ]
         },
         {
           "key": "source:AB05919",
-          "why": "Read shared joy beneath the banner of the Loving One."
+          "why": "Read shared joy beneath the banner of the Loving One.",
+          "shortened": [
+            "The gathering of whites and blacks under the banner raised by the hand of the power of your Lord, the Mighty, the Loving, increased everyone's joy."
+          ]
         },
         {
           "key": "source:AB08182",
-          "why": "Keep the account of a particular meeting and its speaker."
+          "why": "Keep the account of a particular meeting and its speaker.",
+          "shortened": [
+            "Praise be to God that white and colored, like unto the face and the hair of the Beloved of the Worlds, gathered together in utmost love and joy; and Mr. Alfred Lunt unloosened his tongue in eloquent speech."
+          ]
         },
         {
           "key": "source:ABU1835",
-          "why": "Retain the short reported result of close friendship."
+          "why": "Retain the short reported result of close friendship.",
+          "shortened": [
+            "In Washington we always had audiences of one to two thousand in large meetings. Day and night I had no rest. A close friendship was created between the black and white people. Many came to the Faith."
+          ]
         },
         {
           "key": "source:AB04660",
@@ -796,23 +1003,40 @@
         },
         {
           "key": "source:ABU0938",
-          "why": "Read education as an opportunity to establish freedom from bias."
+          "why": "Read education as an opportunity to establish freedom from bias.",
+          "shortened": [
+            "Every student should know, with perfect certainty, that he is the brother of the people of all religions and nations and that he should be without religious, racial, national, patriotic or political bias, so that he may find the thoughts of universal peace and the love humankind firmly established in his heart."
+          ]
         },
         {
           "key": "source:AB04790",
-          "why": "Hear the call to serve both groups through guidance and luminous conduct."
+          "why": "Hear the call to serve both groups through guidance and luminous conduct.",
+          "shortened": [
+            "I hope you will become a herald of the Kingdom and cause both black and white races to close their eyes to colors and look upon the reality of humanity, which is complete unity - that is, the unity of humanity and universality of mankind and the manifestation of divine grace.",
+            "As much as you can, rely upon God and submit to the divine will, so that you may shine like a candle in the human world and gleam like a star from the horizon of truth and become the cause of guidance for both groups - black and white."
+          ]
         },
         {
           "key": "source:AB10764",
-          "why": "Connect sustained fellowship with the assurance of peace."
+          "why": "Connect sustained fellowship with the assurance of peace.",
+          "shortened": [
+            "Strive earnestly and put forth your greatest endeavor toward the accomplishment of this fellowship and the cementing of this bond of brotherhood between you.",
+            "For the accomplishment of unity between the colored and white will be an assurance of the world's peace."
+          ]
         },
         {
           "key": "source:AB02915",
-          "why": "Read the spiritual power attributed to overcoming separation."
+          "why": "Read the spiritual power attributed to overcoming separation.",
+          "shortened": [
+            "Consider the power of the Word of God that has brought opposites together. The unity of black and white was impossible and unattainable, but the breaths of the Holy Spirit brings them together."
+          ]
         },
         {
           "key": "source:AB00063",
-          "why": "Consider the historical religious example of love overcoming inherited divisions."
+          "why": "Consider the historical religious example of love overcoming inherited divisions.",
+          "shortened": [
+            "Observe how numerous were the diverse nations, races, clans and tribes who, after the advent of Christ, gathered through the power of the love of God under the shadow of His Word. Consider how the differences and divisions of a thousand years were entirely abolished, how the delusion of the superiority of race and nation was dispelled, how the unity of souls and sentiments was attained, and how all became Christians in truth and in spirit."
+          ]
         },
         {
           "key": "source:AB10456",

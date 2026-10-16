@@ -5,7 +5,7 @@
       "id": "9896C9E13B524C0CB5F9770FF41B6D26",
       "slug": "happiness",
       "displayTitle": "Happiness: gratitude, inward freedom, and the joy we give",
-      "introduction": "A cup of tea in a meadow can disclose a happiness that wealth cannot purchase. Beginning with this quiet scene, the readings explore gratitude, spiritual freedom, fellowship, and the joy of helping another person. Their images range from a candle within the heart to an ocean whose depths remain calm beneath storms. Letters and reported conversations speak from circumstances of exile, confinement, illness, and loss, giving the invitations to rejoice a demanding human setting. The same compilation connects happiness with character and with institutions that secure everyone’s well-being. Neighboring subjects widen the inquiry toward serenity, humor, spiritual feeling, and the virtuous life. The Dhammapada offers a comparative picture of living happily without hostility amid a troubled world. Read together, these sources invite us to consider how joy may be cultivated, received, and shared while responding with tenderness to those who suffer.",
+      "introduction": "An old man wrapped his samovar in a saddlebag each afternoon, carried it to a meadow, and marvelled at the colour of his tea. People said kings were not so happy. His gladness owed nothing to possessions, and that is where ‘Abdu’l-Bahá begins: happiness is a star in every heart, hidden only by clouds, and a candle lit in the heart drives out the gloom of evil suggestions. He called his own forty years of imprisonment years of supreme joy, and likened the heart to an ocean, storm-tossed on the surface, calm in its depths. Yet this inward freedom turns outward at once, into the command to bring joy to hearts, to console the sad, to keep a cheerful face for the sake of the glad tidings within. Sorrow is given its place, and joy promised after it. The Dhammapada’s picture of living happily and without hostility among the hostile offers a companion from another tradition [1]. From here the journey leads to serenity, to humour within a balanced life, to the radiant countenance that lightens other people, and to the virtuous life in which joy finally rests.",
       "arc": "Begin with everyday gratitude and bringing joy to others, explore the sources and meanings of spiritual happiness, listen to accounts of joy amid trials, then return to fellowship, character, and generous action.",
       "order": [
         {
@@ -14,11 +14,18 @@
         },
         {
           "key": "source:ABU1122",
-          "why": "Turn immediately toward comforting and assisting others."
+          "why": "Turn immediately toward comforting and assisting others.",
+          "shortened": [
+            "Turn all your thoughts toward bringing joy to hearts. Beware! Beware! lest ye offend any heart. Assist the world of humanity as much as possible. Be the source of consolation to every sad one, assist every weak one, be helpful to every indigent one, care for every sick one, be the cause of glorification to every lowly one, and shelter those who are overshadowed by fear."
+          ]
         },
         {
           "key": "source:AB00004",
-          "why": "Connect happiness with character and the well-being of every person."
+          "why": "Connect happiness with character and the well-being of every person.",
+          "shortened": [
+            "The purpose of the foregoing statements is to demonstrate at least this, that the happiness and greatness, the rank and station, the pleasure and peace, of an individual have never consisted in his personal wealth, but rather in his excellent character, his high resolve, the breadth of his learning, and his ability to solve difficult problems.",
+            "The primary purpose, the basic objective, in laying down powerful laws and setting up great principles and institutions dealing with every aspect of civilization, is human happiness; and human happiness consists only in drawing closer to the Threshold of Almighty God, and in securing the peace and well-being of every individual member, high and low alike, of the human race; and the supreme agencies for accomplishing these two objectives are the excellent qualities with which humanity has been endowed."
+          ]
         },
         {
           "key": "source:AB04491",
@@ -26,19 +33,32 @@
         },
         {
           "key": "source:BH11715",
-          "why": "Make room for sorrow within the promise of joy to follow."
+          "why": "Make room for sorrow within the promise of joy to follow.",
+          "shortened": [
+            "God willing, may you be joyous at all times, and should any sorrow touch you, know with certainty that after it joy is ordained. Indeed, divine bounty towards thee is beyond reckoning."
+          ]
         },
         {
           "key": "source:ABU1719",
-          "why": "Read the image of a home that sends people away with glad hearts."
+          "why": "Read the image of a home that sends people away with glad hearts.",
+          "shortened": [
+            "If the candle of happiness is ignited in the chamber of the heart all the foreboding gloom of evil suggestions will be dispelled.",
+            "My home is the home of happiness. My home is the home of Unity. My home is the home of Peace. My home is the home of joy and delight. My home is the home of laughter and exultation. Whosoever enters through the portals of this home must go out with a gladsome heart. This is the home of Light, whosoever enters therein must become illumined."
+          ]
         },
         {
           "key": "source:ABU0295",
-          "why": "Consider the ocean’s calm depths beneath its changing surface."
+          "why": "Consider the ocean’s calm depths beneath its changing surface.",
+          "shortened": [
+            "This is what causes joy in the human heart - to be accepted at the threshold of the Divine Unity. Then one's heart is always in the utmost gladness, and even if trials and tribulations assail from all sides, the heart remains joyful. It is like an ocean - waves and storms may be seen on its surface, but its depths remain calm and tranquil."
+          ]
         },
         {
           "key": "source:ABU2401",
-          "why": "Read the reported exchange asking where happiness comes from."
+          "why": "Read the reported exchange asking where happiness comes from.",
+          "shortened": [
+            "A man asked another: \"In what station are you?\" He answered: \"In the utmost happiness.\" \"Where does this happiness come from?\""
+          ]
         },
         {
           "key": "source:ABU2691",
@@ -50,47 +70,84 @@
         },
         {
           "key": "source:BH07503",
-          "why": "Join joy with trust and contentment."
+          "why": "Join joy with trust and contentment.",
+          "shortened": [
+            "Live in the world with joy and delight, then build thy affairs upon trust in God and contentment."
+          ]
         },
         {
           "key": "source:AB08401",
-          "why": "Follow knowledge and devotion into fairness, forbearance, and generosity."
+          "why": "Follow knowledge and devotion into fairness, forbearance, and generosity.",
+          "shortened": [
+            "Happiness lies in knowledge, and knowledge in the fear of God, and the fear of God in detachment and aversion from worldly ornaments. And detachment brings divine love, and love seeks the recitation of verses and communes with God, and the attraction of verses refines character - that is, truthfulness in the path of God and fairness with people and mastery over self and association with the righteous and avoidance of the ignorant and respect for the great ones and kindness to the lesser ones and giving counsel to friends and forbearance with enemies and generosity to the poor and love for all people and guidance of those who have gone astray.",
+            "This is the most great happiness and the supreme gift and the imperishable bounty."
+          ]
         },
         {
           "key": "source:AB10040",
-          "why": "Introduce the distinction between physical and spiritual happiness."
+          "why": "Introduce the distinction between physical and spiritual happiness.",
+          "shortened": [
+            "O maidservant of God! Happiness is of two kinds: one is physical, the other spiritual. The former is finite: it lasteth a day, a month, perhaps a year, and ultimately yieldeth nothing. But the latter is endless and eternal; it revealeth itself through the love of God, and is attained through virtues and perfections in the world of humanity."
+          ]
         },
         {
           "key": "source:ABU1320",
-          "why": "Read the reported companion distinction in its own terms."
+          "why": "Read the reported companion distinction in its own terms.",
+          "shortened": [
+            "Happiness is of two kinds : physical, possessed by animals and men, and spiritual, which is known only by those men who have attained to holiness. Physical pleasure is something casual and temporary only-is due to an adventitious and transient condition of the nerves. But spiritual joy is of God and is unending."
+          ]
         },
         {
           "key": "source:AB03576",
-          "why": "Explore the extended account of spiritual happiness as love and life."
+          "why": "Explore the extended account of spiritual happiness as love and life.",
+          "shortened": [
+            "As to spiritual happiness, this is the true basis of the life of man because life is created for happiness, not for sorrow; for pleasure, not for grief. Happiness is life; sorrow is death. Spiritual happiness is eternal. This is a light which is not followed by darkness. This is an honor which is not followed by shame. This is a life that is not followed by death. This is an existence that is not followed by annihilation. This great blessing and precious gift is obtained by man only through the guidance of God.",
+            "This happiness is but the love of God."
+          ]
         },
         {
           "key": "source:ABU0555",
-          "why": "Consider the reported relation between spiritual life and happiness."
+          "why": "Consider the reported relation between spiritual life and happiness.",
+          "shortened": [
+            "As for the spiritual perfections they are man's birthright and belong to him alone of all creation. Man is, in reality, a spiritual being, and only when he lives in the spirit is he truly happy."
+          ]
         },
         {
           "key": "source:ABU0284",
-          "why": "Read the distinction between lasting and fleeting enjoyment."
+          "why": "Read the distinction between lasting and fleeting enjoyment.",
+          "shortened": [
+            "The purport is that the heart of man receives happiness through the fragrances of the paradise of Abha and the breaths of the Holy Spirit. Mundane things do not bring any lasting happiness. Earthly happiness endures but for an hour or two."
+          ]
         },
         {
           "key": "source:ABU1210",
-          "why": "Consider the report’s image of material happiness as an unstable structure."
+          "why": "Consider the report’s image of material happiness as an unstable structure.",
+          "shortened": [
+            "Do not believe for one moment that it is possible for man to obtain happiness, joy, serenity and confidence save through God. If his heart is not attached to God no matter how seemingly permanent is the structure of his material happiness it will totter down."
+          ]
         },
         {
           "key": "source:ABU2355",
-          "why": "Read the vulnerability of happiness tied to possessions and circumstances."
+          "why": "Read the vulnerability of happiness tied to possessions and circumstances.",
+          "shortened": [
+            "Therefore we must be happy.",
+            "Happiness must be in GOD. When people are happy in wealth, wealth may disappear. When they are happy in children, the children may die. If it is in luxury, it may be taken away. Therefore, eternal happiness is impossible for man except in GOD."
+          ]
         },
         {
           "key": "source:ABU2756",
-          "why": "Consider hopes, desires, and the source of spiritual joy."
+          "why": "Consider hopes, desires, and the source of spiritual joy.",
+          "shortened": [
+            "When you look at reality, there is no one without desire, and no desire is free from trouble and weariness.",
+            "Therefore every kind of hope becomes the cause of difficulty and burden, and prevents joy and happiness - except the hopes of souls who bind themselves to the divine world. They attain spiritual joy and achieve conscious happiness."
+          ]
         },
         {
           "key": "source:ABU1711",
-          "why": "Read the reported orientation toward the Kingdom."
+          "why": "Read the reported orientation toward the Kingdom.",
+          "shortened": [
+            "Therefore, man thinks his happiness is from this world and what it contains, while God has created him in such manner that his happiness must come from the Kingdom; that is, he must find joy from the spiritual world."
+          ]
         },
         {
           "key": "source:ABU3616",
@@ -98,19 +155,33 @@
         },
         {
           "key": "source:ABU2894",
-          "why": "Consider outward luxury beside inward restlessness."
+          "why": "Consider outward luxury beside inward restlessness.",
+          "shortened": [
+            "Then the comfort of this world also will be thine. All these men thou art beholding are not enjoying happiness, and are heavily laden with misery of some kind or another. If they sleep on couches of velvet and silk, yet they are sad and restless:",
+            "But when the believers of God free themselves from these entangling ties and become spiritual, sanctified and purified, they receive the real joy of this life and their hearts are at ease."
+          ]
         },
         {
           "key": "source:ABU1020",
-          "why": "Read the critique of limited conceptions of enjoyment as the source’s challenge."
+          "why": "Read the critique of limited conceptions of enjoyment as the source’s challenge.",
+          "shortened": [
+            "How negligent people are! What insignificant things they consider necessary for their happiness! How negligent they are! Like unto animals, they eat, they sleep, they walk, they sing, they dance, and after the manner of their kind think they are having a good time. But in truth the animals are better off, for without toil or trouble they enjoy all the material blessings necessary for their existence."
+          ]
         },
         {
           "key": "source:ABU1296",
-          "why": "Join knowledge of God with humanitarian deeds."
+          "why": "Join knowledge of God with humanitarian deeds.",
+          "shortened": [
+            "This happiness is age-abiding!",
+            "If a person is thirsty for the water of the Knowledge of God, his happiness is unfailing. If a soul is interested in humanitarian deeds, his joy is perennial. Therefore. The happiness that comes through God is a light that is not followed by any darkness; a healing which is not ended by any disease; a glory which is not consummated by any shame."
+          ]
         },
         {
           "key": "source:ABU0781",
-          "why": "Explore the many images of happiness, including goodwill and forgiveness."
+          "why": "Explore the many images of happiness, including goodwill and forgiveness.",
+          "shortened": [
+            "Happiness is the cherubim of the Almighty which inspires mankind to perform feats of self-sacrifice and deeds of disinterested philanthropy. Happiness is the melodious-singing nightingale which transforms the darkened world of sorrow into the beaming-realm of celestial beatitude. Happiness is the waving ocean in the depth of which the diver finds the pearls of resignation and the corals of renunciation. Happiness is the elysium wherein grows the asphodels of good-will and the amaranths of forgiveness."
+          ]
         },
         {
           "key": "source:AB07897",
@@ -118,11 +189,17 @@
         },
         {
           "key": "source:AB08717",
-          "why": "Read hope and light in the account of faith."
+          "why": "Read hope and light in the account of faith.",
+          "shortened": [
+            "But when the light of faith shines forth in the realm of the heart, eternal joy appears and the darkness of sorrow and gloom vanishes away. The despairing one becomes filled with hope, and the sorrowful one is immersed in the sea of gladness. This is an eternal joy that is followed by no sorrow."
+          ]
         },
         {
           "key": "source:AB08156",
-          "why": "Keep the chalice and star as images of enduring gladness."
+          "why": "Keep the chalice and star as images of enduring gladness.",
+          "shortened": [
+            "Be thou stirred with the Divine Glad tidings so that thou mayst hold in thy grasp the Chalice of imperishable Happiness and discover the brilliant star of age-abiding felicity and rest!"
+          ]
         },
         {
           "key": "source:AB03481",
@@ -130,7 +207,10 @@
         },
         {
           "key": "source:AB04835",
-          "why": "Consider connection with another realm in the invitation to joy."
+          "why": "Consider connection with another realm in the invitation to joy.",
+          "shortened": [
+            "Therefore, turn your attention entirely to another world and establish your connection to another realm, so that all your days may pass in joy upon joy, and all your times may bring forth eternal gladness."
+          ]
         },
         {
           "key": "source:BH10789",
@@ -138,19 +218,31 @@
         },
         {
           "key": "source:ABU2889",
-          "why": "Hear the reported account of love changing despondency."
+          "why": "Hear the reported account of love changing despondency.",
+          "shortened": [
+            "The love of Baha'u'llah is the essence of happiness, Any heart which will become the depository of this love is always happy. There have been many people sad and despondent but as soon as the sun of the love of Baha'u'llah shone in their hearts they became happy."
+          ]
         },
         {
           "key": "source:ABU2090",
-          "why": "Keep the concise reported statement about love with its source omission."
+          "why": "Keep the concise reported statement about love with its source omission.",
+          "shortened": [
+            "Nothing makes a man so happy as love..."
+          ]
         },
         {
           "key": "source:ABU3398",
-          "why": "Read the response to visitors distressed about their own faults."
+          "why": "Read the response to visitors distressed about their own faults.",
+          "shortened": [
+            "One day at luncheon Abdu'l-Baha asked us if we were glad to be at Akka and if we were happy. We answered that we were very happy to be there with Him but that when we thought of our faults we were unhappy. He replied emphatically, \"Think not of yourselves, but think of the Bounty of God. This will always make you happy.\""
+          ]
         },
         {
           "key": "source:ABU1652",
-          "why": "Consider detachment as freedom and lightness."
+          "why": "Consider detachment as freedom and lightness.",
+          "shortened": [
+            "To be detached is to be free, is to be flying in a new ether, is to be light, is to be joyous - and a Bahai should be joyous. He should attain to such a station of joy that the world will enquire as to his secret."
+          ]
         },
         {
           "key": "source:ABU1417",
@@ -158,15 +250,24 @@
         },
         {
           "key": "source:ABU1432",
-          "why": "Keep the report’s account of joy beyond the fulfillment of personal hopes."
+          "why": "Keep the report’s account of joy beyond the fulfillment of personal hopes.",
+          "shortened": [
+            "This happiness is eternal and the cause of expansion of heart and soul in all divine worlds. When one's happiness is from divine bounties, they will not become sad or sorrowful in any condition, even if worldly events are not according to their desires and the turning of fortune does not promote their hopes and thoughts."
+          ]
         },
         {
           "key": "source:ABU1453",
-          "why": "Consider the reported contrast between little food and real affluence."
+          "why": "Consider the reported contrast between little food and real affluence.",
+          "shortened": [
+            "But those who have faith in God act according to the divine teachings; even though they need a little food to survive, they will pass their lives in the utmost happiness and joy. This is one of the bounties of religion; this is eternal happiness, life everlasting and real affluence."
+          ]
         },
         {
           "key": "source:ABU0386",
-          "why": "Read the recollection of joy during imprisonment as a personal testimony."
+          "why": "Read the recollection of joy during imprisonment as a personal testimony.",
+          "shortened": [
+            "I myself was in prison forty years -- one year alone would have been impossible to bear -- nobody survived that imprisonment more than a year! But, thank God, during all those forty years I was supremely happy! Every day, on waking, it was like hearing good tidings, and every night infinite joy was mine. Spirituality was my comfort, and turning to God was my greatest joy. If this had not been so, do you think it possible that I could have lived through those forty years in prison?"
+          ]
         },
         {
           "key": "source:BH08663",
@@ -182,11 +283,17 @@
         },
         {
           "key": "source:ABU1040",
-          "why": "Keep the reported scene of thirteen people sharing one room."
+          "why": "Keep the reported scene of thirteen people sharing one room.",
+          "shortened": [
+            "At one time in Acca, thirteen Bahais lived in one room, but they radiated peace, joy and love."
+          ]
         },
         {
           "key": "source:ABU1698",
-          "why": "Read the account of joy amid restrictions and confinement."
+          "why": "Read the account of joy amid restrictions and confinement.",
+          "shortened": [
+            "Notwithstanding these restrictions and this confinement we were in the utmost joy; our breasts were dilated with the happiness of the Kingdom, our trust was in the Mercy of the Lord, our hearts were attracted with the Fragrances of God and our souls rejoiced by the Glad-tidings of Truth."
+          ]
         },
         {
           "key": "source:ABU3330",
@@ -194,19 +301,32 @@
         },
         {
           "key": "source:AB00883",
-          "why": "Read the rose and nightingale imagery under tests and persecution."
+          "why": "Read the rose and nightingale imagery under tests and persecution.",
+          "shortened": [
+            "During the time of Peace, security, Comfort and the lack of sorrow, even the monkey will be the most jovial fellow. He will be happy, joyful, grateful, patient and overflowing with gladsomeness. But the sincere servant of Baha'u'llah, who is firm in the Covenant and steadfast in the Testament, while surrounded by the most great sea of tests; threatened by the surging, rocking waves of persecution and encircled by the whirlwinds of calumnies and backbiting - will blossom like unto a rose and breaks into joyous songs and sweet melodies like unto the nightingale."
+          ]
         },
         {
           "key": "source:AB02257",
-          "why": "Consider the source’s praise of contentment in hardship."
+          "why": "Consider the source’s praise of contentment in hardship.",
+          "shortened": [
+            "The necessity and the particularity of the assured and believing ones is to be firm in the Cause of God and withstand the hidden and evident tests. Thanks be to God that you are distinguished and made eminent by this blessing. Anybody can be happy in the state of comfort, ease, health, success, pleasure and joy; but if one will be happy and contented in the time of trouble, hardship and prevailing disease, it is the proof of nobility."
+          ]
         },
         {
           "key": "source:AB06135",
-          "why": "Read service and love in the image of the bitter cup."
+          "why": "Read service and love in the image of the bitter cup.",
+          "shortened": [
+            "However, it behooveth thee to serve the Threshold of the All-Merciful with the utmost assurance, steadfastness and certitude, for these trials and tribulations are in the path of the All-Glorious, and this bitter cup must be drunk with the utmost joy and gladness out of love for the Abha Beauty."
+          ]
         },
         {
           "key": "source:AB04055",
-          "why": "Consider solidarity with the trials of loved ones, retaining the source omission."
+          "why": "Consider solidarity with the trials of loved ones, retaining the source omission.",
+          "shortened": [
+            "Yet from another perspective, consider that the loved ones of God are intoxicated from the overflowing cup of trials, and their joy and gladness lie in bearing afflictions and tribulations in the path of God.",
+            "Rather, we must find joy and gladness that, to the extent of our capacity and ability, we share in the trials of God's loved ones."
+          ]
         },
         {
           "key": "source:AB03245",
@@ -214,11 +334,17 @@
         },
         {
           "key": "source:AB04282",
-          "why": "Hear the invitation to remain radiant in the meadow of trials."
+          "why": "Hear the invitation to remain radiant in the meadow of trials.",
+          "shortened": [
+            "Therefore, do not be tested by trials and tribulations, and like a flower be radiant in this meadow so that you may find spiritual joy and seek conscious delight."
+          ]
         },
         {
           "key": "source:AB00915",
-          "why": "Keep the account of believers approaching martyrdom in its historical and devotional terms."
+          "why": "Keep the account of believers approaching martyrdom in its historical and devotional terms.",
+          "shortened": [
+            "Those who had eyes to see rejoiced at the glad tidings and cried out: 'O blessed, blessed are we!', and they witnessed the inner reality of all things, and uncovered the mysteries of the Kingdom. Delivered then from their fancies and their doubts, they beheld the light of truth, and so exhilarated did they become from draining the chalice of God's love, that they utterly forgot the world and their own selves. Dancing for joy they hastened to the place of their own martyrdom and there, where men die for love, they flung away their heads and hearts."
+          ]
         },
         {
           "key": "source:ABU3562",
@@ -246,7 +372,10 @@
         },
         {
           "key": "source:ABU0818",
-          "why": "Read the encouragement concerning health, livelihood, and vocation."
+          "why": "Read the encouragement concerning health, livelihood, and vocation.",
+          "shortened": [
+            "You must live in the utmost happiness. If any trouble or vicissitude comes into your lives, if your heart is depressed on account of health, livelihood or vocation, let not these things affect you. They should not cause unhappiness, for Baha'u'llah has brought you divine happiness. He has prepared heavenly food for you; He has destined eternal bounty for you; He has bestowed everlasting glory upon you. Therefore, these glad tidings should cause you to soar in the atmosphere of joy forever and ever."
+          ]
         },
         {
           "key": "source:AB09843",
@@ -258,11 +387,17 @@
         },
         {
           "key": "source:BH09413",
-          "why": "Read the aspiration to an expanded heart."
+          "why": "Read the aspiration to an expanded heart.",
+          "shortened": [
+            "Be joyful within yourself and grieve not over anything, and maintain such an expanded heart that it shall never be contracted."
+          ]
         },
         {
           "key": "source:AB05949",
-          "why": "Hear the encouragement addressed to one person’s love and knowledge."
+          "why": "Hear the encouragement addressed to one person’s love and knowledge.",
+          "shortened": [
+            "Beware, beware lest you grieve over anything, for grief extinguishes the warmth of your love. Rather, be joyful in what God has given you of His love and knowledge, and soon the door of blessings will open to you from all directions."
+          ]
         },
         {
           "key": "source:BH03079",
@@ -274,27 +409,46 @@
         },
         {
           "key": "source:AB00458",
-          "why": "Read consolation through remembrance of divine favors."
+          "why": "Read consolation through remembrance of divine favors.",
+          "shortened": [
+            "In any case, forget sorrows and complaints, and hearken to the melody of the Abha Kingdom. Be joyous and delighted, show forth eagerness and ardor, for praise be to God, thou art established beneath the favors of the Most Glorious Beauty, art immortalized in the paradise of the good-pleasure of the Servant of Baha, art regarded by the glance of the Lord of Oneness, and art known and described in the Supreme Concourse as the herald of the Covenant."
+          ]
         },
         {
           "key": "source:AB00198",
-          "why": "Consider the devotional invitation to move beyond preoccupation with self."
+          "why": "Consider the devotional invitation to move beyond preoccupation with self.",
+          "shortened": [
+            "Let us put aside all thoughts of self; let us close our eyes to all on earth, let us neither make known our sufferings nor complain of our wrongs. Rather let us become oblivious of our own selves, and drinking down the wine of heavenly grace, let us cry out our joy, and lose ourselves in the beauty of the All-Glorious."
+          ]
         },
         {
           "key": "source:BH04914",
-          "why": "Read joy and sorrow together as oriented toward God."
+          "why": "Read joy and sorrow together as oriented toward God.",
+          "shortened": [
+            "O Faraj! Let thy joy and gladness and sorrow be for God alone. Be happy in truth and confident in truth, and be sorrowful only for His sake.",
+            "The radiant effulgence of the Sun of Joy hath taken hold of thee and the Tongue of Eternity speaketh with thee. I swear by the sweetness of the utterance of the All-Merciful that oceans of joy are concealed in this mention."
+          ]
         },
         {
           "key": "source:BH09822",
-          "why": "Keep the counsel to focus on God amid differences."
+          "why": "Keep the counsel to focus on God amid differences.",
+          "shortened": [
+            "Be in the utmost joy and delight and fix your gaze on naught but God, for the winds of differences are blowing from all directions."
+          ]
         },
         {
           "key": "source:BH08428",
-          "why": "Read the wine imagery in the promise of joy."
+          "why": "Read the wine imagery in the promise of joy.",
+          "shortened": [
+            "If thou shouldst drink of this wine, such joy shall possess thee that the troubles and sorrows of the world will never seize thee."
+          ]
         },
         {
           "key": "source:BH00074",
-          "why": "Hear glad tidings sent from prison to communities facing calamities."
+          "why": "Hear glad tidings sent from prison to communities facing calamities.",
+          "shortened": [
+            "O friends! Gather together with joy and fragrance, and with perfect wisdom and utterance, and drink of the most pure and luminous wine in the name of the Lord of Power. Verily it is My wondrous love, My cherished word, and My holy, transcendent, sublime remembrance. Be not saddened by the calamities of the world. By God! The ocean of joy yearns for your presence, for every good thing hath been created for you and will appear according to the requirements of time. Thus doth My Most Exalted Pen give you glad tidings from this Most Great Prison as a bounty from Him, and He is the All-Bountiful, the Most Generous.\""
+          ]
         },
         {
           "key": "source:BH04542",
@@ -306,7 +460,10 @@
         },
         {
           "key": "source:BH06000",
-          "why": "Consider rejoicing extending through creation and scripture."
+          "why": "Consider rejoicing extending through creation and scripture.",
+          "shortened": [
+            "Today all things, the Concourse on High, the divine Books and holy Scriptures, some in the innermost mystery and others openly and manifestly, are engaged in joy and delight, for this is the Most Great Day of rejoicing."
+          ]
         },
         {
           "key": "source:BH07490",
@@ -322,7 +479,10 @@
         },
         {
           "key": "source:AB07482",
-          "why": "Hear the proclamation of a season of rejoicing."
+          "why": "Hear the proclamation of a season of rejoicing.",
+          "shortened": [
+            "This is the day of rejoicing and the hour of ecstasy! This is the season of the dead arising from the graves and gathering together! And this is the promised time for the attainment of plenteous grace."
+          ]
         },
         {
           "key": "source:AB00408",
@@ -330,7 +490,10 @@
         },
         {
           "key": "source:AB02607",
-          "why": "Consider the particular community’s season of gladness."
+          "why": "Consider the particular community’s season of gladness.",
+          "shortened": [
+            "O beloved friends of 'Abdu'l-Baha! Spend day and night in joy, gladness, delight and success, for the Blessed Beauty is pleased with you and this afflicted servant is grateful. It is a time of joy, a season of delight, days of gladness and a period of success."
+          ]
         },
         {
           "key": "source:AB06289",
@@ -338,7 +501,10 @@
         },
         {
           "key": "source:AB07397",
-          "why": "Join gratitude with creating joy and promoting the Faith."
+          "why": "Join gratitude with creating joy and promoting the Faith.",
+          "shortened": [
+            "Therefore, O friends, show gratitude for this manifest bounty and with soul and consciousness create joy and delight. Take up an overflowing cup, raise a resurrection, be happy and successful, and promote the Faith of the All-Merciful."
+          ]
         },
         {
           "key": "source:ABU3437",
@@ -346,7 +512,10 @@
         },
         {
           "key": "source:ABU1293",
-          "why": "Read the questions about joy beside the imagery of fruitful trees."
+          "why": "Read the questions about joy beside the imagery of fruitful trees.",
+          "shortened": [
+            "You have turned to the kingdom of Baha'u'llah and are manifesting the favors of Baha'u'llah. Verily the light of the Most Great Guidance has become iridescent in your hearts, and in the wilderness of the world you are proving to be fruitful trees. What reward is greater than this? This is a great bounty, a great bestowal. If you be not happy, who could be happy? If you be not attracted, who could be attracted? If you be not radiant, who could be radiant? If you fly not away with joy, who could fly away?"
+          ]
         },
         {
           "key": "source:ABU0750",
@@ -362,7 +531,10 @@
         },
         {
           "key": "source:ABU1514",
-          "why": "Consider reassurance of companionship during a journey."
+          "why": "Consider reassurance of companionship during a journey.",
+          "shortened": [
+            "You will be very happy, for I will be with you all the way. You must go with the utmost happiness and cheerfulness."
+          ]
         },
         {
           "key": "source:ABU1877",
@@ -370,7 +542,10 @@
         },
         {
           "key": "source:AB10710",
-          "why": "Read the wish for security and joy addressed to a friend."
+          "why": "Read the wish for security and joy addressed to a friend.",
+          "shortened": [
+            "O thou kind friend! Through the bounties of the Blessed Beauty, my wish for thee is that thou mayest ever remain secure, protected and joyful."
+          ]
         },
         {
           "key": "source:ABU1006",
@@ -378,7 +553,10 @@
         },
         {
           "key": "source:AB00397",
-          "why": "Hear the prayer for hearts and souls to be gladdened, with its omission retained."
+          "why": "Hear the prayer for hearts and souls to be gladdened, with its omission retained.",
+          "shortened": [
+            "At all times do I speak of you and call you to mind. I pray unto the Lord, and with tears I implore Him to rain down all these blessings upon you, and gladden your hearts, and make blissful your souls, and grant you exceeding joy and heavenly delights..."
+          ]
         },
         {
           "key": "source:AB11279",
@@ -390,7 +568,10 @@
         },
         {
           "key": "source:BH06488",
-          "why": "Consider drinking from the ocean of joy."
+          "why": "Consider drinking from the ocean of joy.",
+          "shortened": [
+            "God willing, may you ever drink from the ocean of joy and remain fixed in contemplation of the Most Glorious Horizon."
+          ]
         },
         {
           "key": "source:BH07203",
@@ -398,7 +579,10 @@
         },
         {
           "key": "source:AB11992",
-          "why": "Read daily life receiving a dewdrop of bounty."
+          "why": "Read daily life receiving a dewdrop of bounty.",
+          "shortened": [
+            "It befits the divine friends to receive in every breath a dewdrop from the eternal bounty and take their share from the remembrance of God, so that they may bring their days to an end with the utmost joy and delight."
+          ]
         },
         {
           "key": "source:AB01915",
@@ -406,7 +590,10 @@
         },
         {
           "key": "source:AB05240",
-          "why": "Consider praise and music as expressions of delight."
+          "why": "Consider praise and music as expressions of delight.",
+          "shortened": [
+            "In any case, always warble in the garden of divine knowledge with various melodies and novel tunes in praise of this servant's servitude, that the spirit may be stirred, the heart gladdened, the soul may find joy and delight, the lights of happiness may shine forth, and the bounty of joy may increase."
+          ]
         },
         {
           "key": "source:AB05376",
@@ -414,11 +601,17 @@
         },
         {
           "key": "source:AB07506",
-          "why": "Keep the invitation to a melody reaching the realm above."
+          "why": "Keep the invitation to a melody reaching the realm above.",
+          "shortened": [
+            "Be joyous, be happy, and out of the intensity of gladness and delight, raise such a melody and song that the ancient Persians will be moved to ecstasy and joy in the realm above."
+          ]
         },
         {
           "key": "source:AB07210",
-          "why": "Read laughter itself within the language of devotion."
+          "why": "Read laughter itself within the language of devotion.",
+          "shortened": [
+            "Thou must show such joy and gladness, and seek such delight and felicity, that thy laughter of joy and bliss may reach the Kingdom of the All-Forgiving Lord."
+          ]
         },
         {
           "key": "source:AB00598",
@@ -434,23 +627,38 @@
         },
         {
           "key": "source:AB01023",
-          "why": "Connect the leaping heart with servitude."
+          "why": "Connect the leaping heart with servitude.",
+          "shortened": [
+            "Hold ye fast to the hem of God's garment, and direct all your efforts toward furthering His Covenant, and burning ever more brightly with the fire of His love, that your hearts may leap for joy in the breathings of servitude which well out from the breast of Abdu'l-Baha."
+          ]
         },
         {
           "key": "source:AB01432",
-          "why": "Join merry rejoicing with meekness and purity."
+          "why": "Join merry rejoicing with meekness and purity.",
+          "shortened": [
+            "Let God's beloved, each and every one, be the essence of purity, the very life of holiness, so that in every country they may become famed for their sanctity, independence of spirit, and meekness. Let them be cheered by draughts from the eternal cup of love for God, and make merry as they drink from the wine-vaults of Heaven."
+          ]
         },
         {
           "key": "source:AB04220",
-          "why": "Read joy among the qualities of those who assist the Covenant."
+          "why": "Read joy among the qualities of those who assist the Covenant.",
+          "shortened": [
+            "\"Ye are the angels, if your feet be firm, your spirits rejoiced, your secret thoughts pure, your eyes consoled, your ears opened, your breasts dilated with joy, and your souls gladdened, and if you arise to assist the Covenant, to resist dissension and to be attracted to the Effulgence!"
+          ]
         },
         {
           "key": "source:AB03508",
-          "why": "Keep the particular contrast between friends and ill-wishers in its source context."
+          "why": "Keep the particular contrast between friends and ill-wishers in its source context.",
+          "shortened": [
+            "The friends are in the utmost joy and delight while the ill-wishers are disappointed, condemned and rejected."
+          ]
         },
         {
           "key": "source:ABU0543",
-          "why": "Read the happiness of a gathered community."
+          "why": "Read the happiness of a gathered community.",
+          "shortened": [
+            "Tonight I am in the greatest happiness, looking upon this concourse of God. Your meeting here is surely an evidence that you are upholding the Cause of God, that you are aiding and assisting in establishing the Kingdom of God."
+          ]
         },
         {
           "key": "source:ABU0451",
@@ -458,11 +666,18 @@
         },
         {
           "key": "source:ABU0461",
-          "why": "Read another person’s joy as a source of one’s own happiness."
+          "why": "Read another person’s joy as a source of one’s own happiness.",
+          "shortened": [
+            "To see the joy of divine gladness on your faces is the cause of my happiness, for when I see you happy, I am happy also. The divine messengers come to bring joy to this earth, for this is the planet of tribulation and torment and the mission of the great masters is to turn men away from these anxieties and to infuse life with infinite joy."
+          ]
         },
         {
           "key": "source:AB06951",
-          "why": "Consider remembrance of friends as a source of delight."
+          "why": "Consider remembrance of friends as a source of delight.",
+          "shortened": [
+            "The greatest means of joy and gladness is the mention of the divine friends.",
+            "This will cause enthusiasm and rapture in the friends and attraction and delight in the loved ones."
+          ]
         },
         {
           "key": "source:AB11277",
@@ -474,11 +689,17 @@
         },
         {
           "key": "source:ABU2761",
-          "why": "Read the reported counsel to share good tidings."
+          "why": "Read the reported counsel to share good tidings.",
+          "shortened": [
+            "Be ye always the bearers of good tidings and spread such news quickly, and become the means through which the hearts are made cheerful and vigilant."
+          ]
         },
         {
           "key": "source:ABU1395",
-          "why": "Carry glad tidings outward from a visit."
+          "why": "Carry glad tidings outward from a visit.",
+          "shortened": [
+            "Therefore when you go back from here you must go with perfect joy and give the glad tidings to every one."
+          ]
         },
         {
           "key": "source:ABU3633",
@@ -486,15 +707,24 @@
         },
         {
           "key": "source:ABU1113",
-          "why": "Read the image of a child responding to another person’s face."
+          "why": "Read the image of a child responding to another person’s face.",
+          "shortened": [
+            "A bright and happy face cheers people on their way. If you are sad, and pass a child who is laughing, the child, seeing your sad face, will cease to laugh, not knowing why. If the day be dark, how much a gleam of sunshine is prized; so let believers wear smiling happy faces, gleaming like sunshine in the darkness."
+          ]
         },
         {
           "key": "source:ABU0715",
-          "why": "Keep the connection between inward glad tidings and outward expression."
+          "why": "Keep the connection between inward glad tidings and outward expression.",
+          "shortened": [
+            "That we must always have a cheerful face because of the glad tidings in our hearts."
+          ]
         },
         {
           "key": "source:BH02740",
-          "why": "Read the invitation to radiance among people."
+          "why": "Read the invitation to radiance among people.",
+          "shortened": [
+            "Be ye among the servants with joy and radiance such that the gladness of paradise may be perceived in your faces."
+          ]
         },
         {
           "key": "source:ABU1819",
@@ -502,11 +732,17 @@
         },
         {
           "key": "source:ABU0935",
-          "why": "Connect joy with mercy, charity, and refusal to dwell on faults."
+          "why": "Connect joy with mercy, charity, and refusal to dwell on faults.",
+          "shortened": [
+            "Live in such a way that when people observe your manners, morals and conduct they may exclaim, 'These are not men and women, but angels of the Lord.' Be ye kind to all mankind. Let mercy be the motive power in your dealings with people. Do not look at their shortcomings. Win the hearts through love and charity; set them aglow with the fire of the love of God. The joy of a soul is indescribable, if the fragrance of spirituality waft from the garden of his being. This diving happiness is not followed by any sorrow nor is this heavenly spring ended by the sultry days of summer."
+          ]
         },
         {
           "key": "source:AB00044",
-          "why": "Read the forceful summons to serve humanity amid its failings."
+          "why": "Read the forceful summons to serve humanity amid its failings.",
+          "shortened": [
+            "This world of man is now an arena for wild beasts, a field where the ignorant, the heedless, seize their chance. The souls of men are ravening wolves and animals with blinded eyes, they are either deadly poison or useless weeds -- all except for a very few who indeed do nurture altruistic aims and plans for the well-being of their fellow men: but ye must in this matter -- that is, the serving of humankind -- lay down your very lives, and as ye yield yourselves, rejoice."
+          ]
         },
         {
           "key": "source:ABU3062",
@@ -530,23 +766,38 @@
         },
         {
           "key": "source:ABU2546",
-          "why": "Hear the concise reported summons to gladness."
+          "why": "Hear the concise reported summons to gladness.",
+          "shortened": [
+            "One must always be joyous, must always be radiant, must always be filled with gladness."
+          ]
         },
         {
           "key": "source:ABU2611",
-          "why": "Retain the brief conclusion about rejoicing in its own source."
+          "why": "Retain the brief conclusion about rejoicing in its own source.",
+          "shortened": [
+            "They sow their seed in firm ground. They write upon the surface of iron and steel. That is when they father many harvests and their writings bestow eternal significances. Therefore they must be in the utmost happiness and rejoicing."
+          ]
         },
         {
           "key": "source:ABU1797",
-          "why": "Read enjoyment of blessings alongside the warning about empty praise."
+          "why": "Read enjoyment of blessings alongside the warning about empty praise.",
+          "shortened": [
+            "If a man does not do these things, even though he praises God and offers him a hundred thousand thanksgivings every second there will be for that man not the slightest result; it will be but words without light. Consequently, we must be very happy, very glad, very much pleased, very contented, very joyful, because we are submerged in the ocean of the bestowals of Baha'u'llah...\tA thoughtful man enjoys the gifts and the blessings of God."
+          ]
         },
         {
           "key": "source:ABU0831",
-          "why": "Consider the story’s association of delight with character."
+          "why": "Consider the story’s association of delight with character.",
+          "shortened": [
+            "I saw that all these things he spoke of held absolutely no importance for the woman. Her thought was that the desert was good and she was in the utmost joy. Human joy, comfort and delight depend on character."
+          ]
         },
         {
           "key": "source:ABU0611",
-          "why": "Keep the reported conclusion concerning a good man’s life."
+          "why": "Keep the reported conclusion concerning a good man’s life.",
+          "shortened": [
+            "The believers asked him several times to call on the Blessed Perfection but he would flatly refuse while saying:- 'How can I, the essence of sin stand in the Presence of the essence of Holiness! I am not worthy of this privilege! Whenever I find that I have attained to this merit I will go but not now, not now.' Thus this good man lived and died in happiness."
+          ]
         },
         {
           "key": "source:ABU1163",
@@ -562,7 +813,10 @@
         },
         {
           "key": "source:ABU3518",
-          "why": "Keep the reported daily provision for happiness in its source setting."
+          "why": "Keep the reported daily provision for happiness in its source setting.",
+          "shortened": [
+            "The Blessed Beauty said, 'In every twenty-four hours, two hours must be spent in a way that will cause happiness.'"
+          ]
         },
         {
           "key": "source:BH11137",
@@ -570,7 +824,10 @@
         },
         {
           "key": "source:BH04605",
-          "why": "Conclude the linked readings with courage, discernment, and steadfast knowledge."
+          "why": "Conclude the linked readings with courage, discernment, and steadfast knowledge.",
+          "shortened": [
+            "Happy are the righteous that have attained unto the most great truth; happy are the wise that have recognized the straight path of God and turned unto His Kingdom; happy are the glad and sincere, the lamps of whose hearts burn with the knowledge of the All-Merciful  and are protected by self-abnegation from the rough winds of test and sorrows; happy are the brave whose hearts the power of the oppressor cannot daunt; happy are the clearsighted that have learned to distinguish the transitory from the eternal, that have turned their faces to the Imperishable and are named among the Immortals in the realm of power and glory."
+          ]
         },
         {
           "key": "selection:3b8ed2d6f14a6a21cbe90a84",
@@ -586,7 +843,10 @@
         },
         {
           "key": "selection:4fd6991016ae49cc7739070f",
-          "why": "Read the distinction between balanced humor and empty diversion."
+          "why": "Read the distinction between balanced humor and empty diversion.",
+          "shortened": [
+            "Abandonment of \"a frivolous conduct\" does not imply that a Baha'i must be sour-faced or perpetually solemn. Humour, happiness, joy are characteristics of a true Baha'i life. Frivolity palls and eventually leads to boredom and emptiness, but true happiness and joy and humour that are parts of a balanced life that includes serious thought, compassion and humble servitude to God are characteristics that enrich life and add to its radiance."
+          ]
         },
         {
           "key": "selection:82655e9ab949d6095fdf6c8c",
@@ -669,7 +929,7 @@
       "id": "938239E920FD40BEAE2E8DD30528D54A",
       "slug": "wordsdeeds",
       "displayTitle": "Words and deeds: giving belief a visible life",
-      "introduction": "What changes for a cold or hungry person when someone speaks kindly but offers no help? These readings repeatedly bring religious claims back to such concrete tests. Generosity must give, love must visit and console, and knowledge must enter the life it hopes to improve. Images of fruitless trees, honeyless bees, unused medicine, and light that must illuminate make the gap between profession and practice vivid. Yet speech also has a necessary place: clear explanation and gentle words become powerful when they express a life of integrity. Neighboring subjects connect this inquiry with service, good character, the discipline of silence, and the power of language. James’s challenge about faith and practical care offers a close comparative reading. The compilation asks how study, prayer, reflection, and resolve can become action, and how honest attention to our conduct can keep belief from hardening into a name alone.",
+      "introduction": "Knowing that ten thousand people are cold and hungry does nothing for any of them, ‘Abdu’l-Bahá remarks, unless someone feeds and clothes them. That plain test runs through everything Bahá’u’lláh teaches about belief: words without deeds are bees that yield no honey, trees that bear no fruit, medicine the patient recognises and never takes. A thousand loads of talk about zeal and generosity are not worth a penny beside one small act. Gentle words quench thirst when they rise from a life of integrity, and when word and deed agree the effect is light upon light. What it refuses is the substitution of one for the other, offering a daily practice instead: compare your conduct with the teachings, give thanks where they agree, seek forgiveness where they do not. James, asking what use it is to wish a hungry person warmth, presses the same point. From here the way leads toward goodly deeds and service to others, toward silence and fewness of words, and toward the power of speech when something lived stands behind it.",
       "arc": "Begin with tangible help and the difficulty of practice, explore deeds as evidence of love and faith, recover the partnership of speech and action, and move toward reflection, service, and persistent effort.",
       "order": [
         {
@@ -678,11 +938,17 @@
         },
         {
           "key": "source:ABU2848",
-          "why": "Make love concrete through visiting and consoling a friend."
+          "why": "Make love concrete through visiting and consoling a friend.",
+          "shortened": [
+            "Go to see each other and be consoling friends to all. If a friend lives a little distance from the town, go to see him. Do not content yourselves with words only but act according to the commandments of God."
+          ]
         },
         {
           "key": "source:AB01068",
-          "why": "Contrast a small deed with an abundance of claims."
+          "why": "Contrast a small deed with an abundance of claims.",
+          "shortened": [
+            "Look at the deeds, what concern have you with words? A thousand loads of words about zeal, enthusiasm, magnanimity, protection and chivalry are not worth a penny, but one small deed is worth a flowing treasure."
+          ]
         },
         {
           "key": "source:ABU0003",
@@ -694,11 +960,18 @@
         },
         {
           "key": "source:BH00698",
-          "why": "Join the test of conduct with the effect of gentle speech."
+          "why": "Join the test of conduct with the effect of gentle speech.",
+          "shortened": [
+            "O people! Words must be supported by deeds, for deeds are the true test of words. Without the former, the latter can never quench the thirst of the yearning soul, nor unlock the portals of vision before the eyes of the blind. The Lord of celestial wisdom saith: A harsh word is even as a sword thrust; a gentle word as milk. The latter leadeth the children of men unto knowledge and conferreth upon them true distinction."
+          ]
         },
         {
           "key": "source:ABU1590",
-          "why": "Follow knowledge through resolve to action."
+          "why": "Follow knowledge through resolve to action.",
+          "shortened": [
+            "We cannot bring Love and Unity to pass only by talk. Knowledge is not enough. Wealth, science, education are good, we know that, but we must also work and study.",
+            "Knowledge is the first step; Resolve, the second step; Action, the fulfillment, is the third step."
+          ]
         },
         {
           "key": "source:AB01651",
@@ -714,7 +987,10 @@
         },
         {
           "key": "source:BH04605",
-          "why": "Read the bees and fruitless trees in their concise form."
+          "why": "Read the bees and fruitless trees in their concise form.",
+          "shortened": [
+            "Words must be followed by deeds; words without deeds are as bees that yield no honey, as trees that bear no fruit."
+          ]
         },
         {
           "key": "source:BH00409",
@@ -726,11 +1002,17 @@
         },
         {
           "key": "source:AB02352",
-          "why": "Consider attention to hearts, meanings, and sound purposes beyond eloquent phrases."
+          "why": "Consider attention to hearts, meanings, and sound purposes beyond eloquent phrases.",
+          "shortened": [
+            "Words and phrases held no authority - novel meanings and sound purposes were accepted and beloved. They looked to hearts, not inscriptions. They listened to the secrets of the heart, not the cryptic words of eloquent writers."
+          ]
         },
         {
           "key": "source:BH10950",
-          "why": "Read conduct as the measure of human quality."
+          "why": "Read conduct as the measure of human quality.",
+          "shortened": [
+            "O Ghulam-Rida! Consider man as a sword: while it remains in its sheath, its quality remains hidden and concealed. Through God's grace, you must be freed from the sheath of darkness, that your quality may become manifest to all the world. The quality of man lies in his conduct and deeds."
+          ]
         },
         {
           "key": "source:BH04010",
@@ -742,7 +1024,10 @@
         },
         {
           "key": "source:BH04796",
-          "why": "Keep the parallel distinction between conjecture and certainty."
+          "why": "Keep the parallel distinction between conjecture and certainty.",
+          "shortened": [
+            "Conjecture cannot take the place of certainty, nor can words stand in lieu of deeds."
+          ]
         },
         {
           "key": "source:BH00004",
@@ -762,11 +1047,17 @@
         },
         {
           "key": "source:BH10657",
-          "why": "Read faith as more than verbal profession."
+          "why": "Read faith as more than verbal profession.",
+          "shortened": [
+            "Faith in God consisteth not in words alone - deeds are required."
+          ]
         },
         {
           "key": "source:BH00001",
-          "why": "Consider recognition and observance as inseparable duties."
+          "why": "Consider recognition and observance as inseparable duties.",
+          "shortened": [
+            "The first duty prescribed by God for His servants is the recognition of Him Who is the Dayspring of His Revelation and the Fountain of His laws, Who representeth the Godhead in both the Kingdom of His Cause and the world of creation. Whoso achieveth this duty hath attained unto all good; and whoso is deprived thereof hath gone astray, though he be the author of every righteous deed. It behoveth every one who reacheth this most sublime station, this summit of transcendent glory, to observe every ordinance of Him Who is the Desire of the world. These twin duties are inseparable. Neither is acceptable without the other."
+          ]
         },
         {
           "key": "source:BH01466",
@@ -774,7 +1065,10 @@
         },
         {
           "key": "source:BH05639",
-          "why": "Read the companion statement linking deeds with recognition."
+          "why": "Read the companion statement linking deeds with recognition.",
+          "shortened": [
+            "Today all deeds and stations depend upon the recognition of God and acceptance of Him."
+          ]
         },
         {
           "key": "source:BB00003",
@@ -782,7 +1076,10 @@
         },
         {
           "key": "source:BH00259",
-          "why": "Read the challenge of contradiction between profession and response to revelation."
+          "why": "Read the challenge of contradiction between profession and response to revelation.",
+          "shortened": [
+            "Should your words, O people, be at variance with your deeds, what then shall distinguish you from those who profess their faith in the Lord, their God, and yet, when He came down to them overshadowed with clouds, rejected Him and waxed proud before God, the Incomparable, the Omniscient?"
+          ]
         },
         {
           "key": "source:BH02038",
@@ -790,7 +1087,10 @@
         },
         {
           "key": "source:BH03787",
-          "why": "Read the communal consequences attributed to neglect of revealed deeds."
+          "why": "Read the communal consequences attributed to neglect of revealed deeds.",
+          "shortened": [
+            "Many are those who verbally acknowledge the appearance of Truth and His power, yet since they have not held fast to the deeds that were revealed in God's Book, they have become the cause of delay for the people of earth."
+          ]
         },
         {
           "key": "source:BH07396",
@@ -802,15 +1102,24 @@
         },
         {
           "key": "source:BH05477",
-          "why": "Read merit through action according to the Book."
+          "why": "Read merit through action according to the Book.",
+          "shortened": [
+            "Merit lies not with those who make verbal profession, but rather with those who act according to what the All-Merciful hath revealed in His wondrous Book."
+          ]
         },
         {
           "key": "source:BH04726",
-          "why": "Consider the motive of acting purely for God."
+          "why": "Consider the motive of acting purely for God.",
+          "shortened": [
+            "Words are not accepted, but rather deeds performed purely for God, the One, the Almighty, the Glorious, the Most High."
+          ]
         },
         {
           "key": "source:BH01861",
-          "why": "Read even one word as a seed when it becomes a deed for God."
+          "why": "Read even one word as a seed when it becomes a deed for God.",
+          "shortened": [
+            "Praise be to God that you have been blessed with the bounty of health, which is the greatest of divine bounties. God willing, you will be assisted in that which befitteth this divine Day, for any deed that appeareth today purely for the sake of God, even if it be but a single word, is like unto a seed deposited in pure, good and blessed soil - it will surely bring forth lofty and wondrous ears of corn. Today is the day of sowing and planting, today is the day of planting trees."
+          ]
         },
         {
           "key": "source:BH01760",
@@ -818,7 +1127,10 @@
         },
         {
           "key": "source:BH05703",
-          "why": "Consider their transforming power in this concise image."
+          "why": "Consider their transforming power in this concise image.",
+          "shortened": [
+            "Time and again this word has flowed from the Pen: through one word and one pure deed, the earth has transcended the heavens."
+          ]
         },
         {
           "key": "source:BH08142",
@@ -826,11 +1138,17 @@
         },
         {
           "key": "source:BH02680",
-          "why": "Consider a good deed as a teacher."
+          "why": "Consider a good deed as a teacher.",
+          "shortened": [
+            "Say: Today befitting deeds and pleasing words are needed. Every goodly deed is in itself a teacher of the Cause."
+          ]
         },
         {
           "key": "source:AB00553",
-          "why": "Join spiritual attributes, clear speech, and a happy face in teaching."
+          "why": "Join spiritual attributes, clear speech, and a happy face in teaching.",
+          "shortened": [
+            "As to the fundamentals of teaching the Faith: know thou that delivering the Message can be accomplished only through goodly deeds and spiritual attributes, an utterance that is crystal clear and the happiness reflected from the face of that one who is expounding the Teachings. It is essential that the deeds of the teacher should attest the truth of his words."
+          ]
         },
         {
           "key": "source:AB11078",
@@ -838,15 +1156,24 @@
         },
         {
           "key": "source:ABU0400",
-          "why": "Compare education by words and education by deeds."
+          "why": "Compare education by words and education by deeds.",
+          "shortened": [
+            "Furthermore, the power of teaching and education is of two kinds: One is that through words humans educate souls, the other is that through deeds humans educate. It is possible to educate people through words, but greater than that is education through deeds, for deeds have more effect."
+          ]
         },
         {
           "key": "source:AB04383",
-          "why": "Consider several forms of counsel while questioning words as a sufficient criterion."
+          "why": "Consider several forms of counsel while questioning words as a sufficient criterion.",
+          "shortened": [
+            "O mindful rememberer! Exhortations and counsels are sometimes given through words, and sometimes through deeds and actions, through spiritual fragrances and pre-dawn prayers. However, mere words have never been and are not the criterion of truth and evidence of awakening and insight."
+          ]
         },
         {
           "key": "source:AB04075",
-          "why": "Read the need for an expounder alongside written proofs."
+          "why": "Read the need for an expounder alongside written proofs.",
+          "shortened": [
+            "Although books and treatises of proofs are a means of awakening souls, an expounder is needed. Mere books of proofs will not cause complete propagation."
+          ]
         },
         {
           "key": "source:AB10886",
@@ -858,19 +1185,31 @@
         },
         {
           "key": "source:ABU2471",
-          "why": "Hear the hope for success in both forms of teaching."
+          "why": "Hear the hope for success in both forms of teaching.",
+          "shortened": [
+            "Teaching the Cause of God is of two kinds: by word and by deed. I hope you will be successful in both."
+          ]
         },
         {
           "key": "source:ABU1888",
-          "why": "Keep word conjoined with deed."
+          "why": "Keep word conjoined with deed.",
+          "shortened": [
+            "You must give the message through action and deed, not alone by word. Word must be conjoined with deed."
+          ]
         },
         {
           "key": "source:AB06807",
-          "why": "Read conduct and speech as expressions of belief."
+          "why": "Read conduct and speech as expressions of belief.",
+          "shortened": [
+            "Spread the divine fragrances and to exemplify your beliefs with your conduct and your behaviour as well as your words."
+          ]
         },
         {
           "key": "source:AB06093",
-          "why": "Consider words as proof and deeds as evidence of love."
+          "why": "Consider words as proof and deeds as evidence of love.",
+          "shortened": [
+            "Strive to conduct yourself among people such that your words become a decisive proof and your deeds evidence of love for the Brilliant Luminary."
+          ]
         },
         {
           "key": "source:ABU1935",
@@ -882,7 +1221,10 @@
         },
         {
           "key": "source:AB02647",
-          "why": "Place that combination within a wider account of faithfulness."
+          "why": "Place that combination within a wider account of faithfulness.",
+          "shortened": [
+            "Convey to each and every one of the friends the Most Glorious, Most Wondrous greetings, and tell them that among the proofs of faithfulness to the Holy Threshold of the Blessed Beauty is that in all things - that is, in speech and conduct and deeds, in sanctification and detachment and unity and harmony, in the fear of God and righteousness - you should promote the Cause of God and engage in service, so that you may become manifest signs of the King of Oneness."
+          ]
         },
         {
           "key": "source:AB04015",
@@ -894,11 +1236,17 @@
         },
         {
           "key": "source:AB06272",
-          "why": "Consider the influence of a single sanctified deed."
+          "why": "Consider the influence of a single sanctified deed.",
+          "shortened": [
+            "The people of Baha must spread the divine fragrances through deeds more than words, for a single deed emanating from the essence of sanctity will promote the Cause such that its fragrant breezes will spread to all regions."
+          ]
         },
         {
           "key": "source:AB05146",
-          "why": "Read wise action in a particular city’s circumstances."
+          "why": "Read wise action in a particular city’s circumstances.",
+          "shortened": [
+            "Now in that city bereft (of spiritual bounties), one must act with wisdom and awaken the heedless through Baha'i deeds, for deeds have more influence than words."
+          ]
         },
         {
           "key": "source:AB01985",
@@ -906,19 +1254,31 @@
         },
         {
           "key": "source:ABU2029",
-          "why": "Read kindness, sympathy, and trustworthiness before the final mention of speech."
+          "why": "Read kindness, sympathy, and trustworthiness before the final mention of speech.",
+          "shortened": [
+            "Teaching the cause of God is not only through the tongue; it is through deeds, a good disposition, happiness of nature, kindness, sympathy, good fellowship, trustworthiness, holiness, virtue, purity of ideals and lastly, speech."
+          ]
         },
         {
           "key": "source:ABU0935",
-          "why": "Consider the public testimony of disinterested and universal aims."
+          "why": "Consider the public testimony of disinterested and universal aims.",
+          "shortened": [
+            "The believers must teach the Cause not only in words but must adorn themselves with the ornaments of deeds in order that all mankind may bear testimony to this, that their aims are universal, their actions disinterested, their purposes inspiring and all-embracing, so that they may witness in their behavior and manner the holiness, purity, sincerity and loving kindness of the prophets of God… Tell them to read carefully the Persian and Arabic 'Hidden Words' and to live and behave according to their contents."
+          ]
         },
         {
           "key": "source:ABU1931",
-          "why": "Follow living the message into raising the downtrodden."
+          "why": "Follow living the message into raising the downtrodden.",
+          "shortened": [
+            "Thus in teaching the Cause it is not sufficient to give the message, we must live it, work for it, be attracted to it, enkindle others with its fire, perfume the nostrils with its fragrance, surround our companions with its atmosphere, impress mankind with its grandeur and loftiness and raise the lowly and downtrodden to the highest pinnacle of honor and glory."
+          ]
         },
         {
           "key": "source:AB01704",
-          "why": "Read love extending across religions and races through deeds."
+          "why": "Read love extending across religions and races through deeds.",
+          "shortened": [
+            "Love ye all religions and all races with a love that is true and sincere and show that love through deeds and not through the tongue; for the latter hath no importance, as the majority of men are, in speech, well-wishers, while action is the best."
+          ]
         },
         {
           "key": "source:ABU1910",
@@ -938,15 +1298,24 @@
         },
         {
           "key": "source:ABU1613",
-          "why": "Distinguish speaking of generosity, justice, or light from embodying them."
+          "why": "Distinguish speaking of generosity, justice, or light from embodying them.",
+          "shortened": [
+            "Consider the difference between one who speaks of generosity and the one who is generous; between the one who claims justice and equity, and the one who is just and equitable. Or how significant is the contrast between the one who speaks of light, and the one who is illumined. If we were to follow the teachings and dictums of the Blessed Beauty, even stones and plants would be affected."
+          ]
         },
         {
           "key": "source:ABU2032",
-          "why": "Consider love recognized through conduct rather than repeated assertion."
+          "why": "Consider love recognized through conduct rather than repeated assertion.",
+          "shortened": [
+            "The world is wrong, just because people talk too much and do not carry out their ideals. If action took the place of words, the world would change very soon. A man who does good and does not talk about it is perfect. The man who does very little good and magnifies it in his speech, is not good. if I love you, you know it, I need not tell you all the time; on the other hand, if I did not love you, you would know it also, and you would not believe me if I said I did love you a thousand times."
+          ]
         },
         {
           "key": "source:ABU3350",
-          "why": "Read the concrete test of whether hearers receive material assistance."
+          "why": "Read the concrete test of whether hearers receive material assistance.",
+          "shortened": [
+            "If you give them only words, when they put their hands into their pockets after you have gone, they will find themselves none the richer for you!\""
+          ]
         },
         {
           "key": "source:ABU3221",
@@ -954,7 +1323,10 @@
         },
         {
           "key": "source:ABU1410",
-          "why": "Read unity as something requiring work."
+          "why": "Read unity as something requiring work.",
+          "shortened": [
+            "Unity is good. To know this is not sufficient. You must intend to promote it, you must work for it. Knowledge is a good thing, but it is only the first step. If knowledge is alone it is stationary. These meetings teach us that Unity is good, and that suppression (slavery under the yoke of traditions and prejudices) is the cause of disunion. To know this is not enough. All knowledge is good, but it can bear no fruit but by action. It is well to know that riches are good, but that knowledge will not make a man rich; he must work, he must put his knowledge into practice."
+          ]
         },
         {
           "key": "source:ABU2287",
@@ -966,7 +1338,10 @@
         },
         {
           "key": "source:ABU0714",
-          "why": "Read the companion physician analogy and the call to compare conduct."
+          "why": "Read the companion physician analogy and the call to compare conduct.",
+          "shortened": [
+            "They recognize the Physician. Now they must act according to the teachings of Baha'u'llah. They must use the medicine appointed by the Real Physician. They have to compare their actions with the teachings so that all the people may witness and bear record that these people are real Bahais. A sick person knows the physician and received the medicine, but when he does not use it, what is the use of it?"
+          ]
         },
         {
           "key": "source:AB10188",
@@ -974,15 +1349,24 @@
         },
         {
           "key": "source:AB02798",
-          "why": "Ask what it means to read and praise a Tablet without practicing it."
+          "why": "Ask what it means to read and praise a Tablet without practicing it.",
+          "shortened": [
+            "O divine friends! These counsels and exhortations of the Blessed Beauty have been revealed from the Supreme Pen so that they may be acted upon, not merely read. Many souls read these Tablets and praise them but do not act according to a single word."
+          ]
         },
         {
           "key": "source:ABU2206",
-          "why": "Consider the reported picture of letters read and stored away."
+          "why": "Consider the reported picture of letters read and stored away.",
+          "shortened": [
+            "The friends are waiting each day for a new letter to reach them from me. And after receiving it, they read it and put it in their boxes and again wait for another letter, which they will again read and preserve in a box."
+          ]
         },
         {
           "key": "source:ABU1726",
-          "why": "Read the distinction between reading and attempting to live."
+          "why": "Read the distinction between reading and attempting to live.",
+          "shortened": [
+            "Abdul-Baha: Live thou in accord with the teachings of Baha'u'llah. Do not only read them. There is a vast difference between the soul who merely reads the words of Baha'u'llah and the one who tries to live them."
+          ]
         },
         {
           "key": "source:ABU3745",
@@ -994,7 +1378,10 @@
         },
         {
           "key": "source:AB01350",
-          "why": "Read recitation in relation to results."
+          "why": "Read recitation in relation to results.",
+          "shortened": [
+            "Today is the day of deeds. If we content ourselves with merely reciting what is in the divine scriptures, it will never yield results. Therefore we must strive with heart and soul to become successful in action."
+          ]
         },
         {
           "key": "source:AB00472",
@@ -1002,7 +1389,10 @@
         },
         {
           "key": "source:AB00581",
-          "why": "Keep conduct necessary beyond stories and good intention."
+          "why": "Keep conduct necessary beyond stories and good intention.",
+          "shortened": [
+            "O friends! This mighty cycle is the cycle of lights and the age of mysteries and the century of effects. It cannot be completed through stories and narratives, nor accomplished through pure intention alone. Deeds are needed, conduct is required, divine counsels and admonitions must be carried out."
+          ]
         },
         {
           "key": "source:AB03729",
@@ -1010,23 +1400,38 @@
         },
         {
           "key": "source:ABU1091",
-          "why": "Consider receiving nourishment before sharing it."
+          "why": "Consider receiving nourishment before sharing it.",
+          "shortened": [
+            "These days are the days of Faith and Deeds-not the days of words and lip service:  Let us arise from the sleep of negligence, and realize what a great feast is prepared for us; first eating thereof ourselves, then giving unto others who are thirsting for the Water of Knowledge, and hungering for the Bread of Life."
+          ]
         },
         {
           "key": "source:ABU0579",
-          "why": "Read gratitude expressed through action."
+          "why": "Read gratitude expressed through action.",
+          "shortened": [
+            "There is a cordial thanksgiving, too, which expresses itself in the deeds and actions of man when his heart is filled with gratitude. For example, God has conferred upon man the gift of guidance, and in thankfulness for this great gift certain deeds must emanate from him. To express his gratitude for the favors of God man must show forth praiseworthy actions."
+          ]
         },
         {
           "key": "source:AB00756",
-          "why": "Keep thanksgiving through deeds in the letter to western communities."
+          "why": "Keep thanksgiving through deeds in the letter to western communities.",
+          "shortened": [
+            "Deliver on my behalf divine glad-tidings to the assembles in Seattle, the members of the houses of Mrs... and Mrs... and the assemblies in Portland and Denver and say: \"O ye sons and daughters of the Kingdom! Be ye thankful that although the light of guidance hath dawned from the East, yet, praise be to God, it illuminated both the East and the West! In order that glorification and thanks may be shown for these bounties, the word and actions must be in accordance with the advices and behests of His Highness Baha'u'llah. Thanks does not depend upon words but upon deeds!\""
+          ]
         },
         {
           "key": "source:ABU1797",
-          "why": "Consider the warning about praise without the conduct it requires."
+          "why": "Consider the warning about praise without the conduct it requires.",
+          "shortened": [
+            "If a man does not do these things, even though he praises God and offers him a hundred thousand thanksgivings every second there will be for that man not the slightest result; it will be but words without light."
+          ]
         },
         {
           "key": "source:ABU1444",
-          "why": "Read the sun’s rising as a summons to work."
+          "why": "Read the sun’s rising as a summons to work.",
+          "shortened": [
+            "The Blessed Beauty endured all these afflictions and tribulations so that we might succeed in deeds, not just in words. The sun rises so that people might engage in work, not engage in talk. The Sun of Truth likewise rises so that souls might succeed in deeds, not just in words. \"Bring forth deeds if thou art truthful,\" not \"Bring forth words if thou art truthful.\""
+          ]
         },
         {
           "key": "source:ABU1541",
@@ -1038,7 +1443,10 @@
         },
         {
           "key": "source:ABU1896",
-          "why": "Consider action without publicizing one’s virtue."
+          "why": "Consider action without publicizing one’s virtue.",
+          "shortened": [
+            "People do much speaking to advance their own glory and to make themselves appear superior to their neighbors. But if you do the Will of God and do not blazon it abroad, then you will change the whole world. They who do most speak least."
+          ]
         },
         {
           "key": "source:ABU1014",
@@ -1062,7 +1470,10 @@
         },
         {
           "key": "source:ABU0289",
-          "why": "Consider the reported appeal to the Gospel in the discussion of livelihood and preaching."
+          "why": "Consider the reported appeal to the Gospel in the discussion of livelihood and preaching.",
+          "shortened": [
+            "Have they faith enough to work and preach and not receive any large salary? If they have made up their minds to walk in the footsteps of Christ and his apostles, this is the path. \"Read Matt. Chapter 6. V. 24/34.) If they do not live according to these clear injunctions, all the lectures, articles and talks will bring to result. \"Not every one that saith unto me, Lord, Lord, shall enter into the Kingdom of heaven; but he that doeth the will of my Father which is in heaven.\""
+          ]
         },
         {
           "key": "source:AB02679",
@@ -1074,7 +1485,10 @@
         },
         {
           "key": "source:ABU0407",
-          "why": "Read that image in relation to divine qualities."
+          "why": "Read that image in relation to divine qualities.",
+          "shortened": [
+            "Christ said, \"Ye shall know them by their fruits\" - the qualities of a believer show what kind of believer he is. If a man claims to be a believer and does not show forth the qualities of God, it proves that he is a believer in name only, and that he has not yet been regenerated by the Holy Spirit."
+          ]
         },
         {
           "key": "source:ABU1150",
@@ -1082,19 +1496,31 @@
         },
         {
           "key": "source:ABU0763",
-          "why": "Consider the distinction between a religious name and lived attributes."
+          "why": "Consider the distinction between a religious name and lived attributes.",
+          "shortened": [
+            "A person may claim to be a Baha'i or may be known as a Baha'i for all his life and may not know at all what a Baha'i means. Another person may never have heard the name Baha'i and may at the same time practice all the attributes which are necessary to make one a Baha'i. That is why his holiness Christ says, those who are not against us are with us. You must know the tree by its fruits."
+          ]
         },
         {
           "key": "source:ABU3033",
-          "why": "Keep the related reported answer in its own wording."
+          "why": "Keep the related reported answer in its own wording.",
+          "shortened": [
+            "\"It makes no difference whether you have ever heard of Baha'u'llah or not,\" was the answer, \"the man who lives the life according to the teachings of Baha'u'llah is already a Baha'i. On the other hand a man may call himself a Baha'i for fifty years and if he does not live the life he is not a Baha'i."
+          ]
         },
         {
           "key": "source:ABU0791",
-          "why": "Read the explicit comparison of good conduct without professed belief and corrupt conduct with it."
+          "why": "Read the explicit comparison of good conduct without professed belief and corrupt conduct with it.",
+          "shortened": [
+            "Undoubtedly, a person, who is not a believer, but whose deeds and morals are good, is far better than one who claims his belief in words but, who, in actions, is a follower of satan."
+          ]
         },
         {
           "key": "source:ABU0612",
-          "why": "Keep the reported priority given to deeds over claims."
+          "why": "Keep the reported priority given to deeds over claims.",
+          "shortened": [
+            "The point of distinction among men, let them remember, is their deeds, not their beliefs or words."
+          ]
         },
         {
           "key": "source:ABU0207",
@@ -1106,23 +1532,38 @@
         },
         {
           "key": "source:AB00530",
-          "why": "Consider becoming an embodiment of teachings."
+          "why": "Consider becoming an embodiment of teachings.",
+          "shortened": [
+            "And with perfect severance, spirituality and the best intent and effort must they hasten to promulgate the Divine Teaching, and above all they must act according to the precepts and exhortations of His Holiness Baha'u'llah, for in this cycle of Baha'u'llah verbal confessions and acknowledgements, literal faith and certainty and external relations are of no avail. Nay, rather, the beloved of God and the maid-servants of the Merciful must manifest such attributes and ethical conduct as to embody and personify the teachings of Baha'u'llah."
+          ]
         },
         {
           "key": "source:AB04470",
-          "why": "Read the same responsibility in children’s education."
+          "why": "Read the same responsibility in children’s education.",
+          "shortened": [
+            "There is no doubt that it will yield the desired results; especially is this true of instruction as to Baha'i obligations and Baha'i conduct, for the little children must needs be made aware in their very heart and soul that \"Baha'i\" is not just a name but a truth. Every child must be trained in the things of the spirit, so that he may embody all the virtues and become a source of glory to the Cause of God. Otherwise, the mere word \"Baha'i\", if it yield no fruit, will come to nothing."
+          ]
         },
         {
           "key": "source:AB06194",
-          "why": "Hear the counsel to two women concerning profession and conduct."
+          "why": "Hear the counsel to two women concerning profession and conduct.",
+          "shortened": [
+            "O ye two well-loved handmaids of God! Whatever a man's tongue speaketh, that let him prove by his deeds. If he claimeth to be a believer, then let him act in accordance with the precepts of the Abha Kingdom."
+          ]
         },
         {
           "key": "source:ABU2799",
-          "why": "Keep the concise criterion of agreement between words and deeds."
+          "why": "Keep the concise criterion of agreement between words and deeds.",
+          "shortened": [
+            "He whose deeds do not accord with his words is not a true Baha'i. That is, a non-Baha'i who leads a good life does less harm to the Cause than a Baha'i whose life is not righteous."
+          ]
         },
         {
           "key": "source:ABU2505",
-          "why": "Consider putting even one teaching into practice."
+          "why": "Consider putting even one teaching into practice.",
+          "shortened": [
+            "I declare by Him beside Whom there is naught else if we live in accord with one of the Teachings we will become radiant like unto this lamp. If we confess verbally that the principles of Baha'u'llah are the cause of eternal salvation and the means of nearness unto the throne of God and yet do not live according to their contents we would not be Baha'is."
+          ]
         },
         {
           "key": "source:ABU1667",
@@ -1130,11 +1571,17 @@
         },
         {
           "key": "source:BH00846",
-          "why": "Consider conduct as guidance to others."
+          "why": "Consider conduct as guidance to others.",
+          "shortened": [
+            "Say: Beware, O people of Bahá, lest ye walk in the ways of them whose words differ from their deeds. Strive that ye may be enabled to manifest to the peoples of the earth the signs of God, and to mirror forth His commandments. Let your acts be a guide unto all mankind, for the professions of most men, be they high or low, differ from their conduct. It is through your deeds that ye can distinguish yourselves from others."
+          ]
         },
         {
           "key": "source:BH04730",
-          "why": "Read the request for actions that testify to relationship with truth."
+          "why": "Read the request for actions that testify to relationship with truth.",
+          "shortened": [
+            "Say: O friends! Words alone have not sufficed and will never suffice. You must manifest such deeds that all souls will testify that you are distinguished from others and are truly related to the Truth."
+          ]
         },
         {
           "key": "source:BH05339",
@@ -1146,11 +1593,17 @@
         },
         {
           "key": "source:AB12213",
-          "why": "Keep steadfastness in the Covenant connected with conduct."
+          "why": "Keep steadfastness in the Covenant connected with conduct.",
+          "shortened": [
+            "Today the friends of God must strive to remain firm in the Covenant, and this cannot be accomplished through words alone - deeds and conduct are required."
+          ]
         },
         {
           "key": "source:BH11905",
-          "why": "Read deeds as testimony to love, detachment, and service."
+          "why": "Read deeds as testimony to love, detachment, and service.",
+          "shortened": [
+            "Today is the day of deeds and not of words, and their deeds are a truthful witness and faithful testimony to their love, detachment and service."
+          ]
         },
         {
           "key": "source:AB10488",
@@ -1162,15 +1615,25 @@
         },
         {
           "key": "source:ABU2670",
-          "why": "Read the direction of words and deeds toward a common purpose."
+          "why": "Read the direction of words and deeds toward a common purpose.",
+          "shortened": [
+            "Then all his words and deeds will tend toward the glorification of the Cause and the promotion of the Principles."
+          ]
         },
         {
           "key": "source:ABU2285",
-          "why": "Consider the results sought from a spiritual call."
+          "why": "Consider the results sought from a spiritual call.",
+          "shortened": [
+            "That which is truly spiritual must light the path to God, and must result in deeds. We cannot believe the call to be spiritual when there is no result."
+          ]
         },
         {
           "key": "source:ABU1244",
-          "why": "Read the reported examples of knowledge, effort, and returning good for evil."
+          "why": "Read the reported examples of knowledge, effort, and returning good for evil.",
+          "shortened": [
+            "Every effort must have its result, else it is not a true effort. You must become the means of lighting the world of humanity. This is the infallible proof and sign. Every progress depends on two things, knowledge and practice. First acquire knowledge, and, when conviction is reached, put it into practice.",
+            "\"After a little I went over and took his arm, saying, 'But you must return good for evil. Whether I honoured you or despised you, you should follow the teachings; now you merely read them."
+          ]
         },
         {
           "key": "source:ABU1234",
@@ -1186,15 +1649,26 @@
         },
         {
           "key": "source:ABU0993",
-          "why": "Read deeds followed by wisdom and utterance."
+          "why": "Read deeds followed by wisdom and utterance.",
+          "shortened": [
+            "In previous cycles and past centuries, teaching was done through words, but in this time it is through deeds.",
+            "One must first teach through deeds and afterwards through wisdom and utterance, and show heartfelt kindness to all peoples and nations, for they say \"The effect of deeds is more penetrating than the effect of words.\" Souls are weary of words but attentive to deeds."
+          ]
         },
         {
           "key": "source:ABU0660",
-          "why": "Consider the source’s insistence on actions confirming claims."
+          "why": "Consider the source’s insistence on actions confirming claims.",
+          "shortened": [
+            "But all these sayings are but words and we see very few of them carried into the world of action.",
+            "They must on all occasions confirm by their actions what they proclaim in words. Their deeds must prove their fidelity, and their actions must show forth Divine light."
+          ]
         },
         {
           "key": "source:ABU1317",
-          "why": "Read the reported demand to translate utterances into life."
+          "why": "Read the reported demand to translate utterances into life.",
+          "shortened": [
+            "The utterances of Baha'u'llah are to be translated into deeds, not words (only). Deeds are demanded by His teaching, which must thus appear transmuted into the life of this day. Words are nothing."
+          ]
         },
         {
           "key": "source:ABU1094",
@@ -1206,15 +1680,24 @@
         },
         {
           "key": "source:ABU0708",
-          "why": "Read the comparison with an earlier religious cycle as the report’s claim."
+          "why": "Read the comparison with an earlier religious cycle as the report’s claim.",
+          "shortened": [
+            "This cycle is not the cycle of words. In the Islamic cycle they would say 'There is no god but God' and that was all. This is the cycle of deeds. One must testify through deeds, not by tongue."
+          ]
         },
         {
           "key": "source:ABU2952",
-          "why": "Keep the related reported call for deeds in this century."
+          "why": "Keep the related reported call for deeds in this century.",
+          "shortened": [
+            "For this is the Radiant Century, the time when deeds must take the place of words."
+          ]
         },
         {
           "key": "source:AB00232",
-          "why": "Hear the repeated emphasis on action."
+          "why": "Hear the repeated emphasis on action.",
+          "shortened": [
+            "O dear one! This Dispensation of the Beauty of Abha is the time of deeds, not words. The purpose is not words, but deeds!"
+          ]
         },
         {
           "key": "source:BH03264",
@@ -1226,7 +1709,10 @@
         },
         {
           "key": "source:BH05691",
-          "why": "Keep the concise declaration of the day of deeds."
+          "why": "Keep the concise declaration of the day of deeds.",
+          "shortened": [
+            "Today is the day of deeds, not words."
+          ]
         },
         {
           "key": "source:BH07836",
@@ -1242,19 +1728,31 @@
         },
         {
           "key": "source:BH02296",
-          "why": "Keep the call for actions that lead toward rest."
+          "why": "Keep the call for actions that lead toward rest.",
+          "shortened": [
+            "Verily words cannot take the place of deeds. Hold fast unto goodly and pleasing actions, and purify yourselves from the defilement of divine prohibitions that ye may attain unto true rest."
+          ]
         },
         {
           "key": "source:BH04216",
-          "why": "Read the counsel about whose example to follow."
+          "why": "Read the counsel about whose example to follow.",
+          "shortened": [
+            "Say: O My loved ones! Hold fast unto goodly deeds and follow not those who hold fast unto words rather than deeds. These, verily, are among the heedless."
+          ]
         },
         {
           "key": "source:BH08515",
-          "why": "Consider the warning about abandoning deeds."
+          "why": "Consider the warning about abandoning deeds.",
+          "shortened": [
+            "Beware lest thou be of those who have cast the deeds behind their backs and clung to mere words."
+          ]
         },
         {
           "key": "source:BH01679",
-          "why": "Retain the source’s severe counsel concerning empty profession."
+          "why": "Retain the source’s severe counsel concerning empty profession.",
+          "shortened": [
+            "Shun those in whom thou findest words without deeds - they are among the contemptible ones."
+          ]
         },
         {
           "key": "source:BH01509",
@@ -1262,7 +1760,10 @@
         },
         {
           "key": "source:BH02183",
-          "why": "Close the linked readings with the Words of Wisdom’s emphatic demand for abundant deeds."
+          "why": "Close the linked readings with the Words of Wisdom’s emphatic demand for abundant deeds.",
+          "shortened": [
+            "The essence of faith is fewness of words and abundance\nof deeds; he whose words exceed his deeds, know verily his\ndeath is better than his life."
+          ]
         },
         {
           "key": "selection:40e7396040d72c103a4e3fe3",
@@ -1274,11 +1775,18 @@
         },
         {
           "key": "selection:34faf64d5be3dc39b86f470f",
-          "why": "Read noble conduct as testimony to the teachings."
+          "why": "Read noble conduct as testimony to the teachings.",
+          "shortened": [
+            "It is primarily through the potency of noble deeds and character, rather than by the power of exposition and proofs, that the friends of God should demonstrate to the world that what has been promised by God is bound to happen, that it is already taking place and that the divine glad-tidings are clear, evident and complete.",
+            "However, if the friends become embodiments of virtue and good character, words and arguments will be superfluous. Their very deeds will well serve as eloquent testimony, and their noble conduct will ensure the preservation, integrity and glory of the Cause of God."
+          ]
         },
         {
           "key": "selection:1120583b114c14cc675c4685",
-          "why": "Follow study through meditation and prayer into persevering action."
+          "why": "Follow study through meditation and prayer into persevering action.",
+          "shortened": [
+            "The beloved Guardian has stressed over and over again, that to effectively teach the Faith, the individual must study deeply, the Divine Word, imbibe Its life-giving waters, and feast upon Its glorious teachings. He should then meditate on the import of the Word, and finding its spiritual depths, pray for guidance and assistance. But most important, after prayer is action. After one has prayed and meditated, he must arise, relying fully on the guidance and confirmation of Baha'u'llah, to teach His Faith. Perseverance in action is essential, just as wisdom and audacity are necessary for effective teaching."
+          ]
         },
         {
           "key": "selection:16599c98f3310301ace41b8c",
@@ -1387,7 +1895,7 @@
       "id": "C7CC32A1E2224C06A744204F2B89557C",
       "slug": "manifestationtree",
       "displayTitle": "Tree of life: shelter, revelation, and shared growth",
-      "introduction": "A tree can offer shelter, bear nourishing fruit, and give a living form to relationships that extend beyond any single leaf. In these readings, its roots, branches, leaves, and fruit become a language for revelation and for a community’s life within its care. The image also speaks: rustling leaves carry a summons, birds sing from its branches, and fire recalls the encounter of Moses with the divine voice. Explanatory passages identify the Tree with the Word and the Manifestation, while letters and prayers apply its imagery to particular people and relationships. Neighboring subjects approach these same questions through the physician, educator, gardener, pen, and sun. Comparative passages from the Qur’an and Revelation place the image beside refuge, the limits of a journey, and the healing of nations. Together they invite attention to how a received source of life becomes shelter and fruit for others.",
+      "introduction": "The Lote Tree beyond which there is no passing stands in the Qur’án at the boundary of a journey, near the Garden of Refuge; Bahá’u’lláh takes the same name and makes the Tree speak. From its leaves comes the summons that there is no God but God, from its branches the warbling of the Dove, and in its fire the voice Moses heard in the Bush that was not consumed. ‘Abdu’l-Bahá explains the image directly: the Tree of Life is the Word of God and His universal Manifestation, the root that does not itself bear fruit but feeds the branches that do. Its shade falls over East and West alike. Its fruit is everlasting life, its leaves, like those in John’s Revelation, are for the healing of nations, and the men and women who grow from it are themselves addressed as branches and leaves, called to stay green in every season. The journey continues through the other names the Manifestation bears, the divine physician and the educator, the gardener who plants, the pen that writes and the sun that lights every mirror.",
       "arc": "Begin with shared shelter and living fruit, explore the Tree as an image of revelation, follow its scriptural echoes and summons, then consider the growth, care, and conduct of its branches and leaves.",
       "order": [
         {
@@ -1396,7 +1904,10 @@
         },
         {
           "key": "source:BH02022",
-          "why": "Read the Tree of Life bearing the fruits of God in the Tablet of Ahmad."
+          "why": "Read the Tree of Life bearing the fruits of God in the Tablet of Ahmad.",
+          "shortened": [
+            "Verily He is the Tree of Life that bringeth forth the fruits of God, the Exalted, the Powerful, the Great."
+          ]
         },
         {
           "key": "source:AB00100",
@@ -1404,7 +1915,10 @@
         },
         {
           "key": "source:BH04254",
-          "why": "Keep the qualification that Tree has this meaning in one sense."
+          "why": "Keep the qualification that Tree has this meaning in one sense.",
+          "shortened": [
+            "The Holy Tree (Sadrat) is, in a sense, the Manifestation of the One True God, exalted be He. The Blessed Tree in the land of Za'faran refereth to the land which is flourishing, blessed, holy and all-perfumed, where that Tree hath been planted."
+          ]
         },
         {
           "key": "source:BH02889",
@@ -1432,11 +1946,18 @@
         },
         {
           "key": "source:BH00001",
-          "why": "Read the Aqdas passage in which the sacred Tree calls from the crimson spot."
+          "why": "Read the Aqdas passage in which the sacred Tree calls from the crimson spot.",
+          "shortened": [
+            "Advance, O people, with snow-white faces and radiant hearts, unto the blest and crimson Spot, wherein the Sadratu'l-Muntaha is calling: \"Verily, there is none other God beside Me, the Omnipotent Protector, the Self-Subsisting!\"",
+            "Give ear unto the verses of God which He Who is the sacred Lote-Tree reciteth unto you. They are assuredly the infallible balance, established by God, the Lord of this world and the next. Through them the soul of man is caused to wing its flight towards the Dayspring of Revelation, and the heart of every true believer is suffused with light."
+          ]
         },
         {
           "key": "source:BH00668",
-          "why": "Consider the challenge of recognizing the voice associated with the Burning Bush."
+          "why": "Consider the challenge of recognizing the voice associated with the Burning Bush.",
+          "shortened": [
+            "O 'Ali! That which they accepted from the Bush they now refuse to accept from Him Who is the Tree of the world of existence."
+          ]
         },
         {
           "key": "source:AB04441",
@@ -1448,11 +1969,17 @@
         },
         {
           "key": "source:BH07319",
-          "why": "Hear the Sinai, Bush, and Vineyard images together."
+          "why": "Hear the Sinai, Bush, and Vineyard images together.",
+          "shortened": [
+            "Verily Sinai hath been graced to behold its Speaker, the Burning Bush to know its Herald, and the Vineyard of God to see its Beloved."
+          ]
         },
         {
           "key": "source:BH08041",
-          "why": "Read the Speaker on the Mount in relation to scriptural promise."
+          "why": "Read the Speaker on the Mount in relation to scriptural promise.",
+          "shortened": [
+            "O thou who gazest toward the horizon of the Revelation! Hearken unto that which the Speaker of the Mount uttereth, Who was promised in the Books of God and mentioned by the tongues of the Messengers."
+          ]
         },
         {
           "key": "source:BH11048",
@@ -1464,15 +1991,24 @@
         },
         {
           "key": "source:BH09109",
-          "why": "Read hearing the Tree as a source of knowledge."
+          "why": "Read hearing the Tree as a source of knowledge.",
+          "shortened": [
+            "And We testify that thou didst attain unto the Station and didst hear what the Blessed Tree spoke forth from the Sinai of divine knowledge."
+          ]
         },
         {
           "key": "source:AB02616",
-          "why": "Keep Sinai, Paran, and Tur together in this address to a branch."
+          "why": "Keep Sinai, Paran, and Tur together in this address to a branch.",
+          "shortened": [
+            "O branch extended, proceeding and raised from the Blessed Tree which was raised up in truth on the Sinai of Manifestation, the Spot of Light, the right-hand Valley, the Paran of the All-Merciful, the wilderness of Tur!"
+          ]
         },
         {
           "key": "source:AB07501",
-          "why": "Read the concise address to a branch of Sinai."
+          "why": "Read the concise address to a branch of Sinai.",
+          "shortened": [
+            "O graceful branch of the Tree of Sinai! Blessed art thou to have sprung from this Sacred Tree and to have branched out from this Blessed Sadrih."
+          ]
         },
         {
           "key": "source:AB01284",
@@ -1496,7 +2032,10 @@
         },
         {
           "key": "source:BH01026",
-          "why": "Hear the Lord of the Flame in the Deathless Tree within the Holy Mariner."
+          "why": "Hear the Lord of the Flame in the Deathless Tree within the Holy Mariner.",
+          "shortened": [
+            "A station wherein the Lord hath in the Flame of His Beauty appeared within the deathless tree; Glorified be my Lord, the All-Glorious!"
+          ]
         },
         {
           "key": "source:BH07147",
@@ -1504,19 +2043,31 @@
         },
         {
           "key": "source:BH10540",
-          "why": "Consider the returning fire and the voice from the Tree."
+          "why": "Consider the returning fire and the voice from the Tree.",
+          "shortened": [
+            "Say: By God! The Fire hath returned in the Tree and speaketh forth: 'I am, verily, God, the Mighty, the Exalted, the Well-Beloved.'"
+          ]
         },
         {
           "key": "source:BH04965",
-          "why": "Hear the blessed ear’s response to the light and fire."
+          "why": "Hear the blessed ear’s response to the light and fire.",
+          "shortened": [
+            "Verily the Light calleth aloud and the Fire proclaimeth: Blessed be the ear that hath heard and hath attained unto that which God hath desired in His glorious and wondrous Day."
+          ]
         },
         {
           "key": "source:BH08900",
-          "why": "Read the same declaration from the blessed spot."
+          "why": "Read the same declaration from the blessed spot.",
+          "shortened": [
+            "Hearken unto what is revealed unto thee from this Tree upon this blessed spot from this Divine Fire, that verily there is no God but Him, the Mighty, the All-Knowing."
+          ]
         },
         {
           "key": "source:BH04616",
-          "why": "Join the light within the fire with the proclamation of divine sovereignty."
+          "why": "Join the light within the fire with the proclamation of divine sovereignty.",
+          "shortened": [
+            "The Light hath shone forth and the Fire hath called out from the Divine Lote-Tree: \"The Kingdom belongeth unto God, the Possessor of all that was and shall be.\""
+          ]
         },
         {
           "key": "source:BH02666",
@@ -1524,7 +2075,10 @@
         },
         {
           "key": "source:BH02923",
-          "why": "Read communion upon the Mount and the blazing Tree."
+          "why": "Read communion upon the Mount and the blazing Tree.",
+          "shortened": [
+            "Today the Mount is in communion with Him Who conversed with it, and the Tree beyond which there is no passing is ablaze in the luminous spot."
+          ]
         },
         {
           "key": "source:BH08710",
@@ -1540,11 +2094,17 @@
         },
         {
           "key": "source:BH00710",
-          "why": "Explore the promise of shelter from the heat of self and passion."
+          "why": "Explore the promise of shelter from the heat of self and passion.",
+          "shortened": [
+            "O servant who art mentioned in this inscribed Tablet! Know thou that We created the Sidrat'ul-Muntaha in the crimson hill beyond the crimson sea of grandeur, and raised it to such a station that were all who are in the heavens and on earth to seek shelter beneath one of its leaves, they would be preserved from the heat of self and passion, inasmuch as We shed upon it a light from the lights of this Sun which hath dawned in truth - thus hath the matter been decreed, if thou be of them that know."
+          ]
         },
         {
           "key": "source:BH00610",
-          "why": "Hear the call from the leaves and the shelter offered to all humanity."
+          "why": "Hear the call from the leaves and the shelter offered to all humanity.",
+          "shortened": [
+            "O loved ones of God among the Arabs!  Hearken to the summons of God issuing from this Tree which hath been raised up through the power of truth, every leaf of which proclaimeth within all things:  Verily, I am God; there is no God but Him, the Most Holy, the All-Glorious, the Most Bountiful!  Hasten, O people, unto the Tree of God, and seek shelter beneath its shadow.  By the righteousness of the one true God!  Were ye to search the reaches of earth and heaven, ye would find no refuge save beneath the shade of this Tree, a Tree which overshadoweth all mankind and through whose branches waft such divine breezes as will quicken every mouldering bone."
+          ]
         },
         {
           "key": "source:BH07278",
@@ -1552,7 +2112,10 @@
         },
         {
           "key": "source:BH10491",
-          "why": "Read the extension of grace to followers of all religions."
+          "why": "Read the extension of grace to followers of all religions.",
+          "shortened": [
+            "Then give thanks unto my Lord, the Great, for this wondrous favor. This is a day wherein grace hath encompassed all religions, and the Divine Lott Tree hath called out from the Most Exalted Horizon: 'Verily, there is none other God but Him, the One, the Single, the All-Knowing.'"
+          ]
         },
         {
           "key": "source:AB01871",
@@ -1568,11 +2131,17 @@
         },
         {
           "key": "source:BH04985",
-          "why": "Notice the varying capacity through which shelter is known."
+          "why": "Notice the varying capacity through which shelter is known.",
+          "shortened": [
+            "O people! Take shelter beneath the Lote-Tree of holiness. Verily it hath been among you for numbered years, and ye have known it according to your measure and capacity. Whoso denieth it is assuredly in grievous loss."
+          ]
         },
         {
           "key": "source:BH08743",
-          "why": "Set the desert of deprivation beside the invitation to shade."
+          "why": "Set the desert of deprivation beside the invitation to shade.",
+          "shortened": [
+            "How many souls rushed forth into the deadly wilderness and were consumed by the heat of deprivation, never tasting a drop of the wine of reunion from the hand of the Cup-bearer of attainment, while you, through the favor of the Most Glorious Beloved, have entered beneath the sheltering shade of the Tree of the Uttermost End."
+          ]
         },
         {
           "key": "source:BH11034",
@@ -1588,19 +2157,32 @@
         },
         {
           "key": "source:BH07605",
-          "why": "Keep the prayer for protection and continued shelter."
+          "why": "Keep the prayer for protection and continued shelter.",
+          "shortened": [
+            "Say:",
+            "O my God, my Adored One, my Desire! With utter helplessness I beseech Thee and pray fervently unto Thee to protect me from the mischief of the ungodly, and to deprive me not of the shelter of the divine Lote-Tree and of the shrill voice of the Pen of the Most High."
+          ]
         },
         {
           "key": "source:BH09848",
-          "why": "Hear the prayer to gather servants beneath providence."
+          "why": "Hear the prayer to gather servants beneath providence.",
+          "shortened": [
+            "I beseech Thee, by Thine own Self and by Him Whom Thou has appointed as the Manifestation of Thine own Being and Thy discriminating Word unto all that are in heaven and on earth, to gather together Thy servants beneath the shade of the Tree of Thy gracious providence."
+          ]
         },
         {
           "key": "source:AB05837",
-          "why": "Read illumination, consolation, and repose together."
+          "why": "Read illumination, consolation, and repose together.",
+          "shortened": [
+            "If thou dost long for illumination from the Kingdom adorn thy countenance with beauty of the All-Merciful and if thou desirest consolation for thy soul and Tranquillity in thy conscience seek repose beneath the Sadratu'l-Muntaha."
+          ]
         },
         {
           "key": "source:BH04252",
-          "why": "Consider the act of turning toward the Most Distant Tree."
+          "why": "Consider the act of turning toward the Most Distant Tree.",
+          "shortened": [
+            "Set your faces toward the Most Distant Station - verily it is the Lote-Tree beyond which there is no passing, if ye be of the assured ones."
+          ]
         },
         {
           "key": "source:BH09564",
@@ -1616,11 +2198,17 @@
         },
         {
           "key": "source:BH02404",
-          "why": "Keep the surprising image of the Tree found at the journey’s beginning."
+          "why": "Keep the surprising image of the Tree found at the journey’s beginning.",
+          "shortened": [
+            "They have traversed the Lote Tree of the utmost realm of love at the beginning of their journey and have perceived the ultimate goal of divine knowledge from the Tree of Paradise."
+          ]
         },
         {
           "key": "source:BH02847",
-          "why": "Read created things as fruits in the source’s image."
+          "why": "Read created things as fruits in the source’s image.",
+          "shortened": [
+            "Verily they are the Tree beyond which there is no passing, and whatsoever is created from them are its fruits, would ye but know."
+          ]
         },
         {
           "key": "source:BH06350",
@@ -1632,7 +2220,10 @@
         },
         {
           "key": "source:BH07488",
-          "why": "Join gifts of leaf and fruit with remembrance and nearness."
+          "why": "Join gifts of leaf and fruit with remembrance and nearness.",
+          "shortened": [
+            "The Divine Lote-Tree desires to send unto thee a fruit from among Its fruits, and a leaf from among Its leaves, and a remembrance from among Its remembrances, that It may draw thee closer, in all conditions, to God, the Lord of the Mighty Throne."
+          ]
         },
         {
           "key": "source:BH09115",
@@ -1640,11 +2231,17 @@
         },
         {
           "key": "source:BH05350",
-          "why": "Read tasting fruit beside hearing the Tree speak."
+          "why": "Read tasting fruit beside hearing the Tree speak.",
+          "shortened": [
+            "Blessed art thou for having drunk of My cup and soared in My atmosphere and tasted of the fruits of this Divine Tree which hath been raised up in truth and speaketh forth that there is none other God but Him, the Almighty, the Glorious, the Beautiful."
+          ]
         },
         {
           "key": "source:BH04848",
-          "why": "Keep the fruit connected with the One who planted the Tree."
+          "why": "Keep the fruit connected with the One who planted the Tree.",
+          "shortened": [
+            "And verily, thou art of the fruits of the Ultimate Tree which was planted by the hand of the Most Glorious."
+          ]
         },
         {
           "key": "source:BH03811",
@@ -1652,19 +2249,31 @@
         },
         {
           "key": "source:BB00596",
-          "why": "Read consecration of the Tree and its fruits to God."
+          "why": "Read consecration of the Tree and its fruits to God.",
+          "shortened": [
+            "Consecrate Thou, O my God, the whole of this Tree unto Him, that from it may be revealed all the fruits created by God within it for Him through Whom God hath willed to reveal all that He pleaseth."
+          ]
         },
         {
           "key": "source:BH08982",
-          "why": "Keep the fruit of utterance within the address to humanity."
+          "why": "Keep the fruit of utterance within the address to humanity.",
+          "shortened": [
+            "Thus hath the human one revealed the fruits of utterance from this Tree which hath been raised up in truth by God, the Almighty, the All-Wise."
+          ]
         },
         {
           "key": "source:BH04957",
-          "why": "Hear the Tree identified as the Word in the call to approach."
+          "why": "Hear the Tree identified as the Word in the call to approach.",
+          "shortened": [
+            "Today the Blessed Tree of Baha, which hath been planted by the hand of the Lord of Names in the Most Exalted Paradise, uttereth this most sublime Word: \"O peoples of the earth! The Lord of Heaven hath come with manifest sovereignty.\""
+          ]
         },
         {
           "key": "source:BH05423",
-          "why": "Read the testimony of scriptures to the voice of the Tree."
+          "why": "Read the testimony of scriptures to the voice of the Tree.",
+          "shortened": [
+            "God hath testified in His Books and Scriptures unto Him Who hath come with the Truth, with a Name through which the world was illumined and the faces of the nations were darkened, save those who held fast to the Sure Handle and turned toward the All-Highest Horizon - the Station wherein the Divine Lote-Tree doth speak: \"There is none other God but Him, the Protector, the Self-Subsisting.\""
+          ]
         },
         {
           "key": "source:BH10047",
@@ -1684,7 +2293,10 @@
         },
         {
           "key": "source:BH06335",
-          "why": "Keep the personal address to Ahmad-i-Ali within the summons."
+          "why": "Keep the personal address to Ahmad-i-Ali within the summons.",
+          "shortened": [
+            "O Ahmad-i-'Ali, hear the Call from the Divine Lote-Tree, planted by the hands of grace in the Most Exalted Paradise."
+          ]
         },
         {
           "key": "source:BH10779",
@@ -1692,11 +2304,17 @@
         },
         {
           "key": "source:BH05916",
-          "why": "Read the Book and the sweetness of the call from the crimson Tree."
+          "why": "Read the Book and the sweetness of the call from the crimson Tree.",
+          "shortened": [
+            "This is a Book from the Wronged One to him who hath turned towards the Crimson Tree that he might hearken unto its most sweet call in remembrance of God, the Lord of the worlds."
+          ]
         },
         {
           "key": "source:BH10818",
-          "why": "Hear remembrance beside the Tree at the right of the Throne."
+          "why": "Hear remembrance beside the Tree at the right of the Throne.",
+          "shortened": [
+            "The Remembrance of God from the Divine Lote-Tree hath been witnessed at the right hand of the Throne. Blessed is the one who draweth nigh unto it, who is nourished by its fruits, and who taketh for himself beneath its shade a station that is faithful to the truth."
+          ]
         },
         {
           "key": "source:BH09423",
@@ -1704,7 +2322,10 @@
         },
         {
           "key": "source:BH10167",
-          "why": "Consider the summons directed to all."
+          "why": "Consider the summons directed to all.",
+          "shortened": [
+            "The Divine Lote-Tree crieth out amidst all beings and summoneth all unto God, the Lord of the worlds."
+          ]
         },
         {
           "key": "source:BH02147",
@@ -1716,7 +2337,10 @@
         },
         {
           "key": "source:BH07400",
-          "why": "Hear the same proclamation in its own source."
+          "why": "Hear the same proclamation in its own source.",
+          "shortened": [
+            "Blessed is he who hath attained unto the Salsabil of the utterance of the All-Merciful in these days wherein the Divine Lote-Tree hath proclaimed: The Kingdom belongeth unto God, the Lord of all worlds."
+          ]
         },
         {
           "key": "source:BH09136",
@@ -1724,11 +2348,17 @@
         },
         {
           "key": "source:BH11610",
-          "why": "Keep the invitation to turn toward the speaking Tree."
+          "why": "Keep the invitation to turn toward the speaking Tree.",
+          "shortened": [
+            "Say: Turn ye, O people, to the Supreme Horizon, the station wherein the Lote-Tree beyond which there is no passing doth speak."
+          ]
         },
         {
           "key": "source:BH05554",
-          "why": "Hear the Tree and Rock joining in the proclamation."
+          "why": "Hear the Tree and Rock joining in the proclamation.",
+          "shortened": [
+            "This is the Day whereon the Divine Lote-Tree calleth out and the Rock crieth aloud through this Great Name. Be ye as leaves when the winds of the Will of your Lord, the Lord of the Covenant, blow."
+          ]
         },
         {
           "key": "source:BH11890",
@@ -1744,23 +2374,39 @@
         },
         {
           "key": "source:BH09170",
-          "why": "Attend to each leaf offering a different praise."
+          "why": "Attend to each leaf offering a different praise.",
+          "shortened": [
+            "O my leaf and O my handmaiden! Today it befitteth the leaves of the Divine Lote-Tree to make mention and offer praise unto God, exalted be His glory. Each of the leaves of the Ultimate Lote-Tree is engaged in a different remembrance and uttereth a different praise."
+          ]
         },
         {
           "key": "source:BH00759",
-          "why": "Hear the anthem, nightingale, and invitation to the needy."
+          "why": "Hear the anthem, nightingale, and invitation to the needy.",
+          "shortened": [
+            "This is the garden of Paradise, wherein arise the anthems of God, the Help in Peril, the Self-Subsisting; wherein ascend the soul-entrancing melodies warbled by the Nightingale of Eternity upon the twigs of the Divine Lote-Tree; wherein abide the Maids of Heaven whom none hath touched save God, the All-Glorious, the Most Holy; and wherein lieth enshrined that which draweth the needy to the shores of the ocean of true wealth and guideth the people to the Word of God."
+          ]
         },
         {
           "key": "source:BH09463",
-          "why": "Read the glad tidings warbled from the branches."
+          "why": "Read the glad tidings warbled from the branches.",
+          "shortened": [
+            "She warbleth upon the twigs of the Divine Lote-Tree and giveth glad tidings unto them that are nigh and unto the sincere ones."
+          ]
         },
         {
           "key": "source:BH10022",
-          "why": "Keep the Dove’s continuing song in view."
+          "why": "Keep the Dove’s continuing song in view.",
+          "shortened": [
+            "O servant!",
+            "We have caused thee to hear the melodies of the Dove which warbleth at all times upon the twigs of the Divine Lote-Tree."
+          ]
         },
         {
           "key": "source:BH05921",
-          "why": "Join the Dove’s song with gratitude."
+          "why": "Join the Dove’s song with gratitude.",
+          "shortened": [
+            "Thus have We sent down unto thee that which the Dove hath warbled upon the twigs of the Lote-Tree beyond which there is no passing, whereby all things are drawn, that thou mayest render thanks unto thy Lord and say, turning unto the Desired One: Praise be unto Thee, O Lord of existence!"
+          ]
         },
         {
           "key": "source:BH08475",
@@ -1768,15 +2414,24 @@
         },
         {
           "key": "source:BH04382",
-          "why": "Read the leaves attracting the Concourse on High in the address to a handmaid."
+          "why": "Read the leaves attracting the Concourse on High in the address to a handmaid.",
+          "shortened": [
+            "O My handmaiden! Hearken unto My call, then detach thyself from all else besides Me, then drink from the cup of My praise from the fingers of My mercy and grandeur, then raise thy right hand in My Most Great Name and rend asunder therewith the veils of the handmaidens through My sovereignty and majesty and power and might, then hearken unto other melodies from the Divine Lote-Tree which hath been planted by the hand of Baha in the Garden of Refuge, and every leaf thereof speaketh that which attracteth the hearts of the Concourse on High."
+          ]
         },
         {
           "key": "source:BH05344",
-          "why": "Move from hearing the Dove to remembering others."
+          "why": "Move from hearing the Dove to remembering others.",
+          "shortened": [
+            "When thou hearest the cooing of the Dove and knowest that which the Divine Lote-Tree hath uttered, make mention of thy Lord amidst the concourse of creation, that they may haply turn toward this luminous horizon."
+          ]
         },
         {
           "key": "source:BH07646",
-          "why": "Join hearing through the heart with testimony through the tongue."
+          "why": "Join hearing through the heart with testimony through the tongue.",
+          "shortened": [
+            "Hearken thou to the Call from the Divine Lote-Tree, that it may draw thee to a station wherein thou shalt testify with thy heart and tongue that there is no God but Him, the Protector, the Self-Subsisting."
+          ]
         },
         {
           "key": "source:BH04963",
@@ -1784,7 +2439,10 @@
         },
         {
           "key": "source:BH06032",
-          "why": "Read hearing beside the firmly rooted Tree of grace."
+          "why": "Read hearing beside the firmly rooted Tree of grace.",
+          "shortened": [
+            "Thus has the Lote-Tree beyond which there is no passing spoken, as a grace from its presence upon you, that ye may hear and be of those who are firmly rooted."
+          ]
         },
         {
           "key": "source:BH05429",
@@ -1792,11 +2450,17 @@
         },
         {
           "key": "source:BH08572",
-          "why": "Keep the brothers’ hearing and hastening in its personal setting."
+          "why": "Keep the brothers’ hearing and hastening in its personal setting.",
+          "shortened": [
+            "Blessed be thy brother and thou, and they who have hastened with their hearts unto the Divine Lote-Tree which speaks forth in the kingdom of creation that which it spoke before creation itself: \"Verily there is none other God but I, the Truth, the Mighty, the Wondrous.\""
+          ]
         },
         {
           "key": "source:BH09104",
-          "why": "Read the news carried to the loved ones."
+          "why": "Read the news carried to the loved ones.",
+          "shortened": [
+            "O My loved ones in My lands! Hearken unto My call which hath been raised from the Divine Lote-Tree that speaketh amidst the world and announceth unto all this momentous News."
+          ]
         },
         {
           "key": "source:BH09344",
@@ -1804,7 +2468,10 @@
         },
         {
           "key": "source:BH06997",
-          "why": "Read the call to the straight path."
+          "why": "Read the call to the straight path.",
+          "shortened": [
+            "At all times doth the Divine Lote-Tree call out betwixt earth and heaven and summon all to the straight path of God."
+          ]
         },
         {
           "key": "source:BH08779",
@@ -1812,7 +2479,10 @@
         },
         {
           "key": "source:BH06261",
-          "why": "Read the moving Tree and people’s heedlessness together."
+          "why": "Read the moving Tree and people’s heedlessness together.",
+          "shortened": [
+            "The Divine Lote-Tree hath been stirred by the movement of the verses of Him Who is the Lord of all creation, yet most of the people remain heedless."
+          ]
         },
         {
           "key": "source:BH04037",
@@ -1820,7 +2490,10 @@
         },
         {
           "key": "source:BH04545",
-          "why": "Consider the limits placed upon reaching the Tree without divine will."
+          "why": "Consider the limits placed upon reaching the Tree without divine will.",
+          "shortened": [
+            "Say: The Tree hath been raised up in truth, and the birds of the hearts of them that know cannot attain unto its heights save whom thy Lord willeth. Verily He is the All-Forgiving, the All-Merciful. Blessed is he who hath heard its rustling and the warbling of the birds that circle round it."
+          ]
         },
         {
           "key": "source:BH05794",
@@ -1840,19 +2513,31 @@
         },
         {
           "key": "source:BB00147",
-          "why": "Hear the prayer for the growth of a Tree watered by the blood of loved ones."
+          "why": "Hear the prayer for the growth of a Tree watered by the blood of loved ones.",
+          "shortened": [
+            "I beseech Thee, O God, by the Tree which Thou hast planted at Thy affirmation and watered with the blood of Thy loved ones, to cause that Tree, its branches, leaves and fruits to grow until it reacheth that which is befitting at Thy creation and returneth to that which is worthy of the court of Thy glory and majesty."
+          ]
         },
         {
           "key": "source:BH09191",
-          "why": "Read the living waters beside the abiding Tree."
+          "why": "Read the living waters beside the abiding Tree.",
+          "shortened": [
+            "Strive ye that ye may quaff from the living waters and behold yourselves abiding and enduring beneath the shade of the Divine Lote-Tree in the kingdom of earth and heaven."
+          ]
         },
         {
           "key": "source:BH09197",
-          "why": "Consider holding fast to an enduring remembrance."
+          "why": "Consider holding fast to an enduring remembrance.",
+          "shortened": [
+            "Hold thou fast in all conditions to the Divine Lote Tree, for verily it calleth out and remembereth thee at this moment with that which shall endure as long as the names of God, the Lord of all worlds, shall endure."
+          ]
         },
         {
           "key": "source:BH10891",
-          "why": "Keep attachment to the Tree from which the addressee has sprung."
+          "why": "Keep attachment to the Tree from which the addressee has sprung.",
+          "shortened": [
+            "Cling fast unto this divine Lote-Tree from which God hath graciously caused thee to spring forth."
+          ]
         },
         {
           "key": "source:BH05163",
@@ -1860,7 +2545,10 @@
         },
         {
           "key": "source:BH10999",
-          "why": "Hear the Tree calling its branches to steadfastness."
+          "why": "Hear the Tree calling its branches to steadfastness.",
+          "shortened": [
+            "Verily the Divine Lote-Tree calleth out to its branches and counseleth them to remain supremely steadfast in this Cause whereby the limbs of all names have quaked."
+          ]
         },
         {
           "key": "source:BH10626",
@@ -1880,15 +2568,24 @@
         },
         {
           "key": "source:AB06957",
-          "why": "Consider young leaves and remembrance after the tree is cut."
+          "why": "Consider young leaves and remembrance after the tree is cut.",
+          "shortened": [
+            "Although that tree hath outwardly been cut down in the path of the Ancient Beauty, praise be to God that it hath left behind a young tree, green and fresh, as a remembrance."
+          ]
         },
         {
           "key": "source:AB01438",
-          "why": "Read the branch imagery in a Tablet of Visitation for Haji Siyyid Mihdi Afnan."
+          "why": "Read the branch imagery in a Tablet of Visitation for Haji Siyyid Mihdi Afnan.",
+          "shortened": [
+            "And say: Upon you be glory, upon you be mercy and praise, upon you be grace and bounty, O exalted Branch from the Tree of Eternity and fresh, verdant Twig from the Lote-Tree of the Uttermost Boundary!"
+          ]
         },
         {
           "key": "source:BH11569",
-          "why": "Keep the leaf’s flight in the gravestone text for the Bab’s wife."
+          "why": "Keep the leaf’s flight in the gravestone text for the Bab’s wife.",
+          "shortened": [
+            "Verily, the exalted leaf hath heard the call of the divine Lote-Tree and hath taken her flight unto it."
+          ]
         },
         {
           "key": "source:BH11769",
@@ -1908,7 +2605,10 @@
         },
         {
           "key": "source:AB02784",
-          "why": "Keep the warning against judging a tree by a leaf’s discordant words."
+          "why": "Keep the warning against judging a tree by a leaf’s discordant words.",
+          "shortened": [
+            "If you see an unharmonious movement or hear an unreasonable word, you must look to the root of the Blessed Tree, not its leaves, for the Tree is firm and growing and in the utmost freshness and verdancy, and ere long will bear delicious fruit and cast its shadow upon the horizons."
+          ]
         },
         {
           "key": "source:AB05398",
@@ -1932,7 +2632,10 @@
         },
         {
           "key": "source:AB02298",
-          "why": "Keep the blessing and light addressed to a branch."
+          "why": "Keep the blessing and light addressed to a branch.",
+          "shortened": [
+            "O branch sprung from the Blessed Tree! Upon thee be the glory of God, His light and His radiance. May He illumine thy face with the splendor of the All-Merciful in the heart of contingent being. Verily, He is powerful over all things."
+          ]
         },
         {
           "key": "source:AB04533",
@@ -1948,15 +2651,24 @@
         },
         {
           "key": "source:AB05541",
-          "why": "Hear the invitation to fly to the holy meads and sing among branches."
+          "why": "Hear the invitation to fly to the holy meads and sing among branches.",
+          "shortened": [
+            "Fly rather, in holy meads and chant thy melodies upon the branches of the Lote Tree beyond which there is no passing."
+          ]
         },
         {
           "key": "source:AB07289",
-          "why": "Read the nameless lover finding a nest."
+          "why": "Read the nameless lover finding a nest.",
+          "shortened": [
+            "Rather, become nameless and traceless in the sea of being content with God, and in the desert of divine love hasten forth lost and bewildered, so that you may find your head and refuge in the divine Kingdom, and make your nest and dwelling in the highest branches of the Lote-Tree of the utmost boundary, and attain the desire of your heart and the comfort of your soul."
+          ]
         },
         {
           "key": "source:AB04703",
-          "why": "Keep the metaphors of hearing, speech, and the nightingale attributed to the letter."
+          "why": "Keep the metaphors of hearing, speech, and the nightingale attributed to the letter.",
+          "shortened": [
+            "I swear by the Most Great Name that if a deaf and mute person rises to praise the Truth, he will speak with an eloquent and articulate tongue and, like the nightingale of the garden of divine knowledge, will warble melodies in diverse modes upon the branches and twigs of the Lote-Tree beyond which there is no passing."
+          ]
         },
         {
           "key": "source:AB08534",
@@ -1968,7 +2680,10 @@
         },
         {
           "key": "source:AB03859",
-          "why": "Consider the prayer of love for a branch of the Tree of unity."
+          "why": "Consider the prayer of love for a branch of the Tree of unity.",
+          "shortened": [
+            "O my God and my Hope! Thou knowest my secret and my public self, my hidden and manifest being, and art aware of the extent of my love and the intensity of my devotion to the branch of Thy divine Lote-Tree, the twigs of Thy Tree of Oneness, and the offshoot of Thy Tree of mercifulness."
+          ]
         },
         {
           "key": "source:AB02494",
@@ -1976,7 +2691,10 @@
         },
         {
           "key": "source:AB04951",
-          "why": "Read meek servitude beside the fire and firmly rooted Tree."
+          "why": "Read meek servitude beside the fire and firmly rooted Tree.",
+          "shortened": [
+            "This is Your meek servant whose neck is bound by the chain of servitude to Your exalted threshold and bondage to Your lofty presence, and who has come to You in humility and submissiveness, with a broken heart, turning toward Your merciful Kingdom, deriving the fire of guidance from Your unique Tree whose root is firm and whose branch extends into heaven."
+          ]
         },
         {
           "key": "source:BH11072",
@@ -1984,15 +2702,24 @@
         },
         {
           "key": "source:BH09381",
-          "why": "Consider the fire in hearts and the light upon the Mount."
+          "why": "Consider the fire in hearts and the light upon the Mount.",
+          "shortened": [
+            "I beseech Thee by Thy light which hath shone forth upon the world, and by the fire of Thy Lote-Tree whereby the hearts of the nations have been set ablaze, and by the lights of Thy Manifestation and the Call raised upon Thy Mount, to aid Thy servants to turn toward the lights of Thy countenance."
+          ]
         },
         {
           "key": "source:BH06373",
-          "why": "Read the prayer to turn toward the horizon and hear the rustling."
+          "why": "Read the prayer to turn toward the horizon and hear the rustling.",
+          "shortened": [
+            "O Lord! Thou beholdest me turning away from all else save Thee and advancing toward Thy most exalted horizon, the Station wherein was raised the rustling of the Sadratu'l-Muntaha."
+          ]
         },
         {
           "key": "source:BH08992",
-          "why": "Keep the hope of circling the Tree as a devotional aspiration."
+          "why": "Keep the hope of circling the Tree as a devotional aspiration.",
+          "shortened": [
+            "We beseech God, blessed and exalted be He, to ordain for thee that which will exalt thee through His Name amongst His servants, and to write down for thee the reward of him who circumambulated the Sadratu'l-Muntaha in the Most Exalted Paradise."
+          ]
         },
         {
           "key": "source:BH03531",
@@ -2012,7 +2739,10 @@
         },
         {
           "key": "source:BH05893",
-          "why": "Close the linked readings with the insistence that the Tree’s fire have visible effects in the world."
+          "why": "Close the linked readings with the insistence that the Tree’s fire have visible effects in the world.",
+          "shortened": [
+            "You must be so enkindled by the fire of the Sacred Tree that its effects become manifest and evident in the world."
+          ]
         },
         {
           "key": "selection:9d56e9e4a68b00d9f33ca472",

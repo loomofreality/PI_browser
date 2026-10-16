@@ -5,7 +5,7 @@
       "id": "9205A8E9160E4C7B9641A2DB4D58E877",
       "slug": "bablife",
       "displayTitle": "The life of the Báb: remembrance and a new beginning",
-      "introduction": "A young merchant attending to ordinary business becomes the centre of a spiritual upheaval. These readings bring that contrast into view through memories of the Báb’s work, His prayers, accounts of confinement, and His own declarations of mission. They invite attention both to a life lived in particular places and to the meanings of resurrection and renewal disclosed through it. The language of preparing a way recalls John the Baptist in Mark [1], while the Báb’s station as a Manifestation of God gives His heralding of Bahá’u’lláh a distinctive meaning. Read beside His martyrdom and Abraham’s exile, the collection asks how a new religious beginning can emerge amid vulnerability, displacement, and apparent powerlessness. Its different voices—sacred writings, historical narrative, and reported recollections—offer complementary avenues of inquiry without making every account equivalent in authority.",
+      "introduction": "A young merchant in Bushihr, writing merchants’ names on their bales, bowed his head over the ledger so that even that small task could be a remembrance of God. Within a few years the same young man, who had never sat in any school, confounded the divines of Persia, shook the customs of a whole nation, and was passed from prison to prison in the mountains of Ádhirbáyján while thousands went joyfully to their deaths for his sake. ‘Abdu’l-Bahá sees in that contrast the clearest proof of a divine Educator. The Báb himself speaks of his life as a prayer, from the darkness of the womb to the station where God taught him, and he describes the resurrection not as graves opening but as a spiritual day. Like John in Mark’s Gospel preparing a way for one greater than himself, the Báb heralded Bahá’u’lláh, though with the station of a Manifestation of God in his own right [1]. From here the way leads to the Báb’s declaration in Shiraz, to his station and claims, and to his martyrdom in Tabriz.",
       "arc": "Enter through everyday work, follow the declarations and trials of a mission, and end with remembrance and spiritual renewal.",
       "order": [
         {
@@ -14,15 +14,25 @@
         },
         {
           "key": "source:ABU0296",
-          "why": "Place the young merchant within the family business."
+          "why": "Place the young merchant within the family business.",
+          "shortened": [
+            "They directed me to his office and to my chagrin I found that he has left for Shiraz but the Bab who was then in the efflorescence of his youth was appointed in his place to manage the business of the office. His mustache was just beginning to grow and the signs of manhood appearing in his whole being."
+          ]
         },
         {
           "key": "source:ABU3669",
-          "why": "Retain the brief recollection of a particular trade."
+          "why": "Retain the brief recollection of a particular trade.",
+          "shortened": [
+            "During the time that His Holiness the Exalted One lived in Bushihr and was in the trading business, a few merchants bought some Prussian blue dye from His blessed Person."
+          ]
         },
         {
           "key": "source:AB00003",
-          "why": "Follow the extended narrative of birth, journeys, confinement, and opposition. Read the further narrative of confinement and an appeal to the sovereign."
+          "why": "Follow the extended narrative of birth, journeys, confinement, and opposition. Read the further narrative of confinement and an appeal to the sovereign.",
+          "shortened": [
+            "The Bab was a young merchant of the Pure Lineage. He was born in the year one thousand two hundred and thirty-five [A.H.] on the first day of Muharram, and when after a few years His father Siyyid Muhammad-Rida died, He was brought up in Shiraz in the arms of His maternal uncle Mirza Siyyid 'Ali the merchant. On attaining maturity He engaged in trade in Bushihr, first in partnership with His maternal uncle and afterwards independently. On account of what was observed in Him He was noted for godliness, devoutness, virtue, and piety, and was regarded in the sight of men as so characterized.",
+            "Now when the accomplished divines of Adhirbayjan perceived that in all the parts round about Tabriz it was as though the last day had come by reason of the excessive clamor, they requested the government to punish the [Bab's] followers, and to remove the Bab to the Castle of Chihriq. So they sent Him to that castle and consigned Him to the keeping of Yahya Khan the Kurd."
+          ]
         },
         {
           "key": "source:BB00074",
@@ -30,7 +40,10 @@
         },
         {
           "key": "source:BB00330",
-          "why": "Turn from biography to His declaration of mission."
+          "why": "Turn from biography to His declaration of mission.",
+          "shortened": [
+            "Say: I was raised among the Persians, and God revealed unto Me, after twenty-five years of My life had passed, verses which all are powerless to produce."
+          ]
         },
         {
           "key": "source:BH00376",
@@ -50,7 +63,11 @@
         },
         {
           "key": "source:AB01889",
-          "why": "Consider the transformation associated with His appearance."
+          "why": "Consider the transformation associated with His appearance.",
+          "shortened": [
+            "Among the Shi'ihs it is universally acknowledged that He never studied in any school, nor acquired learning from any teacher. To this the people of Shiraz, each and all, bear witness. Nevertheless, He suddenly appeared before the people, endowed with consummate knowledge, and though but a merchant, confounded all the divines of Persia.",
+            "This illustrious Being arose with such power as to shake the foundations of the religious laws, customs, manners, morals, and habits of Persia, and instituted a new law, faith, and religion. Though the eminent men of the State, the majority of the people, and the leaders of religion arose one and all to destroy and annihilate Him, He single-handedly withstood them and set all of Persia in motion."
+          ]
         },
         {
           "key": "source:ABU0345",
@@ -58,7 +75,10 @@
         },
         {
           "key": "source:AB00082",
-          "why": "Read the warning against allowing the Bayán to become a veil."
+          "why": "Read the warning against allowing the Bayán to become a veil.",
+          "shortened": [
+            "But the Promised One of the Bayan - may my spirit be a sacrifice unto Him - was so clearly and manifestly described by the Bab that no one, neither secretly nor openly, neither inwardly nor outwardly, neither in meaning nor in form, was left with any excuse or pretext. He explicitly states: \"Beware, beware lest thou be veiled by the Vahid of the Bayan or by what was revealed in the Bayan.\""
+          ]
         },
         {
           "key": "source:BH00705",
@@ -70,7 +90,11 @@
         },
         {
           "key": "source:BBU0005",
-          "why": "Retain the explanation of the pilgrimage journey."
+          "why": "Retain the explanation of the pilgrimage journey.",
+          "shortened": [
+            "Grieve not that you have not been chosen to accompany Me on My pilgrimage to Hijaz.",
+            "God willing, I shall return hither by the way of Kufih, in which place I hope to meet you. If it be decreed otherwise, I shall ask you to join Me in Shiraz."
+          ]
         },
         {
           "key": "source:BBU0011",
@@ -78,7 +102,11 @@
         },
         {
           "key": "source:BB00485",
-          "why": "Gather birth, family, revelation, and isolation into a prayer."
+          "why": "Gather birth, family, revelation, and isolation into a prayer.",
+          "shortened": [
+            "Thou didst create Me, O Lord, through Thy gracious favor and didst protect Me through Thy bounty in the darkness of the womb and didst nourish Me, through Thy loving-kindness, with life-giving blood.",
+            "Thou didst then nourish Me with refreshing milk and didst rear Me in the arms of My parents with manifest compassion, until Thou didst graciously acquaint Me with the realities of Thy Revelation and apprised Me of the straight path of Thy Faith as set forth in Thy Book. And when I attained full maturity Thou didst cause Me to bear allegiance unto Thine inaccessible Remembrance, and enabled Me to advance towards the designated station, where Thou didst educate Me through the subtle operations of Thy handiwork and didst nurture Me in that land with Thy most gracious gifts."
+          ]
         },
         {
           "key": "source:AB00052",
@@ -126,16 +154,23 @@
       "id": "00C41080E8DDED8D3092DBDA9483EDF1",
       "slug": "babmartyrdom",
       "displayTitle": "The martyrdom of the Báb: grief, fidelity, and fellowship",
-      "introduction": "What can a community make of a loss intended to destroy its hope? These selections approach the martyrdom of the Báb through lament, accounts of the execution, reflections on sacrifice, and the continuing life of His Cause. Their movement from grief toward fellowship gives remembrance an ethical purpose: suffering is recalled in order to deepen love, steadfastness, and service. Acts’ account of Stephen offers a comparative reading of fidelity under persecution, ending with prayer for his attackers [1]. The accounts collected here have different purposes and sometimes differ in detail; devotional imagery, historical narration, and reported conversations should each be read with attention to their source. Beside the Báb’s life and Mary Magdalene’s courage after the loss of Christ’s physical presence, this subject asks how mourning can become a responsibility toward others rather than a retreat from them.",
+      "introduction": "On the anniversary of the Báb’s death ‘Abdu’l-Bahá speaks in a litany of grief: this is the day the Sun of Truth was hidden, the day that immaculate breast was riddled with a thousand bullets, the day the Concourse on High laments most intensely. Mourning is where this subject begins, but not where it ends. The account of the execution in Tabríz, with the first volley that left the Báb unharmed and the second that tore His body while barely marring His face, is set beside briefer and sometimes differing reports, and each kind of testimony asks to be read for what it is. The Báb went to the field of sacrifice with joy, His thoughts on those who would carry the teachings forward, and the attempt to extinguish His Cause ended by spreading it. Stephen in the Acts of the Apostles, faithful under the stones and praying for those who threw them [1], offers a comparison in fidelity without equating the two men. The purpose finally assigned to all this suffering is the raising up of souls who become manifestations of true fellowship and sincere love. From here the way leads to the meaning of martyrdom, to the Báb’s life, station and claims, and to the long journey of His sacred remains.",
       "arc": "Begin with grief, read the accounts and their distinct voices, then move from endurance to continuing service and fellowship.",
       "order": [
         {
           "key": "source:AB03056",
-          "why": "Open with the language of grief on the anniversary."
+          "why": "Open with the language of grief on the anniversary.",
+          "shortened": [
+            "Today is the Anniversary of the Martyrdom of His Holiness the Most Exalted One (the Bab), may my soul be offered up as a ransom for His sacred blood.",
+            "This is the Day when the Sun of Truth was hidden behind the clouds of divine providence. This is the Day when that shining Moon did set. This is the Day when that sacred and delicate Body rolled in dust and blood. This is the Day when that gentle and immaculate Breast was riddled with a thousand bullets. This is the Day when that heavenly Lamp was detached from its physical globe."
+          ]
         },
         {
           "key": "source:ABU0346",
-          "why": "Place the execution within the remembered sequence of confinement."
+          "why": "Place the execution within the remembered sequence of confinement.",
+          "shortened": [
+            "The Bab was subjected to bitter persecution in Shiraz, where He first proclaimed His mission and message. A period of famine afflicted that region, and the Bab journeyed to Isfahan. There the learned men rose against Him in great hostility. He was arrested and sent to Tabriz. >From thence He was transferred to Maku and finally imprisoned in the strong castle of Chihriq. Afterward He was martyred in Tabriz."
+          ]
         },
         {
           "key": "source:AB00003",
@@ -151,15 +186,24 @@
         },
         {
           "key": "source:AB00562",
-          "why": "Consider the image of the prisoner exposed to violence."
+          "why": "Consider the image of the prisoner exposed to violence.",
+          "shortened": [
+            "Likewise the Bab - may my spirit be sacrificed for Him - was for a time imprisoned in the fortresses and strongholds of that land and was suspended in the field of sacrifice, His mirror-like breast becoming the target of a thousand bullets and His pure body falling in pieces to the ground."
+          ]
         },
         {
           "key": "source:ABU0126",
-          "why": "Pause at the brief acknowledgment of martyrdom."
+          "why": "Pause at the brief acknowledgment of martyrdom.",
+          "shortened": [
+            "The Bab and Baha'u'llah over sixty years ago proclaimed the glad tidings of universal peace. The Bab was martyred in the Cause of God. Baha'u'llah suffered forty years as a prisoner and exile in order that the Kingdom of love might be established in the East and West."
+          ]
         },
         {
           "key": "source:AB01426",
-          "why": "Retain the concentrated description of bodily suffering."
+          "why": "Retain the concentrated description of bodily suffering.",
+          "shortened": [
+            "Especially the Bab (may my spirit be sacrificed for Him) - His blessed breast became the target of a thousand bullets."
+          ]
         },
         {
           "key": "source:AB01358",
@@ -167,7 +211,10 @@
         },
         {
           "key": "source:ABU0984",
-          "why": "Ask what sustained the Báb through suffering."
+          "why": "Ask what sustained the Báb through suffering.",
+          "shortened": [
+            "God's Love it was that sustained the Bab and brought him to his supreme sacrifice, and made his bosom the willing target for a thousand bullets."
+          ]
         },
         {
           "key": "source:ABU1874",
@@ -175,11 +222,18 @@
         },
         {
           "key": "source:ABU0347",
-          "why": "Contrast a life directed toward God with attachment to transient comfort."
+          "why": "Contrast a life directed toward God with attachment to transient comfort.",
+          "shortened": [
+            "For instance, had the Bab (may my spirit be a sacrifice unto Him) spent His days in the affairs of this mortal world, would that have been better than spending them in the path of God, enduring afflictions, tribulations and calamities, and ultimately drinking the cup of martyrdom?",
+            "The Holy Manifestations and previous Prophets suffered greatly, but for limited days."
+          ]
         },
         {
           "key": "source:ABU0336",
-          "why": "Read the spiritual loss attributed to the act of persecution."
+          "why": "Read the spiritual loss attributed to the act of persecution.",
+          "shortened": [
+            "Verily, the oppressor [King of Persia] slew the Beloved of the Worlds [the Báb] that he might thereby extinguish the light of God among His creatures and deprive mankind of the pure water of life in the days of his Lord, the Mighty, the Kind."
+          ]
         },
         {
           "key": "source:BH05094",
@@ -187,7 +241,10 @@
         },
         {
           "key": "source:BH03086",
-          "why": "Turn remembrance into a warning against renewed rejection."
+          "why": "Turn remembrance into a warning against renewed rejection.",
+          "shortened": [
+            "Say: \"Verily, He Who came unto you by the name of 'Ali was the Herald of this Most Great, Most Glorious Manifestation, and His Most Exalted Pen moved only in My remembrance and praise, and there flowed from His ink naught but this wise Remembrance, until He sacrificed His soul in My love that ye might not commit in the time of the Manifestation what the people of the Furqan, and before them the people of the Torah and the Gospel, committed.\""
+          ]
         },
         {
           "key": "source:BB00666",
@@ -195,7 +252,10 @@
         },
         {
           "key": "source:AB02895",
-          "why": "Consider the effect of martyrdom upon opposition."
+          "why": "Consider the effect of martyrdom upon opposition.",
+          "shortened": [
+            "On the Day of Resurrection during the days of the Exalted One, may my spirit be sacrificed for Him, it raised a tumult and clamor but was silenced by the supreme martyrdom."
+          ]
         },
         {
           "key": "source:AB01065",
@@ -207,23 +267,38 @@
         },
         {
           "key": "source:ABU0327",
-          "why": "Retain the further reported account of the community after persecution."
+          "why": "Retain the further reported account of the community after persecution.",
+          "shortened": [
+            "His Holiness the Bab and nearly all his followers were martyred. Upon the death of the Bab, Mirza Yahya, my uncle, who had been appointed viceregent of the Bab, fled, and thus the Babi movement was virtually ended, however there are a few Babis today."
+          ]
         },
         {
           "key": "source:ABU2218",
-          "why": "Consider the relation drawn between loss and the next revelation."
+          "why": "Consider the relation drawn between loss and the next revelation.",
+          "shortened": [
+            "Then He added: \"When the Bab was martyred the friends were grief-stricken and disheartened while the enemies were greatly rejoicing, saying 'Praise be to God, the Bab was martyred.' But had the Bab not been martyred, the Blessed Beauty would not have declared His Cause."
+          ]
         },
         {
           "key": "source:AB00416",
-          "why": "Read the reversal of an attempt to extinguish the Cause."
+          "why": "Read the reversal of an attempt to extinguish the Cause.",
+          "shortened": [
+            "You thought that if you martyred the Exalted One (may the spirit of all worlds be sacrificed for Him), this foundation would collapse. You fired a thousand bullets into His pure breast, then saw that the Cause of God appeared more strongly and its light shone more brightly, until it has now reached Istanbul."
+          ]
         },
         {
           "key": "source:ABU0997",
-          "why": "Revisit the endurance of the community."
+          "why": "Revisit the endurance of the community.",
+          "shortened": [
+            "They said they would wholly annihilate the Cause by destroying the Bab. Could they do so? No, the very martyrdom of the Bab strengthened His Cause a thousand-fold."
+          ]
         },
         {
           "key": "source:ABU1466",
-          "why": "Follow the image of light spreading beyond its place of origin."
+          "why": "Follow the image of light spreading beyond its place of origin.",
+          "shortened": [
+            "You were vainly imagining that with the martyrdom of His Holiness the Bab this spiritual lamp would have been died out but contrary to the expectation of all the opposers, its light illumined the horizons of the East and the West."
+          ]
         },
         {
           "key": "source:BH07088",
@@ -231,15 +306,24 @@
         },
         {
           "key": "source:AB02648",
-          "why": "Turn anniversary remembrance toward prayer and confirmation."
+          "why": "Turn anniversary remembrance toward prayer and confirmation.",
+          "shortened": [
+            "On the day of martyrdom of His Holiness the Exalted One - may my spirit be a sacrifice for His dust - circumambulate the purified shrine on behalf of this servant and with utmost supplication and lamentation seek confirmation and success on behalf of 'Abdu'l-Baha, for the hosts of violation are attacking and the faithless ones are at the height of cruelty."
+          ]
         },
         {
           "key": "source:AB03378",
-          "why": "Read the good news concerning the enshrining of His remains."
+          "why": "Read the good news concerning the enshrining of His remains.",
+          "shortened": [
+            "Praise be to God, through the grace and bounty of the Blessed Beauty, on the blessed day of Naw-Ruz the sacred remains of the Primal Point, may my spirit be a sacrifice for Him, were laid to rest with utmost glory and beauty in the blessed casket at the Most Exalted Spot - and this is the greatest glad-tidings."
+          ]
         },
         {
           "key": "source:ABU0159",
-          "why": "Include the lament that suffering had not awakened the world."
+          "why": "Include the lament that suffering had not awakened the world.",
+          "shortened": [
+            "His Holiness the Bab was martyred in Tabriz before thousands of people, many friends sacrificed their lives, innumerable souls hastened toward the arena of self-immolation, persecutions and hardships descended upon the believers like hailstorm, still the people are not awakened nor are they made mindful ..."
+          ]
         },
         {
           "key": "source:AB03200",
@@ -251,11 +335,17 @@
         },
         {
           "key": "source:AB01801",
-          "why": "Read the imagery of suffering as devotional language."
+          "why": "Read the imagery of suffering as devotional language.",
+          "shortened": [
+            "Today is the day of flame and fire, of radiance and surging forth. The Exalted One and Primal Point, may my spirit be sacrificed for Him, made His blessed breast the target of a hundred thousand bullets."
+          ]
         },
         {
           "key": "source:ABU0915",
-          "why": "Consider meekness in the face of violence."
+          "why": "Consider meekness in the face of violence.",
+          "shortened": [
+            "His Holiness the Exalted One [the Bab] was martyred though He was the quintessence of meekness."
+          ]
         },
         {
           "key": "source:AB05139",
@@ -263,7 +353,10 @@
         },
         {
           "key": "source:ABU0127",
-          "why": "End with the banner raised beyond physical death."
+          "why": "End with the banner raised beyond physical death.",
+          "shortened": [
+            "He was imprisoned at Shiraz, then went to Isfahan, was afterward confined in a fortress at Makow and finally executed in a public square of Tabriz. This supreme martyrdom raised his banner yet higher and heightened the power of divine manifestation on earth, for the reality which is reflected is the same from the beginning."
+          ]
         }
       ],
       "questions": [
@@ -303,7 +396,7 @@
       "id": "042B3F5C87F541728495F9973A5F53AC",
       "slug": "marymagdalene",
       "displayTitle": "Mary Magdalene: the courage that strengthens others",
-      "introduction": "A community’s renewal may begin with someone whose capacities it has not yet recognized. In these readings Mary Magdalene steadies frightened disciples, recalls the enduring reality of Christ, and turns love into courage and action. Her influence challenges the assumption that learning, rank, or public reputation determines spiritual capacity. John’s Gospel offers a different but illuminating scene: Mary moves from weeping at the tomb to bearing a message to the disciples [1]. Reading these portraits together opens a conversation about witness and leadership without collapsing their narratives into one. The compilation also names other women called Mary and includes reported descriptions of Magdalene’s past; these should not be treated as interchangeable identities or established biography. Alongside Christ’s crucifixion and the subject of human potential, her example asks how faith can awaken capacities that become a source of strength for others.",
+      "introduction": "After the crucifixion the disciples were shaken, Peter among them, and some were near to disbelief; a village woman from Magdala gathered them and asked whether it was the body of Jesus that had been killed or His soul. ‘Abdu’l-Bahá tells that scene in many forms, and the point is always the same: Mary Magdalene’s steadfastness made the apostles firm, they went out like lions, and without her the truth of Christ would not have spread as it did. She had no learning, lineage or wealth; queens of her day are remembered by their dates, while she is called the most steadfast of all Christ’s followers, a station hidden in her lifetime and made clear only centuries later. Love, not capacity, was the source: because the love of Christ filled her heart, every capacity was given. John’s Gospel shows another Mary at the tomb, weeping until her name is spoken and then carrying the message to the disciples, a distinct scene that deepens the theme of witness without merging the two accounts [1]. The strong are asked to strengthen the weak as she did, and to wonder whose gifts their own community has not yet seen. Her story opens onto Christ Himself and onto the meaning of His resurrection.",
       "arc": "Begin with courage amid loss, explore the source and effects of that courage, and conclude with the recognition of overlooked capacities.",
       "order": [
         {
@@ -312,15 +405,24 @@
         },
         {
           "key": "source:AB00837",
-          "why": "Hear the reassurance that Christ’s reality endures."
+          "why": "Hear the reassurance that Christ’s reality endures.",
+          "shortened": [
+            "O maid-servant of God! Verily, Mary, the Magdalene, was a villager, but she kept firm in the Cause of Christ and confirmed the apostles at the time she declared to them (thus): \"Verily, Christ is alive and eternal and death did not overtake Him; and verily, the foundation of His religion is not shaken by His crucifixion at the hand of the oppressors!\" By this her face is eternally shining from the horizon of guidance."
+          ]
         },
         {
           "key": "source:ABU0248",
-          "why": "Read the extended exhortation toward renewed courage."
+          "why": "Read the extended exhortation toward renewed courage.",
+          "shortened": [
+            "The cause of their firmness was Mary Magdalene who gathered them and addressed them with eloquence and fervor: 'Why are ye agitated? Why are troubled? What is the cause of your retirement? Jesus always foretold about his death that a day is coming when I shall quaff from that cup. Now nothing has happened to throw you into such a consternation. Only this earthly, elemental body of Jesus is taken away from our midst but the Spirit of Christ is the Sun of Reality which is ever shining upon all the inhabitants of the world."
+          ]
         },
         {
           "key": "source:ABU1052",
-          "why": "Distinguish physical loss from spiritual reality."
+          "why": "Distinguish physical loss from spiritual reality.",
+          "shortened": [
+            "\"Just as in the time of Christ: the disciples were agitated when they saw the body of Jesus crucified. Then Mary Magdalene came to them and said: 'Why are you agitated?' 'Because,' they replied, 'Jesus has been crucified.' 'Oh,' she said, 'that was the body of Jesus, but the Reality of Jesus is living and eternal. It is not subject to corruption.'"
+          ]
         },
         {
           "key": "source:ABU1136",
@@ -336,7 +438,10 @@
         },
         {
           "key": "source:ABU0671",
-          "why": "Connect leadership with unity."
+          "why": "Connect leadership with unity.",
+          "shortened": [
+            "After the death of Christ, the disciples were not at first firm. Peter denied Him. Mary Magdalene was the cause of their uniting. Out of her steadfastness, what a great result came. If she had wavered, the Truth of Christ would not have spread as it did."
+          ]
         },
         {
           "key": "source:ABU2288",
@@ -344,19 +449,31 @@
         },
         {
           "key": "source:ABU1373",
-          "why": "Ask how love awakens capacity."
+          "why": "Ask how love awakens capacity.",
+          "shortened": [
+            "What apparent capacity did Mary Magdalene have? She was a village woman. Many greater women came who were all from royal lineage in the material world, or from among the famous of the lands and peoples. But because Mary had the love of Christ in her heart, through the love of Christ every capacity was given to her, to the extent that such a church was built in France in her name."
+          ]
         },
         {
           "key": "source:ABU1128",
-          "why": "Contrast simplicity of background with the power of devotion."
+          "why": "Contrast simplicity of background with the power of devotion.",
+          "shortened": [
+            "This Mary Magdelaine in whose name they have built a most wonderful church in Paris was a simple peasant girl. As she dedicated her simple capacity to the Cause of Christ, she became well-known throughout all ages."
+          ]
         },
         {
           "key": "source:ABU2013",
-          "why": "Retain the brief portrait of an overlooked woman."
+          "why": "Retain the brief portrait of an overlooked woman.",
+          "shortened": [
+            "Consider how Mary Magdalene was only a peasant girl."
+          ]
         },
         {
           "key": "source:ABU2769",
-          "why": "Revisit humble origins and consequential service."
+          "why": "Revisit humble origins and consequential service.",
+          "shortened": [
+            "For example, Mary Magdalene was the daughter of a farmer and but a peasant; yet, today her name is known and renowned throughout the world, because in his day she accepted Christ and went forth to serve Him.\""
+          ]
         },
         {
           "key": "source:ABU1333",
@@ -364,11 +481,17 @@
         },
         {
           "key": "source:AB01577",
-          "why": "Read the image of service that yields a harvest."
+          "why": "Read the image of service that yields a harvest.",
+          "shortened": [
+            "But Mary Magdalene, who was a village woman, because she served the Kingdom of Christ and sowed seeds in fertile soil, what a harvest she produced! Due to the blessing of that harvest, churches are still being built in her name and she is praised in all churches. And after nineteen hundred years, now 'Abdu'l-Baha is proving her supreme station - that in the Kingdom of Christ she rendered more service than all the apostles, even becoming the cause of the firmness and steadfastness of all the apostles."
+          ]
         },
         {
           "key": "source:AB02844",
-          "why": "Consider courage described in the language of defending a fortress."
+          "why": "Consider courage described in the language of defending a fortress.",
+          "shortened": [
+            "Address thou the maid-servants of the Merciful One, and say: \"Verily, Mary Magdalene was a villager, but on account of her keeping firm in the Cause of Christ after His death, she was rendered successful in such a matter, whereby her face is shining and beaming forth on the horizon of the universe forevermore! And she surpassed even men in defending the fortress of the Cause of God against the attack of the hosts of suspicions."
+          ]
         },
         {
           "key": "source:ABU0451",
@@ -380,11 +503,18 @@
         },
         {
           "key": "source:AB04965",
-          "why": "Notice that Mary Magdalene and the mother of Jacob are named separately."
+          "why": "Notice that Mary Magdalene and the mother of Jacob are named separately.",
+          "shortened": [
+            "O ye maid-servants of God and leaves of the Tree of Eternal Life!",
+            "Blessed are ye for attaining to that which was the greatest hope of Mary the Magdalene and Mary the mother of Jacob!"
+          ]
         },
         {
           "key": "source:ABU0465",
-          "why": "Read the reported account of acceptance and forgiveness with its source status in view."
+          "why": "Read the reported account of acceptance and forgiveness with its source status in view.",
+          "shortened": [
+            "When His holiness the Spirit (Christ) was martyred, the only one who was not disturbed at all was Mary Magdalene. For the rest of the disciples were confused and discouraged. When Mary became a believer, and fell upon the feet of Christ, although she was a villager of no good repute, Christ did not withhold His feet from her."
+          ]
         },
         {
           "key": "source:ABU2603",
@@ -396,7 +526,10 @@
         },
         {
           "key": "source:ABU1395",
-          "why": "Examine the contrast between public judgment and later honour."
+          "why": "Examine the contrast between public judgment and later honour.",
+          "shortened": [
+            "Mary Magdalen was only a woman of the town, and they used to blame her very much, but after she believed in Christ see her glory! Judge by the present, how many days have passed, and we are now talking about her."
+          ]
         },
         {
           "key": "source:AB03459",
@@ -404,19 +537,34 @@
         },
         {
           "key": "source:ABU2200",
-          "why": "Consider the bounty open to someone without wealth or position."
+          "why": "Consider the bounty open to someone without wealth or position.",
+          "shortened": [
+            "Out of the rough fisherman He made the great Peter, and out of the poor village girl of Magdala He made one who is a power in all the world today. Many queens have reigned who are remembered by their dates in history, and nothing more is known of them. But Mary the Magdalene is greater than them all. It was she whose love strengthened the disciples when their faith was failing. What she did for the world cannot be measured."
+          ]
         },
         {
           "key": "source:ABU1908",
-          "why": "Close the linked readings with a station recognized only later."
+          "why": "Close the linked readings with a station recognized only later.",
+          "shortened": [
+            "Such a one was Mary Magdalene. The greatness of her station was not known during her lifetime, but after nineteen hundred years God has made it clear that this woman was the most steadfast of all the followers of His Holiness Christ.",
+            "Now, after this long period, the station of Mary Magdalene has been revealed. Hence we must have faith that at the proper time every reality will likewise become revealed."
+          ]
         },
         {
           "key": "source:ABU0585",
-          "why": "Retain the supplied reported description without turning it into editorial biography."
+          "why": "Retain the supplied reported description without turning it into editorial biography.",
+          "shortened": [
+            "Mary the Magdalene, even an adultress, will be promoted to such a lofty station.",
+            "He officiated Mary the Magdalen the holiest of the holy souls, an angel."
+          ]
         },
         {
           "key": "source:AB06396",
-          "why": "Consider the hiddenness of an extraordinary station."
+          "why": "Consider the hiddenness of an extraordinary station.",
+          "shortened": [
+            "O faithful leaf, in the Christian Dispensation and the Messianic cycle, after the ascension of the Spirit of Being to His glorious station, all the companions and friends were scattered except for one of the handmaidens of the All-Merciful whose blessed name was Mary Magdalene - and Magdala was a humble village on the shore of Lake Tiberias.",
+            "Until now her worth and station had remained hidden - now it has become clear and evident. This paragon of beauty manifested such power that she became the pride of heroic men."
+          ]
         },
         {
           "key": "source:ABU1088",
@@ -464,12 +612,15 @@
       "id": "48B550F0BB80EEB2A03AF8999B747FFE",
       "slug": "crucifixionascension",
       "displayTitle": "The crucifixion and ascension: sacrifice and enduring life",
-      "introduction": "Prayer in the face of suffering opens a subject that reaches far beyond the circumstances of a death. These selections interpret Christ’s sacrifice through love, the transformation of character, and the enduring power of His teachings; they also distinguish spiritual ascent from movement through physical space. Mark’s account of the trial and crucifixion supplies a primary Christian narrative for comparison [1]. Its particular actors, including Pilate and Roman soldiers, are a reminder to examine responsibility carefully rather than extend blame to a whole people. The compilation brings together scriptural interpretation and reported conversations whose details and emphases sometimes differ. Read beside Mary Magdalene’s courage and the Báb’s martyrdom, it invites reflection on how the meaning of sacrifice becomes visible in the lives of those who remember it: in forgiveness, fidelity, and the relinquishing of destructive habits.",
+      "introduction": "On the night before He died, Jesus fell on His face in the dark and asked that the cup might pass from Him, and Bahá’u’lláh recalls that prayer with reverence rather than embarrassment. The crucifixion, in the Bahá’í writings, is not a transaction that bought God’s forgiveness with innocent blood; ‘Abdu’l-Bahá dismisses that picture as unjust in any king and more so in God. It is the moment a crown of thorns laid the foundation of an everlasting kingdom, a love that reached even the soldiers at the cross, and a sacrifice whose meaning is the surrender of our own animal nature so that divine virtues can take its place. The ascension that follows is spiritual, a return to the heaven Christ came from, not a journey through the sky. Mark’s narrative of trial, mockery and the final cry names particular agents, Pilate and Roman soldiers, and reading it beside these interpretations is a reminder to weigh responsibility carefully rather than lay it on a whole people [1]. Remembrance becomes fruitful only in conduct: in forgiveness, fidelity, and the refusal to retaliate. The journey continues into the person of Christ, His resurrection, and the place of suffering in a spiritual life.",
       "arc": "Begin with prayer and suffering, explore the transformation attributed to sacrifice, and move toward spiritual ascent and responsibility in remembrance.",
       "order": [
         {
           "key": "source:BH01887",
-          "why": "Open with the prayer concerning the cup of suffering."
+          "why": "Open with the prayer concerning the cup of suffering.",
+          "shortened": [
+            "He Who was Thy Spirit (Jesus), O my God, withdrew all alone in the darkness of the night preceding His last day on earth, and falling on His face to the ground besought Thee saying: \"If it be Thy will, O my Lord, my Well-Beloved, let this cup, through Thy grace and bounty, pass from me.\""
+          ]
         },
         {
           "key": "source:ABU0103",
@@ -489,11 +640,21 @@
         },
         {
           "key": "source:ABU2911",
-          "why": "Give love for all, including enemies, a central place."
+          "why": "Give love for all, including enemies, a central place.",
+          "shortened": [
+            "How can we love another whose personality is unpleasant?",
+            "See how the enemies of Christ persecuted and crucified Him, yet He loved them all."
+          ]
         },
         {
           "key": "source:ABU0619",
-          "why": "Follow love beyond the recognition available in its own time."
+          "why": "Follow love beyond the recognition available in its own time.",
+          "shortened": [
+            "The Light of Guidance was shed forth by that radiant Star, and He at length gave His life in sacrifice for humanity.",
+            "All through His blessed life He suffered oppression and hardship, and in spite of all this humanity was His enemy!",
+            "Later they realized who He was; that He was the Sacred and Divine Light, and that His words held Eternal Life.",
+            "His heart was full of love for all the world, His goodness was destined to reach each one -- and as they began to realize these things, they repented -- but He had been crucified!"
+          ]
         },
         {
           "key": "source:ABU1874",
@@ -505,11 +666,18 @@
         },
         {
           "key": "source:AB00100",
-          "why": "Read the interpretation of salvation through detachment and virtues."
+          "why": "Read the interpretation of salvation through detachment and virtues.",
+          "shortened": [
+            "This is the meaning of Christ's words that I gave My blood for the life of the world. That is, I chose to bear all these trials, afflictions and calamities, even the most great martyrdom, to attain this ultimate objective and to ensure the remission of sins--that is, the detachment of spirits from the material world and their attraction to the divine realm--that souls may arise who will be the very essence of guidance and the manifestations of the perfections of the Kingdom on high."
+          ]
         },
         {
           "key": "source:ABU1014",
-          "why": "Explore sacrifice as the overcoming of destructive qualities."
+          "why": "Explore sacrifice as the overcoming of destructive qualities.",
+          "shortened": [
+            "Just as the sheep sacrificed its life, likewise this natural state of man, which is the animalistic state, must be sacrificed. How should it be sacrificed? The vices of the animalistic state of man must be entirely annihilated, and he must be characterized with divine virtues.",
+            "This was a mystery of that higher sacrifice and when Christ came he said, I will sacrifice myself for the sake of the salvation of all. What did He mean? He meant to change their characters, and in this way make them heavenly, in this way make them God-like, spiritual and divine."
+          ]
         },
         {
           "key": "source:ABU3144",
@@ -517,7 +685,11 @@
         },
         {
           "key": "source:ABU1479",
-          "why": "Read the further reported reflection on life, teaching, and sacrifice."
+          "why": "Read the further reported reflection on life, teaching, and sacrifice.",
+          "shortened": [
+            "O Christendom! Did not Christ have to live a pure, perfect earthly life as an eternally shining example to his deluded contemporaries; did not He, the great Master, have to refresh and teach again the Revelation, the guidance of God, and imbue with the laws and ordinances of the All-Highest a generation gone astray, blind and deaf?",
+            "With His life Christ, the Holy One, proved His obedience, in His death he proved His complete sacrifice! Even you, O Baha'i friend, will be able to walk the way to the Kingdom of God only through a life of action in obedience to God's Will and through daily suffering and dying in self-sacrifice. - How much more then the Holy Heralds of God?\""
+          ]
         },
         {
           "key": "source:ABU1806",
@@ -525,7 +697,10 @@
         },
         {
           "key": "source:ABU1889",
-          "why": "Face the disciples’ fear and failure."
+          "why": "Face the disciples’ fear and failure.",
+          "shortened": [
+            "His holiness Christ after his crucifixion had only eleven disciples. One of his disciples betrayed him, another denied him thrice and the rest deserted him on the crucial night of his life. He was left all alone, friendless and helpless."
+          ]
         },
         {
           "key": "source:ABU1136",
@@ -541,11 +716,17 @@
         },
         {
           "key": "source:ABU1175",
-          "why": "Revisit the crown of thorns through the contrast with earthly rulers."
+          "why": "Revisit the crown of thorns through the contrast with earthly rulers.",
+          "shortened": [
+            "When the Lord Christ was crowned with thorns, He knew that all the diadems of the world were at His feet. All earthly crowns, however brilliant, powerful and resplendent, bowed in adoration before the crown of thorns!"
+          ]
         },
         {
           "key": "source:ABU1963",
-          "why": "Retain the companion reflection on enduring sovereignty."
+          "why": "Retain the companion reflection on enduring sovereignty.",
+          "shortened": [
+            "Remember Christ, when they placed the crown of thorns on His head. At that very moment, as the thorns wounded His brow, He looked down the vista of the centuries and beheld innumerable kings bowing their jewelled crowns low before that crown of thorns."
+          ]
         },
         {
           "key": "source:AB01866",
@@ -553,7 +734,10 @@
         },
         {
           "key": "source:AB12232",
-          "why": "Distinguish heavenly origin from a claim about spatial descent."
+          "why": "Distinguish heavenly origin from a claim about spatial descent.",
+          "shortened": [
+            "By heaven is not meant the physical heaven but the spiritual heaven. As He came from heaven, so did He return to heaven; and yet outwardly He had not come from the visible heaven but was born of Mary. But in reality He had come from the spiritual heaven, as He said: \"I came from heaven.\""
+          ]
         },
         {
           "key": "source:AB00575",
@@ -561,7 +745,10 @@
         },
         {
           "key": "source:AB09387",
-          "why": "Consider the distinction between outward injury and an unharmed spiritual reality."
+          "why": "Consider the distinction between outward injury and an unharmed spiritual reality.",
+          "shortened": [
+            "O thou whose breath is fragrant with musk! The interpretation of the dream is this: that certain souls will strive to extinguish the Fire of God that has been kindled, but through their efforts the flame will grow mightier and the penetrating power of the Word of God will increase. It will become clear and evident that Christ remained unharmed, and \"they slew him not, neither crucified him, but it appeared so unto them.\""
+          ]
         },
         {
           "key": "source:ABU1911",
@@ -569,7 +756,10 @@
         },
         {
           "key": "source:ABU0783",
-          "why": "Keep the question of peace’s still-unfulfilled promise open."
+          "why": "Keep the question of peace’s still-unfulfilled promise open.",
+          "shortened": [
+            "But when Jesus came, the oppression and cruelty were so great He was crucified. This Kingdom, wherein even the animals must live in peace, was not fulfilled in the time of Jesus, for even He was crucified."
+          ]
         },
         {
           "key": "source:ABU2092",
@@ -577,7 +767,10 @@
         },
         {
           "key": "source:AB00543",
-          "why": "Read the polemical account of opposition with attention to its historical voice."
+          "why": "Read the polemical account of opposition with attention to its historical voice.",
+          "shortened": [
+            "The people of Moses consider themselves first in obedience to Moses and practitioners of all commandments, yet they crucified the Spirit (Christ)."
+          ]
         },
         {
           "key": "source:AB01528",
@@ -585,7 +778,10 @@
         },
         {
           "key": "source:ABU1055",
-          "why": "Examine the reported appeal to nonretaliation amid accusations."
+          "why": "Examine the reported appeal to nonretaliation amid accusations.",
+          "shortened": [
+            "I said to the interpreter - \"In the days of Christ the Jews denied Him, and jeered at Him and at last crucified Him, but He said nothing, and if in these days they do the same to me, I shall say nothing.\""
+          ]
         },
         {
           "key": "source:ABU2142",
@@ -593,11 +789,18 @@
         },
         {
           "key": "source:ABU3683",
-          "why": "Close the linked readings with the reported interpretation of the final cry, available for comparison with Mark."
+          "why": "Close the linked readings with the reported interpretation of the final cry, available for comparison with Mark.",
+          "shortened": [
+            "So Christ never suffered upon the cross. From the time the crucifixion began His soul was in Heaven and He felt nothing but the Divine Presence. He did not say, speaking in Aramaic: 'O God! O God! why hast Thou forsaken me?', But this word Sabacthani is similar in sound to another which means glorify, and He actually murmured, 'O God! O God! How thou dost glorify me!"
+          ]
         },
         {
           "key": "source:ABU1363",
-          "why": "Return to the reported reflection on Gethsemane."
+          "why": "Return to the reported reflection on Gethsemane.",
+          "shortened": [
+            "When I was in America a number of Christians came to me and asked a most subtle and difficult question. It was this: 'While the apostles longed with perfect resignation and radiant acquiescence for the station of martyrdom and many of them and thousands of later converts sacrificed their lives with joy and happiness, how is it that his holiness Jesus the Christ, just before his crucifixion prayed to His Father to take away this cup from him, saying: 'The spirit is truly ready, but the flesh is weak?'",
+            "I said: The answer to your question is very simple and given in a few words: The body or the flesh was 'sorrowful and very heavy' (Math chap 26th v. 37) because it loathed to be separated from the companionship of such a divine, celestial Spirit and be returned to clay and dust. This was the secret of its weakness, sorrow and heaviness."
+          ]
         },
         {
           "key": "source:BH00791",
@@ -605,7 +808,11 @@
         },
         {
           "key": "source:ABU0454",
-          "why": "Consider the force of hostile misrecognition."
+          "why": "Consider the force of hostile misrecognition.",
+          "shortened": [
+            "Hence what injustice and inadvertence it was for those who believed in Moses as a prophet of God to apply the opprobrious term Beelzebub to His Holiness Christ.",
+            "Inadvertence so blinded the people to the light of Christ that they crucified that glorious personage who had been the cause of life to man."
+          ]
         },
         {
           "key": "source:ABU3665",
@@ -613,7 +820,10 @@
         },
         {
           "key": "source:ABU0304",
-          "why": "Revisit spiritual sovereignty through the crown of thorns."
+          "why": "Revisit spiritual sovereignty through the crown of thorns.",
+          "shortened": [
+            "\"If His Holiness Christ had not been martyred, His Cause would not have become so famous. When they placed the crown of thorns on the head of Christ, and carried Him around the streets, His Holiness Christ used to sec that all the sovereigns of the world were bowing before Him. All the crowns bowed before his crown of thorns."
+          ]
         },
         {
           "key": "source:ABU0680",
@@ -658,7 +868,7 @@
       "id": "0FDA9B7CC77849A9B4E383D68116F833",
       "slug": "abraham",
       "displayTitle": "Abraham: hospitality, exile, and the offering of the self",
-      "introduction": "Hospitality and the breaking of idols offer two entrances into the life of Abraham: an openness toward others and a freedom from what constrains the soul. These selections connect His exile with the unfolding of a far-reaching spiritual inheritance, then probe the meaning of sacrifice and the names associated with it. Genesis explicitly names Isaac and depicts the child spared [1]; the cited Qur’anic verses describe the dream and ransom without naming the son [2] [3]. The compilation’s interpretations invite attention to spiritual station and the creative power of the Word, while preserving differences among inherited accounts. Alongside the Báb’s displacement and the symbolic readings of Adam and Eve, Abraham’s story asks how loyalty can deepen into service, how family inheritance can become spiritual responsibility, and how the idols within one’s own imagination might be recognized and relinquished.",
+      "introduction": "Abraham’s life opens, in ‘Abdu’l-Bahá’s telling, through an open door and a shattered idol: a welcome extended to every guest, and a refusal to bow before anything but the one God. Banished for that refusal, Abraham found His exile turned into a paradise of delight, for from it rose Isaac and Jacob, Joseph and Moses, and in time Christ and Muhammad, the Báb and Bahá’u’lláh. Nimrod’s fire of envy consumed only his own house. The deepest mystery is the offering of a son. Genesis names Isaac and tells of the ram caught in the thicket [1]; the Qur’an recounts the dream and the son’s steadfast reply [2] and the great ransom that redeemed him [3], without giving a name. Bahá’u’lláh explains that the title of sacrifice rests on the Word of God, so that in the station of unity the two sons are as one being. From this threshold the path leads into the heritage of the Torah and the Jewish people, into the art of reading scripture with insight, and into the mystery of sacrifice within one’s own life.",
       "arc": "Enter through hospitality and freedom from idols, trace exile and inheritance, then explore sacrifice as devotion and spiritual transformation.",
       "order": [
         {
@@ -679,7 +889,10 @@
         },
         {
           "key": "source:BH00002",
-          "why": "Read Abraham’s appearance as the raising of a standard of guidance."
+          "why": "Read Abraham’s appearance as the raising of a standard of guidance.",
+          "shortened": [
+            "Later, the beauty of the countenance of the Friend of God appeared from behind the veil, and another standard of divine guidance was hoisted."
+          ]
         },
         {
           "key": "source:ABU0015",
@@ -687,7 +900,10 @@
         },
         {
           "key": "source:ABU1755",
-          "why": "Consider the future contained within apparent displacement."
+          "why": "Consider the future contained within apparent displacement.",
+          "shortened": [
+            "Consider the case of Abraham. Had He not been exiled, He would not have received that greatest blessing; neither a Jacob nor an Isaac would have risen; the fame of the beauty of Joseph would not have been spread throughout the world. He would not have become the ruler of Egypt; no Moses would have appeared; no Muhammad, the divine Messenger, would have come."
+          ]
         },
         {
           "key": "source:AB07949",
@@ -695,19 +911,32 @@
         },
         {
           "key": "source:ABU1995",
-          "why": "Compare the pattern of exile with Bahá’u’lláh’s life."
+          "why": "Compare the pattern of exile with Bahá’u’lláh’s life.",
+          "shortened": [
+            "[Regarding the many exiles of Baha'u'llah and His banishment from Iran to 'Iraq, Istanbul, Edirne and eventually to 'Akka, 'Abdu'l-Baha remarked:] Abraham's migration precipitated the manifestation and appearance of Moses, Christ, Muhammad, the Exalted One [i.e. the Bab] and Baha'u'llah."
+          ]
         },
         {
           "key": "source:BH00705",
-          "why": "Contrast mockery and outward power with the endurance of the Word."
+          "why": "Contrast mockery and outward power with the endurance of the Word.",
+          "shortened": [
+            "Then after him We sent forth the Friend (Abraham) and gave him ten scrolls from Our presence and sent him to Nimrod and his chiefs to remind them of the days of God and guide them to this clear and luminous path.",
+            "They made God's Cause an object of mockery and were not among the believers, until We destroyed Nimrod and his people and made the Friend an enduring Word from Our presence among the worlds."
+          ]
         },
         {
           "key": "source:AB08223",
-          "why": "Examine the fire that becomes a rose garden and the harm of envy."
+          "why": "Examine the fire that becomes a rose garden and the harm of envy.",
+          "shortened": [
+            "O thou who art illumined by the fire of guidance and the light of Abraham! When Nimrod the obstinate sought to destroy that Essence of being and bring him to naught, he kindled the fire of envy, and it consumed his own household and lineage and the very foundations of that denier. But for His Holiness Abraham it became a glorious rose-garden and the cause of incomparable outpourings."
+          ]
         },
         {
           "key": "source:BH04576",
-          "why": "Turn the imagery of fire and the mountain into prayer."
+          "why": "Turn the imagery of fire and the mountain into prayer.",
+          "shortened": [
+            "I beseech Thee by Thy Cause through which Thou didst manifest Thyself unto Moses on the Mount of Thy knowledge and unto Abraham in the fire of Thy love, to make me in all conditions detached from all else save Thee and holding fast unto the cord of Thy bounty."
+          ]
         },
         {
           "key": "source:BH07529",
@@ -715,11 +944,18 @@
         },
         {
           "key": "source:AB02495",
-          "why": "Read lineage in relation to guidance."
+          "why": "Read lineage in relation to guidance.",
+          "shortened": [
+            "From the noble lineage of His Holiness Abraham arose souls whose countenances illumined the horizons and whose fragrance perfumed the world. They became lamps of guidance and waves of the ocean of truth."
+          ]
         },
         {
           "key": "source:AB04760",
-          "why": "Consider the spiritual responsibility of a family inheritance."
+          "why": "Consider the spiritual responsibility of a family inheritance.",
+          "shortened": [
+            "O family of His Holiness the Illustrious Abraham! Give praise that in this wondrous Dispensation you have become verses of guidance and manifestations of the bounty of the Abha Beauty. You have become birds in the rose garden of divine unity and hosts in the field of sanctification, confirmed by the grace of the Lord of Hosts.",
+            "This is the gift of God, this is the grace of the All-Merciful, this is the divine promise to His Holiness Abraham, peace be upon him."
+          ]
         },
         {
           "key": "source:BH04654",
@@ -735,11 +971,19 @@
         },
         {
           "key": "source:BH00091",
-          "why": "Read the extended interpretation of sacrifice, naming, and spiritual station."
+          "why": "Read the extended interpretation of sacrifice, naming, and spiritual station.",
+          "shortened": [
+            "Consider how all people who lived in the past affirmed that Isaac was the sacrifice, and likewise the followers of the Qur'an have affirmed this station for Ishmael, even though it is clear and evident to every person of insight and understanding that, outwardly, no sacrifice actually took place, and by universal agreement, it was an animal that was sacrificed.",
+            "Now ponder what is the cause and reason that one who went to the altar of the Friend and was not sacrificed was honored with the mantle of being God's sacrifice and attained the ornament of divine acceptance. There is no doubt that it was through the Word of God that he attained this station and was honored with this most great bestowal."
+          ]
         },
         {
           "key": "source:AB09967",
-          "why": "Consider the different names used in the inherited accounts."
+          "why": "Consider the different names used in the inherited accounts.",
+          "shortened": [
+            "O thou who art sacrificed in the path of love!",
+            "According to the belief of the followers of the Qur'an, His Holiness Ishmael, or according to the explicit texts of the Torah, His Holiness Isaac, hastened to the altar of sacrifice with the utmost joy, dancing and leaping."
+          ]
         },
         {
           "key": "source:BB00243",
@@ -747,15 +991,24 @@
         },
         {
           "key": "source:BBU0007",
-          "why": "Read the devotional language of offering in the context of bereavement."
+          "why": "Read the devotional language of offering in the context of bereavement.",
+          "shortened": [
+            "O God, my God! Would that a thousand Ishmaels were given Me, this Abraham of Thine, that I might have offered them, each and all, as a loving sacrifice unto Thee."
+          ]
         },
         {
           "key": "source:AB09372",
-          "why": "Turn sacrifice toward the offering of one’s own life in devotion."
+          "why": "Turn sacrifice toward the offering of one’s own life in devotion.",
+          "shortened": [
+            "Therefore, O thou who seekest to behold the countenance of the Chosen Beauty, become as Abraham, the Friend of God in his sacrifice, and freely give thy life like Ishmael, that thou mayest find the gates of bounty opened from every direction and behold the favors of the King of Oneness like a brilliant light."
+          ]
         },
         {
           "key": "source:AB04958",
-          "why": "Explore Abraham’s request for increased understanding."
+          "why": "Explore Abraham’s request for increased understanding.",
+          "shortened": [
+            "Thus when his holiness Abraham, the Friend of God, was eager to attain the infinite perfections of the All Merciful One, He, therefore, sought the increased realization of all Lordly conditions. In particular, He sought the raising of the dead."
+          ]
         },
         {
           "key": "source:ABU2649",
@@ -767,19 +1020,33 @@
         },
         {
           "key": "source:AB00556",
-          "why": "Return to monotheism amid family opposition."
+          "why": "Return to monotheism amid family opposition.",
+          "shortened": [
+            "Among those who possessed this divine power and were assisted by it was Abraham. The proof is this: Abraham was born in Mesopotamia of a family that was ignorant of the oneness of God; He opposed His own people and government, and even His own kin; He rejected all their gods; and, alone and single-handed, He withstood a powerful nation."
+          ]
         },
         {
           "key": "source:ABU0983",
-          "why": "Revisit exile and the promise of flourishing lands."
+          "why": "Revisit exile and the promise of flourishing lands.",
+          "shortened": [
+            "When Abraham was exiled from His home, God spoke to Him, \"Do not be sad. I will give You the choicest land in the entire world.\"",
+            "The Holy Land is the center of light and the dawning place of revelation and the birthplace of Christ, where Moses, Muhammad and Baha'u'llah came.",
+            "There are rivers in this part of the world, like the River Jordan and al-'Asi."
+          ]
         },
         {
           "key": "source:AB01183",
-          "why": "Retain the supplied fragment concerning the joy of exile."
+          "why": "Retain the supplied fragment concerning the joy of exile.",
+          "shortened": [
+            "It hath ever been thus: Abraham departed from His native land, but His departure became the cause of joy. Moses was sent far from His homeland, but that exile led Him to behold the Fire upon Sinai."
+          ]
         },
         {
           "key": "source:BH09671",
-          "why": "Consider the enduring remembrance of descendants."
+          "why": "Consider the enduring remembrance of descendants.",
+          "shortened": [
+            "Praise be to God that thou hast attained and hast been illumined with the lights of the Word of Divine Unity. The children of the Friend and the heirs of Him Who conversed with God are mentioned in the presence of the Wronged One."
+          ]
         },
         {
           "key": "source:ABU3542",
@@ -795,23 +1062,38 @@
         },
         {
           "key": "source:BH02254",
-          "why": "Place the parallel account beside it without merging their wording."
+          "why": "Place the parallel account beside it without merging their wording.",
+          "shortened": [
+            "When the fire of Nimrod's tyranny was aflame and the decree to burn the temple of the Friend of that time - may our soul be a sacrifice for Him - issued forth from that dayspring of misbelief, there appeared from His Holiness that whose fragrance shall never cease from the worlds of inner meanings, utterance, wisdom and knowledge. When they suspended Him in the fire, Gabriel, by God's command, came to Him and asked: \"Hast thou any need?\" He replied: \"No, not of thee.\""
+          ]
         },
         {
           "key": "source:BH02037",
-          "why": "Examine the warning that an appearance of piety may deceive."
+          "why": "Examine the warning that an appearance of piety may deceive.",
+          "shortened": [
+            "Know thou that when Ishmael, son of the Friend of the All-Merciful, desired to set foot in the wilderness of love that he might reach the Sinai of divine nearness - which is the station of complete sacrifice - at the moment he intended to proceed to his destination, he observed one adorned in the garments of knowledge and piety. This person drew near to Dhabih and, with utmost cunning, sought to prevent him from the places of divine destiny and to turn him aside from that which he had intended. When that Luminary of the horizons caught the odor of hypocrisy from him, he informed the Friend of the All-Merciful, who said: \"O son, pay no heed to him for this is Satan. Beware of his deception and take refuge in the protection of the King of Grandeur. Choose thy dwelling in the secure abode which is the precinct of divine protection.\" When that lover of the Beauty of the All-Glorious heard the melody of the Friend of the All-Merciful, he drove him away and took refuge in God's protection."
+          ]
         },
         {
           "key": "source:AB04778",
-          "why": "Read the child’s steadfastness and the substitute offering."
+          "why": "Read the child’s steadfastness and the substitute offering.",
+          "shortened": [
+            "O namesake of God's Sacrifice! Your namesake in the field of sacrifice proclaimed \"O my father! Do what thou art commanded. Thou wilt find me, if God so willeth, of the steadfast,\" and attained unto \"We ransomed him with a mighty sacrifice.\""
+          ]
         },
         {
           "key": "source:AB01297",
-          "why": "Retain the wider series of questions about prophetic experience."
+          "why": "Retain the wider series of questions about prophetic experience.",
+          "shortened": [
+            "If this banishment from the homeland had not occurred, how would Abraham have become that illustrious personage? How would the Holy Land have become the footstool of that manifest light? How would the blessed spot have become the inheritance of Israel? How would the progeny of Ishmael have come into being? By what means would Joseph of Canaan have risen from the depths of the well to the heights of the moon? How would Moses have beheld the burning fire in the tree on Sinai? How would He have been sent forth with the manifest serpent and the white hand? How would the people of Israel have become dominant over Judea, Palestine and Galilee? From where would the carpet of Solomon have been spread? Where would the kingdom of David have been established?"
+          ]
         },
         {
           "key": "source:AB01264",
-          "why": "End with the interpretation of spiritual sacrifice and the coexistence of the two names."
+          "why": "End with the interpretation of spiritual sacrifice and the coexistence of the two names.",
+          "shortened": [
+            "Furthermore, in the station of unity, Ishmael and Isaac have the status of one being - the title of each may be applied to the other. However in the Torah Isaac is mentioned, and likewise in the traditions of His Holiness the Messenger there is mention of Isaac and also mention of Ishmael - both of them. This servant mentioned Ishmael according to the convention of the people, since on the tongues and lips of the people of the Furqan [Quran] Ishmael is mentioned, therefore correspondingly in the course of the exposition each of the loved ones of God who are named Ishmael were guided to this most glorious and exalted station."
+          ]
         }
       ],
       "questions": [
@@ -862,7 +1144,7 @@
       "id": "6B2378895BCC48AEB5D0E7EA6B70D626",
       "slug": "adameve",
       "displayTitle": "Adam and Eve: reading the garden within",
-      "introduction": "A garden, a tree, a prohibition, and an awakening become a language for questions that reach into every human life. These selections read Adam and Eve through several symbolic approaches: spirit and self, giving and receiving, the education of humanity, and the capacity to receive a new revelation. Genesis supplies the narrative to which these interpretations respond, distinguishing the tree of life from the tree of the knowledge of good and evil [1]. Its imagery invites close reading before comparison with later meanings. The collection’s explicit affirmation that spirit transcends sex also guards against treating symbolic roles as a judgment on the worth of women or men. Beside Abraham’s sacrifice and the subject of spiritual capacity, this compilation asks how sacred stories can disclose inward realities while readers remain attentive to differences of interpretation, historical setting, and the authority of their sources.",
+      "introduction": "A garden, a tree, a prohibition, a serpent, and two people who discover they are naked: the story in Genesis is short, and it distinguishes carefully between the tree of life and the tree of the knowledge of good and evil [1]. ‘Abdu’l-Bahá says its details are symbols holding meanings no calendar can measure, and He offers several at once. Adam may be the spirit and Eve his self; the tree may be the maturity of God’s Cause, which Adam desired in an age that could no more digest it than a nursing infant can eat solid food; the forbidden fruit may be the desires that still shut each of us out of the paradise of the soul. Bahá’u’lláh reads the prohibition as a fact of growth rather than a rule, like the impossibility of an embryo being an adult. Masculine and feminine, He adds, belong to bodies, and the spirit is free of both. The garden opens onto the Torah and the Jewish people, original sin, and the question of how the Bible is to be interpreted.",
       "arc": "Begin with the garden as a question of meaning, explore capacity and spiritual development, and conclude with forgiveness and the equality of human souls.",
       "order": [
         {
@@ -871,11 +1153,18 @@
         },
         {
           "key": "source:AB00134",
-          "why": "Study the sustained interpretation of the tree, soul, and stages of revelation."
+          "why": "Study the sustained interpretation of the tree, soul, and stages of revelation.",
+          "shortened": [
+            "As regards the story of Adam, peace be upon him, its outward meaning is not what is intended, but rather its inner significances. The tree is none other than the Tree of Life, firmly rooted, with branches extending to the vault of heaven, ever-bearing fruit and breaking the fast of every spiritual wayfarer. The prohibition given to Adam was not a legislative or prescriptive prohibition, but rather an existential one - like the prevention of an embryo from assuming the conditions of a mature adult.",
+            "Eve represents Adam's own soul."
+          ]
         },
         {
           "key": "source:AB00038",
-          "why": "Introduce the image of food suited to a stage of growth."
+          "why": "Introduce the image of food suited to a stage of growth.",
+          "shortened": [
+            "Adam desired that the Law of God reach its ultimate degree of maturity, but this was not possible, for the maturity and growth of God's Cause was dependent and conditional upon the Blessed Promised Day. For example, an infant at nursing cannot possibly manifest all human perfections nor partake of delicious foods, but must be content with milk until reaching maturity when human perfections become manifest and evident in him."
+          ]
         },
         {
           "key": "source:AB04692",
@@ -891,11 +1180,17 @@
         },
         {
           "key": "source:ABU1184",
-          "why": "Consider the receptivity of those who hear a teaching."
+          "why": "Consider the receptivity of those who hear a teaching.",
+          "shortened": [
+            "Suppose a mirror represents the prophets, and the sun represents God, and the sun's rays the Holy Spirit. The mirror of Adam was dull, for the people of the world were not sufficiently advanced at that time to receive more light than the mirror of Adam sent forth, therefore God reflected the light upon a dull glass."
+          ]
         },
         {
           "key": "source:AB08363",
-          "why": "Read the covenant and tree in relation to the capacities of a cycle."
+          "why": "Read the covenant and tree in relation to the capacities of a cycle.",
+          "shortened": [
+            "God took a covenant from Adam, peace be upon him, that neither he nor his wife should approach the Tree, saying \"Draw not nigh unto this Tree.\" The Tree is the Tree of Life, the Supreme Horizon, the Divine Lote-Tree, the Tree of Blessedness, and the Furthermost Sanctuary -- the station of Universal Reality, the Divine Essence, the Single Identity, and the Perfect Manifestation, which is distinguished by the mystery of existence and the Praiseworthy Light. Adam desired to manifest the Primary Effulgence, the Hidden Secret, and the Preserved and Guarded Symbol during his cycle and dispensation -- that is, in its complete revelation and manifestation -- but this was not possible...."
+          ]
         },
         {
           "key": "source:ABU2063",
@@ -903,7 +1198,10 @@
         },
         {
           "key": "source:ABU2403",
-          "why": "Retain the image of the fruits of wrongdoing."
+          "why": "Retain the image of the fruits of wrongdoing.",
+          "shortened": [
+            "Sin is the state of man in the world of the baser nature, for in nature exist defects such as injustice, tyranny, hatred, hostility, strife: these are characteristics of the lower plane of nature. These are the sins of the world, the fruits of the tree from which Adam did eat."
+          ]
         },
         {
           "key": "source:BB00354",
@@ -915,11 +1213,17 @@
         },
         {
           "key": "source:BH07826",
-          "why": "Attend to the knowledge of names."
+          "why": "Attend to the knowledge of names.",
+          "shortened": [
+            "Be thou in such wise that the veils of the world withhold thee not, nor the doubts of the nations prevent thee from this noble prospect. Thus doth He teach thee Who taught Adam all the names."
+          ]
         },
         {
           "key": "source:BB00098",
-          "why": "Consider the limits of a created station despite its knowledge."
+          "why": "Consider the limits of a created station despite its knowledge.",
+          "shortened": [
+            "God taught Adam the names of all beneath his station, and this Adam, our father Adam, is a thousand thousand Adams removed from the First Adam, yet he cannot know the names of the Imams, for even Jesus, noblest of prophets, admitted this, as God relates his words: \"I know not what is in Thy Self.\" What is related in traditions that God taught Adam the names of the Five for his repentance - Muhammad, Ali, Fatima, Hasan and Husayn - such that none calls upon God through them but God must answer, that knowledge was at Adam's station, and nothing surpasses its source."
+          ]
         },
         {
           "key": "source:BB00005",
@@ -943,7 +1247,10 @@
         },
         {
           "key": "source:AB10306",
-          "why": "Read the analogy involving Adam’s origin and the birth of Christ."
+          "why": "Read the analogy involving Adam’s origin and the birth of Christ.",
+          "shortened": [
+            "O maid-servant of God, the example of His Holiness Christ is similar to His Holiness Adam.  Did the first man who was created in the world have a father and mother?  Certainly, he had no father nor mother, and thus Jesus was without father."
+          ]
         },
         {
           "key": "source:ABU1419",
@@ -955,7 +1262,10 @@
         },
         {
           "key": "source:AB00920",
-          "why": "Read the cited images of pairing in their interpretive setting."
+          "why": "Read the cited images of pairing in their interpretive setting.",
+          "shortened": [
+            "For this pairing of male and female exists in all the animals and plants. They even argue that the Qur'an itself affirms this pairing of all things: \"Glory be to Him Who hath created all the pairs, of such things as earth produceth, and out of men themselves, and of things beyond their ken\"; that is, man, animals, and plants are all found in pairs. \"And of everything have We created two kinds\"; that is, We have created all things in pairs."
+          ]
         },
         {
           "key": "source:ABU0040",
@@ -971,11 +1281,18 @@
         },
         {
           "key": "source:AB01218",
-          "why": "Revisit dust, breath, and life."
+          "why": "Revisit dust, breath, and life.",
+          "shortened": [
+            "It is said in the Old Testament, \"And the Lord God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul.\" Observe that Adam is said to have come into being from the spirit of life. Moreover, John's utterance in regard to the Apostles proves that they also proceeded from the heavenly Father."
+          ]
         },
         {
           "key": "source:AB03015",
-          "why": "Keep the reported account of successive Adams distinct from established chronology. End with spirit transcending distinctions of male and female."
+          "why": "Keep the reported account of successive Adams distinct from established chronology. End with spirit transcending distinctions of male and female.",
+          "shortened": [
+            "Know thou that masculine and feminine are characteristics of physical bodies and have no connection with the spirit. The spirit and its realm are sanctified from such conditions and are free from every description that applies to bodies in the contingent world.",
+            "Without doubt, the beginning of this spiritual creation was the Manifestation itself in every age and cycle, for each Manifestation of Truth is Adam, and the first to believe in Him is Eve, and all souls who are born with the second spiritual birth are their children and descendants."
+          ]
         },
         {
           "key": "source:ABU2748",
@@ -995,7 +1312,11 @@
         },
         {
           "key": "source:BB00022",
-          "why": "Read the provisional translation’s symbolism of will, purpose, matter, and form."
+          "why": "Read the provisional translation’s symbolism of will, purpose, matter, and form.",
+          "shortened": [
+            "The Kaf is the rank of the Primal Will, and the Nun is the rank of Purpose, and the Primal Will is the father of all things and Purpose their mother.",
+            "Through the Kaf God created the substance of things and the sign of His uniqueness and the temple of His oneness, indicating God alone, and it is the highest consciousness in contingency wherein God alone is known, and it is called the heart. Through the Nun God created things from the beginning of inclination toward Himself to the uttermost multiplicity, from infinity unto infinity."
+          ]
         },
         {
           "key": "source:ABU2647",

@@ -5,7 +5,7 @@
       "id": "F97B3874575041F7B031336C8EEF15B5",
       "slug": "mind",
       "displayTitle": "The mind: a light for discovery and understanding",
-      "introduction": "A power that cannot itself be seen makes the visible world intelligible. These selections explore that paradox through reasoning, discovery, imagination, and the capacity to recognize realities such as love and wisdom. Mind appears as a light of the spirit, an instrument of inquiry, and a force that can bring people together; the readings also consider its development and relation to bodily life. Aristotle’s inquiry into how the mind receives the forms of things offers a neighboring philosophical question rather than an identical account of the soul [1]. Read beside dreams and the limits of thought about divine attributes, the compilation invites both confidence in reason and attention to its scope. Its varied formulations reward comparison: a metaphor, a philosophical definition, and a reported conversation need not use the same vocabulary in precisely the same way.",
+      "introduction": "The reality of a human being, ‘Abdu’l-Bahá says, is thought, not the material body, and yet thought is the one thing about us that no sense can reach. It cannot be seen, heard or touched, but it is what makes the visible world intelligible: it infers the unknown from the known, recognizes love and wisdom as realities, and discovers the hidden laws of nature until a creature weaker than the elephant becomes nature’s master. Aristotle, asking how the mind can receive the form of a thing without becoming it, was circling a neighbouring puzzle, though not the same account of soul and spirit [1]. Reason is called a throne, a lamp, a mirror that still needs the sun; the mind can grow strong and fail with the body while the soul whose ray it is does not change. The same ideal power that explores the sciences also binds hearts together and brings East and West into one room. Following it further leads to the mind as intermediary between soul and body, to the soul as the essential reality of man, and to the high station of learning.",
       "arc": "Begin with the invisible power of thought, explore reasoning and discovery, then consider its social purpose, bodily expression, and relation to the soul.",
       "order": [
         {
@@ -18,11 +18,17 @@
         },
         {
           "key": "source:AB00460",
-          "why": "Connect the rational faculty with the human spirit."
+          "why": "Connect the rational faculty with the human spirit.",
+          "shortened": [
+            "The human spirit consists of the rational, or logical, reasoning faculty, which apprehends general ideas and things intelligible and perceptible."
+          ]
         },
         {
           "key": "source:ABU1093",
-          "why": "Distinguish reasoning from the five senses."
+          "why": "Distinguish reasoning from the five senses.",
+          "shortened": [
+            "Reason is a monarch over the body and the five senses. Reason does not belong to the category of the senses. It is a faculty superior to them. Animals have the five senses but they do not have the reasoning or intellectual faculty as fully developed in man."
+          ]
         },
         {
           "key": "source:ABU1881",
@@ -46,11 +52,17 @@
         },
         {
           "key": "source:ABU0016",
-          "why": "Place reasoning within the language of divine bestowal."
+          "why": "Place reasoning within the language of divine bestowal.",
+          "shortened": [
+            "Man is endowed with superior reasoning power and the faculty of perception; he is the manifestation of divine bestowals."
+          ]
         },
         {
           "key": "source:ABU0506",
-          "why": "Read the special place assigned to intellect among bodily powers."
+          "why": "Read the special place assigned to intellect among bodily powers.",
+          "shortened": [
+            "All of man's body is body, all are parts of the body, the hands, the head, the feet, etc., but God has chosen and specified the mind of man, and so the power of intellect in the mind of man has made it to be peculiar."
+          ]
         },
         {
           "key": "source:ABU3609",
@@ -58,7 +70,10 @@
         },
         {
           "key": "source:ABU0163",
-          "why": "Turn from individual discovery to the formation of human bonds."
+          "why": "Turn from individual discovery to the formation of human bonds.",
+          "shortened": [
+            "Consider what power has brought us together in this meeting - the East and the West. It is evident that this is not through the material power - It is the Ideal power which brings us to-gether. It is the ideal power which establishes a bond between hearts - it's the Ideal power which makes us kinder to each other. It is the Ideal power that brings nations to-gether."
+          ]
         },
         {
           "key": "source:ABU1902",
@@ -66,7 +81,10 @@
         },
         {
           "key": "source:AB00305",
-          "why": "Read the practical appeal to protect understanding from intoxication."
+          "why": "Read the practical appeal to protect understanding from intoxication.",
+          "shortened": [
+            "O handmaiden of God, Brittingham! Reason and understanding are gifts from the bestowals of God by which man is distinguished from other animals. Would any person of intelligence consent to extinguish this light with the darkness of intoxication? No, by God! His heart would never be content with that. Rather, he would pursue that which increases reason and understanding, not bewilderment and heedlessness and oblivion."
+          ]
         },
         {
           "key": "source:ABU2421",
@@ -78,11 +96,17 @@
         },
         {
           "key": "source:ABU0586",
-          "why": "Compare the vocabulary of this report with the later lamp-and-light account."
+          "why": "Compare the vocabulary of this report with the later lamp-and-light account.",
+          "shortened": [
+            "This is the power of the mind, for the soul is not, of itself, capable of unrolling the mysteries of phenomena; but the mind can accomplish this and therefore it is a power superior to the soul."
+          ]
         },
         {
           "key": "source:ABU0054",
-          "why": "Complete the linked readings with the claim of spiritual progress."
+          "why": "Complete the linked readings with the claim of spiritual progress.",
+          "shortened": [
+            "The intelligence of man, his reasoning powers, his knowledge, his scientific achievements, all these being manifestations of the spirit, partake of the inevitable law of spiritual progress and are, therefore, of necessity, immortal."
+          ]
         },
         {
           "key": "source:AB02018",
@@ -90,7 +114,11 @@
         },
         {
           "key": "source:AB00020",
-          "why": "Develop the sun-and-rays metaphor for mental faculties. Consider the distinction between bodily manifestation and the soul."
+          "why": "Develop the sun-and-rays metaphor for mental faculties. Consider the distinction between bodily manifestation and the soul.",
+          "shortened": [
+            "Now concerning mental faculties, they are in truth of the inherent properties of the soul, even as the radiation of light is the essential property of the sun. The rays of the sun are renewed but the sun itself is ever the same and unchanged. Consider how the human intellect develops and weakens, and may at times come to naught, whereas the soul changeth not. For the mind to manifest itself, the human body must be whole; and a sound mind cannot be but in a sound body, whereas the soul dependeth not upon the body.",
+            "The temple of man is like unto a mirror, his soul is as the sun, and his mental faculties even as the rays that emanate from that source of light."
+          ]
         },
         {
           "key": "source:AB00722",
@@ -162,12 +190,16 @@
       "id": "3B57EEE27265EC0B9258A2C095E271E7",
       "slug": "dreams",
       "displayTitle": "Dreams and visions: images that invite reflection",
-      "introduction": "A vision of paradise beneath a tree of unity and mercy provides an inviting entrance into this varied collection. Dreams here carry memories of loved ones, images of spiritual renewal, anxieties about danger, and calls to service; some are narrated directly, while others reach us through reported conversations. Their power lies partly in how familiar places and objects become vehicles of unfamiliar meaning. In Genesis, Joseph’s interpretation of Pharaoh’s dreams leads to a practical proposal to protect a population from famine [1]. Read beside the subjects of mind and spiritual return, these accounts invite reflection on symbolism, consolation, and responsibility. They also call for discernment: the meanings attributed to particular experiences in these sources do not supply a general rule for predicting events from anyone’s dreams.",
+      "introduction": "In a dream Bahá’u’lláh stands before Muhammad and hears Him say that where He once placed paradise beneath the shadow of swords, He would now place it beneath the shade of the Tree of Unity and Mercy; on waking, the joy cannot be described. Dreams in this subject carry that kind of freight. A departed friend returns stout and radiant from countries where the air was sweet, saying he has spent his time teaching the Faith; two stars hang over a river where a House of Worship will one day stand; a call to prayer is raised in a crowded mosque and the multitude is left to chant for itself; cannon fire in ‘Akká scatters red birds that harm no one, and the Pashas arrive next day. Familiar rooms, streets and instruments become vehicles of unfamiliar meaning, and ‘Abdu’l-Bahá wakes exhausted from trying to gather American believers who keep wandering off playing their separate tunes. Joseph before Pharaoh shows an interpretation turning into a plan to feed a people through famine [1]. These accounts invite wonder without licensing anyone to predict the future from their own sleep, and they lead into the interpretation of dreams and visions, their importance in the spiritual life, and the wider treasury of stories and anecdotes.",
       "arc": "Begin with unity and mercy, move through guidance, reunion, and service, then read the unsettling and ordinary dream reports before closing with the challenge of harmony.",
       "order": [
         {
           "key": "source:BH00324",
-          "why": "Open with the memorable transformation of the image of paradise."
+          "why": "Open with the memorable transformation of the image of paradise.",
+          "shortened": [
+            "At one time in the world of dreams, I attained the presence of the Messenger of God [Muhammad] - may the spirit of all else be sacrificed for Him. Words were revealed from that Dawning-Place of the Divine Book, and utterances shone forth from that Ocean of Divine Wisdom. During His utterance He said: \"Formerly I declared 'Paradise is beneath the shadow of swords,' but in these days were I manifest I would say 'Paradise is beneath the shade of the Tree of Unity and Mercy.'\"",
+            "When I arose from sleep, for a time I found myself in such joy as cannot be described."
+          ]
         },
         {
           "key": "source:AB09324",
@@ -175,7 +207,10 @@
         },
         {
           "key": "source:BH11679",
-          "why": "Read the movement from encounter to a call to teach."
+          "why": "Read the movement from encounter to a call to teach.",
+          "shortened": [
+            "I saw thee standing before Me, with a radiant countenance, gazing upon thy Lord. The Face of God turned toward thee and magnified thee. Then there flowed from the mouth of thy Lord, the All-Merciful, the Kawthar of inner meanings and utterance, in such measure as none in all the worlds could reckon. And at the end of the discourse, We commanded thee, from the presence of the Lord of Lords, to convey His Cause among His creatures."
+          ]
         },
         {
           "key": "source:AB05426",
@@ -183,7 +218,10 @@
         },
         {
           "key": "source:AB02803",
-          "why": "Consider an explicitly symbolic interpretation of visible forms."
+          "why": "Consider an explicitly symbolic interpretation of visible forms.",
+          "shortened": [
+            "Regarding the star which appeareth while thou art turned unto God: This is the spiritual disclosure and the divine impression. Also the fire circle which appeareth to thine eyes, is a spiritual transfiguration and [signifieth] the Eternal Grace manifesting itself in the human garment; because \"cloud\" signifies the human form (or body), while the \"circle of fire,\" the divine form, which is manifested in the reality of man."
+          ]
         },
         {
           "key": "source:AB04067",
@@ -199,7 +237,10 @@
         },
         {
           "key": "source:ABU0919",
-          "why": "Preserve the parallel reported account of that encounter."
+          "why": "Preserve the parallel reported account of that encounter.",
+          "shortened": [
+            "Last night in the realm of dreams I beheld His Honor Mulla 'Ali-Akbar. His frame was robust, but in the dream I saw him even more robust and corpulent. In the dream, it was as if he had been on a journey. I said to him, \"Your honor, you have grown quite stout.\" He replied, \"Praise be to God, I have traveled to places where the air was supremely gentle, the water exceedingly sweet, the vistas perfectly delightful, and the food most delectable."
+          ]
         },
         {
           "key": "source:ABU0672",
@@ -219,7 +260,10 @@
         },
         {
           "key": "source:ABU1336",
-          "why": "Follow the return to a remembered house and the effect of its discourse."
+          "why": "Follow the return to a remembered house and the effect of its discourse.",
+          "shortened": [
+            "In one of the dreams I saw myself in Bagdad living in the same house that we used to live. With a number of believers we were standing in His holy Presence and He was in the course of delivering a talk on the spiritual station of the Manifestations of God. Meanwhile people came in, listened to His Words, were thrilled with joyousness and went out with the Light of God in their faces."
+          ]
         },
         {
           "key": "source:ABU3363",
@@ -239,23 +283,38 @@
         },
         {
           "key": "source:BHU0004",
-          "why": "Set the image of flight beside the circumstances of imprisonment."
+          "why": "Set the image of flight beside the circumstances of imprisonment.",
+          "shortened": [
+            "We were awakened one night, ere break of day, by Mirza Abdu'l-Vahhab-i-Shirazi, who was bound with Us to the same chains. He had left Kazimayn and followed Us to Tihran, where he was arrested and thrown into prison. He asked Us whether We were awake, and proceeded to relate to Us his dream. 'I have this night,' he said, 'been soaring into a space of infinite vastness and beauty. I seemed to be uplifted on wings that carried me wherever I desired to go. A feeling of rapturous delight filled my soul. I flew in the midst of that immensity with a swiftness and ease that I cannot describe.'"
+          ]
         },
         {
           "key": "source:ABU2513",
-          "why": "Preserve the reported vision of a Qur’ánic passage and a ruler."
+          "why": "Preserve the reported vision of a Qur’ánic passage and a ruler.",
+          "shortened": [
+            "One of the Babis had a vision in which he saw a passage from the Qur'an written in English upon an arch beneath which sat the Shah."
+          ]
         },
         {
           "key": "source:ABU1307",
-          "why": "Read the dream set within the memory of Karbilá."
+          "why": "Read the dream set within the memory of Karbilá.",
+          "shortened": [
+            "One night he dreamed he was on the plain of Karbila in the company of the Lord of Martyrs on that field of tribulation, and all the companions and followers were in danger while the opposing forces were attacking and ready for battle."
+          ]
         },
         {
           "key": "source:ABU1090",
-          "why": "Attend to the distressing image of a mother’s remaining son."
+          "why": "Attend to the distressing image of a mother’s remaining son.",
+          "shortened": [
+            "She dreamed a dream, and behold, she saw her seventh son, the only one left. He was being brought to her with a dagger in his heart."
+          ]
         },
         {
           "key": "source:BB00605",
-          "why": "Read the Báb’s visionary account in its devotional language."
+          "why": "Read the Báb’s visionary account in its devotional language.",
+          "shortened": [
+            "In My vision I saw the head of the Imam Husayn, the Siyyidu'sh-Shuhada', which was hanging upon a tree. Drops of blood dripped profusely from His lacerated throat. With feelings of unsurpassed delight, I approached that tree and, stretching forth My hands, gathered a few drops of that sacred blood, and drank them devoutly."
+          ]
         },
         {
           "key": "source:AB01308",
@@ -271,11 +330,17 @@
         },
         {
           "key": "source:BB00240",
-          "why": "Preserve the shorter account of the Holy Land in particles."
+          "why": "Preserve the shorter account of the Holy Land in particles.",
+          "shortened": [
+            "O God, Thou knowest that on the day I desired to compose this book, I saw in a night vision that the Holy Land was reduced to atoms and was lifted into the air, then all of it came toward my house and became established."
+          ]
         },
         {
           "key": "source:ABU1964",
-          "why": "Consider the retrospective account of a dream associated with bereavement."
+          "why": "Consider the retrospective account of a dream associated with bereavement.",
+          "shortened": [
+            "One night when he was away from home he had had an alarming dream of his little daughter.  She had come to him, sat on his knee and complained that her head ached.  Rapidly she grew worse.  They sent for the doctor.  The father knew in his dream that she was hopelessly ill and felt the most acute anguish.  Then he saw her die."
+          ]
         },
         {
           "key": "source:ABU3063",
@@ -327,12 +392,15 @@
       "id": "B22DAF556BE4E92527A7407F3DDC5630",
       "slug": "reincarnation",
       "displayTitle": "Reincarnation and return: identity, renewal, and the soul’s journey",
-      "introduction": "The image of many worlds beyond this one shifts the question from whether we return to where spiritual growth may lead. These selections reject the return of the same soul in another earthly body while distinguishing it from the reappearance of qualities, perfections, and religious illumination. A recurring spring can resemble an earlier spring without being the same individual event. The Bhagavad-gītā’s image of the embodied self taking new bodies as a person changes garments offers a substantive difference for comparison [1]. Read with the subjects of mind and eternal archetypes, the compilation invites careful thought about what remains continuous through change. Its accounts of other traditions express the perspectives of the supplied sources, rather than a comprehensive survey; the counsel to discuss the subject tolerantly is therefore an essential companion to its firm theological position.",
+      "introduction": "Why would you wish to come back here, ‘Abdu’l-Bahá asks, when the Father’s house has many mansions, many worlds? The question moves the subject from whether we return to where growth might lead. The teaching is firm: the same soul does not take another earthly body, and a shell once opened has shown whether it held a pearl, a plant once grown has shown flowers or thorns. What does return is quality and illumination, as spring follows spring, the same yet not the same, and as John the Baptist came in the spirit of Elijah without being Elijah. The Bhagavad-gītā’s image of the embodied self changing bodies as a person changes worn garments [1] states a genuinely different view of personal continuity, and it deserves to be read in its own words rather than through a critic’s summary. ‘Abdu’l-Bahá asks that the matter be discussed tolerantly and admits it would take a book to explain; no butterfly goes back into the chrysalis, he says, and what we sow here we reap on the next plane. The path leads on to the nature of the soul, the condition of the spirit after death, the cycles of the physical and spiritual worlds, and the line between faith and superstition.",
       "arc": "Open a wider horizon for the soul, establish a patient approach to disagreement, distinguish returning qualities from returning identities, and examine the competing accounts of growth and justice.",
       "order": [
         {
           "key": "source:ABU3526",
-          "why": "Open with the invitation to imagine many worlds beyond this planet."
+          "why": "Open with the invitation to imagine many worlds beyond this planet.",
+          "shortened": [
+            "\"Why should you wish to return here? In My Father's House are many mansions -- many, many worlds! Why should you desire to come back to this particular planet?\""
+          ]
         },
         {
           "key": "source:AB04080",
@@ -352,7 +420,10 @@
         },
         {
           "key": "source:ABU0343",
-          "why": "Make that distinction tangible through the returning seasons."
+          "why": "Make that distinction tangible through the returning seasons.",
+          "shortened": [
+            "Similar types recur again and again, but without a continuing individual life from one human being to another. This recurrence may be likened to that of the seasons. Spring, summer, autumn, and winter return in succession, each season the counterpart of the like season in the previous year-the same yet not the same."
+          ]
         },
         {
           "key": "source:ABU1969",
@@ -364,7 +435,10 @@
         },
         {
           "key": "source:ABU1184",
-          "why": "Explore the distinction through the account of John and Elijah."
+          "why": "Explore the distinction through the account of John and Elijah.",
+          "shortened": [
+            "When John the Baptist was asked: \"Art thou Elias?\" he replied, \"No.\" His soul was not the soul of Elias. When Christ was asked if John the Baptist was Elias, He said, \"Yes.\" But Christ's meaning was a spiritual one. John the Baptist came in the same Spirit of God, but was not the same soul."
+          ]
         },
         {
           "key": "source:AB01073",
@@ -380,15 +454,25 @@
         },
         {
           "key": "source:AB00036",
-          "why": "Examine the classifications of reincarnation supplied by this source. Examine the images of a pearl and a plant in the argument about growth."
+          "why": "Examine the classifications of reincarnation supplied by this source. Examine the images of a pearl and a plant in the argument about growth.",
+          "shortened": [
+            "Know, then, that the reincarnationists are of two kinds. The first do not believe in spiritual rewards and punishments in the next world. They hold instead that man receives his punishment or recompense through reincarnation and return to this world; they regard heaven and hell to be confined to this material realm; and they do not believe in the world beyond.",
+            "No:  Through God's eternal grace the true capacity and receptivity of the human reality is made clear and manifest through traversing the degrees of existence and not through recurrence and return.  When the shell is opened but once, it is made plain and clear whether it conceals a shining pearl or worthless matter.  When a plant has grown but once, it puts forth either flowers or thorns:  it need not grow again."
+          ]
         },
         {
           "key": "source:ABU0744",
-          "why": "Consider the reported objection to a further bodily opportunity."
+          "why": "Consider the reported objection to a further bodily opportunity.",
+          "shortened": [
+            "This failure of the soul has led man to believe that God will give the wicked soul another opportunity by allowing it to return in another body and atone for its failure. There is no proof of this outside or inside the Holy Book of Scriptures."
+          ]
         },
         {
           "key": "source:ABU2606",
-          "why": "Read the school metaphor and its emphasis on present responsibility."
+          "why": "Read the school metaphor and its emphasis on present responsibility.",
+          "shortened": [
+            "No: No one ever returns here, for this world is a school were the soul of man learns its first lessons in spirituality, and if he leaves this place without having learned his lessons sufficiently, the time is past and the opportunity lost; for the evolution of God's plans waits not for man."
+          ]
         },
         {
           "key": "source:ABU1136",
@@ -400,19 +484,31 @@
         },
         {
           "key": "source:ABU2537",
-          "why": "Complete the linked readings with the butterfly metaphor and continuing development."
+          "why": "Complete the linked readings with the butterfly metaphor and continuing development.",
+          "shortened": [
+            "\"We have grown up step by step, always to a state in advance of the last. God's processes are never retrogressive. No butterfly goes back into the chrysalis: constant change, never a repetition, is the fundamental law. So with what comes after this life. Here we are subject to the conditions of matter; after this will succeed life on the mental plane, a life freed from this material body. But according to the life we have lived here depend the conditions of life on that next plane. What we sow here, that we reap there. Even though on leaving this body we enter upon a life of the sprit, the conditions of the spirit-life must depend upon the degree of development to which the spirit has attained.\""
+          ]
         },
         {
           "key": "source:BH05340",
-          "why": "Begin the additional selections with the distinction between new souls and corresponding manifestations."
+          "why": "Begin the additional selections with the distinction between new souls and corresponding manifestations.",
+          "shortened": [
+            "But in this world all those called into being are new souls. It is not that a former soul becometh incarnated in another person, or that another individual becometh the soul of a former individual. Nay, rather they correspond with each other through manifestations; that is to say, he will be in the station of his soul, but his soul is not incarnated and the state of the soul does not become embodied."
+          ]
         },
         {
           "key": "source:AB04973",
-          "why": "Distinguish the return of spiritual illumination from bodily return."
+          "why": "Distinguish the return of spiritual illumination from bodily return.",
+          "shortened": [
+            "The vegetable spirit, the animal spirit, and the human spirit---the rational soul, that is---do not return after death to this world of the \"first creation\". [Q56:62] As for that spirit of faith by which is meant the light of guidance, and that Holy Spirit, the reality of divine revelation, these both return, in every dispensation and cycle, to this the realm of the \"first creation\"."
+          ]
         },
         {
           "key": "source:AB02800",
-          "why": "Consider the language of attaining the bounty of the Kingdom."
+          "why": "Consider the language of attaining the bounty of the Kingdom.",
+          "shortened": [
+            "And know thou, verily, that those whose were following the steps of Christ, detached their souls from the desires of the world, and made their hearts to depend on the bounties of heaven. Such are the people of the Kingdom and they are in no need of return for apprehending the bounty of the Kingdom."
+          ]
         },
         {
           "key": "source:ABU0234",
@@ -428,7 +524,11 @@
         },
         {
           "key": "source:ABU0299",
-          "why": "Return to the distinction between spiritual likeness and personal identity."
+          "why": "Return to the distinction between spiritual likeness and personal identity.",
+          "shortened": [
+            "If a soul makes the circle, will he return and make it again?  Will he come back to the condition of the mineral, vegetable and animal kingdoms again?  That would not be possible, but the same spirit can return.",
+            "When Christ was asked if John the Baptist was Elias He replied \"yes\".  When John the Baptist was asked the same question he replied \"no\".  Both answered truly.  Christ's meaning was a spiritual one.  John the Baptist came in the same spirit of GOD but not in the same soul.  John meant that his soul and body were not those of Elijah."
+          ]
         }
       ],
       "questions": [
@@ -476,7 +576,7 @@
       "id": "1D75B1F61DB2465E983CD5EC6C16C77A",
       "slug": "nonevil",
       "displayTitle": "Evil as absence: recognizing harm and cultivating good",
-      "introduction": "When an oppressor claims the name of justice, the distinction between good and evil becomes an urgent human question. These selections describe evil as the absence, misuse, or distortion of something good, while also warning about injustice, harmful influence, and the need for education. Their examples range from darkness without light to anger directed toward tyranny rather than toward an innocent person. Augustine’s account of corruption as a deprivation of good provides a close philosophical comparison [1]. Read beside the questions of mind and spiritual development, the compilation asks what follows from seeing creation as good. The closing selection insists that calling evil a negative existence does not make suffering unreal or remove the obligation to replace harm with knowledge, generosity, and justice.",
+      "introduction": "Among the worst of calamities, Bahá’u’lláh writes, is the oppressor who claims the name of justice and the liar who claims the name of truth. Moral language can be stolen, and that is one reason to ask carefully what evil is. ‘Abdu’l-Bahá’s answer is that nothing created is evil in itself: darkness is the absence of light, ignorance the absence of knowledge, poverty the lack of wealth, error the want of guidance. A scorpion’s venom is good for the scorpion and harmful only in relation to us. Even the greed and anger visible in a nursing infant are praiseworthy when rightly directed, toward knowledge, or against bloodthirsty tyrants, and blameworthy only out of place. Augustine reached a similar conclusion, that corruption is the diminishing of a good and that wrongdoing springs from a distorted will rather than from an evil substance [1]. None of this makes suffering unreal. Nature left untrained inclines toward evil, one ill-mannered child can spoil a thousand, and to call evil a negative existence is to be charged with replacing it by its positive opposite: knowledge, generosity, justice, education. The question opens onto light and darkness, the figure of Satan and the Evil One, and the mystery of suffering.",
       "arc": "Begin with the misuse of moral language, develop the account of absence and relative harm, examine the direction of human capacities, and end with the duty to confront actual evil.",
       "order": [
         {
@@ -505,11 +605,18 @@
         },
         {
           "key": "source:AB01360",
-          "why": "Distinguish intrinsic qualities from harm in relation to another being. Begin the additional selections with the fuller account of relative good and evil."
+          "why": "Distinguish intrinsic qualities from harm in relation to another being. Begin the additional selections with the fuller account of relative good and evil.",
+          "shortened": [
+            "Now, a doubt comes to mind: Scorpions and snakes are poisonous; is this good or evil, for they have a positive existence? Yes, it is true that scorpions and snakes are evil, but only in relation to us and not to themselves, for their venom is their weapon and their sting their means of defense. But as the constituent elements of their venom are incompatible with those of our bodies, that is, as these constituent elements are mutually opposed, the venom is evil--or, rather, those elements are evil in relation to each other, while in their own reality they are both good."
+          ]
         },
         {
           "key": "source:AB00117",
-          "why": "Explore the different uses of anger and desire for more. Return to the use and misuse of innate qualities."
+          "why": "Explore the different uses of anger and desire for more. Return to the use and misuse of innate qualities.",
+          "shortened": [
+            "In the innate nature of things there is no evil---all is good.",
+            "For example, you can see in a nursing child, from the beginning of its life, the signs of greed, of anger, and of ill temper; and so it might be argued that good and evil are innate in the reality of man, and that this is contrary to the pure goodness of the innate nature and of creation. The answer is that greed, which is to demand ever more, is a praiseworthy quality provided that it is displayed under the right circumstances. Thus, should a person show greed in acquiring science and knowledge, or in the exercise of compassion, high-mindedness, and justice, this would be most praiseworthy. And should he direct his anger and wrath against the bloodthirsty tyrants who are like ferocious beasts, this too would be most praiseworthy. But should he display these qualities under other conditions, this would be deserving of blame."
+          ]
         },
         {
           "key": "source:ABU1512",
@@ -525,11 +632,17 @@
         },
         {
           "key": "source:ABU2521",
-          "why": "Add generosity and guidance to the examples."
+          "why": "Add generosity and guidance to the examples.",
+          "shortened": [
+            "Evil does not exist. Death is only the lack of life; therefore death does not exist. Darkness is only the lack of light. Evil is only the lack of good. Ignorance is only the lack of knowledge. Poverty is the lack of riches. Misleading is the lack of guidance. Miserliness is the lack of generosity."
+          ]
         },
         {
           "key": "source:ABU1361",
-          "why": "Read the language of deprivation in relation to misfortune."
+          "why": "Read the language of deprivation in relation to misfortune.",
+          "shortened": [
+            "Misfortune has no true existence. It is simply deprivation of divine bounty. Darkness is the absence of light, otherwise darkness has no outer reality."
+          ]
         },
         {
           "key": "source:BH02183",
@@ -537,19 +650,33 @@
         },
         {
           "key": "source:AB00100",
-          "why": "Read the symbolic contrast of material and spiritual realms. Consider the symbolic account of Adam and attachment."
+          "why": "Read the symbolic contrast of material and spiritual realms. Consider the symbolic account of Adam and attachment.",
+          "shortened": [
+            "By the tree of good and evil is meant the material world, for the heavenly realm of the spirit is pure goodness and absolute radiance, but in the material world light and darkness, good and evil, and all manner of opposing realities are to be found.",
+            "Now consider how closely this interpretation conforms to reality: For when the spirit and the self of Adam became attached to the material world, they passed from the realm of freedom into the realm of bondage, this condition was perpetuated with each succeeding generation, and this attachment of spirit and self to the material world, which is sin, was inherited by His descendants. This attachment is the serpent which will forever be in the midst of, and at enmity with, the spirits of the descendants of Adam, for attachment to the world has become the cause of the bondage of the spirits."
+          ]
         },
         {
           "key": "source:ABU2247",
-          "why": "Examine the reported warning about natural inclinations."
+          "why": "Examine the reported warning about natural inclinations.",
+          "shortened": [
+            "Nature inclines toward evil, unless divine teachings prevent and intervene. Otherwise the essence of nature tends toward evil.",
+            "If you leave children to themselves and provide no training, they will become evil."
+          ]
         },
         {
           "key": "source:ABU0793",
-          "why": "Set the claim about evil’s rapid influence beside the earlier account of its negative existence."
+          "why": "Set the claim about evil’s rapid influence beside the earlier account of its negative existence.",
+          "shortened": [
+            "It is universally recognized that evil is stronger than good. Evil has rapid influence, where good is slow in its impact. If a trustworthy person and a thief were together, the thief would never become righteous, but the converse may occur. Because of their association, a truthful person may become a liar, but it is rare for the perjurer to become truthful, or for the penurious to become generous by reason of his association with the charitable, or for the wicked to become virtuous, and so forth. This is because evil is stronger and its influence is more penetrating."
+          ]
         },
         {
           "key": "source:ABU2403",
-          "why": "Complete the linked readings with the task of education."
+          "why": "Complete the linked readings with the task of education.",
+          "shortened": [
+            "Abdu'l-Baha. -- 'Evil is imperfection. Sin is the state of man in the world of the baser nature, for in nature exist defects such as injustice, tyranny, hatred, hostility, strife: these are characteristics of the lower plane of nature. These are the sins of the world, the fruits of the tree from which Adam did eat. Through education we must free ourselves from these imperfections."
+          ]
         },
         {
           "key": "source:ABU3139",
@@ -625,16 +752,23 @@
       "id": "5C9B2EC0371C49F7A3566365EC1285B8",
       "slug": "eternalarchetypes",
       "displayTitle": "Eternal archetypes: patterns, knowledge, and the limits of analogy",
-      "introduction": "A rose returns to the garden, yet this year’s flower is not last year’s individual being. Such distinctions offer a foothold in a demanding collection about patterns, divine knowledge, and the relation between unity and multiplicity. The selections include provisional translations, philosophical comparisons, and research notes; they preserve both accounts of archetypes and forceful objections to locating created distinctions within the divine Essence. Plato’s Timaeus, with its contrast between an unchanging pattern and a changing image, supplies a useful neighboring inquiry [1]. Read beside divine attributes and the meaning of spiritual return, the compilation invites us to ask what an explanatory model can reveal and where it exceeds its reach. Its closing appeal redirects attention from winning a metaphysical argument toward recognition of the divine revelation that such arguments seek to understand.",
+      "introduction": "Last year’s rose seems to return to the garden, yet ‘Abdu’l-Bahá observes that only its fragrance and freshness come back; the particular being that was that flower never does. Small distinctions of this kind are the way into one of the hardest questions in mystical philosophy: how an unchanging God can know a changing world. The Sufi tradition answered with the eternal archetypes, fixed forms of all things held in the divine knowledge, likened to numbers or the points of the compass, which are fixed yet have no existence of their own. The Báb objects that to place any distinct thing in the Essence is to divide what cannot be divided, since God was all-knowing before any object of knowledge existed. Plato’s contrast between an unchanging pattern and its changing image gives a companion vocabulary for weighing what such a model can show and where it fails [1]. The question opens outward onto God’s oneness in its two stations, the claim that His attributes require created objects, and His love for His own Essence as the first stirring of creation. Bahá’u’lláh’s word to Salmán keeps the inquiry honest: whoever argues about models of light may miss the risen Sun.",
       "arc": "Begin with the emergence of names and the objection to multiplicity in the Essence, use accessible examples to approach the terminology, compare the competing accounts, and close with the limits of disputation.",
       "order": [
         {
           "key": "source:AB03187",
-          "why": "Open with the lamp-and-light image of names and archetypal forms becoming manifest. Read the parallel concise formulation through light and unity."
+          "why": "Open with the lamp-and-light image of names and archetypal forms becoming manifest. Read the parallel concise formulation through light and unity.",
+          "shortened": [
+            "O thou who lovest Baha! When the light of truth shone forth from the lamp of oneness, lover and beloved embraced, and the decree of oneness became so penetrating and decisive that you would say there was no lover, only the beloved, or no beloved, only the lover. Names and attributes, distinctions and determinations, relations and connections were all qualities of the Essence in the most noble manner, in perfect simplicity and unity. And when that light of identity gleamed forth from the lamp of unity, names and attributes appeared and the divine archetypal forms of contingent beings became manifest."
+          ]
         },
         {
           "key": "source:AB00006",
-          "why": "Develop the account of intellectual being and differentiated capacities. Examine the account of names and attributes in absolute oneness. Consider the language of love before differentiated manifestation. Follow the fuller account of archetypes appearing in divine knowledge. Turn to the view that removes archetypes from divine knowledge identical with the Essence. Read the account of realities and potentialities as originated. Pause over the commentary’s recognition of differing perspectives and stations."
+          "why": "Develop the account of intellectual being and differentiated capacities. Examine the account of names and attributes in absolute oneness. Consider the language of love before differentiated manifestation. Follow the fuller account of archetypes appearing in divine knowledge. Turn to the view that removes archetypes from divine knowledge identical with the Essence. Read the account of realities and potentialities as originated. Pause over the commentary’s recognition of differing perspectives and stations.",
+          "shortened": [
+            "Therefore the Essential Dispositions have, through the Divine Outpouring,  manifested themselves out of the station of Essence into the station of Divine Knowledge [hadrat-i 'ilm].   This is the first manifestation of the Absolute from the Hidden Treasure in the Divine Knowledge.  And from this manifestation the Eternal Archetypes  came into intellectual being.   And each one, according to its inherent capacity, is distinguished from the others in the mirrors of the Divine Knowledge.",
+            "But to this servant all these expositions and questions, stations and states are complete in their own station without defect or flaw.  For although the object being viewed is the same, nevertheless the viewpoints and stations of these mystic knowers are different.  Each viewpoint, with respect to the person who is in that station is perfect and complete."
+          ]
         },
         {
           "key": "source:BB00021",
@@ -646,19 +780,32 @@
         },
         {
           "key": "source:AB00153",
-          "why": "Begin the additional selections with the accessible analogy of numbers and directions."
+          "why": "Begin the additional selections with the accessible analogy of numbers and directions.",
+          "shortened": [
+            "As to the \"fixed archetypes\" spoken of by the mystics, the argument is this:  Numbers, although fixed, have no definite existence and are a mere convention.  As they say:  \"East and west, north and south, possess a fixed character, yet they have no objective existence.  Likewise, the fixed archetypes are the forms of God's knowledge:  they have a fixed character, but have not inhaled even a breath of real existence.\""
+          ]
         },
         {
           "key": "source:AB00282",
-          "why": "Distinguish a recurring rose from a returning individual identity."
+          "why": "Distinguish a recurring rose from a returning individual identity.",
+          "shortened": [
+            "It may be said, for instance, that this lamplight is last night's come back again, or that last year's rose hath returned to the garden this year. Here the reference is not to the individual reality, the fixed identity, the specialized being of that other rose, rather doth it mean that the qualities, the distinctive characteristics of that other light, that other flower, are present now, in these. Those perfections, that is, those graces and gifts of a former springtime are back again this year."
+          ]
         },
         {
           "key": "source:AB00013",
-          "why": "Distinguish the levels of essence, necessity, and contingency in this translation."
+          "why": "Distinguish the levels of essence, necessity, and contingency in this translation.",
+          "shortened": [
+            "For existence is either identical with quiddity or other than it. If other than it, is it inseparable from it and among its requirements without suspension or detachment, or is suspension and detachment possible?",
+            "The first is the reality of the Essence from the perspective of its oneness - its existence is identical with its quiddity and its quiddity identical with its existence. The second is the station of necessity, where existence is distinct from quiddity but inseparable from it in a way that neither detachment nor separation can be conceived, for it is among its requirements. The third is the station of contingency - that is, existence derived from another and acquired from what is other than itself. Here its existence is other than its quiddity and its quiddity other than its existence, with the possibility of detachment and separation."
+          ]
         },
         {
           "key": "source:BB00064",
-          "why": "Consider the Báb’s objection to multiplicity within essential pre-existence."
+          "why": "Consider the Báb’s objection to multiplicity within essential pre-existence.",
+          "shortened": [
+            "Exalted is God above what the philosophers say in claiming that the cause of origination is the pre-existence of the Essence, thereby attempting to establish a connection between the True One and the contingent, and to prove the existence of fixed archetypes through the pure subtlety of simplicity in the Essence. The doctrine of the People of Infallibility differs from this, for the pre-existence of the Essence has ever been and will never be associated with anything, nor is anything equal to it, nor is anything mentioned at its level such that it could be the cause of multiplicities."
+          ]
         },
         {
           "key": "source:BH00066",
@@ -674,7 +821,11 @@
         },
         {
           "key": "selection:693fadd659d5e51164291ed6",
-          "why": "Use the supplied scholarly explanation to map the technical vocabulary of manifestation."
+          "why": "Use the supplied scholarly explanation to map the technical vocabulary of manifestation.",
+          "shortened": [
+            "The wahidiyah, is the ontological state at which the original absolute Oneness of the reality of existence appears with inner articulations. These inner articulations are called, in accordance with the traditional terminology of theology, divine Names and Attributes. In this sense the stage of wahidiyah is called the stage of the Names and Attributes (asma' wa-sifat). Another name of this stage is the stage of knowledge (`ilm), i.e. divine Consciousness. This appellation comes from the idea that the wahidiyah is the stage at which God becomes conscious of Himself in the form of His own essential Perfections (kamalat dhatiyah). The essential Perfections of God that are thus established in divine Consciousness with clear demarcations are called the 'eternal Archetypes' (a`yan thabitah).",
+            "The eternal Archetypes are to be regarded as ontological models which are eternally established in divine Consciousness and upon which the phenomenal things are produced in the empirical dimension of time and space...."
+          ]
         },
         {
           "key": "selection:0eefaa5ee74994dc5bf9b6f0",
@@ -694,27 +845,48 @@
         },
         {
           "key": "selection:17420a58786526c4f3c41731",
-          "why": "Read the fuller argument concerning universals and creative action."
+          "why": "Read the fuller argument concerning universals and creative action.",
+          "shortened": [
+            "The truth is that when the creative action is related to existence, it is the Will; when it is related to the archetype ('ayn), in other words, the species form, it is Purpose; and when it is related to the limitations of the created, that is to say, their topography (handasa)--which includes length and breadth, continuance and mortality, term of duration, and the like--it is predestination. Through the accomplishment of the act of creation and the thing itself, it is fate; and through its manifestation, the revealing of causes, and the disclosure of means, it is execution...."
+          ]
         },
         {
           "key": "selection:c75135ead3debc297e2b5723",
-          "why": "Read the extended criticism of direct connection and the account of the creative Will."
+          "why": "Read the extended criticism of direct connection and the account of the creative Will.",
+          "shortened": [
+            "God, verily, created the Will from nothing through itself, then He created through it all that to which the name \"thing\" can be applied. The cause of its existence, in truth, is its own self and naught else. Those who believe that the Essence is the cause of creation have made themselves partners with Him, as He cannot be known.",
+            "Those who say the fixed archetypes reside in the Essence of God in order to establish His knowledge, as all believe save those whom God hath pleased to preserve, have completely forsaken the religion of the Family of God, for any reference to otherness in their being testifieth to their separation and indicateth their complete rupture from God. God is the eternal Being, Who from time immemorial hath not changed, and it is not possible for divine unity to belong to anyone save Himself."
+          ]
         },
         {
           "key": "selection:5df0107353cc3f4916223a81",
-          "why": "Focus the objection on the analogy between divine and human knowledge."
+          "why": "Focus the objection on the analogy between divine and human knowledge.",
+          "shortened": [
+            "Verily, that which hath forced some of the philosophers to conceive of the presence of the eternal intelligible forms (a'yan-i-thabitah) in the Essence of God, and the doctrine of the True Indivisible Being (Basitu'l-Haqiqah), was their desire to validate the concept of the knowledge of God, magnified be His station! For they stated that knowledge must needs have an object of knowledge, and hence the affirmation of divine knowledge indicateth the existence of pluralities within the Essence of God.... Verily, their grievous sin is due to their use of analogy in their desire to comprehend the essential properties of the Essence at the level of the contingent beings.",
+            "Inasmuch as it is evident that His life is His Essence, since His life doth not rely on the existence of any living thing besides Him, then the same is true with regard to His knowledge. He, glorified be He, hath been omniscient from and throughout His immemorial eternity, without the existence of any object of knowledge."
+          ]
         },
         {
           "key": "selection:5041c196016348d2a7cd0df1",
-          "why": "Distinguish God’s Handiwork from the Essence as cause."
+          "why": "Distinguish God’s Handiwork from the Essence as cause.",
+          "shortened": [
+            "The statement of the philosophers that the cause of the created beings is the Essence is erroneous because of the lack of association [between cause and effect], the utter impossibility of change, and the precondition of the resemblance of the cause and the effect. The truth is that the Cause of beings is God's Handiwork, created by God Himself for Himself, and ordained to be the Cause of all His creation."
+          ]
         },
         {
           "key": "selection:c86ca0eea8931f4451f1044b",
-          "why": "Preserve the further criticism and its supplied explanatory note."
+          "why": "Preserve the further criticism and its supplied explanatory note.",
+          "shortened": [
+            "Most of the Islamic philosophers, the peripatetic philosophers, the followers of Mulla Sadra (as-Sadra'iyyin), and the Theosophical philosophers (al-ilahiyyin) have erred in their explanations of this station.",
+            "Thus they went along with erroneous statements concerning the Eternal Archetypes (a`yan thabita) being in the Essence [of God] in order to establish His knowledge (praised be He)[1]; and with mention of the Uncompounded Reality in order to establish causality (`illiyya) in the Essence [of God]; and with mention of the connection between the Essence [of God] and [His] actions and attributes; and with the mention of the oneness of Being (wahdat al-wujud) between the Creator (mujid) and the one who has gone astray (al-mafqud). All of this is absolute heresy (shirk mahd) in the estimation of the family of God, the Imams of justice, for God has always been the All-Knowing without the existence of anything having form and shape (? - shay'un bi-mithl ma inna-hu kana shayyar)."
+          ]
         },
         {
           "key": "selection:d40c5a41d1a71e230a380bf0",
-          "why": "Close with the Tablet of Salmán’s redirection from disputed models toward recognition."
+          "why": "Close with the Tablet of Salmán’s redirection from disputed models toward recognition.",
+          "shortened": [
+            "O Salman! The Pen of the All-Merciful affirmeth that, in this Day, both the defender and upholder of these theories and their repudiator stand in the same degree, inasmuch as the Sun of Truth itself hath dawned, and now shineth forth resplendently from the apex of heaven. Assuredly, then, whoever occupieth himself in the discussion of such matters will remain deprived of recognizing the beauty of the All-Merciful."
+          ]
         }
       ],
       "questions": [
@@ -762,12 +934,16 @@
       "id": "50E64D5F25E34797A55642F2919C4317",
       "slug": "attributesobjects",
       "displayTitle": "Divine attributes: endless bounty and the mystery of knowledge",
-      "introduction": "A giver suggests a recipient, a teacher suggests a pupil, and a sun suggests rays: familiar relationships become starting points for thinking about divine bounty. These selections argue that the names of God call for creation and an unceasing outpouring of grace. Yet they also challenge the assumption that divine knowledge depends on objects in the way human knowledge does, and warn that the divine Essence exceeds our categories. The Qur’án places the affirmation that nothing resembles God alongside the names of hearing and seeing [1], offering a compact comparison of meaningful religious language and transcendence. Read with the neighboring debate over eternal archetypes, the compilation invites us to hold analogy carefully: it can awaken understanding of generosity and continuity while leaving room for what no comparison can encompass.",
+      "introduction": "A creator without a creation, a sun without light, a king without subjects: ‘Abdu’l-Bahá calls each of them inconceivable, and from that simple observation draws a large conclusion. The names of God, the Provider, the Life-giver, the Giver, require those who are provided for, given life and given to; and since those names are eternal and actual rather than potential, the outpouring of divine bounty has never begun and can never cease. To imagine a pause in it would be to imagine a finite God. The argument is warm as well as subtle, because it turns the whole universe into an answer to generosity. Yet the same teachers draw a boundary. Human knowledge needs objects to know; the knowledge of God does not, and the perfections of the Essence will not yield to the reach of the human mind. The Qur’án holds both sides in one verse, denying that anything is like God and in the same breath calling Him the Hearer, the Seer [1]. Analogy awakens understanding and must then be set down before it hardens into a likeness. The journey continues into God’s knowledge, the ceaselessness of divine emanation, the essential and actional attributes, and the debate over the eternal archetypes.",
       "arc": "Begin with familiar relational names, develop the argument for unceasing bounty, and then examine the limits of transferring human relationships into claims about the divine Essence.",
       "order": [
         {
           "key": "source:ABU0335",
-          "why": "Open with familiar examples of giving, providing, and understanding. Attend to the invitation to ponder the absence of cessation."
+          "why": "Open with familiar examples of giving, providing, and understanding. Attend to the invitation to ponder the absence of cessation.",
+          "shortened": [
+            "The term Creator presupposes the existence of created beings. Were it not that we were created, how could we conceive of the Creator? In thinking of the Provider, one presupposes certain beings who are provided for, and One Who provides.",
+            "If we could imagine for a moment an interruption in the onward flow of the bounties of God, it would be to suggest that God was a finite being. We cannot imagine such a thing. This proves, therefore, that God has always been the Creator, the Provider, the Generous, the Life-giver, the Omniscient, the Omnipotent: and in the outpouring of His virtues there is no cessation at all. Think and ponder upon this very deeply, because this is a very subtle point in Divine Science."
+          ]
         },
         {
           "key": "source:ABU3115",
@@ -795,7 +971,11 @@
         },
         {
           "key": "source:ABU0403",
-          "why": "Read the fuller account of attributes as actual rather than merely potential."
+          "why": "Read the fuller account of attributes as actual rather than merely potential.",
+          "shortened": [
+            "The names the Powerful, the Living, the Provider, the Creator require and necessitate the existence of creatures. If there were no creatures, Creator would be meaningless. If there were none to provide for, we could not think of the Provider. If there were no life, the Living would be beyond the power of conception. Therefore, all the names and attributes of God require the existence of objects or creatures upon which they have been bestowed and in which they have become manifest.",
+            "Therefore, the requirements of the attributes of God do not admit of cessation or interruption, for the names of God are actually and forever existing and not potential."
+          ]
         },
         {
           "key": "source:ABU0257",
@@ -803,7 +983,11 @@
         },
         {
           "key": "source:AB00006",
-          "why": "Consider the sun-and-rays analogy in relation to capacity and justice. Close with the explicit limit on what can be determined about the Essence."
+          "why": "Consider the sun-and-rays analogy in relation to capacity and justice. Close with the explicit limit on what can be determined about the Essence.",
+          "shortened": [
+            "Certainly knowledge without an object of knowledge is not possible in the contingent world, but no-one knows [how the matter stands within] the Essence [of the Absolute].",
+            "Therefore notice that the fact that rays are scattered from the sun to far and near does not mean that the sun has arranged some of them to be near and some of them to be distant but rather in bestowing existence it makes no distinction or augmentation with respect to any.  It has manifested all with the same effulgence.  But each, according to its own desire, has accepted a particular station and status."
+          ]
         },
         {
           "key": "source:BB00003",
@@ -811,7 +995,11 @@
         },
         {
           "key": "source:AB00062",
-          "why": "Complete the linked readings by marking the limits of human judgment about divine knowledge. Turn decisively to the difference between human and divine knowledge."
+          "why": "Complete the linked readings by marking the limits of human judgment about divine knowledge. Turn decisively to the difference between human and divine knowledge.",
+          "shortened": [
+            "The difference is that the Prophets teach that God’s knowledge does not require the existence of created things, whereas the knowledge of the creatures requires the existence of objects of knowledge. If the divine knowledge stood in need of aught else, then it would be like the knowledge of the creatures and not that of God; for the Pre-existent is incommensurate with the originated and the originated is opposite to the Pre-existent.",
+            "Moreover, the attributes of divine perfection are not so yielding to the exertions of the human mind as to enable us to determine whether the divine knowledge is in need of objects or not."
+          ]
         },
         {
           "key": "source:BH00060",
@@ -823,7 +1011,12 @@
         },
         {
           "key": "source:ABU0049",
-          "why": "Read the argument about eternal rather than accidental attributes."
+          "why": "Read the argument about eternal rather than accidental attributes.",
+          "shortened": [
+            "These names and attributes of Divinity are eternal and not accidental. This is a very subtle point which demands close attention. Their existence is proved and necessitated by the appearance of phenomena.",
+            "Therefore, the divine names and attributes presuppose the existence of phenomena implied by those names and attributes.",
+            "If we try to conceive of a time when creation was nonexistent, when there were no subjects or creatures under divine dominion and control, Divinity itself would disappear; there would be a cessation of the bounty of God, just as the kingship and favor of an earthly monarch would disappear if his kingdom did not exist."
+          ]
         },
         {
           "key": "selection:132d4922ae684e536c131250",
@@ -843,11 +1036,18 @@
         },
         {
           "key": "selection:d80d14b48b436bcebaeafdf7",
-          "why": "Examine the fuller account of knowing without dependence on created objects."
+          "why": "Examine the fuller account of knowing without dependence on created objects.",
+          "shortened": [
+            "God knoweth each thing, at all times, as itself, although there is no object of knowledge with Him in the stage of His eternity. Rather, He knoweth each thing, whether universal or particular, before its existence in the same way that He knoweth it after its existence, and no one knoweth how this is possible except God. The doctrine of the distinction between the concepts of life and knowledge is invalid in the station of the Essence, for just as He is alive by virtue of His existence and requireth not the existence of another through which to receive life, in the same way He knoweth each thing and every atom without needing an object of knowledge in the stage of His Essence."
+          ]
         },
         {
           "key": "selection:2ab6c01e88d34f2a80d1699b",
-          "why": "Read the criticism of introducing pluralities into the Essence to explain knowledge."
+          "why": "Read the criticism of introducing pluralities into the Essence to explain knowledge.",
+          "shortened": [
+            "Verily, that which hath forced some of the philosophers to conceive of the presence of the eternal intelligible forms (a'yan-i-thabitah) in the Essence of God, and the doctrine of the True Indivisible Being (Basitu'l-Haqiqah), was their desire to validate the concept of the knowledge of God, magnified be His station! For they stated that knowledge must needs have an object of knowledge, and hence the affirmation of divine knowledge indicateth the existence of pluralities within the Essence of God.... Verily, their grievous sin is due to their use of analogy in their desire to comprehend the essential properties of the Essence at the level of the contingent beings.",
+            "Inasmuch as it is evident that His life is His Essence, since His life doth not rely on the existence of any living thing besides Him, then the same is true with regard to His knowledge. He, glorified be He, hath been omniscient from and throughout His immemorial eternity, without the existence of any object of knowledge."
+          ]
         }
       ],
       "questions": [
