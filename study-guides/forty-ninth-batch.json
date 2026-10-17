@@ -1178,16 +1178,9 @@
       "id": "E8C84F900ED34DA98391B4A8593684E1",
       "slug": "secondbirth",
       "displayTitle": "A second birth: awakening to another life",
-      "introduction": "Go home, ‘Abdu’l-Bahá told departing pilgrims, and let everyone see the change in you: greater love, greater joy, greater kindness and forbearance. A second birth, in His teaching, is not a private feeling but a visible fact, the dark made luminous, the heedless made aware, the robber made trustworthy. His favourite picture is the child in the womb, equipped with eyes and ears it cannot yet use, and who at birth enters a universe of sun and sea it never imagined. To be born of the Spirit is to pass in the same way out of the matrix of nature into the Kingdom, and to find oneself with a new eye, a new ear, a new heart. Jesus’ night conversation with Nicodemus is the text these interpretations keep returning to [1]. The image also consoles the bereaved, since the next world stands to this one as this one stood to the womb. From here the journey leads to the Holy Spirit as the agent of this change, to spiritual baptism by water and fire, and to the slow, daily work of spiritual transformation that follows an awakening.",
+      "introduction": "Go home, ‘Abdu’l-Bahá told departing pilgrims, and let everyone see the change in you: greater love, greater joy, greater kindness and forbearance. A second birth, in His teaching, is not a private feeling but a visible fact, the dark made luminous, the heedless made aware, the robber made trustworthy. To be born of the Spirit is to pass in the same way out of the matrix of nature into the Kingdom, and to find oneself with a new eye, a new ear, a new heart. Jesus’ night conversation with Nicodemus is the text these interpretations keep returning to. The image also consoles the bereaved, since the next world stands to this one as this one stood to the womb. From here the journey leads to the Holy Spirit as the agent of this change, to spiritual baptism by water and fire, and to the slow, daily work of spiritual transformation that follows an awakening.",
       "arc": "Begin with the visible fruits of renewal, explore the birth analogy and its scriptural roots, and follow awakening into growth, service, and hope beyond death.",
       "order": [
-        {
-          "key": "source:ABU0941",
-          "why": "Open with the change others should experience.",
-          "shortened": [
-            "When you return to America everybody must see the greatest change in you. You must show that you have had a second birth. You must show the greatest love and the greatest joy. You must show the greatest kindness and forbearance; in fact, you must show complete severance and humility, so that when you enter a meeting all will see the change in you.\""
-          ]
-        },
         {
           "key": "source:ABU0614",
           "why": "Name the social and ethical realities of new life.",
@@ -1196,8 +1189,18 @@
           ]
         },
         {
+          "key": "source:ABU0941",
+          "why": "Open with the change others should experience.",
+          "shortened": [
+            "When you return to America everybody must see the greatest change in you. You must show that you have had a second birth. You must show the greatest love and the greatest joy. You must show the greatest kindness and forbearance; in fact, you must show complete severance and humility, so that when you enter a meeting all will see the change in you.\""
+          ]
+        },
+        {
           "key": "source:AB00268",
-          "why": "Introduce awakening through paired transformations."
+          "why": "Introduce awakening through paired transformations.",
+          "shortened": [
+            "Existential rewards consist in the virtues and perfections that adorn the human reality. For example, man was immersed in darkness and becomes luminous; he was ignorant and becomes informed; he was heedless and becomes aware; he was asleep and is awakened; he was dead and is quickened to life; he was blind and begins to see; he was deaf and begins to hear; he was earthly and becomes heavenly; he was material and becomes spiritual. Through these rewards he is reborn in spirit, is created anew, and becomes the manifestation of the verse in the Gospel that says that the Apostles \"were born, not of blood, nor of the flesh, nor of the will of man, but of God\"--that is, they were delivered from the animal characteristics and qualities that are inherent to human nature and acquired divine attributes, which are the outpouring grace of God. This is the true meaning of being born again."
+          ]
         },
         {
           "key": "source:ABU2875",

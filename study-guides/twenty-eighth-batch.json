@@ -982,7 +982,7 @@
       "id": "C400E4C4C1B54C2BA5A393FC9A9A2CC0",
       "slug": "abundantlife",
       "displayTitle": "A universe abundant with life: wonder and the limits of knowledge",
-      "introduction": "Our globe is very small, ‘Abdu’l-Bahá observes, and yet it teems with living things; can the vast bodies hanging in limitless space be empty? Bahá’u’lláh had already said that the creation of God embraces worlds besides this world and creatures apart from these creatures, each fixed star with its planets and each planet a world among the worlds of the Lord, with messages sent to every one of them. The claim is generous and at the same time restrained. What those creatures are like, and how far they have developed, is left unspecified; the elemental worlds of composition and decomposition are distinguished from the world of the Kingdom; the number of planets, Bahá’u’lláh writes, has not yet been fully discovered, and the science is a fathomless ocean. Where a pilgrim imagines railways to other planets, a later letter cautions against turning possibility into prediction. Psalm 104, with its sea full of creeping things and its creatures waiting on God for their food, keeps the same wonder close to the ground [1]. To ask what a text affirms, what its imagery suggests and what remains open to inquiry is a discipline that continues into the celestial spheres, the planets and astronomy, and the purpose that gives all this motion its end.",
+      "introduction": "Our globe is very small, ‘Abdu’l-Bahá observes, and yet it teems with living things; can the vast bodies hanging in limitless space be empty? Bahá’u’lláh had already said that the creation of God embraces worlds besides this world and creatures apart from these creatures, each fixed star with its planets and each planet a world among the worlds of the Lord, with messages sent to every one of them. What those creatures are like, and how far they have developed, is left unspecified; the elemental worlds of composition and decomposition are distinguished from the world of the Kingdom; the number of planets, Bahá’u’lláh writes, has not yet been fully discovered, and the science is a fathomless ocean. Where a pilgrim imagines railways to other planets, a later letter cautions against turning possibility into prediction. Psalm 104, with its sea full of creeping things and its creatures waiting on God for their food, keeps the same wonder close to the ground [1]. To ask what a text affirms, what its imagery suggests and what remains open to inquiry is a discipline that continues into the celestial spheres, the planets and astronomy, and the purpose that gives all this motion its end.",
       "arc": "Begin with worlds beyond our own, explore the language of abundant life, distinguish affirmation from speculation, and return to generosity and wonder.",
       "order": [
         {
@@ -1001,13 +1001,6 @@
           ]
         },
         {
-          "key": "source:ABU0654",
-          "why": "Retain the reported account of forms suited to different worlds. Read the fuller reported cosmology in its historical vocabulary.",
-          "shortened": [
-            "The earth has its inhabitants, the water and the air contain many living beings and all the elements have their nature spirits, then how is it possible to conceive that these stupendous stellar bodies are not inhabited? Verily, they are peopled, but let it be known that the dwellers accord with the elements of their respective spheres. These living beings do not have states of consciousness like unto those who live on the surface of this globe: the power of adaptation and environment moulds their bodies and states of consciousness, just as our bodies and minds are suited to our planet."
-          ]
-        },
-        {
           "key": "source:ABU0170",
           "why": "Place the earth within the reported account of an enduring universe.",
           "shortened": [
@@ -1017,6 +1010,13 @@
         {
           "key": "source:ABU2415",
           "why": "Connect unknown worlds with an ordered creation."
+        },
+        {
+          "key": "source:ABU0654",
+          "why": "Retain the reported account of forms suited to different worlds. Read the fuller reported cosmology in its historical vocabulary.",
+          "shortened": [
+            "The earth has its inhabitants, the water and the air contain many living beings and all the elements have their nature spirits, then how is it possible to conceive that these stupendous stellar bodies are not inhabited? Verily, they are peopled, but let it be known that the dwellers accord with the elements of their respective spheres. These living beings do not have states of consciousness like unto those who live on the surface of this globe: the power of adaptation and environment moulds their bodies and states of consciousness, just as our bodies and minds are suited to our planet."
+          ]
         },
         {
           "key": "source:BH00053",
