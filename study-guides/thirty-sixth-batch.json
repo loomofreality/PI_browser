@@ -5,7 +5,7 @@
       "id": "7D29F9186A9D4091811A4EA61499CEC8",
       "slug": "alcoholdrugs",
       "displayTitle": "Intoxication: clarity, compassion, and the preservation of life",
-      "introduction": "What does a prohibition seek to protect? The opening passage gives this question urgency: a woman has stopped taking a substance used for pain, and Bahá’u’lláh directs attention to skilled medical judgment and the preservation of life. Read from that starting point, the compilation explores clarity of mind, freedom from dependency, spiritual joy, and responsibility toward others. It brings together laws of the Báb, Bahá’í ordinances, particular instructions, and reported conversations; their distinct settings matter, especially when comparing tobacco, intoxicating drink, and medicinal use. Severe moral language and historical health assertions call for attention to attribution, alongside the passages of prayer, encouragement, and forgiveness. Neighboring subjects connect the inquiry with healing, gambling, and the powers of the mind. Qur’anic counsel links intoxication with damaged relationships and interrupted remembrance [1]. Together these readings invite a compassionate examination of the capacities that disciplined living can release.",
+      "introduction": "A woman in pain gave up the opium she had relied on, and nearly died. Bahá’u’lláh’s reply to that report sets the keynote for everything that follows: the patient must obey a skilled physician, and the preservation of life governs the rule. Seen from there, the prohibitions on opium, wine and the substances that bring torpor to the body are not arbitrary severity but a defence of something precious: the reason with which a human being has been endowed, and which it is inadmissible to consume away. ‘Abdu’l-Bahá’s language about opium is fierce, a living death that blots the mind and erodes perception, and it is matched by tenderness toward the one who struggles, by prayers for awakening, welcome for a changed life, and forgiveness. Spiritual wine, the intoxication of divine love, stands against the counterfeit, and joy turns out to need a clear mind. The Qur’an, after forbidding intoxicants, names the enmity they sow and the prayer they interrupt, a reminder that habit, relationship and remembrance are bound together [1]. The questions that open from here concern healing in its material and spiritual forms, the companion prohibition of gambling, the humbler matter of smoking, and the mind’s power of discovery that disciplined living sets free.",
       "arc": "Begin with the preservation of life, examine the purposes and contexts of prohibitions, then move through spiritual alternatives, encouragement, and forgiveness.",
       "order": [
         {
@@ -14,15 +14,26 @@
         },
         {
           "key": "source:BH00001",
-          "why": "Read the central ordinances concerning reason and intoxicants."
+          "why": "Read the central ordinances concerning reason and intoxicants.",
+          "shortened": [
+            "It is inadmissible that man, who hath been endowed with reason, should consume that which stealeth it away.",
+            "Gambling and the use of opium have been forbidden unto you. Eschew them both, O people, and be not of those who transgress. Beware of using any substance that induceth sluggishness and torpor in the human temple and inflicteth harm upon the body. We, verily, desire for you naught save what shall profit you, and to this bear witness all created things, had ye but ears to hear."
+          ]
         },
         {
           "key": "source:AB00695",
-          "why": "Keep the medical exception beside the prohibition and the counsel about a partner."
+          "why": "Keep the medical exception beside the prohibition and the counsel about a partner.",
+          "shortened": [
+            "Concerning opium which you wrote about - the user, buyer and seller are all deprived of divine grace and bounty, and by explicit divine text it is forbidden.",
+            "It is forbidden to this degree, unless someone buys and sells it for medical treatment, as used in pharmacies solely for treating illnesses. Prevent and forbid your bedfellow from using opium as much as you can, that perhaps God willing he may become aware and find deliverance from this great calamity."
+          ]
         },
         {
           "key": "source:AB03806",
-          "why": "Distinguish medicinal cultivation in the particular instruction."
+          "why": "Distinguish medicinal cultivation in the particular instruction.",
+          "shortened": [
+            "Regarding the cultivation of opium about which you inquired - the cultivation of opium is not permitted except for medical treatment, as it is used in most treatments."
+          ]
         },
         {
           "key": "source:AB03683",
@@ -34,7 +45,10 @@
         },
         {
           "key": "source:BH00350",
-          "why": "Read the further statement of prohibition and compassionate counsel."
+          "why": "Read the further statement of prohibition and compassionate counsel.",
+          "shortened": [
+            "It is most regrettable that man should allow his desires to lead him away from the divine Will and the binding decree of His Book, and act contrary to His good-pleasure. Take heed, O brethren, and cleave unto God's compassionate counsels and hold fast unto them. This is better for you, did ye but know it."
+          ]
         },
         {
           "key": "source:BH00236",
@@ -42,11 +56,18 @@
         },
         {
           "key": "source:AB00109",
-          "why": "Read the severe warning as attributed moral rhetoric."
+          "why": "Read the severe warning as attributed moral rhetoric.",
+          "shortened": [
+            "Reason showeth that smoking opium is a kind of insanity, and experience attesteth that the user is completely cut off from the human kingdom. May God protect all against the perpetration of an act so hideous as this, an act which layeth in ruins the very foundation of what it is to be human, and which causeth the user to be dispossessed for ever and ever. For opium fasteneth on the soul, so that the user's conscience dieth, his mind is blotted away, his perceptions are eroded. It turneth the living into the dead."
+          ]
         },
         {
           "key": "source:AB00532",
-          "why": "Consider how the counsel addresses both friend and stranger."
+          "why": "Consider how the counsel addresses both friend and stranger.",
+          "shortened": [
+            "As for the matter of opium - it makes souls lower than dust and more decayed than rotting bones.",
+            "You must definitely counsel both friend and stranger and prevent them from this abhorrent deed, for today at the Most Holy Threshold opium use is the greatest of forbidden things."
+          ]
         },
         {
           "key": "source:AB01905",
@@ -66,7 +87,10 @@
         },
         {
           "key": "source:BB00357",
-          "why": "Keep the further Bábí instruction distinct from later provisions."
+          "why": "Keep the further Bábí instruction distinct from later provisions.",
+          "shortened": [
+            "It hath been forbidden in the Book for people to smoke tobacco and drink wine, and God hath not placed any healing in them. Those who prescribe them for some people have ruled by the judgment of the Evil One."
+          ]
         },
         {
           "key": "source:BB00056",
@@ -74,7 +98,11 @@
         },
         {
           "key": "source:BH00048",
-          "why": "Explore the passage on changing ordinances and the authority of the Manifestation."
+          "why": "Explore the passage on changing ordinances and the authority of the Manifestation.",
+          "shortened": [
+            "For instance, some believe that wine hath ever been and shall remain forbidden. Now, were one to inform them that it might one day be made lawful, they would arise in protest and opposition. In truth, the people of the world have yet not grasped the meaning of \"He doeth whatsoever He willeth\", nor have they comprehended the significance of Supreme Infallibility.",
+            "Supreme Infallibility, as I once heard from His blessed lips, is reserved exclusively to the Manifestations of the Cause of God and the Exponents of His Revelation."
+          ]
         },
         {
           "key": "source:BH04606",
@@ -86,7 +114,10 @@
         },
         {
           "key": "source:AB01210",
-          "why": "Connect spiritual attraction with freedom from mind-dulling habits."
+          "why": "Connect spiritual attraction with freedom from mind-dulling habits.",
+          "shortened": [
+            "Let them become independent of consciousness-removing wines through the celestial wine and divine attraction, and associate with people in utmost sanctity, purity and detachment."
+          ]
         },
         {
           "key": "source:ABU3394",
@@ -102,7 +133,10 @@
         },
         {
           "key": "source:ABU1051",
-          "why": "Keep the reported temperance history attributed."
+          "why": "Keep the reported temperance history attributed.",
+          "shortened": [
+            "Another subject which was discussed was 'smoking' and 'drinking' because the Druises as a rule are addicted to neither of these two evil habits. Mohamadan history contains many references to these subjects and the Master pointed out that there were in the past ages many temperance Societies and as a result of their activities teetotalers became very numerous. There were many men and women who abstaine[d] totally from all intoxicating drinks and especially from smoking tobacco."
+          ]
         },
         {
           "key": "source:ABU1105",
@@ -110,11 +144,17 @@
         },
         {
           "key": "source:ABU2055",
-          "why": "Consider the reported attention to consequences, retaining the source omission."
+          "why": "Consider the reported attention to consequences, retaining the source omission.",
+          "shortened": [
+            "The wise person sees the consequences of matters, not their beginnings. For example, one drinks a cup of wine. Temporarily one feels elation and joy, but does not see the hangover and harm that follows. Gambling is the same way..."
+          ]
         },
         {
           "key": "source:AB02266",
-          "why": "Keep this historical explanation of wine attributed."
+          "why": "Keep this historical explanation of wine attributed.",
+          "shortened": [
+            "Regarding the use of liquor: According to the text of the Book of Aqdas, both light and strong drinks are prohibited. The reason for this prohibition is that alcohol leadeth the mind astray and causeth the weakening of the body. If alcohol were beneficial, it would have been brought into the world by the divine creation and not by the effort of man. Whatever is beneficial for man existeth in creation. Now it hath been proved and is established medically and scientifically that liquor is harmful."
+          ]
         },
         {
           "key": "source:ABU0941",
@@ -134,7 +174,10 @@
         },
         {
           "key": "source:ABU3095",
-          "why": "Read the criticism of particular students as a situated report."
+          "why": "Read the criticism of particular students as a situated report.",
+          "shortened": [
+            "The major part of their lives is spent in the gratification of the appetites, sensuality, dancing halls and theatres, wine drinking, association with undesirable stratum of the community in which they live and leading an insipid, voluptuous and profligate life, ruinous to themselves and the nations alike."
+          ]
         },
         {
           "key": "source:ABU1591",
@@ -142,11 +185,18 @@
         },
         {
           "key": "source:AB07837",
-          "why": "Hear prayer for the awakening of particular people."
+          "why": "Hear prayer for the awakening of particular people.",
+          "shortened": [
+            "Pray thou God for this (attainment), and I will pray to Him to awaken the two people that they may avoid alcoholic drinks."
+          ]
         },
         {
           "key": "source:AB06945",
-          "why": "Consider encouragement and prayer directed toward a young person."
+          "why": "Consider encouragement and prayer directed toward a young person.",
+          "shortened": [
+            "It is a pity that in the prime of youth he should become addicted to drink. If he gives it up, he will become illumined, spiritual and confirmed by divine favors.",
+            "I will always pray: \"O God! Protect Thy servants from drinking wine and prevent them from intoxicants. O Lord! Remove this affliction from the face of the earth until no trace of intoxicants remains and no mention of smoking tobacco is heard."
+          ]
         },
         {
           "key": "source:AB11220",
@@ -154,7 +204,10 @@
         },
         {
           "key": "source:BH06136",
-          "why": "Close the linked readings with forgiveness and release from grief."
+          "why": "Close the linked readings with forgiveness and release from grief.",
+          "shortened": [
+            "Concerning what actually occurred with the opium - He said it was not permissible, but \"Verily We have forgiven it, and it is from Us.\" With such a blessed word, it is not permissible for your honor to be grieved."
+          ]
         },
         {
           "key": "selection:523bfd3deab6616449b53d44",
@@ -223,28 +276,54 @@
       "id": "10F20171888446BAB9501BF1262D49C7",
       "slug": "principles",
       "displayTitle": "The Bahá’í principles: a pattern for shared life",
-      "introduction": "A principle becomes most compelling when it changes how one person treats another. This guide opens with a call to meet hostility with healing and to bring humanity toward maturity, then widens into the social teachings associated with that transformation. Independent inquiry, the oneness of humanity, equality, education, economic justice, and peace appear here in different combinations for different audiences. The varying lists invite readers to examine their relationships rather than assume a single exhaustive enumeration. Neighboring subjects explore each principle more deeply, while the Holy Spirit and the qualities of a Bahá’í draw attention to the sources of motivation and the test of conduct. James challenges a profession of faith that leaves another person hungry [1]. That comparison brings a practical question to these expansive aspirations: how can conviction become a coherent pattern of service, institutions, and everyday action?",
+      "introduction": "Meet the one who strikes you with friendship, ‘Abdu’l-Bahá counsels, and answer thorns with roses. The great social teachings of Bahá’u’lláh begin at that intimate scale, in how one person treats another, and only then widen into a design for shared life: the independent search for truth, the oneness of the human family as the sheep of a single Shepherd, religion as a cause of love or else no religion at all, harmony between faith and science, the equality of women and men, schooling for every child, the easing of extreme wealth and poverty, a common language and a tribunal able to keep the peace. ‘Abdu’l-Bahá named these principles in different combinations for different listeners, which suggests they are less a formula than a living pattern whose parts need one another, animated by the breaths of the Holy Spirit and proved in conduct. James asks what a profession of faith is worth if it sends a hungry neighbour away unfed [1], and the same question hangs over every such aspiration. One path leads deeper into the oneness of humanity and the independent investigation of truth; another into the qualities by which a Bahá’í is actually known.",
       "arc": "Start with the conduct that gives principles life, explore their interdependence and public expression, and return to the daily practice of love and service.",
       "order": [
         {
           "key": "source:AB00915",
-          "why": "Open with principles embodied in healing conduct."
+          "why": "Open with principles embodied in healing conduct.",
+          "shortened": [
+            "Should any come to blows with you, seek to be friends with him; should any stab you to the heart, be ye a healing salve unto his sores; should any taunt and mock at you, meet him with love. Should any heap his blame upon you, praise ye him; should he offer you a deadly poison, give him the choicest honey in exchange; and should he threaten your life, grant him a remedy that will heal him evermore. Should he be pain itself, be ye his medicine; should he be thorns, be ye his roses and sweet herbs.",
+            "Such is the essence of God's admonitions; such in sum are the teachings for the Dispensation of Baha."
+          ]
         },
         {
           "key": "source:AB00016",
-          "why": "Present the broad teaching through the Tablet to the Hague."
+          "why": "Present the broad teaching through the Tablet to the Hague.",
+          "shortened": [
+            "And among the teachings of Baha'u'llah is the oneness of the world of humanity; that all human beings are the sheep of God and He is the kind Shepherd.",
+            "And among the teachings of Baha'u'llah is that religion must be in conformity with science and reason, so that it may influence the hearts of men.",
+            "And among the teachings of Baha'u'llah is that religious, racial, political, economic and patriotic prejudices destroy the edifice of humanity.",
+            "And among the teachings of Baha'u'llah is the origination of one language that may be spread universally among the people.",
+            "And among the teachings of Baha'u'llah is the equality of women and men.",
+            "And among the teachings of Baha'u'llah is voluntary sharing of one's property with others among mankind."
+          ]
         },
         {
           "key": "source:AB02574",
-          "why": "Explore how the teachings form a pattern for an age."
+          "why": "Explore how the teachings form a pattern for an age.",
+          "shortened": [
+            "For every era hath a spirit; the spirit of this illumined era lieth in the teachings of Baha'u'llah. For these lay the foundation of the oneness of the world of humanity and promulgate universal brotherhood. They are founded upon the unity of science and religion and upon investigation of truth. They uphold the principle that religion must be the cause of amity, union and harmony among men. They establish the equality of both sexes and propound economic principles which are for the happiness of individuals. They diffuse universal education, that every soul may as much as possible have a share of knowledge. They abrogate and nullify religious, racial, political, patriotic and economic prejudices and the like."
+          ]
         },
         {
           "key": "source:AB00197",
-          "why": "Connect inquiry and unity with the prevention of war."
+          "why": "Connect inquiry and unity with the prevention of war.",
+          "shortened": [
+            "There have issued, from His mighty Pen, various teachings for the prevention of war, and these have been scattered far and wide.",
+            "The first is the independent investigation of truth; for blind imitation of the past will stunt the mind. But once every soul inquireth into truth, society will be freed from the darkness of continually repeating the past.",
+            "His second principle is the oneness of mankind: that all men are the sheep of God, and God is their loving Shepherd, caring most tenderly for all without favouring one or another."
+          ]
         },
         {
           "key": "source:BH00238",
-          "why": "Read practical measures in the Tablet of the World."
+          "why": "Read practical measures in the Tablet of the World.",
+          "shortened": [
+            "The utterances set forth therein by the Pen of the Lord of creation include the following which constitute the fundamental principles for the administration of the affairs of men:",
+            "First: It is incumbent upon the ministers of the House of Justice to promote the Lesser Peace so that the people of the earth may be relieved from the burden of exorbitant expenditures.",
+            "Second: Languages must be reduced to one common language to be taught in all the schools of the world.",
+            "Third: It behoveth man to adhere tenaciously unto that which will promote fellowship, kindliness and unity."
+          ]
         },
         {
           "key": "source:AB02230",
@@ -264,7 +343,18 @@
         },
         {
           "key": "source:AB01534",
-          "why": "Read a fuller enumeration with its stated qualifications."
+          "why": "Read a fuller enumeration with its stated qualifications.",
+          "shortened": [
+            "Among them is the independent investigation of truth, which demolishes the foundation of blind imitation.",
+            "Among them is the oneness of humanity--that all human beings are the sheep of God and God is the kind Shepherd, showing utmost kindness to all His sheep.",
+            "Among them is universal peace, which is the immediate remedy for every malady in this illumined age.",
+            "Among them is that religion must be the cause of fellowship and love; if it becomes the cause of hatred and enmity, it yields no fruit.",
+            "Among them is the reconciliation of science, reason and religion.",
+            "Among them is the abandonment of religious prejudices, sectarian prejudices, racial prejudices, patriotic prejudices and political prejudices.",
+            "Among them is justice and equality, nay rather, the voluntary sharing by the wealthy with the poor, not through force and coercion.",
+            "Among them is the economic question, which is detailed.",
+            "Among them is the equality of men and women, with some exceptions in certain matters."
+          ]
         },
         {
           "key": "source:AB01419",
@@ -272,19 +362,32 @@
         },
         {
           "key": "source:AB00269",
-          "why": "Follow the public presentation across several fields of human life."
+          "why": "Follow the public presentation across several fields of human life.",
+          "shortened": [
+            "Its rays are the heavenly teachings, which proclaim the unity of the human world, promote universal peace, investigate reality, establish fellowship and love through the power of religion, reconcile science and reason with religion, abandon religious, racial, national and political prejudices, universalize public education, establish a supreme international tribunal to resolve various problems between governments and nations, educate all women equal to men in all human virtues, solve economic problems, establish a universal language, and so forth--so that the human world may be saved from the darkness of error and reach the dawning-place of guidance, and all this strife and conflict and enmity and hatred among humanity may be utterly destroyed from their foundations, and the misunderstandings between religions may vanish."
+          ]
         },
         {
           "key": "source:AB02100",
-          "why": "Read the standards of inquiry, fellowship, and reason."
+          "why": "Read the standards of inquiry, fellowship, and reason.",
+          "shortened": [
+            "Among the teachings is the independent investigation of truth, and among the teachings is that religion must be the cause of fellowship, unity and oneness, not the cause of alienation. If religion becomes the cause of bloodshed, it has no necessity for the human world. And among the teachings is that religion must conform to science and reason, not be superstitions that reason can in no way verify."
+          ]
         },
         {
           "key": "source:AB07457",
-          "why": "Consider diverse birds gathering at a common fountain."
+          "why": "Consider diverse birds gathering at a common fountain.",
+          "shortened": [
+            "All people are like diverse birds, but they must gather at this fountain and be satisfied from this spring, and that spring is the teachings of Baha'u'llah. First is the independent investigation of truth, second is the oneness of humanity, third is that religion must be the cause of love and fellowship - if it is not the cause of love and fellowship it has no purpose, fourth is that religion must accord with science, fifth that religious prejudice, sectarian prejudice, racial prejudice and national prejudice destroy the foundation of humanity - all people are God's sheep and of one race and the earth is one homeland, sixth that one must be free of all imitations and hold fast to the foundation of divine religions, seventh is unity of language - one language must be chosen or newly invented that will be universal so that misunderstandings between religions and races and nations will disappear, and likewise the equality of men and women, and likewise the spread of sciences and knowledge, and likewise the union of women and men among all religions and nations, and likewise justice and equity, and likewise political unity and so forth."
+          ]
         },
         {
           "key": "source:ABU0130",
-          "why": "Examine the reported account of distinctive teachings and the Covenant."
+          "why": "Examine the reported account of distinctive teachings and the Covenant.",
+          "shortened": [
+            "All the divine principles announced by the tongue of the Prophets of the past are to be found in the words of Bahá’u’lláh; but in addition to these He has revealed certain new teachings which are not found in any of the sacred Books of former times.",
+            "As to the most great characteristic of the revelation of Bahá’u’lláh, a specific teaching not given by any of the Prophets of the past: It is the ordination and appointment of the Center of the Covenant."
+          ]
         },
         {
           "key": "source:ABU0231",
@@ -292,7 +395,11 @@
         },
         {
           "key": "source:AB01118",
-          "why": "Keep the claim of continuity and additional teachings attributed."
+          "why": "Keep the claim of continuity and additional teachings attributed.",
+          "shortened": [
+            "And if someone asks what is the superiority of the teachings, say in reply that the teachings of Baha'u'llah encompass all the teachings of the sacred books, and beyond this has special teachings which are the illumination of the human world and the spirit of this age:",
+            "First is the oneness of humanity - all people are God's sheep and God is the true Shepherd, kind to all."
+          ]
         },
         {
           "key": "source:ABU1991",
@@ -300,11 +407,28 @@
         },
         {
           "key": "source:AB00862",
-          "why": "Read a concise list offered for explanation at gatherings."
+          "why": "Read a concise list offered for explanation at gatherings.",
+          "shortened": [
+            "The teachings of Baha'u'llah are the light of this age and the spirit of this century. Expound each of them at every gathering.",
+            "The first is investigation of truth,",
+            "The second, the oneness of mankind,",
+            "The third, universal peace,",
+            "The fourth, conformity between science and divine revelation,",
+            "The fifth, abandonment of racial, religious, worldly and political prejudices, prejudices which destroy the foundation of mankind.",
+            "The sixth is righteousness and justice,",
+            "The seventh, the betterment of morals and heavenly education,",
+            "The eighth, the equality of the two sexes,",
+            "The ninth, the diffusion of knowledge and education,",
+            "The tenth, economic questions,",
+            "and so on and so forth."
+          ]
         },
         {
           "key": "source:AB00481",
-          "why": "Consider the instruction to explain the principles individually and in detail."
+          "why": "Consider the instruction to explain the principles individually and in detail.",
+          "shortened": [
+            "Similarly describe fully in that journal the other teachings which thou art acquainted with, one by one, a detailed description: For example, that religion must be the cause of concord; that it should agree with science and reason; that it must be a factor of progress to the world of humanity, that it should be free from blind imitations."
+          ]
         },
         {
           "key": "source:AB03394",
@@ -332,7 +456,11 @@
         },
         {
           "key": "source:ABU1080",
-          "why": "Consider the reported movement from a loving Shepherd to social institutions."
+          "why": "Consider the reported movement from a loving Shepherd to social institutions.",
+          "shortened": [
+            "The first teaching of Baha'u'llah was the unity of mankind, that all created beings are God's sheep and God is the true Shepherd, kind to all His flock. Since He is kind to all His sheep, why should we be unkind?",
+            "The second teaching of Baha'u'llah was universal peace, that all nations of the world must establish relations with one another and make peace, and establish a universal tribunal."
+          ]
         },
         {
           "key": "source:ABU2221",
@@ -340,7 +468,10 @@
         },
         {
           "key": "source:ABU2012",
-          "why": "Explore the reported program of arbitration, solidarity, and economic welfare."
+          "why": "Explore the reported program of arbitration, solidarity, and economic welfare.",
+          "shortened": [
+            "My objects are the establishment of the Cause of international arbitration, the promotion of the oneness of the world of humanity, the conformity of religion with science and reason, the elucidation of the essential unity of the divine religions, the explanation of the continuity of the prophetic revelation, the instruction of mankind in the knowledge of human brotherhood, the inculcation of the primordial oneness of all phenomena, the upraising of the standard of the solidarity of the human race, the creation of a nucleus for bringing about the universal race, the spread of the precepts of spiritual civilization, the teachings of the synthesis of the heavenly philosophy, the readjustment of the economic relations between the capitalists and laborers, so that each individual member of the world of humanity may enjoy the utmost welfare and prosperity, the organization of the Arbitral Court of justice - in order that all the nations of the world may settle before that Court their international disputes and thus remove all the traces of enmity and hatred and the upholding of the principle of one auxiliary, universal language."
+          ]
         },
         {
           "key": "source:ABU2627",
@@ -352,11 +483,17 @@
         },
         {
           "key": "source:ABU0237",
-          "why": "Keep the reported defense of liberty and education in its historical setting."
+          "why": "Keep the reported defense of liberty and education in its historical setting.",
+          "shortened": [
+            "Our crime was the proclamation of religious liberty, to worship God according to our own hearts, to spread universal Peace, to educate public opinion for moral and civic uplift of the nations, the equality of the sexes, universal education so that no ignorant boy and girl remain in the country, the development of spiritual susceptibilities, rectitude, uprightness, honor and righteousness."
+          ]
         },
         {
           "key": "source:ABU0390",
-          "why": "Read the reported rays of the rising sun."
+          "why": "Read the reported rays of the rising sun.",
+          "shortened": [
+            "O ye Persians! The Sun of Righteousness hath arisen with healing in its wings! Are ye not aware of it that your country is the dawning-place of this glorious Orb, the first rays of which is the oneness of the world of humanity, its second ray is love for all mankind, its third ray is universal Peace, its fourth ray is the correspondence of science with religion, its fifth ray is Universal religion, universal language, universal education etc etc."
+          ]
         },
         {
           "key": "source:ABU0193",
@@ -368,11 +505,17 @@
         },
         {
           "key": "source:AB02969",
-          "why": "Consider how communication is adapted to a particular ambassador."
+          "why": "Consider how communication is adapted to a particular ambassador.",
+          "shortened": [
+            "If possible when conversing with the Ambassador, mention only the foundation of this Cause - that it is based on pure good, absolute mercy, the reformation of the world, consideration for all peoples, truthfulness toward heads of government, abandonment of conflict, kindness and righteousness - and nothing more."
+          ]
         },
         {
           "key": "source:ABU1372",
-          "why": "Read the reported short presentation of peace and association."
+          "why": "Read the reported short presentation of peace and association.",
+          "shortened": [
+            "Then I state that the basic teachings of Baha'u'llah are universal peace; the oneness of humanity; prohibition of execration and calumny; association with the followers of all religions in harmony and unity of nations, of races and of governments; and such like."
+          ]
         },
         {
           "key": "source:ABU1561",
@@ -380,7 +523,10 @@
         },
         {
           "key": "source:ABU1700",
-          "why": "Attend to the reported spiritual sources of collective life."
+          "why": "Attend to the reported spiritual sources of collective life.",
+          "shortened": [
+            "The Principles of the religion of Baha'u'llah are the Collective Reality, the Power of divine attraction, the illumination of the world of humanity and the Breaths of the Holy Spirit."
+          ]
         },
         {
           "key": "source:ABU3267",
@@ -388,11 +534,22 @@
         },
         {
           "key": "source:ABU2255",
-          "why": "Hear the explicit call to act on the teachings."
+          "why": "Hear the explicit call to act on the teachings.",
+          "shortened": [
+            "They are-the Oneness of the World of Humanity, Independent Investigation of Truth, Abandonment of Prejudice, Universal Peace, etc. You must act in accordance with these Teachings."
+          ]
         },
         {
           "key": "source:ABU1013",
-          "why": "Read the extensive reported account of living the life."
+          "why": "Read the extensive reported account of living the life.",
+          "shortened": [
+            "To live the life.",
+            "To be no cause of grief to any one.",
+            "To love each other very much.",
+            "To be kind to all people and to love them with a pure spirit.",
+            "To be a cause of healing for every sick one; a comforter for every sorrowful one; a pleasant water for every thirsty one; a Heavenly Table for every hungry one; a guide for every seeker; rain for cultivation; a star to every horizon; a light for every lamp; a herald to every yearning one for the Kingdom of God.",
+            "Our Blessed Master said: \"By these things you know the faithful servant of God.\""
+          ]
         },
         {
           "key": "source:ABU3621",
@@ -569,20 +726,32 @@
       "id": "476749D229DA473E89464763E1955D51",
       "slug": "wordstandard",
       "displayTitle": "The revealed Word: learning to examine our standards",
-      "introduction": "What happens when a reader’s measuring instrument is itself brought into question? The image of the divine Balance makes this compilation an inquiry into the standards by which people recognize truth. Its passages ask believers to approach revelation without making inherited opinion, customary rules, or personal expectation the final judge of its possibilities. They also describe recognition, evidence, detachment, and the enduring fruits of the Word. The neighboring subject of rational arguments keeps the work of understanding in view, while the limits of language remind readers that interpreting a text involves more than possessing its words. Isaiah places divine thought beyond human thought and compares the efficacy of the Word to rain nourishing the earth [1]. These themes invite humility on two fronts: openness to guidance beyond familiar categories, and care not to confuse one’s own interpretation with the authority claimed for revelation itself.",
+      "introduction": "Weigh not the Book of God with the standards and sciences current among you, Bahá’u’lláh tells the leaders of religion, for the Book itself is the unerring Balance in which everything else must be weighed. A reader comes to revelation expecting to test it against grammar, inherited opinion, prevailing philosophy or personal expectation; here the measuring instrument is itself placed on the scale. The Báb goes further, saying that the religion of God can be understood through nothing but itself, and that revealed verses, not wonders, are its one universal proof. Recognition still calls for the faculty to comprehend, and Shoghi Effendi asks believers to direct their methods of inquiry until they reach what the Prophet has already seen. Isaiah holds the two sides together, placing divine thought beyond human thought yet promising that the Word returns to its source like rain that has watered the earth [1]. From here the path leads into the place of rational arguments, the limits of language, and the abstruseness and incomparability that make the Word of God a study without end.",
       "arc": "Begin with the Balance, examine recognition and inherited standards, then consider interpretation, enduring effects, and the humility required of the reader.",
       "order": [
         {
           "key": "source:BH00001",
-          "why": "Open with the governing image of the unerring Balance."
+          "why": "Open with the governing image of the unerring Balance.",
+          "shortened": [
+            "Say: O leaders of religion! Weigh not the Book of God with such standards and sciences as are current amongst you, for the Book itself is the unerring Balance established amongst men. In this most perfect Balance whatsoever the peoples and kindreds of the earth possess must be weighed, while the measure of its weight should be tested according to its own standard, did ye but know it.",
+            "Say: This is the infallible Balance which the Hand of God is holding, in which all who are in the heavens and all who are on the earth are weighed, and their fate determined, if ye be of them that believe and recognize this truth. Say: This is the Most Great Testimony, by which the validity of every proof throughout the ages hath been established, would that ye might be assured thereof."
+          ]
         },
         {
           "key": "source:BH11742",
-          "why": "Ask how the Manifestation and revealed utterance provide their own testimony."
+          "why": "Ask how the Manifestation and revealed utterance provide their own testimony.",
+          "shortened": [
+            "From the right hand of the Throne hath been sent down:",
+            "Hast thou not heard that My proof is My very Being, My evidence My Manifestation, My testimony My Self, and that which floweth from My Pen is the path to My knowledge, which none shall attain save those who have detached themselves from all things and have passed through this world and whatsoever hath been created therein as a cloud passeth by?"
+          ]
         },
         {
           "key": "source:BH00004",
-          "why": "Develop the relation between criterion, recognition, and the capacity to understand."
+          "why": "Develop the relation between criterion, recognition, and the capacity to understand.",
+          "shortened": [
+            "In brief, the Balance hath been and shall ever be the Manifestation Himself, and whatsoever floweth forth from the ocean of His bounty and generosity, and that which they practice today, and that which they utter, and that which they command - these have been and shall ever be the Balance for all, both before and after.",
+            "The Divine Proof hath ever been one, and for all they have ordained those same revealed verses as proof. And were there not in creation the faculty to recognize and comprehend verses, they would certainly not have been revealed through manifest signs."
+          ]
         },
         {
           "key": "source:BB00001",
@@ -590,15 +759,26 @@
         },
         {
           "key": "source:BH00002",
-          "why": "Examine dependence on other people’s words and deeds."
+          "why": "Examine dependence on other people’s words and deeds.",
+          "shortened": [
+            "Then will they be made worthy of the effulgent glories of the sun of divine knowledge and understanding, and become the recipients of a grace that is infinite and unseen, inasmuch as man can never hope to attain unto the knowledge of the All-Glorious, can never quaff from the stream of divine knowledge and wisdom, can never enter the abode of immortality, nor partake of the cup of divine nearness and favor, unless and until he ceases to regard the words and deeds of mortal men as a standard for the true understanding and recognition of God and His Prophets."
+          ]
         },
         {
           "key": "source:BH00113",
-          "why": "Bring the reader’s habits of perception and learning into the inquiry."
+          "why": "Bring the reader’s habits of perception and learning into the inquiry.",
+          "shortened": [
+            "Blind thine eyes, that thou mayest behold My beauty; stop thine ears, that thou mayest hearken unto the sweet melody of My voice; empty thyself of all learning, that thou mayest partake of My knowledge; and sanctify thyself from riches, that thou mayest obtain a lasting share from the ocean of My eternal wealth."
+          ]
         },
         {
           "key": "source:BH00306",
-          "why": "Distinguish the universal Intellect from limited reason in the poetic image."
+          "why": "Distinguish the universal Intellect from limited reason in the poetic image.",
+          "shortened": [
+            "15 If the wayfarers be among them that dwell in the court of the All-Praised, this is the station of the Intellect, which is known as the messenger of the realm of the body and the most great pillar. That which is intended, however, is the universal divine Intellect, whose sovereignty fostereth the growth of all things, and not every vain and feeble mind. Thus hath the wise Sana'i written:",
+            "\"How can feeble reason embrace the Qur'an",
+            "Or the spider snare a phoenix in its web?"
+          ]
         },
         {
           "key": "source:BH00151",
@@ -614,7 +794,10 @@
         },
         {
           "key": "source:BH00394",
-          "why": "Consider the distinction between claims of wonders and revealed verses as proof."
+          "why": "Consider the distinction between claims of wonders and revealed verses as proof.",
+          "shortened": [
+            "However, concerning that which hath been sent down from the heaven of bounty and the clouds of mercy in the Bayan, no universal proof or conclusive evidence hath been ordained save the revelation of verses. This hath ever been and shall ever remain God's proof unto the peoples of the earth. Should any matter appear from the Source of Grace and Glory other than this, it is purely through God's favor; otherwise, the supreme proof is that which He Himself hath ordained - and who is more truthful in speech than God?"
+          ]
         },
         {
           "key": "source:BH01743",
@@ -626,11 +809,18 @@
         },
         {
           "key": "source:BH09747",
-          "why": "Consider how an earlier book can become a veil to its intended object."
+          "why": "Consider how an earlier book can become a veil to its intended object.",
+          "shortened": [
+            "The Bayan crieth out and saith: O people! Make Me not a veil between you and your Lord. He Who revealed Me hath commanded you not to make of Me a proof in the days of God, the Lord of the worlds."
+          ]
         },
         {
           "key": "source:BH07299",
-          "why": "Keep the statement about the relation of divine books."
+          "why": "Keep the statement about the relation of divine books.",
+          "shortened": [
+            "Today all divine Books have been and shall be dependent upon the Most Great Book. The Mother Book calleth out with the most exalted voice and summoneth the people to the supreme horizon.",
+            "Whosoever hath attained unto acceptance and taken hold of it with the hand of certitude, he verily hath acknowledged and confessed all the divine Books."
+          ]
         },
         {
           "key": "source:BH00875",
@@ -650,19 +840,31 @@
         },
         {
           "key": "source:BH10666",
-          "why": "Keep the concise challenge to inherited grounds of faith."
+          "why": "Keep the concise challenge to inherited grounds of faith.",
+          "shortened": [
+            "By what is in the hands of people their faith cannot be established. Thus hath the Command been sent down from thy Lord, the Mighty, the All-Forgiving."
+          ]
         },
         {
           "key": "source:BH06165",
-          "why": "Consider the touchstone that reveals claimed knowledge and love."
+          "why": "Consider the touchstone that reveals claimed knowledge and love.",
+          "shortened": [
+            "All who are on earth have claimed knowledge and love, both in the past and present, but when the divine touchstone and balance appeared, the station of all was made clear, manifest and evident."
+          ]
         },
         {
           "key": "source:BH05232",
-          "why": "Attend to the pairing of justice and grace in the balance."
+          "why": "Attend to the pairing of justice and grace in the balance.",
+          "shortened": [
+            "The utterance of the Goal of all the worlds was the balance of truth, and it weighed all things: some He dealt with through justice, and others through grace."
+          ]
         },
         {
           "key": "source:BH09525",
-          "why": "Read the Book as both standard and sign."
+          "why": "Read the Book as both standard and sign.",
+          "shortened": [
+            "The Book of God hath been sent down in truth from the presence of One knowing and wise. Verily it is the Balance of Truth amongst creation and the Most Great Sign for all who are in the heavens and the earth."
+          ]
         },
         {
           "key": "source:BH09956",
@@ -682,7 +884,10 @@
         },
         {
           "key": "source:BH09614",
-          "why": "Retain the brief statement concerning pre-existence without supplying an argument."
+          "why": "Retain the brief statement concerning pre-existence without supplying an argument.",
+          "shortened": [
+            "Thus have We caused to flow from the Pen that which shall establish the decree of pre-existence, yet most of the peoples remain heedless."
+          ]
         },
         {
           "key": "source:BB00492",
@@ -694,19 +899,32 @@
         },
         {
           "key": "source:AB00289",
-          "why": "Examine the historical astronomical argument as an attributed interpretation."
+          "why": "Examine the historical astronomical argument as an attributed interpretation.",
+          "shortened": [
+            "Take heed of what God revealed in the Furqan: \"And the sun runs unto a resting-place.\" This clear statement from the Qur'an contradicted what Ptolemy and every philosopher after him maintained, for those Ptolemaic principles were accepted among mathematicians whose fame had spread to all horizons. Thus the interpreters resorted to weak interpretations of this blessed verse to make it conform with those ancient principles accepted by the people, abandoning the clear meaning that matched reality with manifest proof.",
+            "Thereby it was proven to them that the sun has axial motion, and they acknowledged that \"the sun runs unto a resting-place\" as is clearly stated in the Book without doubt or uncertainty."
+          ]
         },
         {
           "key": "source:ABU2646",
-          "why": "Read the reported statement about truth and difference of view."
+          "why": "Read the reported statement about truth and difference of view.",
+          "shortened": [
+            "The Word of God is perfect and arbitrary in Its perfection. When there is difference of view there is absence of the Spirit. The Word is the only Standard of Truth."
+          ]
         },
         {
           "key": "source:BH09938",
-          "why": "Keep the strong statement about acceptance within its religious claim."
+          "why": "Keep the strong statement about acceptance within its religious claim.",
+          "shortened": [
+            "He who denieth this Book, naught shall be accepted from him though he act according to what is in the Books of God, the All-Knowing, the All-Wise."
+          ]
         },
         {
           "key": "source:BH03426",
-          "why": "Turn toward the invitation to rejoice in the Book."
+          "why": "Turn toward the invitation to rejoice in the Book.",
+          "shortened": [
+            "Rather, rejoice in this Clear Book, for nothing among all things can equal it - to this doth the Lord of all creation bear witness on this luminous night."
+          ]
         },
         {
           "key": "source:BH01738",
@@ -714,11 +932,17 @@
         },
         {
           "key": "source:BH00326",
-          "why": "Read the endurance attributed to the divine words."
+          "why": "Read the endurance attributed to the divine words.",
+          "shortened": [
+            "Consider the world as a book; at every moment obliteration seizeth its words, as every person of insight can perceive. But the words of God have a station that neither obliteration can seize nor extinction approach."
+          ]
         },
         {
           "key": "source:BH07432",
-          "why": "Develop the image of lasting fruits amid transience."
+          "why": "Develop the image of lasting fruits amid transience.",
+          "shortened": [
+            "Soon all that is visible shall vanish, and that which is everlasting and enduring hath been and shall ever be the Word of God. Its traces shall not be obliterated, nor shall it be overtaken, and its fruits shall endure throughout the kingdom of earth and heaven."
+          ]
         },
         {
           "key": "source:BH10952",
@@ -738,7 +962,11 @@
         },
         {
           "key": "selection:f4722aabc88983bd7e743135",
-          "why": "Conclude with the supplied discussion of method, revelation, and the limits of the mind."
+          "why": "Conclude with the supplied discussion of method, revelation, and the limits of the mind.",
+          "shortened": [
+            "To the Baha'is, therefore, the Revealed Word is the balance, the infallible balance, by which truth can be distinguished from error. The human mind is too limited, too impotent to be able, all alone, to understand the purpose and plan of God for His creation.",
+            "If it seems to be in conflict with prevailing notions and standards, this is no sufficient reason to justify us to repudiate it. Rather we should endeavor to so direct our methods of investigation as to be able to reach the very same conclusions the Prophet has arrived at."
+          ]
         }
       ],
       "questions": [
@@ -808,16 +1036,24 @@
       "id": "B34A98AB07FA4A878A55CB4FA12363CC",
       "slug": "christbirth",
       "displayTitle": "The birth of Christ: mystery, recognition, and divine perfections",
-      "introduction": "The greatness of Christ, one opening passage insists, rests in divine perfections. Read beside Bahá’u’lláh’s account of Mary’s anguish, this shifts attention from an isolated marvel toward the human difficulty of recognizing a revelation. The compilation affirms the virgin birth while exploring the language of heaven, the Holy Spirit, and the limits of arguments about possibility. Its historical scientific analogies, reported conversations, and later letters require care: they differ in form and authority, and their explanations should be read in their own settings. Luke’s account brings Mary’s question and willing response into the comparison [1]. Neighboring subjects open further inquiries into miracles, Christian doctrine, and scriptural interpretation. Throughout, the challenge is to take a religious mystery seriously while allowing the qualities and transforming mission of Christ to remain central to the encounter with His life.",
+      "introduction": "If being born without a father were a virtue, ‘Abdu’l-Bahá remarks, Adam would outrank every Prophet, since He had neither father nor mother. The greatness of Christ lies elsewhere, in the divine perfections that shone through Him, and that is where any thinking about His birth has to begin. Bahá’u’lláh then turns to Mary, so perplexed and so grieved that she wished she had never been born, unable to tell her neighbours that a Child whose father no one knew had been conceived of the Holy Spirit; and upon that fatherless Babe God conferred the glory of Prophethood. The virgin birth is affirmed, and so are its mysteries: that Christ came from heaven though He came from Mary’s womb, that the first man had no parents at all, and that what has never been observed is not the same as what is impossible. Shoghi Effendi adds that a God called the Unconstrained may alter the laws He wrote, and that mystery is an inseparable part of true religion. Luke’s account of Gabriel, Mary’s question and her willing answer belongs beside the Íqán’s portrait of her ordeal [1]. The road continues toward miracles and their meaning, the doctrines of Christianity, and the interpretation of the scriptures that carry this story.",
       "arc": "Begin with divine perfections and Mary’s ordeal, explore heavenly origin and the question of possibility, then read later clarification without losing the centrality of Christ’s mission.",
       "order": [
         {
           "key": "source:AB01218",
-          "why": "Open with the explicit location of Christ’s greatness in divine perfections."
+          "why": "Open with the explicit location of Christ’s greatness in divine perfections.",
+          "shortened": [
+            "The honour and greatness of Christ reside not in His being without a father, but rather in His divine perfections, outpourings, and splendours. Were the greatness of Christ due to His lacking a father, Adam would be even greater, for He had neither father nor mother.",
+            "In brief, the honour and glory of those sanctified Souls, the Manifestations of God, are due to Their heavenly perfections, outpourings, and splendours, and to nothing else."
+          ]
         },
         {
           "key": "source:BH00002",
-          "why": "Bring Mary’s anguish and the test of recognition into view."
+          "why": "Bring Mary’s anguish and the test of recognition into view.",
+          "shortened": [
+            "Reflect, what answer could Mary have given to the people around her? How could she claim that a Babe Whose father was unknown had been conceived of the Holy Ghost?",
+            "And now, meditate upon this most great convulsion, this grievous test. Notwithstanding all these things, God conferred upon that essence of the Spirit, Who was known amongst the people as fatherless, the glory of Prophethood, and made Him His testimony unto all that are in heaven and on earth."
+          ]
         },
         {
           "key": "source:BB00002",
@@ -825,7 +1061,10 @@
         },
         {
           "key": "source:AB04965",
-          "why": "Consider the image of a gift shining upon Mary."
+          "why": "Consider the image of a gift shining upon Mary.",
+          "shortened": [
+            "This gift was shining on the face of the Virgin Mary like unto a brilliant gem glistening on the great crown of glory."
+          ]
         },
         {
           "key": "source:AB04064",
@@ -841,7 +1080,10 @@
         },
         {
           "key": "source:ABU0735",
-          "why": "Read the reported concise parallel."
+          "why": "Read the reported concise parallel.",
+          "shortened": [
+            "Christ said that He had come from the sky, from Heaven -- that He came forth from God -- while He was born of Mary, His Mother."
+          ]
         },
         {
           "key": "source:ABU2982",
@@ -853,11 +1095,18 @@
         },
         {
           "key": "source:AB00920",
-          "why": "Read the developed discussion of possibility and observation."
+          "why": "Read the developed discussion of possibility and observation.",
+          "shortened": [
+            "The divine philosophers, however, reply: \"Such a thing is not impossible, although it has not been observed, and there is a difference between that which is impossible and that which has merely not been observed. For example, in the days before the telegraph, the instantaneous communication of East and West had not been observed but was not impossible; likewise, the photograph and the phonograph had not been observed but were not impossible.\"",
+            "Then surely the first man had neither father nor mother, for the existence of the human species has an origin in time. Now, which is more problematic: that man should come into being, albeit gradually, with neither father nor mother, or that he should come into being without a father?"
+          ]
         },
         {
           "key": "source:AB00353",
-          "why": "Keep the further philosophical argument within its historical scientific frame."
+          "why": "Keep the further philosophical argument within its historical scientific frame.",
+          "shortened": [
+            "In brief, the philosophers and men of science of Europe entertain no doubt whatever regarding the origination of the three kingdoms; nay, they insist upon it with remarkable firmness. In that case, according to their own belief, the first man came into being and was born without father or mother. Despite this admission and acknowledgement, how can they regard with wonder and astonishment the birth of Christ through the bounty of the Holy Spirit? For He, at least, had a mother, whereas the first-born man was without father and without mother."
+          ]
         },
         {
           "key": "source:AB00152",
@@ -865,7 +1114,10 @@
         },
         {
           "key": "source:AB10306",
-          "why": "Retain the additional statement of that analogy."
+          "why": "Retain the additional statement of that analogy.",
+          "shortened": [
+            "O maid-servant of God, the example of His Holiness Christ is similar to His Holiness Adam.  Did the first man who was created in the world have a father and mother?  Certainly, he had no father nor mother, and thus Jesus was without father."
+          ]
         },
         {
           "key": "source:ABU0493",
@@ -873,7 +1125,11 @@
         },
         {
           "key": "source:ABU1419",
-          "why": "Keep the extended reported conversation and its cosmological assumptions attributed."
+          "why": "Keep the extended reported conversation and its cosmological assumptions attributed.",
+          "shortened": [
+            "Some of the pupils in the Schools of Science once came to Akka and asked the question regarding the Immaculate Conception of our Lord. He answered, \"A living body cannot come from a dead body - only a living man can make a living child - this is a scientific fact.\" The Scientists answered \"It is impossible for a child to be born without a father\" and that nothing could change their opinion concerning it. They left that subject and began to speak of others and finally of geology and of well-known scientific facts. They spoke of the way in which the Earth had been thrown off from the Sun - of how it had gradually cooled and a crust had formed to make a surface of the Earth, and went on to speak of the Creation of nature and finally of man's Creation.",
+            "Our Lord said, \"You believe in the Creation of man?\" (Adam) They said \"Yes.\" Our Lord said to them \"And who were the father and mother of Adam? You said that you couldn't believe that Jesus Christ could be born without an earthly father (when he had a Mother) yet you can believe that Adam was born without either.\""
+          ]
         },
         {
           "key": "source:ABU3186",
@@ -885,7 +1141,10 @@
         },
         {
           "key": "source:ABU1697",
-          "why": "Keep the reported interpretation of Isaiah in its own wording."
+          "why": "Keep the reported interpretation of Isaiah in its own wording.",
+          "shortened": [
+            "Isaiah prophesied that a virgin would conceive and bring forth a son, and His name would be called Immanuel--God with us. While the Christians claim this passage is to be taken literally, and that it means that Christ was born of a virgin, it is a prophecy of Christ, but in the original, the word translated \"virgin\" means a pure, chaste woman, and that was Mary, Joseph's wife. All the Old Testament prophecies foretold the coming of Christ. The Gospel of Christ shadowed forth the coming of the Manifestation."
+          ]
         },
         {
           "key": "source:AB11309",
@@ -897,7 +1156,10 @@
         },
         {
           "key": "source:ABU1627",
-          "why": "Explore the reported expansion of kinship through the Kingdom."
+          "why": "Explore the reported expansion of kinship through the Kingdom.",
+          "shortened": [
+            "Christ said that His mother Mary was not of His Relationship, also that those were His brothers and sisters who were in the Kingdom of God."
+          ]
         },
         {
           "key": "source:ABU2503",
@@ -905,7 +1167,10 @@
         },
         {
           "key": "source:AB03340",
-          "why": "Keep the passage concerning signs and relationships in its stated scope."
+          "why": "Keep the passage concerning signs and relationships in its stated scope.",
+          "shortened": [
+            "However, some among the ancients through the power of detachment gained knowledge of certain cosmic mysteries and obtained awareness of relationships and connections that exist between created things - they became aware of certain hidden secrets in the realities of things and deduced some future events from the relationships between existing things. This cannot be denied, as mentioned in the Kitab-i-Iqan regarding the brilliant star that indicated the birth of Christ."
+          ]
         },
         {
           "key": "source:ABU1784",
@@ -917,7 +1182,10 @@
         },
         {
           "key": "source:BH01716",
-          "why": "Read the selected celebration of a sacred birth in its own words."
+          "why": "Read the selected celebration of a sacred birth in its own words.",
+          "shortened": [
+            "And the Voice of God was raised from behind the pavilion of holiness and tender mercy, exclaiming: This is indeed the Night in which He Who is the Manifestation of the Essence of the Merciful Lord hath been born, wherein the Pen of the All-Glorious hath set forth every eternal decree with clarity."
+          ]
         },
         {
           "key": "source:AB08259",
@@ -941,15 +1209,24 @@
         },
         {
           "key": "selection:37da4ec2623888415e1cbcf5",
-          "why": "Consider the supplied discussion of mystery and divine power."
+          "why": "Consider the supplied discussion of mystery and divine power.",
+          "shortened": [
+            "The belief in the possibilities of miracles, on the contrary, implies that God's power is beyond any limitation whatsoever. For it is only logical to believe that the Creator, Who is the sole Author of all the laws operating in the universe, is above them and can, therefore, if He deems it necessary, alter them at His Own Will. We, as humans, cannot possibly attempt to read His Mind, and to fully grasp His Wisdom. Mystery is therefore an inseparable part of true religion, and as such, should be recognized by the believers."
+          ]
         },
         {
           "key": "selection:4b09e9a3407f43d06b2c7747",
-          "why": "Retain the forceful supplied argument in the context of the earlier correspondence."
+          "why": "Retain the forceful supplied argument in the context of the earlier correspondence.",
+          "shortened": [
+            "One thing, however, he wishes again to bring to your attention, namely that miracles are always possible, even though they do not constitute a regular channel whereby God reveals His power to mankind. To reject miracles on the ground that they imply a breach in the laws of nature is a very shallow, well nigh stupid argument, inasmuch as God Who is the Author of the universe can, in His Wisdom and Omnipotence, bring any change, no matter how temporary, in the operation of the laws which He Himself created."
+          ]
         },
         {
           "key": "selection:f79c87dadf029bb4f8f430bc",
-          "why": "Read the supplied account of possibility and divine purpose."
+          "why": "Read the supplied account of possibility and divine purpose.",
+          "shortened": [
+            "Certainly not, for we as Baha'is ought to believe, if not in all the miracles reported in the Bible, at least in their possibility. For there's nothing irrational in miracles. God, Who is the author of this universe can well, if He deems it wise, alter the operation of its laws. Otherwise, He would cease to be supreme. Has He not been called by Baha'u'llah the Unconstrained? And who knows His purpose in causing the virgin birth of Jesus? Who is man to question the ways and methods of God?"
+          ]
         },
         {
           "key": "selection:e270b57d6877e85ae9111c78",
@@ -965,7 +1242,10 @@
         },
         {
           "key": "selection:2ddfe557d3a33ddb5d154aba",
-          "why": "Keep the extended pilgrim notes distinct from the authoritative letters."
+          "why": "Keep the extended pilgrim notes distinct from the authoritative letters.",
+          "shortened": [
+            "In a Tablet that has not yet been translated from the original Persian, the Master says the conception of Christ was extraordinary, against the natural law. He defines the natural law and says it was not according to this law. The Baha'is must accept the immaculate conception. Every religion has its mysteries. The Virgin Mary's perplexity was not due to shame, but because she could not explain her condition."
+          ]
         },
         {
           "key": "selection:b036677b17df0f27aba177e2",
@@ -1025,44 +1305,74 @@
       "id": "7D483E56354A41E7BBF405202EC78AAE",
       "slug": "greed",
       "displayTitle": "Greed and envy: recovering the freedom to see",
-      "introduction": "A veil as thin as an eyelid can hide a world. Bahá’u’lláh’s image makes greed a problem of perception as well as possession: what can a person see when the desire for more occupies the heart? These readings move from envy and insatiability to exploitation, conflict, and the wasting of a finite life. Their stories and admonitions also unsettle simple equations between poverty and freedom; a reported comparison turns on attachment to a single donkey. The neighboring subjects of detachment, transience, and worldliness help ask what deserves lasting affection. In Luke’s parable, abundant harvests and larger storehouses fail to answer the question of a life’s purpose [1]. Strong metaphors of fire, sickness, and captivity give urgency to the compilation’s appeal. Read as an invitation to examine ourselves, they open a search for contentment, justice, and the capacity to rejoice in another person’s good.",
+      "introduction": "An eyelid, Bahá’u’lláh observes, is thin enough to hide the whole world from the outer eye; imagine, then, what the veil of covetousness does to the inner one. Greed is a disorder of sight before it is a question of possessions. A bird that stoops to the clay for its hunger finds its wings too heavy to rise again; a man who has nothing but a donkey may be more attached than one who owns everything; those who dream of ten thousand dollars do not see that those who have it grieve for a hundred thousand. The cost widens outward: fortunes become burdens, wealth is amassed from the labour of the poor, war and corruption spring from avarice, and the learned are blinded by desire as surely as the ignorant. Luke’s rich man plans larger storehouses on the night his life is required of him [1]. The way through passes into detachment and renunciation, into the transience that makes hoarding absurd, and into the choice between worldliness and a heart free enough to rejoice in another’s good.",
       "arc": "Begin with the veiling of perception, follow the expanding costs of acquisitiveness, then turn through mortality toward detachment and a freer heart.",
       "order": [
         {
           "key": "source:BH00698",
-          "why": "Open with the eyelid and the inner eye as images of distorted perception."
+          "why": "Open with the eyelid and the inner eye as images of distorted perception.",
+          "shortened": [
+            "O children of understanding! If the eyelid, however delicate, can deprive man's outer eye from beholding the world and all that is therein, consider then what would be wrought if the veil of covetousness were to descend upon his inner eye. Say: O people! The darkness of greed and envy becloudeth the radiance of the soul even as the clouds obstruct the light of the sun.",
+            "The heart is the treasury of My mystery; surrender it not into the hand of covetous desires."
+          ]
         },
         {
           "key": "source:BH00249",
-          "why": "Develop the image through a bird trapped by desire."
+          "why": "Develop the image through a bird trapped by desire.",
+          "shortened": [
+            "Suffer not the habitation wherein dwelleth My undying love for thee to be destroyed through the tyranny of covetous desires, and overcloud not the beauty of the heavenly Youth with the dust of self and passion.",
+            "Ye are even as the bird which soareth, with the full force of its mighty wings and with complete and joyous confidence, through the immensity of the heavens, until, impelled to satisfy its hunger, it turneth longingly to the water and clay of the earth below it, and, having been entrapped in the mesh of its desire, findeth itself impotent to resume its flight to the realms whence it came.",
+            "Wherefore, O My servants, defile not your wings with the clay of waywardness and vain desires, and suffer them not to be stained with the dust of envy and hate, that ye may not be hindered from soaring in the heavens of My divine knowledge."
+          ]
         },
         {
           "key": "source:ABU0450",
-          "why": "Complicate the equation of freedom with having few possessions."
+          "why": "Complicate the equation of freedom with having few possessions.",
+          "shortened": [
+            "He had everything but he had attained to the station of sacrifice; I had nothing - only a donkey - yet was I attached to it.'"
+          ]
         },
         {
           "key": "source:ABU1580",
-          "why": "Read the reported endlessly receding target of enough."
+          "why": "Read the reported endlessly receding target of enough.",
+          "shortened": [
+            "Do not attach your hearts to the worldly possessions. Attachments alloys happiness. There are some people who dream that if they had 10 thousand dollars they would be happy; but they do not know that those who have already 10,000 dollars are unhappy and are sad because they do not have 100,000 dollars and so on. If you want to be happy, attach your hearts to nothing."
+          ]
         },
         {
           "key": "source:AB01154",
-          "why": "Consider the particular effort to appease greed and its lack of result."
+          "why": "Consider the particular effort to appease greed and its lack of result.",
+          "shortened": [
+            "As for J. and his great greed about which this helpless one wrote, you are witness to how much this servant was thinking about calming his greed. Even what you presented, I said to give to him, perhaps the fire of greed would be calmed. Despite this, no fruit was observed, and \"On the Day We will say to Hell, 'Have you been filled?' and it will say, 'Are there any more?'\""
+          ]
         },
         {
           "key": "source:ABU0700",
-          "why": "Explore the reported burden of administering a fortune."
+          "why": "Explore the reported burden of administering a fortune.",
+          "shortened": [
+            "Life to many rich men is nothing but a heavy burden. They are \"wood carriers.\" Instead of a blessing wealth becomes a great calamity to them. The supervision of their colossal fortunes and their proper financial administration becomes the sole object of their lives. Day and night, asleep and awake, they think and work to make their piles larger and that of others smaller till finally they become mere money machines devoid of any other feeling or of higher emotions, wild-eyed, always hungering for more. Greed and selfishness become the dominant influences of their lives."
+          ]
         },
         {
           "key": "source:BH04844",
-          "why": "Bring mortality into the picture of guarded possessions."
+          "why": "Bring mortality into the picture of guarded possessions.",
+          "shortened": [
+            "Among the people is he who, when he witnesseth one gazing upon his home, he desireth, in his anger, to kill him. But erelong his enemies shall seize that which is in his home, and he will find himself in manifest loss. And among the people is he who, if he lacks but a single dinar, his face will turn dark with covetousness. When death overtakes him the hand of separation severs him from that which he had avidly amassed."
+          ]
         },
         {
           "key": "source:BH08447",
-          "why": "Ask who will inherit the wealth and glory pursued."
+          "why": "Ask who will inherit the wealth and glory pursued.",
+          "shortened": [
+            "Night and day they are consumed by the fire of greed and deprived of the light of detachment. With all their soul they strive after wealth and glory, heedless of to whom this wealth shall revert the following day and who shall inherit this glory."
+          ]
         },
         {
           "key": "source:ABU0955",
-          "why": "Keep the reported story of regret within its narrative setting."
+          "why": "Keep the reported story of regret within its narrative setting.",
+          "shortened": [
+            "He possessed three hundred and sixty palaces, and in each palace was a renowned maiden. He would not spend more than one day and night in any single palace. Moreover, whichever maiden's turn it was would arrange all manner of music, song, and pleasure for him on her appointed night. When he was about to die, he said all of this was vain. He wept, saying \"Why did I waste my life? Why did I spend my time like children occupied with such things whose end is manifest loss?"
+          ]
         },
         {
           "key": "source:BH11249",
@@ -1078,7 +1388,10 @@
         },
         {
           "key": "source:ABU2765",
-          "why": "Consider the reported sacrifice of rights and fairness for land."
+          "why": "Consider the reported sacrifice of rights and fairness for land.",
+          "shortened": [
+            "It is very strange how the possession of a few spans of earth blinds men to justice and fairness. He became neglectful and heedless, forgetting God in their mad haste after wealth and trampling upon the rights of others."
+          ]
         },
         {
           "key": "source:BH00755",
@@ -1094,15 +1407,24 @@
         },
         {
           "key": "source:BH01209",
-          "why": "Read the loss of human qualities through attachment to transient ornaments."
+          "why": "Read the loss of human qualities through attachment to transient ornaments.",
+          "shortened": [
+            "Yet one is astonished at souls who, without cause and merely out of greed, avarice and passion, cling to all manner of evil and emerge thus. Glory be to God! Love of transient ornaments hath so seized them that they have become utterly deprived of human qualities."
+          ]
         },
         {
           "key": "source:BH03761",
-          "why": "Hear the concise image of world-consuming greed."
+          "why": "Hear the concise image of world-consuming greed.",
+          "shortened": [
+            "The world-consuming greed hath encompassed creation, save whom God willeth."
+          ]
         },
         {
           "key": "source:BH07958",
-          "why": "Consider the further image of chains."
+          "why": "Consider the further image of chains.",
+          "shortened": [
+            "All are observed to be fettered by the chains of self and desire, save whom God willeth."
+          ]
         },
         {
           "key": "source:ABU0812",
@@ -1118,11 +1440,20 @@
         },
         {
           "key": "source:AB00004",
-          "why": "Examine desire’s power to blind even the learned."
+          "why": "Examine desire’s power to blind even the learned.",
+          "shortened": [
+            "For desire is a flame that has reduced to ashes uncounted lifetime harvests of the learned, a devouring fire that even the vast sea of their accumulated knowledge could never quench.",
+            "Yet the pursuit of passion and desire will wrap the eyes in a thousand veils that rise out of the heart to blind the sight and the insight as well.",
+            "Desire and self come in the door  And blot out virtue, bright before,",
+            "And a hundred veils will rise From the heart, to blind the eyes."
+          ]
         },
         {
           "key": "source:ABU2000",
-          "why": "Consider the reported difference between outward religious activity and inward attachment."
+          "why": "Consider the reported difference between outward religious activity and inward attachment.",
+          "shortened": [
+            "The reason why some missionaries, monks, etc. who spend their whole time in praying and reading holy books, do not accept this, is because though they act in this way, their hearts are really still with the world."
+          ]
         },
         {
           "key": "source:BH02747",
@@ -1130,7 +1461,11 @@
         },
         {
           "key": "source:ABU1612",
-          "why": "Retain the reported story of money treated as God."
+          "why": "Retain the reported story of money treated as God.",
+          "shortened": [
+            "The Blessed Beauty sent someone to Istanbul to see why there was no news of him. When he was contacted, he said to the envoy, 'God is in this box,' meaning that God is money.",
+            "The envoy returned and reported the situation to the Blessed Beauty, who then became very sad. He said, 'We will take it from him the same way We gave it to him.'"
+          ]
         },
         {
           "key": "source:AB06267",
@@ -1138,7 +1473,10 @@
         },
         {
           "key": "source:BH02218",
-          "why": "Keep the strong theological judgment concerning worldly possession in its setting."
+          "why": "Keep the strong theological judgment concerning worldly possession in its setting.",
+          "shortened": [
+            "Had the world been of any worth in His sight, He surely would never have allowed His enemies to possess it, even to the extent of a grain of mustard seed. He hath, however, caused you to be entangled with its affairs, in return for what your hands have wrought in His Cause. This, indeed, is a chastisement which ye, of your own will, have inflicted upon yourselves, could ye but perceive it."
+          ]
         },
         {
           "key": "source:ABU3750",
@@ -1150,7 +1488,10 @@
         },
         {
           "key": "source:AB00107",
-          "why": "Keep the severe description of jealousy as moral admonition."
+          "why": "Keep the severe description of jealousy as moral admonition.",
+          "shortened": [
+            "But every illness has a cure and every ailment a remedy, except the disease of jealousy, which has absolutely no cure, and love and loyalty yield no result."
+          ]
         },
         {
           "key": "source:BH01313",
@@ -1158,7 +1499,13 @@
         },
         {
           "key": "source:BH00113",
-          "why": "Consider the heart as a candle threatened by self and passion."
+          "why": "Consider the heart as a candle threatened by self and passion.",
+          "shortened": [
+            "6. O SON OF EARTH!\nKnow, verily, the heart wherein the least remnant of envy yet lingers, shall never attain My everlasting dominion, nor inhale the sweet savors of holiness breathing from My kingdom of sanctity.",
+            "Abandon not the everlasting beauty for a beauty that must die, and set not your affections on this mortal world of dust.",
+            "The candle of thine heart is lighted by the hand of My power, quench it not with the contrary winds of self and passion.",
+            "Purge thy heart from malice and, innocent of envy, enter the divine court of holiness."
+          ]
         },
         {
           "key": "source:ABU2825",
@@ -1166,23 +1513,38 @@
         },
         {
           "key": "source:ABU1126",
-          "why": "Explore the reported aspiration toward expanded thought and freedom from covetousness."
+          "why": "Explore the reported aspiration toward expanded thought and freedom from covetousness.",
+          "shortened": [
+            "Our desire is for them to grow focused on God, for hearts to shine with radiance, for thoughts to be expanded, for them to become informed of heavenly realms, for greed and avidity to be erased, for reliance on God to be universal, and for people to be satisfied with their status and not invade other people's possessions."
+          ]
         },
         {
           "key": "source:BH03699",
-          "why": "Consider the invitation to leave the garment of greed behind."
+          "why": "Consider the invitation to leave the garment of greed behind.",
+          "shortened": [
+            "Most people have been consumed by the fire of greed and desire while they perceive it not. Blessed is the soul that hath cast off the garment of greed and departed from the world out of love for God, the Protector, the Self-Subsisting."
+          ]
         },
         {
           "key": "source:BH07185",
-          "why": "Read the summons to a different object of attachment."
+          "why": "Read the summons to a different object of attachment.",
+          "shortened": [
+            "Say: O people, abandon what ye possess and hold fast unto that which your Lord, the Mighty, the Loving, commandeth you. Nothing shall profit you this day, nor shall the treasures of the earth avail you, could ye but know."
+          ]
         },
         {
           "key": "source:BH00412",
-          "why": "Ask what cargo prevents the ship from reaching its destination."
+          "why": "Ask what cargo prevents the ship from reaching its destination.",
+          "shortened": [
+            "He said: It would be difficult for that ship, with the weight of a world of its own merchandise of suspicions, vain imaginings, greed and avarice, to reach its destination except by the will of God, the Lord of all worlds."
+          ]
         },
         {
           "key": "source:ABU0892",
-          "why": "Close with the reported bird that has known a wider garden."
+          "why": "Close with the reported bird that has known a wider garden.",
+          "shortened": [
+            "Men in their present condition are ignorant of that world, and therefore they wish to remain here. Their utmost desire is to live here always- like a bird in a cage. But the bird which has known the flower garden will not wish to be confined in the cage. If he finds himself there, his desire will be to escape from it that he may return to the garden. So when a man is delivered, he will not wish to return. He will never desire to descend-to be exiled from the godly world and come back to this dark world."
+          ]
         }
       ],
       "questions": [
@@ -1234,20 +1596,30 @@
       "id": "5B93ADAC08EC4BAABE2190E8FEC71C01",
       "slug": "revelationmodes",
       "displayTitle": "The forms of revelation: many voices, a living address",
-      "introduction": "A lawgiver, a mystic, a voice of consolation: the writings meet readers in remarkably different forms. This compilation begins with that variety and invites attention to the relation between a single spiritual purpose and many modes of address. The Báb names classes of writing; Bahá’u’lláh speaks of diverse styles, languages, brevity, repetition, and meanings disclosed according to capacity. Accounts of swift dictation and the work of transcription bring the material preservation of revelation into view. ‘Abdu’l-Bahá’s explanation of awakening as a spiritual metaphor provides a key to reading descriptions of the revelatory experience with care. Qur’an 42:51 offers a comparison concerning divine communication and its mediation [1]. The connected subjects range from authentication and proof to comfort, counsel, and action, suggesting a further question: how does the form of a passage help us hear the response it asks of its particular readers?",
+      "introduction": "Bahá’u’lláh once declared that He had revealed His verses in nine different modes, any one of which would suffice as proof for all who dwell on earth. The claim unsettles the habit of listening for God in a single register. The same Pen speaks as lawgiver and as mystic, in Persian and in Arabic and at times in neither, sometimes with stark brevity, sometimes repeating a word because its hearers had not yet reached maturity. The Báb describes a thousand verses flowing in five hours, as fast as a scribe could set them down, and a secretary of Bahá’u’lláh confesses that the torrent outran his pen. ‘Abdu’l-Bahá cautions that the waking from sleep in such accounts is a metaphor for the movement from silence into utterance. The Qur’an, too, speaks of God addressing humanity through revelation, from behind a veil, or by a messenger [1]. To ask how God speaks is soon to ask who receives that speech, how the Holy Spirit moves through a chosen Soul, and why one voice can command, console and counsel.",
       "arc": "Begin with diverse voices and forms, examine spiritual experience and the work of transmission, then consider language, capacity, and the reader’s response.",
       "order": [
         {
           "key": "source:BH00005",
-          "why": "Open with the lawgiver and the mystic united by a purpose."
+          "why": "Open with the lawgiver and the mystic united by a purpose.",
+          "shortened": [
+            "So long, however, as the thick clouds of oppression, which obscure the daystar of justice, remain undispelled, it would  be difficult for the glory of this station to be unveiled to men's eyes. These thick clouds are the exponents of idle fancies and vain imaginings, who are none other but the divines of Persia. At one time We spoke in the language of the lawgiver; at another in that of the truth-seeker and the mystic, and yet Our supreme purpose and highest wish hath always been to disclose the glory and sublimity of this station."
+          ]
         },
         {
           "key": "source:BH00007",
-          "why": "Read the explicit statement of nine modes without inventing their enumeration."
+          "why": "Read the explicit statement of nine modes without inventing their enumeration.",
+          "shortened": [
+            "Say:  We have revealed Our verses in nine different modes.  Each one of them bespeaketh the sovereignty of God, the Help in Peril, the Self-Subsisting.  A single one of them sufficeth for a proof unto all who are in the heavens and on the earth; yet the people, for the most part, persist in their heedlessness.  Should it be Our wish, We would reveal them in countless other modes."
+          ]
         },
         {
           "key": "source:BB00001",
-          "why": "Explore the Báb’s classifications and accounts of revelation."
+          "why": "Explore the Báb’s classifications and accounts of revelation.",
+          "shortened": [
+            "He revealeth no less than a thousand verses within the space of five hours. He reciteth verses at a speed consonant with the capacity of His amanuensis to set them down.",
+            "The substance of this gate is this, that all the writings of the Point bear the name Bayan, but in its primary truth this name is singled out for the divine verses. However, in its secondary truth it refereth to the prayers, in its tertiary truth to the commentaries, in its fourth-degree truth to educational forms, and in the fifth-degree truth to the Persian words."
+          ]
         },
         {
           "key": "source:BH06960",
@@ -1263,19 +1635,31 @@
         },
         {
           "key": "source:BH00127",
-          "why": "Consider repetition and meaning in relation to human capacity."
+          "why": "Consider repetition and meaning in relation to human capacity.",
+          "shortened": [
+            "Were We to utter a word, We would not wish to repeat it again - and God is witness to what I say. And whenever We have repeated words, We have intended in each one of them a meaning that none hath comprehended save My all-knowing and informed Self. By thy life! Had We found the people to have attained maturity, We would not have repeated the words."
+          ]
         },
         {
           "key": "source:BH04655",
-          "why": "Read the distinction between concealed and accessible meanings."
+          "why": "Read the distinction between concealed and accessible meanings.",
+          "shortened": [
+            "We have at times revealed that which none knoweth save whom God willeth, and in another station We have revealed verses in such wise that the servants understand them and what their Lord, the All-Knowing, the All-Informed, intendeth thereby."
+          ]
         },
         {
           "key": "source:BH02413",
-          "why": "Explore disclosure in measure and with wisdom."
+          "why": "Explore disclosure in measure and with wisdom.",
+          "shortened": [
+            "There lieth concealed within thee a melody which, were We to reveal it in its fullness, would attract the entire world. Yet We have revealed it in measure, with wisdom. Thus hath the Source of Divinity willed, though the people remain heedless and veiled."
+          ]
         },
         {
           "key": "source:BH04976",
-          "why": "Retain the brief statement of forms beyond the Tablet."
+          "why": "Retain the brief statement of forms beyond the Tablet.",
+          "shortened": [
+            "At times We revealed it in the form of a Tablet, and at other times in the form of the Spirit, then in an entirely new form."
+          ]
         },
         {
           "key": "source:BH00565",
@@ -1283,7 +1667,10 @@
         },
         {
           "key": "source:AB00259",
-          "why": "Immediately examine the explanation of awakening as metaphor."
+          "why": "Immediately examine the explanation of awakening as metaphor.",
+          "shortened": [
+            "We come to the explanation of the words of Baha'u'llah when He says: \"O King! I was but a man like others, asleep upon My couch, when lo, the breezes of the All-Glorious were wafted over Me, and taught Me the knowledge of all that hath been. This thing is not from Me, but from One Who is Almighty and All-Knowing.\" This is the station of divine revelation. It is not a sensible, but an intelligible reality. It is sanctified from and transcendent above past, present, and future. It is a comparison and an analogy -- a metaphor and not a literal truth. It is not the condition that is commonly understood by the human mind when it is said that someone was asleep and then awoke, but signifies a passage from one state to another."
+          ]
         },
         {
           "key": "source:BH00223",
@@ -1291,15 +1678,26 @@
         },
         {
           "key": "source:AB00059",
-          "why": "Consider the relation drawn between revelation, absorption, and fasting."
+          "why": "Consider the relation drawn between revelation, absorption, and fasting.",
+          "shortened": [
+            "Question: What is the divine wisdom of fasting?",
+            "Answer: There is many a divine wisdom in fasting. Among them is this: that, in the days when He Who is the Dayspring of the Sun of Truth engages, through divine inspiration, in revealing the verses of God, in establishing His religion, and in setting forth His teachings, He is so enraptured and enkindled as to find no time for food or drink.",
+            "In the same way, in the beginning of His manifestation, the Bab would be so overcome with emotion at the revelation of the divine verses that for days He would confine himself to drinking tea. Likewise, in the days when He was instituting the divine teachings, and when the divine verses would be sent down continuously, Baha'u'llah would be so overwhelmed with the intensity of their influence and the emotions surging within His heart that He would take but little food."
+          ]
         },
         {
           "key": "source:BH02999",
-          "why": "Encounter the account of a recorder overwhelmed by the flow of utterance."
+          "why": "Encounter the account of a recorder overwhelmed by the flow of utterance.",
+          "shortened": [
+            "I ascended to the Most Exalted Horizon and stood before the Throne. Then the Desired One addressed me and other verses were revealed with the speed of a torrent rushing down from mountains or lightning flashing from clouds - nay, even faster. I was unable to record them. By your life! The wine of verses so intoxicated me that my fingers were prevented from moving and my heart from comprehending what was revealed from the heaven of utterance of our All-Knowing, All-Informed Lord. It was as though I had become a piece of fire as I gazed toward the direction of the Throne like one overcome with bewilderment."
+          ]
         },
         {
           "key": "source:BH00713",
-          "why": "Read the practical burden of copying Tablets."
+          "why": "Read the practical burden of copying Tablets.",
+          "shortened": [
+            "God willing, may they ever be successful in transcribing the verses of God, for there is no deed more beloved than this. The specimens of writing which they had requested were presented to the Most Great Branch - may my spirit be a sacrifice for the dust of His most pure footsteps. He said: \"You yourself are witness and can testify that due to the abundance of divine Tablets to be transcribed, there is absolutely no time or opportunity available.\" And truly it is as He has stated, for even when He repairs to the outskirts of the city for recreation, the Tablets accompany Him and He remains occupied with them there also."
+          ]
         },
         {
           "key": "source:BH04452",
@@ -1347,7 +1745,10 @@
         },
         {
           "key": "source:BH02009",
-          "why": "Hear the image of a continuous stream."
+          "why": "Hear the image of a continuous stream.",
+          "shortened": [
+            "So continuous was the stream of Verses descending from the Heaven of thy Lord, the Possessor of all Names and Attributes, that their sweet savours encompassed all the worlds."
+          ]
         },
         {
           "key": "source:BH01282",
@@ -1359,7 +1760,10 @@
         },
         {
           "key": "source:BH03053",
-          "why": "Retain the address describing verses by night and day."
+          "why": "Retain the address describing verses by night and day.",
+          "shortened": [
+            "O Mihdi! In these days, both night and day, verses are being revealed from the heaven of divine Will in such measure that creation is witnessed to be powerless to enumerate them."
+          ]
         },
         {
           "key": "source:BH00349",
@@ -1371,11 +1775,17 @@
         },
         {
           "key": "source:BH06491",
-          "why": "Read the reference to Tablets addressed to particular loved ones."
+          "why": "Read the reference to Tablets addressed to particular loved ones.",
+          "shortened": [
+            "Divine verses have been revealed in such manner that none except His sanctified Essence is capable of numbering them, and exalted and wondrous Tablets specifically for the loved ones have been sent down from the heaven of the favor of the Lord of Lords, successively and continuously."
+          ]
         },
         {
           "key": "source:BH08146",
-          "why": "Retain the further affirmation of immeasurable abundance."
+          "why": "Retain the further affirmation of immeasurable abundance.",
+          "shortened": [
+            "Divine verses have been revealed in such wise that the writers of the world and the possessors of the pen are incapable and powerless to enumerate them."
+          ]
         },
         {
           "key": "source:BH01561",
@@ -1387,11 +1797,17 @@
         },
         {
           "key": "source:BH03239",
-          "why": "Attend to the powerful image of the opened gate."
+          "why": "Attend to the powerful image of the opened gate.",
+          "shortened": [
+            "Thus was opened the gate of utterance and there emerged from it the Book of Knowledge with such effulgences that were they to appear upon the earth in less than the eye of a needle, by God, all would be found thunderstruck upon the ground."
+          ]
         },
         {
           "key": "source:BH01059",
-          "why": "Hear the Pen’s address across different audiences amid imprisonment."
+          "why": "Hear the Pen’s address across different audiences amid imprisonment.",
+          "shortened": [
+            "Neither My imprisonment hath prevented Me from the remembrance of God, the All-Knowing, the All-Informed, nor hath the oppression of those who have disbelieved in the Day of Judgment frightened Me. Behold, behold: this is the Finger of Power whereby the heaven of idle fancies hath been cleft. Hear, hear: this is the shrill voice of My Pen which hath been raised before the faces of the mystics, then the learned ones, then the kings and the sovereigns."
+          ]
         },
         {
           "key": "source:ABU1390",

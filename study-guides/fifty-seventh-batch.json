@@ -5,7 +5,7 @@
       "id": "94AE855C19A34B0D9F7D09FA46079FB3",
       "slug": "universaleducation",
       "displayTitle": "Education: opening every door, cultivating every capacity",
-      "introduction": "A school open to every child asks society to recognize possibilities that poverty, prejudice, or neglect can conceal. These passages place girls and boys within that promise, join intellectual learning with character, and distribute responsibility among parents, communities, and institutions. Education becomes preparation for livelihood, loving service, and a peace that grows through changed understanding. Some historical selections employ severe comparisons or racial generalizations; their wording requires critical attention alongside the repeated insistence on universal capacity, encouragement, and freedom from bigotry. The linked subjects of capacity, curricula, moral education, and the need for an educator help distinguish access to schooling from the fuller cultivation of a human being. Confucius’s brief rejection of class distinctions in teaching offers a primary comparison [1]. Read together, these texts invite consideration of the resources, relationships, and expectations through which an inclusive principle might become a child’s actual experience.",
+      "introduction": "If a school is founded, ‘Abdu’l-Bahá says, no child may be turned away from its door. The sentence is short and its consequences are long. Bahá’u’lláh makes the teaching of every son and daughter a duty laid on fathers, and when a family cannot pay, the obligation passes to the community; whoever raises another’s child, He says, has raised a child of His own. Education in this sense is more than access. It draws out the trust latent in every soul, like water and sunlight reaching a young tree, and joins book learning with character, since a kindly child is worth more than a learned and ill-natured one. A girl told that her capacity is equal will reach for it; a people that educates its children will need fewer prisons. Confucius’s refusal to make class distinctions in teaching states the same openness in a sentence and leaves the harder work of resources and relationships to us [1]. From here the way leads to the education of children and the shaping of their morals, to the development of capacity, and to why every human being needs an educator at all.",
       "arc": "Begin with access and encouragement, explore the capacities education develops, then consider shared responsibilities and the formation of peaceful communities.",
       "order": [
         {
@@ -22,19 +22,31 @@
         },
         {
           "key": "source:AB00824",
-          "why": "Place knowledge and goodness together as a double illumination."
+          "why": "Place knowledge and goodness together as a double illumination.",
+          "shortened": [
+            "Training in morals and good conduct is far more important than book learning. A child that is cleanly, agreeable, of good character, well-behaved -- even though he be ignorant -- is preferable to a child that is rude, unwashed, ill-natured, and yet becoming deeply versed in all the sciences and arts. The reason for this is that the child who conducts himself well, even though he be ignorant, is of benefit to others, while an ill-natured, ill-behaved child is corrupted and harmful to others, even though he be learned. If, however, the child be trained to be both learned and good, the result is light upon light."
+          ]
         },
         {
           "key": "source:BH00140",
-          "why": "Recognize the capacities entrusted to every person."
+          "why": "Recognize the capacities entrusted to every person.",
+          "shortened": [
+            "Men at all times and under all conditions stand in need of one to exhort them, guide them and to instruct and teach them.  Therefore He hath sent forth His Messengers, His Prophets and chosen ones that they might acquaint the people with the divine purpose underlying the revelation of Books and the raising up of Messengers, and that every- one may become aware of the trust of God which is latent in the reality of every soul."
+          ]
         },
         {
           "key": "source:BH00690",
-          "why": "Read education as the development of latent possibility."
+          "why": "Read education as the development of latent possibility.",
+          "shortened": [
+            "Through the Teachings of this Daystar of Truth every man will advance and develop until he attaineth the station at which he can manifest all the potential forces with which his inmost true self hath been endowed. It is for this very purpose that in every age and dispensation the Prophets of God and His chosen Ones have appeared amongst men, and have evinced such power as is born of God and such might as only the Eternal can reveal."
+          ]
         },
         {
           "key": "source:BH09996",
-          "why": "Consider inward and outward perfections in relation to capacity."
+          "why": "Consider inward and outward perfections in relation to capacity.",
+          "shortened": [
+            "Strive diligently to acquire both outward and inward perfections, for the fruit of the human tree has ever been outer and inner perfections. A person without knowledge and crafts is not beloved - like trees without fruit have they been and ever shall be. Therefore you must needs adorn, according to your capacity and means, the tree of your being with the fruits of knowledge and wisdom, of meanings and utterance."
+          ]
         },
         {
           "key": "source:ABU0051",
@@ -42,51 +54,88 @@
         },
         {
           "key": "source:AB01427",
-          "why": "Open the range of learning to arts and discoveries."
+          "why": "Open the range of learning to arts and discoveries.",
+          "shortened": [
+            "From an early age, encourage children to study every branch of learning and urge them to acquire every art, so that through God's help and grace, the heart of each one may become like a mirror revealing the mysteries of existence and discovering the reality of all things, becoming renowned throughout all regions in sciences, knowledge and crafts. Most assuredly, do not show any negligence or laxity in the education of children. Nurture them with divine characteristics and be confident of the bounty and grace of the Lord God."
+          ]
         },
         {
           "key": "source:ABU0528",
-          "why": "Attend to music as a means of awakening children’s talents."
+          "why": "Attend to music as a means of awakening children’s talents.",
+          "shortened": [
+            "The art of music is divine and effective. It is the food of the soul and spirit. Through the power and charm of music the spirit of man is uplifted. It has wonderful sway and effect in the hearts of children, for their hearts are pure, and melodies have great influence in them. The latent talents with which the hearts of these children are endowed will find expression through the medium of music."
+          ]
         },
         {
           "key": "source:AB01170",
-          "why": "Read nurturing care through the image of a young tree."
+          "why": "Read nurturing care through the image of a young tree.",
+          "shortened": [
+            "If a child be trained from his infancy, he will, through the loving care of the Holy Gardener, drink in the crystal waters of the spirit and of knowledge, like a young tree amid the rilling brooks. And certainly he will gather to himself the bright rays of the Sun of Truth, and through its light and heat will grow ever fresh and fair in the garden of life."
+          ]
         },
         {
           "key": "source:BH01717",
-          "why": "Consider teaching suited to the learner’s capacity."
+          "why": "Consider teaching suited to the learner’s capacity.",
+          "shortened": [
+            "You must strive with complete effort in the education of souls and their refinement and improvement, dispensing to each according to their capacity from the Kawthar of divine knowledge."
+          ]
         },
         {
           "key": "source:AB02921",
-          "why": "Join deeper knowledge with learning to love."
+          "why": "Join deeper knowledge with learning to love.",
+          "shortened": [
+            "It is the hope of ‘Abdu’l‑Bahá that those youthful souls in the schoolroom of the deeper knowledge will be tended by one who traineth them to love."
+          ]
         },
         {
           "key": "source:AB03824",
-          "why": "Connect instruction with virtues."
+          "why": "Connect instruction with virtues.",
+          "shortened": [
+            "As to thy question regarding the education of children: it behooveth thee to nurture them at the breast of the love of God, and urge them onward to the things of the spirit, that they may turn their faces unto God; that their ways may conform to the rules of good conduct and their character be second to none; that they make their own all the graces and praiseworthy qualities of humankind; acquire a sound knowledge of the various branches of learning, so that from the very beginning of life they may become spiritual beings, dwellers in the Kingdom, enamored of the sweet breaths of holiness, and may receive an education religious, spiritual, and of the Heavenly Realm."
+          ]
         },
         {
           "key": "source:AB03797",
-          "why": "Examine the danger of knowledge without trustworthy character."
+          "why": "Examine the danger of knowledge without trustworthy character.",
+          "shortened": [
+            "Good behaviour and high moral character must come first, for unless the character be trained, acquiring knowledge will only prove injurious. Knowledge is praiseworthy when it is coupled with ethical conduct and virtuous character; otherwise it is a deadly poison, a frightful danger. A physician of evil character, and who betrayeth his trust, can bring on death, and become the source of numerous infirmities and diseases."
+          ]
         },
         {
           "key": "source:BH00111",
-          "why": "Keep religious education joined to protection from fanaticism and bigotry."
+          "why": "Keep religious education joined to protection from fanaticism and bigotry.",
+          "shortened": [
+            "The word of God which the Supreme Pen hath recorded on the eighth leaf of the Most Exalted Paradise is the following: Schools must first train the children in the principles of religion, so that the Promise and the Threat recorded in the Books of God may prevent them from the things forbidden and adorn them with the mantle of the commandments; but this in such a measure that it may not injure the children by resulting in ignorant fanaticism and bigotry."
+          ]
         },
         {
           "key": "source:BH01747",
-          "why": "Read the call for religious upbringing in its own terms."
+          "why": "Read the call for religious upbringing in its own terms.",
+          "shortened": [
+            "Repeatedly hath this blessed utterance been heard from Him: that which is, in the first place and in the primal rank, obligatory and essential for children is the teaching of the word of Divine Unity and the ordinances of God; for without these the fear of God is not attained, and in the absence thereof a myriad hateful deeds, unrecognized and unseemly, and words impure, come to be made manifest."
+          ]
         },
         {
           "key": "source:AB02098",
-          "why": "Recognize mothers’ educational role and the dignity of their service."
+          "why": "Recognize mothers’ educational role and the dignity of their service.",
+          "shortened": [
+            "The first educators of children are their mothers; for the child, at the beginning of growth and development, is as a tender and fresh branch: in whatever manner thou desirest, thou canst train it. If thou trainest it aright, it will grow straight, and will develop in perfect symmetry. It is therefore evident that the mother is the first educator and the founder of the morals and manners of the child.",
+            "O ye loving mothers, know ye that in God’s sight, the best of all ways to worship Him is to educate the children and train them in all the perfections of humankind; and no nobler deed than this can be imagined."
+          ]
         },
         {
           "key": "source:BH00001",
-          "why": "Trace responsibility from parents to communal provision when resources fail."
+          "why": "Trace responsibility from parents to communal provision when resources fail.",
+          "shortened": [
+            "Unto every father hath been enjoined the instruction of his son and daughter in the art of reading and writing and in all that hath been laid down in the Holy Tablet. He that putteth away that which is commanded unto him, the Trustees are then to take from him that which is required for their instruction if he be wealthy and, if not, the matter devolveth upon the House of Justice. Verily have We made it a shelter for the poor and needy."
+          ]
         },
         {
           "key": "source:AB00016",
-          "why": "Consider community funding for necessary learning."
+          "why": "Consider community funding for necessary learning.",
+          "shortened": [
+            "And among the teachings of Baha'u'llah is the promotion of education. Every child must be instructed in sciences as much as is necessary. If the parents are able to provide the expenses of this education, it is well, otherwise the community must provide the means for the teaching of that child."
+          ]
         },
         {
           "key": "source:BH00238",
@@ -94,31 +143,52 @@
         },
         {
           "key": "source:ABU3667",
-          "why": "Consider the reported responsibility of the state for opportunity."
+          "why": "Consider the reported responsibility of the state for opportunity.",
+          "shortened": [
+            "Education will then be universal at the cost of the state, and no person will be deprived of its opportunity."
+          ]
         },
         {
           "key": "source:AB03755",
-          "why": "Extend educational provision to every city and village."
+          "why": "Extend educational provision to every city and village.",
+          "shortened": [
+            "O ye recipients of the favors of God! In this new and wondrous Age, the unshakable foundation is the teaching of sciences and arts. According to explicit Holy Texts, every child must be taught crafts and arts, to the degree that is needful. Wherefore, in every city and village, schools must be established and every child in that city or village is to engage in study to the necessary degree. It followeth that whatever soul shall offer his aid to bring this about will assuredly be accepted at the heavenly Threshold, and extolled by the Company on high."
+          ]
         },
         {
           "key": "source:AB04334",
-          "why": "Hear the insistence that even the poorest rural child be included."
+          "why": "Hear the insistence that even the poorest rural child be included.",
+          "shortened": [
+            "In this new and wondrous Cause, the advancement of all branches of knowledge is a fixed and vital principle, and the friends, one and all, are obligated to make every effort toward this end, so that the Cause of the Manifest Light may be spread abroad, and that every child, according to his need, will receive his share of the sciences and arts -- until not even a single peasant's child will be found who is completely devoid of schooling."
+          ]
         },
         {
           "key": "source:ABU2098",
-          "why": "Connect education with improving the condition of the poorest."
+          "why": "Connect education with improving the condition of the poorest.",
+          "shortened": [
+            "We must ever think of the education of the public and try our utmost to improve the conditions of the submerged class and lay a solid foundation for the erection of the temple of human happiness."
+          ]
         },
         {
           "key": "source:ABU0108",
-          "why": "Consider the stated priority for girls under a shortage of resources."
+          "why": "Consider the stated priority for girls under a shortage of resources.",
+          "shortened": [
+            "\"Education holds an important place in the new order of things. The education of each child is compulsory. If there is not money enough in a family to educate both the girl and the boy the money must be dedicated to the girl's education, for she is the potential mother. If there are no parents the community must educate the child."
+          ]
         },
         {
           "key": "source:AB05208",
-          "why": "Read the choice of a school’s name as an expression of inclusion."
+          "why": "Read the choice of a school’s name as an expression of inclusion.",
+          "shortened": [
+            "As for the name of the school, designate it \"Universal,\" meaning it is for all peoples."
+          ]
         },
         {
           "key": "source:ABU1699",
-          "why": "Keep the reported hope for future universities and free access for the poor attributed."
+          "why": "Keep the reported hope for future universities and free access for the poor attributed.",
+          "shortened": [
+            "Mount Carmel will someday be covered with great universities and colleges of learning. Then the poor will enjoy the highest advantages from the establishment here of free institutions of education."
+          ]
         },
         {
           "key": "source:ABU0036",
@@ -126,11 +196,17 @@
         },
         {
           "key": "source:ABU0083",
-          "why": "Join communal support, useful work, and service."
+          "why": "Join communal support, useful work, and service.",
+          "shortened": [
+            "The ninth admonition is in regard to education. All the children must be educated so that there will not remain one single individual without an education. In cases of inability on the part of the parents through sickness, death, etc., the state must educate the child. In addition to this widespread education, each child must be taught a profession or trade so that each individual member of the body politic will be enabled to earn his own living and at the same time serve the community."
+          ]
         },
         {
           "key": "source:AB00004",
-          "why": "Consider the relation of learning and the arts to national prosperity."
+          "why": "Consider the relation of learning and the arts to national prosperity.",
+          "shortened": [
+            "The primary, the most urgent requirement is the promotion of education. It is inconceivable that any nation should achieve prosperity and success unless this paramount, this fundamental concern is carried forward. The principal reason for the decline and fall of peoples is ignorance."
+          ]
         },
         {
           "key": "source:ABU3257",
@@ -146,7 +222,11 @@
         },
         {
           "key": "source:ABU1650",
-          "why": "Retain the selected first principle within the source’s larger enumeration."
+          "why": "Retain the selected first principle within the source’s larger enumeration.",
+          "shortened": [
+            "The Universities and colleges of the world must hold fast to three cardinal principles.",
+            "First; Whole-hearted service to the Cause of education, the unfolding of the mysteries of nature, the extension of the boundaries of Pure Science, the elimination of the causes of ignorance and social evils, the standardization of a universal system of instruction, and the diffusion of the lights of knowledge and reality."
+          ]
         },
         {
           "key": "source:AB00081",
@@ -166,15 +246,24 @@
         },
         {
           "key": "source:AB00476",
-          "why": "Consider the relationship between learning and heavenly assistance."
+          "why": "Consider the relationship between learning and heavenly assistance.",
+          "shortened": [
+            "These gifts, however, do not manifest themselves in the reality of man save through a celestial and divine power and through the heavenly teachings, for they require a supernatural power. Traces of these perfections may well appear in the world of nature, but they are as fleeting and ephemeral as rays of sunlight upon the wall."
+          ]
         },
         {
           "key": "source:AB00754",
-          "why": "Move from punishment toward the prevention of wrongdoing."
+          "why": "Move from punishment toward the prevention of wrongdoing.",
+          "shortened": [
+            "With force and punishments, material civilization seeketh to restrain the people from mischief, from inflicting harm on society and committing crimes. But in a divine civilization, the individual is so conditioned that with no fear of punishment, he shunneth the perpetration of crimes, seeth the crime itself as the severest of torments, and with alacrity and joy, setteth himself to acquiring the virtues of humankind, to furthering human progress, and to spreading light across the world."
+          ]
         },
         {
           "key": "source:AB00090",
-          "why": "Read the fuller contrast between prisons and education."
+          "why": "Read the fuller contrast between prisons and education.",
+          "shortened": [
+            "One final point: The body politic is engaged day and night in devising penal laws and in providing for ways and means of punishment. It builds prisons, acquires chains and fetters, and ordains places of exile and banishment, of torment and hardship, seeking thereby to reform the criminal, whereas in reality this only brings about the degradation of morals and the subversion of character. The body politic should instead strive night and day, bending every effort to ensure that souls are properly educated, that they progress day by day, that they advance in science and learning, that they acquire praiseworthy virtues and laudable manners, and that they forsake violent behaviour, so that crimes might never occur."
+          ]
         },
         {
           "key": "source:ABU1616",
@@ -186,7 +275,10 @@
         },
         {
           "key": "source:ABU0052",
-          "why": "Consider ignorance as an obstacle to unity."
+          "why": "Consider ignorance as an obstacle to unity.",
+          "shortened": [
+            "Bahá’u’lláh has announced that inasmuch as ignorance and lack of education are barriers of separation among mankind, all must receive training and instruction. Through this provision the lack of mutual understanding will be remedied and the unity of mankind furthered and advanced. Universal education is a universal law."
+          ]
         },
         {
           "key": "source:ABU0795",
@@ -198,7 +290,11 @@
         },
         {
           "key": "source:AB01419",
-          "why": "Join educational opportunity with independent investigation."
+          "why": "Join educational opportunity with independent investigation.",
+          "shortened": [
+            "And His teachings are these: First, the independent investigation of truth and deliverance from ancient traditions.",
+            "Eighth, compulsory education and its details."
+          ]
         },
         {
           "key": "source:ABU3525",
@@ -206,31 +302,55 @@
         },
         {
           "key": "source:AB00117",
-          "why": "Consider the power attributed to education in changing character."
+          "why": "Consider the power attributed to education in changing character.",
+          "shortened": [
+            "As to the differences of character arising from education, they are great indeed, for education exerts an enormous influence. Through education the ignorant become learned, the cowardly become courageous, the crooked branch becomes straight, the acrid and bitter fruit of the mountains and woods becomes sweet and succulent, and the five-petalled flower puts forth a hundred petals. Through education barbarous nations become civilized and even animals take on human-like manners."
+          ]
         },
         {
           "key": "source:ABU0272",
-          "why": "Read the transformation of human qualities through training."
+          "why": "Read the transformation of human qualities through training.",
+          "shortened": [
+            "Civilization and education add a new perfection to the perfection of man, and education transforms stone into crystal, brings the light from the oil, changes an ignorant man into a clever one, and places him above the animal. Civilization makes man understand all discoveries and invent all things. Education gives sight to the blind, and civilization changes the savage into an angel."
+          ]
         },
         {
           "key": "source:AB04669",
-          "why": "Treat the cultivated garden as an educational image."
+          "why": "Treat the cultivated garden as an educational image.",
+          "shortened": [
+            "The world of humanity is in need of great improvement, for it is a material jungle wherein trees without fruit flourish and useless weeds abound.",
+            "The world of mankind is in need of expert gardeners who may convert these forests into delectable rose gardens, may substitute for these barren trees ones that yield fruit, and may replace these useless weeds with roses and fragrant herbs.",
+            "Thus the world of humanity will be wholly transformed and the merciful bounties become manifest."
+          ]
         },
         {
           "key": "source:ABU0949",
-          "why": "Consider the fruits expected from training."
+          "why": "Consider the fruits expected from training.",
+          "shortened": [
+            "The matter of education is most important. This is among the greatest divine foundations. All the Prophets came to educate souls. The crooked branch becomes straight through education. The wild tree becomes fruitful through education. The ignorant child becomes wise through education. The ill-tempered one becomes well-behaved through education."
+          ]
         },
         {
           "key": "source:AB03355",
-          "why": "Attend to the particular letter about parental influence."
+          "why": "Attend to the particular letter about parental influence.",
+          "shortened": [
+            "Regarding what you wrote about the children, from the beginning children must be raised with divine education and ever be reminded of the remembrance of God so that the love of God may become fixed and established in their nature and mix with their milk. Now their mother is unaware, inevitably this must have an effect on them."
+          ]
         },
         {
           "key": "source:AB00142",
-          "why": "Read the severe comparison as rhetoric against neglect, not counsel to harm a child."
+          "why": "Read the severe comparison as rhetoric against neglect, not counsel to harm a child.",
+          "shortened": [
+            "It is for this reason that, in this new cycle, education and training are recorded in the Book of God as obligatory and not voluntary. That is, it is enjoined upon the father and mother, as a duty, to strive with all effort to train the daughter and the son, to nurse them from the breast of knowledge and to rear them in the bosom of sciences and arts. Should they neglect this matter, they shall be held responsible and worthy of reproach in the presence of the stern Lord.",
+            "This is an unpardonable sin, for they will have left that helpless child to wander in the wilderness of ignorance, making them wretched, afflicted and tormented. Throughout life, that oppressed child will remain captive to ignorance and pride, unlearned and unconscious. Indeed, it would be better if such a child were to depart this world in childhood, for in this case death is better than life, destruction better than salvation, non-existence better than existence, the grave better than a palace, and the narrow confines of the tomb better than a prosperous dwelling."
+          ]
         },
         {
           "key": "source:AB00251",
-          "why": "Keep the violent comparison concerning falsehood attributed and open to careful contextual reading."
+          "why": "Keep the violent comparison concerning falsehood attributed and open to careful contextual reading.",
+          "shortened": [
+            "The foundation of all evil is ignorance and lack of understanding. Therefore, one must lay hold of the means of insight and knowledge, teach good character, and bring light to the horizons, so that in the school of humanity they may acquire spiritual attributes. They should be convinced that no hell or fire is worse than corrupt morals and character, and no torment or punishment is more severe than blameworthy qualities. Training should reach such a degree that cutting one's throat would be more pleasant than telling a detestable lie, and the wound of sword and spear easier to bear than anger and calumny."
+          ]
         },
         {
           "key": "source:ABU0104",
@@ -238,7 +358,10 @@
         },
         {
           "key": "source:ABU0109",
-          "why": "Consider the historical language linking ignorance and brutality."
+          "why": "Consider the historical language linking ignorance and brutality.",
+          "shortened": [
+            "In proof of this they say that man, though he be a very god in the realm of material creation, is himself in need of an educator. Man undeveloped by education is savage, animalistic, brutal."
+          ]
         },
         {
           "key": "source:ABU0130",
@@ -250,11 +373,17 @@
         },
         {
           "key": "source:AB02574",
-          "why": "Read the extension of knowledge to all."
+          "why": "Read the extension of knowledge to all.",
+          "shortened": [
+            "They diffuse universal education, that every soul may as much as possible have a share of knowledge."
+          ]
         },
         {
           "key": "source:ABU0038",
-          "why": "Consider the aim of eliminating illiteracy."
+          "why": "Consider the aim of eliminating illiteracy.",
+          "shortened": [
+            "He has also proclaimed the principle that all mankind shall be educated and that no illiteracy be allowed to remain."
+          ]
         },
         {
           "key": "source:ABU0225",
@@ -270,7 +399,10 @@
         },
         {
           "key": "source:AB03999",
-          "why": "Close the linked sequence by joining knowledge and virtue."
+          "why": "Close the linked sequence by joining knowledge and virtue.",
+          "shortened": [
+            "The acquisition of sciences and arts, after faith and certitude, is among the greatest virtues of the human world, but on condition that the pursuit of knowledge be coupled with refinement of character and inspiration from the light of divine effulgence."
+          ]
         },
         {
           "key": "selection:be261b39e6c1547556dd1b8d",
@@ -278,11 +410,17 @@
         },
         {
           "key": "selection:84d4deaad97e13a9d57a72d4",
-          "why": "Consider the supplied distinction between innate capacity and education."
+          "why": "Consider the supplied distinction between innate capacity and education.",
+          "shortened": [
+            "No matter how much the shell is educated (or polished), it can never become the radiant pearl. The black stone will not become the world illuming gem. The calocynth and the thorny cactus can never by training and development become the blessed tree. That is to say, training doth not change the human gem (i. e., human nature or entity), but it produceth a marvelous effect. By this effective power all that is registered latent of virtues and capacities in the human reality will be revealed."
+          ]
         },
         {
           "key": "selection:912c0325c1a9d058af45fbd5",
-          "why": "Read the supplied counsel on discipline and balanced development in its historical setting."
+          "why": "Read the supplied counsel on discipline and balanced development in its historical setting.",
+          "shortened": [
+            "'Abdu'l-Baha could have never meant that a child should be left to himself, entirely free. In fact Baha'i education, just like any other system of education is based on the assumption that there are certain natural deficiencies in every child, no matter how gifted, which his educators, whether his parents, school masters, or his spiritual guides and preceptors should endeavour to remedy. Discipline of some sort, whether physical, moral or intellectual, is indeed indispensable, and no training can be said to be complete and fruitful if it disregards this element."
+          ]
         },
         {
           "key": "selection:b017084b07311b4f1d5bc25f",
@@ -374,12 +512,15 @@
       "id": "25D5D8F955CC436AA7A1B20E51D912F3",
       "slug": "universality",
       "displayTitle": "Universality: a concern wide enough for everyone",
-      "introduction": "What would change if the reach of our care were measured by whom it includes? These passages carry that question from charity toward schools, places of worship, religious fellowship, and humanity’s common future. Universality appears as a quality to embody in conduct, requiring service beyond one’s own community and a widening of loyalty beyond nation or region. The collection also preserves different historical descriptions of the Baha’i movement; reported language about organizations, religious names, or affiliations needs to be read in its particular setting alongside written explanations of its identity and teachings. The connected subjects of the qualities of a Baha’i and the oneness of religion deepen this inquiry into belief and practice. Marcus Aurelius’s reflection on belonging both to Rome and to the world offers a primary comparison [1]. Neither comparison nor universal aspiration removes the need to listen closely to the differences among people and traditions.",
+      "introduction": "Whatever is universal is of God, ‘Abdu’l-Bahá kept saying, and whatever is particular is of man. He applied the test to everything within reach: to charity, which must help Persian and Greek, Arab and European without distinction; to schools where children of every religion sit together; to a house of worship to be advertised as open to all; to a chapel whose open door made it a place of fellowship among sects. A human lamp lights a hundred paces, but the sun lights the whole sphere. The same breadth reaches into religion: the sun is one though its dawning points are many, the rose is to be sought from whatever bush it blooms on, and a person may live as a Bahá’í without ever having heard the name. Marcus Aurelius, citizen of Rome and also of the world, knew this widening of loyalty from inside another tradition [1]. The path leads into what defines a Bahá’í and the qualities such a life shows, and into the unity of religion that this wide concern presupposes.",
       "arc": "Begin with inclusive care, extend it into shared spaces and loyalties, and examine how a universal religious claim can be lived with humility and particular commitments.",
       "order": [
         {
           "key": "source:ABU0220",
-          "why": "Open with philanthropy whose concern extends to everyone."
+          "why": "Open with philanthropy whose concern extends to everyone.",
+          "shortened": [
+            "But in this wonderful Dispensation, philanthropic undertakings are for all humanity, without any exception, because this is the manifestation of the mercifulness of God. Therefore, every universal matter -- that is, one that belongs to all the world of humanity -- is divine; and every matter that is sectarian and private is not universal in character -- that is, it is limited."
+          ]
         },
         {
           "key": "source:ABU3263",
@@ -391,7 +532,10 @@
         },
         {
           "key": "source:ABU0734",
-          "why": "Insist that universality be embodied in action."
+          "why": "Insist that universality be embodied in action.",
+          "shortened": [
+            "A Cause in this age must be Universal and man must embody the universality of the Cause, otherwise it will yield no fruit."
+          ]
         },
         {
           "key": "source:AB11264",
@@ -399,7 +543,10 @@
         },
         {
           "key": "source:ABU0213",
-          "why": "Read the temple as a place freely open to different religions."
+          "why": "Read the temple as a place freely open to different religions.",
+          "shortened": [
+            "Baha'u'llah is the universal Shepherd. All mankind are His sheep, and the adherents of all religions are welcome in the Mashrekol-Azkar to worship the Father of all humanity with perfect freedom and reverence and obedience."
+          ]
         },
         {
           "key": "source:ABU3239",
@@ -411,7 +558,10 @@
         },
         {
           "key": "source:ABU0155",
-          "why": "Extend inclusion to schools and shared education."
+          "why": "Extend inclusion to schools and shared education.",
+          "shortened": [
+            "'Abdu'l-Baha answered: \"It makes no difference what school we enter or where we send our children. There are schools in Persia in which there are children from all religions. Whatever is universal is heavenly and whatever is personal is satanic. Then everything ought to be universal. It is clear and evident among the Baha'is that whatever is universal is heavenly and whatever is personal is human."
+          ]
         },
         {
           "key": "source:AB00827",
@@ -419,7 +569,10 @@
         },
         {
           "key": "source:AB12140",
-          "why": "Direct human endeavor toward the benefit of all humanity."
+          "why": "Direct human endeavor toward the benefit of all humanity.",
+          "shortened": [
+            "Therefore, one must consider the universal in all degrees. Consider a lamp that humans light - at most it illuminates 100 steps, but the sun, which is the divine lamp, illuminates this entire solar sphere and bestows bounty upon all horizons, for the sun is the divine lamp. Thus human endeavors must relate to humanity as a whole."
+          ]
         },
         {
           "key": "source:ABU3316",
@@ -431,11 +584,17 @@
         },
         {
           "key": "source:BH06030",
-          "why": "Join human elevation with freedom."
+          "why": "Join human elevation with freedom.",
+          "shortened": [
+            "The True One is aware and bears witness that whatsoever hath flowed and continueth to flow from the Most Exalted Pen hath been and ever shall be for the elevation of humanity and for their freedom and deliverance."
+          ]
         },
         {
           "key": "source:ABU3018",
-          "why": "Broaden concern toward the world’s future."
+          "why": "Broaden concern toward the world’s future.",
+          "shortened": [
+            "As this century is the century of light and the Cycle of the revelation of Mysteries undoubtedly these glorious aims will be fully established and the influence of this great Cause will encircle the East and the West.\""
+          ]
         },
         {
           "key": "source:ABU1386",
@@ -455,11 +614,18 @@
         },
         {
           "key": "source:ABU3251",
-          "why": "Consider spiritual belonging without treating cultural identity as an obstacle."
+          "why": "Consider spiritual belonging without treating cultural identity as an obstacle.",
+          "shortened": [
+            "The Master replied,",
+            "\"I wish you would become heavenly and not Japanese nor Arab, English, Persian, Turk, and American. You would become divine and would act according to the teachings of Baha'u'llah."
+          ]
         },
         {
           "key": "source:AB05468",
-          "why": "Read the shade of a tree as a welcome extended to all."
+          "why": "Read the shade of a tree as a welcome extended to all.",
+          "shortened": [
+            "O thou maid-servant of God! This celestial music hath moved the hearts of the people in the world and the Blessed Tree embraced all communities and nations under its shade!"
+          ]
         },
         {
           "key": "source:ABU2815",
@@ -467,7 +633,10 @@
         },
         {
           "key": "source:AB01483",
-          "why": "Bring universal fellowship into relations with particular individuals."
+          "why": "Bring universal fellowship into relations with particular individuals.",
+          "shortened": [
+            "We are commanded to strive with the utmost oneness, love, harmony and fellowship with all the governments and peoples of the world, nay even with individual souls."
+          ]
         },
         {
           "key": "source:ABU3293",
@@ -475,7 +644,10 @@
         },
         {
           "key": "source:ABU0086",
-          "why": "Read the reported images of light and flowers across religious names."
+          "why": "Read the reported images of light and flowers across religious names.",
+          "shortened": [
+            "The purpose is the sun itself and not the dawning points. For though the sun is one sun, its dawning points are many. We must not adore the dawning points but worship the sun. We must adore the reality of religion and not blindly cling to the appellation Christianity. The Sun of Reality must be worshiped and followed. We must seek the fragrance of the rose from whatever bush it is blooming -- whether oriental or western. Be seekers of light, no matter from which lantern it shines forth. Be not lovers of the lantern."
+          ]
         },
         {
           "key": "source:ABU0673",
@@ -483,15 +655,24 @@
         },
         {
           "key": "source:AB00016",
-          "why": "Read shared virtues within the account of religion’s foundation."
+          "why": "Read shared virtues within the account of religion’s foundation.",
+          "shortened": [
+            "For if we wish to arrange and organize the world of mankind in accordance with the present religious imitations and thereby to establish the felicity of the world of mankind, it is impossible and impracticable--for example, the enforcement of the laws of the Torah and also of the other religions in accordance with present imitations. But the essential basis of all the Divine Religions which pertains to the virtues of the world of mankind and is the foundation of the welfare of the world of man, is found in the teachings of Baha'u'llah in the most perfect presentation."
+          ]
         },
         {
           "key": "source:AB00801",
-          "why": "Consider the claim of one religious foundation."
+          "why": "Consider the claim of one religious foundation.",
+          "shortened": [
+            "The foundation of divine religions is one - that foundation will become universal through the power of Baha'u'llah."
+          ]
         },
         {
           "key": "source:AB01160",
-          "why": "Attend to the Baha’i argument concerning recognition of the Prophets."
+          "why": "Attend to the Baha’i argument concerning recognition of the Prophets.",
+          "shortened": [
+            "All the teaching of the Prophets is one; one faith; one Divine light shining throughout the world. Now, under the banner of the oneness of humanity all people of all creeds should turn away from prejudice and become friends and believers in all the Prophets. As Christians believe in Moses, so the Jews should believe in Jesus. As the Muhammadans believe in Christ and Moses, so likewise the Jews and the Christians should believe in Muhammad. Then all disputes would disappear, all then would be united."
+          ]
         },
         {
           "key": "source:ABU0193",
@@ -511,11 +692,17 @@
         },
         {
           "key": "source:AB01335",
-          "why": "Read the gathering of human perfections within the teachings."
+          "why": "Read the gathering of human perfections within the teachings.",
+          "shortened": [
+            "Therefore the Cause of Baha'u'llah and the heavenly teachings encompass all perfections, including the education of children, including the unity of the human world, including the harmony of religion with science and reason, including equality between people, including the breaths of the Holy Spirit, including the unity of women and men, including the elimination of religious prejudices, including heavenly virtues, including divine fragrances, including universal peace."
+          ]
         },
         {
           "key": "source:ABU1601",
-          "why": "Consider the needs of all peoples."
+          "why": "Consider the needs of all peoples.",
+          "shortened": [
+            "Some of their teachings are close to this Cause, but the Cause of God encompasses all divine matters and possesses the requirements and needs of different nations and peoples."
+          ]
         },
         {
           "key": "source:ABU0675",
@@ -523,7 +710,10 @@
         },
         {
           "key": "source:ABU1853",
-          "why": "Distinguish a common message from differing reception."
+          "why": "Distinguish a common message from differing reception.",
+          "shortened": [
+            "The Manifestation appeared not for a few, but for all. To the simple, as to the great, he is the same: but some see him in one light, some in another, according to their capacities to perceive."
+          ]
         },
         {
           "key": "source:ABU3375",
@@ -543,7 +733,11 @@
         },
         {
           "key": "source:ABU0763",
-          "why": "Keep the reported description of organization within its fuller account of knowledge and action."
+          "why": "Keep the reported description of organization within its fuller account of knowledge and action.",
+          "shortened": [
+            "\"Besides this, the Baha'i movement is not an organization. It is the fresh Breeze of the Garden of God. You can never organize the Baha'i Cause. It cannot be located in one single place or centered in one individual. The Baha'i movement is the spirit of this age. It is everywhere. It has no geographical limits. It is the essence of all the highest ideals of this century. A person may claim to be a Baha'i or may be known as a Baha'i for all his life and may not know at all what a Baha'i means. Another person may never have heard the name Baha'i and may at the same time practice all the attributes which are necessary to make one a Baha'i. That is why his holiness Christ says, those who are not against us are with us.",
+            "\"In the world of existence every undertaking is dependent upon the realization of three things. First, knowledge. Second, decision. Third, executive power."
+          ]
         },
         {
           "key": "source:ABU0477",
@@ -571,7 +765,11 @@
         },
         {
           "key": "source:AB07529",
-          "why": "Hear the invitation without distinctions among its hearers."
+          "why": "Hear the invitation without distinctions among its hearers.",
+          "shortened": [
+            "O thou who art turned toward the Creator of earth and heaven!",
+            "This Herald who caused the divine call to reach the ears of East and West made no distinction in His summons and established no differences."
+          ]
         },
         {
           "key": "source:ABU1832",
@@ -587,7 +785,10 @@
         },
         {
           "key": "source:ABU0588",
-          "why": "Consider the character of a universal gathering."
+          "why": "Consider the character of a universal gathering.",
+          "shortened": [
+            "Every limiting and restricting movement or meeting of mere personal interest is human in nature. Every universal movement unlimited in scope and purpose is divine. The Cause of God is advanced whenever and wherever a universal meeting is established among mankind."
+          ]
         },
         {
           "key": "source:ABU1508",
@@ -607,7 +808,10 @@
         },
         {
           "key": "source:ABU1724",
-          "why": "Read the account of the message’s spread."
+          "why": "Read the account of the message’s spread.",
+          "shortened": [
+            "Praise be to God that the sun of reality of religion hath dawned. From all parts of the world, host after host are coming under its radiance and ere long it will become world-spread."
+          ]
         },
         {
           "key": "source:AB11555",
@@ -615,11 +819,17 @@
         },
         {
           "key": "source:ABU2538",
-          "why": "Hear the testimony to a universal purpose."
+          "why": "Hear the testimony to a universal purpose.",
+          "shortened": [
+            "Consider how the people bear testimony to the fact that this Religion is universal and its principles are conducive to the welfare of humanity."
+          ]
         },
         {
           "key": "source:AB00320",
-          "why": "Read the emphatic language of worldwide influence within its source."
+          "why": "Read the emphatic language of worldwide influence within its source.",
+          "shortened": [
+            "The splendors of His bounty follow one after another and the lights of His generosity shine forth in both East and West. No region remains untouched, neither the lands of the Arabs and Romans, nor the climes of Sind and Hindustan, nor the countries of the Turks and Persians, nor the realms of Europe, Africa and America."
+          ]
         },
         {
           "key": "source:ABU2936",
@@ -627,7 +837,10 @@
         },
         {
           "key": "source:BH05356",
-          "why": "Keep the call’s breadth distinct from a person’s response to belief."
+          "why": "Keep the call’s breadth distinct from a person’s response to belief.",
+          "shortened": [
+            "God is cognizant and all things bear witness that from the beginning of this Revelation until now, this Wronged One hath summoned all the peoples of the world--whether divines or rulers, believer or misbeliever--openly and without any veil, to the Most Exalted Horizon."
+          ]
         },
         {
           "key": "source:BH09765",
@@ -635,7 +848,10 @@
         },
         {
           "key": "source:BH00001",
-          "why": "Consider the divine independence affirmed alongside the invitation to seek."
+          "why": "Consider the divine independence affirmed alongside the invitation to seek.",
+          "shortened": [
+            "With faces beaming with joy, hasten ye unto Him. This is the changeless Faith of God, eternal in the past, eternal in the future. Let him that seeketh, attain it; and as to him that hath refused to seek it--verily, God is Self-Sufficient, above any need of His creatures."
+          ]
         },
         {
           "key": "source:BH10234",
@@ -643,7 +859,10 @@
         },
         {
           "key": "selection:52ce2d83beba01a2a2506319",
-          "why": "Read the supplied explanation of progressive revelation and respect for earlier faiths."
+          "why": "Read the supplied explanation of progressive revelation and respect for earlier faiths.",
+          "shortened": [
+            "Its declared, its primary purpose is to enable every adherent of these Faiths to obtain a fuller understanding of the religion with which he stands identified, and to acquire a clearer apprehension of its purpose. It is neither eclectic in the presentation of its truths, nor arrogant in the affirmation of its claims. Its teachings revolve around the fundamental principle that religious truth is not absolute but relative, that Divine Revelation is progressive, not final. Unequivocally and without the least reservation it proclaims all established religions to be divine in origin, identical in their aims, complementary in their functions, continuous in their purpose, indispensable in their value to mankind."
+          ]
         },
         {
           "key": "selection:fae05cf4779db06d6ea494da",
@@ -651,7 +870,10 @@
         },
         {
           "key": "selection:b30afddce754ab2a025d4b61",
-          "why": "Distinguish rays of truth from the particular role assigned to the Manifestation."
+          "why": "Distinguish rays of truth from the particular role assigned to the Manifestation.",
+          "shortened": [
+            "It would be indeed difficult to find a creed or a doctrine of any sort in this world that did not possess some facet of truth; this is what Baha'u'llah believed and taught. But everything has a source or focal centre; the focal centres of truth are not broken up or distributed at random, but, like the sun, are concentrated in one mighty source whom we call a Prophet or Manifestation of God. What we find in each other, and in various creeds, are rays from this source -- but the source is the all-important thing, and to recognize and turn to it gives one an infinitely greater degree of strength and enlightenment than to try to find its rays, one here and one there, scattered about among our fellow men."
+          ]
         },
         {
           "key": "selection:da203c75a266de6de8de80f0",
@@ -683,7 +905,10 @@
         },
         {
           "key": "selection:81744f089fa286350551cb3f",
-          "why": "Retain the supplied early description of an all-inclusive purpose."
+          "why": "Retain the supplied early description of an all-inclusive purpose.",
+          "shortened": [
+            "For a Baha'i has adopted a cause that is all inclusive, that gathers within its folds the essence of all humanitarian principles and the object of all world wide philanthropic movements. The Baha'i Revelation is the spirit and the glory of this age. It is the pure and unadulterated essence of all that is best and highest in this century. In a word it is an inclusive movement. Christians, Jews, Buddhists, Muhammadans, Zoroastrians and even Theosophists and Freemasons find their ideals realised in the practice of the principles of the Cause."
+          ]
         },
         {
           "key": "selection:74b4081484d1a3699446e0f5",
@@ -734,12 +959,16 @@
       "id": "3AF5CD058F82471FA2236DF51BDF9F38",
       "slug": "freedomthought",
       "displayTitle": "Freedom of conscience: inquiry, expression, and shared responsibility",
-      "introduction": "Conscience is described here as a realm that human force cannot rightfully possess. That affirmation opens a demanding exploration of religious choice, independent inquiry, free consultation, and the responsibilities that accompany life with others. The passages distinguish personal understanding from authoritative interpretation, allow room for initiative and mistakes, and ask institutions to cultivate capacities while protecting rights. They also connect freedom with inward discipline and voluntary commitment, making it necessary to distinguish a spiritual obligation from coercion. Historical praise of particular countries belongs to its occasion rather than a complete account of their freedoms. John Stuart Mill’s argument about the limits of interference offers a primary comparison, with its own historical limitations [1]. Connected subjects of investigation, individual understanding, true freedom, and the spirit of administration invite further thought about how confidence, candor, and a common purpose might support one another.",
+      "introduction": "Conscience, ‘Abdu’l-Bahá insists, is a realm no human power can rightfully enter; only the light of God commands there, and a government that tries to extinguish belief by force only fans the flame. A forced friendship is no friendship, and a forced faith is not faith. From that uncoerced centre the questions begin to multiply. How does a person think freely and still speak within the bounds of courtesy? How can frank, even critical, consultation strengthen a community rather than split it? What separates the understanding each reader arrives at for herself from the interpretation that carries authority, and why must the first never be suppressed? Freedom here is finally inward: release from fear, from inherited prejudice, from the self, with room to take initiative and to make mistakes. John Stuart Mill’s case against interfering with an adult for his own good offers a sharp comparison, with limits of its own [1]. The road continues through independent investigation of truth, through the meaning of true liberty, and into the living spirit behind the forms of administration.",
       "arc": "Begin with freedom of conscience, examine consultation and inward freedom, then consider interpretation, initiative, and the reciprocal responsibilities of community life.",
       "order": [
         {
           "key": "source:AB00003",
-          "why": "Open with the sacredness of conscience and the limits of government control."
+          "why": "Open with the sacredness of conscience and the limits of government control.",
+          "shortened": [
+            "Now this is beyond the power of man, that he should be able by interference or objection to change the heart and conscience, or meddle with the convictions of anyone. For in the realm of conscience naught but the ray of God's light can command, and on the throne of the heart none but the pervading power of the King of Kings should rule.",
+            "[To insure] freedom of conscience and tranquility of heart and soul is one of the duties and functions of government, and is in all ages the cause of progress in development and ascendency over other lands."
+          ]
         },
         {
           "key": "source:BH00779",
@@ -751,11 +980,17 @@
         },
         {
           "key": "source:ABU1683",
-          "why": "Distinguish freely given faith from forced friendship."
+          "why": "Distinguish freely given faith from forced friendship.",
+          "shortened": [
+            "Consider - is a forced friendship acceptable to you? If you tell someone 'If you don't believe, I will kill you' and they believe, this is not faith."
+          ]
         },
         {
           "key": "source:BH01050",
-          "why": "Read the acknowledgment of differing beliefs alongside the call to love."
+          "why": "Read the acknowledgment of differing beliefs alongside the call to love.",
+          "shortened": [
+            "Since all do not possess the same degree of spiritual understanding, certain statements will inevitably be made, and there shall arise, as a consequence, as many differing opinions as there are human minds, and as many divergent beliefs as there are created things. This is certain and settled, and can in no wise be averted. Now, it is clear that some are virtuous, others are sinful, and still others are rebellious. One must call the people to love and faithfulness, to zeal and contentment, that the sinful may be admonished and the ranks of the virtuous may swell."
+          ]
         },
         {
           "key": "source:AB02060",
@@ -771,11 +1006,17 @@
         },
         {
           "key": "source:AB00143",
-          "why": "Read freedom within the image of humanity’s unifying lights."
+          "why": "Read freedom within the image of humanity’s unifying lights.",
+          "shortened": [
+            "The first candle is unity in the political realm, the early glimmerings of which can now be discerned. The second candle is unity of thought in world undertakings, the consummation of which will erelong be witnessed. The third candle is unity in freedom which will surely come to pass."
+          ]
         },
         {
           "key": "source:ABU0027",
-          "why": "Connect freedom of religious belief with progress."
+          "why": "Connect freedom of religious belief with progress.",
+          "shortened": [
+            "Under an autocratic government the opinions of men are not free, and development is stifled, whereas in democracy, because thought and speech are not restricted, the greatest progress is witnessed. It is likewise true in the world of religion. When freedom of conscience, liberty of thought and right of speech prevail -- that is to say, when every man according to his own idealization may give expression to his beliefs -- development and growth are inevitable."
+          ]
         },
         {
           "key": "source:AB06130",
@@ -799,7 +1040,10 @@
         },
         {
           "key": "source:ABU0377",
-          "why": "Keep the reported image of an open platform within its occasion."
+          "why": "Keep the reported image of an open platform within its occasion.",
+          "shortened": [
+            "The significance and usefulness of this unique place lie in the fact that they offer a free and unrestricted platform to the citizens of every nation and the adherents of every religion. Thus every subject is discussed with that full liberality of conscience which is alone enjoyed in the United States."
+          ]
         },
         {
           "key": "source:ABU3420",
@@ -811,7 +1055,12 @@
         },
         {
           "key": "source:ABU0914",
-          "why": "Distinguish the reported accounts of divine, political, and spiritual freedom."
+          "why": "Distinguish the reported accounts of divine, political, and spiritual freedom.",
+          "shortened": [
+            "There is a divine freedom, and this is peculiar unto the Essence of the Creator; for He is absolutely free.",
+            "The second is the political freedom of Europeans, which leaves the individual free to do whatsoever he desires as long as his action does not harm his neighbour. This is natural freedom, and its greatest expression is seen in the animal world. Observe these birds and notice with what freedom they live. However much man may try, he can never be as free as an animal, because the existence of order acts as an impediment to freedom.",
+            "The third freedom is that which is born of obedience to the laws and ordinances of the Almighty. This is the freedom of the human world, where man severs his affections from all things."
+          ]
         },
         {
           "key": "source:AB00016",
@@ -823,7 +1072,10 @@
         },
         {
           "key": "source:AB12664",
-          "why": "Consider freedom of the heart."
+          "why": "Consider freedom of the heart.",
+          "shortened": [
+            "True freedom pertains to the heart, not to the body, and true wisdom belongs to the spirit, not to mere political laws and regulations."
+          ]
         },
         {
           "key": "source:AB01083",
@@ -835,15 +1087,26 @@
         },
         {
           "key": "source:AB08783",
-          "why": "Read the personal counsel concerning inherited dogma."
+          "why": "Read the personal counsel concerning inherited dogma.",
+          "shortened": [
+            "You had written that you are free from Christian dogmas - this news brought me joy, for what could be better than spiritual freedom?"
+          ]
         },
         {
           "key": "source:ABU2563",
-          "why": "Place freedom of belief beside the defined authority of interpretation and legislation."
+          "why": "Place freedom of belief beside the defined authority of interpretation and legislation.",
+          "shortened": [
+            "Some people acclaim Christ as God; others regard Him as the Word of God; still others, as the Messenger of God. These differences have led to contention and strife.",
+            "But Baha'u'llah has shut the door to such differences. By His appointing the Expounder of the Holy Word, by setting up the Institution of the House of Justice, which is the legislative body elected by the people, and by enjoining non-interference in matters of belief and conscience, Baha'u'llah has barred the way that would lead to disruption in the Faith."
+          ]
         },
         {
           "key": "source:ABU1898",
-          "why": "Consider adult choice in marriage, movement, and private affairs."
+          "why": "Consider adult choice in marriage, movement, and private affairs.",
+          "shortened": [
+            "Should they marry, divorce, leave their homes, move to other places, etc., -- all these matters pertaining to their material affairs -- Abdul Baha says:",
+            "\"They must do as they wish; they must solve their own problems; they are grown-ups. We do not like to tell people what they should do in these matters. My work is universal; my time and thoughts are for the whole world on the most important problems relating to affairs that concern the spiritual welfare of nations and individuals."
+          ]
         },
         {
           "key": "source:ABU3252",
@@ -851,7 +1114,10 @@
         },
         {
           "key": "source:BH06294",
-          "why": "Close the linked sequence with the particular freedom to decide about travel."
+          "why": "Close the linked sequence with the particular freedom to decide about travel.",
+          "shortened": [
+            "Regarding what you wrote about traveling to Persia - you came of your own accord and now too you are free to choose. In any case there is no harm in these matters; there is freedom. However, it does not appear that Persia would be better than here. You will go and you will see."
+          ]
         },
         {
           "key": "selection:399dd25764e7ff5ff404d1aa",
@@ -859,15 +1125,27 @@
         },
         {
           "key": "selection:507fa419f5d138cf317e48a0",
-          "why": "Distinguish respect for conscience from the cultivation of an informed conscience."
+          "why": "Distinguish respect for conscience from the cultivation of an informed conscience.",
+          "shortened": [
+            "...conscience is never to be coerced, whether by other individuals or institutions. Conscience, however, is not an unchangeable absolute.",
+            "Conscience, therefore, can serve either as a bulwark of an upright character or can represent an accumulation of prejudices learned from one's forebears or absorbed from a limited social code.     A Baha'i recognizes that one aspect of his spiritual and intellectual growth is to foster the development of his conscience in the light of divine Revelation -- a Revelation which, in addition to providing a wealth of spiritual and ethical principles, exhorts man \"to free himself from idle fancy and imitation, discern with the eye of oneness His glorious handiwork, and look into all things with a searching eye\"."
+          ]
         },
         {
           "key": "selection:67afb7a77d14a21bfdf83bf2",
-          "why": "Read the supplied appeal to freedom, humility, and fellowship within its conditions."
+          "why": "Read the supplied appeal to freedom, humility, and fellowship within its conditions.",
+          "shortened": [
+            "Let us also remember that at the very root of the Cause lies the principle of the undoubted right of the individual to self-expression, his freedom to declare his conscience and set forth his views.",
+            "Let us also bear in mind that the keynote of the Cause of God is not dictatorial authority but humble fellowship, not arbitrary power, but the spirit of frank and loving consultation. Nothing short of the spirit of a true Baha'i can hope to reconcile the principles of mercy and justice, of freedom and submission, of the sanctity of the right of the individual and of self-surrender, of vigilance, discretion and prudence on the one hand, and fellowship, candour, and courage on the other."
+          ]
         },
         {
           "key": "selection:bffdef560ba193fedcc23966",
-          "why": "Consider the liberating possibilities discussed in relation to social thought."
+          "why": "Consider the liberating possibilities discussed in relation to social thought.",
+          "shortened": [
+            "Freedom of thought, freedom of expression, freedom of action are among the freedoms which have received the ardent attention of social thinkers across the centuries. The resulting outflow of such profound thought has exerted a tremendous liberating influence in the shaping of modern society.",
+            "A true reading of the teachings of Baha'u'llah leaves no doubt as to the high importance of these freedoms to constructive social processes."
+          ]
         },
         {
           "key": "selection:aa63dcc128d36d5d9785a440",
@@ -875,19 +1153,34 @@
         },
         {
           "key": "selection:b9979da1a3812697ff6bbf13",
-          "why": "Extend expression into art, work, and the responsibilities of speech."
+          "why": "Extend expression into art, work, and the responsibilities of speech.",
+          "shortened": [
+            "For Baha'u'llah has extended the scope and deepened the meaning of self-expression. In His elevation of art and of work performed in the service of humanity to acts of worship can be discerned enormous prospects for a new birth of expression in the civilization anticipated by His World Order. The significance of this principle, now so greatly amplified by the Lord of the Age, cannot be doubted; but it is in its ramifications in speech that keen understanding is urgently needed. From a Baha'i point of view, the exercise of freedom of speech must necessarily be disciplined by a profound appreciation of both the positive and negative dimensions of freedom, on the one hand, and of speech, on the other."
+          ]
         },
         {
           "key": "selection:690888352115aabf1f4bc33d",
-          "why": "Make room for courage and candor before a collective decision."
+          "why": "Make room for courage and candor before a collective decision.",
+          "shortened": [
+            "But before the majority of the Assembly comes to a decision, it is not only the right but the sacred obligation of every member to express freely and openly his views, without being afraid of displeasing or alienating any of his fellow-members.",
+            "The Assembly members must have the courage of their conviction, but must also express whole-hearted and unqualified obedience to the well-considering judgement and directions of the majority of their fellow-members."
+          ]
         },
         {
           "key": "selection:273aa7628637fd84faa8316f",
-          "why": "Read criticism as a right and responsibility requiring care."
+          "why": "Read criticism as a right and responsibility requiring care.",
+          "shortened": [
+            "...you had asked whether the believers have the right to openly express their criticism of any Assembly action or policy: it is not only the right, but the vital responsibility of every loyal and intelligent member of the Community to offer fully and frankly, but with due respect and consideration to the authority of the Assembly, any suggestion, recommendation or criticism he conscientiously feels he should in order to improve and remedy certain existing conditions or trends in his local Community, and it is the duty of the Assembly also to give careful consideration to any such views submitted to them by any one of the believers.... But again it should be stressed that all criticisms and discussions of a negative character which may result in undermining the authority of the Assembly as a body should be strictly avoided."
+          ]
         },
         {
           "key": "selection:1acfcb5214cdc607e94e1054",
-          "why": "Distinguish personal understanding from a claim to revealed authority."
+          "why": "Distinguish personal understanding from a claim to revealed authority.",
+          "shortened": [
+            "As regards the statement of our own views and explanations of the teachings: Shoghi Effendi believes that we should not restrict the liberty of the individual to express his own views so long as he makes it clear that these views are his own.",
+            "This does not, however, mean that the absolute authority does not remain in the revealed Words.",
+            "To discard the authority of the revealed Words is heretic and to suppress completely individual interpretation of those Words is also bad. We should try to strike a happy medium between these two extremes."
+          ]
         },
         {
           "key": "selection:10cb9e060f20827eb82ba513",
@@ -899,7 +1192,10 @@
         },
         {
           "key": "selection:b885913a38696397f33f23f3",
-          "why": "Retain the supplied statement concerning freedom of interpretation."
+          "why": "Retain the supplied statement concerning freedom of interpretation.",
+          "shortened": [
+            "A clear distinction is made in our Faith between authoritative interpretation and the interpretation or understanding that each individual arrives at for himself from his study of its teachings. While the former is confined to the Guardian, the latter, according to the guidance given to us by the Guardian himself, should by no means be suppressed. In fact such individual interpretation is considered the fruit of man's rational power and conducive to a better understanding of the teachings, provided that no disputes or arguments arise among the friends and the individual himself understands and makes it clear that his views are merely his own...."
+          ]
         },
         {
           "key": "selection:3a8b9277e4c22a551eaa1943",
@@ -907,11 +1203,17 @@
         },
         {
           "key": "selection:82d7f2da96c170896a771e82",
-          "why": "Consider the further clarification of personal understanding."
+          "why": "Consider the further clarification of personal understanding.",
+          "shortened": [
+            "Individual interpretations based on a person's understanding of the Teachings constitute the fruit of man's rational power and may well contribute to a greater comprehension of the Faith. Such views, nevertheless, lack authority. In presenting their personal ideas, individuals are cautioned not to discard the authority of the revealed words, not to deny or contend with the authoritative interpretation, and not to engage in controversy; rather they should offer their thoughts as a contribution to knowledge, making it clear that their views are merely their own."
+          ]
         },
         {
           "key": "selection:4dc71bde4b20b8587d54fb87",
-          "why": "Read the invitation to understanding responsive to evidence."
+          "why": "Read the invitation to understanding responsive to evidence.",
+          "shortened": [
+            "While there is often room for a range of personal interpretation on such matters, and a degree of ambiguity will invariably exist in some cases, usually a common understanding is formed, which will change over time should additional evidence come to light. Differences of personal opinion about the meaning of the Text should not be allowed to create discord or wrangling among the friends."
+          ]
         },
         {
           "key": "selection:1ab621f970db2ec3df09e4f5",
@@ -943,11 +1245,17 @@
         },
         {
           "key": "selection:4d7df6598cd50143f5c4e4e9",
-          "why": "Allow for learning through mistakes."
+          "why": "Allow for learning through mistakes.",
+          "shortened": [
+            "A wide latitude for action must be allowed them, which means that a large margin for mistakes must also be allowed. Your National Assembly and the Local Assemblies must not react automatically to every mistake, but distinguish between those that are self-correcting with the passage of time and do no particular harm to the community and those which require Assembly intervention."
+          ]
         },
         {
           "key": "selection:146122787d2257560b9154cb",
-          "why": "Examine how fear of criticism can inhibit freedom and growth."
+          "why": "Examine how fear of criticism can inhibit freedom and growth.",
+          "shortened": [
+            "A new burst of energy would accrue to the operation of the Three Year Plan if the friends, both individually and collectively, could feel a greater sense of freedom to engage in a wide range of activities originating with themselves. Even if you are doing nothing deliberately to discourage such freedom, their accumulated impression of institutional disapproval, however derived, and their fear of criticism are, to a considerable extent, inhibiting their exercise of initiative."
+          ]
         },
         {
           "key": "selection:cf0ae8b17c88e1b473531757",
@@ -975,7 +1283,10 @@
         },
         {
           "key": "selection:730988a29d34a3f5bd2faa1d",
-          "why": "Allow varied activities to contribute to a common life."
+          "why": "Allow varied activities to contribute to a common life.",
+          "shortened": [
+            "In a sense this means that the community must become more adept at accommodating a wide range of actions without losing concentration on the primary objectives of teaching, namely, expansion and consolidation. A unity in diversity of actions is called for, a condition in which different individuals will concentrate on different activities, appreciating the salutary effect of the aggregate on the growth and development of the Faith, because each person cannot do everything and all persons cannot do the same thing."
+          ]
         },
         {
           "key": "selection:4b227df80fc2d3e8dd62c4c7",
@@ -983,7 +1294,10 @@
         },
         {
           "key": "selection:20999683cef4bced961a57a6",
-          "why": "Read the encouragement of personal projects."
+          "why": "Read the encouragement of personal projects.",
+          "shortened": [
+            "They should endeavor by personal contact and written appeals, to imbue the body of the faithful with a deep sense of personal responsibility, and urge every believer, whether high or low, poor or wealthy, to conceive, formulate and execute such measures and projects as would redound, in the eyes of their representatives, to the power and the fair name of this sacred Cause."
+          ]
         },
         {
           "key": "selection:df77c41555ccb03ce817ff33",
@@ -991,19 +1305,32 @@
         },
         {
           "key": "selection:6e3a5d90a82d7ef0d17b98d8",
-          "why": "Bring initiative into relationship with collective order."
+          "why": "Bring initiative into relationship with collective order.",
+          "shortened": [
+            "The power of action in the believers is unlocked at the level of individual initiative and surges at the level of collective volition.",
+            "To realize its highest purpose, this power needs to express itself through orderly avenues of activity. Even though individuals may strive to be guided in their actions by their personal understanding of the Divine Texts, and much can be accomplished thereby, such actions, untempered by the overall direction provided by authorized institutions, are incapable of attaining the thrust necessary for the unencumbered advancement of civilization. Individual initiative is a pre-eminent aspect of this power; it is therefore a major responsibility of the institutions to safeguard and stimulate it...."
+          ]
         },
         {
           "key": "selection:cc13c7b4c2b13779c70d5379",
-          "why": "Consider economic life through the balance of collective and individual concerns."
+          "why": "Consider economic life through the balance of collective and individual concerns.",
+          "shortened": [
+            "For absolute freedom, even in the economic sphere, leads to confusion and corruption, and acts not only to the detriment of the state, or the collectivity, but inevitably results in the end jeopardizing the very interests of the individual himself... The Cause can and indeed will in the future maintain the right balance between the two tendencies of individualism and collectivism, not only in the field of economics, but in all other social domains."
+          ]
         },
         {
           "key": "selection:8d44ad84b9a56a257f281d54",
-          "why": "Read the willingness to support a common decision after consultation."
+          "why": "Read the willingness to support a common decision after consultation.",
+          "shortened": [
+            "We should, indeed, learn to curb our individualism when we are confronted with problems and issues affecting the general welfare of the Cause. For Baha'i community life implies a consciousness of group solidarity strong enough to enable every individual believer to give up what is essentially personal for the sake of the common weal."
+          ]
         },
         {
           "key": "selection:360e197726abb092a64a9620",
-          "why": "Place accepted authority beside the right of appeal."
+          "why": "Place accepted authority beside the right of appeal.",
+          "shortened": [
+            "The Assembly has the responsibility to guide, direct and decide on community affairs and the right to be obeyed and supported by members of the community. The individual has the responsibility to establish and maintain the Assembly through election, the offering of advice, moral support and material assistance; and he has the right to be heard by it, to receive its guidance and assistance, and to appeal from any Assembly decision which he conscientiously feels is unjust or detrimental to the interests of the community."
+          ]
         },
         {
           "key": "selection:0e86d347c15ab40f7c8c1173",
@@ -1011,11 +1338,17 @@
         },
         {
           "key": "selection:637fe0632e3a685b76629a13",
-          "why": "Read rights and individuality in relation to the common good."
+          "why": "Read rights and individuality in relation to the common good.",
+          "shortened": [
+            "The individual's relation to society is explained by Shoghi Effendi in the statement that, \"The Baha'i conception of social life is essentially based on the principle of the subordination of the individual will to that of society. It neither suppresses the individual nor does it exalt him to the point of making him an anti-social creature, a menace to society. As in everything, it follows the golden mean.\""
+          ]
         },
         {
           "key": "selection:8cf76065d305985cc72eff2f",
-          "why": "Consider the organic relationship of individuals, community, and institutions."
+          "why": "Consider the organic relationship of individuals, community, and institutions.",
+          "shortened": [
+            "In keeping with such a vision, institutions, appreciating the need for coordinated action channelled toward fruitful ends, aim not to control but to nurture and guide the individual, who, in turn, willingly receives guidance, not in blind obedience, but with faith founded on conscious knowledge. The community, meanwhile, takes on the challenge of sustaining an environment where the powers of individuals, who wish to exercise self-expression responsibly in accordance with the common weal and the plans of institutions, multiply in unified action."
+          ]
         },
         {
           "key": "selection:a861a7f3dd2fa77f89caf5ab",
@@ -1027,7 +1360,10 @@
         },
         {
           "key": "selection:c4d14d62c647fc8298e219e3",
-          "why": "Consider the body’s dependence on all its members."
+          "why": "Consider the body’s dependence on all its members.",
+          "shortened": [
+            "In the human body, every cell, every organ, every nerve has its part to play. When all do so the body is healthy, vigorous, radiant, ready for every call made upon it. No cell, however humble, lives apart from the body, whether in serving it or receiving from it."
+          ]
         },
         {
           "key": "selection:4afda2d54918796d6ee41b75",
@@ -1035,11 +1371,17 @@
         },
         {
           "key": "selection:6ffa3ab391ad54c6b0dc1884",
-          "why": "Read personal example as a means of improvement."
+          "why": "Read personal example as a means of improvement.",
+          "shortened": [
+            "But the only way, or perhaps I should say the first and best way, to remedy such situations, is to oneself do what is right. One soul can be the cause of the spiritual illumination of a continent."
+          ]
         },
         {
           "key": "selection:2b318fad60e70a54db2dca28",
-          "why": "Allow for the fallibility and development of those who administer."
+          "why": "Allow for the fallibility and development of those who administer.",
+          "shortened": [
+            "The Guardian is, doubtless, well aware of the existing imperfections in the administrative machinery of the Cause, but these, he strongly feels, should be attributed not to the administrative system itself, but to the administrators of the Faith, who by reason of their human limitations and imperfections can never hope to entirely fulfil those ideal conditions set forth in the Teachings. Many of the existing defects in the present-day activities of the believers, however, will as the Community develops and gains in experience be gradually removed, and healthier and more progressive conditions prevail."
+          ]
         },
         {
           "key": "selection:26887ee4c687ec6fb5e5c278",
@@ -1106,16 +1448,22 @@
       "id": "0C5DDE6CAB1F402695B2717CF1EC0833",
       "slug": "fasting",
       "displayTitle": "Fasting: an outward rhythm and an inward awakening",
-      "introduction": "A season of abstinence is pictured as a river of life: the fast asks what might be received when familiar satisfactions are set aside. These passages link bodily observance with freedom from selfish desire, remembrance of God, and compassion for those who hunger. They also place limits and exemptions within the law itself, and distinguish spiritual growth from mere physical weakening. Both keeping and breaking the fast can express devotion when undertaken according to the divine command. Historical Babi provisions, accounts of Ramadan, and reported conversations belong to different settings; this compilation invites study of their meanings rather than serving as a current practical manual. Isaiah 58:6–10 offers a primary comparison that joins fasting to freedom from oppression and care for the afflicted [1]. The connected subjects of the Baha’i calendar, the Aqdas, obligatory prayer, and prayer with fasting extend the inquiry into time, law, and inward purpose.",
+      "introduction": "Bahá’u’lláh prays that the fast may become a river of life-giving waters, an odd blessing to ask of hunger until one sees what He expects it to carry away: attachment to anyone but God, and whatever in the heart is unfit for His court. ‘Abdu’l-Bahá names two fasts, the material one of food and drink and the true one in which a person forsakes covetous desire and heedlessness, so that the body’s abstinence becomes a prayer the soul is saying. The law itself keeps measure. It sets the fast between sunrise and sunset for a brief month at the year’s end, exempts the traveller, the sick, the pregnant and the nursing as a token of grace, and asks that the days of giving before it be spent cheering the poor as well as one’s own. A fast that only weakens the body, ‘Abdu’l-Bahá adds, is a lamp whose glass is polished while no one thinks of the light. Isaiah’s chosen fast, loosing the bonds of the oppressed and sharing bread with the hungry, presses the same question of what restraint is for [1]. The road continues into the turning of the Bahá’í calendar, the laws of the Kitáb-i-Aqdas, the companion discipline of obligatory prayer, and the prayers that give the fasting days their voice.",
       "arc": "Begin with the fast’s inward promise, connect it with compassion and lawful limits, and read its varied historical settings before returning to devotion.",
       "order": [
         {
           "key": "source:BH00778",
-          "why": "Open with the surprising image of the fast as life-giving water."
+          "why": "Open with the surprising image of the fast as life-giving water.",
+          "shortened": [
+            "These are the days whereon Thou hast bidden all men to observe the Fast, that through it they may purify their souls and rid themselves of all attachment to any one but Thee, and that out of their hearts may ascend that which will be worthy of the court of Thy majesty and may well beseem the seat of the revelation of Thy oneness. Grant, O my Lord, that this fast may become a river of life-giving waters and may yield the virtue wherewith Thou hast endowed it."
+          ]
         },
         {
           "key": "source:AB00044",
-          "why": "Read bodily fasting as a symbol of inward purification."
+          "why": "Read bodily fasting as a symbol of inward purification.",
+          "shortened": [
+            "For this bodily fast is a symbol of the spiritual fast, that is, the restraint of the self from all selfish desires, the adornment of the soul with spiritual attributes, attraction to the breaths of the All-Merciful, and enkindlement with the fire of the love of God."
+          ]
         },
         {
           "key": "source:AB00059",
@@ -1127,31 +1475,54 @@
         },
         {
           "key": "source:BH00001",
-          "why": "Read charity, the fast, and its exemptions within the Aqdas passage."
+          "why": "Read charity, the fast, and its exemptions within the Aqdas passage.",
+          "shortened": [
+            "It behoveth the people of Baha, throughout these days, to provide good cheer for themselves, their kindred and, beyond them, the poor and needy, and with joy and exultation to hail and glorify their Lord, to sing His praise and magnify His Name; and when they end --these days of giving that precede the season of restraint--let them enter upon the Fast. Thus hath it been ordained by Him Who is the Lord of all mankind. The traveller, the ailing, those who are with child or giving suck, are not bound by the Fast; they have been exempted by God as a token of His grace.",
+            "Abstain from food and drink from sunrise to sundown, and beware lest desire deprive you of this grace that is appointed in the Book."
+          ]
         },
         {
           "key": "source:BH06563",
-          "why": "Attend to the stated duration and limits of observance."
+          "why": "Attend to the stated duration and limits of observance.",
+          "shortened": [
+            "Fasting hath been decreed for you in the month of 'Ala. Fast ye for the sake of your Lord, the Mighty, the Most High. Restrain yourselves from sunrise to sunset. Thus doth the Beloved of mankind instruct you as bidden by God, the All-Powerful, the Unconstrained. It is not for anyone to exceed the limits laid down by God and His law, nor should anyone follow his own idle imaginings."
+          ]
         },
         {
           "key": "source:BH01954",
-          "why": "Keep health-related exemption within the account of obedience."
+          "why": "Keep health-related exemption within the account of obedience.",
+          "shortened": [
+            "Verily I say, fasting and prayer have a great station before God, but their excellence exists in time of health, and when weakness comes, observance thereof is not permitted."
+          ]
         },
         {
           "key": "source:ABU1585",
-          "why": "Distinguish spiritual progress from physical weakening."
+          "why": "Distinguish spiritual progress from physical weakening.",
+          "shortened": [
+            "Some people lay stress on fasting. They affirm that in augmenting the weakness of the body they develop a spiritual sensibility and thus they think to approach God.",
+            "Weakening one's self physically does not necessarily contribute to spiritual progress."
+          ]
         },
         {
           "key": "source:BH02128",
-          "why": "Read the boundary between permitted spiritual exercise and affliction."
+          "why": "Read the boundary between permitted spiritual exercise and affliction.",
+          "shortened": [
+            "Although fasting is outwardly difficult and toilsome, inwardly it is a blessing and comfort. Refinement and training depend upon spiritual exercises - such spiritual exercises as are in accordance with the Book of God and are permitted by religious law, not those wherewith certain deluded ones have afflicted the people."
+          ]
         },
         {
           "key": "source:BH01850",
-          "why": "Read the extreme hypothetical image of love beside the explicit limits of the law."
+          "why": "Read the extreme hypothetical image of love beside the explicit limits of the law.",
+          "shortened": [
+            "In the Prayer of Fasting We have revealed: “Should Thy Will decree that out of Thy mouth these words proceed and be addressed unto them, ‘Observe, for My Beauty’s sake, the fast, O people, and set no limit to its duration,’ I swear by the majesty of Thy glory, that every one of them will faithfully observe it, will abstain from whatsoever will violate Thy law, and will continue to do so until they yield up their souls unto Thee.”"
+          ]
         },
         {
           "key": "source:BH02249",
-          "why": "Consider both fasting and breaking the fast as bounties."
+          "why": "Consider both fasting and breaking the fast as bounties.",
+          "shortened": [
+            "We have fasted by His command and broken our fast by His leave, and He has completed for us the two flowing bounties - the bounty of fasting and the table of breaking fast."
+          ]
         },
         {
           "key": "source:BH10581",
@@ -1163,7 +1534,11 @@
         },
         {
           "key": "source:ABU0730",
-          "why": "Read the lamp’s clean glass beside the need for its light."
+          "why": "Read the lamp’s clean glass beside the need for its light.",
+          "shortened": [
+            "Fasting is conducive to the mindfulness and heedfulness of man. its ulterior wisdom is the sanctification of the soul from carnal and physical appetites. Fasting energizes and sharpens the spiritual consciousness and cleanses the hearts from the worldly desires.",
+            "These higher reasons of fasting are now completely forgotten. It has become only a habit; a custom, handed down from Ancestors and forefathers. In reality they are not fasting; they are keeping up a dead institution. Fasting is like a lamp. What is a lamp for? It is a chimney for the protection of the light. If there is no light in the glass; what use is there for it? Now these people are constantly cleaning the glass and are not thinking of the light."
+          ]
         },
         {
           "key": "source:BH09803",
@@ -1171,7 +1546,10 @@
         },
         {
           "key": "source:BH07657",
-          "why": "Read the fast as directed toward God alone."
+          "why": "Read the fast as directed toward God alone.",
+          "shortened": [
+            "These are, O my Lord, the days in which Thou hast bidden Thy servants to observe the fast. Blessed is he that observeth the fast wholly for Thy sake and with absolute detachment from all things except Thee. Assist me and assist them, O my Lord, to obey Thee and to keep Thy precepts."
+          ]
         },
         {
           "key": "source:BH01503",
@@ -1183,7 +1561,11 @@
         },
         {
           "key": "source:BH00002",
-          "why": "Read changing religious ordinances within the Iqan’s symbolic discussion."
+          "why": "Read changing religious ordinances within the Iqan’s symbolic discussion.",
+          "shortened": [
+            "The traditions established the fact that in all Dispensations the law of prayer hath constituted a fundamental element of the Revelation of all the Prophets of God -- a law the form and the manner of which hath been adapted to the varying requirements of every age.",
+            "And as the sun and moon constitute the brightest and most prominent luminaries in the heavens, similarly in the heaven of the religion of God two shining orbs have been ordained -- fasting and prayer."
+          ]
         },
         {
           "key": "source:BH10127",
@@ -1191,7 +1573,10 @@
         },
         {
           "key": "source:AB01700",
-          "why": "Connect observance with mindfulness."
+          "why": "Connect observance with mindfulness.",
+          "shortened": [
+            "Be constant in prayer and mindful in fasting. Day and night occupy yourselves with devotion, supplication and prayer, especially at the designated time."
+          ]
         },
         {
           "key": "source:BH11793",
@@ -1199,11 +1584,17 @@
         },
         {
           "key": "source:BH00437",
-          "why": "Place the fast within the turning of the year."
+          "why": "Place the fast within the turning of the year.",
+          "shortened": [
+            "Thou hast commanded that Thy servants and Thy people should fast therein and seek thereby to draw nearer unto Thee.  The days and months of the year have culminated with the Fast, even as the first month began with Thy Name, Baha, that all might testify that Thou art the First and the Last, the Manifest and the Hidden, and be well assured that the glory of all names is conferred only through the glory of Thy Cause and the word expounded by Thy will and revealed through Thy purpose."
+          ]
         },
         {
           "key": "source:BH01151",
-          "why": "Hear the invitation to prepare the heart during the intercalary days."
+          "why": "Hear the invitation to prepare the heart during the intercalary days.",
+          "shortened": [
+            "All the days have been honoured, O my God, by the arrival of the days upon which Thou hast conferred the name of Ha, each of which Thou hast made a herald and a messenger announcing unto the people the advent of the days on which Thou didst enjoin Thy creation and Thy people to observe the Fast. Thus may every soul prepare himself to behold these days and appoint a place for them in his heart and purify it by Thy Name, the Lord, for their appearance."
+          ]
         },
         {
           "key": "source:BH05849",
@@ -1211,11 +1602,18 @@
         },
         {
           "key": "source:BH03908",
-          "why": "Consider the acceptance of the fast at Naw-Ruz."
+          "why": "Consider the acceptance of the fast at Naw-Ruz.",
+          "shortened": [
+            "Grant, O my Lord, that the fire of Thy love and the heat produced by the fast enjoined by Thee may inflame them in Thy Cause, and make them to be occupied with Thy praise and with remembrance of Thee.",
+            "Since Thou hast adorned them, O my Lord, with the ornament of the fast prescribed by Thee, do Thou adorn them also with the ornament of Thine acceptance, through Thy grace and bountiful favor. For the doings of men are all dependent upon Thy good-pleasure, and are conditioned by Thy behest."
+          ]
         },
         {
           "key": "source:BH01888",
-          "why": "Attend to the significance assigned to each hour."
+          "why": "Attend to the significance assigned to each hour.",
+          "shortened": [
+            "These are, O my God, the days whereon Thou didst enjoin Thy servants to observe the fast. With it Thou didst adorn the preamble of the Book of Thy Laws revealed unto Thy creatures, and didst deck forth the Repositories of Thy commandments in the sight of all who are in Thy heaven and all who are on Thy earth. Thou hast endowed every hour of these days with a special virtue, inscrutable to all except Thee, Whose knowledge embraceth all created things."
+          ]
         },
         {
           "key": "source:AB05753",
@@ -1223,7 +1621,10 @@
         },
         {
           "key": "source:BH00057",
-          "why": "Consider the specified travel provision."
+          "why": "Consider the specified travel provision.",
+          "shortened": [
+            "The limits of travel have been fixed at nine hours in the Book of God - that is, from the place of departure to the intended destination should be nine hours, then the law of fasting is lifted."
+          ]
         },
         {
           "key": "source:BH00069",
@@ -1239,7 +1640,13 @@
         },
         {
           "key": "source:ABU0786",
-          "why": "Keep the reported discussion of concessions and earlier practice distinct in source status."
+          "why": "Keep the reported discussion of concessions and earlier practice distinct in source status.",
+          "shortened": [
+            "QUESTION: Some of the friends in America say that the Fast is not to be observed now but in the future.",
+            "'ABDUL-BAHA: In places where it will be the cause of trouble, such as in Bokhara or Afghanistan, or in some of the towns in Persia, the Fast cannot be kept. In these places if the friends fast it will be the cause of trouble, people will rise against them. But in those places where there is safety and security it should be kept. I fasted sixty years-the first one who fasted was I.",
+            "QUESTION: In a family where it is difficult, should one attempt to keep the Fast?",
+            "'ABDUL-BAHA: Difficulty is not a preventative. But if fasting gives rise to inharmony it is injurious."
+          ]
         },
         {
           "key": "source:ABU1530",
@@ -1259,15 +1666,25 @@
         },
         {
           "key": "source:BH00319",
-          "why": "Consider the wisdom described during changes in outward observance."
+          "why": "Consider the wisdom described during changes in outward observance.",
+          "shortened": [
+            "The laws of fasting and prayer as revealed have not been changed, but wisdom is necessary. Hitherto, most have acted in accordance with the laws of the Qur'an. Were something entirely different to suddenly appear before the people, great discord would arise and none would draw nigh to hear the Word of God."
+          ]
         },
         {
           "key": "source:BH00170",
-          "why": "Read the historical relationship between Ramadan and laws not yet publicly announced."
+          "why": "Read the historical relationship between Ramadan and laws not yet publicly announced.",
+          "shortened": [
+            "Concerning what you wrote about the Fast - the Fast remains as it was, that is, the Fast of the Bayan, as explicitly mentioned in the Kitab-i-Aqdas.",
+            "Regarding what they have heard about the Fast of Ramadan in this land - since some of the friends acted unwisely and the heedless and antagonists became aware of it, therefore, as a matter of wisdom, the command was sent down from the heaven of the Ancient One to observe the Fast of Ramadan, lest the clamor of the heedless be raised. In all circumstances wisdom must be observed, even as the True One Himself, exalted be His glory, would attend the mosque in Iraq and likewise visit Kazimayn before the Cause was proclaimed. Prior to the proclamation of the Cause, it is necessary to hold fast to that which draweth people near, for were people to become fully informed and aware, a greater separation would occur and none would then draw nigh to hear the Word of God and hold fast to the straight path."
+          ]
         },
         {
           "key": "source:ABU0632",
-          "why": "Keep the reported Turkish setting of Ramadan observance in view."
+          "why": "Keep the reported Turkish setting of Ramadan observance in view.",
+          "shortened": [
+            "These days are the days of Baha'i fasting but the Blessed Perfection has commanded us not to keep it in Turkey, so instead of this we keep the fast of Ramazan. For the present this is in accord with wisdom. As we keep the latter, the former is left aside... My highest longing is to keep this fast, but wisdom must be considered. However in other parts of the world the believers should keep the Baha'i fasting. The time will also come for his country. Through this fast great spirituality is obtained and joy and fragrance realized."
+          ]
         },
         {
           "key": "source:BH00350",
@@ -1275,7 +1692,10 @@
         },
         {
           "key": "source:BH03502",
-          "why": "Retain the particular remembrance of a first Ramadan."
+          "why": "Retain the particular remembrance of a first Ramadan.",
+          "shortened": [
+            "On this day, which is the first day of the blessed Ramadan, the Wronged One is fasting."
+          ]
         },
         {
           "key": "source:BH00500",
@@ -1291,7 +1711,10 @@
         },
         {
           "key": "source:AB02900",
-          "why": "Hear the forceful counsel concerning neglect of prayer and fasting in its attributed voice."
+          "why": "Hear the forceful counsel concerning neglect of prayer and fasting in its attributed voice.",
+          "shortened": [
+            "Similarly, prayer and fasting are among the greatest obligations of this holy Dispensation. If anyone interprets them away or is negligent, it is absolutely necessary to avoid such souls. Otherwise, a great weakness will result in the religion of God."
+          ]
         },
         {
           "key": "source:BH04530",
@@ -1303,7 +1726,10 @@
         },
         {
           "key": "source:BH11810",
-          "why": "Read conduct in relation to the divine command."
+          "why": "Read conduct in relation to the divine command.",
+          "shortened": [
+            "He, verily, is the One Who commandeth, the All-Knowing. They who circle round the Throne, and they who believed in Him when He was established upon His mighty throne, have observed the Fast. Blessed are they who follow the commandments of God - they, verily, are in an exalted station."
+          ]
         },
         {
           "key": "source:BH05113",
@@ -1311,7 +1737,10 @@
         },
         {
           "key": "source:AB11916",
-          "why": "Read the fast in relation to unity and the Covenant."
+          "why": "Read the fast in relation to unity and the Covenant.",
+          "shortened": [
+            "O ye flock of the Lord of glory! Blessed are they who have observed the fast during its appointed month, who have gathered together in perfect unity and harmony, have freed themselves from the insinuations of doubt and stood firm in the Covenant, have been graciously enabled to promote the Cause of God, and have arisen with utter self-abnegation for love of Baha'u'llah."
+          ]
         },
         {
           "key": "source:BH02909",
@@ -1335,7 +1764,10 @@
         },
         {
           "key": "source:BH03761",
-          "why": "Join prayer and fasting with steadfastness."
+          "why": "Join prayer and fasting with steadfastness.",
+          "shortened": [
+            "This Wronged One and those who accept Him in this land hold fast to the strong cord of fasting and prayer and the deeds mentioned in the Book."
+          ]
         },
         {
           "key": "source:AB06434",
@@ -1347,7 +1779,10 @@
         },
         {
           "key": "source:BH02371",
-          "why": "Keep the personal tension between fasting and meeting within its source context."
+          "why": "Keep the personal tension between fasting and meeting within its source context.",
+          "shortened": [
+            "Further, this servant knows not what to submit and what to mention - whether to complain about the fast or express satisfaction. If we say we were and are satisfied with it, it is observed to have become a barrier and cause of prevention, and the reason for separation and remoteness which has ever been detested. And if we mention anything less than good, this would be counted among real transgressions, for it has been and remains among the greatest bounties with God, the Lord of Names."
+          ]
         },
         {
           "key": "source:BH02411",
@@ -1359,7 +1794,10 @@
         },
         {
           "key": "source:BH08745",
-          "why": "Hear the grief expressed at the fast’s departure."
+          "why": "Hear the grief expressed at the fast’s departure.",
+          "shortened": [
+            "These are the days of farewell, and grief hath seized the people of God, for the Fast, which was the cause of refinement and the means of reformation and spirituality of souls, hath come to an end."
+          ]
         },
         {
           "key": "source:BH11862",
@@ -1436,7 +1874,7 @@
       "id": "9D3C0575BFA942CA95AB98EA453F1294",
       "slug": "religionreality",
       "displayTitle": "The reality of religion: light made visible in life",
-      "introduction": "Religion is likened to a sun whose light is love. That image gives the inquiry a practical direction: the reality of religion is to be sought in transformed conduct, fellowship, understanding, and the healing of human life. These selections repeatedly challenge inherited imitation and ask religion to accord with reason and science; they also describe the Word of God and divine education as sources of a deeper transformation. Enduring purpose and renewed expression belong together, while the supplied counsel cautions against making an exhaustive list of every religion’s fundamentals. Historical reports and polemical descriptions remain particular voices within this inquiry. James 1:26–27 offers a primary comparison through disciplined speech, care for the vulnerable, and integrity [1]. Connected subjects of necessary relationships, science and religion, morality, and religious unity widen the question of how spiritual conviction might become a source of knowledge, justice, and love.",
+      "introduction": "Think of religion as the orb of the sun, Bahá’u’lláh wrote from His prison, and of love as its light. If so, its reality can be read off a life as daylight is read off a landscape, and ‘Abdu’l-Bahá drew the consequence: a religion that breeds enmity is worse than none, since medicine that causes illness should be thrown away. Religion is a dispensary holding the remedy for every ailment, the spirit without which the body of the world is a lifeless form. It must agree with reason, for the heart cannot accept what the mind denies, and it flies only on two wings, science and faith together, or falls into superstition on one side or materialism on the other. James measured religion by a bridled tongue, care for orphans and widows, and a life kept unspotted, the same test of reality by its fruits [1]. From here the way leads into the harmony of science and religion, into religion as the basis of morality and civilisation, into religion as the source of love and unity, and into the oneness beneath the many faiths.",
       "arc": "Begin with love as religion’s visible light, examine its effects in conduct and understanding, and explore enduring purpose alongside the need for renewal.",
       "order": [
         {
@@ -1449,11 +1887,17 @@
         },
         {
           "key": "source:AB00829",
-          "why": "Read religion through life and character rather than outward custom alone."
+          "why": "Read religion through life and character rather than outward custom alone.",
+          "shortened": [
+            "Religion, moreover, is not a series of beliefs, a set of customs; religion is the teachings of the Lord God, teachings which constitute the very life of humankind, which urge high thoughts upon the mind, refine the character, and lay the groundwork for man's everlasting honour."
+          ]
         },
         {
           "key": "source:ABU0171",
-          "why": "Consider the claim that religion loses its purpose when it breeds enmity."
+          "why": "Consider the claim that religion loses its purpose when it breeds enmity.",
+          "shortened": [
+            "If religion be the cause of enmity, he declared, its absence is better than its presence, for the purpose of religion is love of mankind, and if religion yields enmity surely its non-existence is preferable. Thirdly, Baha'Ullah proclaimed that religion must correspond with science, for religion is reality and science is reality, and reality corresponds. It is not multiple, there is no difference in any reality. If a religious question be opposed to reason and science, it is pure imagination and baseless, for the opposite of knowledge or science is ignorance."
+          ]
         },
         {
           "key": "source:ABU0062",
@@ -1469,7 +1913,10 @@
         },
         {
           "key": "source:ABU0607",
-          "why": "Hear the lament when a source of honor becomes a cause of hatred."
+          "why": "Hear the lament when a source of honor becomes a cause of hatred.",
+          "shortened": [
+            "The Religion of God is honor to humanity; why make it the cause of degradation? Why make it the cause of darkness and gloom? Assuredly it is a thousand pities that the cause of such a glorious reality should become the cause of degradation and hatred."
+          ]
         },
         {
           "key": "source:ABU0034",
@@ -1497,15 +1944,24 @@
         },
         {
           "key": "source:ABU2458",
-          "why": "Consider religion through the image of a dispensary."
+          "why": "Consider religion through the image of a dispensary.",
+          "shortened": [
+            "The divine laws and religions are God's dispensary. The remedy for every ailment exists therein. A skilled physician is needed to apply this cure, one who knows when to use these remedies."
+          ]
         },
         {
           "key": "source:ABU0023",
-          "why": "Make reason part of the test of religious understanding."
+          "why": "Make reason part of the test of religious understanding.",
+          "shortened": [
+            "If religious belief and doctrine is at variance with reason, it proceeds from the limited mind of man and not from God; therefore, it is unworthy of belief and not deserving of attention; the heart finds no rest in it, and real faith is impossible. How can man believe that which he knows to be opposed to reason? Is this possible? Can the heart accept that which reason denies? Reason is the first faculty of man, and the religion of God is in harmony with it."
+          ]
         },
         {
           "key": "source:ABU0493",
-          "why": "Read science and religion as mutually necessary wings."
+          "why": "Read science and religion as mutually necessary wings.",
+          "shortened": [
+            "Religion and science are the two wings upon which man's intelligence can soar into the heights, with which the human soul can progress. It is not possible to fly with one wing alone! Should a man try to fly with the wing of religion alone he would quickly fall into the quagmire of superstition, whilst on the other hand, with the wing of science alone he would also make no progress, but fall into the despairing slough of materialism."
+          ]
         },
         {
           "key": "source:ABU0051",
@@ -1525,11 +1981,18 @@
         },
         {
           "key": "source:AB00256",
-          "why": "Read the praise of knowledge and critique of ignorance in its attributed voice."
+          "why": "Read the praise of knowledge and critique of ignorance in its attributed voice.",
+          "shortened": [
+            "On the contrary, in the sight of God knowledge is the greatest human virtue and the noblest human perfection. To oppose knowledge is pure ignorance, and he who abhors knowledge and learning is not a human being but a mindless animal. For knowledge is light, life, felicity, perfection and beauty, and causes the soul to draw nigh to the divine threshold. It is the honour and glory of the human realm and the greatest of God's bounties. Knowledge is identical to guidance and ignorance is the essence of error."
+          ]
         },
         {
           "key": "source:ABU0873",
-          "why": "Consider reality concealed beneath symbolic forms."
+          "why": "Consider reality concealed beneath symbolic forms.",
+          "shortened": [
+            "\"People have a superstitious respect for certain doctrines which are against science and the wise men of the country have thought that religion is opposed to science. Know thou that the great ethical foundation of knowledge is divine revelation and the basis of religion is reality itself.",
+            "\"Alas, alas! the world has not discovered the reality of religion hidden beneath the symbolic forms!\""
+          ]
         },
         {
           "key": "source:ABU0101",
@@ -1541,11 +2004,17 @@
         },
         {
           "key": "source:ABU2646",
-          "why": "Distinguish divine purpose from personal imaginings."
+          "why": "Distinguish divine purpose from personal imaginings.",
+          "shortened": [
+            "True Religion has nothing to do with human imagination. God's Will is independent of human opinion.Personal ideas and mere human prejudice are the great obstacles to spiritual growth."
+          ]
         },
         {
           "key": "source:AB00004",
-          "why": "Consider practical sciences and public improvements alongside spiritual concerns."
+          "why": "Consider practical sciences and public improvements alongside spiritual concerns.",
+          "shortened": [
+            "Can we maintain that it is contrary to the fundamentals of the Faith to encourage the acquisition of useful arts and of general knowledge, to inform oneself as to the truths of such physical sciences as are beneficial to man, and to widen the scope of industry and increase the products of commerce and multiply the nation's avenues of wealth? Would it conflict with the worship of God to establish law and order in the cities and organize the rural districts, to repair the roads and build railroads and facilitate transportation and travel and thus increase the people's well-being?"
+          ]
         },
         {
           "key": "source:AB03738",
@@ -1569,11 +2038,17 @@
         },
         {
           "key": "source:AB10598",
-          "why": "Read religion as a school of virtues."
+          "why": "Read religion as a school of virtues.",
+          "shortened": [
+            "In truth, the religion of God is the school of perfections wherein the meanings of the virtues and qualities of the Kingdom are taught."
+          ]
         },
         {
           "key": "source:ABU2815",
-          "why": "Hear the supplied catalogue account of moral and intellectual illumination."
+          "why": "Hear the supplied catalogue account of moral and intellectual illumination.",
+          "shortened": [
+            "The religion of God reforms the moral side of the life of mankind. It is the spreader of the virtues of the world of humanity. It is the founder of the divine perfections in the hearts of man. It is nearness unto God. It is the cause of attraction and enkindlement with the Fire of the Love of God."
+          ]
         },
         {
           "key": "source:ABU0015",
@@ -1589,19 +2064,32 @@
         },
         {
           "key": "source:ABU1305",
-          "why": "Consider the power described as transforming hearts."
+          "why": "Consider the power described as transforming hearts.",
+          "shortened": [
+            "Whoever takes shelter under that blessed word becomes, from the depths of their heart, a well-wisher of humankind, not out of fear of politics and torment and harm. If they are ignorant, in deeds they become equal to the learned, and the benefits of their actions surpass the results of most wise people's conduct in ordering the world and improving the morals of nations. And this kind of transformation of hearts is not achieved by any power except divine religion and spiritual teachings."
+          ]
         },
         {
           "key": "source:ABU2295",
-          "why": "Read truth, the Word of God, and love in relation to renewed life."
+          "why": "Read truth, the Word of God, and love in relation to renewed life.",
+          "shortened": [
+            "What is truth? Truth is the word of God, which gives life to humanity. It restores sight to the blind and hearing to the deaf; it makes eloquent those who are dumb, and living beings out of dead beings; it illumines the world of heart and soul; it reduces into nothingness the iniquities of the neglectful and erring ones.",
+            "The road to attain to this Truth is the love of God. When the light of the love of God is burning in the mirror of the heart, that flame shows the way and guides to the Kingdom of the Word of God."
+          ]
         },
         {
           "key": "source:ABU0984",
-          "why": "Hear the concise identification of religion’s essence with love."
+          "why": "Hear the concise identification of religion’s essence with love.",
+          "shortened": [
+            "The essence of all religions is the Love of God, and it is the foundation of all the sacred teachings."
+          ]
         },
         {
           "key": "source:AB00065",
-          "why": "Read the spiritual battle as directed against the insistent self."
+          "why": "Read the spiritual battle as directed against the insistent self.",
+          "shortened": [
+            "It cometh neither for strife nor war, nor for acts of mischief or of shame; it is neither for quarrelling with other Faiths, nor for conflicts with the nations. Its only army is the love of God, its only joy the clear wine of His knowledge, its only battle the expounding of the Truth; its one crusade is against the insistent self, the evil promptings of the human heart. Its victory is to submit and yield, and to be selfless is its everlasting glory."
+          ]
         },
         {
           "key": "source:ABU2081",
@@ -1621,7 +2109,11 @@
         },
         {
           "key": "source:ABU0052",
-          "why": "Read the Prophets in relation to a single reality."
+          "why": "Read the Prophets in relation to a single reality.",
+          "shortened": [
+            "The Prophets of God have been the servants of reality; Their teachings constitute the science of reality.",
+            "Abraham summoned the people to reality; Moses proclaimed reality; Christ founded reality. Likewise, all the Prophets were the servants and promulgators of reality. Reality is one and indivisible."
+          ]
         },
         {
           "key": "source:ABU0178",
@@ -1633,7 +2125,10 @@
         },
         {
           "key": "source:ABU1372",
-          "why": "Read shared foundations beside the specific principles proclaimed."
+          "why": "Read shared foundations beside the specific principles proclaimed.",
+          "shortened": [
+            "My discourses in various gatherings have been founded on principles that are in conformity with reality as well as with the utmost wisdom. For instance, I say that the foundation of all divine religions is the same and that the Prophets are the dawning places of truth. No one can take exception or say that the principles of the Prophets and the truth of their teachings are different. Then I state that the basic teachings of Baha'u'llah are universal peace; the oneness of humanity; prohibition of execration and calumny; association with the followers of all religions in harmony and unity of nations, of races and of governments; and such like."
+          ]
         },
         {
           "key": "source:ABU0365",
@@ -1665,7 +2160,10 @@
         },
         {
           "key": "source:ABU1089",
-          "why": "Consider the new tree’s relationship to preceding roots."
+          "why": "Consider the new tree’s relationship to preceding roots.",
+          "shortened": [
+            "When a tree is dried, a new shoot springs from its original root, so in reality the Christian Dispensation is from the same Mosaic root, etc. Today the Baha'i Tree has sprung up from the root of all the former prophetic Trees. To serve this Tree, to irrigate this Tree, is to serve and irrigate all the other Trees."
+          ]
         },
         {
           "key": "source:ABU1631",
@@ -1693,19 +2191,32 @@
         },
         {
           "key": "source:AB04278",
-          "why": "Hear the affirmation of an enduring reality."
+          "why": "Hear the affirmation of an enduring reality.",
+          "shortened": [
+            "That which endureth is the spiritual reality, it is the shining essence; it is life eternal, it is undisturbed felicity, unfading and perpetual, flourishing and plenteous. The revolution of cycles is powerless to ravage it, nor can the succession of ages and centuries molest it."
+          ]
         },
         {
           "key": "source:ABU0690",
-          "why": "Read religion as spirit within the world’s body."
+          "why": "Read religion as spirit within the world’s body.",
+          "shortened": [
+            "The world of existence is like the human body - material forces are like its organs and parts. But this body needs a spirit to animate it, to give it life and vitality, to endow it with sight, hearing, memory and perception, so that the light of intellect may shine within it.",
+            "Similarly, although the body of the contingent world may be at the height of freshness and delicacy in the material realm, it is without spirit. Its spirit is the divine religion - divine religion is the spirit of the contingent world."
+          ]
         },
         {
           "key": "source:AB03890",
-          "why": "Consider love, knowledge, and guidance as enduring realities."
+          "why": "Consider love, knowledge, and guidance as enduring realities.",
+          "shortened": [
+            "That which is a reality and is eternal and everlasting is the love of God, is the knowledge of His Highness, the Forgiver, is the spread of the perspicuous religion of God, the uplifting of the Word of God, and the diffusion of the lights of the guidance of God!"
+          ]
         },
         {
           "key": "source:AB08125",
-          "why": "Read the metaphysical language of shadow and reality in its own setting."
+          "why": "Read the metaphysical language of shadow and reality in its own setting.",
+          "shortened": [
+            "All that thou seest and readest and knowest is but fancy and imagination, ignorance and error, save that which appeareth from the Truth and returneth unto the Truth. All that existeth in creation is fancy or imagination or reflections in mirrors or shadows."
+          ]
         },
         {
           "key": "source:AB10950",
@@ -1713,7 +2224,11 @@
         },
         {
           "key": "source:AB08062",
-          "why": "Read the transformed eye of the needle as a spiritual image."
+          "why": "Read the transformed eye of the needle as a spiritual image.",
+          "shortened": [
+            "O Khayyat!",
+            "Christ declares that it is easier for a camel to pass through the eye of a needle than for a rich man to enter the Kingdom of God. Observe how the power of God's Cause has transformed the eye of the needle into a vast plain, and both rich and poor have entered in troops, one after another."
+          ]
         },
         {
           "key": "source:ABU2620",
@@ -1721,7 +2236,13 @@
         },
         {
           "key": "source:ABU1484",
-          "why": "Retain the brief numbered selection with attention to its available context."
+          "why": "Retain the brief numbered selection with attention to its available context.",
+          "shortened": [
+            "1.\tReligion is connection with God.",
+            "2.\tThere is one God.",
+            "3.\tThere is but one possibility for connection.",
+            "From these three premises there results the conclusion with convincing logic: Religion is an organic unity."
+          ]
         },
         {
           "key": "source:ABU2324",
@@ -1729,7 +2250,10 @@
         },
         {
           "key": "source:ABU2801",
-          "why": "Keep the first category of material affairs within the source’s larger distinction."
+          "why": "Keep the first category of material affairs within the source’s larger distinction.",
+          "shortened": [
+            "Abdul-Baha said: \"Material affairs are of two kinds. The first are those concerns that have no direct relation to life. They contribute toward luxury, effeminacy, indolence and voluptuousness. Indulgence in these things make one negligent of God and stifles all traces of spirituality."
+          ]
         },
         {
           "key": "source:BH04055",
@@ -1855,20 +2379,31 @@
       "id": "9D9002D8700F4A2D893B0869236D586F",
       "slug": "primalwill",
       "displayTitle": "The Primal Will: creation, revelation, and the light of the Word",
-      "introduction": "One sun can rise again and again without becoming many suns: the image invites an approach to the Primal Will through continuity amid countless appearances. These passages explore a first reality through which creation comes into being, while repeatedly distinguishing that reality from the inaccessible essence of God. The language moves among Will, Word, Point, light, mirror, and Manifestation, then turns toward guidance, divine law, and the transformation of human life. Such terms need patient reading within each passage’s setting; reported conversations and historical natural philosophy should not be flattened into a single modern scientific account. John 1:1–5 offers a primary comparison through the Word, creation, life, and light [1]. Connected subjects of emanation, the Will’s self-generation, the stages of creation, and the station of the Manifestation extend the inquiry into dependence and mediation without erasing the differences among these religious and philosophical vocabularies.",
+      "introduction": "The Báb likens the Primal Will to a sun that may rise and set without end and still remain one sun. Before anything else existed, the Writings teach, God brought into being a first reality, called by many names, Will, Word, Point, First Remembrance, First Mirror, through which the heavens and the earth and all that lies between them came to be. That reality is not God. ‘Abdu’l-Bahá insists that beside the divine Essence its very existence is as nothing; it is created by itself and for itself, honoured by being attributed to God as the Kaaba is called His House, yet it belongs wholly to the realm of contingency. To ponder the Primal Will is to ask how the unknowable reaches us at all: by emanation rather than division, and through the Manifestation of God, in whom the Will speaks in human form. The Gospel of John opens with the same mystery, the Word by whom all things were made and in whom is the light of men [1]. From here the path leads through the stages of creation and the station of the Manifestation, and finally to the plainest question of all: how a life answers the counsels that descend from that Will.",
       "arc": "Begin with the sun’s recurring light, distinguish the Primal Will from the divine essence, and follow the language of creation toward revelation and a life responsive to guidance.",
       "order": [
         {
           "key": "source:BB00015",
-          "why": "Open with one sun through successive risings."
+          "why": "Open with one sun through successive risings.",
+          "shortened": [
+            "And if thou sailest upon the sea of creation, know that the First Remembrance, which is the Primal Will of God, may be likened unto the sun, which God, exalted be His glory, hath created through His all-pervading power.",
+            "Know thou that its example is like unto the sun - if it should rise unto infinity, there would still be but one sun, and if it should set unto infinity, there would still be but one sun."
+          ]
         },
         {
           "key": "source:AB00876",
-          "why": "Distinguish the First Intellect or Primal Will from God’s pre-existence."
+          "why": "Distinguish the First Intellect or Primal Will from God’s pre-existence.",
+          "shortened": [
+            "The first thing to emanate from God is that universal reality which the ancient philosophers termed the \"First Intellect\" and which the people of Baha call the \"Primal Will.\"",
+            "Though the First Intellect is without beginning, this does not mean that it shares in the pre-existence of God, for in relation to the existence of God the existence of that universal Reality is mere nothingness--it cannot even be said to exist, let alone to partake of the pre-existence of God."
+          ]
         },
         {
           "key": "source:BB00017",
-          "why": "Read the contingent Will and the honor of its attribution to God."
+          "why": "Read the contingent Will and the honor of its attribution to God.",
+          "shortened": [
+            "Through pure creativity He hath brought the contingent Will into being from the midst of sheer nothingness, and hath attributed it to Himself as a mark of honor, even as He hath called the Kaaba His House. He hath brought all creation into existence through its existence."
+          ]
         },
         {
           "key": "source:BB00242",
@@ -1880,39 +2415,71 @@
         },
         {
           "key": "source:AB00538",
-          "why": "Read the world of Command through a universal reality and its forms."
+          "why": "Read the world of Command through a universal reality and its forms.",
+          "shortened": [
+            "The world of Command is the station of the Primal Will which is a universal reality that is resolved into infinite forms."
+          ]
         },
         {
           "key": "source:AB00153",
-          "why": "Consider the image of rays and bounties making beings visible."
+          "why": "Consider the image of rays and bounties making beings visible.",
+          "shortened": [
+            "Rather is it the Primal Will, which consisteth of the radiance and bounties of that Sun, that causeth the manifestation, appearance, and visibility of all beings."
+          ]
         },
         {
           "key": "source:BB00506",
-          "why": "Return to the one sun as an image of the Will’s continuity."
+          "why": "Return to the one sun as an image of the Will’s continuity.",
+          "shortened": [
+            "He hath created the Will, then through it created whatsoever He desired. And the example of the creation of the Will is like unto the sun - were it to rise unto infinity times infinity, it would still be one sun. Likewise the Will, from a beginning that hath no beginning unto an end that hath no end, were it to appear, it would still be one Will."
+          ]
         },
         {
           "key": "source:BB00005",
-          "why": "Explore the varied names and the distinction between knowledge and physical embodiment."
+          "why": "Explore the varied names and the distinction between knowledge and physical embodiment.",
+          "shortened": [
+            "The first veil is at the mention of specification, where reference is made to the Divine Will, the First Creation, the First Mention, the Sun of Reality, the Morn of Eternity, the Muhammadan Essence, the Primal Unity, the First Manifestation, the First Action, the First Mirror, the First Effulgence, and similar expressions, all of which indicate that first essence that prostrated before God, recognized its Creator, and declared: \"Thee do we worship and before Thee do we bow down.\"",
+            "All things were created through it, whether of heaven or earth, mountain or sea, great creation or small. It verily encompasseth all the heavens and all the earth and whatsoever is between them - an encompassment of knowledge and dominion, not of physical embodiment within physical form."
+          ]
         },
         {
           "key": "source:BB00114",
-          "why": "Read the First Remembrance and its sign of self-subsistence."
+          "why": "Read the First Remembrance and its sign of self-subsistence.",
+          "shortened": [
+            "This is the rank of the Primal Will which we express in the highest sense as the First Remembrance, with which nothing else is mentioned.",
+            "It continues eternally in the highest station as the Creator which was manifested to it at the beginning of its creation as a sign of the appearance of His Self-Subsistence, a mirror reflecting His Countenance of Eternality, and a geometry for the manifestation of His sovereignty. It is the sign for which God has made no beginning except the perpetuity of His grace, and no end except in itself."
+          ]
         },
         {
           "key": "source:BB00098",
-          "why": "Consider creation through Will without change in God’s oneness."
+          "why": "Consider creation through Will without change in God’s oneness.",
+          "shortened": [
+            "When He willed - and God's Will is His bringing into being, not from anything - He did not beget anything but rather created things through Will, and created Will through itself. Will is the first point mentioned in contingent existence, and it is the First Remembrance whereby God remembered Himself: \"Verily I am God, there is no god but I. I was a hidden treasure and I loved to be known, so I created creation that I might be known.\""
+          ]
         },
         {
           "key": "source:BB00014",
-          "why": "Read the Primal Will as cause of causes and the Muhammadan reference in its setting."
+          "why": "Read the Primal Will as cause of causes and the Muhammadan reference in its setting.",
+          "shortened": [
+            "He hath brought into being the very Essence of the Primal Will (mashiyyah) for the station of His own \"I-ness,\" the manifestation of His sustaining power, the token of His self-subsistence, and the dawning of the light of His sanctity.",
+            "It is the cause of causes in the beginnings of the Command and the ends of its consummation -- He hath indeed established it, in the station of the Will, as the station of His own Self.",
+            "When it is established through the radiant proof of reason, which speaks of the verses manifested in his essence, the servant knows that the Bearer of the First Remembrance, which is the Primal Will, could not have appeared in the realm of creation except that his name be Muhammad - may God's peace be upon him and his family."
+          ]
         },
         {
           "key": "source:BB00042",
-          "why": "Consider the critique of philosophical explanations of the first emanation."
+          "why": "Consider the critique of philosophical explanations of the first emanation.",
+          "shortened": [
+            "When you recognize the mystery of creation through what has descended in the hidden indications of these expressions, witness that the philosophers have slipped in the station of recognizing that First Emanation, which is the letter Kaf revolving upon itself, by itself, for itself, from itself - for they are unable to comprehend how God originated the Will by itself, for itself, from itself, without being touched by the fire of His Essence."
+          ]
         },
         {
           "key": "source:BB00197",
-          "why": "Read the beginning of the Will and the measure of its capacity."
+          "why": "Read the beginning of the Will and the measure of its capacity.",
+          "shortened": [
+            "The beginning of the existence of the Primal Will--which is the Cause of causes and the ultimate light of the Eternal Morn--was but from nothing, as You manifested unto it through itself, and it was established in its shadow.",
+            "You bestowed upon it what it could bear of what it would create through itself."
+          ]
         },
         {
           "key": "source:BB00318",
@@ -1924,7 +2491,10 @@
         },
         {
           "key": "source:BB00240",
-          "why": "Read the account of origination without a preceding created cause."
+          "why": "Read the account of origination without a preceding created cause.",
+          "shortened": [
+            "From it all things were fashioned, through it all things were called into being, upon it all things were founded, and within it all things found their establishment. Through it was the Divine Will brought into being before the mention of thingness, and in it was Lordship made manifest and all servitude made firm. It is neither of the eternal East nor of the non-existent West. It came into being through its own essence, not from any creation before it, and was endowed with its identity without any invention to rival it."
+          ]
         },
         {
           "key": "source:BH01299",
@@ -1936,11 +2506,18 @@
         },
         {
           "key": "source:BB00003",
-          "why": "Read the sequence of Will and Desire, then turn from means toward their Creator."
+          "why": "Read the sequence of Will and Desire, then turn from means toward their Creator.",
+          "shortened": [
+            "Through His power He created Will from nothing, and through His Will He brought forth Desire from naught. Then He raised up whatsoever He pleased by His command in the kingdoms of His might and holiness, and in the realms of His detachment and grace.",
+            "By the cause is meant the Primal Will, and by what is created through the cause is meant the conditions of that cause until the appearance of the end. When thou desirest something, look not to the means and the cause, but rather look to God Who created all things through the cause and created the cause without a cause."
+          ]
         },
         {
           "key": "source:BB00001",
-          "why": "Connect the Primal Will with the Point of the Qur’an and the Bayan."
+          "why": "Connect the Primal Will with the Point of the Qur’an and the Bayan.",
+          "shortened": [
+            "Whoso knoweth of a certainty that He is the Point of the Qur'an manifested in His Resurrection, and the Point of the Bayan in His first Revelation, and that He is the Primal Will Who existeth by Himself, the Self-Subsistent, while all things are created by His bidding, and exist by Him, he is numbered among those whose inmost realities have testified unto the unity of his Lord."
+          ]
         },
         {
           "key": "source:BB00027",
@@ -1948,7 +2525,10 @@
         },
         {
           "key": "source:BB00002",
-          "why": "Consider the letter Ba within the opening praise of creation."
+          "why": "Consider the letter Ba within the opening praise of creation.",
+          "shortened": [
+            "Praise be to God Who hath created the heavens and the earth in truth, and Whose decree concerning them both hath proceeded from the Point of the letter Ba in the center of the Fire around the Gate."
+          ]
         },
         {
           "key": "source:BB00022",
@@ -1960,7 +2540,10 @@
         },
         {
           "key": "source:BH01424",
-          "why": "Consider knowledge unfolding from the Point."
+          "why": "Consider knowledge unfolding from the Point.",
+          "shortened": [
+            "He is the One Who hath manifested the Point, and from it detailed the knowledge of what was and what will be, though it was itself created by the Will that proceeded from Him and was brought into being by a stroke of His Pen."
+          ]
         },
         {
           "key": "source:BH01602",
@@ -1968,15 +2551,24 @@
         },
         {
           "key": "source:BH04496",
-          "why": "Join the contingent Will with the Most Great Word."
+          "why": "Join the contingent Will with the Most Great Word.",
+          "shortened": [
+            "We created all contingent things through the Contingent Will, and it is verily the Most Great Word that appeared with a sovereignty witnessed throughout all worlds."
+          ]
         },
         {
           "key": "source:BH00135",
-          "why": "Explore the Primal Word’s many names and its relation to resurrection."
+          "why": "Explore the Primal Word’s many names and its relation to resurrection.",
+          "shortened": [
+            "This blessed Primal Word hath been called by all names - in one place as the Trumpet, in another as the Bugle, and likewise as the Path, the Balance, and the like. It is the cause of the gathering and resurrection of all things whatsoever that have been created in earth and heaven. Through it was manifested all that hath been sent down in the Book concerning the Hour and its signs, and the Resurrection and what shall appear therein. In one station it cannot be described by any description nor mentioned by any mention, while in another station it is described by the most exalted attributes and mentioned by the most beautiful names. Verily it is the Primal Will which created itself by itself and created through itself all else besides it."
+          ]
         },
         {
           "key": "source:BH00271",
-          "why": "Consider the hidden station of the Primal Will in the commentary on the sun."
+          "why": "Consider the hidden station of the Primal Will in the commentary on the sun.",
+          "shortened": [
+            "In its primary rank, in the station of divine unity and the ancient, heavenly sanctuary, it is a mystery of God's mysteries, a protection from God's protections, treasured in God's treasuries, concealed in God's knowledge, sealed with God's seal. None has comprehended it save the One, the Single, the All-Informed, for in that station it is the Primal Will itself and the dawning of Divine Unity, shining forth by itself upon the horizons, illuminating whoever turns toward it."
+          ]
         },
         {
           "key": "source:BH06203",
@@ -1988,15 +2580,24 @@
         },
         {
           "key": "source:BH08310",
-          "why": "Consider creation through a word and a drop as devotional images."
+          "why": "Consider creation through a word and a drop as devotional images.",
+          "shortened": [
+            "Thou art He Who created all contingent beings through a word from the Book of Thy Command, and brought forth all existing things through a drop from the cloud of Thy power."
+          ]
         },
         {
           "key": "source:BH01497",
-          "why": "Read the heavenly spirit and its particular relation to the Prophets."
+          "why": "Read the heavenly spirit and its particular relation to the Prophets.",
+          "shortened": [
+            "As for the heavenly spirit, it is a holy essence, a perfect word, a complete sign, the mystery of existence, and the reality hidden from the eyes of all beings. It is the Supreme Pen, the Most Merciful Soul, and the manifestation of Truth from the dawning-place of creation and its sun at the point of invention. This is specifically for the Prophets in the worlds of creation."
+          ]
         },
         {
           "key": "source:BH02539",
-          "why": "Attend to the identification concerning Ali in its own address."
+          "why": "Attend to the identification concerning Ali in its own address.",
+          "shortened": [
+            "God testifieth that there is none other God but Him and that 'Ali is the Sovereign of His Will, then His Purpose, then His Remembrance and Glory, then His Manifestation and Grandeur, then His Concealment and Mystery. All were sent forth by His command and all through Him are created."
+          ]
         },
         {
           "key": "source:BH03664",
@@ -2020,27 +2621,45 @@
         },
         {
           "key": "source:BH01636",
-          "why": "Trace the dependence of an event upon decree and Will."
+          "why": "Trace the dependence of an event upon decree and Will.",
+          "shortened": [
+            "However, We did not send it unto thee until its time should come, for all matters are dependent upon the signature that returns to the Decree that returns to Destiny that returns to the Will that returns to the Primal Will which creates by My command, the Mighty, the Exalted, the Most Exalted, the Powerful, the Impregnable."
+          ]
         },
         {
           "key": "source:BH00073",
-          "why": "Consider the symbolic correspondences among the Word, elements, faculties, and seasons."
+          "why": "Consider the symbolic correspondences among the Word, elements, faculties, and seasons.",
+          "shortened": [
+            "Know thou that the outward station of this Word among the stars and heavenly bodies is that of the sun; among letters and words it representeth the right pillar; among the ranks of divine action it representeth the Will; among the elements it representeth heat; among the seasons, summer; among measurements, length; in man's outer form it representeth sight, for the station of sight is that of fire; in man's inner being it representeth the heart; among the faculties it representeth the inner heart; among colors it representeth yellow; and among the elements it representeth fire."
+          ]
         },
         {
           "key": "source:AB03551",
-          "why": "Read the account attributed to some monotheists with attention to its philosophical setting."
+          "why": "Read the account attributed to some monotheists with attention to its philosophical setting.",
+          "shortened": [
+            "The mystery of this station is that the Eternal Being, in the unseen of Its essence and the hidden nature of Its attributes, required perfect manifestation and self-disclosure. According to some monotheists, manifestation is the appearance of the True One, glorified be He, to Himself by Himself in the forms of archetypes, while self-disclosure is His witnessing of His own beauty and perfection in the mirrors of realities and archetypes. Therefore, through the Most Holy Effusion, the attributes of the Divine Essence have manifested from the plane of Divine Unity into the plane of Primordial Unity."
+          ]
         },
         {
           "key": "source:AB00373",
-          "why": "Keep the historical account of ethereal matter distinct from contemporary physical theory."
+          "why": "Keep the historical account of ethereal matter distinct from contemporary physical theory.",
+          "shortened": [
+            "\"The world of existence came into being through the heat generated from the interaction between the active force and that which is its recipient.\" That is to say: The substance and primary matter of contingent beings is the ethereal power, which is invisible and known only through its effects, such as electricity, heat, and light--these are vibrations of that power, and this is established and proven in natural philosophy and is known as the ethereal matter. This ethereal matter is itself both the active force and its recipient; in other words, it is the sign of the Primal Will in the phenomenal world. 'God created man by the Primal Will and the Primal Will by itself.'"
+          ]
         },
         {
           "key": "source:ABU0170",
-          "why": "Read the reported development of life and its metaphysical language in its particular source."
+          "why": "Read the reported development of life and its metaphysical language in its particular source.",
+          "shortened": [
+            "Life on earth did not exist from the beginning and all at once, but it developed in stages and by degrees. The atoms of the elements are predisposed (programmed) to synthesis and composition according to the laws of nature; the Cosmic Spirit, the divine Primal Will operates and creates in this manner. The Primal Will operates in the element, in the primal atom, as attraction and repulsion; on the next higher level as organic life; then as animal-vegetative; and finally as spiritual life, which is destined to rise to the super-spiritual."
+          ]
         },
         {
           "key": "source:ABU2461",
-          "why": "Consider the reported distinction concerning perception and will."
+          "why": "Consider the reported distinction concerning perception and will.",
+          "shortened": [
+            "The philosophers also each say that a force or universal reality is the source of all created things. Their difference with the Prophets is only in this: that the Prophets say that universal reality and all-encompassing aspect is the absolutely wealthy, perceiving and choosing by will, while the philosophers consider it poor, non-perceiving and powerless."
+          ]
         },
         {
           "key": "source:ABU0965",
@@ -2048,7 +2667,11 @@
         },
         {
           "key": "source:BB00004",
-          "why": "Hear the affirmation of divine creative power."
+          "why": "Hear the affirmation of divine creative power.",
+          "shortened": [
+            "Say: Who hath a will more potent than God's in all the kingdom of the heavens and the earth and whatsoever is between them, if ye will aught by His leave?",
+            "Say: God is the Creator of all things, and unto Him shall all return. Say: God createth what He willeth through His command \"Be,\" and it is."
+          ]
         },
         {
           "key": "source:BB00595",
@@ -2076,7 +2699,10 @@
         },
         {
           "key": "source:BH05596",
-          "why": "Consider revelation as the removal of imagined veils."
+          "why": "Consider revelation as the removal of imagined veils.",
+          "shortened": [
+            "That which was hidden has been revealed through the all-compelling Supreme Will. The manifestors of conjecture and idle fancy seized upon an imaginary thing and clung to it. But the Hand of Divine Power removed the veil and rent asunder the covering, revealing what was hidden in the breasts before the faces of the world."
+          ]
         },
         {
           "key": "source:BH10210",
@@ -2104,7 +2730,10 @@
         },
         {
           "key": "source:BH01551",
-          "why": "Consider the leaves’ movement as an image of willing response."
+          "why": "Consider the leaves’ movement as an image of willing response.",
+          "shortened": [
+            "Would that we were like the leaves of the trees, which have no motion of their own - their movements come from the wind, and the wind appears through the Will. Would that we servants too had our motion and stillness proceed from the Will of God, exalted be His glory."
+          ]
         },
         {
           "key": "source:ABU2680",
@@ -2116,7 +2745,10 @@
         },
         {
           "key": "source:BH10017",
-          "why": "Receive divine counsels through the image of a feast."
+          "why": "Receive divine counsels through the image of a feast.",
+          "shortened": [
+            "Divine counsels are a spiritual feast sent down from the heaven of the All-Merciful Will. The friends must appreciate the value of this everlasting bounty and not lose this most great favor and most perfect grace through the conjectures of transient souls."
+          ]
         },
         {
           "key": "source:BH10196",
@@ -2128,7 +2760,10 @@
         },
         {
           "key": "source:BH11288",
-          "why": "Close the linked sequence with the prayer to approach divine good pleasure."
+          "why": "Close the linked sequence with the prayer to approach divine good pleasure.",
+          "shortened": [
+            "Then cause me to enter the shore of the ocean of Thy good-pleasure, and number me with those who have circled round Thy Will and Thy Purpose."
+          ]
         },
         {
           "key": "selection:6b880ed041d0d7b9fa8c4ceb",

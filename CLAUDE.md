@@ -23,6 +23,7 @@ Read AGENTS.md first; it holds the project invariants. Then read DESIGN.md befor
 - Repository and site URLs in the update and item-publishing tools come from the `origin` remote.
 - User-facing tools are launchers in `maintenance/`; their logic lives in `scripts/` (`run-node-tool.ps1`, `publish-changes.mjs`, `publish-editorial-decisions.mjs`, `open-site-page.mjs`, `update-subject-order.ps1`).
 - `maintenance/Edit-Study-Guide.cmd` runs `scripts/edit-study-guide-server.mjs`: a local page that edits a guide's wording and reading order in `study-guides/*.json` (checks in `study-guide-store.mjs` mirror `build-compilation-pilot.mjs`; quotation previews come from the published site via `study-guide-quotations.mjs`). It never changes `selection`, `slug`, `id` or neighbor evidence.
+- An order entry may carry `shortened` (verbatim whole-sentence spans, checked by `scripts/study-guide-shortening.mjs`) and `omitted: true` (left out of the published guide but still covered; never allowed for authorized wording). The editor's sentence picker and its save checks use `scripts/study-guide-passage.mjs`, which mirrors the build. Question limits count only the readings shown.
 - `study-guides/` is not part of the deployment cache key: `deployment-cache.mjs refresh` rebuilds the guides on every deployment, so guide-only pushes reuse the cached collection.
 - Volume view loads PDF.js after `src/map-polyfill.mjs` and uses `src/pdf-worker.mjs` as the worker entry; without them PDF.js 6 fails to render in browsers lacking `getOrInsertComputed`/`Math.sumPrecise`.
 

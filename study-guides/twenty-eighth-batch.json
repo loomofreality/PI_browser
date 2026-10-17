@@ -5,7 +5,7 @@
       "id": "C691C4FF81064ADC8EE804AF197F35A9",
       "slug": "soulendures",
       "displayTitle": "The enduring soul: identity, hope, and a life of growth",
-      "introduction": "A broken cage need not mean the death of the bird. That image gives this compilation an arresting point of entry into the claim that bodily dissolution does not extinguish the human spirit. The selections approach immortality through arguments about composition, the experience of dreams, the purpose of creation, and the fruits of a life directed toward God. They also distinguish continued existence from eternal life understood as a high degree of spiritual perfection. Plato’s Phaedo offers a philosophical companion in its examination of what can be dissolved and what is uncompounded [1]. The comparison invites us to weigh the arguments as well as the images. Alongside the soul’s immateriality and the possibility of endless progress, these passages ask what enduring identity might mean for courage, moral responsibility, companionship, and the way we spend our present days.",
+      "introduction": "A bird has nothing to fear from the breaking of its cage. With that image ‘Abdu’l-Bahá answers the oldest of fears, that death of the body is the end of the person, and then gives reasons. The body is a compound and all compounds decompose; the spirit is not composed of elements and so cannot fall apart. The body changes while the self persists. If a human life ended with its earthly span, creation would have grown a tree that bears only bitter fruit. Socrates in the Phaedo reasons along a similar line about what is scattered and what is uncompounded [1]. The claim is not only that the soul continues but that it can grow, and that mere endurance is not the same as eternal life understood as nearness. For the living, the consequences are the real matter: courage, companionship that death cannot overtake, and days spent as if they count forever. The way leads on to the soul as the essential reality of man, to the spirit after death, and to the Kingdom of God.",
       "arc": "Begin with the bird and cage, examine the arguments for continuity, distinguish endurance from spiritual fulfilment, and turn hope into a way of living.",
       "order": [
         {
@@ -26,7 +26,11 @@
         },
         {
           "key": "source:ABU0151",
-          "why": "Explore the extended argument about continuity and decomposition."
+          "why": "Explore the extended argument about continuity and decomposition.",
+          "shortened": [
+            "And whereas this matter is clear and evident, it is strange that some souls imagine that the human spirit becomes non-existent, while the human body, which is composed of elements, endures. How can it be that the pure human spirit becomes non-existent?",
+            "If this be true of the body, which is subject to contingencies--that is, one day it is composed and another day decomposed--yet it endures; how much more so the human spirit, which is sanctified from composition and decomposition? It remains in one condition, undergoes no change or alteration, is a pure existence having no composition, and therefore no decomposition."
+          ]
         },
         {
           "key": "source:ABU1776",
@@ -42,11 +46,17 @@
         },
         {
           "key": "source:ABU0626",
-          "why": "Retain the reported language of a deathless spirit alongside that distinction."
+          "why": "Retain the reported language of a deathless spirit alongside that distinction.",
+          "shortened": [
+            "Though death destroy his body, it has no power over his spirit -- this is eternal, everlasting, both birthless and deathless."
+          ]
         },
         {
           "key": "source:AB00282",
-          "why": "Ask what the harvest of creation would be if life ended here."
+          "why": "Ask what the harvest of creation would be if life ended here.",
+          "shortened": [
+            "And if a human life, with its spiritual being, were limited to this earthly span, then what would be the harvest of creation? Indeed, what would be the effects and the outcomes of Divinity Itself? Were such a notion true, then all created things, all contingent realities, and this whole world of being---all would be meaningless. God forbid that one should hold to such a fiction and gross error."
+          ]
         },
         {
           "key": "source:ABU1868",
@@ -62,7 +72,10 @@
         },
         {
           "key": "source:AB00268",
-          "why": "Distinguish existential and ultimate rewards."
+          "why": "Distinguish existential and ultimate rewards.",
+          "shortened": [
+            "In the heavenly books mention is made of the immortality of the spirit, which is the very foundation of the divine religions. For rewards and punishments are said to be of two kinds, one being existential rewards and punishments and the other, ultimate rewards and punishments. Existential paradise and hell are to be found in all the worlds of God, whether in this world or in the heavenly realms of the spirit, and to gain these rewards is to attain life eternal."
+          ]
         },
         {
           "key": "source:AB01398",
@@ -70,7 +83,10 @@
         },
         {
           "key": "source:ABU3296",
-          "why": "Retain the reported distinction among conditions of enduring souls."
+          "why": "Retain the reported distinction among conditions of enduring souls.",
+          "shortened": [
+            "All realities and souls are immortal, even the souls of unbelievers and defective souls, but in relation to the souls of the holy ones and sanctified souls, the former have no importance and significance."
+          ]
         },
         {
           "key": "source:ABU3579",
@@ -86,11 +102,17 @@
         },
         {
           "key": "source:ABU0185",
-          "why": "Consider the reported account of ascent and a lasting form."
+          "why": "Consider the reported account of ascent and a lasting form.",
+          "shortened": [
+            "Know thou that at the time of its translation it ascends and ascends until it reaches the presence of God, clothed in a temple (body) which will not become subject to the changes wrought by ages and cycles, nor by the contingencies of the world, nor the emanations thereof. It will continue to exist through the eternality of the Kingdom of God -- its sovereignty, its dominion, its potency."
+          ]
         },
         {
           "key": "source:AB06812",
-          "why": "Read transformed perception after death."
+          "why": "Read transformed perception after death.",
+          "shortened": [
+            "Thus, when he ascended unto the horizon of glory, he perceived the reality of existence and immortality in his own being, for the senses in this world in comparison to perceptions in that world are even as the reflection of the sun in a sea of water."
+          ]
         },
         {
           "key": "source:AB01884",
@@ -98,7 +120,10 @@
         },
         {
           "key": "source:ABU0784",
-          "why": "Hear the consolation of God’s abiding presence."
+          "why": "Hear the consolation of God’s abiding presence.",
+          "shortened": [
+            "If a man leaves this world his friends cannot go with him under the ground; they go only to the grave and return. But God is everywhere with him. He will not leave man, either over or under the earth."
+          ]
         },
         {
           "key": "source:ABU1069",
@@ -106,11 +131,17 @@
         },
         {
           "key": "source:ABU1893",
-          "why": "Distinguish passing circumstances from enduring reality."
+          "why": "Distinguish passing circumstances from enduring reality.",
+          "shortened": [
+            "Human-kind have come to the world in innumerable numbers, and passed away; their physical bodies and that which belonged to them passed away with them. Their health and disease both passed away. Their rest and hardship both vanished. Their wealth and poverty ended. Their honor and misery terminated. But the reality of man is immortal. The spirit of man is everlasting."
+          ]
         },
         {
           "key": "source:ABU2001",
-          "why": "Consider what deserves priority within a mortal life."
+          "why": "Consider what deserves priority within a mortal life.",
+          "shortened": [
+            "The important thing in life, however, is the spirit of man. The spirit is immortal; the spirit goes to the Kingdom of God; it receives eternal illumination. But this physical body must return to dust even if it is preserved for a 100,000 years."
+          ]
         },
         {
           "key": "source:ABU0975",
@@ -122,7 +153,11 @@
         },
         {
           "key": "source:ABU2603",
-          "why": "Read the interpretation of freedom from fear."
+          "why": "Read the interpretation of freedom from fear.",
+          "shortened": [
+            "In the Gospel (St. Luke 12:4) it is said: \"Be not afraid of them that kill the body and after that have no more that they can do. But I will tell you whom ye shall fear. Fear him which after he hath killed hath power to cast into hell. Yea, I may unto you, fear him.\"",
+            "'Abdu'l-Baha said that this means that the death of the body is of no importance and not in the least to be feared, because a spiritual soul lives forever."
+          ]
         },
         {
           "key": "source:ABU0825",
@@ -130,7 +165,10 @@
         },
         {
           "key": "source:ABU0070",
-          "why": "Connect hope of continuity with the cultivation of virtues."
+          "why": "Connect hope of continuity with the cultivation of virtues.",
+          "shortened": [
+            "The conception of annihilation is a factor in human degradation, a cause of human debasement and lowliness, a source of human fear and abjection. It has been conducive to the dispersion and weakening of human thought, whereas the realization of existence and continuity has upraised man to sublimity of ideals, established the foundations of human progress and stimulated the development of heavenly virtues; therefore, it behooves man to abandon thoughts of nonexistence and death, which are absolutely imaginary, and see himself ever-living, everlasting in the divine purpose of his creation."
+          ]
         },
         {
           "key": "source:ABU3529",
@@ -138,11 +176,17 @@
         },
         {
           "key": "source:ABU2613",
-          "why": "Consider a lasting palace as an image of constructive effort."
+          "why": "Consider a lasting palace as an image of constructive effort.",
+          "shortened": [
+            "Man must lay the foundation of such a palace which may stand the encroachments of time, which day unto day may become newer and its imperial pinnacles may reach to the height of heaven."
+          ]
         },
         {
           "key": "source:BH04075",
-          "why": "Close the linked readings with love beyond death."
+          "why": "Close the linked readings with love beyond death.",
+          "shortened": [
+            "Verily, he who hath quaffed the choice wine of his Lord's love, death shall not overtake him."
+          ]
         },
         {
           "key": "source:ABU0551",
@@ -154,7 +198,10 @@
         },
         {
           "key": "source:AB03266",
-          "why": "End with souls portrayed as lights throughout the grades of existence."
+          "why": "End with souls portrayed as lights throughout the grades of existence.",
+          "shortened": [
+            "Consider, then, from the highest degree of existence to the lowest rank of contingent being, which is the point of dust, and observe the levels of existence: all created things, including all peoples and nations, souls and religions, are subject to decline and ultimate extinction, save those cherished ones who have hastened to the Egypt of divine favor, those poor ones who have sought refuge at the court of absolute wealth, and those ailing ones who have entered the divine infirmary. These souls are shining stars in all the degrees of existence, and from the eternal horizon they shine forth bright as the moon, visible even at the point of dust."
+          ]
         }
       ],
       "questions": [
@@ -194,24 +241,38 @@
       "id": "E0C43F3240E54029AC674467FFE368F4",
       "slug": "soulspirit",
       "displayTitle": "The soul beyond place: signs of an inward reality",
-      "introduction": "The reality most intimately our own may also be one we cannot fully describe. These selections call the soul a divine sign and approach it through its powers, effects, and relationship with the body. The sun and mirror illustrate a connection without physical containment; the ocean and drop mark the distance between inward experience and its expression in words. Such images ask to be used with care, especially when terms such as entering, ascending, or light tempt us to picture a spiritual reality as another object in space. Paul’s contrast between partial knowledge and a fuller encounter offers a companion meditation on the limits of present understanding [1]. Read with the soul’s endurance and the experience of dreams, the collection invites a disciplined humility that remains attentive to discovery, action, and the signs of an inward life.",
+      "introduction": "Whatever the pen writes about the soul, ‘Abdu’l-Bahá says, is a drop from an ocean that cannot be fully explained. The human spirit is placeless and bodiless; it neither enters the body nor departs from it, yet it is joined to the body as the sun is joined to a mirror, shining there without being contained. It is known, as unseen things are known, by its effects: the mind that discovered America, the dreamer who sees without eyes, the arts and sciences drawn from the invisible into the visible. The soul is called a divine sign and a heavenly essence that the learned have failed to comprehend, and to recognise one’s powerlessness to know this sign within is held to be the utmost limit of a servant’s knowledge. Paul, too, spoke of knowing in part and seeing as in a dim reflection [1]. The way leads on to the bond between soul and body, to the difference between intelligible and sensible realities, and to the origin of the self each person carries and cannot see.",
       "arc": "Begin with the mystery within, distinguish relation from physical location, consider knowledge through effects, and return to the limits and promise of understanding.",
       "order": [
         {
           "key": "source:BH00002",
-          "why": "Open with the human being named as a mystery."
+          "why": "Open with the human being named as a mystery.",
+          "shortened": [
+            "To a supreme degree is this true of man, who, among all created things, hath been invested with the robe of such gifts, and hath been singled out for the glory of such distinction. For in him are potentially revealed all the attributes and names of God to a degree that no other created being hath excelled or surpassed. All these names and attributes are applicable to him. Even as He hath said: \"Man is My mystery, and I am his mystery.\""
+          ]
         },
         {
           "key": "source:AB06373",
-          "why": "Measure expression against the ocean of consciousness."
+          "why": "Measure expression against the ocean of consciousness.",
+          "shortened": [
+            "O thou who gazest upon the Kingdom of Abha!",
+            "Whatever the pen may write and the tongue may utter is but a drop from the surging ocean that exists within the reality of the soul and consciousness. It cannot be fully explained."
+          ]
         },
         {
           "key": "source:AB00336",
-          "why": "Introduce the sun and mirror as a relation without containment. Read the Kingdom beyond material location."
+          "why": "Introduce the sun and mirror as a relation without containment. Read the Kingdom beyond material location.",
+          "shortened": [
+            "For the Kingdom is not a material location but is sanctified above time and place. It is a spiritual realm, a divine world, and it is the seat of the sovereignty of the almighty Lord. It is exalted above bodies and all that is corporeal, and it is freed and sanctified from the idle conjectures of men. For to be confined to place is a characteristic of bodies and not of spirits: Time and place encompass the body, not the mind and the soul.",
+            "The spirit is absolutely placeless and immaterial, but it has a connection with the body, even as the sun has a connection with this mirror: The sun occupies no place within the mirror but it has a connection with it."
+          ]
         },
         {
           "key": "source:ABU0541",
-          "why": "Distinguish the soul from things occupying space."
+          "why": "Distinguish the soul from things occupying space.",
+          "shortened": [
+            "The human body is in space; the soul has no place in space. Space is a quality of material things and that which is not material does not partake of space. The soul, like the intellect, is an abstraction."
+          ]
         },
         {
           "key": "source:ABU0780",
@@ -223,7 +284,10 @@
         },
         {
           "key": "source:AB00057",
-          "why": "Consider inference from powers and effects."
+          "why": "Consider inference from powers and effects.",
+          "shortened": [
+            "Modern philosophers say: \"Nowhere do we see a spirit in man, and, although we have investigated the inmost recesses of the human body, nowhere do we perceive a spiritual power. How then are we to imagine a power which is not sensible?\" The divine philosophers reply: \"The spirit of the animal is not sensible either and cannot be perceived through our material powers: How do you infer its existence? There is no doubt that it is from its effects that you infer in the animal the existence of a power which is lacking in the plant, and that is the power of the senses--sight, hearing and the other powers."
+          ]
         },
         {
           "key": "source:AB05227",
@@ -239,7 +303,11 @@
         },
         {
           "key": "source:AB08042",
-          "why": "Consider the two kinds of conditions described in the selection."
+          "why": "Consider the two kinds of conditions described in the selection.",
+          "shortened": [
+            "O thou who art enthralled by the beauty of truth!",
+            "There are two types of conditions and circumstances in life: those which are governed by the rule of matter, by the universal laws and principles of physical reality, and those which transcend these rules and break the limitations of external reality."
+          ]
         },
         {
           "key": "source:ABU1201",
@@ -251,15 +319,24 @@
         },
         {
           "key": "source:ABU0610",
-          "why": "Keep the challenge posed to measuring an immaterial soul."
+          "why": "Keep the challenge posed to measuring an immaterial soul.",
+          "shortened": [
+            "But how can I prove to you that you are or have an immaterial soul? Can I measure, weigh, touch, prove your soul?"
+          ]
         },
         {
           "key": "source:AB00395",
-          "why": "Distinguish knowledge of attributes from knowledge of essence."
+          "why": "Distinguish knowledge of attributes from knowledge of essence.",
+          "shortened": [
+            "As our knowledge of things, even of created and limited ones, is of their attributes and not of their essence, how then can it be possible to understand in its essence the unbounded Reality of the Divinity? For the inner essence of a thing can never be known, only its attributes."
+          ]
         },
         {
           "key": "source:ABU1645",
-          "why": "Consider why familiar feelings require comparisons."
+          "why": "Consider why familiar feelings require comparisons.",
+          "shortened": [
+            "He said it was very difficult to speak of the Spiritual Kingdom in any way to make our finite minds understand, or even grasp a faint conception of its mysteries and glories; that when we speak of love, - a thing we all know well - we are obliged to make a comparison and say it is like fire, in order to convey the idea to the intellectual mind."
+          ]
         },
         {
           "key": "source:ABU1881",
@@ -279,11 +356,18 @@
         },
         {
           "key": "source:BH01626",
-          "why": "Close the linked readings with bewilderment in prayer."
+          "why": "Close the linked readings with bewilderment in prayer.",
+          "shortened": [
+            "O my God and my Beloved! I know not how to remember Thee or by what means to mention Thee, for I perceive that the very reality of remembrance is in itself severed from the places of Thy description, and in its essence and being is bewildered before the effulgent rays of the Sun of Thy Glory."
+          ]
         },
         {
           "key": "source:BH00328",
-          "why": "Read the soul as a heavenly gem and sign of God. Consider its significance beyond present apprehension."
+          "why": "Read the soul as a heavenly gem and sign of God. Consider its significance beyond present apprehension.",
+          "shortened": [
+            "As to your question concerning the reality of the soul, it is a divine sign and a heavenly essence which all the learned have failed to comprehend and all the wise have been powerless to understand.",
+            "Verily the soul, as it is, is a sign among the signs of God and a mystery among His mysteries. It is the Most Great Sign and the Herald that giveth tidings of the divine worlds. Within it lieth concealed that which the present world with all its capacity is powerless to mention or describe."
+          ]
         },
         {
           "key": "source:AB03491",
@@ -299,27 +383,47 @@
         },
         {
           "key": "source:AB01631",
-          "why": "Consider the argument concerning substance and accident."
+          "why": "Consider the argument concerning substance and accident.",
+          "shortened": [
+            "The rational soul---the human spirit---did not descend into this body or subsist through it to begin with, that it should require some substance to depend upon after the constituent parts of the body have decomposed. On the contrary, the rational soul is the substance upon which the body depends. The rational soul is endowed from the beginning with individuality; it does not acquire it through the intermediary of the body."
+          ]
         },
         {
           "key": "source:AB01007",
-          "why": "Retain the concise statement concerning space."
+          "why": "Retain the concise statement concerning space.",
+          "shortened": [
+            "The reality of the spirit is abstract - it is not physical, has no space, and occupies no place."
+          ]
         },
         {
           "key": "source:AB00479",
-          "why": "Consider the rational soul as spiritual substance."
+          "why": "Consider the rational soul as spiritual substance.",
+          "shortened": [
+            "The human spirit refers to the rational soul by which humans are distinguished from animals. It is not from the realm of physical elements but rather from spiritual substances that are not subject to corruption."
+          ]
         },
         {
           "key": "source:AB00409",
-          "why": "Keep the supplied account of a likeness proper to the Kingdom."
+          "why": "Keep the supplied account of a likeness proper to the Kingdom.",
+          "shortened": [
+            "The answer to the third question is this, that in the other world the human reality doth not assume a physical form, rather doth it take on a heavenly form, made up of elements of that heavenly realm.",
+            "And the answer to the fourth question: the center of the Sun of Truth is in the supernal world---the Kingdom of God. Those souls who are pure and unsullied, upon the dissolution of their elemental frames, hasten away to the world of God, and that world is within this world."
+          ]
         },
         {
           "key": "source:ABU0114",
-          "why": "Return to outward signs and works."
+          "why": "Return to outward signs and works.",
+          "shortened": [
+            "The search for truth causes the emergence of the spirit, for the spirit cannot be perceived through physical senses, but is manifest and evident through inner powers. Although man's body is perceptible, his spirit is hidden yet rules over the body. The spirit has two modes of operation: one through instruments and means, that is, seeing through the eye, hearing through the ear, speaking through the tongue.",
+            "The other operation is without instruments, as in the world of dreams where one sees without eyes, hears without ears, speaks without tongue, and travels without moving the feet."
+          ]
         },
         {
           "key": "source:ABU0179",
-          "why": "Explore the discoveries and arts attributed to the rational soul."
+          "why": "Explore the discoveries and arts attributed to the rational soul.",
+          "shortened": [
+            "This human spirit, which is the rational soul, encompasses all things, discovers all things, and comprehends all things. It is this that brings forth the mysteries of being from the invisible plane to the visible. This is the power that brings all material arts, sciences and inventions from the invisible realm into the visible realm. Though this power is not perceptible to the senses, its effects are evident and manifest. Though it cannot be seen with the outward senses, it is perceived with the inner senses."
+          ]
         },
         {
           "key": "source:ABU0185",
@@ -331,11 +435,19 @@
         },
         {
           "key": "source:BH05340",
-          "why": "Read the further distinction of spiritual worlds and embodiment."
+          "why": "Read the further distinction of spiritual worlds and embodiment.",
+          "shortened": [
+            "But in this world all those called into being are new souls. It is not that a former soul becometh incarnated in another person, or that another individual becometh the soul of a former individual. Nay, rather they correspond with each other through manifestations; that is to say, he will be in the station of his soul, but his soul is not incarnated and the state of the soul does not become embodied.",
+            "Understanding the world of souls is impossible in this world of bodies. That world is unlike anything you can conceive in your imagination. In these perishable bodies one cannot perceive the immortal worlds, save through that which ye sometimes behold in a dream."
+          ]
         },
         {
           "key": "source:BH02611",
-          "why": "End with the poem’s invitation beyond spoken description."
+          "why": "End with the poem’s invitation beyond spoken description.",
+          "shortened": [
+            "The rest of this tale comes without words,\nTo the heart of one who possesses the light of soul",
+            "In any case, in all conditions praise with joy and give thanks with delight, for you have been rewarded before the labor and mentioned before remembrance, for He is the ever-Powerful, the Doer without being questioned, the Ever-Living, the Almighty, the All-Encompassing, the Most High."
+          ]
         },
         {
           "key": "selection:fb8e1f19b4ee7ba3ca7e686a",
@@ -379,12 +491,15 @@
       "id": "3F5DFEF17B6E4935A76DA6520A5504AE",
       "slug": "dreamvisions",
       "displayTitle": "Dreams and visions: wonder guided by discernment",
-      "introduction": "A dream can be vivid without being a reliable guide, and a quiet insight can invite serious reflection. These selections hold both possibilities open. They explore dreams as signs of the soul’s powers and of worlds beyond ordinary experience, while distinguishing truthful visions, experiences requiring interpretation, and confused impressions. Their most practical passages concern response: seeking insight, finding reassurance, respecting the purposes of a gathering, and refusing to let a dream override explicit divine ordinances. Joseph’s dream in the Qur’an is immediately followed by his father’s counsel to exercise discretion in sharing it [1][2]. That sequence offers a useful comparison with the care urged here. Alongside arguments for the soul’s immortality, the compilation encourages a reader to ask not only what an experience might mean, but also what warrants confidence in an interpretation and what conduct should follow.",
+      "introduction": "Consider your state when asleep, Bahá’u’lláh says: it is among the most mysterious of the signs of God, for a thing seen in a dream may be fully realized years later. The eyes are closed and the body lies as if dead, yet the spirit sees, hears, travels and sometimes solves what the waking mind could not. Wonder, though, is paired with discernment. Dreams fall into kinds: true visions clear as dawn, dreams that need interpretation because idle thoughts have tinted the fabric, and confused dreams that merely replay the day. And Bahá’u’lláh sets a firm limit: a dream never compares with the explicit ordinances of God, and one that would cause harm may be neither acted upon nor told. Joseph’s vision of sun, moon and stars bowing before him [1] is followed at once by his father’s counsel not to tell his brothers [2]. The way leads onward into accounts and interpretation of dreams and visions, into the realm of similitudes between spirit and matter, and into symbolism.",
       "arc": "Open with the difference between a meaningful dream and one without result, explore spiritual possibilities, and return to discernment, discretion, and a wakeful response.",
       "order": [
         {
           "key": "source:AB00482",
-          "why": "Open with the contrast between a fulfilled dream and one without result."
+          "why": "Open with the contrast between a fulfilled dream and one without result.",
+          "shortened": [
+            "In the world of sleep, too, one may have a dream which exactly comes true, while on another occasion one will have a dream which has absolutely no result."
+          ]
         },
         {
           "key": "source:AB01410",
@@ -396,7 +511,11 @@
         },
         {
           "key": "source:BH00135",
-          "why": "Read the fuller account of sleep, resurrection, and differing conditions."
+          "why": "Read the fuller account of sleep, resurrection, and differing conditions.",
+          "shortened": [
+            "It is a special world among the divine worlds and is indicative of infinite matters. Among other things, it is evidence of a realm wherein no beginning or end, no first or last, can be witnessed. Thus, something is observed in sleep, and after a number of years that very same thing is witnessed.",
+            "Even as death is a reality, so is sleep a reality, and even as there is awakening after sleep, so is there resurrection after death. Sleep sometimes varies according to the differences in souls, thoughts, food and drink. In the dreams of holy souls there hath been and is no variation, for they are pure wakefulness."
+          ]
         },
         {
           "key": "source:ABU2466",
@@ -404,7 +523,10 @@
         },
         {
           "key": "source:ABU0282",
-          "why": "Read the reported activity of spirit during sleep."
+          "why": "Read the reported activity of spirit during sleep.",
+          "shortened": [
+            "In the dream state, all of a person's physical faculties are impaired - the eye does not see, the ear does not hear, the hands and feet do not move. Yet the spirit continues its journey - in the world of dreams it sees, it hears, it flies, it carries out all its functions."
+          ]
         },
         {
           "key": "source:ABU0096",
@@ -420,7 +542,10 @@
         },
         {
           "key": "source:ABU0541",
-          "why": "Connect dreaming with the discussion of bodily dissolution."
+          "why": "Connect dreaming with the discussion of bodily dissolution.",
+          "shortened": [
+            "Even as in the world of dreams when all the physical faculties are in abeyance and the soul travels in all realms seeing, hearing, speaking, so when the physical body decomposes, the soul is not affected."
+          ]
         },
         {
           "key": "source:ABU2789",
@@ -432,7 +557,10 @@
         },
         {
           "key": "source:AB00862",
-          "why": "Read spiritual bonds through the image of attuned mirrors."
+          "why": "Read spiritual bonds through the image of attuned mirrors.",
+          "shortened": [
+            "When man's soul is rarified and cleansed, spiritual links are established, and from these bonds sensations felt by the heart are produced. The human heart resembleth a mirror. When this is purified human hearts are attuned and reflect one another, and thus spiritual emotions are generated. This is like the world of dreams when man is detached from things which are tangible and experienceth those of the spirit. What amazing laws operate, and what remarkable discoveries are made! And it may even be that detailed communications are registered..."
+          ]
         },
         {
           "key": "source:AB08501",
@@ -440,7 +568,11 @@
         },
         {
           "key": "source:AB00087",
-          "why": "Keep the separate theological discussion of divine vision."
+          "why": "Keep the separate theological discussion of divine vision.",
+          "shortened": [
+            "Know thou that divine vision on the Day of God is mentioned in all the holy scriptures, psalms, and tablets revealed from heaven unto the Prophets in bygone ages, past dispensations, and ancient cycles. Each Prophet gave glad-tidings to His people of the Day of Meeting.",
+            "Despite these explicit statements, clear texts, and inherited traditions, the peoples have differed on this question. Some have said that vision is impossible, citing the blessed verse: \"No vision can grasp Him, but His grasp is over all vision: He is above all comprehension, yet is acquainted with all things.\" Others have said that to wholly deny vision would necessitate denial of Qur'anic texts and disprove the infallibility of the Prophets, for to ask for that which is impossible is categorically impermissible for an infallible Prophet."
+          ]
         },
         {
           "key": "source:ABU2957",
@@ -456,7 +588,10 @@
         },
         {
           "key": "source:AB05049",
-          "why": "Read the possibility of a later realization."
+          "why": "Read the possibility of a later realization.",
+          "shortened": [
+            "It often occurs that man, while in the world of vision, receives a revelation, which later, comes to pass in the contingent world."
+          ]
         },
         {
           "key": "source:AB02589",
@@ -464,11 +599,18 @@
         },
         {
           "key": "source:AB00438",
-          "why": "Read gratitude for an experience of encouragement."
+          "why": "Read gratitude for an experience of encouragement.",
+          "shortened": [
+            "O thou who art attracted by the Fragrances of God!",
+            "Give thanks unto God for having revealed unto thee, in visions, the mysteries of His Kingdom and for having strengthening thee to attain certain revelations which show thine utmost attraction and constancy unto this great Cause."
+          ]
         },
         {
           "key": "source:BH01852",
-          "why": "Consider the invitation to gaze beyond an experienced effulgence."
+          "why": "Consider the invitation to gaze beyond an experienced effulgence.",
+          "shortened": [
+            "The divine Sun has shed its effulgences upon you in sleep; if these have not faded from sight, then rend asunder the veils and gaze beyond them with a luminous countenance."
+          ]
         },
         {
           "key": "source:BH04444",
@@ -484,11 +626,18 @@
         },
         {
           "key": "source:AB01293",
-          "why": "Consider the promise of an inward address."
+          "why": "Consider the promise of an inward address.",
+          "shortened": [
+            "I have a spiritual, heavenly speech with thee, which, as a mercy, I do not wish to write by pen, or translate by tongue (i.e., put into words), but I will address them unto thee in a dream, inasmuch as I am compassionate toward thee."
+          ]
         },
         {
           "key": "source:AB01623",
-          "why": "Read the related assurance of spiritual consolation."
+          "why": "Read the related assurance of spiritual consolation.",
+          "shortened": [
+            "O maidservant of GOD! Be rejoiced and glad, for I will address thee in the world of vision (in) speech whereby thy spirit will be cheered by that wonderful Address.",
+            "Trust in this promise, whereby the hearts of the redeemers will be made joyous."
+          ]
         },
         {
           "key": "source:AB05166",
@@ -504,7 +653,10 @@
         },
         {
           "key": "source:BH01253",
-          "why": "Place the explicit limit on acting upon harmful or contrary dreams."
+          "why": "Place the explicit limit on acting upon harmful or contrary dreams.",
+          "shortened": [
+            "However, this dream and others like it that may cause harm and commotion in their expression and execution - acting upon them is not permitted, and indeed even their expression is not permitted. O Ibrahim! Today fix thy gaze upon the horizon of wisdom. Whatever is contrary [to divine law], acting upon it is forbidden. This is what the All-Wise hath decreed in His perspicuous Book. Dreams do not compare or equate with God's explicit ordinances."
+          ]
         },
         {
           "key": "source:AB06279",
@@ -512,11 +664,19 @@
         },
         {
           "key": "source:AB00228",
-          "why": "Consider problem-solving and realization in the supplied passage."
+          "why": "Consider problem-solving and realization in the supplied passage.",
+          "shortened": [
+            "How often it happens that the spirit has a dream in the realm of sleep whose purport comes to be exactly materialized two years hence! Likewise, how often it happens that in the world of dreams the spirit solves a problem that it could not solve in the realm of wakefulness. Awake, the eye sees only a short distance, but in the realm of dreams one who is in the East may see the West. Awake, he sees only the present; in sleep he beholds the future."
+          ]
         },
         {
           "key": "selection:d8a4672bb3df770dde8d8196",
-          "why": "Explore the fuller reported explanation of interpretation and preparedness."
+          "why": "Explore the fuller reported explanation of interpretation and preparedness.",
+          "shortened": [
+            "Dreams are of three distinct categories. The first comprises true visions, which, like the radiance of dawn, require no interpretation.",
+            "The second category encompasses dreams requiring interpretation. In such instances, the heart and mind harbor idle thoughts, and while the soul undertakes a spiritual journey, interpretation becomes necessary. One must separate the vain thoughts from the spiritual revelations.",
+            "This manifestation occurs independently of human will, though one's preparedness facilitates its emergence. It resembles a guest's arrival - while they shall come regardless, their entry is facilitated when the host has swept and prepared the dwelling."
+          ]
         },
         {
           "key": "selection:6105e20cff6e6f2059e83625",
@@ -563,40 +723,67 @@
       "id": "9155EB028D2B4FB3BD41D535FAA264A2",
       "slug": "degreesprogress",
       "displayTitle": "Degrees of progress: endless growth and enduring identity",
-      "introduction": "Can growth be unending without becoming a change into something altogether different? The distinction between a station and its perfections runs through these selections: knowledge and love may deepen without limit, while the human being does not become a Manifestation of God. Images of seeds, diamonds, and the kingdoms of nature help frame the argument, alongside passages describing matter’s passage into other forms of life. Reading these uses together requires attention to what is changing and what is said to endure. Paul’s image of the body offers a companion question about difference: distinct members remain indispensable and responsible for one another [1]. The neighboring subject of transformation widens the inquiry. How can an account of capacities encourage patient cultivation rather than resignation, and how can we discuss differing functions without using an analogy to dismiss another person’s possibilities?",
+      "introduction": "Coal may become a diamond, but no stone will ever see or hear. With homely pictures like this ‘Abdu’l-Bahá teaches that every created thing advances within its own degree, and that within that degree the road never ends, because the perfections of God are infinite. Knowledge and love can deepen in this world and the next; Peter’s spirit may advance without ceasing, yet it never reaches the station of Christ. The teaching guards two truths at once: the endless dignity of growth, and the humility of knowing what one is. A seed holds the whole tree from the beginning, and a mineral’s hidden gifts appear only when it rises into the life of a plant. Paul’s picture of one body with many members, each needing the others and none to be despised, adds that differing stations call for mutual care [1]. From here the way leads into the kingdoms of existence and the degrees of spirit, into spiritual capacity and the grace that awakens it, and into the transformation a patient soul may undergo while remaining wholly itself.",
       "arc": "Begin with infinite perfections, distinguish growth from a change of station, examine the natural analogies, and close with the responsibility to cultivate what is entrusted to us.",
       "order": [
         {
           "key": "source:AB01263",
-          "why": "Open with knowledge as an inexhaustible horizon of growth."
+          "why": "Open with knowledge as an inexhaustible horizon of growth.",
+          "shortened": [
+            "The other progress is progress in perfections, and since divine perfections are infinite, man can progress in perfections in both this world and the next world. For example, knowledge is one of the divine perfections, and divine knowledge is infinite. Thus, in all divine worlds, this perfection is like the sun, bestowing bounty upon all beings, and beings in all worlds receive from the sun of knowledge. And since the bounty is infinite, the recipient continues to receive perpetually."
+          ]
         },
         {
           "key": "source:AB00420",
-          "why": "Distinguish progress in perfections from progress in station."
+          "why": "Distinguish progress in perfections from progress in station.",
+          "shortened": [
+            "And after the noblest stations in the world of humanity have been attained, further progress can be made only in the degrees of perfection, not in station, for the degrees are finite but the divine perfections are infinite.",
+            "Both before and after casting off this elemental frame, the human soul progresses in perfections but not in station."
+          ]
         },
         {
           "key": "source:ABU2042",
-          "why": "Read the impossibility of exhausting perfection."
+          "why": "Read the impossibility of exhausting perfection.",
+          "shortened": [
+            "Furthermore, the attainment of absolute perfection for a human being is impossible; thus, however much he may progress he is still imperfect and has above him a point higher than himself."
+          ]
         },
         {
           "key": "source:AB00399",
-          "why": "Clarify the distinction between servitude and divine Lordship."
+          "why": "Clarify the distinction between servitude and divine Lordship.",
+          "shortened": [
+            "So he who occupies the degree of servitude, no matter how far he may progress and acquire endless perfections, can never reach the degree of divine Lordship. The same holds true of all other created things. No matter how far a mineral may progress it can never acquire the power of growth in the mineral kingdom."
+          ]
         },
         {
           "key": "source:AB01145",
-          "why": "Consider Peter and Christ as the central example."
+          "why": "Consider Peter and Christ as the central example.",
+          "shortened": [
+            "But the human spirit never transcends its own degree: it progresses only within that degree. For example, no matter how far the spirit and reality of Peter may progress, it will never reach the degree of the reality of Christ but will progress only within its own inherent limits."
+          ]
         },
         {
           "key": "source:AB06283",
-          "why": "Read the explanation of infinite progress within a rank."
+          "why": "Read the explanation of infinite progress within a rank.",
+          "shortened": [
+            "The lower rank, no matter how much it may advance, can never reach the station of that which is above it. Rather, within its own rank there are infinite perfections through which it must progress. For example, no matter how much the mineral may progress, it can never acquire hearing and sight. Within its mineral rank it hath infinite progress - for instance, coal may attain to the degree of diamond - but a stone will never gain hearing and sight. It progresseth within its own rank."
+          ]
         },
         {
           "key": "source:AB01205",
-          "why": "Explore the broader account of kingdoms and their capacities."
+          "why": "Explore the broader account of kingdoms and their capacities.",
+          "shortened": [
+            "Each kingdom of existence, no matter how much it may progress, cannot attain to the station above it. For instance, no matter how much the mineral may progress within the mineral kingdom, it cannot acquire the power of growth.",
+            "Thus it is clear that each created thing has its own station and progresses within that station.",
+            "Similarly, each type of human being has a spiritual station and progresses within his own rank and station."
+          ]
         },
         {
           "key": "source:ABU2566",
-          "why": "Consider the varied perfections possible within plant life."
+          "why": "Consider the varied perfections possible within plant life.",
+          "shortened": [
+            "The progress of every thing is within its own degree. When one considers the mineral, vegetable, animal and human kingdoms, it is observed that each progresses within its own degree. Plants, no matter how much they progress, may increase in delicacy, freshness, color, taste, fragrance and properties, but they remain plants - they do not become animals or acquire sensation. And so forth."
+          ]
         },
         {
           "key": "source:AB03068",
@@ -604,15 +791,24 @@
         },
         {
           "key": "source:ABU1516",
-          "why": "Retain the reported mineral example. Revisit the example of mineral and vegetable limits."
+          "why": "Retain the reported mineral example. Revisit the example of mineral and vegetable limits.",
+          "shortened": [
+            "Any person progresses in his own degree. For instance, this mineral progresses, but, no matter how much it progresses, it cannot develop eyes and ears. The highest station it can reach is that of the diamond. Its progress is confined to the mineral kingdom. The same is true of the vegetable kingdom. However much a flower progresses, it cannot have eyes and ears and understanding."
+          ]
         },
         {
           "key": "source:ABU0222",
-          "why": "Consider the limits of comprehension between ranks."
+          "why": "Consider the limits of comprehension between ranks.",
+          "shortened": [
+            "When we gaze with the eye of truth, we see that even the differences in ranks of existence prevent comprehension, as each lower rank cannot comprehend what lies above it, though both exist within the realm of contingency rather than necessity. The mineral kingdom has no awareness of the vegetable kingdom, for minerals cannot comprehend the power of growth. The vegetable kingdom has no knowledge of the animal realm, nor can plants conceive of hearing, sight, and voluntary movement, even at their highest degree."
+          ]
         },
         {
           "key": "source:ABU0819",
-          "why": "Read the womb analogy as a limit on present awareness."
+          "why": "Read the womb analogy as a limit on present awareness.",
+          "shortened": [
+            "Man passes through different phases and when in a lower consciousness he cannot comprehend the consciousness above. When we were in the state of the unborn child we had no knowledge of the world of man. If the vegetable kingdom could speak it would cry out, \"Where is the world of man?\" We cry out, \"Where is the kingdom of the spirit?\""
+          ]
         },
         {
           "key": "source:ABU0101",
@@ -628,7 +824,11 @@
         },
         {
           "key": "source:AB00441",
-          "why": "Read the potter analogy in the discussion of capacities."
+          "why": "Read the potter analogy in the discussion of capacities.",
+          "shortened": [
+            "Thus it is said in the Gospel that God is like a potter who makes \"one vessel unto honour, and another unto dishonour\". Now, the dishonoured vessel has no right to reproach the potter, saying, \"Why did you not make me a precious cup that would be passed from hand to hand?\" The meaning of these words is that souls occupy different stations.",
+            "No, all these things are perfect in their own degree and must pursue the perfections of that degree."
+          ]
         },
         {
           "key": "source:ABU3387",
@@ -636,11 +836,19 @@
         },
         {
           "key": "source:AB00006",
-          "why": "Read the argument concerning equal effulgence and differing response."
+          "why": "Read the argument concerning equal effulgence and differing response.",
+          "shortened": [
+            "For example with respect to the sun and its rays, the degree of its effusion and action with respect to its rays is identical.  And yet the rays according to their own desire and pleasure can be found hundreds and thousands of miles from the sun while some encircle close to the sun.",
+            "It has manifested all with the same effulgence.  But each, according to its own desire, has accepted a particular station and status."
+          ]
         },
         {
           "key": "source:AB00135",
-          "why": "Explore capacities becoming manifest in another rank."
+          "why": "Explore capacities becoming manifest in another rank.",
+          "shortened": [
+            "For it is clear, evident, and indeed obvious that every capacity, merit, power and perfection that any thing acquires in one rank of existence becomes manifest when it is raised to the rank above it.",
+            "For instance, the capacities and bestowals that the mineral acquires in the mineral world do not become visible in the mineral world, but rather when it transfers from the mineral world to the vegetable world, that inherent gift is unveiled. And when the plant acquires the capacity to develop a sensitive body in the vegetable world, this perfection appears upon its transfer to the animal world."
+          ]
         },
         {
           "key": "source:AB01624",
@@ -648,15 +856,24 @@
         },
         {
           "key": "source:AB00476",
-          "why": "Read the particular example of assimilation."
+          "why": "Read the particular example of assimilation.",
+          "shortened": [
+            "But true felicity for the animal consists in passing from the animal world into the human realm, like the microscopic beings that, through the air and the water, enter into the body of man, are assimilated, and replace that which has been consumed in his body."
+          ]
         },
         {
           "key": "source:ABU0441",
-          "why": "Retain the reported distinction of two kinds of growth."
+          "why": "Retain the reported distinction of two kinds of growth.",
+          "shortened": [
+            "When mineral substances are decomposed and then those decomposed atoms go into the makeup of other mineral organisms - this is called longitudinal growth; but when those decomposed mineral matters go into the composition of vegetable life - it is called horizontal growth. The same law is applicable to the vegetable and animal Kingdoms."
+          ]
         },
         {
           "key": "source:AB00273",
-          "why": "Keep the account of the body’s natural journey after death."
+          "why": "Keep the account of the body’s natural journey after death.",
+          "shortened": [
+            "The elemental body, following death, and its release from its composite life, will be transformed into separate components and minuscule animals; and even though it will now be deprived of its composite life in human form, still the animal life is in it, and it is not entirely bereft of life. If, however, it be burned, it will turn into ashes and minerals, and once it has become mineral, it must inexorably journey onward to the vegetable kingdom, so that it may rise to the animal world. This is described as an overleap."
+          ]
         },
         {
           "key": "source:ABU0326",
@@ -664,7 +881,10 @@
         },
         {
           "key": "source:ABU0584",
-          "why": "Read the reported possibility of progress through God’s power."
+          "why": "Read the reported possibility of progress through God’s power.",
+          "shortened": [
+            "It is only possible for all to attain to the highest station each in its own individual kingdom. In the same way when one passes away who is an unbeliever, it is possible through the power of God for him to attain to a high station, but he can never do it from himself, as his station is fixed so far as he is concerned."
+          ]
         },
         {
           "key": "source:ABU0078",
@@ -672,15 +892,25 @@
         },
         {
           "key": "source:BH05340",
-          "why": "Read the statement that each moves in its own sphere."
+          "why": "Read the statement that each moves in its own sphere.",
+          "shortened": [
+            "Moreover, creatures have ever been and will be in their own stations. The True One is in His station, and the souls of the believers and the deniers are in theirs. \"Each swimmeth in its own sphere.\""
+          ]
         },
         {
           "key": "source:AB00036",
-          "why": "Consider the argument concerning repetition and essential change."
+          "why": "Consider the argument concerning repetition and essential change.",
+          "shortened": [
+            "For even if we granted such an assumption, the renewal of an object's existence cannot bring about the transformation of its essence.  For the substance of imperfection, by returning, will not become the reality of perfection, total darkness will not become a source of light, abject weakness will not become power and strength, and an earthly essence will not become a heavenly reality.  However often it may return, the infernal tree will never bring forth a sweet fruit, nor will the good tree bear a bitter one."
+          ]
         },
         {
           "key": "source:ABU2537",
-          "why": "Read the reported rejection of a return to a previous condition."
+          "why": "Read the reported rejection of a return to a previous condition.",
+          "shortened": [
+            "When asked his reason for this belief, he answered:",
+            "\"We have grown up step by step, always to a state in advance of the last. God's processes are never retrogressive. No butterfly goes back into the chrysalis: constant change, never a repetition, is the fundamental law."
+          ]
         },
         {
           "key": "source:AB01223",
@@ -692,11 +922,18 @@
         },
         {
           "key": "source:AB00722",
-          "why": "Read gradual appearance within one universal order."
+          "why": "Read gradual appearance within one universal order.",
+          "shortened": [
+            "All beings, whether universal or particular, were created perfect and complete from the beginning. The most one can say is that their perfections only become apparent gradually. The law of God is one; the evolution of existence is one; the divine order is one. All beings great and small are subject to one law and one order. Every seed has, from the beginning, all the perfections of the plant. For example, all the vegetable perfections existed in this seed at the outset but were invisible and appeared only gradually."
+          ]
         },
         {
           "key": "source:AB02206",
-          "why": "Retain the provisional statement about species in its historical setting."
+          "why": "Retain the provisional statement about species in its historical setting.",
+          "shortened": [
+            "The specificity and essentiality of things are permanent and changeless; only within the limits of a particular species do progress and decline occur. For example, the human species and human nature have been and will forever remain preserved and protected. As can be observed, the mummified ancient human bodies that have been extracted from the pyramids of Egypt, though five thousand years have passed since their death, have not changed or altered even by a hair's breadth from the human form.",
+            "There is no altering in God's creation."
+          ]
         },
         {
           "key": "source:BH00245",
@@ -708,7 +945,10 @@
         },
         {
           "key": "selection:48ad50606e75d4453ea2b6ce",
-          "why": "Read the extended provisional account of stations and revelation."
+          "why": "Read the extended provisional account of stations and revelation.",
+          "shortened": [
+            "Thus, it hath become evident that each and every created thing doth possess a particular station within which it advanceth. Similarly, every human being hath a spiritual station, and doth progress in its own station and rank. The one who is stunt of mind, no matter how intense a discipline he may endure, no matter how diligently he may strive, and how regenerated he may become, he will never attain to the station of the Daysprings of Revelation and the Dawning-Places of Inspiration. The bitter tree will never become a lofty palm tree, and the colocynth will never bear sweet fruit."
+          ]
         }
       ],
       "questions": [
@@ -742,7 +982,7 @@
       "id": "C400E4C4C1B54C2BA5A393FC9A9A2CC0",
       "slug": "abundantlife",
       "displayTitle": "A universe abundant with life: wonder and the limits of knowledge",
-      "introduction": "The night sky can unsettle the assumption that our familiar world measures the whole of creation. These selections speak of innumerable worlds and creatures, and of divine generosity that exceeds what human beings can count or picture. They also contain important limits: the nature and degree of development of other creatures are not specified, and material planets are distinguished from spiritual worlds. Reported conversations imagine future communication, while letters caution against turning possibilities into definite predictions. Psalm 104 offers a companion vision of teeming life, dependence, and continual renewal within earth and sea [1]. Its praise provides a starting point for a wider imagination. Alongside purpose in creation and the soul’s immateriality, this subject invites both wonder and precision—asking what a text affirms, what its imagery suggests, and what remains a question for investigation.",
+      "introduction": "Our globe is very small, ‘Abdu’l-Bahá observes, and yet it teems with living things; can the vast bodies hanging in limitless space be empty? Bahá’u’lláh had already said that the creation of God embraces worlds besides this world and creatures apart from these creatures, each fixed star with its planets and each planet a world among the worlds of the Lord, with messages sent to every one of them. What those creatures are like, and how far they have developed, is left unspecified; the elemental worlds of composition and decomposition are distinguished from the world of the Kingdom; the number of planets, Bahá’u’lláh writes, has not yet been fully discovered, and the science is a fathomless ocean. Where a pilgrim imagines railways to other planets, a later letter cautions against turning possibility into prediction. Psalm 104, with its sea full of creeping things and its creatures waiting on God for their food, keeps the same wonder close to the ground [1]. To ask what a text affirms, what its imagery suggests and what remains open to inquiry is a discipline that continues into the celestial spheres, the planets and astronomy, and the purpose that gives all this motion its end.",
       "arc": "Begin with worlds beyond our own, explore the language of abundant life, distinguish affirmation from speculation, and return to generosity and wonder.",
       "order": [
         {
@@ -755,27 +995,42 @@
         },
         {
           "key": "source:AB00501",
-          "why": "Read the interpretation of creatures in heaven and earth. Read the extended provisional argument from Qur’anic wording and inquiry."
-        },
-        {
-          "key": "source:ABU0654",
-          "why": "Retain the reported account of forms suited to different worlds. Read the fuller reported cosmology in its historical vocabulary."
+          "why": "Read the interpretation of creatures in heaven and earth. Read the extended provisional argument from Qur’anic wording and inquiry.",
+          "shortened": [
+            "As to thy question regarding the planets, when thou asketh whether the planets that orbit their central suns through the power of attraction possess creatures like those of earth: Know that in the clear text of the Qur'an, God hath given a complete and sufficient explanation that delighteth the ears, saying that in the creation of the heavens and the earth and whatever creatures He hath spread forth in both of them. He explicitly states that in both heaven and earth there exist beings that move by will. Without doubt or uncertainty, every being that moves by will must either possess animal life or human reality."
+          ]
         },
         {
           "key": "source:ABU0170",
-          "why": "Place the earth within the reported account of an enduring universe."
+          "why": "Place the earth within the reported account of an enduring universe.",
+          "shortened": [
+            "The world, i.e. the universe, is eternal. The earth is but one planet where natural life is millions and millions of years old."
+          ]
         },
         {
           "key": "source:ABU2415",
           "why": "Connect unknown worlds with an ordered creation."
         },
         {
+          "key": "source:ABU0654",
+          "why": "Retain the reported account of forms suited to different worlds. Read the fuller reported cosmology in its historical vocabulary.",
+          "shortened": [
+            "The earth has its inhabitants, the water and the air contain many living beings and all the elements have their nature spirits, then how is it possible to conceive that these stupendous stellar bodies are not inhabited? Verily, they are peopled, but let it be known that the dwellers accord with the elements of their respective spheres. These living beings do not have states of consciousness like unto those who live on the surface of this globe: the power of adaptation and environment moulds their bodies and states of consciousness, just as our bodies and minds are suited to our planet."
+          ]
+        },
+        {
           "key": "source:BH00053",
-          "why": "Read new creation through the luminous Point."
+          "why": "Read new creation through the luminous Point.",
+          "shortened": [
+            "When He purposed to call the new creation into being, He sent forth the Manifest and Luminous Point from the horizon of His Will; it passed through every sign and manifested itself in every form until it reached the zenith, as bidden by God, the Lord of all men."
+          ]
         },
         {
           "key": "source:BH01828",
-          "why": "Consider messages to creatures in innumerable worlds."
+          "why": "Consider messages to creatures in innumerable worlds.",
+          "shortened": [
+            "Through His potency the Trees of Divine Revelation have yielded their fruits, every one of which hath been sent down in the form of a Prophet, bearing a Message to God’s creatures in each of the worlds whose number God, alone, in His all-encompassing Knowledge, can reckon."
+          ]
         },
         {
           "key": "source:ABU3023",
@@ -783,7 +1038,10 @@
         },
         {
           "key": "source:ABU0441",
-          "why": "Distinguish spiritual grandeur from signs of planetary life."
+          "why": "Distinguish spiritual grandeur from signs of planetary life.",
+          "shortened": [
+            "However the grandeur and majesty of God is shown through His spiritual works and realities and not so much [by] the signs of life on this planet."
+          ]
         },
         {
           "key": "source:ABU3758",
@@ -799,7 +1057,10 @@
         },
         {
           "key": "source:BH00722",
-          "why": "Explore knowledge portrayed as an ocean without end."
+          "why": "Explore knowledge portrayed as an ocean without end.",
+          "shortened": [
+            "Concerning what thou didst ask about the earth and what the wise have said about it: in truth these matters have not yet been fully discovered. This is the truth, and beyond it is naught but error. However, the philosophers of this age, having received a portion of the light of this Manifestation, are more knowledgeable than those who came before. They have not yet fully discovered the number of planets; soon it shall be revealed and added to the previous count. This science is a fathomless ocean. Each fixed star has its planets, and each planet is a world among the worlds of thy Lord. Who can count the hosts of thy Lord therein, or the creations of His servants therein?"
+          ]
         },
         {
           "key": "source:AB09727",
@@ -811,7 +1072,10 @@
         },
         {
           "key": "source:AB03635",
-          "why": "Compare the further provisional reading of the same verse."
+          "why": "Compare the further provisional reading of the same verse.",
+          "shortened": [
+            "Each of the celestial stars has its own particular nature. This earth, which is infinitely small in comparison, is not empty and purposeless - how much more so these great luminous celestial bodies! The Qur'an clearly states: \"And among His signs is the creation of the heavens and the earth, and the living creatures He has scattered through them both.\" It says \"in them both\" not \"in it\" - clearly indicating that living creatures exist in both, since \"creature\" refers to a living, moving being."
+          ]
         },
         {
           "key": "source:AB01847",
@@ -819,7 +1083,10 @@
         },
         {
           "key": "source:ABU0475",
-          "why": "Retain the reported claim about life and feeling in its historical setting."
+          "why": "Retain the reported claim about life and feeling in its historical setting.",
+          "shortened": [
+            "It is also true in the vegetable- even cotton has a feeling. It has been proved that is has a certain motion- it has been proved practically."
+          ]
         },
         {
           "key": "selection:801b0b618df7a75bd0c084e3",
@@ -831,7 +1098,10 @@
         },
         {
           "key": "selection:b3011639ff1cc91060caad46",
-          "why": "Distinguish elemental worlds from the world of the Kingdom."
+          "why": "Distinguish elemental worlds from the world of the Kingdom.",
+          "shortened": [
+            "These numberless globes, however, all belong to the world of elements, whose beings are subject to composition and decomposition. The world of the Kingdom is free from composition and decomposition. Nonetheless, it is clear that every container hath its contents, every place its dimensions, every bouquet its flowers, and every garden its songbirds. These great existents are certainly not void and empty of life, nor is His creation vain and futile."
+          ]
         },
         {
           "key": "selection:09069dbdd48708c126c5c552",
@@ -935,16 +1205,22 @@
       "id": "3B0B2077A5A44699B8F756D6A1F5CC7D",
       "slug": "purposecreation",
       "displayTitle": "Purpose in creation: growth, potential, and the fruits of existence",
-      "introduction": "A seed is small enough to overlook, yet its growth invites a question larger than its present form: what might it become? These selections approach creation through latent capacities, gradual development, and the image of a tree whose fruit gives meaning to a long process. Their account of humanity’s place repeatedly turns toward the revelation of divine perfections and, in key passages, the Perfect Man. Aristotle’s discussion of nature acting toward ends provides a philosophical comparison with this language of purpose [1]. Reading the arguments together helps distinguish questions about how a process occurs from questions about its fulfilment, without assuming that a metaphor settles every scientific question. Beside universal law and the abundance of life, the compilation brings its inquiry back to cultivation: how might our own growth in intelligence and virtue contribute to the fruits of existence?",
+      "introduction": "Nothing, ‘Abdu’l-Bahá observes, reaches its perfection the moment it comes into being; the embryo takes its forms one after another in the womb, the seed labours unseen in the earth, the planet itself ripened over ages before it could carry a single living thing. Growth of this kind is not drift. Bahá’u’lláh and ‘Abdu’l-Bahá describe a universe held under one law that decrees, as a tree is bound to its fruit, a definite result, and they name that result: the revelation of divine perfections, and a human being able to bear them. Aristotle, weighing whether rain falls and teeth grow by necessity or for an end, raised the question in philosophy’s own terms [1], and the Bahá’í writings answer it without pretending that a metaphor settles every matter of science. Their harder claim is that a few years of earthly life cannot be the goal of so long a labour, and that man, the sum of all creation, is still only potential until cultivated. The road from here passes through the arcs of ascent and descent, through evolution and the four causes, and on to the attractive power of love that draws every creature toward its end.",
       "arc": "Begin with latent capacity and gradual growth, examine order and purpose, clarify the account of humanity’s place, then ask what spiritual fruits make that purpose visible.",
       "order": [
         {
           "key": "source:AB00722",
-          "why": "Open with hidden capacities becoming manifest through gradual growth."
+          "why": "Open with hidden capacities becoming manifest through gradual growth.",
+          "shortened": [
+            "Similarly, the terrestrial globe was created, from the beginning, with all its elements, substances, minerals, parts, and components, but these appeared only gradually: first the minerals, then the plants, then the animals, and finally man. But from the beginning, these kinds and species were latent in the earthly realm and appeared gradually thereafter. For the supreme law of God and the universal natural order encompasses all things and subjects them to its rule. When you consider this universal order, you see that not a single thing reaches the limit of perfection immediately upon coming into existence, but grows and develops gradually until it reaches that stage."
+          ]
         },
         {
           "key": "source:AB00077",
-          "why": "Explore development through the embryo, seed, and earth."
+          "why": "Explore development through the embryo, seed, and earth.",
+          "shortened": [
+            "For example, the human embryo grows and develops gradually in the womb of its mother, and assumes different forms and conditions, until it reaches maturity with the utmost beauty and appears in a consummate form with the utmost grace. In like manner, the seed of this flower which you see before you was in the beginning a small and insignificant thing, but it grew and developed in the womb of the earth, and assumed different forms, until it appeared with such perfect vitality and grace in this degree. It is likewise clear and evident that this terrestrial globe came to exist, grow and develop in the matrix of the universe, and assumed different forms and conditions, until it gradually attained its present completeness, became adorned with countless beings, and appeared in such a consummate form."
+          ]
         },
         {
           "key": "source:ABU0101",
@@ -952,7 +1228,11 @@
         },
         {
           "key": "source:ABU0902",
-          "why": "Connect potentiality with the need for cultivation."
+          "why": "Connect potentiality with the need for cultivation.",
+          "shortened": [
+            "God in his wisdom has created all things. Nothing has been created without a special destiny, for every creature has an innate station of attainment.",
+            "Each kingdom of nature holds potentialities and each must be cultivated in order to reach its fulfillment."
+          ]
         },
         {
           "key": "source:ABU0119",
@@ -972,11 +1252,17 @@
         },
         {
           "key": "source:ABU0491",
-          "why": "Consider God as the goal of creation."
+          "why": "Consider God as the goal of creation.",
+          "shortened": [
+            "The Creator of all is One God. From this same God all creation sprang into existence, and He is the one goal, towards which everything in nature yearns."
+          ]
         },
         {
           "key": "source:ABU0060",
-          "why": "Keep the reported application of purpose to the uses of plants."
+          "why": "Keep the reported application of purpose to the uses of plants.",
+          "shortened": [
+            "God has not created all the plants you know and all the various metals for nothing. They are for some purpose. They have their physiologic findings, and each one of them has its physiologic result. They are not for useless purposes. And if we deny pharmaceutics and therapeutics, then it would mean that all these things are without physiologic effect, when there is use for each one of these plants."
+          ]
         },
         {
           "key": "source:ABU0766",
@@ -984,19 +1270,34 @@
         },
         {
           "key": "source:ABU0626",
-          "why": "Consider the differing senses of life and progress."
+          "why": "Consider the differing senses of life and progress.",
+          "shortened": [
+            "In the physical creation, evolution is from one degree of perfection to another. The mineral passes with its mineral perfections to the vegetable; the vegetable, with its perfections, passes to the animal world, and so on to that of humanity. This world is full of seeming contradictions; in each of these kingdoms (mineral, vegetable and animal) life exists in its degree; though when compared to the life in a man, the earth appears to be dead, yet she, too, lives and has a life of her own."
+          ]
         },
         {
           "key": "source:ABU0054",
-          "why": "Read the reported account of progress through the kingdoms. End with the question of whether a brief earthly life exhausts creation’s aim."
+          "why": "Read the reported account of progress through the kingdoms. End with the question of whether a brief earthly life exhausts creation’s aim.",
+          "shortened": [
+            "Consider the aim of creation: is it possible that all is created to evolve and develop through countless ages with this small goal in view--a few years of a man's life on earth? Is it not unthinkable that this should be the final aim of existence?",
+            "The mineral evolves till it is absorbed in the life of the plant, the plant progresses till finally it loses its life in that of the animal; the animal, in its turn, forming part of the food of man, is absorbed into human life.",
+            "Thus, man is shown to be the sum of all creation, the superior of all created beings, the goal to which countless ages of existence have progressed."
+          ]
         },
         {
           "key": "source:ABU0170",
-          "why": "Retain the further reported cosmology as its own account."
+          "why": "Retain the further reported cosmology as its own account.",
+          "shortened": [
+            "Life on earth did not exist from the beginning and all at once, but it developed in stages and by degrees. The atoms of the elements are predisposed (programmed) to synthesis and composition according to the laws of nature; the Cosmic Spirit, the divine Primal Will operates and creates in this manner. The Primal Will operates in the element, in the primal atom, as attraction and repulsion; on the next higher level as organic life; then as animal-vegetative; and finally as spiritual life, which is destined to rise to the super-spiritual."
+          ]
         },
         {
           "key": "source:ABU0226",
-          "why": "Keep the report and its evolutionary comparison in their historical setting."
+          "why": "Keep the report and its evolutionary comparison in their historical setting.",
+          "shortened": [
+            "As the Creator has pleased to implant in the atoms His dynamic Power, a latent purposeful behaviour, one thing is contained in another and consecutively there develops from a latent condition an appearance made visible.[']",
+            "This sounds rather like the theory of Darwin who, a thousand years later and with better methods, with more perfect tools, lifted the veil of secrecy from many of the miracles of creation."
+          ]
         },
         {
           "key": "source:AB00278",
@@ -1004,11 +1305,18 @@
         },
         {
           "key": "source:AB00440",
-          "why": "Read the Perfect Man as the intended culmination."
+          "why": "Read the Perfect Man as the intended culmination.",
+          "shortened": [
+            "If man did not exist, the universe would be without result, for the purpose of existence is the revelation of the divine perfections.",
+            "But from the beginning that has no beginning to the end that has no end, a perfect Manifestation has always existed. This Man of whom we speak here is not just any man: that which we intend is the Perfect Man."
+          ]
         },
         {
           "key": "source:AB00020",
-          "why": "Face the question of a universe apparently ending in fruitless toil."
+          "why": "Face the question of a universe apparently ending in fruitless toil.",
+          "shortened": [
+            "All divine philosophers and men of wisdom and understanding, when observing these endless beings, have considered that in this great and infinite universe all things end in the mineral kingdom, that the outcome of the mineral kingdom is the vegetable kingdom, the outcome of the vegetable kingdom is the animal kingdom and the outcome of the animal kingdom the world of man. The consummation of this limitless universe with all its grandeur and glory hath been man himself, who in this world of being toileth and suffereth for a time, with divers ills and pains, and ultimately disintegrates, leaving no trace and no fruit after him."
+          ]
         },
         {
           "key": "source:ABU0100",
@@ -1028,7 +1336,10 @@
         },
         {
           "key": "source:AB00167",
-          "why": "Read the extended argument concerning form, essence, and development."
+          "why": "Read the extended argument concerning form, essence, and development.",
+          "shortened": [
+            "Now, even accepting the reality of evolution and progress; nevertheless, from the moment of his appearance man has possessed perfect composition, and has had the capacity and potential to acquire both material and spiritual perfections and to become the embodiment of the verse, \"Let us make man in our image, after our likeness.\" At most he has become more pleasing, more refined and graceful, and by virtue of civilization he has emerged from his wild state, just as the wild fruits become finer and sweeter under the cultivation of the gardener and acquire ever greater delicacy and vitality."
+          ]
         },
         {
           "key": "source:ABU0112",
@@ -1036,7 +1347,11 @@
         },
         {
           "key": "source:AB00036",
-          "why": "Read the compass image as an account of directed movement."
+          "why": "Read the compass image as an account of directed movement.",
+          "shortened": [
+            "The point of the compass in describing a circle does not reverse its motion, for this would be contrary to the natural movement and the divine order and would disrupt the regularity of the circle.",
+            "Apart from this, advancing and moving through the worlds in a direct line and according to the natural order is the cause of existence, and moving against the natural order and arrangement of things is the cause of extinction."
+          ]
         },
         {
           "key": "source:AB00057",
@@ -1048,11 +1363,17 @@
         },
         {
           "key": "source:AB00093",
-          "why": "Retain the passage connecting universal forces with the Covenant."
+          "why": "Retain the passage connecting universal forces with the Covenant.",
+          "shortened": [
+            "Today the Lord of Hosts is the protector of the Covenant, the powers of the Kingdom guard the Covenant, heavenly souls serve the Covenant, and celestial angels promote the Covenant. Indeed, if observed with insight, all the powers of the world ultimately serve the Covenant, but this will become apparent in the future."
+          ]
         },
         {
           "key": "source:ABU1155",
-          "why": "Return to the tree and the divine worlds as its fruit."
+          "why": "Return to the tree and the divine worlds as its fruit.",
+          "shortened": [
+            "If not for this fruition, what is the purpose of the tree? For this world is like unto a tree, and the fruits thereof are the divine worlds; assuredly the tree of creation is adorned with luscious fruits. Were it not for the existence of the divine worlds, the kingdom of being would be fruitless."
+          ]
         },
         {
           "key": "selection:cb5309291a0164aca0553a34",
@@ -1060,7 +1381,10 @@
         },
         {
           "key": "selection:08d181a0a66dd203289092d6",
-          "why": "Read the letter’s distinction between doctrine and its explanatory basis."
+          "why": "Read the letter’s distinction between doctrine and its explanatory basis.",
+          "shortened": [
+            "We cannot prove that man was always man for this is a fundamental doctrine, but it is based on the assertion that nothing can exceed its own potentialities, that everything, a stone, a tree, an animal and a human being existed in plan, potentially, from the very 'beginning' of creation. We don't believe man has always had the form of man, but rather that from the outset he was going to evolve into the human form and species and not be a haphazard branch of the ape family."
+          ]
         },
         {
           "key": "selection:3d07a00649f04c846453e498",

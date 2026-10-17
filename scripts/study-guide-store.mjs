@@ -3,14 +3,26 @@ import path from 'node:path';
 import {createHash,randomUUID} from 'node:crypto';
 
 // Editorial text of the study guides lives in study-guides/editorial.json and
-// the numbered *-batch.json files. The editor changes only the wording and the
-// reading order; which quotations a guide contains, its subject, its link name
-// and the recorded evidence for its neighbors stay exactly as reviewed.
+// the numbered *-batch.json files. The editor changes the wording, the reading
+// order, which sentences of a reading are shown (`shortened`) and whether a
+// reading is left out (`omitted`); the reviewed quotations themselves, the
+// subject, the link name and the neighbors' evidence stay exactly as reviewed.
 const sha=bytes=>createHash('sha256').update(bytes).digest('hex');
 export const guideFiles=async directory=>['editorial.json',...(await fs.readdir(directory)).filter(name=>name.endsWith('-batch.json')).sort()];
 
 export function maxQuestions(readingEntries){return Math.min(6,Math.max(0,readingEntries-1));}
 export function minQuestions(readingEntries){return Math.min(3,maxQuestions(readingEntries));}
+export const shownReadings=guide=>guide.order.filter(x=>!x.omitted).length;
+
+// Reading entries whose kept sentences or omission changed in a way that needs
+// the source text to check (restoring a whole reading never does).
+export function changedReadings(original,edited){
+  const before=new Map(original.order.map(x=>[x.key,x]));
+  return (Array.isArray(edited?.order)?edited.order:[]).filter(x=>{
+    const old=before.get(x?.key);if(!old)return false;
+    return (x.shortened!==undefined&&JSON.stringify(x.shortened)!==JSON.stringify(old.shortened))||(x.omitted===true&&!old.omitted);
+  }).map(x=>x.key);
+}
 
 const text=(value,label,{multiline=true}={})=>{
   if(typeof value!=='string'||!value.trim())throw Error(`${label} cannot be empty.`);
@@ -21,7 +33,9 @@ const text=(value,label,{multiline=true}={})=>{
 
 // Apply the same rules the site build enforces, so a saved guide does not stop
 // the next deployment. `original` is the guide as last published.
-export function checkGuide(original,edited){
+// `verified` lists the reading entries whose new kept sentences or omission
+// were checked against the source text (see study-guide-passage.mjs).
+export function checkGuide(original,edited,{verified=new Set()}={}){
   const fail=message=>{throw Error(message);};
   if(!edited||typeof edited!=='object')fail('The guide is missing.');
   const allowed=new Set(['displayTitle','introduction','arc','order','questions','neighbors','references']);
@@ -35,17 +49,29 @@ export function checkGuide(original,edited){
   const keys=original.order.map(x=>x.key);
   if(new Set(edited.order.map(x=>x?.key)).size!==keys.length||edited.order.some(x=>!keys.includes(x?.key)))fail('Every reading entry must stay in the guide exactly once.');
   let unlinked=false;
-  for(const [i,entry] of edited.order.entries()){
-    if(Object.keys(entry).some(k=>k!=='key'&&k!=='why'))fail('Reading entries can only be moved or have their note changed.');
+  const order=edited.order.map((entry,i)=>{
+    const before=original.order.find(x=>x.key===entry.key);
+    if(Object.keys(entry).some(k=>!['key','why','shortened','omitted'].includes(k)))fail('Reading entries can only be moved, shortened, left out or have their note changed.');
+    // New kept sentences or a new omission must have been checked against the source.
+    if(entry.shortened!==undefined){
+      if(!Array.isArray(entry.shortened)||!entry.shortened.length||entry.shortened.some(t=>typeof t!=='string'||!t.trim()))fail(`The kept sentences of reading ${i+1} are invalid.`);
+      if(JSON.stringify(entry.shortened)!==JSON.stringify(before.shortened)&&!verified.has(entry.key))fail(`The kept sentences of reading ${i+1} could not be checked against the source text. Reload the guide and try again.`);
+    }
+    if(entry.omitted!==undefined&&entry.omitted!==true)fail(`Reading ${i+1} is either left out or not.`);
+    if(entry.omitted&&!before.omitted&&!verified.has(entry.key))fail(`Leaving out reading ${i+1} could not be checked against the source text. Reload the guide and try again.`);
     text(entry.why,`The note for reading ${i+1}`,{multiline:false});
     if(entry.key.startsWith('selection:'))unlinked=true;
     else if(unlinked)fail(`Reading ${i+1} is linked to a catalog source, so it must come before the supplied quotations (“Further quotations”).`);
-  }
-  // Questions: the build allows up to one fewer than the reading entries (at most 6).
-  const most=maxQuestions(keys.length),least=minQuestions(keys.length);
+    const {key,why,shortened,omitted}=entry;
+    return {key,why,...(shortened!==undefined&&{shortened}),...(omitted&&{omitted})};
+  });
+  const shown=shownReadings(edited);
+  if(!shown)fail('At least one reading must stay in the guide.');
+  // Questions: the build allows up to one fewer than the readings shown (at most 6).
+  const most=maxQuestions(shown),least=minQuestions(shown);
   if(!Array.isArray(edited.questions))fail('Questions are missing.');
   edited.questions.forEach((q,i)=>text(q,`Question ${i+1}`,{multiline:false}));
-  if(edited.questions.length<least||edited.questions.length>most)fail(least===most?`This guide must have exactly ${most} question${most===1?'':'s'}.`:`This guide needs ${least} to ${most} questions (it has ${keys.length} reading entries).`);
+  if(edited.questions.length<least||edited.questions.length>most)fail(least===most?`This guide must have exactly ${most} question${most===1?'':'s'}.`:`This guide needs ${least} to ${most} questions (it shows ${shown} readings).`);
   if(new Set(edited.questions).size!==edited.questions.length)fail('Two questions are identical.');
   // Neighbors: only the (optional) invitation wording is editorial.
   if(!Array.isArray(edited.neighbors)||edited.neighbors.length!==original.neighbors.length)fail('Neighboring subjects cannot be added or removed here.');
@@ -70,9 +96,9 @@ export function checkGuide(original,edited){
   });
   for(const [,n] of introduction.matchAll(/\[(\d+)\]/g))if(Number(n)<1||Number(n)>edited.references.length)fail(`The introduction cites [${n}], but there ${edited.references.length===1?'is 1 reference':'are '+edited.references.length+' references'}.`);
   // The introduction and questions appear only in the study guide (PDF) view.
-  const regular=[title,arc,...edited.order.map(x=>x.why)];
+  const regular=[title,arc,...order.filter(x=>!x.omitted).map(x=>x.why)];
   if(regular.some(t=>t.includes(introduction))||edited.questions.some(q=>regular.some(t=>t.includes(q))))fail('The introduction and questions must not repeat the title, arc or reading notes word for word.');
-  return {...original,...Object.fromEntries([...allowed].map(k=>[k,edited[k]])),neighbors};
+  return {...original,...Object.fromEntries([...allowed].map(k=>[k,edited[k]])),order,neighbors};
 }
 
 export class GuideStore{
@@ -87,7 +113,7 @@ export class GuideStore{
   }
   async list(){
     const guides=[];
-    for(const file of await this.files())for(const s of file.data.subjects)guides.push({slug:s.slug,id:s.id,title:s.displayTitle,file:'study-guides/'+file.name,curated:Boolean(s.selection),readingEntries:s.order.length});
+    for(const file of await this.files())for(const s of file.data.subjects)guides.push({slug:s.slug,id:s.id,title:s.displayTitle,file:'study-guides/'+file.name,curated:Boolean(s.selection),readingEntries:shownReadings(s)});
     return guides.sort((a,b)=>a.title.localeCompare(b.title));
   }
   async find(slug){
@@ -100,12 +126,17 @@ export class GuideStore{
   }
   async load(slug){
     const {guide,revision,file}=await this.find(slug);
-    return {guide,revision,file,readingEntries:guide.order.length,questionLimits:[minQuestions(guide.order.length),maxQuestions(guide.order.length)]};
+    const shown=shownReadings(guide);
+    return {guide,revision,file,readingEntries:shown,questionLimits:[minQuestions(shown),maxQuestions(shown)]};
   }
-  async save(slug,revision,edited){
+  // `verify(guide,edited,keys)` checks changed kept sentences and omissions
+  // against the source text and throws if one is not allowed.
+  async save(slug,revision,edited,{verify}={}){
     const current=await this.find(slug);
     if(current.revision!==revision)throw Error('This guide’s file changed since you opened it (perhaps another guide in the same file was saved). Reload the guide; your edits have not been written.');
-    const updated=checkGuide(current.guide,edited);
+    const keys=changedReadings(current.guide,edited);
+    if(keys.length&&verify)await verify(current.guide,edited,keys);
+    const updated=checkGuide(current.guide,edited,{verified:new Set(verify?keys:[])});
     if(JSON.stringify(updated)===JSON.stringify(current.guide))return {...await this.load(slug),backup:null};
     const original=current.bytes.toString('utf8'),newline=original.includes('\r\n')?'\r\n':'\n';
     const data=structuredClone(current.data);data.subjects[current.index]=updated;

@@ -61,7 +61,8 @@ STUDY GUIDES
 
 Edit-Study-Guide.cmd
   Change a guide's title, introduction, reading arc, the order of its readings
-  and the note explaining each one's place, its discussion questions, the
+  and the note explaining each one's place, which sentences of each reading
+  are shown, which readings are left out, its discussion questions, the
   invitations under "Continue exploring", and its comparative readings.
   1. Type part of a title, choose the guide and click Open guide. Each reading
      shows its quotation, taken from the published website.
@@ -71,8 +72,14 @@ Edit-Study-Guide.cmd
      readings). The previous file is backed up under .qa\guide-backups.
   3. Save other guides if you like, then click Publish saved guides. All saved
      guides go up together and the tool waits for the website.
-  The quotations a guide contains come from the subject's reviewed passages and
-  are not changed here. New guides are still written with an assistant.
+  Under each reading, "Choose sentences" lists the whole passage: tick the
+  sentences to show (the wording itself never changes). "Leave out" keeps a
+  reading out of the published guide; it stays listed in the editor so it can
+  be put back. A reading with an authorized translation keeps at least one
+  authorized sentence and cannot be left out. These checks need the published
+  website (or a local build) to read the source text.
+  The quotations a guide can contain come from the subject's reviewed passages
+  and are not added here. New guides are still written with an assistant.
 
 SUBJECT ORDER
 

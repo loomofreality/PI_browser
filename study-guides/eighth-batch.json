@@ -5,12 +5,15 @@
       "id": "B71A5AD3EFDF459695EBD1C1B11C18F6",
       "slug": "bada",
       "displayTitle": "Divine freedom and changed expectations",
-      "introduction": "A promise understood as a fixed prediction may become an invitation to reconsider what we think we know. These readings approach badá through divine freedom, conditional events, and the difficulty of recognizing revelation when expectations fail. The image of a sovereign changing an appointment offers an accessible beginning; accounts of delayed fulfillment then ask how faith can remain attentive without making its own interpretation absolute. Jonah’s anger when Nineveh is spared provides a searching comparison: mercy itself can disappoint a person invested in an expected outcome [1]. Read beside the subjects of concealment and the divine Word, these passages invite humility about circumstances and interpretation while preserving the distinction between a change in human expectation and ignorance attributed to God.",
+      "introduction": "A king who appoints a governor with full authority can still remove him; to deny it, the Báb says, would be a lie. With that homely example he opens the hard question of badá, the alteration of the divine will. Believers who waited for a seventh Imam were told, ‘I am that one, but badá occurred’; promises that seemed fixed predictions turned out to hinge on conditions no one had noticed. Bahá’u’lláh reads such disappointments as a trial that separates light from darkness, and he asks the perplexed to suspect their own understanding before they accuse the promise. The Báb is careful to add that God’s alteration is nothing like a creature’s: ours comes from weakness, His from sovereign power, and the Eternal Essence never changes at all. Jonah, sulking under his withered vine because Nineveh repented and was spared, shows how mercy itself can wound a person invested in an expected outcome [1]. To acknowledge this freedom, the Báb says, is the highest worship. The subject deepens into the seven stages by which the divine will descends into a created thing, and then into the tests and trials and the sacrifice and suffering through which a faith learns to hope without dictating the shape of fulfilment.",
       "arc": "Begin with an everyday analogy for freedom, consider disappointed expectations, and enter the more demanding vocabulary of decree and divine action.",
       "order": [
         {
           "key": "source:BH00004",
-          "why": "Begin with the familiar freedom to change an appointment."
+          "why": "Begin with the familiar freedom to change an appointment.",
+          "shortened": [
+            "A king appointeth someone as governor with authority over all affairs, as can be seen in the case of certain governors who rule over lands on behalf of the king with full authority. Nevertheless, is the king able to remove them or not? If thou deniest this, thou art a liar, for it is evident that he is able."
+          ]
         },
         {
           "key": "source:AB03482",
@@ -18,7 +21,10 @@
         },
         {
           "key": "source:BB00145",
-          "why": "Hear divine freedom expressed as prayer."
+          "why": "Hear divine freedom expressed as prayer.",
+          "shortened": [
+            "O God, Thou didst intend by the mention of the Mother of the Book the word Bada', and by it the people worship through the word Baha, and fear the decree of fate. I, in my station before Thee, acknowledge to Thee the Bada' which Thou didst create before the decree, however Thou willeth, and whenever Thou willeth after its execution."
+          ]
         },
         {
           "key": "source:AB00235",
@@ -26,7 +32,11 @@
         },
         {
           "key": "source:BH00002",
-          "why": "Explore expectations as a test of recognition. Ask how interpretation affects apparent nonfulfillment."
+          "why": "Explore expectations as a test of recognition. Ask how interpretation affects apparent nonfulfillment.",
+          "shortened": [
+            "Meditate profoundly, that the secret of things unseen may be revealed unto you, that you may inhale the sweetness of a spiritual and imperishable fragrance, and that you may acknowledge the truth that from time immemorial even unto eternity the Almighty hath tried, and will continue to try, His servants, so that light may be distinguished from darkness, truth from falsehood, right from wrong, guidance from error, happiness from misery, and roses from thorns.",
+            "These things We mention only that the people may not be dismayed because of certain traditions and utterances, which have not yet been literally fulfilled, that they may rather attribute their perplexity to their own lack of understanding, and not to the nonfulfillment of the promises in the traditions, inasmuch as the meaning intended by the Imams of the Faith is not known by this people, as evidenced by the traditions themselves."
+          ]
         },
         {
           "key": "source:AB00282",
@@ -34,7 +44,11 @@
         },
         {
           "key": "source:BB00001",
-          "why": "Separate alteration from a claim of divine ignorance."
+          "why": "Separate alteration from a claim of divine ignorance.",
+          "shortened": [
+            "However, God's alteration is immeseaurably exalted above any association with the alteration of His creatures. For the creature's alteration is due to their powerlessness, whereas God's alteration is out of supreme power.",
+            "But this divine alteration is naught but the alteration of the Will, inasmuch as the Essence of the Eternity hath always been, and will continue forever to be, unchanged. Manifestation and concealment are the attributes of the Will, and firstness and lastness are the schemes of His Wish."
+          ]
         },
         {
           "key": "selection:7a74b534d1fc8c46712045cb",
@@ -42,11 +56,17 @@
         },
         {
           "key": "selection:a00664cd8d9384bf5e1e59a0",
-          "why": "Approach the Báb’s vocabulary of stages and decree."
+          "why": "Approach the Báb’s vocabulary of stages and decree.",
+          "shortened": [
+            "These seven stages are Will (mashiyyat), Purpose (iradih), predestination (qadar), fate (qada'), permission (idhn), fixed time (ajal), and the book (kitab).[1] The first stage of anything for which the \"thingness\" of existence is not a condition is the Will. The moment thingness is attached to it, it becometh Purpose, and this moment is accompanied by predestination. The manifestation of these three stages is fate. In this regard,[2] it is incumbent upon all creatures to acknowledge the spontaneity (bada' ) of God,[3] lauded and exalted be He, for His will cannot be altered after the stage of fate; it is fixed.[4] The decrees of permission, fixed time, and the book are subsequent to execution (imda')."
+          ]
         },
         {
           "key": "selection:3a8bb0cf65f195074cac9886",
-          "why": "End with the symbolic cosmology that enlarges the inquiry."
+          "why": "End with the symbolic cosmology that enlarges the inquiry.",
+          "shortened": [
+            "That which I set forth in explanation of the letter Ha was to extol the Tree of Baha, for the supporters of fate (qada') recognize the decree of spontaneity (bada') in the Crimson Pillar. It, in truth, is the secret of creation, for the element of fire in the realm of origination (ibda') can only exist through the element of earth. This is because with the exception of God, nothing can subsist through itself. All things are composite."
+          ]
         }
       ],
       "questions": [
@@ -85,7 +105,7 @@
       "id": "80A27A174ADBEBDDDCB2D427A7812EEC",
       "slug": "astrology",
       "displayTitle": "Stars, signs, and superstition",
-      "introduction": "The power of a number may lie in the people it counts. That arresting reversal opens a compilation that challenges divination while affirming a universe of interdependent realities. Astronomy, numerical symbolism, inward impressions, and predictions from the stars are distinguished rather than treated as a single kind of knowledge. Isaiah’s challenge to astrologers offers a comparison focused on the inability of promised foresight to save those who rely on it [1]. Alongside readings on unseen powers and the meaning of letters, these passages ask how an interconnected world can be investigated without turning every connection into a personal omen. Their historical examples invite discrimination: an argument against superstition does not make every reported explanation of its origins an established historical fact.",
+      "introduction": "Asked whether numbers have any influence, ‘Abdu’l-Bahá answered that the power lies not in the number twelve but in the twelve apostles it counts. That reversal sets the tone for everything the Writings say about stars, signs, and omens. Astronomy, which can foretell an eclipse, has substance; astrology, which claims to read good and evil in planetary positions, is dismissed in the sharpest terms, along with geomancy, fortune-telling, and the superstition that attaches to a sneeze or to the number thirteen. What survives the critique is more interesting than what falls: a universe in which every part is joined to every other like the members of a single body, held in the grasp of one Ordainer. Isaiah had already told those who trusted in astrologers that the stargazers could not save them [1]. Freedom from omens does not shrink the world; it returns one’s attention to its real interconnectedness, to the chain of being that links all things, and to the meanings of letters and numbers as symbols rather than machinery of fate, while leaving superstition behind.",
       "arc": "Start by relocating significance from a number to its human meaning, then distinguish genuine connection from unreliable prediction.",
       "order": [
         {
@@ -122,7 +142,11 @@
         },
         {
           "key": "source:AB03340",
-          "why": "Notice how ordinary habits acquire imaginary significance."
+          "why": "Notice how ordinary habits acquire imaginary significance.",
+          "shortened": [
+            "But the superstitions contained in astrological books are absolutely not to be trusted.",
+            "And as for the matter of sneezing, it is pure imagination. This blessed Dispensation has removed such imaginings from our midst. Even mentioning it is not permitted."
+          ]
         },
         {
           "key": "source:ABU0259",
@@ -130,7 +154,10 @@
         },
         {
           "key": "source:BH00878",
-          "why": "Place letter-based calculations beside the demand for recognition."
+          "why": "Place letter-based calculations beside the demand for recognition.",
+          "shortened": [
+            "When thou didst inquire about divination (jafr), in truth this is not and hath never been the day for questions, even as the Primal Point, Who gave the people glad tidings of the Lord of the Beginning and the End, forbade all from asking questions in this Most Great Revelation."
+          ]
         },
         {
           "key": "source:ABU0177",
@@ -173,7 +200,7 @@
       "id": "236E360BA2B3E9C4DB95B63DD7CD0BD8",
       "slug": "badasht",
       "displayTitle": "Badasht and the demands of renewal",
-      "introduction": "A person absorbed in devotion is called to arise and act: the opening recollection makes religious renewal a personal demand before it becomes a historical event. The accounts of Badasht then bring gardens, confrontation, Táhirih’s unveiling, and the unsettling announcement of a new religious order into view. Their differing details and reported speeches should be heard as distinct witnesses, not forced into a seamless transcript. Jesus’ images of new cloth and new wine likewise connect altered religious practice with the arrival of something that inherited forms cannot simply contain [1]. Read beside pilgrimage and concealment, Badasht invites reflection on the cost of recognition: how can fidelity require a changed practice, and how can courage remain attentive to those disoriented by change?",
+      "introduction": "A devout man was deep in his prayers on the plain of Badasht when Táhirih, at Bahá’u’lláh’s direction, interrupted him: this is the day of work and action, get up and do something. He went away weeping and came back the next morning ready to act. The story is small, but it holds the whole meaning of the gathering. Until then the Báb’s followers had kept the forms of Islam; at Badasht, between two gardens and a tent beside a stream, the Cause was proclaimed as fully its own, Táhirih appeared unveiled, and the company scattered in commotion, some fleeing, some weeping, one man cutting his own throat. Jesus answered a question about fasting with the image of new wine that old skins cannot hold [1], and Badasht is a story of that same rupture, with its cost. The several recollections differ in detail and deserve to be heard separately. They lead on to Quddús, whose claims and courage shaped the event, to Táhirih’s own journey from a locked house in Qazvín to the plain, and to the wider sequence of events in the Báb’s ministry.",
       "arc": "Enter through a call to action, encounter the gathering and its rupture, and return to the people who bore its consequences.",
       "order": [
         {
@@ -182,7 +209,10 @@
         },
         {
           "key": "source:AB00098",
-          "why": "Locate the gathering and its principal figures."
+          "why": "Locate the gathering and its principal figures.",
+          "shortened": [
+            "Later Baha'u'llah sent her with a number of believers towards Badasht. Their first stop was a beautiful and verdant garden. Tahirih and the friends arrived there and were later joined by Baha'u'llah, Who rested the night there. In the morning He sent Tahirih and the friends with ample provisions to Badasht. After a few days, Baha'u'llah Himself went there. When He reached Badasht, Quddus had returned from Khurasan and he, too, came to Badasht, but he remained concealed."
+          ]
         },
         {
           "key": "source:ABU1131",
@@ -190,7 +220,10 @@
         },
         {
           "key": "source:AB04355",
-          "why": "Distinguish claims of divine manifestation from bodily incarnation."
+          "why": "Distinguish claims of divine manifestation from bodily incarnation.",
+          "shortened": [
+            "For many have made claims of divinity and lordship - His Holiness Quddus, may my spirit be sacrificed for him, revealed a book on the interpretation of Samad where from beginning to end it is \"I am God\", and the honorable Tahirih raised \"I am God\" to the highest heavens in Badasht, and likewise some loved ones in Badasht, and the Blessed Beauty in the Qasidiy-i-Varqa'iyyih states: \"All divinities became divine from a sprinkling of my command, and all lords became lordly from an overflow of my wisdom.\" But they did not say that any soul arose in true servitude as is its right."
+          ]
         },
         {
           "key": "source:ABU0497",
@@ -198,11 +231,17 @@
         },
         {
           "key": "source:BHU0003",
-          "why": "Add another recollection without harmonizing its details."
+          "why": "Add another recollection without harmonizing its details.",
+          "shortened": [
+            "We soon joined her at Badasht, where We rented a garden for her use, and appointed the same Muhammad-Hadi who had achieved her deliverance, as her doorkeeper. About seventy of Our companions were with Us and lodged in a place in the vicinity of that garden."
+          ]
         },
         {
           "key": "source:ABU0086",
-          "why": "Consider the quality of courage remembered in her."
+          "why": "Consider the quality of courage remembered in her.",
+          "shortened": [
+            "She was so overcome that physical susceptibilities ceased. Her husband, her sons and her family arose in the greatest hostility against Baha'u'llah. She became so attracted to the divine threshold that she forsook everything and went forth to the plain of Badasht, no fear in her heart, dauntless, intrepid, openly proclaiming the message of light which had come to her."
+          ]
         },
         {
           "key": "source:AB01033",
@@ -245,7 +284,7 @@
       "id": "4CB7B206ED48ED717EB75A017F7D6FFF",
       "slug": "demons",
       "displayTitle": "Unseen powers and the freedom from fear",
-      "introduction": "What changes when an unseen power loses its authority over the imagination? These readings challenge accounts of malignant spirits, the evil eye, and invisible control, while giving terms such as jinn and Satan moral or symbolic interpretations in particular passages. The result is not a flat denial of spiritual life: the beneficial influence of holy souls is distinguished from fears that the dead can injure the living. James locates temptation in the movement of one’s own desire, offering a useful comparison without representing every Christian understanding of evil [1]. Beside astrology and the discipline of interpretation, the compilation invites a less fearful attention to responsibility. Its counsel about imagined influences should be read as spiritual counsel, not as a clinical explanation of distress.",
+      "introduction": "Fear has a way of furnishing the dark with tenants. Asked why unseen forces should rule a person’s affairs, ‘Abdu’l-Bahá answers that this is only the imagination of mankind: the evil eye has no power in the glance, and whatever influence there is lives in the heart that receives it. The departed who were not good cannot reach back to harm the living, and even in life their power was slight, for good is stronger than evil. Holy souls, by contrast, pour out a blessing that is felt in every world. Words like jinn and Satan are given meanings that point inward, toward hidden motives and the self that tempts us. The letter of James likewise traces temptation to a person’s own desire rather than to God [1]. Freed from dread, attention can turn to the old question of Satan and the Evil One, to the teaching that evil has no positive existence, and to an honest look at superstition and the occult.",
       "arc": "Begin with a direct challenge to unseen control, then distinguish symbolic meaning, spiritual influence, and the effects of fear.",
       "order": [
         {
@@ -254,7 +293,10 @@
         },
         {
           "key": "source:AB02689",
-          "why": "Consider how an imagined influence can affect the heart."
+          "why": "Consider how an imagined influence can affect the heart.",
+          "shortened": [
+            "Regarding what thou hadst written about the evil eye - this is superstition. The effect lies in the souls, not in the glances, and the influence is in the hearts, not in the eyes."
+          ]
         },
         {
           "key": "source:AB00548",
@@ -266,11 +308,17 @@
         },
         {
           "key": "source:AB02401",
-          "why": "Keep distinct the different senses assigned to hidden forces."
+          "why": "Keep distinct the different senses assigned to hidden forces.",
+          "shortened": [
+            "The jinn refers to imperceptible forces which influence human souls, and the word jinn in Arabic means hidden, that is, realities and forces which cannot be seen. Likewise devils and what people imagine are mere superstitions and have no existence whatsoever."
+          ]
         },
         {
           "key": "source:AB00075",
-          "why": "Contrast feared injury with beneficial spiritual influence."
+          "why": "Contrast feared injury with beneficial spiritual influence.",
+          "shortened": [
+            "In regard to the dominance of evil spirits about which you inquired - how can evil spirits, who are deprived of eternal life, have any influence? However, holy souls, since eternal life is assured for them, their outpourings exist in all divine worlds."
+          ]
         },
         {
           "key": "source:ABU1809",
@@ -278,7 +326,10 @@
         },
         {
           "key": "source:ABU3101",
-          "why": "Question the image of souls bound to the earth."
+          "why": "Question the image of souls bound to the earth.",
+          "shortened": [
+            "Abdu'l-Baha answered, \"There are no earthbound souls. When the souls that are not good die, they go entirely away from this earth and so cannot influence anyone. They are spiritually dead. Their thoughts can have influence only while they are alive on the earth."
+          ]
         },
         {
           "key": "source:AB02627",
@@ -325,12 +376,15 @@
       "id": "6ACA0A9D5724EB78D1F8FF7F8B25248F",
       "slug": "comfort",
       "displayTitle": "Comfort, effort, and a life of service",
-      "introduction": "A purpose larger than personal ease can reorganize a life. The recollections and counsels gathered here show that reorganization in travel, cold hands writing at night, demanding work, and an insistence that faith produce effort. Yet the same collection remembers changing bodily capacities and the value of health in service. These are not interchangeable statements of a rule that illness should be ignored. Mark’s account of Jesus inviting exhausted disciples to rest offers a helpful companion to the passages about exertion [1]. Read beside the physical limitations of holy figures and the responsibilities of teachers, this subject asks what comfort is for: when does it restore our capacity to give, and when does the pursuit of ease quietly displace the purpose we hoped to serve?",
+      "introduction": "Ease has a way of becoming the quiet center of a life. ‘Abdu’l-Bahá asks what bodily comfort is finally worth, the soft cushions of silk, the hoarding of the morning and the spending of the evening, if the soul has no higher aim. His own days answered the question. He wrote by lamplight while others slept, pressed on with fingers too cold to move, refused to listen to sickness or fatigue, and praised friends who traveled far to raise the call of the Kingdom. Faith, He insisted, never seeks shelter in indolence. Yet He also spoke frankly of age, of nights when He could no longer sleep in a shared room, and of a simple diet that keeps the body fit for service. Jesus, too, drew His weary disciples aside to rest [1]. Between these poles lies the path of detachment, the patience that tests and trials require, and the sacrifice that gives every effort its meaning.",
       "arc": "Begin with purpose, follow the concrete cost of service, and end by considering changing needs and care for the body.",
       "order": [
         {
           "key": "source:ABU2059",
-          "why": "Begin with a purpose that can outweigh immediate ease."
+          "why": "Begin with a purpose that can outweigh immediate ease.",
+          "shortened": [
+            "We should not always be focused on physical comfort, but rather should seek a high purpose and goal even if it is contrary to bodily ease."
+          ]
         },
         {
           "key": "source:AB05672",
@@ -338,7 +392,10 @@
         },
         {
           "key": "source:AB06570",
-          "why": "See the principle embodied in demanding travel."
+          "why": "See the principle embodied in demanding travel.",
+          "shortened": [
+            "Praise be to God that you have forsaken your physical comfort and rest and are engaged with utmost effort in promoting the divine teachings, and that you have traveled to Lubeck to raise the call to the Kingdom and have formed a gathering."
+          ]
         },
         {
           "key": "source:ABU2759",
@@ -358,11 +415,17 @@
         },
         {
           "key": "source:ABU2388",
-          "why": "Read a personal statement about illness in its particular setting."
+          "why": "Read a personal statement about illness in its particular setting.",
+          "shortened": [
+            "Look at me! I do not listen to sickness. I do not listen to sleeplessness. I do not listen to fatigue. I do not listen to anything. I work and strive. I toil and labor."
+          ]
         },
         {
           "key": "source:ABU1097",
-          "why": "Challenge indolence sheltered under the name of faith."
+          "why": "Challenge indolence sheltered under the name of faith.",
+          "shortened": [
+            "No one who has the least particle of Faith in God seeks the least degree of ease and indolence."
+          ]
         },
         {
           "key": "source:ABU3003",
@@ -413,16 +476,24 @@
       "id": "9BFC206319554532B734279F1627E279",
       "slug": "dissimulation",
       "displayTitle": "Concealment, candor, and the protection of life",
-      "introduction": "A believer who has concealed his faith speaks up to protect Moses. This Qur’anic scene opens a collection whose difficult counsels belong to danger, persecution, differing audiences, and changing circumstances [1]. Commands to remain quiet or avoid disclosure appear beside declarations of candor and a later distinction between threatened life and a profession made to evade religious obligations. Reading them together calls for attention to speaker, recipient, and purpose; no single sentence supplies a universal permission to deceive or a demand for reckless exposure. Neighboring subjects of rebellion and secret societies sharpen the inquiry. How can courage and wisdom work together, and what separates care for endangered people from secrecy used to secure privilege or escape responsibility?",
+      "introduction": "The believer in Pharaoh’s household kept his faith hidden and still spoke up when Moses was to be killed, and Bahá’u’lláh calls his concealment greater than open acknowledgment, because of the wisdom in it [1]. That scene sets the terms. After the martyrdom of Badí‘ and of others, commands of wisdom and even of non-confession went out so that sacred lives might be preserved; the Báb counselled a prisoner to practise concealment; the Imams taught that patience and discretion were qualities their people had lost. Beside all this stands the Wronged One’s declaration that He is incapable of dissimulation and has revealed whatever He wished. None of these counsels is a universal licence to deceive or a demand for reckless exposure; each belongs to a speaker, a recipient and a danger. And the line is drawn sharply elsewhere: to deny one’s faith in order to evade a law of God is not protection but evasion. Courage and wisdom have to work together here, and the inquiry leads naturally to confidence and courage in teaching, and to honesty, truthfulness and trustworthiness as the ground on which any discretion must rest.",
       "arc": "Begin with concealed faith speaking in defense of life, then read historically situated counsels before considering candor and accountability.",
       "order": [
         {
           "key": "source:AB09642",
-          "why": "Open with a hidden believer defending another person’s life."
+          "why": "Open with a hidden believer defending another person’s life.",
+          "shortened": [
+            "And as the believer from among Pharaoh's people who concealed his faith said: \"Will ye slay a man because he saith, my Lord is God?\"",
+            "This concealment is greater than open acknowledgment, for therein lies infinite wisdom."
+          ]
         },
         {
           "key": "source:BH00037",
-          "why": "Place protective guidance within a period of persecution."
+          "why": "Place protective guidance within a period of persecution.",
+          "shortened": [
+            "After the martyrdom of His Holiness Badi' - upon him be the Most Glorious Beauty of God - who appeared and shone forth from the horizon of power, the command of wisdom [hikmat] was revealed, such that most Tablets were adorned with this command. And after the martyrdom of His Holiness 'Ali from the land of Mim - upon him be all the most glorious Beauty - the command of non-confession ['adam-i-iqrar] was issued.",
+            "The oppression of the oppressors and the heedlessness of the heedless have reached such a state that the Supreme Pen spoke the words of one of the former Letters: \"Dissimulation is my religion\" et cetera. The purpose was to preserve sacred souls."
+          ]
         },
         {
           "key": "source:BH00051",
@@ -430,7 +501,10 @@
         },
         {
           "key": "source:BH05984",
-          "why": "Consider the prevention of harm to believers."
+          "why": "Consider the prevention of harm to believers.",
+          "shortened": [
+            "In accordance with the revealed wisdom, We have forbidden all to acknowledge and confess this Cause before the faces of men. All must hold fast to what was said before: \"Dissimulation is My religion and the religion of My forebears.\""
+          ]
         },
         {
           "key": "source:BB00287",
@@ -446,11 +520,17 @@
         },
         {
           "key": "source:BH04701",
-          "why": "Consider the image of protecting something precious."
+          "why": "Consider the image of protecting something precious.",
+          "shortened": [
+            "In that letter mention was made of teaching them. In this matter wisdom is required. Drink thou the sealed wine in the name of the Self-Subsisting in the innermost mystery. Well is it with thee and pleasant it is to thee. In all circumstances We counsel you to wisdom. \"Concealment is better than revelation.\" The people were not and are not worthy. Not every soul was or is worthy of this most pure Kawthar."
+          ]
         },
         {
           "key": "source:BH00002",
-          "why": "Broaden the perspective through earlier prophetic histories."
+          "why": "Broaden the perspective through earlier prophetic histories.",
+          "shortened": [
+            "In the \"Bihar\" it is recorded: \"In our Qa'im there shall be four signs from four Prophets, Moses, Jesus, Joseph, and Muhammad. The sign from Moses is fear and expectation; from Jesus, that which was spoken of Him; from Joseph, imprisonment and dissimulation; from Muhammad, the revelation of a Book similar to the Qur'an.\""
+          ]
         },
         {
           "key": "source:BH00005",
@@ -458,7 +538,10 @@
         },
         {
           "key": "selection:90889f073b59662a608f9e1a",
-          "why": "End by distinguishing protection from evasion of obligations."
+          "why": "End by distinguishing protection from evasion of obligations.",
+          "shortened": [
+            "To deny that one is a Baha'i while one still believes in Baha'u'llah is not withdrawal, it is dissimulation of one's faith, and Baha'i laws does not countenance the dissimulation of a believer's faith for the purpose of breaking the law."
+          ]
         }
       ],
       "questions": [
@@ -497,7 +580,7 @@
       "id": "462DD0A3384CEC88D53CB4DF6993BEF2",
       "slug": "grammar",
       "displayTitle": "Letters, language, and the life of meaning",
-      "introduction": "Poor handwriting need not express disrespect, and a disagreement over spelling need not become a breach of fellowship. These modest beginnings open onto a rich inquiry into language: pronunciation, translation, grammatical convention, the Báb’s innovations, and the symbolic life of letters. The readings move between practical advice and a theological vision in which speech receives meaning from a source greater than its rules. Paul’s appeal for intelligible speech, illustrated by musical instruments, offers a comparison centered on what words make possible between people [1]. Read beside textual discrepancies and the divine Word, this compilation asks how careful attention to form can serve understanding without becoming a barrier to it. Its historical transliterations and symbolic grammars retain their own settings rather than becoming a single modern style guide.",
+      "introduction": "Untidy handwriting, Bahá’u’lláh tells a correspondent, is no evidence of disrespect, and a disagreement over how to spell the Greatest Name must not become a cause of grief among the friends. From such small reassurances a surprising inquiry opens. The Báb paid no heed in His youth to the canons of the schools and wrote with substantial latitude toward the rules of grammar; Bahá’u’lláh’s early verses did the same, and were later brought into conformity with common usage to forestall the cavils of opponents, while now and then a word still broke the rules so that the Arabic tongue would not be fettered again. Behind this lies a vision in which the cases of nouns answer to the names of God, the points of articulation are created in the human body, and at the summit of writing all letters become one letter and all languages one language. Paul, comparing speech to the distinct notes of pipe and harp, asked what happens when a hearer cannot understand [1], and that care for the listener belongs beside this freedom with form. The path leads into language and the structure of reality, the meanings of letters and numbers, and the science of jafr.",
       "arc": "Enter through familiar anxieties about writing, turn toward the purposes of grammar, and approach the symbolic world of letters.",
       "order": [
         {
@@ -522,15 +605,25 @@
         },
         {
           "key": "source:ABU2871",
-          "why": "Move from vocabulary to the hope of wider communication."
+          "why": "Move from vocabulary to the hope of wider communication.",
+          "shortened": [
+            "In Arabic there are hundreds of names for the camel! In the schools of each nation the mother tongue will be taught, as well as the revised Universal Language.\""
+          ]
         },
         {
           "key": "source:BH00069",
-          "why": "Introduce revision and latitude in revealed language."
+          "why": "Introduce revision and latitude in revealed language.",
+          "shortened": [
+            "57. QUESTION:  Concerning disparities between certain revealed verses.",
+            "ANSWER:  Many Tablets were revealed and dispatched in their original form without being checked and reviewed.  Consequently, as bidden, they were again read out in the Holy Presence, and brought into conformity with the grammatical conventions of the people in order to forestall the cavils of opponents of the Cause.  Another reason for this practice is that the new style inaugurated by the Herald, may the souls of all else but Him be offered up for His sake, was seen to be marked by substantial latitude in adherence to the rules of  grammar; sacred verses therefore were then revealed in a style which is for the most part in conformity with current usage for ease of understanding and concision of expression."
+          ]
         },
         {
           "key": "source:BH00781",
-          "why": "Consider grammar alongside rhetorical compression."
+          "why": "Consider grammar alongside rhetorical compression.",
+          "shortened": [
+            "Similarly, according to the leaders of grammar, an intransitive verb appears in transitive form in three ways: through repetition, with \"ba\", and with \"hamza\". This is respected among the people, but in divine knowledge, by contextual evidence, an intransitive verb becomes transitive and a transitive verb becomes intransitive. Blessed are those who know, and blessed is he who is certain that all sciences are in the grasp of his Lord's power, the All-Knowing, the All-Informed."
+          ]
         },
         {
           "key": "source:BH11663",
@@ -546,11 +639,19 @@
         },
         {
           "key": "source:BB00301",
-          "why": "Connect articulation with a spiritual reading of the human form. Return to the living act of recitation."
+          "why": "Connect articulation with a spiritual reading of the human form. Return to the living act of recitation.",
+          "shortened": [
+            "Bear thou witness with certitude that the origin of the science of recitation was taken from him whose nature remained unchanged, for when God created the letters, He created their places and points of articulation in the servant such that he needeth not to learn from any among men. Just as thou seest with thine eyes, so do the letters emerge from their points of articulation which God created in thee, without similitude or comparison.",
+            "The Hijazi recitation and eloquence in true melody is that thy countenance should not change during recitation. Thus hath God created thee, and men have no power to change God's creation."
+          ]
         },
         {
           "key": "source:BB00023",
-          "why": "Explore the expansive symbolic grammar of the Báb."
+          "why": "Explore the expansive symbolic grammar of the Báb.",
+          "shortened": [
+            "For when letters are elevated and enter their gardens, all letters become one letter, all words one word, all languages one language, and all grammatical forms one form. Then a single word becomes noun and verb and particle, declinable and indeclinable, variable and invariable, subject and object, possessed and possessor, subject and predicate, circumstantial phrase and specification - unto infinity.",
+            "Each word indicates every meaning, and a single word becomes singular and dual and plural, masculine and feminine."
+          ]
         },
         {
           "key": "source:BB00035",
@@ -558,7 +659,11 @@
         },
         {
           "key": "source:BB00186",
-          "why": "Read grammatical cases through divine names."
+          "why": "Read grammatical cases through divine names.",
+          "shortened": [
+            "By my life, in my youth I paid no heed to the schools' canons. Rather, the rule is that which 'Ali -- exalted be His remembrance -- decreed in another place: every subject (fa'il) is in the nominative, by reason of the appearance therein of the Name of God, al-Qabid (the Withholder); every object (maf'ul) is in the accusative, by reason of the appearance therein of the Name of God, al-Muhyi (the Quickener); and every genitive (mudaf ilayh) is in the genitive case, by reason of the appearance therein of the Name of God, al-Hayy (the Living), which is the station of the air, by which things are bound together.",
+            "All rules of grammar branch from the decree of these theophanies, for him who knoweth God's ordinance in the kingdom of the Names and Attributes."
+          ]
         },
         {
           "key": "source:AB11842",
@@ -601,7 +706,7 @@
       "id": "A1F5E22D1649ECA14B265BA4AE195779",
       "slug": "discrepancies",
       "displayTitle": "Textual differences and the work of understanding",
-      "introduction": "A question about differing numbers reminds us that noticing a discrepancy is the beginning of inquiry, not its conclusion. These selections place questions of transmission and revision beside debates over the Báb’s grammar and the standards by which revelation is judged. Some differences concern wording; others concern the authority assigned to established linguistic rules. Luke’s opening acknowledgment of earlier narratives, witnesses, and his own ordered account offers a useful comparison for thinking about the labor through which a religious history reaches its readers [1]. Beside grammar and the limitations of historical speakers, the collection invites both accuracy and proportion: fidelity requires careful attention to what a text actually says, while understanding also asks what kind of claim it is making.",
+      "introduction": "Three copies of the same talk give the span as six thousand years, six hundred, and sixty. Noticing such a thing is where inquiry begins, and the Bahá’í writings themselves distinguish the kinds of difference a careful reader will meet. Some arise in transmission, since no scribe could capture at the moment of revelation all that was sent down; some are revisions, for Bahá’u’lláh explains that Tablets dispatched in their original form were later read back to Him and brought into line with the grammar of the people, to forestall the cavils of opponents. Others are deliberate. The Báb wrote in open defiance of the rules of Arabic grammar, and when the divines of Tabríz criticized His grammar He answered that the Word of God is not subject to the conventions of its creatures; the rules were deduced from scripture in the first place. ‘Abdu’l-Bahá notes with equanimity that ancient Bibles disagree about a patriarch’s age, and assigns the histories to historians and the commandments to Moses. Luke, opening his Gospel by acknowledging earlier narratives and the testimony of witnesses, shows a sacred author visibly at work on his sources [1]. From here the questions lead on to authentication and transcription of the Writings, their preservation, and the limits of language itself.",
       "arc": "Start with an unresolved textual question, distinguish forms of difference, and examine the contest over the standards of interpretation.",
       "order": [
         {
@@ -610,7 +715,11 @@
         },
         {
           "key": "source:BH00069",
-          "why": "Consider why a text might be reviewed or revised."
+          "why": "Consider why a text might be reviewed or revised.",
+          "shortened": [
+            "57. QUESTION:  Concerning disparities between certain revealed verses.",
+            "ANSWER:  Many Tablets were revealed and dispatched in their original form without being checked and reviewed.  Consequently, as bidden, they were again read out in the Holy Presence, and brought into conformity with the grammatical conventions of the people in order to forestall the cavils of opponents of the Cause.  Another reason for this practice is that the new style inaugurated by the Herald, may the souls of all else but Him be offered up for His sake, was seen to be marked by substantial latitude in adherence to the rules of  grammar; sacred verses therefore were then revealed in a style which is for the most part in conformity with current usage for ease of understanding and concision of expression."
+          ]
         },
         {
           "key": "source:AB00003",
@@ -626,7 +735,11 @@
         },
         {
           "key": "source:BH00781",
-          "why": "Return to a fuller explanation of grammatical latitude."
+          "why": "Return to a fuller explanation of grammatical latitude.",
+          "shortened": [
+            "O Zayn, the delay in answering what you asked about the verses has been for the preservation of change, for in the early days there was absolutely no consideration of the people's rules at the time of revelation, while in these days it is observed out of wisdom. Therefore, if a Tablet from before is read in the presence of the Countenance, it descends in some stations differently than what was revealed before. This refers to the outward expression, but in reality whatever was revealed was and will be correct.",
+            "That which flowed from the Pen of this Servant, in the very presence of the Countenance, hath been disseminated abroad; it is thus possible that in certain places omissions may have occurred, or that there may be excesses or deficiencies, for no soul is able, at the very moment of revelation, to commit to writing in its entirety that which is sent down."
+          ]
         },
         {
           "key": "selection:d2492d05c2b7c611da09f8be",
@@ -638,7 +751,10 @@
         },
         {
           "key": "selection:d55ffa0b4f87cf1b946b13c6",
-          "why": "End with scholarly interpretation as a distinct voice."
+          "why": "End with scholarly interpretation as a distinct voice.",
+          "shortened": [
+            "Some of the Bab's earliest verses were an open provocation to the Shi'i clerics. One example was his stance on the complex rules of Arabic grammar. He not only wrote in a fashion that contradicted those rules, he even went so far as to call them 'satanic' (al-qawa'id al-shaytaniyyah) (Qayyum al-Asma', sura 86) and claimed that through his intercession God had decided to free language from the rules and chains placed on its neck in the past (Risalah fi 'Ilm al-Nahw, vol. 67, p. 121; cf. Amanat 1989, pp. 269f.)."
+          ]
         }
       ],
       "questions": [
@@ -677,20 +793,31 @@
       "id": "B5A1748B3FB14D8EA1B9992E6E0409BF",
       "slug": "outpouring",
       "displayTitle": "Divine outpouring and the signs of being",
-      "introduction": "The image of love coming forth invites us into a question that abstract diagrams alone cannot settle: how can the world disclose a reality that remains beyond its grasp? These selections approach divine outpouring through signs in all things, the distinctive revelation of the Prophets, and accounts of the First Intellect or Primal Will. They also include philosophical commentary and notes whose voices should remain distinct from the sacred passages. Romans speaks of invisible divine qualities apprehended through creation, offering a comparison for the movement from visible things toward their source [1]. Alongside uncompounded reality and the divine Word, the collection asks how dependence and disclosure can be understood without imagining the divine Essence divided into the objects of the world.",
+      "introduction": "Why is there anything at all? One answer in Bahá’u’lláh’s writings begins not with power but with love: a stirring of love within the hidden Essence, a Treasure that longed to be known and disclosed Itself to Itself, so that the archetypes of all things came into being. Everything that exists carries the trace of that generosity. Bahá’u’lláh insists that nothing can exist without the splendour of God shining within it and that a discerning eye finds every created thing testifying to its inner light; Paul had already said in Romans that the invisible qualities of God are apprehended through what has been made [1]. Yet the same teaching guards a boundary. The Essence Itself stays barred to every seeker, while the Prophets are the mirrors in which the divine names are faithfully reflected. Holding universal signs and an unreachable Presence together is the discipline this subject asks of us, and it leads on to God’s love for His own Essence, the difference between emanation and manifestation, and the bounty that pervades all things.",
       "arc": "Begin with the language of love, distinguish kinds of disclosure, and then enter the philosophical accounts of outpouring.",
       "order": [
         {
           "key": "source:AB00006",
-          "why": "Open with a living image of love coming forth. Follow love into an account of hidden realities."
+          "why": "Open with a living image of love coming forth. Follow love into an account of hidden realities.",
+          "shortened": [
+            "And when that Hidden Essence revealed Its Essence to Its Essence and showed forth Its Self to Its Self, the Maiden of Love, which was veiled within the canopy of the Essence of Unity, arose and came forth."
+          ]
         },
         {
           "key": "source:BH00002",
-          "why": "Find signs in the created world. Preserve the inaccessibility of the divine Essence. Consider the distinctive mirrors of prophetic revelation."
+          "why": "Find signs in the created world. Preserve the inaccessibility of the divine Essence. Consider the distinctive mirrors of prophetic revelation.",
+          "shortened": [
+            "Nay, were man to gaze with the eye of divine and spiritual discernment, he will readily recognize that nothing whatsoever can exist without the revelation of the splendor of God, the ideal King. Consider how all created things eloquently testify to the revelation of that inner Light within them.",
+            "And were they to maintain that by \"divine Presence\" is meant the \"Specific Revelation of God,\" expressed by certain Sufis as the \"Most Holy Outpouring,\" if this be in the Essence Itself, it is evident that it hath been eternally in the divine Knowledge. Assuming the truth of this hypothesis, \"attainment unto the divine Presence\" is in this sense obviously possible to no one, inasmuch as this revelation is confined to the innermost Essence, unto which no man can attain.",
+            "And were they to say that by \"divine Presence\" is meant the \"Secondary Revelation of God,\" interpreted as the \"Holy Outpouring,\" this is admittedly applicable to the world of creation, that is, in the realm of the primal and original manifestation of God. Such revelation is confined to His Prophets and chosen Ones, inasmuch as none mightier than they hath come to exist in the world of being. This truth all recognize, and bear witness thereto. These Prophets and chosen Ones of God are the recipients and revealers of all the unchangeable attributes and names of God. They are the mirrors that truly and faithfully reflect the light of God."
+          ]
         },
         {
           "key": "source:AB00876",
-          "why": "Introduce the vocabulary of First Intellect and Primal Will."
+          "why": "Introduce the vocabulary of First Intellect and Primal Will.",
+          "shortened": [
+            "It follows that all things have emanated from God, that is, it is through God that all things have been realized and through Him that the contingent world has come to exist. The first thing to emanate from God is that universal reality which the ancient philosophers termed the \"First Intellect\" and which the people of Baha call the \"Primal Will.\" This emanation, with respect to its action in the world of God, is not limited by either time or place and has neither beginning nor end, for in relation to God the beginning and the end are one and the same."
+          ]
         },
         {
           "key": "selection:03146b9816f77d3ab8679e0a",
@@ -702,7 +829,11 @@
         },
         {
           "key": "selection:fd7b5fc887dfae4496bb3ea3",
-          "why": "Examine an interpreter’s account of the first outpouring."
+          "why": "Examine an interpreter’s account of the first outpouring.",
+          "shortened": [
+            "The creative movement, or, to use the technical terminology of wahdat al-wujud philosophy, the self-manifestation (tajalli) of the Absolute which is activated by the principle of love, emerges for the first time at the stage of ahadiyah and is called the 'most sacred Emanation' (Fayd-i-Aqdas). As the result of this Emanation, the stage of wahidiyah becomes established. The wahidiyah, is the ontological state at which the original absolute Oneness of the reality of existence appears with inner articulations. These inner articulations are called, in accordance with the traditional terminology of theology, divine Names and Attributes.",
+            "And the creative or self-manifesting activity of the absolute reality of existence by which this ontological 'descent' is actualized is called the 'sacred emanation' (fayd muqaddas) in distinction from the 'most sacred emanation' by which the ahadiyah develops into wahidiyah."
+          ]
         },
         {
           "key": "selection:b0b75c40c60a395457b9a7d4",
@@ -714,7 +845,10 @@
         },
         {
           "key": "selection:b73470c8dee13edf38033872",
-          "why": "End with a difficult account of unity and particularity."
+          "why": "End with a difficult account of unity and particularity.",
+          "shortened": [
+            "To the eye of a man who has attained this spiritual stage there arises a scene of extraordinary beauty. He sees all the existent things as they appear in the mirror of the Absolute and as they appear one in the other. All these things interflow and interpenetrate in such a way that they become transparent to one another while keeping at the same time each its own individuality. This is the experience of 'unveiling' (kashf)."
+          ]
         }
       ],
       "questions": [
@@ -753,12 +887,15 @@
       "id": "BC1DA81F657CE31747E11326EF6838A7",
       "slug": "hajj",
       "displayTitle": "Pilgrimage, longing, and recognition",
-      "introduction": "A few words can set generations in motion. The opening readings marvel at the power of the Qur’anic summons to pilgrimage, then bring its journeys, rites, longing, and hardships into view. The sacred place becomes a meeting point of memory and present recognition: attachment to a shrine can deepen devotion, yet proximity to a holy place does not itself ensure understanding of a living Prophet. Qur’an 3:97 joins the duty of pilgrimage with the pilgrim’s ability to make the journey [1]. Beside Carmel and Badasht, this collection asks how outward movement serves inward change. References to visits to other sacred sites broaden the inquiry into pilgrimage without making every journey the Hajj or every rite interchangeable.",
+      "introduction": "A single sentence of the Qur’an, that pilgrimage to the House is a duty owed to God, has drawn millions across deserts and seas for more than thirteen centuries, and ‘Abdu’l-Bahá asks us to stand in wonder before that power. Hajj is where longing takes to the road: pilgrims leave home, bear hardship, run between Ṣafá and Marwah, circle the Kaaba, and cry out that they have come. Bahá’u’lláh and the Báb honour those rites, yet they also press a harder question. Prostration before a shrine is prostration before the Truth it points to, not before the stones, and those who hurry to Mecca can still fail to recognise the Beloved when He walks in their own land. Qur’an 3:97 binds the duty to the pilgrim’s ability to make the journey [1], tying devotion to real capacity and real responsibility. From here the path leads naturally through the wider rituals of Islam, the holy days that mark the sacred year, and the law of pilgrimage renewed for a new Dispensation, asking all along what outward movement must become inside the heart.",
       "arc": "Begin with a word that moves multitudes, follow the journey and its symbols, and return to recognition and practical responsibility.",
       "order": [
         {
           "key": "source:ABU1601",
-          "why": "Open with the power of a brief summons."
+          "why": "Open with the power of a brief summons.",
+          "shortened": [
+            "In the Qur'an one verse was revealed stating \"Pilgrimage to the House is a duty unto God for mankind.\" See how many millions of souls from distant lands and different sects gather each year under the shade of this blessed word for pilgrimage."
+          ]
         },
         {
           "key": "source:BH02075",
@@ -766,7 +903,10 @@
         },
         {
           "key": "source:BH01941",
-          "why": "Hear longing as the motive for a journey."
+          "why": "Hear longing as the motive for a journey.",
+          "shortened": [
+            "His path is clear and His proof is evident. Reflect upon the power of this blessed word: from the day of its revelation until now, the people of the Covenant from all regions and directions have been and continue to be oriented toward it with utmost longing and yearning. They have borne all afflictions, calamities, hardships, injuries and difficulties of every kind on the path as they hastened toward the Friend."
+          ]
         },
         {
           "key": "source:BH05292",
@@ -786,7 +926,10 @@
         },
         {
           "key": "source:BHU0071",
-          "why": "Preserve a brief recollection in its own form."
+          "why": "Preserve a brief recollection in its own form.",
+          "shortened": [
+            "Consider, this very day several thousand people are treading the ground between Safa and Marwih [on one foot]. The Beloved of the world of being is present in this land, but they are oblivious. All are heedless; all are unaware; all are uninformed. You are the true pilgrims."
+          ]
         },
         {
           "key": "source:ABU1119",
@@ -794,7 +937,10 @@
         },
         {
           "key": "source:AB01008",
-          "why": "Ask why reverence for the past can coexist with rejection in the present."
+          "why": "Ask why reverence for the past can coexist with rejection in the present.",
+          "shortened": [
+            "Now they run from a hundred thousand leagues to visit that Threshold and raise an uproar in that desert crying \"Here I am!\" But on the day of His appearance they were deniers and antagonists. Now the people of Mecca take pride in being neighbors."
+          ]
         },
         {
           "key": "source:AB02821",
@@ -810,7 +956,10 @@
         },
         {
           "key": "source:BB00077",
-          "why": "Keep another pilgrimage setting distinct from the Hajj."
+          "why": "Keep another pilgrimage setting distinct from the Hajj.",
+          "shortened": [
+            "And if thou desirest the land of Najaf, then dry thyself in the fire of that hallowed land like unto a reed nurtured by the sun of heaven. When thou art purified from all allusions, then wash thy face with the water of Manifestation and thy body with the water of the sea. Then clothe thy inner self with the garments of the Gate upon the mystery of dust, and outwardly don the cleanest and purest raiment thou canst find. Then use whatever pure perfume thou art able, for this is the sign of the pure ones."
+          ]
         }
       ],
       "questions": [
@@ -849,7 +998,7 @@
       "id": "C3C780B59A3CE6204AC35349FEC37394",
       "slug": "babisprayer",
       "displayTitle": "Prayers for the people of the Bayán",
-      "introduction": "Rain, gifts, divine names, and protection gather a community into prayer. These five readings begin with the Báb’s plea for assistance and widen toward believers across the reach of His revelation; Bahá’u’lláh’s prayer for the people of the Bayán then gives that concern a tender expression amid danger and darkness. Ephesians offers a companion prayer for inward strength and a life rooted in love [1]. Read beside counsels given during persecution and the responsibilities of those who teach, the collection draws attention to what a community asks for when it cannot secure its future by its own power. Its expansive language invites reflection on remembrance that reaches beyond the people immediately before us.",
+      "introduction": "Prayer for a community begins where planning ends. The Báb asks God to pour upon the people of the Bayán a torrential rain of triumph, aid and succor, to send hosts of victory upon the letters of His Name, and to bless the Divine Point, the Letters of the Living, and every soul who has believed, from the first whom God has witnessed to the last. One prayer heaps divine name upon divine name, Glory, Beauty, Wisdom, Bounty, Splendor, as if no single attribute could hold the breadth of its longing. Bahá’u’lláh later prays for that same people with great tenderness, in a season of danger and darkness. Paul’s prayer that a young church be strengthened inwardly and rooted in love offers a kindred voice [1]. Such remembrance stretches the heart beyond its own circle. It leads on toward the power of prayer itself, toward the da’irahs and haykals of the Báb, and toward the painful story of how many among the people of the Bayán would turn away from the One they had prayed to recognize.",
       "arc": "Enter through the image of sustaining rain, widen the circle of remembrance, and end with protection in dark times.",
       "order": [
         {
@@ -904,20 +1053,31 @@
       "id": "AAC65ADBDE024CAFA9F155EDDCCA0C1F",
       "slug": "preexistence",
       "displayTitle": "Pre-existence and the language of the eternal",
-      "introduction": "A life begins at a particular moment, yet the revelation it bears speaks beyond the measures of a lifetime. These passages explore that tension by distinguishing bodily existence, the rational soul, and the station of divine manifestation. Poetic images of a primal sea or dawning light stand beside explanations of the Word and later cautions about the inadequacy of human language. Jesus’ declaration concerning Abraham offers a comparison in which ordinary chronology meets a claim it cannot easily contain [1]. Beside the physical limitations of the Manifestations and the procession of the Word, this collection invites patient attention to the meaning of each term. Apparent differences in the use of soul or spirit should prompt closer reading rather than an assumption that every passage describes the same relation.",
+      "introduction": "A Manifestation of God is born on a particular day, in a body that will age and with a rational soul that, like every human soul, has a beginning. Yet ‘Abdu’l-Bahá names a third station, the Word of God and everlasting Grace, which has neither beginning nor end, and it is from that station that the Writings speak of pre-existence. Bahá’u’lláh praises a primal Sea, a primal Morn, a primal Sun; the Báb addresses one who believed in God before creation; a throne made by human hands becomes, once the King sits upon it, something the discerning recognise as older than the heavens. Yesterday, today, and tomorrow do not exist in the sun. When Jesus says that before Abraham was, He is, His hearers hear only an impossibility of chronology [1]. The images make understanding possible; literalising them, or assuming that soul and spirit always mean the same thing, misleads. Words, ‘Abdu’l-Bahá admits, are inadequate here. The inquiry continues into the Word sanctified from time and place, into the early self-awareness of the Manifestations, and into their station as a whole.",
       "arc": "Establish distinctions among stations, enter the poetic language, and end with the limits of our explanations.",
       "order": [
         {
           "key": "source:AB00345",
-          "why": "Begin with distinctions needed for the rest of the inquiry."
+          "why": "Begin with distinctions needed for the rest of the inquiry.",
+          "shortened": [
+            "The second station is that of the rational soul, which is the human reality. This also has a beginning, and the Manifestations of God share it in common with all humanity.",
+            "The third station is that of divine manifestation and heavenly splendour, which is the Word of God, the everlasting Grace, and the Holy Spirit. This station has neither beginning nor end; for firstness and lastness pertain to the contingent world and not to the world of God.",
+            "Now, the reality of prophethood, which is the Word of God and the state of perfect divine manifestation, has neither beginning nor end, but its radiance varies like that of the sun."
+          ]
         },
         {
           "key": "source:BH00047",
-          "why": "Hear pre-existence through a sequence of luminous images."
+          "why": "Hear pre-existence through a sequence of luminous images.",
+          "shortened": [
+            "2 And I praise and glorify that primal Sea which hath branched out from the ocean of the unseen Essence, and that primal Morn which hath broken forth upon the horizon of Singleness, and that primal Sun which hath risen in the heaven of everlasting splendour, and that primal Fire which was kindled from the Lamp of eternity within the Niche of oneness: He Who is called \"Ahmad\" in the kingdom of the exalted ones, and \"Muhammad\" amongst the concourse of the favoured ones, and \"Mahmud\" in the realm of the sincere; and in the hearts of the knowing, \"whichsoever ye call upon, most beauteous are His names.\""
+          ]
         },
         {
           "key": "source:BB00447",
-          "why": "Encounter the Báb’s language of a primordial Temple."
+          "why": "Encounter the Báb’s language of a primordial Temple.",
+          "shortened": [
+            "When thou didst believe in God before creation, God made thee in every Dispensation a Command from His presence."
+          ]
         },
         {
           "key": "source:AB01528",
@@ -925,7 +1085,10 @@
         },
         {
           "key": "source:BH00686",
-          "why": "Read the language of precedence over creation."
+          "why": "Read the language of precedence over creation.",
+          "shortened": [
+            "For example, consider the throne or seat or chair and their like - these are crafted by one of His creatures through the confirmations that descend upon them from the heaven of His grace and the clouds of His bounty. He takes His seat upon them, though before His sitting none recognize them, seeing them merely as the work of their hands. But after He takes His seat upon them, all relations are severed from them - they become the Throne of the All-Merciful, around which circle the realities of all things created in the heavens and earth. Their recognition then depends upon the gaze of the observers and the insight of those endowed with luminous, radiant vision who bear witness that they were created before the creation of the heavens and earth, that they have ever been the Throne of the All-Merciful and will ever continue to be as they have been, having no relation, connection, direction or indication to anything else."
+          ]
         },
         {
           "key": "selection:8a21d0595938094415df1dce",
@@ -973,20 +1136,29 @@
       "id": "6DBDC002A7C1430CA4C3526C86651659",
       "slug": "rebellion",
       "displayTitle": "Reform, restraint, and the common good",
-      "introduction": "To promote the affairs of all is a demanding purpose for religious life. These readings set that constructive aim beside strong prohibitions on sedition, treachery, violence, and the seizure of property. Their concern extends from individual conduct to the trust through which a community can act together. A later passage also refuses the easy conclusion that institutional corruption makes all institutions dispensable. Paul’s counsel to answer injury without revenge offers a comparison focused on conduct toward an adversary [1]. Beside theft and secret societies, the collection asks how people can confront wrongs without reproducing them. Its historically situated commands and later institutional reflection invite inquiry into principled reform, accountable authority, and the habits that make cooperation possible.",
+      "introduction": "Bahá’u’lláh sets a large aim before every soul: not to become a source of sedition, but to labor for whatever makes the affairs of all who dwell on earth prosper. Against that aim He names what tears the common life apart: disorder in the land, the shedding of blood, the wrongful taking of another’s goods, and above all treachery, which He counts among the basest of conditions and which, He warns, returns upon the one who betrays. Even reform can turn corrupt once it has been won. Paul counseled the early Christians to overcome evil with good and to feed an enemy who hungers [1], and a kindred spirit runs through these teachings. Shoghi Effendi saw a generation so wounded by corrupt organizations that it rejected every institution, and answered that the remedy lies in safeguards, not in tearing down. Such a path leads inward to servitude and submission to God, to the repentance that rebuilds trust, and to a wiser understanding of obedience to rightful authority.",
       "arc": "Begin with the welfare of all, examine conduct that destroys trust, and end with the challenge of institutional reform.",
       "order": [
         {
           "key": "source:BH04228",
-          "why": "Open with a constructive purpose for public life."
+          "why": "Open with a constructive purpose for public life.",
+          "shortened": [
+            "It doth not beseem man to become a source of sedition; nay, rather, he should endeavor towards that which will cause the affairs of all that dwell on earth to prosper; thus hath the True One proclaimed, He, verily, is the Ever-Forgiving, the Compassionate."
+          ]
         },
         {
           "key": "source:BH00005",
-          "why": "Name violence, disorder, and violations of property."
+          "why": "Name violence, disorder, and violations of property.",
+          "shortened": [
+            "And yet again in another connection: \"O people! Spread not disorder in the land, and shed not the blood of any one, and consume not the substance of others wrongfully, neither follow every accursed prattler.\""
+          ]
         },
         {
           "key": "source:BH00871",
-          "why": "Consider the self-defeating character of treachery."
+          "why": "Consider the self-defeating character of treachery.",
+          "shortened": [
+            "The basest and most rejected of souls in the sight of God have been and will be the treacherous ones. He who betrayeth shall be betrayed and shall find no blessing even if all the wealth of the world should gather unto him. God will make it the portion of another."
+          ]
         },
         {
           "key": "source:BH06116",
@@ -994,7 +1166,10 @@
         },
         {
           "key": "source:BH08177",
-          "why": "Reflect on limits that protect a shared life."
+          "why": "Reflect on limits that protect a shared life.",
+          "shortened": [
+            "In any case, transgression of divine bounds has been and will be the cause of loss in this world and the next."
+          ]
         },
         {
           "key": "source:BB00113",
@@ -1002,7 +1177,10 @@
         },
         {
           "key": "selection:b2dc7381ac48387a45bbc3fa",
-          "why": "End by distinguishing institutional correction from institutional rejection."
+          "why": "End by distinguishing institutional correction from institutional rejection.",
+          "shortened": [
+            "How aptly, even after the lapse of half a century, Shoghi Effendi's views, as conveyed by his secretary, fit the contemporary scene: \"Our present generation, mainly due to the corruptions that have been identified with organizations, seem to stand against any institution. Religion as an institution is denounced. Government as an institution is denounced. Even marriage as an institution is denounced. We Baha'is should not be blinded by such prevalent notions. If such were the case, all the divine Manifestations would not have invariably appointed someone to succeed Them. Undoubtedly, corruptions did enter those institutions, but these corruptions were not due to the very nature of the institutions but to the lack of proper directions as to their powers and nature of their perpetuation. What Baha'u'llah has done is not to eliminate all institutions in the Cause but to provide the necessary safeguards that would eliminate corruptions that caused the fall of previous institutions."
+          ]
         }
       ],
       "questions": [
@@ -1040,7 +1218,7 @@
       "id": "0205C34A1561E7B0B0C576B17640B5A9",
       "slug": "secretsocieties",
       "displayTitle": "Spiritual depth without an inner circle",
-      "introduction": "An inner circle can promise deeper belonging while quietly making others peripheral. These readings question that promise through concerns about private interests, public mistrust, divided allegiance, and the claim that a few initiates possess a privileged religious life. They also distinguish restrictions on affiliation from a judgment that every outside organization lacks worthy aims. Jesus’ appeal to those who heard his public teaching supplies a comparison centered on openness and witness [1]. Read beside concealment under persecution and the responsibilities of institutions, the compilation invites a precise question: what makes a community spiritually deep without making it exclusive? Openness need not abolish legitimate privacy, but it asks whether access, responsibility, and trust are being shared fairly.",
+      "introduction": "An inner circle promises a deeper belonging, and the promise is the problem. ‘Abdu’l-Bahá warned that even a secret gathering founded by sincere souls would in time become a pretext for personal interests and a breach in the Cause, creating an outward and an inward religion as had happened in Islam. There is no secret doctrine, no select circle of initiates, in the Faith of Bahá’u’lláh. The whole Revelation is open to every believer, who is urged to drink from it freely, and that is where spiritual depth lies. The same openness governs affiliation: the Guardian asked Bahá’ís to withdraw from Masonic and similar societies so as to serve as a united body with undivided allegiance, while acknowledging that such orders have held high ideals. Questioned about His teaching, Jesus pointed to the places where He had spoken openly and to the people who heard Him [1]. Openness still leaves room for legitimate privacy; what it asks is whether access and trust are shared fairly. From here the road leads to pride and vanity, and to the claim of inner knowledge that an inner circle so often conceals.",
       "arc": "Start with the temptation of an inner club, examine trust and affiliation, and preserve the distinction between independence and hostility.",
       "order": [
         {
@@ -1049,7 +1227,10 @@
         },
         {
           "key": "source:AB00731",
-          "why": "Consider how secret meetings can generate public suspicion."
+          "why": "Consider how secret meetings can generate public suspicion.",
+          "shortened": [
+            "Yet after this manner, they have an agenda in Tehran and have formed a meeting to keep secrets, with each member forming their own secret meeting, continuing in succession. This will cause the government to suspect they have established a secret government, leading to great corruption."
+          ]
         },
         {
           "key": "source:AB02279",
@@ -1057,7 +1238,10 @@
         },
         {
           "key": "selection:b27db62ba7edc144f26a7cf7",
-          "why": "Distinguish spiritual depth from an initiated elite."
+          "why": "Distinguish spiritual depth from an initiated elite.",
+          "shortened": [
+            "The message of Baha'u'llah is for all human beings and none of it is for a select circle of initiates. On the other hand, if one is thinking of spiritual truth, the whole Revelation is replete with it and every believer is encouraged, indeed urged, to drink his fill of that water of life."
+          ]
         },
         {
           "key": "selection:1be4e48f84fde63ae49d8e59",
@@ -1116,12 +1300,15 @@
       "id": "ACE872F0F216E74E3C232830B6081C4F",
       "slug": "theft",
       "displayTitle": "Property, restraint, and the claims of others",
-      "introduction": "Another person’s goods do not become ours because we disapprove of their beliefs. This uncompromising point opens a collection in which poverty, religious enmity, repentance, and law all meet the claim of a neighbor. The passages refuse attempts to turn sacred commitment into permission for taking what belongs to someone else; they also place wrongdoing within a moral horizon that includes correction and return. Ephesians moves from the prohibition of theft toward work that enables a person to give, offering a comparison that widens the question from restraint to contribution [1]. Beside rebellion and degrees in society, this subject asks how a shared life depends on protecting people’s claims even when sympathy, wealth, or power is distributed unequally.",
+      "introduction": "A hungry person with a neighbor’s goods within reach faces a test that no argument can settle. Bahá’u’lláh describes those who dwell within the tabernacle of God as refusing, even when dying of hunger, to seize what belongs to another, however unworthy that neighbor may seem. He condemns those who cloaked plunder in religious language, claiming that the property of others was lawful for the faithful, and He disowns all who lay hands on what is not theirs unless they repent and return to God. His law is sober and firm, and He warns against letting compassion dissolve it, likening His statutes to a father’s schooling of a son for his own protection. Paul’s counsel that the thief should labor so as to have something to give carries the question one step further [1], from restraint toward generosity. Respect for another’s claim is finally a matter of character, and it leads naturally into honesty, truthfulness, and the trustworthiness without which no community can rest secure.",
       "arc": "Begin with the difficult case of an enemy’s property, reject religious exemptions, and consider law alongside repentance and restraint.",
       "order": [
         {
           "key": "source:BH02224",
-          "why": "Open with poverty and enmity as tests of restraint."
+          "why": "Open with poverty and enmity as tests of restraint.",
+          "shortened": [
+            "They who dwell within the tabernacle of God, and are established upon the seats of everlasting glory, will refuse, though they be dying of hunger, to stretch their hands and seize unlawfully the property of their neighbor, however vile and worthless he may be."
+          ]
         },
         {
           "key": "source:BH01105",
@@ -1129,11 +1316,17 @@
         },
         {
           "key": "source:BH00005",
-          "why": "Place permission and repentance within everyday dealings."
+          "why": "Place permission and repentance within everyday dealings.",
+          "shortened": [
+            "They that spread disorder in the land, and lay hands on the property of others, and enter a house without leave of its owner, We, verily, are clear of them, unless they repent and return unto God, the Ever-Forgiving, the Most Merciful.\""
+          ]
         },
         {
           "key": "source:BH00001",
-          "why": "Read the specific legal provision in its sacred text."
+          "why": "Read the specific legal provision in its sacred text.",
+          "shortened": [
+            "Exile and imprisonment are decreed for the thief, and, on the third offence, place ye a mark upon his brow so that, thus identified, he may not be accepted in the cities of God and His countries. Beware lest, through compassion, ye neglect to carry out the statutes of the religion of God; do that which hath been bidden you by Him Who is compassionate and merciful."
+          ]
         }
       ],
       "questions": [
@@ -1171,16 +1364,23 @@
       "id": "C0EDDD3E844E4114A8D00103258F7A8F",
       "slug": "uncompounded",
       "displayTitle": "The uncompounded reality",
-      "introduction": "How could a reality be described as all things without being a collection of parts? Bahá’u’lláh’s discussion makes this philosophical puzzle an inquiry into perfection, dependence, and the limits of speech about God. Other selections bring the Báb, Shaykh Aḥmad, Mullá Ṣadrá, and Greek philosophy into a conversation whose disagreements should remain audible. Aquinas’s argument for divine simplicity offers a comparison in which dependence on component parts is incompatible with the first cause [1]. Beside divine outpouring and the Word, these readings ask us to distinguish signs from Essence and relative simplicity from the absolute. The compilation also challenges a purely verbal mastery of the problem: an elegant explanation is still answerable to what it enables us to understand and become.",
+      "introduction": "The philosophers said that the simple reality is all things, and a questioner wanted to know how anything could be everything without being a heap of parts. Bahá’u’lláh’s answer turns a riddle into a lesson about perfection: the word things means the perfections of existence, and the word all means possession, so that a reality simple in every respect holds every perfection without limit, while never dissolving into the multitude it sustains. Those of penetrating sight see the signs of divine unity in all things, yet the Essence remains beyond ascent and descent, beyond names, the way to it barred. Around that answer gather other voices: Mullá Ṣadrá’s formula, Parmenides’ one that is both everything and nothing, the Báb and Shaykh Aḥmad refusing any tie between the Essence and creation. Aquinas reaches the same refusal of composition from the side of the first cause, which can depend on no parts [1]. The inquiry opens onto the divine attributes within every atom, the self-generation of the Primal Will, and the long debate over the unity of existence.",
       "arc": "Begin with the central puzzle, question merely verbal understanding, and work through the distinctions that preserve transcendence.",
       "order": [
         {
           "key": "source:BH00409",
-          "why": "Open with the meaning of all things without composition. Read a second translation alongside the opening treatment. Return to divine signs without identifying them with the Essence. End with the Primal Word and the limits of its description."
+          "why": "Open with the meaning of all things without composition. Read a second translation alongside the opening treatment. Return to divine signs without identifying them with the Essence. End with the Primal Word and the limits of its description.",
+          "shortened": [
+            "As to what the questioner asked concerning the saying of the philosophers that \"the Simple Reality is all things,\" say: Know that what is meant by \"things\" in this context is none other than existence and the perfections of existence insofar as it is existence, and by \"all\" is meant that which possesses and encompasses. This \"all\" admits of no part, nor is it opposed by any portion. In essence, since the Simple Reality is simple from all aspects, it possesses and encompasses all perfections that are without limit or end, as has been said: \"His creation has no bounded limit.\"",
+            "The philosopher did not mean that the Necessary Being dissolves into infinite existences - glorified, glorified be He above that! As the philosophers themselves have said: \"The Simple Reality is all things yet is not any of the things,\" and in another context: \"The lights of the Simple Reality are seen in all things.\" This depends on the vision of the beholder and the perspective of the observer. Those of penetrating sight behold in all things the signs of divine unity, for all things are and have ever been manifestations of the divine names, while the Truth has ever been and will ever be sanctified above ascent and descent, limitations, conjunction and connection."
+          ]
         },
         {
           "key": "source:BH01112",
-          "why": "Question understanding that bears no fruit."
+          "why": "Question understanding that bears no fruit.",
+          "shortened": [
+            "Some souls, in what they say, intend either sophistication or jest. How many souls in this Most Great Revelation have asked questions about wisdom and other abstruse matters, and answers descended and were revealed from the heaven of the favor of the Lord of all return. Yet no trace remained of those souls. For example, one of the philosophers asked about the Uncompounded Reality, and an answer was revealed from the Kingdom of Utterance according to his capacity, yet it yielded no fruit."
+          ]
         },
         {
           "key": "source:AB00062",
@@ -1196,27 +1396,48 @@
         },
         {
           "key": "selection:f7d26852fec53a7977277874",
-          "why": "Encounter the Báb’s challenge to claims about the Essence."
+          "why": "Encounter the Báb’s challenge to claims about the Essence.",
+          "shortened": [
+            "Most of the Islamic philosophers, the peripatetic philosophers, the followers of Mulla Sadra (as-Sadra'iyyin), and the Theosophical philosophers (al-ilahiyyin) have erred in their explanations of this station. The signs of the effulgences (tajalliyat) of creation were mistaken by them for the countenance of the Essence [of God].",
+            "All of this is absolute heresy (shirk mahd) in the estimation of the family of God, the Imams of justice, for God has always been the All-Knowing without the existence of anything having form and shape (? - shay'un bi-mithl ma inna-hu kana shayyar)."
+          ]
         },
         {
           "key": "selection:592db47f863369567b420632",
-          "why": "Follow distinctions among creative stages and causation."
+          "why": "Follow distinctions among creative stages and causation.",
+          "shortened": [
+            "God, verily, created the Will from nothing through itself, then He created through it all that to which the name \"thing\" can be applied. The cause of its existence, in truth, is its own self and naught else. Those who believe that the Essence is the cause of creation have made themselves partners with Him, as He cannot be known. He, verily, abideth in a state accessible only to Himself. Nothing is connected to Him, and in Him not a trace of the existence belonging to created things can be found. It is established in philosophy that cause and effect are alike. Therefore, the Imam hath declared: \"The cause of things is His fashioning, but He is not its cause.\""
+          ]
         },
         {
           "key": "selection:227cc35e2d515ba5934bedef",
-          "why": "Consider Shaykh Aḥmad’s criticism of a proposed unity."
+          "why": "Consider Shaykh Aḥmad’s criticism of a proposed unity.",
+          "shortened": [
+            "The notion of the unity of the thinker with the object of thought is based upon what was put forward by the author of the doctrine of the oneness of existence (wahdat al-wujud). He was obliged, for the sake of the correctness of this principle, to forget what it implied in corruption of belief and to cross over into unworthy speculations. God willing, we will explain the falsity of everything he depends upon and the repugnance of what he implies, such as the oneness of the agent and the patient, cause and effect, and so on...."
+          ]
         },
         {
           "key": "selection:838e9a18ad7c96d574fa7bc9",
-          "why": "Distinguish relative simplicity from absolute independence."
+          "why": "Distinguish relative simplicity from absolute independence.",
+          "shortened": [
+            "He [Sadra] has asserted that the Intellect is utterly uncompounded, as is applicable to the Creator, exalted be He. But whatever is created, without a doubt, is composed of two aspects, and aspect from its Lord, which is existence, or matter; and an aspect from itself, which is the quiddity, or form. This is because every contingent thing is a composite pair, and nothing other than God has an uncompounded nature. How then can it be said to be uncompounded?"
+          ]
         },
         {
           "key": "selection:1dbc6ee614372b14de4ec3f5",
-          "why": "Refuse the division or descent of the divine Essence."
+          "why": "Refuse the division or descent of the divine Essence.",
+          "shortened": [
+            "Concerning the doctrine of the True Indivisible Being (Basitu'l-Haqiqah), as mentioned by some philosophers as evidence for a common existence between the Absolute Being and utter nothingness: this is, undoubtedly and for many conclusive reasons, a false concept....",
+            "Thus, no recourse is there for one who claimeth the truth of the idea of the True Indivisible Being, except to assert one of two blatant errors: either the pre-existence of pluralities in the Essence of God, or the descent of the Essence into the rank of the dust. Both of these are impossible, nay, forbidden, inasmuch as there can never be any descent for the Essence of God, nor can any mention ever be uttered, other than of Him, at His level. He is God; all else are His creatures, and there can be no third between, or besides, them."
+          ]
         },
         {
           "key": "selection:bc9c4c95060da8294058edb3",
-          "why": "Consider two senses in which oneness may be spoken of."
+          "why": "Consider two senses in which oneness may be spoken of.",
+          "shortened": [
+            "Two stations can be observed in the Divine Unity: Existential Oneness (tawhid-i wujudi), and this is that [station] wherein they negate everything with a 'no' and affirm the Absolute Reality.",
+            "[The second station in Divine Unity,] Manifestational Oneness (tawhid-i shuhudi), is that [station] where the signs of the Primal Divine Unity (ahadiyah), the manifestations of Eternity, and the effulgences of the light of Singleness can be observed in all things. Thus it is that in the divine book it is revealed: 'We shall show them Our signs on the horizons and in themselves.' In this station the effulgences of the signs of the uncompounded reality can be observed and are apparent in all things. The meaning of the philosopher was not that the Absolute Reality is dispersed into the innumerable existent things. Exalted, exalted is It from being dispersed in anything or being limited by any boundary or being associated with anything in creation."
+          ]
         }
       ],
       "questions": [
@@ -1255,7 +1476,7 @@
       "id": "DB38CEAE0E40EAE9C4AAFC8ADE5D2C13",
       "slug": "carmel",
       "displayTitle": "Mount Carmel: landscape and recognition",
-      "introduction": "A mountain can hold air, flowers, memory, expectation, and the traces of a prisoner’s tent. These readings approach Carmel first as a place of beauty and peace, then as a landscape transformed by Bahá’u’lláh’s presence and by hopes attached to sacred history. Recollections of encounter and missed encounter complicate the assumption that living near a holy place brings understanding of it. The biblical scene of Elijah waiting on Carmel for a sign of rain offers another way to consider a landscape shaped by prayer and expectation [1]. Beside pilgrimage and the Síyáh-Chál, this compilation follows a striking movement from confinement toward open space, while asking what makes a place spiritually significant to those who inhabit, visit, or remember it.",
+      "introduction": "The air of Carmel, ‘Abdu’l-Bahá said, was the most wholesome he had ever breathed, and he had breathed the air of many places. The mountain enters the Bahá’í story first as beauty and quiet, a white mantle of peace above the bay, and then as the place where a prisoner pitched His tent in glory. Bahá’u’lláh, confined for years within the walls of ‘Akká, came at last through the city gate and up these slopes, and the spots where His tent stood were remembered and later purchased with care. Prophets had prayed in this wilderness before Him; Elijah waited here while his servant looked again and again toward the sea for the small cloud that promised rain [1]. Yet Carmel also keeps a harder memory: German settlers who wrote over their doors that the Beloved would soon come, monks who would not receive a message, neighbours who lived beside the fulfilment of their hopes and did not see it. From the mountain the journey leads back to Bahá’u’lláh’s banishment and life in ‘Akká, forward to the future foretold for Haifa, and into the long conversation between prophecy and its fulfilment.",
       "arc": "Enter through the landscape, trace the presence of Bahá’u’lláh, and consider the difference between proximity and recognition.",
       "order": [
         {
@@ -1264,11 +1485,17 @@
         },
         {
           "key": "source:ABU1430",
-          "why": "Let the image of peace establish a contemplative setting."
+          "why": "Let the image of peace establish a contemplative setting.",
+          "shortened": [
+            "Mount Carmel is enveloped with the white mantle of spirituality. Its atmosphere is permeated with an indescribable peace and tranquility."
+          ]
         },
         {
           "key": "source:AB00002",
-          "why": "Locate Bahá’u’lláh’s tent among remembered places."
+          "why": "Locate Bahá’u’lláh’s tent among remembered places.",
+          "shortened": [
+            "Some of the time Baha'u'llah would spend at the Mansion, and again, at the farm village of Mazra'ih; for a while He would sojourn in Haifa, and occasionally His tent would be pitched on the heights of Mount Carmel."
+          ]
         },
         {
           "key": "source:ABU3124",
@@ -1288,7 +1515,10 @@
         },
         {
           "key": "source:ABU1810",
-          "why": "Hear the landscape interpreted through prophetic expectation."
+          "why": "Hear the landscape interpreted through prophetic expectation.",
+          "shortened": [
+            "The pavilion of the Lord will be pitched on the mountain and this was fulfilled. The pavilion of the Blessed Beauty was often pitched on Mount Carmel and the plain and hills around Acca while he was a prisoner."
+          ]
         },
         {
           "key": "source:ABU2271",
@@ -1300,7 +1530,11 @@
         },
         {
           "key": "source:ABU3681",
-          "why": "Ask how expectation can coexist with missed recognition."
+          "why": "Ask how expectation can coexist with missed recognition.",
+          "shortened": [
+            "Yesterday the Master looked at Mount Carmel and said:",
+            "\"How many prophets longed to be here in these days of God. Many Germans left their homeland and settled here on this mountain, where they awaited the arrival of the One promised in the Holy Bible. They wrote over their doors that the Beloved would soon come.  Despite all these actions and expectations, they had no success; but the dear friends in Germany, who did not leave their homeland and did not write such things over their doors, found their Beloved."
+          ]
         },
         {
           "key": "source:ABU3486",
@@ -1320,7 +1554,10 @@
         },
         {
           "key": "source:BH00165",
-          "why": "End with the tension between natural praise and human affliction."
+          "why": "End with the tension between natural praise and human affliction.",
+          "shortened": [
+            "For some time the Seat of the Throne was in the land of Haifa, and in most times the voice of nature was raised. We said: What aileth thee, O Nature, that We hear thy cries in the nights, thy lamentations in the days, and thy moaning at dawn? Thereupon she raised her voice, crying out and saying: O Sovereign of existence! The idolaters have sunk Thy crimson ark and have hamstrung Thy white She-camel, and they desire to extinguish Thy light. Therefore have my cries and the cries of all things been raised, and my lamentations and the lamentations of those in earth and heaven."
+          ]
         }
       ],
       "questions": [
@@ -1359,7 +1596,7 @@
       "id": "2C48E4DA524C42328C7C0ADBBA685C0E",
       "slug": "matterendures",
       "displayTitle": "Transformation and the persistence of matter",
-      "introduction": "An alloy comes apart, a body returns to dust, and the constituents of a flower enter new forms. Such images make a philosophical claim about change tangible: dissolution need not mean reduction to absolute nothingness. The selections then extend that claim toward interdependence and the circulation of existence. Their terms for atoms, elements, and simplicity belong to differing historical discussions and should not be silently equated with present scientific definitions; the collection itself includes qualifications about what counts as simple. Lucretius’s account of enduring substance provides a comparison that reaches a similar question from a different philosophical outlook [1]. Beside uncompounded reality and physical limitation, these readings ask what persists through change and how the answer shapes our understanding of unity.",
+      "introduction": "Melt an alloy apart and each metal returns to its own nature; let a body decay and it becomes dust, which is still something. ‘Abdu’l-Bahá builds from such ordinary observations to a claim about existence itself: composition is life and decomposition is death, but the elements are never annihilated, only transformed, and absolute nothingness is not a place anything goes. The constituents of a flower, of food, of a human frame circulate endlessly through the mineral, vegetable and animal kingdoms, and within every being lie the mysteries of all beings. Lucretius, arguing that nothing comes from nothing or returns to it, reaches a similar conclusion from a very different outlook, with no God or spirit in view [1]. The words atom, element and simple here belong to older discussions than the laboratory’s, and ‘Abdu’l-Bahá Himself allows that what we have called simple may yet prove decomposable. What survives the dissolution of a form is the question that leads toward existence and nonexistence, toward substance and form, toward the soul’s immortality, and toward that uncompounded reality which alone is beyond change.",
       "arc": "Begin with familiar transformations, examine the claim of persistence, and end with qualifications about the meaning of a simple element.",
       "order": [
         {
@@ -1400,7 +1637,10 @@
         },
         {
           "key": "source:ABU0441",
-          "why": "Read a reported account of atoms and energy historically."
+          "why": "Read a reported account of atoms and energy historically.",
+          "shortened": [
+            "Not one atom is annihilated nor the storehouse of energy is ever exhausted in the production of such multitudes of beings."
+          ]
         },
         {
           "key": "source:AB01624",
@@ -1408,7 +1648,10 @@
         },
         {
           "key": "source:ABU0151",
-          "why": "Widen the view to the circulation of elements."
+          "why": "Widen the view to the circulation of elements.",
+          "shortened": [
+            "Thus for beings there is never annihilation -- there is only transfer from one rank to another. For example, when man dies his elements are not annihilated; those single elements transfer to another rank. Thus there is no annihilation for existence -- existence is ever-living. Everything is alive, living, existent. The ultimate truth is that it transfers from one station to another, and until beings circulate through all ranks, perfection is not attained."
+          ]
         },
         {
           "key": "source:ABU1774",
@@ -1420,7 +1663,10 @@
         },
         {
           "key": "source:ABU0184",
-          "why": "Hear another report concerning bodily dissolution."
+          "why": "Hear another report concerning bodily dissolution.",
+          "shortened": [
+            "Know, therefore, that death does not pertain to existence. At most, there is transition from one state to another, for the soul of man is not composed; it is not a formation of elements subject to dissolution. If it was composed, we would have to consider it mortal."
+          ]
         },
         {
           "key": "selection:8ae9d57a28b0b301cd74ed8d",
@@ -1471,12 +1717,15 @@
       "id": "0620D9E3C183E6CF5D3FD17DD58C9ABC",
       "slug": "teachers",
       "displayTitle": "Those who awaken understanding",
-      "introduction": "Gratitude to a teacher begins with the recognition that another person helped us see. These passages unfold that help through images of physicians, lamps, stars, water, and life-giving breath, while asking that the honor of teaching be joined to service rather than personal fame. Practical support, steadfast effort, and the influence of conduct stand beside the exalted language of spiritual station. Paul’s picture of one person planting and another watering, with growth belonging to God, offers a comparison that places the worker within a larger process [1]. Beside degrees in society and the demands of service, the compilation asks how a community can value those who teach without allowing recognition to become superiority, or words to replace the patient work of assistance.",
+      "introduction": "Somewhere in most believing lives there is a person who caused us to hear, and ‘Abdu’l-Bahá tells a new believer to be deeply thankful to her: the one through whom she attained eternal grace. Gratitude of that kind is the doorway into the station of teachers of the Cause, which the Writings describe in images that keep multiplying: physicians of the world’s sick body, stars of the heaven of understanding, living waters, lamps of guidance, Israfils who blow the breath of life into the dead. It was remembered of Bahá’u’lláh that whenever He wished to show someone special favour, He urged them to go out and teach. Yet the honour is tied to service and never to a name, and the same tablets that exalt the teacher insist on practical things: a monthly allowance, respect, conduct toward one’s neighbour that makes the words believable. Paul’s picture of one person planting, another watering, and God alone giving the growth sets the teacher inside a process larger than any worker [1]. The road continues toward the call to teach, the confirmations promised to those who answer it, and the high station of the true believer.",
       "arc": "Begin with gratitude for a person who helped, explore the responsibilities of teaching, and end with the union of words and deeds.",
       "order": [
         {
           "key": "source:AB05116",
-          "why": "Begin with gratitude to one who opened a path."
+          "why": "Begin with gratitude to one who opened a path.",
+          "shortened": [
+            "Be thou deeply thankful to thy teacher and show unto her heartfelt and spiritual gratitude, because it was she who caused thee to hear the divine call and it was through her that thou didst attain to eternal grace."
+          ]
         },
         {
           "key": "source:ABU2834",
@@ -1484,11 +1733,18 @@
         },
         {
           "key": "source:ABU1408",
-          "why": "Explore the responsibilities of a spiritual physician."
+          "why": "Explore the responsibilities of a spiritual physician.",
+          "shortened": [
+            "Wherever thou goest, announce the wonderful Baha'i greeting to the teachers of the Cause, and tell them on my behalf:",
+            "\"The responsibility of the steady progress of the Cause depends upon you! You are the physicians of the sick body of the world of humanity!"
+          ]
         },
         {
           "key": "source:ABU1643",
-          "why": "Separate service from the pursuit of a name."
+          "why": "Separate service from the pursuit of a name.",
+          "shortened": [
+            "Not it is evident that that one single person was a greater man than a million of the present day Ulemas. For he worked for God and not for fame or name or wealth."
+          ]
         },
         {
           "key": "source:AB11037",
@@ -1500,39 +1756,66 @@
         },
         {
           "key": "source:BH02699",
-          "why": "Hear the images of stars and sustaining water."
+          "why": "Hear the images of stars and sustaining water.",
+          "shortened": [
+            "O friends! Know ye your worth and station. Waste not your endeavors on the idle fancies of this one and that. Ye are the stars of the heaven of understanding and the breezes of the morn. Ye are the living waters upon which dependeth the life of all, and ye are the letters of the Book."
+          ]
         },
         {
           "key": "source:ABU2029",
-          "why": "Let the lamp image clarify a teacher’s influence."
+          "why": "Let the lamp image clarify a teacher’s influence.",
+          "shortened": [
+            "Such teachers will constitute illumined lamps of guidance, the stars of the heaven of mercy, trees of the orchard of Abha, flowers of the garden of mystery and torches of the path of salvation."
+          ]
         },
         {
           "key": "source:AB00802",
-          "why": "Consider the joy attached to this service."
+          "why": "Consider the joy attached to this service.",
+          "shortened": [
+            "O thou dear handmaid of God! If only thou couldst know what a high station is destined for those souls who are severed from the world, are powerfully attracted to the Faith, and are teaching, under the sheltering shadow of Baha'u'llah! How thou wouldst rejoice, how thou wouldst, in exultation and rapture, spread thy wings and soar heavenward -- for being a follower of such a way, and a traveller toward such a Kingdom."
+          ]
         },
         {
           "key": "source:BH10162",
-          "why": "Celebrate the willingness to arise."
+          "why": "Celebrate the willingness to arise.",
+          "shortened": [
+            "Happy is the man that attaineth thereunto, and hath arisen to teach the Cause of Him Who is the King of Eternity."
+          ]
         },
         {
           "key": "source:BH07870",
-          "why": "Ask how assistance reaches those who act."
+          "why": "Ask how assistance reaches those who act.",
+          "shortened": [
+            "Whosoever teacheth, verily the Spirit will aid him at all times. Thus hast thou been commanded from the presence of One knowing, wise."
+          ]
         },
         {
           "key": "source:AB04338",
-          "why": "Encounter the image of life-giving breath."
+          "why": "Encounter the image of life-giving breath.",
+          "shortened": [
+            "No righteous deed is greater in the sight of the Forgiving Lord than the diffusion of divine fragrances throughout all regions and territories, for these souls are embodied Israfils who breathe the breath of life into souls. They bring the dead to life and make faces radiant. They make the deprived ones confidants of mysteries and grant the destitute a portion and share of the greatest gift."
+          ]
         },
         {
           "key": "source:AB07812",
-          "why": "Consider the exalted station attributed to guidance."
+          "why": "Consider the exalted station attributed to guidance.",
+          "shortened": [
+            "Thou, verily, gird up thy loins to guide God's servants who are illumined by the shining lights from the horizon of Divine Guidance and who gain abundantly from the outpouring clouds of God's grace. By the righteousness of God! Shouldst thou be graciously aided to achieve this, it would be greater than every station that could be imagined in all creation."
+          ]
         },
         {
           "key": "source:AB09455",
-          "why": "Distinguish effective service from formal learning alone."
+          "why": "Distinguish effective service from formal learning alone.",
+          "shortened": [
+            "How many philosophers and professors there are and yet God hath set the crown of faith upon thine head, that thou mayest cry out and proclaim the Abha Kingdom in that city and become the cause of guiding the people."
+          ]
         },
         {
           "key": "source:ABU1951",
-          "why": "Reflect on the memory left by teachers."
+          "why": "Reflect on the memory left by teachers.",
+          "shortened": [
+            "Your station is great. Your names will go down through all the ages. Kings and Queens have never been talked of and remembered as you will be. You are workers in the Kingdom of ABHA and I am very happy and love you very much.\""
+          ]
         },
         {
           "key": "source:BH02230",
@@ -1544,11 +1827,19 @@
         },
         {
           "key": "source:ABU0331",
-          "why": "Add a recollection of encouragement from Bahá’u’lláh."
+          "why": "Add a recollection of encouragement from Bahá’u’lláh.",
+          "shortened": [
+            "Whenever during his lifetime, the Blessed Perfection desired to signalize anyone with His special Favor, He encouraged him to go forth and teach the Cause of God.",
+            "He used to say that the Teachers are the Israfels of God, who with the sound of their trumpets blow the Spirit of Life into the dead bodies of mankind."
+          ]
         },
         {
           "key": "selection:0cc4e3539a09236775f07a45",
-          "why": "End with a broad gathering of counsels on words, deeds, and support."
+          "why": "End with a broad gathering of counsels on words, deeds, and support.",
+          "shortened": [
+            "\"Say: O servants! The triumph of this Cause hath depended, and will continue to depend, upon the appearance of holy souls, upon the showing forth of goodly deeds, and the revelation of words of consummate wisdom.\"",
+            "\"Let your principal concern be to rescue the fallen from the slough of impending extinction, and to help him embrace the ancient Faith of God. Your behavior towards your neighbor should be such as to manifest clearly the signs of the one true God, for ye are the first among men to be re-created by His Spirit, the first to adore and bow the knee before Him, the first to circle round His throne of glory.\""
+          ]
         }
       ],
       "questions": [
@@ -1587,7 +1878,7 @@
       "id": "DDA2B50C1774485DAFFBA307BEC98470",
       "slug": "degrees",
       "displayTitle": "Different functions and equal human regard",
-      "introduction": "A community needs differing capacities and functions, yet no person’s station makes exploitation acceptable. These readings explore that tension through the body, an army, public offices, and differences of capacity. Their analogies can illuminate cooperation, but they also invite scrutiny: an image drawn from hierarchy does not by itself settle every question about a just social order. Paul’s account of the body gives special attention to members thought weaker or less honorable, offering a comparison that directs difference toward mutual care [1]. Beside teaching and the protection of property, the collection’s most searching test is the well-being of every member. Its language of degrees must be read with its insistence on rights, provision, sharing, and the refusal of personal superiority.",
+      "introduction": "No society runs on identical people. ‘Abdu’l-Bahá says so plainly: a body needs the eye and the hand alike, an army needs its generals and its infantry, and the order of the world cannot rest on the dream of absolute sameness. Yet the image turns at once toward a harder demand. Every rank is to perform its duties, rights are to be equal, and all are servants of one kind God, so that the true measure of any arrangement is whether each member, from the highest to the lowest, lives in comfort and welfare. Paul’s picture of the body, where the parts thought weaker receive the greater honor, sharpens the same point [1]. Difference exists for mutual care, never as a license for exploitation or a claim to personal superiority. To take this seriously is to look again at how labor and management might share their fruits, how profit might be divided with justice, and how real differences in human capacity can be woven into an order in which no one is forgotten.",
       "arc": "Begin with rights and differentiated service, examine the social analogies, and end with sharing and the prohibition of superiority.",
       "order": [
         {
@@ -1596,7 +1887,10 @@
         },
         {
           "key": "source:AB00398",
-          "why": "Consider both the usefulness and limits of the body analogy."
+          "why": "Consider both the usefulness and limits of the body analogy.",
+          "shortened": [
+            "And further, although the degrees of being are various, yet all are good. Observe the human body, its limbs, its members, the eye, the ear, the organs of smell, of taste, the hands, the fingernails. Notwithstanding the differences among all these parts, each one within the limitations of its own being participateth in a coherent whole. If one of them faileth it must be healed, and should no remedy avail, that part must be removed."
+          ]
         },
         {
           "key": "source:AB00117",
@@ -1616,7 +1910,10 @@
         },
         {
           "key": "source:ABU1216",
-          "why": "Apply the test across different ranks."
+          "why": "Apply the test across different ranks.",
+          "shortened": [
+            "\"Notwithstanding this, it does not mean that all are equal. It cannot be so. For this reason, the prominent ones, the rich and the poor, will all be at ease. The people of the world are like an army. It has a general, officers and privates. It cannot be possible for all to be privates or all to be officers. Each of these ranks is necessary."
+          ]
         },
         {
           "key": "source:ABU3102",
@@ -1624,7 +1921,10 @@
         },
         {
           "key": "source:ABU0507",
-          "why": "Ask what injustice does to appropriate recognition."
+          "why": "Ask what injustice does to appropriate recognition.",
+          "shortened": [
+            "Consider the material kingdoms--can all subjects of kings be of the same station? No! Some must be grand viziers, others generals, captains, soldiers. There must be many classes. Is this injustice? Each is honored in his own place. Oppression only is shown when He gives what is not due."
+          ]
         },
         {
           "key": "source:ABU2886",
@@ -1640,11 +1940,17 @@
         },
         {
           "key": "source:ABU0830",
-          "why": "Preserve distinctions in the analogy of ministries."
+          "why": "Preserve distinctions in the analogy of ministries.",
+          "shortened": [
+            "For example, in a government administration today there are many officials. One is a minister, another a commander, another a secretary. All benefit from the sovereign's favors, but each according to his rank and station. In one country there cannot be ten ministers of foreign affairs or ten ministers of the interior. Affairs would become disordered. Likewise in God's system, He hath chosen the Prophets from among humanity to guide mankind; they are distinguished above all others."
+          ]
         },
         {
           "key": "source:ABU0277",
-          "why": "Consider dependence on varied forms of labor."
+          "why": "Consider dependence on varied forms of labor.",
+          "shortened": [
+            "But it is impossible for all to become equal. If there were no workers, no master craftsmen, and all were wealthy, the affairs and order of the world would be suspended. No one would do masonry or carpentry or butchery anymore."
+          ]
         },
         {
           "key": "source:ABU1663",
@@ -1699,24 +2005,37 @@
       "id": "12119CC76EF849FF97AEEF4858C87628",
       "slug": "physicallimits",
       "displayTitle": "Holy lives and human limitations",
-      "introduction": "Hunger, fatigue, sorrow, and the need for rest can make a holy life seem unexpectedly near. They can also become obstacles to recognition when people expect spiritual authority to cancel ordinary human needs. These readings distinguish the bodily, human, and revelatory stations of the Manifestations, while recollections show how those distinctions were encountered in lived experience. Hebrews connects Christ’s high station with his capacity to sympathize with human weakness, offering a comparison that preserves both nearness and difference [1]. Beside pre-existence and comfort, the collection asks how spiritual perception changes our response to limitation. Its closing counsel turns the inquiry inward: the remembered weariness of the Prophets can teach patience with our own imperfect capacities.",
+      "introduction": "Jesus ate and slept, grew tired, fell sick and was taken captive, and so, ‘Abdu’l-Bahá observes, the people around him could not believe that one who needed bread was the manifestation of opulence. Bahá’u’lláh describes the same stumbling block: the immortal Beauty appears in the image of mortal man, with poverty and riches, sleeping and waking, and the very familiarity casts doubt. The way through is to distinguish stations, the corporeal, the rational soul and the divine manifestation, without pretending that bodily weariness or sorrow was unreal; the flesh of Christ was sorrowful and heavy, and Bahá’u’lláh in his last years hardly ate. The Letter to the Hebrews holds the same two truths together, an exalted high priest who can sympathise with our weakness [1]. Even the dust of the Prophets is ordinary dust, precious only through its association with a great spiritual power. The inquiry leads on to the Manifestation’s inability to comprehend God, to the lack of formal education that accompanies a special knowledge, and finally back to ourselves: if even the Prophets sometimes grew tired and cried out, we may be patient with our own poor selves.",
       "arc": "Start with familiar bodily needs, distinguish stations, and return from theological explanation to patience and compassion.",
       "order": [
         {
           "key": "source:ABU0076",
-          "why": "Begin with hunger and fatigue as obstacles to recognition."
+          "why": "Begin with hunger and fatigue as obstacles to recognition.",
+          "shortened": [
+            "For instance, the people noticed that Jesus Christ was the same as all other men as regards eating, drinking, sleeping, sickness, fatigue, clothing and lodging. They said he was one like themselves and did not understand how he could be the Son of God. As he was a human being, a natural man, the people wondered how he could claim to be a heavenly man."
+          ]
         },
         {
           "key": "source:BH00002",
-          "why": "Consider how familiarity can veil a new claim. Examine the objection raised by mortality. Hear the language of servitude and self-effacement."
+          "why": "Consider how familiarity can veil a new claim. Examine the objection raised by mortality. Hear the language of servitude and self-effacement.",
+          "shortened": [
+            "In another sense, they mean the appearance of that immortal Beauty in the image of mortal man, with such human limitations as eating and drinking, poverty and riches, glory and abasement, sleeping and waking, and such other things as cast doubt in the minds of men, and cause them to turn away.",
+            "Viewed in the light of their second station -- the station of distinction, differentiation, temporal limitations, characteristics and standards -- they manifest absolute servitude, utter destitution and complete self-effacement."
+          ]
         },
         {
           "key": "source:ABU1656",
-          "why": "Read the body through the image of a lantern."
+          "why": "Read the body through the image of a lantern.",
+          "shortened": [
+            "Those who looked at the material body of Christ and saw Him enduring all the hardships and trials, marveled that he was the Messiah because he was in this condition."
+          ]
         },
         {
           "key": "source:AB00747",
-          "why": "Establish the distinctions among stations."
+          "why": "Establish the distinctions among stations.",
+          "shortened": [
+            "The holy Manifestations have three stations: the corporeal station, the station of the rational soul, and the station of perfect divine manifestation and heavenly splendour. Their bodies perceive things only according to the capacity of the material world; and so it is that they have at certain times expressed physical weakness. For example: \"I was asleep and unconscious; the breeze of God wafted over Me, awoke Me, and summoned Me to voice His call\"; or when Christ was baptized in His thirtieth year and the Holy Spirit descended upon Him, having not manifested itself in Him before this time."
+          ]
         },
         {
           "key": "source:ABU1649",
@@ -1728,15 +2047,25 @@
         },
         {
           "key": "source:ABU1363",
-          "why": "Distinguish bodily sorrow from spiritual reality."
+          "why": "Distinguish bodily sorrow from spiritual reality.",
+          "shortened": [
+            "I said: The answer to your question is very simple and given in a few words: The body or the flesh was 'sorrowful and very heavy' (Math chap 26th v. 37) because it loathed to be separated from the companionship of such a divine, celestial Spirit and be returned to clay and dust. This was the secret of its weakness, sorrow and heaviness."
+          ]
         },
         {
           "key": "source:BH00958",
-          "why": "Separate spiritual sovereignty from earthly dominion."
+          "why": "Separate spiritual sovereignty from earthly dominion.",
+          "shortened": [
+            "That the Manifestations of Divine justice, the Daysprings of heavenly grace, have when they appeared amongst men always been destitute of all earthly dominion and shorn of the means of worldly ascendancy should be attributed to this same principle of separation and distinction which animateth the Divine Purpose."
+          ]
         },
         {
           "key": "selection:992f1801901cb7cadd49e340",
-          "why": "Consider a scholar’s account of prophetic purpose."
+          "why": "Consider a scholar’s account of prophetic purpose.",
+          "shortened": [
+            "It is clear that the prophets and Manifestations of the Cause of God were sent to guide the nations, to improve their characters, and to bring the people nearer to their Source and ultimate Goal. They were not sent as historians, astronomers, philosophers, or natural scientists.",
+            "Therefore, the prophets have indulged the people in regard to their historical notions, folk stories, and scientific principles, and have spoken to them according to these. They conversed as was appropriate to their audience and hid certain realities behind the curtain of allusion."
+          ]
         },
         {
           "key": "selection:780ce28e18ac32ab1c9db803",
@@ -1789,12 +2118,15 @@
       "id": "191AFB3E5AAB4E3BB80BBCC24D349113",
       "slug": "wordprocession",
       "displayTitle": "The Word and the unfolding of meaning",
-      "introduction": "A key opens a heart; a sun ripens fruit; letters become an utterance through breath. These images make the creative Word more than a set of marks on a page. The selections follow meaning from divine gift to human understanding, while insisting that what discloses the divine does not contain or exhaust the divine Essence. John’s opening account of the Word, light, and becoming flesh gives a central comparative passage, whose Christian formulation can be read alongside the mirror imagery developed here [1]. Beside outpouring and pre-existence, the compilation invites a double attention: to the immense spiritual claim made through language, and to the receptivity through which that language becomes an influence in a human life.",
+      "introduction": "A key turns and a locked heart opens; a sun draws hidden fruit out onto the branches; scattered letters are breathed into a single utterance. These are the images by which Bahá’u’lláh and ‘Abdu’l-Bahá speak of the Word of God, the first bestowal of the Creator and the instructor in the school of existence, through which all things were brought into being. The subject carries a large claim and a careful boundary. The Word discloses God, yet the One disclosed remains beyond the reach of whatever He encompasses; a mirror turned to the sun shows the sun truly, and still the mirror is a mirror and the sun is one. John’s Gospel, with its account of the Word that was with God and became flesh and light [1], stands close to that mirror and deserves to be heard in its own formulation. There is a human side as well: why some hearers turn toward the Word and others away, and how an ear can be cleansed to receive it. The path continues into the Primal Will, the Word as the cause of creation, the ceaseless divine emanation and the bounty that reaches all things.",
       "arc": "Begin with the Word’s power to open understanding, follow images of its expression, and end with distinctions concerning its divine source.",
       "order": [
         {
           "key": "source:BH00140",
-          "why": "Open with the Word as a key to the heart."
+          "why": "Open with the Word as a key to the heart.",
+          "shortened": [
+            "The Great Being saith:  The Word is the master key for the whole world, inasmuch as through its potency the doors of the hearts of men, which in reality are the doors of heaven, are unlocked.  No sooner had but a glimmer of its effulgent splendour shone forth upon the mirror of love than the blessed word 'I am the Best-Beloved' was reflected therein."
+          ]
         },
         {
           "key": "source:BH00698",
@@ -1802,11 +2134,18 @@
         },
         {
           "key": "source:ABU0146",
-          "why": "Consider the sun’s gradual influence on fruit."
+          "why": "Consider the sun’s gradual influence on fruit.",
+          "shortened": [
+            "The fruit hidden in the tree appears upon its branches in response to the power of the sun; man and all other organisms live, move and have their being under its developing rays; nature is resplendent with countless evolutionary forms through its pervading impulse -- so that we can say a function of the sun is the revelation of the mysteries and creative purposes hidden within the phenomenal world.",
+            "The outer sun is a sign or symbol of the inner and ideal Sun of Truth, the Word of God."
+          ]
         },
         {
           "key": "source:BH03888",
-          "why": "Watch meaning become letters and an utterance."
+          "why": "Watch meaning become letters and an utterance.",
+          "shortened": [
+            "The Pen of Utterance, by the leave of the All-Merciful, sailed upon the ocean of meanings, and when by the will of the True Sovereign it emerged, several drops fell from it and appeared in the form of letters. Then a breeze from the repository of the All-Merciful Will passed over them, causing the disconnected letters to combine, and the word \"Verily I am God, there is no God but Him\" became manifest."
+          ]
         },
         {
           "key": "source:BH02311",
@@ -1826,11 +2165,17 @@
         },
         {
           "key": "source:BH05684",
-          "why": "Read the exalted Word beside the Mother Book."
+          "why": "Read the exalted Word beside the Mother Book.",
+          "shortened": [
+            "Cleave unto that which draweth you together and uniteth you. This, verily, is the most exalted Word which the Mother Book hath sent down and revealed unto you."
+          ]
         },
         {
           "key": "source:BH08938",
-          "why": "Ask why its reception differs among hearers."
+          "why": "Ask why its reception differs among hearers.",
+          "shortened": [
+            "When We manifested the Word from the horizon of Will, among the people were those who turned towards it and those who turned away and denied their Lord, the All-Merciful."
+          ]
         },
         {
           "key": "source:BH00568",
@@ -1838,7 +2183,11 @@
         },
         {
           "key": "source:BH04496",
-          "why": "Distinguish disclosure from containment of the divine Essence."
+          "why": "Distinguish disclosure from containment of the divine Essence.",
+          "shortened": [
+            "The realities of all things are contained in a Word that the Tongue of Grandeur uttered when He was established upon the Throne with a sovereignty that encompassed all the worlds. Verily that which is encompassed cannot know the Encompasser, and that which perceiveth cannot perceive Him Who is beyond perception.",
+            "Glorified be its Creator above being known through the knowledge of His creation or being described by attributes that were limited by human understanding. How can that which is originated reach the sea of eternity, or the evanescent attain unto Him through Whose command was the Kingdom of immortality created?"
+          ]
         },
         {
           "key": "source:ABU1942",
@@ -1846,15 +2195,25 @@
         },
         {
           "key": "source:AB00316",
-          "why": "Develop the analogy of the mirror and its perfections. Preserve the distinction between the sun and its reflection."
+          "why": "Develop the analogy of the mirror and its perfections. Preserve the distinction between the sun and its reflection.",
+          "shortened": [
+            "For by the Word is not meant the body of Christ but the divine perfections that were manifested in Him. Thus Christ was like a spotless mirror which was turned towards the Sun of Truth, and the perfections of that Sun, that is, its light and heat, were plainly manifest in that mirror. If we look into the mirror, we see the sun and we say it is the sun.",
+            "If a clear and spotless mirror were placed before the sun, the light and heat, the form and image of the sun would appear therein with such a manifestational appearance that if a beholder were to say, \"This is the sun,\" he would be speaking the truth. But the mirror is the mirror and the sun is the sun. The sun is but one sun, and remains one even if it appears in numerous mirrors."
+          ]
         },
         {
           "key": "source:ABU0017",
-          "why": "Hear a reported account of Logos and love."
+          "why": "Hear a reported account of Logos and love.",
+          "shortened": [
+            "The creative word of command of God, the logos, is not merely a spark out of God, but the logos is the life-breath of God. In the logos, in the life-breath of God, already all the possibilities of existence rest, all the forms of being of creation. Let Baha'u'llah Himself speak: \"The word of God, the logos, is God's highest, overflowing (emanating) love, kindness and the \"being\" in all that is and has been; that is,  goodness [kindness] and love, thought of as logos, are the resting pole in the transientness  [evanescence] of appearances."
+          ]
         },
         {
           "key": "source:ABU0343",
-          "why": "End with love as a creative principle in a further interpretation."
+          "why": "End with love as a creative principle in a further interpretation.",
+          "shortened": [
+            "But, while God does not create, the first principle of God, Love, is the creative principle. Love is an outpour from God, and is pure spirit. It is one aspect of the Logos, the Holy Spirit. It is the immediate cause of the laws which govern nature, the endless verities of nature which science has uncovered."
+          ]
         },
         {
           "key": "selection:5c4af92161f02bd4c9c9f5b3",
@@ -1899,7 +2258,7 @@
       "id": "1F941B251E10EA4F406FDD64819512C9",
       "slug": "siyahchal",
       "displayTitle": "The Síyáh-Chál: suffering and renewal",
-      "introduction": "A child descends toward his chained father and hears that he should not be brought into that place. This intimate recollection brings the suffering of the Síyáh-Chál into view before its larger religious meaning unfolds. Darkness, hunger, constraining chains, and a guard’s small kindness stand beside Bahá’u’lláh’s own account of the thoughts and revelation associated with His imprisonment. Acts offers a different prison narrative in which prayer and concern for a jailer interrupt a scene of violence [1]. Beside ‘Abdu’l-Bahá’s childhood and prayers for threatened believers, these readings ask how spiritual renewal can emerge amid cruelty without making cruelty necessary or good. Distinct recollections of persecution remain distinct; their details should not be combined into a chronology they do not establish.",
+      "introduction": "A small boy is carried down a dark stairway toward his chained father and hears a voice say that he should not be brought there. ‘Abdu’l-Bahá’s memory of the Síyáh-Chál places the body before the doctrine: the galling chains that bent a neck, stocks, foul air, two days without food, thumbs bound behind the back, a guard’s small act of kindness. Bahá’u’lláh’s own account then gives the pit its meaning. Day and night in that dungeon He pondered the conduct of the Bábís and resolved to regenerate them after His release; in a dream He heard the promise of victory through Himself and His Pen; and in rare moments of sleep something flowed from the crown of His head like a torrent from a mountain. In Acts, Paul and Silas pray in prison while the story turns to the jailer’s fear and his care for their wounds, a different narrative of suffering met by concern for others [1]. Renewal emerged here without making cruelty good. The road leads on to Bahá’u’lláh Himself, to ‘Abdu’l-Bahá’s early years, and to the early ministry that began in this darkness.",
       "arc": "Begin with a child’s encounter, attend to bodily suffering and small kindnesses, and approach Bahá’u’lláh’s own account of renewal.",
       "order": [
         {
@@ -1908,23 +2267,39 @@
         },
         {
           "key": "source:BHU0004",
-          "why": "Hear a direct recollection of the prison conditions."
+          "why": "Hear a direct recollection of the prison conditions.",
+          "shortened": [
+            "All those who were struck down by the storm that raged during that memorable year in Tihran were Our fellow-prisoners in the Siyah-Chal, where We were confined. We were all huddled together in one cell, our feet in stocks, and around our necks fastened the most galling of chains. The air we breathed was laden with the foulest impurities, while the floor on which we sat was covered with filth and infested with vermin. No ray of light was allowed to penetrate that pestilential dungeon or to warm its icy-coldness."
+          ]
         },
         {
           "key": "source:ABU0166",
-          "why": "See the chained rows of prisoners."
+          "why": "See the chained rows of prisoners.",
+          "shortened": [
+            "When Baha'u'llah was thrown into the dungeon, there were many other believers arrested and imprisoned at the same time. The Baha'is had arranged themselves in two rows, one opposite the other. Their feet were shackled, their hands manacled, their necks chained. The prison being an underground room, it was so pitch dark that they could not see each other's face."
+          ]
         },
         {
           "key": "source:ABU0221",
-          "why": "Attend to prolonged deprivation."
+          "why": "Attend to prolonged deprivation.",
+          "shortened": [
+            "They took the friends of God to that prison and would not allow them to shave their heads. There was no bath whatsoever, and their hair grew long. The point is to understand what an affliction it was that the Blessed Beauty endured for four months in that prison. At noon each day, they would take the prisoners outside for an hour, then bring them back down and lock the door."
+          ]
         },
         {
           "key": "source:BHU0022",
-          "why": "Notice the limited kindness a guard could offer."
+          "why": "Notice the limited kindness a guard could offer.",
+          "shortened": [
+            "[One day the Blessed Beauty was relating accounts of the Siyah-Chal prison, saying:]",
+            "\"The chain around My neck was most painful, but worse and more severe than that was when they would bind both thumbs together behind the back. The hardship of this was far more intense than the chain. The royal guards were watching over Us, but the executioners showed kindness, and one of them brought Me a cup of tea and a cluster of grapes. Since I was in chains and My hands were bound behind Me, I was unable to partake of them."
+          ]
         },
         {
           "key": "source:ABU0571",
-          "why": "Return to the child’s perspective in another account."
+          "why": "Return to the child’s perspective in another account.",
+          "shortened": [
+            "At the time when all the inhabitants of Teheran had arisen against this Cause and the Blessed Perfection was arrested and thrown into a prison I was a very young child. The jail wherein Baha'u'llah was imprisoned was a dark and gloomy cell, underground, and had no aperture, and no window save a small door."
+          ]
         },
         {
           "key": "source:ABU1887",
@@ -1932,11 +2307,18 @@
         },
         {
           "key": "source:BH04339",
-          "why": "Encounter hunger through a recollection of a coin."
+          "why": "Encounter hunger through a recollection of a coin.",
+          "shortened": [
+            "When this Wronged One was beneath chains and fetters in the Land of Ta, two days passed during which nothing touched His lips and He possessed not a single coin. At that time He was the Most Affluent of all the world - one whose wealth was attained from the utmost degree of poverty, and who was not saddened or ashamed by abasement and worldly disgrace in the path of the Lord of all being."
+          ]
         },
         {
           "key": "source:ABU0659",
-          "why": "Preserve another account of the child’s visit."
+          "why": "Preserve another account of the child’s visit.",
+          "shortened": [
+            "Then I heard the blessed voice saying, \"Take him away.\" When I heard his voice I tried to see the Blessesd Beauty, but because of the great darkness I could not.",
+            "I saw Baha'u'llah's neck in chains, and another, both chained to the same links, a link about his neck and another about the person who was chained with him. The weight of the chain was so excessive that his neck was bent; he walked with great difficulty, and he was in a very sad condition. His clothes were tattered and battered; even the hat on his head was torn."
+          ]
         },
         {
           "key": "source:ABU3449",
@@ -1944,15 +2326,27 @@
         },
         {
           "key": "source:ABU0306",
-          "why": "Keep another account of ill-treatment distinct in its circumstances."
+          "why": "Keep another account of ill-treatment distinct in its circumstances.",
+          "shortened": [
+            "They seized the body of Baha'u'llah and imprisoned him in Teheran where the ulema met and summoned him to appear before them in the mosque that they might question him and refute his statements.",
+            "They became enraged and put him to the torture of the bastinado, inflicting sixty strokes. They condemned him to death and ordered the executioner to come with his instruments of torture to martyr their majestic prisoner. The governor, fearful lest the people should arise to vindicate Baha'u'llah, caused an opening to be made in the wall of the mosque through which Baha'u'llah was taken by night to the governor's house and after a time the order came to liberate him."
+          ]
         },
         {
           "key": "source:BH00323",
-          "why": "Hear confinement contrasted with spiritual sovereignty."
+          "why": "Hear confinement contrasted with spiritual sovereignty.",
+          "shortened": [
+            "Look back, then, and call to mind the days when We were in the prison of the land of Ta---four months in that place---in a captivity the like of which no eye hath ever beheld: laden with fetters and chains."
+          ]
         },
         {
           "key": "source:BH00005",
-          "why": "Place Bahá’u’lláh’s own extended account at the interpretive center."
+          "why": "Place Bahá’u’lláh’s own extended account at the interpretive center.",
+          "shortened": [
+            "Day and night, while confined in that dungeon, We meditated upon the deeds, the condition, and the conduct of the Babis, wondering what could have led a people so high-minded, so noble, and of such intelligence, to perpetrate such an audacious and outrageous act against the person of His Majesty. This Wronged One, thereupon, decided to arise, after His release from prison, and undertake, with the utmost vigor, the task of regenerating this people.",
+            "One night, in a dream, these exalted words were heard on every side: \"Verily, We shall render Thee victorious by Thyself and by Thy Pen. Grieve Thou not for that which hath befallen Thee, neither be Thou afraid, for Thou art in safety. Erelong will God raise up the treasures of the earth -- men who will aid Thee through Thyself and through Thy Name, wherewith God hath revived the hearts of such as have recognized Him.\"",
+            "During the days I lay in the prison of Tihran, though the galling weight of the chains and the stench-filled air allowed Me but little sleep, still in those infrequent moments of slumber I felt as if something flowed from the crown of My head over My breast, even as a mighty torrent that precipitateth itself upon the earth from the summit of a lofty mountain. Every limb of My body would, as a result, be set afire. At such moments My tongue recited what no man could bear to hear."
+          ]
         }
       ],
       "questions": [
@@ -1991,20 +2385,27 @@
       "id": "B09DF372555FE0EF51DAE5C0119AD51E",
       "slug": "youth",
       "displayTitle": "‘Abdu’l-Bahá’s childhood and youth",
-      "introduction": "Affection for an uncle, delight in a street seller’s call, and sorrow for injured birds give childhood a vivid presence in these recollections of ‘Abdu’l-Bahá. The memories then enter illness, exhausting journeys, imprisonment, household want, and the hostility of other children. Moments of play and humor remain beside that hardship rather than disappearing into a simple story of destined greatness. Luke’s account of the young Jesus places a child’s remarkable understanding amid parental worry and continued growth, offering a comparison about how sacred biography remembers early life [1]. Beside the Síyáh-Chál and the demands of service, this collection invites reflection on tenderness, resilience, and the later moral significance given to childhood experience, while respecting the limits of remembered episodes.",
+      "introduction": "A poor old poppy-seller singing in a Tihrán street, a bird fancier whose nightingales rode on his head, a beloved uncle, the taste of his first words: ‘Abdu’l-Bahá remembered His earliest childhood in particulars, and wondered aloud at how they clung to Him. The same memory holds a seven-year-old’s tuberculosis, a winter ride that left a small boy’s bones feeling crushed for a fortnight, hungry years, and the descent into a dark dungeon to find His father bent under chains, a sight that made Him lose consciousness. Play and humour survive beside the hardship: a sharpshooter’s boast that silenced a hostile consul, candles snuffed at long range. Luke, telling of the boy Jesus among the teachers and then of His parents’ anxiety and His growth in wisdom, shows how sacred biography likes to hold significance and ordinary family life together [1]. The tenderness of these memories ripens into the later conviction that it cannot be right to kill birds and animals for sport. They belong with ‘Abdu’l-Bahá’s other autobiographical accounts and with the wider narrative of His life.",
       "arc": "Begin with affection and delight, follow the vulnerability of childhood, and end with a reconsideration of how living creatures are treated.",
       "order": [
-        {
-          "key": "source:AB03992",
-          "why": "Begin with an enduring memory of familial affection."
-        },
         {
           "key": "source:ABU2634",
           "why": "Hear the delight of a familiar street call."
         },
         {
           "key": "source:ABU1782",
-          "why": "Let tenderness toward birds introduce vulnerability and care."
+          "why": "Let tenderness toward birds introduce vulnerability and care.",
+          "shortened": [
+            "In our street, close by to our house lived one of the Farrashes of the palace. He was a bird fancier and in a peculiar manner all his own he had tamed a number of nightingales which followed him everywhere, sitting on his head and shoulders and while he walked in the streets they warbled melodiously. He had cut a piece of the lower bills of the poor birds;- so that they could not pick up the grains and were forced to eat out of his hand.",
+            "Often he used to come to our garden with the nightingales perched on his head. As a child I was delighted with the strange spectacle. The birds flew away and sat on the branches of the trees singing. Then suddenly the man whistled and they returned back swiftly, roosting on his head, shoulders and hands. This sight especially pleased me and I clapped my hands with glee as I watched them."
+          ]
+        },
+        {
+          "key": "source:AB03992",
+          "why": "Begin with an enduring memory of familial affection.",
+          "shortened": [
+            "O family of the honored Uncle! That illustrious Uncle is seated upon the throne of truth in the presence of the Mighty Sovereign and gazes upon those left behind, his pure soul being present. Therefore strive so that that illustrious person may attain the utmost joy and delight in the Kingdom of the Beautiful Lord. That embodied spirit was very kind to 'Abdu'l-Baha, and in childhood in Nur would shower affection day and night and embrace him."
+          ]
         },
         {
           "key": "source:ABU2399",
@@ -2020,7 +2421,12 @@
         },
         {
           "key": "source:ABU0968",
-          "why": "Follow a demanding journey through a child’s experience."
+          "why": "Follow a demanding journey through a child’s experience.",
+          "shortened": [
+            "When I was a very little child in Teheran it became necessary and urgent that I should carry a message [of] great importance to the General of the army garrisoned about 30 miles away from the Capital. I was so small that it precluded of course my riding alon[e.] Therefore Abdul Vahhab Bay, our servant placed me before himself on the sad[le] of the horse and started out. It was the beginning of winter and the long stretches of hilly country was covered with great speed and without waiting refreshment anywhere.",
+            "He kept me safe in front of himself on the saddle and lashed the horse mercilessly to add to its speed. On and on we sped along and every now and then I asked about the little hamlet but there was no answer. After hours and hours of racing I saw from afar the familiar walls of the Capital and the outlines of the buildings but I was so tired and exhausted that I could not raise a voice of protest.",
+            "When we reached home and I was taken into the parlor on the arms of the servants I was already sleep but benumb[ed] with cold. A fire was made in the chimney and while I was kept in a remote corner my limbs were little by little warmed up. That night and the following day I could not eat anything and for more than two weeks I was like a child whose brittle organs and bones were crushed to pieces."
+          ]
         },
         {
           "key": "source:ABU1838",
@@ -2032,7 +2438,10 @@
         },
         {
           "key": "source:ABU1294",
-          "why": "Enter the shock of seeing a father in chains."
+          "why": "Enter the shock of seeing a father in chains.",
+          "shortened": [
+            "I recalled how as a child I was taken to see him at the prison where he was confined in Teheran. I went down a long flight of steps leading to the dungeon, which had no other outlet. It was absolutely dark. I peered through the gloom endeavoring to see some one, but could see nothing. Then I heard his blessed voice saying to the guard who had brought me, \"Why did you bring that child? Take him back! Take him back!\" I was then led upstairs. The guards told me that it was customary to bring the prisoners out at midday for half an hour, at which time they were allowed to breath the fresh air and wash. I waited until noon, when they were brought out. They bore chains so heavy that some could hardly carry them. Among them I saw Baha'u'llah and one of his followers chained together. His neck was bent under the weight of the chain, and he walked with great difficulty. His clothes were tattered, and he was in a very pitiable condition. His health was visibly failing. The guards took him to a pool that he might wash his face. When he was led back to the dungeon my emotion was indescribable. Although I was only a child I was so overcome that I lost consciousness."
+          ]
         },
         {
           "key": "source:ABU2296",

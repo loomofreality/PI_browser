@@ -311,12 +311,15 @@
           "64fbb55dec43add7572a925f"
         ]
       },
-      "introduction": "What would change if the welfare of other people became a measure of how fully we are living? These selections begin with the claim that human beings are created for the betterment of the world, then make that purpose tangible in shelter, healing, education, useful work, honest administration, and peace. Their scope is at once intimate and immense: a sorrowful person needs comfort, while societies need knowledge, just institutions, and the capacity to overcome prejudice. Service also tests the one who serves, asking for humility, freedom from the desire for praise, care for the dignity of others, and perseverance through disappointment. The connected subjects on assistance to the poor, useful occupations, spiritual wayfaring, and material progress help reveal how inward character and outward improvement can develop together. Later selections sharpen the inquiry by presenting development as a process in which communities learn to act for themselves, and by affirming its value beyond the recruitment of believers. The Samaritan’s practical mercy in Luke and the Bhagavad Gita’s account of exemplary duty open further paths of comparison, each within its own religious setting. Read together, the passages invite us to ask what the needs of our age require, whose capacities remain overlooked, and how a small act can become part of a sustained common endeavor.",
+      "introduction": "Every person, Bahá’u’lláh says, has been called into being for the betterment of the world. The claim turns ordinary life inside out: a bed offered to a stranger, a wound dressed, a sorrowful friend made glad, become what a human being exists to do. ‘Abdu’l-Bahá calls such service worship, the physician at a sickbed giving praise as surely as anyone at prayer. The circle then widens past family and friend to opponent and foreigner, and past the single act to schools, honest public office, science and the patient building of institutions that leave people more capable. Service tests the server too, asking humility, freedom from the wish for praise, care for the dignity of the one helped, and perseverance when humanity proves ungrateful. The Samaritan who becomes a neighbour by acting, and Krishna’s summons to work for the good of the world, press the question from other traditions. The road leads into kindness to the poor and the sick, into useful work and a craft practised with conscience, and into the ascent of a civilization at once material and spiritual.",
       "arc": "An ordinary act, a worldwide responsibility → Who belongs within our concern? → Care that protects dignity → A life of worship in action → Education opens possibilities → Peace and the ethics of public action → The worker is also transformed → A purpose carried through history → Hope becomes a shared undertaking → Communities learn to act together",
       "order": [
         {
           "key": "source:BH00048",
-          "why": "Begin with the startling claim that every person has been created for the betterment of the world."
+          "why": "Begin with the startling claim that every person has been created for the betterment of the world.",
+          "shortened": [
+            "All men have been called into being for the betterment of the world. It behoveth every soul to arise and serve his brethren for the sake of God."
+          ]
         },
         {
           "key": "source:AB00861",
@@ -324,27 +327,48 @@
         },
         {
           "key": "source:BH00698",
-          "why": "Complicate good intentions with the need to understand what this particular age requires."
+          "why": "Complicate good intentions with the need to understand what this particular age requires.",
+          "shortened": [
+            "The remedy the world needeth in its present-day afflictions can never be the same as that which a subsequent age may require. Be anxiously concerned with the needs of the age ye live in, and centre your deliberations on its exigencies and requirements.",
+            "Gaze ye therein and be apprised thereof; perchance ye may be aided thereby to recognize the Friend and may be not the cause of His displeasure. In this Day the choicest fruit of the tree of knowledge is that which serveth the welfare of humanity and safeguardeth its interests."
+          ]
         },
         {
           "key": "source:AB00004",
-          "why": "Expand the scale from individual kindness to learning, laws, institutions, and the happiness of every member of society."
+          "why": "Expand the scale from individual kindness to learning, laws, institutions, and the happiness of every member of society.",
+          "shortened": [
+            "And the honor and distinction of the individual consist in this, that he among all the world's multitudes should become a source of social good. Is any larger bounty conceivable than this, that an individual, looking within himself, should find that by the confirming grace of God he has become the cause of peace and well-being, of happiness and advantage to his fellow men?",
+            "The primary purpose, the basic objective, in laying down powerful laws and setting up great principles and institutions dealing with every aspect of civilization, is human happiness; and human happiness consists only in drawing closer to the Threshold of Almighty God, and in securing the peace and well-being of every individual member, high and low alike, of the human race; and the supreme agencies for accomplishing these two objectives are the excellent qualities with which humanity has been endowed."
+          ]
         },
         {
           "key": "source:ABU0660",
-          "why": "Ask whether the reader’s words have become a patient life of active service."
+          "why": "Ask whether the reader’s words have become a patient life of active service.",
+          "shortened": [
+            "Without action nothing in the material world can be accomplished, neither can words unaided advance a man in the spiritual Kingdom. It is not through lip-service only that the elect of God have attained to holiness, but by patient lives of active service they have brought light into the world."
+          ]
         },
         {
           "key": "source:AB04356",
-          "why": "Distinguish a benevolence confined to selected people from an intention embracing all created things."
+          "why": "Distinguish a benevolence confined to selected people from an intention embracing all created things.",
+          "shortened": [
+            "In the world of creation, good intentions are of two kinds. One kind is particular and aimed at specific people; this is limited and its scope is extremely narrow. The other kind is directed towards all created things; it is all-pervading and extensive in range."
+          ]
         },
         {
           "key": "source:ABU1800",
-          "why": "Let the image of a physician introduce service itself as a form of prayer."
+          "why": "Let the image of a physician introduce service itself as a form of prayer.",
+          "shortened": [
+            "This is worship: to serve mankind and to minister to the needs of the people. Service is prayer. A physician ministering to the sick, gently, tenderly, free from prejudice and believing in the solidarity of the human race, he is giving praise'."
+          ]
         },
         {
           "key": "source:BH00140",
-          "why": "Join insight to action and place the preceding acts of care within the citizenship of one world."
+          "why": "Join insight to action and place the preceding acts of care within the citizenship of one world.",
+          "shortened": [
+            "It is incumbent upon every man of insight and understanding to strive to translate that which hath been written into reality and action.",
+            "That one indeed is a man who, today, dedicateth himself to the service of the entire human race.  The Great Being saith:\tBlessed and happy is he that ariseth to promote the best interests of the peoples and kindreds of the earth.  In another passage He hath proclaimed:  It is not for him to pride himself who loveth his own country, but rather for him who loveth the whole world.  The earth is but one country, and mankind its citizens."
+          ]
         },
         {
           "key": "source:ABU0389",
@@ -352,19 +376,31 @@
         },
         {
           "key": "source:ABU0281",
-          "why": "Widen the circle from the person at hand to strangers, opponents, every religion, and the whole world; read universal language against practical relationships."
+          "why": "Widen the circle from the person at hand to strangers, opponents, every religion, and the whole world; read universal language against practical relationships.",
+          "shortened": [
+            "You will be servants of God, who are dwelling near to Him, His divine helpers in the service, ministering to all Humanity. All Humanity! Every human being! never forget this!"
+          ]
         },
         {
           "key": "source:AB00104",
-          "why": "Widen the circle from the person at hand to strangers, opponents, every religion, and the whole world; read universal language against practical relationships."
+          "why": "Widen the circle from the person at hand to strangers, opponents, every religion, and the whole world; read universal language against practical relationships.",
+          "shortened": [
+            "Let them at all times concern themselves with doing a kindly thing for one of their fellows, offering to someone love, consideration, thoughtful help. Let them see no one as their enemy, or as wishing them ill, but think of all humankind as their friends; regarding the alien as an intimate, the stranger as a companion, staying free of prejudice, drawing no lines."
+          ]
         },
         {
           "key": "source:AB00095",
-          "why": "Widen the circle from the person at hand to strangers, opponents, every religion, and the whole world; read universal language against practical relationships."
+          "why": "Widen the circle from the person at hand to strangers, opponents, every religion, and the whole world; read universal language against practical relationships.",
+          "shortened": [
+            "Whether obedient or disobedient, one must consider all people as God's servants, and whether human or inhuman, must regard all as God's creation and must treat all accordingly. O friends of God! Serve humanity with utmost joy and radiance, and show forth love to all mankind. Look not upon any limitations and be not restricted by any bonds, for limitations and restrictions become dark veils preventing the manifestation of human perfections, while freedom causes the appearance of divine bounties."
+          ]
         },
         {
           "key": "source:ABU0202",
-          "why": "Widen the circle from the person at hand to strangers, opponents, every religion, and the whole world; read universal language against practical relationships."
+          "why": "Widen the circle from the person at hand to strangers, opponents, every religion, and the whole world; read universal language against practical relationships.",
+          "shortened": [
+            "My hope is that when each of you returns to your homeland or dwelling place, you will be a sign among the divine signs, a gift among heavenly gifts, that you will be the cause of the fellowship of hearts and the cause of unity and connection of souls, that you will serve human oneness, be servants to all humanity and lovers of all on earth, that you will know no stranger or acquaintance, count none as friend or foe, and conduct yourselves with utmost love and kindness toward all."
+          ]
         },
         {
           "key": "source:AB04975",
@@ -380,7 +416,10 @@
         },
         {
           "key": "source:ABU1113",
-          "why": "Widen the circle from the person at hand to strangers, opponents, every religion, and the whole world; read universal language against practical relationships."
+          "why": "Widen the circle from the person at hand to strangers, opponents, every religion, and the whole world; read universal language against practical relationships.",
+          "shortened": [
+            "Forget self and work for the whole race. Remember always that one is working for the world, not for a town or even for a country; because, as all are brethren, so every country is, as it were, one's own."
+          ]
         },
         {
           "key": "source:BH00418",
@@ -388,19 +427,31 @@
         },
         {
           "key": "source:BH00323",
-          "why": "Widen the circle from the person at hand to strangers, opponents, every religion, and the whole world; read universal language against practical relationships."
+          "why": "Widen the circle from the person at hand to strangers, opponents, every religion, and the whole world; read universal language against practical relationships.",
+          "shortened": [
+            "\"Ponder this wondrous and comely word which in several places hath flowed from the Pen of the Most High: Not he is praiseworthy who loveth his country, but he who loveth the world. Man hath not been created for strife and corruption and contention and dispute. By My life! he hath been created for a mighty purpose. Were these stations to be set down in detail, Tablets would not suffice."
+          ]
         },
         {
           "key": "source:BH09335",
-          "why": "Widen the circle from the person at hand to strangers, opponents, every religion, and the whole world; read universal language against practical relationships."
+          "why": "Widen the circle from the person at hand to strangers, opponents, every religion, and the whole world; read universal language against practical relationships.",
+          "shortened": [
+            "Look not unto your own selves, neither confine your affairs to that which profiteth you alone. Rather, look upon the servants of the All-Merciful throughout creation and turn unto that which benefiteth the peoples of all the worlds."
+          ]
         },
         {
           "key": "source:BH07545",
-          "why": "Widen the circle from the person at hand to strangers, opponents, every religion, and the whole world; read universal language against practical relationships."
+          "why": "Widen the circle from the person at hand to strangers, opponents, every religion, and the whole world; read universal language against practical relationships.",
+          "shortened": [
+            "Occupy not the days of your lives with the betterment of your own affairs; arise, rather, for the betterment of the world."
+          ]
         },
         {
           "key": "source:BH00005",
-          "why": "Widen the circle from the person at hand to strangers, opponents, every religion, and the whole world; read universal language against practical relationships."
+          "why": "Widen the circle from the person at hand to strangers, opponents, every religion, and the whole world; read universal language against practical relationships.",
+          "shortened": [
+            "Concern yourselves with the things that benefit mankind, and not with your corrupt and selfish desires."
+          ]
         },
         {
           "key": "source:BH00961",
@@ -408,7 +459,10 @@
         },
         {
           "key": "source:BH00407",
-          "why": "Widen the circle from the person at hand to strangers, opponents, every religion, and the whole world; read universal language against practical relationships."
+          "why": "Widen the circle from the person at hand to strangers, opponents, every religion, and the whole world; read universal language against practical relationships.",
+          "shortened": [
+            "All have been created for the betterment of the world. By the life of God! The attributes of the beasts of prey befit not man. The station of man is and shall ever be mercy, love, compassion and forbearance towards all the peoples of the world."
+          ]
         },
         {
           "key": "source:BH01970",
@@ -416,7 +470,10 @@
         },
         {
           "key": "source:BH01687",
-          "why": "Widen the circle from the person at hand to strangers, opponents, every religion, and the whole world; read universal language against practical relationships."
+          "why": "Widen the circle from the person at hand to strangers, opponents, every religion, and the whole world; read universal language against practical relationships.",
+          "shortened": [
+            "Man is great; his aspiration too must be great in reforming the world and bringing comfort to nations."
+          ]
         },
         {
           "key": "source:AB05881",
@@ -424,15 +481,24 @@
         },
         {
           "key": "source:AB08605",
-          "why": "Widen the circle from the person at hand to strangers, opponents, every religion, and the whole world; read universal language against practical relationships."
+          "why": "Widen the circle from the person at hand to strangers, opponents, every religion, and the whole world; read universal language against practical relationships.",
+          "shortened": [
+            "Seek the well-being of all horizons and strive for the comfort of all who dwell on earth. Be the cause of gladness to the world of humanity and the means of prosperity for the servants of God."
+          ]
         },
         {
           "key": "source:AB08881",
-          "why": "Widen the circle from the person at hand to strangers, opponents, every religion, and the whole world; read universal language against practical relationships."
+          "why": "Widen the circle from the person at hand to strangers, opponents, every religion, and the whole world; read universal language against practical relationships.",
+          "shortened": [
+            "Be kind and gentle with all the people of the world and serve and assist everyone with the utmost love."
+          ]
         },
         {
           "key": "source:AB01491",
-          "why": "Widen the circle from the person at hand to strangers, opponents, every religion, and the whole world; read universal language against practical relationships."
+          "why": "Widen the circle from the person at hand to strangers, opponents, every religion, and the whole world; read universal language against practical relationships.",
+          "shortened": [
+            "Become a friend and loving companion to all humanity and a guide for the spiritually-minded among the materially-minded."
+          ]
         },
         {
           "key": "source:AB11423",
@@ -440,15 +506,24 @@
         },
         {
           "key": "source:AB01299",
-          "why": "Widen the circle from the person at hand to strangers, opponents, every religion, and the whole world; read universal language against practical relationships."
+          "why": "Widen the circle from the person at hand to strangers, opponents, every religion, and the whole world; read universal language against practical relationships.",
+          "shortened": [
+            "Therefore, give thanks to the Lord that you have no purpose save service to the unity of the human world, love for mankind, peace and tranquility and comfort for creation, harmony between hearts, connection between souls, kindness to all, and goodwill to all on earth, and seek no other desire."
+          ]
         },
         {
           "key": "source:AB03332",
-          "why": "Widen the circle from the person at hand to strangers, opponents, every religion, and the whole world; read universal language against practical relationships."
+          "why": "Widen the circle from the person at hand to strangers, opponents, every religion, and the whole world; read universal language against practical relationships.",
+          "shortened": [
+            "One must serve all humanity and spread essential unity. One must become the mercy of the Lord and the bounty of the All-Glorious."
+          ]
         },
         {
           "key": "source:AB03158",
-          "why": "Widen the circle from the person at hand to strangers, opponents, every religion, and the whole world; read universal language against practical relationships."
+          "why": "Widen the circle from the person at hand to strangers, opponents, every religion, and the whole world; read universal language against practical relationships.",
+          "shortened": [
+            "It is your duty to be exceedingly kind to every human being, and to wish him well; to work for the upliftment of society; to blow the breath of life into the dead; to act in accordance with the instructions of Baha'u'llah and walk His path -- until ye change the world of man into the world of God."
+          ]
         },
         {
           "key": "source:AB08659",
@@ -456,7 +531,10 @@
         },
         {
           "key": "source:ABU1122",
-          "why": "Give the universal claim concrete forms: consolation, shelter, food, health, and assistance that honors rather than humiliates the person receiving it."
+          "why": "Give the universal claim concrete forms: consolation, shelter, food, health, and assistance that honors rather than humiliates the person receiving it.",
+          "shortened": [
+            "Assist the world of humanity as much as possible. Be the source of consolation to every sad one, assist every weak one, be helpful to every indigent one, care for every sick one, be the cause of glorification to every lowly one, and shelter those who are overshadowed by fear."
+          ]
         },
         {
           "key": "source:ABU0653",
@@ -472,15 +550,24 @@
         },
         {
           "key": "source:AB02202",
-          "why": "Give the universal claim concrete forms: consolation, shelter, food, health, and assistance that honors rather than humiliates the person receiving it."
+          "why": "Give the universal claim concrete forms: consolation, shelter, food, health, and assistance that honors rather than humiliates the person receiving it.",
+          "shortened": [
+            "Be the cause of freedom for captives and the source of joy and happiness for the poor. Become divine healing for the sick and spiritual medicine for the ailing. Be a salve for every wound and a remedy for every pain. Be a bright candle and spread light in the gathering of humanity."
+          ]
         },
         {
           "key": "source:AB05989",
-          "why": "Give the universal claim concrete forms: consolation, shelter, food, health, and assistance that honors rather than humiliates the person receiving it."
+          "why": "Give the universal claim concrete forms: consolation, shelter, food, health, and assistance that honors rather than humiliates the person receiving it.",
+          "shortened": [
+            "Give sustenance to the destitute and sight to the blind. Become a refuge and shelter for the helpless and confidants to the deprived. Show kindness to both friend and stranger alike, and honor all humanity. Serve the human world and shower love upon all mankind. These are the attributes of the Baha'is and the characteristics of the spiritual ones."
+          ]
         },
         {
           "key": "source:ABU0956",
-          "why": "Give the universal claim concrete forms: consolation, shelter, food, health, and assistance that honors rather than humiliates the person receiving it."
+          "why": "Give the universal claim concrete forms: consolation, shelter, food, health, and assistance that honors rather than humiliates the person receiving it.",
+          "shortened": [
+            "To cheer up and sympathise with those who are in sorrow and carry laughter and the sunbeams of happiness in the hearts of all the children of humanity. To the sick he must become a nurse. For the oppressed, he must be a shelter. To the extent of his ability he must assist and take care of the poor ones in the community. He must give a share and a portion to those who are deprived. He must be a balm of healing to every wounded one and a breath of spirit to every dead one."
+          ]
         },
         {
           "key": "source:ABU1348",
@@ -492,7 +579,10 @@
         },
         {
           "key": "source:AB03182",
-          "why": "Give the universal claim concrete forms: consolation, shelter, food, health, and assistance that honors rather than humiliates the person receiving it."
+          "why": "Give the universal claim concrete forms: consolation, shelter, food, health, and assistance that honors rather than humiliates the person receiving it.",
+          "shortened": [
+            "You have taken up a good occupation which deserves praise, for helping the poor and orphans is service to the Kingdom of God and no righteous deed has been or is greater than this."
+          ]
         },
         {
           "key": "source:ABU3471",
@@ -500,11 +590,17 @@
         },
         {
           "key": "source:AB08817",
-          "why": "Give the universal claim concrete forms: consolation, shelter, food, health, and assistance that honors rather than humiliates the person receiving it."
+          "why": "Give the universal claim concrete forms: consolation, shelter, food, health, and assistance that honors rather than humiliates the person receiving it.",
+          "shortened": [
+            "I supplicate God that thou mayest become a kind parent to orphaned children, quickening them with the fragrances of the Holy Spirit, so that they will attain the age of maturity as true servants of the world of humanity and as bright candles in the assemblage of mankind."
+          ]
         },
         {
           "key": "source:ABU0307",
-          "why": "Give the universal claim concrete forms: consolation, shelter, food, health, and assistance that honors rather than humiliates the person receiving it."
+          "why": "Give the universal claim concrete forms: consolation, shelter, food, health, and assistance that honors rather than humiliates the person receiving it.",
+          "shortened": [
+            "This revered lady, Mrs. Rowan, is indeed doing the world of humanity a great and useful service, for she assists those who are blind and shows them the tenderest kindness. Because she is giving them an opportunity to be trained manually, and is educating them intellectually, she is in reality endowing them with real sight, -- that is, insight. What greater attainment than this could be desired?"
+          ]
         },
         {
           "key": "source:AB00390",
@@ -512,7 +608,10 @@
         },
         {
           "key": "source:ABU1655",
-          "why": "Give the universal claim concrete forms: consolation, shelter, food, health, and assistance that honors rather than humiliates the person receiving it."
+          "why": "Give the universal claim concrete forms: consolation, shelter, food, health, and assistance that honors rather than humiliates the person receiving it.",
+          "shortened": [
+            "What I wish to say is that those who have attained the Kingdom of God will themselves become doctors. All the people of the world are patients, are ill. They are in great need of doctors, so that through the help of the doctors they may be cured of their spiritual diseases."
+          ]
         },
         {
           "key": "source:AB05841",
@@ -540,11 +639,17 @@
         },
         {
           "key": "source:ABU0543",
-          "why": "Explore the relation of devotion to useful work, contrasting mere profession with deeds and then connecting inward growth with service."
+          "why": "Explore the relation of devotion to useful work, contrasting mere profession with deeds and then connecting inward growth with service.",
+          "shortened": [
+            "Service to humanity is service to God. Let the love and light of the Kingdom radiate through you until all who look upon you shall be illumined by its reflection."
+          ]
         },
         {
           "key": "source:ABU2278",
-          "why": "Explore the relation of devotion to useful work, contrasting mere profession with deeds and then connecting inward growth with service."
+          "why": "Explore the relation of devotion to useful work, contrasting mere profession with deeds and then connecting inward growth with service.",
+          "shortened": [
+            "If you desire to love God, love thy fellow-men. In them you can see the image and likeness of God. If you are eager to serve God, serve mankind."
+          ]
         },
         {
           "key": "source:ABU1068",
@@ -556,7 +661,11 @@
         },
         {
           "key": "source:ABU1250",
-          "why": "Retain both voices in the conversation: Hans Springer raises the difficulty of serving an unseen God, and the reply turns to Christ’s service."
+          "why": "Retain both voices in the conversation: Hans Springer raises the difficulty of serving an unseen God, and the reply turns to Christ’s service.",
+          "shortened": [
+            "In my mind the only way we can serve Him is to serve mankind and try to alleviate the sorrows and sufferings of the people.\"",
+            "A. B. \"Christ served God and his apostles served God. Their service was to humanity, which was a reflection of their service to God.\""
+          ]
         },
         {
           "key": "source:ABU1955",
@@ -584,11 +693,18 @@
         },
         {
           "key": "source:ABU2284",
-          "why": "Keep care for one’s own health within an intention to live and discharge duties to others."
+          "why": "Keep care for one’s own health within an intention to live and discharge duties to others.",
+          "shortened": [
+            "Or he may look after his health with the good intention of serving humanity and of living long enough to discharge one's duty towards mankind.",
+            "The latter is most commendable."
+          ]
         },
         {
           "key": "source:ABU1797",
-          "why": "Explore the relation of devotion to useful work, contrasting mere profession with deeds and then connecting inward growth with service."
+          "why": "Explore the relation of devotion to useful work, contrasting mere profession with deeds and then connecting inward growth with service.",
+          "shortened": [
+            "Second, through deeds, i.e. living in accord with the good pleasure of the Lord; adorning our being with his heavenly attributes and trying to alleviate the suffering and misery of mankind."
+          ]
         },
         {
           "key": "source:AB09597",
@@ -596,11 +712,17 @@
         },
         {
           "key": "source:ABU0684",
-          "why": "Explore the relation of devotion to useful work, contrasting mere profession with deeds and then connecting inward growth with service."
+          "why": "Explore the relation of devotion to useful work, contrasting mere profession with deeds and then connecting inward growth with service.",
+          "shortened": [
+            "Through their deeds and lives they must demonstrate to the inhabitants of the world what mutual helpfulness and assistance means."
+          ]
         },
         {
           "key": "source:ABU2960",
-          "why": "Explore the relation of devotion to useful work, contrasting mere profession with deeds and then connecting inward growth with service."
+          "why": "Explore the relation of devotion to useful work, contrasting mere profession with deeds and then connecting inward growth with service.",
+          "shortened": [
+            "One's sitting and rising, speech and conversation, social intercourse and communication should be based upon a firm foundation and be conducive to the glory of the world of humanity."
+          ]
         },
         {
           "key": "source:ABU2368",
@@ -612,11 +734,17 @@
         },
         {
           "key": "source:AB03797",
-          "why": "Explore the relation of devotion to useful work, contrasting mere profession with deeds and then connecting inward growth with service."
+          "why": "Explore the relation of devotion to useful work, contrasting mere profession with deeds and then connecting inward growth with service.",
+          "shortened": [
+            "And among the greatest pillars of servitude is service to all peoples and nations. Therefore must the servants of that Threshold sacrifice themselves for all humanity and strive with heart and soul to render service to the world of man, especially to those souls who have been nurtured in the embrace of the love of God and have drunk from the breast of the knowledge of God."
+          ]
         },
         {
           "key": "source:ABU2623",
-          "why": "Explore the relation of devotion to useful work, contrasting mere profession with deeds and then connecting inward growth with service."
+          "why": "Explore the relation of devotion to useful work, contrasting mere profession with deeds and then connecting inward growth with service.",
+          "shortened": [
+            "Your duty is to serve the world of humanity through every channel, through every means. This is my hope for you."
+          ]
         },
         {
           "key": "source:AB02275",
@@ -624,7 +752,10 @@
         },
         {
           "key": "source:ABU2333",
-          "why": "Explore the relation of devotion to useful work, contrasting mere profession with deeds and then connecting inward growth with service."
+          "why": "Explore the relation of devotion to useful work, contrasting mere profession with deeds and then connecting inward growth with service.",
+          "shortened": [
+            "In any case, humanity's duty is service to the human world and servitude at the divine threshold. It is detachment and remembrance. It is a state of severance."
+          ]
         },
         {
           "key": "source:AB03998",
@@ -644,15 +775,25 @@
         },
         {
           "key": "source:BH01034",
-          "why": "Move from education as a personal responsibility to children, intellectual freedom, professions, science, invention, and institutions that make others more capable."
+          "why": "Move from education as a personal responsibility to children, intellectual freedom, professions, science, invention, and institutions that make others more capable.",
+          "shortened": [
+            "Forget your own selves, and turn your eyes towards your neighbor. Bend your energies to whatever may foster the education of men."
+          ]
         },
         {
           "key": "source:AB00551",
-          "why": "Move from education as a personal responsibility to children, intellectual freedom, professions, science, invention, and institutions that make others more capable."
+          "why": "Move from education as a personal responsibility to children, intellectual freedom, professions, science, invention, and institutions that make others more capable.",
+          "shortened": [
+            "Be ye in that land vanguards of the perfections of humankind; carry forward the various branches of knowledge, be active and progressive in the field of inventions and the arts."
+          ]
         },
         {
           "key": "source:ABU0510",
-          "why": "Move from education as a personal responsibility to children, intellectual freedom, professions, science, invention, and institutions that make others more capable."
+          "why": "Move from education as a personal responsibility to children, intellectual freedom, professions, science, invention, and institutions that make others more capable.",
+          "shortened": [
+            "In this century of light precede all others in sympathy, in philanthropic actions, in physical and intellectual culture and in association with the rest of mankind.",
+            "Do not let the pool of your thoughts become stagnant. Open the shutters of your mind and air its secret chambers."
+          ]
         },
         {
           "key": "source:ABU3712",
@@ -668,15 +809,24 @@
         },
         {
           "key": "source:ABU1650",
-          "why": "Move from education as a personal responsibility to children, intellectual freedom, professions, science, invention, and institutions that make others more capable."
+          "why": "Move from education as a personal responsibility to children, intellectual freedom, professions, science, invention, and institutions that make others more capable.",
+          "shortened": [
+            "God is the Father of all. Mankind are His children. This globe is one home. Nations are the members of one family. The mothers in their homes, the teachers in the schools, the Professors in the colleges, the Presidents in the Universities, must instruct these ideals to the young from the cradle up to the age of manhood."
+          ]
         },
         {
           "key": "source:ABU3070",
-          "why": "Move from education as a personal responsibility to children, intellectual freedom, professions, science, invention, and institutions that make others more capable."
+          "why": "Move from education as a personal responsibility to children, intellectual freedom, professions, science, invention, and institutions that make others more capable.",
+          "shortened": [
+            "Make them successful in their studies; - so that when they reach the age of maturity they may arise in the service of the world of humanity."
+          ]
         },
         {
           "key": "source:AB05042",
-          "why": "Move from education as a personal responsibility to children, intellectual freedom, professions, science, invention, and institutions that make others more capable."
+          "why": "Move from education as a personal responsibility to children, intellectual freedom, professions, science, invention, and institutions that make others more capable.",
+          "shortened": [
+            "My highest wish and desire is that ye who are my children may be educated according to the teachings of Baha'u'llah and may receive a Baha'i training; that ye may each become a lighted candle in the world of humanity, may be devoted to the service of all mankind, may give up your rest and comfort, so that ye may become the cause of the tranquillity of the world of creation."
+          ]
         },
         {
           "key": "source:AB09588",
@@ -684,7 +834,10 @@
         },
         {
           "key": "source:ABU1735",
-          "why": "Move from education as a personal responsibility to children, intellectual freedom, professions, science, invention, and institutions that make others more capable."
+          "why": "Move from education as a personal responsibility to children, intellectual freedom, professions, science, invention, and institutions that make others more capable.",
+          "shortened": [
+            "The beloved ones of God must be educators of humanity, inviting all mankind to attraction and enkindlement."
+          ]
         },
         {
           "key": "source:AB01717",
@@ -692,7 +845,10 @@
         },
         {
           "key": "source:AB01704",
-          "why": "Move from education as a personal responsibility to children, intellectual freedom, professions, science, invention, and institutions that make others more capable."
+          "why": "Move from education as a personal responsibility to children, intellectual freedom, professions, science, invention, and institutions that make others more capable.",
+          "shortened": [
+            "Therefore, ye must also be thinking of everyone, so that mankind may be educated, character moderated and this world may turn into a Garden of Eden."
+          ]
         },
         {
           "key": "source:AB07108",
@@ -700,15 +856,25 @@
         },
         {
           "key": "source:AB05546",
-          "why": "Move from education as a personal responsibility to children, intellectual freedom, professions, science, invention, and institutions that make others more capable."
+          "why": "Move from education as a personal responsibility to children, intellectual freedom, professions, science, invention, and institutions that make others more capable.",
+          "shortened": [
+            "That is, they should be adorned with all perfections that are the ornament of human reality, be a great bounty for the people of the world, and show love and kindness to humankind to the extent possible.",
+            "Day and night their thoughts should be confined to guiding humanity and educating souls, and they should cling to the hem of grandeur so they may be confirmed in this mighty gift and be accepted at the threshold of the Beauty of Grandeur."
+          ]
         },
         {
           "key": "source:AB02849",
-          "why": "Move from education as a personal responsibility to children, intellectual freedom, professions, science, invention, and institutions that make others more capable."
+          "why": "Move from education as a personal responsibility to children, intellectual freedom, professions, science, invention, and institutions that make others more capable.",
+          "shortened": [
+            "God has created you for admonition, exhortation, the readjustment of morality, the illumination and the spiritualization of the world of humanity. This is your duty."
+          ]
         },
         {
           "key": "source:ABU1393",
-          "why": "Move from education as a personal responsibility to children, intellectual freedom, professions, science, invention, and institutions that make others more capable."
+          "why": "Move from education as a personal responsibility to children, intellectual freedom, professions, science, invention, and institutions that make others more capable.",
+          "shortened": [
+            "Therefore let us strive, so that we may spread divine Civilization, so that we may unfurl the Ensign of Knowledge so that we may illumine the minds, so that we may enlighten the intellects."
+          ]
         },
         {
           "key": "source:ABU3195",
@@ -716,7 +882,11 @@
         },
         {
           "key": "source:ABU0439",
-          "why": "Move from education as a personal responsibility to children, intellectual freedom, professions, science, invention, and institutions that make others more capable."
+          "why": "Move from education as a personal responsibility to children, intellectual freedom, professions, science, invention, and institutions that make others more capable.",
+          "shortened": [
+            "Now that God has granted humans such power and capacity to violate the natural world, it would be a pity to use this power except for good purposes.",
+            "This power should be devoted to reviving souls, spent for the general good, and employed for peace and reconciliation. It should be confined to developing the world, comforting souls, and fostering love and affection among humanity."
+          ]
         },
         {
           "key": "source:AB00860",
@@ -744,23 +914,40 @@
         },
         {
           "key": "source:ABU0260",
-          "why": "Move from education as a personal responsibility to children, intellectual freedom, professions, science, invention, and institutions that make others more capable."
+          "why": "Move from education as a personal responsibility to children, intellectual freedom, professions, science, invention, and institutions that make others more capable.",
+          "shortened": [
+            "In the world many banquets, assemblages and meetings have been organized, but those gatherings have been commercial, political, educational or social in their purpose and motive. Meetings are held for the promotion of financial plans or promulgation of the arts and sciences. Others have sought to establish agricultural industries or consummate territorial agreements. Innumerable assemblages have been held for consultation upon subjects of learning and education. All such meetings have for their object the advancement of civilization."
+          ]
         },
         {
           "key": "source:ABU2553",
-          "why": "Move from education as a personal responsibility to children, intellectual freedom, professions, science, invention, and institutions that make others more capable."
+          "why": "Move from education as a personal responsibility to children, intellectual freedom, professions, science, invention, and institutions that make others more capable.",
+          "shortened": [
+            "Man must become the means of the wellbeing and prosperity of the commonwealth of humanity.",
+            "Man must become the spring of the signs of guidance. Man must strive and make an effort in the advancement of the ideals of justice, Universal civilization and the betterment of the conditions of the public."
+          ]
         },
         {
           "key": "source:AB00022",
-          "why": "Extend service into cooperation and public responsibility, holding honest administration and peaceful means beside cautions about political involvement and self-interest."
+          "why": "Extend service into cooperation and public responsibility, holding honest administration and peaceful means beside cautions about political involvement and self-interest.",
+          "shortened": [
+            "O ye beloved of God! Know ye, verily, that the happiness of mankind lieth in the unity and the harmony of the human race, and that spiritual and material developments are conditioned upon love and amity among all men.",
+            "Similarly, consider how the cause of the welfare, happiness, joy and comfort of humankind are amity and union, whereas dissension and discord are most conducive to hardship, humiliation, agitation and failure."
+          ]
         },
         {
           "key": "source:AB03928",
-          "why": "Extend service into cooperation and public responsibility, holding honest administration and peaceful means beside cautions about political involvement and self-interest."
+          "why": "Extend service into cooperation and public responsibility, holding honest administration and peaceful means beside cautions about political involvement and self-interest.",
+          "shortened": [
+            "The divine religions must be the cause of oneness among men, and the means of unity and love; they must promulgate universal peace, free man from every prejudice, bestow joy and gladness, exercise kindness to all men and do away with every difference and distinction. Just as Baha'u'llah addressing the world of humanity saith: 'O people! Ye are the fruits of one tree and the leaves of one branch.'"
+          ]
         },
         {
           "key": "source:AB12140",
-          "why": "Extend service into cooperation and public responsibility, holding honest administration and peaceful means beside cautions about political involvement and self-interest."
+          "why": "Extend service into cooperation and public responsibility, holding honest administration and peaceful means beside cautions about political involvement and self-interest.",
+          "shortened": [
+            "We hope that the friends of God and handmaidens of the Merciful will, in accordance with heavenly teachings, serve the unity of the human world, consider religion as the foundation of love and fellowship among humanity, and strive to reconcile religion and science. May they become a treasure of wealth for every poor one, a refuge and shelter for every seeker of protection, a spirit and delight for the destitute, and divine assistance for the helpless."
+          ]
         },
         {
           "key": "source:ABU1561",
@@ -776,7 +963,10 @@
         },
         {
           "key": "source:ABU1057",
-          "why": "Extend service into cooperation and public responsibility, holding honest administration and peaceful means beside cautions about political involvement and self-interest."
+          "why": "Extend service into cooperation and public responsibility, holding honest administration and peaceful means beside cautions about political involvement and self-interest.",
+          "shortened": [
+            "It is my hope that all of us may arise with the greatest power to serve this most important cause (Universal Peace) and become the means of the welfare of the world of humanity."
+          ]
         },
         {
           "key": "source:ABU1416",
@@ -784,15 +974,24 @@
         },
         {
           "key": "source:ABU1639",
-          "why": "Extend service into cooperation and public responsibility, holding honest administration and peaceful means beside cautions about political involvement and self-interest."
+          "why": "Extend service into cooperation and public responsibility, holding honest administration and peaceful means beside cautions about political involvement and self-interest.",
+          "shortened": [
+            "Work ye for the Cause of Peace. Stand ye by the Lord of Peace. Draw up in line your panoplied regiments of Peace! Unfurl at the head of your indomitable phalanxes, the Flag of Peace! Fill the world with the cry of Peace! Let your watchword be the sweet anthem of Peace. Be ye the laborers in the construction of the Palace of Peace. Think of Peace, work for Peace and consecrate your lives to the cause of Peace."
+          ]
         },
         {
           "key": "source:ABU0363",
-          "why": "Extend service into cooperation and public responsibility, holding honest administration and peaceful means beside cautions about political involvement and self-interest."
+          "why": "Extend service into cooperation and public responsibility, holding honest administration and peaceful means beside cautions about political involvement and self-interest.",
+          "shortened": [
+            "A. B. \"You are indeed a servant to humanity. A servant to humanity is a servant to God. Your mission is a high, holy and sanctified one; there could be no greater, no holier mission than that of bringing peace to this warring world."
+          ]
         },
         {
           "key": "source:ABU0799",
-          "why": "Extend service into cooperation and public responsibility, holding honest administration and peaceful means beside cautions about political involvement and self-interest."
+          "why": "Extend service into cooperation and public responsibility, holding honest administration and peaceful means beside cautions about political involvement and self-interest.",
+          "shortened": [
+            "I have brought the message of Baha'u'llah to this country in order to teach people to investigate truth, to render service to humanity, to endeavor to bring about international peace, to exert every effort to guide humanity, to show kindness to all creatures and to raise the Call of the Kingdom."
+          ]
         },
         {
           "key": "source:ABU2598",
@@ -800,15 +999,25 @@
         },
         {
           "key": "source:AB00112",
-          "why": "Extend service into cooperation and public responsibility, holding honest administration and peaceful means beside cautions about political involvement and self-interest."
+          "why": "Extend service into cooperation and public responsibility, holding honest administration and peaceful means beside cautions about political involvement and self-interest.",
+          "shortened": [
+            "To do battle, as stated in the sacred verse, doth not, in this greatest of all dispensations, mean to go forth with sword and spear, with lance and piercing arrow -- but rather weaponed with pure intent, with righteous motives, with counsels helpful and effective, with godly attributes, with deeds pleasing to the Almighty, with the qualities of heaven. It signifieth education for all mankind, guidance for all men, the spreading far and wide of the sweet savours of the spirit, the promulgation of God's proofs, the setting forth of arguments conclusive and divine, the doing of charitable deeds."
+          ]
         },
         {
           "key": "source:AB02185",
-          "why": "Extend service into cooperation and public responsibility, holding honest administration and peaceful means beside cautions about political involvement and self-interest."
+          "why": "Extend service into cooperation and public responsibility, holding honest administration and peaceful means beside cautions about political involvement and self-interest.",
+          "shortened": [
+            "They are awake and vigilant, they shun the obscurity of the world of nature, their highest wish centereth on the eradication from among men of the struggle for existence, the shining forth of the spirituality and the love of the realm on high, the exercise of utmost kindness among peoples, the realization of an intimate and close connection between religions and the practice of the ideal of self-sacrifice. Then will the world of humanity be transformed into the Kingdom of God.",
+            "At least engage ye in a deed of profit to the world of humanity that ye may partially compensate for that loss."
+          ]
         },
         {
           "key": "source:AB04682",
-          "why": "Extend service into cooperation and public responsibility, holding honest administration and peaceful means beside cautions about political involvement and self-interest."
+          "why": "Extend service into cooperation and public responsibility, holding honest administration and peaceful means beside cautions about political involvement and self-interest.",
+          "shortened": [
+            "May they arise to fulfill the divine teachings and contemplate peace and reconciliation with all the peoples of the world. May each become a kind servant to the human world and a loving friend to all humanity."
+          ]
         },
         {
           "key": "source:AB02279",
@@ -824,7 +1033,10 @@
         },
         {
           "key": "source:AB00288",
-          "why": "Extend service into cooperation and public responsibility, holding honest administration and peaceful means beside cautions about political involvement and self-interest."
+          "why": "Extend service into cooperation and public responsibility, holding honest administration and peaceful means beside cautions about political involvement and self-interest.",
+          "shortened": [
+            "Today the world of humanity is in need of the improvement of character, education through the divine breaths, and the establishment of the foundation of love, truthfulness, peace, reconciliation, reality, uprightness and fellowship among all members of humankind. We must serve this vital cause. Other matters have no importance. Interference in governmental affairs and discourse about them has no significance, for the important matter is that which we promote: the illumination and comfort and tranquility of all creation. Is it permissible that we should falter in this and occupy ourselves with other matters? No, by God!"
+          ]
         },
         {
           "key": "source:AB01872",
@@ -832,39 +1044,67 @@
         },
         {
           "key": "source:AB00760",
-          "why": "Extend service into cooperation and public responsibility, holding honest administration and peaceful means beside cautions about political involvement and self-interest."
+          "why": "Extend service into cooperation and public responsibility, holding honest administration and peaceful means beside cautions about political involvement and self-interest.",
+          "shortened": [
+            "They must be truthful and kind to all the peoples of the world, deal with all humanity with pure intent, absolute benevolence and heartfelt love, be sincere and well-wishing toward all the governments of the world, and, in accordance with Baha'u'llah's testament, never interfere in political matters - indeed, not even discuss them."
+          ]
         },
         {
           "key": "source:AB00856",
-          "why": "Extend service into cooperation and public responsibility, holding honest administration and peaceful means beside cautions about political involvement and self-interest."
+          "why": "Extend service into cooperation and public responsibility, holding honest administration and peaceful means beside cautions about political involvement and self-interest.",
+          "shortened": [
+            "This preservation, protection, security and comfort was due to the blessing of the sacred teachings, whereby the friends of God in no region interfered in political affairs, but rather spent their time in supplication and prayer, turning to the glorious Kingdom, striving for the good of all, serving humanity, experiencing spiritual attractions and divine inspirations."
+          ]
         },
         {
           "key": "source:AB04324",
-          "why": "Extend service into cooperation and public responsibility, holding honest administration and peaceful means beside cautions about political involvement and self-interest."
+          "why": "Extend service into cooperation and public responsibility, holding honest administration and peaceful means beside cautions about political involvement and self-interest.",
+          "shortened": [
+            "If they accept office, their motive is to render service to the whole of humanity, not to seek their own self-interest; and their object is to vindicate the cause of truth, not to give themselves over to self-indulgence and base ingratitude."
+          ]
         },
         {
           "key": "source:ABU2720",
-          "why": "Test public office by its purpose: public good or personal advantage."
+          "why": "Test public office by its purpose: public good or personal advantage.",
+          "shortened": [
+            "If the object is to promote the public good, then the president must be a well-wisher of all and not a self-seeking person. If the object, however, is to promote personal interests, then such a position will be injurious to humanity and not beneficial to the public."
+          ]
         },
         {
           "key": "source:AB01562",
-          "why": "Extend service into cooperation and public responsibility, holding honest administration and peaceful means beside cautions about political involvement and self-interest."
+          "why": "Extend service into cooperation and public responsibility, holding honest administration and peaceful means beside cautions about political involvement and self-interest.",
+          "shortened": [
+            "Convey my utmost kindness to your brother and tell him that in whatever government department he becomes employed, he should not rest day or night but rather serve the government and nation, demonstrate the utmost truthfulness, honesty, trustworthiness, purity and nobility, be content with his salary however small it may be, and be free and sanctified from all defilement - so that it may become evident that the Baha'is are heavenly angels who have no desire except service to humanity, especially to their homeland."
+          ]
         },
         {
           "key": "source:AB05215",
-          "why": "Extend service into cooperation and public responsibility, holding honest administration and peaceful means beside cautions about political involvement and self-interest."
+          "why": "Extend service into cooperation and public responsibility, holding honest administration and peaceful means beside cautions about political involvement and self-interest.",
+          "shortened": [
+            "I hope that through God's bounty thou wilt become ever more near to the divine threshold and successful in serving the Cause of God.",
+            "On behalf of this servant convey perfect love and yearning greetings to his honor the late Qamarof and say that we are always engaged in prayer for you, that God may confirm and assist you to be successful in great matters in service to that just king, to render outstanding services, and to leave an eternal trace in the world of humanity."
+          ]
         },
         {
           "key": "source:AB06831",
-          "why": "Extend service into cooperation and public responsibility, holding honest administration and peaceful means beside cautions about political involvement and self-interest."
+          "why": "Extend service into cooperation and public responsibility, holding honest administration and peaceful means beside cautions about political involvement and self-interest.",
+          "shortened": [
+            "To attain to true glory and honour, man should exercise justice and equity, forbear to act in an oppressive manner, render service to his government, and work for the good of his fellow-citizens."
+          ]
         },
         {
           "key": "source:AB01217",
-          "why": "Extend service into cooperation and public responsibility, holding honest administration and peaceful means beside cautions about political involvement and self-interest."
+          "why": "Extend service into cooperation and public responsibility, holding honest administration and peaceful means beside cautions about political involvement and self-interest.",
+          "shortened": [
+            "The point is that the Baha'is are servants of the human world and captivated by justice and wisdom, well-wishers of the world's leaders, enchanted by radiant countenance and attracted to the character of well-wishers."
+          ]
         },
         {
           "key": "source:BH00920",
-          "why": "Extend service into cooperation and public responsibility, holding honest administration and peaceful means beside cautions about political involvement and self-interest."
+          "why": "Extend service into cooperation and public responsibility, holding honest administration and peaceful means beside cautions about political involvement and self-interest.",
+          "shortened": [
+            "Man has been and continues to be among the greatest signs of God, and has come from the realm of non-existence into the court of existence for the knowledge and betterment of the world. Should the leaders of government and nation manifest spiritual virtues, goodly deeds, and kindly words, the lights of justice will encompass all the earth, and all will dwell in perfect tranquility within the pavilion of security and peace. The foundation of the security and welfare of nations rests upon two pillars: reward and punishment. Every sovereign must implement these two principles; indeed it is essential."
+          ]
         },
         {
           "key": "source:BH00422",
@@ -892,19 +1132,31 @@
         },
         {
           "key": "source:ABU1598",
-          "why": "Extend service into cooperation and public responsibility, holding honest administration and peaceful means beside cautions about political involvement and self-interest."
+          "why": "Extend service into cooperation and public responsibility, holding honest administration and peaceful means beside cautions about political involvement and self-interest.",
+          "shortened": [
+            "Our duty is to promote the manifest light - that is, we should pursue whatever leads to human perfections and virtues and the comfort and tranquility of the world of existence, not thoughts and mentions that bear no fruit whatsoever in the East, especially since we have no connection to them."
+          ]
         },
         {
           "key": "source:AB03496",
-          "why": "Extend service into cooperation and public responsibility, holding honest administration and peaceful means beside cautions about political involvement and self-interest."
+          "why": "Extend service into cooperation and public responsibility, holding honest administration and peaceful means beside cautions about political involvement and self-interest.",
+          "shortened": [
+            "These teachings of the Ancient Beauty, which are the foundation of the progress of the world's peoples and the ladder of ascent for nations and peoples, must be implemented."
+          ]
         },
         {
           "key": "source:BH00238",
-          "why": "Extend service into cooperation and public responsibility, holding honest administration and peaceful means beside cautions about political involvement and self-interest."
+          "why": "Extend service into cooperation and public responsibility, holding honest administration and peaceful means beside cautions about political involvement and self-interest.",
+          "shortened": [
+            "In one of the Tablets these words have been revealed: O people of God! Do not busy yourselves in your own concerns; let your thoughts be fixed upon that which will rehabilitate the fortunes of mankind and sanctify the hearts and souls of men. This can best be achieved through pure and holy deeds, through a virtuous life and a goodly behaviour. Valiant acts will ensure the triumph of this Cause, and a saintly character will reinforce its power."
+          ]
         },
         {
           "key": "source:BH06328",
-          "why": "Extend service into cooperation and public responsibility, holding honest administration and peaceful means beside cautions about political involvement and self-interest."
+          "why": "Extend service into cooperation and public responsibility, holding honest administration and peaceful means beside cautions about political involvement and self-interest.",
+          "shortened": [
+            "He Who is the Eternal Truth hath, from the Day Spring of Glory, directed His eyes towards the people of Baha, and is addressing them in these words: Address yourselves to the promotion of the well-being and tranquillity of the children of men. Bend your minds and wills to the education of the peoples and kindreds of the earth, that haply the dissensions that divide it may, through the power of the Most Great Name, be blotted out from its face, and all mankind become the upholders of one Order, and the inhabitants of one City."
+          ]
         },
         {
           "key": "source:AB08890",
@@ -920,15 +1172,24 @@
         },
         {
           "key": "source:ABU0485",
-          "why": "Place the warning about dictatorial pride directly after passages about pure motives and working without praise."
+          "why": "Place the warning about dictatorial pride directly after passages about pure motives and working without praise.",
+          "shortened": [
+            "But in this Cause there is no relationship sane the relationship of service and self-sacrifice. The Will of God exalts one through Pure Mercy and not because the recipient has been worthy. I consider myself weaker than a mosquito but the confirmations of the Blessed Perfection<s> are descending uninterruptedly but some heedless souls forgetting this point consider they are somebody and filled with deceit and ego became dictatorial and overbearing. Such people deprive themselves not only of the Bounties of God but little by little the friends lose their confidence and trust in them...."
+          ]
         },
         {
           "key": "source:AB04333",
-          "why": "Examine intention, humility, joy, sacrifice, and perseverance; place warnings about domination next to service without praise or reward."
+          "why": "Examine intention, humility, joy, sacrifice, and perseverance; place warnings about domination next to service without praise or reward.",
+          "shortened": [
+            "I pray that ye may be confirmed in service to the world of humanity and that ye will be humble servants to all mankind."
+          ]
         },
         {
           "key": "source:ABU2061",
-          "why": "Examine intention, humility, joy, sacrifice, and perseverance; place warnings about domination next to service without praise or reward."
+          "why": "Examine intention, humility, joy, sacrifice, and perseverance; place warnings about domination next to service without praise or reward.",
+          "shortened": [
+            "Every single assured and firm believer will consider himself the servant of all the friends of God, nay rather the servant of the world of humanity. The Honor of man depends upon this. The Everlasting Glory of mankind lies in this!"
+          ]
         },
         {
           "key": "source:ABU0042",
@@ -936,11 +1197,17 @@
         },
         {
           "key": "source:ABU0797",
-          "why": "Examine intention, humility, joy, sacrifice, and perseverance; place warnings about domination next to service without praise or reward."
+          "why": "Examine intention, humility, joy, sacrifice, and perseverance; place warnings about domination next to service without praise or reward.",
+          "shortened": [
+            "They must have good intentions and consider themselves the servants of the world of humanity. They must endure hardship and seek comfort for others. If they succeed in attaining such an attitude, they will be confirmed, and divine assistance will surround them."
+          ]
         },
         {
           "key": "source:ABU1817",
-          "why": "Examine intention, humility, joy, sacrifice, and perseverance; place warnings about domination next to service without praise or reward."
+          "why": "Examine intention, humility, joy, sacrifice, and perseverance; place warnings about domination next to service without praise or reward.",
+          "shortened": [
+            "The believers must be servants to the world of humanity. They must be kind to one another, nay sacrifice themselves for others."
+          ]
         },
         {
           "key": "source:AB05178",
@@ -952,7 +1219,10 @@
         },
         {
           "key": "source:AB12325",
-          "why": "Examine intention, humility, joy, sacrifice, and perseverance; place warnings about domination next to service without praise or reward."
+          "why": "Examine intention, humility, joy, sacrifice, and perseverance; place warnings about domination next to service without praise or reward.",
+          "shortened": [
+            "May they associate with all people with utmost kindliness and teach the holy human virtues. May they consider themselves servants of humanity and regard themselves as self-sacrificing for both stranger and friend. May they become a light of guidance for the wayward and an appearance of bounty for the deprived."
+          ]
         },
         {
           "key": "source:ABU0116",
@@ -960,7 +1230,10 @@
         },
         {
           "key": "source:AB06368",
-          "why": "Examine intention, humility, joy, sacrifice, and perseverance; place warnings about domination next to service without praise or reward."
+          "why": "Examine intention, humility, joy, sacrifice, and perseverance; place warnings about domination next to service without praise or reward.",
+          "shortened": [
+            "The ultimate aim and desire of their existence is to sacrifice all attributes for the sake of the life of the world and the revival of the peoples and tribes of the nations."
+          ]
         },
         {
           "key": "source:AB11828",
@@ -976,7 +1249,10 @@
         },
         {
           "key": "source:AB02891",
-          "why": "Examine intention, humility, joy, sacrifice, and perseverance; place warnings about domination next to service without praise or reward."
+          "why": "Examine intention, humility, joy, sacrifice, and perseverance; place warnings about domination next to service without praise or reward.",
+          "shortened": [
+            "Thou art spending thy days in service, and art yielding thy life for the sake of the deliverance of mankind."
+          ]
         },
         {
           "key": "source:AB01779",
@@ -984,7 +1260,11 @@
         },
         {
           "key": "source:AB07536",
-          "why": "Examine intention, humility, joy, sacrifice, and perseverance; place warnings about domination next to service without praise or reward."
+          "why": "Examine intention, humility, joy, sacrifice, and perseverance; place warnings about domination next to service without praise or reward.",
+          "shortened": [
+            "O thou respected one!",
+            "Your letter dated February 2nd, 1919, has been received and thy service to the world of humanity, during these days of terrible war, acceptable at the kingdom of God. Verily, thou hast magnificently engaged in service; hast given up thy rest and comfort in America and hast hastened to Europe so that thou mayest be of service to the world of humanity."
+          ]
         },
         {
           "key": "source:AB03415",
@@ -1000,11 +1280,17 @@
         },
         {
           "key": "source:AB00040",
-          "why": "Examine intention, humility, joy, sacrifice, and perseverance; place warnings about domination next to service without praise or reward."
+          "why": "Examine intention, humility, joy, sacrifice, and perseverance; place warnings about domination next to service without praise or reward.",
+          "shortened": [
+            "Strangers from Berlin and England become intimate friends while acquaintances act as strangers, even though it has become evident and clear to all Iranians, near and far, Turk and Tajik, leaving no room for doubt or uncertainty, that these oppressed ones, despite the utmost oppression and enmity of others, sacrifice their lives for the welfare of Iran and Iranians. Before the sword and dagger of the oppressors, they are a balm for every wound and the greatest antidote for every ailment. Though they drink the cup of poison, they offer the goblet of honey; they accept the sting and give angelic counsel in return. They close their eyes to personal comfort and peace of mind, striving for the happiness of all."
+          ]
         },
         {
           "key": "source:ABU1296",
-          "why": "Examine intention, humility, joy, sacrifice, and perseverance; place warnings about domination next to service without praise or reward."
+          "why": "Examine intention, humility, joy, sacrifice, and perseverance; place warnings about domination next to service without praise or reward.",
+          "shortened": [
+            "If a person is thirsty for the water of the Knowledge of God, his happiness is unfailing. If a soul is interested in humanitarian deeds, his joy is perennial."
+          ]
         },
         {
           "key": "source:ABU1566",
@@ -1016,11 +1302,18 @@
         },
         {
           "key": "source:AB04610",
-          "why": "Examine intention, humility, joy, sacrifice, and perseverance; place warnings about domination next to service without praise or reward."
+          "why": "Examine intention, humility, joy, sacrifice, and perseverance; place warnings about domination next to service without praise or reward.",
+          "shortened": [
+            "He forgets himself and lives in the flow of the love of the True One; he embraces all mankind with an ineffable tenderness, striving day and night to serve his fellowman.",
+            "He will enlist himself in the army of human progress, to realize the limitless advancement of the human race."
+          ]
         },
         {
           "key": "source:AB04515",
-          "why": "Examine intention, humility, joy, sacrifice, and perseverance; place warnings about domination next to service without praise or reward."
+          "why": "Examine intention, humility, joy, sacrifice, and perseverance; place warnings about domination next to service without praise or reward.",
+          "shortened": [
+            "Direct all your thoughts to the progress of all, strive for the betterment of the condition of all souls and the refinement of character, and become endowed with divine attributes."
+          ]
         },
         {
           "key": "source:AB00215",
@@ -1032,7 +1325,10 @@
         },
         {
           "key": "source:BH07244",
-          "why": "Examine intention, humility, joy, sacrifice, and perseverance; place warnings about domination next to service without praise or reward."
+          "why": "Examine intention, humility, joy, sacrifice, and perseverance; place warnings about domination next to service without praise or reward.",
+          "shortened": [
+            "The helper and sustainer hath been and is goodly deeds and praiseworthy character. Therefore must the people of God hold fast unto that which hath been mentioned and engage, according to their capacity, in reforming the world and refining the souls of nations."
+          ]
         },
         {
           "key": "source:BH07152",
@@ -1044,15 +1340,27 @@
         },
         {
           "key": "source:BH01714",
-          "why": "Examine intention, humility, joy, sacrifice, and perseverance; place warnings about domination next to service without praise or reward."
+          "why": "Examine intention, humility, joy, sacrifice, and perseverance; place warnings about domination next to service without praise or reward.",
+          "shortened": [
+            "Today is the day of service, obedience, righteousness, and forbearance. Strive ye to drink from the ocean of awareness and attain unto that which shall cause the tranquility of the world and the salvation of the nations."
+          ]
         },
         {
           "key": "source:BHU0015",
-          "why": "Hear repeated declarations of the purpose of revelation alongside opposition, repair of social life, and the effort to leave foundations that endure."
+          "why": "Hear repeated declarations of the purpose of revelation alongside opposition, repair of social life, and the effort to leave foundations that endure.",
+          "shortened": [
+            "We desire but the good of the world and the happiness of the nations",
+            "yet people treat us as they would treat corrupters deserving of imprisonment and banishment...",
+            "that all nations should become one in faith and all men as brothers; that the bonds of affection and unity between the sons of men should be strengthened; that diversity of religion should cease, and differences of race be annulled",
+            "what fault can be found in these things?..."
+          ]
         },
         {
           "key": "source:ABU0935",
-          "why": "Hear repeated declarations of the purpose of revelation alongside opposition, repair of social life, and the effort to leave foundations that endure."
+          "why": "Hear repeated declarations of the purpose of revelation alongside opposition, repair of social life, and the effort to leave foundations that endure.",
+          "shortened": [
+            "He accepted all persecutions and hardships; and chose us for the illumination of the world of humanity, for the moral and religious education of the races, for the spiritual awakening of the people."
+          ]
         },
         {
           "key": "source:BH00143",
@@ -1064,7 +1372,10 @@
         },
         {
           "key": "source:BH07046",
-          "why": "Hear repeated declarations of the purpose of revelation alongside opposition, repair of social life, and the effort to leave foundations that endure."
+          "why": "Hear repeated declarations of the purpose of revelation alongside opposition, repair of social life, and the effort to leave foundations that endure.",
+          "shortened": [
+            "That which flows from the Divine Pen aims at the preservation of the world and the attainment of the Most Great Station."
+          ]
         },
         {
           "key": "source:AB00276",
@@ -1076,11 +1387,17 @@
         },
         {
           "key": "source:BH02503",
-          "why": "Hear repeated declarations of the purpose of revelation alongside opposition, repair of social life, and the effort to leave foundations that endure."
+          "why": "Hear repeated declarations of the purpose of revelation alongside opposition, repair of social life, and the effort to leave foundations that endure.",
+          "shortened": [
+            "O My loved ones! Ye are the world's spiritual physicians. It is incumbent upon you, through the power and might of God, to heal by the sovereign  remedy of the Most Great Name the soul-sickness of the kindreds of the earth and clarify the vision of all mankind...."
+          ]
         },
         {
           "key": "source:ABU1826",
-          "why": "Hear repeated declarations of the purpose of revelation alongside opposition, repair of social life, and the effort to leave foundations that endure."
+          "why": "Hear repeated declarations of the purpose of revelation alongside opposition, repair of social life, and the effort to leave foundations that endure.",
+          "shortened": [
+            "The purpose of faith is the purification of souls and the result of recognition is the refinement of hearts. The foundation of God's Cause rests upon love and the unity of the human world, and it is the means for removing moral corruptions and material harms. Through the power of faith, humans can be saved from these harms and promote love and affection between hearts, spread the signs of unity and oneness, disseminate universal brotherhood, and become servants of humankind."
+          ]
         },
         {
           "key": "source:ABU0820",
@@ -1088,11 +1405,17 @@
         },
         {
           "key": "source:ABU1402",
-          "why": "Hear repeated declarations of the purpose of revelation alongside opposition, repair of social life, and the effort to leave foundations that endure."
+          "why": "Hear repeated declarations of the purpose of revelation alongside opposition, repair of social life, and the effort to leave foundations that endure.",
+          "shortened": [
+            "Ninthly: He must be the Establisher of Universal Civilization; the Unifier of religions, the standard-bearer of universal Peace and the embodiment of all the highest and noblest virtues of the world of humanity."
+          ]
         },
         {
           "key": "source:BH04228",
-          "why": "Hear repeated declarations of the purpose of revelation alongside opposition, repair of social life, and the effort to leave foundations that endure."
+          "why": "Hear repeated declarations of the purpose of revelation alongside opposition, repair of social life, and the effort to leave foundations that endure.",
+          "shortened": [
+            "The King of Eternity hath come for the betterment of the world."
+          ]
         },
         {
           "key": "source:BH05096",
@@ -1104,19 +1427,31 @@
         },
         {
           "key": "source:BH07562",
-          "why": "Hear repeated declarations of the purpose of revelation alongside opposition, repair of social life, and the effort to leave foundations that endure."
+          "why": "Hear repeated declarations of the purpose of revelation alongside opposition, repair of social life, and the effort to leave foundations that endure.",
+          "shortened": [
+            "Now reflect upon the trees of existence: if they receive the education of the true Educator, they will turn to the reformation of the world."
+          ]
         },
         {
           "key": "source:BH07999",
-          "why": "Hear repeated declarations of the purpose of revelation alongside opposition, repair of social life, and the effort to leave foundations that endure."
+          "why": "Hear repeated declarations of the purpose of revelation alongside opposition, repair of social life, and the effort to leave foundations that endure.",
+          "shortened": [
+            "That which hath been made manifest in this Most Great Revelation is a mighty cause for the reformation of the world and the refinement of the souls of all peoples."
+          ]
         },
         {
           "key": "source:BH06850",
-          "why": "Hear repeated declarations of the purpose of revelation alongside opposition, repair of social life, and the effort to leave foundations that endure."
+          "why": "Hear repeated declarations of the purpose of revelation alongside opposition, repair of social life, and the effort to leave foundations that endure.",
+          "shortened": [
+            "This Wronged One hath at all times summoned the people unto truth and hath had no purpose except the reformation of God's servants and the edification of the world."
+          ]
         },
         {
           "key": "source:BH06556",
-          "why": "Hear repeated declarations of the purpose of revelation alongside opposition, repair of social life, and the effort to leave foundations that endure."
+          "why": "Hear repeated declarations of the purpose of revelation alongside opposition, repair of social life, and the effort to leave foundations that endure.",
+          "shortened": [
+            "Before all faces, without any screen or veil, He spoke that which would reform the world and refine the nations."
+          ]
         },
         {
           "key": "source:BH10229",
@@ -1124,11 +1459,17 @@
         },
         {
           "key": "source:BH05802",
-          "why": "Hear repeated declarations of the purpose of revelation alongside opposition, repair of social life, and the effort to leave foundations that endure."
+          "why": "Hear repeated declarations of the purpose of revelation alongside opposition, repair of social life, and the effort to leave foundations that endure.",
+          "shortened": [
+            "The Wronged One desireth naught save the salvation of the world and the exaltation of the nations."
+          ]
         },
         {
           "key": "source:BH11647",
-          "why": "Hear repeated declarations of the purpose of revelation alongside opposition, repair of social life, and the effort to leave foundations that endure."
+          "why": "Hear repeated declarations of the purpose of revelation alongside opposition, repair of social life, and the effort to leave foundations that endure.",
+          "shortened": [
+            "Most are unaware of the intention of this Wronged One and His loved ones, for were they to become cognizant they would testify that there hath been no purpose save the betterment, elevation and advancement of the servants."
+          ]
         },
         {
           "key": "source:BH04347",
@@ -1136,7 +1477,10 @@
         },
         {
           "key": "source:BH04262",
-          "why": "Hear repeated declarations of the purpose of revelation alongside opposition, repair of social life, and the effort to leave foundations that endure."
+          "why": "Hear repeated declarations of the purpose of revelation alongside opposition, repair of social life, and the effort to leave foundations that endure.",
+          "shortened": [
+            "Until now, whatsoever hath been revealed from the Most Exalted Pen for the reformation of the world and the removal of corruption hath not been accepted, as evidenced by one who dwelt for some time before the Divine Throne and heard with his own ears the counsels and exhortations of the Wronged One of the world, yet after being dismissed from the Most Holy Court [...] and spoke contrary to the divine command."
+          ]
         },
         {
           "key": "source:BH04418",
@@ -1148,15 +1492,24 @@
         },
         {
           "key": "source:BH03486",
-          "why": "Hear repeated declarations of the purpose of revelation alongside opposition, repair of social life, and the effort to leave foundations that endure."
+          "why": "Hear repeated declarations of the purpose of revelation alongside opposition, repair of social life, and the effort to leave foundations that endure.",
+          "shortened": [
+            "He has had and has no purpose except the reformation of the world and all that is therein, that perchance the world-consuming sun of ignorant fanaticism may be extinguished and the East and West of the world may become connected and united in all respects."
+          ]
         },
         {
           "key": "source:BH01385",
-          "why": "Hear repeated declarations of the purpose of revelation alongside opposition, repair of social life, and the effort to leave foundations that endure."
+          "why": "Hear repeated declarations of the purpose of revelation alongside opposition, repair of social life, and the effort to leave foundations that endure.",
+          "shortened": [
+            "Perchance the friends of God may become the cause of humanity's salvation and the means of extinguishing the fire of hatred that has ever been and continues to be ablaze in the hearts of the world's peoples."
+          ]
         },
         {
           "key": "source:BH03800",
-          "why": "Hear repeated declarations of the purpose of revelation alongside opposition, repair of social life, and the effort to leave foundations that endure."
+          "why": "Hear repeated declarations of the purpose of revelation alongside opposition, repair of social life, and the effort to leave foundations that endure.",
+          "shortened": [
+            "The people of God have appeared specifically for the reformation of the world and the education of its peoples. By the command of God, exalted be His glory, they have arisen to serve all, their hearts sanctified and purified from rancor, hatred, doubts, idle fancies, selfish desires and vain imaginings."
+          ]
         },
         {
           "key": "source:AB10388",
@@ -1164,7 +1517,10 @@
         },
         {
           "key": "source:BH00470",
-          "why": "Hear repeated declarations of the purpose of revelation alongside opposition, repair of social life, and the effort to leave foundations that endure."
+          "why": "Hear repeated declarations of the purpose of revelation alongside opposition, repair of social life, and the effort to leave foundations that endure.",
+          "shortened": [
+            "O Amin! Beseech God that He may aid His servants, that it may become clear and evident to all that the people of Baha have desired and will continue to desire naught save the betterment of the world."
+          ]
         },
         {
           "key": "source:BH03065",
@@ -1172,7 +1528,10 @@
         },
         {
           "key": "source:BH04919",
-          "why": "Hear repeated declarations of the purpose of revelation alongside opposition, repair of social life, and the effort to leave foundations that endure."
+          "why": "Hear repeated declarations of the purpose of revelation alongside opposition, repair of social life, and the effort to leave foundations that endure.",
+          "shortened": [
+            "Say: O people of God! Hold fast unto wisdom and cleave unto the betterment of the world and the refinement of the souls of nations."
+          ]
         },
         {
           "key": "source:BH06453",
@@ -1180,7 +1539,10 @@
         },
         {
           "key": "source:BH06285",
-          "why": "Hear repeated declarations of the purpose of revelation alongside opposition, repair of social life, and the effort to leave foundations that endure."
+          "why": "Hear repeated declarations of the purpose of revelation alongside opposition, repair of social life, and the effort to leave foundations that endure.",
+          "shortened": [
+            "You too, God willing, after arriving and attaining His presence and meeting Him, shall become occupied with that which will lead to the reformation of the world and the refinement of the nations."
+          ]
         },
         {
           "key": "source:BH06627",
@@ -1188,23 +1550,39 @@
         },
         {
           "key": "source:BH04362",
-          "why": "Hear repeated declarations of the purpose of revelation alongside opposition, repair of social life, and the effort to leave foundations that endure."
+          "why": "Hear repeated declarations of the purpose of revelation alongside opposition, repair of social life, and the effort to leave foundations that endure.",
+          "shortened": [
+            "Well is it with that soul who in this Most Great Day hath attained unto the good-pleasure of God and from whom hath appeared that which would cause the reformation of the world."
+          ]
         },
         {
           "key": "source:BH09710",
-          "why": "Hear repeated declarations of the purpose of revelation alongside opposition, repair of social life, and the effort to leave foundations that endure."
+          "why": "Hear repeated declarations of the purpose of revelation alongside opposition, repair of social life, and the effort to leave foundations that endure.",
+          "shortened": [
+            "This Wronged One hath ever been and is occupied, night and day, with the reformation of the world and the reconciliation of hearts."
+          ]
         },
         {
           "key": "source:ABU1210",
-          "why": "Hear repeated declarations of the purpose of revelation alongside opposition, repair of social life, and the effort to leave foundations that endure."
+          "why": "Hear repeated declarations of the purpose of revelation alongside opposition, repair of social life, and the effort to leave foundations that endure.",
+          "shortened": [
+            "Man must render a worthy service to the world of humanity. He must render a worthier service to God. He must plant a tree which may produce fruits. He must lay a foundation which may remain unshakable throughout all the coming ages."
+          ]
         },
         {
           "key": "source:AB03582",
-          "why": "Hear repeated declarations of the purpose of revelation alongside opposition, repair of social life, and the effort to leave foundations that endure."
+          "why": "Hear repeated declarations of the purpose of revelation alongside opposition, repair of social life, and the effort to leave foundations that endure.",
+          "shortened": [
+            "One must live in accord with the Exhortations and Advices of the Blessed Perfection, and behave with such deeds and actions as to become conducive to the illumination of the world, and the manifestation of mercifulness among nations.",
+            "As long as life is in this body one must exert himself and put forth an effort, so that he may lay a foundation and build a structure that will stand through the onward rolling of centuries and cycles, and whose pillars neither the hands of posterity nor the future generations will be able to destroy."
+          ]
         },
         {
           "key": "source:AB00979",
-          "why": "Hear repeated declarations of the purpose of revelation alongside opposition, repair of social life, and the effort to leave foundations that endure."
+          "why": "Hear repeated declarations of the purpose of revelation alongside opposition, repair of social life, and the effort to leave foundations that endure.",
+          "shortened": [
+            "I swear by the grace of the Greatest Name that if souls would arise as they should, in a brief time the face of the earth would become the supreme paradise and this dusty heap would become the Abha Paradise."
+          ]
         },
         {
           "key": "source:AB02654",
@@ -1212,7 +1590,10 @@
         },
         {
           "key": "source:ABU0158",
-          "why": "Let counsel, encouragement, and prayer gather the preceding practical duties into a common effort, ending the linked readings with care for every person, including enemies."
+          "why": "Let counsel, encouragement, and prayer gather the preceding practical duties into a common effort, ending the linked readings with care for every person, including enemies.",
+          "shortened": [
+            "The world of humanity is filled with darkness; you are its radiant candles. It is very poor; you must be the treasury of the Kingdom. It is exceedingly debased; you must be the cause of its exaltation. It is bereft of divine graces; you must give it impetus and spiritual quickening."
+          ]
         },
         {
           "key": "source:ABU0665",
@@ -1220,7 +1601,10 @@
         },
         {
           "key": "source:AB00915",
-          "why": "Let counsel, encouragement, and prayer gather the preceding practical duties into a common effort, ending the linked readings with care for every person, including enemies."
+          "why": "Let counsel, encouragement, and prayer gather the preceding practical duties into a common effort, ending the linked readings with care for every person, including enemies.",
+          "shortened": [
+            "Perchance such ways and words from you will make this darksome world turn bright at last; will make this dusty earth turn heavenly, this devilish prison place become a royal palace of the Lord -- so that war and strife will pass and be no more, and love and trust will pitch their tents on the summits of the world."
+          ]
         },
         {
           "key": "source:AB00341",
@@ -1228,7 +1612,10 @@
         },
         {
           "key": "source:ABU1276",
-          "why": "Let counsel, encouragement, and prayer gather the preceding practical duties into a common effort, ending the linked readings with care for every person, including enemies."
+          "why": "Let counsel, encouragement, and prayer gather the preceding practical duties into a common effort, ending the linked readings with care for every person, including enemies.",
+          "shortened": [
+            "The truth of this statement was not so well known while they were here; but after they return home, this will become manifest, and you will hear what they will achieve. Now you should pray for them and supplicate confirmation and assistance for them that they may be able to promote the Word of God and be favored with the privilege of serving the world of humanity, that they may help to establish universal peace and lay the foundation of the oneness of the world of humanity."
+          ]
         },
         {
           "key": "source:AB08536",
@@ -1240,7 +1627,10 @@
         },
         {
           "key": "source:AB01914",
-          "why": "Let counsel, encouragement, and prayer gather the preceding practical duties into a common effort, ending the linked readings with care for every person, including enemies."
+          "why": "Let counsel, encouragement, and prayer gather the preceding practical duties into a common effort, ending the linked readings with care for every person, including enemies.",
+          "shortened": [
+            "Jinab-i-Amin offers utmost praise for your outstanding services, that praise be to God, you are succeeding with perfect strength in servitude to the Threshold of the Divine Unity and are benevolent toward all humanity from every direction."
+          ]
         },
         {
           "key": "source:AB03066",
@@ -1252,11 +1642,17 @@
         },
         {
           "key": "source:AB07241",
-          "why": "Let counsel, encouragement, and prayer gather the preceding practical duties into a common effort, ending the linked readings with care for every person, including enemies."
+          "why": "Let counsel, encouragement, and prayer gather the preceding practical duties into a common effort, ending the linked readings with care for every person, including enemies.",
+          "shortened": [
+            "Become luminous candles in the assemblage of the world and stars in the firmament of nations and peoples. Become fountains of knowledge and learning, and the wise ones of the world of grace and insight."
+          ]
         },
         {
           "key": "source:BH05958",
-          "why": "Let counsel, encouragement, and prayer gather the preceding practical duties into a common effort, ending the linked readings with care for every person, including enemies."
+          "why": "Let counsel, encouragement, and prayer gather the preceding practical duties into a common effort, ending the linked readings with care for every person, including enemies.",
+          "shortened": [
+            "Be as sight unto the temple of man and as the tongue unto humanity. Thus hast thou been commanded from before the All-Merciful in a noble Tablet."
+          ]
         },
         {
           "key": "source:AB09989",
@@ -1264,11 +1660,17 @@
         },
         {
           "key": "source:AB08653",
-          "why": "Let counsel, encouragement, and prayer gather the preceding practical duties into a common effort, ending the linked readings with care for every person, including enemies."
+          "why": "Let counsel, encouragement, and prayer gather the preceding practical duties into a common effort, ending the linked readings with care for every person, including enemies.",
+          "shortened": [
+            "They strive day and night to render service to the divine world and become the cause of illumination to the world of humanity."
+          ]
         },
         {
           "key": "source:AB09722",
-          "why": "Let counsel, encouragement, and prayer gather the preceding practical duties into a common effort, ending the linked readings with care for every person, including enemies."
+          "why": "Let counsel, encouragement, and prayer gather the preceding practical duties into a common effort, ending the linked readings with care for every person, including enemies.",
+          "shortened": [
+            "Be a well-wisher of humanity and a servant of mankind. Thus will the power of the Kingdom sustain thee and the gates of revelation be opened unto thee."
+          ]
         },
         {
           "key": "source:AB08040",
@@ -1276,11 +1678,19 @@
         },
         {
           "key": "source:AB11670",
-          "why": "Let counsel, encouragement, and prayer gather the preceding practical duties into a common effort, ending the linked readings with care for every person, including enemies."
+          "why": "Let counsel, encouragement, and prayer gather the preceding practical duties into a common effort, ending the linked readings with care for every person, including enemies.",
+          "shortened": [
+            "And in return for this bestowal, adopt the way of the chosen ones, seek the bounty of the Abha Kingdom, become the cause of comfort to the world of creation and adorn it.",
+            "This is conditional upon conducting yourselves among humanity according to the divine teachings, becoming well-wishers of kings and subjects alike, causing the life of the human world, and becoming centers of spiritual inspirations."
+          ]
         },
         {
           "key": "source:AB02220",
-          "why": "Let counsel, encouragement, and prayer gather the preceding practical duties into a common effort, ending the linked readings with care for every person, including enemies."
+          "why": "Let counsel, encouragement, and prayer gather the preceding practical duties into a common effort, ending the linked readings with care for every person, including enemies.",
+          "shortened": [
+            "They must become the cause of the adornment of the world and comfort of humanity.",
+            "The spirit of the love of God will train souls who will be the mercy of the Lord and the grace and gift of the Creator, becoming manifestations of divine favor and the cause of comfort."
+          ]
         },
         {
           "key": "source:ABU1424",
@@ -1288,7 +1698,10 @@
         },
         {
           "key": "source:ABU2277",
-          "why": "Let counsel, encouragement, and prayer gather the preceding practical duties into a common effort, ending the linked readings with care for every person, including enemies."
+          "why": "Let counsel, encouragement, and prayer gather the preceding practical duties into a common effort, ending the linked readings with care for every person, including enemies.",
+          "shortened": [
+            "They must exert themselves to bring about the Oneness of the world of humanity. They must put forth the utmost effort to conciliate the hearts. They must be the means of the happiness and progress of the world."
+          ]
         },
         {
           "key": "source:ABU2256",
@@ -1296,11 +1709,17 @@
         },
         {
           "key": "source:ABU2681",
-          "why": "Let counsel, encouragement, and prayer gather the preceding practical duties into a common effort, ending the linked readings with care for every person, including enemies."
+          "why": "Let counsel, encouragement, and prayer gather the preceding practical duties into a common effort, ending the linked readings with care for every person, including enemies.",
+          "shortened": [
+            "Tell the friends that whenever I receive news that they are in harmony so that their hearts are overflowing with love for one another, that they are a comfort to one another, and that they have devoted their time to serving mankind without any exception, then my health improves more and more."
+          ]
         },
         {
           "key": "source:AB03250",
-          "why": "Let counsel, encouragement, and prayer gather the preceding practical duties into a common effort, ending the linked readings with care for every person, including enemies."
+          "why": "Let counsel, encouragement, and prayer gather the preceding practical duties into a common effort, ending the linked readings with care for every person, including enemies.",
+          "shortened": [
+            "In your behalf I solicit and entreat to the Abha Kingdom and beg for the hearts a new life and for the spirits a heavenly glad tiding; that each one of you may become a resplendent sign, a banner in the Abha Kingdom, the cause of love and of amity among all men and serviceable to the world of Humanity; so that the Divine Bounty may be showered and unbounded joy may be realized."
+          ]
         },
         {
           "key": "source:AB02417",
@@ -1312,15 +1731,25 @@
         },
         {
           "key": "source:AB06888",
-          "why": "Let counsel, encouragement, and prayer gather the preceding practical duties into a common effort, ending the linked readings with care for every person, including enemies."
+          "why": "Let counsel, encouragement, and prayer gather the preceding practical duties into a common effort, ending the linked readings with care for every person, including enemies.",
+          "shortened": [
+            "Supplication:",
+            "O thou almighty God! Make the spiritual assembly of Philadelphia the manifestor of invisible confirmations, and the dawning-place of the lights of the Merciful so that its members arise to serve the world of man and be benevolent to the children of humanity, and adore existence and become the cause of Eternal Life."
+          ]
         },
         {
           "key": "source:AB04340",
-          "why": "Let counsel, encouragement, and prayer gather the preceding practical duties into a common effort, ending the linked readings with care for every person, including enemies."
+          "why": "Let counsel, encouragement, and prayer gather the preceding practical duties into a common effort, ending the linked readings with care for every person, including enemies.",
+          "shortened": [
+            "My hope is that you will all be enabled to serve the world of humanity unitedly."
+          ]
         },
         {
           "key": "source:ABU2174",
-          "why": "Let counsel, encouragement, and prayer gather the preceding practical duties into a common effort, ending the linked readings with care for every person, including enemies."
+          "why": "Let counsel, encouragement, and prayer gather the preceding practical duties into a common effort, ending the linked readings with care for every person, including enemies.",
+          "shortened": [
+            "Confirm us in the service of the world of humanity. Make us the cause of good-fellowship between the hearts!"
+          ]
         },
         {
           "key": "source:AB03006",
@@ -1332,7 +1761,10 @@
         },
         {
           "key": "source:BH01080",
-          "why": "Let counsel, encouragement, and prayer gather the preceding practical duties into a common effort, ending the linked readings with care for every person, including enemies."
+          "why": "Let counsel, encouragement, and prayer gather the preceding practical duties into a common effort, ending the linked readings with care for every person, including enemies.",
+          "shortened": [
+            "All the friends of God must strive for the reformation of the world. If outward means are cut off, they must hold fast to spiritual means through humility and supplication."
+          ]
         },
         {
           "key": "source:BH02357",
@@ -1340,7 +1772,10 @@
         },
         {
           "key": "source:BH01318",
-          "why": "Let counsel, encouragement, and prayer gather the preceding practical duties into a common effort, ending the linked readings with care for every person, including enemies."
+          "why": "Let counsel, encouragement, and prayer gather the preceding practical duties into a common effort, ending the linked readings with care for every person, including enemies.",
+          "shortened": [
+            "I ask God that His name be exalted through the unity, accord and sincerity of those noble souls. May their intention be the reformation of the world and the tranquility of all peoples."
+          ]
         },
         {
           "key": "source:BH00120",
@@ -1352,7 +1787,10 @@
         },
         {
           "key": "source:AB00863",
-          "why": "Let counsel, encouragement, and prayer gather the preceding practical duties into a common effort, ending the linked readings with care for every person, including enemies."
+          "why": "Let counsel, encouragement, and prayer gather the preceding practical duties into a common effort, ending the linked readings with care for every person, including enemies.",
+          "shortened": [
+            "We are broken-winged birds, bestow upon us new wings so that we become the cause of peace and tranquillity for the world of creation, the well-wishers of every soul, that we may serve the world of humanity, and strive in the common interest, obey all just leaders and labour with trustworthiness for the welfare of governments, for Thou hast made obedience, trustworthiness, truthfulness and submission towards governments a binding obligation."
+          ]
         },
         {
           "key": "source:AB05922",
@@ -1368,15 +1806,24 @@
         },
         {
           "key": "selection:00827b8c44a181c78ba68f04",
-          "why": "Begin the supplied closing readings with the coherence of worship, humanitarian work, education, and science."
+          "why": "Begin the supplied closing readings with the coherence of worship, humanitarian work, education, and science.",
+          "shortened": [
+            "The oneness of mankind, which is at once the operating principle and ultimate goal of His Revelation, implies the achievement of a dynamic coherence between the spiritual and practical requirements of life on earth. The indispensability of this coherence is unmistakably illustrated in His ordination of the Mashriqu'l-Adhkar, the spiritual centre of every Baha'i community round which must flourish dependencies dedicated to the social, humanitarian, educational and scientific advancement of mankind."
+          ]
         },
         {
           "key": "selection:c88d893734c3ed8941d7b74f",
-          "why": "Read the supplied institutional selections as a distinct closing movement: spiritual and material coherence, public participation, education, grassroots capacity, learning, and a sober view of suffering."
+          "why": "Read the supplied institutional selections as a distinct closing movement: spiritual and material coherence, public participation, education, grassroots capacity, learning, and a sober view of suffering.",
+          "shortened": [
+            "As the Movement extends the bounds of its influence and its opportunities for fuller recognition multiply, the twofold character of the obligations imposed on its National elected representatives should, I feel, be increasingly emphasized. Whilst chiefly engaged in the pursuit of their major task, consisting chiefly in the formation and the consolidation of Baha'i administrative institutions, they should endeavor to participate, within recognized limits, in the work of institutions which though unaware of the claim of the Baha'i Cause are prompted by a sincere desire to promote the spirit that animates the Faith."
+          ]
         },
         {
           "key": "selection:2403fa0fb18f9e3e5ad9a6b5",
-          "why": "Read the supplied institutional selections as a distinct closing movement: spiritual and material coherence, public participation, education, grassroots capacity, learning, and a sober view of suffering."
+          "why": "Read the supplied institutional selections as a distinct closing movement: spiritual and material coherence, public participation, education, grassroots capacity, learning, and a sober view of suffering.",
+          "shortened": [
+            "In philanthropic enterprises and acts of charity, in promotion of the general welfare and furtherance of the public good including that of every group without any exceptions whatever, let the beloved of God attract the favorable attention of all, and lead all the rest. Let them, freely and without charge, open the doors of their schools and their higher institutions for the study of sciences and the liberal arts, to non-Baha'i children and youth who are poor and in need. . . ."
+          ]
         },
         {
           "key": "selection:3c09ebd65320addb81669d6b",
@@ -1396,11 +1843,17 @@
         },
         {
           "key": "selection:c62b600b956f4bab6d11d08f",
-          "why": "Clarify that development has value in itself and is not justified by recruitment."
+          "why": "Clarify that development has value in itself and is not justified by recruitment.",
+          "shortened": [
+            "Social and economic development is an important area of activity in and of itself. Its justification should not be sought in its ability to produce enrollments; it complements teaching and also contributes to it."
+          ]
         },
         {
           "key": "selection:24744c7a7f84c9cf441e53bf",
-          "why": "Shift the question from doing something for a population to strengthening its own capacity to act."
+          "why": "Shift the question from doing something for a population to strengthening its own capacity to act.",
+          "shortened": [
+            "...while social action may involve the provision of goods and services in some form, its primary concern must be to build capacity within a given population to participate in creating a better world. Social change is not a project that one group of people carries out for the benefit of another. The scope and complexity of social action must be commensurate with the human resources available in a village or neighbourhood to carry it forward. Efforts best begin, then, on a modest scale and grow organically as capacity within the population develops."
+          ]
         },
         {
           "key": "selection:007f0a1b86c4b95e6c167494",
@@ -1416,11 +1869,18 @@
         },
         {
           "key": "selection:f1c310517fc7ec65a991b491",
-          "why": "Read the supplied institutional selections as a distinct closing movement: spiritual and material coherence, public participation, education, grassroots capacity, learning, and a sober view of suffering."
+          "why": "Read the supplied institutional selections as a distinct closing movement: spiritual and material coherence, public participation, education, grassroots capacity, learning, and a sober view of suffering.",
+          "shortened": [
+            "Secondly, we must always bear in mind that there are so few Baha'is in the world, relative to the world's population, and so many people in need, that even if all of us gave all we had, it would not alleviate more than an infinitesimal amount of suffering. This does not mean we must not help the needy, we should; but our contributions to the Faith are the surest way of lifting once and for all time the burden of hunger and misery from mankind, for it is only through the System of Baha'u'llah--Divine in origin--that the world can be gotten on its feet, and want, fear, hunger, war, etc., be eliminated."
+          ]
         },
         {
           "key": "selection:d6e0286fa6339fb6149f8929",
-          "why": "Close with an acknowledgment of continuing suffering, leaving room for humility about both its meaning and the limits of our understanding."
+          "why": "Close with an acknowledgment of continuing suffering, leaving room for humility about both its meaning and the limits of our understanding.",
+          "shortened": [
+            "As long as there will be life on earth, there will also be suffering, in various forms and degrees. But suffering, although an inescapable reality, can nevertheless be utilized as a means for the attainment of happiness. This is the interpretation given to it by all the Prophets and saints, who, in the midst of severe tests and trials, felt happy and joyous and experienced what is best and holiest in life. Suffering is both a reminder and a guide.",
+            "God's wisdom is, indeed, inscrutable to us all, and it is no use pushing too far trying to discover that which shall always remain a mystery to our mind."
+          ]
         }
       ],
       "questions": [

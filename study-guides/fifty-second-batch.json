@@ -5,7 +5,7 @@
       "id": "AC28DBB6808BE947DE1EE25ECB14F544",
       "slug": "westerncritique",
       "displayTitle": "Critique of Western culture: measuring a civilization",
-      "introduction": "A city can possess extraordinary wealth while leaving its people in want. That contrast gives these readings a searching question: what makes a civilization worthy of its achievements? Their criticisms touch industrial exhaustion, manufactured needs, colonial double standards, nationalism, and the gulf between professed religion and war. Other passages acknowledge material accomplishment and envision reciprocal learning between East and West. The connected subjects of Western achievements and criticism of Eastern society help keep this wider horizon in view. These writings and reported conversations also contain sharp rhetoric, historical generalizations, and words spoken by people other than the central speaker; attentive reading asks who is speaking and in what setting. Jesus’ parable of the rich man enlarging his barns offers a further challenge to equating accumulation with a fulfilled life [1]. Together, the readings invite standards of progress attentive to human dignity, spiritual purpose, and the conditions of ordinary people.",
+      "introduction": "England is awake, ‘Abdu’l-Bahá told a parish rector, there is spiritual life here; but your poor are so very poor, and that should not be. His admiration for the West was real, and so was the measure He applied to it. Fruit thrown into the sea to keep prices high, workers oiled three times a day like the machines they tend, needs that multiply as fast as the means to satisfy them, nations killing each other over boundaries drawn in imagination, churches blessing the guns of both sides: each observation asks what a civilization is for, and whether its achievements reach the people who live inside it. The East, He insisted, must learn from the West’s material progress while the West learns from the East’s spiritual inheritance, so the criticism is never contempt. Some of the sharper remarks belong to students, a Bedouin woman, or a dinner companion rather than to Him, and deserve to be read as such. Jesus’ rich man, planning larger barns on the night of his death, turns the same question back on any reader [1]. From here the inquiry moves to materialism, to the economic problem and its solution, and to the critique of Eastern values that completes the picture.",
       "arc": "Begin with poverty amid achievement, examine the human costs of distorted progress, and return to reciprocal learning and spiritual renewal.",
       "order": [
         {
@@ -34,7 +34,10 @@
         },
         {
           "key": "source:ABU0173",
-          "why": "Follow the image of workers treated as machinery."
+          "why": "Follow the image of workers treated as machinery.",
+          "shortened": [
+            "'These people are parts of their machinery. Just as the machinery are constantly working in a factory automatically without knowing why or wherefore, so these people are working. The machinery is oiled once in a day to run smoothly. These Westerners are oiled three times a day.'"
+          ]
         },
         {
           "key": "source:ABU2138",
@@ -62,7 +65,10 @@
         },
         {
           "key": "source:BH02699",
-          "why": "Extend the criticism to sacrifice for trivial aims."
+          "why": "Extend the criticism to sacrifice for trivial aims.",
+          "shortened": [
+            "It can be observed that the people of the West cling to the most trivial things which in truth yield no fruit, to such an extent that thousands upon thousands have sacrificed and continue to sacrifice their lives for their manifestation and advancement."
+          ]
         },
         {
           "key": "source:AB00386",
@@ -86,7 +92,10 @@
         },
         {
           "key": "source:ABU0426",
-          "why": "Place warfare against the professed example of Christ."
+          "why": "Place warfare against the professed example of Christ.",
+          "shortened": [
+            "The deeds which are perpetrated by the present civilized, Christian nations of Europe are opposite to the commandments of Christ. He shuns their association and shudders at the very thought of their foul actions."
+          ]
         },
         {
           "key": "source:ABU0803",
@@ -94,7 +103,10 @@
         },
         {
           "key": "source:AB01150",
-          "why": "Widen the perspective beyond nationalism."
+          "why": "Widen the perspective beyond nationalism.",
+          "shortened": [
+            "The American continent and Europe, that is, Germany and France, are a small portion of the terrestrial globe. What is the importance of this globe?-for it commands no importance when compared to these infinite bodies that abound in the limitless space; it is like unto an insignificant spot on the surface of the wide ocean. No importance should be attached to the terrestrial globe, how much less to one of the countries of the globe. The inhabitants of countries are so immersed in their imaginations that they carved for themselves statues of imagination, which they worship, when actually they are naught but fantastic images, yet in spite of that they are worshipped by everyone."
+          ]
         },
         {
           "key": "source:ABU1660",
@@ -114,11 +126,18 @@
         },
         {
           "key": "source:ABU3095",
-          "why": "Read the students’ racial opinions as attributed views."
+          "why": "Read the students’ racial opinions as attributed views.",
+          "shortened": [
+            "The College of Beirut is very good. you cannot realize how the Persian students spent their time in profitless pursuits in London and Paris! Not only the Europeans look down upon them as members of an inferior race and half-civilized but they (the students) confirm them in this opinion by indulging in questionable pleasures and vices of the European lower society."
+          ]
         },
         {
           "key": "source:ABU2574",
-          "why": "Retain the severe reported comparison without making it a general description of peoples."
+          "why": "Retain the severe reported comparison without making it a general description of peoples.",
+          "shortened": [
+            "Especially in these countries which are exceedingly prosperous - in truth it is like a beehive. All are immersed in materialism.",
+            "Indeed the difference between these souls and the inhabitants of central Africa is that these are civilized animals while those are savage animals."
+          ]
         },
         {
           "key": "source:ABU1894",
@@ -126,7 +145,10 @@
         },
         {
           "key": "source:ABU1106",
-          "why": "Distinguish the quoted Bedouin woman’s reply from the narrator’s voice."
+          "why": "Distinguish the quoted Bedouin woman’s reply from the narrator’s voice.",
+          "shortened": [
+            "Fie upon your town and your civilization and your snobbish manners! I hate them! I cannot bear to look at them! They are all cheap tricks sanctioned by your so-called society. You come abroad to display your crafty etiquette of mock modesty and respectability, while in reality you are physically and morally corrupt, afflicted with loathsome diseases."
+          ]
         },
         {
           "key": "source:ABU2319",
@@ -142,11 +164,17 @@
         },
         {
           "key": "source:AB02464",
-          "why": "Examine the criticism of education and character in its historical language."
+          "why": "Examine the criticism of education and character in its historical language.",
+          "shortened": [
+            "Certainly, the women teachers from Europe give instruction in language and scripts, and housekeeping, and embroidery and sewing; but their pupils' character is completely altered, to such a point that the girls no longer care for their mothers, their disposition is spoiled, they misbehave, they become self-satisfied and proud."
+          ]
         },
         {
           "key": "source:AB03249",
-          "why": "Follow with the warning about students neglecting their studies."
+          "why": "Follow with the warning about students neglecting their studies.",
+          "shortened": [
+            "I hope they remain under the protection and guardianship of the Blessed Beauty, but other Iranian students in foreign countries gain nothing except confused thoughts and base desires. They do not apply themselves to their studies but are always occupied with combining that which is meaningless."
+          ]
         },
         {
           "key": "source:ABU0697",
@@ -206,7 +234,10 @@
         },
         {
           "key": "source:AB04718",
-          "why": "Follow the warning about harmful claims to reform."
+          "why": "Follow the warning about harmful claims to reform.",
+          "shortened": [
+            "In every land if they seek reform, they resort to corruption, and if they seek remedy, they pursue pain. They raise the banner of freedom yet commit injustice. They seek destruction while claiming to establish foundations. This harm is present while benefit is absent."
+          ]
         },
         {
           "key": "source:ABU0508",
@@ -214,7 +245,10 @@
         },
         {
           "key": "source:ABU3038",
-          "why": "Identify exclusiveness as an obstacle."
+          "why": "Identify exclusiveness as an obstacle.",
+          "shortened": [
+            "The principle of exclusiveness poisons even today the Western civilized states."
+          ]
         },
         {
           "key": "source:ABU1927",
@@ -262,11 +296,17 @@
         },
         {
           "key": "source:AB02122",
-          "why": "Return to admiration for France and hope for its spiritual life."
+          "why": "Return to admiration for France and hope for its spiritual life.",
+          "shortened": [
+            "But this seems unlikely, for although this magnificent people are full of distinction, they are captive to the world of nature and without opportunity. Though they are grateful birds, they are deprived and slow of perception. They are a thousand rose gardens but without the song of nightingales - they are the world of civilization but without melody and voice. No tune, no song, no warbling, no hearing."
+          ]
         },
         {
           "key": "source:ABU2251",
-          "why": "Close the journey with its purpose of awakening."
+          "why": "Close the journey with its purpose of awakening.",
+          "shortened": [
+            "Although the Western nations have perfected the machinery of natural civilization yet they are far left behind in divine civilization. My object in taking that long journey through the West- was to awaken them out of this sleep; that they may not grovel all the time in the world of matter and that they may not only think of eating and drinking."
+          ]
         },
         {
           "key": "source:ABU3706",
@@ -274,7 +314,10 @@
         },
         {
           "key": "source:BH01770",
-          "why": "End with the challenge of understanding liberty."
+          "why": "End with the challenge of understanding liberty.",
+          "shortened": [
+            "By thy life, poor Maqsud hath not understood the purpose of the liberty of which the people of Europe speak. He should come into My presence that I may teach him and acquaint him with what they say. He hath heard a statement and followed it without comprehending its reality and the intent of its speaker. Everyone who uttereth the freedom mentioned by that man is called a manifestation of the beasts in creation."
+          ]
         }
       ],
       "questions": [
@@ -380,24 +423,37 @@
       "id": "F7EC8954BFA749B4ACA3C4353E8A96CB",
       "slug": "evolution",
       "displayTitle": "Evolution: change, continuity, and human possibility",
-      "introduction": "A seed changes profoundly while unfolding capacities that were hidden from view. This recurring image opens a compilation in which development has several meanings: the growth of an individual, the circulation of matter, the history of living forms, and the education of the spirit. Passages affirm extensive physical change while also arguing for continuity in human reality; reported conversations and translation notes add further distinctions and tensions. These differences deserve patient study rather than a single formula applied to every occurrence of “evolution.” Darwin’s concluding account of interdependent life and natural selection offers a historical scientific comparison, with a different explanatory purpose [1]. The connected subjects of transformation, the kingdoms of existence, and humanity’s distinction from animals widen the inquiry. Particularly valuable are the closing cautions about scientific investigation and reading teachings in their full context. Together they encourage wonder, intellectual humility, and precision about the question each passage is addressing.",
+      "introduction": "The tree is already inside the seed, hidden, and appears only as the seed grows; ‘Abdu’l-Bahá returns to that image whenever He is asked about evolution. He grants that the human form has passed through many shapes over immense ages and insists in the same breath that what was changing was from the beginning the human species, not an animal that later became one. Development covers several things at once: the circulation of atoms through mineral, plant, animal and human forms, the growth of a single life, and the education of the spirit, which continues after physical form has reached its limit. Darwin’s closing pages in the first edition of the Origin, moving from the interdependence to inheritance, variation and the struggle for life, give a historical scientific account answering a different question with different evidence [1]. The inquiry leads on into the kingdoms of existence, into the law of transformation and change, and into what distinguishes a human being from the animal, with the reminder to read any teaching whole and leave empirical chronology to science.",
       "arc": "Distinguish kinds of development, examine changing form and continuing identity, and close with the discipline of contextual interpretation.",
       "order": [
         {
           "key": "source:AB00722",
-          "why": "Open with gradual growth and latent capacities."
+          "why": "Open with gradual growth and latent capacities.",
+          "shortened": [
+            "It is even as the seed: The tree exists within it but is hidden and concealed; when the seed grows and develops, the tree appears in its fullness. In like manner, the growth and development of all beings proceeds by gradual degrees. This is the universal and divinely ordained law and the natural order. The seed does not suddenly become the tree; the embryo does not at once become the man; the mineral substance does not in a moment become the stone: No, all these grow and develop gradually until they attain the limit of perfection.",
+            "All beings, whether universal or particular, were created perfect and complete from the beginning. The most one can say is that their perfections only become apparent gradually."
+          ]
         },
         {
           "key": "source:AB00167",
-          "why": "Explore continuity through changing forms."
+          "why": "Explore continuity through changing forms.",
+          "shortened": [
+            "To summarize: Just as man progresses, evolves, and is transformed from one form and appearance to another in the womb of the mother, while remaining from the beginning a human embryo, so too has man remained a distinct essence--that is, the human species--from the beginning of his formation in the matrix of the world and has passed gradually from form to form. It follows that this change of appearance, this evolution of organs, and this growth and development do not preclude the originality of the species."
+          ]
         },
         {
           "key": "source:AB00022",
-          "why": "Introduce physical change alongside civilization and spiritual capacity."
+          "why": "Introduce physical change alongside civilization and spiritual capacity.",
+          "shortened": [
+            "Similarly, in the contingent world, the human species hath undergone progressive physical changes and, by a slow process, hath scaled the ladder of civilization, realizing in itself the wonders, excellencies and gifts of humanity in their most glorious form, until it gained the capacity to express the splendours of spiritual perfections and divine ideals and became capable of hearkening to the call of God."
+          ]
         },
         {
           "key": "source:AB00105",
-          "why": "Distinguish stages within one human life."
+          "why": "Distinguish stages within one human life.",
+          "shortened": [
+            "The human spirit has certain signs and manifestations in the stage of the embryo and yet other splendours and expressions in the stages of childhood, adolescence, and maturity. The spirit is one, and yet in the embryonic stage it lacks the powers of sight and hearing, whereas in the stages of adolescence and maturity it appears with the utmost splendour and radiance."
+          ]
         },
         {
           "key": "source:ABU0019",
@@ -405,15 +461,24 @@
         },
         {
           "key": "source:AB02581",
-          "why": "Use embryonic growth as an analogy in its own terms."
+          "why": "Use embryonic growth as an analogy in its own terms.",
+          "shortened": [
+            "However, since the development of the physical frame through the bounty of the spirit occurs gradually - proceeding through the stages of creation from a drop of sperm, to a blood clot, to a lump of flesh, to the clothing of flesh, to the bringing forth of another creation, \"and blessed be God, the best of creators\" - therefore the body of the world too is in the initial stages of creation through this most glorious spirit."
+          ]
         },
         {
           "key": "source:ABU0152",
-          "why": "Extend gradual development across organisms."
+          "why": "Extend gradual development across organisms.",
+          "shortened": [
+            "In a living organism the full measure of its development is not known or realized at the time of its inception or birth. Development and progression imply gradual stages or degrees."
+          ]
         },
         {
           "key": "source:ABU2702",
-          "why": "Consider the potential bird within the egg."
+          "why": "Consider the potential bird within the egg.",
+          "shortened": [
+            "A wise man when looking at an egg, sees in it the whole form of a bird; he sees the beak, the claws, the plumage, the wings and the eyes, as well as the song and melody of the bird; but a child or an unwise man sees nothing but the egg, even unable to go any further than the outward shell and appearance."
+          ]
         },
         {
           "key": "source:AB05275",
@@ -421,39 +486,68 @@
         },
         {
           "key": "source:AB05896",
-          "why": "Connect gradual growth with the unfolding influence of Christ."
+          "why": "Connect gradual growth with the unfolding influence of Christ.",
+          "shortened": [
+            "Know, verily, that the seed, however virile it may be, however strong the hand of the sower, however pure the water that watereth it, it is impossible for it to grow, blossom and bear fruit in a short time; nay, a long period is needed for its development.",
+            "So it is the Kingdom of God. Consider the seed which was sown by Christ; verily, it did not blossom until after a long period."
+          ]
         },
         {
           "key": "source:AB00077",
-          "why": "Read the extended account of matter, changing forms, and distinct human reality."
+          "why": "Read the extended account of matter, changing forms, and distinct human reality.",
+          "shortened": [
+            "But from the beginning of his existence man has been a distinct species. This is similar to the embryo of man in the womb of the mother: it possesses at first a strange appearance; then this body passes from shape to shape and from form to form until it appears in the utmost beauty and perfection. But even when it possesses in the womb of the mother a strange form entirely different from its present shape and appearance, it is the embryo of a distinct species and not of an animal: the essence of the species and the innate reality undergo no transformation at all."
+          ]
         },
         {
           "key": "source:AB00345",
-          "why": "Examine the claim that species and the earth have origins in time."
+          "why": "Examine the claim that species and the earth have origins in time.",
+          "shortened": [
+            "Likewise, the various species found upon the earth have an origin in time; for it is acknowledged by all that there was a time when these species existed nowhere on the face of the earth, and indeed a time when the earth itself did not exist."
+          ]
         },
         {
           "key": "source:AB00920",
-          "why": "Follow the account of the earth’s early condition."
+          "why": "Follow the account of the earth’s early condition.",
+          "shortened": [
+            "The material philosophers insist upon their belief, and the divine philosophers reply: \"Is this terrestrial globe eternal or was it originated?\" The material philosophers answer that, according to well-established scientific findings, it is proven to be originated; that in the beginning it was a molten sphere and gradually became temperate; that a crust was formed around it; and that upon this crust plants came into being, then animals, and finally man."
+          ]
         },
         {
           "key": "source:ABU0491",
-          "why": "Consider diversity emerging from a common origin."
+          "why": "Consider diversity emerging from a common origin.",
+          "shortened": [
+            "Consider the world of created beings, how varied and diverse they are in species, yet with one sole origin. All the differences that appear are those of outward form and color. This diversity of type is apparent throughout the whole of nature."
+          ]
         },
         {
           "key": "source:ABU0112",
-          "why": "Read the reported argument for human potential throughout development."
+          "why": "Read the reported argument for human potential throughout development.",
+          "shortened": [
+            "In the world of existence man has traversed successive degrees until he has attained the human kingdom. In each degree of his progression he has developed capacity for advancement to the next station and condition. While in the kingdom of the mineral he was attaining the capacity for promotion into the degree of the vegetable. In the kingdom of the vegetable he underwent preparation for the world of the animal, and from thence he has come onward to the human degree, or kingdom. Throughout this journey of progression he has ever and always been potentially man."
+          ]
         },
         {
           "key": "source:ABU0029",
-          "why": "Distinguish outward form from the human essence asserted in the passage."
+          "why": "Distinguish outward form from the human essence asserted in the passage.",
+          "shortened": [
+            "Yet in the East they say that, even if this human frame was not, from the beginning, composed in this present form, but passed from shape to shape until it attained this form, we may suppose that at one time it was aquatic, and at another time it crept upon the earth; nevertheless it was still man, and its species was preserved.",
+            "Yet, at the very time when in the womb it is in the form of a worm, it is of the human species; it is not like the embryo of other animals."
+          ]
         },
         {
           "key": "source:AB00373",
-          "why": "Confront the explicit argument against one species becoming another."
+          "why": "Confront the explicit argument against one species becoming another.",
+          "shortened": [
+            "But some of the philosophers of Europe think that one species evolves into another species. For example, that the animal evolved until it became a human being. But the prophets teach that this theory is unacceptable, as we have explained already in the book Some Answered Questions. Nay, rather evolution and growth take place within the same species."
+          ]
         },
         {
           "key": "source:AB05224",
-          "why": "Read the seed analogy supporting continuity of human reality."
+          "why": "Read the seed analogy supporting continuity of human reality.",
+          "shortened": [
+            "What Western philosophers say about human evolution - that man has come from the mineral, vegetable and animal kingdoms and reached this station through growth and development - is mere fancy, for the human species is ancient. Perhaps on this earth it was initially like a seed, then progressed and reached the station of \"the best of creators.\" But that seed which gradually developed was the human species, not animal. Therefore this species is ancient and was originally the noblest of earthly creatures."
+          ]
         },
         {
           "key": "source:ABU0148",
@@ -465,7 +559,10 @@
         },
         {
           "key": "source:AB02206",
-          "why": "Retain the argument from mummies as an attributed claim."
+          "why": "Retain the argument from mummies as an attributed claim.",
+          "shortened": [
+            "For example, the human species and human nature have been and will forever remain preserved and protected. As can be observed, the mummified ancient human bodies that have been extracted from the pyramids of Egypt, though five thousand years have passed since their death, have not changed or altered even by a hair's breadth from the human form. Likewise the images of animals that exist in Akhmim, Egypt are exactly like existing animals - a monkey is a monkey with that ugly appearance, a human is human with that beautiful, pleasing countenance. There is no altering in God's creation."
+          ]
         },
         {
           "key": "source:ABU3045",
@@ -473,7 +570,10 @@
         },
         {
           "key": "source:ABU0017",
-          "why": "Read the reported interpretation of the days of creation."
+          "why": "Read the reported interpretation of the days of creation.",
+          "shortened": [
+            "Moses teaches that the world was created in six days of creation! This is a symbol, a symbolic expression of the ancient truth that the world has evolved slowly. Darwin can refer in his doctrine of evolution to Moses. God did not create the world suddenly but God's breath of life becomes God's creative word of command, logos, which continuously creates the world. We have a continuing and not a single act of creation. Moses's days of creation are periods of millions of years."
+          ]
         },
         {
           "key": "source:ABU2804",
@@ -485,7 +585,10 @@
         },
         {
           "key": "source:ABU0170",
-          "why": "Read the metaphysical account of the primal Will in its own setting."
+          "why": "Read the metaphysical account of the primal Will in its own setting.",
+          "shortened": [
+            "The Primal Will operates in the element, in the primal atom, as attraction and repulsion; on the next higher level as organic life; then as animal-vegetative; and finally as spiritual life, which is destined to rise to the super-spiritual. What develops is not the physical substratum (base), which actually exists from the beginning in its different kinds, each of which then develops only within its own kind to higher perfection, but rather does the Cosmic Spirit, the divine Primal Will, unfold within the creature just as the bud of a flower unfolds ever more completely, purely and beautifully, and will finally, in the fully-redeemed, totally purified man, return to the Godhead, to be immersed and fused in the Godhead."
+          ]
         },
         {
           "key": "source:AB04427",
@@ -493,7 +596,10 @@
         },
         {
           "key": "source:ABU0008",
-          "why": "Identify the circulation of atoms as a distinct kind of change."
+          "why": "Identify the circulation of atoms as a distinct kind of change.",
+          "shortened": [
+            "As each component atom or element in the physical organisms of existence is subject to transference through endless forms and stages, possessing virtues peculiar to those forms and stations, it is evident that all phenomena of material being are fundamentally one. In the mineral kingdom this component atom or element possesses certain virtues of the mineral; in the kingdom of the vegetable it is imbued with vegetable qualities or virtues; in the plane of animal existence it is empowered with animal virtues -- the senses; and in the kingdom of man it manifests qualities peculiar to the human station."
+          ]
         },
         {
           "key": "source:ABU0241",
@@ -501,7 +607,12 @@
         },
         {
           "key": "source:ABU1774",
-          "why": "Read the reported journey of atoms."
+          "why": "Read the reported journey of atoms.",
+          "shortened": [
+            "Man is indestructible. The man you see before your eyes has travelled through all the worlds of existence. Those molecular atoms which go into the make-up of the human body were originally in the mineral world, and these atoms have had journeyings and coursings through all the various phases of the mineral kingdom, appearing under various forms and images.",
+            "Stepping up into the vegetable kingdom these atoms have been transferred from mineral to vegetable. In the vegetable kingdom they have manifested under various shades, and in a myriad of forms.",
+            "Rising into a higher scale of life, we see them again in the animal kingdom, expressing themselves through multitudes of forms and images. And now we see these indestructible atoms dawning upon the horizon of man."
+          ]
         },
         {
           "key": "source:ABU2506",
@@ -509,7 +620,10 @@
         },
         {
           "key": "source:AB00430",
-          "why": "Consider successive conditions as occasions of bestowal."
+          "why": "Consider successive conditions as occasions of bestowal.",
+          "shortened": [
+            "For example, the progression of mineral reality from the mineral kingdom to the plant kingdom is purely through bestowal. Similarly, the transfer of plant reality to the animal kingdom is also purely through bestowal. Likewise, the transfer of animal reality to the human kingdom is also purely through grace and bestowal."
+          ]
         },
         {
           "key": "source:ABU0070",
@@ -517,15 +631,26 @@
         },
         {
           "key": "source:ABU0343",
-          "why": "Examine degrees of form and perception."
+          "why": "Examine degrees of form and perception.",
+          "shortened": [
+            "Working up through the mineral and vegetable kingdoms, sense-perception is reached in the animal, and the perfection of form is attained in man."
+          ]
         },
         {
           "key": "source:ABU1026",
-          "why": "Distinguish decomposition from simple annihilation."
+          "why": "Distinguish decomposition from simple annihilation.",
+          "shortened": [
+            "When an imaginative young man, endowed with the vibrating energies of youth, looks over the phenomena of creation, he sees life, growth and composition. But when he reaches to the age of manhood and is introduced in the school of divine philosophy, then as he looks over the things of the world he sees death, decay and decomposition.",
+            "He sees that all the created phenomena speak to him in the language of change and mutability, nothing eternal, everything mortal; nothing stable, everything being transformed..."
+          ]
         },
         {
           "key": "source:ABU0626",
-          "why": "Read physical cycles beside the account of spirit."
+          "why": "Read physical cycles beside the account of spirit.",
+          "shortened": [
+            "In the physical creation, evolution is from one degree of perfection to another. The mineral passes with its mineral perfections to the vegetable; the vegetable, with its perfections, passes to the animal world, and so on to that of humanity.",
+            "In this world things live and die, and live again in other forms of life, but in the world of the spirit it is quite otherwise."
+          ]
         },
         {
           "key": "source:ABU0471",
@@ -533,7 +658,10 @@
         },
         {
           "key": "source:ABU0900",
-          "why": "Turn from bodily development to education."
+          "why": "Turn from bodily development to education.",
+          "shortened": [
+            "For instance, how intelligent and knowing the Arabian horse has become through training, even how polite this horse has become through education. As to the human world: It is more in need of guidance and education than the lower creatures."
+          ]
         },
         {
           "key": "source:ABU1800",
@@ -541,7 +669,10 @@
         },
         {
           "key": "source:AB07315",
-          "why": "Connect spiritual development with education."
+          "why": "Connect spiritual development with education.",
+          "shortened": [
+            "The friends of God must be educated in such wise that, just as the vegetable transcendeth the mineral, the animal surpasseth the vegetable, and man excelleth the animal in the perfections of existence, so too must the friends of God be distinguished from all other peoples and tribes in divine virtues and spiritual perfections."
+          ]
         },
         {
           "key": "source:AB01223",
@@ -549,7 +680,11 @@
         },
         {
           "key": "source:AB10286",
-          "why": "Consider the passage’s distinction between bodily culmination and spiritual progress."
+          "why": "Consider the passage’s distinction between bodily culmination and spiritual progress.",
+          "shortened": [
+            "But as to evolution: it is true of both body and the spirit.",
+            "When the body of man is perfected, physical evolution comes to an end, since nature does not seek to build a higher form than that of man. But the evolution of spirit continues until reason, the mental powers, and the emotional capacities are evolved in it."
+          ]
         },
         {
           "key": "source:ABU0964",
@@ -565,7 +700,10 @@
         },
         {
           "key": "source:AB01007",
-          "why": "Close the linked readings with the limits of imagining the next world."
+          "why": "Close the linked readings with the limits of imagining the next world.",
+          "shortened": [
+            "The conditions after death cannot be conceived, but observe: it is evident that man has come from the mineral kingdom. When in the mineral state, the vegetable kingdom could not be conceived. Then he progressed to the vegetable kingdom. In the vegetable state, the animal kingdom could not be conceived. Before transferring from the animal kingdom to the human kingdom, the life of human reason and consciousness was inconceivable - that is, it was impossible; there was no awareness of it."
+          ]
         },
         {
           "key": "selection:b1ebe7e0963ff44ba3db78c2",
@@ -712,12 +850,16 @@
       "id": "EA626E1123AE4CA9BDB62193BD55DE62",
       "slug": "microcosmmacrocosm",
       "displayTitle": "Microcosm and macrocosm: the whole within the part",
-      "introduction": "A small human form can become an image of an immense world. These passages develop that possibility through seeds, mirrors, books, bodies, and the hidden richness of a drop or leaf. Sometimes the human being gathers the capacities of several kingdoms; elsewhere the emphasis falls on relationships through which every part affects a larger whole. The images move between inward discovery, the perception of divine signs, and the practical consequences of interdependence. Their force need not depend on treating every analogy as a literal account of physical structure. Paul’s picture of a body whose members need and care for one another offers a comparison that makes the ethical implications especially vivid [1]. The connected subjects of the soul as a mirror and the interconnectedness of all things invite further exploration. Read together, the selections suggest that knowledge of oneself can deepen attention to the world, while concern for the world can transform the inner life.",
+      "introduction": "Do you think yourself a small and puny form, Bahá’u’lláh asks, when the greater world is folded up inside you? The ancient names for the two worlds, ‘álam-i-akbar and ‘álam-i-asghar, are turned inside out here: the human being, so often called the lesser world, is in truth the greater one, a seed holding the whole tree, a leaf inscribed with volumes, a book in which every mystery of creation can be read. ‘Abdu’l-Bahá adds that the universe itself is like a living body whose members assist and influence one another, so that an eye sees and the whole frame is moved. Taken seriously, these images change how one acts: if every attribute of the world is present in one soul, then to quicken a single life is to quicken all mankind. Paul’s picture of a body whose weaker members deserve the greater care makes the ethical edge of this vivid [1]. From here the way opens toward the soul as a mirror, the interconnectedness of all things, and the sense in which the higher encompasses the lower.",
       "arc": "Begin with hidden vastness, trace the relationships of parts and wholes, and bring contemplation back to mutual care and inward change.",
       "order": [
         {
           "key": "source:BH00047",
-          "why": "Open with the greater world concealed in a small form."
+          "why": "Open with the greater world concealed in a small form.",
+          "shortened": [
+            "70 Likewise, reflect upon the perfection of man's creation, and that all these planes and states are folded up and hidden away within him.",
+            "Dost thou deem thyself a small and puny form,\nWhen thou foldest within thyself the greater world?"
+          ]
         },
         {
           "key": "source:BH07594",
@@ -737,7 +879,10 @@
         },
         {
           "key": "source:BH00002",
-          "why": "Connect the enlargement of a drop with grace."
+          "why": "Connect the enlargement of a drop with grace.",
+          "shortened": [
+            "A single breeze of His affluence doth suffice to adorn all mankind with the robe of wealth; and one drop out of the ocean of His bountiful grace is enough to confer upon all beings the glory of everlasting life."
+          ]
         },
         {
           "key": "source:AB01840",
@@ -753,7 +898,10 @@
         },
         {
           "key": "source:AB11818",
-          "why": "Consider the person as an epitome and a book."
+          "why": "Consider the person as an epitome and a book.",
+          "shortened": [
+            "O divine friends and true companions! Man is in truth a preamble of the Manifest Book of contingent being, and an epitome of the meanings of the Preserved Tablet of this mighty universe, and a concise expression of this unfurled scroll of all ancient and modern times."
+          ]
         },
         {
           "key": "source:AB00447",
@@ -761,15 +909,24 @@
         },
         {
           "key": "source:AB00420",
-          "why": "Place the human being within the book of creation."
+          "why": "Place the human being within the book of creation.",
+          "shortened": [
+            "That is why man is said to be the greatest sign of God--that is, he is the Book of Creation--for all the mysteries of the universe are found in him."
+          ]
         },
         {
           "key": "source:AB00780",
-          "why": "Gather the capacities of several kingdoms within humanity."
+          "why": "Gather the capacities of several kingdoms within humanity.",
+          "shortened": [
+            "The noblest of all earthly beings is man. In him are realized the animal, the vegetable and the mineral kingdoms, that is, all these degrees are contained in him in such wise that he is endowed with them all. And, being endowed with all these degrees and stations, he is informed of their mysteries and aware of the secrets of their existence."
+          ]
         },
         {
           "key": "source:ABU0055",
-          "why": "Read the physical dimension within an account of human realities."
+          "why": "Read the physical dimension within an account of human realities.",
+          "shortened": [
+            "When we ponder over the reality of the microcosm, we discover that in the microcosm, or the little man, there are deposited three realities. Man is endowed with an outward or physical reality. It belongs to the animal kingdom because it has sprung out of the material world."
+          ]
         },
         {
           "key": "source:ABU0577",
@@ -781,7 +938,11 @@
         },
         {
           "key": "source:AB05563",
-          "why": "Explore the human reality through the lamp and niche."
+          "why": "Explore the human reality through the lamp and niche.",
+          "shortened": [
+            "Since the Divine Reality has manifestations of brilliant signs and traces in all worlds and stations, therefore in the world of archetypes and spiritual realities He made human reality the niche and glass for the light of Truth and manifested all names and attributes upon it. And when this universal reality appeared in the realm of existence with all its conditions and perfections, the robe of vicegerency adorned it and became the ornament of its symmetrical figure - most becoming indeed!",
+            "That which is above has a reflection below."
+          ]
         },
         {
           "key": "source:AB05239",
@@ -797,11 +958,17 @@
         },
         {
           "key": "source:ABU1118",
-          "why": "Hear the poetic relation between the worlds above and below."
+          "why": "Hear the poetic relation between the worlds above and below.",
+          "shortened": [
+            "As has been said by a Persian poet, the celestial globe is in such a form that the under part is, as it were, a reflection of the upper part. That is to say, whatever exists in heaven is reflected in this world."
+          ]
         },
         {
           "key": "source:AB00023",
-          "why": "Examine the relative meanings of whole and part."
+          "why": "Examine the relative meanings of whole and part.",
+          "shortened": [
+            "Nay, earthly and heavenly, material and spiritual, accidental and essential, particular and universal, foundation and structure, appearance and reality and the essence of all things, both inward and outward--all of these are connected one with another and are interrelated in such a manner that we find that drops are patterned after seas, and that atoms are structured after suns in proportion to their capacities and potentialities. For particulars in relation to what is below them are universals, and what are great universals in the eyes of the veiled ones are in fact particulars in relation to the realities and beings which are superior to them. Universal and particular are in reality incidental and relative considerations."
+          ]
         },
         {
           "key": "source:AB00020",
@@ -809,11 +976,17 @@
         },
         {
           "key": "source:AB00103",
-          "why": "Make the connections throughout the universe explicit."
+          "why": "Make the connections throughout the universe explicit.",
+          "shortened": [
+            "It is obvious that all created things are connected one to another by a linkage complete and perfect, even, for example, as are the members of the human body. Note how all the members and component parts of the human body are connected one to another. In the same way, all the members of this endless universe are linked one to another."
+          ]
         },
         {
           "key": "source:AB00475",
-          "why": "Read interdependence without importing an endorsement of astrology."
+          "why": "Read interdependence without importing an endorsement of astrology.",
+          "shortened": [
+            "My meaning, instead, is that this endless universe is like the human body and that all its parts are connected one with another and are linked together in the utmost perfection. That is, in the same way that the parts, members and organs of the human body are interconnected, and that they mutually assist, reinforce and influence each other, so too are the parts and members of this endless universe connected with, and spiritually and materially influenced by, one another. For example, the eye sees and the entire body is affected; the ear hears and every limb and member is stirred."
+          ]
         },
         {
           "key": "source:ABU2400",
@@ -825,7 +998,10 @@
         },
         {
           "key": "source:AB00362",
-          "why": "Identify cooperation among organs as a condition of life."
+          "why": "Identify cooperation among organs as a condition of life.",
+          "shortened": [
+            "Liken the world of existence to the temple of man. All the limbs and organs of the human body assist each other, therefore life continues. When, in this wonderful organism, there is a disconnection, life is changed into death and the parts of the body disintegrate. Likewise, among the parts of existence, there is a wonderful connection and interchange of forces, which is the cause of the life of the world and the continuation of these countless phenomena."
+          ]
         },
         {
           "key": "source:AB00767",
@@ -833,7 +1009,11 @@
         },
         {
           "key": "source:AB02581",
-          "why": "Consider the world as a physical frame."
+          "why": "Consider the world as a physical frame.",
+          "shortened": [
+            "O lover of the Ancient Beauty and the Greatest Name!",
+            "The body of the world, when thou considerest it in truth, is like unto a human person - that is, a physical frame."
+          ]
         },
         {
           "key": "source:AB00278",
@@ -845,7 +1025,10 @@
         },
         {
           "key": "source:ABU0573",
-          "why": "Place the seed and microcosm imagery in a public address."
+          "why": "Place the seed and microcosm imagery in a public address.",
+          "shortened": [
+            "Man is the microcosm; and the infinite universe, the macrocosm. The mysteries of the greater world, or macrocosm, are expressed or revealed in the lesser world, the microcosm. The tree, so to speak, is the greater world, and the seed in its relation to the tree is the lesser world. But the whole of the great tree is potentially latent and hidden in the little seed. When this seed is planted and cultivated, the tree is revealed. Likewise, the greater world, the macrocosm, is latent and miniatured in the lesser world, or microcosm, of man."
+          ]
         },
         {
           "key": "source:ABU2014",
@@ -869,7 +1052,10 @@
         },
         {
           "key": "source:AB05191",
-          "why": "Explore the world as a womb for higher capacities."
+          "why": "Explore the world as a womb for higher capacities.",
+          "shortened": [
+            "For the contingent world - that is, the realm of the senses and the external sphere - in relation to the stations of heart and soul and the world of the heart and spirit, is like the realm of the womb in relation to the world and cosmos."
+          ]
         },
         {
           "key": "source:BH00001",
@@ -877,7 +1063,11 @@
         },
         {
           "key": "source:ABU1069",
-          "why": "Read the reported argument concerning spirit and infinity."
+          "why": "Read the reported argument concerning spirit and infinity.",
+          "shortened": [
+            "The universe, the macrocosm, is captured by our spirit, the microcosm, as in a mirror.",
+            "And as the whole universe is reflected in our spirit, we perceive from this that our spirit (Ruh) is a reflection of the Creative Spirit and thus partakes of the infinity of space and the endlessness of eternity."
+          ]
         },
         {
           "key": "source:BB00590",
@@ -885,15 +1075,26 @@
         },
         {
           "key": "source:BH00135",
-          "why": "Read the extended account of dreams and worlds in its full supplied context."
+          "why": "Read the extended account of dreams and worlds in its full supplied context.",
+          "shortened": [
+            "O questioner! Man is the greatest index and the mightiest talisman. He is an index in which are found the representations of all that hath been created in earth and heaven. When the spirit is freed from incidental limitations and earthly conditions, it traverseth all stations, and the more it is detached, the swifter, more constant and more truthful is its journey. If it be said that the human temple is, in one station, the kingdom of God, this is the truth in which there is no doubt, for the representation of all things is found and witnessed therein. Though some have called it the lesser world, yet We bear witness that it is the greater world."
+          ]
         },
         {
           "key": "source:BH01071",
-          "why": "Distinguish devotional uses of solidity and fluidity from physical explanation."
+          "why": "Distinguish devotional uses of solidity and fluidity from physical explanation.",
+          "shortened": [
+            "Wishing to reveal Thyself, Thou didst call into being the Greater and the Lesser Worlds, and didst choose Man above all Thy creatures, and didst make Him a sign of both of these worlds, O Thou Who art our Lord, the Most Compassionate!",
+            "I bear witness that in His person solidity and fluidity have been joined and combined."
+          ]
         },
         {
           "key": "source:BH00049",
-          "why": "Close the linked readings with the human world and the value of every life."
+          "why": "Close the linked readings with the human world and the value of every life.",
+          "shortened": [
+            "For We have created every soul today like unto this world - just as in the world there are diverse cities and different villages, and likewise trees and fruits and leaves and branches and twigs, and seas and mountains and all that is visible therein, even so within man all these diverse things exist. Thus doth one soul warrant being called a world.",
+            "And since in everything can be seen the attributes of all things, therefore upon a single one is conferred the decree of all. And this is the mystery of that which was formerly inspired in the Manifestation of My Self: \"Whoso quickeneth a soul is as though he had quickened all mankind.\" For since all that is in the world existeth in a single soul, He therefore saith that if someone giveth life to a soul it is as though he had given life to all mankind, and if someone killeth a soul it is as though he had killed all the world."
+          ]
         },
         {
           "key": "selection:37319aa7fbc268b54780646b",
@@ -1012,16 +1213,22 @@
       "id": "6206D325290FE8E7EC332EBD6D88A238",
       "slug": "proclamationrulers",
       "displayTitle": "Addressing the rulers: power called to justice",
-      "introduction": "A crown becomes a measure of responsibility when justice is placed above possession and rank. These selections bring that challenge into addresses to sovereigns, accounts of their delivery, and reflections on the response of those who held worldly power. The contrast is striking: a prisoner speaks of the welfare of peoples and asks rulers to hear fairly, restrain oppression, and reconsider their priorities. The Bab’s addresses, Baha’u’llah’s proclamations, and later reported recollections have distinct settings and voices, including accounts that interpret subsequent events as fulfillment of warnings. Daniel’s counsel that a king turn toward righteousness and mercy to the poor provides a biblical comparison [1]. Connected subjects concerning petitions, prayers for rulers, and the future of monarchy extend the inquiry beyond the fate of particular monarchs. The enduring question is how authority might become answerable to truth and human need, even when the appeal arrives from someone whom established power has confined.",
+      "introduction": "Adorn your heads with the crowns of justice, Bahá’u’lláh tells the kings of the earth, and turn to the poor, for God created you and them from one thing. The speaker was a prisoner in ‘Akká, stripped of every worldly means, and from there he wrote to the Sultan, the Shah, the Czar, Queen Victoria, the Pope and Napoleon III, summoning them to arbitration and the Most Great Peace, arraigning them for the oppression of their subjects, and asking them to hear his claim fairly. The Báb had addressed the king of the Muslims and his minister before him. Napoleon, who had boasted that the cry of drowning Turks woke him, was tested on that very claim, failed to answer, and was warned that his kingdom would pass from his hands; the accounts of what followed read events as fulfilment and must be heard as attributed interpretation. Daniel’s counsel to Nebuchadnezzar to break off his sins by righteousness and his iniquities by mercy to the poor stands as an ancient parallel to this prophetic confrontation with power [1]. The summons extends to subjects as well as sovereigns, and the blessed king is the one who casts away kingship for the Kingdom. The journey continues into the prayers revealed for governments and rulers, the petitions addressed to authorities, and the future of monarchy itself.",
       "arc": "Begin with justice as the standard of rule, hear the addresses and their delivery, and consider the moral tests of power and response.",
       "order": [
         {
           "key": "source:BH00195",
-          "why": "Open with justice as the adornment of a crown."
+          "why": "Open with justice as the adornment of a crown.",
+          "shortened": [
+            "O concourse of kings! Adorn your heads with the crowns of justice, that their lights may illumine all regions. Thus do We command you as a bounty from Our presence, O concourse of sovereigns. God shall soon manifest in the earth kings who shall recline upon the cushions of justice and shall judge amongst men even as they judge their own selves. These are among the choicest of My creatures among all created things."
+          ]
         },
         {
           "key": "source:BH04290",
-          "why": "Place princes beside the poor within a common creation."
+          "why": "Place princes beside the poor within a common creation.",
+          "shortened": [
+            "O concourse of princes! Turn ye unto the poor. God hath created you and them from one thing. Make ye in your possessions a portion for them."
+          ]
         },
         {
           "key": "source:BH07178",
@@ -1033,7 +1240,11 @@
         },
         {
           "key": "source:BH00021",
-          "why": "Hear the direct summons to kings."
+          "why": "Hear the direct summons to kings.",
+          "shortened": [
+            "O kings of the earth! Give ear unto the Voice of God, calling from this sublime, this fruit-laden Tree, that hath sprung out of the Crimson Hill, upon the holy Plain, intoning the words: \"There is none other God but He, the Mighty, the All-Powerful, the All-Wise.\"",
+            "Fear God, O concourse of kings, and suffer not yourselves to be deprived of this most sublime grace. Fling away, then, the things ye possess, and take fast hold on the Handle of God, the Exalted, the Great. Set your hearts towards the Face of God, and abandon that which your desires have bidden you to follow, and be not of those who perish."
+          ]
         },
         {
           "key": "source:BH06543",
@@ -1041,19 +1252,33 @@
         },
         {
           "key": "source:BH06227",
-          "why": "Consider the desire that rulers act for the good."
+          "why": "Consider the desire that rulers act for the good.",
+          "shortened": [
+            "O concourse of kings! By God, We desire for you naught save what profiteth you in this world and the next. Fear ye the Lord of all being, then act according to what ye have been commanded in the Books of God, the Mighty, the Praiseworthy. Hold fast unto that which ye have been counseled from the Tongue of Grandeur in a perspicuous Book. Beware lest your power delude you. Cast away what ye possess and take hold of what ye have been commanded by One Who is All-Knowing, All-Informed."
+          ]
         },
         {
           "key": "source:ABU0159",
-          "why": "Bring peace and protection from oppression into view."
+          "why": "Bring peace and protection from oppression into view.",
+          "shortened": [
+            "From the prison He addressed the Kings and rulers of the world and in His famous Tablets and Epistles He exhorted them to lay the foundation of the palace of Peace.",
+            "He arraigned the Kings for their utter disregard of the rights of their subjects and censured them for their cruelty, tyranny and oppression."
+          ]
         },
         {
           "key": "source:ABU0207",
-          "why": "Join the appeal to unity with its challenge to oppressors."
+          "why": "Join the appeal to unity with its challenge to oppressors.",
+          "shortened": [
+            "Under the chains he unfurled the flag of the oneness of the world of humanity; in the prisons he spread the principles of universal peace and brotherhood; from behind the barracks he wrote his famous epistles to the kings and rulers of the world, arraigning the oppressors of the earth and calling upon them in the name of God the exalted not to place their sovereignty above that of His Highness the Almighty."
+          ]
         },
         {
           "key": "source:ABU0198",
-          "why": "Consider arbitration and peace in the address to Napoleon."
+          "why": "Consider arbitration and peace in the address to Napoleon.",
+          "shortened": [
+            "From this prison, from within its walls, He wrote epistles to all the kings. He summoned them to arbitration and the Most Great Peace.",
+            "Some of the sovereigns received this summons with haughty pride. One of these was the Ottoman King, another the French Emperor; the latter sent no reply; then another epistle was addressed to Napoleon III stating: \"I have already sent you an epistle, summoning you to the Cause, but you heeded it not."
+          ]
         },
         {
           "key": "source:BB00002",
@@ -1065,7 +1290,10 @@
         },
         {
           "key": "source:BB00241",
-          "why": "Hear the address to Haji Mirza Aqasi."
+          "why": "Hear the address to Haji Mirza Aqasi.",
+          "shortened": [
+            "O ye two kings [Haji Mirza Aqasi]! Follow the decree of your Lord, then present yourselves before God, then read the Book of Remembrance with justice, that ye may be numbered among the triumphant. We have indeed sent down the verses as a Book unto the king that thou mightest recite the Book of Command with truth, and be among those who in the Faith of God are well-assured."
+          ]
         },
         {
           "key": "source:BB00229",
@@ -1073,7 +1301,10 @@
         },
         {
           "key": "source:BB00439",
-          "why": "Follow the appeal through a governor toward the ruler of Rum."
+          "why": "Follow the appeal through a governor toward the ruler of Rum.",
+          "shortened": [
+            "We have sent down a Book to the Governor of Baghdad concerning this petition of thine. Read God's Book before him and command him to send it to the King of Rum, for it is truly a Book from the Remnant of God, the manifest and just Imam."
+          ]
         },
         {
           "key": "source:BH00532",
@@ -1081,19 +1312,32 @@
         },
         {
           "key": "source:BH00038",
-          "why": "Enter the address to the Shah through suffering and service."
+          "why": "Enter the address to the Shah through suffering and service.",
+          "shortened": [
+            "O King of the Earth!  Hearken unto the call of this Vassal:  Verily, I am a Servant Who hath believed in God and in His signs, and have sacrificed Myself in His path.  Unto this bear witness the woes which now beset Me, woes the like of which no man hath ever before sustained."
+          ]
         },
         {
           "key": "source:ABU0065",
-          "why": "Read the invitation to a public examination of the claim."
+          "why": "Read the invitation to a public examination of the claim.",
+          "shortened": [
+            "The spirit and meaning of the Tablet to Nasiri'd-Din Shah was, in short, this: \"Now that the time has come, when the Cause of the Glory of God has appeared, I ask that I may be allowed to come to Tihran and answer any questions the priests may put to Me.",
+            "\"I exhort you to detach yourself from the worldly magnificence of your Empire. Remember all those great kings who have lived before you--their glories have passed away!\""
+          ]
         },
         {
           "key": "source:ABU1385",
-          "why": "Continue the questions addressed to the Shah."
+          "why": "Continue the questions addressed to the Shah.",
+          "shortened": [
+            "The Blessed Perfection (Glory be to him!), in his holy days, declared himself universally, sent notices to queens and kings, and taught all who wished to know the truth. To the Shah of Persia he wrote with the greatest evidence, and the Persians as well as the different nations, are informed of this. In his letter to the Shah of Persia, he requested that all of the learned men be called together for the purpose of asking him about miracles or arguments until either truthfulness or falsity should become manifest."
+          ]
         },
         {
           "key": "source:ABU0164",
-          "why": "Keep the letter’s broader account and counsel together."
+          "why": "Keep the letter’s broader account and counsel together.",
+          "shortened": [
+            "In this glorious Tablet to the King of Persia Baha'u'llah has perfected His Proof from every standpoint. There has been left for him no loophole through which he might escape. First, there are ample references to history, both spiritual and descriptive. Second, there are supplications, the effect of which would move the hearts and melt the adamantine rock. Third, there are exhortations, advice, behests, and counsels. Fourth, there are glowing spiritual utterances whereby mankind might turn their faces toward God, receive the Bestowals of their Maker, walk in the path of righteousness and be characterized with the qualities of severance and detachment from the world and its material conditions."
+          ]
         },
         {
           "key": "source:BH10905",
@@ -1105,35 +1349,60 @@
         },
         {
           "key": "source:BHU0002",
-          "why": "Read the reported account of Badi."
+          "why": "Read the reported account of Badi.",
+          "shortened": [
+            "From Our Most Great Prison We were moved to address to the several rulers and crowned heads of the world Epistles in which We summoned them to arise and embrace the Cause of God. To the Shah of Persia We sent Our messenger Badi', into whose hands We entrusted the Tablet."
+          ]
         },
         {
           "key": "source:BH08184",
-          "why": "Follow the account of his declaration."
+          "why": "Follow the account of his declaration.",
+          "shortened": [
+            "Hadrat-i-Badi', who bore the letter to the Sultan and stood before him, raised the letter and proclaimed: \"O King, I have brought thee from the Most Great Announcement a Mighty Book.\" Surely they have heard the details of how, with what power and might, he declared his mission before His Majesty the Sultan, while wearing but a single shirt."
+          ]
         },
         {
           "key": "source:BH00259",
-          "why": "Turn to the second address to Napoleon."
+          "why": "Turn to the second address to Napoleon.",
+          "shortened": [
+            "O King of Paris!  Tell the priests to ring the bells no longer.",
+            "O King!  Bear thou witness unto that which God hath Himself and for Himself borne witness ere the creation of earth and heaven, that there is none other God but Me, the One, the Single, the Most Exalted, the Incomparable, the Inaccessible.  Arise with the utmost steadfastness in the Cause of thy Lord, the All-Glorious."
+          ]
         },
         {
           "key": "source:AB00029",
-          "why": "Distinguish the first and second letters in the account."
+          "why": "Distinguish the first and second letters in the account.",
+          "shortened": [
+            "Immediately upon His arrival in prison, He addressed an epistle to Napoleon which He sent through the French ambassador, the substance of which was: \"Ask what crime We have committed to be confined in this prison.\"  Napoleon made no reply. Then a second epistle was issued, which is contained in the Suriy-i-Haykal, and which in substance says: \"O Napoleon! Since thou hast failed to heed and answer My call, thou shalt lose Thy dominion and be reduced to naught.\""
+          ]
         },
         {
           "key": "source:ABU0378",
-          "why": "Consider the stated concern for oppression in the earlier appeal."
+          "why": "Consider the stated concern for oppression in the earlier appeal.",
+          "shortened": [
+            "The first of the \"Letters to the Kings\", which was written to Napoleon was quite a short one, and was to the effect that God had  him (Napoleon) with great powers and influence; and requesting him to inquire why those Baha'is were more oppressed? What evil or sedition had they committed which caused them to be so closely confined, etc? But Napoleon never replied to this letter. Whereas, after at time, the Blessed Perfection wrote the long  letter to Napoleon, prophesizing the downfall of his Empire, etc. and this letter was published and circulated through Persia, at least two years before these events happened."
+          ]
         },
         {
           "key": "source:ABU0402",
-          "why": "Read the reported test of responding to the cry of the oppressed."
+          "why": "Read the reported test of responding to the cry of the oppressed.",
+          "shortened": [
+            "In the second tablet he says: 'I wrote to thee to test thee. For thou hadst said when the Ottoman fleet was sunk by the Russians in the Black Sea and when the Czar of Russia said to thee, 'O Emperor, I am a Christian and thou art a Christian, why does thou not come to my assistance?' - thou didst say, 'The cry of those (i.e., the Turks) who were drowned in the Black Sea reached my ears and awakened me.' I wrote to thee, 'How did that cry affect thee?' But thou didst not answer. Then it became evident that it was not that cry of lamentation that awakened thee."
+          ]
         },
         {
           "key": "source:ABU0223",
-          "why": "Retain the reported warning to Napoleon in its own voice."
+          "why": "Retain the reported warning to Napoleon in its own voice.",
+          "shortened": [
+            "And in the prison of 'Akka, the Blessed Beauty summoned the kings, including the Emperor of France. When he paid no heed, a second Tablet was revealed to him stating: \"It is evident that thou art not sincere in thy claim of being the protector of the oppressed. Thou hast been heedless, and therefore thy kingdom shall soon pass from thy hands. The lamentations of the people shall rise, women shall wail, and children shall be trampled underfoot.\""
+          ]
         },
         {
           "key": "source:BH00937",
-          "why": "Locate the address in the account of the Land of Mystery."
+          "why": "Locate the address in the account of the Land of Mystery.",
+          "shortened": [
+            "Know ye that during Our sojourn in the Land of Mystery, sublime Tablets were sent down and dispatched to certain monarchs in order to complete God's testimony. Among these was a Tablet revealed to the King of Paris who at that time was foremost among sovereigns."
+          ]
         },
         {
           "key": "source:BH00662",
@@ -1145,11 +1414,17 @@
         },
         {
           "key": "source:BH02833",
-          "why": "Hear the summons to the Sultan."
+          "why": "Hear the summons to the Sultan.",
+          "shortened": [
+            "O Sultan, hear the call of the Sovereign from the direction of thy Lord's merciful throne, that it may detach thee from all that hath been created in the worlds and draw thee nigh unto His Beauty, the All-Merciful, a station holy and resplendent."
+          ]
         },
         {
           "key": "source:ABU0247",
-          "why": "Retain the reported address concerning Abdul-Aziz."
+          "why": "Retain the reported address concerning Abdul-Aziz.",
+          "shortened": [
+            "But the Blessed Perfection addressed all the kings. When 'Abdu'l-'Aziz, the former sultan of Turkey, was at the climax of his sovereignty, He, Baha'u'llah, arraigned him severely and clearly foretold the upheaval of his kingdom on account of the oppression he had committed."
+          ]
         },
         {
           "key": "source:BH08682",
@@ -1165,7 +1440,10 @@
         },
         {
           "key": "source:BH00497",
-          "why": "Consider the names given to the proclamations."
+          "why": "Consider the names given to the proclamations.",
+          "shortened": [
+            "Therefore specifically for each of the rulers of the earth a special Tablet was revealed from the heaven of the Divine Will, and each was designated by a name - the first by \"The Cry\", the second by \"The Calamity\", the third by \"The Inevitable\", the fourth by \"The Awakening\", the fifth by \"The Overwhelming\", and likewise by \"The Deafening Clamor\", \"The Imminent\", \"The Great Terror\", \"The Trumpet Blast\", \"The Horn\", and their like - so that all the people of the earth might become certain and witness with their outer and inner sight that the Lord of Names has been and shall ever be triumphant over all."
+          ]
         },
         {
           "key": "source:BH03977",
@@ -1177,7 +1455,10 @@
         },
         {
           "key": "source:BH02708",
-          "why": "Ask what could impede proclamation."
+          "why": "Ask what could impede proclamation.",
+          "shortened": [
+            "We have delivered unto the kings the messages of their Lord, and neither their might nor the tribulations that have befallen Us have deterred Us. Thus was the matter ordained in the Tablet of Destiny by the Most Exalted Pen, in truth, recorded."
+          ]
         },
         {
           "key": "source:BH03274",
@@ -1201,31 +1482,52 @@
         },
         {
           "key": "source:BH11630",
-          "why": "Read the contrast of prison and sovereignty."
+          "why": "Read the contrast of prison and sovereignty.",
+          "shortened": [
+            "When We entered into prison, We summoned the kings with a sovereignty that encompassed all who are in the heavens and on earth, and commanded them to abandon what they possessed, turning unto God, the Almighty, the Glorious, the Best-Beloved."
+          ]
         },
         {
           "key": "source:AB01592",
-          "why": "Consider the reported comparison with Jesus before rulers."
+          "why": "Consider the reported comparison with Jesus before rulers.",
+          "shortened": [
+            "Christ did not write even a letter to Herod and Pilate who were two governors of the Holy Land, but the Blessed Beauty sent sufficient and complete proclamations to all the kings of the world."
+          ]
         },
         {
           "key": "source:BH02068",
-          "why": "Extend the summons to subjects as well as kings."
+          "why": "Extend the summons to subjects as well as kings.",
+          "shortened": [
+            "O Ali! Today from the rustling of the Divine Lote-Tree this most exalted word was heard: \"O concourse of kings and subjects! Cast away idle fancies and vain imaginings. By God! From the horizon of power hath appeared your Lord, the Chosen One, with manifest sovereignty.\""
+          ]
         },
         {
           "key": "source:BH06387",
-          "why": "Reinforce that shared responsibility."
+          "why": "Reinforce that shared responsibility.",
+          "shortened": [
+            "There remained no king except We summoned him to the straight path of God, and no subject except We acquainted him with what hath been revealed from the presence of the All-Knowing, the All-Informed."
+          ]
         },
         {
           "key": "source:BH08944",
-          "why": "Hear the prayer that includes king and subject."
+          "why": "Hear the prayer that includes king and subject.",
+          "shortened": [
+            "Say: O my God! I beseech Thee by Him Who accepted tribulations in Thy path and summoned all to Thine all-highest horizon while imprisoned amidst His enemies, such that no king or subject remained except He made known to them Thy way and proclaimed to them Thy sovereignty and power - to give me to drink, at all times, from that which floweth from the fountainhead of Thy Pen and the heaven of Thy utterance."
+          ]
         },
         {
           "key": "source:BH04576",
-          "why": "Place worldly rule beside the Kingdom of God."
+          "why": "Place worldly rule beside the Kingdom of God.",
+          "shortened": [
+            "That which was treasured in the storehouse of knowledge hath appeared and been made manifest, and He hath spoken before the faces of kings: The Kingdom is God's, the Possessor of the Kingdom!"
+          ]
         },
         {
           "key": "source:BH07863",
-          "why": "Consider the king who renounces for the sake of the Kingdom."
+          "why": "Consider the king who renounces for the sake of the Kingdom.",
+          "shortened": [
+            "Blessed is the king who hath attained unto this Day and hath cast away kingship, turning unto the Kingdom."
+          ]
         },
         {
           "key": "source:BH00576",
@@ -1233,7 +1535,10 @@
         },
         {
           "key": "source:BH03584",
-          "why": "Look toward the tombs of earlier rulers."
+          "why": "Look toward the tombs of earlier rulers.",
+          "shortened": [
+            "Where are the Caesars and their palaces? Where are the Pharaohs and their might? Where are the tyrants and their dominion? They have returned from their palaces to their tombs. Verily thy Lord is the Remembrancer, the All-Wise. Where is the Prime Minister of Iran and his pride? Where is his grandeur and his power? Where is his beaming smile and his decisive command and his pampered form? He hath returned to his abode, fearful, agitated, trembling from the fear of God, the Lord of all worlds."
+          ]
         },
         {
           "key": "source:BHU0020",
@@ -1241,15 +1546,24 @@
         },
         {
           "key": "source:ABU0046",
-          "why": "Read the interpretation of events as fulfillment as an attributed account."
+          "why": "Read the interpretation of events as fulfillment as an attributed account.",
+          "shortened": [
+            "From behind the barrack He wrote His famous epistles to the kings and rulers of the earth. Some of these sovereigns were arraigned severely, the fall of others was predicted, which came to pass a few years after."
+          ]
         },
         {
           "key": "source:ABU2454",
-          "why": "Keep the related account of rulers and consequences distinct."
+          "why": "Keep the related account of rulers and consequences distinct.",
+          "shortened": [
+            "You saw what became of the blessed Tablet addressed to the sovereign of Iran, you saw what became of the blessed Tablet addressed to the Ottoman Sultan, you saw what became of the blessed Tablet addressed to Napoleon the king of France, you saw what became of the blessed utterance regarding Germany.\""
+          ]
         },
         {
           "key": "source:ABU1415",
-          "why": "Consider another reported claim of fulfillment."
+          "why": "Consider another reported claim of fulfillment.",
+          "shortened": [
+            "He addressed the kings from the prison, each individually, summoning all to the oneness of humanity, and the most great peace, arraigning some, and predicting what would happen in their kingdoms, and these predictions have come to pass!"
+          ]
         },
         {
           "key": "source:ABU0275",
@@ -1257,27 +1571,45 @@
         },
         {
           "key": "source:ABU2369",
-          "why": "Retain the reported names and relationships without adopting them as corrected history."
+          "why": "Retain the reported names and relationships without adopting them as corrected history.",
+          "shortened": [
+            "While in prison Baha'u'llah sent a tablet to Abdul Majid, father of the present Shah, arraigning him severely, telling him he would be dethroned. All that was foretold has come to pass, literally."
+          ]
         },
         {
           "key": "source:BH05230",
-          "why": "Return to the responsibility of the reader."
+          "why": "Return to the responsibility of the reader.",
+          "shortened": [
+            "If thou wouldst observe the Tablets which were sent down from the heaven of the Divine Will specifically for the kings of the earth, thou wouldst surely attain unto the blessed words \"Verily, I have believed in Thee, O God of the worlds.\""
+          ]
         },
         {
           "key": "source:BH02870",
-          "why": "Ask how royal names can become obstacles to recognition."
+          "why": "Ask how royal names can become obstacles to recognition.",
+          "shortened": [
+            "O kings! The Sovereign hath come and calleth you unto the Cause whereby every wise command hath been made manifest. Say: O princes! Take heed lest names hold you back from their Lord. Cast away what ye possess, then hasten unto the Dawning-Place of Revelation, and be not of them that tarry."
+          ]
         },
         {
           "key": "source:BH05285",
-          "why": "Recall the scope of the tablets."
+          "why": "Recall the scope of the tablets.",
+          "shortened": [
+            "Know thou that when We reached the prison, We purposed to convey unto the kings the Message of God. Therefore was there revealed unto each one of them a Tablet wherein We proclaimed the Cause with power and sovereignty."
+          ]
         },
         {
           "key": "source:BH07167",
-          "why": "Make fair judgment the closing challenge."
+          "why": "Make fair judgment the closing challenge.",
+          "shortened": [
+            "O kings! Hearken ye unto My call and then judge fairly in My Cause. How long will ye follow your desires? Follow Him Who hath come with manifest sovereignty. He desireth to draw you nigh unto Him and to deliver you from that wherein ye are immersed."
+          ]
         },
         {
           "key": "source:BH10983",
-          "why": "End with self-interest as an obstacle to reformation."
+          "why": "End with self-interest as an obstacle to reformation.",
+          "shortened": [
+            "The kings saw no benefit for themselves in acknowledging Him, and likewise the ministers and clergy, even though in the divine Books and Scriptures the Purpose has been clearly and explicitly made manifest, and the True One has proclaimed in the most exalted utterance that this supreme Manifestation has come for the reformation of the world and the advancement of the peoples."
+          ]
         }
       ],
       "questions": [
@@ -1392,12 +1724,15 @@
       "id": "D64346EB795847B3817AB6A1A38C8ED9",
       "slug": "poweroflove",
       "displayTitle": "The power of love: what brings hearts together",
-      "introduction": "People from distant lands share a meal without force compelling them to be there. This ordinary scene gives concrete form to the extraordinary power described throughout these readings: love joins hearts, sustains effort, and turns estrangement toward fellowship. Its language ranges from gentle treatment of those whose faith is weak to the fire, ocean, and intoxication of mystical poetry. Those images invite attention to transformed purpose and conduct. Passages about reason, moderation, and the dangers of excess keep intensity from becoming the only measure of love. Paul’s account of charity places even remarkable gifts and sacrifices under the test of patient, unselfish love [1]. The connected subjects of love in teaching and the spiritual foundations of religion extend this inquiry. Read together, the selections ask how a force celebrated as stronger than armies becomes visible in listening, service, justice, perseverance, and the daily work of bringing people into genuine fellowship.",
+      "introduction": "Guests from Persia and the farthest East sit at one table with people of the West, and no army, treaty or command brought them there. ‘Abdu’l-Bahá points to that meal as the plainest evidence of a force that founds nations and dissolves estrangement, a power stronger than reason and more durable than any throne: Napoleon ruled by oppression and his empire is gone, while Christ ruled by love and his disciples still move our hearts. Love of this kind is not softness. It is forbearance toward those weak in faith, because harshness would scatter them; it is listening to the sorrows of the oppressed; it is justice, service and the honoring of every human being. Yet it also burns, and the Sufi poets and Bahá’u’lláh’s own mystical pages speak of a plane where the intellect’s rule no longer suffices and the lover rides on without knowing the destination. Reason, moderation and the warning against excess keep intensity from becoming the only measure. Paul’s test of charity, under which eloquence, prophecy and even martyrdom count for nothing without patient, unselfish love, sharpens the same discernment [1]. The journey continues into the love of God from which all this flows, the genuine affection that alone makes teaching fruitful, and the power of faith that gives love its firmness.",
       "arc": "Begin with love made visible in fellowship, examine its difference from coercion, and explore the discipline within its transforming fire.",
       "order": [
         {
           "key": "source:ABU0652",
-          "why": "Open with a shared meal that force could not create."
+          "why": "Open with a shared meal that force could not create.",
+          "shortened": [
+            "Today in this meeting we have an evidence of how Baha'u'llah through the power of the love of God has exercised a wonderful spiritual influence throughout the world. From the remotest parts of Persia and the Orient He has caused men to come to this table to meet with the people of the West in the utmost love and affection, union and harmony. Behold how the power of Baha'u'llah has brought the East and West together. And Abdu'l-Baha is standing, serving you. There is neither rod nor blow, whip nor sword; but the power of the love of God has accomplished this."
+          ]
         },
         {
           "key": "source:ABU0113",
@@ -1409,11 +1744,17 @@
         },
         {
           "key": "source:ABU1281",
-          "why": "Bring sympathy and hearing others into the inquiry."
+          "why": "Bring sympathy and hearing others into the inquiry.",
+          "shortened": [
+            "It is natural that if a person listens to the tale of trials and sorrows of an oppressed soul his heart will be melted with grief, if he hears the songs and melodies of a real singer his spirit is transported with joy and ecstasy; if he hearkens to the woes and sufferings of a lover his tender sympathy will be manifested and if he consorts with a person who is set aglow with the Fire of the Love of God he will be drawn toward the beauty of the Beloved."
+          ]
         },
         {
           "key": "source:AB05742",
-          "why": "Join love to service and the honor of humanity."
+          "why": "Join love to service and the honor of humanity.",
+          "shortened": [
+            "Accordingly, exert thyself in heart and soul so that thou mayest become a servant in this Divine Garden and be the cause of honoring and exalting the world of humanity."
+          ]
         },
         {
           "key": "source:ABU2256",
@@ -1429,7 +1770,10 @@
         },
         {
           "key": "source:ABU1701",
-          "why": "Contrast coercive rule with enduring love."
+          "why": "Contrast coercive rule with enduring love.",
+          "shortened": [
+            "The organizer of earthly sovereignty is a domineering, subjugating power, while the organizer of the Eternal Sovereignty is the Love Power."
+          ]
         },
         {
           "key": "source:ABU0135",
@@ -1437,7 +1781,10 @@
         },
         {
           "key": "source:ABU1487",
-          "why": "Read the reported contrast between Napoleon and Christ."
+          "why": "Read the reported contrast between Napoleon and Christ.",
+          "shortened": [
+            "Napoleon established his kingdom through the power of oppression while Christ established His through the power of the love of God."
+          ]
         },
         {
           "key": "source:ABU1866",
@@ -1449,15 +1796,24 @@
         },
         {
           "key": "source:AB07040",
-          "why": "Connect affection with peace and development."
+          "why": "Connect affection with peace and development.",
+          "shortened": [
+            "Verily the Spirit through which the temple of the contingent world shall be quickened in this time is indeed the founder of peace, the spirit of affinity and the light of love. This is that whereby this being of existence shall evolve and develop and the world of humanity be adorned with the raiment of glory and honor."
+          ]
         },
         {
           "key": "source:AB03910",
-          "why": "Return to the joining of East and West."
+          "why": "Return to the joining of East and West.",
+          "shortened": [
+            "O ember kindled by the fire of divine love! Such must be its intensity and heat that it will set the world aflame and burn away the veils that shroud the peoples. Let it cast its flames toward the East, causing noble souls to hasten to the field of sacrifice, and let it flash toward the West, creating mighty movements throughout that region."
+          ]
         },
         {
           "key": "source:ABU1127",
-          "why": "Retain the reported hope for that fellowship in its own voice."
+          "why": "Retain the reported hope for that fellowship in its own voice.",
+          "shortened": [
+            "He has come from the East and all spiritual souls of the West pray that He may promote spiritual teachings, universal brotherhood and the power of love in the world, for only this spiritual power of love can unite East and West."
+          ]
         },
         {
           "key": "source:AB02258",
@@ -1473,7 +1829,11 @@
         },
         {
           "key": "source:BH00306",
-          "why": "Read mystical love beside the limits attributed to reason."
+          "why": "Read mystical love beside the limits attributed to reason.",
+          "shortened": [
+            "22 In this station, neither the reign of the intellect is sufficient nor the rule of self.",
+            "24 The dwellers of this abode know not the destination, yet they spur on their chargers. They see naught in the Beloved but His very Self. They find all words of sense to be meaningless, and senseless words to be full of meaning."
+          ]
         },
         {
           "key": "source:BH00615",
@@ -1489,7 +1849,10 @@
         },
         {
           "key": "source:BH00023",
-          "why": "Join intention, deeds, and the inexhaustible treasure of love."
+          "why": "Join intention, deeds, and the inexhaustible treasure of love.",
+          "shortened": [
+            "Love accomplishes strange and mighty works. Pure intention, pure deeds, the manifestations of detachment and its various aspects -- all of these emanate from this source, that is to say, from love, and become manifest, evident and visible...."
+          ]
         },
         {
           "key": "source:BH00825",
@@ -1497,7 +1860,10 @@
         },
         {
           "key": "source:AB02150",
-          "why": "Let the ocean image turn toward the removal of enmity."
+          "why": "Let the ocean image turn toward the removal of enmity.",
+          "shortened": [
+            "O friends! Like a boundless ocean, raise ye the waves of love, that the flotsam of enmity and cruelty may be cast out from this sea of fidelity, and the face of this ocean may become mirror-like, revealing the beauty of its bounty and the loftiness of its virtues."
+          ]
         },
         {
           "key": "source:AB05556",
@@ -1517,11 +1883,17 @@
         },
         {
           "key": "source:AB03860",
-          "why": "Extend light toward the world."
+          "why": "Extend light toward the world.",
+          "shortened": [
+            "The light of the world is the love of God."
+          ]
         },
         {
           "key": "source:ABU2285",
-          "why": "Read the hope of illumination in this age."
+          "why": "Read the hope of illumination in this age.",
+          "shortened": [
+            "Praise be to God, this century is a glorious century; may love increase every day; may it strike fire to light the candle in the darkness, like a gift and mercy of God."
+          ]
         },
         {
           "key": "source:ABU3348",
@@ -1529,11 +1901,17 @@
         },
         {
           "key": "source:BH06478",
-          "why": "Consider the turning of hearts."
+          "why": "Consider the turning of hearts.",
+          "shortened": [
+            "God willing, thou must manifest such enkindlement that through the fire of thy love the hearts and minds of the people and the souls of the servants may turn toward the Beloved."
+          ]
         },
         {
           "key": "source:ABU1793",
-          "why": "Move from inward love to eloquent speech."
+          "why": "Move from inward love to eloquent speech.",
+          "shortened": [
+            "The higher the flame of the fire of the Love of God in the heart, the more eloquent and fluent becomes the tongue."
+          ]
         },
         {
           "key": "source:AB04542",
@@ -1541,7 +1919,10 @@
         },
         {
           "key": "source:BH11852",
-          "why": "Read the poetic relation of heat and motion."
+          "why": "Read the poetic relation of heat and motion.",
+          "shortened": [
+            "O friend! The cause of motion is heat, and the cause of ascension is lightness. God willing, the fire of the love of God which is deposited in thy verses will become the cause of ascension and the reason for motion, and will unite the friends with the friends."
+          ]
         },
         {
           "key": "source:BH00944",
@@ -1553,23 +1934,39 @@
         },
         {
           "key": "source:AB08907",
-          "why": "Let fire awaken lethargy."
+          "why": "Let fire awaken lethargy.",
+          "shortened": [
+            "Among these is attraction, and among these is enkindlement and combustion with the fire of the love of God. Thereby lethargy is transformed into warmth, and coldness into the flame of the fire of oneness."
+          ]
         },
         {
           "key": "source:AB04595",
-          "why": "Read the death of lower nature as a spiritual metaphor."
+          "why": "Read the death of lower nature as a spiritual metaphor.",
+          "shortened": [
+            "The Fire of the Love of God is like unto the lightening which strikes upon the head of nature, emasculating it of its virility and leaving it fallen on the ground - a lifeless corpse. Consequently the greatest Power in the World of existence is the \"Love of God\"..."
+          ]
         },
         {
           "key": "source:BH11853",
-          "why": "Consider the smokeless flame."
+          "why": "Consider the smokeless flame.",
+          "shortened": [
+            "And if a holy fire, sanctified from the divine Tree, free from flame and smoke, appears in a breast, no other cause for existence would be considered. Thus has the time of causation been completed, if you would but witness the Causer in the garment of holiness."
+          ]
         },
         {
           "key": "source:AB11383",
-          "why": "Extend the fire image across the world."
+          "why": "Extend the fire image across the world.",
+          "shortened": [
+            "We beseech God that the fires of divine love may so blaze in Faran as to set the world aflame and illumine the universe, burn away every veil and curtain, and cause its heat to reach the Concourse on High and its flames to extend to the Most Glorious Kingdom."
+          ]
         },
         {
           "key": "source:ABU2326",
-          "why": "Explore the boundlessness of love’s imagery."
+          "why": "Explore the boundlessness of love’s imagery.",
+          "shortened": [
+            "Let us have love and more love, a love that melts all opposition, a love that conquers all foes, a love that sweeps away all barriers, a love that aboundeth in charity, large-heartedness, tolerance, and noble-striving, a love that triumphs over all obstacles, a boundless, resistless, sweeping love.",
+            "Hast thou love? Then thy power is irresistible. Hast thou sympathy? Then all the stars will sing thy praise!"
+          ]
         },
         {
           "key": "source:AB02716",
@@ -1581,11 +1978,17 @@
         },
         {
           "key": "source:AB03123",
-          "why": "Consider how love changes the experience of bitterness."
+          "why": "Consider how love changes the experience of bitterness.",
+          "shortened": [
+            "O thou son of the Kingdom! All things are beneficial if joined with the love of God; and without His love all things are harmful, and act as a veil between man and the Lord of the Kingdom. When His love is there, every bitterness turneth sweet, and every bounty rendereth a wholesome pleasure."
+          ]
         },
         {
           "key": "source:BH02249",
-          "why": "Read burdens becoming light and paths opening."
+          "why": "Read burdens becoming light and paths opening.",
+          "shortened": [
+            "However that beloved does not acknowledge or admit to the hardship, for every burden has been and is made light through love. It is love that has opened paths and unlocked doors. In an instant it traverses the East and West of the world. It is the sign of the Ancient among nations."
+          ]
         },
         {
           "key": "source:ABU1600",
@@ -1597,15 +2000,25 @@
         },
         {
           "key": "source:ABU1731",
-          "why": "Consider joy amid distance and hardship."
+          "why": "Consider joy amid distance and hardship.",
+          "shortened": [
+            "I have come from afar, although in the pathway of love this point is near, for love makes the distance short.",
+            "Then I should have been much happier, for in the pathway of true love every difficulty is mercy, every hardship is easy, and every catastrophe is a blessing."
+          ]
         },
         {
           "key": "source:BH02842",
-          "why": "Ask how the effect of love’s heat endures."
+          "why": "Ask how the effect of love’s heat endures.",
+          "shortened": [
+            "Had they properly acted upon what was mentioned before, they would surely have been enkindled with the fire of God's love in such wise that the effects of its heat would have endured eternally in the world."
+          ]
         },
         {
           "key": "source:AB01082",
-          "why": "Connect love with joy and rapture."
+          "why": "Connect love with joy and rapture.",
+          "shortened": [
+            "The love of God is life-giving and brings rapture and ecstasy, longing and joy."
+          ]
         },
         {
           "key": "source:AB11888",
@@ -1617,7 +2030,10 @@
         },
         {
           "key": "source:AB02125",
-          "why": "Consider delight in service."
+          "why": "Consider delight in service.",
+          "shortened": [
+            "In any case, if you knew how cherished you are because of your servitude to the Sacred Threshold and service to the Blessed Cause, you would surely take up an overflowing cup and become intoxicated with the wine of the love of God, singing such a melody that would set tree and stone and clod into motion."
+          ]
         },
         {
           "key": "source:BB00489",
@@ -1633,15 +2049,24 @@
         },
         {
           "key": "source:BH02265",
-          "why": "Distinguish spiritual invulnerability from a promise of bodily safety."
+          "why": "Distinguish spiritual invulnerability from a promise of bodily safety.",
+          "shortened": [
+            "Say, the Truth proclaimeth; By God! No created thing having His love can ever be harmed. Verily, He is the Spring that floweth from the well-spring of a Name that is great indeed. Whosoever drinketh therefrom shall fear no one, and heaven and earth cannot withstand him."
+          ]
         },
         {
           "key": "source:AB06690",
-          "why": "Read the fortress image in that spiritual register."
+          "why": "Read the fortress image in that spiritual register.",
+          "shortened": [
+            "This is what it means to have a body of brass - that if all horizons gather together they cannot cause harm, for the love of God is an impregnable fortress and a mighty citadel."
+          ]
         },
         {
           "key": "source:BH02323",
-          "why": "Consider the imagery of water and ascent without turning it into a physical instruction."
+          "why": "Consider the imagery of water and ascent without turning it into a physical instruction.",
+          "shortened": [
+            "By God! Whosoever hath the love of this Youth in his heart, God shall verily render him victorious over all who dwell upon earth and heaven, and verily God shall be the witness thereof. He shall walk upon water as he waketh upon the earth, and shall soar in the realm of the Spirit in the limitless expanse of heaven."
+          ]
         },
         {
           "key": "source:AB01143",
@@ -1653,7 +2078,10 @@
         },
         {
           "key": "source:BH04387",
-          "why": "Continue the appeal to stand firm."
+          "why": "Continue the appeal to stand firm.",
+          "shortened": [
+            "By Him Who hath caused all things to speak forth His praise! Should anyone stand firm in My love and detach himself from all else but Me, he would, through one of My names, gain ascendancy over all who dwell on earth."
+          ]
         },
         {
           "key": "source:AB05784",
@@ -1661,7 +2089,10 @@
         },
         {
           "key": "source:AB07024",
-          "why": "Return to love’s awakening influence."
+          "why": "Return to love’s awakening influence.",
+          "shortened": [
+            "O maid-servant of God! Ignite the fire of love in the hearts which are remiss of the mention of God that they may become awakened by the breath of God, and quickened by His Spirit in this Great Day."
+          ]
         },
         {
           "key": "source:BH11655",
@@ -1730,16 +2161,23 @@
       "id": "BB8A8971F2EF480B9179519B95690878",
       "slug": "sciencefuture",
       "displayTitle": "Future discovery: knowledge and the capacity to use it well",
-      "introduction": "A child may learn what earlier philosophers could not know, yet remain indebted to those who opened the path. This generous view of discovery introduces readings filled with confidence in the growth of knowledge and concern for the uses of power. Scientific advances promise new capacities, while inventions turned toward warfare expose a gap between technical ability and human maturity. The compilation includes scriptural images, forecasts, reported conversations, and guidance about patient investigation; each calls for an appropriate kind of attention. Bacon’s imagined research community in New Atlantis adds a comparison about experiment, public benefit, and decisions over sharing discoveries [1]. The connected subjects of humanity’s maturity, material progress, and science and religion broaden the question. These passages invite more than speculation about which prediction resembles a later invention: they ask what education, ethical judgment, and social relationships could help expanding knowledge serve the flourishing of the whole human family.",
+      "introduction": "A schoolchild today can work out truths that Aristotle never reached, and a child of the telegraph age handles the instrument more easily than its inventor did; yet, ‘Abdu’l-Bahá insists, the merit still belongs to the founders who opened the way. That double movement, confidence in the growth of knowledge joined to gratitude for those who came before, sets the temper for thinking about where discovery is heading. Bahá’u’lláh promises sciences and crafts that no heart has yet conceived, and ‘Abdu’l-Bahá speaks of flight, of instant communication, of machines that could give leisure to every worker. He also watched the inventions of his own day turned into engines of slaughter, and prayed that one still-hidden force not be found until spiritual civilization had caught up with material power. Bacon’s imagined research house, whose members deliberate over which findings to publish and pray that their work be put to good use, raises the same question of who judges benefit [1]. The path leads on toward the coming of age of the human race, the ceaseless ascent of material civilization, the mind’s own power of discovery, and religion as the spring from which knowledge flows.",
       "arc": "Begin with cumulative learning, explore the promise and danger of discovery, and end with the patient work of developing capacities and beneficial applications.",
       "order": [
         {
           "key": "source:AB02372",
-          "why": "Open with later knowledge and gratitude to earlier founders."
+          "why": "Open with later knowledge and gratitude to earlier founders.",
+          "shortened": [
+            "In mathematics, school children can now exceed Aristotle in their comprehension of truths. Consider how great is this century, and how magnificent is this era.",
+            "Those [earlier] individuals, however, were the founders of sciences and crafts, and as such they should be regarded as superior and be given preference. For example, a child in the telecommunication era is more skilled in handling a telegraph than the inventor himself was; as the inventor could not have transmitted messages with the same ease. The merit nevertheless goes to the preceding and early founders."
+          ]
         },
         {
           "key": "source:ABU0300",
-          "why": "Establish the revisability of scientific understanding."
+          "why": "Establish the revisability of scientific understanding.",
+          "shortened": [
+            "For instance, great discoveries and announcements of former centuries are continually upset and discarded by the wise men of today. Mathematicians, astronomers, chemical scientists continually disprove and reject the conclusions of the ancients; nothing is fixed, nothing final; everything is continually changing because human reason is progressing along new roads of investigation and arriving at new conclusions every day. In the future much that is announced and accepted as true now will be rejected and disproved. And so it will continue ad infinitum."
+          ]
         },
         {
           "key": "source:ABU2879",
@@ -1759,7 +2197,11 @@
         },
         {
           "key": "source:ABU0051",
-          "why": "Join moral development with material progress."
+          "why": "Join moral development with material progress.",
+          "shortened": [
+            "If the moral precepts and foundations of divine civilization become united with the material advancement of man, there is no doubt that the happiness of the human world will be attained and that from every direction the glad tidings of peace upon earth will be announced.",
+            "Then will the power of the divine make itself effective and the breath of the Holy Spirit penetrate the essence of all things."
+          ]
         },
         {
           "key": "source:BH00238",
@@ -1771,7 +2213,10 @@
         },
         {
           "key": "source:BH00545",
-          "why": "Read discovery through the language of divine names."
+          "why": "Read discovery through the language of divine names.",
+          "shortened": [
+            "When the sun of His name, the Creator, dawneth from the horizon of His mouth, through it are made manifest the arts throughout all ages - this is an indubitable truth. This name riseth upon all things that exist, and through it are revealed the arts through the agencies of the kingdom, were ye of them that are assured. All the wondrous and novel manifestations of craftsmanship that ye behold have appeared from this Name, and there shall appear hereafter that which ye have never heard before."
+          ]
         },
         {
           "key": "source:AB00023",
@@ -1787,7 +2232,10 @@
         },
         {
           "key": "source:ABU2847",
-          "why": "Keep the reported force within stone in its own terms."
+          "why": "Keep the reported force within stone in its own terms.",
+          "shortened": [
+            "The edifice of the Most Exalted Shrine shall be expanded. In the future, a form of electricity shall be discovered whereby, within the stone itself and without connection to any power plant, electric lights shall be illuminated."
+          ]
         },
         {
           "key": "source:BH00722",
@@ -1803,11 +2251,18 @@
         },
         {
           "key": "source:ABU0518",
-          "why": "Hear the delight associated with flight."
+          "why": "Hear the delight associated with flight.",
+          "shortened": [
+            "Today I wanted to come here and at the door I saw an airplane rising. It was a very beautiful sight. Truly it is a strange invention. It demonstrates human power, that God has given such power to man that he can fly to heights beyond the capacity of birds."
+          ]
         },
         {
           "key": "source:ABU2998",
-          "why": "Read the reported forecast of universal safe flying as a forecast."
+          "why": "Read the reported forecast of universal safe flying as a forecast.",
+          "shortened": [
+            "The science of aviation will make great progress in the immediate future and people will travel at ease from one city to another city without any danger. It will become as popular as automobiles.",
+            "Just as now every well to do person has an automobile, then they will have an aeroplane."
+          ]
         },
         {
           "key": "source:ABU0121",
@@ -1819,15 +2274,27 @@
         },
         {
           "key": "source:ABU0838",
-          "why": "Connect those capacities with the possibility of unity."
+          "why": "Connect those capacities with the possibility of unity.",
+          "shortened": [
+            "Communication is so easy that in a single moment the East can communicate with the West. A hundred days can be passed in a single day. Ships, in other Manifestations, could only sail near the shore, and if sometimes they did go far they would be missed and could not be traced. Now they cross the ocean.",
+            "In the days of the Prophets, Christ and Mohammed, there were many plains and deserts on which no one had traveled, now the trains can go directly and pass over them easily, and the land and sea are so connected with each other that the globe can be traversed in one month."
+          ]
         },
         {
           "key": "source:ABU3667",
-          "why": "Ask who benefits from machines and released time."
+          "why": "Ask who benefits from machines and released time.",
+          "shortened": [
+            "The labor saving machines were given to create leisure for all mankind...",
+            "You cannot understand now, how the labor saving machines can produce leisure for mankind because at present they are all in the hands of the financiers and are used only to increase profits, but that will not continue. The workers will come into their due benefit from the machine that is the divine intention, and one cannot continue to violate the law of God."
+          ]
         },
         {
           "key": "source:ABU0385",
-          "why": "Bring theories toward practical action."
+          "why": "Bring theories toward practical action.",
+          "shortened": [
+            "The Tablets of Baha'u'llah are many. The precepts and teachings they contain are universal, covering every subject. He has revealed scientific explanations ranging throughout all the realms of human inquiry and investigation -- astronomy, biology, medical science, etc.",
+            "His teachings are universal and the standard for human action. They are not merely theoretical and intended to remain in books. They are the principles of action. Results follow action. Mere theory is fruitless. Of what use is a book upon medicine if it is never taken from the library shelf? When practical activity has been manifested, the teachings of God have borne fruit."
+          ]
         },
         {
           "key": "source:AB00357",
@@ -1839,7 +2306,10 @@
         },
         {
           "key": "source:AB00279",
-          "why": "Read the proposed gathering concerned with religious traditions and unity."
+          "why": "Read the proposed gathering concerned with religious traditions and unity.",
+          "shortened": [
+            "If this esteemed congress will, as it should and must, promote these beneficent purposes and eliminate these traditions in the possession of religions which are contrary to the divine foundation, the world will become another world, the earthly realm shall become a heavenly realm, the human world shall become the dawning-place of reality, and the rays of the Sun of the celestial realm shall shine upon it. East and West shall be illumined, South and North shall embrace one another, all religions shall seek and speak the truth, and everlasting foundations shall be laid in the world of humanity, and the edifice of the unity of the human race shall rise day by day."
+          ]
         },
         {
           "key": "source:AB02184",
@@ -1859,15 +2329,24 @@
         },
         {
           "key": "source:AB00081",
-          "why": "Consider the educator’s influence on intellectual development."
+          "why": "Consider the educator’s influence on intellectual development.",
+          "shortened": [
+            "He must likewise lay the foundations of human education, that is, he must so educate human minds and thoughts that they may become capable of substantive progress; that science and knowledge may expand; that the realities of things, the mysteries of the universe and the properties of all that exists may be revealed; that learning, discoveries and major undertakings may day by day increase; and that matters of the intellect may be deduced from and conveyed through the sensible."
+          ]
         },
         {
           "key": "source:AB00921",
-          "why": "Read revelation through the image of spring."
+          "why": "Read revelation through the image of spring.",
+          "shortened": [
+            "In like manner, when the holy Manifestation of God, Who is the Sun of the world of creation, casts His splendour upon the world of hearts, minds, and spirits, a spiritual springtime is ushered in and a new life is unveiled. The power of the matchless springtide appears and its marvellous gifts are beheld. Thus you observe that, with the advent of each of the Manifestations of God, astonishing progress was attained in the realm of human minds, thoughts, and spirits. Consider, for example, the progress that has been achieved in this divine age in the world of minds and thoughts---and this is only the beginning of the dawn!"
+          ]
         },
         {
           "key": "source:ABU0161",
-          "why": "Hear the reported account of prophets and the roots of knowledge."
+          "why": "Hear the reported account of prophets and the roots of knowledge.",
+          "shortened": [
+            "The Prophets of God have founded the laws of divine civilization. They have been the root and fundamental source of all knowledge."
+          ]
         },
         {
           "key": "source:AB00035",
@@ -1875,11 +2354,17 @@
         },
         {
           "key": "source:ABU0873",
-          "why": "Read the relation drawn between religious reality and knowledge."
+          "why": "Read the relation drawn between religious reality and knowledge.",
+          "shortened": [
+            "\"People have a superstitious respect for certain doctrines which are against science and the wise men of the country have thought that religion is opposed to science. Know thou that the great ethical foundation of knowledge is divine revelation and the basis of religion is reality itself."
+          ]
         },
         {
           "key": "source:AB00091",
-          "why": "Consider the image of knowledge covering the earth."
+          "why": "Consider the image of knowledge covering the earth.",
+          "shortened": [
+            "Now, in this glorious age, which is the century of Baha'u'llah, consider how far knowledge and learning have progressed, how fully the mysteries of creation have been unveiled, and how many great undertakings have been embarked upon and are multiplying day by day! Soon will material knowledge and learning, as well as spiritual knowledge, make such progress and display such wonders as to dazzle every eye and to disclose the full meaning of the verse of Isaiah: \"for the earth shall be full of the knowledge of the Lord.\""
+          ]
         },
         {
           "key": "source:AB00276",
@@ -1891,7 +2376,10 @@
         },
         {
           "key": "source:AB11731",
-          "why": "Read the related saying attributed to Imam Sadiq."
+          "why": "Read the related saying attributed to Imam Sadiq.",
+          "shortened": [
+            "The intention of His Holiness the Truthful One (Imam Sadiq), peace be upon him, is that the sciences and arts that appeared among people up until the previous dispensation were equivalent to two letters, but in the blessed dispensation of the Blessed Beauty, sciences and arts equivalent to the remaining letters - that is, many times over - will appear and emerge."
+          ]
         },
         {
           "key": "source:ABU0379",
@@ -1899,7 +2387,10 @@
         },
         {
           "key": "source:ABU2329",
-          "why": "Distinguish symbolic spiritual development from literal chronology."
+          "why": "Distinguish symbolic spiritual development from literal chronology.",
+          "shortened": [
+            "Aside from the true meaning of this passage which pertains to the power and might of the Cause of God, to the revelation of verses and signs, to the solution of divine problems, to the disclosure of the mysteries of the Holy Book and to the spread of knowledge - each of which is a hundred times greater in this mighty revelation than in any previous one - materially, too, all the learned men of this age agree that the advancements in knowledge, the arts, industries and inventions of this century are equal to those of the last fifty centuries, indeed, even greater than that."
+          ]
         },
         {
           "key": "source:ABU0466",
@@ -1907,7 +2398,11 @@
         },
         {
           "key": "source:ABU0145",
-          "why": "Read mastery of nature as the report’s figurative language."
+          "why": "Read mastery of nature as the report’s figurative language.",
+          "shortened": [
+            "Science is the governor of nature and its mysteries, the one agency by which man explores the institutions of material creation. All created things are captives of nature and subject to its laws.",
+            "But man through the exercise of his scientific, intellectual power can rise out of this condition, can modify, change and control nature according to his own wishes and uses. Science, so to speak, is the breaker of the laws of nature."
+          ]
         },
         {
           "key": "source:ABU0264",
@@ -1927,7 +2422,11 @@
         },
         {
           "key": "source:AB00948",
-          "why": "Consider the scale of change expressed through an age."
+          "why": "Consider the scale of change expressed through an age.",
+          "shortened": [
+            "See how, in this day, the scope of sciences and arts hath widened out, and what wondrous technical advances have been made, and to what a high degree the mind's powers have increased, and what stupendous inventions have appeared.",
+            "This age is indeed as a hundred other ages: should ye gather the yield of a hundred ages, and set that against the accumulated product of our times, the yield of this one era will prove greater than that of a hundred gone before."
+          ]
         },
         {
           "key": "source:ABU0188",
@@ -1939,7 +2438,11 @@
         },
         {
           "key": "source:ABU0373",
-          "why": "Hear the expectation of further civilization."
+          "why": "Hear the expectation of further civilization.",
+          "shortened": [
+            "From the standpoints of both material and spiritual civilization extraordinary progress and development will be witnessed.",
+            "In this present cycle there will be an evolution in civilization unparalleled in the history of the world. The world of humanity has, heretofore, been in the stage of infancy; now it is approaching maturity."
+          ]
         },
         {
           "key": "source:BHU0013",
@@ -1947,7 +2450,10 @@
         },
         {
           "key": "source:BHU0014",
-          "why": "Keep the reported images of transformed materials in context."
+          "why": "Keep the reported images of transformed materials in context.",
+          "shortened": [
+            "Do you see this Garden? Do you see all these stones? All will be destroyed. But the time will come when these will be renewed, and then they will be fixed for all time. But the people will not be satisfied, but will bring marble.  Even this will not satisfy them. They will bring one brick of silver and one brick of gold."
+          ]
         },
         {
           "key": "source:AB00162",
@@ -1971,7 +2477,11 @@
         },
         {
           "key": "source:BBU0001",
-          "why": "Read the reported comparison of future children and present sages."
+          "why": "Read the reported comparison of future children and present sages.",
+          "shortened": [
+            "O My Letters! Verily I say, immensely exalted is this Day above the days of the Apostles of old. Nay, immeasurable is the difference! You are the witnesses of the Dawn of the promised Day of God. You are the partakers of the mystic chalice of His Revelation.",
+            "The secret of the Day that is to come is now concealed. It can neither be divulged nor estimated. The newly born babe of that Day excels the wisest and most venerable men of this time, and the lowliest and most unlearned of that period shall surpass in understanding the most erudite and accomplished divines of this age."
+          ]
         },
         {
           "key": "selection:2e7eca71c1fa4cfd9ec966b3",
@@ -1983,7 +2493,10 @@
         },
         {
           "key": "selection:7d070708c27b14a352063484",
-          "why": "Read the supplied clarification about evolution and changing knowledge."
+          "why": "Read the supplied clarification about evolution and changing knowledge.",
+          "shortened": [
+            "We don't believe man has always had the form of man, but rather that from the outset he was going to evolve into the human form and species and not be a haphazard branch of the ape family. You see our whole approach to each matter is based on the belief that God sends us divinely inspired Educators. What they tell us is fundamentally true; what science tells us today is true, tomorrow may be entirely changed to better explain a new set of facts."
+          ]
         },
         {
           "key": "selection:ae4489b0e2f84a24b5a54b4a",

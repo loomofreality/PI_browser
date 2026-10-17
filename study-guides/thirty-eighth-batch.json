@@ -5,7 +5,7 @@
       "id": "77FE3431893F4FD6A31E4BC04DA1BEFC",
       "slug": "transformationlaw",
       "displayTitle": "Change and transformation: what passes, what grows, what endures",
-      "introduction": "A flower disappears, yet its passing need not mean that existence has become nothing. This image opens a collection that asks us to distinguish changes of form, growth in capacity, spiritual renewal, and the enduring reality of God. Its analogies move through gardens, atoms, education, religious history, and the life of the soul. They do not all use “change” in the same sense: progress within a degree of existence differs from transformation through grace, and the renewal of religious laws differs from the constancy of divine purpose. Neighboring subjects on motion, composition, evolution, and progressive revelation sharpen those distinctions. The Dhammapada offers a comparative path from awareness of impermanence toward disciplined insight [1], with a different account of selfhood and liberation. Read with attention to their varied source status and historical scientific imagery, these passages invite a searching question about which changes we merely undergo and which we can help become fruitful.",
+      "introduction": "A flower wilts, but ‘Abdu’l-Bahá insists that it is never annihilated: its form breaks down, its elements travel on into soil, plant and animal, and nothing that exists becomes nothing. That distinction between a change of form and an end of being is the first lesson, and the rest grow from it. Contingent things cannot help changing; they ascend or decline, grow or decay, and the people who were young in ‘Akká grow old. Yet iron, however long it burns, never becomes fire, a mineral never gains sight, and progress happens within each thing’s own degree, while the step from one rank to the next comes only by grace. Beneath every alteration stands the one reality that does not change, and the laws of God are renewed from age to age precisely because the conditions of the world do not stay still. The Dhammapada also begins with impermanence and moves toward disciplined insight [1], though its account of self and liberation differs. The road continues into motion and its kinds, into composition and decomposition and the story of evolution, and into progressive revelation, where change and constancy are finally held together.",
       "arc": "Begin with the passing flower, distinguish forms of change and enduring reality, then turn toward education, grace, and the renewal of religious life.",
       "order": [
         {
@@ -14,7 +14,11 @@
         },
         {
           "key": "source:ABU0030",
-          "why": "Introduce transformation across contingent existence."
+          "why": "Introduce transformation across contingent existence.",
+          "shortened": [
+            "The phenomenal beings, which are captives of limitations, are ever subject to transformation and change in condition.",
+            "Transformation from condition to condition is the attribute of contingent realities."
+          ]
         },
         {
           "key": "source:AB00373",
@@ -38,11 +42,17 @@
         },
         {
           "key": "source:ABU2001",
-          "why": "Consider the reported gradual development and dissolution of a body."
+          "why": "Consider the reported gradual development and dissolution of a body.",
+          "shortened": [
+            "This body has grown into its present form by the slow process of evolution and it must be disintegrated by the same process. This is the law of nature and it is the Universal law of God."
+          ]
         },
         {
           "key": "source:ABU1455",
-          "why": "Ground the theme in the reported experience of aging."
+          "why": "Ground the theme in the reported experience of aging.",
+          "shortened": [
+            "The law of change works mighty transformation in all the Kingdoms of life. When we were exiled to Acca I was at the prime of my life. I saw then many people who were in the height of youth, power and virility. Now all of them are stricken with old age, their forces are disintegrated, their backs are bent, their faces wrinkled and their strength gone. Many of those whom I have known are dead and their voices are heard no more. Their stars are set, their breezes hushed, and their flowers withered."
+          ]
         },
         {
           "key": "source:ABU2845",
@@ -62,11 +72,17 @@
         },
         {
           "key": "source:ABU0441",
-          "why": "Consider motion and change as reported rules of existence."
+          "why": "Consider motion and change as reported rules of existence.",
+          "shortened": [
+            "Motion and change are its two fixed rules. These two laws are inseparable from each other. All the contingent beings, from the amoeba to the elephants are the creatures of motion and change."
+          ]
         },
         {
           "key": "source:ABU0912",
-          "why": "Introduce ascent and decline as different directions of change."
+          "why": "Introduce ascent and decline as different directions of change.",
+          "shortened": [
+            "All things are subject to change and transformation, to ascent and decline, like the human body."
+          ]
         },
         {
           "key": "source:ABU0633",
@@ -74,15 +90,25 @@
         },
         {
           "key": "source:BH02665",
-          "why": "Read transience through the image of the world as a book."
+          "why": "Read transience through the image of the world as a book.",
+          "shortened": [
+            "Praise be to God Who hath made this world a manifest book and a mighty volume, and hath inscribed therein that which ordaineth its change and passing away, its turmoil and transformation and extinction. Blessed are they whom its conditions and manifestations and colors and ornaments and bounties have not prevented."
+          ]
         },
         {
           "key": "source:AB01382",
-          "why": "Distinguish the changing creation from its Creator."
+          "why": "Distinguish the changing creation from its Creator.",
+          "shortened": [
+            "Existence is of two kinds: One is the existence of the True One (God) which is sanctified above the comprehension of creation.",
+            "The second existence is that of creation. It is a general existence which is a mental concept that human reason can comprehend. This existence is originated, dependent, preceded by cause, and contingent. Therefore, the contingent cannot become ancient, and the ancient cannot become contingent. Creation cannot become Creator, and the Creator cannot become creation. The transformation of essence is impossible in the realm of existence."
+          ]
         },
         {
           "key": "source:AB02776",
-          "why": "Consider the argument from the Ancient to unchanging requirements."
+          "why": "Consider the argument from the Ancient to unchanging requirements.",
+          "shortened": [
+            "The absence of upheaval and the absence of change and transformation are essential requirements of the Ancient, not of that which is originated."
+          ]
         },
         {
           "key": "source:ABU1238",
@@ -102,15 +128,24 @@
         },
         {
           "key": "source:AB00399",
-          "why": "Examine progress within a degree of existence."
+          "why": "Examine progress within a degree of existence.",
+          "shortened": [
+            "But every created thing has been assigned a degree which it can in no wise overpass. So he who occupies the degree of servitude, no matter how far he may progress and acquire endless perfections, can never reach the degree of divine Lordship. The same holds true of all other created things. No matter how far a mineral may progress it can never acquire the power of growth in the mineral kingdom. No matter how far this flower may progress, it can never manifest the power of sensation while it is in the vegetable kingdom."
+          ]
         },
         {
           "key": "source:AB00420",
-          "why": "Distinguish infinite perfection from a change of station."
+          "why": "Distinguish infinite perfection from a change of station.",
+          "shortened": [
+            "And after the noblest stations in the world of humanity have been attained, further progress can be made only in the degrees of perfection, not in station, for the degrees are finite but the divine perfections are infinite."
+          ]
         },
         {
           "key": "source:AB01145",
-          "why": "Read the extended account of motion and spiritual progress."
+          "why": "Read the extended account of motion and spiritual progress.",
+          "shortened": [
+            "Now, as the human spirit continues after death, it must either advance or decline, and in the next world to cease to advance is the same as to decline. But the human spirit never transcends its own degree: it progresses only within that degree. For example, no matter how far the spirit and reality of Peter may progress, it will never reach the degree of the reality of Christ but will progress only within its own inherent limits."
+          ]
         },
         {
           "key": "source:ABU0448",
@@ -118,7 +153,11 @@
         },
         {
           "key": "source:ABU1139",
-          "why": "Consider the reported analogy of iron retaining its identity when heated."
+          "why": "Consider the reported analogy of iron retaining its identity when heated.",
+          "shortened": [
+            "As an example of matter we may take the metal, iron. Its nature is such that when heated it may become hot, red, and fluid. But though it continue a thousand years in the fire, its nature will not be changed into that of fire; its nature as iron will still remain.",
+            "Thus it may be known that the nature of things remains always the same - that inherent qualities can never be lost."
+          ]
         },
         {
           "key": "source:ABU0096",
@@ -142,7 +181,10 @@
         },
         {
           "key": "source:ABU0626",
-          "why": "Read the reported approach to God through mercy."
+          "why": "Read the reported approach to God through mercy.",
+          "shortened": [
+            "The soul does not evolve from degree to degree as a law -- it only evolves nearer to God, by the Mercy and Bounty of God."
+          ]
         },
         {
           "key": "source:BH10308",
@@ -158,7 +200,11 @@
         },
         {
           "key": "source:AB00211",
-          "why": "Consider changing religious ordinances in differing conditions."
+          "why": "Consider changing religious ordinances in differing conditions.",
+          "shortened": [
+            "And since change and transformation are among the requirements of all contingent things, the commandments of God are also changed in accordance with the changing times. For example, in the days of Moses, that which was required by and consonant with the conditions prevailing at that time was the Mosaic Law. However, in the days of Christ, those conditions had so changed as to render the Mosaic Law unsuited and ill-adapted to the needs of mankind, and it was therefore abrogated.",
+            "These changes are due to the transformation of thoughts, customs and conditions, and without them the well-being of the human world would be disrupted."
+          ]
         },
         {
           "key": "source:ABU2675",
@@ -174,11 +220,18 @@
         },
         {
           "key": "selection:a0889d0953304ec2b5a637bc",
-          "why": "Read the fuller supplied contrast between grace and effort."
+          "why": "Read the fuller supplied contrast between grace and effort.",
+          "shortened": [
+            "Progress is possible, but it depends upon the generosity of God, and not upon the efforts and struggles of man. In other words, progress becomes possible only through grace, because the progress from one rank to another depends entirely upon divine generosity, whereas on the contrary, progress toward perfection is obtainable through man's effort."
+          ]
         },
         {
           "key": "selection:a4044b610eba2d40321d88da",
-          "why": "Keep the supplied provisional account of degrees of existence distinct."
+          "why": "Keep the supplied provisional account of degrees of existence distinct.",
+          "shortened": [
+            "No matter how far each of the different species may progress, it will never reach the rank above its own.",
+            "Similarly, every human being hath a spiritual station, and doth progress in its own station and rank. The one who is stunt of mind, no matter how intense a discipline he may endure, no matter how diligently he may strive, and how regenerated he may become, he will never attain to the station of the Daysprings of Revelation and the Dawning-Places of Inspiration. The bitter tree will never become a lofty palm tree, and the colocynth will never bear sweet fruit."
+          ]
         },
         {
           "key": "selection:15dac85a63c45b27042512a4",
@@ -288,28 +341,43 @@
       "id": "1AD5A5F58C9D4D80A982ED7AA5435D7E",
       "slug": "calledchosen",
       "displayTitle": "Called and chosen: invitation, grace, and a life of response",
-      "introduction": "What might it mean to be chosen if the first sign is a love of unity? That reported description provides a practical opening to passages whose language can otherwise sound like a hierarchy of spiritual privilege. Invitations, banquets, spring rain, and awakened hearts recur throughout the collection. Some selections emphasize receptivity and effort; others insist that guidance is a gift beyond anyone’s claim of worthiness. Their tension invites gratitude and service rather than confidence in judging another person’s standing. Connected subjects concerning grace, divine good pleasure, and the scarcity of true recognition widen the inquiry. Matthew’s wedding banquet gives the phrase “many are called” its demanding narrative setting, including both a widened invitation and images of judgment [1]. These readings ask how an invitation becomes a lived response, how pride can obstruct that response, and how awareness of a gift might deepen responsibility toward all people.",
+      "introduction": "Who are the elect? ‘Abdu’l-Bahá’s reported answer is disarming: they are the ones who live together in love and unity, while the mass of humanity does not. That sets the tone for a saying that can otherwise sound like a ladder of spiritual privilege. Asked why Christ said that many are called but few are chosen, ‘Abdu’l-Bahá explains that faith is a token of grace and not a wage earned by justice; the fire of love is lit by attraction, not by striving. By justice all are invited, by mercy a few are singled out, and those few have nothing to boast of, since even the capacity to respond was bestowed. Pride and heedlessness keep people from the table; spring rain falls on every tree and only the living ones bloom; the learned are often barred while the ignorant enter. Matthew’s parable of the wedding banquet, with its refusals and its hard images of judgment, gives the phrase its demanding setting [1]. The road leads on into grace, bounty and the compassion of God, into attaining His good pleasure, and into the scarcity of receptive souls, where gratitude turns into service.",
       "arc": "Begin with love of unity, place election within unearned grace, then explore invitation, receptivity, gratitude, and responsible action.",
       "order": [
         {
           "key": "source:ABU0204",
-          "why": "Open with the reported identification of the elect through love of unity."
+          "why": "Open with the reported identification of the elect through love of unity.",
+          "shortened": [
+            "The great mass of humanity does not exercise real love and fellowship. The elect of humanity are those who live together in love and unity."
+          ]
         },
         {
           "key": "source:AB01359",
-          "why": "Ground the discussion in the account of guidance as grace."
+          "why": "Ground the discussion in the account of guidance as grace.",
+          "shortened": [
+            "For faith, which is life eternal, is a token of grace and not the result of justice. The flame of the fire of love, in this world of earth and water, burns by the power of attraction and not through human effort and striving, although through the latter one may indeed acquire knowledge, learning, and other perfections. It is the light of the divine Beauty, then, that must stir up and move the spirit through its attractive power. Wherefore is it said: \"many are called, but few are chosen\"."
+          ]
         },
         {
           "key": "source:AB12229",
-          "why": "Read the explicit refusal to make worthiness a claim upon bounty."
+          "why": "Read the explicit refusal to make worthiness a claim upon bounty.",
+          "shortened": [
+            "O ye who are attracted to the Beauty of Truth! Christ - may my soul be a sacrifice unto Him - hath said in the Gospel: \"Many are called but few are chosen.\" This meaneth that while many are invited to the Faith, few are those who attain to the grace of guidance and the succour of divine favour, for the gift of guidance is purely an outpouring of grace and bounty, not dependent on capacity and worthiness. \"He singles out for His mercy whomsoever He pleaseth.\""
+          ]
         },
         {
           "key": "source:ABU1116",
-          "why": "Keep the reported concise affirmation of mercy."
+          "why": "Keep the reported concise affirmation of mercy.",
+          "shortened": [
+            "The gift of faith is a bestowal emanating from absolute mercy on the part of God, and as God specializes for the bestowals which emanate from faith, thus His Holiness Christ says \"Verily, many are called but few are chosen.\""
+          ]
         },
         {
           "key": "source:ABU0507",
-          "why": "Consider the reported distinction between justice in calling and favor in choosing."
+          "why": "Consider the reported distinction between justice in calling and favor in choosing.",
+          "shortened": [
+            "Jesus said, \" Many are called\"--this is justice--\"but few are chosen\"--this is favor. The chosen ones are the appearances of Favor--others are the appearances of Justice. Otherwise the Name of justice would never be realized and God is independent. He does as He wills."
+          ]
         },
         {
           "key": "source:ABU1333",
@@ -329,19 +397,31 @@
         },
         {
           "key": "source:ABU0473",
-          "why": "Keep the reported invitation to unexpected spiritual capacity."
+          "why": "Keep the reported invitation to unexpected spiritual capacity.",
+          "shortened": [
+            "God's eternal Mercy is immeasurable. He has always chosen certain souls upon whom He has shed the Divine Bounty of His heart, whose minds He has illumined with celestial light, to whom He has revealed the sacred mysteries, and kept clear before their sight the Mirror of Truth. These are the disciples of God, and His goodness has no bounds. You who are servants of the Most High may be disciples also. The treasuries of God are limitless."
+          ]
         },
         {
           "key": "source:AB00034",
-          "why": "Enter the image of the banquet through gratitude."
+          "why": "Enter the image of the banquet through gratitude.",
+          "shortened": [
+            "Ye have fed on the honeydew of loyalty from the hands of Him Who is the one alone Beloved, ye have feasted on immortal dishes at the bounteous banquet table of the Lord. This plenty is a special favor bestowed by a loving God, these are blessings and rare gifts deriving from His grace. In the Gospel He saith: \"For many are called, but few are chosen.\" That is, to many is it offered, but rare is the soul who is singled out to receive the great bestowal of guidance. \"Such is the bounty of God: to whom He will He giveth it, and of immense bounty is God.\""
+          ]
         },
         {
           "key": "source:AB04430",
-          "why": "Consider the distance between invitation and response."
+          "why": "Consider the distance between invitation and response.",
+          "shortened": [
+            "O thou rose of the Rose-Garden of the Love of God! His Holiness Christ-may my spirit be His sacrifice!--saith in the Gospel, \"Many are called, but few chosen.\" That is, many have been invited to faith, but few chosen for guidance."
+          ]
         },
         {
           "key": "source:AB09058",
-          "why": "Read pride and heedlessness as obstacles to the table."
+          "why": "Read pride and heedlessness as obstacles to the table.",
+          "shortened": [
+            "O son of the Kingdom! The divine table, which consists of heavenly knowledge, hath been sent down from the Kingdom of God and spread throughout all regions. Yet those who were invited did not respond to the call, due to their ignorance, heedlessness, pride and vainglory. Praise be to God that we have answered the call and attended the table, partaking of those delectable spiritual foods and enjoying this bounty through which souls are quickened."
+          ]
         },
         {
           "key": "source:BH00113",
@@ -349,7 +429,10 @@
         },
         {
           "key": "source:BH00049",
-          "why": "Read the offered chalice and the few who receive it."
+          "why": "Read the offered chalice and the few who receive it.",
+          "shortened": [
+            "The Celestial Youth hath, in this Day, raised above the heads of men the glorious Chalice of Immortality, and is standing expectant upon His seat, wondering what eye will recognize His glory, and what arm will, unhesitatingly, be stretched forth to seize the Cup from His snow-white Hand and drain it. Only a few have as yet quaffed from this peerless, this soft-flowing grace of the Ancient King."
+          ]
         },
         {
           "key": "source:AB00175",
@@ -357,15 +440,24 @@
         },
         {
           "key": "source:AB02938",
-          "why": "Follow the variety of birds’ responses to a call."
+          "why": "Follow the variety of birds’ responses to a call.",
+          "shortened": [
+            "He raised a call from the Supreme Concourse which created commotion and resurrection among the flock of birds. Some, through the power of that call, flew to the Kingdom of the All-Powerful Lord. Others spread their wings and took flight but were afflicted with weariness and lassitude. And some completely submerged their wings in the clay of error."
+          ]
         },
         {
           "key": "source:BH02699",
-          "why": "Read the world’s distractions beside the invitation."
+          "why": "Read the world’s distractions beside the invitation.",
+          "shortened": [
+            "The Most Exalted Pen calleth out at every moment, yet how few are the ears that are ready to hearken. The diverse colors of the world have occupied them that dwell in the realm of names, although every possessor of sight and hearing hath testified and doth testify to its evanescence."
+          ]
         },
         {
           "key": "source:BH06867",
-          "why": "Consider discernment of favors already present."
+          "why": "Consider discernment of favors already present.",
+          "shortened": [
+            "The Light hath dawned, the Hidden hath become manifest, the Treasured hath appeared resplendent, the verses have been sent down, the river is flowing, and the heavenly table is visible. Nevertheless, few indeed are those perceptive souls who can comprehend the stations of God's favors. The abundance of bounty and blessing hath become the cause of heedlessness."
+          ]
         },
         {
           "key": "source:AB00653",
@@ -373,7 +465,10 @@
         },
         {
           "key": "source:BH00002",
-          "why": "Read the philosopher’s stone and true belief as symbolic language."
+          "why": "Read the philosopher’s stone and true belief as symbolic language.",
+          "shortened": [
+            "That holy man, Sadiq, in his eulogy of the Cherubim, saith: \"There stand a company of our fellow-Shi'ihs behind the Throne.\" Divers and manifold are the interpretations of the words \"behind the Throne.\" In one sense, they indicate that no true Shi'ihs exist. Even as he hath said in another passage: \"A true believer is likened unto the philosopher's stone.\" Addressing subsequently his listener, he saith: \"Hast thou ever seen the philosopher's stone?\" Reflect, how this symbolic language, more eloquent than any speech, however direct, testifieth to the nonexistence of a true believer."
+          ]
         },
         {
           "key": "source:BH00012",
@@ -381,19 +476,31 @@
         },
         {
           "key": "source:ABU1535",
-          "why": "Read the reported image of awakening."
+          "why": "Read the reported image of awakening.",
+          "shortened": [
+            "All the people are sleep but you are awake. They are all engaged with the affairs of this world but ye are occupied with the thoughts of God. This is a most important Bestowal! It is not made possible for every soul. In this connection Christ says:- Many are called bur few are chosen."
+          ]
         },
         {
           "key": "source:ABU1183",
-          "why": "Keep the reported contrast between wakefulness and refusal to see attributed."
+          "why": "Keep the reported contrast between wakefulness and refusal to see attributed.",
+          "shortened": [
+            "Many of the people are heedless of this Great Day. We are the blessed ones who Know and are acquainted with its wonderful significances. Why are they sleeping while you have been awakened? You have attained while they are deprived because they will not see. The reason of this is mentioned in the Bible—'Many are called, but few are chosen.'"
+          ]
         },
         {
           "key": "source:ABU1015",
-          "why": "Read the reported scarcity of consciousness."
+          "why": "Read the reported scarcity of consciousness.",
+          "shortened": [
+            "In the whole world there is hardly one who is conscious of reality."
+          ]
         },
         {
           "key": "source:ABU1953",
-          "why": "Consider hearing joined with understanding."
+          "why": "Consider hearing joined with understanding.",
+          "shortened": [
+            "Christ said, \"Many are called, but few are chosen.\" The chosen have heard and understood the call from the divine assembly."
+          ]
         },
         {
           "key": "source:BH05888",
@@ -405,27 +512,47 @@
         },
         {
           "key": "source:BH07936",
-          "why": "Consider the reversal of expectations about learning and recognition."
+          "why": "Consider the reversal of expectations about learning and recognition.",
+          "shortened": [
+            "How many an ignorant one hath attained, and how many a learned one hath been barred!"
+          ]
         },
         {
           "key": "source:ABU0945",
-          "why": "Keep the reported Chicago example of unexpected response."
+          "why": "Keep the reported Chicago example of unexpected response.",
+          "shortened": [
+            "How many are the divines who have called on God in their churches saying, 'O our Lord! O our Lord!' Yet when their Lord appeared they remained veiled. You were neither ministers nor monks and you have attained this grace. This is what Christ meant when He said, 'Many are called but few are chosen' [Matt. 20:16; 22:141].",
+            "Although from distant lands, you have become enlightened whereas most of the countrymen and neighbors of Baha'u'llah have remained veiled."
+          ]
         },
         {
           "key": "source:BH09657",
-          "why": "Read the reversal of outward rank."
+          "why": "Read the reversal of outward rank.",
+          "shortened": [
+            "Thus did We make the highest lowest, that what was spoken before might be fulfilled: \"We shall make their highest ones their lowest ones, and their lowest ones their highest ones.\""
+          ]
         },
         {
           "key": "source:ABU2354",
-          "why": "Consider the reported king-and-subjects analogy without making it a social ranking."
+          "why": "Consider the reported king-and-subjects analogy without making it a social ranking.",
+          "shortened": [
+            "A King has a great number of subjects, but few are his initiated ones."
+          ]
         },
         {
           "key": "source:BH00001",
-          "why": "Read true freedom through servitude to God."
+          "why": "Read true freedom through servitude to God.",
+          "shortened": [
+            "Say: True liberty consisteth in man's submission unto My commandments, little as ye know it.",
+            "Say: The liberty that profiteth you is to be found nowhere except in complete servitude unto God, the Eternal Truth. Whoso hath tasted of its sweetness will refuse to barter it for all the dominion of earth and heaven."
+          ]
         },
         {
           "key": "source:AB00044",
-          "why": "Turn the severe account of selfishness toward the call to altruistic service."
+          "why": "Turn the severe account of selfishness toward the call to altruistic service.",
+          "shortened": [
+            "This world of man is now an arena for wild beasts, a field where the ignorant, the heedless, seize their chance. The souls of men are ravening wolves and animals with blinded eyes, they are either deadly poison or useless weeds -- all except for a very few who indeed do nurture altruistic aims and plans for the well-being of their fellow men: but ye must in this matter -- that is, the serving of humankind -- lay down your very lives, and as ye yield yourselves, rejoice."
+          ]
         },
         {
           "key": "source:AB04741",
@@ -433,7 +560,11 @@
         },
         {
           "key": "source:AB06529",
-          "why": "Connect being chosen with sincerity and fidelity."
+          "why": "Connect being chosen with sincerity and fidelity.",
+          "shortened": [
+            "Give my salutations and praise to that assembly who are firm in the Covenant of God, and say:",
+            "O ye whom God hath chosen from among those who are called (know ye that many are called but few chosen); upon whom he caused the evident light to descend; whom he guided into the right path and to whom he gave the glad tidings of the great success--ye must be sincere and faithful, ye must follow the ordinances which refer to the Covenant of God, which is the solid edifice."
+          ]
         },
         {
           "key": "source:AB08706",
@@ -441,7 +572,10 @@
         },
         {
           "key": "source:AB04656",
-          "why": "Consider the movement from being called to becoming chosen."
+          "why": "Consider the movement from being called to becoming chosen.",
+          "shortened": [
+            "Though instinct with human nature and made of clay, thou hast striven towards the world of divine reality. Thou wert among those who were \"called\" and thou didst become one of the \"chosen \"."
+          ]
         },
         {
           "key": "source:ABU1271",
@@ -453,7 +587,10 @@
         },
         {
           "key": "source:AB04208",
-          "why": "Retain the personal address to one described as chosen."
+          "why": "Retain the personal address to one described as chosen.",
+          "shortened": [
+            "O ye whom God hath chosen from among those who are called!--know that \"many are called but few are chosen\"!--upon whom He caused the evident Light to descend; whom He guided into the right Path, and to whom He gave the Glad-tidings of the Great Success!"
+          ]
         },
         {
           "key": "source:AB06804",
@@ -477,7 +614,11 @@
         },
         {
           "key": "selection:59c81afb0529231b3f29fb03",
-          "why": "Keep the supplied distinction between conscious and unconscious faith intact."
+          "why": "Keep the supplied distinction between conscious and unconscious faith intact.",
+          "shortened": [
+            "Know that faith is of two kinds. The first is objective faith that is expressed by the outer man, obedience of the limbs and senses. The other faith is subjective, and unconscious obedience to the will of God.",
+            "But the discerning faith that consists of true knowledge of God and the comprehension of divine words, of such faith there is very little in any age. That is why His Holiness Christ said to His followers, \"Many are called but few are chosen.\""
+          ]
         },
         {
           "key": "selection:10391499f618af1c9b232459",
@@ -542,12 +683,16 @@
       "id": "2A6D62207284EAED0144C1FDBFABE5CD",
       "slug": "angels",
       "displayTitle": "Angels: assistance, sacred symbolism, and the life of service",
-      "introduction": "The word “angel” can open more than one window. In these passages it may signify divine confirmations, sanctified souls, spiritual qualities, or figures within prayer and prophetic symbolism. Beginning with an explicit explanation of these meanings helps the reader approach the collection’s varied images without forcing them into a single description. Angels welcome, assist, rejoice, bear witness, and surround the divine throne; accounts of Gabriel, Israfil, and other figures belong to particular texts and interpretive settings. The connected subjects of the Holy Spirit, grace, exalted spiritual stations, and the heavenly concourse extend this language of assistance and communion. Hebrews links the possibility of an angelic encounter with ordinary hospitality [1], offering a practical comparison without settling the nature of angels in either tradition. The collection invites reflection on how unseen help, human action, and the cultivation of trustworthy, loving qualities might illuminate one another.",
+      "introduction": "Angels, in ‘Abdu’l-Bahá’s explanation, are first of all the confirmations of God, the celestial powers that arrive when a soul arises to serve; and they are also people, souls so freed from the chains of self that their lives already belong to heaven. Both meanings bring the subject close to home. The unseen help that loosens a hesitant tongue, the joy that greets a sinner who turns back, the praise that circles the divine throne: such images describe a world pressing in upon this one, eager to assist. Gabriel, Israfil and the winged messengers of scripture keep their places in prayer and prophecy, yet the deeper invitation is to become angelic in quality, trustworthy, loving and detached. Hebrews counsels kindness to strangers, since some have welcomed angels without knowing it [1], and the counsel fits: any encounter may carry a hidden grace. From here the journey rises toward the Holy Spirit that strengthens every soul, toward the outpouring of divine confirmations, and toward the concourse on high that waits to welcome the faithful.",
       "arc": "Begin with explicit interpretations, explore assistance and human qualities, then enter prophetic imagery, prayer, and the welcome of the spiritual world.",
       "order": [
         {
           "key": "source:AB02652",
-          "why": "Open with the two stated meanings of confirmations and sanctified souls."
+          "why": "Open with the two stated meanings of confirmations and sanctified souls.",
+          "shortened": [
+            "The hosts of the Company on high will defend them, and the angels of the Abha Paradise, in continuous succession, will come down to their aid.",
+            "The meaning of 'angels' is the confirmations of God and His celestial powers. Likewise angels are blessed beings who have severed all ties with this nether world, have been released from the chains of self and the desires of the flesh, and anchored their hearts to the heavenly realms of the Lord. These are of the Kingdom, heavenly; these are of God, spiritual; these are revealers of God's abounding grace; these are dawning-points of His spiritual bestowals."
+          ]
         },
         {
           "key": "source:AB02956",
@@ -563,11 +708,17 @@
         },
         {
           "key": "source:ABU0975",
-          "why": "Keep the reported account of mediation and the Holy Spirit."
+          "why": "Keep the reported account of mediation and the Holy Spirit.",
+          "shortened": [
+            "Those to whom you turn may be the mediators of God's power to you, even as when on earth. But it is the One Holy Spirit that strengthens all men.\""
+          ]
         },
         {
           "key": "source:AB05996",
-          "why": "Hear the prayer for loving shelter."
+          "why": "Hear the prayer for loving shelter.",
+          "shortened": [
+            "Let the angels of Thy loving-kindness descend successively upon her, and shelter her beneath Thy blessed Tree."
+          ]
         },
         {
           "key": "source:AB00342",
@@ -575,7 +726,10 @@
         },
         {
           "key": "source:AB06426",
-          "why": "Connect assistance with understanding and clear utterance."
+          "why": "Connect assistance with understanding and clear utterance.",
+          "shortened": [
+            "Then, by God the True One! the hosts of the angels of the Kingdom shall surround thee and convey to all thy limbs and veins the Spirit of Life; thy tongue shall utter fluently and distinctly the most eloquent and clear words and thoughts; thy bosom shall be cheered with joy through the appearance of the evident texts; thy face shall be illumined, among the daughters of the Kingdom, with the light of firmness; the door of glad-tidings shall be opened before thy face and thou shalt receive knowledge through the symbolic signs descending from the heavenly Kingdom in the Books and Tablets!"
+          ]
         },
         {
           "key": "source:AB08027",
@@ -583,23 +737,38 @@
         },
         {
           "key": "source:AB04261",
-          "why": "Place assistance beside active effort."
+          "why": "Place assistance beside active effort.",
+          "shortened": [
+            "If you remain steadfast and firm, know with certainty that you will be assisted by the confirmations of the Most Glorious Kingdom and will be enabled to serve the Kingdom of God, for by the power of the Word of God and the breaths of the Holy Spirit, all the mighty forces of the angels of heaven are arrayed in the highest horizon, waiting for a soul to charge forth in the arena of the Kingdom so that all may render victory and assistance."
+          ]
         },
         {
           "key": "source:AB07129",
-          "why": "Read the dream’s interpretation as confirmation for service."
+          "why": "Read the dream’s interpretation as confirmation for service.",
+          "shortened": [
+            "As to what thou hast seen in the dream, concerning the letter which reached thee from me, and angels were enclosed in it and they surrounded thee: Know thou verily, that letter is this glorious writing whereby I address thee; and, verily, this is full of angels of confirmation from the Kingdom of God and they will assist thee to serve the Cause of God in the vineyard of God."
+          ]
         },
         {
           "key": "source:AB06233",
-          "why": "Consider the invitation to follow a father’s example."
+          "why": "Consider the invitation to follow a father’s example.",
+          "shortened": [
+            "You who are the memorial of that noble one must follow in his footsteps and move according to his way and conduct, so that you may become a sign of mercy and witness the ultimate bounty."
+          ]
         },
         {
           "key": "source:AB03923",
-          "why": "Hear the reported praise of a woman’s service."
+          "why": "Hear the reported praise of a woman’s service.",
+          "shortened": [
+            "Therefore, O friends, come let us clasp hands with one another and, like the hosts of angels, circle round the throne of the All-Merciful. \"And thou shalt see the angels circling round the Throne, celebrating the praise of their Lord.\" His throne is His Cause, and the seat of His sovereignty is His laws and ordinances. Let us arise to serve and open wide the gates of guidance."
+          ]
         },
         {
           "key": "source:BH08211",
-          "why": "Connect angelic praise with trustworthiness."
+          "why": "Connect angelic praise with trustworthiness.",
+          "shortened": [
+            "Verily, he who adorneth himself with the ornament of trustworthiness is remembered by the Concourse on High, and upon him do the denizens of the realms of dominion and kingdom offer prayers."
+          ]
         },
         {
           "key": "source:AB09719",
@@ -611,11 +780,17 @@
         },
         {
           "key": "source:ABU2626",
-          "why": "Consider the reported newspaper analogy as an analogy."
+          "why": "Consider the reported newspaper analogy as an analogy.",
+          "shortened": [
+            "The subscribers to this newspaper are frail humanity but the subscribers to that newspaper are the angels of the supreme Concourse."
+          ]
         },
         {
           "key": "source:ABU1282",
-          "why": "Retain the beginning of the reported gift story without inventing its continuation."
+          "why": "Retain the beginning of the reported gift story without inventing its continuation.",
+          "shortened": [
+            "He was so very beautiful that the angels longed to minister, in some special way, to him and they asked that they might come and do this, and consent was given. So, these ministering angels came down to earth and said to this beautiful soul, \"We have come to you with a gift."
+          ]
         },
         {
           "key": "source:AB08356",
@@ -623,11 +798,17 @@
         },
         {
           "key": "source:AB02319",
-          "why": "Read guidance and obstruction through contrasting spiritual images."
+          "why": "Read guidance and obstruction through contrasting spiritual images.",
+          "shortened": [
+            "In the realm of contingent being there exist the angels of the All-Merciful - they give glad tidings, provide guidance, and bestow eternal life. And there appear other souls, impotent, dumb, blind and deaf - they become the cause of death and prevent others from the path of salvation."
+          ]
         },
         {
           "key": "source:AB02401",
-          "why": "Keep the religious imagery of belief and unbelief attributed to its source."
+          "why": "Keep the religious imagery of belief and unbelief attributed to its source.",
+          "shortened": [
+            "The jinn refers to imperceptible forces which influence human souls, and the word jinn in Arabic means hidden, that is, realities and forces which cannot be seen. Likewise devils and what people imagine are mere superstitions and have no existence whatsoever. Similarly, believing and assured souls are interpreted as angels, and unbelieving souls are designated as devils and jinn."
+          ]
         },
         {
           "key": "source:ABU1809",
@@ -639,19 +820,33 @@
         },
         {
           "key": "source:AB04220",
-          "why": "Enter prophetic symbolism through the call for understanding."
+          "why": "Enter prophetic symbolism through the call for understanding.",
+          "shortened": [
+            "The path hath become smooth, the way straightened, the carpet of the Kingdom is spread, the Tabernacle hath been elevated upon the Hill of Might, the powers of heaven have been shaken, the corners of the earth have quaked, the sun has been darkened, the moon ceased to give light, the stars have fallen, the nations of the earth have lamented, and the Son of Man hath come upon the clouds of heaven with power and great glory, and He hath sent His angels with the sound of the great trumpet, and no one knows the meaning of these emblems save the wise and informed."
+          ]
         },
         {
           "key": "source:AB00438",
-          "why": "Read the vision of the throne in its interpretive frame."
+          "why": "Read the vision of the throne in its interpretive frame.",
+          "shortened": [
+            "Concerning thy vision of the angels surrounding the great white throne: This \"throne\" is the body of the Greatest Name."
+          ]
         },
         {
           "key": "source:ABU2625",
-          "why": "Consider the reported account of Gabriel and the burning bush."
+          "why": "Consider the reported account of Gabriel and the burning bush.",
+          "shortened": [
+            "In Islam we have Mohamad, Gabriel and Allah. Consequently God revealed Himself to Moses through the burning bush, to Christ through the Holy Spirit and to Mohamad through Gabriel."
+          ]
         },
         {
           "key": "source:BB00002",
-          "why": "Read witness, descent, and the story of Adam in the Qayyúmu’l-Asmá’."
+          "why": "Read witness, descent, and the story of Adam in the Qayyúmu’l-Asmá’.",
+          "shortened": [
+            "No word doth escape you but that angels from Us are present by the leave of the Remembrance as witnesses, and Our servant hath never been hidden from the sincere servants of God.",
+            "Verily We commanded the angels to prostrate before Adam of the Gate, and the angels all prostrated in truth upon the ground of the heart together, save Iblis who refused and grew proud concerning Our command, and was thus in the Mother Book rejected from that Gate.",
+            "The angels and the Spirit descend in that Gate by God's permission, rank upon rank, like an extended line around the Pole."
+          ]
         },
         {
           "key": "source:BB00568",
@@ -679,11 +874,17 @@
         },
         {
           "key": "source:BB00606",
-          "why": "Hear the request for assistance in its devotional setting."
+          "why": "Hear the request for assistance in its devotional setting.",
+          "shortened": [
+            "And I seek assistance through God and rely upon God and upon the angels of God and upon the Prophets of God and upon the righteous ones among the servants of God."
+          ]
         },
         {
           "key": "source:AB06507",
-          "why": "Read the appeal for blessing in the holy presence."
+          "why": "Read the appeal for blessing in the holy presence.",
+          "shortened": [
+            "The angels of the highest paradise seek blessings from the dust of its holy presence, and soon thou shalt hear its resounding voice in the East and West of the earth."
+          ]
         },
         {
           "key": "source:AB03526",
@@ -691,11 +892,17 @@
         },
         {
           "key": "source:BH09472",
-          "why": "Read remembrance of God within imprisonment."
+          "why": "Read remembrance of God within imprisonment.",
+          "shortened": [
+            "Be thou steadfast in thy love for God, then make mention of Him and He verily maketh mention of thee in this Prison - the place wherefrom ascend and descend the angels that are nigh unto God."
+          ]
         },
         {
           "key": "source:BH05743",
-          "why": "Consider the opened gate and the descent of angels and Spirit."
+          "why": "Consider the opened gate and the descent of angels and Spirit.",
+          "shortened": [
+            "The gate of heaven hath been opened and the angels and the Spirit descend at every moment."
+          ]
         },
         {
           "key": "source:ABU3108",
@@ -707,7 +914,10 @@
         },
         {
           "key": "source:AB12080",
-          "why": "Connect the earthly gathering with heavenly joy."
+          "why": "Connect the earthly gathering with heavenly joy.",
+          "shortened": [
+            "Whenever a company of noble souls assemble in a heavenly gathering there and offer supplications, intone divine verses, and chant prayers with wondrous melodies, the inmates of the Concourse on high hearken and call out, crying, \"Happy are we; let all the world rejoice!\" for, praise be unto God, souls from among the angels of the Kingdom of Glory have arisen in the nether world to commune with their Lord and intone the verses of Divine Unity in a gathering of holiness."
+          ]
         },
         {
           "key": "source:ABU3249",
@@ -715,27 +925,45 @@
         },
         {
           "key": "source:AB03255",
-          "why": "Consider the conditions of welcome."
+          "why": "Consider the conditions of welcome.",
+          "shortened": [
+            "Verily, I say unto ye, then (when ye become so) the angels of holiness will welcome ye by the glad-tidings of God, the Mighty, the Powerful."
+          ]
         },
         {
           "key": "source:AB05155",
-          "why": "Hear the assurance of welcome."
+          "why": "Hear the assurance of welcome.",
+          "shortened": [
+            "By God the True One, the angels of the Paradise of Holiness welcomed them with radiant faces, and greetings and praise from the Most Glorious Kingdom."
+          ]
         },
         {
           "key": "source:BH02009",
-          "why": "Read the image of ascending and descending angels."
+          "why": "Read the image of ascending and descending angels.",
+          "shortened": [
+            "By God! The company of God's well-favoured angels came forth to meet him, and on that day a continual descending and ascending took place as one group from the Concourse on High came down to meet him and another group returned unto their retreats on high."
+          ]
         },
         {
           "key": "source:AB06969",
-          "why": "Hear the joy of the departed soul."
+          "why": "Hear the joy of the departed soul.",
+          "shortened": [
+            "In the garden of his Lord, the Ever-Forgiving, with nightingale notes of joy and gladness, he warbleth such songs as delight and enrapture the Concourse on high in the Kingdom of Abha."
+          ]
         },
         {
           "key": "source:BH09662",
-          "why": "Close the linked sequence with the welcome of Mihdí."
+          "why": "Close the linked sequence with the welcome of Mihdí.",
+          "shortened": [
+            "O Abdul-Baqi! Today from the right hand of the Throne the pavilion of the feast is adorned, and from the left the field of battle is visible. The clamor of the heedless has become the cause of a great celebration in the Supreme Concourse - the tribes of angels and the Spirit give each other glad tidings and prepare to welcome, for verily the blessed spirit of Mihdi has intended the Supreme Companion."
+          ]
         },
         {
           "key": "selection:993e9a6e7468d4327eea70f1",
-          "why": "Read the supplied provisional interpretation of wings as degrees."
+          "why": "Read the supplied provisional interpretation of wings as degrees.",
+          "shortened": [
+            "And as to His saying \"with pairs of wings, two, three and four...\", the meaning, as already mentioned, is that angels occupy diverse stations. By virtue of the diversity of their station and degree they are the possessors of numerous wings, through which they ascend and descend. Some of them have as many wings as there are divine names, even as the Seal of the Prophets, upon meeting Gabriel on the night of the Mi'raj, recounted: \"His are six hundred wings!\""
+          ]
         }
       ],
       "questions": [
@@ -796,28 +1024,45 @@
       "id": "EEEFCF8268224145B6028CD4848913D1",
       "slug": "educationcapacity",
       "displayTitle": "Education and capacity: bringing hidden possibilities to life",
-      "introduction": "Education begins with a conviction that there is something precious to bring forth. Images of gems, seeds, gardens, and light give that conviction a vivid form in this collection, while passages on effort and moral character ask what flourishing actually requires. Learning is presented as physical, intellectual, and spiritual; knowledge alone does not guarantee that it will be used well. The selections also hold a productive tension between differing capacities and divine bounty that exceeds our estimates of what is possible. Some reported accounts use historical classifications or demeaning language that should be read in context, rather than adopted as labels for learners. Neighboring subjects add universal education and the explicit injunction that no soul be held in contempt. Aristotle’s account of becoming virtuous through practice offers a further inquiry [1]: how do guidance, repeated action, receptivity, and service help possibilities become capacities we can actually exercise?",
+      "introduction": "Somewhere in every person lies a mine of gems that only education can bring to the surface; that conviction, in Bahá’u’lláh’s words, is where the work of teaching begins. ‘Abdu’l-Bahá describes a field left to itself turning into thorns and weeds, and the same field, cleared and tended, feeding a household, and he distinguishes three kinds of cultivation: of the body, of the mind through the arts and sciences of civilization, and of the spirit, which he calls the only true education because it makes a person the mirror of the divine image. He is blunt about priorities: a clean, kind, ignorant child is worth more than a rude scholar, since knowledge without character is a deadly poison. A black stone can be polished into a mirror; a tender plant grows as it is watered; capacities differ as soils differ, yet the rain falls on all and the bounty of God outruns any teacher’s estimate of a pupil. Aristotle, who held that moral virtue is formed by doing rather than by instruction, invites a close comparison with this emphasis on practice, habit and guidance [1]. The path continues into the differences in human capacity, the education of children, the self-improvement that no one can do for us, and the universal education that refuses to hold any soul in contempt.",
       "arc": "Begin with hidden worth, examine a whole-person education, explore effort and receptivity, then return to gifts that exceed our estimates of capacity.",
       "order": [
         {
           "key": "source:BH06970",
-          "why": "Open with the gems of virtue brought forth through education."
+          "why": "Open with the gems of virtue brought forth through education.",
+          "shortened": [
+            "Through education alone can these gems of spiritual virtues and praiseworthy deeds be brought forth from the mine and appear in the realm of visibility."
+          ]
         },
         {
           "key": "source:AB00824",
-          "why": "Place goodness beside learning as light upon light."
+          "why": "Place goodness beside learning as light upon light.",
+          "shortened": [
+            "Training in morals and good conduct is far more important than book learning. A child that is cleanly, agreeable, of good character, well-behaved -- even though he be ignorant -- is preferable to a child that is rude, unwashed, ill-natured, and yet becoming deeply versed in all the sciences and arts. The reason for this is that the child who conducts himself well, even though he be ignorant, is of benefit to others, while an ill-natured, ill-behaved child is corrupted and harmful to others, even though he be learned. If, however, the child be trained to be both learned and good, the result is light upon light."
+          ]
         },
         {
           "key": "source:AB03797",
-          "why": "Ask how knowledge may serve or harm."
+          "why": "Ask how knowledge may serve or harm.",
+          "shortened": [
+            "Good behaviour and high moral character must come first, for unless the character be trained, acquiring knowledge will only prove injurious. Knowledge is praiseworthy when it is coupled with ethical conduct and virtuous character; otherwise it is a deadly poison, a frightful danger."
+          ]
         },
         {
           "key": "source:AB00081",
-          "why": "Establish the material, human, and divine dimensions of education."
+          "why": "Establish the material, human, and divine dimensions of education.",
+          "shortened": [
+            "But education is of three kinds: material, human, and spiritual.",
+            "Human education, however, consists in civilization and progress, that is, sound governance, social order, human welfare, commerce and industry, arts and sciences, momentous discoveries and great undertakings, which are the central features distinguishing man from the animal.",
+            "As to divine education, it is the education of the Kingdom and consists in acquiring divine perfections. This is indeed true education, for by its virtue man becomes the focal centre of divine blessings and the embodiment of the verse \"Let us make man in our image, after our likeness.\""
+          ]
         },
         {
           "key": "source:ABU0109",
-          "why": "Read the reported field of physical, intellectual, and spiritual development."
+          "why": "Read the reported field of physical, intellectual, and spiritual development.",
+          "shortened": [
+            "But education is of various kinds. There is a training and development of the physical body which ensures strength and growth. There is intellectual education or mental training for which schools and colleges are founded. The third kind of education is that of the spirit. Through the breaths of the Holy Spirit man is uplifted into the world of moralities and illumined by the lights of divine bestowals."
+          ]
         },
         {
           "key": "source:ABU3555",
@@ -825,23 +1070,41 @@
         },
         {
           "key": "source:BH08732",
-          "why": "Read spiritual and outward perfections together."
+          "why": "Read spiritual and outward perfections together.",
+          "shortened": [
+            "The criterion of human beings is the manifestation of humanity, which is the expression of those spiritual perfections that lie hidden within.",
+            "Assuredly, neglect not, throughout thy days and nights, the acquisition of spiritual and outward perfections, that the fruits of existence may be made manifest through thee."
+          ]
         },
         {
           "key": "source:AB00251",
-          "why": "Consider the importance assigned to early formation."
+          "why": "Consider the importance assigned to early formation.",
+          "shortened": [
+            "Education and refinement after maturity becomes extremely difficult. Experience has shown that despite utmost effort to change even one trait in someone's character, it proves impossible. If today they become somewhat aware, after a few days they forget and return to their habitual state and accustomed ways. Therefore, this firm foundation must be laid in childhood, for while the branch is fresh and tender, it can easily be made straight and upright."
+          ]
         },
         {
           "key": "source:AB09424",
-          "why": "Keep the personal response to a child’s drawings."
+          "why": "Keep the personal response to a child’s drawings.",
+          "shortened": [
+            "O child who supplicates unto God!",
+            "The drawings and pictures which flowed from thy pen were presented through Mr. Abu'l-Fada'il and were observed, becoming a source of joy, for that tender plant in the rose-garden of the love of the All-Glorious is growing and developing and is occupied in acquiring spiritual and physical perfections."
+          ]
         },
         {
           "key": "source:AB02582",
-          "why": "Read the hope that children become wise and learned."
+          "why": "Read the hope that children become wise and learned.",
+          "shortened": [
+            "O thou who art enkindled with the fire lit in the divine Tree!",
+            "Among the special favors of the Ancient Beauty in this Most Great Century is that He has adorned the human temple with wondrous capacities and abilities, such that children have attained the station of the mature, and youth have acquired the wisdom, intelligence and knowledge of the elderly. The unlettered one becomes learned in the school of divine knowledge, and the common man becomes aware of the mysteries of reality."
+          ]
         },
         {
           "key": "source:ABU2502",
-          "why": "Consider the reported parental task of discovering an aptitude."
+          "why": "Consider the reported parental task of discovering an aptitude.",
+          "shortened": [
+            "Parents must find out as to that calling or profession for the acquisition of which their children show the most aptitude and natural desire - and then they must train them in the same, by engaging their attention in that direction. For a child will sooner or later make manifest his natural abilities and gifts."
+          ]
         },
         {
           "key": "source:ABU2331",
@@ -857,23 +1120,40 @@
         },
         {
           "key": "source:ABU0384",
-          "why": "Read the reported distinction between individuality and changeable personality."
+          "why": "Read the reported distinction between individuality and changeable personality.",
+          "shortened": [
+            "As regards the personality which is the result of acquired virtues, let us take this mirror as an example: In the beginning it was a piece of black stone; now, through the process of purification, it has become a mirror and has reflecting power and displays its innate perfections so that they are clearly visible to all. The rock was endowed with a distinct individuality which acquired a personality through the process of education.",
+            "However, personality has no element of permanence. It is a slightly changeable quality in man which can be turned in either direction."
+          ]
         },
         {
           "key": "source:ABU0376",
-          "why": "Keep the reported criticism of Rousseau and original sin attributed."
+          "why": "Keep the reported criticism of Rousseau and original sin attributed.",
+          "shortened": [
+            "We Baha'is say: By nature man is not an unalterable entity with bad or good tendencies or with a more positive or more negative mixture of tendencies. The great Rousseau maintained - despite knowledge of his own self (Les Confessions = his famous description of his life) - that man is by nature an uncorrupted being with good qualities, whose education should consist only of guiding and protecting.",
+            "It is equally false when the Christian missionaries place the whole emphasis on original sin, consider man as impure and corrupted from the time in the mother's womb, and when they, as the 'instrument of the Almighty', expect all salvation from their schooling and training of the small sinner."
+          ]
         },
         {
           "key": "source:ABU0900",
-          "why": "Read the reported transformation through education while retaining its historical language."
+          "why": "Read the reported transformation through education while retaining its historical language.",
+          "shortened": [
+            "Consider, then, the effectiveness of education in the human kingdom. It makes the ignorant wise, the tyrant merciful, the blind seeing, the deaf attentive, even the imbecile intelligent. How vast this difference. How wide the chasm which separates the educated man from the man who lacks teaching and training."
+          ]
         },
         {
           "key": "source:ABU1077",
-          "why": "Keep the reported cultural classification in its historical setting."
+          "why": "Keep the reported cultural classification in its historical setting.",
+          "shortened": [
+            "If you educate a savage, he becomes a complete human being; if you cultivate a dunghill, it becomes a rose garden; if you nurture soil, it becomes a flower bed; if you refine a stone, it becomes a brilliant ruby. This is why an educator is necessary - without an educator, man does not become human."
+          ]
         },
         {
           "key": "source:ABU2471",
-          "why": "Consider the reported need for a good gardener."
+          "why": "Consider the reported need for a good gardener.",
+          "shortened": [
+            "Every soul that enters under the shadow of Baha'u'llah, day by day their capacity increases, like a tree that is under the care of a perfect gardener - it will surely grow and develop and achieve perfect cultivation."
+          ]
         },
         {
           "key": "source:AB04634",
@@ -885,7 +1165,10 @@
         },
         {
           "key": "source:AB12368",
-          "why": "Hear the invitation to grow and bear fruit."
+          "why": "Hear the invitation to grow and bear fruit.",
+          "shortened": [
+            "I hope that through the heat of the Sun of Reality, the dewdrops of the cloud of bounty, and the breeze of the winds of guidance, you may grow and develop in the stream of divine knowledge, and that each one of you may appear as a fruitful tree and a flowering rose bush."
+          ]
         },
         {
           "key": "source:AB11769",
@@ -909,7 +1192,10 @@
         },
         {
           "key": "source:ABU0694",
-          "why": "Consider the reported relationship between prayer and thirst."
+          "why": "Consider the reported relationship between prayer and thirst.",
+          "shortened": [
+            "Consequently we must pray and supplicate that we may gain the capacity to receive, for no one will profit by drinking water unless he is thirsty, and no one will find unless he is seeking. He who has the greatest capacity will receive the greatest bounty."
+          ]
         },
         {
           "key": "source:ABU3205",
@@ -929,15 +1215,24 @@
         },
         {
           "key": "source:ABU0565",
-          "why": "Read the reported Divine Teacher and the reflection of the Sun."
+          "why": "Read the reported Divine Teacher and the reflection of the Sun.",
+          "shortened": [
+            "The efforts of all the Divine Teachers have been directed to the end of so educating mankind that the souls of men shall attain the capacity to reflect in their essence the rays sent forth from God -that the light of the Sun of Reality should shine in the mirror of the heart, giving forth radiance."
+          ]
         },
         {
           "key": "source:ABU1243",
-          "why": "Keep the reported call for unceasing effort."
+          "why": "Keep the reported call for unceasing effort.",
+          "shortened": [
+            "The questioner then said, how could this state of development be acquired? Abdu'l-Baha replied, by unceasing effort, striving to do right, and to attain spiritual qualities."
+          ]
         },
         {
           "key": "source:ABU0830",
-          "why": "Distinguish acquired capacity from the unearned station of Prophethood in the reported account."
+          "why": "Distinguish acquired capacity from the unearned station of Prophethood in the reported account.",
+          "shortened": [
+            "Divine bounties are of two kinds: One station is that of capacity, wherein each is given his due according to his merit. This comes through effort - the more one prepareth himself, refineth himself, and polisheth the mirror of his being, the more light he will attract. The other station is the special station of the Prophets, wherein God raiseth up an individual to the station of Prophethood without regard to capacity or qualification, as in the case of Moses, Christ, and Muhammad."
+          ]
         },
         {
           "key": "source:ABU0820",
@@ -949,15 +1244,25 @@
         },
         {
           "key": "source:ABU1473",
-          "why": "Consider the reported link between capacity and responsibility."
+          "why": "Consider the reported link between capacity and responsibility.",
+          "shortened": [
+            "One must learn to distinguish black from white, light from darkness; one should listen to the response of the spirit and receive the answer to perplexing problems.",
+            "You have large capacity and much is expected of you. Responsibility is also increased."
+          ]
         },
         {
           "key": "source:AB11841",
-          "why": "Read the growth of receptivity through servitude and service."
+          "why": "Read the growth of receptivity through servitude and service.",
+          "shortened": [
+            "O spiritual friends of 'Abdu'l-Baha! The favors and confirmations of the Blessed Beauty encompass every expanse, and bounties flow successively and continuously from all directions. But capacity and receptivity are the condition for receiving them, and receptivity comes through servitude, service and thralldom."
+          ]
         },
         {
           "key": "source:ABU3090",
-          "why": "Connect the reported spiritual nourishment with the will to serve."
+          "why": "Connect the reported spiritual nourishment with the will to serve.",
+          "shortened": [
+            "With Spiritual food the capacity to know increases with the will to serve."
+          ]
         },
         {
           "key": "source:AB06079",
@@ -969,11 +1274,17 @@
         },
         {
           "key": "source:ABU2552",
-          "why": "Read the reported joy of developing intellect and virtue."
+          "why": "Read the reported joy of developing intellect and virtue.",
+          "shortened": [
+            "The enjoyment of man comes through the unfoldment of his intellect, intelligence, the virtues of the world of humanity and the divine characteristics."
+          ]
         },
         {
           "key": "source:ABU2537",
-          "why": "Consider the reported relationship between sowing now and growth after death."
+          "why": "Consider the reported relationship between sowing now and growth after death.",
+          "shortened": [
+            "But according to the life we have lived here depend the conditions of life on that next plane. What we sow here, that we reap there. Even though on leaving this body we enter upon a life of the sprit, the conditions of the spirit-life must depend upon the degree of development to which the spirit has attained.\""
+          ]
         },
         {
           "key": "source:AB10826",
@@ -1090,12 +1401,15 @@
       "id": "4B803FE7ECD54DB8A0941F918BB42943",
       "slug": "redeemingsacrifice",
       "displayTitle": "Redeeming sacrifice: freedom, renewal, and the response of a life",
-      "introduction": "Chains borne by one become an image of freedom offered to all. That reversal gives this collection its opening and carries it toward questions about what redemption makes possible: release from selfishness, renewed spiritual capacity, knowledge, concord, and a life of service. The passages speak of Christ and of the Manifestations of God through the languages of ransom, education, love, and regeneration. They invite us to consider both the gift and the response it calls forth, without reducing their varied expressions to a single mechanism. Neighboring subjects connect this inquiry with imprisonment, trials, and the everyday sacrifice of self in service. Mark’s account joins the giving of Christ’s life with a teaching about becoming the servant of all [1]. Read together, these selections turn attention toward the life that sacrifice seeks to awaken, while keeping the injustice inflicted upon the sufferers clearly in view.",
+      "introduction": "Bahá’u’lláh consented to chains so that mankind might be released from its bondage, and to a prison so that the world might come to true liberty; because He bore injustice, He says, justice has appeared on earth. The sacrifice of a Manifestation of God is described in many tongues, ransom, purification, education, regeneration, and each names a side of one gift: a fresh capacity breathed into creation when Christ gave up His breath, release from the bondage of self, the drawing of every soul toward concord and oneness. What is asked in return is not admiration but a life. Jesus, telling His disciples that He came to serve and to give His life as a ransom, bound the gift to the conduct of those who receive it [1], and Bahá’u’lláh likewise asks those for whom He suffered to become sources of goodness and never to prefer themselves above their neighbours. None of this makes the injustice done to the sufferers less real; meaning found in suffering is no reason to impose it. The journey continues into the mystery of sacrifice, the sacrifice of self in daily service, and the tests and trials through which a soul is refined.",
       "arc": "Begin with freedom offered through imprisonment, explore the gift of renewed life, then consider education by example and the response of service.",
       "order": [
         {
           "key": "source:BH02484",
-          "why": "Open with imprisonment transformed into an offer of liberty and joy."
+          "why": "Open with imprisonment transformed into an offer of liberty and joy.",
+          "shortened": [
+            "The Ancient Beauty hath consented to be bound with chains that mankind may be released from its bondage, and hath accepted to be made a prisoner within this most mighty Stronghold that the whole world may attain unto true liberty. He hath drained to its dregs the cup of sorrow, that all the peoples of the earth may attain unto abiding joy, and be filled with gladness. This is of the mercy of your Lord, the Compassionate, the Most Merciful. We have accepted to be abased, O believers in the Unity of God, that ye may be exalted, and have suffered manifold afflictions, that ye might prosper and flourish."
+          ]
         },
         {
           "key": "source:BH00001",
@@ -1103,7 +1417,10 @@
         },
         {
           "key": "source:BH00505",
-          "why": "Connect bodily imprisonment with release from the bondage of self."
+          "why": "Connect bodily imprisonment with release from the bondage of self.",
+          "shortened": [
+            "Though beset with countless afflictions, We summon the people unto God, the Lord of names. Say, strive ye to attain that which ye have been promised in the Books of God, and walk not in the way of the ignorant. My body hath endured imprisonment that ye may be released from the bondage of self. Set your faces then towards His countenance and follow not the footsteps of every hostile oppressor."
+          ]
         },
         {
           "key": "source:BH00112",
@@ -1111,7 +1428,10 @@
         },
         {
           "key": "source:AB00131",
-          "why": "Read the offering of self in relation to enduring life."
+          "why": "Read the offering of self in relation to enduring life.",
+          "shortened": [
+            "This is the reason why the universal Manifestations of God unveil Their countenances to man, and endure every calamity and sore affliction, and lay down Their lives as a ransom; it is to make these very people, the ready ones, the ones who have capacity, to become dawning points of light, and to bestow upon them the life that fadeth never. This is the true sacrifice: the offering of oneself, even as did Christ, as a ransom for the life of the world."
+          ]
         },
         {
           "key": "source:AB00112",
@@ -1119,7 +1439,10 @@
         },
         {
           "key": "source:BH01184",
-          "why": "Connect redemption with goodness toward neighbors."
+          "why": "Connect redemption with goodness toward neighbors.",
+          "shortened": [
+            "It is Our wish and desire that every one of you may become a source of all goodness unto men, and an example of uprightness to mankind. Beware lest ye prefer yourselves above your neighbors. Fix your gaze upon Him Who is the Temple of God amongst men. He, in truth, hath offered up His life as a ransom for the redemption of the world."
+          ]
         },
         {
           "key": "source:BH00545",
@@ -1127,7 +1450,10 @@
         },
         {
           "key": "source:BH03027",
-          "why": "Read the absence of self-interest in the offering."
+          "why": "Read the absence of self-interest in the offering.",
+          "shortened": [
+            "He desireth naught from you, and hath sacrificed His spirit for all who are in the heavens and on earth, out of His love for God, your Lord and the Lord of all worlds."
+          ]
         },
         {
           "key": "source:BH11809",
@@ -1139,15 +1465,24 @@
         },
         {
           "key": "source:BH03551",
-          "why": "Retain the direct declaration of sacrifice for others."
+          "why": "Retain the direct declaration of sacrifice for others.",
+          "shortened": [
+            "By My life! I have sacrificed My soul for your sake, O My servants."
+          ]
         },
         {
           "key": "source:BH08497",
-          "why": "Hear the prayer concerning liberation and salvation."
+          "why": "Hear the prayer concerning liberation and salvation.",
+          "shortened": [
+            "Thou seest, O my God, what I have borne for the liberation and salvation of Thy servants. I beseech Thee by Thy Most Great Name to draw them nigh unto what Thou hast desired for them through Thy bounty and favor."
+          ]
         },
         {
           "key": "source:BH05713",
-          "why": "Read glory and salvation through abasement and imprisonment."
+          "why": "Read glory and salvation through abasement and imprisonment.",
+          "shortened": [
+            "He accepted abasement for the glory of all on earth and chose imprisonment for the salvation of the worlds."
+          ]
         },
         {
           "key": "source:BH02792",
@@ -1163,7 +1498,10 @@
         },
         {
           "key": "source:BH03289",
-          "why": "Read regeneration as the purpose of adversity."
+          "why": "Read regeneration as the purpose of adversity.",
+          "shortened": [
+            "I swear by Thy glory! I have accepted to be tried by manifold adversities for no purpose except to regenerate all that are in Thy heaven and on Thy earth."
+          ]
         },
         {
           "key": "source:BH07654",
@@ -1171,7 +1509,11 @@
         },
         {
           "key": "source:BH04818",
-          "why": "Keep purification and the challenge of indifference together."
+          "why": "Keep purification and the challenge of indifference together.",
+          "shortened": [
+            "Say: We have accepted to be tried by ills and troubles, that ye may sanctify yourselves from all earthly defilements.",
+            "We have sustained the weight of all calamities to sanctify you from all earthly corruption, and ye are yet indifferent."
+          ]
         },
         {
           "key": "source:BH00493",
@@ -1183,19 +1525,31 @@
         },
         {
           "key": "source:BH06525",
-          "why": "Hear the invitation toward an exalted spiritual station."
+          "why": "Hear the invitation toward an exalted spiritual station.",
+          "shortened": [
+            "Say: He hath sacrificed Himself in the path of God, your Lord, that He might draw you nigh unto an exalted station of glory."
+          ]
         },
         {
           "key": "source:BH03702",
-          "why": "Consider the foreordained station to which the hearer is called."
+          "why": "Consider the foreordained station to which the hearer is called.",
+          "shortened": [
+            "Say: He hath verily offered up the Manifestation of Himself as a ransom for summoning you to draw nigh unto the station foreordained for you by the Flowing Pen."
+          ]
         },
         {
           "key": "source:BH03717",
-          "why": "Read deliverance and life together."
+          "why": "Read deliverance and life together.",
+          "shortened": [
+            "This is He Who accepted harm for your deliverance and sacrificed Himself for your life."
+          ]
         },
         {
           "key": "source:BH00583",
-          "why": "Keep salvation, purification, and inevitable tribulation in one declaration."
+          "why": "Keep salvation, purification, and inevitable tribulation in one declaration.",
+          "shortened": [
+            "The Tongue of God declared: \"I have come for the salvation of all the world and have sacrificed My soul for the purification and life of the world, and these tribulations are inevitable.\""
+          ]
         },
         {
           "key": "source:BH02635",
@@ -1203,7 +1557,10 @@
         },
         {
           "key": "source:BH08834",
-          "why": "Hear the prayer over a bloodstained son and the unity of all."
+          "why": "Hear the prayer over a bloodstained son and the unity of all.",
+          "shortened": [
+            "Glorified art Thou, O Lord, my God! Thou seest Me in the hands of Mine enemies, and My son bloodstained before Thy face, O Thou in Whose hands is the kingdom of all names. I have, O my Lord, offered up that which Thou hast given Me, that Thy servants may be quickened and all that dwell on earth be united."
+          ]
         },
         {
           "key": "source:BH05296",
@@ -1211,11 +1568,18 @@
         },
         {
           "key": "source:BH10400",
-          "why": "Consider the offering expressed in language preceding creation."
+          "why": "Consider the offering expressed in language preceding creation.",
+          "shortened": [
+            "Therefore, O ye luminous concourse, grieve not over anything, nor over all that hath befallen Us at the hands of the company of the idolaters, for We have offered up Our spirit in the days of God ere the creation of the heavens and the earth."
+          ]
         },
         {
           "key": "source:BH00433",
-          "why": "Explore endurance as testimony to worlds beyond this one."
+          "why": "Explore endurance as testimony to worlds beyond this one.",
+          "shortened": [
+            "If thou wouldst reflect upon the deeds of the Prophets, thou wouldst bear witness with absolute certitude that there are worlds besides this world. The philosophers of the earth, as revealed in the Tablet of Wisdom by the Supreme Pen, have mostly acknowledged and accepted what was revealed in the divine Books.",
+            "Now if such souls had considered divine worlds to be limited to this earthly life, they would never have surrendered themselves to their enemies nor endured unprecedented trials and tribulations."
+          ]
         },
         {
           "key": "source:AB05731",
@@ -1223,7 +1587,11 @@
         },
         {
           "key": "source:ABU0139",
-          "why": "Consider the reported willing proclamation despite foreseen persecution."
+          "why": "Consider the reported willing proclamation despite foreseen persecution.",
+          "shortened": [
+            "When Christ appeared, He knew that He must proclaim Himself in opposition to all the nations and peoples of the earth. He knew that mankind would arise against Him and inflict upon Him all manner of tribulations.",
+            "Notwithstanding His knowledge of what would befall Him, He arose to proclaim His message, suffered all tribulation and hardships from the people and finally offered His life as a sacrifice in order to illumine humanity -- gave His blood in order to guide the world of mankind."
+          ]
         },
         {
           "key": "source:ABU2477",
@@ -1231,11 +1599,17 @@
         },
         {
           "key": "source:ABU2116",
-          "why": "Keep the reported distinction between different causes of suffering."
+          "why": "Keep the reported distinction between different causes of suffering.",
+          "shortened": [
+            "A man may be condemned to death because he is a murderer, another because he is a thief, or they may be punished for many different kinds of crimes, but Jesus Christ was put to death because He wished to become a sacrifice, so there are other causes of calamity."
+          ]
         },
         {
           "key": "source:ABU1666",
-          "why": "Read the reported argument from Christ’s acceptance of crucifixion."
+          "why": "Read the reported argument from Christ’s acceptance of crucifixion.",
+          "shortened": [
+            "If this physical life had any importance, Christ would not have accepted crucifixion."
+          ]
         },
         {
           "key": "source:ABU1464",
@@ -1243,15 +1617,24 @@
         },
         {
           "key": "source:ABU1479",
-          "why": "Keep the reported comparison of religious figures in its own source status."
+          "why": "Keep the reported comparison of religious figures in its own source status.",
+          "shortened": [
+            "One important reason I will unveil for you today: \"Each Manifestation of God, from Buddha and Confucius to Baha'u'llah, lived a life in God, with God, for God, and such a life, according to the eternal and inscrutable laws of the Creator, is only possible through the creature's obedience and sacrifice. With His life Christ, the Holy One, proved His obedience, in His death he proved His complete sacrifice!"
+          ]
         },
         {
           "key": "source:ABU0808",
-          "why": "Read the reported relationship between sacrifice, forgiveness, and eternal life."
+          "why": "Read the reported relationship between sacrifice, forgiveness, and eternal life.",
+          "shortened": [
+            "The self-sacrifice of Jesus Christ caused those who believed in Him to have eternal life. The mystery of self-sacrifice has been manifested in all the prophets, because this is the foundation- the basis of divinity. The self-sacrifice and martyrdom of all the prophets caused the sins of the people to be forgiven."
+          ]
         },
         {
           "key": "source:ABU0313",
-          "why": "Consider the reported giving of bounties through which others recognize their own."
+          "why": "Consider the reported giving of bounties through which others recognize their own.",
+          "shortened": [
+            "\"When Jesus Christ came into the world He gave all His Bounties to mankind in order that they might see their own bounties therein; and this was the way in which He sacrificed His life to the world."
+          ]
         },
         {
           "key": "source:ABU0356",
@@ -1271,7 +1654,10 @@
         },
         {
           "key": "source:ABU2305",
-          "why": "Hear the reported universality of the sacrifice."
+          "why": "Hear the reported universality of the sacrifice.",
+          "shortened": [
+            "Baha'u'llah endured every difficulty. He suffered every ordeal. He sacrificed himself for all mankind."
+          ]
         },
         {
           "key": "source:ABU0286",
@@ -1279,11 +1665,17 @@
         },
         {
           "key": "source:ABU0492",
-          "why": "Keep the reported mirror and sun image within the language of love."
+          "why": "Keep the reported mirror and sun image within the language of love.",
+          "shortened": [
+            "The great martyrdom or the sacrifice of life is like unto a mirror and when turned toward the sun, the temple and the body of the mirror become utterly effaced; that is, the martyrs efface themselves in the love of God to such an extent that the bodies and mirrors no longer exist. They become the rays of the sun."
+          ]
         },
         {
           "key": "source:ABU1562",
-          "why": "Consider the reported implications of renunciation for believers’ duties."
+          "why": "Consider the reported implications of renunciation for believers’ duties.",
+          "shortened": [
+            "The Blessed Perfection sacrificed His country, His household, His wealth, His glory, His affluence and even His Life for the progress of the Cause of God. If He so renounced everything, so that the heaven of the divine Faith be upheld, then the duty of the believers is plain."
+          ]
         },
         {
           "key": "source:ABU0659",
@@ -1339,12 +1731,15 @@
       "id": "A545543411D4E74FDD22583EED5DCD87",
       "slug": "imamate",
       "displayTitle": "The Imamate and the Caliphate: authority, interpretation, and remembrance",
-      "introduction": "Who interprets a revelation after its Messenger has departed, and how is that trust recognized? These questions give a point of entry into a collection rich in devotion to the Imams, especially in the writings of the Báb. Its prayers, testimonies, symbolic numbers, and accounts of succession approach authority through several forms of language. The selections distinguish revelation from inspiration while also describing exalted spiritual stations; reverence and distinction therefore need to be read together. References to disputes and competing traditions should remain attached to their particular sources rather than treated as an account shared by every Muslim community. Qur’an 4:59 offers a primary comparison concerning obedience, authority, and the referral of disagreement [1]. Connected subjects on Muhammad, ‘Alí, Husayn, and the promised Qá’im help carry this inquiry from institutional succession toward interpretation, fidelity, suffering, and the renewal of religious expectation.",
+      "introduction": "Had the second Caliph turned to the one well grounded in knowledge, ‘Abdu’l-Bahá observes, and not declared the Book of God sufficient on its own, thirty thousand divines would not have risen to quarrel, and ‘Alí would not have been left isolated. The Imamate begins there, with the question of who interprets a revelation once its Messenger has gone and how that trust is recognised. The Báb’s prayers and testimonies give the question its most exalted language: twelve stars, twelve months in the Book of God, temples and letters, successors witnessed before the heavens were made. ‘Abdu’l-Bahá, for His part, draws a careful line, holding that the Imams were dawning-places of inspiration while revelation itself belonged to the Messenger alone, so that reverence and distinction must be read together. The Qur’ánic command to obey God, the Messenger and those in authority, and to refer disagreement back to God and the Messenger, poses the shared scriptural question without settling who bears that authority [1]. From here the inquiry turns toward ‘Alí and Husayn, toward Muhammad Himself, and toward the promised Qá’im in whom expectation is renewed.",
       "arc": "Begin with interpretation and the distinction between revelation and inspiration, explore succession and sacred stations, then follow devotion toward return and renewed expectation.",
       "order": [
         {
           "key": "source:AB00005",
-          "why": "Open with the consequences attributed to disregarding an interpreter of scripture."
+          "why": "Open with the consequences attributed to disregarding an interpreter of scripture.",
+          "shortened": [
+            "Now, if the second Caliph had obeyed him who was well-grounded in knowledge and the Interpreter of the Book, that is, 'Ali, and had not uttered \"Sufficient unto us is the Book of God,\" none of this harm and trouble would have transpired, nor would this destruction and disgrace have appeared.  And nor would thirty thousand divines have arisen to contend and quarrel with him who was well-grounded in knowledge--for each one of Muhammad's companions viewed himself as an independent divine and derived his understanding of the religious commandments, observances and beliefs directly from the holy verses and traditions.  And the one that, amidst all this, remained isolated and disregarded was 'Ali!"
+          ]
         },
         {
           "key": "source:AB11351",
@@ -1368,11 +1763,17 @@
         },
         {
           "key": "source:AB02537",
-          "why": "Consider fidelity after Hasan ‘Askarí."
+          "why": "Consider fidelity after Hasan ‘Askarí.",
+          "shortened": [
+            "And as for the Qur'anic dispensation after Imam Hasan 'Askari (peace be upon him), those souls who followed the Messenger (peace be upon him) and walked the path of the pure Imams were upon the truth."
+          ]
         },
         {
           "key": "source:BBU0012",
-          "why": "Read the Báb’s reported rejection of a particular description of His claim."
+          "why": "Read the Báb’s reported rejection of a particular description of His claim.",
+          "shortened": [
+            "The condemnation of God be upon him who regards me either as a representative of the Imam or the gate thereof."
+          ]
         },
         {
           "key": "source:BB00137",
@@ -1380,7 +1781,11 @@
         },
         {
           "key": "source:BB00004",
-          "why": "Read witnesses, stars, and temples as related sacred images."
+          "why": "Read witnesses, stars, and temples as related sacred images.",
+          "shortened": [
+            "God beareth witness that there is no God but Him, and that those who are witnesses after Muhammad - these are, after the Primal Point, twelve stars in whom all are assured. God beareth witness that there is no God but Him, and that the Gates of Guidance - these are witnesses from God, and all act by their leave.",
+            "This is a Temple unto Hasan, an Imam of mighty truth. This is the Temple for Husayn, the Imam of supreme truth."
+          ]
         },
         {
           "key": "source:BB00677",
@@ -1392,7 +1797,10 @@
         },
         {
           "key": "source:BB00288",
-          "why": "Read guidance with truth as a description of their work."
+          "why": "Read guidance with truth as a description of their work.",
+          "shortened": [
+            "And those who are witnesses after Him - these are the Imams who guide with truth and all return unto Him."
+          ]
         },
         {
           "key": "source:BB00521",
@@ -1404,7 +1812,10 @@
         },
         {
           "key": "source:BB00006",
-          "why": "Keep the account of successor and Prophet with its own layered symbolic language."
+          "why": "Keep the account of successor and Prophet with its own layered symbolic language.",
+          "shortened": [
+            "Know thou with certainty that the shadow of the lower chain in relation to the higher chain is the essence of poison and the most intense fire, for the punishment of one who denies the Successor is the punishment of one who denies both the Prophet and the Successor. Apply this principle from the highest pearl to the lowest particle."
+          ]
         },
         {
           "key": "source:BB00014",
@@ -1420,7 +1831,10 @@
         },
         {
           "key": "source:BB00090",
-          "why": "Read the limits placed upon describing their stations."
+          "why": "Read the limits placed upon describing their stations.",
+          "shortened": [
+            "And His Manifestations are twelve souls with God, whom God hath made the pillars of His unity, the banners of His sanctification, the manifestations of His uniqueness, and the signs of His sovereignty and might. None knoweth them save God Who created them and He Who is above them, and all others beside them are not mentioned in their presence, and if mentioned, are as a passing shadow - nay, I seek God's forgiveness for even this excessive limitation."
+          ]
         },
         {
           "key": "source:BB00159",
@@ -1456,7 +1870,10 @@
         },
         {
           "key": "source:BB00332",
-          "why": "Follow the invocations associated with ‘Alí, Hasan, and Husayn."
+          "why": "Follow the invocations associated with ‘Alí, Hasan, and Husayn.",
+          "shortened": [
+            "And peace be upon him whom God chose through Ali, His Friend, whom He fashioned for Himself and made the Guardian over all created things. And peace be upon him whom God selected through Hasan, His Proof, whom He was well-pleased with for His Cause and made him the station of His Self in all stations. And peace be upon him whom God chose through Husayn, His Vengeance, whom He gifted with martyrdom and made him the sign of His Countenance in all proofs."
+          ]
         },
         {
           "key": "source:BB00404",
@@ -1476,7 +1893,10 @@
         },
         {
           "key": "source:BB00438",
-          "why": "Hear the invocation concerning Hasan ibn ‘Alí."
+          "why": "Hear the invocation concerning Hasan ibn ‘Alí.",
+          "shortened": [
+            "I beseech Thee at this moment to send down Thy mercy and the blessings of Thy sovereign oneness upon Hasan ibn 'Ali, Thy proof and the son of Thy proof, Thy friend and the son of Thy friends, Thy chosen one and the son of Thy chosen ones, whom Thou hast made the manifestation of Thy unity and the door of Thy oneness and the proof from Thee unto all Thy creation."
+          ]
         },
         {
           "key": "source:BB00530",
@@ -1488,7 +1908,10 @@
         },
         {
           "key": "source:BB00493",
-          "why": "Hear the testimony within the pilgrimage prayer."
+          "why": "Hear the testimony within the pilgrimage prayer.",
+          "shortened": [
+            "I bear witness that there is no God but Him, and I bear witness to Muhammad and Ali and Fatima and Hasan and Husayn and Ali and Muhammad and Ja'far and Musa and Ali and Muhammad and Ali and Hasan and Muhammad, the Master of the Command and the Successor, peace be upon them, as God has indicated concerning them."
+          ]
         },
         {
           "key": "source:BB00171",
@@ -1500,7 +1923,10 @@
         },
         {
           "key": "source:ABU2650",
-          "why": "Read the reported twelve stars as a symbol."
+          "why": "Read the reported twelve stars as a symbol.",
+          "shortened": [
+            "In Revelations 12, the woman clothed with the sun with the moon under her feet, represents the Muhammadan religion. The sun and moon are the Turkish and Persian Empires. The twelve stars around her head represent the twelve Imams."
+          ]
         },
         {
           "key": "source:AB01034",
@@ -1516,7 +1942,12 @@
         },
         {
           "key": "source:BB00001",
-          "why": "Read the Persian Bayán’s declarations of return."
+          "why": "Read the Persian Bayán’s declarations of return.",
+          "shortened": [
+            "On this, that 'Ali, peace be upon Him, hath returned to the world, together with all His faithful, and all who believed in the one other than Him.",
+            "On this, that Hasan, peace be upon Him, hath returned to the world, together with all His faithful, and all who believed in the one other than Him.",
+            "On this, that Husayn, peace be upon Him, hath returned to the world, together with all His faithful, and all who believed in the one other than Him."
+          ]
         },
         {
           "key": "source:BB00320",
@@ -1524,7 +1955,10 @@
         },
         {
           "key": "source:BB00415",
-          "why": "Keep the description of dissimulation and fear in its setting."
+          "why": "Keep the description of dissimulation and fear in its setting.",
+          "shortened": [
+            "These are the followers of the learned who associate with the people of this world and the transgressors through obedience to God, blessed and exalted be He, and to His friends, practicing dissimulation in their religion and fear of their enemy. Their spirits are attached to the highest realm."
+          ]
         },
         {
           "key": "source:BB00514",

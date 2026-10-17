@@ -221,3 +221,75 @@ test('build refuses stale source wording, incomplete ordering, and too many ques
   f.config.questions.pop();f.config.order.pop();await f.saveConfig();
   await assert.rejects(buildStudyGuides(f.root,f.out,dataset),/every group exactly once/);
 });
+
+test('a shortened reading shows only its kept whole sentences, verbatim, and keeps the full passage as context',async t=>{
+  const f=await fixture(t),plain='<Word> in context. A middle sentence. The essential idea.',second='A following paragraph.';
+  await f.zip('data/'+recordFilename('FIXTURE00001'),{id:'FIXTURE00001',enVersion:'v1',metadata:{Authorized:'Y2'},en:{paragraphs:[{plain},{plain:second}]},original:{paragraphs:[]},paired:false});
+  f.data.selections[0].candidates[0].ranges=[{paragraph:1,start:0,end:plain.length,text:plain},{paragraph:2,start:0,end:second.length,text:second}];
+  f.data.selections[1].candidates[0].ranges=[{paragraph:1,start:0,end:6,text:'<Word>'}];
+  f.data.selections[2].excerpt='First supplied sentence. Second supplied sentence. Third supplied sentence.';
+  await f.saveData();
+  f.config.order[0].shortened=['<Word> in context.','The essential idea.',second];
+  f.config.order[1].shortened=['Second supplied sentence. Third supplied sentence.'];
+  await f.saveConfig();
+  await buildStudyGuides(f.root,f.out,dataset);
+  const read=name=>fs.readFile(path.join(f.out,'study-guides',name),'utf8');
+  const pdf=await read('sample-pdf.html');
+  assert.match(pdf,/<blockquote><p>&lt;Word&gt; in context\. … The essential idea\.<\/p><p class="authorized">A following paragraph\.<\/p><\/blockquote>/);
+  assert.match(pdf,/<mark>&lt;Word&gt; in context\.<\/mark> A middle sentence\. <mark>The essential idea\.<\/mark>/);
+  assert.match(pdf,/<blockquote><p>Second supplied sentence\. Third supplied sentence\.<\/p><\/blockquote>/);
+  const compiled=JSON.parse(await read('compiled.json')).subjects[0].compiled;
+  assert.equal(compiled[0].shortened,true);assert.equal(compiled[0].paragraphs[0].text,'<Word> in context. … The essential idea.');
+  // Kept wording must be verbatim whole sentences of the passage, in order.
+  for(const [kept,message] of [[['A middle'],/sentence boundaries/],[['The essential idea.','<Word> in context.'],/out of order/],[['An invented sentence.'],/not in the passage/],[[plain,second],/whole passage/]]){
+    f.config.order[0].shortened=kept;await f.saveConfig();
+    await assert.rejects(buildStudyGuides(f.root,f.out,dataset),message);
+  }
+  // A passage with an authorized translation keeps authorized wording.
+  f.config.order[0].shortened=['The essential idea.'];await f.saveConfig();
+  await assert.rejects(buildStudyGuides(f.root,f.out,dataset),/omits its authorized wording/);
+});
+
+test('an omitted reading is left out of the guide but stays covered, and authorized wording cannot be omitted',async t=>{
+  const f=await fixture(t);
+  f.config.order[1].omitted=true;f.config.questions=[];await f.saveConfig();
+  const validation=await buildStudyGuides(f.root,f.out,dataset);
+  assert.equal(validation.subjects[0].readingEntries,1);assert.equal(validation.subjects[0].omittedEntries,1);
+  const pdf=await fs.readFile(path.join(f.out,'study-guides/sample-pdf.html'),'utf8');
+  assert.doesNotMatch(pdf,/A supplied quotation/);assert.doesNotMatch(pdf,/reading-2/);
+  const exported=JSON.parse(await fs.readFile(path.join(f.out,'study-guides/compiled.json'),'utf8')).subjects[0];
+  assert.deepEqual(exported.compiled.map(x=>x.key),['source:FIXTURE00001']);
+  assert.deepEqual(exported.omitted,[{key:'selection:unlinked',selectionIds:['unlinked']}]);
+  // Questions follow the readings shown.
+  f.config.questions=['A question?'];await f.saveConfig();
+  await assert.rejects(buildStudyGuides(f.root,f.out,dataset),/fewer than quotations/);
+  // The linked passage is authorized, so it cannot be left out.
+  f.config.questions=[];f.config.order[1].omitted=undefined;f.config.order[0].omitted=true;await f.saveConfig();
+  await assert.rejects(buildStudyGuides(f.root,f.out,dataset),/Omitted reading has authorized wording: sample reading 1/);
+  f.config.order[0].omitted='yes';await f.saveConfig();
+  await assert.rejects(buildStudyGuides(f.root,f.out,dataset),/Invalid omitted reading/);
+  f.config.order[0].omitted=true;f.config.order[1].omitted=true;await f.saveConfig();
+  await assert.rejects(buildStudyGuides(f.root,f.out,dataset),/Every reading is omitted/);
+});
+
+test('the editor lists a reading’s whole sentences and rebuilds kept sentences exactly as the build checks them',async t=>{
+  const f=await fixture(t),plain='<Word> in context. A middle sentence. The essential idea.',second='A following paragraph.';
+  await f.zip('data/'+recordFilename('FIXTURE00001'),{id:'FIXTURE00001',enVersion:'v1',metadata:{Authorized:'Y2'},en:{paragraphs:[{plain},{plain:second}]},original:{paragraphs:[]},paired:false});
+  f.data.selections[0].candidates[0].ranges=[{paragraph:1,start:0,end:plain.length,text:plain},{paragraph:2,start:0,end:second.length,text:second}];
+  f.data.selections[1].candidates[0].ranges=[{paragraph:1,start:0,end:6,text:'<Word>'}];
+  await f.saveData();
+  const {readingPassage,shortenedFrom}=await import('../scripts/study-guide-passage.mjs');
+  const {gunzipSync}=await import('node:zlib');
+  const read=async name=>JSON.parse(gunzipSync(await fs.readFile(path.join(f.out,dataset,name))));
+  const guide={...f.config,order:[{...f.config.order[0],shortened:['<Word> in context.',second]},f.config.order[1]]};
+  delete guide.selection;
+  const reading=await readingPassage({guide,key:'source:FIXTURE00001',read});
+  assert.deepEqual(reading.sentences.map(s=>[s.text,s.kept,s.authorized]),[['<Word> in context.',true,false],['A middle sentence.',false,false],['The essential idea.',false,false],[second,true,true]]);
+  assert.equal(reading.mandatory,true);
+  assert.deepEqual(shortenedFrom(reading.sentences,[0,1,3]),['<Word> in context. A middle sentence.',second]);
+  assert.equal(shortenedFrom(reading.sentences,[0,1,2,3]),undefined);
+  reading.check(shortenedFrom(reading.sentences,[1,2,3]));
+  assert.throws(()=>reading.check(shortenedFrom(reading.sentences,[1,2])),/authorized translation/);
+  const supplied=await readingPassage({guide,key:'selection:unlinked',read});
+  assert.deepEqual(supplied.sentences.map(s=>s.text),['A supplied quotation.']);assert.equal(supplied.mandatory,false);
+});

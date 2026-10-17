@@ -12,6 +12,7 @@ import {authorizedRanges,isAuthorizedParagraph} from '../src/translation-status.
 import {completeSentenceParagraphs,boundaryConcerns,locateSuppliedParagraphs} from './study-guide-sentences.mjs';
 import {studyGuideSelections,verifyCatalogueBaseline} from './study-guide-catalogue.mjs';
 import {selectStudyGuideQuotations} from './study-guide-selection.mjs';
+import {shortenParagraphs,shortenSupplied} from './study-guide-shortening.mjs';
 
 // Generate against the same versioned records used by the subject reader. A
 // changed quotation or subject membership must be reviewed before rebuilding.
@@ -76,20 +77,43 @@ for(const config of editorial.subjects){
   const selections=selectedData.get(config.id);
   const candidateCount=studyGuideSelections(data.selections).length;
   const groups=groupSelections(selections,data.sources);
-  // Count the quotations a reader sees after source grouping, the stricter limit.
-  const maxQuestions=Math.min(6,Math.max(0,groups.length-1));
-  if(config.questions.length<Math.min(3,maxQuestions)||config.questions.length>maxQuestions)throw Error(`Questions must be fewer than quotations: ${config.slug}`);
+  // An editor may omit a reading entry from the published guide; its quotations
+  // stay in the reviewed selection, so coverage is still checked on every entry.
+  const shownOrder=config.order.filter(x=>!x.omitted);
+  if(config.order.some(x=>'omitted' in x&&x.omitted!==true))throw Error(`Invalid omitted reading: ${config.slug}`);
+  if(!shownOrder.length)throw Error(`Every reading is omitted: ${config.slug}`);
   const key=g=>g.source?'source:'+g.source:'selection:'+g.id;
   const groupMap=new Map(groups.map(g=>[key(g),g]));
   if(config.order.length!==groups.length||new Set(config.order.map(x=>x.key)).size!==groups.length||config.order.some(x=>!groupMap.has(x.key)))throw Error(`Order does not cover every group exactly once: ${config.slug}`);
-  const ordered=config.order.map(x=>groupMap.get(x.key));
+  // Count the quotations a reader sees after source grouping, the stricter limit.
+  const maxQuestions=Math.min(6,Math.max(0,shownOrder.length-1));
+  if(config.questions.length<Math.min(3,maxQuestions)||config.questions.length>maxQuestions)throw Error(`Questions must be fewer than quotations: ${config.slug}`);
   let reachedUnlinked=false;
-  for(const g of ordered){if(!g.source)reachedUnlinked=true;else if(reachedUnlinked)throw Error('Unlinked quotations must follow linked groups');}
+  for(const g of config.order.map(x=>groupMap.get(x.key))){if(!g.source)reachedUnlinked=true;else if(reachedUnlinked)throw Error('Unlinked quotations must follow linked groups');}
+  // Authorized wording is never omitted: not a linked passage whose chosen
+  // quotation is authorized, nor a supplied quotation reviewed as mandatory.
+  const omittedIds=[];
+  let review;
+  for(const x of config.order.filter(x=>x.omitted)){
+    const g=groupMap.get(x.key),label=`${config.slug} reading ${config.order.indexOf(x)+1}`;
+    if(g.source){
+      const record=await read('data/'+recordFilename(g.source));
+      const authorization=authorizedRanges(record.metadata?.Authorized);
+      if(groupedParagraphs(g).some(p=>isAuthorizedParagraph(authorization,p.number)))throw Error(`Omitted reading has authorized wording: ${label}`);
+    }else if(config.selection){
+      review??=JSON.parse(await fs.readFile(path.join(configDirectory,config.selection.review),'utf8'));
+      if(g.selections.some(s=>(review.importedAuthorityReview||[]).some(r=>r.id===s.id&&r.mandatoryAuthorized===true)))throw Error(`Omitted reading has authorized wording: ${label}`);
+    }
+    omittedIds.push(...g.selections.map(s=>s.id));
+  }
+  const ordered=shownOrder.map(x=>groupMap.get(x.key));
+  const shownSelections=ordered.reduce((n,g)=>n+g.selections.length,0);
   const rendered=[],compiled=[];
   let paragraphCount=0,rangeCount=0;
   for(const [position,g] of ordered.entries()){
     let quote='',context='',citation='',note='';
     const entry={position:position+1,key:key(g),selectionIds:g.selections.map(s=>s.id),source:g.source,paragraphs:[]};
+    const shortened=shownOrder[position].shortened,label=`${config.slug} reading ${position+1}`;
     const restoration=sentenceContext.find(x=>x.slug===config.slug&&x.key===key(g));
     if(g.source||restoration){
       const record=await read('data/'+recordFilename(g.source||restoration.source));
@@ -108,12 +132,16 @@ for(const config of editorial.subjects){
       if(restoration&&(restoration.sourceVersion!==record.enVersion||restoration.suppliedSha256!==digest(supplied.original)||!((supplied.suppliedIds||[]).includes(record.id)||reviewedReference)))throw Error(`Stale or uncited sentence context: ${config.slug}`);
       const selected=g.source?groupedParagraphs(g):locateSuppliedParagraphs(record,supplied.excerpt||supplied.original);
       const sentences=completeSentenceParagraphs(record,selected);
-      const paragraphs=sentences.paragraphs,authorization=authorizedRanges(record.metadata?.Authorized);
+      const authorization=authorizedRanges(record.metadata?.Authorized);
+      const paragraphs=shortened?shortenParagraphs(record,sentences.paragraphs,shortened,label):sentences.paragraphs;
+      // A shortened passage keeps authorized wording when its chosen quotation has any.
+      if(shortened&&selected.some(p=>isAuthorizedParagraph(authorization,p.number))&&!paragraphs.some(p=>isAuthorizedParagraph(authorization,p.number)))throw Error(`Shortened passage omits its authorized wording: ${label}`);
       entry.selectedParagraphs=selected;
       entry.sentenceContextExpanded=sentences.changed;
-      entry.boundaryIssues=sentences.issues;
-      if(sentences.issues.length){
-        boundaryReview.push({slug:config.slug,title:config.displayTitle,position:position+1,key:key(g),source:record.id,issues:sentences.issues,kind:'source wording'});
+      entry.boundaryIssues=shortened?paragraphs.flatMap(p=>p.ranges.map(r=>record.en.paragraphs[p.number-1].plain.slice(r.start,r.end))).flatMap(t=>boundaryConcerns(t).map(issue=>({issue,text:t}))):sentences.issues;
+      if(shortened)entry.shortened=true;
+      if(entry.boundaryIssues.length){
+        boundaryReview.push({slug:config.slug,title:config.displayTitle,position:position+1,key:key(g),source:record.id,issues:entry.boundaryIssues,kind:'source wording'});
         note='<p class="meta">The available source contains an omission or incomplete wording; sentence boundaries need review.</p>';
       }
       citation=passageCitation(record,sourceUrl(record.id,config.id,paragraphs[0].number));
@@ -121,16 +149,23 @@ for(const config of editorial.subjects){
       for(const [i,p] of paragraphs.entries()){
         const plain=record.en.paragraphs[p.number-1].plain;
         const parts=p.ranges.map(r=>plain.slice(r.start,r.end));
-        const gap=i&&p.number>paragraphs[i-1].number+1?'… ':'';
+        const gap=i&&(p.gap||p.number>paragraphs[i-1].number+1)?'… ':'';
         const authorized=isAuthorizedParagraph(authorization,p.number);
         quote+=`<p${authorized?' class="authorized"':''}>${gap}${parts.map(esc).join(' … ')}</p>`;
+        entry.paragraphs.push({number:p.number,ranges:p.ranges,text:parts.join(' … '),authorized});
+        paragraphCount++;
+      }
+      // Source context shows every paragraph of the full passage, marking the kept wording.
+      for(const [i,p] of sentences.paragraphs.entries()){
+        const plain=record.en.paragraphs[p.number-1].plain;
+        const marked=paragraphs.find(x=>x.number===p.number)?.ranges||[];
+        const gap=i&&p.number>sentences.paragraphs[i-1].number+1?'… ':'';
+        const authorized=isAuthorizedParagraph(authorization,p.number);
         let highlighted='',end=0;
-        for(const r of p.ranges){highlighted+=esc(plain.slice(end,r.start))+'<mark>'+esc(plain.slice(r.start,r.end))+'</mark>';end=r.end;}
+        for(const r of marked){highlighted+=esc(plain.slice(end,r.start))+'<mark>'+esc(plain.slice(r.start,r.end))+'</mark>';end=r.end;}
         highlighted+=esc(plain.slice(end));
         const original=record.paired?record.original.paragraphs[p.number-1]?.plain:null;
         contexts.push(`<div class="context-pair"><div><span class="meta">English · paragraph ${p.number}</span><p${authorized?' class="authorized"':''}>${gap}${highlighted}</p></div>${original?`<div><span class="meta">Original · paragraph ${p.number}</span><p dir="rtl">${gap}${esc(original)}</p></div>`:''}</div>`);
-        entry.paragraphs.push({number:p.number,ranges:p.ranges,text:parts.join(' … '),authorized});
-        paragraphCount++;
       }
       const hasOriginal=record.original?.paragraphs?.length>0;
       const alignment=record.paired?'Parallel paragraphs follow the source’s matching paragraph counts; this is positional pairing.':hasOriginal?'English and original paragraph counts differ. Read the independent language columns in the full catalogue record.':'Original text unavailable for this record.';
@@ -152,7 +187,9 @@ for(const config of editorial.subjects){
       }
     }else{
       const s=g.selections[0];
-      quote=`<p>${esc(s.excerpt||s.original||'')}</p>`;
+      const wording=s.excerpt||s.original||'';
+      quote=`<p>${shortened?shortenSupplied(wording,shortened,label).map(esc).join(' … '):esc(wording)}</p>`;
+      if(shortened)entry.shortened=true;
       citation=`<span class="passage-citation">${esc(s.reference||(s.suppliedIds||[]).join(', ')||'Source reference not supplied')}</span>`;
       const approximate=s.status==='approximate'?s.candidates?.[0]:null;
       if(approximate){
@@ -163,7 +200,7 @@ for(const config of editorial.subjects){
       }else note='<p class="meta">Supplied quotation · catalogue passage not verified</p>';
       context=`<details class="context"><summary>Read supplied wording and reference</summary><p>${esc(s.original||s.excerpt)}</p><p class="meta">This entry retains the supplied wording and attribution.${approximate?' The catalogue reference is approximate and is not substituted for the quotation.':' No verified passage mapping is available in the reviewed collection.'}</p></details>`;
       entry.excerpt=s.excerpt;entry.original=s.original;entry.reference=s.reference;
-      entry.boundaryIssues=boundaryConcerns(s.excerpt||s.original||'');
+      entry.boundaryIssues=shortened?shortenSupplied(wording,shortened,label).flatMap(boundaryConcerns):boundaryConcerns(wording);
       if(entry.boundaryIssues.length){
         boundaryReview.push({slug:config.slug,title:config.displayTitle,position:position+1,key:key(g),issues:entry.boundaryIssues,excerpt:s.excerpt||s.original,reference:s.reference,kind:'supplied quotation'});
         note+='<p class="meta">Sentence boundary needs source review; the supplied wording is retained.</p>';
@@ -173,7 +210,7 @@ for(const config of editorial.subjects){
     rendered.push(`${unlinkedStart}<article class="quotation" id="reading-${position+1}"><span class="sequence" aria-label="Reading position ${position+1}">${String(position+1).padStart(2,'0')}</span><div class="quote-body"><blockquote>${quote}</blockquote><div class="citation">${citation}</div>${note}${context}</div></article>`);
     compiled.push(entry);
   }
-  const represented=compiled.flatMap(x=>x.selectionIds);
+  const represented=[...compiled.flatMap(x=>x.selectionIds),...omittedIds];
   if(represented.length!==selections.length||new Set(represented).size!==selections.length)throw Error('Selection coverage mismatch');
   // Keep the reviewed editorial evidence, but derive navigation from the same
   // public one-hop graph as Subject view, including neighbors without a guide.
@@ -190,9 +227,9 @@ for(const config of editorial.subjects){
     return `<li><a href="${esc(pilot?pilot.slug+'-pdf.html':linkSubject(subject.id))}">${esc(subject.name)}</a>${invitation?`<p>${esc(invitation)}</p>`:''}</li>`;
   });
   const references=config.references.map(r=>`<li><a href="${safeUrl(r.url)}">${esc(r.label)}</a><p>${esc(r.note)}</p></li>`).join('');
-  const counts=`${config.selection?`${selections.length} chosen quotations from ${candidateCount}`:`${selections.length} selection${selections.length===1?'':'s'}`} · ${groups.length} reading ${groups.length===1?'entry':'entries'}`;
+  const counts=`${config.selection?`${shownSelections} chosen quotations from ${candidateCount}`:`${shownSelections} selection${shownSelections===1?'':'s'}`} · ${ordered.length} reading ${ordered.length===1?'entry':'entries'}`;
   const heading=`<h1>${esc(config.displayTitle)}</h1><p class="meta compilation-count">${counts} · <a href="${esc(linkSubject(config.id))}">Current subject view ↗</a></p>`;
-  const sequenceNotes=`<details class="editorial"><summary>About this reading sequence</summary><p>${esc(config.arc)}</p><p>${config.selection?`This guide contains ${selections.length} chosen quotations from the ${candidateCount} public selections, including every verified authorized translation. The complete original compilation remains available in Subject view.`:'All currently public selections are retained.'} Linked selections expand to their surrounding sentences in the same source; overlapping sentences appear once. Ellipses mark separated ranges. Distinct records and unlinked quotations remain distinct. Expand a linked passage for its paragraph context. Incomplete source wording and unresolved supplied excerpts are flagged for review. Blue quotation text follows existing catalogue authorization markings.</p><ol>${config.order.map(x=>`<li>${esc(x.why)}</li>`).join('')}</ol></details>`;
+  const sequenceNotes=`<details class="editorial"><summary>About this reading sequence</summary><p>${esc(config.arc)}</p><p>${config.selection?`This guide contains ${shownSelections} chosen quotations from the ${candidateCount} public selections, including every verified authorized translation. The complete original compilation remains available in Subject view.`:omittedIds.length?'Some public selections are left out of this guide by the editor; the complete compilation remains available in Subject view.':'All currently public selections are retained.'} Linked selections expand to their surrounding sentences in the same source; overlapping sentences appear once. Long passages may be shortened to the sentences that carry their central idea; the wording is unchanged, and the source context shows the full passage. Ellipses mark separated ranges. Distinct records and unlinked quotations remain distinct. Expand a linked passage for its paragraph context. Incomplete source wording and unresolved supplied excerpts are flagged for review. Blue quotation text follows existing catalogue authorization markings.</p><ol>${shownOrder.map(x=>`<li>${esc(x.why)}</li>`).join('')}</ol></details>`;
   const introduction=`<section class="introduction" aria-label="Editorial introduction"><p>${withReferences(config.introduction,config.references)}</p></section>`;
   const exploration=`<section class="exploration">${neighbors.length?`<h2>Continue exploring</h2><ul class="connected-subjects">${neighbors.join('')}</ul>`:''}${references?`<aside class="comparative"><h3>Comparative reading</h3><ul>${references}</ul></aside>`:''}</section>`;
   const questions=config.questions.length?`<section id="questions" class="questions"><p class="eyebrow">For thought and discussion</p><h2>Questions to carry forward</h2><ol>${config.questions.map(q=>`<li>${esc(q)}</li>`).join('')}</ol></section>`:'';
@@ -203,12 +240,12 @@ for(const config of editorial.subjects){
   if(body.includes(config.introduction)||config.questions.some(q=>body.includes(esc(q))))throw Error('Editorial content leaked into regular view');
   await fs.writeFile(path.join(output,config.slug+'.html'),document(config.displayTitle,body,config.slug));
   await fs.writeFile(path.join(output,config.slug+'-pdf.html'),document(config.displayTitle,pdfBody,config.slug,true));
-  const result={id:config.id,name:data.subject.name,selections:selections.length,readingEntries:groups.length,questions:config.questions.length,comparativeReadings:config.references.length,editorialContent:'PDF view only',linkedParagraphs:paragraphCount,validatedRanges:rangeCount,unlinkedEntries:ordered.filter(g=>!g.source).length,sourceSelectionsSha256:digest(JSON.stringify(data.selections)),candidateSelections:candidateCount,coverage:config.selection?'every chosen selection exactly once; full catalogue preserved':'every public selection exactly once',sourceText:'all linked ranges equal their versioned source text'};
+  const result={id:config.id,name:data.subject.name,selections:shownSelections,readingEntries:ordered.length,omittedEntries:config.order.length-ordered.length,questions:config.questions.length,comparativeReadings:config.references.length,editorialContent:'PDF view only',linkedParagraphs:paragraphCount,validatedRanges:rangeCount,unlinkedEntries:ordered.filter(g=>!g.source).length,sourceSelectionsSha256:digest(JSON.stringify(data.selections)),candidateSelections:candidateCount,coverage:config.selection?'every chosen selection exactly once; full catalogue preserved':'every public selection exactly once',sourceText:'all linked ranges equal their versioned source text'};
   validation.subjects.push(result);
   result.sentenceContextExpanded=compiled.filter(x=>x.sentenceContextExpanded).length;
   result.boundaryReviewEntries=compiled.filter(x=>x.boundaryIssues?.length).length;
   result.connectedSubjects=connectedSubjects.map(s=>s.id);
-  exportData.subjects.push({...config,sourceName:data.subject.name,connectedSubjects:result.connectedSubjects,compiled});
+  exportData.subjects.push({...config,order:shownOrder,omitted:config.order.filter(x=>x.omitted).map(x=>({key:x.key,selectionIds:groupMap.get(x.key).selections.map(s=>s.id)})),sourceName:data.subject.name,connectedSubjects:result.connectedSubjects,compiled});
   cards.push(`<article class="sample"><p class="eyebrow">${counts}${newest.has(config.id)?' · New':''}</p><h2><a href="${config.slug}-pdf.html">${esc(config.displayTitle)} →</a></h2><p>${esc(config.arc)}</p><p class="sample-links"><a href="${esc(linkSubject(config.id))}">Open subject</a><a href="${config.slug}-pdf.html">Try a study guide</a></p></article>`);
 }
 await fs.mkdir(path.join(output,'fonts'),{recursive:true});

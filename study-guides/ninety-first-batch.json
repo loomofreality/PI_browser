@@ -5,12 +5,15 @@
       "id": "F91840AE122AEC232D80E33023EC88DF",
       "slug": "poetryquotations",
       "displayTitle": "Poetry and quoted verse: longing, consolation, and the life of words",
-      "introduction": "A city becomes beautiful because the beloved lives there; the sound of a name restores an exhausted heart. In these readings, poetry makes feeling and spiritual perception available through images that ordinary explanation may leave untouched. Roses, nightingales, lamps, wine, and the torn garment of separation recur in original verses, quoted poems, letters, and remembered conversations. Their meanings develop through use: a familiar couplet can encourage patience, express friendship, or redirect praise toward service. Images of intoxication, wounds, and surrender belong to these poetic vocabularies and need the context of their particular address. Neighboring subjects on mystical themes and stories invite attention to how language carries experience without reducing it to a formula. The springtime invitation in the Song of Songs offers a comparative encounter with beloved voice and renewed landscape. Read aloud and slowly, these selections ask what poetry helps us notice, endure, and offer.",
+      "introduction": "Which city is the most pleasant? The one where the beloved lives, answers the lover, and poetry’s whole claim on the spirit is in that reply. ‘Abdu’l-Bahá, worn out, glances at a letter naming distant friends, finds his weariness turned to joy, and reaches at once for Sa‘dí: whence comes this minstrel who has named my Friend? Verse, he tells a young poet, is sweeter and more penetrating than prose; but praise without inner meaning is glass without a lamp, a body without a soul. Roses and nightingales, wine and tress, the torn garment of separation move through letters, elegies and remembered conversations, and a familiar couplet changes its work with each use, consoling the bereaved, urging patience, redirecting praise toward service. The springtime call of the Song of Songs to rise and come away, with its longing for the beloved’s voice, listens alongside. The path leads on into the mystical themes these poems carry and into the stories and anecdotes in which such lines were first spoken.",
       "arc": "Begin with the beloved’s presence and the power of a voice; explore poetic craft, awakening and joy; enter longing and trial, then return through consolation to service and renewed fellowship.",
       "order": [
         {
           "key": "source:BH06218",
-          "why": "Open with the surprising answer to what makes a city pleasant."
+          "why": "Open with the surprising answer to what makes a city pleasant.",
+          "shortened": [
+            "A beloved one said to a lover, \"O youth!\nYou have seen many cities in your travels -\nWhich of those cities is the most pleasant?\"\nHe replied, \"That city wherein dwells the beloved.\""
+          ]
         },
         {
           "key": "source:AB02255",
@@ -22,7 +25,10 @@
         },
         {
           "key": "source:ABU2173",
-          "why": "Introduce the reported image of speaking through love without lips."
+          "why": "Introduce the reported image of speaking through love without lips.",
+          "shortened": [
+            "There is another poem in Persian which says, of a lover speaking with his beloved: \"I am speaking to you now without using my lips. I am speaking to you through my love.\" This is the spiritual language, the language of the Kingdom of GOD."
+          ]
         },
         {
           "key": "source:BH11313",
@@ -58,23 +64,41 @@
         },
         {
           "key": "source:AB02943",
-          "why": "Direct praise toward the Blessed Beauty and describe servitude carefully."
+          "why": "Direct praise toward the Blessed Beauty and describe servitude carefully.",
+          "shortened": [
+            "During the sacred festivals and other occasions, compose brilliant odes in praise of the Blessed Beauty, and if you wish to mention 'Abdu'l-Baha, at the end of the ode or lyric simply make a mention of the servitude and effacement of this evanescent servant and implore the Divine Threshold in utter humility that he may be assisted to serve and enabled to be faithful at the Sacred Threshold."
+          ]
         },
         {
           "key": "source:AB05242",
-          "why": "Receive an ode valued for its meaning of servitude."
+          "why": "Receive an ode valued for its meaning of servitude.",
+          "shortened": [
+            "Your ode of servitude arrived and perfect joy and delight was obtained from its sweet contents and delightful meanings, for it spoke of the servitude of this evanescent atom at the Sacred Threshold of the Most Great Name."
+          ]
         },
         {
           "key": "source:AB01480",
-          "why": "Observe the deliberate adaptation of a quoted line to a chosen name."
+          "why": "Observe the deliberate adaptation of a quoted line to a chosen name.",
+          "shortened": [
+            "\"I am deaf when called by my name, yet truly, when addressed as 'Abdu'l-Baha, I hear.\" This verse is from previous poets and its second line is: \"When addressed as 'O His servant,' I hear.\" But I became so enamored with the theme of this verse that I changed \"O His servant\" to \"'Abdu'l-Baha.\""
+          ]
         },
         {
           "key": "source:AB10021",
-          "why": "Keep the separately quoted earlier form beside that adaptation."
+          "why": "Keep the separately quoted earlier form beside that adaptation.",
+          "shortened": [
+            "The Arab poet saith:",
+            "\"Deaf am I when called in the tribe by my name,",
+            "Yet when addressed as His servant, how keen is my ear!\""
+          ]
         },
         {
           "key": "source:AB07950",
-          "why": "Read the naming of Abdu’l-Baha and truth in another poetic address."
+          "why": "Read the naming of Abdu’l-Baha and truth in another poetic address.",
+          "shortened": [
+            "\"Whence comes this minstrel who hath spoken my name?",
+            "'Abdu'l-Baha is my name, truth my aim!\""
+          ]
         },
         {
           "key": "source:AB08796",
@@ -86,19 +110,31 @@
         },
         {
           "key": "source:AB05307",
-          "why": "Read an ode through the imagery of pearls and stars."
+          "why": "Read an ode through the imagery of pearls and stars.",
+          "shortened": [
+            "Thy marvelous ode, which in its eloquence and fluency was like hidden and treasured pearls and stars, was read with the utmost joy and delight and recited with abundant gladness."
+          ]
         },
         {
           "key": "source:AB05043",
-          "why": "Let flowing water describe a festival poem."
+          "why": "Let flowing water describe a festival poem.",
+          "shortened": [
+            "O you who are enkindled with the fire of love! The brilliant ode and luminous unique verse that, like flowing water, streamed and flowed from your talent in celebration of the Festival of Ridvan was like pure crystal water, sweeter than the Salsabil spring."
+          ]
         },
         {
           "key": "source:AB03727",
-          "why": "Connect composition and chanting with the gladness of a community."
+          "why": "Connect composition and chanting with the gladness of a community.",
+          "shortened": [
+            "O bird of the garden of truth! Your sweet melodies and wondrous, sugary songs bring joy to the hearts of the friends and are the cause of spiritual delight. The odes that you compose and chant in praise of the Ancient Beauty (may my spirit be sacrificed for His loved ones) bestow eternal life upon the spirit and grant happiness and gladness to the heart."
+          ]
         },
         {
           "key": "source:AB07890",
-          "why": "Retain the historical comparison with a poet of the Prophet."
+          "why": "Retain the historical comparison with a poet of the Prophet.",
+          "shortened": [
+            "Ka'b ibn Zuhayr composed one ode in praise of the Prophet and became renowned throughout the horizons, and this accomplished poet has composed numerous odes in praise of the Most Great Name - consider then what shall come to pass."
+          ]
         },
         {
           "key": "source:ABU3465",
@@ -146,7 +182,12 @@
         },
         {
           "key": "source:BH00931",
-          "why": "Read the impossibility of adequate praise through multiplying resurrections."
+          "why": "Read the impossibility of adequate praise through multiplying resurrections.",
+          "shortened": [
+            "Were I to describe this Manifestation's praise,\nA hundred thousand trumpet blasts could not convey;",
+            "For in each instant from It a hundred resurrections spring,\nAnd in each, the spreading of a Greater Rising doth display.",
+            "Were I to attempt describing just one Rising fair,\nA hundred resurrections would pass, yet still unfinished there."
+          ]
         },
         {
           "key": "source:AB06477",
@@ -170,11 +211,20 @@
         },
         {
           "key": "source:AB06813",
-          "why": "Move from silence toward making love known."
+          "why": "Move from silence toward making love known.",
+          "shortened": [
+            "O thou candle of the assemblage of the merciful friends! Upon thee be the glory of God and His grace and His generosity and His gift and His eternal light! The time has come for thee to burn away the veil of silence and muteness with the kindled divine fire and to make the beauty of the Joseph of the love of God available in the marketplace and renowned throughout all horizons."
+          ]
         },
         {
           "key": "source:AB07693",
-          "why": "Carry the poem’s light from East toward West."
+          "why": "Carry the poem’s light from East toward West.",
+          "shortened": [
+            "O ye beloved friends of 'Abdu'l-Baha!",
+            "Twenty-five years ago a poem was written by the Pen of the Covenant, a portion whereof reads as follows:",
+            "In the Orient scatter perfumes, and shed splendours on the West.",
+            "Carry light unto the Bulgar, and the Slav with life invest."
+          ]
         },
         {
           "key": "source:BH01489",
@@ -194,15 +244,29 @@
         },
         {
           "key": "source:AB07551",
-          "why": "Set the scriptural trust beside the yearning for heroic humanity."
+          "why": "Set the scriptural trust beside the yearning for heroic humanity.",
+          "shortened": [
+            "\"Lo! We offered the trust unto the heavens and the earth and the hills, but they shrank from bearing it and were afraid of it. And man assumed it.\"",
+            "\"My heart is wearied by these weak-natured people - I long for the Lion of God and Rustam, son of Zal!\""
+          ]
         },
         {
           "key": "source:AB09084",
-          "why": "Hear that yearning amid an inability to describe sorrow."
+          "why": "Hear that yearning amid an inability to describe sorrow.",
+          "shortened": [
+            "O thou who hast clung to the hem of grandeur! From the intensity of sorrows and pain, the pen hath no power to write, nor the tongue strength to speak. Of these weak-natured people my heart is weary - I long for the Lion of God and Rustam, the hero of legend!"
+          ]
         },
         {
           "key": "source:AB01217",
-          "why": "Recognize the rose and sun beyond their place of appearance."
+          "why": "Recognize the rose and sun beyond their place of appearance.",
+          "shortened": [
+            "They conduct themselves according to these verses of Rumi:",
+            "\"The branch of the rose, wherever it may grow, is still a rose",
+            "The vessel of wine, wherever it may ferment, is still wine",
+            "If the sun should rise from the West",
+            "It is still the sun itself, not something else.\""
+          ]
         },
         {
           "key": "source:AB04959",
@@ -210,7 +274,13 @@
         },
         {
           "key": "source:BH01734",
-          "why": "Enter the cluster of verses on love’s distance, inadequate speech and the Friend’s name."
+          "why": "Enter the cluster of verses on love’s distance, inadequate speech and the Friend’s name.",
+          "shortened": [
+            "\"'Attar traversed love's seven cities,\nWhile we remain in the bend of a single lane.",
+            "\"Were people not veiled and dense,\nAnd were throats not constricted and weak,\nIn thy praise I would render justice to meaning,\nAnd would open lips with speech other than this.\"",
+            "When I heard mention of the Friend, I immediately arose and said:",
+            "\"Whence comes this musician who spoke the Friend's name?\nThat I might sacrifice my soul and garment for the Friend's message.\nThe heart comes alive with hope for the beloved's faithfulness,\nThe soul dances to the melody of the Friend's words.\""
+          ]
         },
         {
           "key": "source:BH00476",
@@ -250,19 +320,32 @@
         },
         {
           "key": "source:AB02002",
-          "why": "Explore the tress and grain as a snare for the heart-bird."
+          "why": "Explore the tress and grain as a snare for the heart-bird.",
+          "shortened": [
+            "The tresses of the Beloved are a snare, the dark mole is the grain;",
+            "Each strand hath caught the heart-bird fast---no rest for one insane."
+          ]
         },
         {
           "key": "source:AB08358",
-          "why": "Read fragrance and entanglement through an address to the Beloved."
+          "why": "Read fragrance and entanglement through an address to the Beloved.",
+          "shortened": [
+            "O my Lord! This loop of Baha fell into that collar of tribulation which was Thy hair. Every fragrance of musk that reaches the senses arises from Thy sweet nature."
+          ]
         },
         {
           "key": "source:AB03191",
-          "why": "Consider the image of standing outside the ring of a tress."
+          "why": "Consider the image of standing outside the ring of a tress.",
+          "shortened": [
+            "Until the ring of His tress becomes the collar of someone's neck - Oh we who stand proud outside the circle!"
+          ]
         },
         {
           "key": "source:AB04118",
-          "why": "Read the city’s commotion through the Beloved’s features."
+          "why": "Read the city’s commotion through the Beloved’s features.",
+          "shortened": [
+            "There is no commotion in the city except the curl of the Beloved's tress; There is no tumult in the horizons except the arch of the Friend's brow."
+          ]
         },
         {
           "key": "source:AB03554",
@@ -274,19 +357,39 @@
         },
         {
           "key": "source:AB09419",
-          "why": "Hear the same image as a promise of what will be observed."
+          "why": "Hear the same image as a promise of what will be observed.",
+          "shortened": [
+            "Soon thou shalt observe that:",
+            "\"There is no tumult in the city save from the curling locks of the Beloved,",
+            "No commotion in the world save from the arched eyebrow of the Friend.\""
+          ]
         },
         {
           "key": "source:AB03688",
-          "why": "Keep the compressed image of longing that permits no easy rest."
+          "why": "Keep the compressed image of longing that permits no easy rest.",
+          "shortened": [
+            "No heart yearns toward that Beloved with desire, No one sleeps with such a rose-cheeked one in their garment."
+          ]
         },
         {
           "key": "source:AB02077",
-          "why": "Read the inherited gendered imagery within its historical poetic setting."
+          "why": "Read the inherited gendered imagery within its historical poetic setting.",
+          "shortened": [
+            "How excellent is what was said:",
+            "No heart yearns for any beloved save that One",
+            "None can sleep peacefully with such a Rose-cheeked One in their garment",
+            "Either go like women and choose color and fragrance",
+            "Or enter like men and cast your ball in the field",
+            "Now praise be to God that the friends of God in all regions stand firm in the Cause of God and steadfast in the love of God - they are heroes of the field and are set ablaze with the fire of the love of God."
+          ]
         },
         {
           "key": "source:AB08915",
-          "why": "Preserve the culturally particular descriptive lines attributed to Rumi."
+          "why": "Preserve the culturally particular descriptive lines attributed to Rumi.",
+          "shortened": [
+            "O thou who speaketh in remembrance of God!",
+            "Rumi, in his Ghazals and in the Mathnavi, relateth this tale: \"He saith unto thee in thy state of intoxication: O Abu'l-Hasan! O thou young in years! O thou of tender frame! O thou but lately weaned from milk! With face of a Hashimite, nape of a Turk, hair of a Daylamite, and beard of a Greek!\""
+          ]
         },
         {
           "key": "source:AB00971",
@@ -298,7 +401,10 @@
         },
         {
           "key": "source:AB07754",
-          "why": "Attend to the alternating laughter, tears, speech and listening of an encounter."
+          "why": "Attend to the alternating laughter, tears, speech and listening of an encounter.",
+          "shortened": [
+            "When the taper of Tiraz lit up his countenance in the gathering of mystery, with a face full of glad-tidings and visage of joy, in the utmost grace and beauty did he meet with me, and with perfect sweetness did he begin to speak. He wept and laughed, spoke and listened, until the meeting drew to a close. At times he bloomed like a flower, and at times like a wine-vessel he was full of tumult and commotion."
+          ]
         },
         {
           "key": "source:AB09517",
@@ -314,19 +420,43 @@
         },
         {
           "key": "source:AB05885",
-          "why": "Let multiple quoted motifs enter a shared musical gathering."
+          "why": "Let multiple quoted motifs enter a shared musical gathering.",
+          "shortened": [
+            "Take in hand the overflowing cup of the love of God and dance in this gathering, crying out and playing this melody:",
+            "\"In one hand the wine-cup, in the other the Beloved's tress",
+            "In such a dance midst this arena is my heart's desire",
+            "Weary am I of these weak-natured folk",
+            "The Lion of God and Rustam the Hero is my heart's desire\"",
+            "Take up the harp and lute and raise a melody in harmony with the Supreme Concourse, that the birds of the meadow may come into rapture and ecstasy, and all may become engaged in one voice in praising and glorifying the Glorious Lord."
+          ]
         },
         {
           "key": "source:AB02977",
-          "why": "Preserve the passage from poetic intoxication to a practical matter of receipts."
+          "why": "Preserve the passage from poetic intoxication to a practical matter of receipts.",
+          "shortened": [
+            "So raise up a cry and say:",
+            "\"I am intoxicated with the wine of love, drunk and inebriated with wine;",
+            "O musician play a melody, O cupbearer give me the cup!\"",
+            "Regarding the receipts you had written about - we presented that amount to you."
+          ]
         },
         {
           "key": "source:AB04799",
-          "why": "Keep another formulation of the invitation to musician and cupbearer."
+          "why": "Keep another formulation of the invitation to musician and cupbearer.",
+          "shortened": [
+            "\"I know not this or that, I am intoxicated with the cup of love",
+            "O musician play a melody, O cupbearer pass round the chalice!\"",
+            "And upon you be greetings and praise."
+          ]
         },
         {
           "key": "source:AB05774",
-          "why": "Distinguish spiritual wine from the literal drink rejected in the surrounding counsel."
+          "why": "Distinguish spiritual wine from the literal drink rejected in the surrounding counsel.",
+          "shortened": [
+            "The fever of love cannot be broken by what is in the tavern",
+            "O Cupbearer, bring an ocean of that spiritual wine!",
+            "Counsel all souls that when the everlasting cup and divine wine are available, no pure nature would be attracted to this transient, putrid water."
+          ]
         },
         {
           "key": "source:AB03637",
@@ -334,15 +464,26 @@
         },
         {
           "key": "source:AB02682",
-          "why": "Keep the Hafiz attribution to harp and lute speaking in secret."
+          "why": "Keep the Hafiz attribution to harp and lute speaking in secret.",
+          "shortened": [
+            "Hafiz of Shiraz has said: \"Do you know what the harp and lute are saying? Drink wine in secret, for they pronounce accusations of infidelity.\""
+          ]
         },
         {
           "key": "source:AB06875",
-          "why": "Retain the separate form of the same quoted counsel."
+          "why": "Retain the separate form of the same quoted counsel.",
+          "shortened": [
+            "As the poet says: \"Knowest thou what the harp and lute are saying? Drink wine in secret, for they accuse of infidelity.\""
+          ]
         },
         {
           "key": "source:AB11984",
-          "why": "Read another use of the verse within a particular instruction."
+          "why": "Read another use of the verse within a particular instruction.",
+          "shortened": [
+            "In the words of Ḥafiz of Shiraz, the purport of this verse must be followed:",
+            "\"Do you know what the harp and lute are saying?",
+            "Drink wine in secret, for they pronounce it forbidden.\""
+          ]
         },
         {
           "key": "source:AB08201",
@@ -362,7 +503,10 @@
         },
         {
           "key": "source:AB07392",
-          "why": "Read the fountain of love through the language of ritual departure."
+          "why": "Read the fountain of love through the language of ritual departure.",
+          "shortened": [
+            "In the words of Hafiz of Shiraz: \"The moment I performed my ablutions at the fountain of love, I said four takbirs over all that exists.\""
+          ]
         },
         {
           "key": "source:AB11018",
@@ -378,7 +522,10 @@
         },
         {
           "key": "source:BH09039",
-          "why": "Hear the remembered childhood line about sufficiency in the Beloved."
+          "why": "Hear the remembered childhood line about sufficiency in the Beloved.",
+          "shortened": [
+            "In childhood this verse was heard: \"When I have Thee I have all; naught else do I need.\""
+          ]
         },
         {
           "key": "source:AB07190",
@@ -390,39 +537,78 @@
         },
         {
           "key": "source:BH02404",
-          "why": "Read shared intimacy and unity through Rumi’s contrasting souls."
+          "why": "Read shared intimacy and unity through Rumi’s contrasting souls.",
+          "shortened": [
+            "How excellent is what was said:",
+            "\"Indeed I have been alone with the Beloved, and between us\nWas a secret more subtle than the breeze when it stirs\"",
+            "The spirits of these companions are united and their breaths intermingled, even as Rumi, the mystic, says:",
+            "\"The souls of wolves and dogs are separate indeed\nBut united are the souls of the lions of God\"",
+            "For they drink from one cup and are sustained from one chalice, they sit upon one carpet and dwell in one station."
+          ]
         },
         {
           "key": "source:AB04276",
-          "why": "Preserve the separate citation of the souls-of-lions image."
+          "why": "Preserve the separate citation of the souls-of-lions image.",
+          "shortened": [
+            "As Rumi says: The souls of wolves and dogs are separate from one another, but united are the souls of the lions of God."
+          ]
         },
         {
           "key": "source:ABU2056",
-          "why": "Let the reported longing distinguish a place from its people."
+          "why": "Let the reported longing distinguish a place from its people.",
+          "shortened": [
+            "Heart yearns for the abode of peace,",
+            "Where the builder of wall resides.",
+            "But my longing is not for the city,",
+            "Nay, it is for the dwellers of the city."
+          ]
         },
         {
           "key": "source:BBU0011",
-          "why": "Keep the reported Hafiz citation and its geographical imagery."
+          "why": "Keep the reported Hafiz citation and its geographical imagery.",
+          "shortened": [
+            "\"That is the river, and this is the bank thereof, of which the poet Hafiz has thus written: 'O zephyr, shouldst thou pass by the banks of the Araxes, implant a kiss on the earth of that valley and make fragrant thy breath. Hail, a thousand times hail, to thee, O abode of Salma! How dear is the voice of thy camel-drivers, how sweet the jingling of thy bells!'"
+          ]
         },
         {
           "key": "source:BH01736",
-          "why": "Imagine the disruption caused by departure and arrival."
+          "why": "Imagine the disruption caused by departure and arrival.",
+          "shortened": [
+            "A moon went forth from this city -- toward another it fled;\nBy its setting and its rising, two cities turned o'erhead."
+          ]
         },
         {
           "key": "source:AB03225",
-          "why": "Remember companionship before hearing the ache of separation."
+          "why": "Remember companionship before hearing the ache of separation.",
+          "shortened": [
+            "O longtime friend! Remember those days when in Iraq we reclined in the shade of the Tree of Providence, and in every hour through increased favors and bounties we reached the utmost of our desires. Remember those bright nights and those times like rose gardens and flower beds that passed. How well did the poet say:",
+            "Come, rosebud-mouthed beloved, see how straitened is this heart in me;",
+            "Yet still I breathe, bereft of thee---Behold my hard heart’s cruelty."
+          ]
         },
         {
           "key": "source:AB04555",
-          "why": "Read a letter’s sweetness through constancy and listening."
+          "why": "Read a letter’s sweetness through constancy and listening.",
+          "shortened": [
+            "O cherished and honored friend,",
+            "The purport of thy letter was exceedingly sweet, for it betokened faithfulness and expressed steadfastness and constancy in love, inasmuch as thou hast not forgotten me, and with attentive ears desirest to hear the melody of divine inspiration."
+          ]
         },
         {
           "key": "source:AB09672",
-          "why": "Hope to mend separation’s torn garment."
+          "why": "Hope to mend separation’s torn garment.",
+          "shortened": [
+            "If we remain alive we shall mend",
+            "The garment that separation has rent",
+            "The rest is prayer for your happiness."
+          ]
         },
         {
           "key": "source:AB06405",
-          "why": "Keep the separate short formulation of that hope."
+          "why": "Keep the separate short formulation of that hope.",
+          "shortened": [
+            "If we remain alive we will mend the garment that has been torn by separation."
+          ]
         },
         {
           "key": "source:AB06202",
@@ -434,7 +620,10 @@
         },
         {
           "key": "source:AB02004",
-          "why": "Hear the poet’s comparison of death and separation."
+          "why": "Hear the poet’s comparison of death and separation.",
+          "shortened": [
+            "I testify that the Arab poet said: \"They say that death is difficult for youth, but by God, separation from loved ones is more difficult.\""
+          ]
         },
         {
           "key": "source:AB09023",
@@ -442,7 +631,13 @@
         },
         {
           "key": "source:AB06312",
-          "why": "Read festival joy and private sorrow together."
+          "why": "Read festival joy and private sorrow together.",
+          "shortened": [
+            "They are in celebration and excitement, in joy and delight, while this servant, with weeping eyes and a burning heart, recites this verse:",
+            "\"It is the season of festival, yet we are hopeless of seeing the Beloved",
+            "The world is in feasting and drinking, while we have tear-filled eyes\"",
+            "However, this weeping is the source of laughter, and this grief and sorrow is the pride of all joys."
+          ]
         },
         {
           "key": "source:AB08088",
@@ -454,7 +649,11 @@
         },
         {
           "key": "source:ABU3705",
-          "why": "Retain the reported lament naming places of suffering."
+          "why": "Retain the reported lament naming places of suffering.",
+          "shortened": [
+            "Nayriz burneth with fever, and my sorrow-filled heart sheddeth blood,",
+            "How consumed my soul is, of what Adharbayjan hath wrought."
+          ]
         },
         {
           "key": "source:AB01508",
@@ -462,7 +661,10 @@
         },
         {
           "key": "source:AB02792",
-          "why": "Read the concrete account of widespread upheaval and dispossession."
+          "why": "Read the concrete account of widespread upheaval and dispossession.",
+          "shortened": [
+            "O friends of 'Abdu'l-Baha! Although the upheaval in Iran is severe and trials and tribulations have overcome everyone near and far, all parties are impatient and restless, each group is overwhelmed with grief and sorrow, blood has been spilled and homes have fallen, property has been plundered and pillaged, and leaders have become homeless, many leaders have crept into corners of oblivion and all the tribes and peoples of Iran have become scattered and dispersed. Inevitably in this tumult and commotion the friends too must experience some difficulty."
+          ]
         },
         {
           "key": "source:AB10899",
@@ -474,7 +676,10 @@
         },
         {
           "key": "source:AB06475",
-          "why": "Read a prison chain transformed through Joseph imagery."
+          "why": "Read a prison chain transformed through Joseph imagery.",
+          "shortened": [
+            "The chain that bound the Joseph of the prison turns to mercy's chain,\nAnd Egypt, in the realm of truth, o'er every land is king again."
+          ]
         },
         {
           "key": "source:AB01733",
@@ -494,7 +699,12 @@
         },
         {
           "key": "source:AB03927",
-          "why": "Read the house and flood as images of accepting trial."
+          "why": "Read the house and flood as images of accepting trial.",
+          "shortened": [
+            "As the poet has said:",
+            "We who have given heart and sight to the flood of tribulation,",
+            "Let the torrent of grief come and tear the house from its foundation!"
+          ]
         },
         {
           "key": "source:AB11181",
@@ -502,7 +712,14 @@
         },
         {
           "key": "source:AB01196",
-          "why": "Consider the elephant-keeper’s house as a figure for accepting a demanding commitment."
+          "why": "Consider the elephant-keeper’s house as a figure for accepting a demanding commitment.",
+          "shortened": [
+            "As the poet says:",
+            "\"Either make not friendship with elephant-keepers",
+            "Or build a house worthy of an elephant",
+            "Or like men enter the field and toss the ball",
+            "Make your breast the target of every affliction and your heart the aim of every cruelty.\""
+          ]
         },
         {
           "key": "source:AB00352",
@@ -510,15 +727,32 @@
         },
         {
           "key": "source:AB03435",
-          "why": "Keep the distinct use of that sequence to encourage endurance."
+          "why": "Keep the distinct use of that sequence to encourage endurance.",
+          "shortened": [
+            "The Persian poet said:",
+            "If like Abraham one must enter the fire",
+            "Or like John have my blood flow free",
+            "Or like Joseph be cast in well and prison",
+            "Or through poverty become like Jesus son of Mary",
+            "Now consider that if souls who in past ages became so intoxicated with just a whiff of the fragrances of the love of God that they accepted the cup of trials, how much more should we who are bewildered by the cup of bounty in this Day of Manifestation remain alive and fresh despite severe tribulations."
+          ]
         },
         {
           "key": "source:AB05617",
-          "why": "Preserve the extravagant language of sacrifice alongside its hope for comfort."
+          "why": "Preserve the extravagant language of sacrifice alongside its hope for comfort.",
+          "shortened": [
+            "How well was it said:",
+            "\"A hundred thousand living hearts are needed on this path",
+            "To sacrifice a hundred lives with every breath\"",
+            "Despite this, there is hope that the means of ancient comfort will be provided through His aid, grace and bounty."
+          ]
         },
         {
           "key": "source:AB02087",
-          "why": "Read the paradoxical life-and-death lines in their devotional address."
+          "why": "Read the paradoxical life-and-death lines in their devotional address.",
+          "shortened": [
+            "Surely he must have said \"My soul be sacrificed for You\" a hundred thousand times and recited: \"Die if you would be a devoted lover, for you have done all else yet still live,\" and cried out with his heart's tongue: \"Kill me, kill me, O trustworthy ones, for in my death is life upon life.\""
+          ]
         },
         {
           "key": "source:AB06066",
@@ -530,7 +764,11 @@
         },
         {
           "key": "source:AB02211",
-          "why": "Read poison and wounds as the poem’s paradoxical vocabulary of longing."
+          "why": "Read poison and wounds as the poem’s paradoxical vocabulary of longing.",
+          "shortened": [
+            "What is the medicine of the yearning one? Poison from the hand of the Beloved.",
+            "What is the balm of the lovers? Wounds from the arm of the Friend."
+          ]
         },
         {
           "key": "source:AB07311",
@@ -538,11 +776,18 @@
         },
         {
           "key": "source:AB02773",
-          "why": "Retain the quotation that describes love’s ease as suffering."
+          "why": "Retain the quotation that describes love’s ease as suffering.",
+          "shortened": [
+            "How excellent is what was said: \"Live detached, for love's comfort is suffering - its beginning is illness and its end is death.\""
+          ]
         },
         {
           "key": "source:AB07593",
-          "why": "Introduce the fuller cup of trial as a familiar poetic image."
+          "why": "Introduce the fuller cup of trial as a familiar poetic image.",
+          "shortened": [
+            "As the skilled poet has said:",
+            "\"Whoever in this feast is more favored is given a fuller cup of tribulation.\""
+          ]
         },
         {
           "key": "source:AB02217",
@@ -550,7 +795,13 @@
         },
         {
           "key": "source:AB03366",
-          "why": "Read the image as a wish to share another’s trial."
+          "why": "Read the image as a wish to share another’s trial.",
+          "shortened": [
+            "How excellent are the words of the poet:",
+            "\"Whoever in this feast is more favored",
+            "Is given a fuller cup of trial\"",
+            "God willing, 'Abdu'l-Baha too shall have a share of this supreme gift and receive a portion, that He may become thy partner and companion in this."
+          ]
         },
         {
           "key": "source:AB02739",
@@ -566,11 +817,17 @@
         },
         {
           "key": "source:AB07266",
-          "why": "Notice the explicit wish for the pearl of bounty rather than calamity for the addressee."
+          "why": "Notice the explicit wish for the pearl of bounty rather than calamity for the addressee.",
+          "shortened": [
+            "Although in the blessed Tablets this verse of Sana'i is written: \"If He bestows the pearl of bounty, behold the hearts are its shells, and if the arrow of calamity comes, behold the souls are its targets,\" yet for you I wish the pearl of bounty, not the arrow of calamity."
+          ]
         },
         {
           "key": "source:AB09673",
-          "why": "Keep the brief poetic expression about bitter words and sweet lips."
+          "why": "Keep the brief poetic expression about bitter words and sweet lips.",
+          "shortened": [
+            "As the poet says: \"Bitter words befit those sugar-dispensing ruby lips.\""
+          ]
         },
         {
           "key": "source:AB05390",
@@ -578,7 +835,12 @@
         },
         {
           "key": "source:AB06695",
-          "why": "Read the hope that bitter days will pass."
+          "why": "Read the hope that bitter days will pass.",
+          "shortened": [
+            "How excellent is what was said:",
+            "\"These bitter days, more bitter than poison, shall pass",
+            "Once again days sweet as sugar shall come.\""
+          ]
         },
         {
           "key": "source:AB06893",
@@ -586,7 +848,11 @@
         },
         {
           "key": "source:AB11138",
-          "why": "Preserve the separately attributed Hafiz line and its source omission."
+          "why": "Preserve the separately attributed Hafiz line and its source omission.",
+          "shortened": [
+            "Hafiz has said:",
+            "\"These bitter days, more bitter than poison, shall pass; Once again days sweet as sugar shall come.\"..."
+          ]
         },
         {
           "key": "source:AB12319",
@@ -594,11 +860,22 @@
         },
         {
           "key": "source:AB07945",
-          "why": "Receive consolation through Joseph’s anticipated return."
+          "why": "Receive consolation through Joseph’s anticipated return.",
+          "shortened": [
+            "O servant of the Abha Beauty! Hafiz of Shiraz says:",
+            "\"The lost Joseph shall return to Canaan, grieve not,",
+            "The house of sorrows shall one day become a rose garden, grieve not.\""
+          ]
         },
         {
           "key": "source:AB05534",
-          "why": "Read the quoted ghazal within an address to someone bereaved."
+          "why": "Read the quoted ghazal within an address to someone bereaved.",
+          "shortened": [
+            "O Aqa Darvish! The Beauty of the All-Glorious - may my spirit and essence be sacrificed for His loved ones - says at the end of a famous ghazal:",
+            "O dervish, the world has burned from this soul-consuming flame",
+            "Divine One! It is time to revive it through this plaintive cry",
+            "After the passing of your child and the death of your dear one, do not be sorrowful and grief-stricken."
+          ]
         },
         {
           "key": "source:AB09520",
@@ -614,7 +891,10 @@
         },
         {
           "key": "source:AB02122",
-          "why": "Retain the poetic hope in renewed assistance of the Holy Spirit."
+          "why": "Retain the poetic hope in renewed assistance of the Holy Spirit.",
+          "shortened": [
+            "Let us see what the power of the Friend's arm can do - If the Holy Spirit's grace should help again, Others too will do what Jesus did."
+          ]
         },
         {
           "key": "source:ABU2693",
@@ -626,7 +906,13 @@
         },
         {
           "key": "source:AB01524",
-          "why": "Preserve the sharp poetic reply to criticism beside the counsel not to increase clamor."
+          "why": "Preserve the sharp poetic reply to criticism beside the counsel not to increase clamor.",
+          "shortened": [
+            "The Arab poet said:",
+            "\"When criticism comes to you from one who is deficient",
+            "It is testimony that I am perfect\"",
+            "In any case, you should not mention anything further in Chihrihnama that would cause an increase in anyone's clamor."
+          ]
         },
         {
           "key": "source:ABU0595",
@@ -642,23 +928,44 @@
         },
         {
           "key": "source:AB07335",
-          "why": "Keep the concise question about the hoopoe’s secret."
+          "why": "Keep the concise question about the hoopoe’s secret.",
+          "shortened": [
+            "Though the sand grouse may learn the call of the hoopoe, where is the hoopoe's secret and the message from Saba?"
+          ]
         },
         {
           "key": "source:AB05149",
-          "why": "Ask what service has actually been offered."
+          "why": "Ask what service has actually been offered.",
+          "shortened": [
+            "How well did the poet say:",
+            "\"How can I raise my head before the Friend in shame,",
+            "When no worthy service has come from my hand?\""
+          ]
         },
         {
           "key": "source:AB05236",
-          "why": "Retain the parallel question in its own source."
+          "why": "Retain the parallel question in its own source.",
+          "shortened": [
+            "How excellent are these words:",
+            "How can I raise my head before the Friend in shame,",
+            "For no worthy service came forth from my hand?"
+          ]
         },
         {
           "key": "source:BH08745",
-          "why": "Let a passing year prompt reflection on pleasing the Beloved."
+          "why": "Let a passing year prompt reflection on pleasing the Beloved.",
+          "shortened": [
+            "How excellent was that which was said, and how excellent was he who said it:\nThe year hath passed, and would that I knew\nWhether anyone hath achieved that which pleaseth Thee."
+          ]
         },
         {
           "key": "source:AB03472",
-          "why": "Read the fire of love with the explanation of servitude."
+          "why": "Read the fire of love with the explanation of servitude.",
+          "shortened": [
+            "Kindle the fire of love and burn away all existence,",
+            "Then take a step and enter the path of the lovers",
+            "The praise of this servant in the world of creation is worship at the Sacred Threshold and servitude at the Threshold of the Divine Unity."
+          ]
         },
         {
           "key": "source:AB05771",
@@ -666,7 +973,10 @@
         },
         {
           "key": "source:AB02127",
-          "why": "Preserve the remembered line from the famous poem."
+          "why": "Preserve the remembered line from the famous poem.",
+          "shortened": [
+            "The Most Glorious Beauty - may my spirit be sacrificed for His loved ones - says in the famous poem: \"This is the way and custom, if you seek union with Baha - seek it!\""
+          ]
         },
         {
           "key": "source:AB05429",
@@ -674,7 +984,11 @@
         },
         {
           "key": "source:AB09049",
-          "why": "Read watchfulness at the Door as sovereignty of heart and soul."
+          "why": "Read watchfulness at the Door as sovereignty of heart and soul.",
+          "shortened": [
+            "Whoever keeps watch at that exalted Door\nBecomes the warden of a realm secure;",
+            "The kingdom of the soul, the heart's domain,\nFinds in his hand a sovereign's reign."
+          ]
         },
         {
           "key": "source:AB03169",
@@ -690,11 +1004,18 @@
         },
         {
           "key": "source:AB04039",
-          "why": "Let the poem’s paired questions remain open."
+          "why": "Let the poem’s paired questions remain open.",
+          "shortened": [
+            "Is the bottom of the sea better or the surface?",
+            "Is His arrow more alluring or the shield?"
+          ]
         },
         {
           "key": "source:AB03958",
-          "why": "Imagine restoring sight through Joseph’s garment."
+          "why": "Imagine restoring sight through Joseph’s garment.",
+          "shortened": [
+            "Like the Egyptian herald bearing Joseph's garment, you may open the eyes of the Jacobs and perfume their nostrils with the fragrance of Joseph's spiritual garment."
+          ]
         },
         {
           "key": "source:AB07384",
@@ -710,15 +1031,24 @@
         },
         {
           "key": "source:AB09355",
-          "why": "Pray for people to become sources of light and life."
+          "why": "Pray for people to become sources of light and life.",
+          "shortened": [
+            "I beseech God that they may become the light of hearts and bestow self-sacrifice upon souls, that they may become like laughing hundred-petaled roses in the heavenly garden and flowing cypresses by the stream of knowledge."
+          ]
         },
         {
           "key": "source:AB01176",
-          "why": "Preserve the practical counsel on steadfastness, wisdom and kindness."
+          "why": "Preserve the practical counsel on steadfastness, wisdom and kindness.",
+          "shortened": [
+            "If it were not so, such success would not have been achieved, for success is paired with steadfastness, and every precious steadfast soul is promised the confirmation of the Gracious Lord. \"Those who say 'Our Lord is God' and then remain steadfast - the angels descend upon them.\" Therefore, if Haji deems it advisable, you may return to Burujin with utmost dignity but with perfect wisdom, forbearance and good conduct. Inspire and encourage the divine friends with the fragrances of the All-Merciful, spiritual attractions and merciful sentiments, so that all may associate and conduct themselves with utmost kindness toward all people."
+          ]
         },
         {
           "key": "source:AB01811",
-          "why": "Keep the sustained prose encouragement and its account of trial."
+          "why": "Keep the sustained prose encouragement and its account of trial.",
+          "shortened": [
+            "One must look to the end result, and the end belongs to the righteous. The gloating of enemies and reproach of the unfaithful are like medicine for the sick - though bitter at first, it becomes sweet in the end. Whatever befalls one in the path of the love of God is a blessing."
+          ]
         },
         {
           "key": "source:AB10103",
@@ -754,15 +1084,24 @@
         },
         {
           "key": "source:BH03047",
-          "why": "Keep the brief invocation exactly as the source supplies it."
+          "why": "Keep the brief invocation exactly as the source supplies it.",
+          "shortened": [
+            "In the Name of the All-Powerful, the Almighty!"
+          ]
         },
         {
           "key": "source:AB02570",
-          "why": "Ask for a song that gladdens one who feels deprived."
+          "why": "Ask for a song that gladdens one who feels deprived.",
+          "shortened": [
+            "So in this rose garden, like a nightingale with wondrous melodies, raise for this captive of deprivation a song and tune of servitude at the Threshold, that my heart and soul may be gladdened and my conscience and consciousness may be fulfilled."
+          ]
         },
         {
           "key": "source:AB06249",
-          "why": "Close among diverse flowers and birds, each expressing the life of the garden."
+          "why": "Close among diverse flowers and birds, each expressing the life of the garden.",
+          "shortened": [
+            "One, like a rose, has rent their garment, while another, like a nightingale, has sent their lament to the heavens. One, like the narcissus with languid eyes, has opened eyes of wonder, while another, like a meadow violet, has fallen intoxicated in the wilderness and plain. One, like the cypress, has raised their stature tall, while another, like the ringdove, has caused commotion in the rose garden."
+          ]
         }
       ],
       "questions": [
@@ -805,16 +1144,22 @@
       "id": "EFCE6C7ADF264310AFD8C5A360881252",
       "slug": "historicallessons",
       "displayTitle": "Learning from history: memory, power, and the fruits of a life",
-      "introduction": "The past can become a mirror in which we recognize our own habits, including the ease with which we condemn yesterday’s tyranny while repeating it. These readings move among ruined palaces, neglected gardens, remembered acts of courage, and religious communities whose significance became clear only later. They ask what survives conquest, what causes a flourishing society to decline, and what forms of service continue to bear fruit. Letters, scriptural arguments, and reported conversations offer different kinds of testimony; their historical claims and rhetorical contrasts call for attention to context and evidence. Neighboring subjects on Iran, early Islam, philosophy, and spiritual cycles open further paths of inquiry. Deuteronomy’s warning against forgetting the source of prosperity supplies a comparative reading in the ethics of memory. The purpose of looking back becomes a present question: what shall we learn, preserve, and change in the lives we are building now?",
+      "introduction": "Bahá’u’lláh teaches that the future can be read in the mirror of the past, and the first thing that mirror shows is ourselves: people who condemn the tyrants of yesterday while repeating their deeds, as though exempt from the grave. Looking back honestly is thus a spiritual discipline. It asks where Alexander and the Caesars have gone, whose skulls in the dust cannot be told from their subjects’, and finds in the battles of nations a succession of waves that rise on one another and vanish. Yet the same gaze uncovers what endures: the trustworthiness of a thief who would not betray a king’s salt, apostles whose obscure deaths outlasted empires, cities that flourished through learning and withered through heedlessness. ‘Abdu’l-Bahá says the purpose of history is to awaken those who come after, which makes memory a responsibility, the discipline Deuteronomy urges on a people comfortable enough to forget who delivered them [1]. The inquiry runs on into the past and future of Iran, the early history of Islam, and the cycles by which civilizations rise and decline.",
       "arc": "Begin with self-examination and truthful historical inquiry; confront impermanence and the cost of conquest; explore civilization, religious renewal and remembered events; close with enduring service and history as an invitation to action.",
       "order": [
         {
           "key": "source:BH00698",
-          "why": "Open with the past as a mirror of the future."
+          "why": "Open with the past as a mirror of the future.",
+          "shortened": [
+            "Say: O ye that have eyes to see! The past is the mirror of the future. Gaze ye therein and be apprised thereof; perchance ye may be aided thereby to recognize the Friend and may be not the cause of His displeasure."
+          ]
         },
         {
           "key": "source:BH02808",
-          "why": "Immediately turn criticism of past tyranny back upon present conduct."
+          "why": "Immediately turn criticism of past tyranny back upon present conduct.",
+          "shortened": [
+            "Today people deny the deeds of those who tyrannized in the past, while they commit tyranny worse than what was committed before, and they perceive it not. It is as though they feel secure from the grave and are guaranteed immortality."
+          ]
         },
         {
           "key": "source:AB00176",
@@ -834,27 +1179,46 @@
         },
         {
           "key": "source:ABU2923",
-          "why": "Read admiration for a monument alongside remembrance of its human cost."
+          "why": "Read admiration for a monument alongside remembrance of its human cost.",
+          "shortened": [
+            "Calling 'Abdul Baha's attention to the monument, I remarked that it was higher than the Great Pyramid, whereupon 'Abdul Baha said that to many people the great Pyramid was the most to be admired structure in Egypt, but to him it had always produced an unpleasing impression, for it recalled to his mind the intense suffering of the thousands of slaves and captives who were under the oppressor who built the pyramid for his tomb."
+          ]
         },
         {
           "key": "source:AB00004",
-          "why": "Ask what practical learning from other societies can offer."
+          "why": "Ask what practical learning from other societies can offer.",
+          "shortened": [
+            "Those who maintain that these modern concepts apply only to other countries and are irrelevant in Iran, that they do not satisfy her requirements or suit her way of life, disregard the fact that other nations were once as we are now. Did not these new systems and procedures, these progressive enterprises, contribute to the advancement of those countries? Were the people of Europe harmed by the adoption of such measures? Or did they rather by these means reach the highest degree of material development?"
+          ]
         },
         {
           "key": "source:AB00246",
-          "why": "Invite close attention to varied people, circumstances and events."
+          "why": "Invite close attention to varied people, circumstances and events.",
+          "shortened": [
+            "Look with penetrating vision into the earlier centuries - their conditions, their traces, their phases, their distinguished ones, and the wondrous events that transpired therein, their mysterious secrets, the diverse dispositions of their men, and the varying tastes of their luminaries - for verily the accounts of those who have gone before are a reminder and lesson to those who follow."
+          ]
         },
         {
           "key": "source:ABU0955",
-          "why": "Name reflection on predecessors as a way to gain insight."
+          "why": "Name reflection on predecessors as a way to gain insight.",
+          "shortened": [
+            "In the former generations that have passed away, there are lessons for us. When we consider our predecessors, their ways, and their worldly success and prosperity, we gain insight."
+          ]
         },
         {
           "key": "source:ABU2146",
-          "why": "Consider the reported account of history as an awakening of later generations."
+          "why": "Consider the reported account of history as an awakening of later generations.",
+          "shortened": [
+            "The purpose of history is to awaken those who come after. See in what path those who came before achieved success and prosperity, and follow that same path.",
+            "How wonderful it would have been if the history of the Prophets had been properly written, for it would then have served as a model for this time."
+          ]
         },
         {
           "key": "source:BH07058",
-          "why": "Join reflection on scripture with attention to bygone ages."
+          "why": "Join reflection on scripture with attention to bygone ages.",
+          "shortened": [
+            "Say: Ponder ye on that which He hath sent down unto you, then observe and reflect upon the bygone ages and what God hath decreed therein."
+          ]
         },
         {
           "key": "source:BH03759",
@@ -862,19 +1226,31 @@
         },
         {
           "key": "source:BH05709",
-          "why": "Ask what fruit past deeds actually produced."
+          "why": "Ask what fruit past deeds actually produced.",
+          "shortened": [
+            "Say: O ye who have gone astray! What was the outcome of all that the former people said and did, and what fruit did they reap?"
+          ]
         },
         {
           "key": "source:AB03481",
-          "why": "Consider the relation of recurring patterns to hope for better times."
+          "why": "Consider the relation of recurring patterns to hope for better times.",
+          "shortened": [
+            "Consider the past and the events that transpired therein. Is not the future like unto the past? Is not the past the very mirror of the future? Truly, that which thou findest in the past thou wilt see in the future, for both are subject to the same order. But each and all complain of the past and look expectantly toward the future, hopeful that their times of toil and weariness might pass, and that days of joy and peace may soon arrive."
+          ]
         },
         {
           "key": "source:AB00263",
-          "why": "Keep the claims about early historiography and scripture in their source setting."
+          "why": "Keep the claims about early historiography and scripture in their source setting.",
+          "shortened": [
+            "The histories prior to Alexander, which were based on oral accounts current among the people, were put together later on. There are great discrepancies among them, and certainly they can never hold their own against Holy Writ. It is an accepted fact among historians themselves that these histories were compiled after Alexander, and that prior to his time history was transmitted by word of mouth."
+          ]
         },
         {
           "key": "source:ABU2369",
-          "why": "Read the reported distinction between oral transmission and witnessed events."
+          "why": "Read the reported distinction between oral transmission and witnessed events.",
+          "shortened": [
+            "In former cycles people used to relate by tradition the things which happened during the time of the Prophets; for instance, the disciples explained the miracles during the time of Christ; these statements were oral. But in this great day facts are established; what Baha'u'llah has performed was seen by the eyes."
+          ]
         },
         {
           "key": "source:ABU0806",
@@ -882,7 +1258,10 @@
         },
         {
           "key": "source:ABU0810",
-          "why": "Consider how new events can displace collective memory."
+          "why": "Consider how new events can displace collective memory.",
+          "shortened": [
+            "One that occurred a thousand years ago is forgotten in one that is taking place today. Some events occur which take away the memory of all past incidents. The incidents which occurred previous to the coming of Adam have vanished, because those which have occurred since have entirely erased them from the mind of man."
+          ]
         },
         {
           "key": "source:ABU3711",
@@ -898,11 +1277,18 @@
         },
         {
           "key": "source:AB03352",
-          "why": "Retain the proposed interpretation of ancient lifespans and calendars."
+          "why": "Retain the proposed interpretation of ancient lifespans and calendars.",
+          "shortened": [
+            "O servant of the Abha Beauty! Regarding the mention of the length of life of the ancients, this is a relative matter, not according to current convention in these days. For in ancient times there were different kinds of years - some would count one lunar cycle as a year, some would count the solar cycle, and likewise they would name the cycle of each planet as a year, such as the lunar year, solar year, Venus year, Mercury year, Mars year, Jupiter year, and Saturn year, which refers to the orbital period of these planets."
+          ]
         },
         {
           "key": "source:BH00017",
-          "why": "Enter the extended interrogation of vanished sovereign power."
+          "why": "Enter the extended interrogation of vanished sovereign power.",
+          "shortened": [
+            "Reflect upon the generations of old. Where is Alexander and his like? Where are their victorious standards and their upraised banners? Where are their brandished spears and their flying arrows? Where are their outstretched necks and their lofty palaces?",
+            "God hath brought them down from the highest chambers of their palaces to the lowest depths of their graves. Were anyone to search therein, could he distinguish the skulls of kings from subjects, or the fingers of the wealthy from the destitute?"
+          ]
         },
         {
           "key": "source:ABU1844",
@@ -910,11 +1296,19 @@
         },
         {
           "key": "source:AB00002",
-          "why": "Read vanished waves and the ruined royal dwelling together."
+          "why": "Read vanished waves and the ruined royal dwelling together.",
+          "shortened": [
+            "Whoso ponders the lessons of history will learn that this sea has lifted up innumerable waves, yet in the end each has dissolved and vanished, like a shadow drifting by. The waves have perished, but the sea lives on.",
+            "Gracious God! That royal edifice was once splendidly decked forth and fair. But there are spiders' webs today, where hung the curtains of gold brocade, and where the king's drums beat and his musicians played, the only sound is the harsh cries of kites and crows. \"This is verily the capital of the owl's realm, where thou wilt hear no sound, save only the echo of his repeated calls.\""
+          ]
         },
         {
           "key": "source:ABU0301",
-          "why": "Extend the wave image through a sequence of conquests."
+          "why": "Extend the wave image through a sequence of conquests.",
+          "shortened": [
+            "Where is that Persian wave, where is that Alexandrian wave, where is that wave of Roman Augustus, where is that Arab wave, where is that wave of Bonaparte, where is that wave of Charlemagne, where is that wave of Hannibal - all vanished, dominion does not endure.",
+            "Physical conquests have no permanence; it is divine conquests that endure."
+          ]
         },
         {
           "key": "source:ABU2675",
@@ -922,7 +1316,11 @@
         },
         {
           "key": "source:BH03582",
-          "why": "Let the ruined palace become both warning and consolation."
+          "why": "Let the ruined palace become both warning and consolation.",
+          "shortened": [
+            "Where is the splendor of Parviz and his golden hoard, where is the leisure of the powerful and their tall mansions, where is the wealth of the tyrants and their serried hosts? Wert thou to see the palace of Khosrow today, thou wouldst find it barren save for the reverberations of the echo and the spider's web.",
+            "Profit by their example, O thou endued with understanding, and grieve not over that which hath befallen thee."
+          ]
         },
         {
           "key": "source:ABU0131",
@@ -934,7 +1332,10 @@
         },
         {
           "key": "source:BH02293",
-          "why": "Remember that greater power did not confer permanence."
+          "why": "Remember that greater power did not confer permanence.",
+          "shortened": [
+            "Say: O people! Consider the generations of the past and what befell them, though they were mightier than you in strength, greater than you in glory, and more exalted than you in station. All of them went to their places and were buried with their deeds and returned to dust as they began the first time - and this is the evident truth."
+          ]
         },
         {
           "key": "source:BH02925",
@@ -942,23 +1343,39 @@
         },
         {
           "key": "source:AB00265",
-          "why": "Retain the scriptural and historical catalogue of fallen peoples."
+          "why": "Retain the scriptural and historical catalogue of fallen peoples.",
+          "shortened": [
+            "By God! Verily in the peoples of Noah, Hud, Lot, and Thamud, and the dwellers of Al-Hijr, and the Jews, and the kings of Saba, and the tyrants of Mecca, and the Caesars of the spacious lands, and the Chosroes of the crooked city, and the overthrown cities of ancient times, there is indeed a lesson for those possessed of understanding and insight who can discern the ends of things from their beginnings."
+          ]
         },
         {
           "key": "source:AB12148",
-          "why": "Consider the contrast between earthly life and enduring fruit."
+          "why": "Consider the contrast between earthly life and enduring fruit.",
+          "shortened": [
+            "Look at the kings and queens who have passed! They all lie under the earth. No name and no trace, nor any monument or surviving fruit remained of them. Their life belonged to the world of dust and consequently it passed away and was extinguished."
+          ]
         },
         {
           "key": "source:AB04549",
-          "why": "Read the loss of royal families beside the promised endurance of faithful service."
+          "why": "Read the loss of royal families beside the promised endurance of faithful service.",
+          "shortened": [
+            "In this century, how many families of kings and princes who were at the height of glory and wealth were scattered, left destitute and perished. But praise be to God that the loved ones of God day by day had their foundation made lofty and their structure made firm. They are successful in both worlds and eternal glory is specially theirs, even in the center of this dust-heap."
+          ]
         },
         {
           "key": "source:ABU0868",
-          "why": "Walk through the reported landscape of scattered monuments."
+          "why": "Walk through the reported landscape of scattered monuments.",
+          "shortened": [
+            "When a traveler passes through one of those old Saharas he sees here a monolith. \"What is this?\" he inquires \"This is the last remain of the once flourishing Greek culture.\" the guide answers him. Then he observes dilapidated temples, tall granite pillars, miles of aqueducts, half-buried palaces, ivy-covered amphitheatres, excavated mausoleums. \"What are these?\" he asks with incredible amazement. \"Oh! these are the silent tales of mighty civilizations.\""
+          ]
         },
         {
           "key": "source:ABU2379",
-          "why": "Let travel broaden the perspective of the observer."
+          "why": "Let travel broaden the perspective of the observer.",
+          "shortened": [
+            "Travelling is a very good thing. It opens the eyes and broadens the horizon. In the East one may behold vast and desert places where one lay peopled towns; this shows the Hand of Almighty God.",
+            "When travelling one makes discoveries of strange things--i.e. The Emperors of Rome ruled over many thousands of people and were famous and powerful, but now the Emperors are dead and their power has vanished."
+          ]
         },
         {
           "key": "source:BHU0013",
@@ -966,27 +1383,47 @@
         },
         {
           "key": "source:AB02090",
-          "why": "Distinguish transient achievement from the enduring Cause of the Kingdom."
+          "why": "Distinguish transient achievement from the enduring Cause of the Kingdom.",
+          "shortened": [
+            "In this mortal world every important matter hath an end; and every remarkable achievement a termination; none having permanent existence. For instance, consider how the important achievements of the ancient world have been totally exterminated and not a trace remaineth therefrom save the great Cause of the Kingdom of God, which hath no beginning and will have no end."
+          ]
         },
         {
           "key": "source:AB00303",
-          "why": "Read national pride in celebrated rulers through the image of setting stars."
+          "why": "Read national pride in celebrated rulers through the image of setting stars.",
+          "shortened": [
+            "Today the people of the West take the utmost pride in Napoleon I, that such a great personage appeared in France. Germany glories in Frederick the Great, that such a renowned figure arose in Germany. Russia takes pride in Peter the Great, that such a dragon became a champion in the realm of Russia. England in Henry, America in Washington, and Italy in Garibaldi--in brief, every nation takes pride and glory in some renowned figure. However, all these great souls were setting stars, and \"soon no trace of them, not even a whisper, will remain.\""
+          ]
         },
         {
           "key": "source:AB01945",
-          "why": "Compare the remembered lives of believers and dynasties."
+          "why": "Compare the remembered lives of believers and dynasties.",
+          "shortened": [
+            "Consider those souls who lived in the days of the Manifestations of God - because they believed in those holy Manifestations, their descendants take pride in them to this day.",
+            "This became a lesson - that the kings of the world who were conquerors of countries and wore crowns of emperors, like the Kayanids, Pishdadids, Sassanids, Abbasids, Umayyads and even Safavids, their lineage ended in utter abasement and lowliness."
+          ]
         },
         {
           "key": "source:ABU0797",
-          "why": "Keep the reported contrast between Pharaoh and Moses."
+          "why": "Keep the reported contrast between Pharaoh and Moses.",
+          "shortened": [
+            "Consider how lofty is His sovereignty!",
+            "Conversely, consider the case of Pharaoh. There is no sign of him, no name of him, no trace of him. The little name that remains of him is because he was a contemporary of His Holiness Moses. Otherwise, pharaohs were many."
+          ]
         },
         {
           "key": "source:ABU0911",
-          "why": "Set forgotten rulers beside remembered service."
+          "why": "Set forgotten rulers beside remembered service.",
+          "shortened": [
+            "The traces of Kings and queens have passed away but the services of the servants of God have been handled down from century to century. The descendents of Abbas established their seat of government in Bagdad and they ruled the Islamic world for 500 yrs. Persia and Turkestan, Egypte and Arabia and as far as the confines of Indus bowed to their authority. Thirty six Khalifs appeared one after another but today their memory is forgotten."
+          ]
         },
         {
           "key": "source:AB05118",
-          "why": "Read Rustam’s story as a reflection on bodily prowess."
+          "why": "Read Rustam’s story as a reflection on bodily prowess.",
+          "shortened": [
+            "O thou Tahamtan! The legendary Rustam of Zabul, though he was a most mighty hero in the arena of bravery and courage and though in physical prowess was superior to every champion and in this wise his name was renowned in all the world, yet at the end through a ruse carried out by his brother, became entrapped in a deep pit and no trace of him didst remain."
+          ]
         },
         {
           "key": "source:AB09441",
@@ -994,7 +1431,10 @@
         },
         {
           "key": "source:AB10942",
-          "why": "Place beside it a different Faridun address emphasizing justice and care."
+          "why": "Place beside it a different Faridun address emphasizing justice and care.",
+          "shortened": [
+            "O Feridun! Thy namesake did uproot the foundations of tyranny, and cleansed the realm of foes; he raised aloft the standard of Kavian, and laid the groundwork of justice. He nurtured the priests and exalted the peasants; he was a refuge to the helpless and a loving, compassionate friend to the distressed. Do thou likewise, according to thine own measure, follow the path of the righteous ones of old."
+          ]
         },
         {
           "key": "source:AB09848",
@@ -1002,15 +1442,25 @@
         },
         {
           "key": "source:AB09255",
-          "why": "Keep the interrupted account of Nadir and its poetic reflection intact."
+          "why": "Keep the interrupted account of Nadir and its poetic reflection intact.",
+          "shortened": [
+            "O servant of the Threshold of Baha! Your illustrious ancestor Nadir was unique in his time and a genius of that land and realm....",
+            "...that foundation ultimately collapsed and that victory became utter defeat. Palaces were transformed into tombs, and the royal diadem ended in a crypt full of fear and dread. How excellent are these words: \"It is as though no one had ever dwelt between Hajun and Safa, nor had any nightly conversation taken place in Mecca. Yes, those people were there, but they were destroyed by the vicissitudes of nights and ill-fated stars.\""
+          ]
         },
         {
           "key": "source:ABU0536",
-          "why": "Preserve the separately reported praise of Nadir’s capacities."
+          "why": "Preserve the separately reported praise of Nadir’s capacities.",
+          "shortened": [
+            "Nadir Shah was one of the great rulers of Persia and during his military career he conquered India and many other countries. He was a resourceful leader as well as a noble warrior."
+          ]
         },
         {
           "key": "source:AB03643",
-          "why": "Retain the cautiously attributed account of the first crowned king."
+          "why": "Retain the cautiously attributed account of the first crowned king.",
+          "shortened": [
+            "O servant at the threshold of the Lord God! According to the accounts in some ancient histories, it appears that the first king who placed a crown upon his head, sat upon the throne, and adorned the diadem of kingship was Kiyumarth."
+          ]
         },
         {
           "key": "source:ABU0443",
@@ -1022,47 +1472,86 @@
         },
         {
           "key": "source:AB00022",
-          "why": "Explore the contrast between flourishing Central Asian cities and later desolation."
+          "why": "Explore the contrast between flourishing Central Asian cities and later desolation.",
+          "shortened": [
+            "If one were to travel through the deserts of Central Asia he would observe how many cities, once great and prosperous like Paris and London, are now demolished and razed to the ground.",
+            "Formerly that plain bore the fruit of the finest civilizations of the past. Tokens of development and refinement were apparent all around, arts and sciences were well protected and promoted, professions and industries flourished, commerce and agriculture had reached a high stage of efficiency, and the foundations of government and statesmanship were laid on a strong and solid basis. Today that vast stretch of land hath become mostly the shelter and asylum of Turkoman tribes, and an arena for the ferocious display of wild beasts."
+          ]
         },
         {
           "key": "source:AB01867",
-          "why": "Read the rise of learning in Turkistan and its subsequent decline."
+          "why": "Read the rise of learning in Turkistan and its subsequent decline.",
+          "shortened": [
+            "Divine and material sciences and arts progressed to such a degree that from the school of Turkistan emerged the geniuses of the time and the learned ones of the horizons. Even in the Persian language they gained such proficiency that the poets of Turkistan became renowned in East and West.",
+            "Afterwards decline occurred and that progress was transformed into regression. Those brilliant traces were lost and that civilizational luminosity was transformed into a strange dimness."
+          ]
         },
         {
           "key": "source:AB04963",
-          "why": "Bring the pattern into a particular address to Hamadan."
+          "why": "Bring the pattern into a particular address to Hamadan.",
+          "shortened": [
+            "O loved ones of the Most Merciful in Hamadan! Verily this city of yours was once a mighty capital and the seat of supreme sovereignty in ancient times, and the fame of its people spread far and wide throughout all regions, such that past nations would follow their example in all matters pertaining to worldly prosperity. Then God stripped from them the garment of glory and wealth and clothed them in the cloak of poverty and extinction, due to how the hands of self and passion had played with their hearts."
+          ]
         },
         {
           "key": "source:AB01999",
-          "why": "Hear Persia’s lost prosperity within a prayer."
+          "why": "Hear Persia’s lost prosperity within a prayer.",
+          "shortened": [
+            "O Thou sanctified Lord! From its earliest days, Thou didst make the soil of Persia to be musk scented and soul stirring, gem laden and knowledge bearing.",
+            "For a time, the flame of its knowledge was extinguished and the star of its greatness hidden beneath a veil. Its vernal breezes gave way to autumnal blasts, and its delightsome rose-garden was filled with tares and thorns; its wellspring of limpid waters turned brackish and stale, and its greatest and most precious souls were made homeless wanderers in distant lands; its effulgent light was dimmed and its mighty river reduced to a narrow stream."
+          ]
         },
         {
           "key": "source:ABU1588",
-          "why": "Retain the reported contrast between former and present Persia."
+          "why": "Retain the reported contrast between former and present Persia.",
+          "shortened": [
+            "There was a time when Persia was like a fragrant Bouquet perfuming all the nostrils and she was the center of the glory and honor of the world of humanity. The inhabitants of Persia from a social, industrial, political and moral standpoint were superior to the rest of mankind.",
+            "Now the conditions are changed and the same lofty standard is not kept waving aloft. Like a great giant she is prostrated on the ground while groaning with a pitiful voice."
+          ]
         },
         {
           "key": "source:AB02897",
-          "why": "Read the address to Parsis through its imagery of a darkened garden."
+          "why": "Read the address to Parsis through its imagery of a darkened garden.",
+          "shortened": [
+            "For a time, there came a decline and negligence appeared. The moon of its glory's zenith set, and the star of its wisdom and knowledge descended. The wise became foolish and the learned became ignorant. A light shone forth from a foreign land and an army arrived from a neighboring realm. The carpet of the Persians was rolled up and the joy of the Iranians came to an end. The bright day became dark in their sight and the rose garden became a thorny wilderness."
+          ]
         },
         {
           "key": "source:AB03247",
-          "why": "Keep the account of Zoroastrian dispersal and renewal in its setting."
+          "why": "Keep the account of Zoroastrian dispersal and renewal in its setting.",
+          "shortened": [
+            "O beloved friends of 'Abdu'l-Baha! For one thousand three hundred years, the star of the Zoroastrians' existence had vanished in the west of non-existence. They had completely disappeared from sight, living scattered and disorganized, captive to the oppression of tyrants, until the world-illuminating Sun of Truth rose from the horizon of Iran."
+          ]
         },
         {
           "key": "source:ABU0515",
-          "why": "Hear Manukji’s reported account of persecution and abasement."
+          "why": "Hear Manukji’s reported account of persecution and abasement.",
+          "shortened": [
+            "When Manukji came to Bagdad and stood in His spiritual Presence he related many stories concerning the humiliation of the Parsees and how in his travels from India throughout Persia he found them in the lowest degree of dispersion and abasement; how the Persian authorities persecuted and drove them from pillar to post and how these creatures like sparrows were made captives in the cruel claws of the falcon and how they were maltreated in the cities of Yazd and Kerman."
+          ]
         },
         {
           "key": "source:ABU0117",
-          "why": "Read the description of Persepolis and hope for renewed building as reported."
+          "why": "Read the description of Persepolis and hope for renewed building as reported.",
+          "shortened": [
+            "If one goes to Persepolis, one can see how buildings are constructed. Yet there is no edifice that does not fall into ruin. Persepolis, with all its grandeur, was destroyed and demolished - what then of these lesser buildings?",
+            "Now the Iranians of this time have reduced their country from that glory to this poverty and abasement, and still they strive in the ruination of their land. Indeed what ignorance does! We hope that it will again become better than before. That they will build a magnificent Mashriqu'l-Adhkar in Persepolis. That Persepolis will become more prosperous than before."
+          ]
         },
         {
           "key": "source:ABU0912",
-          "why": "Connect changing fortunes with mindfulness and wisdom."
+          "why": "Connect changing fortunes with mindfulness and wisdom.",
+          "shortened": [
+            "All things are subject to change and transformation, to ascent and decline, like the human body.",
+            "What is needed is effort and striving and hope in divine confirmation, not heedlessness, pride, vanity and laxity. Since one has no encompassing knowledge of the consequences of affairs, therefore one must always take the path of mindfulness and wisdom, and learn lessons from the past for the future."
+          ]
         },
         {
           "key": "source:ABU2154",
-          "why": "Consider the reported Naw-Ruz gatherings as occasions of beneficent reform."
+          "why": "Consider the reported Naw-Ruz gatherings as occasions of beneficent reform.",
+          "shortened": [
+            "In such a day in former times, Iranians held a great festival, but in this time they are distressed. In truth, some ancient kings of Iran had a paternal relationship with their subjects and were caring. Although their sovereignty was absolute, most worked in consultation with ministers. How much the Nauruz gatherings were the cause of harmony and agreement! Every gathering in this festival became the cause of some beneficent decree. Great reforms would come about."
+          ]
         },
         {
           "key": "source:ABU0881",
@@ -1122,15 +1611,24 @@
         },
         {
           "key": "source:AB00676",
-          "why": "Follow the account from Abraham through Moses and nation-building."
+          "why": "Follow the account from Abraham through Moses and nation-building.",
+          "shortened": [
+            "For after a short time the teachings of Abraham were realized in the world: The Holy Land was given to His descendants; the foundations of the religion of God were established; Isaac and Jacob came into the world; Joseph became ruler in Egypt; Ishmael was blessed and illumined Mount Paran; Moses the Interlocutor appeared, beheld in the desert of Sinai the blazing fire of God in the Burning Bush, rescued the Israelites from their oppression and captivity at the hands of the Egyptians, led them to the Holy Land, and, through His teachings and His religion, which were consonant with the needs of the age, founded a mighty nation."
+          ]
         },
         {
           "key": "source:ABU0983",
-          "why": "Keep the reported promise to Abraham in its setting."
+          "why": "Keep the reported promise to Abraham in its setting.",
+          "shortened": [
+            "When Abraham was exiled from His home, God spoke to Him, \"Do not be sad. I will give You the choicest land in the entire world.\" And if there were a land better than here, God would have given it to Abraham."
+          ]
         },
         {
           "key": "source:AB01297",
-          "why": "Retain the questions about fulfillment and the Holy Land."
+          "why": "Retain the questions about fulfillment and the Holy Land.",
+          "shortened": [
+            "How would the lights of the Luminary of the horizons and Sun of Truth of the world of effulgence have shone upon the regions of the world, circled the dawning-places of existence, become established in the Holy Land, and how would all the future promises to Israel have been fulfilled? And how would the gathering of Abraham's children in the Promised Land according to God's promise have been made possible?"
+          ]
         },
         {
           "key": "source:AB12113",
@@ -1146,7 +1644,10 @@
         },
         {
           "key": "source:ABU2922",
-          "why": "Keep the reported contrast of turning toward the Kingdom and toward mortal things."
+          "why": "Keep the reported contrast of turning toward the Kingdom and toward mortal things.",
+          "shortened": [
+            "The Jews once turned to the Kingdom, but when they looked backward to mortal things, they became dispersed. Then Christ led men to the Kingdom; their signs have remained."
+          ]
         },
         {
           "key": "source:ABU0525",
@@ -1166,7 +1667,10 @@
         },
         {
           "key": "source:ABU1172",
-          "why": "Retain the reported critique of inherited customs."
+          "why": "Retain the reported critique of inherited customs.",
+          "shortened": [
+            "Indeed, if we were to closely consider this, we would see that the older societies are completely unaware of religion and are captives of nature. No sign of divine bounties is discerned among them, nor is any heavenly fragrance inhaled from them. They are governed by certain traditions and customs and follow the ways of their forefathers."
+          ]
         },
         {
           "key": "source:ABU1522",
@@ -1178,7 +1682,10 @@
         },
         {
           "key": "source:ABU0722",
-          "why": "Consider the role assigned to self-seeking leaders."
+          "why": "Consider the role assigned to self-seeking leaders.",
+          "shortened": [
+            "The religions of the past have fallen into decay on account of self-seeking leaders who in the course of time appropriated all the rights and powers unto themselves and looked down contemptuously upon the rest of their co-religionists as ignorant and deprived of the knowledge of God."
+          ]
         },
         {
           "key": "source:ABU2588",
@@ -1210,11 +1717,18 @@
         },
         {
           "key": "source:BH05695",
-          "why": "Place contemporary irreligion beside a promise of renewed gathering."
+          "why": "Place contemporary irreligion beside a promise of renewed gathering.",
+          "shortened": [
+            "Indeed, the face of the world hath been turned toward irreligion. In all years, nay in all months, nay in all days, it hath been far from faith, certitude and knowledge, and close to conjecture and vain imaginings. For a time it shall continue thus, even as the duration thereof hath been revealed and recorded in the Book of God. But be not thou sorrowful, for the effulgences of the Sun of Truth shall assuredly absorb the superfluous moistures of nature and shall gather together the scattered letters."
+          ]
         },
         {
           "key": "source:BH00002",
-          "why": "Ask why earlier people denied what they were awaiting."
+          "why": "Ask why earlier people denied what they were awaiting.",
+          "shortened": [
+            "And now, consider and reflect a moment upon the waywardness of this people. What could have been the reason for such denial and avoidance on their part?",
+            "Meditate profoundly, that the secret of things unseen may be revealed unto you, that you may inhale the sweetness of a spiritual and imperishable fragrance, and that you may acknowledge the truth that from time immemorial even unto eternity the Almighty hath tried, and will continue to try, His servants, so that light may be distinguished from darkness, truth from falsehood, right from wrong, guidance from error, happiness from misery, and roses from thorns."
+          ]
         },
         {
           "key": "source:AB00226",
@@ -1222,27 +1736,45 @@
         },
         {
           "key": "source:AB02475",
-          "why": "Attend to calumny and heedlessness in accounts of earlier messengers."
+          "why": "Attend to calumny and heedlessness in accounts of earlier messengers.",
+          "shortened": [
+            "Ponder attentively the accounts of the prophets and the Messengers of the past: how it was that they were calumniated against; in what manner they were treated; how it was that individuals became veiled from the Truth and were heedless of the Remembrance of their Lord."
+          ]
         },
         {
           "key": "source:AB00542",
-          "why": "Keep the named opponents within the source’s religious argument."
+          "why": "Keep the named opponents within the source’s religious argument.",
+          "shortened": [
+            "In ancient times, the manifestations of falsehood who stood against the Dawning Places of the All-Merciful had, outwardly, some existence and appearance. Once there was the stubborn Nimrod who was lord of the world. At one time there was the great Pharaoh who was outwardly the philosopher of the Egyptians and renowned among all peoples, ruler of the realm of Egypt and unique among his contemporaries. Once there was the shameless Caiaphas who was chief of the learned ones and the greatest rabbi of the Israelites."
+          ]
         },
         {
           "key": "source:BH02010",
-          "why": "Read the warning against repeating rejection and mockery."
+          "why": "Read the warning against repeating rejection and mockery.",
+          "shortened": [
+            "Have the tidings not reached you of those who lived before, who denied God's signs and mocked His Messengers, whereupon He seized them with manifest wrath? Fear ye God and reflect upon what hath passed, that ye may be guided in these days when signs descend from every direction."
+          ]
         },
         {
           "key": "source:BH06596",
-          "why": "Ask what became of those who judged messengers without proof."
+          "why": "Ask what became of those who judged messengers without proof.",
+          "shortened": [
+            "Consider ye and call to mind the generations of old. Where are they who pronounced judgment against Muhammad, the Apostle of God? Where are they who clung to idols, turning away from God, the Lord of all men? Where are they who opposed the Spirit? Where are they who pronounced judgment against God's chosen ones and His messengers without clear proof or explicit Book?"
+          ]
         },
         {
           "key": "source:BH08385",
-          "why": "Retain the concise warning about past conduct and consequence."
+          "why": "Retain the concise warning about past conduct and consequence.",
+          "shortened": [
+            "Reflect, then consider the generations of old and what they wrought in their vain life. God seized them for their sins."
+          ]
         },
         {
           "key": "source:BH11786",
-          "why": "Connect remembered outcomes with deeds."
+          "why": "Connect remembered outcomes with deeds.",
+          "shortened": [
+            "Turn not unto the world, but behold the generations of old, for therein lieth a lesson for men of understanding. Each hath attained according to his deeds - among them were those who found a goodly end, and among them were those who found an evil abode."
+          ]
         },
         {
           "key": "source:AB01661",
@@ -1250,11 +1782,17 @@
         },
         {
           "key": "source:AB00369",
-          "why": "Apply reflection on Christ’s time to present questions."
+          "why": "Apply reflection on Christ’s time to present questions.",
+          "shortened": [
+            "Convey my utmost respect to Reverend Mr. Van Kirk and tell him to reflect on past events in the time of Christ so present matters become clear and evident."
+          ]
         },
         {
           "key": "source:ABU0708",
-          "why": "Keep the reported explanation of doubts in former dispensations."
+          "why": "Keep the reported explanation of doubts in former dispensations.",
+          "shortened": [
+            "Verily, if in former dispensations souls harbored doubts, uncertainties and misgivings, it was because they observed that all the divines of the earth would deny and condemn, and none from other nations and peoples would praise even to the extent of a hair's breadth."
+          ]
         },
         {
           "key": "source:BH02997",
@@ -1266,15 +1804,24 @@
         },
         {
           "key": "source:BH04184",
-          "why": "Retain the separate contrast of learned exclusion and receptive hearing."
+          "why": "Retain the separate contrast of learned exclusion and receptive hearing.",
+          "shortened": [
+            "How many a learned one hath been barred from the Most Great Ocean, and how many an ignorant one hath heard and hastened and partook and drank and said: \"Praise be unto Thee, O Thou Who art the Goal of all in the heavens and earth!\""
+          ]
         },
         {
           "key": "source:AB05666",
-          "why": "Consider the image of open doors and sleeping people."
+          "why": "Consider the image of open doors and sleeping people.",
+          "shortened": [
+            "In the time of Christ, the doors of the divine Kingdom were opened, but the people, being veiled, were negligent and in a deep sleep. Therefore, they were deprived of the spiritual glory."
+          ]
         },
         {
           "key": "source:AB09080",
-          "why": "Question reliance on ambiguous words without clear explanation."
+          "why": "Question reliance on ambiguous words without clear explanation.",
+          "shortened": [
+            "Glorified be my Lord, the Most High! Look at the generations of old - did the ambiguous matters, the allegorical verses, and the words they clung to without clear explanation benefit them?"
+          ]
         },
         {
           "key": "source:BH02425",
@@ -1294,11 +1841,17 @@
         },
         {
           "key": "source:ABU0753",
-          "why": "Keep the reported Jeroboam example and its claimed outcome."
+          "why": "Keep the reported Jeroboam example and its claimed outcome.",
+          "shortened": [
+            "Now these souls who create discord do so in the name of truth - later the result becomes clear. Jeroboam acted in the name of justice and equity, but afterwards the Children of Israel became idol worshippers."
+          ]
         },
         {
           "key": "source:ABU2509",
-          "why": "Retain the reported Arius account and its ocean metaphor."
+          "why": "Retain the reported Arius account and its ocean metaphor.",
+          "shortened": [
+            "Just the same as in the time of Christ. It has retarded the progress of His Cause, as Arius did. One million and a half souls were his followers even the Emperor at Constantinople. Arius was very eloquent. He proved the existence of something that did not exist. But the Ocean of Christ sent forth a wave and cast ashore Arius and all."
+          ]
         },
         {
           "key": "source:ABU2434",
@@ -1314,35 +1867,60 @@
         },
         {
           "key": "source:ABU1544",
-          "why": "Let the later significance of the disciples challenge judgments of worth."
+          "why": "Let the later significance of the disciples challenge judgments of worth.",
+          "shortened": [
+            "In the time of Christ, outwardly the acceptance of the disciples had no importance - people mocked them, saying \"What station or worth do fishermen have?\" They ridiculed and laughed at them. But later they understood what importance they had. Later it became clear and they regretted every moment of those times."
+          ]
         },
         {
           "key": "source:AB02528",
-          "why": "Observe the changing estimation of the Last Supper."
+          "why": "Observe the changing estimation of the Last Supper.",
+          "shortened": [
+            "Do ye not look upon the present, nay rather look ye in the future. The Lord's Supper of His Holiness Christ during the lifetime of that divine Light had no importance in the estimation of the public but consider how the rays of that Sun of Reality illumined that meeting afterward."
+          ]
         },
         {
           "key": "source:ABU0821",
-          "why": "Keep the reported comparison of assemblies with Pentecost."
+          "why": "Keep the reported comparison of assemblies with Pentecost.",
+          "shortened": [
+            "\"For instance, consider how many a thousand assemblages--religious, political and literary--have been organized in India, Persia, Turkestan, Chinese countries and, in a word, in every part of Asia. All these gave no result except that assemblage of the disciples of Christ on the mount fifty days after Christ's ascension."
+          ]
         },
         {
           "key": "source:ABU0492",
-          "why": "Read the delayed appearance of spiritual stations through stars and daylight."
+          "why": "Read the delayed appearance of spiritual stations through stars and daylight.",
+          "shortened": [
+            "During the first century of the holy Manifestations the beginning of the revelation is like the day, because the Sun of Reality is shining upon all the horizons, the stars are invisible. But in the second century, the station and the degree of the sincere ones will become evident. Their lights will become manifest and bright like unto the shining stars. The stations of the apostles of His Holiness Christ became known after three hundred years.",
+            "..."
+          ]
         },
         {
           "key": "source:AB01635",
-          "why": "Notice how remembrance and mourning change after a life has ended."
+          "why": "Notice how remembrance and mourning change after a life has ended.",
+          "shortened": [
+            "Consider in history those noble souls who passed before: after their passing, none mourned them or raised lamentations in their calamity. No eye wept and no heart burned. Yet afterward, behold what mourning occurred and how conditions changed."
+          ]
         },
         {
           "key": "source:AB02145",
-          "why": "Read the lamp and fire that persecution failed to extinguish."
+          "why": "Read the lamp and fire that persecution failed to extinguish.",
+          "shortened": [
+            "They thought that they had done well, that they had extinguished the Lamp, and that they had quenched the Fire which flamed in the tree of Christian certainty; nay, verily, that Lamp hath diffused its dazzling rays unto the Supreme Height and that Fire hath burned until it kindled the hearts of the righteous!\""
+          ]
         },
         {
           "key": "source:AB03767",
-          "why": "Consider the later significance of Mecca."
+          "why": "Consider the later significance of Mecca.",
+          "shortened": [
+            "You observe that the stony land, because it was the homeland of the Prophet, became the qiblih of the horizons - from all regions they turn toward the Mother of Cities, meaning Mecca, to pray. This was not known in the time of the Prophet, but became apparent afterwards."
+          ]
         },
         {
           "key": "source:ABU1227",
-          "why": "Keep the reported geographical description and pilgrimage comparison."
+          "why": "Keep the reported geographical description and pilgrimage comparison.",
+          "shortened": [
+            "In this world there is no soil as unproductive as the soil of Mecca. It is a desert of sand, black, bare mountains and barren sahara. There are no springs in Mecca. They bring in their drinking water from a very remote place. Now because this desert of shifting sand, these fearfully shaped dried mountains, this extremely hot climate became the birthplace of His Holiness Mohamad, the eyes of the Islamic world have turned toward it. Nearly three hundred thousands souls go yearly on a pilgrimage to Mecca to kiss the black sacred stone."
+          ]
         },
         {
           "key": "source:ABU2564",
@@ -1350,7 +1928,11 @@
         },
         {
           "key": "source:ABU3657",
-          "why": "Retain the reported account of changed policy and religious investigation."
+          "why": "Retain the reported account of changed policy and religious investigation.",
+          "shortened": [
+            "Christianity in France was emancipated in this manner. One of the monarchs in France realized that no matter how many Christians were slain, it bore no fruit. One day he summoned his ministers and consulted [with them]. Thereupon, he announced that he bore no opposition whatsoever to Christianity. This resulted in all the people being enticed to investigate, and gradually they became Christian.",
+            "In this Cause, it will also occur likewise."
+          ]
         },
         {
           "key": "source:AB00132",
@@ -1362,7 +1944,10 @@
         },
         {
           "key": "source:AB06371",
-          "why": "Ask what mutual violence ultimately achieved."
+          "why": "Ask what mutual violence ultimately achieved.",
+          "shortened": [
+            "Consider the earlier centuries how much the peoples of those times strove, struggled and showed great violence and ferocity, how much blood they shed but ultimately they only uprooted each other and entered the abyss of humiliation and remoteness."
+          ]
         },
         {
           "key": "source:ABU0125",
@@ -1378,11 +1963,18 @@
         },
         {
           "key": "source:ABU2134",
-          "why": "Consider the reported consequences of conflict between neighboring powers."
+          "why": "Consider the reported consequences of conflict between neighboring powers.",
+          "shortened": [
+            "If the Iranians and Turks had not opposed each other, all these kingdoms would still be under their power today. But they fell into such heedlessness that whenever the Turks were busy with conquests on the European frontiers, the Iranians, seeing them occupied, would attack them, and whenever the Iranians became thus engaged, the Turks would assault them. They gave each other no peace, and every day they pursued pleasure and personal gain and selfish aims until they squandered that glory and laid waste such prosperous realms."
+          ]
         },
         {
           "key": "source:ABU2586",
-          "why": "Keep the reported connection between neglect and defeat."
+          "why": "Keep the reported connection between neglect and defeat.",
+          "shortened": [
+            "The Beloved said:-",
+            "\"It is evident that negligence from God brings a nation to this path; lack of administration throws people into such defeats. If the Turks were watchful of their interests, a thousand years may have passed without losing any of their domains."
+          ]
         },
         {
           "key": "source:AB00734",
@@ -1390,15 +1982,24 @@
         },
         {
           "key": "source:ABU1211",
-          "why": "Preserve the reported incident following the Russian-Iranian war."
+          "why": "Preserve the reported incident following the Russian-Iranian war.",
+          "shortened": [
+            "In the Russian-Iranian War, Iran was defeated; and, afterwards, seventy-six of the victors were assigned to settle various affairs and to dispatch the [Iranian] captives to Russia. There was a woman who had two children, whose husband had resisted arrest and avoided being sent [to Russia]. As a result, the Russians kept the wife under surveillance, and, once having discovered her in the public bath, seized her as she emerged. A tremendous commotion broke out in which the entire group of Russians perished."
+          ]
         },
         {
           "key": "source:ABU1431",
-          "why": "Keep the brief report about volunteer military supplies."
+          "why": "Keep the brief report about volunteer military supplies.",
+          "shortened": [
+            "During the time of Abdul Hamid, when volunteer military forces signed up to fight against Russia, each soldier was given a rifle and 200 bullets."
+          ]
         },
         {
           "key": "source:ABU0509",
-          "why": "Examine contradictory wartime announcements in the remembered account."
+          "why": "Examine contradictory wartime announcements in the remembered account.",
+          "shortened": [
+            "During the Russo-Turkish war about 40 years ago, it was announced one day that Russia is defeated. This news created a furor amongst the inhabitants of Acca and on that very evening illuminated all the streets and Bazaars. Next morning it was gravely and greviously given out that the Turkish Commander has been made a prisoner by the Russian Army and they are on their march to Constantinople. The same thing happened three or four years ago during the Turkish-Italian war in Tripoli."
+          ]
         },
         {
           "key": "source:ABU1338",
@@ -1410,7 +2011,11 @@
         },
         {
           "key": "source:ABU0688",
-          "why": "Keep the supplied account of disputes over the Persian Gulf."
+          "why": "Keep the supplied account of disputes over the Persian Gulf.",
+          "shortened": [
+            "Before Shah Abbas, the Dutch seized the Persian Gulf with its seventeen islands belonging to Iran and developed them, taking them completely out of Iran's control.",
+            "After much dispute Shah Abbas returned the ships."
+          ]
         },
         {
           "key": "source:ABU0908",
@@ -1418,7 +2023,10 @@
         },
         {
           "key": "source:ABU1850",
-          "why": "Keep the short reported example of monarchs and Protestants."
+          "why": "Keep the short reported example of monarchs and Protestants.",
+          "shortened": [
+            "In the Middle Ages, when the kings of Germany and England were oppressed by the Pope, they would assist the Protestants."
+          ]
         },
         {
           "key": "source:ABU0283",
@@ -1442,7 +2050,10 @@
         },
         {
           "key": "source:ABU3653",
-          "why": "Keep the reported explanation of names and origins of Acre and Haifa."
+          "why": "Keep the reported explanation of names and origins of Acre and Haifa.",
+          "shortened": [
+            "Over the course of history, it has acquired many names. At first it was 'Auk, then became 'akur [Achor] and afterwards 'Akka. The Phoenicians raised this city and their custom was that when they built a town, whatever geometric figure it resembled, they would call it by that name. Since this city was triangular with curved sides, then they called it 'Auk, which had this meaning. Moreover, Haifa was known as Hayfu, meaning 'a town on the skirt of a mountain.'"
+          ]
         },
         {
           "key": "source:ABU0815",
@@ -1454,7 +2065,10 @@
         },
         {
           "key": "source:ABU1699",
-          "why": "Keep the reported account of the Holy Land’s religious associations."
+          "why": "Keep the reported account of the Holy Land’s religious associations.",
+          "shortened": [
+            "This is the Holy Land from whence all the Prophets and Holy Men came. No country in the world has such a bright light of Religion. The Light of God has always shone upon the world from this land, and the Religion of God has had its Source and Revelation here. It is wonderful even in its physical conformation. The Phoenicians came from here. Their great civilizations spread from Syria. Abraham came to this land. Here His Teaching became known. The King of Salem, Melchizedek, came from this land. All the Prophets had their missions here."
+          ]
         },
         {
           "key": "source:ABU2076",
@@ -1462,7 +2076,10 @@
         },
         {
           "key": "source:ABU3359",
-          "why": "Preserve the brief statement about the fragrance of a sacred place."
+          "why": "Preserve the brief statement about the fragrance of a sacred place.",
+          "shortened": [
+            "The Fragrances of the Holy-Spirit waft from this Sacred Spot. If the nostrils were open they could inhale these breaths. This Blessed Land is fragrant."
+          ]
         },
         {
           "key": "source:ABU3238",
@@ -1474,7 +2091,10 @@
         },
         {
           "key": "source:ABU1001",
-          "why": "Read the extended account of Gadara and vanished grandeur with its recorded chronology."
+          "why": "Read the extended account of Gadara and vanished grandeur with its recorded chronology.",
+          "shortened": [
+            "Where are now those Greek Kings and Roman Imperators and Queenly ladies who lived in their palaces, danced in the moonlight and bathed in the hot springs of this valley? They laid the foundations of these stately buildings so deep and they reared their walls so high that they vainly thought the hand of time will not touch them. How would they feel if their ghosts returned and looked upon this dismal picture of complete desolation! The wild, roving Arabs pitching their tents in the ruins of those gorgeous palaces, they have become the dung-heaps of animals and men, stables for their asses and horses! Such sights give one much thought for reflection and contemplation!"
+          ]
         },
         {
           "key": "source:ABU0505",
@@ -1518,11 +2138,17 @@
         },
         {
           "key": "source:AB03395",
-          "why": "Keep the original selection about immediate difficulties and unrest."
+          "why": "Keep the original selection about immediate difficulties and unrest.",
+          "shortened": [
+            "Abdul-Baha has utmost joy at your presence, however affairs in these parts have become very difficult and in Adasiyyih and other places grievous events are occurring one after another. Those who are present have absolutely no rest and are greatly troubled."
+          ]
         },
         {
           "key": "source:AB05352",
-          "why": "Consider how descendants may judge the conduct of ancestors."
+          "why": "Consider how descendants may judge the conduct of ancestors.",
+          "shortened": [
+            "Reflect upon the condition of those who came before - the truth will become evident and the end result will become clear. Children and descendants became disgusted with their sinful fathers and ancestors and were ashamed of their connection to them."
+          ]
         },
         {
           "key": "source:AB02110",
@@ -1530,11 +2156,17 @@
         },
         {
           "key": "source:AB02547",
-          "why": "Contrast comfort with the enduring light of faithfulness."
+          "why": "Contrast comfort with the enduring light of faithfulness.",
+          "shortened": [
+            "Consider the early centuries - some souls lived in the utmost comfort and prosperity, and finally left behind the troubles of the world, while other souls who experienced various forms of cruelty in the path of faithfulness - their lights still shine bright from the horizon of the Kingdom, and their radiance, like the rays of the morning star, remains manifest and evident from the divine dawning-place."
+          ]
         },
         {
           "key": "source:AB00843",
-          "why": "Let the quoted lesson of predecessors reopen the meaning of gain and loss."
+          "why": "Let the quoted lesson of predecessors reopen the meaning of gain and loss.",
+          "shortened": [
+            "Consider what the Arab poet has said: \"Our insights are given us by those who came before us.\" In other words the past offers us a lesson in this regard for consider what little benefit it was to souls who passed the days of their lives in the utmost comfort and joy and ask thyself what real loss was suffered by others who spent their time afflicted by hardship in the path of God, the Revealer of verses."
+          ]
         },
         {
           "key": "source:AB00752",
@@ -1542,11 +2174,17 @@
         },
         {
           "key": "source:AB00910",
-          "why": "Attend to the conduct through which earlier souls served."
+          "why": "Attend to the conduct through which earlier souls served.",
+          "shortened": [
+            "Look at the good, pure, and blessed souls in the early centuries - with what conduct and behavior, what detachment and extreme attraction they spread the divine fragrances and exalted the Word of God. \"In those who have gone before in former ages, there are examples for us.\""
+          ]
         },
         {
           "key": "source:AB04221",
-          "why": "Consider steadfastness through persecution and its later fruits."
+          "why": "Consider steadfastness through persecution and its later fruits.",
+          "shortened": [
+            "Look unto those who have been in the former ages--how they have resisted all nations and suffered all persecutions and afflictions, and how their stars shone, their attacks proved successful, their teachings established, their regions expanded, their hearts gladdened, their ideas cleared and their motives effective."
+          ]
         },
         {
           "key": "source:ABU2936",
@@ -1558,7 +2196,10 @@
         },
         {
           "key": "source:BH07273",
-          "why": "Emphasize the present opportunity that cannot simply be recovered later."
+          "why": "Emphasize the present opportunity that cannot simply be recovered later.",
+          "shortened": [
+            "Whatsoever hath occurred in the past, its remedy in this Day is easy and simple, but that which is missed by anyone today shall be impossible to remedy."
+          ]
         },
         {
           "key": "selection:e8db88f98fa8fc0e9bbad7a1",
@@ -1644,16 +2285,22 @@
       "id": "8B68A1DE8700E8697ABFF0E02CF7F845",
       "slug": "lightdarkness",
       "displayTitle": "Light and darkness: seeing, receiving, and illuminating a life",
-      "introduction": "Love is light wherever it dwells: this simple statement gives the compilation an ethical point of entry. Its lamps, windows, suns, and dawns then open questions about how we see, what we understand, and how a person becomes a source of guidance. Some passages distinguish physical illumination from intellect and spiritual knowledge; others describe darkness as an absence, or explore the veils of prejudice, selfishness, and oppression. The imagery is varied: the dark pupil gathers light, and the beloved’s dark hair conceals radiance. These uses invite careful reading of each setting rather than a fixed meaning for every color or image. Neighboring subjects lead toward joy, the nature of evil, perception, and symbolic language. The Qur’an’s parable of the lamp provides a direct comparative path. Across the readings, illumination becomes a responsibility expressed through understanding, reconciliation, justice, and the kindling of hope in other lives.",
+      "introduction": "Love is light wherever it dwells, and hatred is darkness wherever it nests: ‘Abdu’l-Bahá turns the oldest of images into a test that can be applied to any room, any friendship, any heart. From there the subject opens outward. Sunlight reveals the world yet cannot understand it; the light of the intellect sees and knows; the light of guidance is born of God Himself. The heart is a glass and the human reality a niche, so that receiving light and giving it become one movement, as the Qur’án’s parable of the lamp already suggests [1]. Darkness, in this teaching, is not a rival power but an absence, which is why prejudice, selfishness and oppression can be dispelled rather than fought on their own terms. The dark pupil gathers light, the beloved’s dark hair conceals radiance, and colour refuses to hold still as a symbol. To walk this way is to learn what it means to become a source of light for others, to ask what guidance really is, and to discover, in the question of whether evil exists at all, why the night must pass.",
       "arc": "Begin with love, perception and the heart’s capacity; explore the layered language of light and darkness, revelation and receptivity; move through obstacles and trials toward justice, unity, service and prayer.",
       "order": [
         {
           "key": "source:AB00104",
-          "why": "Open with the ethical test of love and hatred wherever they appear."
+          "why": "Open with the ethical test of love and hatred wherever they appear.",
+          "shortened": [
+            "In this way, the light of divine guidance will shine forth, and the blessings of God will cradle all mankind: for love is light, no matter in what abode it dwelleth; and hate is darkness, no matter where it may make its nest. O friends of God! That the hidden Mystery may stand revealed, and the secret essence of all things may be disclosed, strive ye to banish that darkness for ever and ever."
+          ]
         },
         {
           "key": "source:ABU1391",
-          "why": "Let a lit room make the revealing power of love tangible."
+          "why": "Let a lit room make the revealing power of love tangible.",
+          "shortened": [
+            "At night, when a lamp is brought into a room, all things at once become manifest, and such is the power of love."
+          ]
         },
         {
           "key": "source:ABU3487",
@@ -1661,15 +2308,27 @@
         },
         {
           "key": "source:ABU0755",
-          "why": "Distinguish visible light from the light of understanding."
+          "why": "Distinguish visible light from the light of understanding.",
+          "shortened": [
+            "There are two kinds of light. There is the visible light of the sun, by whose aid we can discern the beauties of the world around us -- without this we could see nothing.",
+            "It is the light of the intellect which gives us knowledge and understanding, and without this light the physical eyes would be useless.",
+            "This light of the intellect is the highest light that exists, for it is born of the Light Divine."
+          ]
         },
         {
           "key": "source:ABU3447",
-          "why": "Set beside it the reported fourfold account of light."
+          "why": "Set beside it the reported fourfold account of light.",
+          "shortened": [
+            "He said:",
+            "\"The light is of four kinds: first, the light of the sun. It reveals objects to our perception, but cannot itself realize them. Second, the light of the eye. It can realize objects, but cannot understand them. Third, the light of wisdom. This both realizes and understand objects. Fourth, the Light of Guidance. This is the Supreme Light, the conscious Reality which comprehends mysteries.\""
+          ]
         },
         {
           "key": "source:AB06669",
-          "why": "Join knowledge and love in the crystal heart."
+          "why": "Join knowledge and love in the crystal heart.",
+          "shortened": [
+            "O thou well-known and renowned Baha'i! That heart of crystal has, praise be to God, become a lamp of light. And since both knowledge and love have combined within it, light upon light has become manifest and apparent."
+          ]
         },
         {
           "key": "source:AB11194",
@@ -1677,11 +2336,17 @@
         },
         {
           "key": "source:AB04249",
-          "why": "Make conduct the means by which the world becomes luminous."
+          "why": "Make conduct the means by which the world becomes luminous.",
+          "shortened": [
+            "I swear by the Ancient Beauty and the Most Great Name that if we move and behave according to the divine counsels and admonitions, and our deeds and words conform to the commands of the Chosen Beauty, this dark world will become a luminous realm and this abode of nothingness will become a radiant world of existence and a place where divine signs are made manifest."
+          ]
         },
         {
           "key": "source:AB09104",
-          "why": "Name reconciliation and the removal of prejudice as concrete forms of illumination."
+          "why": "Name reconciliation and the removal of prejudice as concrete forms of illumination.",
+          "shortened": [
+            "Thou must instruct the people of the world in the Love of God, that they may eradicate the foundation of warfare and strife, be attracted by the Glad-tidings of the Kingdom of Abha, lay the basis of love and amity, raise the melody of amity, and the oneness of the Kingdom of humanity; transmute tyranny and persecution into love and faithfulness, efface the traces of bloodshed and carnage; construct the edifice of reconciliation, dispel the darkness of estrangement, diffuse the light of unity; change the poison of animosity into the honey of sympathetic affection; destroy the religious, national and social prejudices from the individuals of humanity; live and act, with and toward each other as though they were from one race, one country, one religion, and one kind."
+          ]
         },
         {
           "key": "source:ABU2691",
@@ -1701,7 +2366,10 @@
         },
         {
           "key": "source:ABU2521",
-          "why": "Preserve the paired examples of darkness and blindness."
+          "why": "Preserve the paired examples of darkness and blindness.",
+          "shortened": [
+            "The non-existence of light is darkness. The lack of sight is blindness."
+          ]
         },
         {
           "key": "source:ABU2849",
@@ -1717,7 +2385,10 @@
         },
         {
           "key": "source:ABU0069",
-          "why": "Allow the reported reflection to acknowledge the limits of understanding evil."
+          "why": "Allow the reported reflection to acknowledge the limits of understanding evil.",
+          "shortened": [
+            "O my sister, here we come up against the mystery of evil, the mystery of wickedness, which our limited understanding, our earth-bound senses, cannot solve in this earthly life. But if we gaze with burning eyes into the darkness of this abyss, it is given - at least to the sincere seeker after God - to receive an enlightening glimmer of understanding here and there in the darkness of evil."
+          ]
         },
         {
           "key": "source:AB04442",
@@ -1729,15 +2400,24 @@
         },
         {
           "key": "source:AB07435",
-          "why": "Keep the source’s physical vocabulary beside its spiritual comparison."
+          "why": "Keep the source’s physical vocabulary beside its spiritual comparison.",
+          "shortened": [
+            "O resplendent lamp! What light more luminous than that of the love of God? What ray more effulgent than that of the knowledge of God? The external light is created by waves in the ether It is an accident that emanates from light-giving bodies and it enables objects to become visible and apparent to the sight."
+          ]
         },
         {
           "key": "source:AB09007",
-          "why": "Contrast the limited reach of an electric lamp with the celestial image."
+          "why": "Contrast the limited reach of an electric lamp with the celestial image.",
+          "shortened": [
+            "O luminous lamp! The greatest of lamps, the electric light, nevertheless illumines only a limited distance nearby for several hours and miles. But the celestial lamp shines like the brilliant morning light unto the horizons, its light spreading from the earthly kingdom to the heavenly kingdom, and its radiance extending from the Supreme Concourse to the human realm."
+          ]
         },
         {
           "key": "source:AB07459",
-          "why": "Consider the transience of an ordinary torch."
+          "why": "Consider the transience of an ordinary torch.",
+          "shortened": [
+            "O ignited candle! Shouldst thou kindle a mortal torch, its light would, of necessity, be transient and the circle of thy union lit by a dreary lamp, a spluttering taper. Such material illumination may last until the break of day but by the following dusk it will have been extinguished."
+          ]
         },
         {
           "key": "source:ABU1200",
@@ -1745,7 +2425,10 @@
         },
         {
           "key": "source:ABU2179",
-          "why": "Ask what turns a furnished room or gathering into a luminous place."
+          "why": "Ask what turns a furnished room or gathering into a luminous place.",
+          "shortened": [
+            "No matter how small is a room and how simply it is furnished, yet when a candle is ignited therein we exclaim 'the room is lighted!' Therefore you must make an effort to enkindle the lamp of guidance in your hearts, otherwise a well furnished room without lamp, a heart without spirituality and a meeting without the power of the Love of God are anomalies."
+          ]
         },
         {
           "key": "source:ABU3563",
@@ -1753,15 +2436,24 @@
         },
         {
           "key": "source:BH00002",
-          "why": "Read earthly understanding beside the claimed brilliance of revelation."
+          "why": "Read earthly understanding beside the claimed brilliance of revelation.",
+          "shortened": [
+            "It is evident and manifest unto every discerning observer that even as the light of the star fadeth before the effulgent splendor of the sun, so doth the luminary of earthly knowledge, of wisdom, and understanding vanish into nothingness when brought face to face with the resplendent glories of the Sun of Truth, the Daystar of divine enlightenment."
+          ]
         },
         {
           "key": "source:BH00864",
-          "why": "Seek the day that is not followed by night."
+          "why": "Seek the day that is not followed by night.",
+          "shortened": [
+            "The worth of day appears through night, and its station shines through darkness. The lamp of night speaks of and indicates its station, while day itself reveals and manifests the station of day. Yet night stands opposite to day, and day opposite to night - both are limited. We seek a day that has no night following it, one illumined by the light of the Beloved's face, not by the light of sun or moon."
+          ]
         },
         {
           "key": "source:AB11719",
-          "why": "Contrast the alternating earth with the enduring light of heart and soul."
+          "why": "Contrast the alternating earth with the enduring light of heart and soul.",
+          "shortened": [
+            "This earthly realm is sometimes dark and sometimes light, but praise be to God, the world of heart and soul is ever shining and bright through heavenly grace. Glory be to God! The earthly globe is always half light and half dark, but the pure heart and soul are ever luminous."
+          ]
         },
         {
           "key": "source:AB08581",
@@ -1769,7 +2461,10 @@
         },
         {
           "key": "source:AB07468",
-          "why": "Notice the paradox of a dawn that makes a candle more visible."
+          "why": "Notice the paradox of a dawn that makes a candle more visible.",
+          "shortened": [
+            "O candle of the love of God! The luminous morn of guidance is rising and shining from the horizon of the Supreme Concourse. What is wonderful is that this bright morn causes the appearance of the lights of the luminous lamps, and from the spreading of the gleam of that dawn, the light of the candle becomes more manifest and evident."
+          ]
         },
         {
           "key": "source:BH11210",
@@ -1785,11 +2480,17 @@
         },
         {
           "key": "source:BB00004",
-          "why": "Place light within the extended praise of divine creative sovereignty."
+          "why": "Place light within the extended praise of divine creative sovereignty.",
+          "shortened": [
+            "Blessed be He in Whose grasp is the kingdom of the beauty of the heavens and of the earth and of whatsoever lieth between them, and He is the Creator, the All-Beautiful. Blessed be He in Whose grasp is the kingdom of the majesty of the heavens and of the earth and of whatsoever lieth between them, and He is the Creator, the All-Glorious. Glorified be He in Whose grasp is the kingdom of the light of the heavens and the earth and whatsoever is between them, and verily He is the Manifest Creator!"
+          ]
         },
         {
           "key": "source:BB00003",
-          "why": "Keep the Bab’s account of causes and the source’s visible omission."
+          "why": "Keep the Bab’s account of causes and the source’s visible omission.",
+          "shortened": [
+            "He createth whatsoever He willeth by His command. He is indeed the Powerful, the Mighty, the Sovereign. Say: Verily God causeth the causes to flow without a cause and createth them anew even as He created them the first time. All are subservient unto Him, all worship Him. Say: Verily everything within its bounds is a cause for the creation of the heavens and the earth and whatsoever lieth between them, but ye do not perceive. Were it not for the ink whose splendor...[nothing would exist. How then do ye acquire what is ordained in the heavens and earth and whatsoever lieth between them?"
+          ]
         },
         {
           "key": "source:AB08039",
@@ -1797,7 +2498,11 @@
         },
         {
           "key": "source:AB06300",
-          "why": "Read the niche and stars with the supplied footnote and its incomplete syntax."
+          "why": "Read the niche and stars with the supplied footnote and its incomplete syntax.",
+          "shortened": [
+            "At this time when the effulgence of that Self-Subsisting Sun [Baha'u'llah] hath from the unseen aspect of existence cast its rays across the earth and heaven and irradiated the farthest horizons with its dawning lights of primal unity, such souls as have sought shelter beneath His all embracing Word should themselves become as resplendent stars. They should become scintillating suns that all the lamps of existence may be illumined through these rays that emanate from the divine light \"Its similitude is that of a niche in which there is a lamp [footnote: Qur'anic verse of light]",
+            "The radiance streaming forth from this point of dawn is like a lamp in this material world."
+          ]
         },
         {
           "key": "source:AB03818",
@@ -1805,7 +2510,11 @@
         },
         {
           "key": "source:AB05296",
-          "why": "Move the candle of guidance into the glass of the heart."
+          "why": "Move the candle of guidance into the glass of the heart.",
+          "shortened": [
+            "O thou who art illumined by the light of divine guidance!",
+            "When the candle of guidance is kindled within the glass of the heart, it dispels the darkness of error that stems from worldly limitations."
+          ]
         },
         {
           "key": "source:AB07488",
@@ -1813,15 +2522,24 @@
         },
         {
           "key": "source:AB07552",
-          "why": "Let the window of the heart receive the rays."
+          "why": "Let the window of the heart receive the rays.",
+          "shortened": [
+            "From the Dawning-Place of Lights, such brilliant rays struck the window of your heart that the darkness of error was eclipsed and the great light of guidance became manifest."
+          ]
         },
         {
           "key": "source:AB06656",
-          "why": "Connect recognition with steadfastness to the Covenant."
+          "why": "Connect recognition with steadfastness to the Covenant.",
+          "shortened": [
+            "Light the lamp of recognition in the glass of heart and soul, and raise high the banner of the Covenant."
+          ]
         },
         {
           "key": "source:AB00620",
-          "why": "Consider the soul’s capacity to receive illumination."
+          "why": "Consider the soul’s capacity to receive illumination.",
+          "shortened": [
+            "But when light is poured upon this phase, and if this phase of the soul is capable of receiving it, then \"truth hath come and falsehood vanisheth, for falsehood is of short duration\" -otherwise, darkness will surround it from all directions and it will be deprived of association with the Supreme Concourse and will remain in the lowest depths."
+          ]
         },
         {
           "key": "source:AB04068",
@@ -1829,19 +2547,31 @@
         },
         {
           "key": "source:AB01521",
-          "why": "Distinguish failing to recognize a person from rejecting divine perfections."
+          "why": "Distinguish failing to recognize a person from rejecting divine perfections.",
+          "shortened": [
+            "If a soul distances himself from the Manifestation, he may yet be awakened, for he may have failed to know Him and to recognize Him as the Embodiment of the divine perfections. But if he loathes the divine perfections themselves, which are the Holy Spirit, this shows that, bat-like, he is a hater of the light."
+          ]
         },
         {
           "key": "source:BH00569",
-          "why": "Consider attachment to night when daylight arrives."
+          "why": "Consider attachment to night when daylight arrives.",
+          "shortened": [
+            "Be ye ashamed before God and war not against His Self, deny not His power, dispute not His verses, and take not your idle fancies as objects of worship besides Him. Among these are those who love not the Day because their souls have grown accustomed to the Night, and when the Day appeareth it obliterateth its traces and radiance until no vestige thereof remaineth visible."
+          ]
         },
         {
           "key": "source:BH07832",
-          "why": "Ask how desire may veil an apparent light."
+          "why": "Ask how desire may veil an apparent light.",
+          "shortened": [
+            "How many a darkness hath been illumined by the splendors of the Countenance, and how many a light hath been veiled through following its desires!"
+          ]
         },
         {
           "key": "source:ABU2407",
-          "why": "Keep the reported warning about self and ego as clouds."
+          "why": "Keep the reported warning about self and ego as clouds.",
+          "shortened": [
+            "I wish for them this illumination. I desire for them this luminosity; so that they may rejoice the hearts and spiritualize the souls - but alas! How often they let the cloud of self and ego becloud the horizon and thus prevent the stars of their divine verities from shinning!"
+          ]
         },
         {
           "key": "source:BH00673",
@@ -1853,11 +2583,17 @@
         },
         {
           "key": "source:AB01940",
-          "why": "Preserve the poetic image of feeling heat without seeing light."
+          "why": "Preserve the poetic image of feeling heat without seeing light.",
+          "shortened": [
+            "\"The blind eye finds naught from the shining sun's rays save heat.\" They have eyes but do not see with them, and ears but do not hear with them."
+          ]
         },
         {
           "key": "source:AB05301",
-          "why": "Keep the source’s bat imagery and its contrast of capacities."
+          "why": "Keep the source’s bat imagery and its contrast of capacities.",
+          "shortened": [
+            "The rays of divine manifestation have spread like the gleaming dawn and its effulgence has struck both sight and insight. Every eye and insight that possessed the power of vision was illumined, while those weak of sight and limited in insight, lacking the power of vision, shut their eyes and, like bats, crept into the cave of darkness."
+          ]
         },
         {
           "key": "source:AB05822",
@@ -1865,7 +2601,10 @@
         },
         {
           "key": "source:AB03438",
-          "why": "Read the warning about selfish desire alongside the warmth of love."
+          "why": "Read the warning about selfish desire alongside the warmth of love.",
+          "shortened": [
+            "O thou bird of knowledge, lift up voice and chant thy melodies in the garden of the divine Covenant and O thou phoenix of certitude, illumine thou thy eyes with rays from the luminary of divine bounties. They who follow their selfish desires are like bats which cover their faces and hide themselves from the light when it shine upon them. The fire of the love of God will melt away all coldness and frigidity."
+          ]
         },
         {
           "key": "source:AB03106",
@@ -1873,27 +2612,45 @@
         },
         {
           "key": "source:AB06646",
-          "why": "Preserve the sharp reproach concerning closed eyes."
+          "why": "Preserve the sharp reproach concerning closed eyes.",
+          "shortened": [
+            "Shame upon them and away with them, for they have closed their eyes to the lights and walked in the darkness of a pitch-black night in this age of illumination."
+          ]
         },
         {
           "key": "source:AB09017",
-          "why": "Read the repeated darkness within the image of a concealing veil."
+          "why": "Read the repeated darkness within the image of a concealing veil.",
+          "shortened": [
+            "By thy life! The Sun of Reality, from the Kingdom of its invisibility, bestoweth its lights and rays upon all horizons. Yet those who are veiled remain behind a dark, gloomy, and pitch-black veil - darkness upon darkness upon darkness - and they find no guidance."
+          ]
         },
         {
           "key": "source:AB03685",
-          "why": "Keep the Covenant-specific polemical application identifiable."
+          "why": "Keep the Covenant-specific polemical application identifiable.",
+          "shortened": [
+            "The dream you saw is a remedy for every ailing sufferer, but a thousand proofs cannot overcome the vain imaginings of any Covenant-breaker, for to those of bat-like nature, the brilliant rays of the Sun of Truth cause blindness of sight and provoke anger."
+          ]
         },
         {
           "key": "source:AB04791",
-          "why": "Retain the contrast of radiance and failed hearing or seeing."
+          "why": "Retain the contrast of radiance and failed hearing or seeing.",
+          "shortened": [
+            "The light of truth hath radiated from the Sun of Divinity to the horizons in such a manner that the East and the West are illumined. But, alas! the blind do not see and the deaf do not hear the divine proclamation."
+          ]
         },
         {
           "key": "source:AB08749",
-          "why": "Read encompassing bounty alongside the condition of being veiled."
+          "why": "Read encompassing bounty alongside the condition of being veiled.",
+          "shortened": [
+            "Praise be to God that the hidden outpourings have encompassed the realm of existence from all directions, and the effulgent lights from the Abha Kingdom have illumined the sanctified spiritual realities. Strange it is that the veiled ones are overcome by the darkness of blindness, and the concealed ones are hidden behind the veils of concealment."
+          ]
         },
         {
           "key": "source:AB09078",
-          "why": "Keep the image of a smiling dawn and unresponsive people."
+          "why": "Keep the image of a smiling dawn and unresponsive people.",
+          "shortened": [
+            "O thou who art attracted by the fragrances of God! The morn of the bounties of thy Lord, the All-Merciful, hath dawned, risen, shone forth and become manifest from the horizons of creation, and the daybreak hath smiled with the lights of certitude, while the people remain in layers of darkness one above another, their eyes blind and their ears deaf."
+          ]
         },
         {
           "key": "source:AB10866",
@@ -1901,7 +2658,10 @@
         },
         {
           "key": "source:ABU2891",
-          "why": "Read the reported preference for candlelit rooms over sunlight."
+          "why": "Read the reported preference for candlelit rooms over sunlight.",
+          "shortened": [
+            "The Sun of Reality is in the height of its power and majesty but they prefer dark rooms and the light of the candles."
+          ]
         },
         {
           "key": "source:ABU0286",
@@ -1909,7 +2669,10 @@
         },
         {
           "key": "source:BH09563",
-          "why": "Hear the lament of one whose attempt to illuminate meets hostility."
+          "why": "Hear the lament of one whose attempt to illuminate meets hostility.",
+          "shortened": [
+            "And whenever I seek to illuminate them with the lights of Thy countenance to deliver them from the darkness of their own selves, they flee and conspire to slay me."
+          ]
         },
         {
           "key": "source:BH01934",
@@ -1917,11 +2680,17 @@
         },
         {
           "key": "source:BH10923",
-          "why": "Read the paradox of imprisoned Light and a silenced Speaker."
+          "why": "Read the paradox of imprisoned Light and a silenced Speaker.",
+          "shortened": [
+            "O Hasan! The Light is imprisoned in darkness, and the Speaker of the Mount is forbidden to speak, for the ears of the world are occupied with listening to unworthy tales, while the Tongue of Truth uttereth Its own praise and pondereth upon Its manifestation and mysteries and signs."
+          ]
         },
         {
           "key": "source:BH10001",
-          "why": "Keep the hope of divine light amid oppression."
+          "why": "Keep the hope of divine light amid oppression.",
+          "shortened": [
+            "The darkness of oppression hath encompassed the world. God willing, ye shall not in this darkness be deprived of the lights of the divine Day."
+          ]
         },
         {
           "key": "source:BH01003",
@@ -1929,7 +2698,10 @@
         },
         {
           "key": "source:BH03389",
-          "why": "Preserve the prayer’s concise description of encompassing darkness."
+          "why": "Preserve the prayer’s concise description of encompassing darkness.",
+          "shortened": [
+            "How long shalt Thou behold these things and tarry, O my God? Darkness hath enveloped the whole earth, and Thy tokens are ready to be blotted out throughout Thy realm."
+          ]
         },
         {
           "key": "source:AB04351",
@@ -1941,7 +2713,10 @@
         },
         {
           "key": "source:AB04504",
-          "why": "Read the need for a dawn beyond that darkness."
+          "why": "Read the need for a dawn beyond that darkness.",
+          "shortened": [
+            "For the darkness of the world of nature is intense; until the light of the Most Glorious Kingdom encompasses all, the bright morn of reality will not shine forth from the darkness of the natural world."
+          ]
         },
         {
           "key": "source:AB05931",
@@ -1949,19 +2724,34 @@
         },
         {
           "key": "source:AB08850",
-          "why": "Ask what can dispel sorrow’s night."
+          "why": "Ask what can dispel sorrow’s night.",
+          "shortened": [
+            "For this pitch darkness a dispeller is needed, and for these devastating trials a remover is required. For darkness there can be no dispeller save light, and for the sorrowful darkness of night there can be no remover save the luminous lamp."
+          ]
         },
         {
           "key": "source:AB04216",
-          "why": "Read glad tidings as lamps amid ordeals."
+          "why": "Read glad tidings as lamps amid ordeals.",
+          "shortened": [
+            "The ordeals of this mortal world are like unto a dark night and the Glad-tidings like the brilliant lamps. If mankind live in this darkness without the light of these lamps, unquestionably they will perish through the intensity of grief and affliction."
+          ]
         },
         {
           "key": "source:AB03576",
-          "why": "Explore spiritual happiness through a sequence of contrasts."
+          "why": "Explore spiritual happiness through a sequence of contrasts.",
+          "shortened": [
+            "Spiritual happiness is light, while sorrow is darkness.",
+            "This happiness is glad-tidings, while sorrow is disappointment.",
+            "This happiness is the Kingdom while sorrow is the earthly world.",
+            "This happiness is life, while sorrow is non-existence."
+          ]
         },
         {
           "key": "source:AB08717",
-          "why": "Keep the contrast of gloom and faith within its devotional setting."
+          "why": "Keep the contrast of gloom and faith within its devotional setting.",
+          "shortened": [
+            "Man, in the darkness of error, finds naught but grief and gloom. He is ever despairing, sorrowful and heavy-hearted. But when the light of faith shines forth in the realm of the heart, eternal joy appears and the darkness of sorrow and gloom vanishes away."
+          ]
         },
         {
           "key": "source:ABU2621",
@@ -1977,7 +2767,10 @@
         },
         {
           "key": "source:AB06470",
-          "why": "Keep the particular prayer for release from gloom."
+          "why": "Keep the particular prayer for release from gloom.",
+          "shortened": [
+            "Grant peace to Isfandiyar-i-Bahram, make him of good name, bestow heavenly messages upon him, make him joyous, deliver him from the darkness of gloom, and make him like the bright morning light."
+          ]
         },
         {
           "key": "source:AB07429",
@@ -1985,7 +2778,10 @@
         },
         {
           "key": "source:AB03648",
-          "why": "See persons as candles within a cloudy, smoky city."
+          "why": "See persons as candles within a cloudy, smoky city.",
+          "shortened": [
+            "Thanks be to God! that in that city which is often dark because of cloud, mist and smoke, such bright candles (as you) are glowing, whose emanating light is God's guidance, and whose influencing warmth is as the burning Fire of the Love of God."
+          ]
         },
         {
           "key": "source:AB03210",
@@ -1997,11 +2793,17 @@
         },
         {
           "key": "source:AB06180",
-          "why": "Read the call to two people to become luminous."
+          "why": "Read the call to two people to become luminous.",
+          "shortened": [
+            "Now the intent is that you should become like two celestial figures, bright and luminous, and shine forth in the zenith of the All-Merciful."
+          ]
         },
         {
           "key": "source:AB07395",
-          "why": "Distinguish imagined celestial figures from the desired reality of steadfast persons."
+          "why": "Distinguish imagined celestial figures from the desired reality of steadfast persons.",
+          "shortened": [
+            "Those two figures are mere imagination, but you two figures shall, God willing, be two real figures in the heaven of steadfastness to the Covenant, so that from the brilliance of your stellar light the circle of the equator, nay rather the temperate zone, may be illumined."
+          ]
         },
         {
           "key": "source:AB01605",
@@ -2013,11 +2815,17 @@
         },
         {
           "key": "source:AB03561",
-          "why": "Widen the horizon to the awaited dawn across religious communities."
+          "why": "Widen the horizon to the awaited dawn across religious communities.",
+          "shortened": [
+            "Every people awaits the dawning of the Sun of Truth from the horizon of hope, every sect watches for the appearance of brilliant lights from a most luminous dayspring, and every people is promised the manifestation of the Lord of existence - the One promised to the Jews, the One awaited by the people of the Gospel through the grace of the Loving Lord, the One whose appearance in the visible realm was foretold in the tongue of the Praised One Muhammad - so that by His dawning from the horizon of the world, the intense darkness may be dispelled and the dense clouds over the horizons of the nations may be removed, and the forces of ignorance may be scattered while the angel of knowledge and virtue prevails, and those possessed of true understanding may be empowered while the helpers of failure are dispersed, and the morn of guidance may appear and the lamp of wisdom may shine forth, and every crookedness may be straightened and every deviation set right, and all doubts may vanish and the veils may be lifted from the face of reality."
+          ]
         },
         {
           "key": "source:BH03173",
-          "why": "Read the light of divine unity amid encompassing darkness."
+          "why": "Read the light of divine unity amid encompassing darkness.",
+          "shortened": [
+            "The light of divine unity hath shone forth when darkness had encompassed all creatures - this is a bounty whose mention all pens are powerless to make. The limbs of darkness have trembled at this light shining from the horizon of this station."
+          ]
         },
         {
           "key": "source:BH11475",
@@ -2029,15 +2837,24 @@
         },
         {
           "key": "source:BH06238",
-          "why": "Imagine knowledge illuminating the heaven of utterance."
+          "why": "Imagine knowledge illuminating the heaven of utterance.",
+          "shortened": [
+            "Thus have We illumined the heaven of utterance with the Sun of knowledge."
+          ]
         },
         {
           "key": "source:BH01735",
-          "why": "Read a revealed word as a measure of conduct."
+          "why": "Read a revealed word as a measure of conduct.",
+          "shortened": [
+            "Through one blessed word that shone forth from the Dayspring of the mouth of the All-Merciful, the measure of all people's deeds became clear and evident, and through that same word a distinction was drawn between the righteous and the wicked, and between the people of Paradise and of the Fire."
+          ]
         },
         {
           "key": "source:BH07222",
-          "why": "Preserve the account of differing responses to the Ancient Light."
+          "why": "Preserve the account of differing responses to the Ancient Light.",
+          "shortened": [
+            "The peoples shall differ regarding this Ancient Light, and hatred shall appear among them concerning this Mighty Pillar, that the good may be distinguished from the evil, and light from darkness."
+          ]
         },
         {
           "key": "source:BH08330",
@@ -2049,11 +2866,17 @@
         },
         {
           "key": "source:BH01535",
-          "why": "Keep the brief call to distinguish competing influences."
+          "why": "Keep the brief call to distinguish competing influences.",
+          "shortened": [
+            "Today the whispers of Satan are evident and the breezes of the All-Merciful are wafting. Cast off the former and take hold of the latter."
+          ]
         },
         {
           "key": "source:BH01905",
-          "why": "Seek unity beyond the limitations of transient dwellings."
+          "why": "Seek unity beyond the limitations of transient dwellings.",
+          "shortened": [
+            "From the ruined, transient, limited houses, seek refuge in the mighty pillar of unity, and shunning darknesses above darknesses, hold fast and cling to manifestation above manifestation, radiance above radiance, and light above light."
+          ]
         },
         {
           "key": "source:AB02853",
@@ -2065,11 +2888,17 @@
         },
         {
           "key": "source:AB01021",
-          "why": "Preserve the sweeping dawn image within its source."
+          "why": "Preserve the sweeping dawn image within its source.",
+          "shortened": [
+            "O luminous friends of Abdul-Baha! When the Sun of Truth shone forth from the horizon of oneness with an unprecedented luminosity, it illumined all regions. East and West became bright and radiant, and North and South were lit with a brilliant dawn. No darkness remained and no error truly persisted."
+          ]
         },
         {
           "key": "source:AB02007",
-          "why": "Read the ray that tears through veils."
+          "why": "Read the ray that tears through veils.",
+          "shortened": [
+            "The Sun of Truth with one ray rent asunder and destroyed all those veils and shrouds, and shone so brilliantly at the meridian of the heavens that the contingent world became illumined with the lights of the realm of the unconstrained, and the dark dwelling of the horizons became resplendent with the effulgence of the Supreme Horizon."
+          ]
         },
         {
           "key": "source:AB06063",
@@ -2081,11 +2910,17 @@
         },
         {
           "key": "source:AB11054",
-          "why": "Keep the image of light coming from the unseen Kingdom."
+          "why": "Keep the image of light coming from the unseen Kingdom.",
+          "shortened": [
+            "And the Holy Temple of the Most Glorious Beauty has been established upon the throne of grandeur and power, and the lights have shone forth from the Kingdom of the Unseen, and the rays of that effulgence have encompassed all regions."
+          ]
         },
         {
           "key": "source:ABU1925",
-          "why": "Read the reported sequence of sun, gates and encompassing bounty."
+          "why": "Read the reported sequence of sun, gates and encompassing bounty.",
+          "shortened": [
+            "The Sun of Reality has shone forth, the gates of the Kingdom have opened, divine bestowals have become manifest, heavenly outpourings have encompassed all."
+          ]
         },
         {
           "key": "source:AB07959",
@@ -2101,7 +2936,10 @@
         },
         {
           "key": "source:AB11983",
-          "why": "Keep thanksgiving for a particular village’s dawn."
+          "why": "Keep thanksgiving for a particular village’s dawn.",
+          "shortened": [
+            "I offer thanks to God for in that village the light of truth shone forth and the sun of guidance arose."
+          ]
         },
         {
           "key": "source:AB03580",
@@ -2125,7 +2963,10 @@
         },
         {
           "key": "source:AB04829",
-          "why": "Read the personal transition from darkness to light."
+          "why": "Read the personal transition from darkness to light.",
+          "shortened": [
+            "You were unaware of the Kingdom of Heaven and became aware. You were deprived of the breaths of the Holy Spirit and received an abundant share. You hastened from the world of darkness to the world of light."
+          ]
         },
         {
           "key": "source:AB06918",
@@ -2133,7 +2974,10 @@
         },
         {
           "key": "source:AB06008",
-          "why": "Hear that transition in the servant’s prayer."
+          "why": "Hear that transition in the servant’s prayer.",
+          "shortened": [
+            "This thy servant hath abandoned superstitions, emerged from darkness and hath entered into Thy Light which hath shone forth to the world!"
+          ]
         },
         {
           "key": "source:AB07715",
@@ -2141,7 +2985,10 @@
         },
         {
           "key": "source:AB07806",
-          "why": "Connect response to the Call with attention to the horizon."
+          "why": "Connect response to the Call with attention to the horizon.",
+          "shortened": [
+            "O thou who hast heard the Call and hast responded, \"Here am I, O my Lord, the Most Glorious!\" If thou wouldst direct thy gaze to the most exalted horizon, thou wouldst witness the lights of the Kingdom of Abha that have illumined the horizons of creation."
+          ]
         },
         {
           "key": "source:AB04580",
@@ -2149,11 +2996,17 @@
         },
         {
           "key": "source:AB05424",
-          "why": "Retain the promised radiance and lamp of acceptance."
+          "why": "Retain the promised radiance and lamp of acceptance.",
+          "shortened": [
+            "And thou shalt see beneath the shade of the Tree that which shall dispel the darkness of obscurity with brilliant rays and a lamp that was luminous with the light of acceptance."
+          ]
         },
         {
           "key": "source:AB04838",
-          "why": "Let the abundance of guidance lead to humility in thanksgiving."
+          "why": "Let the abundance of guidance lead to humility in thanksgiving.",
+          "shortened": [
+            "O manifestation of the greatest guidance! If you were to open a hundred thousand tongues in thanksgiving to God that the dawn of guidance has broken, the light of truth has shone forth, and soul and heart have attained their utmost desire, you would still fall short in offering thanks and find no recourse except to express helplessness and supplication."
+          ]
         },
         {
           "key": "source:AB06509",
@@ -2161,7 +3014,10 @@
         },
         {
           "key": "source:ABU1015",
-          "why": "Read the reported continuity of divine favor."
+          "why": "Read the reported continuity of divine favor.",
+          "shortened": [
+            "The light of divine favor is shining and will shine from century to century."
+          ]
         },
         {
           "key": "source:BH07088",
@@ -2169,7 +3025,11 @@
         },
         {
           "key": "source:AB06352",
-          "why": "Keep the image of radiance beyond concealment."
+          "why": "Keep the image of radiance beyond concealment.",
+          "shortened": [
+            "O thou who art guided by the Supreme Guidance!",
+            "The Sun of Truth hath not shone forth from the Horizon of Oneness with such radiance that Its rays could be concealed by the veils of the people of contingent being."
+          ]
         },
         {
           "key": "source:AB10569",
@@ -2177,15 +3037,24 @@
         },
         {
           "key": "source:AB05730",
-          "why": "Ask what contingent darkness can do against divine light."
+          "why": "Ask what contingent darkness can do against divine light.",
+          "shortened": [
+            "What can earthly power do against celestial might? And what can contingent darkness accomplish against divine light?"
+          ]
         },
         {
           "key": "source:AB09470",
-          "why": "Keep the emphatic rhetorical question concerning light’s power."
+          "why": "Keep the emphatic rhetorical question concerning light’s power.",
+          "shortened": [
+            "Can darkness ever obliterate the light or is it not light that overcomes the darkness? What vain imaginings are these! What foolish thoughts of ignorant minds!"
+          ]
         },
         {
           "key": "source:AB04264",
-          "why": "Read inspiration as overcoming delusion."
+          "why": "Read inspiration as overcoming delusion.",
+          "shortened": [
+            "But observe how the power of divine revelation has always overcome delusions and the lights of inspiration have dispelled darkness."
+          ]
         },
         {
           "key": "source:AB01961",
@@ -2193,11 +3062,19 @@
         },
         {
           "key": "source:AB01782",
-          "why": "Keep the strongly polemical contrasts attributed to their source."
+          "why": "Keep the strongly polemical contrasts attributed to their source.",
+          "shortened": [
+            "Darkness cannot face the light, and Satan the loser cannot resist the brilliant meteor, and the filthy dung beetle cannot prevent the sweet fragrance of the Most Glorious Paradise."
+          ]
         },
         {
           "key": "source:AB12086",
-          "why": "Read the Covenant imagery and textual uncertainty without alteration."
+          "why": "Read the Covenant imagery and textual uncertainty without alteration.",
+          "shortened": [
+            "O ye loved ones of God! When the Star of the Covenant and the radiant Morn shone forth from the Covenant of the worlds(?), the eyes of the lovers were illumined, their hearts gladdened and their breasts, even as the wilderness of Sinai, have found delight through the effulgent glory.",
+            "And when yet others began uttering idle words such as, \"The darkness prevaileth over the light,\" the Morn of Truth hath been shedding its radiance in the plenitude of its resplendency.",
+            "The sorry birds of darkness have become the bondslaves of ignominy and torment!"
+          ]
         },
         {
           "key": "source:AB11884",
@@ -2205,7 +3082,10 @@
         },
         {
           "key": "source:AB11879",
-          "why": "Keep the martial image of heavenly hosts within its devotional source."
+          "why": "Keep the martial image of heavenly hosts within its devotional source.",
+          "shortened": [
+            "Glad tidings follow one upon another from the Abha Kingdom, and a mighty host like a devastating flood surges forth from the Supreme Concourse, engaging fiercely in battle with the forces of darkness, plunging into the depths of struggle and combat."
+          ]
         },
         {
           "key": "source:AB01032",
@@ -2221,15 +3101,24 @@
         },
         {
           "key": "source:AB03192",
-          "why": "Explore the extended martial metaphor directed toward service and knowledge."
+          "why": "Explore the extended martial metaphor directed toward service and knowledge.",
+          "shortened": [
+            "However, martyrdom is to give up one's life once and race to the highest heaven, but it is even more pleasant on this plane to sacrifice a hundred thousand lives at every moment with utmost joy and delight, to arise to serve the Cause of the Lord of Oneness, to charge into the field of valor and guidance, to scatter the forces of error and darkness through the lights of the Dawning-Place of Oneness, to break apart the ranks of the army of heedlessness, to arrange the spiritual battle lines, to organize the army of inner meanings, to raise high the banner of knowledge, to launch a mighty attack upon the forces of ignorance and unawareness, and then, having returned victorious from this struggle, to set out for the feast of the Abha Kingdom, advancing with drums and retinue and parasol and standard, hastening to the Abha Kingdom with perfect gladness and bounties, with drums and verses of triumph and victory and banners of ascendancy and conquest - this is more pleasant and more attractive."
+          ]
         },
         {
           "key": "source:AB03023",
-          "why": "Read the scholar’s knowledge, arts and exposition as means of spiritual endeavor."
+          "why": "Read the scholar’s knowledge, arts and exposition as means of spiritual endeavor.",
+          "shortened": [
+            "O distinguished and eminent scholar, verily the Greatest Name and the Most Ancient Light has cast unto you the keys to the gates of the hearts of the world and the keys to unlock the hearts of all peoples, so that you might commence with divine victories and commentaries upon the texts of consciousness, and expand your breast with the light of knowledge, and illuminate your heart with the lamp of arts, and brighten your face with the radiance of the All-Merciful, and cause you to speak with the essence of utterance and the reality of exposition, and scatter from your mouth luminous and unique gems and brilliant pearls of praise, and cause to flow from the spring of your nature the pure water of Paradise, and cause to gush forth from the wellsprings of your being the fountains of wisdom and the heavenly stream, so that in this time you might stride forth in the arena and loose the reins and raise the spears and scatter the forces of darkness and disperse the gathering of the base, and charge through the ranks and attack the thousands, and light the lamp of guidance in the niche of that furthest shore and raise the banner of success in those regions, until you are supported by the hosts of the Most Glorious Kingdom and aided by the angels of the Supreme Concourse."
+          ]
         },
         {
           "key": "source:AB01146",
-          "why": "Direct powerful forces toward comfort and human happiness."
+          "why": "Direct powerful forces toward comfort and human happiness.",
+          "shortened": [
+            "We must strive with our lives so that these mighty forces are spent on the general happiness and comfort of the human world and become the cause of life rather than destroying the foundation of humanity - that they bestow love upon hearts rather than creating hatred and enmity because of vain imaginings."
+          ]
         },
         {
           "key": "source:ABU0720",
@@ -2245,7 +3134,10 @@
         },
         {
           "key": "source:AB00388",
-          "why": "Pray for capacities that further oneness and remove prejudice."
+          "why": "Pray for capacities that further oneness and remove prejudice.",
+          "shortened": [
+            "Turn these souls into heavenly angels, resuscitate them through the breath of Thy Holy Spirit, grant them eloquent tongues and resolute hearts, bestow on them heavenly power and merciful susceptibilities, cause them to become the promulgators of the oneness of mankind and the cause of love and concord in the world of humanity, so that the perilous darkness of ignorant prejudice may vanish through the light of the Sun of Truth, this dreary world may become illumined, this material realm may absorb the rays of the world of spirit, these different colors may merge into one color and the melody of praise may rise to the kingdom of Thy sanctity."
+          ]
         },
         {
           "key": "source:AB03390",
@@ -2261,11 +3153,17 @@
         },
         {
           "key": "source:AB03765",
-          "why": "Let love kindle the world toward oneness."
+          "why": "Let love kindle the world toward oneness.",
+          "shortened": [
+            "O thou who art enkindled with the fire of the love of God! At this time when stillness and lifelessness have seized the pillars of existence of the people of the world, come thou and kindle a fire of love in the heart of contingent being, and set ablaze the soul of the world, that perchance in this ephemeral dust-heap the spiritual traces of the Eternal Beauty may become manifest and visible, and the divine illumination may dispel the pitch-black darkness of the horizons through the beauty of the Beloved of the horizons, and the morn of oneness may dawn and shine forth."
+          ]
         },
         {
           "key": "source:AB04024",
-          "why": "Respond to heedlessness by spreading light."
+          "why": "Respond to heedlessness by spreading light.",
+          "shortened": [
+            "Lethargy and coldness have encompassed the world - set aflame the heart of the world! Darkness and heedlessness have surrounded creation - spread rays and lights upon the horizons! This flame is the mention of God and these lights are the knowledge of Truth."
+          ]
         },
         {
           "key": "source:AB06451",
@@ -2289,7 +3187,10 @@
         },
         {
           "key": "source:ABU2390",
-          "why": "Retain the reported account of guidance as service."
+          "why": "Retain the reported account of guidance as service.",
+          "shortened": [
+            "Therefore, the greatest service to be rendered to the human world is to guide it to the right Path, to be the means of the salvation of the souls,- so that the dark ones may become illumined, the defective perfect, the earthly ones, heavenly; extinct ones enlightened; the satanic ones angelic - thus they may all attain to eternal life."
+          ]
         },
         {
           "key": "source:ABU2276",
@@ -2297,7 +3198,10 @@
         },
         {
           "key": "source:ABU2349",
-          "why": "Consider how a person’s presence changes a gathering."
+          "why": "Consider how a person’s presence changes a gathering.",
+          "shortened": [
+            "Similarly there are some enkindled souls whose very presence in a meeting changes its atmosphere, suffering the people to become truly spiritual, turning their faces towards God; others like unto the black smoke, darken the horizon of the minds."
+          ]
         },
         {
           "key": "source:AB01368",
@@ -2305,7 +3209,10 @@
         },
         {
           "key": "source:AB08756",
-          "why": "Read the promised lamps through Sinai imagery."
+          "why": "Read the promised lamps through Sinai imagery.",
+          "shortened": [
+            "In these days, through the assistance and bounty of the Most Great Unity, I await the appearance of souls who will blaze like an ignited fire in all hearts and who will be raised like a manifest standard from the highest heaven. They shall surge like the waves of the sea and, like a luminous star in the ethereal horizon, shall beam with light and be inspired by the breath of the Holy Spirit. They shall become brilliant lamps and radiant lights shining forth from the Sinai of manifestation."
+          ]
         },
         {
           "key": "source:AB11527",
@@ -2321,7 +3228,10 @@
         },
         {
           "key": "source:AB04430",
-          "why": "Let love kindle the candle."
+          "why": "Let love kindle the candle.",
+          "shortened": [
+            "I hope that all may become bright as the candle through the light of the love of God."
+          ]
         },
         {
           "key": "source:AB10929",
@@ -2329,11 +3239,17 @@
         },
         {
           "key": "source:ABU0899",
-          "why": "Keep attention turned toward light in the dark places of life."
+          "why": "Keep attention turned toward light in the dark places of life.",
+          "shortened": [
+            "It is my earnest prayer, that ye be not like unto this, but rather that ye keep your faces steadfastly turned to the light, so that ye may be as lighted torches in the dark places of life."
+          ]
         },
         {
           "key": "source:BH09605",
-          "why": "Turn attention from sedition toward the unobscured sun."
+          "why": "Turn attention from sedition toward the unobscured sun.",
+          "shortened": [
+            "O My loved ones! Look not upon the sedition and its darkness, but rather gaze upon the Sun from which nothing has withheld It, and be illumined by Its lights from this Quarter unto which the hearts of those near unto God have been attracted."
+          ]
         },
         {
           "key": "source:AB03010",
@@ -2349,11 +3265,17 @@
         },
         {
           "key": "source:AB01754",
-          "why": "Keep the concise assurance of passing darkness."
+          "why": "Keep the concise assurance of passing darkness.",
+          "shortened": [
+            "This darkness will pass away and the illumination of God's Kingdom will enlighten hearts."
+          ]
         },
         {
           "key": "source:AB12101",
-          "why": "Preserve the image of dissipating clouds."
+          "why": "Preserve the image of dissipating clouds.",
+          "shortened": [
+            "The clouds of vain imaginings have dissipated and the Sun of the horizons has shone forth in utmost beauty."
+          ]
         },
         {
           "key": "source:AB11809",
@@ -2361,7 +3283,10 @@
         },
         {
           "key": "source:ABU1393",
-          "why": "Read the reported image of flowers emerging from dark soil."
+          "why": "Read the reported image of flowers emerging from dark soil.",
+          "shortened": [
+            "We must make these blind eyes seeing. We must confer hearing to these deaf ears. We must bestow the power of speech to these dumb ones. Then out of this dark soil, which is the world of nature, variegated flowers and fragrant tulips will grow."
+          ]
         },
         {
           "key": "source:ABU1507",
@@ -2373,7 +3298,10 @@
         },
         {
           "key": "source:ABU2779",
-          "why": "Keep the reported identification of that light with divine love."
+          "why": "Keep the reported identification of that light with divine love.",
+          "shortened": [
+            "The world is very dark and the only light which is capable to penetrate through this darkness is the Light of the Love of God and entrance into the Kingdom of Baha'u'llah."
+          ]
         },
         {
           "key": "source:ABU3110",
@@ -2381,7 +3309,11 @@
         },
         {
           "key": "source:ABU3085",
-          "why": "Hear the remembered exchange about night and the risen sun."
+          "why": "Hear the remembered exchange about night and the risen sun.",
+          "shortened": [
+            "\"What of the dark night, when the Sun is not shining?\"",
+            "\"The darkness of night is past, the Sun has risen.\""
+          ]
         },
         {
           "key": "source:ABU3182",
@@ -2389,7 +3321,10 @@
         },
         {
           "key": "source:ABU3030",
-          "why": "Keep the reported declaration of guidance into Light."
+          "why": "Keep the reported declaration of guidance into Light.",
+          "shortened": [
+            "I raise the dead, I deliver those who are in darkness and guide them into the realm of Light."
+          ]
         },
         {
           "key": "source:ABU0272",
@@ -2397,11 +3332,17 @@
         },
         {
           "key": "source:AB00704",
-          "why": "Keep the original brief selection about a luminous appearance."
+          "why": "Keep the original brief selection about a luminous appearance.",
+          "shortened": [
+            "Its light illumines the world and its appearance is the most luminous sun of the Kingdom."
+          ]
         },
         {
           "key": "source:AB09420",
-          "why": "Retain the particular assessment of India within its source."
+          "why": "Retain the particular assessment of India within its source.",
+          "shortened": [
+            "The light of guidance hath shone forth from the supreme horizon, and the star of eternal glory hath risen from the dawning-place of possibility. It is strange that India, despite its capacity, hath not yet been illumined by this effulgence."
+          ]
         },
         {
           "key": "source:AB12091",
@@ -2409,7 +3350,10 @@
         },
         {
           "key": "source:AB12100",
-          "why": "Keep the warning that light can again be extinguished."
+          "why": "Keep the warning that light can again be extinguished.",
+          "shortened": [
+            "This grace and favor is like unto a lamp. You must know its worth and ever feed this lamp with the oil of detachment and sincerity in the Cause of God, that it may grow brighter day by day and illuminate the world. Otherwise it will be extinguished and darkness will again prevail."
+          ]
         },
         {
           "key": "source:ABU1836",
@@ -2421,7 +3365,10 @@
         },
         {
           "key": "source:ABU2581",
-          "why": "Widen the reported prayer to the whole world."
+          "why": "Widen the reported prayer to the whole world.",
+          "shortened": [
+            "I pray that this darkness may be dispelled and the light of the Kingdom may envelop the world."
+          ]
         },
         {
           "key": "source:AB05789",
@@ -2437,11 +3384,17 @@
         },
         {
           "key": "source:BH03208",
-          "why": "Keep the blessing addressed through the horizon of tender mercy."
+          "why": "Keep the blessing addressed through the horizon of tender mercy.",
+          "shortened": [
+            "The glory shining from the horizon of My tender mercy be upon you and upon those who have turned to God on this Day wherein trembling hath seized the inhabitants of all regions, save those whom God hath protected, the Lord of the Day of Judgment."
+          ]
         },
         {
           "key": "source:BH11087",
-          "why": "Preserve the prayer for protection through the divine Name."
+          "why": "Preserve the prayer for protection through the divine Name.",
+          "shortened": [
+            "I beseech Thee by Thy Name through which all darkness hath been dispelled and all light hath dawned forth, and the Face hath been illumined in the heaven of all possibilities, and Beauty hath shone forth in the kingdom of all created things, to guard the bearer of this Tablet through Thy sovereignty and power."
+          ]
         },
         {
           "key": "source:BH09754",
@@ -2449,7 +3402,10 @@
         },
         {
           "key": "source:BH11807",
-          "why": "Close with the blessing of those who turn toward divine exposition amid darkness."
+          "why": "Close with the blessing of those who turn toward divine exposition amid darkness.",
+          "shortened": [
+            "And glory be upon thee and upon those who have turned toward the Dayspring of the divine exposition in this darkness that hath encompassed the worlds, save whom thy Lord, the Forgiving, the Merciful, hath willed."
+          ]
         }
       ],
       "questions": [

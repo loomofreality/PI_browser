@@ -5,16 +5,22 @@
       "id": "19377C1C79EB4023BAD88C9FEA93B741",
       "slug": "quranhadithquotations",
       "displayTitle": "Qur’an and Hadith: listening for meanings that transform",
-      "introduction": "What does a seeker ask for when asking about truth, and what prepares someone to hear an answer? Beginning with the conversation attributed to Ali and Kumayl, these readings approach scripture as an invitation to understanding and changed conduct. Quotations from the Qur’an and traditions appear in explanations of revelation, letters of encouragement, prayers, and reported conversations. Images of light, water, seeds, journeys, and resurrection receive spiritual interpretations, while familiar verses become counsel about generosity, patience, gentleness, and justice. The sources also question inherited explanations and the uses made of religious authority. Neighboring subjects open further inquiry into Muhammad, prophetic narratives, multiple meanings, and the primordial Covenant. Returning to the Qur’anic picture of water and passing foam offers a comparative starting point: how might interpretation disclose something that benefits people and endures? Reading attentively involves following each explanation in its own source and noticing what it asks of its hearers.",
+      "introduction": "Riding behind ‘Alí on his camel, Kumayl asked what Truth was, and was told that what overflowed from the master only trickled onto the disciple. That exchange sets the terms for reading the Qur’án and the traditions: the meaning is abundant, and the hearer’s capacity decides how much is received. Bahá’u’lláh and ‘Abdu’l-Bahá return often to the verse in which rain fills each valley to its measure, foam rises and is cast aside, and what benefits people remains in the earth [1]; interpretation works the same way, conjecture passing and only what serves enduring. In their hands the she-camel of Ṣáliḥ, the twice-repeated seven and the disconnected letters become spiritual images, and more than one reading of a verse can stand together, each coinciding with truth. Familiar verses turn into counsel: do not forget the grace between you; had you been harsh, they would have scattered; what ails people that they understand no discourse? From here the inquiry opens toward Muḥammad Himself, toward how scripture carries several meanings at once, and toward the primordial Covenant of the day of alast.",
       "arc": "Begin with the seeker’s question and the fruitful image of water, explore how interpretation works, follow prophetic and scriptural images, then return to the ethical and spiritual practices that interpretation can nourish.",
       "order": [
         {
           "key": "source:BB00151",
-          "why": "Open with Kumayl’s question about Truth and the invitation to deeper understanding."
+          "why": "Open with Kumayl’s question about Truth and the invitation to deeper understanding.",
+          "shortened": [
+            "One day Kumayl ibn Ziyad al-Nakha'i rode behind 'Ali (peace be upon him) on his camel. Kumayl asked, \"O my master, what is Truth?\" 'Ali replied, \"What have you to do with Truth?\" Kumayl said, \"Am I not a confidant of your secret?\" 'Ali answered, \"Indeed you are, but that which overflows from me only trickles upon you.\" Kumayl said, \"Would one such as you disappoint a seeker?\" 'Ali (peace be upon him) replied, \"The removal of the veils of glory without indication.\""
+          ]
         },
         {
           "key": "source:AB03613",
-          "why": "Read water, capacity, and enduring benefit as an image of discernment."
+          "why": "Read water, capacity, and enduring benefit as an image of discernment.",
+          "shortened": [
+            "When the heavenly flood flows forth, each valley receives according to its capacity, as it is said: \"We send down water from the sky, and the valleys flow according to their measure, and the flood beareth along a swelling foam. And from that which they heat in the fire for the sake of making ornaments, there ariseth a foam like unto it. Thus doth God set forth truth and falsehood. As for the foam, it passeth away as dross upon the banks, while that which is of use to mankind, remaineth in the earth.\""
+          ]
         },
         {
           "key": "source:AB01524",
@@ -38,11 +44,17 @@
         },
         {
           "key": "source:BB00002",
-          "why": "Hear the Bab’s statements about interpretation and its source."
+          "why": "Hear the Bab’s statements about interpretation and its source.",
+          "shortened": [
+            "None knoweth their interpretation save God and whom We will of His sincere servants. Ask ye the Remembrance concerning its interpretation, for He is, by God's grace, knowledgeable about His verses according to the Book's decree."
+          ]
         },
         {
           "key": "source:BB00045",
-          "why": "Explore the attributed stations of the Qur’an’s letters."
+          "why": "Explore the attributed stations of the Qur’an’s letters.",
+          "shortened": [
+            "O thou who art alive with the water of life! Look with the gaze of the Beginning at what thou hast asked concerning the path of wisdom, and be assured that the letters of the Qur'an have stations that none among creation can encompass, and of them are those that none among the servants can encompass, even as God hath revealed in the Qur'an, addressing His Beloved: \"Thou knewest not what the Book was, nor what the faith.\""
+          ]
         },
         {
           "key": "source:BH00869",
@@ -50,7 +62,10 @@
         },
         {
           "key": "source:ABU2121",
-          "why": "Keep the reported question about those letters as the selection actually supplied."
+          "why": "Keep the reported question about those letters as the selection actually supplied.",
+          "shortened": [
+            "Mr. McCarthy: I would like to ask the meaning of the capital letters at the commencement of the suras of the Kur'an."
+          ]
         },
         {
           "key": "source:BH01733",
@@ -86,7 +101,10 @@
         },
         {
           "key": "source:ABU1683",
-          "why": "Keep the report’s argument about signs and interpretation in its own terms."
+          "why": "Keep the report’s argument about signs and interpretation in its own terms.",
+          "shortened": [
+            "Regarding Abraham, Islam mentions that the sun stood still - this is what is meant. For example, the splitting of the moon - if one who saw it had believed because of it... These things have meanings, but Islam absolutely will not accept this interpretation."
+          ]
         },
         {
           "key": "source:AB02587",
@@ -110,7 +128,10 @@
         },
         {
           "key": "source:ABU0755",
-          "why": "Read the reported identification of divine light."
+          "why": "Read the reported identification of divine light.",
+          "shortened": [
+            "It is of this Light Muhammad is speaking when he says, 'Allah is the light of the Heavens, and of the Earth'."
+          ]
         },
         {
           "key": "source:BB00455",
@@ -142,7 +163,11 @@
         },
         {
           "key": "source:ABU3658",
-          "why": "Follow the report’s distinction among oral, intellectual, and spiritual speech."
+          "why": "Follow the report’s distinction among oral, intellectual, and spiritual speech.",
+          "shortened": [
+            "'Abdu'l-Baha responded,",
+            "\"The solution to this issue is simple. Kalam appears in three types. One is oral, which is composed of airwaves, impacts the orifice of the ear and is made and assembled of letters. The other is intellectual: that is, things that a person will comprehend after one has contemplated over them. And lastly, spiritual. The first two are created, but the third one is ancient, since it pertains to divine knowledge, and has its beginning in the knowledge of God, which is eternal.\""
+          ]
         },
         {
           "key": "source:AB00940",
@@ -154,7 +179,10 @@
         },
         {
           "key": "source:AB00768",
-          "why": "Explore the interpretation of Salih’s she-camel as the Prophet himself."
+          "why": "Explore the interpretation of Salih’s she-camel as the Prophet himself.",
+          "shortened": [
+            "Regarding the she-camel of Salih, in the sacred writings it indicates that it was the holy person of Salih himself, and from the milk of inner meanings flowing from the divine breast of that blessed being, spiritual sustenance and divine milk was bestowed. But the evil souls hamstrung that divine she-camel, denied and rejected it, and were seized with painful torment of deprivation, unbelief and rebellion, falling into eternal destruction."
+          ]
         },
         {
           "key": "source:ABU2140",
@@ -162,7 +190,10 @@
         },
         {
           "key": "source:BH02988",
-          "why": "Read the she-camel’s remembered sacrifice."
+          "why": "Read the she-camel’s remembered sacrifice.",
+          "shortened": [
+            "Reflect upon the she-camel of Salih - when she was hamstrung in the path of friendship, all the tongues of the world, from that day unto the day that hath no end, have been and shall ever be engaged in her praise and glorification."
+          ]
         },
         {
           "key": "source:BH07147",
@@ -170,11 +201,17 @@
         },
         {
           "key": "source:BH01885",
-          "why": "Read the question about the she-camel addressed to the Region of Sad."
+          "why": "Read the question about the she-camel addressed to the Region of Sad.",
+          "shortened": [
+            "O Region of Sad! Why do I see and hear thy birds and their song, but see not My she-camel nor hear her cry? Is she in the garden above the earth or beneath it?"
+          ]
         },
         {
           "key": "source:BH07900",
-          "why": "Keep the companion question about harm and denial."
+          "why": "Keep the companion question about harm and denial.",
+          "shortened": [
+            "Where is My she-camel - is she grazing, or have the enemies of God who denied the Beginning and the Return hamstrung her?"
+          ]
         },
         {
           "key": "source:BH04696",
@@ -182,7 +219,10 @@
         },
         {
           "key": "source:AB02726",
-          "why": "Consider the passage about Noah’s family and conduct."
+          "why": "Consider the passage about Noah’s family and conduct.",
+          "shortened": [
+            "This is why He addresses Noah saying \"he is not of thy family, his work is unrighteous\" referring to Canaan."
+          ]
         },
         {
           "key": "source:ABU1213",
@@ -190,7 +230,10 @@
         },
         {
           "key": "source:ABU1550",
-          "why": "Read the reported setting of the Romans’ defeat and hoped-for victory."
+          "why": "Read the reported setting of the Romans’ defeat and hoped-for victory.",
+          "shortened": [
+            "Therefore they said if the People of the Book had precedence and excellence over others, how could Rome be defeated by a nation like the Persians? That is when the blessed verse \"Alif, Lam, Mim. The Romans have been defeated...but after their defeat they will soon be victorious\" was revealed - that although Rome was defeated, they would soon be victorious."
+          ]
         },
         {
           "key": "source:ABU3739",
@@ -210,7 +253,10 @@
         },
         {
           "key": "source:ABU0366",
-          "why": "Explore the reported spiritual interpretation of the two trumpet blasts."
+          "why": "Explore the reported spiritual interpretation of the two trumpet blasts.",
+          "shortened": [
+            "Those souls who attain eternal life realize that it is the dawning of the Sun of Truth and it is the first blast, through which the spirit of life is received from spiritual realities, and the world of heart and soul becomes ready for the second blast, concerning which He says: \"Then it shall be blown again, and lo! they shall stand up, waiting, and the earth shall shine with the light of its Lord.\" Through the second blast, spiritual realities and sublime essences receive life and are set in motion by the dawning of the Sun of Truth."
+          ]
         },
         {
           "key": "source:BB00176",
@@ -234,7 +280,10 @@
         },
         {
           "key": "source:BH11653",
-          "why": "Hear the declaration of the Day’s Kingdom."
+          "why": "Hear the declaration of the Day’s Kingdom.",
+          "shortened": [
+            "This is the Day which the All-Merciful hath revealed in the Qur'an: \"The Kingdom on that Day shall be God's,\" yet most of the people perceive not."
+          ]
         },
         {
           "key": "source:BB00087",
@@ -250,15 +299,24 @@
         },
         {
           "key": "source:ABU2166",
-          "why": "Keep the reported answer about present and absent hearers of the Qur’an."
+          "why": "Keep the reported answer about present and absent hearers of the Qur’an.",
+          "shortened": [
+            "At a meeting with Manuchihr Khan, this question was posed to the Bab: 'Was the Qur'an intended only for those who were present at the time of its revelation, or was it addressed also to those who were absent?' The Bab responded, 'There is no distinction between present and absent in the estimation of God.'"
+          ]
         },
         {
           "key": "source:BH00060",
-          "why": "Consider revealed laws and their abrogation in the argument offered here."
+          "why": "Consider revealed laws and their abrogation in the argument offered here.",
+          "shortened": [
+            "For if at this moment a law were to be sent down from the heaven of divine Will, commanding all servants to observe it, and subsequently its abrogation were revealed, none hath the right to object, for that which your Lord, the Lord of the Appointed Day, hath willed is what shall be accomplished. Consider the abrogating and abrogated verses in the Furqan, how certain verses were revealed and then abrogated by subsequent ones."
+          ]
         },
         {
           "key": "source:BH00151",
-          "why": "Read objections to wording and sequence as recounted in the Tablet of the Veil."
+          "why": "Read objections to wording and sequence as recounted in the Tablet of the Veil.",
+          "shortened": [
+            "Among the objections of the idolaters was to this blessed verse which declareth \"We make no distinction between any of His Messengers.\" They objected that \"ahad\" cannot be used between, and thus did they mock and protest against this divine and conclusive Word. Likewise did they object to the blessed verse \"He it is Who hath created for you all that is on earth, then turned He to the heaven and fashioned it as seven heavens,\" saying it contradicted other verses wherein the creation of heaven preceded that of earth."
+          ]
         },
         {
           "key": "source:BB00036",
@@ -266,7 +324,10 @@
         },
         {
           "key": "source:BH00415",
-          "why": "Notice the explicit explanation of copying a scribe’s statements without correcting errors."
+          "why": "Notice the explicit explanation of copying a scribe’s statements without correcting errors.",
+          "shortened": [
+            "As to the matter of statements attributed to Shaykh Ahmad-i-Ahsa'i, upon him be all the Most Glorious Glory of God: the original statements were written by one of the Shaykhi school who inquired about them in Iraq. Several errors were observed therein, but no attention was paid to correcting them. The statements were copied exactly as written by the scribe, as is also referenced in the Tablet to Mir Karim Khan."
+          ]
         },
         {
           "key": "source:BB00065",
@@ -274,15 +335,24 @@
         },
         {
           "key": "source:AB08407",
-          "why": "Keep the catalogue of demanded miracles and the source omission."
+          "why": "Keep the catalogue of demanded miracles and the source omission.",
+          "shortened": [
+            "In the Quran it is mentioned that seven tribes came before the Secret of Being and Essence of Purpose, His Holiness Muhammad, peace be upon Him. Each made his faith contingent upon a miracle. One said: \"Bring down a book from heaven.\" Another said: \"Cast down a fragment of heaven to earth.\" Another said: \"Make a spring to flow.\" Another said: \"Ascend to heaven.\" Another said: \"Show us the Lord with His hosts.\" Another said: \"Produce a treasure.\" Another said: \"Bring forth the lofty paradise.\" In reply to all of these He declares: \"Say: Glory be to my Lord! Am I aught but a mortal messenger?\"..."
+          ]
         },
         {
           "key": "source:AB04031",
-          "why": "Read the statement about knowledge of the unseen as quoted from the Qur’an."
+          "why": "Read the statement about knowledge of the unseen as quoted from the Qur’an.",
+          "shortened": [
+            "He replied: \"If I knew the unseen, I would have secured more good and I know not what will be done with me or with you tomorrow.\" This is the text of the Qur'an, not a tradition."
+          ]
         },
         {
           "key": "source:AB04272",
-          "why": "Keep the related challenge to an interpretation of that knowledge."
+          "why": "Keep the related challenge to an interpretation of that knowledge.",
+          "shortened": [
+            "You wrote that they have some knowledge of the Qur'an - then how is it the clear text of the Qur'an was not considered? The Beauty of Muhammad, by the explicit text of the Qur'an, states: \"If I had knowledge of the unseen, I would have secured abundance of good, nor do I know what shall befall me and you tomorrow.\""
+          ]
         },
         {
           "key": "source:AB04526",
@@ -306,7 +376,11 @@
         },
         {
           "key": "source:AB05189",
-          "why": "Keep the brief cited statement about men and women attributed to this selection."
+          "why": "Keep the brief cited statement about men and women attributed to this selection.",
+          "shortened": [
+            "From the beginning of existence until the Promised Day men retained superiority over women in every respect. It is revealed in the Qur'an: \"Men have superiority over women.\"",
+            "But in this wondrous Dispensation, the supreme outpouring of the Glorious Lord became the cause of manifest achievements by women."
+          ]
         },
         {
           "key": "source:AB12301",
@@ -318,7 +392,10 @@
         },
         {
           "key": "source:AB05610",
-          "why": "Keep the brief reference to one meaning of the verse about humanity."
+          "why": "Keep the brief reference to one meaning of the verse about humanity.",
+          "shortened": [
+            "Though all human beings are adorned with the garment of humanity, they remain unaware of its reality. This universal gift is manifested in human reality, yet man remains heedless and forgetful. This is one meaning of the blessed verse \"Verily he was unjust and ignorant.\""
+          ]
         },
         {
           "key": "source:AB05639",
@@ -330,15 +407,24 @@
         },
         {
           "key": "source:BB00006",
-          "why": "Consider the orientations of heart, mind, and soul in the Bab’s commentary."
+          "why": "Consider the orientations of heart, mind, and soul in the Bab’s commentary.",
+          "shortened": [
+            "When thou hast recognized the decree of divine manifestation, make the qiblih of thy heart the appearance of the verse \"There is no God but God\", and the qiblih of thy mind \"Muhammad is the Messenger of God, peace be upon him and his family\", and the qiblih of thy soul him whom God hath named today as the Remnant of God, who is better for the believers than their own selves, would they but understand."
+          ]
         },
         {
           "key": "source:BB00519",
-          "why": "Read the description of honored servants acting by divine command."
+          "why": "Read the description of honored servants acting by divine command.",
+          "shortened": [
+            "Thus hast Thou described them in Thy perspicuous verses, saying - and Thy word is the truth: \"Honored servants who speak not until He hath spoken, and who do His bidding.\""
+          ]
         },
         {
           "key": "source:AB07362",
-          "why": "Hear the invocation of the beautiful names."
+          "why": "Hear the invocation of the beautiful names.",
+          "shortened": [
+            "\"Say: Call upon Allah, or call upon Rahman: by whatever name ye call upon Him, (it is well): for to Him belong the Most Beautiful Names.\""
+          ]
         },
         {
           "key": "source:AB09263",
@@ -346,11 +432,17 @@
         },
         {
           "key": "source:AB05808",
-          "why": "Read turning toward God alongside the promise to the oppressed."
+          "why": "Read turning toward God alongside the promise to the oppressed.",
+          "shortened": [
+            "Consider the divine bounty and gift in this Most Great Revelation, that through a single turning, the grace of \"I have turned my face toward Him Who created the heavens and earth, turning away from all else, and I am not of those who join partners with God\" becomes realized, and through a single attachment the gift of \"And We wished to show Our favor unto those who were oppressed in the earth, and to make them leaders and to make them inheritors\" becomes manifest."
+          ]
         },
         {
           "key": "source:AB09824",
-          "why": "Keep the promise of leadership and inheritance for the oppressed."
+          "why": "Keep the promise of leadership and inheritance for the oppressed.",
+          "shortened": [
+            "God, the all-glorious Lord, saith in the wondrous Qur'an: \"And We wished to be Gracious to those who were being depressed in the land, to make them leaders and make them heirs.\""
+          ]
         },
         {
           "key": "source:AB06841",
@@ -358,19 +450,31 @@
         },
         {
           "key": "source:AB06869",
-          "why": "Hear the light that opposition cannot extinguish."
+          "why": "Hear the light that opposition cannot extinguish.",
+          "shortened": [
+            "O thou who art illumined by the divine light! In the glorious Quran He says: \"They desire to extinguish God's light with their mouths, but God refuses to do aught save perfect His light.\""
+          ]
         },
         {
           "key": "source:AB09864",
-          "why": "Read the removal of the veil with the source omission retained."
+          "why": "Read the removal of the veil with the source omission retained.",
+          "shortened": [
+            "It is also stated in the Qur'an: \"Thou wast heedless of that; but We have removed thy veil, and keen is thy sight this day.\"..."
+          ]
         },
         {
           "key": "source:BH05531",
-          "why": "Consider the warning against passing signs without attention."
+          "why": "Consider the warning against passing signs without attention.",
+          "shortened": [
+            "Say: O people of the Bayan, be fair and speak with justice. Be not of those who, after witnessing, denied, nor of those concerning whom the Desired One of all creation hath said in the Qur'an: \"How many a sign do they pass by and turn away therefrom!\""
+          ]
         },
         {
           "key": "source:AB01635",
-          "why": "Read the recurring pattern of mocking or rejecting messengers."
+          "why": "Read the recurring pattern of mocking or rejecting messengers.",
+          "shortened": [
+            "Consider what is said in the Qur'an: \"Alas for the servants! There comes not a Messenger to them but they mock at him. What! Whenever there came to you a Messenger with what your souls desired not, you were arrogant, so you called some liars and some you slew.\""
+          ]
         },
         {
           "key": "source:BH06607",
@@ -378,7 +482,10 @@
         },
         {
           "key": "source:BH00962",
-          "why": "Consider the stated restraint and measure of utterance."
+          "why": "Consider the stated restraint and measure of utterance.",
+          "shortened": [
+            "The people of the Furqan have remained deprived of true unity. Were the Supreme Pen to move in this station according to what is intended, clamor would be raised from all directions. Therefore doth it speak with measure and uttereth according to measure."
+          ]
         },
         {
           "key": "source:BHU0057",
@@ -386,7 +493,10 @@
         },
         {
           "key": "source:AB02594",
-          "why": "Read the historical comparisons concerning law, succession, and protest as the source presents them."
+          "why": "Read the historical comparisons concerning law, succession, and protest as the source presents them.",
+          "shortened": [
+            "One, like the second Caliph, said \"The Book of God is sufficient for us.\" Another, like the son of Hind, began to weep and lament and cry out \"Alas for he of the two lights! Woe unto him who equipped the army of difficulty!\" Another cried \"Alas for the Law! Alas for the Religion!\" And another, like those who hated the Prince of Martyrs, declared \"He has made lawful what God made unlawful and made unlawful what God made lawful, and abandoned fasting and prayer.\""
+          ]
         },
         {
           "key": "source:ABU1839",
@@ -394,7 +504,10 @@
         },
         {
           "key": "source:ABU1993",
-          "why": "Read the reported play on personal names and scriptural quotations."
+          "why": "Read the reported play on personal names and scriptural quotations.",
+          "shortened": [
+            "He said, \"I have not seen any mention of myself in it.\" He replied, \"It is there where it says: 'She said: I seek refuge from thee with the Beneficent God, if thou art God-fearing.'\" He became very angry but did not express anything, and asked, \"Is there anything about my father Qurban Khan as well?\" He replied, \"Yes there is.\" He asked, \"Explicitly or by allusion?\" He replied, \"Explicitly, where it says: 'Why do you not bring us an offering which fire [from heaven] shall consume?'\""
+          ]
         },
         {
           "key": "source:ABU3002",
@@ -414,7 +527,10 @@
         },
         {
           "key": "source:BH01338",
-          "why": "Keep the warning about heedless satisfaction with possessions."
+          "why": "Keep the warning about heedless satisfaction with possessions.",
+          "shortened": [
+            "Read what the All-Merciful hath revealed in the Qur'an. Mighty is His utterance and exalted His proof: \"Until, when they rejoiced in that which they were given, We seized them unawares, and lo, thy Lord is ever watchful.\""
+          ]
         },
         {
           "key": "source:BB00082",
@@ -422,7 +538,10 @@
         },
         {
           "key": "source:BH03309",
-          "why": "Consider lasting good deeds beside possessions and children."
+          "why": "Consider lasting good deeds beside possessions and children.",
+          "shortened": [
+            "Read what the All-Merciful hath revealed in the Qur'an: \"Wealth and children are an adornment of the life of this world: But the good deeds which endure are better in thy Lord's sight for reward, and better in respect of hope.\""
+          ]
         },
         {
           "key": "source:AB04434",
@@ -430,15 +549,24 @@
         },
         {
           "key": "source:AB03573",
-          "why": "Read the inheritance of the Book and the differences in conduct among its recipients."
+          "why": "Read the inheritance of the Book and the differences in conduct among its recipients.",
+          "shortened": [
+            "In the Qur'an it states: \"Then We gave the Book for an inheritance to such of Our servants as We chose: but there are among them some who wrong their own souls; some who follow a middle course; and some who are, by God's leave, foremost in good deeds. That is the highest Grace.\""
+          ]
         },
         {
           "key": "source:AB01243",
-          "why": "Consider growth through the blade, stem, and delight of the sower."
+          "why": "Consider growth through the blade, stem, and delight of the sower.",
+          "shortened": [
+            "This is why again in the Qur'an He says: \"Like a seed which sends forth its blade, then makes it strong; it then becomes thick, and it stands on its own stem, delighting the sowers.\""
+          ]
         },
         {
           "key": "source:ABU2240",
-          "why": "Hear the challenge to give what one loves."
+          "why": "Hear the challenge to give what one loves.",
+          "shortened": [
+            "Just as it is said in the Qur'an, 'Ye shall never receive blessings until ye give of that which ye love.'"
+          ]
         },
         {
           "key": "source:AB07577",
@@ -458,19 +586,31 @@
         },
         {
           "key": "source:AB01161",
-          "why": "Hear gentleness as a condition of gathering people."
+          "why": "Hear gentleness as a condition of gathering people.",
+          "shortened": [
+            "It is said in the Koran, \"Hadst thou been severe and hard-hearted, they had surely separated themselves from about Thee.\""
+          ]
         },
         {
           "key": "source:AB04019",
-          "why": "Keep the companion reminder about harshness and estrangement."
+          "why": "Keep the companion reminder about harshness and estrangement.",
+          "shortened": [
+            "However, in the Qur'an it states: \"Had you been harsh and hard-hearted, they would have scattered from around you.\" Therefore, to the extent possible, one must deal with all the friends with utmost kindness."
+          ]
         },
         {
           "key": "source:AB02778",
-          "why": "Remember grace within relationships."
+          "why": "Remember grace within relationships.",
+          "shortened": [
+            "In the Qur'an it states \"Do not forget the grace between you.\""
+          ]
         },
         {
           "key": "source:AB05277",
-          "why": "Read passing by vain talk with dignity as practical counsel."
+          "why": "Read passing by vain talk with dignity as practical counsel.",
+          "shortened": [
+            "And if some souls speak ill and criticize Abdul-Baha, act according to the blessed verse of the Quran which states: \"And when they pass by vain talk, they pass by with dignity.\""
+          ]
         },
         {
           "key": "source:AB09933",
@@ -486,7 +626,10 @@
         },
         {
           "key": "source:BH08570",
-          "why": "Keep the same verse’s second source visible."
+          "why": "Keep the same verse’s second source visible.",
+          "shortened": [
+            "His blessed and exalted Word states: \"And if there be the weight of a mustard seed and it be in a rock, or in the heavens, or in the earth, God will bring it forth.\""
+          ]
         },
         {
           "key": "source:AB01200",
@@ -494,15 +637,24 @@
         },
         {
           "key": "source:AB03675",
-          "why": "Hear that question again in its concise form."
+          "why": "Hear that question again in its concise form.",
+          "shortened": [
+            "As mentioned in the Quran: \"What is wrong with these people that they fail to understand any discourse?\" The more we spoke, the less they heard."
+          ]
         },
         {
           "key": "source:AB01196",
-          "why": "Consider the repeated summons to remember verses concerning tests."
+          "why": "Consider the repeated summons to remember verses concerning tests.",
+          "shortened": [
+            "Have you not recited the Qur'an and pondered carefully its verses about tests? Have you not heard \"Do they not see that they are tried every year once or twice?\" Have you not read \"We shall surely test you with something of fear and hunger, and decrease of goods and lives and fruits\"? Have you not read \"Do men think that they will be left alone on saying 'We believe' and they will not be tested\"?"
+          ]
         },
         {
           "key": "source:AB08237",
-          "why": "Read the promise to the patient alongside fear, hunger, and loss."
+          "why": "Read the promise to the patient alongside fear, hunger, and loss.",
+          "shortened": [
+            "God saith in His mighty Book: \"And We will surely try you with something of fear and hunger and loss of wealth and lives and fruits; but give glad tidings to the patient.\" And likewise He saith: \"Those who patiently persevere will truly receive a reward without measure.\""
+          ]
         },
         {
           "key": "source:ABU0840",
@@ -510,11 +662,17 @@
         },
         {
           "key": "source:AB04400",
-          "why": "Read the comparison of present hardship with the lives of the holy ones."
+          "why": "Read the comparison of present hardship with the lives of the holy ones.",
+          "shortened": [
+            "It is revealed in the Qur'an: \"Do ye think that ye shall enter the Garden of bliss without such trials as came to those who passed away before you?\" [Q2:214]  All the holy ones encountered suffering and adversity. The Primal Point and the Most Great Name, the Abha Beauty, spent all the days of Their lives surrounded by troubles and adversities. How can we demand happiness and comfort in our lives, therefore, unless of course we blind ourselves to faithfulness and follow the ways of the unfaithful?"
+          ]
         },
         {
           "key": "source:AB03774",
-          "why": "Hear the companion reminder about adversity before Paradise."
+          "why": "Hear the companion reminder about adversity before Paradise.",
+          "shortened": [
+            "In the Qur'an He says: \"Do you suppose that you will enter Paradise while yet there has not come to you the like of what came to those who passed away before you? Affliction and adversity befell them.\""
+          ]
         },
         {
           "key": "source:AB06773",
@@ -526,39 +684,66 @@
         },
         {
           "key": "source:AB04365",
-          "why": "Consider contentment with decree in the quoted tradition."
+          "why": "Consider contentment with decree in the quoted tradition.",
+          "shortened": [
+            "In the divine hadith He says: \"Whoever is not content with My decree, let him seek another Lord besides Me.\""
+          ]
         },
         {
           "key": "source:AB06404",
-          "why": "Read the tradition’s demanding account of testing and sincerity."
+          "why": "Read the tradition’s demanding account of testing and sincerity.",
+          "shortened": [
+            "This is why it is stated in the tradition: \"All people shall perish except the believers, and all believers shall perish except those who are tested, and all who are tested shall perish except the sincere ones, and the sincere ones are in grave danger.\""
+          ]
         },
         {
           "key": "source:AB01845",
-          "why": "Keep the warning about lesser punishment and the possibility of return."
+          "why": "Keep the warning about lesser punishment and the possibility of return.",
+          "shortened": [
+            "Glory be to God! In the Qur'an He says: \"And indeed We seized them with the lesser punishment before the greater punishment, that they might return.\""
+          ]
         },
         {
           "key": "source:BH05197",
-          "why": "Read mortality and return to God together."
+          "why": "Read mortality and return to God together.",
+          "shortened": [
+            "Recite what the All-Merciful hath revealed in the Qur'an: \"Every soul shall taste of death. We are God's and to Him shall we return.\""
+          ]
         },
         {
           "key": "source:AB02109",
-          "why": "Hear the verse about those slain in God’s path."
+          "why": "Hear the verse about those slain in God’s path.",
+          "shortened": [
+            "\"Think not of those who are slain in God's way as dead. Nay, they live, finding their sustenance in the presence of their Lord.\""
+          ]
         },
         {
           "key": "source:AB07591",
-          "why": "Keep its companion citation in its own wording."
+          "why": "Keep its companion citation in its own wording.",
+          "shortened": [
+            "\"Think not of those who are slain in God's way as dead. Nay, they are living! With their Lord they have provision.\""
+          ]
         },
         {
           "key": "source:AB02885",
-          "why": "Read the language of martyrdom as the source’s devotional testimony."
+          "why": "Read the language of martyrdom as the source’s devotional testimony.",
+          "shortened": [
+            "Through divine glad tidings may they be so moved to joy and delight that each one stands firm against all on earth, and under sword and blade cries out \"O my eager desire for the supreme martyrdom!\", and under the dagger raises the cry of \"O Glory of the Most Glorious!\" from their throat, and recites the verse \"Would that my people knew!\", and utters \"Think not of those who are slain in God's way as dead. Nay, they live, finding their sustenance in the presence of their Lord.\""
+          ]
         },
         {
           "key": "source:ABU2444",
-          "why": "Consider the reported interpretation of victory through Husayn’s martyrdom."
+          "why": "Consider the reported interpretation of victory through Husayn’s martyrdom.",
+          "shortened": [
+            "The Prince of Martyrs in Karbala had his body torn to pieces, yet was still victorious, for \"verily it was incumbent upon Us to help the believers.\""
+          ]
         },
         {
           "key": "source:AB05090",
-          "why": "Read assistance to God and divine assistance together."
+          "why": "Read assistance to God and divine assistance together.",
+          "shortened": [
+            "O self-sacrificing servant of the Abha Beauty! In the Qur'an the All-Merciful Lord declares: \"If ye help God, He will help you.\""
+          ]
         },
         {
           "key": "source:AB02928",
@@ -570,23 +755,38 @@
         },
         {
           "key": "source:AB04865",
-          "why": "Hear the statement concerning divine mercy."
+          "why": "Hear the statement concerning divine mercy.",
+          "shortened": [
+            "God says in the Glorious Qur'an: \"He singles out for His mercy whomsoever He willeth.\" Praise be to God that thou hast been singled out for divine grace and bounty."
+          ]
         },
         {
           "key": "source:ABU2441",
-          "why": "Keep the distinction between loving someone and being able to guide them."
+          "why": "Keep the distinction between loving someone and being able to guide them.",
+          "shortened": [
+            "This is why the Qur'an states \"You cannot guide whom you love, but God guides whom He wills.\" Therefore divine confirmations and heavenly guidance are necessary, and capacity and attainment of the outpourings of the All-Merciful are essential."
+          ]
         },
         {
           "key": "source:AB04316",
-          "why": "Read a journey in relation to the disappearance of falsehood."
+          "why": "Read a journey in relation to the disappearance of falsehood.",
+          "shortened": [
+            "In any case, the point is that if you could make a journey soon to those regions of Yazd it would be most fitting and appropriate, for detailed letters are being written and most are pure fabrication - perhaps some of the weak ones might fall into doubt. When truth comes, falsehood vanishes - this will be achieved through your journey."
+          ]
         },
         {
           "key": "source:AB06763",
-          "why": "Consider gratitude and increase of favor."
+          "why": "Consider gratitude and increase of favor.",
+          "shortened": [
+            "In the mighty Qur'an, the Book of God, He says \"If ye are thankful, I will add more (favors) unto you.\""
+          ]
         },
         {
           "key": "source:AB05174",
-          "why": "Read the cited association of worship, belief, and building."
+          "why": "Read the cited association of worship, belief, and building.",
+          "shortened": [
+            "God says in the great Koran: \"The Building of the Mosques of God is carried along by those souls who believe in God and in the day of judgment.\""
+          ]
         },
         {
           "key": "source:AB05836",
@@ -594,11 +794,17 @@
         },
         {
           "key": "source:AB09765",
-          "why": "Read the personal greeting that invokes the name David."
+          "why": "Read the personal greeting that invokes the name David.",
+          "shortened": [
+            "Convey My greetings to Mr. Mirza Davud Khan, upon him be the Glory of God, the Most Glorious, and say that God declares in the Quran: \"O David! We have made thee a vicegerent on earth.\""
+          ]
         },
         {
           "key": "source:AB10378",
-          "why": "Hear night prayer and the Station of Praise in the address to Mahmud."
+          "why": "Hear night prayer and the Station of Praise in the address to Mahmud.",
+          "shortened": [
+            "O Aqa Mahmud! In the mighty Qur'an, addressing the Beloved One, He saith: \"And watch in vigil some part of the night as a work of supererogation for thee; it may be that thy Lord will raise thee to a Station of Praise (Maqam-i-Mahmud).\""
+          ]
         },
         {
           "key": "source:AB10934",
@@ -606,7 +812,10 @@
         },
         {
           "key": "source:BH08031",
-          "why": "Keep the quoted abandonment of disbelief in its devotional setting."
+          "why": "Keep the quoted abandonment of disbelief in its devotional setting.",
+          "shortened": [
+            "O people of Baha, hear what the All-Merciful has revealed in the Qur'an. Concerning the Beloved's ascension, He quotes one of the Prophets saying: \"Verily, I have abandoned the religion of a people who believe not in God and who are disbelievers in the Hereafter.\""
+          ]
         },
         {
           "key": "source:AB00168",
@@ -614,15 +823,25 @@
         },
         {
           "key": "source:AB05664",
-          "why": "Read the concise statement of guidance and interpreted meaning."
+          "why": "Read the concise statement of guidance and interpreted meaning.",
+          "shortened": [
+            "The verses of guidance have been chanted and the meanings of revelation have been interpreted."
+          ]
         },
         {
           "key": "source:ABU1255",
-          "why": "Hear the reported insistence on listening when the Qur’an is recited."
+          "why": "Hear the reported insistence on listening when the Qur’an is recited.",
+          "shortened": [
+            "'What art thou doing? Hast thou not heard the saying of Mohamad that when El Koran is read every one must listen?'"
+          ]
         },
         {
           "key": "source:AB02465",
-          "why": "Close with the invitation to recite, interpret, remember prophetic trials, and pray."
+          "why": "Close with the invitation to recite, interpret, remember prophetic trials, and pray.",
+          "shortened": [
+            "This is possible in this way: that one should occupy oneself with reciting the Qur'an, and in connection with its verses, relate the events that occurred in the time of the Prophets - the oppositions that arose, the calamities that descended, the trials that came, the insolence of the peoples, the blindness of the masses, and the imprisonment of the loved ones of the All-Merciful, which are the literal translation of the Qur'an.",
+            "As much as thou canst, recite the Qur'an and explain its interpretation and inner meaning. And from time to time, recite prayers and the Sahifa-i-Sajjadiyya with utmost humility and submissiveness."
+          ]
         }
       ],
       "questions": [
@@ -746,7 +965,7 @@
       "id": "E9694E11B244E2587DE1BB0F8D416710",
       "slug": "abdulbahaautobiography",
       "displayTitle": "A life remembered: ‘Abdu’l-Bahá’s service, hardship, and affection",
-      "introduction": "A meal offered with love, a householder learning to trust former strangers, and a first woven mat bring a life of service close to ordinary experience. These selections gather letters, recollections, and accounts recorded by others, allowing different kinds of witness to stand beside one another. Childhood memories of affection and danger lead into exile, imprisonment, travel, correspondence, and care for people whose needs seldom left time for rest. Humor and delight appear alongside grief, bodily weakness, and the longing for solitude. The repeated language of servitude gives these varied scenes a shared direction without removing their human detail. Neighboring subjects supply further settings in Akka, Egypt, the western journeys, and the years of youth. John’s account of Jesus washing the disciples’ feet offers a comparative reflection on example and service. What becomes visible when a spiritual life is remembered through its smallest acts as well as its public work?",
+      "introduction": "‘Abdu’l-Bahá remembered a meal of warm dough and dates baked in a hole in the ground by a thorn-picker’s wife outside Baghdad, and said he had never eaten anything finer, because it was cooked with love. A life of service is made of such particulars: a first mat woven in prison and spread at his Father’s feet, an inheritance divided fairly by a twelve-year-old who would not take a fee, a landlord who nailed shut the doors against strangers and within a month trusted them with his jewels. The same memory holds a child’s fear in a stoned house, the laugh with which he answered a decree of perpetual confinement, fever carried up a hundred and twenty stairs in Budapest, and a pen as tired as a horse about to collapse. Jesus washing his disciples’ feet and asking them to do likewise offers a frame for a servant who, after decades of carrying burdens, found his joy in service accomplished by others. His years in ‘Akká, his jokes and stories, and his journeys to the West lead the way onward.",
       "arc": "Begin with hospitality, trust, and practical service; enter childhood and prison memories; follow the demanding journeys and daily work; then consider affection, humor, weariness, and the invitation for others to carry the work forward.",
       "order": [
         {
@@ -755,11 +974,21 @@
         },
         {
           "key": "source:ABU0717",
-          "why": "Follow strangers becoming trusted neighbors through lived acquaintance."
+          "why": "Follow strangers becoming trusted neighbors through lived acquaintance.",
+          "shortened": [
+            "The owner of the house carefully nailed up the doors connecting the two houses, both in the upper and lower floors, so that there should be no going and coming between the two houses.",
+            "Less than a fortnight afterwards we heard a knocking at the door. On opening it we found the wife of the owner of the house who had come to visit the ladies. She asked, 'Why do you not come to visit us?' They answered, 'You have nailed up the doors between the houses.' She said, 'Ah! We did not know you, at first, but now the doors must be opened, both upstairs and downstairs, and you can fetch water (from our house).'",
+            "Less than a month elapsed, and I was sitting downstairs one day, when the owner of the house himself, came and said, 'I want to go to Beirut and I can trust no one. I have in the house money and jewels. I have three daughters and two sons-in-laws, but I cannot trust them, and even my partner. I want to leave things in your charge and go. I can trust no one else. I beg of you to let one of your people live in my house so that I can feel assured until I return after a few months.'",
+            "I was therefore obliged to consent, and sent one of the Bahais to live in the house and take care of it until his return. He was exceedingly grateful and said, 'Never in all my life before have I traveled with my mind so much at ease as now, for I have the utmost confidence in you.'"
+          ]
         },
         {
           "key": "source:ABU0106",
-          "why": "Read the first woven mat as practical learning and service."
+          "why": "Read the first woven mat as practical learning and service.",
+          "shortened": [
+            "When we were imprisoned in the barrack, one day, the Blessed Perfection spoke about the necessity of industrial education of the believers of God and their descendents.",
+            "When I heard His words I addressed myself: What can I do to learn a trade? I am in the prison. I cannot go out. There are no arts and trades schools in Acca. After much inquiry I found there was a mat-weaver in the town and I sent for him and stipulated with him for a certain sum to teach me his trade. He installed his simple weaving machine in one of the prison rooms and for six months I was an apprentice under the direction of my master. The first mat that I wove with my own hands I spread under the feet of the Blessed Perfection."
+          ]
         },
         {
           "key": "source:ABU2659",
@@ -767,7 +996,12 @@
         },
         {
           "key": "source:ABU1792",
-          "why": "Keep the fuller thorn-seller recollection as a distinct report."
+          "why": "Keep the fuller thorn-seller recollection as a distinct report.",
+          "shortened": [
+            "We arrived there in the afternoon, he had a wife who was a believer.",
+            "She took water and wheat and molded them together without yeast. Then she dug a hole in the ground ad made a fire in it. When the place became hot she took out the fire and put in the dough which she had made into balls, and covered them with the fire, later she took them out. They looked very black. She brought some dates also. The balls were only warm dough. We all ate them, and a few dates with our fingers. But I had never eaten such a delicious food, for it had been cooked with love.",
+            "Its taste is still in my mind. How completely that man and wife were filled with love."
+          ]
         },
         {
           "key": "source:ABU2470",
@@ -783,11 +1017,17 @@
         },
         {
           "key": "source:ABU3676",
-          "why": "Read the rosary and ring as objects linked to a remembered mediation."
+          "why": "Read the rosary and ring as objects linked to a remembered mediation.",
+          "shortened": [
+            "This pearl rosary and a ruby ring originally belonged to Mirza Musa Jawahiri, the son of Mirza Hadi, and were both in that box. One day in Baghdad, Mirza Musa attained the presence of the Blessed Beauty and asked that I [i.e. `Abdu'l-Baha] be sent forth to divide the estate and heirloom of the late Mirza Hadi between him and his sister."
+          ]
         },
         {
           "key": "source:AB05332",
-          "why": "Locate birthplace, exile, imprisonment, and remembered homeland through the letter."
+          "why": "Locate birthplace, exile, imprisonment, and remembered homeland through the letter.",
+          "shortened": [
+            "O thou my fellow countryman! Although 'Abdu’l-Baha was born in Tihran and for successive years wandered homeless in Iraq, and although he was for a time an exile in Rumelia and for forty years a prisoner in 'Akka, yet his homeland is Mazindaran---that is to say, the district of Miyanrud in the region of Nur. Therefore, I address thee as my countryman."
+          ]
         },
         {
           "key": "source:ABU1574",
@@ -795,7 +1035,10 @@
         },
         {
           "key": "source:AB02620",
-          "why": "Read the child’s memory of an affectionate embrace."
+          "why": "Read the child’s memory of an affectionate embrace.",
+          "shortened": [
+            "How often do I recall the days when I was a child and came to thee with love and devotion! Thou didst take me up in thy warm and affectionate embrace, and I delighted in the goodly fruits of the garden of thine abundance."
+          ]
         },
         {
           "key": "source:ABU2634",
@@ -811,7 +1054,10 @@
         },
         {
           "key": "source:ABU1094",
-          "why": "Read the bazaar recollection as a lesson about flattery."
+          "why": "Read the bazaar recollection as a lesson about flattery.",
+          "shortened": [
+            "There was a very old woman - probably 80 yrs old - with bent back and wrinkled face - who walked at the time through the Bazaar. The shopkeepers would shout after her: 'Miss Khanom! O thou never-fading rose! O thou young, beautiful maiden! Come, here, grace with thy lovely presence our shops! We will reduce the prices for thee and sell thee cheaper than the rest.' All the time she knew well that these are foolish compliments but just the same she liked them. She would smile and pass by them, taking everything they said seriously. There are today so many people who are like that old woman. They love inane flattery and empty compliments which are no other than nets to snare unsuspecting people."
+          ]
         },
         {
           "key": "source:ABU1715",
@@ -827,7 +1073,10 @@
         },
         {
           "key": "source:ABU1312",
-          "why": "Consider the fear and vulnerability of the stoned family home."
+          "why": "Consider the fear and vulnerability of the stoned family home.",
+          "shortened": [
+            "\"I was a child, nine years old. In the thick of those calamities, when the enemy attacked, they stoned our house and it had filled up with stones. We had nobody to help us. There was only my mother, my sister, and Aqa Mirza Muhammad-Quli."
+          ]
         },
         {
           "key": "source:ABU1852",
@@ -839,7 +1088,12 @@
         },
         {
           "key": "source:ABU1472",
-          "why": "Read the reported street experience with its selected beginning and ending intact."
+          "why": "Read the reported street experience with its selected beginning and ending intact.",
+          "shortened": [
+            "[I have heard the Most Great Branch, who in those days was a child of only eight years of age, recount one of His experiences as He ventured to leave the house in which He was then residing.]",
+            "We had sought shelter, [He told us,] in the house of My uncle, Mirza Isma'il.",
+            "From that day onward, I was never again molested by any of the boys of the streets, nor did I hear any offensive word fall from their lips.\""
+          ]
         },
         {
           "key": "source:ABU0659",
@@ -859,19 +1113,32 @@
         },
         {
           "key": "source:ABU2263",
-          "why": "Read childhood impressions of opposition and visitors before Bahaullah."
+          "why": "Read childhood impressions of opposition and visitors before Bahaullah.",
+          "shortened": [
+            "When he arrived in Bagdad the Blessed Beauty was the target of many arrows of oppression, the Mullahs held many conferences and consulted together how best to extinguish this Divine Light. Notwithstanding these obstacles Baha'u'llah stood firm and accepted all the trials and hardships heaped upon him by the enemies.",
+            "When they came into His Spiritual Presence they were awed with the Majesty of His Appearance and the Magnetism of His Countenance. They listened to His words with rapt attention and went away dumbfounded. I was a child then but the particulars of those meetings are engraved deep on the Tablet of my heart and mind."
+          ]
         },
         {
           "key": "source:ABU1148",
-          "why": "Hear the reported account of belief and devotion in Baghdad."
+          "why": "Hear the reported account of belief and devotion in Baghdad.",
+          "shortened": [
+            "I am the Servant of the Blessed Perfection. In Bagdad I was a child. There and then He announced to me the Word and I believed in Him. As soon as He proclaimed to me the Word I threw myself at His Holy Feet and implored and supplicated Him that He may accept this one drop of my blood as a sacrifice in His Pathway."
+          ]
         },
         {
           "key": "source:AB06258",
-          "why": "Read the letter’s image of growing from infancy in servitude."
+          "why": "Read the letter’s image of growing from infancy in servitude.",
+          "shortened": [
+            "Among these, this servant from early childhood, that is, from the time of nursing, drank the milk of servitude from the breast of that Most Exalted Luminary and thus developed and grew, therefore becoming honored to be embraced in the servitude of the Abha Beauty."
+          ]
         },
         {
           "key": "source:ABU0713",
-          "why": "Keep the reported lifelong purpose of human oneness."
+          "why": "Keep the reported lifelong purpose of human oneness.",
+          "shortened": [
+            "Verily, since the early days of childhood I have devoted Myself to the Word of the Beauty of Baha'u'llah, and have forborne every difficulty and calamity, among these imprisonment for all My life, to lay the foundation of the oneness of mankind."
+          ]
         },
         {
           "key": "source:ABU2296",
@@ -879,7 +1146,12 @@
         },
         {
           "key": "source:ABU1838",
-          "why": "Read the childhood rifle story as an attributed recollection in a setting of hostility."
+          "why": "Read the childhood rifle story as an attributed recollection in a setting of hostility.",
+          "shortened": [
+            "I remember one day, accompanied by a number of grown-up people we called on the Persian Consul who was considered an amateur sport and hunter. He cherished in his heart a great hate for Baha'u'llah and whenever His Name was mentioned his eyes became red with rage and wanted to pop out of their sockets. Nevertheless he showed us outward courtesy and hospitality [and] did not let his hate become manifest.",
+            "He had given his rifle to be [polished] and while we were there they brought it in. Proudly he took it in his hand[s] and began to examine it. Looking at me with a malicious smile in his face he asked me: \"Are you Tir Andaz? (sharp shooter) 'Yes' I answered. 'Can you shoot a bird while flying in the air?' 'Assuredly.' I said. 'This is very easy; but I can also shoot a man while walking on the earth.' And I looked at him significantly.",
+            "He thought this was a warning and therefore was sorely afraid and stopped his outward persecution of the Blessed Perfection."
+          ]
         },
         {
           "key": "source:ABU3517",
@@ -887,11 +1159,19 @@
         },
         {
           "key": "source:ABU1050",
-          "why": "Read the recalled empty rifle and the laughter that accompanies it."
+          "why": "Read the recalled empty rifle and the laughter that accompanies it.",
+          "shortened": [
+            "During the first year of our arrival in Bagdad one day Mirza Javad asked me to go out with him to an outlying district.",
+            "We did not have anything on ourselves but the other man had some money and was grateful to us because we saved him. Addressing Mirza Javad he said:- \"I am glad you did not kill them. The way you took your rifle in your hands I thought every moment you will shoot at them.\" [Here the Master had a hearty laugh and added:] \"And all this time our rifle was empty.\""
+          ]
         },
         {
           "key": "source:ABU0844",
-          "why": "Consider travel preparations and the lessons drawn from experience."
+          "why": "Consider travel preparations and the lessons drawn from experience.",
+          "shortened": [
+            "When we were travelling from Bagdad toward Constantinople, one day, we thought [to] go ahead of the family, pitch the tent and prepare everything till Baha'u'llah and the rest of the party arrive. There were twenty three of us, all on horses.",
+            "Experience teaches us many lessons that we are not apt to forget."
+          ]
         },
         {
           "key": "source:ABU0047",
@@ -911,19 +1191,32 @@
         },
         {
           "key": "source:AB01348",
-          "why": "Consider the letter’s account of facing hostile officials and crowds alone."
+          "why": "Consider the letter’s account of facing hostile officials and crowds alone.",
+          "shortened": [
+            "And 'Abdu'l-Baha was alone and unique, without helper or assistant, while the turbaned ones were at the height of wickedness and the officials at the extreme of oppression and enmity, and the masses of fanatics were attacking."
+          ]
         },
         {
           "key": "source:ABU0739",
-          "why": "Hear the reported reply that turns an intended insult into an expression of belonging."
+          "why": "Hear the reported reply that turns an intended insult into an expression of belonging.",
+          "shortened": [
+            "Regarding Khalil Pasha who threatened and harassed extensively and sent a telegram every day - I finally got hold of his spiritual guide here and said to him: \"I have a confidential message for Khalil which until now I have found no confidant for. Now since you are his guide, I tell you and send this message through you. Tell him: You write about me as 'Abbas the Baha'i' or 'Abbas the Iranian' thinking this is an insult to me, whereas it is my greatest pride, for you count me among those whom I ardently desire to be a servant of."
+          ]
         },
         {
           "key": "source:ABU3019",
-          "why": "Read the reported loneliness and opposition after Bahaullah’s passing."
+          "why": "Read the reported loneliness and opposition after Bahaullah’s passing.",
+          "shortened": [
+            "After the ascent of Baha'u'llah I was all alone. Enemies within and enemies without have attacked me and thousand difficulties surrounded me."
+          ]
         },
         {
           "key": "source:ABU1970",
-          "why": "Notice the practical care involved in moving a smoky kitchen."
+          "why": "Notice the practical care involved in moving a smoky kitchen.",
+          "shortened": [
+            "This day, while pacing in the hallway [of the house of 'Abbud], the Master remarked:",
+            "This room was the kitchen. The smoke bothered the Blessed Beauty, so I changed its location."
+          ]
         },
         {
           "key": "source:ABU0195",
@@ -931,11 +1224,17 @@
         },
         {
           "key": "source:BHU0011",
-          "why": "Read the recollected words of Bahaullah about the Master’s shielding service."
+          "why": "Read the recollected words of Bahaullah about the Master’s shielding service.",
+          "shortened": [
+            "The Master has borne all the hardships for our comfort and ease. He has become an impregnable fortress and a mighty shield before the world and its peoples, bringing us comfort."
+          ]
         },
         {
           "key": "source:ABU0073",
-          "why": "Consider the dying official’s trust in entrusting his daughter’s money."
+          "why": "Consider the dying official’s trust in entrusting his daughter’s money.",
+          "shortened": [
+            "With an excuse, he sent his servant out of the room and said [to Me], \"I have a nephew and a daughter. My nephew is an entrenched enemy of mine. My daughter lives in Qamran in Yaman, in the midst of the tribes of Arabia. I have eighteen hundred Majidi coins which I want to bequeath her.\" I gave some excuse that I had no way of reaching the deserts of Arabia, but he said, \"I implore You to accept this mission before my servant returns. Take this money as I have no means other than You.\" I took the money and that very night 'Abdu'llah Pasha passed away."
+          ]
         },
         {
           "key": "source:ABU0998",
@@ -955,7 +1254,10 @@
         },
         {
           "key": "source:ABU2420",
-          "why": "Read the reported discomfort after becoming accustomed to a soft cushion."
+          "why": "Read the reported discomfort after becoming accustomed to a soft cushion.",
+          "shortened": [
+            "\"When I was in Paris one of the believers brought me a soft cushion and urged me to put it under my head. I became accustomed to it and as there is none in this hotel my neck has pained me all these nights."
+          ]
         },
         {
           "key": "source:ABU3077",
@@ -967,11 +1269,17 @@
         },
         {
           "key": "source:ABU0873",
-          "why": "Consider the reported distinction between traveling to visit and attaining understanding."
+          "why": "Consider the reported distinction between traveling to visit and attaining understanding.",
+          "shortened": [
+            "When I was in prison many people came to see me. They crossed seas and deserts and yet remained in the city of the blind while others in far-distant lands attained the meeting."
+          ]
         },
         {
           "key": "source:ABU0331",
-          "why": "Hear the frustrated plan to travel to Kashgar."
+          "why": "Hear the frustrated plan to travel to Kashgar.",
+          "shortened": [
+            "Then I thought I might go to Kashgar, - one of the provinces of China and a place not visited up to that time by any Baha'i teacher. I was going to travel alone, singly and no baggage, only a hand-bag containing a number of Tablets and books and paper and pen. I secured even my passport, the old deceased Mofti stood as my guarantee. When the crafty Motosarraf, Ibrahim Pasha, heard about this, he sent his Secretary to me with the message: 'I have heard your Excellency contemplates taking a long journey. I will not be so disrespectful or discourteous as to thwart your plan or in any way hinder your departure but as I am the Governor of this province, I am responsible to the Central Government for everything that happens here. Therefore it will only be my official duty to send a cable concerning your departure as soon as you set your feet on the steamer.' I was familiar with the fortuitous way of Oriental expressions, so I saw that this was a polite way of saying: 'We will not let you go!' hence I deferred it to a more opportune time."
+          ]
         },
         {
           "key": "source:ABU0944",
@@ -979,7 +1287,10 @@
         },
         {
           "key": "source:AB01424",
-          "why": "Consider resolve to cross the ocean despite frailty and danger."
+          "why": "Consider resolve to cross the ocean despite frailty and danger.",
+          "shortened": [
+            "Although this weak body has absolutely no strength to endure sea travel and there is danger of peril, especially in the Pacific and Atlantic oceans, yet hope lies in the confirmations of the Blessed Beauty, that He may make a feeble gnat into a soaring eagle, and a weak ant into a manifest serpent. Trusting in Him and relying upon His grace and favor, we shall unfurl the ship's sail and navigate in the season of storms to see what has been ordained."
+          ]
         },
         {
           "key": "source:ABU0292",
@@ -987,15 +1298,25 @@
         },
         {
           "key": "source:AB04587",
-          "why": "Read affection for friends in a letter written amid ocean waves."
+          "why": "Read affection for friends in a letter written amid ocean waves.",
+          "shortened": [
+            "Due to the intensity of the ocean waves' motion, writing is difficult and arduous. This servant, with an ailing constitution and weak and frail body, in such a state is in intense agitation remembering and thinking of old friends, companions and confidants. Writing this letter is clear proof of the heart and soul's connection to the friends, showing how precious they are in this arena."
+          ]
         },
         {
           "key": "source:AB01791",
-          "why": "Keep the brief letter written while seasick in the Atlantic."
+          "why": "Keep the brief letter written while seasick in the Atlantic.",
+          "shortened": [
+            "O trusted one of 'Abdu'l-Baha! I am writing the answer to your letter in the Atlantic Ocean, but briefly, as detail is not possible.",
+            "I am writing this letter to you now in this great ocean in a state of weakness and feebleness and seasickness, therefore excuse me if it is brief."
+          ]
         },
         {
           "key": "source:AB09383",
-          "why": "Read writing for others’ consolation while fellow passengers sleep."
+          "why": "Read writing for others’ consolation while fellow passengers sleep.",
+          "shortened": [
+            "Yet 'Abdu'l-Baha does this - while all the people on the ship are peacefully asleep in their beds, embraced by comfort, this sick one, captured by love for the friends, has been occupied with writing from sunrise until now, that perhaps it may bring solace to hearts and joy to souls."
+          ]
         },
         {
           "key": "source:ABU3734",
@@ -1007,15 +1328,24 @@
         },
         {
           "key": "source:ABU3208",
-          "why": "Read the Broadway lights and the remembered counsel about using light."
+          "why": "Read the Broadway lights and the remembered counsel about using light.",
+          "shortened": [
+            "As we drove up Broadway, glittering with its electric signs, He spoke of them smiling, apparently much amused. Then He told us that Baha'u'llah had loved light. \"He could never get enough light. He taught us,\" the Master said, \"to economize in everything else but to use light freely.\""
+          ]
         },
         {
           "key": "source:AB01763",
-          "why": "Hear the letter to a beloved sister amid beautiful scenery and consuming work."
+          "why": "Hear the letter to a beloved sister amid beautiful scenery and consuming work.",
+          "shortened": [
+            "We are now staying at Grant Hotel in Thonen on the shore of Lake Swiss, thinking of thee and remembering thee. The beauty of the scenery, the pleasantness of the place, the purity of the water, the charm of the horizon, the softness of the breeze, and the lushness of the mountain have combined to produce an extraordinary sight better than which cannot be imagined. However, 'Abduil-Baha is so busied with work and writing that He has no time to look [at the scenery]."
+          ]
         },
         {
           "key": "source:AB07300",
-          "why": "Consider the missed meeting and prayers for friends during western travel."
+          "why": "Consider the missed meeting and prayers for friends during western travel.",
+          "shortened": [
+            "As for meeting twice, this was the wish of both you and me, but God willed that I should hasten to the West and there remember the friends and worship and petition that heavenly power may be your helper and supporter and give joy to the long-standing friends."
+          ]
         },
         {
           "key": "source:ABU1877",
@@ -1023,7 +1353,10 @@
         },
         {
           "key": "source:ABU1849",
-          "why": "Hear affection for a gathering alongside an unopened family letter."
+          "why": "Hear affection for a gathering alongside an unopened family letter.",
+          "shortened": [
+            "I always derive great pleasure from being with you. I shall always remember these gatherings. I shall never forget them. If I cannot see each one of you individually every day that should not undermine our real love. See how much work I have to do! It is more than a week since I received this letter from my sister, the Greatest Holy Leaf [Bahiyyih Khnum], and other members of the household, but I have not had the opportunity to open it yet."
+          ]
         },
         {
           "key": "source:ABU2372",
@@ -1039,27 +1372,45 @@
         },
         {
           "key": "source:ABU1784",
-          "why": "Read the recollection of trying to avoid photographers."
+          "why": "Read the recollection of trying to avoid photographers.",
+          "shortened": [
+            "But when I went to London I realized how impossible it was to ward off the professional photographs. For the first few days I succeeded to elude them and hardly went out of the house. But one day there was a meeting in the house of Mrs Cropper and I was invited to attend. In order to escape their cameras I drew my Aba over my head and hastened to the automobile. They had however taken a snapshot and the next day I was surprised to see it in many newspapers. Realizing at last how impossible it was to prevent them I asked them to come and take at least a good photograph."
+          ]
         },
         {
           "key": "source:AB05261",
-          "why": "Keep the earlier letter’s explanation of the youthful photograph."
+          "why": "Keep the earlier letter’s explanation of the youthful photograph.",
+          "shortened": [
+            "In regard to the question thou askest about the picture of this oppressed one, saying that it was much spread in America: Know that this imprisoned one never had a picture taken except in youth, and that one also on account of the command and will of Baha'u'llah, I merely consented so as to obey His command."
+          ]
         },
         {
           "key": "source:AB11890",
-          "why": "Read the spread of photographs against the expressed wish for effacement."
+          "why": "Read the spread of photographs against the expressed wish for effacement.",
+          "shortened": [
+            "This servant's wish and purpose was such that I should have no trace or sign in this ephemeral world - that I should be completely effaced and non-existent and evanescent and without trace. But destiny was such that in early youth by a definitive command from the pure lips I should have a photograph taken. However, it had been forgotten. I know not what happened that it fell into the hands of the friends until it spread throughout all the world and was printed in various forms, even appearing in many newspapers printed and published and famous, and through love of that Kind Beloved I became notorious throughout the horizons."
+          ]
         },
         {
           "key": "source:AB01551",
-          "why": "Keep the letter’s severe aspiration concerning a final photograph in its devotional setting."
+          "why": "Keep the letter’s severe aspiration concerning a final photograph in its devotional setting.",
+          "shortened": [
+            "Regarding the matter of the blessed crown, 'Abdu'l-Baha's utmost desire was that after the ascension of the Intended One (may my spirit be a sacrifice for the dust of His threshold), I would not have any photograph taken except on the day of sacrifice at the foot of the gallows or upon the gallows itself, in a state where the blessed crown would adorn my head - in such a state would the photograph be taken."
+          ]
         },
         {
           "key": "source:ABU1259",
-          "why": "Read the reported purpose of the long journeys through cities and countries."
+          "why": "Read the reported purpose of the long journeys through cities and countries.",
+          "shortened": [
+            "Today the hosts of the Supreme Concourse in the Most Glorious Kingdom have formed their ranks, and all are waiting to assist and support whoever enters the arena. This is why I abandoned every task, every thought, every mention, every imagination, and for three and a half years I went through deserts, mountains, valleys, cities and countries, raising my voice and crying out. And it was clear and evident that divine favors and bounties were descending."
+          ]
         },
         {
           "key": "source:ABU1329",
-          "why": "Consider the recollection of joy through a common purpose in the West."
+          "why": "Consider the recollection of joy through a common purpose in the West.",
+          "shortened": [
+            "When in Europe and in America we had no other concern save the glorification of God and the propagation of the Principles of the Blessed Perfection. For this reason we lived in an atmosphere of joy and fragrance."
+          ]
         },
         {
           "key": "source:AB03012",
@@ -1071,27 +1422,46 @@
         },
         {
           "key": "source:ABU1044",
-          "why": "Keep the reported exertions under fever as personal testimony."
+          "why": "Keep the reported exertions under fever as personal testimony.",
+          "shortened": [
+            "When in America, although I had a nervous fever, yet I attend churches, meetings, conventions, speaking and crying at the top of my voice. Never was I attacked with a spiritual weakness or inability. In Budapest I had a high fever and a severe cold. Notwithstanding this, from six in the morning until twelve at night, I was either speaking, calling on people, addressing meetings or writing."
+          ]
         },
         {
           "key": "source:AB00944",
-          "why": "Read the letter’s account of earlier illness and years of travel."
+          "why": "Read the letter’s account of earlier illness and years of travel.",
+          "shortened": [
+            "Although five years ago, due to severe hardships, my physical frame could not endure and various illnesses befell me, yet for four years 'Abdu'l-Baha wandered through mountains and deserts, lost in wilderness and seas, and throughout all the western countries gave the glad-tidings of the appearance of the Kingdom of God."
+          ]
         },
         {
           "key": "source:AB01137",
-          "why": "Consider the westward work and return toward the Holy Land."
+          "why": "Consider the westward work and return toward the Holy Land.",
+          "shortened": [
+            "For three years this servant has wandered through mountains and deserts, and in all cities has been occupied with crying out \"O Glory of the Most Glorious!\" During this time he was often ill, but the intensity of weakness and strength of illness did not hold him back from crying, lamenting and shouting until he reached Alexandria.",
+            "Now, despite his weak condition, he proceeds with utmost strength toward the Most Great Prison, and his ultimate desire is that through the assistance and favor of the Blessed Beauty and God's infinite grace, whatever is the ultimate goal may be achieved and the means for new tribulations be provided."
+          ]
         },
         {
           "key": "source:AB02139",
-          "why": "Read the concise letter announcing return to the land of Joseph."
+          "why": "Read the concise letter announcing return to the land of Joseph.",
+          "shortened": [
+            "After a period of travelling through mountain and desert, and voyaging over ocean and sea, I have returned from the West to the East, and have entered into the ancient land of Joseph the Canaanite."
+          ]
         },
         {
           "key": "source:AB01480",
-          "why": "Hear the modest hope of further service after returning East."
+          "why": "Hear the modest hope of further service after returning East.",
+          "shortened": [
+            "O you who are firm in the Covenant! Praise be to God, I have hastened from the West towards the East. Although no service was achieved in the West, I hope that perhaps in the East I may be able to draw a breath in servitude at the Threshold."
+          ]
         },
         {
           "key": "source:AB01982",
-          "why": "Read departure from the prison city toward Egypt with joy."
+          "why": "Read departure from the prison city toward Egypt with joy.",
+          "shortened": [
+            "O beloved friends, 'Abdu'l-Baha, through divine confirmations and heavenly assistance, has journeyed from the Most Great Prison - despite the opposition of the hateful ones - to the region of the Moon of Canaan in the utmost joy and delight."
+          ]
         },
         {
           "key": "source:AB03789",
@@ -1103,35 +1473,62 @@
         },
         {
           "key": "source:AB03132",
-          "why": "Read the letter’s explanation of correspondence resuming after some recovery."
+          "why": "Read the letter’s explanation of correspondence resuming after some recovery.",
+          "shortened": [
+            "Until now, due to the hardship of this lengthy journey, the body was extremely weak and frail and thus could not bear to write. Now that some recovery and relief from nervous illness has been obtained, this letter has been written."
+          ]
         },
         {
           "key": "source:AB03011",
-          "why": "Keep the account of sudden renewed health as the writer’s testimony."
+          "why": "Keep the account of sudden renewed health as the writer’s testimony.",
+          "shortened": [
+            "Though extremely weak at night, in the morning complete rest, health and strength were attained. This immediate divine healing was from the infinite bounty. When I arose from my bed in the morning, I immediately began writing and speaking. No one would have thought such rapid healing possible - no medicine, no treatment, no favorable climate."
+          ]
         },
         {
           "key": "source:AB04683",
-          "why": "Read physical weakness and spiritual gladness together."
+          "why": "Read physical weakness and spiritual gladness together.",
+          "shortened": [
+            "Although the body is tired and weak, the spirit is gladdened by the glad-tidings of God. In the presence of spiritual confirmation, if there is some weakness in the physical realm, it matters not, for this earthly frame is composed of elements of the transient world. Surely health and wellness cannot be continuous - it is of no importance."
+          ]
         },
         {
           "key": "source:ABU2219",
-          "why": "Hear the reported need for silence after speaking at length."
+          "why": "Hear the reported need for silence after speaking at length.",
+          "shortened": [
+            "According to the words of His Holiness the Spirit Who says \"The body grieves while the spirit rejoices among them,\" my body has grown weary from this journey. Therefore when I speak at length, afterwards I must remain somewhat quiet and silent, yet praise be to God, the spirit through the bestowals of the Blessed Beauty is joyous."
+          ]
         },
         {
           "key": "source:ABU2790",
-          "why": "Consider the reported practice of resolve and supplication before difficult work."
+          "why": "Consider the reported practice of resolve and supplication before difficult work.",
+          "shortened": [
+            "When travelling in America and Europe, on many occasion[s] I did not have the power of uttering one word but before entering the meeting I begged Baha'u'llah to reinforce me and then walked in and commenced to speak for one or two hours.",
+            "Whenever there is any work to be done and I see that physically I am not equal to it, I have just to resolve and supplicate Divine Assistance and arise in its performance. It will be done without delay."
+          ]
         },
         {
           "key": "source:ABU2388",
-          "why": "Keep the emphatic reported resolve to work in its personal voice."
+          "why": "Keep the emphatic reported resolve to work in its personal voice.",
+          "shortened": [
+            "Look at me! I do not listen to sickness. I do not listen to sleeplessness. I do not listen to fatigue. I do not listen to anything. I work and strive. I toil and labor."
+          ]
         },
         {
           "key": "source:ABU3096",
-          "why": "Read the reported conversation about food, work, and encouraging news as testimony."
+          "why": "Read the reported conversation about food, work, and encouraging news as testimony.",
+          "shortened": [
+            "The old man said: \"The believers feel that there are two reasons for 'Abdu'l-Baha's weariness. First, he does not eat enough. Secondly, he works too hard.\"",
+            "Then 'Abdu'l-Baha, very humbly, told him that he was mistaken. \"Do you think\", he said, \"that this material food has any effect upon my body? This food has no effect. Only good news from the believers, the glad tidings which comes from all parts of the world of the advancement of the Cause, of the unity of the believers, this, only, improves my health."
+          ]
         },
         {
           "key": "source:ABU1160",
-          "why": "Notice the reported decision to avoid worsening illness and the example of seeking treatment."
+          "why": "Notice the reported decision to avoid worsening illness and the example of seeking treatment.",
+          "shortened": [
+            "Since I had not seen the friends all day, I decided to come to the pilgrim house and visit you. The weather was stormy, and I had the lingering trace of an illness and, therefore, thought best not to leave the house so that my condition would not worsen.",
+            "It was in accordance with this ordinance [of Baha'u'llah] that I sent Aqa Siyyid Asadu'llah to Istanbul to remedy (the bite of the rabid dog) so that it would serve as an example for the friends."
+          ]
         },
         {
           "key": "source:ABU3311",
@@ -1143,11 +1540,20 @@
         },
         {
           "key": "source:ABU1682",
-          "why": "Keep the recollection of rest on sand and earlier sleeping habits attributed."
+          "why": "Keep the recollection of rest on sand and earlier sleeping habits attributed.",
+          "shortened": [
+            "Once I was feeling very sick and at the invitation of the governor and the judge of Acca we rode on horseback toward Tiberias. It was a dark light and it was long after 12 o'clock when we reached a plain of olive trees. My friends came down from their horses to perform ablution and pray, and as I was not feeling well and tired I stretched my body on the soft, dry sand under an olive tree. The rest of the party being also very fatigued slept waiting for the sunrise. When I got up in the morning I felt well entirely and everybody marveled at the mysterious cure. The dry sand was however the main cause that contributed to my health...",
+            "When I was young I never slept on the mattress. I slept on the floor. I would take a book and read it till late at night. When I was drowsy with sleep I would put the book under my head and cover my body with my Aba. How I slept soundly! I can never forget the true enjoyment of those nights."
+          ]
         },
         {
           "key": "source:ABU1454",
-          "why": "Read the physician’s narrative of a child’s treatment and the garden scene."
+          "why": "Read the physician’s narrative of a child’s treatment and the garden scene.",
+          "shortened": [
+            "When I returned home from a medical visit on the Carmel towards noon on 6 August 1910, my old maidservant Hadtschile said to me: \"Just now a servant of 'Abdu'l-Baha was here and left the message that the Hakimih should come at 'Asr' (3 o'clock) to the Haremlik (women's quarters) of the Master, as one of the maidservants has a very bad finger.\"",
+            "The Master had me tell Him about the finger of the little girl, and whether the danger of blood poisoning was now gone.",
+            "I took leave of Bahiyyih Khanum, and when I was leaving I saw the Master standing in the garden, where He was apparently engrossed in profound thought, looking at a fig-tree laden with fruit."
+          ]
         },
         {
           "key": "source:AB03985",
@@ -1155,15 +1561,24 @@
         },
         {
           "key": "source:AB06335",
-          "why": "Read the letter written near the Sea of Galilee in its devotional language."
+          "why": "Read the letter written near the Sea of Galilee in its devotional language.",
+          "shortened": [
+            "O thou who art attracted by the lights of the Beauty of the Divine Friend! The friends of God have arrived and this servant is residing on the shores of the Sea of Galilee. The River Jordan has joined the Most Great Sea and the Son calls out in the sacred valley \"Here am I, O my God, here am I!\""
+          ]
         },
         {
           "key": "source:AB09475",
-          "why": "Hear quiet remembrance while seated beside the lake."
+          "why": "Hear quiet remembrance while seated beside the lake.",
+          "shortened": [
+            "O thou who hast turned unto the world of the Kingdom! At this moment, as I sit by the Sea of Galilee, detached from all save the Friend, and expectantly awaiting the universal outpourings of the All-Merciful, I have taken up my pen to write this brief letter."
+          ]
         },
         {
           "key": "source:AB02571",
-          "why": "Read solitude on Carmel alongside remembrance of another person."
+          "why": "Read solitude on Carmel alongside remembrance of another person.",
+          "shortened": [
+            "O noble branch of the Blessed Tree! At this moment, as I sit alone and solitary on Mount Carmel at the shrine of His Holiness Khidr Abu'l-Abbas, detached from friend and stranger alike, I am occupied with thoughts and remembrance of you."
+          ]
         },
         {
           "key": "source:ABU2315",
@@ -1183,7 +1598,10 @@
         },
         {
           "key": "source:ABU1103",
-          "why": "Keep the brief reported conversation with a traveling companion."
+          "why": "Keep the brief reported conversation with a traveling companion.",
+          "shortened": [
+            "All the companions of our trips in different parts of the world have departed and only Me and you are left! What dost thou say to this? And now where are we? In the Arabian Sahara, away from civilization and the haunts of men."
+          ]
         },
         {
           "key": "source:ABU0372",
@@ -1195,7 +1613,10 @@
         },
         {
           "key": "source:ABU2344",
-          "why": "Keep the witness’s description of a private evening conversation as the selected text."
+          "why": "Keep the witness’s description of a private evening conversation as the selected text.",
+          "shortened": [
+            "[One dark night, as 'Abdu'l-Baha paced up and down the long front hallway of the reception room, relaxing and easing the stresses of a busy day, He asked me the following question. I was the only one in His presence at the time, and for a span of one hour had the sole honour of listening to His heavenly utterances.]"
+          ]
         },
         {
           "key": "source:ABU3615",
@@ -1203,11 +1624,17 @@
         },
         {
           "key": "source:ABU0271",
-          "why": "Keep the report of personal experiences attributed to its speaker."
+          "why": "Keep the report of personal experiences attributed to its speaker.",
+          "shortened": [
+            "I have certain things that attract the confirmations of God. They are so wonderful and extraordinary that if I tell them, some people might not accept them as facts. These things especially belong to me. No one else knows or has ever given any importance to them."
+          ]
         },
         {
           "key": "source:ABU0772",
-          "why": "Read the remembered desire for prayerfulness and spiritual growth with its omission."
+          "why": "Read the remembered desire for prayerfulness and spiritual growth with its omission.",
+          "shortened": [
+            "During the lifetime of Baha'u'llah my whole object revolved around the idea of how to become more spiritual, more attracted, more enkindled, how to live in accord with the good-pleasure of th[e] Blessed Perfection, how to become assisted in a worthy service, how to attain to an abstracted state of supplication and prayerfulness. [I] often was in a meeting but I was so self-occupied that I did not hear their conversations ..."
+          ]
         },
         {
           "key": "source:AB09517",
@@ -1215,15 +1642,24 @@
         },
         {
           "key": "source:AB02669",
-          "why": "Hear grief for martyrs that leaves little room for speech."
+          "why": "Hear grief for martyrs that leaves little room for speech.",
+          "shortened": [
+            "In these days, such trials and tribulations have assailed 'Abdu'l-Baha and sorrows have so encompassed Him that no chance for breathing remains nor opportunity for speech. Night and day, in remembrance of the martyrs, He is so affected, longing, grieved and regretful that it defies description."
+          ]
         },
         {
           "key": "source:AB03413",
-          "why": "Read the longing to visit the martyrs’ graves and follow their example."
+          "why": "Read the longing to visit the martyrs’ graves and follow their example.",
+          "shortened": [
+            "'Abdu'l-Baha cherisheth the wish of perfuming his nostrils with the fragrant dust of these luminous graves. This is my highest hope and my utmost aspiration. I beseech God to grant me this honour, and to enable me to follow their example. May my life be a sacrifice for them. May my heart be a sacrifice for them."
+          ]
         },
         {
           "key": "source:AB03056",
-          "why": "Consider the many forms of work continuing amid consuming grief."
+          "why": "Consider the many forms of work continuing amid consuming grief.",
+          "shortened": [
+            "Yet, from morn until now, notwithstanding this sorrow, this consuming grief, and this distress, I have on one side been occupied in writing, on another in arranging affairs and visiting the sacred Threshold, on yet another in receiving the visitors from America, and again in answering the letters of the friends."
+          ]
         },
         {
           "key": "source:AB02736",
@@ -1231,7 +1667,10 @@
         },
         {
           "key": "source:AB05362",
-          "why": "Keep the detailed account of safeguarding friends and attending to affairs."
+          "why": "Keep the detailed account of safeguarding friends and attending to affairs.",
+          "shortened": [
+            "The friends who are present observe that the physical occupation and mental occupation and various questions and solving of great problems and protection and safeguarding of the friends in every spot and arrangement of affairs and attention to travelers and attending to the work of the friends in the Holy Land is to such a degree that it is beyond imagination."
+          ]
         },
         {
           "key": "source:AB00500",
@@ -1247,7 +1686,10 @@
         },
         {
           "key": "source:AB04732",
-          "why": "Keep the correspondent’s direct observation of ceaseless responsibilities."
+          "why": "Keep the correspondent’s direct observation of ceaseless responsibilities.",
+          "shortened": [
+            "O honorable Amin! Praise be to God, you came yourself and observed that this servant is drowned in an ocean of occupations and difficulties and papers and letters to all regions. He has not a minute's rest and never seeks comfort."
+          ]
         },
         {
           "key": "source:AB04514",
@@ -1255,7 +1697,10 @@
         },
         {
           "key": "source:AB01714",
-          "why": "Consider writing, listening, and answering questions at once."
+          "why": "Consider writing, listening, and answering questions at once.",
+          "shortened": [
+            "Even now I am present in a gathering where all kinds of conversation are taking place, and groups from outside and inside are speaking, each explaining their problems and pains. This servant is writing while also listening to their speech and answering questions."
+          ]
         },
         {
           "key": "source:AB06260",
@@ -1267,7 +1712,10 @@
         },
         {
           "key": "source:AB04095",
-          "why": "Hear the tired pen imagined as a horse that would have collapsed."
+          "why": "Hear the tired pen imagined as a horse that would have collapsed.",
+          "shortened": [
+            "O Mahdi! The day is done and the sun is setting, and the pen of 'Abdu'l-Baha has been bowing and prostrating since morning until now. Now it gives another reply and swears that if it were an Arabian steed or a Turkmen horse, it would have collapsed by now and would not have lifted its head from prostration."
+          ]
         },
         {
           "key": "source:AB01275",
@@ -1275,7 +1723,10 @@
         },
         {
           "key": "source:AB05044",
-          "why": "Consider a letter begun at dawn to assure someone of remembrance."
+          "why": "Consider a letter begun at dawn to assure someone of remembrance.",
+          "shortened": [
+            "Now that it is dawn and the rays of the grace of the Sun of Truth are shining from every direction, I remembered the Afnan of the Blessed Tree and set about writing this letter in my own hand, so that you may know that you are remembered and are ever present before my sight."
+          ]
         },
         {
           "key": "source:AB08092",
@@ -1283,11 +1734,18 @@
         },
         {
           "key": "source:AB02785",
-          "why": "Read the apology for delayed Naw-Ruz greetings during frequent moves."
+          "why": "Read the apology for delayed Naw-Ruz greetings during frequent moves.",
+          "shortened": [
+            "O true friends and daughters of the Kingdom in Denver, upon them be the Most Glorious Glory!",
+            "Your Naw-Ruz greeting arrived, but until now there has not been an opportunity to write a response, as I had no fixed location - sometimes I was in Tiberias, sometimes in Humayma, sometimes in 'Akka, and sometimes in Haifa, and great occupations prevented writing a reply."
+          ]
         },
         {
           "key": "source:AB10291",
-          "why": "Consider the explanation of delay through travel, addresses, and questions."
+          "why": "Consider the explanation of delay through travel, addresses, and questions.",
+          "shortened": [
+            "Due to bodily infirmity, the difficulties of traveling over seas and lands, lack of rest, striving and exerting day and night, delivering long addresses in different cities, and answering the varied, intricate questions of people, 'Abdu'l-Baha has not been able to answer it."
+          ]
         },
         {
           "key": "source:AB08565",
@@ -1303,7 +1761,11 @@
         },
         {
           "key": "source:ABU2932",
-          "why": "Read the reported effort to fulfill that promise to eastern friends."
+          "why": "Read the reported effort to fulfill that promise to eastern friends.",
+          "shortened": [
+            "\"I am trying to amend for the past. I am devoting all my time to the Oriental friends. Before leaving for America I wrote to them that during my journey they must excuse me from any letter-writing, that after my return I will write to them as of old and now I am fulfilling my promise\"",
+            "When we left I ventured to say that many petitions from America and Europe are accumulated that invite his attention."
+          ]
         },
         {
           "key": "source:AB03744",
@@ -1311,11 +1773,17 @@
         },
         {
           "key": "source:ABU1922",
-          "why": "Read the reported beginning of responsibility for answering petitions."
+          "why": "Read the reported beginning of responsibility for answering petitions.",
+          "shortened": [
+            "And once the Blessed Beauty summoned me and said \"What arrangement will you make?\" I said \"I am ready to write replies.\" Then the Blessed Beauty wrote words to this effect: \"So-and-so has undertaken and guaranteed to reply to petitions.\" That same night I wrote fifty replies, and from that time until now I reply to all letters."
+          ]
         },
         {
           "key": "source:AB00255",
-          "why": "Keep the hope of travel to India alongside the demands of visitors and letters."
+          "why": "Keep the hope of travel to India alongside the demands of visitors and letters.",
+          "shortened": [
+            "However, at present there are many obstacles, though in the future, through the assistance and favor of Baha'u'llah, it is hoped that the means will be provided. Whenever possible, I shall immediately journey to India, but only if such a journey becomes feasible, for it is an extended voyage, and the Holy Land is a center receiving an unceasing flow of letters like rain from all directions. At minimum one in ten must be answered, while seekers bound for the Ka'bih of the Beloved arrive in succession, who must be met with and served, for 'Abdu'l-Baha is the servant of the friends and takes pride in this mighty station."
+          ]
         },
         {
           "key": "source:ABU1338",
@@ -1327,7 +1795,10 @@
         },
         {
           "key": "source:AB02350",
-          "why": "Keep the letter’s account of returning fever and continuing work."
+          "why": "Keep the letter’s account of returning fever and continuing work.",
+          "shortened": [
+            "For four years I frequently had nervous fevers and my constitution was completely weakened. After four years it stopped for five or six months and my constitution gained some strength. Now due to severe distress, for the past month the nervous fever has returned and I have fever every night, but I have not gone to bed and am occupied with work day and night...."
+          ]
         },
         {
           "key": "source:ABU3326",
@@ -1343,11 +1814,17 @@
         },
         {
           "key": "source:AB11748",
-          "why": "Read pure servitude as the writer’s joy and tranquility."
+          "why": "Read pure servitude as the writer’s joy and tranquility.",
+          "shortened": [
+            "By God the True One, through it my face becomes radiant, my breast is dilated, and my spirit is refreshed. For pure and sincere servitude to it, free from all interpretation and allusion, is the crown of my head, the diadem of my brow, the light of my countenance, the joy of my heart, the tranquility of my soul, and the assurance of my mind."
+          ]
         },
         {
           "key": "source:AB00561",
-          "why": "Hear the wish for servitude amid awareness of a limited life."
+          "why": "Hear the wish for servitude amid awareness of a limited life.",
+          "shortened": [
+            "These days are numbered few. I shall soon take refuge in the proximity of the Most Great Mercy, and shall be freed from both honor and humiliation, and shall find rest in the shade of the Tree of Companionship. I beseech all friends to pray for this servant that, as is the desire of my heart and soul, I may succeed in servitude at the Sacred Threshold - and nothing more. I have no other desires, seek no comfort, want no bounty, seek no glory, pursue no joy, but endure the stones of cruelty with perfect faithfulness, and bear accusations of polytheism, unbelief and apostasy with complete patience and tranquility."
+          ]
         },
         {
           "key": "source:ABU2118",
@@ -1363,11 +1840,17 @@
         },
         {
           "key": "source:ABU2754",
-          "why": "Consider preparing others to take up responsibility."
+          "why": "Consider preparing others to take up responsibility.",
+          "shortened": [
+            "While in America I strove day and night to prepare a few, holy sanctified souls to take up the burden of the Cause after my departure."
+          ]
         },
         {
           "key": "source:ABU1966",
-          "why": "Close with joy placed in the service actually accomplished by others."
+          "why": "Close with joy placed in the service actually accomplished by others.",
+          "shortened": [
+            "I am now growing old. O, very old! All through my life I have carried on my back, gladly, the burdens of the believers; but now I ever anticipate hearing the good news of service actually accomplished by them. Save this, I have no other joy in the world."
+          ]
         }
       ],
       "questions": [
@@ -1464,7 +1947,7 @@
       "id": "219279DFECFA48B88656EECEC4290CA7",
       "slug": "islamshiihdecline",
       "displayTitle": "Religious decline: unity, persecution, and self-examination",
-      "introduction": "How can a community that cherishes a revelation lose sight of the qualities that first gave it life? These passages approach that question through Bahai critiques of Islam’s historical condition, especially disputes over authority and the persecution associated with Shiah opposition to the Bab and Bahaullah. Their language ranges from sorrow over lost justice and social vitality to fierce condemnation of religious leaders and inherited expectations. Letters and reported conversations connect division with education, conduct, claims of superiority, and the treatment of new spiritual claims. Several turn the warning toward followers of the Bayan or the Bahai community itself, making the inquiry one of continuing self-examination. Neighboring subjects connect this material with renewal, Muhammad, proclamation, and violence in religion. The Qur’anic call to hold together and remember former enmity offers a comparative standard for reflection. How can historical criticism lead a reader toward justice, humility, and repair?",
+      "introduction": "Hospitals in Damascus with pharmacies and physicians, endowments for orphans, for strangers, even for servants who broke a dish and feared their master: ‘Abdu’l-Bahá recalls these to ask what became of a community whose first standard-bearers astonished the world. Bahá’u’lláh’s answer is unsparing and at moments grieving: as hearts darkened, justice was veiled and tyranny took its seat, power turned into weakness and courage into fear, and division did what no outside enemy could. The sharper charge concerns expectation. A people who waited twelve centuries for the Promised One, and counted as infidels any who said he would be born, found their books and anticipation turned into swords when the Báb appeared in Fars; inherited tales became veils thicker than the ones they replaced. None of this rests safely in the past, since the same warnings are turned on the followers of the Bayan and then on the Bahá’ís themselves. The Qur’an’s call to hold fast together and remember how former enemies became brothers offers a measure for any community. From here the road runs through Muhammad and the foundation of Islam, the wider story of corruption and renewal, and violence in the name of God, toward the plain work of justice, education and repair.",
       "arc": "Begin with Islam’s spiritual foundation and the costs of division, examine the sources’ accounts of authority, expectation, and persecution, then follow their warnings inward toward self-examination, education, justice, and renewal.",
       "order": [
         {
@@ -1481,19 +1964,31 @@
         },
         {
           "key": "source:AB04722",
-          "why": "Place justice and equity at the center of the inquiry."
+          "why": "Place justice and equity at the center of the inquiry.",
+          "shortened": [
+            "Iran is still in in a ruinous state, and until justice and equity become its foundation and basis, conditions will worsen day by day."
+          ]
         },
         {
           "key": "source:BH00908",
-          "why": "Hear grief over lost standing and the harm inflicted by the strong on the weak."
+          "why": "Hear grief over lost standing and the harm inflicted by the strong on the weak.",
+          "shortened": [
+            "O thou who art remembered in the heart of this servant! The station of Islam hath declined, religion hath weakened, and the banners have been reversed. We must supplicate God at all times, at eventide and dawn, that He may assist His loved ones and servants and raise up one who shall arise to redress what hath been lost. Your honor hath heard what the strong hath wrought upon the weak, and what hath befallen God's cities and lands from cannons and rifles."
+          ]
         },
         {
           "key": "source:BH01092",
-          "why": "Ask with the source what causes decline and how knowing its cause might permit repair."
+          "why": "Ask with the source what causes decline and how knowing its cause might permit repair.",
+          "shortened": [
+            "Surely you have heard the account of Alexandria and Islam and others. The divine religion hath been weakened and the adversary strengthened, yet the cause and reason for this weakness which hath persisted over successive years remaineth unknown and hidden from all. For were they to become aware of its cause and reason, they would surely arise to remove it."
+          ]
         },
         {
           "key": "source:BH01512",
-          "why": "Read sorrow over weakness as grief for a once powerful community."
+          "why": "Read sorrow over weakness as grief for a once powerful community.",
+          "shortened": [
+            "These are days wherein a thousand sorrows appear at every moment, all being the results of deeds and actions. Matters have reached such a pass that the Islamic nation, which was the most powerful, greatest, most perfect and most rightful of all nations, has manifested such weakness that every person of conscience, every person of fairness, and every person of heart lamenteth over it. Verily, sighs ascend and tears descend, but most of the people are in evident delusion."
+          ]
         },
         {
           "key": "source:BH00488",
@@ -1501,7 +1996,10 @@
         },
         {
           "key": "source:BH01212",
-          "why": "Hear the prayer to restore lost glory and strength."
+          "why": "Hear the prayer to restore lost glory and strength.",
+          "shortened": [
+            "Now we beseech and implore God, exalted be His glory, to adorn the lost glory with the ornament of existence, and to make manifest the vanished might before all faces. What happened to that power and strength, and what caused this weakness? Until now, all remain heedless of the cause and reason."
+          ]
         },
         {
           "key": "source:AB08404",
@@ -1509,7 +2007,10 @@
         },
         {
           "key": "source:BH00763",
-          "why": "Read the stated movement from justice toward tyranny."
+          "why": "Read the stated movement from justice toward tyranny.",
+          "shortened": [
+            "In every moment, God's favor would arrive and victory would be granted, until hearts changed and grew dark. Gradually justice became veiled and tyranny appeared and became established in its place. Fairness was concealed behind clouds and oppression became manifest and evident in its stead. These matters became the cause and reason for the supreme abasement, as was and is witnessed: \"The banners of misbelief flutter above the banners of unity.\""
+          ]
         },
         {
           "key": "source:BH00776",
@@ -1549,7 +2050,12 @@
         },
         {
           "key": "source:ABU1445",
-          "why": "Keep the report of hospitals, schools, and endowments attributed as historical recollection."
+          "why": "Keep the report of hospitals, schools, and endowments attributed as historical recollection.",
+          "shortened": [
+            "In Damascus there was a great and well-organized hospital with a pharmacy and physicians. Nur al-Din Zangi, the Seljuk ruler, had established it in Damascus. He also established an asylum for the mentally ill. Now all of it is in ruins, and its endowments have been taken away.",
+            "This Islamic nation that was once at such heights--what has become of it now that they must beseech the Christians to admit them to their hospitals?",
+            "When one examines the histories of the Holy Manifestations of God, one sees what souls appeared, but when they turned away from God's Law, to what state they fell."
+          ]
         },
         {
           "key": "source:ABU3160",
@@ -1569,7 +2075,10 @@
         },
         {
           "key": "source:ABU1255",
-          "why": "Consider the reported disregard for listening during recitation."
+          "why": "Consider the reported disregard for listening during recitation.",
+          "shortened": [
+            "Mohamadans having forgotten their reverence for the Holy things and overlooking the injunction of Mohamad smoke and talk on such occasions."
+          ]
         },
         {
           "key": "source:ABU1513",
@@ -1577,7 +2086,11 @@
         },
         {
           "key": "source:ABU1160",
-          "why": "Keep the report’s claims about fate, care, and children attributed to its source."
+          "why": "Keep the report’s claims about fate, care, and children attributed to its source.",
+          "shortened": [
+            "However, the Muslims do not follow the laws of the Qur'an and are unaware that it states fate is of two kinds, certain and alterable.",
+            "But a Muslim has twenty offspring and as he is careless in their affairs, they all roam the streets, expire and die."
+          ]
         },
         {
           "key": "source:ABU3757",
@@ -1593,7 +2106,11 @@
         },
         {
           "key": "source:AB00005",
-          "why": "Keep the Tablet’s critique of contested authority and multiplying traditions in its polemical setting."
+          "why": "Keep the Tablet’s critique of contested authority and multiplying traditions in its polemical setting.",
+          "shortened": [
+            "One reported Muhammad to have said \"Were there to be a Prophet after Me, it would assuredly be 'Umar,\"  and another related the hadith of \"The ten promised the paradise.\"   One recited \"'Uthman is the man of two lights\"  and \"'Uthman shall be my companion in the highest heaven,\"  and another recounted Muhammad as having said \"Were I to take any friend besides God, I would take Abu-Bakr.\"",
+            "In sum, the divines multiplied and their decrees proliferated.  The obscuring dust of lies and absurdities rose to heaven and the sun of truthfulness was wholly beclouded."
+          ]
         },
         {
           "key": "source:BHU0057",
@@ -1621,7 +2138,10 @@
         },
         {
           "key": "source:AB00003",
-          "why": "Hear the questions about expected signs in the Traveller’s Narrative."
+          "why": "Hear the questions about expected signs in the Traveller’s Narrative.",
+          "shortened": [
+            "What shall we make of the flight of the Guardians and the Helpers? How shall we deal with the conquest of the East and the West? Where is the Ass of Antichrist? When will the appearance of the Sufyan be? Where are the signs which are in the traditions of the Holy Family? Where is that whereon the Victorious Church is agreed?"
+          ]
         },
         {
           "key": "source:BH00135",
@@ -1629,7 +2149,10 @@
         },
         {
           "key": "source:BH00565",
-          "why": "Read the Iqan’s argument that revelation is not bound to prior expectations."
+          "why": "Read the Iqan’s argument that revelation is not bound to prior expectations.",
+          "shortened": [
+            "It is the veil of idle imaginations which, in the days of the Manifestations of the Unity of God and the Daysprings of His everlasting glory, hath intervened, and will continue to intervene, between them and the rest of mankind. For in those days, He Who is the Eternal Truth manifesteth Himself in conformity with that which He Himself hath purposed, and not according to the desires and expectations of men. Even as He hath revealed: “So oft, then, as an Apostle cometh to you with that which your souls desire not, do ye swell with pride, and treat some as impostors, and slay others.”"
+          ]
         },
         {
           "key": "source:BB00506",
@@ -1641,7 +2164,10 @@
         },
         {
           "key": "source:BH01664",
-          "why": "Keep the explanation of divine unity and the unknowable Essence central to the theological argument."
+          "why": "Keep the explanation of divine unity and the unknowable Essence central to the theological argument.",
+          "shortened": [
+            "True belief in the unity of God [tawhid-i-haqiqi] consists in acknowledging and confessing the unity of God, exalted be His glory, sanctifying His Essence from all likeness and purifying His Being from all similitudes. This has ever been and shall ever be the case. The Shi'ih sect, however, failed to attain this most exalted station, this most glorious rank, this ultimate purpose and this most resplendent summit. For it is evident and proven to those immersed in the ocean of truth and them who hold fast to the cords of knowledge and wisdom that God, exalted be His glory, has ever been and shall ever be the Unknowable, the Inaccessible."
+          ]
         },
         {
           "key": "source:BH11118",
@@ -1653,11 +2179,17 @@
         },
         {
           "key": "source:BH02130",
-          "why": "Read the related criticism of attachment to names and competing leaders."
+          "why": "Read the related criticism of attachment to names and competing leaders.",
+          "shortened": [
+            "For ages and centuries the Shi'ih sect hath been occupied with the mention of names while remaining heedless and veiled from their Creator and Lord. Each day they cling to a deceiver and grasp the hem of one who sows doubt, warring amongst themselves."
+          ]
         },
         {
           "key": "source:BH02845",
-          "why": "Keep the brief description of boasting about succession."
+          "why": "Keep the brief description of boasting about succession.",
+          "shortened": [
+            "O Hasan! For one thousand two hundred years the Shi'ih sect boasted from pulpits of Ali's successorship and recounted the virtues of the Imams."
+          ]
         },
         {
           "key": "source:BH00891",
@@ -1677,19 +2209,31 @@
         },
         {
           "key": "source:BH02544",
-          "why": "Read the source’s test of vainglory through the balance of justice."
+          "why": "Read the source’s test of vainglory through the balance of justice.",
+          "shortened": [
+            "Consider the vainglory of the Shi'ih sect: they deemed themselves the foremost of the world and the most exalted among nations. Yet when the balance of justice was set up, they were found to be the most lost among the peoples of the world. They spent their entire lives occupied with successor-games and likewise with other names such as Chiefs and Nobles and the like."
+          ]
         },
         {
           "key": "source:BH03759",
-          "why": "Consider claims of others’ impurity beside the source’s account of persecution."
+          "why": "Consider claims of others’ impurity beside the source’s account of persecution.",
+          "shortened": [
+            "Reflect upon the Shi'ih sect and the pride and arrogance of those people. They regarded as unclean the Jews and Christians, and likewise the idol-worshippers and fire-worshippers. The People of the Sunna they deemed lower, more rejected and more abominable than all other sects. Yet on the Promised Day, with but a slight test, they were found to be the most lost of all upon the earth."
+          ]
         },
         {
           "key": "source:BH01619",
-          "why": "Keep the severe judgment about a failed test attributed to the letter."
+          "why": "Keep the severe judgment about a failed test attributed to the letter.",
+          "shortened": [
+            "The Shi'ih sect counted themselves the most learned, most excellent and most God-fearing among the world's peoples, yet with one clear test it became evident they were the basest of all the earth's peoples. They committed that which no other people in the world had committed."
+          ]
         },
         {
           "key": "source:BH03063",
-          "why": "Read the concise reversal of claimed superiority as polemical argument."
+          "why": "Read the concise reversal of claimed superiority as polemical argument.",
+          "shortened": [
+            "Glory be to God! The Shi'ih sect counted themselves the most excellent of all people, yet they were witnessed to be the most lost."
+          ]
         },
         {
           "key": "source:BH00453",
@@ -1705,11 +2249,18 @@
         },
         {
           "key": "source:BH01168",
-          "why": "Read the declaration concerning idolatry as a source’s theological judgment."
+          "why": "Read the declaration concerning idolatry as a source’s theological judgment.",
+          "shortened": [
+            "By God's life! The Shi'ih sect hath been recorded in the Crimson Book by the Most Exalted Pen as being among the idolaters."
+          ]
         },
         {
           "key": "source:BH04418",
-          "why": "Preserve the source’s harsh comparisons without turning them into an editorial description of people."
+          "why": "Preserve the source’s harsh comparisons without turning them into an editorial description of people.",
+          "shortened": [
+            "All factions among the peoples have attained unto lofty stations, save the odious Shi'ih faction. Each day, like unto Pharaoh, they sink one or two spans deeper, and perceive it not.",
+            "They consider themselves the most exalted people in the world, and likewise the most learned, the most excellent and the most high, whereas in the estimation of those possessed of insight they were and are not even mentioned, and in the sight of the Concourse on High they are regarded as lower than animals."
+          ]
         },
         {
           "key": "source:BHU0068",
@@ -1725,7 +2276,10 @@
         },
         {
           "key": "source:BH01428",
-          "why": "Keep the brief severe judgment in its own source setting."
+          "why": "Keep the brief severe judgment in its own source setting.",
+          "shortened": [
+            "Vain imaginings deprived the Shi'ih sect from the Lord of mankind and consigned them to hell."
+          ]
         },
         {
           "key": "source:BH00566",
@@ -1733,7 +2287,10 @@
         },
         {
           "key": "source:BH00325",
-          "why": "Consider the account of replacing one veil with another and the plea for independent courage."
+          "why": "Consider the account of replacing one veil with another and the plea for independent courage.",
+          "shortened": [
+            "O true brother and real beloved! One cannot speak the truth, as in most instances flows from the Pen of the All-Merciful: \"Whatever thick veils and massive coverings We rent asunder by the finger of power, yet it was observed that the people had fashioned for themselves veils thicker than those and coverings greater than those.\" For a thousand years and more, imaginary creatures who deemed themselves the gems of existence were gazing toward and turned to an imaginary city, an unknown cellar, and a precinct of fancy. And from time to time mention was made of communications that would emerge from that precinct. O God! Is there any one strong whom the fancies of men cannot weaken, and any one assured whom the clamor of the servants cannot frighten?"
+          ]
         },
         {
           "key": "source:BH00796",
@@ -1753,15 +2310,24 @@
         },
         {
           "key": "source:BH09034",
-          "why": "Keep the companion statement concerning Jafar in its own form."
+          "why": "Keep the companion statement concerning Jafar in its own form.",
+          "shortened": [
+            "For one thousand two hundred years they called the son of the Imam a liar by their own admission and he became known as Ja'far the Liar, while that helpless one spoke but one word in truth."
+          ]
         },
         {
           "key": "source:BH00324",
-          "why": "Consider the stated consequence of interpreting words through desire and enforcing beliefs by threat."
+          "why": "Consider the stated consequence of interpreting words through desire and enforcing beliefs by threat.",
+          "shortened": [
+            "For most of the servants have been and continue to be vessels of ignorance and corruption, ever waiting to invalidate truth or to clothe falsehood in the garment of truth. Even as the divines of Iran from the inception of Islam until now maintain that the Promised One dwells in Jabulqa and Jabulsa, and whosoever speaks otherwise, they pronounce his death sentence and mock the Sunnis, since those souls do not cling to such invented fancies but rather affirm and proclaim His birth."
+          ]
         },
         {
           "key": "source:BH00355",
-          "why": "Keep the source’s argument about the Bab’s birth and inherited expectations attributed."
+          "why": "Keep the source’s argument about the Bab’s birth and inherited expectations attributed.",
+          "shortened": [
+            "The Shi'ih sect, who counted themselves as the saved and blessed community and knew themselves as the most excellent of all people, related successive traditions stating that whosoever claimed the Promised One would be born was an infidel and outside the religion. These traditions caused many to be martyred without guilt or crime, until the Primal Point - may the spirit of all else be sacrificed for Him - was born in Fars from the loins of a known person and made the claim of being the Qa'im."
+          ]
         },
         {
           "key": "source:BH01317",
@@ -1773,7 +2339,10 @@
         },
         {
           "key": "source:BH02913",
-          "why": "Read the accusation that religious education prevented recognition."
+          "why": "Read the accusation that religious education prevented recognition.",
+          "shortened": [
+            "The cause and reason for this heedlessness and ignorance were and are the Shi'ih divines, who have educated people in vain imaginings and idle fancies until at last they were deprived of the ocean of manifestation and the call of the Speaker on Sinai."
+          ]
         },
         {
           "key": "source:BH00150",
@@ -1789,7 +2358,10 @@
         },
         {
           "key": "source:BH00362",
-          "why": "Consider the counsel to a seeker about detachment from inherited arguments."
+          "why": "Consider the counsel to a seeker about detachment from inherited arguments.",
+          "shortened": [
+            "The first thing that is incumbent upon the sincere seeker is sanctification and detachment from the tales, proofs and arguments to which the Shi'ih party hath clung. By God! They are in manifest error. Their remembrances are but calumnies. Heedlessness hath reached such a point that they curse from their pulpits the Manifestations of God's attributes and names, and they perceive it not."
+          ]
         },
         {
           "key": "source:BH01408",
@@ -1805,7 +2377,10 @@
         },
         {
           "key": "source:BH11701",
-          "why": "Consider mutual denunciation, death decrees, and the construction of authority."
+          "why": "Consider mutual denunciation, death decrees, and the construction of authority.",
+          "shortened": [
+            "For one thousand two hundred years the misguided and misleading sect - namely the Shi'ih - both learned and ignorant among them, have occupied themselves with mention of guardian, successor, Imam, chief and noble, and such like, and such was the intensity of the hatred and animosity between their factions that each party would denounce the other as infidel and decree their death, while through the architects of suspicion and fancy they built up dominions."
+          ]
         },
         {
           "key": "source:BH00812",
@@ -1865,7 +2440,10 @@
         },
         {
           "key": "source:BH05380",
-          "why": "Read the brief comparative condemnation as the source’s assertion."
+          "why": "Read the brief comparative condemnation as the source’s assertion.",
+          "shortened": [
+            "The Shi'ih sect committed that which no other sect hath ever committed."
+          ]
         },
         {
           "key": "source:BH00676",
@@ -1877,19 +2455,31 @@
         },
         {
           "key": "source:BH00319",
-          "why": "Consider mourning Husayn while reviling revelation as the letter’s charge of contradiction."
+          "why": "Consider mourning Husayn while reviling revelation as the letter’s charge of contradiction.",
+          "shortened": [
+            "The corruption of this sect is more evident than the sun in the midst of heaven. In the early days, all were occupied with cursing, denouncing and rejection. The heedlessness of these souls reached such a degree that they would mention the Prince of Martyrs from the pulpits and weep, and then curse and denounce the One by Whose word a thousand Husayns sacrificed their lives in the field of martyrdom, and from the pulpit they would hasten towards hell."
+          ]
         },
         {
           "key": "source:BH01842",
-          "why": "Keep the contradiction between grieving Husayn and harming his children explicit."
+          "why": "Keep the contradiction between grieving Husayn and harming his children explicit.",
+          "shortened": [
+            "They claim to have faith yet deny Him Who did ordain and send it forth, and they weep for Husayn while they slay his children."
+          ]
         },
         {
           "key": "source:BH00182",
-          "why": "Read the account of persecution and alleged newspaper calumnies with its qualifications."
+          "why": "Read the account of persecution and alleged newspaper calumnies with its qualifications.",
+          "shortened": [
+            "The divines of the Shi'ih sect cried out \"O Truth!\" for years and awaited His appearance, yet when the morn of God's Day dawned and wondrous fruits appeared from the Blessed Tree, all attacked with sword and arrow. Now from all pulpits they revile the Truth, exalted be His glory."
+          ]
         },
         {
           "key": "source:BH00242",
-          "why": "Keep the strong claims about divines and death warrants attributed."
+          "why": "Keep the strong claims about divines and death warrants attributed.",
+          "shortened": [
+            "The word spoken aforetime hath been fulfilled: \"Most of His enemies shall be the divines.\" The pride of that party was that they believed in the immediate successor, yet they openly reviled and issued death warrants against Him through Whose word a thousand successors and guardians were created. They have committed that which neither Jews, nor Christians, nor Zoroastrians committed."
+          ]
         },
         {
           "key": "source:BH02720",
@@ -1905,7 +2495,10 @@
         },
         {
           "key": "source:BH02206",
-          "why": "Read books and expectation becoming swords in the letter’s image."
+          "why": "Read books and expectation becoming swords in the letter’s image.",
+          "shortened": [
+            "Observe the deeds of the people of the Furqan, that thou mayest become aware and informed of what was wrought against the All-Merciful. For twelve hundred years or more they were occupied with discourse and study, in the nights and days they clung to the reading of books, beseeching and hoping from God, exalted be His glory, for the days of His manifestation. Yet when the Day-Star of the Cause dawned from the horizon of the Divine Will, all that anticipation and all those books and readings appeared as swords, and there befell the Beloved of the worlds that which caused the rocks to cry out and the clouds to wail...."
+          ]
         },
         {
           "key": "source:BH03369",
@@ -1933,11 +2526,17 @@
         },
         {
           "key": "source:BH00726",
-          "why": "Consider the letter’s concern about power and oppression."
+          "why": "Consider the letter’s concern about power and oppression.",
+          "shortened": [
+            "O beloved of my heart! The heedlessness and pride of the people of the world have deprived them of that which profits them. They were disturbed and distressed by the might of Islam and the power of its kings, and now matters have reached such a pass that every misbeliever has arisen to perpetrate oppression and has brought about whatever he desired."
+          ]
         },
         {
           "key": "source:BH01152",
-          "why": "Read the account of outside powers and its moral interpretation."
+          "why": "Read the account of outside powers and its moral interpretation.",
+          "shortened": [
+            "The Dove of Utterance hath cooed upon the twigs of mystic knowledge: The Kingdom belongeth unto God, the Lord of all worlds. This is a word uttered by the tongue of the Lord of Names after the passing away of all things. He, verily, is the Omnipotent, the Almighty. This is a day wherein the powers have risen against the Islamic Faith, whereby the foundations have been shaken and the people are in manifest loss. They have reaped what they have sown in their vain life, to which every discerning sage doth testify."
+          ]
         },
         {
           "key": "source:BH01453",
@@ -1945,11 +2544,17 @@
         },
         {
           "key": "source:BH04047",
-          "why": "Read the same image linked to broken Covenant and neglected teachings."
+          "why": "Read the same image linked to broken Covenant and neglected teachings.",
+          "shortened": [
+            "The standard of Islam hath been reversed and its throne demolished by what the hands of the heedless have wrought - they who broke God's Covenant and Testament and cast aside what was sent down from His mighty and wondrous Kingdom."
+          ]
         },
         {
           "key": "source:AB12255",
-          "why": "Keep the letter’s view of government and order within its historical context."
+          "why": "Keep the letter’s view of government and order within its historical context.",
+          "shortened": [
+            "Gracious God! Persia is deteriorating day by day as a result of disarray, and now that His Majesty's government has on its own volition and with goodwill resolved to bring some order and direction to the affairs of the country, it behooveth the population and particularly the leaders of the community to express their utmost gratitude to the officials for this lofty impetus."
+          ]
         },
         {
           "key": "source:AB02286",
@@ -1961,15 +2566,24 @@
         },
         {
           "key": "source:ABU1145",
-          "why": "Read the report of Arabs, British power, and competing claims in its postwar setting."
+          "why": "Read the report of Arabs, British power, and competing claims in its postwar setting.",
+          "shortened": [
+            "See how many disturbances there are now! England has come and has faced the Arabs from the Turkish force. For 600 years the Arabs have been enslaved, and now they are free, their children, their wives, and their property. Now that they are free they say to the English \"What are doing here?\" We do not want you. Get out of our country. England replied \"I have spent my (life) here, much English blood has been shed, I have spent much money. Am I going to leave now? I have freed you from this slavery."
+          ]
         },
         {
           "key": "source:ABU2343",
-          "why": "Keep the report’s criticism of declarations of jihad and bribery attributed."
+          "why": "Keep the report’s criticism of declarations of jihad and bribery attributed.",
+          "shortened": [
+            "Jihad had an effect at a time when people were devoted to God's Faith, but now that spirit is completely gone. They themselves do not believe what they say. They claim this issue is a global war and jihad must be a matter of national concern. If in truth these people believed in religion, by now the world would have become the Abha paradise. If you offer them a bribe, they would say the exact opposite of what they ruled earlier. No trace of spirit, sincerity, faith, certitude or firmness has remained in Islam. Only mere words have survived.\""
+          ]
         },
         {
           "key": "source:ABU0324",
-          "why": "Read the reported explanations of weakened zeal as interpretations of that moment."
+          "why": "Read the reported explanations of weakened zeal as interpretations of that moment.",
+          "shortened": [
+            "In these days, the law of Jihad is shorn of much of its spiritual power, because the Mohamadans have become more intelligent and are not easily swept away by a seeming torrent of prejudices. Some, however, think that the Mohamadan world is divested of much of its former Faith and Zeal on account of clerical innovations."
+          ]
         },
         {
           "key": "source:ABU1827",
@@ -1985,7 +2599,10 @@
         },
         {
           "key": "source:ABU0409",
-          "why": "Read the brief reported pilgrimage practice without adding a missing narrative."
+          "why": "Read the brief reported pilgrimage practice without adding a missing narrative.",
+          "shortened": [
+            "To the travelers, even today is pointed out this historical well and it is the religious duty of each Pilgrim going to Mecca annually to throw on that exact spot five stones which by this time it has become almost a hill."
+          ]
         },
         {
           "key": "source:BH00109",
@@ -1997,7 +2614,10 @@
         },
         {
           "key": "source:BH00317",
-          "why": "Consider the call to guide others while recognizing repeated patterns of denial."
+          "why": "Consider the call to guide others while recognizing repeated patterns of denial.",
+          "shortened": [
+            "Consider the Shi'ih sect. For years they considered themselves the best of creation, yet with the slightest test it became evident they were the basest of servants, as evidenced by their martyrdom of the Bab. Now too the deniers among the Bayan cling to the same vain imaginings. Whatever fruit the Shi'ih sect reaped from the tree of their deeds, these souls shall reap as well. You must, with the utmost joy and fragrance, remind the people and guide them to the highest horizon."
+          ]
         },
         {
           "key": "source:BH00314",
@@ -2025,7 +2645,10 @@
         },
         {
           "key": "source:AB02514",
-          "why": "Keep the allegations concerning a particular opponent within their source; do not generalize them."
+          "why": "Keep the allegations concerning a particular opponent within their source; do not generalize them.",
+          "shortened": [
+            "After that supreme martyrdom which caused earth and heaven to weep, that faithless one occupied himself with women, holding feasts each day and entering bridal chambers. He wrote seven letters to seven martyrs, requesting from each a virgin, and when his purpose was not achieved, he grew bold and impudent, laying hands on the chaste Mother of the Believers, taking as wife the second consort of the Exalted One despite the explicit prohibition in the Book, and not satisfied with that, after a few days gave her to the rejected Siyyid Muhammad."
+          ]
         },
         {
           "key": "source:ABU2842",
@@ -2049,11 +2672,17 @@
         },
         {
           "key": "source:BH00385",
-          "why": "Keep the warning that a removed veil can be replaced by another."
+          "why": "Keep the warning that a removed veil can be replaced by another.",
+          "shortened": [
+            "The people are seen to be so heedless that one is astonished. If one veil is rent asunder, they are found to be afflicted with another veil greater than the first. For twelve hundred years and more, the well-known sect was occupied with calumny, slander and the like. At the time of the test, it became clear and evident to every person of insight that that rebellious and transgressing sect was the party of Satan, not the hosts of the All-Merciful."
+          ]
         },
         {
           "key": "source:BH00056",
-          "why": "Hear the summons to service alongside the source’s criticism of past conduct."
+          "why": "Hear the summons to service alongside the source’s criticism of past conduct.",
+          "shortened": [
+            "Arise, through the power and might of God, to serve the Cause. The world passeth away, but that which is with God endureth. From the beginning of Islam until this hour, not one among the divines hath been truly aware of the manner of His Revelation, and among the party of the Shi'ah there hath been naught but cursing and abuse."
+          ]
         },
         {
           "key": "source:BH01637",
@@ -2061,7 +2690,10 @@
         },
         {
           "key": "source:BH06378",
-          "why": "Read the personal thanksgiving for a changed religious allegiance."
+          "why": "Read the personal thanksgiving for a changed religious allegiance.",
+          "shortened": [
+            "O Muhammad, praise be to the Lord of the worlds Who purified thee from the Shi'ih sect and what they possess with the water of the Bayan of His chosen ones, and guided thee to His Most Holy Court."
+          ]
         },
         {
           "key": "source:BH06817",
@@ -2081,7 +2713,11 @@
         },
         {
           "key": "selection:be0f5461fe84814964d9182f",
-          "why": "Read the supplied critique of superstition across religions and the appeal to knowledge."
+          "why": "Read the supplied critique of superstition across religions and the appeal to knowledge.",
+          "shortened": [
+            "All religions of the present day have fallen into superstitious practices, out of hamony alike with the true principles of the teaching they represent and with the scientific discoveries of the time. Many religious leaders have grown to think that the importance of religion lies mainly in the adherence to a collection of certain dogmas and the practice of rites and ceremonies! Those whose souls they profess to cure are taught to believe likewise, and these cling tenaciously to the outward forms, confusing them with the inward truth. Now, these forms and rituals differ in the various churches and amongst the different sects, and even contradict one another; giving rise to discord, hatred, and disunion.",
+            "But the religion which does not walk hand in hand with science is itself in the darkness of superstition and ignorance."
+          ]
         },
         {
           "key": "selection:fc5f2fec725bf83632c092af",
@@ -2089,7 +2725,10 @@
         },
         {
           "key": "selection:6cbdfcdb3350ee2616f19fa7",
-          "why": "End with the supplied counsel to build the future while sympathizing with those disoriented by change."
+          "why": "End with the supplied counsel to build the future while sympathizing with those disoriented by change.",
+          "shortened": [
+            "Even though the Baha'i Youth should feel with the condition in which they see their non-Baha'i friends and not indict them for it, they should not let themselves be carried by the wave of world events as they are being carried. Whereas they see before them only a world that is crumbling down we are also seeing a new world being built up. Whereas they experience the destruction of old institutions that commanded their respect, we are beholding the dawn of a new era with its strict commands and new social bonds. Their materialistic outlook shows them the futility of all things while our faith in a regenerated and spiritualized man makes us look to the future and build for it. To make them follow our ways we should sympathize with their plight but should not follow their ways. We should take our stand on a higher plane of moral and spiritual life and, setting for them the true example, urge them up to our level."
+          ]
         }
       ],
       "questions": [

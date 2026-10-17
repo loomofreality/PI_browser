@@ -5,7 +5,7 @@
       "id": "F353B58A110DE0D7DCBD2457A3797197",
       "slug": "prayermartyrs",
       "displayTitle": "Prayer for martyrs: remembrance, mercy, and those who remain",
-      "introduction": "The loss of a life leaves both a memory and a living community in need of care. These prayers place those who suffered for their faith within an expansive hope of mercy, nearness, light, and continuing life, while also asking for patience and renewal for bereaved families. Their language carries the intensity of persecution and mourning; images of sacrifice and a desired cup of martyrdom belong to that devotional setting, rather than a general invitation to seek death or inflict suffering. Individual eulogies and prayers of visitation also preserve distinct people and occasions within the wider subject. The connected compilation on martyrdom brings grief itself into view, alongside hope for enduring spiritual fruit. Stephen’s final prayer in Acts provides a comparison centered on entrusting his spirit to Jesus and asking forgiveness for his killers [1]. Reading these texts together invites reflection on remembrance that deepens compassion and sustains the living.",
+      "introduction": "Glorify the abode of this newly arrived guest, ‘Abdu’l-Bahá asks on behalf of one who died for his faith, and in the same breath He prays that a demolished house be made prosperous again and a grieving family joyous. Prayer for the martyrs looks in two directions at once: toward the soul admitted into a boundless kingdom of pardon, made a star on the highest horizon, and toward the parents, widows and children left in the wreckage, who need patience, relief and a renewed life. Many supplications name a particular person, Mandeh-‘Alí, Ya‘qúb, Vahíd, so that remembrance never dissolves into abstraction, and the Báb pleads by the blood of the slain for love to be kindled in other hearts. Stephen, dying in Acts while entrusting his spirit to Jesus and forgiving his killers, offers a comparison in which hope and mercy meet at the moment of violence [1]. From here the journey leads deeper into martyrs and martyrdom, where grief itself comes into view, and into the wider life of prayer that carries the living through loss.",
       "arc": "Begin with mercy and consolation, encounter particular lives and shared remembrance, and turn toward the care and service of those who remain.",
       "order": [
         {
@@ -14,23 +14,39 @@
         },
         {
           "key": "source:AB02657",
-          "why": "Place the grieving family and its damaged home in view."
+          "why": "Place the grieving family and its damaged home in view.",
+          "shortened": [
+            "O Forgiving Lord! Make that demolished house into a prosperous home and make that grieving family joyous and grateful, that they may shine like the sun among all peoples and become a goodly seed."
+          ]
         },
         {
           "key": "source:AB05019",
-          "why": "Join remembrance of two sacrificed lives with patience for relatives."
+          "why": "Join remembrance of two sacrificed lives with patience for relatives.",
+          "shortened": [
+            "O Lord, verily, these two were evident signs of Thy love and conspicuous words on the Tablets of Thy Oneness. They were two sanctified souls amongst Thy friends, two radiant stars on horizon of faithfulness and certitude of the heaven of Thy servitude. O Lord, bestow upon them through Thy generosity and grace all that Thou has decreed in the Kingdom of Thy Light and grant patience upon those related to them."
+          ]
         },
         {
           "key": "source:BH11758",
-          "why": "Hear the appeal for relief, peace and compassion."
+          "why": "Hear the appeal for relief, peace and compassion.",
+          "shortened": [
+            "I beseech Thee by them and by their blood to send down from the heaven of Thy mercy relief from Thy presence, peace from Thy side, and compassion from Thy direction."
+          ]
         },
         {
           "key": "source:AB00071",
-          "why": "Preserve the account of Muhammad-Ali’s innocence of the surrounding combat."
+          "why": "Preserve the account of Muhammad-Ali’s innocence of the surrounding combat.",
+          "shortened": [
+            "O Lord, Lord! Verily Thy servant Muhammad-'Ali was attracted to Thy glorious Kingdom and enkindled with the fire of Thy love, aware of the hidden mystery. The arrow of the people of error struck him and he fell prostrate on the field of battle though he had no part in the conflict, but was innocent of all strife and combat. But when the cavalry attacked by day and night, and fired bullets with no escape possible, at that time Thy penitent servant fell to the earth, prostrate and slain."
+          ]
         },
         {
           "key": "source:AB06607",
-          "why": "Read the named remembrance of Mandeh-Ali and his enduring devotion."
+          "why": "Read the named remembrance of Mandeh-Ali and his enduring devotion.",
+          "shortened": [
+            "O my Lord, my God! This servant of Thine, Mandeh-'Ali, was attracted by Thy holy fragrances with such rapture that he yearned to sacrifice himself in Thy path and longed for annihilation in Thy love. He drank the supreme chalice of martyrdom out of love for Thy beauty and desire to attain Thy presence.",
+            "O Lord! Ordain for him entry into the Paradise of refuge, eternal life in the supreme Paradise, the enjoyment of Thy favors in the highest heaven, and grant him an exalted station."
+          ]
         },
         {
           "key": "source:AB03868",
@@ -38,7 +54,10 @@
         },
         {
           "key": "source:AB00478",
-          "why": "Read the prayer for the glorious Branch in its own terms."
+          "why": "Read the prayer for the glorious Branch in its own terms.",
+          "shortened": [
+            "Lord, illumine the tomb of that glorious Branch and perfume the grave of that unique martyr with the outpouring of Thy mercy streaming down abundantly from the cloud of forgiveness."
+          ]
         },
         {
           "key": "source:BH01651",
@@ -50,15 +69,25 @@
         },
         {
           "key": "source:AB04529",
-          "why": "Consider deliverance from sorrow and the hope of heavenly gladness."
+          "why": "Consider deliverance from sorrow and the hope of heavenly gladness.",
+          "shortened": [
+            "O glorious martyr! With utmost humility and devotion, I am engaged in chanting this prayer: O Lord of the manifest signs! Grant this martyr deliverance from sorrows and bestow upon him the sweet fragrances of joyous days, that he may be completely freed from the grief and joy of contingent existence and attain heavenly gladness and divine delight, and that spiritual expansion may be manifested."
+          ]
         },
         {
           "key": "source:AB05410",
-          "why": "Join the plea for radiance with protection from harm."
+          "why": "Join the plea for radiance with protection from harm.",
+          "shortened": [
+            "O God! Exalt him, make him honored, make him content, let no harm befall him, that he may inhale Your fragrance, discover Your mystery, hasten toward You, reach Your court, and behold Your countenance.",
+            "O Lord! Accept this pure blood in Your path and in the world above make this soul radiant."
+          ]
         },
         {
           "key": "source:AB01219",
-          "why": "Read the request for comfort in the Kingdom of mercy."
+          "why": "Read the request for comfort in the Kingdom of mercy.",
+          "shortened": [
+            "Lord! Enter him into the Kingdom of Your mercy and the Paradise of Your uniqueness, comfort him through Your grace and favors, and seat him upon the throne of majesty in the Kingdom of Beauty through Your generosity and kindnesses."
+          ]
         },
         {
           "key": "source:AB02863",
@@ -66,11 +95,17 @@
         },
         {
           "key": "source:AB01780",
-          "why": "Read the sheltered bird and the tree of mercy."
+          "why": "Read the sheltered bird and the tree of mercy.",
+          "shortened": [
+            "O Lord! Shelter him in the vicinity of Thy greatest mercy, shade him beneath Thy Lote-Tree of the utmost boundary, make him a warbling bird upon the branches, singing varied melodies in Thy most exalted paradise upon the Tuba tree."
+          ]
         },
         {
           "key": "source:AB02030",
-          "why": "Consider honor in the Kingdom of existence."
+          "why": "Consider honor in the Kingdom of existence.",
+          "shortened": [
+            "Lord, Lord! Illumine his face in the Kingdom of existence for spending his spirit in the realm of witnessing, and distinguish him among the people of prostration with abundant bounty and the praiseworthy station in the seat of truth in the Most Exalted Companion and Your Most Glorious Kingdom."
+          ]
         },
         {
           "key": "source:AB03552",
@@ -78,31 +113,53 @@
         },
         {
           "key": "source:AB00724",
-          "why": "Hear the collective prayer for an enduring dwelling in mercy."
+          "why": "Hear the collective prayer for an enduring dwelling in mercy.",
+          "shortened": [
+            "O Lord, elevate their stations in the Most Glorious Paradise, illuminate their faces with a brilliant light from the Supreme Concourse, honor their dwelling place in the vicinity of Your great mercy, admit them into Your abundant garden, and immortalize them in Your Paradise of Shelter."
+          ]
         },
         {
           "key": "source:AB01750",
-          "why": "Consider stars and lamps as images of continuing witness."
+          "why": "Consider stars and lamps as images of continuing witness.",
+          "shortened": [
+            "My Lord! Make them brilliant stars in the horizon of eternity, radiant lamps in the supreme height, dazzling signs from the Most Glorious Kingdom, and unfurled banners at the pole of faithfulness."
+          ]
         },
         {
           "key": "source:AB03057",
-          "why": "Read forgiveness and divine good-pleasure together."
+          "why": "Read forgiveness and divine good-pleasure together.",
+          "shortened": [
+            "Lord, make them waves in the ocean of forgiveness, make them hosts in the Kingdom of the All-Merciful, ordain for them every good in the Garden of Good-Pleasure, enable them to enter the scene of vision, and grant them eternal dwelling in the garden of meeting through grace and bounty."
+          ]
         },
         {
           "key": "source:BH04745",
-          "why": "Consider the robe of favor and cups of mercy."
+          "why": "Consider the robe of favor and cups of mercy.",
+          "shortened": [
+            "Clothe them, O my God, with the robe of Thy favor and the raiment of Thy loving providence, which Thou hast reserved for Thine own Self and woven with the hands of Thy manifold bounties and gifts. Give them, then, to drink, from the hands of Thy loving-kindness, of the cups of Thy measureless mercy. Cause them, moreover, O my Best-Beloved, to abide within the precincts of Thy court and around Thy most effulgent Tabernacle."
+          ]
         },
         {
           "key": "source:BH01446",
-          "why": "Hear the plea for continual kindness and immortality."
+          "why": "Hear the plea for continual kindness and immortality.",
+          "shortened": [
+            "We beseech God, blessed and exalted be He, to send down upon him in every moment mercy from His presence and loving-kindness from His own Self. Verily He is the Mighty, the Bestower. And we beseech Him, exalted be He, to establish his station in the shade of the Divine Lote-Tree and give him to drink of the Kawthar of immortality from the hands of grace and bounty."
+          ]
         },
         {
           "key": "source:BH00848",
-          "why": "Read the request for blessings enduring with the divine Essence."
+          "why": "Read the request for blessings enduring with the divine Essence.",
+          "shortened": [
+            "Bless Thou, likewise, as long as Thine own Self endureth and Thine own Essence doth last, them that have suffered martyrdom in Thy path. Thou art, verily, the Ever-Forgiving, the Most Merciful."
+          ]
         },
         {
           "key": "source:BB00003",
-          "why": "Consider the Báb’s account of recompense and blessing."
+          "why": "Consider the Báb’s account of recompense and blessing.",
+          "shortened": [
+            "Say: Whoso is martyred in the path of God, God will assuredly exalt him in the life to come and in this life, for He hath power over all things. Say: God hath ordained for those who are martyred in His path that He shall exalt their mention in this life and in the life to come, and shall cause them to enter the seats of light from His presence.",
+            "Glory be unto Thee, O God, my Lord! Send down Thy blessings upon those who have ascended unto Thee with dominion and kingdom."
+          ]
         },
         {
           "key": "source:BB00019",
@@ -118,71 +175,122 @@
         },
         {
           "key": "source:BB00228",
-          "why": "Hear the request for blessings at every moment."
+          "why": "Hear the request for blessings at every moment.",
+          "shortened": [
+            "I beseech Thee, O God, by what Thou hast created for It before all things - and these are those sanctified names and glorified letters - to send down at this moment upon those who have been martyred in the path of Thy love that which befitteth the loftiness of Thy Countenance and the exaltation of Thy Sovereignty, and to send down Thy blessings upon them from me and from all things, at every moment, before every moment, and after every moment."
+          ]
         },
         {
           "key": "source:BB00086",
-          "why": "Read the Báb’s prayer for grieving hearts and patient bodies."
+          "why": "Read the Báb’s prayer for grieving hearts and patient bodies.",
+          "shortened": [
+            "O my God! Send down Thy blessings upon the hearts that have grieved in Thy path, and upon the bodies that have endured patiently for Thy good-pleasure, and upon the souls that have yearned for Thee in their love for Thee, and upon the hearts that have ascended unto Thee through their devotion to Thee - blessings that have no equal in Thy knowledge and no likeness in Thy Book, blessings that fill Thy heaven and Thy earth and all things that have been created through Thy will."
+          ]
         },
         {
           "key": "source:BB00053",
-          "why": "Keep the visitation’s appeal for remembrance before God."
+          "why": "Keep the visitation’s appeal for remembrance before God.",
+          "shortened": [
+            "\"I beseech Thee, by the loftiness of Thy grace and the sublimity of Thy mercy, to remember me before God, Thy Lord, and to remember those who are martyrs from Thy presence, then those who were martyred in the path of Thy love, who gave up their souls in ardent devotion to Thy Cause, who ascended unto God through their detachment in Thy love, and who attained what is with God through their attraction to obedience unto Thee."
+          ]
         },
         {
           "key": "source:BH00160",
-          "why": "Place martyrdom beside migration and service in the love of God."
+          "why": "Place martyrdom beside migration and service in the love of God.",
+          "shortened": [
+            "Send down Thy blessings, O my God, upon the Point through which Thy hidden knowledge and treasured mysteries were detailed, and through whom Thou didst take the covenant of the Dayspring of Thy Being and the Manifestation of the Mystery of Thy Oneness, and upon those who were touched by tribulation and adversity in Thy love until they were martyred in Thy path, and upon those who believed in Thee purely for Thy sake and left their homes to exalt Thy Word and manifest Thy Cause, and who bore naught on their journey save Thy love and Thy verses."
+          ]
         },
         {
           "key": "source:BH01753",
-          "why": "Read the commemoration of steadfast assistance to the Cause."
+          "why": "Read the commemoration of steadfast assistance to the Cause.",
+          "shortened": [
+            "O my God! Send Thy blessings upon Thy loved ones and trusted ones and friends through whom were raised the standards of Thy victory and the banners of Thy power, and through whom Thy signs were spread abroad and Thy proof was made manifest and Thy evidence became all-encompassing - those whom nothing whatsoever prevented from drawing nigh unto Thee, who strove in Thy path with true striving and aided Thy Cause with true aid, and through whom the limbs of those who denied Thee and Thy signs trembled and the hearts of the deniers among Thy servants were confounded."
+          ]
         },
         {
           "key": "source:BH01271",
-          "why": "Turn the memory of endurance toward love and knowledge in other hearts."
+          "why": "Turn the memory of endurance toward love and knowledge in other hearts.",
+          "shortened": [
+            "I beseech Thee by the blood of these souls and the pieces of their bodies, by their steadfastness, their patience and their forbearance, by their being enkindled with the fire of Thy love and their turning toward the light of Thy countenance, by their remembrance and their devotion in Thy days, by their sacrifice of their spirits in Thy path, and by their submissiveness and humility before the manifestations of Thy commandments and Thy laws, to adorn the hearts of the peoples with the light of Thy love and Thy knowledge."
+          ]
         },
         {
           "key": "source:BH00537",
-          "why": "Consider the appeal through suffering for forgiveness and sincerity."
+          "why": "Consider the appeal through suffering for forgiveness and sincerity.",
+          "shortened": [
+            "I beseech Thee by this Light that hath shone forth from the horizon of the heaven of detachment, whereby was established the decree of trust and resignation throughout creation, and by the bodies that were dismembered in Thy path, and by the hearts that were melted in Thy love, and by the blood that was shed in the land of submission before Thy face, to forgive those who have turned toward this Most Exalted Station and this Most High Summit, and to ordain for them from Thy Most Exalted Pen that which shall make the fragrance of their acceptance and sincerity imperishable in the cities of Thy remembrance and praise."
+          ]
         },
         {
           "key": "source:AB12108",
-          "why": "Read the prayer for oppressed souls and an exalted station."
+          "why": "Read the prayer for oppressed souls and an exalted station.",
+          "shortened": [
+            "Lord! Accept from Thy loved ones their spilled blood, their slain bodies, and their oppressed souls. Grant the martyrs an exalted station and a true and faithful tongue. Bestow upon them high degrees and lofty ranks. Grant them the grace of attaining Thy presence and shower them with bounties."
+          ]
         },
         {
           "key": "source:AB01887",
-          "why": "Join acceptance of sacrifice with deliverance and a goodly life."
+          "why": "Join acceptance of sacrifice with deliverance and a goodly life.",
+          "shortened": [
+            "O Lord! Accept from them these offerings of their souls, multiply Thy bounties unto them, deliver them from destruction, and grant them a goodly life in the Concourse on High. Verily, Thou art the Protector, Thou art the Helper, Thou art the All-Bountiful, Thou art the Kind, the Compassionate, the Merciful."
+          ]
         },
         {
           "key": "source:AB00750",
-          "why": "Keep the remembrance of a family’s collective sacrifice."
+          "why": "Keep the remembrance of a family’s collective sacrifice.",
+          "shortened": [
+            "O Lord! That good and blessed family sacrificed all it possessed in Thy path, seeking to abide in Thy Kingdom. It surpassed all martyrs in the path of sacrifice. Therefore, assign to it an exalted station, a bountiful reward, delightful blessings, and a pleasing seat of truth in the most glorious Kingdom, that it may be immersed in the seas of light in an infinite holy expanse."
+          ]
         },
         {
           "key": "source:AB01015",
-          "why": "Hear the prayer recalling the remnants of a persecuted community."
+          "why": "Hear the prayer recalling the remnants of a persecuted community.",
+          "shortened": [
+            "My God, my God! These are the remnants of Thy loved ones who have striven with their wealth and souls in Thy path. Lord! They made themselves targets for arrows out of love for Thy Beauty and bore spears out of longing to meet Thee and yearning for Thy good-pleasure. Lord! They shed their blood in Thy path and gave their spirits in Thy love and sacrificed their souls and wealth and children in attraction to Thy Kingdom and yearned for death in search of attaining Thee, until their offering of souls became renowned throughout the regions and their fame spread across the seven far-flung climes."
+          ]
         },
         {
           "key": "source:BH08500",
-          "why": "Recognize the prayer for a prisoner to receive a martyr’s reward."
+          "why": "Recognize the prayer for a prisoner to receive a martyr’s reward.",
+          "shortened": [
+            "O my God and the God of all things seen and unseen! I beseech Thee by the Word which Thou didst bring forth from the mine of Thy utterance, and by the Name through which, when Thou didst lift its veil, Thy creation and the dwellers of Thy realm were enraptured, to ordain from Thy Most Exalted Pen, for him who hath entered prison for Thy name and borne hardships in Thy path, the reward of one who hath been martyred in Thy good-pleasure."
+          ]
         },
         {
           "key": "source:BB00543",
-          "why": "Read the Báb’s petition for assurance and tranquillity in its devotional setting."
+          "why": "Read the Báb’s petition for assurance and tranquillity in its devotional setting.",
+          "shortened": [
+            "O Lord! Render victorious Thy forbearing servants in Thy days by granting them a befitting victory, inasmuch as they have sought martyrdom in Thy path. Send down upon them that which will bring comfort to their minds, will rejoice their inner beings, will impart assurance to their hearts and tranquillity to their bodies and will enable their souls to ascend to the presence of God, the Most Exalted, and to attain the supreme Paradise and such retreats of glory as Thou hast destined for men of true knowledge and virtue."
+          ]
         },
         {
           "key": "source:BH09517",
-          "why": "Consider the speaker’s longing to share the gifts of steadfast sufferers."
+          "why": "Consider the speaker’s longing to share the gifts of steadfast sufferers.",
+          "shortened": [
+            "I beseech Thee not to withhold from me that which Thou hast ordained for them who have suffered martyrdom in Thy path and have endured tribulations for love of Thee."
+          ]
         },
         {
           "key": "source:BH00795",
-          "why": "Read the desire for the portion of those who remained faithful."
+          "why": "Read the desire for the portion of those who remained faithful.",
+          "shortened": [
+            "I beseech Thee to ordain for me what Thou hast ordained for them who have tasted the sweetness of utterance from the mouth of Thy Will and who have circled round Thy Cause until they were martyred in Thy path."
+          ]
         },
         {
           "key": "source:AB00485",
-          "why": "Keep the intense prayer to join the martyrs in its lamenting context."
+          "why": "Keep the intense prayer to join the martyrs in its lamenting context.",
+          "shortened": [
+            "O God! My God! Destine for me this lofty station. Bestow upon me that brilliant cup. Give me to drink from the pure wine of that glorious martyrdom, the wine that is sweeter and more delicious than Tasnim and Salsabil: O divine wine of the Remembrance of God. Allow me to join those martyrs and deprive me not of Thy favors except for such as those who are nigh unto thee from amongst the noble ones."
+          ]
         },
         {
           "key": "source:AB00797",
-          "why": "Read the visitation’s language of yearning and spiritual ascent."
+          "why": "Read the visitation’s language of yearning and spiritual ascent.",
+          "shortened": [
+            "May the Concourse on High visit the spirits of those blessed souls who hastened to the field of martyrdom in the path of the Most Great Name (may my spirit be sacrificed for Him), who freely gave their lives, who spread their wings through the power of the supreme martyrdom and ascended to the horizon of eternal glory. May the dwellers of the Most Glorious Kingdom sanctify them and 'Abdu'l-Baha praise them, and in every moment cry out \"Oh what longing for that most exalted station!"
+          ]
         },
         {
           "key": "source:AB00396",
@@ -190,19 +298,32 @@
         },
         {
           "key": "source:AB00897",
-          "why": "Introduce the particular instruction to recite a visitation prayer."
+          "why": "Introduce the particular instruction to recite a visitation prayer.",
+          "shortened": [
+            "A prayer of visitation has been written for the martyrs. The friends of God in Sari and Barfurush must certainly recite this prayer of visitation at the illumined resting place of those martyrs on behalf of 'Abdu'l-Baha."
+          ]
         },
         {
           "key": "source:BH02591",
-          "why": "Read the prayer at Vahid’s resting place for visitors and family."
+          "why": "Read the prayer at Vahid’s resting place for visitors and family.",
+          "shortened": [
+            "O God, my God, creator of me and of the heavens, I beseech Thee by the pearls of the ocean of Thy Oneness, by the mysteries of Thy Book, and by lamentation of Thy loved ones in their separation from Thee, and by the tears of the pure ones on their remoteness from Thee, I invoke thee, O Thou Lord of indomitable Strength, by this sacred Tomb and by this exalted Shrine [Vahid's], to forgive me and my father, and all those who for Thy sake have approach these sacred remains, and all those who have come and will come on pilgrimage to this spot."
+          ]
         },
         {
           "key": "source:BH00996",
-          "why": "Consider the petition for both worlds at a hallowed sepulcher."
+          "why": "Consider the petition for both worlds at a hallowed sepulcher.",
+          "shortened": [
+            "O Lord! I beseech Thee by them, by their sighs and tears in their longing and yearning, that Thou forgive me and my parents and whosoever hath turned unto Thee, O Lord of the Covenant, on the Day of Separation. O my Lord! I beseech Thee by this most pure sepulcher and this hallowed and purified dust, that Thou ordain for this servant of Thine, by Thy Most Exalted Pen, the good of the hereafter and of this world."
+          ]
         },
         {
           "key": "source:BH01472",
-          "why": "Hear the visitor’s prayer for parents and kin."
+          "why": "Hear the visitor’s prayer for parents and kin.",
+          "shortened": [
+            "And for him who presenteth himself before the tomb, it behooveth him to say:",
+            "\"My God, my God! I beseech Thee by this martyr who gave up his spirit in Thy path and deposited his body in Thy love between the hands of Thine enemies, and who denied not Thy Manifestation and Thy Revelation and Thy Cause that hath encompassed Thy earth and Thy heaven, to forgive me and my father and my mother and my kinsmen. Then ordain for me the good of the world to come and of this world."
+          ]
         },
         {
           "key": "source:BH02191",
@@ -210,27 +331,45 @@
         },
         {
           "key": "source:AB03275",
-          "why": "Consider the acts of reverence in Manuchihr Khan’s visitation."
+          "why": "Consider the acts of reverence in Manuchihr Khan’s visitation.",
+          "shortened": [
+            "Blessed is the one who visits your illumined resting place. Blessed is the one who kisses your purified grave. Blessed is the one who clings to your perfumed shrine. Blessed is the one who inhales your amber-scented dust. Blessed is the one who serves your tomb which surpasses the most fragrant musk. Blessed is the one who lights the lamp in your lofty portico. Blessed is the one who adorns your wondrous resting place."
+          ]
         },
         {
           "key": "source:AB04226",
-          "why": "Hear the prayer for those who visit and remember."
+          "why": "Hear the prayer for those who visit and remember.",
+          "shortened": [
+            "I beseech God to send down blessing and abundant grace upon everyone who seeks blessing from your pure dust and visits your graves and attains eternal portion throughout endless ages and successive centuries and eras."
+          ]
         },
         {
           "key": "source:AB04619",
-          "why": "Read the visitation prayer for Aqa Hasan Shahid."
+          "why": "Read the visitation prayer for Aqa Hasan Shahid.",
+          "shortened": [
+            "I beseech God to send down every blessing upon the soul that seeks blessing at thy perfumed, fragrant grave and thy purified resting place. Verily my Lord bestows grace upon the martyrs in their resting place of sacrifice, and He is the Giver to whomsoever He willeth and the Bestower of whatsoever He willeth upon whomsoever He pleaseth, and verily He is the All-Merciful, the Most Compassionate."
+          ]
         },
         {
           "key": "source:AB03065",
-          "why": "Consider the image of light and rain at the resting place."
+          "why": "Consider the image of light and rain at the resting place.",
+          "shortened": [
+            "I beg of God to cause spheres of light to descend upon thy sepulchre and the clouds of mercy to shower rains of forgiveness upon thy resting-place and tomb!"
+          ]
         },
         {
           "key": "source:AB04956",
-          "why": "Read mercy surrounding a radiant shrine."
+          "why": "Read mercy surrounding a radiant shrine.",
+          "shortened": [
+            "May God perfume your radiant grave with the outpouring of His abundant mercy, and send down upon your tomb, enveloped in lights, layers of His greatest mercy, and make your shrine adorned with the ornament of glory and your resting place illumined with the light of beauty, and may He appear to the noble and righteous ones around your resplendent garden with outpourings that dazzle the eyes."
+          ]
         },
         {
           "key": "source:AB04964",
-          "why": "Consider the visitor’s blessing through continuing remembrance."
+          "why": "Consider the visitor’s blessing through continuing remembrance.",
+          "shortened": [
+            "I beseech God to increase you in blessings and to illuminate your pure and holy grave with the brilliant lights radiating from your luminous countenance, so that every visitor may be blessed by your dust, upon which descends continuous mercy from the Lord of earth and heaven."
+          ]
         },
         {
           "key": "source:BH08239",
@@ -238,11 +377,17 @@
         },
         {
           "key": "source:AB01659",
-          "why": "Ask for relatives’ confirmation in love and service."
+          "why": "Ask for relatives’ confirmation in love and service.",
+          "shortened": [
+            "O my Lord, confirm the relatives of these martyrs in serving Thy Cause, elevating Thy Word, spreading Thy Religion, igniting Thy Love in the hearts of Thy servants and guide those who are lost in the wilderness of error."
+          ]
         },
         {
           "key": "source:AB02181",
-          "why": "Close with descendants building upon their forebears’ foundation."
+          "why": "Close with descendants building upon their forebears’ foundation.",
+          "shortened": [
+            "O Lord! These are the offspring of those noble band, the progeny of those illustrious company, pieces of the hearts of those distinguished group, the lion cubs of those lions from the Valley of Shara. Assist them with Thy confirmations and make them successful through Thy bestowals, that they may revive the teachings of their fathers' religion, walk in the footsteps of their forebears, and build upon the foundation of their ancestors, so that the fathers may glory in their children in Thy most glorious Kingdom, and the forebears may take pride in their descendants in Thy most exalted Heaven."
+          ]
         }
       ],
       "questions": [
@@ -285,24 +430,39 @@
       "id": "F4149E168A75E0609E7D38FC1193D523",
       "slug": "prayerprosperity",
       "displayTitle": "Prayer for prosperity: the good of this world and the next",
-      "introduction": "What counts as a life made prosperous? These prayers make room for plainly material needs: a diminished livelihood, a troubled business, a family’s security, and relief from poverty. At the same time, they repeatedly widen the request toward what will benefit a person in every world, linking sustenance with faithfulness, spiritual independence, and service. The result is a richer inquiry than the size of one’s possessions alone can answer. The connected subject on wealth and poverty asks how attachment may obstruct this wider good, while prayers for cooperation turn resources toward the needs of others. Particular assurances addressed to individuals retain their own circumstances; the collection offers words of supplication rather than a formula guaranteeing financial outcomes. Qur’an 2:200–202 provides a close comparison by contrasting a request confined to worldly bounty with one that seeks good here and hereafter [1]. Prayer can thus become an education of desire as well as an expression of need.",
+      "introduction": "Businesses shaken, earnings diminished, affairs scattered: ‘Abdu’l-Bahá prays over hardship in exactly those plain words, asking God to gather what is scattered and turn difficulty into ease. Prayer for prosperity never pretends that material need is unspiritual. A man whose patience under poverty is spent, a family needing protection, a new company needing resources, a friend who simply wants worldly comfort, all find their place before God, who feeds the birds of the air each day. Yet the same prayers keep widening the request. Bahá’u’lláh asks for what will profit him in this world and the next, in every world of God, and what will establish him in service among his fellow creatures; true riches are named alongside means, and spiritual independence alongside wealth. The Qur’an draws the same contrast between a supplicant who asks only for the bounty of this world and one who seeks good both here and hereafter [1]. Praying this way becomes an education of desire, teaching a person what to want and how to use what arrives. The path continues into the status of material wealth, the relationship between wealth and poverty, and the broader life of prayer.",
       "arc": "Begin with concrete hardship, widen the meaning of riches, and carry the prayer for provision toward family, community, and service.",
       "order": [
         {
           "key": "source:AB00850",
-          "why": "Open with disrupted livelihoods and the request to gather what is scattered."
+          "why": "Open with disrupted livelihoods and the request to gather what is scattered.",
+          "shortened": [
+            "Lord! Their businesses have been shaken, their earnings diminished, and their affairs scattered, so gather what is scattered by Thy grace, O Giver, O Provider, and change their hardship to ease, their difficulty to comfort, bless them with abundant life and happiness, deliver them from anxiety, recklessness and suffering, ordain for them in Thy kingdom every good, and ward off from them by the power of Thy might every harm, that they may continue journeying on the exemplary path and become independent of others in this worldly life and spread the sweet fragrances wafting from the Garden of the Most Glorious."
+          ]
         },
         {
           "key": "source:AB02302",
-          "why": "Acknowledge a person whose patience under poverty is exhausted."
+          "why": "Acknowledge a person whose patience under poverty is exhausted.",
+          "shortened": [
+            "O Lord, his patience is exhausted from hardship, and his tribulation has intensified through poverty, and he is afflicted with adversity after prosperity and constriction after ease, and he has no patience left for this trial. Therefore open unto him the gates of heaven and grant him through Thy mercy from Thy bounties, and transform his hardship into ease and affluence, and elevate his station among the princes, and make him a sign of Thy greatest gift among all people until his peers envy him and his relatives rejoice in him."
+          ]
         },
         {
           "key": "source:AB00431",
-          "why": "Place human need within the care extended to living beings."
+          "why": "Place human need within the care extended to living beings.",
+          "shortened": [
+            "Lord! Pitiful are we, grant us Thy favor; poor, bestow upon us a share from the ocean of Thy wealth; needy, do Thou satisfy us; abased, give us Thy glory. The fowls of the air and the beasts of the field receive their meat each day from Thee, and all beings partake of Thy care and loving-kindness."
+          ]
         },
         {
           "key": "source:AB06695",
-          "why": "Allow a simple desire for worldly comfort to be heard."
+          "why": "Allow a simple desire for worldly comfort to be heard.",
+          "shortened": [
+            "How excellent is what was said:",
+            "\"These bitter days, more bitter than poison, shall pass",
+            "Once again days sweet as sugar shall come.\"",
+            "Through God's grace, I also seek worldly comfort for thee."
+          ]
         },
         {
           "key": "source:AB01612",
@@ -330,59 +490,102 @@
         },
         {
           "key": "source:BH05417",
-          "why": "Ask what benefits a person during life and after death."
+          "why": "Ask what benefits a person during life and after death.",
+          "shortened": [
+            "O my Lord! I beseech Thee by the lights of Thy countenance and the mysteries of Thy Book to ordain for me that which will benefit me in my life and after my death."
+          ]
         },
         {
           "key": "source:BH10060",
-          "why": "Extend the horizon to every world of God."
+          "why": "Extend the horizon to every world of God.",
+          "shortened": [
+            "I beseech Thee by Thy mercy which hath preceded all existence, both seen and unseen, to ordain for me that which shall profit me in every world of Thy worlds."
+          ]
         },
         {
           "key": "source:BH07000",
-          "why": "Read the request for what is best in both worlds."
+          "why": "Read the request for what is best in both worlds.",
+          "shortened": [
+            "I beseech Thee, O Cleaver of the Dawn, by the pearls of the ocean of Thy knowledge and by the mysteries hidden in Thy knowledge and the penetration of Thy Command and the power of Thy Pen, to ordain for me what is best in this world and the next."
+          ]
         },
         {
           "key": "source:BH09967",
-          "why": "Join nearness to God with lasting benefit."
+          "why": "Join nearness to God with lasting benefit.",
+          "shortened": [
+            "I beseech Thee by the ocean of Thy bounty and the heaven of Thy generosity to ordain for me that which will draw me nigh unto Thee, and to decree for me, O my God, that which shall profit me in this world and the world to come."
+          ]
         },
         {
           "key": "source:BH06026",
-          "why": "Consider the ocean of wealth together with the heaven of mercy."
+          "why": "Consider the ocean of wealth together with the heaven of mercy.",
+          "shortened": [
+            "Lord! Turn me not away from the ocean of Thy wealth and the heaven of Thy mercy, and ordain for me the good of this world and hereafter."
+          ]
         },
         {
           "key": "source:BH07661",
-          "why": "Include companions in the request for visible and hidden gifts."
+          "why": "Include companions in the request for visible and hidden gifts.",
+          "shortened": [
+            "I entreat Thee, O my Lord, by Thy Most Great Name whereby Thou didst separate light from fire, and truth from denial, to send down upon me and upon such of my loved ones as are in my company the good of this world and of the next. Supply us, then, with Thy wondrous gifts that are hid from the eyes of men."
+          ]
         },
         {
           "key": "source:BH02527",
-          "why": "Read the petition through the name that illumines the world."
+          "why": "Read the petition through the name that illumines the world.",
+          "shortened": [
+            "Moreover, I beseech Thee, O Lord of eternity, by the Most Great Name through which Thou hast illumined the world, to ordain for me the good of this world and the world to come."
+          ]
         },
         {
           "key": "source:BH04714",
-          "why": "Hear the request under the protection of all beings."
+          "why": "Hear the request under the protection of all beings.",
+          "shortened": [
+            "I beseech Thee by the ocean of Thy bounty and the banners of Thy signs to ordain for me the good of the hereafter and of the first life. Verily Thou art the Protector of all beings. There is none other God but Thee, the Compassionate, the Generous."
+          ]
         },
         {
           "key": "source:BH05950",
-          "why": "Consider the good of both lives beside the divine throne."
+          "why": "Consider the good of both lives beside the divine throne.",
+          "shortened": [
+            "I beseech Thee by the ocean of Thy verses and the heaven of Thy clear proofs and the sun of Thy favors to ordain for me through Thy Most Exalted Pen the good of the hereafter and of the first life, and that which Thou hast ordained for those who circle round Thy Mighty Throne and Thy Lofty Seat."
+          ]
         },
         {
           "key": "source:BH07177",
-          "why": "Read the appeal to sovereignty and the Word."
+          "why": "Read the appeal to sovereignty and the Word.",
+          "shortened": [
+            "When thou hast attained unto it, say:",
+            "My God, my God! Thou seest me clinging fast to Thee and to Thy sovereignty. I beseech Thee by the Word which Thou hast made a sword for the ungodly and a mercy for them that believe in Thy unity, to ordain for me through Thy Most Exalted Pen the good of this world and of the world to come."
+          ]
         },
         {
           "key": "source:BH07387",
-          "why": "Ask for lasting benefit for a servant who turns toward God."
+          "why": "Ask for lasting benefit for a servant who turns toward God.",
+          "shortened": [
+            "O my Lord! Have mercy upon Thy servant who hath turned unto Thee and hath clung to the hem of the robe of Thy bounty. Then ordain for him that which shall profit him in this world and the world to come."
+          ]
         },
         {
           "key": "source:BH05602",
-          "why": "Keep the concise petition for the good of both worlds."
+          "why": "Keep the concise petition for the good of both worlds.",
+          "shortened": [
+            "I ask Thee, O Forgiver of the world and Helper of the nations, Who hath appeared through the Most Great Name, to forgive me and those who have turned to Thy most exalted horizon and held fast to the cord of Thy loving-kindness, O Creator of heaven! Then ordain for me the good of this world and the next."
+          ]
         },
         {
           "key": "source:BH07235",
-          "why": "Hear the request through divine bounty and the mysteries of the Book."
+          "why": "Hear the request through divine bounty and the mysteries of the Book.",
+          "shortened": [
+            "I beseech Thee, O Thou Lord of the worlds, by the waves of the ocean of Thy bounty and the mysteries of Thy Book, to ordain for me through Thy Most Exalted Pen the good of this world and of the world to come."
+          ]
         },
         {
           "key": "source:BH08509",
-          "why": "Read guidance and nearness within the petition for good."
+          "why": "Read guidance and nearness within the petition for good.",
+          "shortened": [
+            "I beseech Thee by Thy Most Exalted Word whereby Thou hast guided Thy servants and drawn them nigh unto Thee, that Thou write down for me the good of this world and the world to come."
+          ]
         },
         {
           "key": "source:BH08831",
@@ -402,7 +605,10 @@
         },
         {
           "key": "source:BH07336",
-          "why": "Keep the prayer for two handmaidens in its personal terms."
+          "why": "Keep the prayer for two handmaidens in its personal terms.",
+          "shortened": [
+            "I beseech Thee by Thy Hidden Book, which none has comprehended save Thyself, to ordain for this handmaiden of Thine and Thy other handmaiden the good of the world to come and of this world."
+          ]
         },
         {
           "key": "source:BH01449",
@@ -410,7 +616,10 @@
         },
         {
           "key": "source:BH08155",
-          "why": "Join acceptance of desire with love and good-pleasure."
+          "why": "Join acceptance of desire with love and good-pleasure.",
+          "shortened": [
+            "Then accept from them what they desired in Thy love and good-pleasure, and ordain for them the good of this world and the world to come through Thy bounty and favors and care and loving-kindness."
+          ]
         },
         {
           "key": "source:BH09651",
@@ -418,19 +627,31 @@
         },
         {
           "key": "source:AB05010",
-          "why": "Hold sustenance and ease together with purified hearts."
+          "why": "Hold sustenance and ease together with purified hearts.",
+          "shortened": [
+            "O Lord! Protect them in the cave of Thy protection and shelter, encompass them with the care of the eye of Thy providence and guardianship, make their affairs easy, strengthen their backs, reinforce their support, perpetuate their glory, grant them the good of this world and the next, illumine their faces in Thy Kingdom, shower upon them Thy bounty and blessing, increase the abundance of their sustenance and the elevation of their station, sanctify their spirits and purify their hearts from all else save Thee."
+          ]
         },
         {
           "key": "source:AB00935",
-          "why": "Consider becoming both a treasury of wealth and a mine of faithfulness."
+          "why": "Consider becoming both a treasury of wealth and a mine of faithfulness.",
+          "shortened": [
+            "Send down upon them a blessing from Your heaven and make them treasuries of wealth and mines of faithfulness, and confirm whatever they love among humanity and with which they are content from Your great mercy and Your mighty gifts."
+          ]
         },
         {
           "key": "source:AB04172",
-          "why": "Read the images of thirst and spiritual treasure."
+          "why": "Read the images of thirst and spiritual treasure.",
+          "shortened": [
+            "Give the thirsty to drink from the Salsabil of grace and make the poor rich from the treasure of the Kingdom."
+          ]
         },
         {
           "key": "source:AB12360",
-          "why": "Consider riches, clothing and sustenance in the imagery of the Kingdom."
+          "why": "Consider riches, clothing and sustenance in the imagery of the Kingdom.",
+          "shortened": [
+            "O Lord! They are poor - enrich them from the treasures of Thy Kingdom; they are lowly - exalt them through the outpourings of Thy Realm Above; they are thirsty - give them to drink from the Spring of Tasnim; they are naked - clothe them in the raiment of sanctity."
+          ]
         },
         {
           "key": "source:AB10446",
@@ -438,11 +659,17 @@
         },
         {
           "key": "source:BH09598",
-          "why": "Read the plea that need not be turned away."
+          "why": "Read the plea that need not be turned away.",
+          "shortened": [
+            "O God! Do not deprive the poor one from the gate of Thy riches, and do not forbid him from the ocean of Thy bestowals."
+          ]
         },
         {
           "key": "source:BH05567",
-          "why": "Consider the poor person’s hope at the gate of riches."
+          "why": "Consider the poor person’s hope at the gate of riches.",
+          "shortened": [
+            "O my Lord! Thou seest the poor one who has sought the gate of Thy riches - I beseech Thee not to disappoint him of what lies with Thee."
+          ]
         },
         {
           "key": "source:BH04409",
@@ -450,11 +677,17 @@
         },
         {
           "key": "source:BH06020",
-          "why": "Consider wealth and might derived from God."
+          "why": "Consider wealth and might derived from God.",
+          "shortened": [
+            "I beseech Thee to write down for me that which will make me rich through Thy riches and mighty through Thy might."
+          ]
         },
         {
           "key": "source:BH01844",
-          "why": "Read the opened doors of riches beside holding to bounty."
+          "why": "Read the opened doors of riches beside holding to bounty.",
+          "shortened": [
+            "Then open before their faces the doors of Thy riches. O Lord! Thou seest them holding fast to the cord of Thy bounty and clinging to the hem of Thy generosity."
+          ]
         },
         {
           "key": "source:BH01643",
@@ -470,23 +703,38 @@
         },
         {
           "key": "source:BH06392",
-          "why": "Join delight and divine generosity in personal remembrance."
+          "why": "Join delight and divine generosity in personal remembrance.",
+          "shortened": [
+            "We read it and make mention of thee, and beseech Him, exalted be He, to open before thy face the gates of joy and delight, and to send down upon thee from the heaven of His grace that which befitteth His generosity and favors."
+          ]
         },
         {
           "key": "source:BH02008",
-          "why": "Hear the request for blessing that rejoices hearts."
+          "why": "Hear the request for blessing that rejoices hearts.",
+          "shortened": [
+            "The servant asks his Lord to open upon your faces the doors of blessing and bounty and that whereby your hearts may rejoice."
+          ]
         },
         {
           "key": "source:BH02620",
-          "why": "Keep the concise wish for bounty to each person."
+          "why": "Keep the concise wish for bounty to each person.",
+          "shortened": [
+            "For each one We seek bounty and blessing and wealth and glory."
+          ]
         },
         {
           "key": "source:BH06814",
-          "why": "Read the assurance to loved ones in its particular voice."
+          "why": "Read the assurance to loved ones in its particular voice.",
+          "shortened": [
+            "Soon will He open the doors of prosperity upon the faces of His loved ones and His friends with the keys of His gifts and favors. Verily He is the Powerful, the Almighty, and worthy to answer prayer."
+          ]
         },
         {
           "key": "source:AB03258",
-          "why": "Preserve the specific assurance concerning straitened circumstances."
+          "why": "Preserve the specific assurance concerning straitened circumstances.",
+          "shortened": [
+            "Soon the Lord will extenuate thy straightened circumstances even in this world."
+          ]
         },
         {
           "key": "source:AB08602",
@@ -522,11 +770,17 @@
         },
         {
           "key": "source:BH10435",
-          "why": "Keep the personal request that a desire be granted."
+          "why": "Keep the personal request that a desire be granted.",
+          "shortened": [
+            "We beseech God to grant thee what thou hast desired from the heaven of His bounty and the ocean of His bestowals."
+          ]
         },
         {
           "key": "source:BH10097",
-          "why": "Close by asking for the greatest good in a journey’s consequences."
+          "why": "Close by asking for the greatest good in a journey’s consequences.",
+          "shortened": [
+            "We beseech God, glorified be His majesty, to make it blessed and to make the ultimate consequences of the journey the greatest good."
+          ]
         }
       ],
       "questions": [
@@ -569,16 +823,22 @@
       "id": "9A79D4C03ECA48FB9544B12169798732",
       "slug": "preservationwritings",
       "displayTitle": "Preserving the writings: fidelity in human hands",
-      "introduction": "A text can be treasured and still be copied inaccurately, misplaced, or lost. This compilation brings the practical labor of preservation into the heart of devotion: gather scattered writings, compare copies, correct errors, choose durable materials, protect originals, and share trustworthy texts. The passages reveal both urgency and patience, from the fear of failing to record words during revelation to the repeated checking of pages before circulation. Instructions about secrecy reflect particular dangers of confiscation and persecution; other selections call for dissemination and placement in libraries. The connected subjects of authentication, ordering, translation, and textual discrepancies help distinguish reverence for revelation from confidence in every human copy. Jeremiah’s account of a burned scroll and its renewed dictation offers a vivid comparison of a message surviving an attack on its material form [1]. The reader is invited to see accurate preservation as an active trust owed to both the words and their future readers.",
+      "introduction": "Four copies of the Kitáb-i-Badí‘ had been written out, compared and checked, and still, when one of them chanced to lie open before Bahá’u’lláh, He found misspelt words and missing letters on most of its pages. Error, His amanuensis admits, belongs to human nature; the Word does not, and so the care of the Word becomes a form of devotion. The same servant who trembled with joy at hearing the verses revealed trembled with fear that memory might fail before they were written down. From that fear flows a whole discipline: gather what is scattered, compare copies against a correct exemplar, choose durable paper and fine handwriting, keep the original safe while copies travel, hide the Tablets from those who would seize them, and yet send trustworthy texts to libraries in distant cities. Jeremiah’s scroll, burned by a king and dictated again to Baruch, is an old witness that a message can outlive an attack on its paper [1]. Accurate preservation is a trust owed to the words and their future readers, and it opens onto authentication, the ordering of the Sacred Writings, their translation, and their publication.",
       "arc": "Begin with the vulnerability of transmission, follow careful copying and protection, and consider access, remembrance, and enduring meaning.",
       "order": [
         {
           "key": "source:BH11663",
-          "why": "Open with errors discovered even in copies already checked."
+          "why": "Open with errors discovered even in copies already checked.",
+          "shortened": [
+            "Moreover, the scribes make many mistakes, for error and mistake have been and will be in human nature. Just as in these days four copies of the Kitab-i-Badi' have been written, and although they were compared and checked, nevertheless one day by chance one of those copies was present before His Countenance. He looked at some of it and found several instances where letters were mistaken, and likewise several places where the spelling was wrong. Afterwards He commanded that it be carefully examined and compared. It became apparent that in most pages there were mistakes and omissions. Therefore it is very necessary that they be attentive with care so that it becomes correct."
+          ]
         },
         {
           "key": "source:BH00196",
-          "why": "Hear the recorder’s joy and fear of failing to preserve revealed words."
+          "why": "Hear the recorder’s joy and fear of failing to preserve revealed words.",
+          "shortened": [
+            "I swear by the Beauty of the Desired One and the Sovereign of the unseen and the seen that in most times during revelation, joy and sorrow encompass this servant to such extent that none save God, exalted be His station, knoweth its measure--joy from hearing the wondrous and sublime melodies of God, glorified be His majesty, and sorrow from fear lest the verses be neglected and memory fail to preserve them."
+          ]
         },
         {
           "key": "source:BB00003",
@@ -590,7 +850,10 @@
         },
         {
           "key": "source:AB12228",
-          "why": "Make a correct exemplar and repeated page checking explicit."
+          "why": "Make a correct exemplar and repeated page checking explicit.",
+          "shortened": [
+            "After completion, inform me so that instructions may be given as to how they should be sent. Also prepare one copy of the Answer to the Objections of the Judge, so that it may be printed in Bombay. Give priority to this Answer to the Judge, but strive with utmost care for accuracy of expression and absence of errors. Compare repeatedly each page that you write, and first you must obtain a correct copy to work from."
+          ]
         },
         {
           "key": "source:BH10816",
@@ -602,7 +865,10 @@
         },
         {
           "key": "source:AB11825",
-          "why": "Examine the replacement of erroneous library copies with correct writings."
+          "why": "Examine the replacement of erroneous library copies with correct writings.",
+          "shortened": [
+            "Some friends in London in these days had copied those erroneous Tablets with the intention of publishing them. I immediately prohibited this and wrote that they should also inform the library director that those Holy Writings, those Sacred Words - each letter of which is equal to the creation of all beings - are erroneous. Therefore it would be better to remove those erroneous Tablets and send correct Sacred Writings in the most beautiful calligraphy instead."
+          ]
         },
         {
           "key": "source:BH00678",
@@ -618,7 +884,10 @@
         },
         {
           "key": "source:BH04591",
-          "why": "Read the rejection of a mistaken attribution of the Iqan."
+          "why": "Read the rejection of a mistaken attribution of the Iqan.",
+          "shortened": [
+            "In any case, the Pen is astonished - they have attributed the Book of Iqan, which was revealed from the heaven of grace in response to the Afnan Haji Mir Siyyid Muhammad (upon him be the glory of God and His forgiveness and mercy and bounty), to Yahya, saying it is from him, even though that heedless one was never with Us."
+          ]
         },
         {
           "key": "source:BH00781",
@@ -642,7 +911,10 @@
         },
         {
           "key": "source:AB11870",
-          "why": "Consider the cost of durable paper and skilled transcription."
+          "why": "Consider the cost of durable paper and skilled transcription.",
+          "shortened": [
+            "Since transcription involves expenses, as they must be written in fine calligraphy on high quality, durable paper and illuminated before being sent, Jinab-i-Amin will cover the costs."
+          ]
         },
         {
           "key": "source:BH00040",
@@ -650,19 +922,31 @@
         },
         {
           "key": "source:AB02068",
-          "why": "Read the practical safeguard of multiple copies in separate places."
+          "why": "Read the practical safeguard of multiple copies in separate places.",
+          "shortened": [
+            "You should certainly make multiple copies of those papers and keep each copy preserved in a place so they are not lost."
+          ]
         },
         {
           "key": "source:BH00467",
-          "why": "Introduce secure storage in a letter about newly received Tablets."
+          "why": "Introduce secure storage in a letter about newly received Tablets.",
+          "shortened": [
+            "According to His command, you must hold fast in all conditions to the cord of wisdom, and preserve whatever holy tablets and letters arrive from the Most Holy Court and from this servant. It would be regrettable were the verses of God to fall into the wrong hands. A secure place must be designated for the divine trusts - that is, the verses and words."
+          ]
         },
         {
           "key": "source:BH00051",
-          "why": "Read the direct call to protect divine verses."
+          "why": "Read the direct call to protect divine verses.",
+          "shortened": [
+            "The people of God must exert their utmost effort in protecting the divine verses, that they may be safeguarded from treacherous eyes and thieving hands. This servant has expressed this to some of the friends. God willing, they will be assisted."
+          ]
         },
         {
           "key": "source:BH00172",
-          "why": "Consider the danger of writings seized during arrests."
+          "why": "Consider the danger of writings seized during arrests.",
+          "shortened": [
+            "God willing, may all the divine friends be illumined and gladdened by the lights of the suns of utterance and act according to that which they have been commanded in the Book. In truth, all must not be negligent in preserving the divine Tablets. As previously, when they intended to seize some friends, their writings first fell into [others'] hands. This is not permissible. They must designate a secure place for the divine verses so they remain protected from the touch of unworthy hands, although none shall touch them save the pure ones, as it has been and ever shall be."
+          ]
         },
         {
           "key": "source:BH00146",
@@ -670,19 +954,31 @@
         },
         {
           "key": "source:BH00183",
-          "why": "Hear the repeated urgency after further confiscations."
+          "why": "Hear the repeated urgency after further confiscations.",
+          "shortened": [
+            "Among the important matters has been and is the preservation of divine verses. Glory be to God! Despite this point being written repeatedly and sent to various regions, still in every land they have captured pure souls who had writings with them. It is as if they have prepared the Books, Scrolls, Psalms and Tablets of Truth just to surrender them. Their preservation is obligatory and essential for all. A hundred thousand regrets that the pearls of the divine ocean of knowledge have fallen into the hands of thieves and traitors."
+          ]
         },
         {
           "key": "source:BH00691",
-          "why": "Read protection alongside renewed attention to the intended words."
+          "why": "Read protection alongside renewed attention to the intended words.",
+          "shortened": [
+            "Therefore, in these days they are repeatedly being read in Our presence, that what God hath intended and what the Tongue of Grandeur hath spoken may become manifest. Many verses and evidences have fallen into the hands of the idolaters, both in the Land of Ta [Tehran] and other lands. The people of God must make a mighty effort to preserve and protect the Tablets."
+          ]
         },
         {
           "key": "source:BH07960",
-          "why": "Consider the image of guarding a Tablet as one’s eye."
+          "why": "Consider the image of guarding a Tablet as one’s eye.",
+          "shortened": [
+            "Know thou the value of the mention of the Wronged One and preserve this Tablet as thou wouldst thine eye, that it may be protected from the eyes of the treacherous and the ears of the thieves."
+          ]
         },
         {
           "key": "source:BH03542",
-          "why": "Read personal responsibility for what has been entrusted."
+          "why": "Read personal responsibility for what has been entrusted.",
+          "shortened": [
+            "Thou must exert utmost effort and striving to preserve that which hath been revealed unto thee, that it may endure for thee."
+          ]
         },
         {
           "key": "source:AB10693",
@@ -714,7 +1010,10 @@
         },
         {
           "key": "source:BH00553",
-          "why": "Read dissemination under conditions requiring discretion."
+          "why": "Read dissemination under conditions requiring discretion.",
+          "shortened": [
+            "Certain Tablets had been written, and copies of some were inscribed in a special treatise and sent. If you can disseminate these to all lands, no task today is greater than this, yet let copies be made and sent with utmost discretion, lest it become widely known in the city and the leaders thereof, whether governors or others, become aware."
+          ]
         },
         {
           "key": "source:BH05653",
@@ -742,19 +1041,32 @@
         },
         {
           "key": "source:ABU2755",
-          "why": "Hear the reported memory of the Báb’s prayers copied by Bahá’u’lláh."
+          "why": "Hear the reported memory of the Báb’s prayers copied by Bahá’u’lláh.",
+          "shortened": [
+            "When I was very, very young, I found in Our house in Teheran a large voluminous book containing many prayers in Arabic revealed by the Bab and copied by Baha'u'llah."
+          ]
         },
         {
           "key": "source:ABU1162",
-          "why": "Read the reported labor of collecting the Báb’s writings and uncertainty about their fate."
+          "why": "Read the reported labor of collecting the Báb’s writings and uncertainty about their fate.",
+          "shortened": [
+            "Thereafter He related:",
+            "They were in a certain place with Aqa Mirza Javad-i-Khurasani and Mirza Aqa Jan; and Aqa Mirza Javad, though exceedingly sharp-tempered, was nevertheless a believer, assured and steadfast. At the intimation of His Holiness my Master, he transcribed a complete collection---most of it from the handwriting of Aqa Siyyid Husayn---of the writings of His Holiness the Exalted One; and all of it was corrected and collated. With what pains His Holiness my Master had obtained these writings, and at last brought them to 'Akka; but what Mirza Muhammad-'Ali did with them is not known."
+          ]
         },
         {
           "key": "source:AB00467",
-          "why": "Consider a calligrapher’s widely distributed service."
+          "why": "Consider a calligrapher’s widely distributed service.",
+          "shortened": [
+            "Day and night he was occupied in transcribing and arranging the Sacred Tablets, and in producing calligraphic renderings of the Greatest Name. These pieces spread throughout all parts, so that in Iran and Turan, Europe and America, Asia and Africa - there is no city where some example of his penmanship is not to be found. Most of these pieces are of the Greatest Name."
+          ]
         },
         {
           "key": "source:BH02400",
-          "why": "Read transcription as a chosen station of service."
+          "why": "Read transcription as a chosen station of service.",
+          "shortened": [
+            "Thou art he who was blessed to transcribe the verses of thy Lord - a station which God chose before the appearance of the Pens among mankind."
+          ]
         },
         {
           "key": "source:BH07245",
@@ -766,7 +1078,10 @@
         },
         {
           "key": "source:AB12349",
-          "why": "Read gratitude for time spent in preservation."
+          "why": "Read gratitude for time spent in preservation.",
+          "shortened": [
+            "Praise be to God that, through the grace of the Ancient Beauty - may my spirit be a sacrifice for His loved ones - thou art enabled to transcribe the divine verses and art spending thy time in the greatest of services."
+          ]
         },
         {
           "key": "source:BH01331",
@@ -774,7 +1089,10 @@
         },
         {
           "key": "source:AB09768",
-          "why": "Consider the prayer for lifelong service through transcription."
+          "why": "Consider the prayer for lifelong service through transcription.",
+          "shortened": [
+            "O Lord! Ordain for him every good thing in Thy kingdom, and assist him, as long as he liveth, to transcribe Thy verses and compose Thy words."
+          ]
         },
         {
           "key": "source:BH04996",
@@ -790,19 +1108,31 @@
         },
         {
           "key": "source:BH08517",
-          "why": "Distinguish preservation in divine knowledge from material custody."
+          "why": "Distinguish preservation in divine knowledge from material custody.",
+          "shortened": [
+            "I testify that it was preserved in God's knowledge and concealed from all eyes. Then when the time came, We sent it down as a grace from Our presence and made it manifest as a mercy from Us, yet most of the people perceive not."
+          ]
         },
         {
           "key": "source:BH10394",
-          "why": "Keep the Tablet’s statement about preservation of past and future."
+          "why": "Keep the Tablet’s statement about preservation of past and future.",
+          "shortened": [
+            "This is the Tablet wherein hath been ordained the preservation of what was and what will be, yet the people perceive not."
+          ]
         },
         {
           "key": "source:BH08565",
-          "why": "Close the linked passages with the endurance of the divine word."
+          "why": "Close the linked passages with the endurance of the divine word.",
+          "shortened": [
+            "The world and all that is therein shall soon return to nothingness, while that which hath been revealed from the Supreme Pen concerning the loved ones, the chosen ones, and the sincere ones shall endure as long as His most beautiful names endure."
+          ]
         },
         {
           "key": "selection:7185bc6204d62ade1f2e9bb1",
-          "why": "Retain the supplied translation’s urgent call to protect entrusted Tablets."
+          "why": "Retain the supplied translation’s urgent call to protect entrusted Tablets.",
+          "shortened": [
+            "They should guard the Tablets as they guard their eyes, nay with greater vigilance, if they be of them that comprehend. Truly, none must be careless in the matter of safeguarding the Divine Tablets. In former times, when plans were laid to seize some of the friends, before all else it was the Writings that fell into the hands of the enemy. This is not permissible. The friends should designate a strong, secure place for storing the Divine Verses so that they may not be exposed to the touch of unworthy hands, even though these Verses are, and shall always be, such as \"none shall touch but the purified\"."
+          ]
         }
       ],
       "questions": [
@@ -863,7 +1193,7 @@
       "id": "4D77315AED654CCC921D8BAC5B21A41C",
       "slug": "discovery",
       "displayTitle": "The mind’s power of discovery: bringing the hidden into view",
-      "introduction": "An invention that reshapes daily life may begin with a relation no one has yet understood. These passages celebrate the mind’s capacity to move from observed signs toward hidden realities, to discover laws, and to give ideas a practical form. They also ask what makes discovery trustworthy: examine premises, attend to experience, and distinguish the reach of human investigation from claims about divine realities. The connected subjects of reason’s limits, concentration, scientific knowledge, and religion help keep intellectual confidence open to correction. Historical examples and comparisons with animals belong to the texts’ philosophical arguments and should be examined in that setting. Bacon offers a productive comparison by joining knowledge and effective action to observation, instruments, and respect for nature’s workings [1]. Read together, these perspectives invite a question of responsibility as well as ability: how can the gift of understanding become a disciplined search for truth and a source of benefit?",
+      "introduction": "Every invention that now shapes a day was once a secret sealed in the bosom of nature until a human mind reached in and drew it out. ‘Abdu’l-Bahá never tires of that movement from the hidden to the visible: the rational soul observes a sign, reasons from known premises to an unknown conclusion, reconstructs a vanished past and foresees what has not yet happened. Bahá’u’lláh calls understanding the first of God’s favours to man, given so that the creature may know its Creator, and ‘Abdu’l-Bahá names science the noblest of human virtues, a pathway to God. Yet the same teachers mark a boundary: the uttermost flight of natural investigation is the realities of contingent things, and the divine Spirit works in another field. Bacon, insisting that the mind needs instruments as the hand does and that nature is commanded only by being obeyed, describes the discipline of discovery from the side of method [1]. Ability brings responsibility, since a finding may be judged both by its truth and by its use. From here the road leads toward the limits of the intellect, the harmony of science and religion, and the concentration and right intention that make the mind a faithful instrument.",
       "arc": "Begin with discovery’s visible fruits, examine reasoning and observation, and explore the scope, limits, and purposes of understanding.",
       "order": [
         {
@@ -872,11 +1202,17 @@
         },
         {
           "key": "source:BH03960",
-          "why": "Locate understanding within a gift directed toward recognition and right action."
+          "why": "Locate understanding within a gift directed toward recognition and right action.",
+          "shortened": [
+            "First and foremost among these favors, which the Almighty hath conferred upon man, is the gift of understanding. His purpose in conferring such a gift is none other except to enable His creature to know and recognize the one true God—exalted be His glory. This gift giveth man the power to discern the truth in all things, leadeth him to that which is right, and helpeth him to discover the secrets of creation."
+          ]
         },
         {
           "key": "source:ABU0023",
-          "why": "Make careful examination of premises a starting discipline."
+          "why": "Make careful examination of premises a starting discipline.",
+          "shortened": [
+            "In the investigation of a subject the right method of approach is to carefully examine its premises."
+          ]
         },
         {
           "key": "source:AB12758",
@@ -884,7 +1220,10 @@
         },
         {
           "key": "source:ABU1310",
-          "why": "Consider the reported importance of a child’s observations and experience."
+          "why": "Consider the reported importance of a child’s observations and experience.",
+          "shortened": [
+            "Human progress depends upon what one observes. It is observations that cause the expansion of thought. For example, if we were to raise one child in a room, and another amidst meadows and plains and near the sea where his observations would be numerous and his experiences boundless, undoubtedly the second child would become more far-sighted and accomplished in all matters."
+          ]
         },
         {
           "key": "source:ABU1568",
@@ -896,11 +1235,17 @@
         },
         {
           "key": "source:AB00747",
-          "why": "Establish both the power and the stated limit of natural investigation."
+          "why": "Establish both the power and the stated limit of natural investigation.",
+          "shortened": [
+            "Through the power of the rational soul man can discover the realities of things, comprehend their properties and penetrate the mysteries of existence. All the sciences, branches of learning, arts, inventions, institutions, undertakings and discoveries have resulted from the comprehension of the rational soul. These were once impenetrable secrets, hidden mysteries and unknown realities, and the rational soul gradually discovered them and brought them out of the invisible plane into the realm of the visible. This is the greatest power of comprehension in the world of nature, and the uttermost limit of its flight is to comprehend the realities, signs and properties of contingent things."
+          ]
         },
         {
           "key": "source:AB00266",
-          "why": "Read deduction from visible realities toward what is unknown."
+          "why": "Read deduction from visible realities toward what is unknown.",
+          "shortened": [
+            "This spirit is the discovering power that encompasses all things. All the wondrous signs, all the crafts and discoveries, all the mighty undertakings and momentous historical events of which you are aware have been discovered by this spirit and brought forth from the invisible realm into the visible plane through its spiritual power. Thus it abides upon the earth and yet makes discoveries in the heavens, and deduces that which is unknown from known and visible realities."
+          ]
         },
         {
           "key": "source:AB00020",
@@ -908,7 +1253,10 @@
         },
         {
           "key": "source:AB00460",
-          "why": "Define the reasoning faculty through intelligible and perceptible things."
+          "why": "Define the reasoning faculty through intelligible and perceptible things.",
+          "shortened": [
+            "The human spirit consists of the rational, or logical, reasoning faculty, which apprehends general ideas and things intelligible and perceptible."
+          ]
         },
         {
           "key": "source:AB00057",
@@ -916,19 +1264,33 @@
         },
         {
           "key": "source:AB00482",
-          "why": "Read the gradual unveiling of arts and sciences."
+          "why": "Read the gradual unveiling of arts and sciences.",
+          "shortened": [
+            "Know, therefore, that the human reality encompasses the realities of all things and discovers their true nature, their properties, and their mysteries. For instance, all the existing crafts, inventions, sciences, and branches of learning have been discovered by the human reality. At one time they were all hidden and concealed mysteries, but the reality of man gradually discovered them and brought them forth from the invisible world into the visible realm."
+          ]
         },
         {
           "key": "source:AB00092",
-          "why": "Distinguish human discovery from the divine Spirit’s field."
+          "why": "Distinguish human discovery from the divine Spirit’s field.",
+          "shortened": [
+            "Concerning the matter of spiritual discoveries that you mentioned, the human spirit has a comprehensive power over the realities of things.",
+            "Thus it is evident that the human spirit has comprehensive power and control over the realities of things, and discovers secrets hidden in the realm of this world. But the Divine Spirit discovers divine realities and universal mysteries in the heavenly realm."
+          ]
         },
         {
           "key": "source:ABU0179",
-          "why": "Keep the reported distinction between rational soul and another sense of spirit."
+          "why": "Keep the reported distinction between rational soul and another sense of spirit.",
+          "shortened": [
+            "This human spirit, which is the rational soul, encompasses all things, discovers all things, and comprehends all things. It is this that brings forth the mysteries of being from the invisible plane to the visible. This is the power that brings all material arts, sciences and inventions from the invisible realm into the visible realm.",
+            "But when spiritual people speak of the spirit, they do not mean this spirit."
+          ]
         },
         {
           "key": "source:ABU0061",
-          "why": "Consider the reported intellect as a capacity for divine light."
+          "why": "Consider the reported intellect as a capacity for divine light.",
+          "shortened": [
+            "To man is given the special gift of the intellect by which he is able to receive a larger share of the light Divine."
+          ]
         },
         {
           "key": "source:ABU0145",
@@ -936,7 +1298,10 @@
         },
         {
           "key": "source:ABU0157",
-          "why": "Consider science as a pathway toward God."
+          "why": "Consider science as a pathway toward God.",
+          "shortened": [
+            "The virtues of humanity are many, but science is the most noble of them all. The distinction which man enjoys above and beyond the station of the animal is due to this paramount virtue. It is a bestowal of God; it is not material; it is divine. Science is an effulgence of the Sun of Reality, the power of investigating and discovering the verities of the universe, the means by which man finds a pathway to God."
+          ]
         },
         {
           "key": "source:ABU0178",
@@ -948,7 +1313,10 @@
         },
         {
           "key": "source:AB00006",
-          "why": "Consider the role of simile and metaphor in understanding."
+          "why": "Consider the role of simile and metaphor in understanding.",
+          "shortened": [
+            "For the life-giving wine of the mysteries of reality and understanding can be drunk from the illumined chalice of similes and the delicate goblet of metaphor by those who are athirst in the wilderness of confusion."
+          ]
         },
         {
           "key": "source:ABU0395",
@@ -968,11 +1336,17 @@
         },
         {
           "key": "source:AB00103",
-          "why": "Examine the letter’s comparison of animal and human understanding."
+          "why": "Examine the letter’s comparison of animal and human understanding.",
+          "shortened": [
+            "And the animal kingdom, no matter how far it may evolve, can never become aware of the reality of the intellect, which discovereth the inner essence of all things, and comprehendeth those realities which cannot be seen; for the human plane as compared with that of the animal is very high."
+          ]
         },
         {
           "key": "source:AB00409",
-          "why": "Consider universal ideas and distant realities in another comparison."
+          "why": "Consider universal ideas and distant realities in another comparison.",
+          "shortened": [
+            "In the same way the animal remaineth totally unaware of that power of the human mind which graspeth universal ideas and layeth bare the secrets of creation---so that a man who liveth in the east can make plans and arrangements for the west; can unravel mysteries; although located on the continent of Europe can discover America; although sited on the earth can lay hold of the inner realities of the stars of heaven. Of this power of discovery which belongeth to the human mind, this power which can grasp abstract and universal ideas, the animal remaineth totally ignorant, and indeed denieth its existence."
+          ]
         },
         {
           "key": "source:AB00166",
@@ -1012,7 +1386,10 @@
         },
         {
           "key": "source:AB02189",
-          "why": "Read scientific advances as the unveiling of natural mysteries."
+          "why": "Read scientific advances as the unveiling of natural mysteries.",
+          "shortened": [
+            "In the world of science, manifold advancements have been achieved, how many hidden realities of creation have been discovered, and the holy power of the mind has unveiled the concealed mysteries and protected truths of the natural world, has broken through the laws of nature, and brought those hidden mysteries from the realm of the unseen into the visible realm."
+          ]
         },
         {
           "key": "source:AB02512",
@@ -1048,7 +1425,10 @@
         },
         {
           "key": "source:ABU0586",
-          "why": "Examine the reported distinction between mind and soul in its own vocabulary."
+          "why": "Examine the reported distinction between mind and soul in its own vocabulary.",
+          "shortened": [
+            "There is, however, a faculty in man which unfolds to his vision the secrets of existence. It gives him a power whereby he may investigate the reality of every object. It leads man on and on to the luminous station of divine sublimity and frees him from all the fetters of self, causing him to ascend to the pure heaven of sanctity. This is the power of the mind, for the soul is not, of itself, capable of unrolling the mysteries of phenomena; but the mind can accomplish this and therefore it is a power superior to the soul."
+          ]
         },
         {
           "key": "source:ABU0004",
@@ -1056,11 +1436,17 @@
         },
         {
           "key": "source:ABU0572",
-          "why": "Read intellectual power alongside second birth and love of God."
+          "why": "Read intellectual power alongside second birth and love of God.",
+          "shortened": [
+            "As he possesses sense endowment in common with the animals, it is evident that he is distinguished above them by his conscious power of penetrating abstract realities. He acquires divine wisdom; he searches out the mysteries of creation; he witnesses the radiance of omnipotence; he attains the second birth -- that is to say, he is born out of the material world just as he is born of the mother; he attains to everlasting life; he draws nearer to God; his heart is replete with the love of God."
+          ]
         },
         {
           "key": "source:ABU3259",
-          "why": "Hear the reported aspiration to soar in knowledge and receive glad tidings."
+          "why": "Hear the reported aspiration to soar in knowledge and receive glad tidings.",
+          "shortened": [
+            "Nevertheless the spirit of man is powerful; for the spirit of man can soar in the firmament of knowledge, can discover realities, can confer life, can receive the divine Glad-Tidings."
+          ]
         },
         {
           "key": "source:BH06522",
@@ -1226,7 +1612,7 @@
       "id": "1DECA0446C2D4E74BF311F15691FB7A7",
       "slug": "futuremanifestations",
       "displayTitle": "Future revelation: an open horizon and a firm minimum",
-      "introduction": "A revelation that affirms its own greatness can also prepare its followers to recognize revelation still to come. This compilation holds that openness together with an explicit safeguard: the full thousand-year minimum before a new claim to direct revelation. It repeatedly distinguishes that minimum from an appointed arrival date, and a particular dispensation from the much longer cycle within which further Manifestations may appear. The connected subjects of progressive revelation, false claims, and prophecy make discernment central. The sources need to be weighed as well as compared: provisional translations and reported sayings retain their status, and a report suggesting a conclusion before a thousand years conflicts with the explicit minimum. Matthew’s call to readiness without knowledge of the day or hour offers a comparison, while providing no equivalent thousand-year rule [1]. The inquiry therefore concerns both patient fidelity and the humility needed to leave future divine action open.",
+      "introduction": "Abraham gave tidings of Moses, Moses of Christ, Christ of the Paraclete, Muḥammad of the Báb, the Báb of Bahá’u’lláh; and Bahá’u’lláh in turn speaks of One who will come after Him, fearing for Him more than for Himself. The rising and setting of the Sun of Truth has no beginning and no end. To believe this is to hold a revelation’s greatness and its openness together, and the Kitáb-i-Aqdas supplies the hinge: before a full thousand years have passed, anyone claiming direct revelation from God is an impostor. ‘Abdu’l-Bahá adds that the minimum is not an appointment; the interval may be a thousand years or thousands, and the cycle Bahá’u’lláh opened stretches across ages beyond reckoning, in which other Manifestations will renew laws under His shadow. Jesus likewise asked for readiness without knowledge of the day or hour, though without a numbered safeguard [1]. The path from here runs through progressive revelation, through the discernment of false claims to spiritual station, and through the long story of religion corrupted and renewed, where patience and humility prove to be one virtue.",
       "arc": "Begin with the promise of further revelation, establish the minimum interval, distinguish dispensation and cycle, and return to recognition and responsibility.",
       "order": [
         {
@@ -1243,7 +1629,14 @@
         },
         {
           "key": "source:AB01673",
-          "why": "Read the extended distinction between future revelation and a universal cycle."
+          "why": "Read the extended distinction between future revelation and a universal cycle.",
+          "shortened": [
+            "The meaning of this is that any individual who, before the expiry of a full thousand years--years known and clearly established by common usage and requiring no interpretation--should lay claim to a Revelation direct from God, even though he should reveal certain signs, that man is assuredly false and an impostor.",
+            "This is not a reference to the Universal Manifestation, for it is clearly set forth in the Holy Writings that centuries, nay thousands of years, must pass on to completion, before a Manifestation like unto this Manifestation shall appear again.",
+            "It is possible, however, that after the completion of a full thousand years, certain Holy Beings will be empowered to deliver a Revelation: this, however, will not be through a Universal Manifestation.",
+            "As to the cycle of the Blessed Beauty--the times of the Greatest Name--this is not limited to a thousand or two thousand years...",
+            "When it is said that the period of a thousand years beginneth with the Manifestation of the Blessed Beauty and every day thereof is a thousand years, the intent is a reference to the cycle of the Blessed Beauty, which in this context will extend over many ages into the unborn reaches of time."
+          ]
         },
         {
           "key": "source:AB00206",
@@ -1251,51 +1644,91 @@
         },
         {
           "key": "source:AB03565",
-          "why": "Consider their relation to inspiration and freedom within their own age."
+          "why": "Consider their relation to inspiration and freedom within their own age.",
+          "shortened": [
+            "Concerning the holy Manifestations who will come in the future \"in the shadows of the clouds\" - in terms of receiving divine bounty they are under the shadow of the Ancient Beauty, but in terms of their outpouring they \"do whatsoever they will.\""
+          ]
         },
         {
           "key": "source:BH01392",
-          "why": "Hear Bahá’u’lláh’s concern for the one who comes after Him."
+          "why": "Hear Bahá’u’lláh’s concern for the one who comes after Him.",
+          "shortened": [
+            "By God! I fear not for Myself, but for him who shall come after Me with mighty and impregnable sovereignty. By God! Whoso objecteth unto Me shall object unto him."
+          ]
         },
         {
           "key": "source:BH11742",
-          "why": "Leave the proof of future Manifestations within divine determination."
+          "why": "Leave the proof of future Manifestations within divine determination.",
+          "shortened": [
+            "Although in this Manifestation all signs of power, manifest proofs, wondrous verses, glorious manifestations and divine attributes have appeared - and all this as a grace from Us to all created things - yet henceforth the matter resteth in God's hands, that He may designate what shall be proof for future Manifestations. We shall soon send down His decree in the Tablets, for verily We have ever been the Ruler over all things. All matters are within Our mighty grasp; We do what We will and decree what We please."
+          ]
         },
         {
           "key": "source:BH00004",
-          "why": "Read both the completion of cycles and the safeguard of this Revelation together."
+          "why": "Read both the completion of cycles and the safeguard of this Revelation together.",
+          "shortened": [
+            "None but God is aware of the completion of a cycle. Sometimes perfection appears in less than that, and sometimes it does not appear in a thousand years or more. It is very clear that the perfection of all things is through God's confirmation, not through length of time and the appearance of people's vain imaginings.",
+            "Whosoever claims before the thousand years hath fabricated against God, for thereby the Cause would be corrupted and the temple of the Divine Will would not be established upon the throne of mighty glory."
+          ]
         },
         {
           "key": "source:BH00030",
-          "why": "Keep the reported Ridvan declarations and the explicit meaning of a full year."
+          "why": "Keep the reported Ridvan declarations and the explicit meaning of a full year.",
+          "shortened": [
+            "On the first day when the Ancient Beauty was seated upon the Most Great Throne in the garden named Ridvan, the tongue of grandeur spoke three verses: First, that the sword is abolished in this Revelation; second, that before the completion of a thousand years, whosoever makes a claim is false, and the year is a complete year - interpretation and explanation of this verse are forbidden; and third, that God, exalted be His glory, at that moment shed the radiance of all His names upon all things."
+          ]
         },
         {
           "key": "source:BH00312",
-          "why": "Read the detailed warning against premature claims and their divisive effects."
+          "why": "Read the detailed warning against premature claims and their divisive effects.",
+          "shortened": [
+            "In one of the Tablets it is revealed: \"Whosoever makes a claim before the completion of a full thousand years is a lying impostor.",
+            "For the harm of such souls has affected the divine Tree of Truth itself and has been the cause of discord, contention, conflict, the wavering of weak hearts, and the instability of the Cause among the people - and will continue to be so."
+          ]
         },
         {
           "key": "source:BH00199",
-          "why": "Consider the parallel Tablet’s explanation of time and instability."
+          "why": "Consider the parallel Tablet’s explanation of time and instability.",
+          "shortened": [
+            "As the Pen of the Ancient of Days and the Most Great Name now declares: should anyone appear with all the signs before the completion of a full thousand years - each year comprising twelve months according to what was revealed in the Furqan, and nineteen months according to what was revealed in the Bayan, with each month being nineteen days - you must never believe them.",
+            "For the harm of such souls returns to the Divine Tree itself and has been and will be the cause of dissension, disputation, strife, the wavering of weak hearts, and the instability of the Cause among the people."
+          ]
         },
         {
           "key": "source:BH00965",
-          "why": "Examine the concern that arbitrary interpretations prevent a community’s establishment."
+          "why": "Examine the concern that arbitrary interpretations prevent a community’s establishment.",
+          "shortened": [
+            "As for what thou hast mentioned regarding certain differences, this is what hath been sent down in the Tablets from thy Lord, the All-Knowing, the All-Informed: \"Whoso layeth claim to a Cause before the completion of a full thousand years is verily a lying impostor. And whoso interpreteth this verse differently is indeed among the most lost.\"",
+            "For these souls have been and shall continue to be the cause of harm to the root of the Cause and the source of discord among the people. Were it to be thus, that every ignorant one might understand as he pleased, then never would the divine Tree of the Cause be established amongst men, nor would God's commandments and laws become effective and operative."
+          ]
         },
         {
           "key": "source:BH00051",
-          "why": "Read the Aqdas verse as a safeguard against misleading claims."
+          "why": "Read the Aqdas verse as a safeguard against misleading claims.",
+          "shortened": [
+            "That which all are bound to recognize hath been revealed in this blessed verse, and all are obliged to acknowledge it and hold fast to it. Most of the ignorant are heedless and walk in the paths of delusion, and most people are unaware. Therefore was this blessed verse revealed as a bounty, that they might not follow every barking dog and become the cause of dissipating the Cause of God."
+          ]
         },
         {
           "key": "source:BH00601",
-          "why": "Keep the thousand-year qualification beside language of revelation’s culmination."
+          "why": "Keep the thousand-year qualification beside language of revelation’s culmination.",
+          "shortened": [
+            "Say: The Revelations have reached their end. Whosoever before the completion of a thousand years maketh any claim, whosoever he may be and whatsoever he may bring forth, is false and untrue."
+          ]
         },
         {
           "key": "source:BH01391",
-          "why": "Read the prohibition in relation to maintaining the Cause."
+          "why": "Read the prohibition in relation to maintaining the Cause.",
+          "shortened": [
+            "Know thou that when this Revelation was established upon the throne of His Most Great Name, the Most Great, this verse was revealed from the heaven of thy Lord, the Mighty, the Powerful, addressing the Pen: \"O Pen! Write upon the Tablet and inform the people that the Manifestations have ended with this luminous, resplendent Manifestation. Whosoever claims this most mighty, most great, and most precious station before the completion of a thousand years hath indeed fabricated a lie against God and is of the mischief-makers, for thereby the Cause of God would be corrupted and His command would not be established among His believing servants.\""
+          ]
         },
         {
           "key": "source:BH01062",
-          "why": "Consider the warning against falsely claiming an exalted station."
+          "why": "Consider the warning against falsely claiming an exalted station.",
+          "shortened": [
+            "Know thou furthermore that the Revelations have ended with this Most Great, this Most Mighty Revelation. Whosoever shall lay claim to this exalted, mighty and impregnable station before the completion of a thousand years, hath indeed corrupted the Cause and falsely attributed that which is not unto God, thy Lord and the Lord of all creation."
+          ]
         },
         {
           "key": "source:BH01043",
@@ -1307,39 +1740,66 @@
         },
         {
           "key": "source:BH07583",
-          "why": "Preserve the statement of sealing without treating it as the collection’s only voice."
+          "why": "Preserve the statement of sealing without treating it as the collection’s only voice.",
+          "shortened": [
+            "Say: Verily these verses are sealed in this Most Holy, this mighty Manifestation. Whoso claimeth revelation after Him hath indeed lied against the Lord of Baha and this mighty Throne."
+          ]
         },
         {
           "key": "source:BH03560",
-          "why": "Read language of finality alongside its own reference to a later Manifestation."
+          "why": "Read language of finality alongside its own reference to a later Manifestation.",
+          "shortened": [
+            "Whosoever awaiteth a Manifestation after Me is indeed among the lost. And He who shall be manifest after the thousand years will speak in My Name. And He who shall come in the time of the Mustaghath will bear witness unto Me, and proclaim that I am God, the Lord of heaven and earth."
+          ]
         },
         {
           "key": "source:BH00002",
-          "why": "Consider the City of the Word appearing in successive dispensations."
+          "why": "Consider the City of the Word appearing in successive dispensations.",
+          "shortened": [
+            "We should with tearful eyes, fervently and repeatedly, implore Him to grant us the favor of that grace. That City is none other than the Word of God revealed in every age and dispensation. In the days of Moses it was the Pentateuch; in the days of Jesus the Gospel; in the days of Muhammad the Messenger of God the Qur'an; in this day the Bayan; and in the dispensation of Him Whom God will make manifest His own Book -- the Book unto which all the Books of former Dispensations must needs be referred, the Book which standeth amongst them all transcendent and supreme."
+          ]
         },
         {
           "key": "source:BH00507",
-          "why": "Read the image of a spiritual spring returning after a long interval."
+          "why": "Read the image of a spiritual spring returning after a long interval.",
+          "shortened": [
+            "The outward spring -- unto which, by the command of the Creator of Names, the training of the outward forms of things is committed and entrusted -- appeareth but once in the year. Even so the spiritual spring, which nurtures souls and illumined hearts, and bestoweth the everlasting, enduring life, revealeth itself but once in a thousand years, or more; and upon all things, in the realms of the seen and the unseen, it conferreth the robe of existence and the splendor of lordship."
+          ]
         },
         {
           "key": "source:BH00902",
-          "why": "Keep the Tablet’s emphasis on the greatness and partly concealed meaning of this Revelation."
+          "why": "Keep the Tablet’s emphasis on the greatness and partly concealed meaning of this Revelation.",
+          "shortened": [
+            "We have disclosed in this Tablet one of the mysteries of this Revelation, and have concealed that which is hidden lest the clamor of the ungodly be raised. By God! None hath comprehended it save according to his capacity. Should a soul discover the fragrance of this Raiment, he would be so attracted as to soar beyond contingent existence. Were We to expound what We have revealed in this Tablet, all the pens would not suffice, nor would oceans of ink be adequate."
+          ]
         },
         {
           "key": "source:AB00355",
-          "why": "Distinguish approximate images of vast ages from a precise timetable."
+          "why": "Distinguish approximate images of vast ages from a precise timetable.",
+          "shortened": [
+            "By this \"day\" is meant the Day of the Great Resurrection, the Day of Judgement, for on that Day there shall appear such signs and events, such splendours and occurrences, marvels and wonders, truths and mysteries, precepts and writings, that the revelation of those splendours and signs cannot be contained even in fifty thousand years. Moreover, the precepts and laws, and the writings, teachings, and manifold bounties associated with that Day, which is none other than the \"appointed time of a known day\", shall remain valid and binding for a full thousand years, nay for five hundred thousand years. Such a span of time is merely an approximation that alludeth to ages and centuries."
+          ]
         },
         {
           "key": "source:AB04989",
-          "why": "Read the extended account of a cycle’s duration in its supplied translation."
+          "why": "Read the extended account of a cycle’s duration in its supplied translation.",
+          "shortened": [
+            "The Cycle of the Blessed Beauty is endless. Only after ages and epochs have passed, and when entirely the Tablets, Books, Writings, invocations and traces of this Dispensation shall have been effaced, to the degree that naught of the teachings of the Blessed Beauty remaineth in men's hands---then will a new Manifestation appear. Otherwise, so long as the traces, Tablets, teachings, utterances, mysteries and lights of the Blessed Beauty are manifest in the world of existence, there shall be no appearance, no rising, no forth-going of another Dispensation."
+          ]
         },
         {
           "key": "source:AB07279",
-          "why": "Consider the distinction between a Day and a longer cycle."
+          "why": "Consider the distinction between a Day and a longer cycle.",
+          "shortened": [
+            "That Light of Truth - its outpouring is all-encompassing and its grace is perfect, whether in the Day of Manifestation or after its setting. Its Day is a thousand years and its cycle is a hundred thousand years."
+          ]
         },
         {
           "key": "source:AB12600",
-          "why": "Keep the particular letter’s expansive language of duration."
+          "why": "Keep the particular letter’s expansive language of duration.",
+          "shortened": [
+            "His Day is five hundred thousand years and His Dispensation will endure unto eternity."
+          ]
         },
         {
           "key": "source:AB03186",
@@ -1351,11 +1811,18 @@
         },
         {
           "key": "source:AB06626",
-          "why": "Consider the present focus of devotion alongside the future Manifestation."
+          "why": "Consider the present focus of devotion alongside the future Manifestation.",
+          "shortened": [
+            "And today the center of attention and the object of supplication and imploring is the Abha Beauty (may my spirit be a sacrifice for His loved ones) until the Manifestation who will come after the thousand years.",
+            "This is the truth, and after truth there is nothing but manifest error."
+          ]
         },
         {
           "key": "source:ABU0736",
-          "why": "Hear the reported possibility of a thousand or thousands of years."
+          "why": "Hear the reported possibility of a thousand or thousands of years.",
+          "shortened": [
+            "The Promised One of the Blessed Beauty will come after a thousand years or thousands of years."
+          ]
         },
         {
           "key": "source:ABU0128",
@@ -1375,11 +1842,17 @@
         },
         {
           "key": "source:ABU0170",
-          "why": "Read the reported imagery of the end of a prophetic cycle in its own setting."
+          "why": "Read the reported imagery of the end of a prophetic cycle in its own setting.",
+          "shortened": [
+            "The last of the Days of Judgment will dawn, when the Prophetic Cycle will have come to an end and the world returns to God, when all becomes lost in Him through the crashing and bursting of the elements, which means annihilation for those turned away from God, but spiritualization for those resting in God, and for those souls still in need of purification and development it is a triumphant sinking into God's infinite grace and mercy."
+          ]
         },
         {
           "key": "source:ABU0402",
-          "why": "Keep the reported expectation of turmoil and a return to religion."
+          "why": "Keep the reported expectation of turmoil and a return to religion.",
+          "shortened": [
+            "He said: 'Great events would happen and people will become irreligious. There will be tumult and because of irreligion there will be such confusion that all will be indistress. Then they will return to religion. As long as there is no religion, the happiness of the world of man is impossible.'"
+          ]
         },
         {
           "key": "source:ABU2314",
@@ -1387,7 +1860,11 @@
         },
         {
           "key": "selection:5af4c5a054c93a18e9f67e34",
-          "why": "Read the supplied account of revelation’s indefinitely continuing sunrise."
+          "why": "Read the supplied account of revelation’s indefinitely continuing sunrise.",
+          "shortened": [
+            "...the Revelation of God may be likened to the sun. No matter how innumerable its risings, there is but one sun, and upon it depends the life of all things.",
+            "The process of the rise and setting of the Sun of Truth will thus indefinitely continue--a process that hath had no beginning and will have no end."
+          ]
         },
         {
           "key": "selection:9f20bca9e5034cee808129fb",
@@ -1395,7 +1872,10 @@
         },
         {
           "key": "selection:27e99ea6de1dde0e37263078",
-          "why": "Distinguish cycle and dispensation in the supplied guidance."
+          "why": "Distinguish cycle and dispensation in the supplied guidance.",
+          "shortened": [
+            "For while the Dispensation of Baha'u'llah will last for at least one thousand years, His cycle will extend still farther to at least 500,000.... After Baha'u'llah many Prophets will, no doubt, appear, but they will be all under His shadow. Although they may abrogate the laws of the Dispensation, in accordance with the needs and requirements of the age in which they appear, they nevertheless draw their spiritual force from this mighty Revelation."
+          ]
         },
         {
           "key": "selection:c20e986114ad549a4a6a8d4a",
@@ -1419,7 +1899,10 @@
         },
         {
           "key": "selection:df489a358b2368d55486ca77",
-          "why": "Consider the supplied report’s distinction between the minimum and an unknown longer interval."
+          "why": "Consider the supplied report’s distinction between the minimum and an unknown longer interval.",
+          "shortened": [
+            "He is the Unique and Peerless One till the next Manifestation. It is, however, not definite that it will be 1,000 years; it may be 2,000, or 10,000 or 20,000 years; but it is definite that for the coming 1,000 years there will appear no Manifestation; for 1,000 years there shall arise no Sun. All the appearances will be beneath the shade of the Most Great Appearance; they will be as stars of guidance."
+          ]
         },
         {
           "key": "selection:4f03f9027711257a7fcb88ae",
@@ -1427,7 +1910,10 @@
         },
         {
           "key": "selection:70cdbd58d2b6fb34700788d9",
-          "why": "Read the supplied provisional passage about future proofs."
+          "why": "Read the supplied provisional passage about future proofs.",
+          "shortened": [
+            "Although in the present Dispensation all mighty evidences, perspicuous proofs, wondrous Verses, prodigious revelations, and divine stations have been made manifest - all these as a bounty from Our presence unto the entire creation - yet hereafter the matter rests in the hand of God: It is for Him to determine what to assign as proof in the succeeding Manifestations...."
+          ]
         },
         {
           "key": "selection:e91822237762f85b31647c21",
@@ -1439,7 +1925,10 @@
         },
         {
           "key": "selection:8abd4a43b908589ed41fb21c",
-          "why": "Read the supplied response concerning recognition and the House of Justice."
+          "why": "Read the supplied response concerning recognition and the House of Justice.",
+          "shortened": [
+            "There is nothing in the Writings to support the view that the opposition or persecution will be instigated or inflicted by the Universal House of Justice. You are aware, of course, that one of the reasons for the appearance of a new Manifestation of God is to bring forth a spiritual renewal, as the former Dispensation would have passed through its stages of growth and reached its zenith. You can be sure that the Supreme Institution of the Faith, \"under the care and protection of the Abha Beauty, under the shelter and unerring guidance of His Holiness, the Exalted One\", will exert every effort to recognize, when the time is ripe, the reality of the new Manifestation, and lead men to Him. How the majority of the people at that time will respond is a truth locked up in the treasury of God's knowledge."
+          ]
         },
         {
           "key": "selection:8ea3f5d6b3b381f96199e447",
@@ -1513,7 +2002,7 @@
       "id": "0932600F9AFF44C2B17210548E889F44",
       "slug": "singlesoul",
       "displayTitle": "The influence of one soul: faith shared through a life",
-      "introduction": "A single act of kindness, a sustained friendship, or a patient conversation may set in motion effects that its author never sees. These selections approach the influence of one person through images of seeds, lamps, sparks, fruitful trees, and a life-giving chain of relationships. Their confidence rests on sincerity, preparation, and divine assistance, while the connected subjects of teaching methods and the power of faith direct attention toward how that influence is exercised. Historical reports and sweeping examples retain their particular voices; their purpose here is to prompt inquiry into spiritual capacity, rather than make social transformation the achievement of an isolated hero. The later guidance brings this hope into close association, loving service, answers to questions, and shared action. In John’s Gospel, a woman’s testimony invites others to encounter Jesus, and they eventually speak from their own hearing [1]. The comparison opens a discussion of influence that awakens another person’s understanding and participation.",
+      "introduction": "One fragrant flower can perfume a whole rose garden, ‘Abdu’l-Bahá writes, and one star of guidance can lead a hundred thousand caravans. He holds that the guidance of a single soul outweighs the sovereignty of a kingdom, because life passes from the first guide to another, and from that one to another still, until a multitude has been quickened. Five grains of wheat touched by heavenly blessing outweigh a thousand tons of tares; a deed done for God may give life to many. What makes such influence possible is not eloquence but sincerity, detachment and the confirmations of the Spirit, so that a person may teach, as He once told a friend named Juliet, with the heart rather than the tongue. In the Gospel of John a woman’s word draws her neighbours to Jesus until they believe because they have heard him for themselves [1]. The thread runs on toward the power of faith and of the spirit, the methods of teaching, and the reassurance that small numbers are no measure of what a sincere life can awaken.",
       "arc": "Begin with the possible reach of a single deed, examine preparation and selflessness, and follow personal relationships into shared spiritual life.",
       "order": [
         {
@@ -1522,23 +2011,39 @@
         },
         {
           "key": "source:AB07273",
-          "why": "Trace the continuing chain through one person teaching another."
+          "why": "Trace the continuing chain through one person teaching another.",
+          "shortened": [
+            "Whosoever succeeds in teaching another soul becomes the cause of that soul's life, and that one in turn becomes the cause of another's life. This chain continues until ultimately that first soul has become the cause of life for a multitude.",
+            "Consider what mighty effects result from the guidance of a single soul!"
+          ]
         },
         {
           "key": "source:AB00169",
-          "why": "Consider quality and fruitfulness beyond numerical size."
+          "why": "Consider quality and fruitfulness beyond numerical size.",
+          "shortened": [
+            "Five grains of wheat will be endued with heavenly blessing, whereas a thousand tons of tares will yield no results or effect. One fruitful tree will be conducive to the life of society, whereas a thousand forests of wild trees offer no fruits. The plain is covered with pebbles, but precious stones are rare. One pearl is better than a thousand wildernesses of sand, especially this pearl of great price, which is endowed with divine blessing. Erelong thousands of other pearls will be born from it. When that pearl associates and becomes the intimate of the pebbles, they also all change into pearls."
+          ]
         },
         {
           "key": "source:AB05825",
-          "why": "Read the possibility that one without shelter becomes a refuge."
+          "why": "Read the possibility that one without shelter becomes a refuge.",
+          "shortened": [
+            "Wonder not that one without refuge or shelter may, through God's grace, become a refuge and shelter, and that one without position or status may, through the Lord's bounty, become the founder of the house of peace."
+          ]
         },
         {
           "key": "source:AB02895",
-          "why": "Explore the images of one flower, star and tree."
+          "why": "Explore the images of one flower, star and tree.",
+          "shortened": [
+            "One pure soul can enlighten a world and one fragrant flower can perfume a rose garden. One star of guidance can lead a hundred thousand caravans and one eternal tree can cast its shade over a hundred thousand righteous ones."
+          ]
         },
         {
           "key": "source:AB05146",
-          "why": "Consider the effect of a single deed on a community."
+          "why": "Consider the effect of a single deed on a community.",
+          "shortened": [
+            "Now in that city bereft (of spiritual bounties), one must act with wisdom and awaken the heedless through Baha'i deeds, for deeds have more influence than words. How often has it happened that a single deed from a blessed soul caused a tribe to be guided."
+          ]
         },
         {
           "key": "source:AB07292",
@@ -1546,39 +2051,66 @@
         },
         {
           "key": "source:AB01773",
-          "why": "Follow faith transmitted through successive lives."
+          "why": "Follow faith transmitted through successive lives.",
+          "shortened": [
+            "The power of the faith of the first guide will be transmitted, find continuation and become manifest in the lives of other believers, until one sanctified soul will become the cause of the quickening a hundred thousand souls. Consider how important this is, for the guidance of one soul is greater than the sovereignty of a kingdom."
+          ]
         },
         {
           "key": "source:BH01509",
-          "why": "Ask what makes a guide trustworthy."
+          "why": "Ask what makes a guide trustworthy.",
+          "shortened": [
+            "Travel not the way without a guide, nor accept every guide's words. Many guides are themselves astray and have not found the right path. A guide is one who is free from the bonds of the world and whom nothing preventeth from speaking the truth."
+          ]
         },
         {
           "key": "source:AB02921",
-          "why": "Place education in love before the exercise of influence."
+          "why": "Place education in love before the exercise of influence.",
+          "shortened": [
+            "It is the hope of ‘Abdu’l‑Bahá that those youthful souls in the schoolroom of the deeper knowledge will be tended by one who traineth them to love. May they all, throughout the reaches of the spirit, learn well of the hidden mysteries; so well that in the Kingdom of the All-Glorious, each one of them, even as a nightingale endowed with speech, will cry out the secrets of the Heavenly Realm, and like unto a longing lover pour forth his sore need and utter want of the Beloved."
+          ]
         },
         {
           "key": "source:AB08158",
-          "why": "Consider the awakening of other people’s capacities."
+          "why": "Consider the awakening of other people’s capacities.",
+          "shortened": [
+            "The bounties of God have so empowered the friends in this divine Dispensation that they can awaken the capacities and guide mankind to the way of salvation by these means."
+          ]
         },
         {
           "key": "source:BH00351",
-          "why": "Read the prayer for knowledge to nourish followers of every religion."
+          "why": "Read the prayer for knowledge to nourish followers of every religion.",
+          "shortened": [
+            "We beseech God to make him like rain clouds for the soil of His knowledge, that ears of recognition may spring forth therefrom for the followers of all religions."
+          ]
         },
         {
           "key": "source:BH00929",
-          "why": "Consider the value assigned to one accepted soul."
+          "why": "Consider the value assigned to one accepted soul.",
+          "shortened": [
+            "I swear by the pearls of the divine ocean of wisdom that a single accepted soul is mightier and greater than all the peoples of the world, for all were created to recognize this most holy and sublime Day, and in all the scriptures the appearance of this mighty Cause was promised; yet they are seen to be deprived and debarred therefrom."
+          ]
         },
         {
           "key": "source:BH01230",
-          "why": "Read the analogy of one sun illuminating a whole world."
+          "why": "Read the analogy of one sun illuminating a whole world.",
+          "shortened": [
+            "Should He so will, He could through a single soul subdue the entire world. Observe the sun, which is but one of His signs: through divine confirmations it alone hath conquered the whole world. When such a sign in the horizons is thus observed, this same is proof that He is able, in the realm of the souls of His loved ones, to raise up one soul with such power, might and ascendancy as to subdue all the kingdoms of the earth."
+          ]
         },
         {
           "key": "source:AB02209",
-          "why": "Keep the imagery of a single horseman within spiritual confirmation."
+          "why": "Keep the imagery of a single horseman within spiritual confirmation.",
+          "shortened": [
+            "If a soul becomes confirmed with these hidden favors, a single horseman can charge against the world's ranks, for the confirmations of the Abha Kingdom and the aid and protection of the Ancient Beauty arrive successively, as you have experienced."
+          ]
         },
         {
           "key": "source:AB02333",
-          "why": "Consider the compressed comparison of one soul and an army."
+          "why": "Consider the compressed comparison of one soul and an army.",
+          "shortened": [
+            "One soul has the effect of an army and one horseman the effect of countless cavalry."
+          ]
         },
         {
           "key": "source:AB06748",
@@ -1586,7 +2118,10 @@
         },
         {
           "key": "source:AB06597",
-          "why": "Consider the spread of a spark and the invitation to hope."
+          "why": "Consider the spread of a spark and the invitation to hope.",
+          "shortened": [
+            "Consider thou how one spark sets on fire a great forest. Therefore, there is great hope, and the favor and grace of the Almighty is limitless."
+          ]
         },
         {
           "key": "source:AB07214",
@@ -1594,7 +2129,10 @@
         },
         {
           "key": "source:AB08888",
-          "why": "Keep the particular hope for love’s influence in London."
+          "why": "Keep the particular hope for love’s influence in London.",
+          "shortened": [
+            "I shall never forget it, and I cherish the hope that, through the grace of Baha'u'llah, thou shalt be so enkindled in London with the heat of the love of God as to set aflame all who meet thee."
+          ]
         },
         {
           "key": "source:AB07107",
@@ -1602,19 +2140,31 @@
         },
         {
           "key": "source:AB05187",
-          "why": "Read gratitude for a person who brought life and joy to others."
+          "why": "Read gratitude for a person who brought life and joy to others.",
+          "shortened": [
+            "You became the cause of life for countless souls and the source of happiness and glad-tidings for a mighty throng."
+          ]
         },
         {
           "key": "source:AB06530",
-          "why": "Consider the reported fruits of effort in particular regions."
+          "why": "Consider the reported fruits of effort in particular regions.",
+          "shortened": [
+            "It is evident that, through your efforts, the inhabitants of those regions are now inhaling the fragrances of Musk from the Garden of the Kingdom."
+          ]
         },
         {
           "key": "source:AB05645",
-          "why": "Keep the practical effect of forwarding Tablets."
+          "why": "Keep the practical effect of forwarding Tablets.",
+          "shortened": [
+            "Praise be to God! immense results and great effects have been produced by forwarding [recent] Tablets to that country (America)."
+          ]
         },
         {
           "key": "source:AB01503",
-          "why": "Read the enduring influence of a breath or word from earlier believers."
+          "why": "Read the enduring influence of a breath or word from earlier believers.",
+          "shortened": [
+            "Consider how the blessed souls in former times, with but a breath, ultimately made the world fragrant with the merciful breath, and it still continues. And if they uttered a word, a thousand books and scrolls became its interpretation and explanation."
+          ]
         },
         {
           "key": "source:AB06947",
@@ -1626,7 +2176,10 @@
         },
         {
           "key": "source:ABU1751",
-          "why": "Keep the historical report’s comparison of lowly servants and kings."
+          "why": "Keep the historical report’s comparison of lowly servants and kings.",
+          "shortened": [
+            "Through this service, lowly individuals like Simon and Peter attained the zenith of eternal glory, even though at first no one paid them any attention. But in the end kings and monarchs became humble at the mention of their names."
+          ]
         },
         {
           "key": "source:BHU0023",
@@ -1646,7 +2199,11 @@
         },
         {
           "key": "source:ABU2514",
-          "why": "Keep the personal reported affirmation addressed to Juliet."
+          "why": "Keep the personal reported affirmation addressed to Juliet.",
+          "shortened": [
+            "\"Tell Juliet,\" began Abdul-Baha at once, \"that she teaches well.\"",
+            "\"I have met many people who have been affected by you, Juliet. You are not eloquent, you are not fluent, but your heart teaches. You speak with an emotion, a feeling which makes people ask, 'What is this that she has?' Then they inquire!"
+          ]
         },
         {
           "key": "source:ABU0326",
@@ -1654,7 +2211,10 @@
         },
         {
           "key": "source:ABU1722",
-          "why": "Hear the reported invitation to rely beyond one’s perceived capacity."
+          "why": "Hear the reported invitation to rely beyond one’s perceived capacity.",
+          "shortened": [
+            "Do ye not look upon your own capacities. Rest ye assured in the bounties of the Blessed Perfection. He shall change the drop into an ocean and the moth into an eagle. He changes the stone into the precious ruby and the scintilla into the world-illuminating sun."
+          ]
         },
         {
           "key": "source:ABU1224",
@@ -1662,23 +2222,38 @@
         },
         {
           "key": "source:ABU1247",
-          "why": "Keep the reported confidence in one believer’s possible influence."
+          "why": "Keep the reported confidence in one believer’s possible influence.",
+          "shortened": [
+            "Through the power of God it is possible for one Bahai to guide one whole nation. Such spiritual victories are dependent upon the breaths and bestowals of the Holy Spirit."
+          ]
         },
         {
           "key": "source:ABU1657",
-          "why": "Consider the reported hope for a new believer’s effect within a people."
+          "why": "Consider the reported hope for a new believer’s effect within a people.",
+          "shortened": [
+            "It is well known, that when once a blessed soul of any nation steps into the religion of God, it is capable of saving the whole community from the darkness of the world, from materialism and animalism."
+          ]
         },
         {
           "key": "source:ABU1608",
-          "why": "Preserve the historical report about an unnamed teacher and island communities."
+          "why": "Preserve the historical report about an unnamed teacher and island communities.",
+          "shortened": [
+            "\"There are three Islands in the Indian Ocean, situated in the equatorial line. The climate is very hot, but they have a population of about 20 millions. Formerly they were idolaters, sun and star worshipers. During the ninth Century of Hegira, a blessed soul arrived there, single and alone, but his intention was in and for God. He continued to teach the simple, democratic principles of Islam, but he was subjected to persecution, cruelty and ignominy. With deep-felt serenity, he suffered all for the sake of his conviction. Through his indefatigable activity, all the people of those three Islands embraced the religion of Islam. He was so self-sacrificing that he did not care to leave behind even his name. when he accomplished his work, he retired from the field, and all his traces were lost…."
+          ]
         },
         {
           "key": "source:ABU1643",
-          "why": "Read the parallel reported island narrative as a story of selfless motive."
+          "why": "Read the parallel reported island narrative as a story of selfless motive.",
+          "shortened": [
+            "The Islands of java, Sumatra and another one which are situated in the Indian ocean in the equator contain about 20 millions of inhabitants. These people were converted from idolatry into Mohamadan religion by one single person. Just think of his attraction and of accomplishing such a mighty task! When he finished his work he left the islands for an unknown destination and after that no one heard anything about him. Even his name is not known. Not it is evident that that one single person was a greater man than a million of the present day Ulemas. For he worked for God and not for fame or name or wealth."
+          ]
         },
         {
           "key": "source:AB08278",
-          "why": "Keep the letter’s account of a soul influencing a continent."
+          "why": "Keep the letter’s account of a soul influencing a continent.",
+          "shortened": [
+            "How often it hath happened that one blessed soul hath proved to become the cause of guidance unto a continent."
+          ]
         },
         {
           "key": "source:ABU2821",
@@ -1686,7 +2261,10 @@
         },
         {
           "key": "source:ABU1087",
-          "why": "Read the reported detachment from competing ambitions."
+          "why": "Read the reported detachment from competing ambitions.",
+          "shortened": [
+            "Today honor and victory are destined for that soul who has freed himself from every thought and is engaged in the exaltation of the Word of God and the diffusion of the Fragrances of God."
+          ]
         },
         {
           "key": "source:AB11811",
@@ -1694,11 +2272,17 @@
         },
         {
           "key": "source:AB12288",
-          "why": "Keep a simple personal call to assist other souls."
+          "why": "Keep a simple personal call to assist other souls.",
+          "shortened": [
+            "In the city of Qum, due to excessive persecution by the enemies, the friends have been scattered. Now you must be the cause of some souls being guided to the light of guidance."
+          ]
         },
         {
           "key": "source:AB01302",
-          "why": "Consider association with those who arise to serve."
+          "why": "Consider association with those who arise to serve.",
+          "shortened": [
+            "Surely souls will arise who will strive with all their power to spread the Word of God, but our desire is that if we are not counted among those souls, we may at least be associated with them."
+          ]
         },
         {
           "key": "source:AB03652",
@@ -1718,7 +2302,10 @@
         },
         {
           "key": "source:ABU2360",
-          "why": "Read the reported practical importance of language ability."
+          "why": "Read the reported practical importance of language ability.",
+          "shortened": [
+            "If a number of Persian teachers who are endowed with eloquent tongues knew the English language and travelled to those parts they could attract many souls to the Cause. For example if Mirza Abul Fazl knew English his influence in the West would have been a hundredfold."
+          ]
         },
         {
           "key": "source:ABU2411",
@@ -1734,7 +2321,11 @@
         },
         {
           "key": "selection:510a39ed8c048ce6fd50b97e",
-          "why": "Read individual initiative alongside friendship, cooperation and consultative decisions."
+          "why": "Read individual initiative alongside friendship, cooperation and consultative decisions.",
+          "shortened": [
+            "The role of the individual is of unique importance in the work of the Cause.",
+            "The individual alone can exercise those capacities which include the ability to take initiative, to seize opportunities, to form friendships, to interact personally with others, to build relationships, to win the cooperation of others in common service to the Faith and society, and to convert into action the decisions made by consultative bodies."
+          ]
         },
         {
           "key": "selection:91ecde26700dfe14ff746454",

@@ -5,12 +5,15 @@
       "id": "B362A06F749D49B8A9B4080391A83C2E",
       "slug": "publicationreview",
       "displayTitle": "Publication and review: accuracy, encouragement, and responsibility",
-      "introduction": "A book can carry a voice far beyond its author, but what travels with it: exact words, a translator’s changes, a considered account, or an unchecked impression? These readings make publication a matter of trust as well as expression. They include encouragement to writers, praise for eloquence, practical arrangements for copying and distribution, and exacting concern for reliable texts. Other selections describe review, consultation, confidentiality, and the dangers surrounding particular publications. Their varied permissions and restrictions belong to specific correspondents and circumstances, including persecution, disputed histories, and changing institutions. Later supplied passages explicitly hold freedom of expression together with communal responsibility and describe review as a temporary measure. Neighboring subjects on media, defending the Faith, and wisdom sharpen the tensions. Proverbs offers a comparative invitation to hear before answering and to examine an initially persuasive account. The inquiry is how careful judgment can help words become a service to readers.",
+      "introduction": "Every book carries a voice beyond the reach of the one who spoke, and what travels with it may be the exact words, a translator’s improvements, or an impression nobody checked. ‘Abdu’l-Bahá treats this as a matter of trust. He welcomes the gathering of His talks and insists they be exact, asks that a treatise be softened so that no reader is hurt, has a printed Aqdas compared against a trusted manuscript, and admits that even an address can carry a secretary’s slip. The same hand that corrects a friend’s poetry amid a hundred thousand occupations praises an article as the crown of all works, which suggests that encouragement and exacting revision belong together. Permissions to print, pauses in restless cities, secrecy in times of arrest, and replies to a disputed history each answer a particular moment, and Shoghi Effendi later calls review a provisional measure for a young community, rooted in the individual’s right to speak from conscience and in frank and loving consultation. Proverbs counsels hearing before answering and testing a first persuasive account, a habit of mind rather than a procedure. The inquiry opens outward into the meaning of wisdom, into newspapers and the media, and into the balance between defending and protecting the Cause.",
       "arc": "Begin with fidelity to a speaker’s words and care for the reader; examine textual checking and translation; follow encouragement into practical publishing and consultation; read disputed histories and protective measures in context; close with expression, responsibility and the purpose of review.",
       "order": [
         {
           "key": "source:AB01507",
-          "why": "Open with the responsibility to preserve exact talks without a translator’s alterations."
+          "why": "Open with the responsibility to preserve exact talks without a translator’s alterations.",
+          "shortened": [
+            "Your collection of 'Abdu'l-Baha's talks which you intend to publish is very appropriate. This service will cause your face to shine in the Abha Kingdom and make you the object of praise and gratitude among the friends of East and West. However, utmost care must be taken that they are the exact talks and that no alterations have been made by previous translators."
+          ]
         },
         {
           "key": "source:AB03866",
@@ -18,7 +21,10 @@
         },
         {
           "key": "source:ABU1232",
-          "why": "Read the reported purpose of a publication through hope and illumination."
+          "why": "Read the reported purpose of a publication through hope and illumination.",
+          "shortened": [
+            "A Baha'i publication must never publish anything which may cause provocations or injure the feelings of any one or displease any soul. It must publish such matters that would be conducive to the happiness, hopefulness, advancement, guidance and illumination of the readers."
+          ]
         },
         {
           "key": "source:AB10020",
@@ -26,7 +32,12 @@
         },
         {
           "key": "source:AB04195",
-          "why": "Place the writer’s health and peace of heart beside the desired completion of a book."
+          "why": "Place the writer’s health and peace of heart beside the desired completion of a book.",
+          "shortened": [
+            "O thou whom God hath aided with hosts from the Concourse on High!",
+            "Your noble letter with its gracious contents brought boundless joy and delight, for it indicated that your health is moderate and the conclusive book is nearing completion.",
+            "If the book were completed during winter and you could travel to Tehran in spring it would be most suitable, but your comfort and peace of heart are foremost to me above all else."
+          ]
         },
         {
           "key": "source:AB11656",
@@ -34,11 +45,17 @@
         },
         {
           "key": "source:AB02063",
-          "why": "Introduce verification before acting on an unsigned letter."
+          "why": "Introduce verification before acting on an unsigned letter.",
+          "shortened": [
+            "You had inquired about the despatched and unsigned letter. That letter is authentic and its original copy is safely kept and signed. Whenever an unsigned letter arrives, inquire before putting in into action and wait until an answer is given."
+          ]
         },
         {
           "key": "source:AB00291",
-          "why": "Compare a printed text with a trusted manuscript."
+          "why": "Compare a printed text with a trusted manuscript.",
+          "shortened": [
+            "Compare the Kitab-i-Aqdas with the handwriting of him who attained the presence of his Lord, His Holiness Zaynu'l-Muqarrabin, upon him be the Glory of God. The printed version produced under the interference of the Center of Violation is not correct; the handwriting of Jinab-i-Zayn is accurate."
+          ]
         },
         {
           "key": "source:AB10214",
@@ -46,7 +63,10 @@
         },
         {
           "key": "source:BH01321",
-          "why": "Ask when a difference of meaning calls for inquiry."
+          "why": "Ask when a difference of meaning calls for inquiry.",
+          "shortened": [
+            "And should there arise any difference regarding the meaning of any of the divine utterances or verses that have been sent down, inquire so that the purpose may become clear to all."
+          ]
         },
         {
           "key": "source:AB00924",
@@ -54,7 +74,10 @@
         },
         {
           "key": "source:AB11671",
-          "why": "Consider both script and the need for a group of skilled translators."
+          "why": "Consider both script and the need for a group of skilled translators.",
+          "shortened": [
+            "As for what you wrote about scripts, the Nasta'liq script is very acceptable. Therefore, if efforts are made to produce printing type in Nasta'liq script, that would be most suitable. Regarding the translation of the Kitab-i-Aqdas, no single person can translate it. A group skilled in both the foreign language and Arabic must translate it with utmost care."
+          ]
         },
         {
           "key": "source:ABU1574",
@@ -62,7 +85,10 @@
         },
         {
           "key": "source:AB00798",
-          "why": "Read the proposed translation priorities and the requirement to match texts carefully."
+          "why": "Read the proposed translation priorities and the requirement to match texts carefully.",
+          "shortened": [
+            "And Mr. Hishmatullah should engage in translating important Tablets that are relevant to these days and contain teachings on the oneness of humanity, universal peace, investigation of truth, uniting hearts through the power of religion, reconciliation of science and religion, abandonment of vain prejudices, establishment of the Supreme Tribunal, justice between women and men, universalization of education, invention of a universal language, work and crafts being worship, limiting jihad to the tongue and utterance, and so forth - and they should be carefully matched and published."
+          ]
         },
         {
           "key": "source:AB11101",
@@ -94,7 +120,11 @@
         },
         {
           "key": "source:ABU1714",
-          "why": "Retain the reported clarification that advance submission concerns newcomers."
+          "why": "Retain the reported clarification that advance submission concerns newcomers.",
+          "shortened": [
+            "There may be speaking from a text taken from the writings, but it should be written out by the speakers and three days before the meeting be submitted to the believers for approval.",
+            "The provision of submitting a paper before it shall be read at a meeting refers to newcomers, not to regular speakers at the meeting. It is to guard against chatterboxes."
+          ]
         },
         {
           "key": "source:AB01157",
@@ -138,7 +168,10 @@
         },
         {
           "key": "source:AB05241",
-          "why": "Read the labor of correcting poetry as guidance for future writing."
+          "why": "Read the labor of correcting poetry as guidance for future writing.",
+          "shortened": [
+            "Consider how intensely the fire of this servant's love for you burns, that despite a hundred thousand occupations and lack of time, I undertook to correct your poetry so that it may serve as a model for the future of his honor Qabil, and whatever he may sing in the arts of melody upon the branches of utterance may be in this station and tune, that it may be chanted in the gatherings of the Kingdom and assemblies of the Realm of Might, nay even in the monasteries of the Realm of Divinity, and its melody may reach the ears of the Guardian of the Most Glorious Kingdom and become the manifestation of praise."
+          ]
         },
         {
           "key": "source:AB11027",
@@ -150,11 +183,17 @@
         },
         {
           "key": "source:AB07326",
-          "why": "Read the request to help correct another author’s book."
+          "why": "Read the request to help correct another author’s book.",
+          "shortened": [
+            "Concerning the correction of the book of that Christian person, shouldst thou be successful in this matter, it would be a great achievement, and a most necessary one. If and when he writeth the book he now hath in mind, let him then bring it with him."
+          ]
         },
         {
           "key": "source:AB02405",
-          "why": "Keep the account of attraction and inspiration in composition."
+          "why": "Keep the account of attraction and inspiration in composition.",
+          "shortened": [
+            "At the time of writing the power of attraction was manifest and apparent and the real teacher was instructing and inspiring: Consequently it was composed in the utmost fluency and eloquence."
+          ]
         },
         {
           "key": "source:BH01745",
@@ -174,7 +213,10 @@
         },
         {
           "key": "source:ABU3075",
-          "why": "Read the reported preference for books with logical and spiritual arguments."
+          "why": "Read the reported preference for books with logical and spiritual arguments.",
+          "shortened": [
+            "In this day, the most useful books are those which demonstrate the validity of the Cause with logical proofs, intellectual evidences and spiritual arguments."
+          ]
         },
         {
           "key": "source:AB02082",
@@ -182,11 +224,17 @@
         },
         {
           "key": "source:AB02398",
-          "why": "Let brevity, sweetness and verbatim quotation guide an article."
+          "why": "Let brevity, sweetness and verbatim quotation guide an article.",
+          "shortened": [
+            "The translation of Tablets is acceptable and beloved. If, occasionally, thou writest a concise, terse and useful article, with the utmost sweetness, containing the teachings and exhortations of the Blessed Perfection, verbatim, for the purpose of publishing in the journals of Denmark, it will be most agreeable."
+          ]
         },
         {
           "key": "source:AB05192",
-          "why": "Read the journal as a mirror of truth."
+          "why": "Read the journal as a mirror of truth.",
+          "shortened": [
+            "Indeed, your unique journal is like a pure and delicate mirror in which images of truth are reflected. It is the manifestation of truth that appears in this journal, and all Baha'is are grateful and pleased with your good intentions."
+          ]
         },
         {
           "key": "source:AB08405",
@@ -194,11 +242,18 @@
         },
         {
           "key": "source:AB04175",
-          "why": "Preserve the letter’s praise and expectations for an article in their source setting."
+          "why": "Preserve the letter’s praise and expectations for an article in their source setting.",
+          "shortened": [
+            "I am very grateful and pleased with you, especially regarding your fair and truth-nurturing article published in The Christian Commonwealth. Indeed, until now no one has written such an article, and from the pen of European authors no such pure and unblemished work about the Cause of Baha'u'llah has appeared."
+          ]
         },
         {
           "key": "source:AB04179",
-          "why": "Read the further comparison between earthly and heavenly works as encouragement."
+          "why": "Read the further comparison between earthly and heavenly works as encouragement.",
+          "shortened": [
+            "There is no doubt that thou hast written this article through the Confirmations of the Kingdom, because most of its contents indicated the assistance of the invisible Inspirations.",
+            "There are many authors and their written works are circulated in all parts of the world but this article of thine is the crown of all the works, because the works of others deal with the material world while this composition belongs to the world of the Kingdom. They are earthly melodies but this is a heavenly harmony."
+          ]
         },
         {
           "key": "source:ABU1288",
@@ -206,11 +261,18 @@
         },
         {
           "key": "source:AB07540",
-          "why": "Let the rose-garden image express anticipation before a book arrives."
+          "why": "Let the rose-garden image express anticipation before a book arrives.",
+          "shortened": [
+            "O promoter of the religion of God! Although the New Journey has not yet arrived, since that excellent book is a rose garden of divine truths and meanings, and contains the glad tidings of the divine Prophets, therefore its sweet fragrance has reached our nostrils before its arrival."
+          ]
         },
         {
           "key": "source:AB06569",
-          "why": "Distinguish the friends’ praise from the writer’s own future reading."
+          "why": "Distinguish the friends’ praise from the writer’s own future reading.",
+          "shortened": [
+            "O son of the Kingdom!",
+            "The book which you had written and sent has arrived, and the friends are busy reading it and highly praise and commend your book. God willing, when it is translated I will read it too."
+          ]
         },
         {
           "key": "source:AB03222",
@@ -218,11 +280,17 @@
         },
         {
           "key": "source:AB02874",
-          "why": "Retain the concise invitation to write a contemplated book."
+          "why": "Retain the concise invitation to write a contemplated book.",
+          "shortened": [
+            "Say to the beloved maid-servant of God, ..., to write the book which she had in mind."
+          ]
         },
         {
           "key": "source:AB12206",
-          "why": "Read the named book project with its encouragement to persist."
+          "why": "Read the named book project with its encouragement to persist.",
+          "shortened": [
+            "Give thanks unto God for this and strive to compose the book \"The Proof of the Manifestation of the All-Merciful from the Dawning-Place of Possibility.\" The breathings of the Holy Spirit will assist thee in this at all times and moments."
+          ]
         },
         {
           "key": "source:AB02373",
@@ -230,15 +298,24 @@
         },
         {
           "key": "source:AB01164",
-          "why": "Follow praise of a composition toward translation and publication."
+          "why": "Follow praise of a composition toward translation and publication.",
+          "shortened": [
+            "He gives the highest praise and description of your new composition, saying its publication and distribution would be extremely beneficial. Therefore through the efforts of His Holiness Maknat its eloquent translation must be completed with all speed and published."
+          ]
         },
         {
           "key": "source:AB01387",
-          "why": "Read the welcome for the compilation of Sadru’s-Sudur’s proofs."
+          "why": "Read the welcome for the compilation of Sadru’s-Sudur’s proofs.",
+          "shortened": [
+            "And regarding the book of proofs by Sadru's-Sudur and its compilation and arrangement that you wrote about, we were extremely pleased. Send that book to the Holy Shrine so it can later be printed and published."
+          ]
         },
         {
           "key": "source:AB02450",
-          "why": "Give collective organization a role in preserving a writer’s unfinished labor."
+          "why": "Give collective organization a role in preserving a writer’s unfinished labor.",
+          "shortened": [
+            "I sent these to Tehran so that you, along with Jinab-i-Na'im, Jinab-i-Ibn-i-Abhar, Jinab-i-Ibn-i-Asdaq, Jinab-i-Mulla Muhammad-'Ali-i-Qa'ini, Jinab-i-Samandar, and Jinab-i-Aqa Siyyid Mahdi (son of that noble one's sister) may arrange a gathering that maintains the utmost order and organization, and from those blessed papers extract one book or two books or multiple treatises for publication, so that noble one's efforts are not wasted."
+          ]
         },
         {
           "key": "source:AB03513",
@@ -250,19 +327,31 @@
         },
         {
           "key": "source:AB03283",
-          "why": "Notice the readers waiting for a book’s appearance."
+          "why": "Notice the readers waiting for a book’s appearance.",
+          "shortened": [
+            "Regarding the book, please write what stage it has reached, for hearts are awaiting its issuance."
+          ]
         },
         {
           "key": "source:AB12143",
-          "why": "Read the pleasure of an earlier volume and anticipation of its sequel."
+          "why": "Read the pleasure of an earlier volume and anticipation of its sequel.",
+          "shortened": [
+            "The book that you sent last year was printed in Tehran in very beautiful calligraphy and was distributed throughout Iran. Everyone read it day and night with utmost joy and delight, and all are awaiting the second volume as promised, but due to preoccupations it has not yet appeared."
+          ]
         },
         {
           "key": "source:AB03105",
-          "why": "Keep the approval of Abu’l-Fadl’s book and another Hidden Words edition."
+          "why": "Keep the approval of Abu’l-Fadl’s book and another Hidden Words edition.",
+          "shortened": [
+            "Thou hast written that the publication of the book of Mirza Abuil Fazl is commenced. This is very acceptable, for his books are written with the utmost sincerity. Likewise the translation of the Hidden Words that you are just thinking to print another edition, this is also acceptable."
+          ]
         },
         {
           "key": "source:AB03117",
-          "why": "Retain the brief acknowledgment of a received Mathnavi."
+          "why": "Retain the brief acknowledgment of a received Mathnavi.",
+          "shortened": [
+            "The Book of Mathnavi was received and in time it will be published."
+          ]
         },
         {
           "key": "source:AB01994",
@@ -282,7 +371,10 @@
         },
         {
           "key": "source:AB12460",
-          "why": "Consider the Paris Talks translation through the image of a raised banner."
+          "why": "Consider the Paris Talks translation through the image of a raised banner.",
+          "shortened": [
+            "The book containing the translation of the Paris Talks has arrived. Thou hast indeed labored arduously. God willing, it will become the cause of the spread of the Cause in those regions. This translation is like a banner that has been raised. It will surely yield momentous results."
+          ]
         },
         {
           "key": "source:AB00369",
@@ -290,7 +382,10 @@
         },
         {
           "key": "source:ABU2864",
-          "why": "Read the reported invitation to Ali-Kuli Khan to assist by translating."
+          "why": "Read the reported invitation to Ali-Kuli Khan to assist by translating.",
+          "shortened": [
+            "You have come to assist me by translating His Sacred Writings as well as my letters to the friends in America and elsewhere in the West..."
+          ]
         },
         {
           "key": "source:AB07069",
@@ -306,7 +401,10 @@
         },
         {
           "key": "source:ABU0213",
-          "why": "Consider the reported call to enlarge publishing across languages and capacities."
+          "why": "Consider the reported call to enlarge publishing across languages and capacities.",
+          "shortened": [
+            "\"In a similar manner the scope of the Bahai Publishing Society must be greatly enlarged, so that books and pamphlets may be translated into different languages and published. These short pamphlets and historical reviews, giving the proofs and arguments of the Cause, must be written in accordance with the intellectual and spiritual capacity of each people."
+          ]
         },
         {
           "key": "source:AB00879",
@@ -318,7 +416,10 @@
         },
         {
           "key": "source:AB12353",
-          "why": "Read the sending of the Epistle to the Son of the Wolf to Paris."
+          "why": "Read the sending of the Epistle to the Son of the Wolf to Paris.",
+          "shortened": [
+            "The Blessed Book which is addressed to the Wolf was sent to Paris through the efforts of Jinab-i-Mirza Haji Aqa through your intermediary. This was a source of great joy."
+          ]
         },
         {
           "key": "source:AB12433",
@@ -338,7 +439,10 @@
         },
         {
           "key": "source:AB02892",
-          "why": "Keep the permission to print and circulate the Iqan."
+          "why": "Keep the permission to print and circulate the Iqan.",
+          "shortened": [
+            "Regarding the Kitab-i-Iqan, it was previously written that its printing and distribution among the friends is appropriate and suitable."
+          ]
         },
         {
           "key": "source:AB02377",
@@ -350,7 +454,10 @@
         },
         {
           "key": "source:AB09345",
-          "why": "Keep the emphasis on placing a particular article in major newspapers."
+          "why": "Keep the emphasis on placing a particular article in major newspapers.",
+          "shortened": [
+            "I have written for thy sake the Message that thou hast requested. Endeavor thou that this Article may appear in the London Times. If this is impossible, i.e., its publication in the columns of the Times, then publish it by all means in other important periodicals or journals. This question along with this article is very important. Display ye the utmost effort in its publication."
+          ]
         },
         {
           "key": "source:AB03559",
@@ -370,7 +477,10 @@
         },
         {
           "key": "source:AB04374",
-          "why": "Retain encouragement to publish with the friends’ assistance."
+          "why": "Retain encouragement to publish with the friends’ assistance.",
+          "shortened": [
+            "And as for the treatise you had written - publish and distribute this treatise. The friends of God will certainly assist you in publishing this treatise."
+          ]
         },
         {
           "key": "source:AB06200",
@@ -378,11 +488,18 @@
         },
         {
           "key": "source:AB07336",
-          "why": "Read approval of the short Service in the Kingdom treatise."
+          "why": "Read approval of the short Service in the Kingdom treatise.",
+          "shortened": [
+            "O thou who art firm in the Covenant!",
+            "The short treatise which thou hast written upon \"Service in the Kingdom,\" forwarding it here and asking permission for its publication, was read. Spread it among the believers."
+          ]
         },
         {
           "key": "source:AB01927",
-          "why": "Distinguish limited reading from the particular permission granted."
+          "why": "Distinguish limited reading from the particular permission granted.",
+          "shortened": [
+            "Regarding the book you asked about, although I never have time to read, nevertheless I read a few pages. It contained mention of the Blessed Beauty, therefore you have permission to publish it."
+          ]
         },
         {
           "key": "source:AB00754",
@@ -418,7 +535,10 @@
         },
         {
           "key": "source:AB01578",
-          "why": "Notice the printing press and photographic equipment needed for a request."
+          "why": "Notice the printing press and photographic equipment needed for a request.",
+          "shortened": [
+            "But it would have been necessary for them to also send a printing press from Paris or a photographic apparatus from England - then perhaps one could fulfill this request."
+          ]
         },
         {
           "key": "source:AB01501",
@@ -426,15 +546,24 @@
         },
         {
           "key": "source:AB07678",
-          "why": "Attend to the work of two secretaries and the writer’s own hand."
+          "why": "Attend to the work of two secretaries and the writer’s own hand.",
+          "shortened": [
+            "Two secretaries, Mirza Nuru'd-Din and Mirza Mahmud-i-Zarqani, are constantly writing and cannot keep up, and I myself am continuously writing with my own pen. Despite this, I cannot keep up, and due to the volume of writing I do not leave the house and have not a moment's rest or comfort."
+          ]
         },
         {
           "key": "source:AB05925",
-          "why": "Preserve the admission of insufficient time for weekly commentary."
+          "why": "Preserve the admission of insufficient time for weekly commentary.",
+          "shortened": [
+            "And I too must write a detailed commentary every week and have absolutely no time, nor am I in a state to occupy myself with such matters."
+          ]
         },
         {
           "key": "source:AB00836",
-          "why": "Read the limited time for reviewing journal copies."
+          "why": "Read the limited time for reviewing journal copies.",
+          "shortened": [
+            "Copies of the journal were received through His Honor Aqa Mirza Mehdi, but due to the press of duties it was only possible to immediately review one copy. God willing the other copies will also be read in succession and if anything needs to be written it will be written."
+          ]
         },
         {
           "key": "source:AB02674",
@@ -446,7 +575,10 @@
         },
         {
           "key": "source:AB08664",
-          "why": "Read the concern about letters delayed in transit."
+          "why": "Read the concern about letters delayed in transit.",
+          "shortened": [
+            "O Jinab-i-Aqa Siyyid Asadu'llah! Letters arrive and remain with you for several days. Among them, Mirza Jalal had sent a letter, but after he himself arrived, his letter reached us. Please be attentive in this matter."
+          ]
         },
         {
           "key": "source:AB08387",
@@ -462,7 +594,10 @@
         },
         {
           "key": "source:BH01846",
-          "why": "Retain the promised dispatch of a recently revealed Tablet."
+          "why": "Retain the promised dispatch of a recently revealed Tablet.",
+          "shortened": [
+            "A few days ago a Tablet was graciously revealed specifically for him. God willing, after this, along with the reply to his letter, this evanescent servant will write and send it."
+          ]
         },
         {
           "key": "source:BH01733",
@@ -482,7 +617,10 @@
         },
         {
           "key": "source:BB00529",
-          "why": "Read the Bab’s request to carry copies to the faithful."
+          "why": "Read the Bab’s request to carry copies to the faithful.",
+          "shortened": [
+            "Make mention in the Book of Isma'il, that thou shouldst carry some copies and deliver them unto God's faithful servants."
+          ]
         },
         {
           "key": "source:BH02933",
@@ -490,7 +628,10 @@
         },
         {
           "key": "source:BH03998",
-          "why": "Keep the proposed circulation of a Persian Tablet across regions."
+          "why": "Keep the proposed circulation of a Persian Tablet across regions.",
+          "shortened": [
+            "The Persian Tablet that was revealed specifically for the friends in the Land of Qaf - it would be good if copies reach the Land of Ta and other regions."
+          ]
         },
         {
           "key": "source:BH07364",
@@ -498,15 +639,24 @@
         },
         {
           "key": "source:BH01432",
-          "why": "Read the particular provision for adding recipients’ names."
+          "why": "Read the particular provision for adding recipients’ names.",
+          "shortened": [
+            "Another submission: Some copies of the Most Holy, Most Glorious Tablet of Javad were sent in the revealed handwriting without names. They may write the name of whomever they deem advisable and give it to them."
+          ]
         },
         {
           "key": "source:BH10871",
-          "why": "Notice the request to deliver books as demand grows."
+          "why": "Notice the request to deliver books as demand grows.",
+          "shortened": [
+            "Those who repose upon the carpet of oneness, and who are seated in the court of love, and who recline upon the cushions of eternity, and who gaze upon the Countenance of the Ancient of Days - unto all of them do I convey my greetings and salutations, and unto you especially do I express them, and trouble you that you should definitely make every effort to deliver the books, as many customers have appeared."
+          ]
         },
         {
           "key": "source:AB06131",
-          "why": "Keep the practical arrangement for postal delivery from Egypt."
+          "why": "Keep the practical arrangement for postal delivery from Egypt.",
+          "shortened": [
+            "It will be written to Egypt that books should be sent by post."
+          ]
         },
         {
           "key": "source:AB05866",
@@ -514,7 +664,11 @@
         },
         {
           "key": "source:AB02518",
-          "why": "Keep the continuity of publishing during interrupted communications."
+          "why": "Keep the continuity of publishing during interrupted communications.",
+          "shortened": [
+            "You had written that throughout the period of communications being cut off, you were engaged in service, publishing and distributing books, and that the Star of the West was also being published and regularly distributed.",
+            "Send a copy of that book to the Holy Land."
+          ]
         },
         {
           "key": "source:AB04396",
@@ -530,7 +684,10 @@
         },
         {
           "key": "source:AB11795",
-          "why": "Keep the request to translate and circulate a newspaper article with a report."
+          "why": "Keep the request to translate and circulate a newspaper article with a report.",
+          "shortened": [
+            "Have the newspaper article translated and printed together with a copy of the report, and disseminate them in other directions."
+          ]
         },
         {
           "key": "source:AB01483",
@@ -546,7 +703,10 @@
         },
         {
           "key": "source:AB11917",
-          "why": "Read the careful handwriting of a general letter before wide circulation."
+          "why": "Read the careful handwriting of a general letter before wide circulation.",
+          "shortened": [
+            "Therefore, a general letter has been written and is being sent, so that you may transcribe it in very fine handwriting, print it, and send it to all regions."
+          ]
         },
         {
           "key": "source:AB12018",
@@ -562,7 +722,10 @@
         },
         {
           "key": "source:AB11971",
-          "why": "Keep the particular response intended for printing and distribution."
+          "why": "Keep the particular response intended for printing and distribution.",
+          "shortened": [
+            "A response regarding this matter was written and sent so that you may print it and distribute it among the friends."
+          ]
         },
         {
           "key": "source:AB06042",
@@ -582,11 +745,17 @@
         },
         {
           "key": "source:AB03974",
-          "why": "Consider local responsibility for publishing talks given in a city."
+          "why": "Consider local responsibility for publishing talks given in a city.",
+          "shortened": [
+            "The publication of 'Abdu'l-Baha's talks in any city is up to the opinion of the friends in that city. For example, the talks that were given in Washington are up to the opinion of the Spiritual Assembly of that city. If they wish, they can collect, publish and distribute them in Washington itself, but other cities have no involvement in this."
+          ]
         },
         {
           "key": "source:AB02722",
-          "why": "Keep the Assembly’s discretion concerning appropriate sacred writings."
+          "why": "Keep the Assembly’s discretion concerning appropriate sacred writings.",
+          "shortened": [
+            "Some of the sacred writings that the Spiritual Assembly deems appropriate may be published."
+          ]
         },
         {
           "key": "source:AB02955",
@@ -610,7 +779,10 @@
         },
         {
           "key": "source:AB04320",
-          "why": "Keep the explicit condition of review for Proofs of the Covenant."
+          "why": "Keep the explicit condition of review for Proofs of the Covenant.",
+          "shortened": [
+            "Send the book Proofs of the Covenant that you have authored so that I may review it and return it. This way is better and you should definitely not publish it without my review."
+          ]
         },
         {
           "key": "source:AB03276",
@@ -622,11 +794,17 @@
         },
         {
           "key": "source:AB02062",
-          "why": "Keep the proposed six-month rhythm for a magazine and its correction."
+          "why": "Keep the proposed six-month rhythm for a magazine and its correction.",
+          "shortened": [
+            "Thou hast written regarding the publication of a magazine. If thou shouldst edit one magazine every six months--two in a year--then forward it to the Holy Land to be corrected and returned, after due correction, for its publication--it is very acceptable will be the cause of the penetration of the Word of God. [...]"
+          ]
         },
         {
           "key": "source:AB00760",
-          "why": "Retain the concise warning about difficulties from unconfirmed publications."
+          "why": "Retain the concise warning about difficulties from unconfirmed publications.",
+          "shortened": [
+            "New York, Mr. Dodge and other friends: Unconfirmed publications are absolutely not permitted. The resulting difficulties are too numerous."
+          ]
         },
         {
           "key": "source:AB11218",
@@ -642,7 +820,10 @@
         },
         {
           "key": "source:AB07769",
-          "why": "Preserve the response to a particular unauthorized Aqdas printing."
+          "why": "Preserve the response to a particular unauthorized Aqdas printing.",
+          "shortened": [
+            "It has become known that the Kitab-i-Aqdas was published without government permission, and this contradicts the decisive divine text. The perpetrator must surely repent and seek forgiveness. If any book is published without the permission and authorization of the government, it is not permissible for any of the friends of God to purchase it."
+          ]
         },
         {
           "key": "source:AB08227",
@@ -658,15 +839,24 @@
         },
         {
           "key": "source:BH00959",
-          "why": "Read consultation and limits on printing amid the danger of unrest."
+          "why": "Read consultation and limits on printing amid the danger of unrest.",
+          "shortened": [
+            "Regarding what you mentioned about the printing of the Book, this matter is contingent upon consultation. In these days, wisdom dictates against printing, for should the sacred revealed Books proliferate in that city, it would surely provoke an outcry from the ignorant of the earth. Though beneficial for those possessed of true vision and spiritual hearing, such souls are few in number in any city, while most would rise up crying \"O the religion!\" without thought or consideration of consequences."
+          ]
         },
         {
           "key": "source:AB00140",
-          "why": "Distinguish compiling a fine manuscript from publishing it at that time."
+          "why": "Distinguish compiling a fine manuscript from publishing it at that time.",
+          "shortened": [
+            "Concerning the compilation of Divine Tablets specifically addressed to you, this is very good and appropriate, but printing and publication is absolutely inappropriate at present, as many people would be inclined toward this and difficulties would arise therefrom. However, you may compile one copy in very fine handwriting and send it to me."
+          ]
         },
         {
           "key": "source:AB12284",
-          "why": "Keep the postponement of a publishing company during war."
+          "why": "Keep the postponement of a publishing company during war.",
+          "shortened": [
+            "You had written about Mr. Herborn's desire to establish a company for the publication and dissemination of the divine teachings. At present this is not advisable, as it is wartime. But God willing, this war will end in peace; afterward we shall meet with him and make firm arrangements in this regard."
+          ]
         },
         {
           "key": "source:AB12424",
@@ -690,11 +880,17 @@
         },
         {
           "key": "source:AB10599",
-          "why": "Read the request to protect the identities of particular people."
+          "why": "Read the request to protect the identities of particular people.",
+          "shortened": [
+            "Keep extremely confidential such important persons as the honored Astarabadi and the esteemed person from Khurasan, and maintain their secrecy. Do not mention them even to those who are privy to secrets."
+          ]
         },
         {
           "key": "source:BH00404",
-          "why": "Keep the preservation and concealment of Tablets connected to actual arrests."
+          "why": "Keep the preservation and concealment of Tablets connected to actual arrests.",
+          "shortened": [
+            "Great effort must be made to preserve the Tablets and Divine verses. It seems some have been negligent in this matter, as evidenced by the fact that when some friends were arrested in certain lands, their writings were discovered before they themselves were apprehended. In any case, mention of the Land of the Prison, as well as the Tablets, must remain concealed. Complete concealment is what behooveth us, and He is the Preserver, the Helper, the Mighty, the Great."
+          ]
         },
         {
           "key": "source:BH00582",
@@ -714,11 +910,18 @@
         },
         {
           "key": "source:AB11995",
-          "why": "Preserve the explicit concern that circulating a letter could deepen hostility."
+          "why": "Preserve the explicit concern that circulating a letter could deepen hostility.",
+          "shortened": [
+            "O thou who art firm in the Covenant! The letter that was written in defense against the calumniators of the people of Najaf-i-Ashraf - you must certainly keep it secure and give its copy to no one, for it will fall into the hands of the Yahyais and they will send it to Najaf, causing an increase in hatred and enmity."
+          ]
         },
         {
           "key": "source:BH00856",
-          "why": "Keep the account of temporarily removed ordinances and visible markers."
+          "why": "Keep the account of temporarily removed ordinances and visible markers.",
+          "shortened": [
+            "Furthermore, an exalted Tablet hath been revealed from the heaven of divine bounty, designated as the Most Holy Book.",
+            "Following the revelation of several verses concerning ordinances, which at this time it was not expedient to circulate, these were, by command, removed, and markers were placed at each location until such time as it may be fitting to restore them."
+          ]
         },
         {
           "key": "source:BH01944",
@@ -726,11 +929,18 @@
         },
         {
           "key": "source:AB06068",
-          "why": "Read the instruction to copy and destroy specified papers as a source episode, not a general archival rule."
+          "why": "Read the instruction to copy and destroy specified papers as a source episode, not a general archival rule.",
+          "shortened": [
+            "The papers you wrote are enclosed with this letter. Take a copy of them and be sure to destroy the original papers - their preservation is not permitted."
+          ]
         },
         {
           "key": "source:AB01628",
-          "why": "Keep the warning concerning unsealed papers within its covenantal controversy."
+          "why": "Keep the warning concerning unsealed papers within its covenantal controversy.",
+          "shortened": [
+            "Any letter sent from this land without this servant's seal has the purpose of casting doubts, breaking the Covenant, demeaning the Center of the Cause of God, dividing the Word of God, and dispersing the gathering of the loved ones of God.",
+            "In any case, you must awaken the loved ones of the All-Merciful that they should never look at such unsealed papers, for their contents are purely misleading. Rather they should return them to this land so they may be given to their owner."
+          ]
         },
         {
           "key": "source:AB05966",
@@ -738,11 +948,17 @@
         },
         {
           "key": "source:AB02045",
-          "why": "Consider the critique of Gobineau through questions of access to witnesses."
+          "why": "Consider the critique of Gobineau through questions of access to witnesses.",
+          "shortened": [
+            "As for the matter of the translation of Gobineau's book - the contents of that book do not conform to reality. For when Gobineau was in Iran, the Iranian government would immediately execute anyone suspected of being a Babi. No Babi dared utter a single word. Therefore what Gobineau heard were external accounts. He never inquired from any important figures. You have surely read it - it is clearly confused. In some places it is merely the imaginings of opponents with no truth whatsoever. The ignorant related such accounts and he wrote them down."
+          ]
         },
         {
           "key": "source:AB03091",
-          "why": "Read the concern about one-sided manuscript holdings in Paris."
+          "why": "Read the concern about one-sided manuscript holdings in Paris.",
+          "shortened": [
+            "O trustees of 'Abdu'l-Baha! Mr. Dreyfus has written from Paris and insisted with utmost emphasis that certain handwritten treatises from insignificant persons like the followers of Yahya are continuously arriving at the public library in Paris, and their purpose is to prevent the greatness of the Cause of God and the penetration of the Word of God and to promote their own vain imaginings. And since there are no handwritten treatises of this Cause in the public library, and since the scholars give more importance to handwritten treatises, they read these insignificant compositions."
+          ]
         },
         {
           "key": "source:AB12713",
@@ -750,7 +966,11 @@
         },
         {
           "key": "source:AB00101",
-          "why": "Preserve the detailed polemical account of the disputed history as a claim of its source."
+          "why": "Preserve the detailed polemical account of the disputed history as a claim of its source.",
+          "shortened": [
+            "Now it has become evident--that is, the shameless followers of Yahya have prompted Browne to translate that book which they themselves, with consummate skill, had compiled and put together in the name of Aqa Mirza Jani as a history of the Cause, and had sent to the library in Paris.",
+            "From beginning to end, following the instructions and insinuations of the followers of Yahya, it has been written completely contrary to the facts, so that it might cause a distortion of minds and confusion of thoughts."
+          ]
         },
         {
           "key": "source:ABU3130",
@@ -778,7 +998,11 @@
         },
         {
           "key": "source:AB12006",
-          "why": "Read the request for information about Mirza Jani alongside care for Abu’l-Fadl."
+          "why": "Read the request for information about Mirza Jani alongside care for Abu’l-Fadl.",
+          "shortened": [
+            "O Abu'l-Fada'il! It is hoped from the favors of the Intended Lord that you are preserved and protected, for your existence and your writings are necessary for the service of the Cause of God, since you are entirely detached from self and the world and all therein.",
+            "Whatever information you have regarding the history of Mirza Jani the martyr, please write it down."
+          ]
         },
         {
           "key": "source:AB12112",
@@ -806,7 +1030,10 @@
         },
         {
           "key": "source:AB11703",
-          "why": "Read the acknowledgment that requested books arrived in time."
+          "why": "Read the acknowledgment that requested books arrived in time.",
+          "shortened": [
+            "The books sent have arrived and came at a most opportune time. They were sent to Jinab-i-Abu'l-Fadl. This was a great service that will become a bridle for this sinner."
+          ]
         },
         {
           "key": "source:AB11720",
@@ -822,7 +1049,10 @@
         },
         {
           "key": "source:AB12117",
-          "why": "Keep the recourse to a further ruling in an unresolved case."
+          "why": "Keep the recourse to a further ruling in an unresolved case.",
+          "shortened": [
+            "If accepted, well and good; if not, write confidentially to the Holy Land about the situation and a decisive ruling will come from there."
+          ]
         },
         {
           "key": "source:BH00761",
@@ -834,11 +1064,17 @@
         },
         {
           "key": "source:AB00082",
-          "why": "Read the warning against being veiled by a revealed text as a closing challenge."
+          "why": "Read the warning against being veiled by a revealed text as a closing challenge.",
+          "shortened": [
+            "The Exalted One saith: \"Beware lest thou be veiled by that which hath been revealed in the Bayan.\""
+          ]
         },
         {
           "key": "source:BH00624",
-          "why": "Retain the account of a requested commentary, its delay and an existing civic treatise."
+          "why": "Retain the account of a requested commentary, its delay and an existing civic treatise.",
+          "shortened": [
+            "Among other things, in that Tablet nineteen planets were mentioned, and He stated that the full account had not yet been given. What was mentioned therein about the heavens and celestial spheres was different from what people commonly describe. In any case, He commanded the Most Great Branch - may my spirit and being be sacrificed for the most precious dust of His footsteps - to write a commentary on these matters.[AB00023] God willing, it will be sent later, but as He is currently occupied, it has been delayed. The treatise which was previously written concerning the civic governance[AB00004] is with Mulla 'Ali-Akbar - you will observe it."
+          ]
         },
         {
           "key": "source:AB01796",
@@ -850,7 +1086,10 @@
         },
         {
           "key": "source:AB06995",
-          "why": "Retain the notice of requested writings already sent."
+          "why": "Retain the notice of requested writings already sent.",
+          "shortened": [
+            "O dear friend of 'Abdu'l-Baha! Your letter which you had written to Aqa Siyyid Asadu'llah was noted. In it you had requested writings for certain blessed souls, but these had already been written and sent previously."
+          ]
         },
         {
           "key": "source:AB11706",
@@ -874,7 +1113,10 @@
         },
         {
           "key": "selection:07b960b4a7075e2356100f29",
-          "why": "Close with freedom of expression, conscience, and frank loving consultation held together."
+          "why": "Close with freedom of expression, conscience, and frank loving consultation held together.",
+          "shortened": [
+            "Let us also remember that at the very root of the Cause lies the principle of the undoubted right of the individual to self-expression, his freedom to declare his conscience and set forth his views. If certain instructions of the Master are today particularly emphasized and scrupulously adhered to, let us be sure that they are but provisional measures designed to guard and protect the Cause in its present state of infancy and growth until the day when this tender and precious plant shall have sufficiently grown to be able to withstand the unwisdom of its friends and the attacks of its enemies. Let us also bear in mind that the keynote of the Cause of God is not dictatorial authority but humble fellowship, not arbitrary power, but the spirit of frank and loving consultation."
+          ]
         }
       ],
       "questions": [
@@ -926,7 +1168,7 @@
       "id": "20396F06B6514E5EAF60E9440C8F2B5B",
       "slug": "twobooks",
       "displayTitle": "Two worlds, two books: reading creation and the life of the spirit",
-      "introduction": "Going upstairs does not mean leaving the house: this homely image offers a way into a collection rich in contrasts between the material and spiritual. Bodies need nourishment, illness calls for appropriate care, and the arts can move the heart; spiritual growth unfolds within this embodied life. Yet comfort, possession, and outward accomplishment cannot by themselves disclose the whole of human possibility. The readings distinguish sense from insight, temporary advantage from lasting virtue, and conquest by force from the winning of hearts. Their metaphors of food, light, birth, painting, and two unfurled books invite a more attentive reading of experience. Neighboring subjects on healing, knowledge, civilization, and the soul help test these distinctions without turning them into two separate selves. Psalm 19 moves from the heavens to divine instruction and inward examination, offering another approach to creation as meaningful. What might it mean to read both books through the quality of one’s deeds?",
+      "introduction": "Going upstairs does not take you out of the house; the lower floor is still beneath you. With that homely picture ‘Abdu’l-Bahá settles a worry, the fear that to grow spiritually is to abandon the material. The body needs bread while the spirit feeds on meaning; the outward ear wants a melody while the inner ear waits for divine harmonies; material progress is praiseworthy so long as it does not close the eyes to the light shining in its midst. The world itself is one of two books, creation and revelation, written by the same Pen, and to read the camel, the heavens and the seas attentively is a form of devotion. Psalm 19 travels the same route, from the heavens telling the glory of God to the law that restores the soul and inward to the speaker’s hidden faults. Beyond this threshold lie health and healing, the two kinds of civilization a people can build, the difference between sight and insight, and the recognition that the higher and lower natures are two possibilities within one self.",
       "arc": "Enter through the house, wings, nourishment and two books; distinguish ways of knowing; explore embodied care and enduring value; follow the images into relationships, creativity and civilization; close with inward transformation and the unity of the self.",
       "order": [
         {
@@ -935,7 +1177,10 @@
         },
         {
           "key": "source:ABU0262",
-          "why": "Pair the two wings needed for flight."
+          "why": "Pair the two wings needed for flight.",
+          "shortened": [
+            "Man has two powers; and his development, two aspects. One power is connected with the material world, and by it he is capable of material advancement. The other power is spiritual, and through its development his inner, potential nature is awakened. These powers are like two wings. Both must be developed, for flight is impossible with one wing."
+          ]
         },
         {
           "key": "source:BH05638",
@@ -943,11 +1188,19 @@
         },
         {
           "key": "source:AB00170",
-          "why": "Unfold creation and revelation as two books."
+          "why": "Unfold creation and revelation as two books.",
+          "shortened": [
+            "The verse concerns this: there are two unfurled books - one the Book of Creation and the other the Book of Revelation. The Book of Revelation comprises the heavenly scriptures revealed unto the divine Prophets and issued from the pure mouth of Truth. The Book of Creation is this preserved tablet of contingent being and the unfurled scroll of existence, and Creation follows Revelation.",
+            "When thou readest Revelation, thou becomest aware of divine mysteries, and when thou gazest upon the Book of Creation, thou beholdest the signs, symbols, realities, conditions and manifestations of the hidden mystery and the outpourings of the Incomparable Lord."
+          ]
         },
         {
           "key": "source:BH02081",
-          "why": "Enlarge the book image to world and human fellowship."
+          "why": "Enlarge the book image to world and human fellowship.",
+          "shortened": [
+            "For the Book there are meanings beyond counting, and likewise volumes beyond number. One volume thereof is the world itself, and the world itself is reckoned as a Book. It is that Book which encompasses all things and all regions of the world. One Book is inscribed by the Pen of Power and Creation, and one Book is written by the pen of the servants.",
+            "And one Book is [mentioned] in the Crimson Scroll, and it is specifically concerned with the mention of the gems of existence - they who regard the world as one country and who move amongst all with spirit and fragrance."
+          ]
         },
         {
           "key": "source:AB09789",
@@ -963,11 +1216,17 @@
         },
         {
           "key": "source:AB01360",
-          "why": "Distinguish sensible and intelligible objects."
+          "why": "Distinguish sensible and intelligible objects.",
+          "shortened": [
+            "Know that created things are of two kinds: material and spiritual, sensible and intelligible. That is, some are perceptible to the senses while others are only perceived by the mind."
+          ]
         },
         {
           "key": "source:ABU1863",
-          "why": "Test modes of understanding through visible and invisible examples."
+          "why": "Test modes of understanding through visible and invisible examples.",
+          "shortened": [
+            "There are two kinds of understandings: subjective and objective. To illustrate: thou seest this glass or this water and thou dost comprehend in a subjective manner their constituent parts. On the other hand thou cans't not see Love, Intellect, hate, Anger, Sorrow but thou dost recognize them in a subjective way through their signs and manifestations. The first is material, the second is spiritual. The first is outward, the second is intuitive. I hope that thou may'st make great advancement in the second kind of understanding."
+          ]
         },
         {
           "key": "source:AB00567",
@@ -979,7 +1238,10 @@
         },
         {
           "key": "source:ABU0150",
-          "why": "Compare sight with insight and hearing with memory."
+          "why": "Compare sight with insight and hearing with memory.",
+          "shortened": [
+            "Man possesses two types of virtues: One is material, and the other ideal in character. For example, the body of man expresses certain material virtues, but the spirit of man manifests virtues that are ideal. The sense of sight in man is a physical virtue; but insight, the power of inner perception, is ideal in its nature. The sense of hearing is a physical endowment, whereas memory in man is ideal."
+          ]
         },
         {
           "key": "source:ABU2694",
@@ -1015,7 +1277,10 @@
         },
         {
           "key": "source:AB06523",
-          "why": "Invite thought beyond visible manifestations."
+          "why": "Invite thought beyond visible manifestations.",
+          "shortened": [
+            "If such is what will take place in this visible world, then imagine what it will be in the spiritual realms of God, so exalted above the comprehension of all beings."
+          ]
         },
         {
           "key": "source:AB00326",
@@ -1039,11 +1304,19 @@
         },
         {
           "key": "source:ABU0069",
-          "why": "Retain the account connecting two worlds with dissension."
+          "why": "Retain the account connecting two worlds with dissension.",
+          "shortened": [
+            "But beyond this, I want to use the opportunity presented to us by your question, in order to say something to you about the most profound cause of all dissensions:",
+            "Do not all the Prophets teach: there are two worlds, a spiritual one - the Malakut-i-Allah - the realm of God - and a material world, the world of nature in the widest meaning."
+          ]
         },
         {
           "key": "source:ABU0779",
-          "why": "Place physical and spiritual needs within human life."
+          "why": "Place physical and spiritual needs within human life.",
+          "shortened": [
+            "Herein we learn that man is a representative of the physical, intellectual and spiritual world. Just as in his physical environment he is in need of material things; in his spiritual environment he requires celestial things.",
+            "The physical world in comparison to the spiritual world is dark, for the physical world is ruled by the brute, blind forces of nature."
+          ]
         },
         {
           "key": "source:ABU1586",
@@ -1055,11 +1328,18 @@
         },
         {
           "key": "source:ABU0060",
-          "why": "Keep the provinces of both forms of treatment."
+          "why": "Keep the provinces of both forms of treatment.",
+          "shortened": [
+            "Therefore, both of these have their provinces. Hence, both of them should be used -- both the one material and the other the spiritual. Neither of them has to be given up."
+          ]
         },
         {
           "key": "source:ABU2530",
-          "why": "Make material care concrete through a bleeding cut."
+          "why": "Make material care concrete through a bleeding cut.",
+          "shortened": [
+            "Disease is of two kinds: (a) Material (b) Spiritual. For instance, a cut of the hand; if you pray for the cut to be healed, and do not stop it bleeding, you will not do much good, this needs a material remedy.",
+            "Sometimes if the nervous system is paralyzed through fear, a spiritual remedy is necessary."
+          ]
         },
         {
           "key": "source:ABU2881",
@@ -1067,19 +1347,33 @@
         },
         {
           "key": "source:AB02983",
-          "why": "Affirm bodily health without equating disability with spiritual imperfection."
+          "why": "Affirm bodily health without equating disability with spiritual imperfection.",
+          "shortened": [
+            "Nevertheless, both spiritual and physical health and well-being are desirable and commendable because they extend life. Thus, we should endeavor to acquire both a balanced spiritual life and physical health and progress. Both are desirable. But the foundation is the spiritual life. Once one possesseth this, though the body be afflicted with a disability, imperfection is not the result. But if the spiritual life is deficient, no matter how perfect one's physical life, it will yield no result. Nay, in the end it will be evident loss and the source of sorrow and despair during one's final days...."
+          ]
         },
         {
           "key": "source:ABU0662",
-          "why": "Give bodily health a role in effective service."
+          "why": "Give bodily health a role in effective service.",
+          "shortened": [
+            "The importance lies not in the house but in its owner, who is unchanging and immutable. It is the spirit that delivers [man] from all physical worlds.",
+            "However, while the spirit is in the body, health must accompany it so that one may accomplish something. While the sun's rays are in this mirror, the mirror must be free from tarnish, pure and clear, but after the sun sets the mirror is useless."
+          ]
         },
         {
           "key": "source:AB08176",
-          "why": "Distinguish the weakened glass from the burning lamp."
+          "why": "Distinguish the weakened glass from the burning lamp.",
+          "shortened": [
+            "Disease and illness are characteristics of the physical world, while health and well-being are among the subtle gifts of the divine realm. The body is like glass and the spirit like a lamp. If the glass becomes weakened, praise be to God the lamp is in its highest state of burning."
+          ]
         },
         {
           "key": "source:AB07554",
-          "why": "Separate bodily illness from inward health."
+          "why": "Separate bodily illness from inward health.",
+          "shortened": [
+            "Though thou art physically sick and ill, praise be to God thou art spiritually sound and healthy, nay rather, enjoying perfect health.",
+            "Many of God's loved ones were afflicted with this ailment, but as they were blessed with true spiritual health, they paid no heed to it."
+          ]
         },
         {
           "key": "source:ABU1447",
@@ -1099,7 +1393,11 @@
         },
         {
           "key": "source:AB01946",
-          "why": "Follow a physician from bodily to inward care."
+          "why": "Follow a physician from bodily to inward care.",
+          "shortened": [
+            "O accomplished physician! In the early part of your life you strove in physical medicine and discovered the causes and illnesses of this contingent body.",
+            "Now through the grace and generosity of the Intended One and through the abundant bounty of the Beloved Beauty, you have discovered the true divine medicine which is the life of spirits and health of hearts for people of success."
+          ]
         },
         {
           "key": "source:AB07364",
@@ -1107,7 +1405,11 @@
         },
         {
           "key": "source:ABU0899",
-          "why": "Connect human spiritual capacity with divine bounty."
+          "why": "Connect human spiritual capacity with divine bounty.",
+          "shortened": [
+            "Man alone, by his spiritual power, has been able to free himself, to soar above the world of matter and to make it his servant.",
+            "Without the help of God man is even as the beasts that perish, but God has bestowed such wonderful power upon him that he might ever look upward, and receive, among other gifts, healing from His divine Bounty."
+          ]
         },
         {
           "key": "source:ABU0825",
@@ -1115,11 +1417,17 @@
         },
         {
           "key": "source:ABU0010",
-          "why": "Bring both kinds of education into the school."
+          "why": "Bring both kinds of education into the school.",
+          "shortened": [
+            "And in the schools there must be both physical and spiritual training; for material sciences are as the body, and divine sciences as the spirit. The spirit must be breathed into the body, that the body may attain life. But if there be no spirit, the body is dead, though it be in the utmost beauty; since it is deprived of the bounty of the spirit, it beareth no fruit and yieldeth no result---nay, its nonexistence were better, for it becometh corrupt and fetid; assuredly it were better that it should be no more."
+          ]
         },
         {
           "key": "source:ABU0079",
-          "why": "Place improvement of mind within human development."
+          "why": "Place improvement of mind within human development.",
+          "shortened": [
+            "The important factor in human improvement is the mind. In the world of the mind there must needs be development and improvement. There must be reformation in the kingdom of the human spirit; otherwise, no result will be attained from betterment of the mere physical structure."
+          ]
         },
         {
           "key": "source:AB05794",
@@ -1151,7 +1459,10 @@
         },
         {
           "key": "source:ABU2642",
-          "why": "Connect shared spiritual food with respect for customs."
+          "why": "Connect shared spiritual food with respect for customs.",
+          "shortened": [
+            "We must each view with respect the customs of the other. There is a kind of food which needs neither knife nor fork and of which every one may partake with perfect ease and benefit. It is the food spiritual. This food brings life and stimulation instead of indolence and apathy. It brings peace and content to the one who partakes of it; the more food, the more joy and peace."
+          ]
         },
         {
           "key": "source:AB02048",
@@ -1179,7 +1490,10 @@
         },
         {
           "key": "source:ABU2896",
-          "why": "Read a feast by its inward results."
+          "why": "Read a feast by its inward results.",
+          "shortened": [
+            "The result of such a feast is the spirituality of the souls and the upliftment of the minds, while the outcome of the material feasts are temporal and superficial."
+          ]
         },
         {
           "key": "source:AB05765",
@@ -1187,23 +1501,39 @@
         },
         {
           "key": "source:AB04148",
-          "why": "Translate allowance into pearls of meaning."
+          "why": "Translate allowance into pearls of meaning.",
+          "shortened": [
+            "Their allowance and stipend is from the mineral and vegetable kingdoms which fill the plains and wilderness. But your allowance and stipend consists of hidden pearls and protected gems that have been nurtured in the shell of grace in the depths of the sea of truth."
+          ]
         },
         {
           "key": "source:AB03882",
-          "why": "Retain the strong warning about refusing spiritual nourishment."
+          "why": "Retain the strong warning about refusing spiritual nourishment.",
+          "shortened": [
+            "But as to those who deprive themselves of the Spiritual Table and of the Fragrance of the Spirit of God, they are dead and devoid of life. There is no immortality for them in this world nor in the kingdom of God."
+          ]
         },
         {
           "key": "source:ABU1711",
-          "why": "Begin the inquiry into happiness with disappointed expectation."
+          "why": "Begin the inquiry into happiness with disappointed expectation.",
+          "shortened": [
+            "Man erroneously thinks his happiness comes from the world and for that reason he is always unhappy and in difficulty.",
+            "For example, a man in poverty thinks if he were rich, he would be happy, but after attaining wealth he still finds himself unhappy and often in the very depths of sadness."
+          ]
         },
         {
           "key": "source:AB03576",
-          "why": "Examine the account of relief mistaken for lasting happiness."
+          "why": "Examine the account of relief mistaken for lasting happiness.",
+          "shortened": [
+            "As to material happiness, it never exists; nay, it is but imagination, an image reflected in mirrors, a specter and shadow. Consider the nature of material happiness. It is something. Which but slightly removes one's afflictions; yet the people imagine it to be joy, delight, exultation and blessing. All the material blessings, including food, drink etc. tend only to ally thirst, hunger and fatigue. They bestow no delight on the mind nor pleasure on the soul; nay, they furnish only the bodily wants. So this kind of happiness has no real existence."
+          ]
         },
         {
           "key": "source:ABU2011",
-          "why": "Distinguish sensory pleasure from intellectual unfolding."
+          "why": "Distinguish sensory pleasure from intellectual unfolding.",
+          "shortened": [
+            "There are two kinds of happiness: Animal happiness and human happiness. Animal happiness is satisfied with the sight of green meadows, verdant woods, pure air and salubrious water. Such natural sights excites imagination, stirs the emotions and man becomes a dancing, laughing, care-free creature. But the unfoldment of human happiness depends upon the exercise of the hidden functions of intellect."
+          ]
         },
         {
           "key": "source:ABU2621",
@@ -1215,15 +1545,24 @@
         },
         {
           "key": "source:ABU0625",
-          "why": "Repeat that distinction through the image of sunlight."
+          "why": "Repeat that distinction through the image of sunlight.",
+          "shortened": [
+            "A man may have attained to a high degree of material progress, but without the light of truth his soul is stunted and starved. Another man may have no material gifts, may be at the bottom of the social ladder, but, having received the warmth of the Sun of Truth his soul is great and his spiritual understanding is enlightened."
+          ]
         },
         {
           "key": "source:AB00334",
-          "why": "Preserve consolation amid material deprivation."
+          "why": "Preserve consolation amid material deprivation.",
+          "shortened": [
+            "Though the earthly lamp in our nest and shelter is extinguished, we have a heavenly lamp. Though we are deprived of physical pleasures, we have an abundant share of spiritual sweetness and delight."
+          ]
         },
         {
           "key": "source:ABU2083",
-          "why": "Place compassion within the test of wealth."
+          "why": "Place compassion within the test of wealth.",
+          "shortened": [
+            "The hearts of the poor are sensitive; the hearts of the rich are hard. But if a rich man be compassionate, he is very near to God, for he has come out of temptation."
+          ]
         },
         {
           "key": "source:ABU0514",
@@ -1231,7 +1570,11 @@
         },
         {
           "key": "source:AB04049",
-          "why": "Contrast finite treasure with sustaining inner wealth."
+          "why": "Contrast finite treasure with sustaining inner wealth.",
+          "shortened": [
+            "The search for earthly treasures befits the people of the earthly realm, not the sons and daughters of the Kingdom.",
+            "The earthly treasure comes to an end and causes physical life, but the treasure of the Kingdom is endless and causes spiritual life."
+          ]
         },
         {
           "key": "source:ABU1712",
@@ -1247,7 +1590,10 @@
         },
         {
           "key": "source:AB08043",
-          "why": "Set mineral jewels beside spiritual adornment."
+          "why": "Set mineral jewels beside spiritual adornment.",
+          "shortened": [
+            "The adorning of the earthly crown is mineral gems and stones. The embellishment of this other crown are the spiritual jewels of the Kingdom of God. That earthly reign is the cause of pain and afflictions. But this other sovereignty is all happiness, joy and glad tidings."
+          ]
         },
         {
           "key": "source:AB07685",
@@ -1263,7 +1609,10 @@
         },
         {
           "key": "source:ABU1890",
-          "why": "Retain the account of enduring reality and passing forms."
+          "why": "Retain the account of enduring reality and passing forms.",
+          "shortened": [
+            "Only the spirit is real; everything else is as shadow. All bodies are disintegrated in the end; only reality subsists. All physical perfections come to an end; but the divine virtues are infinite."
+          ]
         },
         {
           "key": "source:AB10155",
@@ -1275,7 +1624,10 @@
         },
         {
           "key": "source:ABU1034",
-          "why": "Expand the horizon of virtue beyond material limits."
+          "why": "Expand the horizon of virtue beyond material limits.",
+          "shortened": [
+            "No matter how much the world of humanity advances in material civilization, it is nevertheless in need of the spiritual development mentioned in the Gospel. The virtues of the material world are limited, whereas divine virtues are unlimited."
+          ]
         },
         {
           "key": "source:ABU0187",
@@ -1283,11 +1635,17 @@
         },
         {
           "key": "source:AB00868",
-          "why": "Question attachment amid abundant gifts."
+          "why": "Question attachment amid abundant gifts.",
+          "shortened": [
+            "The All Glorious God has vouchsafed infinite bounty to the world of man and he has made man to be the descending place of heavenly grace. So in spite of all this bounty why does he attach his heart to this ephemeral world and close his eyes to the spiritual world?"
+          ]
         },
         {
           "key": "source:AB05164",
-          "why": "Make motion without progress visible in the mill image."
+          "why": "Make motion without progress visible in the mill image.",
+          "shortened": [
+            "They are like that donkey at the mill that toils around the millstone. It rotates around its pivot, unable to make any progress. From morning to evening that beast of burden does not progress by a single step though it is moving all the time, for its path is the track of the mill. Humankind too is in continuous motion, yet does not move away or upward from the centre of dust but simply circles around this contingent world instead."
+          ]
         },
         {
           "key": "source:ABU2996",
@@ -1299,7 +1657,10 @@
         },
         {
           "key": "source:AB05723",
-          "why": "Echo the aspiration for release into a wider life."
+          "why": "Echo the aspiration for release into a wider life.",
+          "shortened": [
+            "They seek deliverance from the cage of this mortal realm and search for life in the expansive atmosphere of the heavenly Kingdom."
+          ]
         },
         {
           "key": "source:AB02185",
@@ -1307,15 +1668,25 @@
         },
         {
           "key": "source:ABU0886",
-          "why": "Compare natural struggle with the acquisition of perfections."
+          "why": "Compare natural struggle with the acquisition of perfections.",
+          "shortened": [
+            "Just as in the natural world there is the struggle for existence, and this is the means of progress and growth and development of things, in the world of the spirit it is the acquisition of human perfections, and this law is the cause of the progress of spirits and the attainment of spiritual bounties.",
+            "The natural world in relation to that is a prison, preventing the comfort of thought and freedom of human conscience."
+          ]
         },
         {
           "key": "source:AB07352",
-          "why": "Contrast orientations of the soul."
+          "why": "Contrast orientations of the soul.",
+          "shortened": [
+            "O soul that yearneth for the Beloved! The worldly soul is closely bound to the world of dust and is far removed from the beauty of the celestial world. The divine soul is an intimate of the self-subsistent Lord and is privy to the world of mystery. The earthly soul returneth to the earth, whilst the divine soul returneth unto the Lord of lords."
+          ]
         },
         {
           "key": "source:AB02868",
-          "why": "Retain the strong contrast of birds and earthworms."
+          "why": "Retain the strong contrast of birds and earthworms.",
+          "shortened": [
+            "O ye sons and daughters of the Kingdom! Thankful, the birds of the spirit seek only to fly in the high heavens and to sing out their songs with wondrous art. But the pitiable earthworms love only to tunnel into the ground, and what a mighty struggle they make to get themselves down into its depths! Even so are the sons of earth."
+          ]
         },
         {
           "key": "source:AB05072",
@@ -1323,7 +1694,10 @@
         },
         {
           "key": "source:AB06614",
-          "why": "Preserve the account of response to revelation."
+          "why": "Preserve the account of response to revelation.",
+          "shortened": [
+            "O daughter of the Kingdom! When the Sun of Truth dawned from the horizon of Iran, every soul that belonged to the world of nature - that is, whose element of existence was purely earthly - remained completely veiled and deprived. Every soul that belonged to the divine realm and whose existence partook of the element of the Kingdom turned towards it and beheld its lights."
+          ]
         },
         {
           "key": "source:AB08851",
@@ -1335,7 +1709,11 @@
         },
         {
           "key": "source:AB07547",
-          "why": "Move from passion’s rule toward divine government."
+          "why": "Move from passion’s rule toward divine government.",
+          "shortened": [
+            "O thou who art longing for the Face of the All-Glorious!",
+            "In the realm of material existence, the sovereign of passion holds sway, and in the diseased clime of the carnal self, the evil king of pride wears the crown. But in the world of spirit, the Lord God is the Ruler."
+          ]
         },
         {
           "key": "source:ABU0217",
@@ -1351,23 +1729,38 @@
         },
         {
           "key": "source:ABU3265",
-          "why": "Distinguish spiritual aspiration from physical phenomena."
+          "why": "Distinguish spiritual aspiration from physical phenomena.",
+          "shortened": [
+            "What is needed is to rise above the material to the realms of the purely Spiritual. Table-turning and such like were material, a natural result, and not spiritual."
+          ]
         },
         {
           "key": "source:ABU1861",
-          "why": "Introduce preparation through the womb analogy."
+          "why": "Introduce preparation through the womb analogy.",
+          "shortened": [
+            "When man is in the world of the womb, God showers upon him all blessings. He gives him all the organs, eyes, ears, etc. But man cannot put this favour into use there; it is not manifest there. When the child is born from the world of the womb into this world, then all those blessings and gifts which God showered upon him in the world of the womb become manifest and useful."
+          ]
         },
         {
           "key": "source:ABU0563",
-          "why": "Examine that analogy’s limits of present awareness."
+          "why": "Examine that analogy’s limits of present awareness.",
+          "shortened": [
+            "The child in the womb may be imperfect -it may lack eyes, or ears, or limbs; yet it does not realise its blindness, its deafness, or its other imperfections. Neither its perfections nor its imperfections can be appreciated there. But when it comes to the world of men, its perfections and imperfections both become apparent."
+          ]
         },
         {
           "key": "source:ABU3236",
-          "why": "Apply preparation to the soul’s present life."
+          "why": "Apply preparation to the soul’s present life.",
+          "shortened": [
+            "This is the matrix world for the soul, even as the womb was the matrix world for the body or vehicle. - Birth into consciousness of another world begins here, a world for which this physical and material one is but the preparation and foundation.\""
+          ]
         },
         {
           "key": "source:ABU2403",
-          "why": "Retain the image of birth into the Kingdom."
+          "why": "Retain the image of birth into the Kingdom.",
+          "shortened": [
+            "When a man is born into the world of phenomena he finds the universe; when he is born from this world to the world of the spirit, he finds the Kingdom.'"
+          ]
         },
         {
           "key": "source:AB01847",
@@ -1375,55 +1768,94 @@
         },
         {
           "key": "source:ABU0892",
-          "why": "Read the strong contrast between worlds as reported."
+          "why": "Read the strong contrast between worlds as reported.",
+          "shortened": [
+            "This is a world of blindness, deafness, nothingness; the other world is a world of seeing, hearing, reality. This is a world of death, that of life. Man knows nothing in this world; the spiritual world is a world of revelation."
+          ]
         },
         {
           "key": "source:ABU1155",
-          "why": "Keep existence open beyond the present horizon."
+          "why": "Keep existence open beyond the present horizon.",
+          "shortened": [
+            "But praise be to God, the world of existence does not culminate here. If this were so, existence itself would be sterile. There are many worlds of light."
+          ]
         },
         {
           "key": "source:ABU1320",
-          "why": "Compare temporal affliction with an enduring kingdom."
+          "why": "Compare temporal affliction with an enduring kingdom.",
+          "shortened": [
+            "The material kingdom is of time; affliction and calamity attend it. It is the womb of pain. But the spiritual kingdom is unpassing, it has no end, it is beyond danger and fear, it is exalted day by day, its sun is shining ever more, the voice of its grandeur arises higher and higher. All that belongs to this visible world is corruptible, mortal; all that belongs to the divine world is incorruptible, eternal."
+          ]
         },
         {
           "key": "source:ABU1666",
-          "why": "Retain the relative use of the term life."
+          "why": "Retain the relative use of the term life.",
+          "shortened": [
+            "Thus the life and existence of earthly persons compared to heavenly life and existence cannot be called life. If this physical life had any importance, Christ would not have accepted crucifixion."
+          ]
         },
         {
           "key": "source:AB00100",
-          "why": "Place relative life and death within the Adam and Eve explanation."
+          "why": "Place relative life and death within the Adam and Eve explanation.",
+          "shortened": [
+            "Likewise, material life, compared to eternal existence and the life of the Kingdom, is regarded as death. Thus Christ referred to this material life as death and said, \"Let the dead bury their dead.\" Although those souls enjoyed material life, yet in His eyes that life was even as death."
+          ]
         },
         {
           "key": "source:AB08256",
-          "why": "Distinguish kinds of life through mirage and sea."
+          "why": "Distinguish kinds of life through mirage and sea.",
+          "shortened": [
+            "O Mirza Yuhanna! This name is derived from \"life\", but life is of two kinds: physical and spiritual. The first belongs to the realm of vain imaginings and is like the waves of a mirage, while the second is the outpouring of the clouds and is like a sweet and flowing sea. That one is a passing shadow, and this one a shining star."
+          ]
         },
         {
           "key": "source:AB02843",
-          "why": "Contrast earthly homelessness with a spiritual dwelling."
+          "why": "Contrast earthly homelessness with a spiritual dwelling.",
+          "shortened": [
+            "His Holiness, the Christ, the Holy Manifestations and the apostles possessed no nest whatsoever in this mortal world but in the universe of God, a glorious palace."
+          ]
         },
         {
           "key": "source:AB07569",
-          "why": "Offer the homeless reader an image of sanctuary."
+          "why": "Offer the homeless reader an image of sanctuary.",
+          "shortened": [
+            "Thou art a bird of the shelter of divine unity, and thy true nest is on the branches of the Tree beyond which there is no passing. Even though thou are utterly bereft of hearth and home in the path of God, thy true habitation is beneath His divine sanctuary."
+          ]
         },
         {
           "key": "source:AB08130",
-          "why": "Carry the crown image beyond physical departure."
+          "why": "Carry the crown image beyond physical departure.",
+          "shortened": [
+            "The divine friends are the crowned rulers of the realm of inner meanings, and when they conceal their faces from the earthly kingdom, they shall adorn themselves with crown and diadem in the radiant world."
+          ]
         },
         {
           "key": "source:AB03773",
-          "why": "Acknowledge a gift not yet fully perceptible."
+          "why": "Acknowledge a gift not yet fully perceptible.",
+          "shortened": [
+            "This is a great gift from God and hath no equal; although in this physical world its greatness is not perceivable, nor its nature clearly known, yet in the spiritual world it shineth like the sun."
+          ]
         },
         {
           "key": "source:AB07200",
-          "why": "Allow unseen radiance to have visible consequences."
+          "why": "Allow unseen radiance to have visible consequences.",
+          "shortened": [
+            "And now that radiant star shines so bright and luminous that its rays extend from the unseen realm to the visible plane and become a bounty of existence. Soon you will observe even in this material world how brilliant and effulgent are the rays of that star."
+          ]
         },
         {
           "key": "source:AB07927",
-          "why": "Distinguish outward sight from enduring insight."
+          "why": "Distinguish outward sight from enduring insight.",
+          "shortened": [
+            "This outward eye shall turn to dust, but the inner vision shall remain eternal and steadfast in the pure world."
+          ]
         },
         {
           "key": "source:ABU0307",
-          "why": "Place that distinction in an address to blind readers."
+          "why": "Place that distinction in an address to blind readers.",
+          "shortened": [
+            "The sight of the physical and ordinary eye will some day pass away. Only for a short time does the eye exercise its function; then it becomes shut. But the power of insight is eternal; it is a heavenly gift, and through it man discovers the Kingdom. Through it he can see aright the beauty of God and the holy verities, and can discern the very mysteries of God."
+          ]
         },
         {
           "key": "source:ABU0981",
@@ -1443,7 +1875,10 @@
         },
         {
           "key": "source:AB10306",
-          "why": "Keep the compact Christ-spirit comparison attributed."
+          "why": "Keep the compact Christ-spirit comparison attributed.",
+          "shortened": [
+            "The difference between Christ and others is this:  Christ was the Spirit, others are bodies.  Christ was the Sun, others are mirrors.  Christ was the Truth and was bestowing Eternal Life; others are dead and are imparting deadness and negligence."
+          ]
         },
         {
           "key": "source:AB03738",
@@ -1451,7 +1886,10 @@
         },
         {
           "key": "source:ABU1341",
-          "why": "Contrast expectations of a material and spiritual kingdom."
+          "why": "Contrast expectations of a material and spiritual kingdom.",
+          "shortened": [
+            "The people did not know of the spiritual kingdom of Jesus Christ, but they were waiting for a man to come who had a material kingdom."
+          ]
         },
         {
           "key": "source:AB06532",
@@ -1479,7 +1917,10 @@
         },
         {
           "key": "source:AB05223",
-          "why": "Compare physical proximity with enduring union."
+          "why": "Compare physical proximity with enduring union.",
+          "shortened": [
+            "For nearness in the mortal realm is often followed by remoteness in the Kingdom, and physical union is pursued by spiritual separation. But this spiritual union's attribute is eternity and its characteristic is everlastingness."
+          ]
         },
         {
           "key": "source:ABU0209",
@@ -1499,7 +1940,10 @@
         },
         {
           "key": "source:ABU0709",
-          "why": "Examine the claim of lasting spiritual love."
+          "why": "Examine the claim of lasting spiritual love.",
+          "shortened": [
+            "There are two kinds of Love - the material and the spiritual. Material love means the attachment of men to each other, whether it be friendship or any other relation and it always ends in grief, for the spiritual love is the only enduring love."
+          ]
         },
         {
           "key": "source:ABU3028",
@@ -1507,19 +1951,31 @@
         },
         {
           "key": "source:AB05700",
-          "why": "Use the swift spiritual letter to renew the distance image."
+          "why": "Use the swift spiritual letter to renew the distance image.",
+          "shortened": [
+            "However, with a spiritual pen, at every moment he writes a divine letter, and this is accomplished with the utmost speed, for the physical world is a strange confinement - all its affairs are slow, and at most only a few steps can be taken in each breath. But the spirit traverses East and West in an instant. Consider how different these are!"
+          ]
         },
         {
           "key": "source:AB06940",
-          "why": "Pair outer deprivation with inward hearing and sight."
+          "why": "Pair outer deprivation with inward hearing and sight.",
+          "shortened": [
+            "Though the physical eye was prevented from beholding His enchanting countenance, the eye of the spirit is illumined by the lights of His divine Beauty. And though the outward ear was deprived of hearing His blessed words, the ear of the soul is delighting in the call to awareness from His most glorious Kingdom."
+          ]
         },
         {
           "key": "source:AB04360",
-          "why": "Distinguish bodily experience and inward vision."
+          "why": "Distinguish bodily experience and inward vision.",
+          "shortened": [
+            "O thou who art bound to the supernal world and the Concourse on high! Whatever is experienced by the outward body deriveth from this lower and inferior world, and whatever is perceived and witnessed by the eye of the soul and inward vision deriveth from the supernal world."
+          ]
         },
         {
           "key": "source:AB06377",
-          "why": "Join earthly embodiment with heavenly orientation."
+          "why": "Join earthly embodiment with heavenly orientation.",
+          "shortened": [
+            "Such souls though apparently earthy yet in reality they are heavenly; their body is of the phenomenal world and yet their spirit (emanated) from the world of God."
+          ]
         },
         {
           "key": "source:ABU3454",
@@ -1535,15 +1991,24 @@
         },
         {
           "key": "source:ABU1400",
-          "why": "Read trees through attention to their sustaining forces."
+          "why": "Read trees through attention to their sustaining forces.",
+          "shortened": [
+            "Another who looks at trees. He thinks of the effect and energy of the sun the effect of the breeze that blows; the influence and effect of rain' who has educated these trees. Viewpoints are different."
+          ]
         },
         {
           "key": "source:ABU1430",
-          "why": "Hear the poetic image of nature’s communication."
+          "why": "Hear the poetic image of nature’s communication.",
+          "shortened": [
+            "It as though the trees, the rocks, the sea, the grass, the stars hold communion with man and whisper into his ears the secrets of nature."
+          ]
         },
         {
           "key": "source:BH05687",
-          "why": "Retain the account of things present before the divine throne."
+          "why": "Retain the account of things present before the divine throne.",
+          "shortened": [
+            "And beyond this, at all times the realities of all things are present before the Divine Throne and recount what has befallen them, but people are unaware and do not comprehend."
+          ]
         },
         {
           "key": "source:AB09263",
@@ -1571,11 +2036,17 @@
         },
         {
           "key": "source:ABU2866",
-          "why": "Turn painting into a metaphor for deeds."
+          "why": "Turn painting into a metaphor for deeds.",
+          "shortened": [
+            "Man can paint those ideal pictures upon the Tablet of existence with the brush of deeds."
+          ]
         },
         {
           "key": "source:AB04740",
-          "why": "Join physical painting with images of spiritual qualities."
+          "why": "Join physical painting with images of spiritual qualities.",
+          "shortened": [
+            "There are many physical painters who draw with utmost skill, but you are both a physical painter and a spiritual painter. You paint spiritual images with utmost skill and love, and those spiritual images are faith, assurance, and firmness in the Covenant and Testament."
+          ]
         },
         {
           "key": "source:ABU2119",
@@ -1583,11 +2054,17 @@
         },
         {
           "key": "source:ABU2307",
-          "why": "Question technical perfection without spiritual awareness."
+          "why": "Question technical perfection without spiritual awareness.",
+          "shortened": [
+            "'Again,' He continued, 'look at the spider. What artist could create anything better made than a spider's web? Even so those artists whose creations are perfect, and who themselves are ignorant of the life of the spirit, are like the mole and the spider, far below the level of the man of faith.'"
+          ]
         },
         {
           "key": "source:ABU3065",
-          "why": "Move from external pictures to the heart’s mirror."
+          "why": "Move from external pictures to the heart’s mirror.",
+          "shortened": [
+            "These things about here that you have pictured will all pass away, but the true picture is the one you take on the mirror of the heart."
+          ]
         },
         {
           "key": "source:AB04179",
@@ -1595,7 +2072,10 @@
         },
         {
           "key": "source:ABU2626",
-          "why": "Read the extended newspaper metaphor as an image."
+          "why": "Read the extended newspaper metaphor as an image.",
+          "shortened": [
+            "The thoughts of this newspaper is material but the conceptions of that newspaper are spiritual. The Editor of this newspaper is a man but the Editor of that newspaper is His Holiness Baha'u'llah. The subscribers to this newspaper are frail humanity but the subscribers to that newspaper are the angels of the supreme Concourse. The policies of this newspaper are earthly but the policies of that newspaper are heavenly. The pages of this newspaper are made of perishable materials but the pages of that newspaper are made with the celestial texture."
+          ]
         },
         {
           "key": "source:AB10179",
@@ -1603,7 +2083,10 @@
         },
         {
           "key": "source:AB09007",
-          "why": "Compare electric illumination with a celestial lamp."
+          "why": "Compare electric illumination with a celestial lamp.",
+          "shortened": [
+            "O luminous lamp! The greatest of lamps, the electric light, nevertheless illumines only a limited distance nearby for several hours and miles. But the celestial lamp shines like the brilliant morning light unto the horizons, its light spreading from the earthly kingdom to the heavenly kingdom, and its radiance extending from the Supreme Concourse to the human realm."
+          ]
         },
         {
           "key": "source:AB09810",
@@ -1615,7 +2098,10 @@
         },
         {
           "key": "source:AB12110",
-          "why": "Use warmth to describe renewed love."
+          "why": "Use warmth to describe renewed love.",
+          "shortened": [
+            "In the material world there is nothing but lethargy, rigidity and coldness, but the heat of the Sun of Truth rising from the horizon of the Kingdom will dispel this coldness and perfect the warmth of the love of God."
+          ]
         },
         {
           "key": "source:AB05841",
@@ -1623,7 +2109,10 @@
         },
         {
           "key": "source:ABU0690",
-          "why": "Apply the body-and-spirit image to existence."
+          "why": "Apply the body-and-spirit image to existence.",
+          "shortened": [
+            "The world of existence is like the human body - material forces are like its organs and parts. But this body needs a spirit to animate it, to give it life and vitality, to endow it with sight, hearing, memory and perception, so that the light of intellect may shine within it."
+          ]
         },
         {
           "key": "source:AB10788",
@@ -1631,7 +2120,12 @@
         },
         {
           "key": "source:ABU0419",
-          "why": "Affirm material progress while refusing spiritual neglect."
+          "why": "Affirm material progress while refusing spiritual neglect.",
+          "shortened": [
+            "But, take heed, lest in thinking too earnestly of the things of the body you forget the things of the soul: for material advantages do not elevate the spirit of a man.",
+            "It is indeed a good and praiseworthy thing to progress materially, but in so doing, let us not neglect the more important spiritual progress, and close our eyes to the Divine light shining in our midst.",
+            "Only by improving spiritually as well as materially can we make any real progress, and become perfect beings."
+          ]
         },
         {
           "key": "source:ABU2168",
@@ -1639,7 +2133,10 @@
         },
         {
           "key": "source:ABU1517",
-          "why": "Preserve the body-without-spirit warning."
+          "why": "Preserve the body-without-spirit warning.",
+          "shortened": [
+            "Civilization is like unto the body. Spirituality is like the soul. A body without spirit is unprofitable, though it should be of the utmost beauty, while without spirit, it is as nothing."
+          ]
         },
         {
           "key": "source:ABU1673",
@@ -1651,11 +2148,17 @@
         },
         {
           "key": "source:ABU1906",
-          "why": "Follow with hope for both capacities in San Francisco."
+          "why": "Follow with hope for both capacities in San Francisco.",
+          "shortened": [
+            "San Francisco has capacity -- capacity for many things. It has both material and spiritual capacity, and is progressive. Just as this city is achieving material progress I am hopeful that it may also achieve ideal progress, and that through the divine illumination heavenly civilization may be established here."
+          ]
         },
         {
           "key": "source:ABU0152",
-          "why": "Relate material association to spiritual fellowship."
+          "why": "Relate material association to spiritual fellowship.",
+          "shortened": [
+            "Material civilization advances through the physical association of mankind. The progress you observe in the outer world is founded mainly upon the fraternity of material interests. Were it not for this physical and mental association, civilization would not have progressed. Now -- praise be to God! -- the indissoluble spiritual association is evident; therefore, it is certain that divine civilization has been founded, and the world will progress and advance spiritually."
+          ]
         },
         {
           "key": "source:ABU0440",
@@ -1663,15 +2166,24 @@
         },
         {
           "key": "source:ABU2801",
-          "why": "Link spiritual support with livelihood and human welfare."
+          "why": "Link spiritual support with livelihood and human welfare.",
+          "shortened": [
+            "The other kind are those affairs which contribute toward the maintenance of livelihood, adding to the comfort, happiness and progress of the human family. Spiritual powers always come to the assistance of such affairs, they increase the moral insight and responsibility of man and add to his awareness and mindfulness.\""
+          ]
         },
         {
           "key": "source:ABU1925",
-          "why": "Make justice and comfort an expression of spiritual capacity."
+          "why": "Make justice and comfort an expression of spiritual capacity.",
+          "shortened": [
+            "But humans, through their rational faculties and conscientious feelings, have been distinguished from other creatures so they may delve into spiritual matters, discover the realities of things, be attracted to the Supreme Kingdom, strive for human welfare and the comfort of humanity, and promote the means of justice and fairness."
+          ]
         },
         {
           "key": "source:ABU1580",
-          "why": "Distinguish forms and reach of assistance."
+          "why": "Distinguish forms and reach of assistance.",
+          "shortened": [
+            "Assistance is of two kinds:- Material assistance and spiritual assistance. Material assistance is limited to one locality and place but spiritual assistance is measureless."
+          ]
         },
         {
           "key": "source:ABU1763",
@@ -1687,7 +2199,10 @@
         },
         {
           "key": "source:ABU2525",
-          "why": "Question the exhausted instrument of the sword."
+          "why": "Question the exhausted instrument of the sword.",
+          "shortened": [
+            "The sword has been working over six thousand years and has become dull. We must look about us for another sword to take its place."
+          ]
         },
         {
           "key": "source:AB00533",
@@ -1695,11 +2210,17 @@
         },
         {
           "key": "source:AB00996",
-          "why": "Oppose conquest by love to humiliation by force."
+          "why": "Oppose conquest by love to humiliation by force.",
+          "shortened": [
+            "But the conquests of the Baha'is are spiritual conquests, and these are a thousand times greater than outward conquests. For this conquest is through love, through knowledge, and pure grace, while that conquest is through arrows, through swords, through schemes and humiliation. This conquest bestows spirit and brings to life, while that conquest destroys foundations and casts souls into the pit of destruction. This conquest is eternal while that conquest is temporary, for in the Qur'an it states \"Such days We alternate among the people.\""
+          ]
         },
         {
           "key": "source:AB09115",
-          "why": "State spiritual victory’s human purpose."
+          "why": "State spiritual victory’s human purpose.",
+          "shortened": [
+            "Victory is of two kinds: material and spiritual. Material victory is not so important but spiritual victory is conducive to the life of the world of humanity."
+          ]
         },
         {
           "key": "source:ABU0301",
@@ -1707,7 +2228,10 @@
         },
         {
           "key": "source:ABU0324",
-          "why": "Turn the struggle inward through the jihad tradition."
+          "why": "Turn the struggle inward through the jihad tradition.",
+          "shortened": [
+            "For this reason the following tradition is recorded from the lips of a god-fearing adept: 'From minor Jihad we have turned our attention to the major Jihad;- that is, we have quitted fighting with the outside enemy and are concentrating our forces on the defeat of the inside foe - the foe of the spirit. This is interpreted as the real Jihad."
+          ]
         },
         {
           "key": "source:AB00192",
@@ -1719,15 +2243,24 @@
         },
         {
           "key": "source:AB04768",
-          "why": "Preserve the figurative victory of oppressed believers."
+          "why": "Preserve the figurative victory of oppressed believers.",
+          "shortened": [
+            "However, the oppressed ones of the All-Merciful, through divine power, brought the face of the earth into the curve of their polo stick and occupied themselves with heaven."
+          ]
         },
         {
           "key": "source:ABU1701",
-          "why": "Distinguish sources of worldly and spiritual authority."
+          "why": "Distinguish sources of worldly and spiritual authority.",
+          "shortened": [
+            "The physical or natural leader of the people is selected by the people, but the Heavenly Leader is selected by the Lord.  A material leader, if a king, is mighty by the sword, and if a president, is powerful by the consensus of opinion.  The Heavenly Ruler is mighty through Divine Bounty, and the election of the Holy Spirit, and through the Power of the Love of God."
+          ]
         },
         {
           "key": "source:AB04585",
-          "why": "Compare earthly leadership with spiritual responsibility."
+          "why": "Compare earthly leadership with spiritual responsibility.",
+          "shortened": [
+            "Say: O chief of tribes! Although this station among the tribes and clans is lofty and honored, yet the chieftainship of heavenly tribes and the leadership of spiritual clans has another station and a different glory."
+          ]
         },
         {
           "key": "source:AB04541",
@@ -1735,15 +2268,24 @@
         },
         {
           "key": "source:AB03089",
-          "why": "Concentrate the concern on heart and soul."
+          "why": "Concentrate the concern on heart and soul.",
+          "shortened": [
+            "Our work concerns the heart and soul, not water and clay."
+          ]
         },
         {
           "key": "source:AB04835",
-          "why": "Retain the breadth of spiritual activity amid hardship."
+          "why": "Retain the breadth of spiritual activity amid hardship.",
+          "shortened": [
+            "And despite a hundred thousand hardships and the onslaught of all tribes - Arab, Turk and Tajik - this is the expansive realm of the Kingdom of the Creator-King, and the vast arena of the world of spirit and dominion, with its bounties, bestowals and insight."
+          ]
         },
         {
           "key": "source:ABU2914",
-          "why": "Distinguish physical destruction from loss of teachings."
+          "why": "Distinguish physical destruction from loss of teachings.",
+          "shortened": [
+            "His intention is destruction, and it is divided into two parts, one physical and the other spiritual. The physical abomination of desolation is the razing and destroying of buildings. The spiritual abomination of desolation is the destruction of the teachings of GOD."
+          ]
         },
         {
           "key": "source:AB01098",
@@ -1755,7 +2297,10 @@
         },
         {
           "key": "source:AB07844",
-          "why": "Direct attention to elevating human life."
+          "why": "Direct attention to elevating human life.",
+          "shortened": [
+            "In other words, they must promote the principles of the sublimity of the human world, which is loftier than this fictitious heaven, and spread the light of the Luminary of the Merciful Universe, which is more radiant and luminous than the stars studded in yon blue dome."
+          ]
         },
         {
           "key": "source:ABU1290",
@@ -1775,15 +2320,24 @@
         },
         {
           "key": "source:AB04955",
-          "why": "Ask how one can live on earth with heavenly orientation."
+          "why": "Ask how one can live on earth with heavenly orientation.",
+          "shortened": [
+            "Endeavor as much as possible to liberate thyself wholly from human susceptibilities-so that the powers of the Kingdom may gain control over thy heart and thy spirit-to such a degree that although thou art living on the face of the earth, yet thou mayest truly be in heaven; that although outwardly thou an composed of material elements, yet spiritually thou mayest become composed of heavenly elements."
+          ]
         },
         {
           "key": "source:AB07522",
-          "why": "Focus aspiration through service."
+          "why": "Focus aspiration through service.",
+          "shortened": [
+            "If thou wouldst hearken to the divine counsel detach thyself from all such thoughts and sanctify thyself utterly from all these contaminations. Seek for the servitude of the Abha Beauty alone so that thou mayest be a prince amongst princes and a ruler in the world above."
+          ]
         },
         {
           "key": "source:ABU2529",
-          "why": "Let truth dispel prejudice."
+          "why": "Let truth dispel prejudice.",
+          "shortened": [
+            "Pay not attention to things material but reach after the Spirit. Fix your eyes on the Sun of Truth for his light floods the whole earth. Let the sun give you of his strength then the clouds of prejudice will not hide his light from your eyes, then will the sun be without clouds for you."
+          ]
         },
         {
           "key": "source:AB11117",
@@ -1791,15 +2345,25 @@
         },
         {
           "key": "source:BH03447",
-          "why": "Return to the prayer’s two kingdoms."
+          "why": "Return to the prayer’s two kingdoms.",
+          "shortened": [
+            "Then let him stand up, and facing the Qiblih (Point of Adoration, i.e., Bahji, 'Akka), let him say:",
+            "God testifieth that there is none other God but Him. His are the kingdoms of Revelation and of creation."
+          ]
         },
         {
           "key": "source:BH01969",
-          "why": "Recall the covenant across revelation and creation."
+          "why": "Recall the covenant across revelation and creation.",
+          "shortened": [
+            "Thou didst establish His covenant with every one who hath been created in the kingdoms of earth and heaven and in the realms of revelation and of creation."
+          ]
         },
         {
           "key": "source:BB00490",
-          "why": "End the linked readings with praise across both realms."
+          "why": "End the linked readings with praise across both realms.",
+          "shortened": [
+            "Unto Him pertaineth all glory and majesty in the kingdoms of Revelation and Creation and whatever lieth between them."
+          ]
         },
         {
           "key": "selection:57fb16b6cf116ee19dc05803",
@@ -1927,7 +2491,7 @@
       "id": "1021657B1CF64AAB90EC9FBF7FC73B34",
       "slug": "justice",
       "displayTitle": "Justice: from a searching eye to a society of mutual protection",
-      "introduction": "What would distinguish a world that praises justice from one that practices it? These readings make the question concrete through a worker’s wage, a servant’s suffering, the treatment of minorities, and the daily choices of people without public office. Justice appears as a way of seeing independently, a discipline of fair judgment, and a foundation for collective security and unity. It asks rulers to examine themselves before judging others and communities to protect those whose rights are vulnerable. The collection also explores reward and punishment, voluntary generosity, mercy, and the limits of private action; its historical cases and reported conversations call for attention to setting and authority. Connected subjects on fair-mindedness, labor, race, economic inequality, and institutions invite further investigation. Qur’an 4:135 brings the difficulty of impartiality close to home by asking for truthful witness even against oneself or one’s relatives. The challenge is to give justice a lived form.",
+      "introduction": "Everyone speaks of fairness, ‘Abdu’l-Bahá observes, and if words were enough humanity would long since have prospered. Justice begins instead with something as plain as a workman paid his wage at the end of the day, a servant beaten by a Pasha who then discovers that the law reaches him too, and a majority in need while a few live in luxury. Bahá’u’lláh calls justice the light of men and says its purpose is unity: to see with one’s own eyes rather than through imitation, and, as ‘Abdu’l-Bahá adds, to regard humanity as a single body in which an injury to any member is felt by all. Rulers are asked to weigh themselves daily in the balance of equity before judging anyone else; communities, to protect minorities and the poor; each person, neither to defraud a neighbour nor to yield to being defrauded. The Qur’an’s demand for truthful witness even against oneself or one’s kin brings the same impartiality home. The path leads on into fair-mindedness and the pairing of justice with mercy, into labour, profit sharing and the moderation of wealth, into race unity, and into the twin pillars of reward and punishment, until a world that praises justice becomes one that practises it.",
       "arc": "Begin with the distance between proclaimed justice and lived conditions; develop fair perception and equal rights; examine protection, governance and economic arrangements; distinguish mercy, accountability and divine judgment; return through lament and hope to concrete communal responsibility.",
       "order": [
         {
@@ -1944,11 +2508,17 @@
         },
         {
           "key": "source:AB00779",
-          "why": "Give justice a concrete form in the worker’s wage."
+          "why": "Give justice a concrete form in the worker’s wage.",
+          "shortened": [
+            "Know that justice consists in rendering to each his due. For example, when a workman labours from morning till evening, justice requires that he be paid his wage, but bounty consists in rewarding him even when he has done no work and expended no effort."
+          ]
         },
         {
           "key": "source:BH00111",
-          "why": "Name human unity as its purpose."
+          "why": "Name human unity as its purpose.",
+          "shortened": [
+            "The word of God which the Supreme Pen hath recorded on the sixth leaf of the Most Exalted Paradise is the following: The light of men is Justice. Quench it not with the contrary winds of oppression and tyranny. The purpose of justice is the appearance of unity among men. The ocean of divine wisdom surgeth within this exalted word, while the books of the world cannot contain its inner significance."
+          ]
         },
         {
           "key": "source:BH02183",
@@ -1956,11 +2526,18 @@
         },
         {
           "key": "source:AB00004",
-          "why": "Expand impartiality through humanity as one body."
+          "why": "Expand impartiality through humanity as one body.",
+          "shortened": [
+            "The second attribute of perfection is justice and impartiality. This means to have no regard for one's own personal benefits and selfish advantages, and to carry out the laws of God without the slightest concern for anything else. It means to see one's self as only one of the servants of God, the All-Possessing, and except for aspiring to spiritual distinction, never attempting to be singled out from the others. It means to consider the welfare of the community as one's own. It means, in brief, to regard humanity as a single individual, and one's own self as a member of that corporeal form, and to know of a certainty that if pain or injury afflicts any member of that body, it must inevitably result in suffering for all the rest."
+          ]
         },
         {
           "key": "source:BH03420",
-          "why": "Begin practice with guarded speech and fair judgment."
+          "why": "Begin practice with guarded speech and fair judgment.",
+          "shortened": [
+            "Be fair in thy judgment, and guarded in thy speech.",
+            "Be unjust to no man, and show all meekness to all men."
+          ]
         },
         {
           "key": "source:AB12306",
@@ -1980,7 +2557,10 @@
         },
         {
           "key": "source:AB01217",
-          "why": "Extend recognition across nations and governments."
+          "why": "Extend recognition across nations and governments.",
+          "shortened": [
+            "The Baha'is are free from all prejudices, are well-wishers of the human world, are lovers of justice and good governance, and praise these qualities from whichever government or nation they may emerge."
+          ]
         },
         {
           "key": "source:ABU0007",
@@ -1996,7 +2576,10 @@
         },
         {
           "key": "source:ABU0268",
-          "why": "Link equality with divine kindness."
+          "why": "Link equality with divine kindness.",
+          "shortened": [
+            "God is just and kind to all. He considers all as His servants. He excludes none, and His judgments are correct and true."
+          ]
         },
         {
           "key": "source:ABU3353",
@@ -2012,7 +2595,10 @@
         },
         {
           "key": "source:ABU1027",
-          "why": "Move from one nation toward protection of all nations."
+          "why": "Move from one nation toward protection of all nations.",
+          "shortened": [
+            "I counsel them that they may day by day strengthen the bond of love and amity to this end---that they may become the sympathetic embodiment of one nation---that they may extend themselves to a universal Brotherhood to guard and protect the interest and rights of all the nations of the East---that they may unfurl the Divine Banner of justice---that they may realize and treat each nation as a family composed of the individual children of God and may know that before the sight of God the rights of all are equal."
+          ]
         },
         {
           "key": "source:ABU0285",
@@ -2020,7 +2606,11 @@
         },
         {
           "key": "source:AB00016",
-          "why": "Situate rights and freedom within relationships."
+          "why": "Situate rights and freedom within relationships.",
+          "shortened": [
+            "And among the teachings of Baha'u'llah are justice and right. Until these are realized on the plane of existence, all things shall be in disorder and remain imperfect. The world of mankind is a world of oppression and cruelty, and a realm of aggression and error.",
+            "Similarly, with regard to the peoples who clamour for freedom: the moderate freedom which guarantees the welfare of the world of mankind and maintains and preserves the universal relationships, is found in its fullest power and extension in the teachings of Baha'u'llah."
+          ]
         },
         {
           "key": "source:AB00890",
@@ -2028,15 +2618,24 @@
         },
         {
           "key": "source:ABU1585",
-          "why": "Make kindness and justice sources of strength."
+          "why": "Make kindness and justice sources of strength.",
+          "shortened": [
+            "A child cannot kill a man; but a Bonaparte can abstain from war, from shedding blood, from devastating countries. A dumb person will not speak ill of any one, a paralyzed hand cannot strike; but a strong arm can refrain from striking. Justice, love and kindness must be the instruments of strength, not of weakness."
+          ]
         },
         {
           "key": "source:BH05574",
-          "why": "Find power in humility rather than dominance."
+          "why": "Find power in humility rather than dominance.",
+          "shortened": [
+            "O My handmaiden! Lowliness is the cause of elevation and justice is the source of power. Consider the lowliness of dust - from it pure jewels appear, and from the earth the Manifestations of the names of the Lord of Lords become manifest and evident."
+          ]
         },
         {
           "key": "source:BH11766",
-          "why": "Pair fairness and justice as enabling wings."
+          "why": "Pair fairness and justice as enabling wings.",
+          "shortened": [
+            "Justice and fairness are as two wings for the servants of God, and blessed is the state of the soul that hath attained unto these twain and become detached from all that is in the world and in the realm of creation."
+          ]
         },
         {
           "key": "source:BH02557",
@@ -2044,7 +2643,11 @@
         },
         {
           "key": "source:BH01683",
-          "why": "Unite justice, kindness and human dignity."
+          "why": "Unite justice, kindness and human dignity.",
+          "shortened": [
+            "They are ever observant of justice and fairness.",
+            "They should hold fast to justice, kindness and fairness so that all may attest to that which bespeaks the loftiness of human station."
+          ]
         },
         {
           "key": "source:BH00857",
@@ -2056,7 +2659,10 @@
         },
         {
           "key": "source:AB00582",
-          "why": "Keep the particular testimony ruling in its historical setting."
+          "why": "Keep the particular testimony ruling in its historical setting.",
+          "shortened": [
+            "The testimony of his brothers, his sisters, and his wife is testimony affirming the fact; while the testimony of the former wife and her helper is testimony denying it. In all the laws of the world, affirmative testimony taketh precedence over negative testimony. His brothers and his wife bear witness affirming that he was a Baha'i, while others deny it; and witnesses who affirm are preferred over witnesses who deny. Their testimony is accepted; the testimony of the others is rejected."
+          ]
         },
         {
           "key": "source:AB10410",
@@ -2088,15 +2694,25 @@
         },
         {
           "key": "source:BH00140",
-          "why": "Place the ruler’s self-examination before judgment of others."
+          "why": "Place the ruler’s self-examination before judgment of others.",
+          "shortened": [
+            "The Great Being saith:  The heaven of statesmanship is made luminous and resplendent by the brightness of the light of these blessed words which hath dawned from the dayspring of the Will of God:  It behoveth every ruler to weigh his own being every day in the balance of equity and justice and then to judge between men and counsel them to do that which would direct their steps unto the path of wisdom and understanding.  This is the cornerstone of statesmanship and the essence thereof."
+          ]
         },
         {
           "key": "source:BH00021",
-          "why": "Repeat that examination as a daily discipline."
+          "why": "Repeat that examination as a daily discipline.",
+          "shortened": [
+            "Set before thine eyes God's unerring Balance and, as one standing in His Presence, weigh in that Balance thine actions every day, every moment of thy life. Bring thyself to account ere thou art summoned to a reckoning, on the Day when no man shall have strength to stand for fear of God, the Day when the hearts of the heedless ones shall be made to tremble."
+          ]
         },
         {
           "key": "source:BH00053",
-          "why": "Ask government to know conditions and appoint by merit."
+          "why": "Ask government to know conditions and appoint by merit.",
+          "shortened": [
+            "Governments should fully acquaint themselves with the conditions of those they govern, and confer upon them positions according to desert and merit. It is enjoined upon every ruler and sovereign to consider this matter with the utmost care that the traitor may not usurp the position of the faithful, nor the despoiler rule in the place of the trustworthy.",
+            "O people of God! That which traineth the world is Justice, for it is upheld by two pillars, reward and punishment. These two pillars are the sources of life to the world."
+          ]
         },
         {
           "key": "source:BH01080",
@@ -2104,7 +2720,10 @@
         },
         {
           "key": "source:BH08693",
-          "why": "Keep wisdom beside the exercise of justice."
+          "why": "Keep wisdom beside the exercise of justice.",
+          "shortened": [
+            "Say: O people! Hold fast unto wisdom in all matters, for it profiteth you in all conditions, and I am the All-Knowing. It is the lamp of God among you and the light of justice for you, were ye of those who remember."
+          ]
         },
         {
           "key": "source:BH00219",
@@ -2112,7 +2731,11 @@
         },
         {
           "key": "source:BH00005",
-          "why": "Explore justice as protection, order and love."
+          "why": "Explore justice as protection, order and love.",
+          "shortened": [
+            "No light can compare with the light of justice. The establishment  of order in the world and the tranquillity of the nations depend upon it.",
+            "Justice is a powerful force. It is, above all else, the conqueror of the citadels of the hearts and souls of men, and the revealer of the secrets of the world of being, and the standard-bearer of love and bounty."
+          ]
         },
         {
           "key": "source:BH00048",
@@ -2128,23 +2751,39 @@
         },
         {
           "key": "source:ABU2249",
-          "why": "Retain the parallel crown account in its particular context."
+          "why": "Retain the parallel crown account in its particular context.",
+          "shortened": [
+            "They have written that they wish to sell some of the stones from Iran's crown. The crown of Iran is justice, not stones. If they can place a crown of justice upon this nation's head, that is proper. What benefit is there in a crown of stones? It is just stone. The ancient kings of Iran took pride in justice, not in a crown of stone."
+          ]
         },
         {
           "key": "source:ABU2240",
-          "why": "Let a dying ruler’s regret question worldly power."
+          "why": "Let a dying ruler’s regret question worldly power.",
+          "shortened": [
+            "A king at the time of his death wished he was of the poor class. 'I wish I was poor!' he exclaimed. 'In the first place, I would not have ruled with injustice, and, in the second place, at the last moment, I would not be in such a state of remorse and regret!'"
+          ]
         },
         {
           "key": "source:ABU1480",
-          "why": "Examine the reported refusal of bribery and equal accountability."
+          "why": "Examine the reported refusal of bribery and equal accountability.",
+          "shortened": [
+            "\"A certain Pasha, having most unjustly and cruelly beaten one of his servants, was arrested and brought before that just man who represented Britain. To the intense surprise of the Pasha, he himself was sentenced to a term of imprisonment, and told that he richly deserved the punishment. He could not think it possible that so great a person as himself could be sent to prison, and offered a large bribe for his release. This was sternly refused. A much larger sum was offered with the same result, and the unjust lord was compelled to accept the punishment awarded him for his cruelty to his servant.",
+            "\"The news of this incident, being noised abroad, did much to show the Eastern people that British justice is in reality the same for the rich and for the poor, and therefore worthy of all respect.\""
+          ]
         },
         {
           "key": "source:ABU1120",
-          "why": "Preserve praise of an effort toward equality in its historical setting."
+          "why": "Preserve praise of an effort toward equality in its historical setting.",
+          "shortened": [
+            "In the 'Hidden Words' Baha'u'llah says 'Justice is to be loved above all.' Praise be to God, in this country the standard of justice has been raised; a great effort is being made to give all souls an equal and a true place."
+          ]
         },
         {
           "key": "source:AB02845",
-          "why": "Retain the account of security shared by believers and strangers."
+          "why": "Retain the account of security shared by believers and strangers.",
+          "shortened": [
+            "Believers and unbelievers were at rest, and acquaintances and strangers were playing cheerful melodies. Verily, the darkness of injury ad error was uncovered by the light of equity and justice, and the government put on the garment of probity."
+          ]
         },
         {
           "key": "source:AB03671",
@@ -2152,11 +2791,17 @@
         },
         {
           "key": "source:AB11901",
-          "why": "Preserve the report of satisfaction with a leader’s conduct."
+          "why": "Preserve the report of satisfaction with a leader’s conduct.",
+          "shortened": [
+            "A group of friends offer endless praise for the excellent conduct, excellent policy and justice of His Excellency the Chosen One, and express complete satisfaction."
+          ]
         },
         {
           "key": "source:AB02771",
-          "why": "Retain the addressed praise of resistance to oppression."
+          "why": "Retain the addressed praise of resistance to oppression.",
+          "shortened": [
+            "The radiant sun of his equity rises high, and he is the humiliator and vanquisher of the people of oppression."
+          ]
         },
         {
           "key": "source:BH06817",
@@ -2168,7 +2813,10 @@
         },
         {
           "key": "source:AB07072",
-          "why": "Relate service to government with securing rights."
+          "why": "Relate service to government with securing rights.",
+          "shortened": [
+            "We beseech God that you may be assisted and confirmed at all times and under all conditions to serve that great monarch and to secure the rights of nations and justice and equity among peoples, and to render outstanding services to the eternal throne of sovereignty."
+          ]
         },
         {
           "key": "source:AB11644",
@@ -2204,11 +2852,17 @@
         },
         {
           "key": "source:ABU2031",
-          "why": "Preserve the encouragement toward freedom."
+          "why": "Preserve the encouragement toward freedom.",
+          "shortened": [
+            "Do not yield to the overwhelming power of tyranny and despotism. Serve the cause of democracy and freedom. Continue your journey to the end."
+          ]
         },
         {
           "key": "source:AB02789",
-          "why": "Read a concrete appeal for protection after persecution."
+          "why": "Read a concrete appeal for protection after persecution.",
+          "shortened": [
+            "In any case, now the government must, in gratitude for this divine confirmation, pursue justice and fairness and seek retribution for the martyred eminent scholar Aqa Siyyid Yahya in Sirjan, for that noble soul was, a few months ago, cut to pieces with utmost cruelty and hostility by the oppressors. Likewise, the government must offer complete protection to the oppressed ones of the world so that this divine confirmation and success may continue."
+          ]
         },
         {
           "key": "source:BH02921",
@@ -2216,15 +2870,24 @@
         },
         {
           "key": "source:BH01736",
-          "why": "Preserve the appeal concerning those killed unjustly."
+          "why": "Preserve the appeal concerning those killed unjustly.",
+          "shortened": [
+            "The enemies are delighted that ownerless property hath fallen to them. Have they not heard the decisive, mighty proclamation which saith: \"For him who is slain unjustly, We have given authority to his heir.\""
+          ]
         },
         {
           "key": "source:AB03244",
-          "why": "Ask that what befits the oppressed party become clear."
+          "why": "Ask that what befits the oppressed party become clear.",
+          "shortened": [
+            "We hope that through the all-encompassing hidden bounties, the lights of justice and fairness will shine forth and what befits the oppressed party will become manifest and determined."
+          ]
         },
         {
           "key": "source:AB01241",
-          "why": "Connect success with seeking justice."
+          "why": "Connect success with seeking justice.",
+          "shortened": [
+            "Divine confirmation and success come through justice and the seeking of justice. And God is the protector of the oppressed."
+          ]
         },
         {
           "key": "source:AB11791",
@@ -2232,7 +2895,10 @@
         },
         {
           "key": "source:ABU1896",
-          "why": "Preserve the invitation to help prevent harmful acts."
+          "why": "Preserve the invitation to help prevent harmful acts.",
+          "shortened": [
+            "I hope that you will some day be able to hinder such actions, and thus enable justice to reign everywhere."
+          ]
         },
         {
           "key": "source:AB00771",
@@ -2244,7 +2910,10 @@
         },
         {
           "key": "source:AB00091",
-          "why": "Broaden settlement of disputes to an international tribunal."
+          "why": "Broaden settlement of disputes to an international tribunal.",
+          "shortened": [
+            "Ultimately, war will be entirely banned, and when the laws of the Most Holy Book are enacted, arguments and disputes will, with perfect justice, be settled before a universal tribunal of governments and peoples, and any difficulties which may arise will be resolved."
+          ]
         },
         {
           "key": "source:AB12315",
@@ -2268,7 +2937,10 @@
         },
         {
           "key": "source:ABU3667",
-          "why": "Ask who benefits from labor-saving machines."
+          "why": "Ask who benefits from labor-saving machines.",
+          "shortened": [
+            "You cannot understand now, how the labor saving machines can produce leisure for mankind because at present they are all in the hands of the financiers and are used only to increase profits, but that will not continue. The workers will come into their due benefit from the machine that is the divine intention, and one cannot continue to violate the law of God."
+          ]
         },
         {
           "key": "source:ABU3532",
@@ -2296,7 +2968,10 @@
         },
         {
           "key": "source:ABU3026",
-          "why": "Keep the warning against injustice toward the rich."
+          "why": "Keep the warning against injustice toward the rich.",
+          "shortened": [
+            "The ruling power or government cannot treat the rich unjustly. To force them to divide their wealth would be unjust."
+          ]
         },
         {
           "key": "source:ABU3036",
@@ -2312,7 +2987,10 @@
         },
         {
           "key": "source:ABU1527",
-          "why": "Question self-interest under a just social order."
+          "why": "Question self-interest under a just social order.",
+          "shortened": [
+            "Therefore we must all live in the utmost of happiness and comfort under a just rule and regulation in accordance with the laws of God, because this life is fleeting, and if man looks after himself only, he is no better than the animal, for the animal alone is to that degree egotistic."
+          ]
         },
         {
           "key": "source:ABU0042",
@@ -2324,7 +3002,10 @@
         },
         {
           "key": "source:ABU1256",
-          "why": "Name abandonment of selfish interest as part of change."
+          "why": "Name abandonment of selfish interest as part of change.",
+          "shortened": [
+            "Perchance, God willing, they may become mindful and aware, be released from negligence, abandon tyranny and oppression, treat each other with justice and fairness, and give up the dictates of selfishness and personal interest."
+          ]
         },
         {
           "key": "source:ABU3374",
@@ -2344,11 +3025,17 @@
         },
         {
           "key": "source:ABU1959",
-          "why": "Keep the reported strong statement about crime and punishment for comparison."
+          "why": "Keep the reported strong statement about crime and punishment for comparison.",
+          "shortened": [
+            "If a person commit a crime against you, you have not the right to forgive him; but the law must punish him in order to prevent a repetition of that same crime by others, as the pain of the individual is unimportant beside the general welfare of the people."
+          ]
         },
         {
           "key": "source:BH11114",
-          "why": "Connect retribution with security in its addressed case."
+          "why": "Connect retribution with security in its addressed case.",
+          "shortened": [
+            "Justice requireth that judgment be passed upon him, and equity demandeth retribution for his deeds, that security and peace may be established."
+          ]
         },
         {
           "key": "source:BH01118",
@@ -2360,11 +3047,17 @@
         },
         {
           "key": "source:AB00522",
-          "why": "Preserve the claim that deeds have recompense."
+          "why": "Preserve the claim that deeds have recompense.",
+          "shortened": [
+            "In any case, every deed has its recompense, and every evil act has its consequent blow - divine justice demands this."
+          ]
         },
         {
           "key": "source:AB02353",
-          "why": "Keep the specific warning concerning slander."
+          "why": "Keep the specific warning concerning slander.",
+          "shortened": [
+            "However, the Lord of the Kingdom afflicts every audacious slanderer with abundant punishment. This is required by divine justice."
+          ]
         },
         {
           "key": "source:BB00056",
@@ -2380,11 +3073,17 @@
         },
         {
           "key": "source:AB01895",
-          "why": "Open the contrasting horizon of grace."
+          "why": "Open the contrasting horizon of grace.",
+          "shortened": [
+            "Regarding one's lack of capacity and one's undeserving on the Day of Resurrection, this does not cause one to be shut out from gifts and bounties; for this is not the Day of Justice but the Day of Grace, while justice is allotting to each whatever is his due."
+          ]
         },
         {
           "key": "source:BH00330",
-          "why": "Read due measure within the ordering of creation."
+          "why": "Read due measure within the ordering of creation.",
+          "shortened": [
+            "This is the station of justice, that is, giving to each one his due, and this is the station of the ordering of creation after its coming into being, and the degrees of destiny in creation and origination, even as was revealed from the Kingdom of eternity unto the Seal of the Prophets, peace and blessings be upon him: \"And there is not a thing but with Us are the treasuries thereof, and We send it not down save in appointed measure.\""
+          ]
         },
         {
           "key": "source:BH05766",
@@ -2392,7 +3091,10 @@
         },
         {
           "key": "source:BH02294",
-          "why": "Acknowledge the limits of present understanding of divine justice."
+          "why": "Acknowledge the limits of present understanding of divine justice.",
+          "shortened": [
+            "Were the mysteries, that are known to none except God, to be unraveled, the whole of mankind would witness the evidences of perfect and consummate justice. With a certitude that none can question, all men would cleave to His commandments, and would scrupulously observe them."
+          ]
         },
         {
           "key": "source:BH00307",
@@ -2400,11 +3102,18 @@
         },
         {
           "key": "source:BH00195",
-          "why": "Examine revelation as the asserted source and balance of justice."
+          "why": "Examine revelation as the asserted source and balance of justice.",
+          "shortened": [
+            "Know ye that the root of justice and its source is that which the Manifestation of God Himself ordaineth in His Day, were ye of them that know. Say: He is the Balance of Justice between the heavens and the earth, and though He should come with a cause that would strike terror into all in the heavens and on earth, verily this would be manifest justice.",
+            "Await ye, O people, the days of justice which have indeed come in truth. Beware lest ye be veiled from them and be of the heedless ones."
+          ]
         },
         {
           "key": "source:BH05343",
-          "why": "Keep the claim of divine judgment and human benefit."
+          "why": "Keep the claim of divine judgment and human benefit.",
+          "shortened": [
+            "We judge between people as We please and summon them unto that which shall profit them in the world to come and in this world."
+          ]
         },
         {
           "key": "source:BH09452",
@@ -2420,7 +3129,11 @@
         },
         {
           "key": "source:BB00439",
-          "why": "Keep the announced Day of Justice with its source omission visible."
+          "why": "Keep the announced Day of Justice with its source omission visible.",
+          "shortened": [
+            "O Muhit! Deliver thy Lord's decree with justice, for victory is ordained this day for the believers in that which is written...",
+            "We have promised mankind the Day of Justice and We have made clear the Cause that those in whose hearts is doubt concerning God's Command may come forth."
+          ]
         },
         {
           "key": "source:BH01649",
@@ -2432,7 +3145,10 @@
         },
         {
           "key": "source:BH00668",
-          "why": "Retain the extended addressed testimony to revelation."
+          "why": "Retain the extended addressed testimony to revelation.",
+          "shortened": [
+            "We testify that thou hast set thy face towards God and traveled far until thou didst attain His presence and gavest ear unto the Voice of this Wronged One, Who hath been cast into prison through the misdeeds of those who have disbelieved in the signs and testimonies of God and have denied this heavenly grace through which the whole world hath been made to shine. Blessed thy face, for it hath turned unto Him, and thine ear, for it hath heard His Voice, and thy tongue, for it hath celebrated the praise of God, the Lord of lords. We pray God to graciously aid thee to become a standard for the promotion of His Cause and to enable thee to draw nigh unto Him at all times and under all conditions."
+          ]
         },
         {
           "key": "source:BH04820",
@@ -2448,11 +3164,17 @@
         },
         {
           "key": "source:BH04340",
-          "why": "Connect justice with release from idle imagination."
+          "why": "Connect justice with release from idle imagination.",
+          "shortened": [
+            "When the standard of justice is raised, the hosts of fancy and idle imagination will flee. Blessed are they who know."
+          ]
         },
         {
           "key": "source:BH06041",
-          "why": "Preserve the exhortation to fair response in its figurative language."
+          "why": "Preserve the exhortation to fair response in its figurative language.",
+          "shortened": [
+            "Say: We have abandoned the carrion, inasmuch as the heavenly table hath been sent down from the heaven of the bounty of our Lord, the Mighty, the All-Praised. Fear ye God, O concourse of the ignorant ones! Deal fairly in that which hath appeared with truth, and be not of the lost."
+          ]
         },
         {
           "key": "source:BH10801",
@@ -2460,31 +3182,54 @@
         },
         {
           "key": "source:BH04169",
-          "why": "Connect illumination with fair examination of revelation."
+          "why": "Connect illumination with fair examination of revelation.",
+          "shortened": [
+            "We beseech God not to deprive His servants of the splendors of the Sun of Justice, that all may consider with fairness that which hath appeared and been revealed."
+          ]
         },
         {
           "key": "source:AB01419",
-          "why": "Locate justice within the enumerated teachings."
+          "why": "Locate justice within the enumerated teachings.",
+          "shortened": [
+            "And His teachings are these: First, the independent investigation of truth and deliverance from ancient traditions.",
+            "Twelfth, the Most Great Justice."
+          ]
         },
         {
           "key": "source:BH08691",
-          "why": "Make attainment of justice the desired end."
+          "why": "Make attainment of justice the desired end.",
+          "shortened": [
+            "Whoso attaineth unto justice hath attained unto that which God, the Lord of all beings, hath desired."
+          ]
         },
         {
           "key": "source:BH07474",
-          "why": "Turn to the unsettling image of justice existing only in name."
+          "why": "Turn to the unsettling image of justice existing only in name.",
+          "shortened": [
+            "Justice, like the phoenix, existeth in name but not in reality. Equity, like the philosopher's stone, is rare indeed."
+          ]
         },
         {
           "key": "source:BH08750",
-          "why": "Preserve the parallel phoenix and refuge image."
+          "why": "Preserve the parallel phoenix and refuge image.",
+          "shortened": [
+            "Justice, like the phoenix, naught remaineth of it save its name, and equity hath taken flight to the pavilions of glory, seeking refuge from the talons of the birds of darkness."
+          ]
         },
         {
           "key": "source:BH00927",
-          "why": "Hear the lament of equity under oppression."
+          "why": "Hear the lament of equity under oppression.",
+          "shortened": [
+            "Today the cry of justice is raised high and the lamentation of equity is uplifted. The darkness of oppression hath enveloped the world and its peoples."
+          ]
         },
         {
           "key": "source:BH06137",
-          "why": "Retain the denunciation of vanished justice."
+          "why": "Retain the denunciation of vanished justice.",
+          "shortened": [
+            "Evil is that which they have wrought, and they shall have no portion of this Great Sea.",
+            "Discrimination hath vanished and justice hath perished."
+          ]
         },
         {
           "key": "source:BH06484",
@@ -2500,19 +3245,31 @@
         },
         {
           "key": "source:BH06621",
-          "why": "Retain the lament for wrong after the balance was established."
+          "why": "Retain the lament for wrong after the balance was established.",
+          "shortened": [
+            "Perdition unto the people who wronged Thee after the balance of justice was established through Thee in the days of Thy Lord, the Most Glorious."
+          ]
         },
         {
           "key": "source:BH02298",
-          "why": "Preserve the warning of consequences for oppressors."
+          "why": "Preserve the warning of consequences for oppressors.",
+          "shortened": [
+            "The oppressors shall soon behold the recompense of their deeds from the presence of a just and mighty Lord."
+          ]
         },
         {
           "key": "source:BH06461",
-          "why": "Keep the severe promise of punishment within its source."
+          "why": "Keep the severe promise of punishment within its source.",
+          "shortened": [
+            "Be not distressed by the tyranny of oppressors. God lies in wait - soon will He cast them all into the flames."
+          ]
         },
         {
           "key": "source:BH06402",
-          "why": "Contrast transient wrongdoing with divine sovereignty."
+          "why": "Contrast transient wrongdoing with divine sovereignty.",
+          "shortened": [
+            "However, in the eyes of those endowed with vision who gaze toward the Most Great Horizon, those souls who turned away from the Truth and who wander in the wilderness of fancy and ignorance were and shall ever be the true prisoners. Soon shall the wrongdoer return to the lowest depths, and sovereignty shall remain with God, the Protector, the Self-Subsisting."
+          ]
         },
         {
           "key": "source:BH06939",
@@ -2524,27 +3281,45 @@
         },
         {
           "key": "source:BH07946",
-          "why": "Read the Pharaoh narrative as an example of recompense."
+          "why": "Read the Pharaoh narrative as an example of recompense.",
+          "shortened": [
+            "Thus were Pharaoh and his hosts drowned as recompense for their deeds. Verily God seized him for his sin and delivered Moses and his companions."
+          ]
         },
         {
           "key": "source:BH00743",
-          "why": "Place that narrative beside justice emerging from oppression."
+          "why": "Place that narrative beside justice emerging from oppression.",
+          "shortened": [
+            "Know thou with clear certainty that these great oppressions prepare the way for supreme justice. The tyranny of Pharaoh prepared the way for the justice of Moses, and the hand of power brought forth from his house that which he strove with all his might to avoid and whose removal he sought."
+          ]
         },
         {
           "key": "source:BH03249",
-          "why": "Retain the paradox of glory disclosed through suffered shame."
+          "why": "Retain the paradox of glory disclosed through suffered shame.",
+          "shortened": [
+            "The shame I was made to bear hath uncovered the glory with which the whole of creation had been invested, and through the cruelties I have endured, the Daystar of Justice hath manifested itself, and shed its splendor upon men."
+          ]
         },
         {
           "key": "source:BH01787",
-          "why": "Read consolation and hoped-for justice in a letter about tribulations."
+          "why": "Read consolation and hoped-for justice in a letter about tribulations.",
+          "shortened": [
+            "And concerning the tribulations that were mentioned, though outwardly they caused grief and sorrow, yet as they were borne for the sake of God, they were and shall ever be light upon light. The world is transient, as is evident in its constant change and transformation, and this very change is a tablet whereon its evanescence hath been inscribed by the Pen of Power. O blessed are they who possess insight! Ere long shall the carpet of tyranny be rolled up as it was before, and the carpet bearing the fruits of the deeds of the sincere ones shall be spread forth."
+          ]
         },
         {
           "key": "source:BH06967",
-          "why": "Recognize those not frightened away by tyranny."
+          "why": "Recognize those not frightened away by tyranny.",
+          "shortened": [
+            "The glory be upon thee and upon those whom tyranny hath not frightened nor prevented from turning unto the Countenance of Justice, through whose light the morn hath breathed and the Sun of Knowledge hath shone forth from the horizon of the providence of God, the Lord of all worlds."
+          ]
         },
         {
           "key": "source:BH01896",
-          "why": "Return responsibility to deeds that obstruct justice."
+          "why": "Return responsibility to deeds that obstruct justice.",
+          "shortened": [
+            "Today is the day of utterance and exposition, and the day of unity and harmony. Had the loved ones held fast to the counsels recorded in the Tablets, they would now behold the world adorned and illumined with the light of justice and fairness. Some deeds act as barriers and veils. We beseech God to assist all to return and repent, and to arise to make good what hath escaped them."
+          ]
         },
         {
           "key": "source:BH02254",
@@ -2552,7 +3327,10 @@
         },
         {
           "key": "source:BH06324",
-          "why": "Extend the charge to all people."
+          "why": "Extend the charge to all people.",
+          "shortened": [
+            "We enjoined upon all men to be just and fair-minded and to fear God, the Lord of the worlds."
+          ]
         },
         {
           "key": "source:BH03195",
@@ -2560,7 +3338,10 @@
         },
         {
           "key": "source:BH02426",
-          "why": "Join pure justice with righteousness."
+          "why": "Join pure justice with righteousness.",
+          "shortened": [
+            "Say: Hold fast unto pure justice and unto that which ye have been commanded in the Book. He hath enjoined upon you righteousness and piety - to this His Most Exalted Pen beareth witness, and behind it the Revealer of verses."
+          ]
         },
         {
           "key": "source:BH03892",
@@ -2568,15 +3349,24 @@
         },
         {
           "key": "source:BH02459",
-          "why": "Keep fair-mindedness within limits of just conduct."
+          "why": "Keep fair-mindedness within limits of just conduct.",
+          "shortened": [
+            "And the glory be upon thee and upon all who are fair-minded and transgress not the decree of justice in God's Cause and are among the God-fearing."
+          ]
         },
         {
           "key": "source:BH03346",
-          "why": "Retain the addressed call to manifest justice among parties."
+          "why": "Retain the addressed call to manifest justice among parties.",
+          "shortened": [
+            "And We make mention of him who is named Muhammad Ja'far, and We counsel him and My loved ones to observe justice and fairness and that whereby the glory of My party shall be made manifest amidst all parties."
+          ]
         },
         {
           "key": "source:BH01877",
-          "why": "Preserve personal counsel to Asad."
+          "why": "Preserve personal counsel to Asad.",
+          "shortened": [
+            "O Asad! We have heard thy mention and have mentioned thee, and We counsel thee to observe justice and fairness and that which thou hast been commanded in the Book of God, the All-Knowing, the All-Wise."
+          ]
         },
         {
           "key": "source:BH09246",
@@ -2588,23 +3378,38 @@
         },
         {
           "key": "source:BH03453",
-          "why": "Repeat the universal social obligation."
+          "why": "Repeat the universal social obligation.",
+          "shortened": [
+            "Be just among men, for thus have ye been commanded in all the Tablets, did ye but know."
+          ]
         },
         {
           "key": "source:BH04028",
-          "why": "Connect the obligation with prescribed action."
+          "why": "Connect the obligation with prescribed action.",
+          "shortened": [
+            "He hath commanded all to observe justice and fairness, and to practice that which is prescribed in His perspicuous Book."
+          ]
         },
         {
           "key": "source:BH06063",
-          "why": "Pair the command with the prohibition of tyranny."
+          "why": "Pair the command with the prohibition of tyranny.",
+          "shortened": [
+            "Verily We have commanded all to observe pure justice and forbidden them from tyranny in numerous Tablets."
+          ]
         },
         {
           "key": "source:BH08221",
-          "why": "Place the command in continuity with earlier counsel."
+          "why": "Place the command in continuity with earlier counsel.",
+          "shortened": [
+            "O ye who are the beloved of the All-Merciful throughout all possibilities! Hearken unto that which God commandeth you in the Book, and follow not the way of the mischief-makers. He commandeth you to observe justice, even as He commanded you aforetime. He, verily, is the Mighty, the All-Knowing."
+          ]
         },
         {
           "key": "source:BH10110",
-          "why": "Retain the concise invitation to hold fast."
+          "why": "Retain the concise invitation to hold fast.",
+          "shortened": [
+            "Take hold of justice and fairness by Our command, for He is the Commander, the Powerful."
+          ]
         },
         {
           "key": "source:BH08703",
@@ -2616,7 +3421,10 @@
         },
         {
           "key": "source:BH00469",
-          "why": "Make pure deeds a means for justice to appear."
+          "why": "Make pure deeds a means for justice to appear.",
+          "shortened": [
+            "God willing, may the standard of justice and the banner of wisdom be witnessed before the faces of each of you, and assuredly through these pure deeds and holy, sanctified characteristics, the lights of justice which have been veiled and concealed by the oppression of the oppressors shall shine forth through the divine name. Then shall ye see the earth transformed into another earth, and the atoms shall cry out with the most exalted call: \"The horizon of justice hath been illumined by the sun of the remembrance of our Lord, the Mighty, the Manifest, the Hearing, the All-Seeing!\""
+          ]
         },
         {
           "key": "source:BH11804",
@@ -2632,11 +3440,17 @@
         },
         {
           "key": "source:BH05217",
-          "why": "Give a named recipient a task of transforming discord."
+          "why": "Give a named recipient a task of transforming discord.",
+          "shortened": [
+            "O Safdar! God willing, thou wilt transform the darkness of oppression and discord in all regions into the light of justice and unity."
+          ]
         },
         {
           "key": "source:BH00589",
-          "why": "Make effort toward equity a continuing responsibility."
+          "why": "Make effort toward equity a continuing responsibility.",
+          "shortened": [
+            "We beseech God, exalted be His glory, to confirm thee in that which shall cause the turning of souls unto Him and the unity and fellowship of hearts. God willing, rely wholly upon Him and resign thyself completely to His will, detached from all else. Strive at all times that perchance the tyranny of the world may be transformed into justice and the oppression of nations into equity."
+          ]
         },
         {
           "key": "source:AB12528",
@@ -2644,23 +3458,38 @@
         },
         {
           "key": "source:BH06112",
-          "why": "Return to the relation between fairness and unity."
+          "why": "Return to the relation between fairness and unity.",
+          "shortened": [
+            "That which is the cause of the unity of the world and its peoples hath flowed forth from the Pen of the Most High in divers Tablets. God grant that all men may be adorned with the ornament of fairness and enabled to observe justice that they may partake of the fruits of what hath been mentioned and bear witness unto that which hath been ordained by the one true God, exalted be His Glory."
+          ]
         },
         {
           "key": "source:BH02299",
-          "why": "Retain the declaration that justice has appeared."
+          "why": "Retain the declaration that justice has appeared.",
+          "shortened": [
+            "For years justice had been deprived and no trace of it was found. Praise be to God, in these days it hath appeared from the horizon of power with standards and banners of victory."
+          ]
         },
         {
           "key": "source:BH02559",
-          "why": "Imagine oppressors themselves transformed."
+          "why": "Imagine oppressors themselves transformed.",
+          "shortened": [
+            "Ere long will God, exalted be His glory, adorn the embodiments of oppression with the raiment of justice and the temples of tyranny with the ornament of equity."
+          ]
         },
         {
           "key": "source:BH01348",
-          "why": "Preserve the promise of an unobscured sun of justice."
+          "why": "Preserve the promise of an unobscured sun of justice.",
+          "shortened": [
+            "Soon will the true Omnipotent One purify the earth and cause the sun of justice to appear to all the world from behind the clouds of oppression."
+          ]
         },
         {
           "key": "source:BH06985",
-          "why": "Extend that light to the world."
+          "why": "Extend that light to the world.",
+          "shortened": [
+            "Soon shall the Sun of Power shine forth from the horizon of God's Will and illumine the whole world with the lights of justice."
+          ]
         },
         {
           "key": "source:BH03753",
@@ -2672,11 +3501,17 @@
         },
         {
           "key": "source:BH08563",
-          "why": "Define the hoped-for result as security and peace for all."
+          "why": "Define the hoped-for result as security and peace for all.",
+          "shortened": [
+            "The purpose of this Revelation is that the clouds of oppression may be lifted away and the Sun of Justice may shine forth from behind the veil, that all the peoples of the world may abide in the cradle of security and peace."
+          ]
         },
         {
           "key": "source:BHU0001",
-          "why": "Make trustworthiness vivid through a traveler’s freedom from harm."
+          "why": "Make trustworthiness vivid through a traveler’s freedom from harm.",
+          "shortened": [
+            "Let Me tell you that you may know: I have come so that in this world full of corruption, where the door of tranquility has been utterly shut to all beings through the oppression of the oppressors and the treachery of the treacherous, I may, by God's might and power, establish such justice, protection, trustworthiness and religion throughout all regions--manifest and resplendent--that if one of those maidens secluded behind veils, whose radiant beauty would count the sun itself as but a mote, and who in all aspects of grace and beauty would have no peer or likeness, were to emerge from behind the veil adorned with the most precious jewels and ornaments beyond the reckoning of the wise, and travel alone, unaccompanied and unhindered, from the East of creation to the West of invention, wandering through every land and journeying through every clime, such would be the trustworthiness, religiousness, justice, and fairness, and such the absence of treachery, baseness, tyranny and inequity, that no hand of aggression or greed would stretch forth toward the hem of her wealth, nor would any lustful or iniquitous eye turn to gaze upon her sanctified beauty, until she returns to her dwelling and homeland with an unsullied heart and a radiant countenance.\" Then He said: \"By God's power, I shall transform the world in this way and shall open this most great door unto the face of all peoples.\" It is in reference to this that the Supreme Pen hath revealed: \"Erelong shall the earth be turned into the Most Glorious Paradise.\""
+          ]
         },
         {
           "key": "source:AB06630",
@@ -2684,7 +3519,10 @@
         },
         {
           "key": "source:AB01657",
-          "why": "Express the disappearance of oppression as a wish."
+          "why": "Express the disappearance of oppression as a wish.",
+          "shortened": [
+            "May no trace of oppression remain and may the beloved of justice and fairness appear resplendent."
+          ]
         },
         {
           "key": "source:BH01577",
@@ -2692,7 +3530,10 @@
         },
         {
           "key": "source:BH00531",
-          "why": "Move into thanksgiving for justice’s light."
+          "why": "Move into thanksgiving for justice’s light.",
+          "shortened": [
+            "All praise, thanksgiving, mention, glorification, tribute and honor befit the Peerless Beloved, Who hath illumined the world of existence with the light of justice."
+          ]
         },
         {
           "key": "source:BH03054",
@@ -2700,7 +3541,11 @@
         },
         {
           "key": "source:BH05022",
-          "why": "Join prayer with the crown and ornament images."
+          "why": "Join prayer with the crown and ornament images.",
+          "shortened": [
+            "We beseech God--glorified be His majesty--to adorn His servants with the ornament of justice and fairness.",
+            "Blessed is he who hath adorned his head with the crown of justice and his temple with the ornament of fairness."
+          ]
         },
         {
           "key": "source:BH02524",
@@ -2712,11 +3557,18 @@
         },
         {
           "key": "source:BH02282",
-          "why": "Pray for justice in the earth and its thrones."
+          "why": "Pray for justice in the earth and its thrones.",
+          "shortened": [
+            "O Lord! Illumine the face of the earth with the lights of the sun of Thy justice and adorn its thrones with the temples of the dawning-places of truth and fairness, that the countenances of those who love Thee and who have believed in Thy signs may smile with joy."
+          ]
         },
         {
           "key": "source:BH04461",
-          "why": "Ask that tyranny’s seat become a throne of equity."
+          "why": "Ask that tyranny’s seat become a throne of equity.",
+          "shortened": [
+            "O Lord! Adorn them with the ornament of justice and equity, and illumine their hearts with the lights of bounty and grace.",
+            "I beseech Thee, O Lord of eternity and Sovereign of nations and Goal of all peoples, by Thy Most Great Name, to transform the seat of tyranny into the throne of Thy justice, and the chair of heedlessness and oppression into the seat of submission and equity."
+          ]
         },
         {
           "key": "source:ABU2921",
@@ -2724,7 +3576,10 @@
         },
         {
           "key": "source:BH02073",
-          "why": "Ask that creation not be deprived of justice."
+          "why": "Ask that creation not be deprived of justice.",
+          "shortened": [
+            "We beseech God, exalted be His glory, not to deprive His creation and to adorn them with the ornament of justice and fairness."
+          ]
         },
         {
           "key": "source:BH02525",

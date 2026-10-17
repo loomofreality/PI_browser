@@ -5,7 +5,7 @@
       "id": "F9C794BCA51BED7F0C2DC8620BC743F9",
       "slug": "easternculture",
       "displayTitle": "Critiquing Eastern societies: dignity, renewal, and mutual learning",
-      "introduction": "A society can be loved deeply and challenged severely. These passages bring that tension into view through appeals for education, justice, freedom, and renewal in Iran and other Eastern societies. The opening call for exchange between East and West provides a horizon of mutual learning, while concern about Western encroachment complicates any simple story of imitation. The collection includes sweeping historical generalizations and harsh language about peoples and religious communities, especially in reported conversations. Such language needs careful attention to speaker, setting, and source status; it should not become a timeless description of a population. Neighboring subjects concerning Western culture, women, and Iran’s future broaden the inquiry. Qur’an 49:13 offers a comparison grounded in mutual knowledge and conduct rather than inherited group prestige [1]. Read together, the selections ask how criticism might support dignity, overcome complacency, and make room for the capacities of a rising generation.",
+      "introduction": "Iran was once a supreme paradise whose scholars taught the world, ‘Abdu’l-Bahá writes to a newspaper editor, and then describes without flinching how that light turned to darkness and the land fell from glory into abasement. Love for a society and severe judgment of it can live in the same sentence. He hopes the East will take from the West its material civilisation while giving back a divine one, and in the same breath urges Eastern peoples to guard their honour and frontiers from Western encroachment. His criticisms are pointed: statesmen who sell their country’s resources to fill their pockets, parties striking an axe at the root of an ancient edifice, religious conflict that poisons social life, and above all the imprisonment of women behind a veil never meant to bar them from learning. Much of this comes from reported conversations and carries the heat of its moment; it describes a situation, not the permanent nature of a people. The Qur’an ties human diversity to coming to know one another and measures honour by conduct rather than lineage [1], a fair test for any cultural criticism. The subject opens onto the meeting of East and West, the critique of Western values, the station of women, and the future of Iran, whose fresh saplings are expected to bear fruit.",
       "arc": "Begin with mutual learning and the protection of dignity, examine criticism in its historical settings, then turn toward education, equal rights, and renewal.",
       "order": [
         {
@@ -18,7 +18,12 @@
         },
         {
           "key": "source:AB00803",
-          "why": "Read the editor’s address through the contrast of past achievement and present loss."
+          "why": "Read the editor’s address through the contrast of past achievement and present loss.",
+          "shortened": [
+            "The people of Iran were at the forefront of knowledge and wisdom, and Iran's scholars were the educators and teachers of humankind. Its glory was enduring and the fame of its greatness was world-embracing. Its morals were the virtues of the human world and its ways were divine perfections.",
+            "But alas, that light turned to darkness, and the people of Iran fell into conflict with each other until they mixed with other peoples.",
+            "No trace of former virtues remained, and it fell from the heights of glory to the depths of abasement."
+          ]
         },
         {
           "key": "source:AB00607",
@@ -38,15 +43,25 @@
         },
         {
           "key": "source:AB02523",
-          "why": "Consider the paradox of rebuilding through destructive rivalry."
+          "why": "Consider the paradox of rebuilding through destructive rivalry.",
+          "shortened": [
+            "O ye who thirst for the truth!",
+            "Iran is in ruins; indeed, all parties have taken an axe in hand and are striking at the root of this ancient edifice, utterly unaware that this axe is destroying the foundation and these blows are uprooting it. Each party imagineth that it is engaged in construction and yet, as is stated in the Qur'an, \"by their own hands they demolish their houses\"."
+          ]
         },
         {
           "key": "source:ABU2136",
-          "why": "Keep the reported judgment on competing political experiments attributed."
+          "why": "Keep the reported judgment on competing political experiments attributed.",
+          "shortened": [
+            "The Persians have tested every system for the salvation of their country. In Government they tried absolutism for many ages, and finally they realized it did not work; then they tried constitutionalism; this also did not yield any result; then they organized various political parties, Democratic, Liberal, Conservative, Union and Progress Republican, etc., these parties also worked against each other and instead of bringing order out of confusion, they made confusion worse confounded, and hastened the ruination of Persia."
+          ]
         },
         {
           "key": "source:ABU1240",
-          "why": "Read the reported critique of officeholders and private interest."
+          "why": "Read the reported critique of officeholders and private interest.",
+          "shortened": [
+            "The thoughts of the statesmen of the East are atrophied. Their hearts are devoid of the love of the progress of the nation. Their ideas are petty and not sublime; selfish and not disinterested, local and not general. They think more of the advancement of their own interests than that of the country. They are not far-seeing patriots but inexperienced tyros. They sell the resources of their own country, if they realize they can fill their own pockets."
+          ]
         },
         {
           "key": "source:ABU2641",
@@ -54,7 +69,10 @@
         },
         {
           "key": "source:ABU1571",
-          "why": "Hear the reported anxiety over Asia’s position."
+          "why": "Hear the reported anxiety over Asia’s position.",
+          "shortened": [
+            "Asia is pressed from all sides and no matter toward what horizon she looks anxiously for a ray of hope so that she may be delivered from this death, she cannot see but threatening clouds."
+          ]
         },
         {
           "key": "source:ABU2743",
@@ -90,11 +108,17 @@
         },
         {
           "key": "source:ABU1517",
-          "why": "Read the reported generalization about Arabs critically and in context."
+          "why": "Read the reported generalization about Arabs critically and in context.",
+          "shortened": [
+            "The Arabs we met today were deprived of civilization, and yet they think they are not in need of civilization or knowledge. They never prefer others to themselves, while in reality they are in absolute need of civilization and education. When the people of Europe look at the Arabs, they say - and they are right - that the Arabs are entirely deprived of every kind of knowledge, but they themselves think they are independent."
+          ]
         },
         {
           "key": "source:ABU2111",
-          "why": "Keep the reported account of nomads attributed, including the source omission."
+          "why": "Keep the reported account of nomads attributed, including the source omission.",
+          "shortened": [
+            "The nomads are utterly destitute of the knowledge of God. They live an animalistic life and all their thoughts are centered upon their cows, goats and crops. When they come together they speak of nothing else save these things. They know nothing else. Nominally they are Moslems, but they are unaware of the ideals of Mohammed..."
+          ]
         },
         {
           "key": "source:ABU0823",
@@ -126,7 +150,11 @@
         },
         {
           "key": "source:ABU1604",
-          "why": "Explore the reported argument for women’s learning and participation."
+          "why": "Explore the reported argument for women’s learning and participation.",
+          "shortened": [
+            "The veil of women prevents education and learning.",
+            "Chastity is necessary and self-control is very important, but not to the degree that it prevents education and learning, for the Law of God establishes virtues - they should not be prevented from acquiring virtues."
+          ]
         },
         {
           "key": "source:ABU0870",
@@ -158,11 +186,17 @@
         },
         {
           "key": "source:AB00130",
-          "why": "Read the account of changing reputation against inherited Western prejudice."
+          "why": "Read the account of changing reputation against inherited Western prejudice.",
+          "shortened": [
+            "The East is regarded in the eyes of the West as consisting of savage peoples, considered an inferior race, abased and detested. Now the power of the Most Great Name has so penetrated the very arteries and sinews of the Western world that in all regions of the earth, multitudes worship the Persians. Despite the manifestation of this mighty power, still the Persians remain heedless and absorbed in negligence."
+          ]
         },
         {
           "key": "source:AB00132",
-          "why": "Consider the relationship between a sacred homeland and its international reputation."
+          "why": "Consider the relationship between a sacred homeland and its international reputation.",
+          "shortened": [
+            "The utmost they can do is this: the Persians are laying the axe and adze unto the root of their own tree. For the Baha'is have so illumined Persia in the eyes of mankind that today a vast multitude from the seven climes reveres that land, inasmuch as the Sun of Truth hath risen from that horizon and it is the sacred homeland of His Holiness Baha'u'llah."
+          ]
         },
         {
           "key": "source:ABU3761",
@@ -170,15 +204,24 @@
         },
         {
           "key": "source:ABU2711",
-          "why": "Read the reported anecdote about losing a spiritual opportunity."
+          "why": "Read the reported anecdote about losing a spiritual opportunity.",
+          "shortened": [
+            "Once Badri Pasha said in an address, 'Gentlemen, Westerners have taken everything from us: the sciences, the arts and the laws they took from the East. Now we fear that they may wrest from us the Cause of Baha'u'llah, as well.'"
+          ]
         },
         {
           "key": "source:AB02805",
-          "why": "Hear the lament over prolonged imprisonment."
+          "why": "Hear the lament over prolonged imprisonment.",
+          "shortened": [
+            "How foolish are the people of the East to have incarcerated for wellnigh fifty years the like of this glorious Personage!"
+          ]
         },
         {
           "key": "source:AB02228",
-          "why": "Keep the concise criticism of heedlessness in its setting."
+          "why": "Keep the concise criticism of heedlessness in its setting.",
+          "shortened": [
+            "Praise be to God, notwithstanding this great gift (of the Cause) the Persians are captives of the neglectful sleep, and in relationship to this Cause they are ashamed and disgraced."
+          ]
         },
         {
           "key": "source:AB03298",
@@ -269,7 +312,7 @@
       "id": "8E30B938D8A9455F8C4FABC5769EBBF4",
       "slug": "elections",
       "displayTitle": "Elections: freedom of conscience and responsibility for the whole",
-      "introduction": "Choosing others to serve also educates the person who chooses. These selections explore freedom, character, familiarity with community life, and the spiritual atmosphere in which judgment is exercised. A concise call for free election opens the guide, followed by counsels against personal ambition and for harmony. Early arrangements, temporary bodies, reported proposals, and later authoritative guidance appear alongside one another; their dates, audiences, and institutional settings are essential to understanding their differences. The later passages connect independent choice with sustained knowledge of others and reject nomination and campaigning within Bahá’í elections. Acts describes a community choosing people of trusted character to meet a practical need [1], offering a comparison about service rather than an identical electoral method. Connected subjects on assemblies, the House of Justice, government, and freedom invite further study of how conscientious individual judgment can contribute to a body capable of serving the whole.",
+      "introduction": "Elect with complete freedom, ‘Abdu’l-Bahá said when asked how members of a Spiritual Assembly should be chosen, and almost everything else about Bahá’í elections unfolds from that short answer. No tactics, no ambition; the person fit for office is the one who protests unworthiness. Shoghi Effendi draws the consequence: nomination and campaigning are discarded, because they endanger the elector’s freedom and breed parties, and in their place each believer is asked to stay in close and continued contact with fellow believers, and so to become an intelligent and responsible elector. The ballot is cast in private, in an atmosphere of prayer, with conscience the only limit, and the result is received as an expression of the will of God. Acts shows an early community choosing seven people of trusted character to meet a practical need, a comparison about service rather than procedure [1]. From here the road leads into the life of spiritual assemblies and the House of Justice, into the meaning of true liberty, and into the relationship between a people and its constitutional government.",
       "arc": "Begin with free choice and service, examine early institutional arrangements in context, then explore the later counsels on informed, prayerful, independent judgment.",
       "order": [
         {
@@ -282,11 +325,19 @@
         },
         {
           "key": "source:ABU2720",
-          "why": "Consider the reported description of someone who does not seek rank."
+          "why": "Consider the reported description of someone who does not seek rank.",
+          "shortened": [
+            "The president must be a man who does not insistently seek the presidency. He should be a person free from all thoughts of name and rank; rather, he should say, 'I am unworthy and incapable of this position and cannot bear this great burden.' Such persons deserve the presidency."
+          ]
         },
         {
           "key": "source:ABU3220",
-          "why": "Read sincerity and harmony alongside the reported early procedure."
+          "why": "Read sincerity and harmony alongside the reported early procedure.",
+          "shortened": [
+            "The election should be carried out with sincerity and good will. People should be elected who when united together will give the most harmony.",
+            "Question: Is the method they use in Persia of appointing a committee of  selection which appoints the members of the House of Spirituality suitable  for America?",
+            "Abdul-Baha: \"Yes, you should do the same.\""
+          ]
         },
         {
           "key": "source:AB05229",
@@ -298,15 +349,25 @@
         },
         {
           "key": "source:ABU3191",
-          "why": "Keep the reported question about occasional participation in its original setting."
+          "why": "Keep the reported question about occasional participation in its original setting.",
+          "shortened": [
+            "I asked if at time of an election many were brought in who seldom attend the meetings, in order to cast their votes, what shall we do?",
+            "He answered, \"The members of the spiritual assembly must be well known and firm Baha'is. Those souls who come once in a while to the meetings are not Baha'is.\""
+          ]
         },
         {
           "key": "source:AB08982",
-          "why": "Explore the connection between general election and confidence in an assembly."
+          "why": "Explore the connection between general election and confidence in an assembly.",
+          "shortened": [
+            "O ye beloved friends of 'Abdu'l-Baha! Should you observe that through a general election the Spiritual Assembly will gain increased influence and no one will have cause for objection or hesitation, and all will acknowledge the decisions of the Spiritual Assembly, in such case a general election would be better and more fitting."
+          ]
         },
         {
           "key": "source:AB01400",
-          "why": "Read the concise expectation of calm proceedings."
+          "why": "Read the concise expectation of calm proceedings.",
+          "shortened": [
+            "Consider how many election meetings are held in the world, how many great assemblies are established - no outcry, no clamor, no conflict and no disputation."
+          ]
         },
         {
           "key": "source:AB09517",
@@ -326,7 +387,10 @@
         },
         {
           "key": "source:AB00670",
-          "why": "Retain the specific decision to continue an existing body."
+          "why": "Retain the specific decision to continue an existing body.",
+          "shortened": [
+            "It was observed that this commotion in Tehran would not subside unless the election was not renewed at this time. Therefore, the continuation of the previous body was cabled."
+          ]
         },
         {
           "key": "source:AB05544",
@@ -334,7 +398,11 @@
         },
         {
           "key": "source:AB01843",
-          "why": "Examine the explicitly temporary assembly and its formation."
+          "why": "Examine the explicitly temporary assembly and its formation.",
+          "shortened": [
+            "Therefore it appears that the Hands of the Cause, upon them be the Most Glorious Glory of God, and several wise and unbiased friends should gather and name eighty-one distinguished believers. Then divide those souls into groups of nine. Each group of nine should gradually gather in a location and elect one person. Then those nine elected ones should join with the Hands of the Cause to establish a Spiritual Assembly, and all the friends should obey and submit to that Assembly and serve it and strive to uphold its authority.",
+            "Thus in that Spiritual Assembly, which is a temporary body until the prescribed assembly is formed, the Hands of the Cause of God are permanent members."
+          ]
         },
         {
           "key": "source:AB09088",
@@ -346,7 +414,10 @@
         },
         {
           "key": "source:AB05929",
-          "why": "Retain the arrangement for a smaller community."
+          "why": "Retain the arrangement for a smaller community.",
+          "shortened": [
+            "[Regarding] the Spiritual Assembly of Ishqabad: You asked about the election of the Spiritual Assembly. In a city where the friends of God are few in number, every twenty, thirty, forty or fifty people, depending on whether there are fewer or more friends, should elect one person."
+          ]
         },
         {
           "key": "source:AB00696",
@@ -358,7 +429,10 @@
         },
         {
           "key": "source:ABU0649",
-          "why": "Compare the reported early procedure and differing periods of office."
+          "why": "Compare the reported early procedure and differing periods of office.",
+          "shortened": [
+            "The friends elect a committee of, say, thirty-eight as a selection committee, and this committee appoints the spiritual assembly. Abdul Baha says that in the West both men and women should associate in the same assembly. Members are elected for periods of two and three years. All retire together at the end of the period of office and a new spiritual assembly is appointed in the same manner. Abdul Baha says that this method of election which is used in Persia should also be used in the West."
+          ]
         },
         {
           "key": "source:ABU3239",
@@ -422,7 +496,10 @@
         },
         {
           "key": "selection:babdd1b683fccb0b66f6a1a1",
-          "why": "Read the supplied rejection of nomination and its reasons."
+          "why": "Read the supplied rejection of nomination and its reasons.",
+          "shortened": [
+            "The practice of nomination being thus contrary to the spirit of Baha'i Administration should be totally discarded by all the friends. For otherwise the freedom of the Baha'i elector in choosing the members of any Baha'i Assembly will be seriously endangered leaving the way open for the domination of personalities. Not only that; but the mere act of nomination leads eventually to the formation of parties--a thing which is totally alien to the spirit of the Cause."
+          ]
         },
         {
           "key": "selection:e526f50bedcb3bc0cc6f9186",
@@ -430,7 +507,10 @@
         },
         {
           "key": "selection:6b3ecaadac73aa8acb76bd2b",
-          "why": "Connect informed choice with continued participation in community life."
+          "why": "Connect informed choice with continued participation in community life.",
+          "shortened": [
+            "To be able to make a wise choice at the election time, it is necessary for him to be in close and continued contact with all of his fellow -- believers, to keep in touch with local activities, be they teaching, administrative or otherwise, and to fully and whole-heartedly participate in the affairs of the local as well as national committees and Assemblies in his country. It is only in this way that a believer can develop a true social consciousness, and acquire a true sense of responsibility in matters affecting the interests of the Cause. Baha'i community life thus makes it a duty for every loyal land faithful believer to become an intelligent, well -- informed and responsible elector, and also gives him the opportunity of raising himself to such a station."
+          ]
         },
         {
           "key": "selection:fdf6106171cf8ed9c0967207",
@@ -454,11 +534,18 @@
         },
         {
           "key": "selection:7ad2af41394bdabe5cd64329",
-          "why": "Read the successive supplied letters about civic participation in their separate historical settings."
+          "why": "Read the successive supplied letters about civic participation in their separate historical settings.",
+          "shortened": [
+            "Concerning the presidential elections, Shoghi Effendi says that we should avoid anything that would identify the Cause as a body with one party or the other. Any such recommendation on the part of the Assemblies, no matter how indirect it may be, will show that the Cause is favouring one party against another. It is for the friends individually and independently to study the issues and find to what party they desire to extend their support. Election should be free and not subjected to such influences. The friends should individually see what the proper course is and follow it.",
+            "(20 Aug. 1932 on behalf of Shoghi Effendi to Willard Hatch) Now, regarding the question of Baha'i participation in the presidential elections in America: the Guardian wishes me to state that he has never instructed any believer to refrain from voting, as he believes that this is essentially a question which involves the application of an administrative principle of the Cause; and as you well know the application of all such administrative principles is primarily the function of the Local and National Assemblies, and not of the Guardian. Shoghi Effendi has already restated the principle laid down by the Master namely that the believers should keep away from political activities. The task of determining what activity is political or not is that of the Assemblies, inasmuch as it constitutes the application of a Baha'i administrative principle, and not its formulation or its interpretation."
+          ]
         },
         {
           "key": "selection:4bfa97d78fe1a5d2abdfd2a2",
-          "why": "Conclude with the relationship between inward freedom and collective spiritual purpose."
+          "why": "Conclude with the relationship between inward freedom and collective spiritual purpose.",
+          "shortened": [
+            "Equally significant to the procedures for election -- to further extend the example -- is the evocation of that rarefied atmosphere of prayer and reflection, that quiet dignity of the process, devoid of nominations and campaigning, in which the individual's freedom to choose is limited only by his own conscience, exercised in private in an attitude that invites communion with the Holy Spirit. In this sphere, the elector regards the outcome as an expression of the will of God and those elected as being primarily responsible to that will, not to the constituency which elected them."
+          ]
         }
       ],
       "questions": [
@@ -528,12 +615,15 @@
       "id": "90B7CCAFB2E14F19A4CF9A3759256B07",
       "slug": "backbiting",
       "displayTitle": "Speaking of others: attention, trust, and the life of a community",
-      "introduction": "A conversation about someone absent can quietly change the atmosphere among those present. This compilation begins with that social effect, then follows the invitation to examine our own faults and look for another person’s good qualities. The tongue appears as an instrument entrusted with remembrance, kindness, and truth; backbiting spends that capacity in ways that diminish trust and discourage service. Several passages address the listener, who can redirect a conversation with courtesy rather than help a damaging story spread. Qur’an 49:12 places suspicion, spying, and backbiting together in a forceful warning that ends with mercy [1]. Neighboring subjects of silence, the golden rule, deeds, and the prohibition of harm widen the inquiry. They invite discernment about truthful, responsible speech as well as restraint: how can we protect dignity, attend to real needs, and cultivate conversation that helps a community flourish?",
+      "introduction": "Speak ill of someone who is not in the room and the first casualty is the mood of those who heard you: ‘Abdu’l-Bahá names backbiting the leading cause of the friends drawing back from one another, a divisiveness that dampens zeal and quietly empties a community. Bahá’u’lláh forbids it in the same breath as murder and adultery, and says it quenches the light of the heart. Yet the remedy He proposes is not a tightened lip so much as a redirected gaze: busy yourself with your own faults, look for the perfections of others, and, like Christ before the dead dog, find the white teeth. The listener carries a share of the responsibility, and can turn a damaging story aside with courtesy. Truth is no defence; a fault truly described in someone’s absence is still backbiting. The Qur’an sets suspicion, spying and backbiting side by side, makes the injury vivid in a bodily image, and ends in mercy [1], which is also where change becomes possible. The road onward passes through silence and fewness of words, the golden rule and regard for one’s neighbour, and the difference between words and deeds.",
       "arc": "Begin with the effect upon a community, turn toward self-examination and appreciative attention, then consider listening, truthful speech, and constructive action.",
       "order": [
         {
           "key": "source:AB00073",
-          "why": "Open with the effect of backbiting on participation and the listener’s responsibility."
+          "why": "Open with the effect of backbiting on participation and the listener’s responsibility.",
+          "shortened": [
+            "O beloved of the Lord! If any soul speak ill of an absent one, the only result will clearly be this: he will dampen the zeal of the friends and tend to make them indifferent. For backbiting is divisive, it is the leading cause among the friends of a disposition to withdraw. If any individual should speak ill of one who is absent, it is incumbent on his hearers, in a spiritual and friendly manner, to stop him, and say in effect: would this detraction serve any useful purpose?"
+          ]
         },
         {
           "key": "source:ABU3199",
@@ -545,7 +635,10 @@
         },
         {
           "key": "source:AB02453",
-          "why": "Consider the spread of a harmful conversational habit."
+          "why": "Consider the spread of a harmful conversational habit.",
+          "shortened": [
+            "Furthermore, some had secretly begun to speak ill of others without cause, and these individuals gradually increased in number and were daily multiplying. It was observed that if this situation were to continue in this manner, this condition would spread to all, and in this manifest Day such a state must not and should not exist."
+          ]
         },
         {
           "key": "source:BH00386",
@@ -557,7 +650,10 @@
         },
         {
           "key": "source:BH00002",
-          "why": "Connect speech about others with the seeker’s inward life."
+          "why": "Connect speech about others with the seeker’s inward life.",
+          "shortened": [
+            "That seeker should also regard backbiting as grievous error, and keep himself aloof from its dominion, inasmuch as backbiting quencheth the light of the heart, and extinguisheth the life of the soul."
+          ]
         },
         {
           "key": "source:BH00001",
@@ -565,11 +661,17 @@
         },
         {
           "key": "source:BH11816",
-          "why": "Retain the concise restatement of the ordinance."
+          "why": "Retain the concise restatement of the ordinance.",
+          "shortened": [
+            "Say: Beware lest ye backbite one another. This is what We have forbidden in the laws and ordinances."
+          ]
         },
         {
           "key": "source:BH03270",
-          "why": "Hear the short direct warning."
+          "why": "Hear the short direct warning.",
+          "shortened": [
+            "Say: Sanctify yourselves from that which kindleth the fire. Beware lest ye backbite one another. Be as brothers seated on thrones, facing one another."
+          ]
         },
         {
           "key": "source:BH00053",
@@ -593,15 +695,24 @@
         },
         {
           "key": "source:BH01592",
-          "why": "Consider the effect of words upon another person’s grief."
+          "why": "Consider the effect of words upon another person’s grief.",
+          "shortened": [
+            "In this year, which is one thousand three hundred and six, a Tablet was revealed in the handwriting of the Wronged One wherein this exalted word shone forth from the horizon of the Most Exalted Pen: \"O people! Make mention of the servants with good, and speak not of them with evil, nor with that which would grieve their souls.\" Even the mention of evil hath been forbidden in this year, for the tongue was created to make mention of God. It would be a pity to defile it with backbiting or to utter words that cause grief and distress to the servants."
+          ]
         },
         {
           "key": "source:BH00418",
-          "why": "Encounter the story of Christ noticing the dead dog’s teeth."
+          "why": "Encounter the story of Christ noticing the dead dog’s teeth.",
+          "shortened": [
+            "One day, Jesus son of Mary - may my spirit be sacrificed for Him - was walking with several of His disciples when they came upon a dead dog. They expressed disgust, saying they detected a foul odor. That Source of compassion and mercy said, \"How white are its teeth!\" Observe now how He concealed the fault - may my spirit be sacrificed for His loving-kindness. This was solely to teach His companions that all should fix their gaze upon the good deeds of others and conceal one another's faults. We bear witness that He is verily the All-Knowing, the Wise Teacher."
+          ]
         },
         {
           "key": "source:AB01933",
-          "why": "Read the fuller counsel on seeking perfections."
+          "why": "Read the fuller counsel on seeking perfections.",
+          "shortened": [
+            "I hope that the divine friends will become completely averse to backbiting and each will praise the other, and know backbiting to be the cause of divine retribution, reaching such a degree that if anyone speaks a word of backbiting they become disgraced among all the friends. For fault-finding is the most detestable characteristic. One must seek to discover the praises of souls, not investigate people's faults. As much as possible, one must overlook faults and discuss people's perfections, not their deficiencies."
+          ]
         },
         {
           "key": "source:ABU0190",
@@ -609,7 +720,10 @@
         },
         {
           "key": "source:ABU0436",
-          "why": "Keep the reported image of a sin-covering eye."
+          "why": "Keep the reported image of a sin-covering eye.",
+          "shortened": [
+            "Admonish the Friends so they will not backbite and criticize, voicing the mistakes and sins of others. Have a sin-covering eye."
+          ]
         },
         {
           "key": "source:ABU1094",
@@ -621,7 +735,10 @@
         },
         {
           "key": "source:ABU1360",
-          "why": "Retain the reported challenge to hypocrisy."
+          "why": "Retain the reported challenge to hypocrisy.",
+          "shortened": [
+            "Heedless souls are always seeking faults in others. What can the hypocrite know of others' faults when he is blind to his own?"
+          ]
         },
         {
           "key": "source:AB00182",
@@ -629,15 +746,24 @@
         },
         {
           "key": "source:AB01326",
-          "why": "Read the range of people included in the instruction."
+          "why": "Read the range of people included in the instruction.",
+          "shortened": [
+            "Never has it been permissible for anyone to speak critically of another, even if they be among the wicked - how much less so for the righteous, even if they be strangers - how much less so for loved ones and the virtuous."
+          ]
         },
         {
           "key": "source:AB06702",
-          "why": "Notice that allusion and suggestion can also injure."
+          "why": "Notice that allusion and suggestion can also injure.",
+          "shortened": [
+            "And as for other matters, my advice to you is not to mention anyone negatively, even by allusion or suggestion."
+          ]
         },
         {
           "key": "source:AB08379",
-          "why": "Consider the responsibility to discourage an entrenched habit."
+          "why": "Consider the responsibility to discourage an entrenched habit.",
+          "shortened": [
+            "You must certainly exercise the utmost vigilance and explicitly forbid everyone from this, for no habit is more harmful than this trait of fault-finding, especially in relation to the Cause of God. Never should anyone express a word or hint that is unworthy about any of the friends of God. How strange that one should be occupied with the faults of others while heedless of his own faults! This is the path of the spiritual ones. Exercise the utmost care in preventing this habit and never allow anyone to utter anything except praise."
+          ]
         },
         {
           "key": "source:ABU3227",
@@ -657,7 +783,10 @@
         },
         {
           "key": "source:ABU1005",
-          "why": "Read the reported conjunction of honesty, investigation, humility, and gentleness."
+          "why": "Read the reported conjunction of honesty, investigation, humility, and gentleness.",
+          "shortened": [
+            "Above all other things we must be honest to our consciences and not dissimulate. We must not speak against each other either publicly or privately. We must not belittle the services rendered by others because they are not so fortunately situated as ourselves. We must be humble. We must not have the spirit of destructive criticism. Before making any statement we must investigate it well, whether it is true or not. We must not make the hearts of other people sad. We must speak with gentleness and brotherliness. We must not backbite."
+          ]
         },
         {
           "key": "source:BH04536",
@@ -665,11 +794,18 @@
         },
         {
           "key": "source:BH01112",
-          "why": "Consider the invitation to turn from suspicion toward assurance."
+          "why": "Consider the invitation to turn from suspicion toward assurance.",
+          "shortened": [
+            "How then could it be that the friends of God would plot against you? Hold fast unto the manifest certitude, turning away from idle fancies and vain imaginings.\""
+          ]
         },
         {
           "key": "source:BH06210",
-          "why": "Read the contrast between certitude and idle fancies."
+          "why": "Read the contrast between certitude and idle fancies.",
+          "shortened": [
+            "Blessed art thou for having cast aside idle fancies and taken hold of that which hath been revealed from God, the Lord of the seen and unseen.",
+            "By God's life! The ocean of certitude hath surged before the faces of men, yet they hasten toward idle fancies."
+          ]
         },
         {
           "key": "source:BH10210",
@@ -677,7 +813,10 @@
         },
         {
           "key": "source:ABU2182",
-          "why": "Keep the reported counsel about silence toward wrongdoers."
+          "why": "Keep the reported counsel about silence toward wrongdoers.",
+          "shortened": [
+            "There are many bad people in the world; have nothing to do with them. Do not gossip about them. It must be so that your very silence should be blame (reproof?) itself."
+          ]
         },
         {
           "key": "source:ABU2107",
@@ -685,7 +824,10 @@
         },
         {
           "key": "source:ABU2032",
-          "why": "Explore the reported link between excessive speech and desire for fame."
+          "why": "Explore the reported link between excessive speech and desire for fame.",
+          "shortened": [
+            "People speak too much because they seek fame, because they wish to be thought better than their brethren. Those who do most good say the least about it."
+          ]
         },
         {
           "key": "source:AB05672",
@@ -693,23 +835,39 @@
         },
         {
           "key": "source:ABU1295",
-          "why": "Read the reported burden of listening patiently to unprofitable talk."
+          "why": "Read the reported burden of listening patiently to unprofitable talk.",
+          "shortened": [
+            "Profitless discussions fatigue and weary a person. People who call on me almost every day carry on a stream of profitless, unspiritual talk and I must listen to them with patience."
+          ]
         },
         {
           "key": "source:ABU1108",
-          "why": "Turn toward purposeful learning and conversation."
+          "why": "Turn toward purposeful learning and conversation.",
+          "shortened": [
+            "\"Now, if you occupy yourselves, for instance, in affirming some reasons for the truth of this holy Cause and how to deliver the Word of God to everyone, these things will support and strengthen you and will prepare you for the good of this world and that which is to come; but if, God forbid, you lose your time in vain chattering and useless talk and running hither and thither, these things, be sure, will never lead you to the way of salvation."
+          ]
         },
         {
           "key": "selection:175a3be0ebfc8f4abf2870cb",
-          "why": "Read the supplied definition and insistence that factual truth alone is insufficient."
+          "why": "Read the supplied definition and insistence that factual truth alone is insufficient.",
+          "shortened": [
+            "As regards backbiting, i.e. discussing the faults of others in their absence, the teachings are very emphatic.",
+            "Even if what is said against another person be true, the mentioning of his faults to others still comes under the category of backbiting, and is forbidden.\""
+          ]
         },
         {
           "key": "selection:9866363ccd2969da0201119d",
-          "why": "Consider the supplied counsel on forgiveness, sincerity, and gentle admonition."
+          "why": "Consider the supplied counsel on forgiveness, sincerity, and gentle admonition.",
+          "shortened": [
+            "You must not see evil as evil and then compromise with your opinion, for to treat in a smooth, kindly way one whom you consider evil or an enemy is hypocrisy, and this is not worthy or allowable. You must consider your enemies as your friends, look upon your evil-wishers as your well-wishers and treat them accordingly. Act in such a way that your heart may be free from hatred. Let not your heart be offended with anyone. If some one commits an error and wrong toward you, you must instantly forgive him. Do not complain of others. Refrain from reprimanding them, and if you wish to give admonition or advice, let it be offered in such a way that it will not burden the bearer."
+          ]
         },
         {
           "key": "selection:14c7ce85814165f7bc111a32",
-          "why": "Close with the supplied image of attending to one’s own furrow and living the teachings."
+          "why": "Close with the supplied image of attending to one’s own furrow and living the teachings.",
+          "shortened": [
+            "We are like ploughmen each of whom has his team to manage and his plough to direct, and in order to keep his furrow straight he must keep his eye on his goal and concentrate on his own task. If he looks to this side and that to see how Tom and Harry are getting on and to criticize their ploughing, then his own furrow will assuredly become crooked. On no subject are the Baha'i teachings more emphatic than on the necessity to abstain from faultfinding and backbiting while being ever eager to discover and root out our own faults and overcome our own failings. If we profess loyalty to Baha'u'llah, to our Beloved Master and our dear Guardian, then we must show our love by obedience to these explicit teachings. Deeds not words are what they demand, and no amount of fervour in the use of expressions of loyalty and adulation will compensate for failure to live in the spirit of the teachings."
+          ]
         }
       ],
       "questions": [
@@ -770,20 +928,29 @@
       "id": "FAA956A41DDB45EEBE390F1FD8D20C55",
       "slug": "deepening",
       "displayTitle": "Study and deepening: from the page into a life",
-      "introduction": "To study deeply is to return to familiar words prepared to discover something unfamiliar. The opening image of an ocean invites sustained attention, while the passages that follow join reading with thought, conversation, prayer, memory, and action. They commend acquaintance with scripture and argument, encourage wider learning, and repeatedly connect understanding with the ability to serve. Some instructions belong to particular circumstances, including small gatherings under threat; others address the enduring habits that make learning fruitful. The Analects offers a concise comparison by placing study and reflection in mutual dependence [1]. Neighboring subjects concerning knowledge, contemplation, and rational arguments help extend that inquiry. Later letters add a demanding insight: further study can expose errors in our earlier understanding, and community life provides a setting in which ideas are tested through practice. Deepening thus becomes a continuing education of both understanding and character.",
+      "introduction": "Immerse yourselves in the ocean of My words, Bahá’u’lláh says, that you may discover the pearls hidden in its depths; and blessed, He adds, is the one who reads and then ponders. Deepening begins in that second verb. It is the return to familiar words with the patience of a pupil who learns by persisting, and it refuses to be satisfied with words when the spiritual meaning is what matters. ‘Abdu’l-Bahá sends inquirers to particular books, the Íqán, the Hidden Words, and urges wider learning in science, philosophy and the scriptures of other faiths, while Shoghi Effendi insists that study anchor itself in the actual words of Bahá’u’lláh and the Master yet leave freedom to explain how they bear on a life. Confucius warned that learning without thought is lost and thought without learning perilous [1], a reciprocity echoed here. Study also corrects: further reading exposes earlier errors, and the community becomes the laboratory in which principles are tested by action. The path continues into the daily reading of the Sacred Writings, the practice of contemplation, the call to acquire knowledge, and the discipline of rational argument.",
       "arc": "Enter through the ocean of words, develop habits of reading and reflection, then connect disciplined understanding with service, revision, and shared life.",
       "order": [
         {
           "key": "source:BH00001",
-          "why": "Open with the ocean and its undiscovered pearls."
+          "why": "Open with the ocean and its undiscovered pearls.",
+          "shortened": [
+            "Immerse yourselves in the ocean of My words, that ye may unravel its secrets, and discover all the pearls of wisdom that lie hid in its depths. Take heed that ye do not vacillate in your determination to embrace the truth of this Cause--a Cause through which the potentialities of the might of God have been revealed, and His sovereignty established."
+          ]
         },
         {
           "key": "source:BH04482",
-          "why": "Read the blessing of reading joined to pondering."
+          "why": "Read the blessing of reading joined to pondering.",
+          "shortened": [
+            "Blessed is he who readeth the verses of God and pondereth upon the pearls of his Lord's knowledge that lie concealed therein, the Mighty, the All-Knowing."
+          ]
         },
         {
           "key": "source:AB11282",
-          "why": "Extend the image through the invitation to a seeker."
+          "why": "Extend the image through the invitation to a seeker.",
+          "shortened": [
+            "O thou who art seeking after Knowledge!  Immerse thyself in the ocean of the explanation of the Beauty of the Merciful, so that thou mayest gather the pearls."
+          ]
         },
         {
           "key": "source:ABU0523",
@@ -799,7 +966,10 @@
         },
         {
           "key": "source:AB00740",
-          "why": "Explore the concrete guidance about books and translations."
+          "why": "Explore the concrete guidance about books and translations.",
+          "shortened": [
+            "Thou didst ask as to acquiring knowledge: read thou the Books and Tablets of God, and the articles written to demonstrate the truth of this Faith. Included among them are the Iqan, which hath been translated into English, the works of Mirza Abu'l-Fadl, and those of some others among the believers. In the days to come a great number of holy Tablets and other sacred writings will be translated, and thou shouldst read these as well."
+          ]
         },
         {
           "key": "source:ABU2171",
@@ -811,15 +981,24 @@
         },
         {
           "key": "source:BH04036",
-          "why": "Read the request to obtain and study sacred books."
+          "why": "Read the request to obtain and study sacred books.",
+          "shortened": [
+            "Sacred Books have been sent down from the heaven of God's Will - request them from the loved ones and study them, that ye may become aware of the greatness of this Cause and arise to exalt the Word of God."
+          ]
         },
         {
           "key": "source:ABU1787",
-          "why": "Keep the reported invitation to study the Hidden Words."
+          "why": "Keep the reported invitation to study the Hidden Words.",
+          "shortened": [
+            "Read the Tablets of Baha'u'llah. Study the hidden words. Then thou wilt become spiritual, illumined, godlike, divine."
+          ]
         },
         {
           "key": "source:ABU0791",
-          "why": "Retain the reported call to familiarity, including the source omission."
+          "why": "Retain the reported call to familiarity, including the source omission.",
+          "shortened": [
+            "They must always read the holy books, so that they may be familiar with their contents..."
+          ]
         },
         {
           "key": "source:ABU3243",
@@ -835,7 +1014,10 @@
         },
         {
           "key": "source:ABU0638",
-          "why": "Read the reported practice of reviewing proofs together."
+          "why": "Read the reported practice of reviewing proofs together.",
+          "shortened": [
+            "When you, who are the believers of God gather together in a meeting, let all your conversation be about the Cause, review the proofs that uphold it, bring forth the evidence that reinforces it and investigate the arguments that demonstrate it."
+          ]
         },
         {
           "key": "source:AB03380",
@@ -843,39 +1025,66 @@
         },
         {
           "key": "source:ABU1175",
-          "why": "Read the reported difference between firsthand learning and hearsay."
+          "why": "Read the reported difference between firsthand learning and hearsay.",
+          "shortened": [
+            "In these gatherings where we have met and spoken together you have all become acquainted with the principles of this dispensation, and with the reality of facts. Unto you it has been given to know these things, but there are many still unenlightened and submerged in superstition. They have heard but little of this great and glorious Cause, and the knowledge they have is for the most part based only on hearsay."
+          ]
         },
         {
           "key": "source:ABU2465",
-          "why": "Connect reported enlightenment with guidance and service."
+          "why": "Connect reported enlightenment with guidance and service.",
+          "shortened": [
+            "We must endeavor to gain heavenly enlightenment, to understand the mysteries of the holy books, to become the cause of guidance to others and to illumine hearts."
+          ]
         },
         {
           "key": "source:ABU2419",
-          "why": "Consider reading aloud and memorizing particular passages."
+          "why": "Consider reading aloud and memorizing particular passages.",
+          "shortened": [
+            "You are to explain to them or read to them the Ishrakat, Tarazat, Tajalleyat, the Words of Paradise, and Tablet of the World. You have to make them learn by heart some of these verses."
+          ]
         },
         {
           "key": "source:AB07821",
-          "why": "Read the etiquette of attentive listening and courteous speech."
+          "why": "Read the etiquette of attentive listening and courteous speech.",
+          "shortened": [
+            "Those souls who are in that assembly before their entrance therein must be adorned with utmost purity, turn their faces toward the Kingdom of ABHa and enter with infinite humility and meekness, and when someone reads Tablets they must be silent and attentive. Should anyone desire to speak, he must do it with the utmost courtesy and with perfect eloquence and fluency by the consent and permission of the people of the assembly."
+          ]
         },
         {
           "key": "source:BH00443",
-          "why": "Keep the small-group directions within their circumstances of danger."
+          "why": "Keep the small-group directions within their circumstances of danger.",
+          "shortened": [
+            "The friends in every land should gather together with wisdom and utterance in meetings and assemblies to read the verses of God, for the verses kindle the fire of love and ignite its flame. However, they must observe wisdom in all conditions, and gatherings of five to nine persons are sufficient. The locations must also be varied, for if they are held in one place, the heedless will become aware and cause commotion."
+          ]
         },
         {
           "key": "source:AB09121",
-          "why": "Consider the purposes of conversation in the gathering."
+          "why": "Consider the purposes of conversation in the gathering.",
+          "shortened": [
+            "They must either teach or open their tongue in propounding arguments, either commune or supplicate and pray to God, either read Tablets or give out advices and exhortations."
+          ]
         },
         {
           "key": "source:ABU2443",
-          "why": "Hear the reported joy of learning the history and teachings."
+          "why": "Hear the reported joy of learning the history and teachings.",
+          "shortened": [
+            "Every conversation, when it goes on too long, brings weariness to a person except conversation about the Divine Cause, conversation about the Exalted One [the Bab], about the Blessed Beauty [Baha'u'llah], about the beginning of this Cause, about the details of this Cause, about the proofs of this Cause, about the glad tidings of this Cause, about the events of the martyrs - how much joy these bring to a person."
+          ]
         },
         {
           "key": "source:BH06233",
-          "why": "Read the call to share the Book with receptive listeners."
+          "why": "Read the call to share the Book with receptive listeners.",
+          "shortened": [
+            "Take thou the Book with a strength from Us, then read it unto those multitudes whom the affairs of the world have not kept back from the Ancient of Days, and whom the hosts of those who were heedless of this mighty Cause have not frightened."
+          ]
         },
         {
           "key": "source:BH09972",
-          "why": "Join remembrance of counsels with their embodiment."
+          "why": "Join remembrance of counsels with their embodiment.",
+          "shortened": [
+            "You should remind all the loved ones of the divine counsels that have been revealed in the Sacred Books in this Most Great Revelation, that all may be adorned with the ornament of His favor and become the cause of remembrance among the peoples of the world."
+          ]
         },
         {
           "key": "source:AB11513",
@@ -883,7 +1092,10 @@
         },
         {
           "key": "source:AB11630",
-          "why": "Read the particular commitment to learning and language study."
+          "why": "Read the particular commitment to learning and language study.",
+          "shortened": [
+            "His honor Mirza Ali-Muhammad returned with a firm covenant and strong testament and faith and pledge that he would in no way deviate from your good pleasure, and would be occupied day and night with learning the lesson of teaching and studying the French language."
+          ]
         },
         {
           "key": "source:AB02124",
@@ -891,7 +1103,10 @@
         },
         {
           "key": "source:AB04940",
-          "why": "Keep the specific counsel to complete scientific studies."
+          "why": "Keep the specific counsel to complete scientific studies.",
+          "shortened": [
+            "Finish thy studies in sciences and then turn thy face unto God, asking from Him help and protection under all conditions."
+          ]
         },
         {
           "key": "source:ABU2741",
@@ -907,11 +1122,17 @@
         },
         {
           "key": "source:ABU1814",
-          "why": "Read earnest study as a path toward living the faith."
+          "why": "Read earnest study as a path toward living the faith.",
+          "shortened": [
+            "I counsel you that you study earnestly the teachings of Baha'u'llah, so that, God helping you, you may in deed and truth become Baha'is."
+          ]
         },
         {
           "key": "source:ABU0579",
-          "why": "Close the linked sequence with action as thanksgiving."
+          "why": "Close the linked sequence with action as thanksgiving.",
+          "shortened": [
+            "Therefore, in thanksgiving for them ye must act in accordance with the teachings of Baha'u'llah. Ye must read the Tablets -- the Hidden Words, Ishraqat, Glad Tidings -- all the holy utterances, and act according to them. This is real thanksgiving, to live in accord with these utterances."
+          ]
         },
         {
           "key": "selection:87bfcbdad5d4e1344fb3f058",
@@ -923,7 +1144,11 @@
         },
         {
           "key": "selection:3d12d0c0d0712fd368d9bdce",
-          "why": "Keep fidelity to the words alongside freedom to explain their significance."
+          "why": "Keep fidelity to the words alongside freedom to explain their significance.",
+          "shortened": [
+            "Surely the ideal way of teaching is to prove our points by constant reference to the actual words of Baha'u'llah and the Master.",
+            "This, however, does not mean that our freedom of expression is limited. We can always find new ways of approach to that truth or explain how they influence our life and condition. The more deep our studies the more we can understand the significance of the teachings. In the Cause we cannot divorce the letter from the spirit of the words. As Baha'u'llah says we should take the outward significance and superimpose upon it the inner. Either without the other is wrong and defective."
+          ]
         },
         {
           "key": "selection:5b0981ddf5617fcbf2f143f9",
@@ -943,7 +1168,11 @@
         },
         {
           "key": "selection:0b9c8ebd7b5d9bffc816f79a",
-          "why": "Read the supplied distinction between study and excessive speculation."
+          "why": "Read the supplied distinction between study and excessive speculation.",
+          "shortened": [
+            "Regarding your question concerning a deep and profound study of the teachings: of course the Baha'is can and should meditate upon the significances of the writings, and endeavour to grasp their meaning to the utmost.... However certain things are, by their very nature, a mystery to us, at least in our present stage of development.",
+            "The Guardian feels that, while there is no harm in speculation on these abstract matters, one should not attach too much importance to them. Science itself is far from having resolved the question of the nature of matter, and we cannot, in this physical world, grasp the spiritual one more than in a very fragmentary and inadequate manner."
+          ]
         },
         {
           "key": "selection:d992ef350522cd127f8b7c05",
@@ -951,7 +1180,10 @@
         },
         {
           "key": "selection:63d6eaa205ac4957823f001a",
-          "why": "Read the large questions posed for regular study."
+          "why": "Read the large questions posed for regular study.",
+          "shortened": [
+            "What is Baha'u'llah's purpose for the human race? For what ends did He submit to the appalling cruelties and indignities heaped upon Him? What does He mean by \"a new race of men\"? What are the profound changes which He will bring about? The answers are to be found in the Sacred Writings of our Faith and in their interpretation by 'Abdu'l-Baha and our beloved Guardian. Let the friends immerse themselves in this ocean, let them organize regular study classes for its constant consideration, and, as reinforcement to their effort, let them remember conscientiously the requirements of daily prayer and reading of the Word of God enjoined upon all Baha'is by Baha'u'llah."
+          ]
         },
         {
           "key": "selection:fd5c581386d756a7915fa2a9",
@@ -967,7 +1199,10 @@
         },
         {
           "key": "selection:2af90559fa340ea2013e1e97",
-          "why": "Conclude with community life as a setting for learning through action."
+          "why": "Conclude with community life as a setting for learning through action.",
+          "shortened": [
+            "The Baha'i community life provides you with an indispensable laboratory, where you can translate into living and constructive action the principles which you imbibe from the Teachings. By becoming a real part of that living organism you can catch the real spirit which runs throughout the Baha'i Teachings. To study the principles, and to try to live according to them, are, therefore, the two essential mediums through which you can ensure the development and progress of your inner spiritual life and of your outer existence as well."
+          ]
         }
       ],
       "questions": [
@@ -1028,12 +1263,15 @@
       "id": "A0576BEEDEFBE1D30BDBD486E037E8EB",
       "slug": "apostles",
       "displayTitle": "The apostles: ordinary lives and an enduring influence",
-      "introduction": "How can people with little public standing leave an influence that outlasts empires? These passages approach the apostles through transformation: familiar lives become vehicles of understanding, courage, fidelity, and service. Accounts of consultation and renewed resolve after loss give that transformation a collective dimension, while repeated references to Mary Magdalene draw attention to the power of encouragement. Acts recognizes Peter and John’s unexpected boldness and their association with Jesus [1]. The selections are devotional and exhortatory, with many reported conversations; their historical claims and generalizations require attention to context. In particular, ABU2485 repeats a skeptical claim about an invented Christ that its surrounding source explicitly rejects. The connected subjects of Christ and storytelling invite readers to consider both the source of spiritual influence and the ways examples transmit it. The central question becomes what faithful response can make possible in an ordinary life.",
+      "introduction": "One seed became a harvest and one drop an ocean: that is how ‘Abdu’l-Bahá sums up what happened to a handful of fishermen and dyers with no name, no helper and no schooling. The apostles matter because they were ordinary, and because something made them otherwise. Peter and John, He says, were simple workmen until the Holy Spirit illumined them; men absorbed in their own advantage became just, self-sacrificing, alive while learned Herod and educated Pilate were dead. The onlookers in Acts, startled by the boldness of two unlettered men, could only conclude that they had been with Jesus [1]. After the crucifixion comes the part easiest to forget: shaken disciples consulting together, a pact to go out in different directions, provision made for families, Mary Magdalene steadying the others, and then homeless years on roads and in strange towns. Fidelity, not visible success, is the measure, and it asks what a faithful response could make possible in a life that looks unremarkable from outside. The way leads back to Christ and the beginnings of Christianity, and into the stories and anecdotes through which such examples travel.",
       "arc": "Begin with overlooked people transformed, follow the movement from grief to common purpose, then consider steadfast service and influence recognized over time.",
       "order": [
         {
           "key": "source:AB01118",
-          "why": "Open with a seed becoming a harvest and a drop an ocean."
+          "why": "Open with a seed becoming a harvest and a drop an ocean.",
+          "shortened": [
+            "Consider how the disciples were few in number and had no helper or supporter, yet how heavenly blessings descended - one seed became a harvest and one drop became an ocean."
+          ]
         },
         {
           "key": "source:AB00348",
@@ -1041,11 +1279,17 @@
         },
         {
           "key": "source:ABU0773",
-          "why": "Consider the reported account of Peter and John’s illumination."
+          "why": "Consider the reported account of Peter and John’s illumination.",
+          "shortened": [
+            "The two great apostles, St Peter and St John the Evangelist, were once simple, humble workmen, toiling for their daily bread. By the Power of the Holy Spirit their souls were illumined, and they received the eternal blessings of the Lord Christ."
+          ]
         },
         {
           "key": "source:ABU0706",
-          "why": "Explore the reported change of character through following Christ."
+          "why": "Explore the reported change of character through following Christ.",
+          "shortened": [
+            "The apostles, who were the disciples of Jesus Christ, were just as other men are; they, like their fellows, were attracted by the things of the world, and each thought only of his own advantage. They knew little of justice, nor were the Divine perfections found in their midst. But when they followed Christ and believed in Him, their ignorance gave place to understanding, cruelty was changed to justice, falsehood to truth, darkness into light. They had been worldly, they became spiritual and divine."
+          ]
         },
         {
           "key": "source:AB01064",
@@ -1053,23 +1297,38 @@
         },
         {
           "key": "source:ABU1544",
-          "why": "Keep the reported mockery of fishermen in its setting."
+          "why": "Keep the reported mockery of fishermen in its setting.",
+          "shortened": [
+            "In the time of Christ, outwardly the acceptance of the disciples had no importance - people mocked them, saying \"What station or worth do fishermen have?\""
+          ]
         },
         {
           "key": "source:ABU2471",
-          "why": "Hear the reported wonder at the station attained."
+          "why": "Hear the reported wonder at the station attained.",
+          "shortened": [
+            "Observe what blessed souls were raised up under the shadow of Christ - poor people and fishermen reached such stations!"
+          ]
         },
         {
           "key": "source:ABU1511",
-          "why": "Consider the reported transformation of weakness into strength."
+          "why": "Consider the reported transformation of weakness into strength.",
+          "shortened": [
+            "Likewise, the disciples were the weakest souls, but through the Breath of the Holy Spirit and the assistance of the Kingdom of God, they became the strongest ones."
+          ]
         },
         {
           "key": "source:ABU1517",
-          "why": "Keep the reported contrast with Herod and Pilate as spiritual rhetoric."
+          "why": "Keep the reported contrast with Herod and Pilate as spiritual rhetoric.",
+          "shortened": [
+            "The disciples of Christ, though they were lacking in culture, were alive. But Herod was a learned man; nevertheless he was dead. Pilate was a highly educated man, but he was as dead."
+          ]
         },
         {
           "key": "source:AB01504",
-          "why": "Read the relation between detachment and an enduring light."
+          "why": "Read the relation between detachment and an enduring light.",
+          "shortened": [
+            "On the other hand, consider the Apostles of Christ! Although outwardly they were fishermen, yet because they renounced this world, opened their eyes to the Divine Universe, forgot entirely their personal selves, dedicated their lives to the Light of the world and became self-sacrificing in the path of His Holiness Christ - may my life be a ransom to Him! - these fishermen today are shining and gleaming with the light of God from the horizon of Eternity."
+          ]
         },
         {
           "key": "source:AB03720",
@@ -1077,7 +1336,10 @@
         },
         {
           "key": "source:ABU3098",
-          "why": "Read the reported image of Christ’s light reflected in other mirrors."
+          "why": "Read the reported image of Christ’s light reflected in other mirrors.",
+          "shortened": [
+            "The focus of the rays of the Sun of Reality was Christ; and from this glorious focus the bounty of God was reflected upon the other mirrors which were the reality of the apostles..."
+          ]
         },
         {
           "key": "source:AB03101",
@@ -1089,7 +1351,10 @@
         },
         {
           "key": "source:ABU0260",
-          "why": "Consider the reported account of Mary Magdalene strengthening disciples."
+          "why": "Consider the reported account of Mary Magdalene strengthening disciples.",
+          "shortened": [
+            "Remember that Peter was a fisherman, but through the bounty of the Kingdom he became the great apostle. Mary Magdalene was a villager of lowly type, yet that selfsame Mary was transformed and became the means through which the confirmation of God descended upon the disciples."
+          ]
         },
         {
           "key": "source:ABU2200",
@@ -1101,19 +1366,32 @@
         },
         {
           "key": "source:ABU0278",
-          "why": "Follow the reported movement from shaken faith to responsibility."
+          "why": "Follow the reported movement from shaken faith to responsibility.",
+          "shortened": [
+            "Although after the crucifixion of His Holiness Christ, the apostles were shaken, yet soon they were awakened to the realization of their responsibilities and made aware of the character of their positions. They became as firm and steadfast as the rock. Then they arose to illuminate the lamp of the lost Cause and straighten the path of the Kingdom. They forgot everything and were filled with Christ."
+          ]
         },
         {
           "key": "source:AB03529",
-          "why": "Read Pentecost through spiritual triumph and confirmation."
+          "why": "Read Pentecost through spiritual triumph and confirmation.",
+          "shortened": [
+            "The spirituality of Christ triumphed and the love of God took hold. On that day they received divine confirmations, and each departed in a different direction to teach the Cause of God and unloosed his tongue to set forth the proofs and testimonies."
+          ]
         },
         {
           "key": "source:ABU0540",
-          "why": "Consider the reported question at the heart of consultation."
+          "why": "Consider the reported question at the heart of consultation.",
+          "shortened": [
+            "The most memorable instance of spiritual consultation was the meeting of the disciples of Jesus Christ upon the mount after His ascension. They said, \"Jesus Christ has been crucified, and we have no longer association and intercourse with Him in His physical body; therefore, we must be loyal and faithful to Him, we must be grateful and appreciate Him, for He has raised us from the dead, He made us wise, He has given us eternal life. What shall we do to be faithful to Him?\""
+          ]
         },
         {
           "key": "source:ABU0436",
-          "why": "Read the reported meeting, covenant, and departure in different directions."
+          "why": "Read the reported meeting, covenant, and departure in different directions.",
+          "shortened": [
+            "After the departure of His Holiness to the Supreme Paradise, the disciples who had followed His teachings met together in consultation upon the summit of a mountain near Jaffa.",
+            "Then they took an oath and covenant among themselves, embraced each other and descended from the mountain, some going to the Eastward, some to the West, North and South."
+          ]
         },
         {
           "key": "source:ABU1166",
@@ -1125,11 +1403,17 @@
         },
         {
           "key": "source:ABU0821",
-          "why": "Consider the reported lasting effects of that gathering."
+          "why": "Consider the reported lasting effects of that gathering.",
+          "shortened": [
+            "All that hath since been effected along the line of diffusing the holy fragrances of Christ, uplifting the Word of God, spreading the Gospel, training souls and guiding the people, hath been wholly from the result of the effects produced by that assemblage of the disciples. Those effects are continual even in the present time."
+          ]
         },
         {
           "key": "source:ABU0230",
-          "why": "Hear the reported fidelity expressed through remembering and striving."
+          "why": "Hear the reported fidelity expressed through remembering and striving.",
+          "shortened": [
+            "They did not forget Christ, did not forget those favors, did not erase those teachings from view, did not forget His counsels and bounties. Night and day they strove that perhaps they might succeed. In truth, they showed the utmost faithfulness to Christ."
+          ]
         },
         {
           "key": "source:ABU0995",
@@ -1145,15 +1429,24 @@
         },
         {
           "key": "source:ABU2146",
-          "why": "Keep the reported accounts of distant journeys attributed."
+          "why": "Keep the reported accounts of distant journeys attributed.",
+          "shortened": [
+            "For example, with what self-sacrifice did the apostles of Christ arise to serve - they truly proved faithful to Christ. One went toward Iran and was completely lost. Another went toward India and he too was lost."
+          ]
         },
         {
           "key": "source:AB05894",
-          "why": "Retain the named examples of suffering in their source wording."
+          "why": "Retain the named examples of suffering in their source wording.",
+          "shortened": [
+            "Remember the hardships of the disciples, and what Mary, the Virgin; Mary, the Magdalene; and Mary, the mother of Jesus, bore in the path of God; especially Barbara, until she was martyred in the love of Christ; and she being attracted unto the Kingdom of God, her spirit soared unto the summits of holiness in the paradise of eternal life, in the place of Meeting."
+          ]
         },
         {
           "key": "source:AB11655",
-          "why": "Consider the effect attributed to teachers enduring difficulty."
+          "why": "Consider the effect attributed to teachers enduring difficulty.",
+          "shortened": [
+            "The state of Christ's apostles is known - when teachers live in utmost difficulty, it has a profound effect on seeking souls."
+          ]
         },
         {
           "key": "source:ABU1865",
@@ -1165,7 +1458,10 @@
         },
         {
           "key": "source:ABU2040",
-          "why": "Consider the reported appeal to later believers through the apostles’ example."
+          "why": "Consider the reported appeal to later believers through the apostles’ example.",
+          "shortened": [
+            "After His Holiness Christ His apostles did not rest for one moment and devoted all their energies to the promotion of the Gospel of Salvation. With what greater enthusiasm and sincerity should we serve at the Threshold of Baha'u'llah. If the Apostles did not manifest that Superhuman steadfastness the Cause of Christ would have been disappeared entirely from the face of the earth in its beginning."
+          ]
         },
         {
           "key": "source:ABU2936",
@@ -1177,7 +1473,10 @@
         },
         {
           "key": "source:ABU2539",
-          "why": "Hear the concise reported summons to arise."
+          "why": "Hear the concise reported summons to arise.",
+          "shortened": [
+            "Arise ye in service to the Cause of God as the Apostles arose after the departure of Christ."
+          ]
         },
         {
           "key": "source:AB02020",
@@ -1185,19 +1484,31 @@
         },
         {
           "key": "source:ABU2476",
-          "why": "Read the reported image of a table attended by eleven."
+          "why": "Read the reported image of a table attended by eleven.",
+          "shortened": [
+            "Thus Christ spread the table of his spiritual food and called a great number of people in order to take their portions. Out of these only eleven came and attended the table."
+          ]
         },
         {
           "key": "source:ABU1377",
-          "why": "Retain the reported account of eleven disciples’ influence."
+          "why": "Retain the reported account of eleven disciples’ influence.",
+          "shortened": [
+            "The results of these persecutions were eleven disciples who were truly blessed souls. They became luminous and heavenly; they became the cause of the enlightenment of the people of the world."
+          ]
         },
         {
           "key": "source:ABU2039",
-          "why": "Consider the reported contrast between shaken beginnings and results."
+          "why": "Consider the reported contrast between shaken beginnings and results.",
+          "shortened": [
+            "After the departure of His Holiness Christ there were only eleven disciples whose faith was shaken and outwardly they were of the low class, deprived of any social distinctions! Now behold the results of their work."
+          ]
         },
         {
           "key": "source:AB03937",
-          "why": "Read the particular comparison with Budapest without turning it into a numerical measure of worth."
+          "why": "Read the particular comparison with Budapest without turning it into a numerical measure of worth.",
+          "shortened": [
+            "In the days of Christ, eleven souls were attracted through the power of the Holy Spirit, but in nine days blessed souls in Budapest entered the Abha Kingdom."
+          ]
         },
         {
           "key": "source:ABU1769",
@@ -1221,15 +1532,24 @@
         },
         {
           "key": "source:AB00764",
-          "why": "Read the delayed recognition of their station."
+          "why": "Read the delayed recognition of their station.",
+          "shortened": [
+            "Consider ye! In the day of His Highness Christ, the grandeur and majesty of their Holiness the Apostles, was not known. After three-hundred years the loftiness of the station and the exaltation of their attainment became manifest."
+          ]
         },
         {
           "key": "source:AB12130",
-          "why": "Return to the image of stars still shining."
+          "why": "Return to the image of stars still shining.",
+          "shortened": [
+            "How few were Christ's apostles, and they were in utmost abasement and lowliness in Jerusalem. Then observe what glory and greatness they attained, such that to this day they shine like stars from the horizon of sanctity."
+          ]
         },
         {
           "key": "source:AB09524",
-          "why": "Close with influence crossing East and West through the Holy Spirit."
+          "why": "Close with influence crossing East and West through the Holy Spirit.",
+          "shortened": [
+            "Thou observest how the apostles and followers of Christ ultimately achieved victory and triumph, illumining East and West through the Holy Spirit."
+          ]
         }
       ],
       "questions": [
@@ -1272,7 +1592,7 @@
       "id": "7F59847655ADEAE2D09CC9CC9F5F4DE1",
       "slug": "constantinople",
       "displayTitle": "The journey to Constantinople: exile, service, and unexpected openings",
-      "introduction": "A single rose blooming after sunset could gather an exhausted community in delight. That reported memory opens a compilation about banishment, reminding us that spiritual history is also lived through meals, travel, practical responsibilities, grief, and moments of beauty. The passages describe departure from Baghdad, the journey toward the sea, the stay in Constantinople, and further exile. They bring several voices and forms together: symbolic language, historical exposition, recollection, and an appeal against injustice. Their details should be read within each source rather than merged into a seamless eyewitness account. Neighboring subjects connect this journey with Bahá’u’lláh’s declaration and the wider course of His banishments. Paul’s letter from confinement offers a comparison about a message spreading under conditions intended to constrain it [1]. These readings invite attention to how people respond to coercion with dignity and service while retaining a clear sense of the suffering imposed.",
+      "introduction": "In the garden of the house in Constantinople a single rose opened after sunset, out of season, and the exiles who had never seen a rose at that time of year gathered round it in delight. ‘Abdu’l-Bahá’s memory of that evening is a reminder that a banishment is lived through meals and saddles, tents pitched at nightfall and companions too tired to move, as much as through decrees. The Sháh of Persia, alarmed that pilgrims returning from Baghdad were becoming Bahá’ís, pressed the Ottoman court until an order came, phrased with utmost respect, that Bahá’u’lláh should grace Istanbul with His presence. He left Baghdad with a majesty that astonished the officials who came to bid Him farewell, crossed to the sea, and lived four months in the capital, seeking no one’s favour, before a further exile. Bahá’u’lláh protested the injustice plainly, and the suffering imposed is never softened. Paul, writing from confinement that his chains had served to advance the Gospel, offers a comparison for the way exile kept opening new ground to the message [1], without making the persecution anything but wrong. The path leads to the Declaration in the garden of Riḍván, the person of Bahá’u’lláh, and the whole course of His banishments.",
       "arc": "Begin with a small moment of joy, follow departure and the work of the journey, then explore dignity, protest, and the wider effects of exile.",
       "order": [
         {
@@ -1289,19 +1609,31 @@
         },
         {
           "key": "source:BH08012",
-          "why": "Hear the direct protest concerning successive exiles."
+          "why": "Hear the direct protest concerning successive exiles.",
+          "shortened": [
+            "In the name of God and humanity we protest to you against the plight which we have been subjected to from the Turkish government.  Six years ago we were invited at the Ottoman suggestion and we have accepted.  Later, without having committed any fault and at the request of Persia we were sent from Baghdad to Constantinople.  After a stay of four months, we were exiled to Adrianople."
+          ]
         },
         {
           "key": "source:ABU0239",
-          "why": "Read the fuller reported account of negotiations and fears."
+          "why": "Read the fuller reported account of negotiations and fears.",
+          "shortened": [
+            "Communications passed between Tehran and the Iranian Foreign Ministry and the Ottoman Ministry, until finally Nasiri'd-Din Shah himself wrote to the Ottoman Sultan that his realm was in danger, and Baghdad being adjacent to Iran, his request was that they seize the Baha'is and hand them over to the governor of Kermanshah, 'Imadu'd-Dawlih, who would come with an army and take custody of them at the frontier. The Ottoman government did not accept this request. Nasiri'd-Din Shah's second request was that at least they be removed far from the Iranian border, that they not be near the Iranian frontier, as two hundred thousand pilgrims go to Baghdad yearly and many of them become Baha'is, therefore his request was that they move the Blessed Beauty from Baghdad. Thus came the Ottoman decree, with utmost respect, that circumstances required that He grace Istanbul with His presence. This is the basis of the migration of the Blessed Beauty from Baghdad to Istanbul."
+          ]
         },
         {
           "key": "source:ABU1343",
-          "why": "Keep the reported compressed account of expulsion in its source form."
+          "why": "Keep the reported compressed account of expulsion in its source form.",
+          "shortened": [
+            "The government of Persia said: \"As long as Baha'u'llah is in Persia the country will not be at peace. When Baha'u'llah is exiled from Persia the country will then find peace. He shall no longer be connected with this country; all communications with him shall be suspended.\" So the Shah of Persia endeavored until he succeeded in expelling the Blessed Perfection to Constantinople to Roumelia."
+          ]
         },
         {
           "key": "source:ABU0997",
-          "why": "Consider the reported hostility of the Persian ambassador."
+          "why": "Consider the reported hostility of the Persian ambassador.",
+          "shortened": [
+            "When we were exiled to Constantinople from Baghdad, the Persian Ambassador at the former city did his best to bring about our total destruction."
+          ]
         },
         {
           "key": "source:ABU0642",
@@ -1309,11 +1641,17 @@
         },
         {
           "key": "source:ABU0962",
-          "why": "Hear the reported grief when the decree became known."
+          "why": "Hear the reported grief when the decree became known.",
+          "shortened": [
+            "Having received the Firman of exile from Bagdad to Constantinople - when the friends heard this dire news their hearts were torn to pieces. Through the intensity of anguish they were weeping uncontrollably."
+          ]
         },
         {
           "key": "source:ABU0604",
-          "why": "Read the reported gathering in the garden before departure."
+          "why": "Read the reported gathering in the garden before departure.",
+          "shortened": [
+            "When the Blessed Perfection moved into the garden of Hajib Pasha, outside of Bagdad, for twelve days there was a general feast. A great tent was raised in the center of the garden, under which Baha'u'llah received all the callers, the ministers, the theologians, the learned and the prominent leaders of the Community."
+          ]
         },
         {
           "key": "source:ABU0351",
@@ -1329,7 +1667,11 @@
         },
         {
           "key": "source:AB00002",
-          "why": "Retain the paired brief historical notices."
+          "why": "Retain the paired brief historical notices.",
+          "shortened": [
+            "When Baha'u'llah and His retinue left Baghdad for Constantinople, Muhammad-'Ali was in His company, and continued on with Him to the Land of Mystery, Adrianople.",
+            "Baha'u'llah and His retinue then left Baghdad, the \"Abode of Peace,\" for Constantinople, the \"City of Islam.\""
+          ]
         },
         {
           "key": "source:BH01864",
@@ -1337,11 +1679,17 @@
         },
         {
           "key": "source:BH03399",
-          "why": "Read the concise statement of westward movement."
+          "why": "Read the concise statement of westward movement.",
+          "shortened": [
+            "Say: The Spirit at that time departeth from Iraq and turneth toward a western direction."
+          ]
         },
         {
           "key": "source:BH02319",
-          "why": "Consider the Nightingale seeking another branch."
+          "why": "Consider the Nightingale seeking another branch.",
+          "shortened": [
+            "Say: The Bird of Immortality hath taken flight in truth, and thereby have the hearts of them that are near been consumed. Say: The Nightingale of the Spirit hath flown from the branch of Iraq and seeketh another branch, as decreed by the mysteries of destiny in the preserved tablets of holiness."
+          ]
         },
         {
           "key": "source:BH03243",
@@ -1349,43 +1697,75 @@
         },
         {
           "key": "source:BH09188",
-          "why": "Hear the personal remembrance amid departure."
+          "why": "Hear the personal remembrance amid departure.",
+          "shortened": [
+            "Thus doth the Dove of Separation remember thee at the time when It taketh flight from Iraq, and this is indeed a grievous sorrow."
+          ]
         },
         {
           "key": "source:BH05552",
-          "why": "Retain the Tablet’s statement of separation and oppression."
+          "why": "Retain the Tablet’s statement of separation and oppression.",
+          "shortened": [
+            "This is a Tablet wherein are mentioned verses of separation from this poor and wretched servant at the time when He departeth from the region of Iraq by reason of that which the hands of the oppressors have wrought."
+          ]
         },
         {
           "key": "source:BH03724",
-          "why": "Read the signs of separation within the Book’s imagery."
+          "why": "Read the signs of separation within the Book’s imagery.",
+          "shortened": [
+            "This is a Book which speaks with truth, and in it is that which guides people to a wondrous spring, and in it are detailed the gems of knowledge from the presence of One mighty and powerful, and in it are mentioned the signs of separation on the day when the Dove of the Cause shall wing its flight from the branch of Iraq to the holy and luminous Ridvan."
+          ]
         },
         {
           "key": "source:BH03458",
-          "why": "Hear the call to listen at the moment of departure."
+          "why": "Hear the call to listen at the moment of departure.",
+          "shortened": [
+            "O people of the Bayan! Hear My call at the time of departure from the shore of Iraq, and be not of the heedless ones."
+          ]
         },
         {
           "key": "source:BH04443",
-          "why": "Consider the exhortation carried by the departing Dove."
+          "why": "Consider the exhortation carried by the departing Dove.",
+          "shortened": [
+            "Thus doth the Dove admonish you and remind you with verses of mighty glory. Say: It counseleth the loved ones at a time when it taketh flight from the branch of Iraq, that perchance the people may arise from the couches of heedlessness."
+          ]
         },
         {
           "key": "source:BH06947",
-          "why": "Read the flight in relation to divine wisdom."
+          "why": "Read the flight in relation to divine wisdom.",
+          "shortened": [
+            "Then know thou that this Bird hath taken flight from the branches of Iraq, and this was ordained by the All-Wise, the All-Knowing."
+          ]
         },
         {
           "key": "source:ABU2006",
-          "why": "Turn toward the reported division of practical duties."
+          "why": "Turn toward the reported division of practical duties.",
+          "shortened": [
+            "When we left Bagdad for Constantinople as there were a large number of us we had to divide our duties."
+          ]
         },
         {
           "key": "source:ABU0077",
-          "why": "Read the named responsibilities within the travelling party."
+          "why": "Read the named responsibilities within the travelling party.",
+          "shortened": [
+            "When the Blessed Perfection was exiled from Bagdad, the large number of the believers who followed him, divided the work of the party amongst themselves. For example: Darveesh Sedk Ali and Haji Ebrahim acted as equerries; Astad Mohamad Ali looked after the baggages; Mirza Mohamad Goli supervised the pitching up of the tents and I was - if we may use the Military expression in this connection - a commissary officer and I had to supply the party including the horses etc with food and daily necessities."
+          ]
         },
         {
           "key": "source:ABU0498",
-          "why": "Consider the reported exhaustion and provision of necessities."
+          "why": "Consider the reported exhaustion and provision of necessities.",
+          "shortened": [
+            "When the Blessed Perfection (Baha'Ullah) was exiled from Bagdad the large number of believers who went with him divided the work of the party among them.",
+            "Often, by day or by night we covered a distance of from twenty-five to thirty miles. No sooner would we reach a caravanserai than from sheer fatigue everyone would lie down and go to sleep: utter exhaustion having overtaken everybody they would be unable even to move."
+          ]
         },
         {
           "key": "source:ABU0871",
-          "why": "Keep the reported stages, scarcity, and transport details attributed."
+          "why": "Keep the reported stages, scarcity, and transport details attributed.",
+          "shortened": [
+            "There were 60 stages from Bagdad to Samson and the trip was made under the most difficult circumstances. It was a time of famine and scarcity of food. We had beside more than 70 people in the party and nearly 30 horses and other animals.",
+            "The Blessed Perfection travelled in \"Kajavé\" but we had a horse for him and sometimes he would ride on it. From Bagdad to the first stage he was on horseback and while in Acca, we had a wonderful white donkey which belonged to him. The name of the donkey was \"Barg\" - lightening."
+          ]
         },
         {
           "key": "source:ABU0449",
@@ -1393,7 +1773,10 @@
         },
         {
           "key": "source:ABU0844",
-          "why": "Retain the selected plan to prepare camp ahead of the party."
+          "why": "Retain the selected plan to prepare camp ahead of the party.",
+          "shortened": [
+            "When we were travelling from Bagdad toward Constantinople, one day, we thought [to] go ahead of the family, pitch the tent and prepare everything till Baha'u'llah and the rest of the party arrive."
+          ]
         },
         {
           "key": "source:ABU2099",
@@ -1401,11 +1784,17 @@
         },
         {
           "key": "source:ABU2313",
-          "why": "Read the brief remembrance of companions’ hardships."
+          "why": "Read the brief remembrance of companions’ hardships.",
+          "shortened": [
+            "From Baghdad to Adrianople, some of the friends like Jinab Aqa Mirza Mahmud and Aqa Mirza Ja'far endured great hardships."
+          ]
         },
         {
           "key": "source:ABU1217",
-          "why": "Preserve the particular recollection of visits before departure."
+          "why": "Preserve the particular recollection of visits before departure.",
+          "shortened": [
+            "He was still in Bagdad when we were exiled to Constantinople and used to call on me almost every week antecedent to our departure."
+          ]
         },
         {
           "key": "source:BH01875",
@@ -1417,7 +1806,10 @@
         },
         {
           "key": "source:BH05437",
-          "why": "Read the sea’s oath with its following statement restored from the same source."
+          "why": "Read the sea’s oath with its following statement restored from the same source.",
+          "shortened": [
+            "We proceeded until We reached the sea. We sat and heard from its murmuring: \"By God! The Beloved of the world has come, and He has appeared through Whose appearance the eyes of the Messengers were consoled.\""
+          ]
         },
         {
           "key": "source:BH03940",
@@ -1425,15 +1817,26 @@
         },
         {
           "key": "source:BH00248",
-          "why": "Read the extended account of the voyage, stay, and further departure."
+          "why": "Read the extended account of the voyage, stay, and further departure.",
+          "shortened": [
+            "We preserved it through a power from Us, and protected those who embarked upon it until they reached its shore in the city whose name is renowned among you, if ye be of the knowing ones. And We remained therein for four successive months, as inscribed in preserved and mighty Tablets. Throughout those months none of those who dwelt therein, whether high or low, sought Our company.",
+            "We went not unto anyone, nor turned toward any soul, thus manifesting God's sovereignty and His command, and proclaiming God's power and His dominion, until the appointed time of tarrying was fulfilled. Then We departed therefrom and traversed the way until We entered this remote prison."
+          ]
         },
         {
           "key": "source:BH01781",
-          "why": "Keep the further account of arrival and four months’ residence."
+          "why": "Keep the further account of arrival and four months’ residence.",
+          "shortened": [
+            "After traversing all these aforementioned stages, we reached the sea.",
+            "From there we took a carriage to the residence assigned by the government. We remained four months in that unillumined city and left there the fruit of the divine Tree and the leaf of the heavenly Lote-Tree."
+          ]
         },
         {
           "key": "source:ABU1466",
-          "why": "Hear the reported question addressed to the ambassador."
+          "why": "Hear the reported question addressed to the ambassador.",
+          "shortened": [
+            "When the Blessed Perfection was in Constantinople He sent a message to Mirza Hossein Khan, the Persian Ambassador, through the then well-known Mirza Safa to this effect: What dost thou expect to do with me?"
+          ]
         },
         {
           "key": "source:BH03257",
@@ -1441,7 +1844,10 @@
         },
         {
           "key": "source:ABU0740",
-          "why": "Read the reported failure of removal to extinguish the Cause."
+          "why": "Read the reported failure of removal to extinguish the Cause.",
+          "shortened": [
+            "As it took one month to go from Tehran to Baghdad, it was thought by the people that all trace of the cause would be lost; on the contrary, the Cause of God became more powerful, his words more widely spread, his proclamation more generally heard and the power of his Cause the stronger; consequently the government decided to send the Blessed Perfection from Baghdad to Constantinople. As Constantinople was a large city and as there were many Persians in the city who traveled freely, this plan also proved fruitless."
+          ]
         },
         {
           "key": "source:ABU0513",
@@ -1449,7 +1855,10 @@
         },
         {
           "key": "source:AB00454",
-          "why": "Consider the widening proclamation through successive banishments."
+          "why": "Consider the widening proclamation through successive banishments.",
+          "shortened": [
+            "And when they strove to banish and expel the manifest light from Iran, the mighty banner was raised in Iraq. And when they engaged in hypocrisy in Iraq, it caused the Ancient Beauty to be exiled to the renowned city, and the mighty drum and the greatest bell were struck in Istanbul."
+          ]
         },
         {
           "key": "source:ABU0947",
@@ -1457,7 +1866,10 @@
         },
         {
           "key": "source:ABU0856",
-          "why": "Explore the reported reflection on unexpected openings."
+          "why": "Explore the reported reflection on unexpected openings.",
+          "shortened": [
+            "But they thought that if they exiled the Blessed Beauty, this Lamp would be extinguished and the holy fragrances would cease. Yet had this exile not occurred, how would the divine call have arisen in Istanbul? Where would the divine call have become world-embracing in the Holy Land? How would the divine fame have reached East and West? All of these were due to the blessing of that exile."
+          ]
         },
         {
           "key": "source:BH04088",

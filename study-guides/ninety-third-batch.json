@@ -5,7 +5,7 @@
       "id": "6B2E2534F05E41069B3E1A18F5B552D4",
       "slug": "godsoneness",
       "displayTitle": "Divine oneness: beyond number, likeness, and possession",
-      "introduction": "What can it mean to call God one when even the number one is an inadequate comparison? These readings move between a direct confession of faith, the language of love and prayer, and searching distinctions about essence, attributes, and manifestation. A painting points toward its maker without becoming the painter; many mirrors receive a light whose source remains beyond them. Such images invite attention to both nearness and transcendence. The terms ahadiyyih and wahidiyyih appear within differing theological and philosophical explanations, whose distinctions should be examined rather than assumed away. Neighboring subjects on divine names, archetypes, the cloud, and idolatry deepen the question of what thought can disclose and what it may mistake for God. The Shema in Deuteronomy brings another emphasis: oneness remembered through wholehearted love and the rhythms of daily life. The compilation finally asks how confession might shape humility, worship, and unity among people.",
+      "introduction": "To say that God is one is not to count. Bahá’u’lláh prays to the One who is single in no numerical sense, and the Báb strips the Divine Essence of every likeness, partner and similitude, so that oneness means freedom from comparison rather than the first step in a series. Yet the same Writings overflow with intimacy: lovers perplexed by a mystery they cannot fathom, atoms and hairs bearing witness, a lamp and a leaf confessing what no mind can hold. ‘Abdu’l-Bahá offers the sun that shines in many mirrors without ever descending into them, and Bahá’u’lláh the painter whose work points to him without becoming him; both images guard nearness and transcendence at once. The terms ahadiyyih and wahidiyyih open onto the names and attributes of God, the subtle cloud that is seen and unseen, and the eternal archetypes, while the question of idolatry asks what thought may mistake for its Maker. The Shema’s call to love the one God wholeheartedly and to speak of him at home and on the road [1] turns confession into a rhythm of living, and that is finally what oneness asks: that a life, and a gathering of lives, become its sign.",
       "arc": "Begin with the limits of number and the distinction between maker and sign; explore essence, names and manifestation; pass through devotional testimony and the witness of creation; return to human unity before comparing the supplied philosophical voices.",
       "order": [
         {
@@ -14,11 +14,18 @@
         },
         {
           "key": "source:BH01850",
-          "why": "Give the question a tangible image through painter and painting."
+          "why": "Give the question a tangible image through painter and painting.",
+          "shortened": [
+            "Consider the relation between the craftsman and his handiwork, between the painter and his painting.",
+            "Can it ever be maintained that the work their hands have produced is the same as themselves? By Him Who is the Lord of the Throne above and of earth below! They can be regarded in no other light except as evidences that proclaim the excellence and perfection of their author."
+          ]
         },
         {
           "key": "source:ABU0129",
-          "why": "Explore the many mirrors and one sun without collapsing their distinction."
+          "why": "Explore the many mirrors and one sun without collapsing their distinction.",
+          "shortened": [
+            "Although it transcends our realization, its lights, bestowals, traces and virtues have become manifest in the realities of the Prophets, even as the sun becomes resplendent in various mirrors. These holy realities are as reflectors, and the reality of Divinity is as the sun, which, although it is reflected from the mirrors, and its virtues and perfections become resplendent therein, does not stoop from its own station of majesty and glory and seek abode in the mirrors; it remains in its heaven of sanctity. At most it is this: that its lights become manifest and evident in its mirrors or manifestations. Therefore, its bounty proceeding from them is one bounty, but the recipients of that bounty are many. This is the unity of God; this is oneness -- unity of Divinity, holy above ascent or descent, embodiment, comprehension or idealization -- divine unity."
+          ]
         },
         {
           "key": "source:ABU1762",
@@ -26,11 +33,17 @@
         },
         {
           "key": "source:BH02693",
-          "why": "Let confessed powerlessness become a beginning of understanding."
+          "why": "Let confessed powerlessness become a beginning of understanding.",
+          "shortened": [
+            "From eternity Thou hast, in Thy transcendent oneness, been immeasurably exalted above Thy servants' conception of Thy unity, and wilt to eternity remain, in Thine unapproachable singleness, far above the praise of Thy creatures. No words that any one beside Thee may utter can ever beseem Thee, and no man's description except Thine own description can befit Thy nature. All who adore Thy unity have been sore perplexed to fathom the mystery of Thy oneness, and all have confessed their powerlessness to attain unto the comprehension of Thine essence and to scale the pinnacle of Thy knowledge."
+          ]
         },
         {
           "key": "source:BH01664",
-          "why": "State the insistence on freedom from likeness."
+          "why": "State the insistence on freedom from likeness.",
+          "shortened": [
+            "True belief in the unity of God [tawhid-i-haqiqi] consists in acknowledging and confessing the unity of God, exalted be His glory, sanctifying His Essence from all likeness and purifying His Being from all similitudes. This has ever been and shall ever be the case."
+          ]
         },
         {
           "key": "source:BH08441",
@@ -38,11 +51,18 @@
         },
         {
           "key": "source:AB02025",
-          "why": "Hear the simple repeated denial of peers and equals."
+          "why": "Hear the simple repeated denial of peers and equals.",
+          "shortened": [
+            "Thou art One, no partner hast Thou; Thou art One, no peer hast Thou; Thou art One, no equal hast Thou; Thou art One, no likeness hast Thou! Thou art unique in Thy oneness and sanctified in Thy singleness."
+          ]
         },
         {
           "key": "source:BB00413",
-          "why": "Read the compact declaration of oneness and incomparability."
+          "why": "Read the compact declaration of oneness and incomparability.",
+          "shortened": [
+            "Say:",
+            "He is God, the One! God, the Eternal! He begetteth not, nor was begotten, and there is none comparable unto Him."
+          ]
         },
         {
           "key": "source:AB02343",
@@ -54,23 +74,41 @@
         },
         {
           "key": "source:BB00017",
-          "why": "Read the Bab’s account of names, essence and the relation to creation."
+          "why": "Read the Bab’s account of names, essence and the relation to creation.",
+          "shortened": [
+            "His Essence hath no attribute or name besides His Essence. He is the Truth, there is no God but Him. Thee do we worship and Thine aid we seek.",
+            "All else besides Him are brought into being through His creation and origination. There is neither connection nor separation between Him and contingent beings."
+          ]
         },
         {
           "key": "source:BB00021",
-          "why": "Consider knowledge that does not depend on the prior existence of its objects."
+          "why": "Consider knowledge that does not depend on the prior existence of its objects.",
+          "shortened": [
+            "He knoweth all things as they are, whether universals or particulars, substances or accidents, after their creation just as on the day He had not created them. He knoweth them because knowledge is life, and just as God, glory be to Him, is Ever-Living in the eternity of eternities, and needeth not the existence of any living thing to prove His life, He was All-Knowing of all things without there being any object of knowledge."
+          ]
         },
         {
           "key": "source:AB00006",
-          "why": "Enter the extended explanation through the dot, numbers, and the Hidden Treasure."
+          "why": "Enter the extended explanation through the dot, numbers, and the Hidden Treasure.",
+          "shortened": [
+            "For example, consider the dot (or point); how letters and words are folded up and hidden within the essence (huwiyyat , ipseity) and reality of a dot with perfect effacement and annihilation so that no trace can be discerned of the existence of these letters and words nor is there any differentiation between them.  Rather they are completely obliterated and utterly annihilated and have no existence except in the essence (dhat) of the point.  In the same way the Names and Attributes of God and the Essential Dispositions [shu'unat dhatiyya]  are completely and utterly annihilated in the station of Primary Oneness so that not a whiff can be inhaled from them of substantial or intellectual existence.   This original point is the \"Hidden Treasure\" of these letters and words and they were incorporated and immersed within it and from it they appeared.",
+            "And similarly consider the Unitary Concept [ahad]; how all the numbers appear from it and it is in no number since it is the point of origin of all numbers.  And the first to be specified and to appear from it is the number \"one\" [wahid] and from \"one\" all other numbers come into being.  So all these numbers are contained in the unitary concept in the most perfect simplicity and oneness.  And so it is the \"Hidden Treasure\" of all numbers and from it do they appear."
+          ]
         },
         {
           "key": "source:AB00013",
-          "why": "Compare the distinctions among essence, necessity and contingency."
+          "why": "Compare the distinctions among essence, necessity and contingency.",
+          "shortened": [
+            "For existence is either identical with quiddity or other than it. If other than it, is it inseparable from it and among its requirements without suspension or detachment, or is suspension and detachment possible?",
+            "The first is the reality of the Essence from the perspective of its oneness - its existence is identical with its quiddity and its quiddity identical with its existence. The second is the station of necessity, where existence is distinct from quiddity but inseparable from it in a way that neither detachment nor separation can be conceived, for it is among its requirements. The third is the station of contingency - that is, existence derived from another and acquired from what is other than itself. Here its existence is other than its quiddity and its quiddity other than its existence, with the possibility of detachment and separation."
+          ]
         },
         {
           "key": "source:AB06442",
-          "why": "Use the subtle cloud to explore specification that is seen and unseen."
+          "why": "Use the subtle cloud to explore specification that is seen and unseen.",
+          "shortened": [
+            "Al-'Ama' in the language means a very light and subtle cloud that is seen and unseen. If you gaze with utmost care you find something, but as soon as you look, it cannot be seen. That is why, in the tradition of the investigators, by Al-'Ama' they mean the Universal Reality with no specifications, for specifications exist in the mode of simplicity and unity and are not distinguished from the essence. So it is both specified and unspecified, and this station is described as Divine Oneness and Al-'Ama', and it is the station of the Hidden Treasure mentioned in the Hadith."
+          ]
         },
         {
           "key": "source:AB04144",
@@ -78,7 +116,10 @@
         },
         {
           "key": "source:AB03187",
-          "why": "Read the movement from unity toward oneness as an invitation to effort."
+          "why": "Read the movement from unity toward oneness as an invitation to effort.",
+          "shortened": [
+            "Therefore strive and sacrifice yourself, make every effort despite distress, so that your speaking reality and your eternal archetype may turn from the station of unity toward the heart-expanding wilderness of oneness."
+          ]
         },
         {
           "key": "source:AB09406",
@@ -86,15 +127,24 @@
         },
         {
           "key": "source:BB00128",
-          "why": "Explore the cited tradition concerning the hidden and manifested Name."
+          "why": "Explore the cited tradition concerning the hidden and manifested Name.",
+          "shortened": [
+            "Again, in al-Kafi, from Abu 'Abdu'llah -- peace be upon him -- He said: Verily God, blessed and exalted, created a Name -- of letters, yet unvocalized; of utterance, yet unpronounced; of person, yet unembodied; by likeness, yet undescribed; of colour, yet untinged. Denied of it are the confines of direction; far removed from the senses of all who sense -- hidden, yet not concealed. He made it a steadfast Word upon four parts together -- none preceding another. Of these He manifested three as a Name, by reason of the creatures' need for them, and He veiled one thereof -- and that is the Hidden, Treasured Name."
+          ]
         },
         {
           "key": "source:BH00267",
-          "why": "Let the description of Hahut mark a limit to interpretation."
+          "why": "Let the description of Hahut mark a limit to interpretation.",
+          "shortened": [
+            "Among them is the station of the Throne of Hahut, the Paradise of Oneness. None can interpret a single letter of that verse in that Paradise, for this is the station of the mystery of the Divine Eternality, the edifices of Unity, the Israel of Singleness, and the essence of Luminosity. Its outward is identical with its inward, and its inward identical with its outward. It behooveth no one to comprehend a single letter thereof, but God shall reveal it, when He willeth, to whom He willeth."
+          ]
         },
         {
           "key": "source:BB00075",
-          "why": "Distinguish glorification from a claim to attain the Divine Essence."
+          "why": "Distinguish glorification from a claim to attain the Divine Essence.",
+          "shortened": [
+            "God hath desired naught from the expression of unity save the word of glorification, and from it naught save the word of praise, and from it naught save the word of His oneness, and from it naught save the word of His greatness. For the unity of the Divine Essence, as established in the beginning and end of the Command, is impossible for any created thing to attain, nor can any claim \"I am capable of this,\" for such a statement would be pure falsehood and manifest untruth, and can only operate within its own rank."
+          ]
         },
         {
           "key": "source:BB00196",
@@ -114,7 +164,10 @@
         },
         {
           "key": "source:BH02504",
-          "why": "Distinguish a name’s ordinary reference from its relation to the Truth."
+          "why": "Distinguish a name’s ordinary reference from its relation to the Truth.",
+          "shortened": [
+            "O seeker! Though a name indicates that which is named, this applies only to the realm of creation. But the Truth is sanctified above all names - all names end in His Most Exalted Word and all attributes return to His Primal Will. Whoever attains unto Him has attained unto all names, both now and forever."
+          ]
         },
         {
           "key": "source:BB00064",
@@ -130,15 +183,24 @@
         },
         {
           "key": "source:BB00123",
-          "why": "Consider the failure of names and attributes before enduring oneness."
+          "why": "Consider the failure of names and attributes before enduring oneness.",
+          "shortened": [
+            "There is no God but Thee! Thou hast ever been as Thou wert. Attributes have gone astray, names have been cut off, and traces have returned. And now Thou art as Thou hast ever been in might and oneness."
+          ]
         },
         {
           "key": "source:BH06400",
-          "why": "Join unity of essence and attributes with transcendence of praise."
+          "why": "Join unity of essence and attributes with transcendence of praise.",
+          "shortened": [
+            "Thou hast ever been one in Thy Essence and one in Thy attributes, sanctified above every wondrous mention and every beauteous praise, and Thou wilt ever continue to be what Thou hast been from time immemorial."
+          ]
         },
         {
           "key": "source:BH06392",
-          "why": "Keep the concise separate statement on essence and attributes."
+          "why": "Keep the concise separate statement on essence and attributes.",
+          "shortened": [
+            "The Wronged One testifies that there is none other God but Him. He has ever been One in His Essence and One in His attributes."
+          ]
         },
         {
           "key": "source:BH02975",
@@ -146,23 +208,38 @@
         },
         {
           "key": "source:BH03790",
-          "why": "Preserve the brief independent affirmation of incomparability."
+          "why": "Preserve the brief independent affirmation of incomparability.",
+          "shortened": [
+            "He hath ever been One in His Essence, having taken neither partner nor peer unto Himself."
+          ]
         },
         {
           "key": "source:BH05976",
-          "why": "Extend the statement to actions and sufficiency."
+          "why": "Extend the statement to actions and sufficiency.",
+          "shortened": [
+            "Find sufficiency in Him rather than in aught else, and associate not any partner with Him, for verily He is One in His essence and then in His actions, were ye of them that know."
+          ]
         },
         {
           "key": "source:BH01887",
-          "why": "Ask how a coequal would contradict incomparability."
+          "why": "Ask how a coequal would contradict incomparability.",
+          "shortened": [
+            "From everlasting Thou wert alone, with none to describe Thee, and wilt abide for ever the same with no one else to equal or rival Thee. Were the existence of any co-equal with Thee to be recognized, how could it then be maintained that Thou art the Incomparable, or that Thy Godhead is immeasurably exalted above all peers or likeness?"
+          ]
         },
         {
           "key": "source:BH06114",
-          "why": "Hear the extended exclusion of rival, opposite and likeness."
+          "why": "Hear the extended exclusion of rival, opposite and likeness.",
+          "shortened": [
+            "And thy Lord hath taken unto Himself no partner, nor any peer, nor any minister, nor any likeness, nor any equal, nor any opposite, nor any similitude."
+          ]
         },
         {
           "key": "source:BH00941",
-          "why": "Keep the warning against associating partners."
+          "why": "Keep the warning against associating partners.",
+          "shortened": [
+            "Beware lest thou ascribe partners unto Him Who hath ever been One in His Essence and hath taken neither peer nor likeness unto Himself. To this beareth witness all that hath been sent down aforetime from the presence of the Mighty, the Bestower."
+          ]
         },
         {
           "key": "source:BH01702",
@@ -170,7 +247,10 @@
         },
         {
           "key": "source:BH08127",
-          "why": "Read the absence of likeness as integral to recognition."
+          "why": "Read the absence of likeness as integral to recognition.",
+          "shortened": [
+            "And this recognition is not complete except through acknowledging His oneness and confessing His singleness, in such wise that no likeness, peer, similitude or equal be seen for Him."
+          ]
         },
         {
           "key": "source:BH07041",
@@ -178,11 +258,17 @@
         },
         {
           "key": "source:BH11714",
-          "why": "Consider the testimony of creation alongside the inadequacy of all description."
+          "why": "Consider the testimony of creation alongside the inadequacy of all description.",
+          "shortened": [
+            "He hath ever existed, sanctified from all peers and likenesses, and exalted above all that hath been said or shall be said. He hath been, and is, the One, the Single, the Unique, the Self-Subsisting, the Eternal--He unto Whose oneness and singleness the tongues of all created things have testified, and through Whose remembrance and praise all things have spoken."
+          ]
         },
         {
           "key": "source:BH00769",
-          "why": "Introduce divine self-testimony independent of any creature."
+          "why": "Introduce divine self-testimony independent of any creature.",
+          "shortened": [
+            "God testifieth to the unity of His Godhood and to the singleness of His own Being. On the throne of eternity, from the inaccessible heights of His station, His tongue proclaimeth that there is none other God but Him. He Himself, independently of all else, hath ever been a witness unto His own oneness, the revealer of His own nature, the glorifier of His own essence."
+          ]
         },
         {
           "key": "source:BH00048",
@@ -190,7 +276,10 @@
         },
         {
           "key": "source:BH01640",
-          "why": "Invite inward acknowledgment of the testimony."
+          "why": "Invite inward acknowledgment of the testimony.",
+          "shortened": [
+            "Bear thou witness in thine inmost heart unto this testimony which God hath Himself and for Himself pronounced, that there is none other God but Him, that all else besides Him have been created by His behest, have been fashioned by His leave, are subject to His law, are as a thing forgotten when compared to the glorious evidences of His oneness, and are as nothing when brought face to face with the mighty revelations of His unity."
+          ]
         },
         {
           "key": "source:BB00012",
@@ -198,11 +287,17 @@
         },
         {
           "key": "source:BH04568",
-          "why": "Explore how a Manifestation’s oneness demonstrates divine unity."
+          "why": "Explore how a Manifestation’s oneness demonstrates divine unity.",
+          "shortened": [
+            "Thy unity is inscrutable, O my God, to all except them that have recognized Him Who is the Manifestation of Thy singleness and the Day-Spring of Thy oneness. Whoso assigneth a rival unto Him hath assigned a rival unto Thee, and whoso hath set up a peer for Him hath set up a peer for Thyself. No, no, none can withstand Thee in the whole of creation. Thou hast everlastingly been exalted far above all comparison and likeness. Thy oneness hath been demonstrated by the oneness of Him Who is the Dawning-Place of Thy Revelation."
+          ]
         },
         {
           "key": "source:BH03333",
-          "why": "Read the first-person proclamation of creation through Will and Purpose."
+          "why": "Read the first-person proclamation of creation through Will and Purpose.",
+          "shortened": [
+            "And God addresseth therein all who are in the heavens and on earth, and all that hath been and shall be, saying: \"There is no God but Me, Who created all contingent things from nothing through My Will, and brought all beings into existence from naught through My Purpose. I am the One with power over whatsoever I desire, and I am the All-Encompassing, the Self-Subsisting."
+          ]
         },
         {
           "key": "source:BH01228",
@@ -210,7 +305,10 @@
         },
         {
           "key": "source:BH07214",
-          "why": "Connect recognition with teaching the path of oneness."
+          "why": "Connect recognition with teaching the path of oneness.",
+          "shortened": [
+            "I testify that Thou didst create me for the recognition of the Dayspring of Thy Revelation and the Dawning-place of Thy signs and the Manifestation of Thy Self, and Thou hast revealed unto Thy servants that which draweth them nigh unto the court of Thy glory, and taught them the oneness of Thy Being and Thy sanctification from all peers and likenesses, and made them to know Thy straight path and Thy firm and mighty command."
+          ]
         },
         {
           "key": "source:BH05846",
@@ -218,11 +316,17 @@
         },
         {
           "key": "source:BH06674",
-          "why": "Read the renewed decree and Nightingale’s testimony."
+          "why": "Read the renewed decree and Nightingale’s testimony.",
+          "shortened": [
+            "Say: Through this Revelation the decree of origination is established and the Nightingale of the All-Merciful hath sung upon the branches of the Tree of Utterance that \"There is none other God beside Me, the Single, the All-Informed.\" Say: Whosoever affirmeth a likeness hath indeed associated partners with God - to this doth the Ancient Beauty testify from His exalted station."
+          ]
         },
         {
           "key": "source:BH05465",
-          "why": "Keep the Tree’s utterance in its stated station."
+          "why": "Keep the Tree’s utterance in its stated station.",
+          "shortened": [
+            "And in another station it referreth to this Breast wherein the Tree uttereth: \"There is none other God but Me, the All-Knowing, the All-Wise.\""
+          ]
         },
         {
           "key": "source:BB00256",
@@ -234,7 +338,10 @@
         },
         {
           "key": "source:BH01905",
-          "why": "Consider the enduring radiance of the divine Sun."
+          "why": "Consider the enduring radiance of the divine Sun.",
+          "shortened": [
+            "From the beginning that has no beginning, the lights of the glory of divine unity have shone forth without pause or delay, and the radiant gleams of the divine Sun have ever appeared and will continue to appear without concealment or diminution."
+          ]
         },
         {
           "key": "source:BH05789",
@@ -242,11 +349,17 @@
         },
         {
           "key": "source:BH07443",
-          "why": "Keep the image of a sun shining upon visible and unseen realms."
+          "why": "Keep the image of a sun shining upon visible and unseen realms.",
+          "shortened": [
+            "And therein did the Sun of Thy oneness shine forth from the horizon of the House upon all who dwell in the unseen and the visible realms."
+          ]
         },
         {
           "key": "source:BH10491",
-          "why": "Extend the proclamation of oneness across religions."
+          "why": "Extend the proclamation of oneness across religions.",
+          "shortened": [
+            "This is a day wherein grace hath encompassed all religions, and the Divine Lott Tree hath called out from the Most Exalted Horizon: 'Verily, there is none other God but Him, the One, the Single, the All-Knowing.'"
+          ]
         },
         {
           "key": "source:BH00952",
@@ -254,11 +367,17 @@
         },
         {
           "key": "source:BB00002",
-          "why": "Read the reflection on ordered creation and the Gate in its own source."
+          "why": "Read the reflection on ordered creation and the Gate in its own source.",
+          "shortened": [
+            "O people of the earth! Have you not reflected upon the creation of the heavens and the earth? If there were two gates in them from the Remembrance, they would have corrupted. And verily God has arranged the kingdom through His Gate of Truth, and God is indeed knowing of all things."
+          ]
         },
         {
           "key": "source:BH02533",
-          "why": "Attend to the testimony of seen and unseen existence."
+          "why": "Attend to the testimony of seen and unseen existence.",
+          "shortened": [
+            "O Lord! All things testify to Thy oneness, and whatsoever can be described as having existence, whether seen or unseen, beareth witness to Thy singleness."
+          ]
         },
         {
           "key": "source:BH07454",
@@ -266,19 +385,31 @@
         },
         {
           "key": "source:BH04053",
-          "why": "Keep the separate testimony of created things."
+          "why": "Keep the separate testimony of created things.",
+          "shortened": [
+            "All created things have borne witness to Thy unity, and every dweller in Thy kingdom hath confessed Thy oneness."
+          ]
         },
         {
           "key": "source:BH04742",
-          "why": "Retain the parallel wording concerning all existing things."
+          "why": "Retain the parallel wording concerning all existing things.",
+          "shortened": [
+            "All created things bear witness to Thy singleness, and all existing things to Thy oneness."
+          ]
         },
         {
           "key": "source:BB00372",
-          "why": "Read appearances and realities as signs."
+          "why": "Read appearances and realities as signs.",
+          "shortened": [
+            "All appearances and realities indicate the oneness of Thine Essence, and all evidences and signs reflect the truth that Thou art God and there is no peer or partner for Thee throughout the kingdoms of heaven and earth."
+          ]
         },
         {
           "key": "source:BH07774",
-          "why": "Keep the concise statement of universal testimony."
+          "why": "Keep the concise statement of universal testimony.",
+          "shortened": [
+            "Thou art He to Whose oneness and singleness all have testified."
+          ]
         },
         {
           "key": "source:BH03112",
@@ -310,11 +441,17 @@
         },
         {
           "key": "source:BH04091",
-          "why": "Read inward and outward testimony with the First and Last."
+          "why": "Read inward and outward testimony with the First and Last.",
+          "shortened": [
+            "When you attain unto My Tablet and find the fragrance of your Lord's verses, say: \"My God, my God! My outer and inner tongue, my limbs and members, my veins and the very hairs of my body bear witness to Your unity and oneness, and that You are the First and the Last, the Manifest and the Hidden."
+          ]
         },
         {
           "key": "source:BH06682",
-          "why": "Preserve the separately voiced bodily confession."
+          "why": "Preserve the separately voiced bodily confession.",
+          "shortened": [
+            "Say: My God, my God! My outward and inward tongue, my limbs and members all bear witness to Thy oneness and Thy singleness, and that Thou art God, there is no God but Thee, the Single, the One, the Powerful, the All-Compelling, the All-Knowing, the All-Wise."
+          ]
         },
         {
           "key": "source:BH07687",
@@ -322,23 +459,39 @@
         },
         {
           "key": "source:BH08372",
-          "why": "Keep the paired inward and outward testimony to enduring oneness."
+          "why": "Keep the paired inward and outward testimony to enduring oneness.",
+          "shortened": [
+            "My outward and inward tongue both testify that Thou hast ever been One God, Single, Sole, Self-Subsisting, and wilt ever continue to be even as Thou hast been. There is no God but Thee, the Mighty, the Dominant, the Powerful, the Omnipotent."
+          ]
         },
         {
           "key": "source:BB00003",
-          "why": "Enter the Book of Names through its many forms of praise and sovereignty."
+          "why": "Enter the Book of Names through its many forms of praise and sovereignty.",
+          "shortened": [
+            "Praise be to God, Who hath exalted Himself in His transcendence above all contingent things, Who hath manifested His sovereignty above all created things, Who hath demonstrated His dominion above all things that have being, Who hath shown His might above all atoms, and Who hath revealed His grandeur above all who dwell in the kingdoms of earth and heaven. He is the One beside Whom there is no equal, the Most Exalted above all likeness and duration, and the Most Holy, sanctified beyond every attribute and number. He hath created what He willeth by His command and ordained what He desireth by His sovereignty. Every created thing beareth witness that there is none other God but Him - a testimony purified from the ways of associating partners with God and from all veils, sanctified from the paths of remoteness and separation."
+          ]
         },
         {
           "key": "source:BB00005",
-          "why": "Read repeated confession alongside the degrees of names and attributes."
+          "why": "Read repeated confession alongside the degrees of names and attributes.",
+          "shortened": [
+            "And in every night and day, say nineteen times \"There is no God but God\" in truth, in very truth, for even if thou shouldst say it unto infinity, there hath been and shall be but one Divine Unity, for in names there appeareth naught but the Named One Himself, even as thou sayest there is no sun but the true Sun, shouldst thou observe. Yet consider thou the degrees of unity in relation to the degrees of names and attributes, for in the presence of every true soul that which is contrary to it hath been and shall be negated, and unto God is the journey's end."
+          ]
         },
         {
           "key": "source:BB00004",
-          "why": "Follow the Book of Reckoning’s extended rhythm of return, praise and command."
+          "why": "Follow the Book of Reckoning’s extended rhythm of return, praise and command.",
+          "shortened": [
+            "God beareth witness that there is none other God but Him. Say: All stand before His presence. God beareth witness that there is none other God but Him. Say: All glorify Him. God beareth witness that there is none other God but Him. Say: All proclaim His oneness. God beareth witness that there is none other God but Him. Say: All magnify Him. God beareth witness that there is none other God but Him. Say: All extol His greatness."
+          ]
         },
         {
           "key": "source:BB00011",
-          "why": "Let the Book of Thirty Prayers carry oneness through every direction and condition."
+          "why": "Let the Book of Thirty Prayers carry oneness through every direction and condition.",
+          "shortened": [
+            "Thou hast ever been one God, Single, Unique, Independent, Self-Subsisting, Self-Sufficient. Thou hast taken neither consort nor offspring, nor hath there been any partner with Thee, neither before nor after.",
+            "I testify to Thy independence of me and of all things, and I acknowledge Thy oneness before all things and after all things and above all things and beneath all things and to the right of all things and to the left of all things, that Thou hast ever been and wilt ever be free from the praise of any besides Thee and sanctified from that which Thy creation may acclaim."
+          ]
         },
         {
           "key": "source:BB00035",
@@ -354,7 +507,10 @@
         },
         {
           "key": "source:BB00294",
-          "why": "Retain the independent prayer denying consort, son and helper."
+          "why": "Retain the independent prayer denying consort, son and helper.",
+          "shortened": [
+            "Thou hast ever been one God, single, eternal, self-subsisting, living, enduring, sovereign, all-pervading, holy, everlasting, forever, inaccessible, possessing, ruling, manifest, powerful. Thou hast taken neither consort nor son, and Thou hast no partner in what Thou hast created, nor any helper in what Thou hast fashioned."
+          ]
         },
         {
           "key": "source:BB00053",
@@ -370,19 +526,31 @@
         },
         {
           "key": "source:BB00218",
-          "why": "Consider the formation of things through power and will."
+          "why": "Consider the formation of things through power and will.",
+          "shortened": [
+            "Thou hast taken neither consort nor son, nor hath there been any partner in what Thou hast created, nor any protector in what Thou hast fashioned. Thou hast created all things by Thy power with precision, and formed all things by Thy will with perfection."
+          ]
         },
         {
           "key": "source:BB00231",
-          "why": "Keep the further refusal of limiting similitude."
+          "why": "Keep the further refusal of limiting similitude.",
+          "shortened": [
+            "Thou art He Who hath no equal, no peer, no likeness, no companion, no similitude, and Thou art He Who begetteth not, nor wast Thou begotten, Who cannot be limited or described by any similitude."
+          ]
         },
         {
           "key": "source:BB00253",
-          "why": "Connect perfect form with the submission of all realms."
+          "why": "Connect perfect form with the submission of all realms.",
+          "shortened": [
+            "Thou hast created all things by Thy power, in due measure, and hast fashioned the creation of all things by Thy will, with perfect form. Thou art He before Whom all who are in the heavens and all who are on the earth and whatsoever lieth between them prostrate themselves; and all who are in the realms of command and creation and whatsoever is beneath them are humble and submissive."
+          ]
         },
         {
           "key": "source:BB00264",
-          "why": "Preserve the separate prayer’s affirmation of enduring sovereignty."
+          "why": "Preserve the separate prayer’s affirmation of enduring sovereignty.",
+          "shortened": [
+            "Thou hast ever been one God, single, eternal, self-subsisting, living, unchanging, sovereign, supreme, holy, everlasting, endless, inaccessible, exalted, ruling, possessing, glorified, powerful. Thou hast taken neither consort nor son, and Thou hast no partner in what Thou hast created, nor any protector in what Thou hast fashioned."
+          ]
         },
         {
           "key": "source:BB00277",
@@ -390,7 +558,10 @@
         },
         {
           "key": "source:BB00310",
-          "why": "Let the brief confession provide a pause."
+          "why": "Let the brief confession provide a pause.",
+          "shortened": [
+            "Thou hast ever been one God, single, unique, ever-living, self-subsisting, eternal, everlasting."
+          ]
         },
         {
           "key": "source:BB00434",
@@ -406,7 +577,10 @@
         },
         {
           "key": "source:BB00293",
-          "why": "Preserve the separate memorial prayer for the second Letter."
+          "why": "Preserve the separate memorial prayer for the second Letter.",
+          "shortened": [
+            "Thou hast ever been one God, Single, Unique, Eternal, Self-Subsisting, the Ever-Abiding, the Ever-Enduring, the Self-Dependent. Thou hast taken neither consort nor son, and Thou hast no partner in what Thou hast created, nor any protector in what Thou hast fashioned."
+          ]
         },
         {
           "key": "source:BB00311",
@@ -414,19 +588,31 @@
         },
         {
           "key": "source:BB00166",
-          "why": "Retain the supplied omission within the visitation for Quddus."
+          "why": "Retain the supplied omission within the visitation for Quddus.",
+          "shortened": [
+            "Then upon Thee, O Light of the Divine Identity, and Garment of the Countenance of Oneness, and Mystery of Eternality, and the Divine Grandeur, and the Glory of the Divine Essence, and the Sublimity of the Realm of Might, and [...] praise be upon my father and what is in my Lord's knowledge!"
+          ]
         },
         {
           "key": "source:BB00120",
-          "why": "Read testimony within the particular practice of visitation."
+          "why": "Read testimony within the particular practice of visitation.",
+          "shortened": [
+            "When you enter the Blessed Shrine, pray in the small chamber near the abandoned well, then turn towards the Kaaba and say: I bear witness that there is no God but God, alone, with no partner, just as His Essence has testified to His Essence that there is no God but He, the Mighty, the Wise."
+          ]
         },
         {
           "key": "source:BB00226",
-          "why": "Keep the acknowledgment from a mountain setting in its own voice."
+          "why": "Keep the acknowledgment from a mountain setting in its own voice.",
+          "shortened": [
+            "I bear witness before God, from my station amidst these mountains, that there is no God but Him, alone without partner, even as His Essence hath testified to His Essence in the loftiness of His Being."
+          ]
         },
         {
           "key": "source:BB00291",
-          "why": "Read self-testimony in the letter to Tahirih."
+          "why": "Read self-testimony in the letter to Tahirih.",
+          "shortened": [
+            "O my God! I bear witness before Thee and before those who bear witness in Thy presence that in this Book I testify that there is no God but God, alone without partner, even as He hath testified of His Own Self unto His Own Self, and sanctified His Own Being above any likeness to aught else beside Him. He is as He is in the glory of His Being, the majesty of His Essence, the beauty of His Self, and the sanctity of His Identity."
+          ]
         },
         {
           "key": "source:BB00278",
@@ -438,11 +624,17 @@
         },
         {
           "key": "source:BB00302",
-          "why": "Let praise acknowledge its own inadequacy."
+          "why": "Let praise acknowledge its own inadequacy.",
+          "shortened": [
+            "I glorify Thee beyond all wherewith contingent things have glorified Thee or can glorify Thee, and I sanctify Thee beyond all wherewith contingent things have sanctified Thee or can sanctify Thee, and I testify to Thy oneness as Thou hast testified to Thine own oneness, that Thou art God, there is no God but Thee, and all else besides Thee is Thy creation and within Thy grasp."
+          ]
         },
         {
           "key": "source:BB00163",
-          "why": "Preserve the prayer’s severe language within its devotional setting."
+          "why": "Preserve the prayer’s severe language within its devotional setting.",
+          "shortened": [
+            "Thou didst not create that creation save that all things might attain, to the extent possible, unto that which is manifested at the revelation of Thy power and the exaltation of Thy Will. Perished be the essence that glorifieth not Thy Being, and annihilated be the reality that praiseth not Thine Essence. Extinguished be the spirits that recognize not the Sovereign of Thy holy Oneness, and abolished be the bodies that prostrate not before the Monarch of Thy Unity."
+          ]
         },
         {
           "key": "source:BB00227",
@@ -450,7 +642,12 @@
         },
         {
           "key": "source:BB00347",
-          "why": "Follow the long litany asking entry into paradise by mercy."
+          "why": "Follow the long litany asking entry into paradise by mercy.",
+          "shortened": [
+            "O God! I beseech Thee by the sovereignty wherein Thou art unique, O Most Merciful, to grant permission unto me and unto them that have believed in Thee and in Thy signs, to enter Thy paradise through Thy bounty and Thy mercy.",
+            "O God! I beseech Thee, O First One in Thy uniqueness, O Last One, to grant permission unto me and unto them that have believed in Thee and in Thy signs, to enter Thy paradise through Thy bounty and Thy mercy.",
+            "O God! I beseech Thee, O Most Glorious in Thy uniqueness, O Hidden One, to grant permission unto me and unto them that have believed in Thee and in Thy signs, to enter Thy paradise through Thy bounty and Thy mercy."
+          ]
         },
         {
           "key": "source:BB00140",
@@ -458,11 +655,18 @@
         },
         {
           "key": "source:BB00392",
-          "why": "Hear the warning to heed the declaration."
+          "why": "Hear the warning to heed the declaration.",
+          "shortened": [
+            "Say: O servants, take heed! There is none other God but God.",
+            "God beareth witness that there is none other God but Him, before and hereafter, and all shall return unto Him."
+          ]
         },
         {
           "key": "source:BH00759",
-          "why": "Turn confession toward concentrated attention."
+          "why": "Turn confession toward concentrated attention.",
+          "shortened": [
+            "Enable them then, O my God, to bear witness to Thy unity and to testify to Thy oneness in such wise that they may behold naught save Thee and shut their eyes to all else."
+          ]
         },
         {
           "key": "source:AB04368",
@@ -470,7 +674,10 @@
         },
         {
           "key": "source:BH03109",
-          "why": "Join power and loving-kindness in testimony."
+          "why": "Join power and loving-kindness in testimony.",
+          "shortened": [
+            "I testify to Thine omnipotence and Thy might, Thy sovereignty and Thy loving-kindness, Thy grace and Thy power, the oneness of Thy Being and the unity of Thine Essence, Thy sanctity and exaltation above the world of being and all that is therein."
+          ]
         },
         {
           "key": "source:BH04007",
@@ -478,19 +685,31 @@
         },
         {
           "key": "source:BH04697",
-          "why": "Preserve the distinct confession joining oneness and wisdom."
+          "why": "Preserve the distinct confession joining oneness and wisdom.",
+          "shortened": [
+            "O Lord! I testify to Thy oneness and singleness, and that Thou art God, there is no God but Thee, the Single, the One, the All-Knowing, the All-Wise."
+          ]
         },
         {
           "key": "source:BH07899",
-          "why": "Address the One as Beloved, Support and Hope."
+          "why": "Address the One as Beloved, Support and Hope.",
+          "shortened": [
+            "O my God, my Beloved, my Lord, my Support, and my Hope! I testify that Thou hast ever been One, Single, Self-Subsisting, Alone, and wilt continue to be what Thou hast always been."
+          ]
         },
         {
           "key": "source:BH04436",
-          "why": "Let the Dove’s cooing prompt a spoken response."
+          "why": "Let the Dove’s cooing prompt a spoken response.",
+          "shortened": [
+            "When thou hearest the cooing of the Dove of My utterance upon the branches of the Tree of My knowledge, say: \"My God, my God! I testify to Thy oneness and Thy singleness, and that Thou hast no partner in Thy dominion nor any equal in Thy kingdom."
+          ]
         },
         {
           "key": "source:BH05270",
-          "why": "Give thanks for acknowledgment and discernment."
+          "why": "Give thanks for acknowledgment and discernment.",
+          "shortened": [
+            "My God, my God! All praise be to Thee for having caused me to acknowledge Thy oneness and confess Thy singleness, and to submit to that which Thou hast sent down in Thy Book, whereby Thou didst distinguish between truth and falsehood through Thy command and Thy power."
+          ]
         },
         {
           "key": "source:BH02733",
@@ -498,15 +717,24 @@
         },
         {
           "key": "source:BH01533",
-          "why": "Read recognition, listening and turning as one act of gratitude."
+          "why": "Read recognition, listening and turning as one act of gratitude.",
+          "shortened": [
+            "Say: My God, my God! Unto Thee be praise and unto Thee be thanksgiving, unto Thee be bounty and generosity, for having honored me with Thy days and caused me to recognize the Dawning-Place of Thy Cause, the Manifestation of Thy Self, and the Dayspring of Thy signs, and for having aided me to turn toward Thy most exalted horizon, to hearken unto Thy sweetest call, and to turn toward the lights of Thy countenance, O Lord of all names and Creator of the heavens! O my Lord! Thou seest me turning toward Thee and turning away from all else, acknowledging that which the tongue of Thy grandeur hath spoken when Thou didst establish Thyself upon the throne by Thy command and will, that verily Thou art God, Who hath ever been One, Single, Alone, and Self-Subsisting, and wilt ever remain as Thou hast been."
+          ]
         },
         {
           "key": "source:BH06796",
-          "why": "Keep the separate thanksgiving for guidance amidst denial."
+          "why": "Keep the separate thanksgiving for guidance amidst denial.",
+          "shortened": [
+            "When thou hast received My Tablet and been blessed with the Kawthar of My utterance, say: My God, my God! Praise be to Thee for having guided me when mankind was in manifest error, and for having caused me to turn toward Thee when the people were in grievous rejection, and for having enabled me to acknowledge the oneness of Thy Being when humanity was in severe denial."
+          ]
         },
         {
           "key": "source:BH06936",
-          "why": "Preserve the particular address to a handmaiden."
+          "why": "Preserve the particular address to a handmaiden.",
+          "shortened": [
+            "O My handmaiden! Hearken thou unto My call, then bear witness to that whereunto God did bear witness before the creation of earth and heaven, that there is none other God but Him, the Mighty, the Bestower."
+          ]
         },
         {
           "key": "source:BH10269",
@@ -518,7 +746,10 @@
         },
         {
           "key": "source:AB11969",
-          "why": "Read another person’s letter as evidence of insight and love."
+          "why": "Read another person’s letter as evidence of insight and love.",
+          "shortened": [
+            "O you who are guided by the light of guidance! I have read your missive with its wonderful contents and eloquent meanings, indicating your recognition of the oneness of God and your acknowledgment of His singleness, and the enlightenment of your insight and the purity of your inner being and the intensity of your love for the Beauty of God."
+          ]
         },
         {
           "key": "source:BH01829",
@@ -526,7 +757,10 @@
         },
         {
           "key": "source:BH04100",
-          "why": "Preserve the distinction between recognition and learned denial."
+          "why": "Preserve the distinction between recognition and learned denial.",
+          "shortened": [
+            "Blessed art thou for having drunk of the Sealed Wine when every heedless one turned away from it veiled, and for having acknowledged the oneness and singleness of God when every rejected learned one denied Him."
+          ]
         },
         {
           "key": "source:BH04367",
@@ -534,11 +768,18 @@
         },
         {
           "key": "source:BH07126",
-          "why": "Keep the confession made while standing in a particular station."
+          "why": "Keep the confession made while standing in a particular station.",
+          "shortened": [
+            "I testify that Thou art God, there is none other God but Thee.",
+            "Thou beholdest me, O my God, standing in this station, acknowledging Thy oneness and confessing Thy singleness, and I acknowledge that which the tongue of Thy grandeur hath spoken and that which Thy chosen ones have acknowledged."
+          ]
         },
         {
           "key": "source:BH07538",
-          "why": "Hear the Pen and respond through testimony."
+          "why": "Hear the Pen and respond through testimony.",
+          "shortened": [
+            "When thou hearest My most sweet call and the rustling of My Most Exalted Pen, say: O Lord of all beings and Sovereign of the hereafter and of former times! I testify to Thy oneness and Thy singleness and to Thy power, Thy might and Thy dominion."
+          ]
         },
         {
           "key": "source:BH09097",
@@ -566,15 +807,25 @@
         },
         {
           "key": "source:BH06333",
-          "why": "Read acknowledgment from the setting of a sorrowful prison."
+          "why": "Read acknowledgment from the setting of a sorrowful prison.",
+          "shortened": [
+            "Give thanks unto God for having turned unto thee the face of Him Who hath been wronged, from the direction of His sorrowful prison, and Who speaketh and saith: There is none other God but He, the Single, the One, the All-Knowing, the All-Wise."
+          ]
         },
         {
           "key": "source:BH05416",
-          "why": "Preserve the selected interval between testimony and forgiveness."
+          "why": "Preserve the selected interval between testimony and forgiveness.",
+          "shortened": [
+            "God beareth witness that there is none other God but Him.",
+            "He, verily, is the Single One, the One, the All-Forgiving, the All-Bountiful."
+          ]
         },
         {
           "key": "source:BH07708",
-          "why": "Keep the concise statement linking testimony and the speaking One."
+          "why": "Keep the concise statement linking testimony and the speaking One.",
+          "shortened": [
+            "God testifieth that there is none other God but Him, and He Who speaketh is indeed the Single One, the All-Informed."
+          ]
         },
         {
           "key": "source:BH08384",
@@ -586,15 +837,24 @@
         },
         {
           "key": "source:BH03690",
-          "why": "Read origin and return through the proclamation of a Day."
+          "why": "Read origin and return through the proclamation of a Day.",
+          "shortened": [
+            "This is the Day wherein the Mystery of Divine Unity hath proclaimed: The Kingdom belongeth unto God, the One, the All-Powerful, the Unconstrained. With Him did the Day begin and with Him shall it end, and from Him have the lights appeared and unto Him have they returned."
+          ]
         },
         {
           "key": "source:BH03444",
-          "why": "Consider unity’s banner alongside detachment."
+          "why": "Consider unity’s banner alongside detachment.",
+          "shortened": [
+            "Through them were revealed the mysteries of divine unity, and through them was raised aloft the word of detachment, and through them was hoisted upon the highest standard the banner of \"There is none other God but Him.\""
+          ]
         },
         {
           "key": "source:BH05025",
-          "why": "Keep the praise and raised banner in their source setting."
+          "why": "Keep the praise and raised banner in their source setting.",
+          "shortened": [
+            "Praise that is sanctified above the comprehension of all created things and the understanding of all beings befits and is worthy of the Lord of names and attributes, Who, to the dismay of the ungodly, has raised aloft the banner of divine unity upon the highest standards and planted the ensign of \"Verily He is God\" upon the most elevated station."
+          ]
         },
         {
           "key": "source:BH11292",
@@ -606,7 +866,10 @@
         },
         {
           "key": "source:BH08310",
-          "why": "Acknowledge the source’s limit on knowing how this occurs."
+          "why": "Acknowledge the source’s limit on knowing how this occurs.",
+          "shortened": [
+            "And none knoweth how this is save him whom Thou hast acquainted with the repositories of Thy Oneness and the treasuries of Thine eternity."
+          ]
         },
         {
           "key": "source:AB10912",
@@ -618,11 +881,18 @@
         },
         {
           "key": "source:BH04060",
-          "why": "Ask to be freed from idle fancies in the act of confession."
+          "why": "Ask to be freed from idle fancies in the act of confession.",
+          "shortened": [
+            "I beseech Thee to inscribe me, by Thy Most Exalted Pen, among those who have acknowledged Divine Unity and detached themselves from idle fancies and from that which befitteth not Thy days."
+          ]
         },
         {
           "key": "source:BH01551",
-          "why": "Connect detachment with readiness to speak the Word of Unity."
+          "why": "Connect detachment with readiness to speak the Word of Unity.",
+          "shortened": [
+            "Blessed is the soul whose heart is free and detached from the world and all that is therein. Such a one is worthy to make mention of the blessed Word of Unity.",
+            "Praise be to God that the favored community has attained to this station and acknowledges and confesses the oneness of God."
+          ]
         },
         {
           "key": "source:BH06028",
@@ -630,15 +900,24 @@
         },
         {
           "key": "source:BH08243",
-          "why": "Read the appeal for preservation through yearning and mercy."
+          "why": "Read the appeal for preservation through yearning and mercy.",
+          "shortened": [
+            "I beseech Thee by the yearning of the hearts of the lovers and the sighs of the hearts of the longing ones, and by Thy Name through which the pavilion of misbelief was destroyed and the canopy of divine unity was raised up, to preserve him who hath believed in Thee and in Thy signs, and hath held fast unto the cord of Thy bounty, and hath turned toward the direction of Thy mercy and Thy good-pleasure."
+          ]
         },
         {
           "key": "source:AB09676",
-          "why": "Attend to humility and supplication before oneness."
+          "why": "Attend to humility and supplication before oneness.",
+          "shortened": [
+            "This is Thy servant who hath bowed down before the King of Thy oneness, who hath humbled himself before the presence of Thy singleness, who hath believed in the Beauty of Thy uniqueness, and who hath supplicated the Kingdom of Thy self-subsistence."
+          ]
         },
         {
           "key": "source:AB10113",
-          "why": "Seek refuge and the attraction of holy fragrance."
+          "why": "Seek refuge and the attraction of holy fragrance.",
+          "shortened": [
+            "O our Lord! Send down upon this one who seeketh refuge at the gate of Thy oneness, from the outpourings of the heaven of Thy glorious unity, and attract him through the holy fragrances of Thy singleness."
+          ]
         },
         {
           "key": "source:AB11176",
@@ -650,23 +929,38 @@
         },
         {
           "key": "source:BH06688",
-          "why": "Let acknowledgment stand at mercy’s gate."
+          "why": "Let acknowledgment stand at mercy’s gate.",
+          "shortened": [
+            "Thus do I acknowledge Thy oneness and confess Thy singleness, submitting to Thy grandeur and Thy sovereignty, and standing before the gate of Thy mercy, turning toward Thy countenance after the passing of the people of Thy kingdom."
+          ]
         },
         {
           "key": "source:BH09869",
-          "why": "Preserve the prayer’s remembrance of steadfastness and martyrdom."
+          "why": "Preserve the prayer’s remembrance of steadfastness and martyrdom.",
+          "shortened": [
+            "I beseech Thee by Thy most exalted Self, and by Thy Most Great Sign, and by Thy Most Beautiful Names, to number me among the people of Thy paradise who have acknowledged Thy oneness and confessed Thy singleness and turned toward the direction of Thy mercy and remained steadfast in Thy remembrance until they were martyred in Thy path and sacrificed themselves in Thy love and good-pleasure."
+          ]
         },
         {
           "key": "source:BH10620",
-          "why": "Keep the appeal to raise remembered souls into divine good-pleasure."
+          "why": "Keep the appeal to raise remembered souls into divine good-pleasure.",
+          "shortened": [
+            "I call upon Thee by Thy Name through which Thou didst raise up the heavens upon the thread of Thine eternity and didst elevate the pavilions of the Cause upon the throne of the glory of Thine oneness, that Thou mayest send down upon those who have mentioned Thy Most Exalted Name and who have followed the path of Thy love in the realm below, and then raise them up, O my God, unto the stations of holiness in Thy presence, that they may dwell in Thy habitations and drink from the cup of Thy good-pleasure."
+          ]
         },
         {
           "key": "source:BH10846",
-          "why": "Imagine a servant becoming a temple of unity."
+          "why": "Imagine a servant becoming a temple of unity.",
+          "shortened": [
+            "I beseech Thee by the beauty of Thy countenance, through which the lights of Thy sun of pre-existence and the splendors of Thy moon of oneness have shone forth upon all created things, that Thou make Thy servant who hath believed in Thee one of the temples of Thy divine unity, and raise him to such a station that he may dwell in the precincts of Thy mercy and rest beneath the shade of Thy loving-kindness."
+          ]
         },
         {
           "key": "source:AB06306",
-          "why": "Ask for divine qualities and an enkindled heart."
+          "why": "Ask for divine qualities and an enkindled heart.",
+          "shortened": [
+            "O Lord! Aid Thy sincere servants to be endowed with the signs of Thy Divine nature and to be inflamed with the fire kindled in the Tree of Thy Oneness."
+          ]
         },
         {
           "key": "source:BH05074",
@@ -686,7 +980,10 @@
         },
         {
           "key": "source:AB04233",
-          "why": "Let the gathered community become a visible sign of oneness."
+          "why": "Let the gathered community become a visible sign of oneness.",
+          "shortened": [
+            "I beseech Thee by the dawn of Thy unity which has risen, appeared, shone forth and proclaimed the light of Thy oneness and the mystery of Thy detachment from all peers and likenesses, to unite the scattered members of this gathering beneath the shade of the tree of Thy oneness and to bring together the dispersed of this company under the word of Thy singleness, and make them a sign of Thy oneness, a token of Thy sovereignty, and a flame of Thy light, and a gleaming that has shone forth in the horizons of Thy kingdom."
+          ]
         },
         {
           "key": "source:BH01656",
@@ -698,7 +995,10 @@
         },
         {
           "key": "source:BH07539",
-          "why": "Keep the richly patterned birds and gardens as a devotional culmination."
+          "why": "Keep the richly patterned birds and gardens as a devotional culmination.",
+          "shortened": [
+            "Praise be to God that the King of power and might is seated upon the throne of glory, and the Sovereign of eternity is established in the realm of meeting, and the sweet-scented breezes of eternity are stirred from the left side of the Beloved's locks, and the fragrant musk of faithfulness wafts from the right side of the Intended One's hair, and the Bird of Light warbles upon the branches of the Tree of Sinai, and the Cock of Glorification sings in the gardens of Divine Unity."
+          ]
         },
         {
           "key": "source:BH10423",
@@ -726,7 +1026,11 @@
         },
         {
           "key": "selection:55375e3543014b51038d99e0",
-          "why": "Follow his fuller account of emanation and archetypes without equating it with every preceding text."
+          "why": "Follow his fuller account of emanation and archetypes without equating it with every preceding text.",
+          "shortened": [
+            "The creative movement, or, to use the technical terminology of wahdat al-wujud philosophy, the self-manifestation (tajalli) of the Absolute which is activated by the principle of love, emerges for the first time at the stage of ahadiyah and is called the 'most sacred Emanation' (Fayd-i-Aqdas). As the result of this Emanation, the stage of wahidiyah becomes established. The wahidiyah, is the ontological state at which the original absolute Oneness of the reality of existence appears with inner articulations. These inner articulations are called, in accordance with the traditional terminology of theology, divine Names and Attributes.",
+            "The essential Perfections of God that are thus established in divine Consciousness with clear demarcations are called the 'eternal Archetypes' (a`yan thabitah)."
+          ]
         },
         {
           "key": "selection:15ee0f5085f20f632dd642ac",
@@ -857,12 +1161,15 @@
       "id": "50D596B8CDE8EE327D4667F516197AF2",
       "slug": "warpeace",
       "displayTitle": "War and peace: measuring victory by the life it preserves",
-      "introduction": "What is gained by a victory that leaves both sides bereaved? These readings bring war into view through a parent’s years of care, a farmer’s labor, emptied homes, and the interruption of ordinary work. They question the prestige attached to conquest and the assumption that material progress guarantees humane conduct. Their proposals range from education and the overcoming of prejudice to arbitration, collective security, and coordinated disarmament. The collection also preserves distinctions concerning defense and the protection of the oppressed, inviting careful comparison of texts with different purposes and authority. Many selections address particular conflicts, warnings, or hopes of their own time. Neighboring subjects on human oneness, religious violence, and the Lesser and Most Great Peace broaden the horizon. Micah’s vision of weapons remade for cultivation offers a comparative image of changed priorities. The central inquiry is how peace becomes a sustained social capacity, reaching beyond exhaustion with war.",
+      "introduction": "Twenty years of a parent’s worry and love go into raising a child to full strength, and a battle spends tens of thousands of such lives in an instant. ‘Abdu’l-Bahá keeps returning to that arithmetic: the farmer whose harvest is taxed for cannon, the river made a border though created for both banks, the man who is a murderer if he kills one and a conqueror if he kills a hundred thousand. Victory itself is suspect, two ships colliding and both damaged. The remedy is not exhaustion, which only pauses the next war, but education, the uprooting of prejudice, arbitration before an international tribunal, a pact binding every government to rise against any aggressor, and armaments reduced by common agreement. Beside this stands a careful distinction for the defence of the oppressed, so that the hard questions of holy war and violence in the name of God are faced rather than avoided. Micah’s swords beaten into ploughshares offer a kindred image of strength redirected. The road runs on toward the oneness of humanity and the Lesser and Most Great Peace, and toward the plainer work of turning a sword into a tongue and the noise of the gun into the voice of the Kingdom.",
       "arc": "Begin with human loss and the paradox of victory; examine the material and moral costs of militarism; consider causes, historical warnings and failed settlements; explore justice, collective arrangements and education; end with practical and spiritual forms of peacemaking.",
       "order": [
         {
           "key": "source:ABU1669",
-          "why": "Open with twenty years of care destroyed in an instant."
+          "why": "Open with twenty years of care destroyed in an instant.",
+          "shortened": [
+            "With a thousand worries, troubles and tears he raises a child. Then, he readily puts thousands upon thousands of them to the sword's blade. It takes twenty years for a person to grow to maturity and full strength, but in an instant, these people massacre tens of thousands of men and allow them to perish. How many cities are thoroughly destroyed, how many villages are reduced to heaps of dust, how much blood reddens the soil and how immense are the properties that are plundered and wrecked! And yet, there is no benefit in any of this!"
+          ]
         },
         {
           "key": "source:ABU0359",
@@ -870,11 +1177,17 @@
         },
         {
           "key": "source:ABU0430",
-          "why": "Follow a farmer’s labor into the continuing financial cost of armaments."
+          "why": "Follow a farmer’s labor into the continuing financial cost of armaments.",
+          "shortened": [
+            "Today the greatest calamity in the world is war. Humanity has no peace and war is constant, because all nations are continuously preparing for war. All wealth is spent on war. The poor farmer toils day and night with the labor of his hands and sweat of his brow to obtain a few seeds and gather a small harvest, but to what benefit? For the produce goes to war preparations and is spent on cannons, rifles, arsenals and warships. This financial war is constant."
+          ]
         },
         {
           "key": "source:ABU2101",
-          "why": "Question the power of a line drawn across a shared river."
+          "why": "Question the power of a line drawn across a shared river.",
+          "shortened": [
+            "Man has set up imaginary lines, only to have these become causes of strife. A river is made a boundary, one side called France and the other Germany. The river was in reality created for both. What a superstition! An imaginary line to become a cause of bloodshed!"
+          ]
         },
         {
           "key": "source:ABU0058",
@@ -882,23 +1195,38 @@
         },
         {
           "key": "source:AB00183",
-          "why": "Introduce the proposal to turn weapons into means of welfare."
+          "why": "Introduce the proposal to turn weapons into means of welfare.",
+          "shortened": [
+            "For six thousand years, according to history, there hath ever been war and contention. The fire of battle hath blazed to a mighty height, and every land hath been continually beset with fear and dread. War have we tried, and its results have we beheld: ruin and bewilderment and everlasting loss. Now, according to the divine teachings, let us for a while promote universal peace, and lay the foundation of love and reconciliation among the nations. Let us change weapons into welfare, and transform the instruments of vengeance into implements of husbandry."
+          ]
         },
         {
           "key": "source:ABU1901",
-          "why": "Keep compassion for those forced into battle near the opening."
+          "why": "Keep compassion for those forced into battle near the opening.",
+          "shortened": [
+            "\"God treats these people with His mercy, not with His justice, since God is against war. But as many did not will the war, but were obliged to go to the battle field by force of circumstances, therefore God has mercy for they suffered much and they lost their lives."
+          ]
         },
         {
           "key": "source:ABU0321",
-          "why": "Read a young life through its unrealized possibilities."
+          "why": "Read a young life through its unrealized possibilities.",
+          "shortened": [
+            "War is a grievous calamity. It begins and ends in disaster. A mother has a beautiful boy filled with every grace and promise. He develops into manhood, goes to war, and in an instant all his possibilities sand usefulness are cut off."
+          ]
         },
         {
           "key": "source:AB00951",
-          "why": "Let trees, lamps and unopened buds make interrupted lives perceptible."
+          "why": "Let trees, lamps and unopened buds make interrupted lives perceptible.",
+          "shortened": [
+            "Consider the torrents of blood shed in the fields of battle for no good cause and for no sane purpose. Consider how many of humanities noble trees have been uprooted in their youth, how many lamps have been extinguished in this world barely after they were ignited, how many multi-coloured buds have been cut down before they had a chance to bloom, before their fragrant blossoms even opened."
+          ]
         },
         {
           "key": "source:AB00197",
-          "why": "Attend to parents, children and homelessness in the letter’s account."
+          "why": "Attend to parents, children and homelessness in the letter’s account.",
+          "shortened": [
+            "The fires of conflict have blazed so high that never in early times, not in the Middle Ages, not in recent centuries hath there ever been such a hideous war, a war that is even as millstones, taking for grain the skulls of men. Nay, even worse, for flourishing countries have been reduced to rubble, cities have been levelled with the ground, and many a once prosperous village hath been turned into ruin. Fathers have lost their sons, and sons their fathers. Mothers have wept away their hearts over dead children. Children have been orphaned, women left to wander, vagrants without a home."
+          ]
         },
         {
           "key": "source:AB02500",
@@ -914,7 +1242,10 @@
         },
         {
           "key": "source:ABU0901",
-          "why": "Bring family suffering into the address about Tripoli."
+          "why": "Bring family suffering into the address about Tripoli.",
+          "shortened": [
+            "Observe what is taking place in Tripoli: men cutting each other into pieces, bombardment from the sea, attacks from the land and the hail of dynamite from the very heaven itself. The contending armies are thirsting for each other's blood. How they can do this is inconceivable. They have fathers, mothers, children; they are human. What of their wives and families? Think of their anguish and suffering. How unjust, how terrible! Human beings should prevent and forbid this."
+          ]
         },
         {
           "key": "source:ABU0113",
@@ -942,7 +1273,10 @@
         },
         {
           "key": "source:ABU0607",
-          "why": "Keep the London formulation concerning an eternal cemetery."
+          "why": "Keep the London formulation concerning an eternal cemetery.",
+          "shortened": [
+            "Nations sometimes say, 'We wish to extend our boundaries!' Consider with me for a moment, 'What is the earth?' We live for a few years on its surface and then it becomes our eternal cemetery. Millions of generations are buried there. It is the universal graveyard of humanity. Is it praise worthy to engage in war for a cemetery--to pillage the wealth of nations for an eternal graveyard?"
+          ]
         },
         {
           "key": "source:BH00944",
@@ -958,7 +1292,11 @@
         },
         {
           "key": "source:AB01638",
-          "why": "Read the stated figures and losses as the source’s historical account."
+          "why": "Read the stated figures and losses as the source’s historical account.",
+          "shortened": [
+            "Consider how in the wilderness of Manchuria two million souls sacrificed their lives for the sake of earth, and throughout the winter season, in cold and storm and snow and rain, from morn till night they strove with utmost vigor to shed blood in the field of sacrifice. They shall find no fruit save manifest loss.",
+            "Indeed, war and strife, battle and conflict, striking and struggling are a disgrace to the human world and prevent prosperity and salvation."
+          ]
         },
         {
           "key": "source:ABU1806",
@@ -974,7 +1312,11 @@
         },
         {
           "key": "source:ABU2234",
-          "why": "Examine the double standard in the reported comparison with raiding tribes."
+          "why": "Examine the double standard in the reported comparison with raiding tribes.",
+          "shortened": [
+            "The politicians of the world maintain that war is the cause of material and intellectual progress. Yet they themselves consider the Bedouin Arabs to be contemptible and savage because they raid one another and plunder each other's property, while they themselves do exactly the same thing. The only difference is that the Arabs do this with sword and spear, while they do it with cannon and rifle.",
+            "Even if they conquer a country, how can a mother whose children have been killed find any joy or delight in such a victory?"
+          ]
         },
         {
           "key": "source:ABU0242",
@@ -994,7 +1336,10 @@
         },
         {
           "key": "source:AB00423",
-          "why": "Consider why modern weapons change the scale of endurance."
+          "why": "Consider why modern weapons change the scale of endurance.",
+          "shortened": [
+            "This last terrible war hath clearly proven that humanity cannot withstand the effects of modern instruments of warfare. The future can in no wise be compared to the past, for earlier weapons and armaments had but a feeble effect, whilst modern ones can, in a brief span of time, strike at the very roots of the world of humanity and surpass the limits of its endurance."
+          ]
         },
         {
           "key": "source:ABU3287",
@@ -1002,7 +1347,10 @@
         },
         {
           "key": "source:ABU0093",
-          "why": "Read the escalating reach of armies and navies in the 1912 address."
+          "why": "Read the escalating reach of armies and navies in the 1912 address.",
+          "shortened": [
+            "Continual additions to the armies and navies of the world will be made, and the fear and certainty of the great pandemic war -- the war unparalleled in history -- will be intensified; for armament, heretofore limited, is now being increased upon a colossal scale. Conditions are becoming acute, drawing nigh unto the degree of men warring upon the seas, warring upon the plains, warring in the very atmosphere with a violence unknown in former centuries."
+          ]
         },
         {
           "key": "source:ABU0613",
@@ -1014,11 +1362,17 @@
         },
         {
           "key": "source:AB02185",
-          "why": "State the consumption of both people and wealth."
+          "why": "State the consumption of both people and wealth.",
+          "shortened": [
+            "This day, in the world of humanity, men are all the time expending, for war is nothing but the consumption of men and of wealth."
+          ]
         },
         {
           "key": "source:ABU0769",
-          "why": "Follow the removal of workers from useful occupations."
+          "why": "Follow the removal of workers from useful occupations.",
+          "shortened": [
+            "War was the greatest calamity that could overtake the nations, because the people usually employed in agriculture, trades, commerce, and other useful arts, were taken away from their various occupations and turned into soldiers, so that there was great waste and loss, in addition to the destruction and carnage of war."
+          ]
         },
         {
           "key": "source:AB05479",
@@ -1034,7 +1388,10 @@
         },
         {
           "key": "source:AB00533",
-          "why": "Keep the vivid description of weapons, fortresses and ruined humanity."
+          "why": "Keep the vivid description of weapons, fortresses and ruined humanity.",
+          "shortened": [
+            "The fire of war is the flame of rifle and cannon. The fires of battles are the inferno of Krupp. Dragon-like vessels are engaged in attack and battle. The foundation of fortresses is destroyed and buried. Strong castles are leveled to the ground. Troops like waves are drowned and destroyed in the sea of death by incurable demise. Bodies of the slain are rolling in dust and blood. Rivers of blood are flowing and streaming. The foundation of humanity is demolished and ruined."
+          ]
         },
         {
           "key": "source:AB02578",
@@ -1046,7 +1403,10 @@
         },
         {
           "key": "source:AB00177",
-          "why": "Read the wartime letter’s grief and quoted poetry together."
+          "why": "Read the wartime letter’s grief and quoted poetry together.",
+          "shortened": [
+            "From the dawn of human history until now, never hath such a soul-consuming flame been kindled, nor such a conflagration spread to all horizons. All eyes are weeping and all hearts are burning. The whole continent of Europe hath become a field of bloodshed and an arena of savagery. As the poet sayeth: \"There is not a thorn whose tip is not reddened with the blood of martyrs.\" Cries and lamentations reach to the zenith of heaven. The tears of orphans flow like floods, while fathers grieve in mourning for their sons."
+          ]
         },
         {
           "key": "source:AB00053",
@@ -1054,11 +1414,18 @@
         },
         {
           "key": "source:AB00242",
-          "why": "Keep the retrospective address’s description of war and bereavement."
+          "why": "Keep the retrospective address’s description of war and bereavement.",
+          "shortened": [
+            "O noble friends and seekers for the Kingdom of God!",
+            "Some fifty to sixty years ago, when the fire of war was raging amongst governments and nations and bloodshed was considered the greatest of human attainments, the blood of thousands of human souls coloured the earth each day. Children were left without fathers, fathers without their sons, and mothers moaned and wailed, with tearful eyes and burning hearts, at the loss of their children. The darkness of hatred and animosity had enveloped humanity, the heavenly light had completely disappeared, and the breathings of the Holy Spirit were withheld."
+          ]
         },
         {
           "key": "source:AB00104",
-          "why": "Preserve the separate letter’s description of humanity in mortal combat."
+          "why": "Preserve the separate letter’s description of humanity in mortal combat.",
+          "shortened": [
+            "O ye dear friends! The world is at war and the human race is in travail and mortal combat. The dark night of hate hath taken over, and the light of good faith is blotted out. The peoples and kindreds of the earth have sharpened their claws, and are hurling themselves one against the other. It is the very foundation of the human race that is being destroyed."
+          ]
         },
         {
           "key": "source:AB00357",
@@ -1074,7 +1441,10 @@
         },
         {
           "key": "source:ABU0032",
-          "why": "Keep the synagogue address’s focus on religious misunderstanding."
+          "why": "Keep the synagogue address’s focus on religious misunderstanding.",
+          "shortened": [
+            "From the beginning of human history until this day, there has been strife among humanity, hatred and enmity, war and bloodshed. Why? Because of misunderstandings between religions, misunderstandings that have laid waste the human world. People have shed each other's blood, have taken each other's children captive, have plundered each other's property."
+          ]
         },
         {
           "key": "source:ABU0035",
@@ -1086,11 +1456,17 @@
         },
         {
           "key": "source:ABU0363",
-          "why": "Keep the interview’s extended account of changing excuses."
+          "why": "Keep the interview’s extended account of changing excuses.",
+          "shortened": [
+            "Every hour war is threatened upon some new pretext; today patriotism is its basis, tomorrow religious prejudice, racial egotism, territorial greed, commercial selfishness--it matters little what the excuse may be--blood is shed and human beings torn to pieces upon battlefields. Political interests clash; a great war follows; sadness, gloom and cruelty envelop the world."
+          ]
         },
         {
           "key": "source:ABU0237",
-          "why": "Follow the reported contrast between claims of victory and actual defeat."
+          "why": "Follow the reported contrast between claims of victory and actual defeat.",
+          "shortened": [
+            "Nations in various ages have resorted to different excuses to slaughter their fellowmen and crown their heads with the bloody crown of so-called victory which we may call it defeat. In the past religious wars were repeatedly waged on the ground that this is Mohamadan, that is Christian, this Hindu, that is a Jew etc. This was a pretext appealed to the religious emotions of mankind. Another excuse has been and is that of country or patriotism, this is France, that is Germany, here is England and that is India. Let my country advance at the expense of another. Let me do something to grab a piece of somebody else's land. Let the commerce of my people develop while the other is ruined!"
+          ]
         },
         {
           "key": "source:ABU0657",
@@ -1106,15 +1482,24 @@
         },
         {
           "key": "source:ABU0426",
-          "why": "Bring professed religious kinship into conflict with conduct."
+          "why": "Bring professed religious kinship into conflict with conduct.",
+          "shortened": [
+            "Nominally speaking the English and the German people belong to the Protestant wing of Christianity while the French and Austrians are Catholics. Notwithstanding this religiou[s] kinship they have already crimsoned many battlefields with the blood of each other. Why the display of this wolf-like quality? Why the appearance of these savage and brute forces?"
+          ]
         },
         {
           "key": "source:AB02129",
-          "why": "Read the drawn sword against Christ’s instruction to Peter."
+          "why": "Read the drawn sword against Christ’s instruction to Peter.",
+          "shortened": [
+            "In these days the world suffereth from unrest and turmoil, from contention and conflict and mankind is confused and stricken, and yet Christ bade Peter sheath his sword. And though He declared that he that draweth his sword shall by the sword be brought into account, yet notwithstanding, the sword hath been drawn and the peoples of the world are engaged in conflict."
+          ]
         },
         {
           "key": "source:ABU0843",
-          "why": "Keep the reported questions about peacemaking, diplomacy and patriotic incitement."
+          "why": "Keep the reported questions about peacemaking, diplomacy and patriotic incitement.",
+          "shortened": [
+            "Again Christ says: 'Blessed are the peacemakers: for they shall be called the children of God.' How does this agree with the intrigues of politicians, the machinations of the diplomatists behind the closed doors of their chancelleries and the constant incitement of jingo-press with their Pseudo-patriotism and the Continent of Europe becoming one vast, dangerous arsenal for the combustion of which only one spark is necessary and then there will be a world-consuming conflagration?"
+          ]
         },
         {
           "key": "source:ABU1927",
@@ -1126,15 +1511,25 @@
         },
         {
           "key": "source:ABU1218",
-          "why": "Turn the request for a nation’s victory toward impartial adjudication."
+          "why": "Turn the request for a nation’s victory toward impartial adjudication.",
+          "shortened": [
+            "Some of the German friends have asked that victory be given to Germany. We are not interfering with either party. Here at the Threshold of Baha'u'llah we pray that they may seek Peace and settle all their outstanding disputes before a judicial, impartial, international court.",
+            "May they upraise the banner of Universal Peace!"
+          ]
         },
         {
           "key": "source:ABU2581",
-          "why": "Keep the direct statement that war opposes the divine will."
+          "why": "Keep the direct statement that war opposes the divine will.",
+          "shortened": [
+            "God does not want war. These wars are against the divine will. He desires peace and love for His servants."
+          ]
         },
         {
           "key": "source:ABU0084",
-          "why": "Read the hope of justice with its explicit refusal to attribute this war to God’s desire."
+          "why": "Read the hope of justice with its explicit refusal to attribute this war to God’s desire.",
+          "shortened": [
+            "God willing, the sun of rest and tranquility will soon rise from the horizon of this world, and humanity will repose in the cradle of ease and joy. These are the days of testing, that pure gold may be separated and souls filled with prejudice and disease may vanish. The lights of justice and equity shall shine forth and be freed from the bonds of nature. It is abundantly clear that God, exalted be His glory, did not desire this war and strife."
+          ]
         },
         {
           "key": "source:ABU1142",
@@ -1142,27 +1537,45 @@
         },
         {
           "key": "source:ABU1378",
-          "why": "Consider the reported image of sacrifice reflected on water."
+          "why": "Consider the reported image of sacrifice reflected on water.",
+          "shortened": [
+            "Consider how many men are engaged most devotedly in the present War; how they sacrifice and give their lives and possessions; how great is the number of soldiers among them. They are commanded by men who have dedicated their lives to the study of the science of war. They are all ready to sacrifice themselves in an instant. And yet their sacrifice has no benefit. [It is transient,] like a picture reflected on water."
+          ]
         },
         {
           "key": "source:ABU2104",
-          "why": "Keep the reported contrast of enduring remembrance and battlefield anonymity."
+          "why": "Keep the reported contrast of enduring remembrance and battlefield anonymity.",
+          "shortened": [
+            "If one soul is martyred for the sake of Truth, eternally shall he shine from the horizon of Glory; but for the last six months probably more than one million living, breathing youths have been left on the battlefields as dead corpses and soon their very names will be forgot[en.] In a few years who will care to know about them as individuals."
+          ]
         },
         {
           "key": "source:ABU0951",
-          "why": "Retain the severe formulation about passing worldly results without using it to diminish victims."
+          "why": "Retain the severe formulation about passing worldly results without using it to diminish victims.",
+          "shortened": [
+            "Now it is thus: millions of souls march forth and perish in the cause of this world, for the sake of countries, either in struggle or in warfare with enemies--it has no importance. Like in these days when so many in Europe are being annihilated, so many fathers are being rendered sonless, so many children fatherless, so many homes are being laid waste, so many mothers throughout the world are crying and lamenting for their children--it has no importance. Soon no trace of it remains."
+          ]
         },
         {
           "key": "source:ABU1991",
-          "why": "Read the particular experience of a war opponent compelled to fight."
+          "why": "Read the particular experience of a war opponent compelled to fight.",
+          "shortened": [
+            "'Abdu'l-Baha remarked, \"Yes, Mousier Bernard was also taken to the battlefield, but if there was a single person in the world who was against war, it was him. He detested it most intensely and was so utterly against it that I am unable to describe for you. However, he was forced into joining the combat. For those who have sacrificed themselves in the path of God, it is difficult to sacrifice instead for mere soil, which is the least worthy of all creation.\""
+          ]
         },
         {
           "key": "source:ABU1539",
-          "why": "Keep the separate tribute to his opposition to killing."
+          "why": "Keep the separate tribute to his opposition to killing.",
+          "shortened": [
+            "His contempt for war was not because he desired to protect his own self, but was due to his hatred of conflict and killing. In truth, he was unique in all human perfections and spiritual attributes. He was a well-wisher for everyone."
+          ]
         },
         {
           "key": "source:ABU1123",
-          "why": "Consider the reported comparison between military discipline and imprisonment."
+          "why": "Consider the reported comparison between military discipline and imprisonment.",
+          "shortened": [
+            "Military rules are far worse than prison rules. These soldiers are in reality prisoners. They are restricted in all their affairs. They cannot deviate one hair's breadth from the prescribed rules. They are circumscribed in their eating, sleeping and walking. They are not at all free. Imagination rules over the world of humanity. These men are prisoners in everything save the name. Because they are called soldiers and are summoned to defend what the demagogues call \"Fatherland\" they willingly go through all these hardships."
+          ]
         },
         {
           "key": "source:ABU0548",
@@ -1174,19 +1587,31 @@
         },
         {
           "key": "source:ABU0133",
-          "why": "Hear the rhetorical questions about the purpose of distant armies."
+          "why": "Hear the rhetorical questions about the purpose of distant armies.",
+          "shortened": [
+            "I have come to find out what you want of me and my people? Why have you caused the shedding of the blood of all these people? For what reason have you ransacked all these cities? Why have you brought these armies from the end of the world to kill and be killed? What is back of this insatiable greed and rapacity?\""
+          ]
         },
         {
           "key": "source:ABU0805",
-          "why": "Preserve the reported judgment on failed policies."
+          "why": "Preserve the reported judgment on failed policies.",
+          "shortened": [
+            "Instead of being the cause of the honor of the world of humanity they will be the means of its debasement. Their policies shall collapse like a 'pack of cards.' Their intellectual weakness and moral imbecility will be exposed."
+          ]
         },
         {
           "key": "source:ABU1831",
-          "why": "Read the account of remorse after reckless entry into war."
+          "why": "Read the account of remorse after reckless entry into war.",
+          "shortened": [
+            "Now that the world is in turmoil, let us see what will happen after this tempest; God willing, it will turn out well. These governments, without remembering the difficulties of this war, or considering its consequences, or taking into account the gravity of the situation, rush recklessly into war. Now both sides are remorseful. Had they known it would come to this, they would not have acted so rashly."
+          ]
         },
         {
           "key": "source:ABU2008",
-          "why": "Consider the temporary victories in the reported Napoleon example."
+          "why": "Consider the temporary victories in the reported Napoleon example.",
+          "shortened": [
+            "Napoleon the Great conquered Germany and brought under his control its domain but to what result! It was only a temporary victory. It ruined the homes of thousands to satisfy the beastly ambition of a single man. In a short while Germany recuperated and avenged the wrongs meted him by striking the terror of his arms into the very heart of France. The great conqueror himself spent his last days in misery [on] the Island of St. Helena."
+          ]
         },
         {
           "key": "source:ABU0348",
@@ -1198,7 +1623,10 @@
         },
         {
           "key": "source:ABU1178",
-          "why": "Preserve the reported distinction between military defeat and solidarity’s victory."
+          "why": "Preserve the reported distinction between military defeat and solidarity’s victory.",
+          "shortened": [
+            "Similarly, all these nation[s] who are fighting each other and forming red rivers of the blood of their fellowmen - are defeated - one and all. For all of them are captives in the claws of lust and passion, are prompted by greed and cupidity and are imbued with the spirit of jealousy and hatred. The Army of the oneness of the world of humanity conquers over all, the Flag of Universal Peace shall wave over all; the power of the Divine Graces shall defeat all and the truths of human solidarity will vanquish all."
+          ]
         },
         {
           "key": "source:ABU1626",
@@ -1210,7 +1638,10 @@
         },
         {
           "key": "source:ABU1410",
-          "why": "Read the reported discrepancy between a peace speech and later war."
+          "why": "Read the reported discrepancy between a peace speech and later war.",
+          "shortened": [
+            "The Czar of Russia promoted The Hague Peace Conference and proposed the decreased in armament for all nations. In this Conference it was proved that Peace was beneficial to all countries, and war destroyed trade, etc. The Czar made a very good speech, though after it was over he, himself, was the first to declare war (against Japan)."
+          ]
         },
         {
           "key": "source:ABU0531",
@@ -1226,7 +1657,11 @@
         },
         {
           "key": "source:ABU3656",
-          "why": "Keep the reported criticism of incomplete representation in the League of Nations."
+          "why": "Keep the reported criticism of incomplete representation in the League of Nations.",
+          "shortened": [
+            "['Abdu'l-Baha] responded:",
+            "Yes, since they have disobeyed the blessed instructions [of Baha'u'llah]. Only a few countries have representatives in the League of Nations, whereas the representatives must be appointed and ratified by the nation, the government, the monarch and the Senate. They do not even consult. On the other hand, some governments are deprived of membership, and this has precipitated their fury and prompted their feeling of revenge. Governments have secret alliances with each other of which no one is aware, but these schemes will reach nowhere."
+          ]
         },
         {
           "key": "source:AB04688",
@@ -1234,7 +1669,10 @@
         },
         {
           "key": "source:AB02221",
-          "why": "Read the argument for spiritual education beyond material civilization."
+          "why": "Read the argument for spiritual education beyond material civilization.",
+          "shortened": [
+            "Praise be to God, in this severe war and grievous torment it became firmly established that nothing but divine teachings are the cause of success and prosperity, and nothing but heavenly law can preserve the human world. This was the outcome of the great civilization that came to pass. Thus it became clear that the comfort and ease of the human world and the protection and preservation of human society is impossible through civilization alone - rather it must be combined with divine teachings, and the human world must be quickened and refreshed by the breaths of the Holy Spirit, and through the power of the Word of God the banner of universal peace must be raised. Otherwise human powers are impotent."
+          ]
         },
         {
           "key": "source:ABU0034",
@@ -1242,7 +1680,10 @@
         },
         {
           "key": "source:ABU0265",
-          "why": "Preserve the reported reasoning used to defend colossal armaments."
+          "why": "Preserve the reported reasoning used to defend colossal armaments.",
+          "shortened": [
+            "In order that they may safeguard their vital interests, independence and honor, they must[,] they argue, keep up these colossal armies and navies to the highest degree of efficiency. They believe they must keep peace amongst themselves at the point of bayonets, forts, machine guns and infernal engines."
+          ]
         },
         {
           "key": "source:ABU0315",
@@ -1250,7 +1691,11 @@
         },
         {
           "key": "source:ABU0566",
-          "why": "Include the preceding question and examine the proposed simultaneous agreement."
+          "why": "Include the preceding question and examine the proposed simultaneous agreement.",
+          "shortened": [
+            "Question: What is your opinion concerning disarmament?",
+            "Answer: Be a general agreement all the governments of the world must disarm simultaneously and at the same time. It will not do if one lays down the arms and the other refuses to do so. The nations of the world must concur with each other concerning this supremely important subject, thus they may abandon together the deadly weapons of human slaughter."
+          ]
         },
         {
           "key": "source:BH00662",
@@ -1262,7 +1707,11 @@
         },
         {
           "key": "source:AB00004",
-          "why": "Read the Pact, its collective enforcement, and the distinction concerning protective war together."
+          "why": "Read the Pact, its collective enforcement, and the distinction concerning protective war together.",
+          "shortened": [
+            "The fundamental principle underlying this solemn Pact should be so fixed that if any government later violate any one of its provisions, all the governments on earth should arise to reduce it to utter submission, nay the human race as a whole should resolve, with every power at its disposal, to destroy that government. Should this greatest of all remedies be applied to the sick body of the world, it will assuredly recover from its ills and will remain eternally safe and secure.",
+            "A conquest can be a praiseworthy thing, and there are times when war becomes the powerful basis of peace, and ruin the very means of reconstruction. If, for example, a high-minded sovereign marshals his troops to block the onset of the insurgent and the aggressor, or again, if he takes the field and distinguishes himself in a struggle to unify a divided state and people, if, in brief, he is waging war for a righteous purpose, then this seeming wrath is mercy itself, and this apparent tyranny the very substance of justice and this warfare the cornerstone of peace."
+          ]
         },
         {
           "key": "source:BH00001",
@@ -1270,7 +1719,10 @@
         },
         {
           "key": "source:AB00710",
-          "why": "Preserve the distinction between fighting for justice and fighting from hatred or plunder."
+          "why": "Preserve the distinction between fighting for justice and fighting from hatred or plunder.",
+          "shortened": [
+            "Even some of them fought against people, but their fighting was not like the fighting of other persons - rather it was based on justice and fairness. But the warfare of people in general stems only from hatred and enmity or worldly conquest. How different these are, when that fighting was to establish justice and fairness, prevent oppressors from tyranny and execute retribution, while this fighting springs from doubt, evil whisperings, love of base desires, plunder and raids."
+          ]
         },
         {
           "key": "source:AB00799",
@@ -1298,11 +1750,17 @@
         },
         {
           "key": "source:ABU1639",
-          "why": "Give arbitration priority over the sword in the reported counsel."
+          "why": "Give arbitration priority over the sword in the reported counsel.",
+          "shortened": [
+            "In this century the voices of peace must drown the clamors for battle, and the principle of arbitration must gain sway over the arbitrement [sic] of the sword. Man must learn war no more neither must he let the brutal and barbaric forces of passion and lust control the humane intellectual and moral powers."
+          ]
         },
         {
           "key": "source:BH00005",
-          "why": "Imagine the limited security needs of nations within an agreed peace."
+          "why": "Imagine the limited security needs of nations within an agreed peace.",
+          "shortened": [
+            "Arms and armaments will, then, be no more needed beyond that which is necessary to insure the internal security of their respective countries. If they attain unto this all-surpassing blessing, the people of each nation will pursue, with tranquillity and contentment, their own occupations, and the groanings and lamentations of most men would be silenced."
+          ]
         },
         {
           "key": "source:ABU1720",
@@ -1346,7 +1804,11 @@
         },
         {
           "key": "source:ABU2525",
-          "why": "Let the tongue replace the worn sword in the reported image."
+          "why": "Let the tongue replace the worn sword in the reported image.",
+          "shortened": [
+            "The sword has been working over six thousand years and has become dull. We must look about us for another sword to take its place.",
+            "The greatest sword is the tongue."
+          ]
         },
         {
           "key": "source:ABU3348",
@@ -1362,7 +1824,10 @@
         },
         {
           "key": "source:ABU0137",
-          "why": "Consider the destruction of long achievement within a single year."
+          "why": "Consider the destruction of long achievement within a single year.",
+          "shortened": [
+            "For strife and warfare are the very destroyers of human foundations, whereas peace and amity are the builders and safeguards of human welfare. As an instance, two nations which have remained at peace for centuries declare war against each other. What destruction and loss befalls both in one year of strife and conflict -- the undoing of centuries. How urgent their necessity and demand for peace, with its comfort and progress, instead of war, which blasts and destroys the foundation of all human attainment."
+          ]
         },
         {
           "key": "source:ABU0056",
@@ -1378,11 +1843,18 @@
         },
         {
           "key": "source:ABU1199",
-          "why": "Keep the compact reported description of a bloodstained history."
+          "why": "Keep the compact reported description of a bloodstained history.",
+          "shortened": [
+            "History is a record of incessant wars. There is not a spot on the globe that has not been crimsoned with the blood of men; the whole earth is blood-drenched."
+          ]
         },
         {
           "key": "source:ABU0145",
-          "why": "Hear the Columbia address’s invitation to try another course."
+          "why": "Hear the Columbia address’s invitation to try another course.",
+          "shortened": [
+            "For thousands of years we have had bloodshed and strife. It is enough; it is sufficient. Now is the time to associate together in love and harmony. For thousands of years we have tried the sword and warfare; let mankind for a time at least live in peace.",
+            "Review history and consider how much savagery, how much bloodshed and battle the world has witnessed. It has been either religious warfare, political warfare or some other clash of human interests. The world of humanity has never enjoyed the blessing of universal peace."
+          ]
         },
         {
           "key": "source:ABU0125",
@@ -1390,15 +1862,24 @@
         },
         {
           "key": "source:ABU2033",
-          "why": "Keep the separate London formulation of the peace experiment."
+          "why": "Keep the separate London formulation of the peace experiment.",
+          "shortened": [
+            "During the last six thousand years nations have hated one another, it is now time to stop. War must cease. Let us be united and love one another and await the result. We know the effects of war are bad. So let us try, as an experiment, peace, and if the results of peace are bad, then we can choose if it would be better to go back to the old state of war! Let us in any case make the experiment."
+          ]
         },
         {
           "key": "source:ABU0268",
-          "why": "Give the brief invitation to exercise love room to resonate."
+          "why": "Give the brief invitation to exercise love room to resonate.",
+          "shortened": [
+            "For thousands of years the human race has been at war. It is enough. Now let mankind, for a time at least, consort in amity and peace. Enmity and hatred have ruled. Let the world, for a period, exercise love."
+          ]
         },
         {
           "key": "source:AB00172",
-          "why": "Preserve the retrospective account of warnings in the letter."
+          "why": "Preserve the retrospective account of warnings in the letter.",
+          "shortened": [
+            "Nearly fifty years ago, Baha'u'llah promulgated teachings and raised the call of universal peace. In all His Tablets and epistles, He explicitly foretold these present events, warning that humanity was in grave danger and that a universal war was impending and inevitable, for the inflammable materials stored in the infernal arsenals of Europe would be ignited by a single spark."
+          ]
         },
         {
           "key": "source:AB02380",
@@ -1414,7 +1895,10 @@
         },
         {
           "key": "source:ABU2319",
-          "why": "Preserve the separate Finkelstein conversation’s account."
+          "why": "Preserve the separate Finkelstein conversation’s account.",
+          "shortened": [
+            "In the course of My journey in the western countries, in all the synagogues and churches, I cried out that Europe was in grievous danger. It was like a barrel of gunpowder that with the least spark would explode and scorch everything in its grasp. I said to them, 'People, exert your efforts to protect humanity from this peril."
+          ]
         },
         {
           "key": "source:ABU2064",
@@ -1430,19 +1914,31 @@
         },
         {
           "key": "source:ABU0360",
-          "why": "Read the reported prophetic interpretation as an interpretation in its historical setting."
+          "why": "Read the reported prophetic interpretation as an interpretation in its historical setting.",
+          "shortened": [
+            "It is said that he poured it on the air, because the air fills every place, and the continuing verses mean the Great War that is to come. After this war everything will be at peace. The city which was cut in three pieces means that kingdom of Babylonia, which is under three kings, those of England, Persia and Turkey. The islands and mountains of v. 20 mean people of influence, and also small kingdoms, which will be destroyed and annihilated at that time."
+          ]
         },
         {
           "key": "source:AB00344",
-          "why": "Keep the letter’s account of peace assemblies alongside its statement of predestination."
+          "why": "Keep the letter’s account of peace assemblies alongside its statement of predestination.",
+          "shortened": [
+            "Through the concerted efforts of some wealthy individuals in America, great assemblies were established to promulgate universal peace and to abolish ruinous warfare and the needless shedding of blood. In spite of this, war was predestined to occur."
+          ]
         },
         {
           "key": "source:ABU0270",
-          "why": "Read the Balkan destruction in the farewell address aboard the Celtic."
+          "why": "Read the Balkan destruction in the farewell address aboard the Celtic.",
+          "shortened": [
+            "Consider what is happening in the Balkans. Human blood is being shed, properties are destroyed, possessions pillaged, cities and villages devastated. A world-enkindling fire is astir in the Balkans. God has created men to love each other; but instead, they kill each other with cruelty and bloodshed."
+          ]
         },
         {
           "key": "source:ABU0336",
-          "why": "Keep the Washington address’s response to the same crisis."
+          "why": "Keep the Washington address’s response to the same crisis.",
+          "shortened": [
+            "Consider events in the Balkans today where a great conflagration of war is furiously raging and so much blood is being shed. Virtually the whole world of humanity is mourning and lamenting because of the revival of these calamitous conditions."
+          ]
         },
         {
           "key": "source:ABU0219",
@@ -1494,11 +1990,17 @@
         },
         {
           "key": "source:AB00794",
-          "why": "Keep thanksgiving for received letters and reported protection."
+          "why": "Keep thanksgiving for received letters and reported protection.",
+          "shortened": [
+            "O thou who art firm in the Covenant! After the quieting of the fires of war, four letters arrived from you in succession. Since they brought news of the health and safety of the divine friends, they caused the utmost joy. Praise be to God that in this great tempest, the Ship of the Covenant reached the shore of salvation. The danger was severe and there was cause for fear and trepidation, yet through divine protection the friends in all regions remained safe and preserved, especially in the Holy Land where tribulations and dangers were without limit."
+          ]
         },
         {
           "key": "source:AB00856",
-          "why": "Read the contrast between general suffering and the letter’s account of protection."
+          "why": "Read the contrast between general suffering and the letter’s account of protection.",
+          "shortened": [
+            "In those days when the fire of war was aflame and the homes of the world's people were burned, when earthquake struck the foundations of the world, when the earth was stained red with the blood of precious youth, when structures collapsed and edifices were destroyed, when millions of mothers tore their collars in mourning for their sons and cried out with tear-filled eyes, when millions of fathers lost their sons and millions of sons lost their fathers, when orphans were left destitute and grief-stricken women became confused and distressed - in such times, the light of the Ancient Beauty's protection shone upon the friends in all regions."
+          ]
         },
         {
           "key": "source:AB11812",
@@ -1506,7 +2008,10 @@
         },
         {
           "key": "source:AB02291",
-          "why": "Join gratitude with a prayer for every person."
+          "why": "Join gratitude with a prayer for every person.",
+          "shortened": [
+            "I praised the Lord for having protected the friends all throughout the war that has now subsided. All mankind was held in the grip of anguish, and calamities afflicted every soul, while the safety of the friends constituted one of the greatest gifts. For that we thank God and pray that He may confer upon every one that which will illumine the hearts, refresh the souls, bestow light to the eyes and brighten the visions; and that is the dawn of the Sun of the Truth upon all regions, from the horizon of universal peace."
+          ]
         },
         {
           "key": "source:AB07723",
@@ -1514,7 +2019,10 @@
         },
         {
           "key": "source:AB01056",
-          "why": "Read the hope that fighting will cease in East as well as West."
+          "why": "Read the hope that fighting will cease in East as well as West.",
+          "shortened": [
+            "Now that the flames of war have been extinguished in the West, God willing they will be completely quenched in the East as well. I hope that rest and tranquility will be achieved."
+          ]
         },
         {
           "key": "source:AB12306",
@@ -1522,15 +2030,24 @@
         },
         {
           "key": "source:AB00491",
-          "why": "Distinguish the faint ray of peace from its full dawn."
+          "why": "Distinguish the faint ray of peace from its full dawn.",
+          "shortened": [
+            "The dark cloud of war has somewhat dissipated from the world's horizon and a faint ray of universal peace has dawned. Through the favors of the Lord of Hidden Bounties, it is hoped that the brilliant sun of peace and tranquility will shine radiantly from the dawning-place of hopes."
+          ]
         },
         {
           "key": "source:AB12107",
-          "why": "Read the guarded beginning of peace and the hope for its completion."
+          "why": "Read the guarded beginning of peace and the hope for its completion.",
+          "shortened": [
+            "O esteemed souls! Praise be to God that the fire of war has been extinguished in most lands and peace and tranquility have, to some degree, been established. Through God's favors, my hope is that this fire will be completely quenched and that the banner of peace and concord will wave over all horizons. Although this is but the beginning of the dawn of universal peace, I hope that through divine assistance and grace its radiant sun will rise and illumine all horizons with the light of unity, harmony and the Most Great Peace."
+          ]
         },
         {
           "key": "source:AB06570",
-          "why": "Imagine European peoples living within one homeland."
+          "why": "Imagine European peoples living within one homeland.",
+          "shortened": [
+            "May the different nations of Europe attain the station of one nation, and may the continent of Europe become one homeland, so that after this terrible war, perfect harmony, unity and love may be established among all the peoples of Europe."
+          ]
         },
         {
           "key": "source:ABU0155",
@@ -1538,7 +2055,10 @@
         },
         {
           "key": "source:ABU2714",
-          "why": "Keep the reported expectation that suffering will increase desire for peace."
+          "why": "Keep the reported expectation that suffering will increase desire for peace.",
+          "shortened": [
+            "This War is indeed ruinous and devastating in its effects. However, afterwards, the number of peace-loving people will grow considerably, and the commotions, uproars and the mighty tumult will precipitate [universal] peace."
+          ]
         },
         {
           "key": "source:ABU2393",
@@ -1546,15 +2066,24 @@
         },
         {
           "key": "source:AB01924",
-          "why": "Connect the hoped-for change with active service."
+          "why": "Connect the hoped-for change with active service.",
+          "shortened": [
+            "Now that calm and assurance have been attained, one must charge forth like a fierce lion and valiant hero in the arena of sacrifice, for through this sudden war humankind has developed an intense receptivity, and the loftiness of divine teachings, the luminosity of divine laws, and the contents of divine tablets have been realized. We hope that the universal war will lead to universal peace, and that this bloodshed and violation and recklessness will yield purity and freedom. May the world find rest and the universe adornment. May the tumult of conflict and war be transformed into the jubilation of melody and song."
+          ]
         },
         {
           "key": "source:AB01671",
-          "why": "Retain the concise statement of humanity’s need after destruction."
+          "why": "Retain the concise statement of humanity’s need after destruction.",
+          "shortened": [
+            "Now all humanity has realized that war is the destroyer of human foundations and mankind is in need of universal peace and likewise in need of other divine teachings."
+          ]
         },
         {
           "key": "source:AB12110",
-          "why": "Read the letter’s retrospective claims and contrast between war and peace."
+          "why": "Read the letter’s retrospective claims and contrast between war and peace.",
+          "shortened": [
+            "What was addressed to Berlin and the German Emperor in the Kitab-i-Aqdas was fulfilled, and likewise what was addressed to Constantinople and the Ottoman Sultan was fulfilled, as well as the other blessed utterances in the Surih of the Temple, until all creation became convinced in heart and soul that the Great War is the cause of destruction while peace is the cause of prosperity; war demolishes the edifice of humanity while peace establishes the divine foundation; war is death while peace is life; war is satanic suggestions while peace is divine inspirations."
+          ]
         },
         {
           "key": "source:AB00016",
@@ -1598,7 +2127,10 @@
         },
         {
           "key": "source:ABU2201",
-          "why": "Read perseverance through difficulty as part of that undertaking."
+          "why": "Read perseverance through difficulty as part of that undertaking.",
+          "shortened": [
+            "We must not fear difficulties and labor. They lead us to the noblest end. We must resist the whole world, for the world wants war; unite our efforts and with divine love we will succeed."
+          ]
         },
         {
           "key": "source:ABU0325",
@@ -1610,7 +2142,11 @@
         },
         {
           "key": "source:AB04017",
-          "why": "Turn from success at another’s expense toward fellowship."
+          "why": "Turn from success at another’s expense toward fellowship.",
+          "shortened": [
+            "That is, each one tears open the breast of another, and sees their own success in another's bitterness, and seeks their own unity in another's estrangement.",
+            "Give up war and sharp claws, make peace your aim and seek culture and uprightness. Seek security and peace, and spread wide the feast of fellowship."
+          ]
         },
         {
           "key": "source:AB04999",
@@ -1622,7 +2158,10 @@
         },
         {
           "key": "source:AB05884",
-          "why": "Give service the image of a field of battle becoming a place of meeting."
+          "why": "Give service the image of a field of battle becoming a place of meeting.",
+          "shortened": [
+            "My hope is that you will be successful in outstanding services and become the cause of spreading universal peace, so that these fields of war and strife may be transformed into gatherings of fellowship, meeting, love and harmony."
+          ]
         },
         {
           "key": "source:AB05556",
@@ -1638,7 +2177,11 @@
         },
         {
           "key": "source:AB02645",
-          "why": "Read the image of a community shining like the morning star."
+          "why": "Read the image of a community shining like the morning star.",
+          "shortened": [
+            "At such a time when the flames of war are burning in East and West, those friends are engaged in the remembrance of God and striving to awaken souls, purify hearts, establish the foundation of unity and harmony between nations, and create affection between East and West, so that the oneness of the world of humanity may shine like a lamp in the gathering of the horizons.",
+            "Praise be to God that in the dark night you are illumined, and in these days when the clouds of war have covered the horizons, you are shining like the morning star."
+          ]
         },
         {
           "key": "source:AB05089",
@@ -1650,7 +2193,10 @@
         },
         {
           "key": "source:AB07441",
-          "why": "Let the heavenly colonel prepare a feast of reconciliation."
+          "why": "Let the heavenly colonel prepare a feast of reconciliation.",
+          "shortened": [
+            "O heavenly Colonel! Leave the battle line and adorn the gathering of peace. Abandon the field of combat and prepare the feast of reconciliation. Take up the cup of friendship and in the assembly of truth pour forth the wine of concord, so that all the peoples of the world may enter beneath the pavilion of love, unity and universal peace. Demolish the foundation of discord and beautify the palace of harmony and fairness."
+          ]
         },
         {
           "key": "source:AB09099",
@@ -1658,11 +2204,18 @@
         },
         {
           "key": "source:AB04443",
-          "why": "Consider assemblies and spiritual fellowship as foundations for peace."
+          "why": "Consider assemblies and spiritual fellowship as foundations for peace.",
+          "shortened": [
+            "Organize ye spiritual assemblies; lay ye the foundation of union and concord in this world; destroy ye the fabric of strife and war from the face of the earth; construct ye the temple of harmony and agreement; enkindle ye the light of the realm of the oneness of humanity; open ye your eyes; gaze and behold ye the other world! The Kingdom of peace, salvation, uprightness and reconciliation is founded in the Invisible World, and it will by degrees become manifest and apparent through the power of the Word of God!",
+            "I supplicate God that ye may become the army of that Kingdom, in order that by the power of the Most Great Name, the friends of God may conquer this world through love, friendship and the strength of the Kingdom of peace; the human race become compassionate, and bloodshed and carnage be completely effaced from the universe."
+          ]
         },
         {
           "key": "source:ABU2890",
-          "why": "Read the reported prospect of an army equipped with different powers."
+          "why": "Read the reported prospect of an army equipped with different powers.",
+          "shortened": [
+            "As the Master was looking upon this seemingly victorious army he said: \"The wise man sees that another army with no cannons or rifles but with quite other armaments shall defeat this Army. The day is coming when all these armies and regiments are vanquished by the ever-victorious army of the Kingdom of Abha and theirs shall be the glorious triumphs of Peace and brotherhood."
+          ]
         },
         {
           "key": "source:ABU1270",
@@ -1674,15 +2227,25 @@
         },
         {
           "key": "source:AB02083",
-          "why": "Follow the transformation of warships and weapons toward trade and cultivation."
+          "why": "Follow the transformation of warships and weapons toward trade and cultivation.",
+          "shortened": [
+            "May the dark clouds of war and strife disperse, may the lights of the Sun of Reality shine from the horizon of peace and reconciliation upon all the world, may the light of guidance shine forth, may hearts be illumined, may souls be quickened with eternal life, may the heavenly teachings that have been issued in this luminous century spread, may the foundation of hatred and enmity be destroyed, may the palace of fellowship and love be raised up, may warships be transformed into merchant vessels, may implements of war become tools of agriculture and cultivation, may the fire of oppression and aggression be extinguished, may the breeze of providence blow, may the springtime of the unity of the human world pitch its tent at the pole of the earth, and may the banner of universal peace be raised."
+          ]
         },
         {
           "key": "source:AB05864",
-          "why": "Keep the brief tribute to amity and joy."
+          "why": "Keep the brief tribute to amity and joy.",
+          "shortened": [
+            "He abhorred the darkness of war and conflict and praised the light of amity and the spirit of joy and delight."
+          ]
         },
         {
           "key": "source:ABU0679",
-          "why": "Let the reported question imagine fellowship in place of weapons."
+          "why": "Let the reported question imagine fellowship in place of weapons.",
+          "shortened": [
+            "See how bloodthirsty mankind is, see how cruel man is, how heedless of God he is.",
+            "Now if instead of sword and saber and bullet and rifle and cannon, they would engage in love and affection and pleasure and delight and celebration and joy, and become intoxicated with the wine of gladness at the feast of fulfillment, and embrace each other as intimate companions harmonious with the angel's song - would that not be better?"
+          ]
         },
         {
           "key": "source:ABU2967",
@@ -1698,19 +2261,31 @@
         },
         {
           "key": "source:BHU0015",
-          "why": "Read the reported promise of the Most Great Peace with its source omissions visible."
+          "why": "Read the reported promise of the Most Great Peace with its source omissions visible.",
+          "shortened": [
+            "Yea, thus shall it be: these fruitless strifes, these ruinous wars shall pass away and the \"Most Great Peace\" shall come... Do you not also need this in Europe? Is this not what Christ foretold?... The kings and rulers, instead of expending your wealth and treasures for the betterment of countries and the comfort of the people, spend all in the destruction of humankind.... These strifes and this bloodshed and discord must cease, and all men be as one kindred and one family...."
+          ]
         },
         {
           "key": "source:AB00220",
-          "why": "Preserve the correspondent’s question about whether war will give way to fellowship."
+          "why": "Preserve the correspondent’s question about whether war will give way to fellowship.",
+          "shortened": [
+            "You had expressed complaint about the war and strife, the battles and killing in the lands of Africa, and had voiced your regret, asking whether this unceasing enmity of the proud ones, continuing through ages and cycles, would persist, or whether the beloved beauty of fellowship and love would one day appear in the gathering of the world."
+          ]
         },
         {
           "key": "source:AB02153",
-          "why": "Let the yearning for another world draw the sequence toward prayer."
+          "why": "Let the yearning for another world draw the sequence toward prayer.",
+          "shortened": [
+            "There is war among the religions; war among the nations; war among the peoples; war among the rulers. What a welcome change would it be, if only these black clouds would lift from off the skies of the world, so that the light of reality could be shed abroad! If only the darksome dust of this continual fighting and killing could settle forever, and the sweet winds of God’s loving-kindness could blow from out the wellspring of peace. Then would this world become another world, and the earth would shine with the light of her Lord."
+          ]
         },
         {
           "key": "source:AB00145",
-          "why": "Keep the appeal for mercy amid an overwhelming war."
+          "why": "Keep the appeal for mercy amid an overwhelming war.",
+          "shortened": [
+            "O Lord! The factions have penetrated deep into the fields of struggle and conflict, and this sweeping torrent and grinding war cannot be halted save through Thy mercy which embraceth all that was and shall be."
+          ]
         },
         {
           "key": "source:AB05997",
@@ -1797,7 +2372,7 @@
       "id": "6E786EE894E9EA130794C22592689E71",
       "slug": "westernjourney",
       "displayTitle": "‘Abdu’l‑Bahá’s Western journeys: distance overcome by love",
-      "introduction": "A letter written while walking in New York, another composed on a moving ship, and a remembered welcome that dispels fatigue bring these journeys close to ordinary experience. Their wider horizon is extraordinary: after decades of confinement, ‘Abdu’l‑Bahá travels across seas and continents to meet people, speak about peace, and invite a new understanding of humanity’s unity. The selections preserve plans, changes of plan, intimate correspondence, public addresses, and later recollections. Their accounts of distances, events, and reception belong to their particular sources; together they offer many perspectives rather than a single continuous itinerary. Longing for friends accompanies demanding schedules, illness, prayer, and concern for those left behind. Neighboring autobiographical and anecdotal subjects open further human detail, while the growth of the Cause raises the question of lasting results. Luke’s account of messengers carrying peace into homes offers a comparison for thinking about travel as service and relationship.",
+      "introduction": "He wrote one letter while walking in a New York park because there was no other free moment, and another on a steamship whose rolling made the pen unsteady. After forty years of confinement, ‘Abdu’l‑Bahá, elderly and unwell, crossed seas and continents to speak of peace and the oneness of humanity in churches, synagogues and public halls, and to meet people he had long loved by correspondence. He told the friends in California that no one in history had travelled so far simply to see his friends, and that the distance had seemed carpeted with silk. The journeys are full of ordinary things: electric signs on Broadway, a lakeside hotel, schedules changed, illness, sleepless nights, money refused, the homesick ache for the East. Beneath them runs a single intention, to show by action what teaching means, and a trust that seeds sown in haste would grow after he had gone. Luke’s account of messengers sent out to carry peace into the homes that receive them offers a way to think about travel as service. From here the road continues into ‘Abdu’l‑Bahá’s own account of his life, the stories told of him, and the growth of the Cause that followed.",
       "arc": "Begin with letters in motion, friendship and freedom after confinement; follow invitations, preparation and encounters across the West; attend to practical costs and bodily limits; return through remembrance, results and hopes for further service.",
       "order": [
         {
@@ -1806,7 +2381,10 @@
         },
         {
           "key": "source:AB04974",
-          "why": "Carry personal remembrance onto the moving steamship."
+          "why": "Carry personal remembrance onto the moving steamship.",
+          "shortened": [
+            "Now that I am on the Greatest Ocean, traveling and moving on a steamship amidst the waves, I have thought of you and am writing this letter, though writing is difficult due to the motion of the ship."
+          ]
         },
         {
           "key": "source:ABU2060",
@@ -1818,7 +2396,10 @@
         },
         {
           "key": "source:ABU0684",
-          "why": "Introduce the fruitful tree and a message expressed in different tongues."
+          "why": "Introduce the fruitful tree and a message expressed in different tongues.",
+          "shortened": [
+            "I desired to become a sturdy and strong and fruitful tree in the Garden of the Blessed Perfection. In this manner I wished to gain growth and development, produce fruits for the healing of nations, deliver the Word of God and unfurl the banner of Reality. Day and night I worked, taught and rested not. In various tongues and under different expressions and sundry terminologies I presented to the world the same eternal message and voiced forth the same truth."
+          ]
         },
         {
           "key": "source:AB02586",
@@ -1830,19 +2411,31 @@
         },
         {
           "key": "source:ABU3208",
-          "why": "Keep the small remembered response to electric signs."
+          "why": "Keep the small remembered response to electric signs.",
+          "shortened": [
+            "As we drove up Broadway, glittering with its electric signs, He spoke of them smiling, apparently much amused."
+          ]
         },
         {
           "key": "source:ABU0924",
-          "why": "Let the longing to meet explain the distance to Los Angeles."
+          "why": "Let the longing to meet explain the distance to Los Angeles.",
+          "shortened": [
+            "Where is Acca -- where is Los Angeles? These regions are far away, what vast distances between them and you, distance indeed; but consider how I longed to see you wherefore, I traverse such distances across country and ocean; otherwise this great distance between Los Angeles and the far East was impossible for me, but because of excessive longing, I came."
+          ]
         },
         {
           "key": "source:ABU0906",
-          "why": "Read the reported transformation of a great distance into something near."
+          "why": "Read the reported transformation of a great distance into something near.",
+          "shortened": [
+            "I have crossed 12 or 13,000 miles to come here and see you. The distance is very great. This will show you how much I longed to meet you, and all this distance the roads were as though carpeted with silk. While the sea was rolling and surging it was as though it were smooth and calm. The great Atlantic to my sight was like unto a lake, and from New York to San Francisco it was like unto a mile."
+          ]
         },
         {
           "key": "source:ABU1356",
-          "why": "Preserve the geographical and historical claims as part of the reported expression of love."
+          "why": "Preserve the geographical and historical claims as part of the reported expression of love.",
+          "shortened": [
+            "Consider what love Baha'u'llah has created in the hearts, when from the other side of the world - from Syria - I have hastened to the uttermost part of the earth to meet you, and have traveled half of the sphere, of the globe. Considered from a geographical standpoint, there is no further point than San Francisco. You see, this is just the opposite point of Syria. Half an arc has been covered. How great was my longing! This is the love that Baha'u'llah has made possible."
+          ]
         },
         {
           "key": "source:ABU1068",
@@ -1854,7 +2447,10 @@
         },
         {
           "key": "source:AB00172",
-          "why": "Introduce the letter’s overview of travel and the message of peace."
+          "why": "Introduce the letter’s overview of travel and the message of peace.",
+          "shortened": [
+            "This prisoner of forty years, following his freedom, traveled for three years--from 1910 to the end of 1913--throughout Europe and the vast continent of America. Despite extreme weakness and fatigue, he delivered extensive addresses in all cities, in great gatherings and major churches, proclaiming aloud whatsoever was contained in the Tablets and teachings of Baha'u'llah concerning war and peace."
+          ]
         },
         {
           "key": "source:ABU1617",
@@ -1870,11 +2466,18 @@
         },
         {
           "key": "source:AB02477",
-          "why": "Keep the letter’s explanation of limited freedom of thought in Iran."
+          "why": "Keep the letter’s explanation of limited freedom of thought in Iran.",
+          "shortened": [
+            "My intention was that since freedom of thought is scarce in Iran and Iran is sick and those in authority are averse to the physician, therefore there is no choice but to journey to the West."
+          ]
         },
         {
           "key": "source:AB00163",
-          "why": "Read the first European effort through weakness, questions and promised assistance."
+          "why": "Read the first European effort through weakness, questions and promised assistance.",
+          "shortened": [
+            "The intention was that despite utmost weakness, a mighty call might be raised, hoping for the aid and favor of the Blessed Beauty - otherwise what power has this feeble gnat, what strength and might has this atom of poverty and evanescence?",
+            "Day and night were spent in questions and answers, and some souls were stirred by the breeze from the Abha Paradise. Gatherings were formed and meetings arranged, and 'Abdu'l-Baha, through the aid and favor of Baha, uttered a few words according to his weakness. But as the promised confirmation was evident, it influenced spirits and hearts like the melody of the lute and harp."
+          ]
         },
         {
           "key": "source:AB00550",
@@ -1882,7 +2485,10 @@
         },
         {
           "key": "source:AB02422",
-          "why": "Notice the interruption at Alexandria caused by illness."
+          "why": "Notice the interruption at Alexandria caused by illness.",
+          "shortened": [
+            "In truth, it had been my intention to travel from Port Said to Marseilles in order to see your luminous faces and spend some days with the friends in that land and region. However, as soon as I boarded the vessel my condition changed such that I had to disembark in Alexandria."
+          ]
         },
         {
           "key": "source:AB03107",
@@ -1894,7 +2500,11 @@
         },
         {
           "key": "source:AB07775",
-          "why": "Attend to scenery, weather and the continued thought of service."
+          "why": "Attend to scenery, weather and the continued thought of service.",
+          "shortened": [
+            "It is truly a delightful place. The mildness of the weather, the freshness of the grass and fields, the lushness and pleasantness of the hills, as well as the beauty of the scenery are most perfect. From the day I left Iran until now I had not seen such a place.",
+            "Day and night we are thinking of how we can render, through the aid and favour of the Blessed Beauty, may My spirit be a sacrifice for the Threshold of His Dust, some small service."
+          ]
         },
         {
           "key": "source:AB01636",
@@ -1906,15 +2516,25 @@
         },
         {
           "key": "source:AB00358",
-          "why": "Read the abundance of invitations beside a heart still turned toward the East."
+          "why": "Read the abundance of invitations beside a heart still turned toward the East.",
+          "shortened": [
+            "Praise be to God, the lights of the Morn of Oneness are spreading throughout all regions with utmost diffusion, and detailed letters, some adorned with a thousand names, arrive from America, and special correspondence comes from both friend and stranger, and communications arrive continually from the great assemblies of America, all requesting 'Abdu'l-Baha's journey to those regions and showing the utmost eagerness and desire. Therefore am I compelled to undertake this journey. Yet my heart is in the East, for it is the Dawning-Point of the Sun of Truth, and my soul and conscience are gladdened and rejoiced in remembrance of the divine friends in Iran."
+          ]
         },
         {
           "key": "source:AB04184",
-          "why": "Preserve the particular list of inviting gatherings and people."
+          "why": "Preserve the particular list of inviting gatherings and people.",
+          "shortened": [
+            "From the Universal Peace Conference of America, from the Race Unity Conference, from the Governor of Boston, America, from the great and eminent ones of that land, from its notable figures, and from the friends, letters of invitation are arriving continuously. Therefore I am compelled to journey to America despite great physical weakness and exhaustion from the abundance of work and writing and staying awake at night."
+          ]
         },
         {
           "key": "source:AB06581",
-          "why": "Keep the letter’s further account of invitations and impending departure."
+          "why": "Keep the letter’s further account of invitations and impending departure.",
+          "shortened": [
+            "O Afnans of the Blessed Tree! 'Abdu'l-Baha will be departing for distant lands in these two days.",
+            "The people of America, both friends and strangers, are all pleading with utmost insistence for 'Abdu'l-Baha's presence. Perhaps more than a thousand letters have arrived from the friends and various assemblies of America, even from some church ministers. Therefore I am compelled to make this journey."
+          ]
         },
         {
           "key": "source:AB09831",
@@ -1922,19 +2542,32 @@
         },
         {
           "key": "source:AB01020",
-          "why": "Read the named friends and daughters within a direct letter of longing."
+          "why": "Read the named friends and daughters within a direct letter of longing.",
+          "shortened": [
+            "To the divine friends in America - Mr. Roy Wilhelm, Mr. and Mrs. McNutt, Mr. and Mrs. Kinney, Mr. Mountford Mills, Mrs. May Maxwell, Mrs. Elizabeth Nurse, Mrs. Ellen Goodall, Mrs. Agnes Parsons, Mr. and Mrs. Hoar, Mrs. Ellen Revonda, Mrs. Krug, Mrs. Ella Cooper, Mrs. Count, Mrs. Charlotte Bingham:",
+            "O my kind friends and dear daughters! Despite physical weakness and inability to endure travel, out of utmost longing to see the faces of the friends, 'Abdu'l-Baha is setting out on a journey to that distant country which is like another world, to cross the great ocean and illuminate his eyes with the sight of the friends' faces."
+          ]
         },
         {
           "key": "source:AB01424",
-          "why": "Consider the decision to cross the sea despite physical weakness."
+          "why": "Consider the decision to cross the sea despite physical weakness.",
+          "shortened": [
+            "In these days I am determined to journey to America, as invitations are arriving continuously from gatherings of friends and strangers alike, and from scientific, political and general assemblies in America. Although this weak body has absolutely no strength to endure sea travel and there is danger of peril, especially in the Pacific and Atlantic oceans, yet hope lies in the confirmations of the Blessed Beauty, that He may make a feeble gnat into a soaring eagle, and a weak ant into a manifest serpent."
+          ]
         },
         {
           "key": "source:AB03850",
-          "why": "Keep the distinct resolve for a sacrificial movement in America."
+          "why": "Keep the distinct resolve for a sacrificial movement in America.",
+          "shortened": [
+            "This was the purpose of the European journey, and now, despite weakness, I have determined to undertake the difficult journey to America, so that perhaps, God willing, a sacrificial movement may occur there."
+          ]
         },
         {
           "key": "source:AB02194",
-          "why": "Read the coming journey as an opportunity for service."
+          "why": "Read the coming journey as an opportunity for service.",
+          "shortened": [
+            "Therefore, God has arranged circumstances such that 'Abdu'l-Baha travels to the land of the foreigners and hastens to America in the spring, that perhaps he may draw a breath in service to the Sacred Threshold."
+          ]
         },
         {
           "key": "source:AB02356",
@@ -1942,7 +2575,10 @@
         },
         {
           "key": "source:AB02609",
-          "why": "Let the image of a drop in the ocean of service express intention."
+          "why": "Let the image of a drop in the ocean of service express intention.",
+          "shortened": [
+            "In these days Abdul-Baha is preparing for departure to the Western lands, that perhaps he may render a sacrificial service at the Sacred Threshold of the Blessed Beauty, and perhaps he may succeed in offering a drop from the ocean of servitude."
+          ]
         },
         {
           "key": "source:AB09548",
@@ -1950,11 +2586,17 @@
         },
         {
           "key": "source:AB08292",
-          "why": "Preserve the concise hope of an American journey."
+          "why": "Preserve the concise hope of an American journey.",
+          "shortened": [
+            "God willing, I shall make a journey to America."
+          ]
         },
         {
           "key": "source:AB07256",
-          "why": "Retain the separate notice of impending travel."
+          "why": "Retain the separate notice of impending travel.",
+          "shortened": [
+            "I am now about to journey to America."
+          ]
         },
         {
           "key": "source:AB11187",
@@ -1966,7 +2608,10 @@
         },
         {
           "key": "source:AB04633",
-          "why": "Preserve the proposed return to Egypt before another attempt."
+          "why": "Preserve the proposed return to Egypt before another attempt.",
+          "shortened": [
+            "Therefore, I must return to Egypt, and I hope that in the spring no obstacles will arise so that with the utmost joy and fragrance I may hasten to America solely to meet the friends, that the means of happiness may be provided and the glad-tidings of the Abha Kingdom may encompass all."
+          ]
         },
         {
           "key": "source:AB10473",
@@ -1994,15 +2639,25 @@
         },
         {
           "key": "source:AB04332",
-          "why": "Read preparations in Egypt amid repeated invitations."
+          "why": "Read preparations in Egypt amid repeated invitations.",
+          "shortened": [
+            "O steadfast and firm one! It is several days since I arrived in the land of the Moon of Canaan, and I am preparing for the journey to America, as invitations keep arriving continuously from leaders, prominent figures and associations there with utmost insistence and persistence. Therefore, I must inevitably undertake the journey at the beginning of Naw-Ruz."
+          ]
         },
         {
           "key": "source:AB04338",
-          "why": "Acknowledge the companions arranging means of travel."
+          "why": "Acknowledge the companions arranging means of travel.",
+          "shortened": [
+            "O ye who are firm in the Covenant! Jinab-i-Munadi-i-Haqq Mirza Munir has opened his tongue in praise and adorned his letter stating that these nine partners have exerted their utmost effort and prepared the means for travel so that I may hasten to the divine regions and raise the call of the Kingdom."
+          ]
         },
         {
           "key": "source:AB00654",
-          "why": "Keep the proposed route and promise of a departure telegram."
+          "why": "Keep the proposed route and promise of a departure telegram.",
+          "shortened": [
+            "In accordance with your request, God willing, efforts will be made to depart for America in March, and at the time of departure a telegram will be sent to you either from Alexandria or Naples.",
+            "I will depart directly from Alexandria to America and will not go to Europe."
+          ]
         },
         {
           "key": "source:AB10533",
@@ -2010,7 +2665,10 @@
         },
         {
           "key": "source:AB02937",
-          "why": "Read the discovery of a direct ship and expected arrival."
+          "why": "Read the discovery of a direct ship and expected arrival.",
+          "shortened": [
+            "Now a ship has been found to travel directly from Alexandria to Naples and from Naples to America, that I may see the faces of the friends and be gladdened by meeting the loved ones. But the ship departs from Alexandria on March 25th. God willing, we will arrive in New York around mid-April."
+          ]
         },
         {
           "key": "source:AB01579",
@@ -2030,7 +2688,10 @@
         },
         {
           "key": "source:AB01791",
-          "why": "Invite prayer for a long journey beyond bodily endurance."
+          "why": "Invite prayer for a long journey beyond bodily endurance.",
+          "shortened": [
+            "'Abdu'l-Baha's desire from all is that they supplicate day and night at the threshold of the Abha Beauty and pray for my support and confirmation in this perilous journey, for the journey is long and this body has no endurance for the rolling of the sea and hardship of the desert."
+          ]
         },
         {
           "key": "source:AB03224",
@@ -2038,19 +2699,31 @@
         },
         {
           "key": "source:ABU2456",
-          "why": "Preserve the reported assertion about the voyage’s purpose and novelty as attributed."
+          "why": "Preserve the reported assertion about the voyage’s purpose and novelty as attributed.",
+          "shortened": [
+            "Up to the present time no one has traveled, with a purpose like ours, from Persia to America. Some have made the journey but it was for their personal gain or for trivial motives. Ours may be said to be the first voyage of Easterners to America."
+          ]
         },
         {
           "key": "source:ABU1835",
-          "why": "Keep the brief reported acknowledgment of illness at boarding."
+          "why": "Keep the brief reported acknowledgment of illness at boarding.",
+          "shortened": [
+            "In any case, I had great longing to meet you. If this longing did not exist, the favor of the Blessed Beauty would not have encompassed me. Although when I boarded the ship in Alexandria I was not well at all."
+          ]
         },
         {
           "key": "source:ABU0970",
-          "why": "Read the New York welcome through the decision to come despite advice."
+          "why": "Read the New York welcome through the decision to come despite advice.",
+          "shortened": [
+            "I was in Egypt and was not feeling well, but I wished to come to you in America. My friends said, \"This is a long journey; the sea is wide; you should remain here.\" But the more they advised and insisted, the greater became my longing to take this trip, and now I have come to America to meet the friends of God."
+          ]
         },
         {
           "key": "source:AB07091",
-          "why": "Let the short notice of safe arrival stand distinctly."
+          "why": "Let the short notice of safe arrival stand distinctly.",
+          "shortened": [
+            "O Amata'l-Baha! With utmost ease I arrived in New York."
+          ]
         },
         {
           "key": "source:AB02094",
@@ -2070,11 +2743,17 @@
         },
         {
           "key": "source:ABU1177",
-          "why": "Read the remembered Indian visitor’s surprise at an affirmation of Muhammad in a church."
+          "why": "Read the remembered Indian visitor’s surprise at an affirmation of Muhammad in a church.",
+          "shortened": [
+            "Once, when I was on my way to speak in a church in New York city, a person from India, a man prominent in that city, met us accidentally. He was surprised and said to himself, 'I will go and see what all this is about.' He came to the church and saw me standing on the platform, proving the prophethood of his holiness the Messenger of God. Indeed, he became amazed. When we came out, his face was radiant beyond description."
+          ]
         },
         {
           "key": "source:ABU1156",
-          "why": "Keep the later reported summary of speaking across religious settings."
+          "why": "Keep the later reported summary of speaking across religious settings.",
+          "shortened": [
+            "So it was with us. We had not traveled before so when we started, we went on a long journey. Every day, we were in a town or a city. Indeed, the American cities are very large. I spoke of the validity of his holiness, Christ, and of the accepted Messenger (Mohammed) in most of the Christian churches and in the synagogues of the Jews."
+          ]
         },
         {
           "key": "source:AB04416",
@@ -2090,7 +2769,11 @@
         },
         {
           "key": "source:ABU1274",
-          "why": "Read the remembered Washington meetings and claim about reception as reported."
+          "why": "Read the remembered Washington meetings and claim about reception as reported.",
+          "shortened": [
+            "In Europe, in the great assemblies talks were given. I spoke to the eminent people.",
+            "Did you ever see in America, in Washington, in the Churches and meetings that anyone rose to oppose me? It was in your house in Washington that there was a general meeting in the morning and one for the notables on the afternoon."
+          ]
         },
         {
           "key": "source:ABU0539",
@@ -2098,11 +2781,17 @@
         },
         {
           "key": "source:ABU2738",
-          "why": "Preserve the Chicago address’s assertion about the journey’s unusual character."
+          "why": "Preserve the Chicago address’s assertion about the journey’s unusual character.",
+          "shortened": [
+            "Look at the history of the world and try to find a parallel instance in which a native of the East has come to the countries of the West, particularly America, and called out to them in the churches and meetings there, raised the divine call in many of the large cities and invited everyone to the Abha Kingdom, with no one taking exception."
+          ]
         },
         {
           "key": "source:ABU1179",
-          "why": "Keep the retrospective reported claim concerning the reception of the teachings."
+          "why": "Keep the retrospective reported claim concerning the reception of the teachings.",
+          "shortened": [
+            "Throughout many cities of America and Europe, in Churches and meetings with a loud voice I declared these Teachings and there was found not a single soul to contradict them.\""
+          ]
         },
         {
           "key": "source:AB02763",
@@ -2114,7 +2803,10 @@
         },
         {
           "key": "source:ABU0743",
-          "why": "Read the reported self-questioning on entering a new city."
+          "why": "Read the reported self-questioning on entering a new city.",
+          "shortened": [
+            "While I was travelling in America whenever I entered a new city I looked around and said it to myself: 'Why am I here? What relation exists between me and the United States? This is made possible through the Bestowals of the Blessed Perfection. During my stay in Boston I delivered an address at the annual Banquet of the Unitarian Association where more than 800 Ministers were present."
+          ]
         },
         {
           "key": "source:AB00241",
@@ -2130,7 +2822,10 @@
         },
         {
           "key": "source:AB05676",
-          "why": "Preserve the earlier regret concerning a California visit."
+          "why": "Preserve the earlier regret concerning a California visit.",
+          "shortened": [
+            "It was my hope to come to California and see the faces of the friends; but I regret that I am obliged to return to the Orient."
+          ]
         },
         {
           "key": "source:AB05169",
@@ -2138,7 +2833,10 @@
         },
         {
           "key": "source:AB11022",
-          "why": "Keep the immediate journey to Kenosha beside the decision for California."
+          "why": "Keep the immediate journey to Kenosha beside the decision for California.",
+          "shortened": [
+            "Despite this, it is midnight and I have risen from my bed to write this letter. In the morning I am bound for Kenosha, and I am determined to go to California."
+          ]
         },
         {
           "key": "source:AB12773",
@@ -2146,11 +2844,17 @@
         },
         {
           "key": "source:ABU1679",
-          "why": "Retain the concise reported statement of distance traveled."
+          "why": "Retain the concise reported statement of distance traveled.",
+          "shortened": [
+            "I have come a long distance to see you; I have traveled 12,000 miles."
+          ]
         },
         {
           "key": "source:ABU0337",
-          "why": "Keep the reported reminder to Seattle and Portland friends of time away."
+          "why": "Keep the reported reminder to Seattle and Portland friends of time away.",
+          "shortened": [
+            "It is now over menthe seven and a half months - that I have been here, and it is two years since I left the Holy Land, leaving all my concerns there to come here, as I longed to see the Friends of God."
+          ]
         },
         {
           "key": "source:ABU1342",
@@ -2158,7 +2862,11 @@
         },
         {
           "key": "source:AB00285",
-          "why": "Reach the Pacific limit and the longing to return to the Shrine."
+          "why": "Reach the Pacific limit and the longing to return to the Shrine.",
+          "shortened": [
+            "O how we miss you, O how we miss you!",
+            "In short, the journey has reached its end and the dawn of return has broken, for we have reached the shores of the Pacific Ocean. Beyond this are the Hawaiian Islands and the countries of China and Japan. The distance is great, strength and power have reached their limit. Now we must turn toward the Center of the Sun of Truth and hasten to the Holy Shrine, that I may lay my face upon its dust and make my hair fragrant and perfumed."
+          ]
         },
         {
           "key": "source:ABU2759",
@@ -2174,7 +2882,10 @@
         },
         {
           "key": "source:ABU1299",
-          "why": "Keep the reported prospect of the journey’s later significance aboard the Celtic."
+          "why": "Keep the reported prospect of the journey’s later significance aboard the Celtic.",
+          "shortened": [
+            "Then it becomes clear what importance this journey will acquire - that we raised the call of Ya Baha'u'l-Abha in the great churches and major assemblies, and with eloquent speech and perfect proof gave the glad-tidings of the Kingdom of God and explained the teachings of the Blessed Beauty."
+          ]
         },
         {
           "key": "source:ABU0878",
@@ -2182,7 +2893,10 @@
         },
         {
           "key": "source:AB09672",
-          "why": "Give the obligation to keep a promise a place in travel planning."
+          "why": "Give the obligation to keep a promise a place in travel planning.",
+          "shortened": [
+            "But alas, the appointed time of arrival is the fourth of the month, while this yearning one will be departing for Paris on the morning of the third month, as some respected individuals have extended invitations and I have made promises, and breaking promises is wrong."
+          ]
         },
         {
           "key": "source:AB08442",
@@ -2222,7 +2936,10 @@
         },
         {
           "key": "source:AB12579",
-          "why": "Let a personal longing explain the Paris and proposed Stuttgart visit."
+          "why": "Let a personal longing explain the Paris and proposed Stuttgart visit.",
+          "shortened": [
+            "This trip to Paris was just for your sake. I am longing very much to see you. God willing, I shall come to Stuttgart. However, I will not stay more than two nights and this is according to the requirement of wisdom."
+          ]
         },
         {
           "key": "source:AB12756",
@@ -2234,11 +2951,17 @@
         },
         {
           "key": "source:AB00883",
-          "why": "Read the rapidly changing European itinerary with its source omission."
+          "why": "Read the rapidly changing European itinerary with its source omission.",
+          "shortened": [
+            "While in Europe one day we were in London and another in Edinburgh; now in Paris and anon in Stuttgart; once in Budapest and again in Vienna. We were almost every hour in one place, delivering lengthy speeches and addresses and notwithstanding the indisposition of the body day and night I cried and raised my voice in large meetings and important Churches..."
+          ]
         },
         {
           "key": "source:ABU0678",
-          "why": "Preserve the reported explanation of an unexpectedly long Paris stay."
+          "why": "Preserve the reported explanation of an unexpectedly long Paris stay.",
+          "shortened": [
+            "I have been travelling for two and a half years. Nowhere was I ill except here, where due to illness I had to stay a long time. If I had not become ill, I would not have stayed in Paris more than a month."
+          ]
         },
         {
           "key": "source:ABU1234",
@@ -2246,7 +2969,12 @@
         },
         {
           "key": "source:ABU0274",
-          "why": "Read the remembered comparisons of favorable climates as recollection."
+          "why": "Read the remembered comparisons of favorable climates as recollection.",
+          "shortened": [
+            "I traveled in many countries. I went to the world's most famous climates, such as Dublin, New Hampshire, the summer resort of Washington's government officials and statesmen.",
+            "Also, we went to Denver, Colorado.",
+            "Again, we were in Switzerland, which is far famed, and in the summer people from all regions go there."
+          ]
         },
         {
           "key": "source:AB12557",
@@ -2254,7 +2982,10 @@
         },
         {
           "key": "source:AB05821",
-          "why": "Keep the urgency of changing place morning and evening."
+          "why": "Keep the urgency of changing place morning and evening.",
+          "shortened": [
+            "O scion of the blessed Tree! We are on a journey, we are in haste. Each morning we are in one country, each evening we are wanderers."
+          ]
         },
         {
           "key": "source:AB01158",
@@ -2274,7 +3005,10 @@
         },
         {
           "key": "source:AB02437",
-          "why": "Let the helpless bird’s call rise through the journey’s uncertainty."
+          "why": "Let the helpless bird’s call rise through the journey’s uncertainty.",
+          "shortened": [
+            "Throughout this period of wandering and homelessness, the cry of this helpless bird reached the height of heaven, while the call of 'Ya Baha'u'l-Abha!' thrilled the ears of the world's people."
+          ]
         },
         {
           "key": "source:AB08655",
@@ -2282,11 +3016,17 @@
         },
         {
           "key": "source:AB00944",
-          "why": "Keep the letter’s own account of duration, illness and travels."
+          "why": "Keep the letter’s own account of duration, illness and travels.",
+          "shortened": [
+            "Although five years ago, due to severe hardships, my physical frame could not endure and various illnesses befell me, yet for four years 'Abdu'l-Baha wandered through mountains and deserts, lost in wilderness and seas, and throughout all the western countries gave the glad-tidings of the appearance of the Kingdom of God."
+          ]
         },
         {
           "key": "source:AB09929",
-          "why": "Retain the brief reference to the three illnesses and continuing movement."
+          "why": "Retain the brief reference to the three illnesses and continuing movement.",
+          "shortened": [
+            "'Abdu'l-Baha, while afflicted with three illnesses, suddenly left Haifa and has been continuously traveling for three years."
+          ]
         },
         {
           "key": "source:AB00453",
@@ -2306,15 +3046,25 @@
         },
         {
           "key": "source:AB00344",
-          "why": "Keep the appeal to people of insight and learning in the selected wording."
+          "why": "Keep the appeal to people of insight and learning in the selected wording.",
+          "shortened": [
+            "I renounced all peace, tranquility and rest in this Luminous Spot, and, notwithstanding my advanced age, left behind my kindred and traversed both land and sea, to lift up my voice in the vast assemblies and gatherings of both Europe and the Americas, and to address mankind from the depth of my being, calling aloud and saying:",
+            "'O ye men of insight! O ye exponents of learning!"
+          ]
         },
         {
           "key": "source:ABU2251",
-          "why": "Read the reported purpose of awakening spiritual attention."
+          "why": "Read the reported purpose of awakening spiritual attention.",
+          "shortened": [
+            "My object in taking that long journey through the West- was to awaken them out of this sleep; that they may not grovel all the time in the world of matter and that they may not only think of eating and drinking."
+          ]
         },
         {
           "key": "source:AB04275",
-          "why": "Retain the letter’s claimed consequences and universal proclamation in its setting."
+          "why": "Retain the letter’s claimed consequences and universal proclamation in its setting.",
+          "shortened": [
+            "In this year, calamities and the blow of economic depression and corruption have encompassed all horizons, for the proof has been completed for all: 'Abdu'l-Baha, in churches and gatherings throughout Europe and America, in most great cities, proclaimed the Cause of Baha'u'llah with raised voice and called to the Abha Kingdom. He established brilliant proofs and manifested clear and evident demonstrations and conclusive arguments, leaving no excuse for anyone."
+          ]
         },
         {
           "key": "source:AB02769",
@@ -2322,19 +3072,31 @@
         },
         {
           "key": "source:AB07382",
-          "why": "Read unceasing activity as a hoped-for step in self-effacement."
+          "why": "Read unceasing activity as a hoped-for step in self-effacement.",
+          "shortened": [
+            "I am in Europe and have no rest day or night, hoping that I may draw a breath in servitude at the Sacred Threshold and take a step on the path of self-effacement and nothingness."
+          ]
         },
         {
           "key": "source:AB09109",
-          "why": "Read the whole journey as sustained teaching."
+          "why": "Read the whole journey as sustained teaching.",
+          "shortened": [
+            "Consider how 'Abdu'l-Baha forgot all thoughts and mentions and turned His face toward the countries and empires, cities and villages, mountains and deserts of the West. Day and night He was engaged in teaching the Cause and conveying the Message."
+          ]
         },
         {
           "key": "source:AB09724",
-          "why": "Preserve the specific account of less than a year in America."
+          "why": "Preserve the specific account of less than a year in America.",
+          "shortened": [
+            "Less than a year 'Abdu'l-Baha raised the cry of \"Ya Baha'u'l-Abha\" from his heart and soul as he crossed the mountains and deserts of that continent and in churches and meetings he imparted the glad-tidings of the appearance of the Kingdom of God."
+          ]
         },
         {
           "key": "source:AB03965",
-          "why": "Keep the separate portrayal of that American period."
+          "why": "Keep the separate portrayal of that American period.",
+          "shortened": [
+            "Less than a year Abdul Baha traveled through the cities of America and crossed its deserts and from his heart and soul he raised the cry of Ya Baha El Abha; in gatherings and churches he gave the Glad-Tidings of the appearance of the Kingdom of God; vociferously he imparted the news of the dawn of the Sun of Reality; he explained divine Proofs and Evidences and with a spirit and mind overflowing with the Love of God He sung the New Melody."
+          ]
         },
         {
           "key": "source:AB05788",
@@ -2346,7 +3108,10 @@
         },
         {
           "key": "source:AB04273",
-          "why": "Turn the example toward the manner of future teaching."
+          "why": "Turn the example toward the manner of future teaching.",
+          "shortened": [
+            "Now the friends of God must adopt the manner and conduct of 'Abdu'l-Baha and strive day and night to teach the Cause of God, but in the way that 'Abdu'l-Baha did in America."
+          ]
         },
         {
           "key": "source:ABU1973",
@@ -2354,19 +3119,32 @@
         },
         {
           "key": "source:ABU3659",
-          "why": "Read the reported preparation to speak when physical voice was weak."
+          "why": "Read the reported preparation to speak when physical voice was weak.",
+          "shortened": [
+            "'Abdu'l-Baha stated,",
+            "When I went to America, My fatigue was of such a degree that My voice could not reach more than a few meters. Of necessity, in gatherings of four or five thousands souls, I would first concentrate on the Blessed Beauty and then begin speaking."
+          ]
         },
         {
           "key": "source:ABU2790",
-          "why": "Keep the separate recollection of prayer before a long address."
+          "why": "Keep the separate recollection of prayer before a long address.",
+          "shortened": [
+            "When travelling in America and Europe, on many occasion[s] I did not have the power of uttering one word but before entering the meeting I begged Baha'u'llah to reinforce me and then walked in and commenced to speak for one or two hours."
+          ]
         },
         {
           "key": "source:ABU1823",
-          "why": "Preserve the reported experience of spiritual confirmation in meetings."
+          "why": "Preserve the reported experience of spiritual confirmation in meetings.",
+          "shortened": [
+            "When I entered a convention or a meeting I saw with my own eyes the confirmations of the Holy Spirit hovering like white-plumaged birds over my head and the Kingdom of existence with all its mighty forces coming to my assistance. All the days and nights were spent for the Cause and all the conversations and talks revolved around the Cause."
+          ]
         },
         {
           "key": "source:ABU2716",
-          "why": "Keep the attribution of others’ attention to divine assistance."
+          "why": "Keep the attribution of others’ attention to divine assistance.",
+          "shortened": [
+            "Were it not for His confirmations, in the Western countries no one would have paid even the slightest attention to me."
+          ]
         },
         {
           "key": "source:ABU0672",
@@ -2374,7 +3152,11 @@
         },
         {
           "key": "source:ABU1259",
-          "why": "Keep the reported image of visible solitude and unseen support."
+          "why": "Keep the reported image of visible solitude and unseen support.",
+          "shortened": [
+            "This is why I abandoned every task, every thought, every mention, every imagination, and for three and a half years I went through deserts, mountains, valleys, cities and countries, raising my voice and crying out.",
+            "Like the sun in the second year after the Ascension, I wrote a letter to one of the friends which included this verse: \"O Abbas, mounted alone, charge into the ranks of the world!\" In brief, I went to those regions and saw that I was moving alone among their temples, gatherings, assemblies and churches, but I was supported by hosts that you cannot see."
+          ]
         },
         {
           "key": "source:ABU0142",
@@ -2390,7 +3172,10 @@
         },
         {
           "key": "source:AB03906",
-          "why": "Let the concise personal remembrance of luminous days stand alone."
+          "why": "Let the concise personal remembrance of luminous days stand alone.",
+          "shortened": [
+            "The days I spent with you were spiritual and luminous."
+          ]
         },
         {
           "key": "source:AB01275",
@@ -2402,7 +3187,10 @@
         },
         {
           "key": "source:AB01551",
-          "why": "Keep the letter’s refusal of repeated requests for photographs."
+          "why": "Keep the letter’s refusal of repeated requests for photographs.",
+          "shortened": [
+            "In Paris and London, numerous journalists and newspaper people insisted greatly on taking photographs, but this servant did not consent."
+          ]
         },
         {
           "key": "source:ABU1784",
@@ -2410,19 +3198,32 @@
         },
         {
           "key": "source:ABU1071",
-          "why": "Read the concern to avoid any appearance of seeking Mrs. Hearst’s money."
+          "why": "Read the concern to avoid any appearance of seeking Mrs. Hearst’s money.",
+          "shortened": [
+            "In my journey to America, I never spoke of her [Mrs. Hearst], and when others spoke of her, I maintained silence so that no one would think that we had an eye on her money. Upon arrival in California, Goodall and Cooper asked that I meet with her [Mrs. Hearst]."
+          ]
         },
         {
           "key": "source:ABU1209",
-          "why": "Keep the reported refusal of offered travel funds."
+          "why": "Keep the reported refusal of offered travel funds.",
+          "shortened": [
+            "So far, very few people have lived according to this behest, but it is my will to live accordingly. Before coming to America, the believers of God, through Mirza Ahmad Sohrab, offered for my traveling expenses 16,000 dollars, but I did not accept one cent."
+          ]
         },
         {
           "key": "source:AB12370",
-          "why": "Preserve the letter’s qualifications about contributions and charitable expenses."
+          "why": "Preserve the letter’s qualifications about contributions and charitable expenses.",
+          "shortened": [
+            "When friends in the West wished to make contributions, whether small or large, towards these expenses, they were absolutely refused.",
+            "Nevertheless, in view of an all-encompassing wisdom, we have kept this matter silent in the West, and if anyone wished to present something, we did not accept it, except in the beginning from one or two individuals for charitable expenses."
+          ]
         },
         {
           "key": "source:AB02653",
-          "why": "Read the detailed account of expenses and returned funds in its own wording."
+          "why": "Read the detailed account of expenses and returned funds in its own wording.",
+          "shortened": [
+            "As the journey to America lies ahead with an accompanying group and endless expenses - that is, costly - though the expenses were kept with utmost frugality as you observed in Alexandria. In Paris, in one day the cost reached six hundred liras, but the expenses for all of us, that is with companions, despite Paris being expensive, was half a lira, and so forth. From America they sent three thousand and some pounds for travel expenses, but it was not entirely accepted and was returned. The intention is that even hospitality should not be accepted, and in this there is complete wisdom."
+          ]
         },
         {
           "key": "source:AB08307",
@@ -2446,11 +3247,17 @@
         },
         {
           "key": "source:AB10291",
-          "why": "Connect intricate questions and public addresses with another delayed answer."
+          "why": "Connect intricate questions and public addresses with another delayed answer.",
+          "shortened": [
+            "Due to bodily infirmity, the difficulties of traveling over seas and lands, lack of rest, striving and exerting day and night, delivering long addresses in different cities, and answering the varied, intricate questions of people, 'Abdu'l-Baha has not been able to answer it."
+          ]
         },
         {
           "key": "source:AB03330",
-          "why": "Read the daily schedule through its physical effects."
+          "why": "Read the daily schedule through its physical effects.",
+          "shortened": [
+            "Due to the length of travel by sea and land, the great hardships day and night, lack of rest and sleep, and detailed addresses in public gatherings, physical weakness and exhaustion resulted. From sunrise until midnight in America there were either questions and answers or talks and addresses."
+          ]
         },
         {
           "key": "source:AB08448",
@@ -2458,7 +3265,11 @@
         },
         {
           "key": "source:AB02234",
-          "why": "Follow travel from Montreal through sleeplessness and public work."
+          "why": "Follow travel from Montreal through sleeplessness and public work.",
+          "shortened": [
+            "O thou my daughter in the Kingdom!",
+            "From the day of leaving Montreal until now I have not rested nor reposed for a moment. From morn until midnight I was engaged in heralding the Kingdom, and in numerous assemblages and meetings, even in the Jewish Temple, I raised the call proclaiming the Revelation of the Kingdom. Many a night I did not sleep, and on many a day, like unto a surging sea, I was in the utmost state of agitation."
+          ]
         },
         {
           "key": "source:AB07743",
@@ -2466,7 +3277,10 @@
         },
         {
           "key": "source:AB07965",
-          "why": "Keep the account of fatigue persisting after years of travel."
+          "why": "Keep the account of fatigue persisting after years of travel.",
+          "shortened": [
+            "The reason was fatigue from travel and extreme exhaustion and physical ailments which still persist, for I was continuously traveling for four years without any rest. Anyone else in my place would have been completely worn down to skin and bones."
+          ]
         },
         {
           "key": "source:AB12854",
@@ -2478,7 +3292,10 @@
         },
         {
           "key": "source:AB01077",
-          "why": "Keep the letter’s detailed account of changing climates, cities and illness."
+          "why": "Keep the letter’s detailed account of changing climates, cities and illness.",
+          "shortened": [
+            "I stayed in these parts for several days, because from the length of travel and storms at sea and different climates of mountain and desert in America, and journeys in European lands - one day in London, another time in Paris, days in Germany, periods in Vienna, days in Bucharest, every hour in a different place - and continuously giving talks and addresses, despite poor health, engaged night and day in proclamation and outcry in great gatherings and grand churches, therefore this earthly frame could not withstand these endless hardships and became ill and weak."
+          ]
         },
         {
           "key": "source:AB01425",
@@ -2486,7 +3303,10 @@
         },
         {
           "key": "source:AB05982",
-          "why": "Retain the separate statement of sickness following the voyage."
+          "why": "Retain the separate statement of sickness following the voyage.",
+          "shortened": [
+            "After my return from America and Europe, owing to the difficulties of the long voyage and the innumerable inconveniences of the journey, a reaction set in and I became sick."
+          ]
         },
         {
           "key": "source:ABU3326",
@@ -2502,11 +3322,18 @@
         },
         {
           "key": "source:ABU1193",
-          "why": "Preserve the reported account of returning to Egypt for rest while correspondence continues."
+          "why": "Preserve the reported account of returning to Egypt for rest while correspondence continues.",
+          "shortened": [
+            "When I was in America I was most busy. Often I addressed three meetings in a day and gave innumerable interviews from early morning till midnight. In Europe I spread certain divine Teachings which will insure security to the human world and taught them that the foundation of the religions of God is one and the same. Now I have returned to Egypt in order to rest from the effect of this arduous journey and while I am here correspondence is uninterrupted [sic] with all parts of the West."
+          ]
         },
         {
           "key": "source:ABU2932",
-          "why": "Keep the recollection of a promise to resume correspondence."
+          "why": "Keep the recollection of a promise to resume correspondence.",
+          "shortened": [
+            "Before leaving for America I wrote to them that during my journey they must excuse me from any letter-writing, that after my return I will write to them as of old and now I am fulfilling my promise\"",
+            "When we left I ventured to say that many petitions from America and Europe are accumulated that invite his attention."
+          ]
         },
         {
           "key": "source:AB02511",
@@ -2518,11 +3345,17 @@
         },
         {
           "key": "source:AB02139",
-          "why": "Keep the return from West to East in its scriptural geographical imagery."
+          "why": "Keep the return from West to East in its scriptural geographical imagery.",
+          "shortened": [
+            "After a period of travelling through mountain and desert, and voyaging over ocean and sea, I have returned from the West to the East, and have entered into the ancient land of Joseph the Canaanite."
+          ]
         },
         {
           "key": "source:AB12610",
-          "why": "Read the brief letter from Port Said."
+          "why": "Read the brief letter from Port Said.",
+          "shortened": [
+            "O thou who art firm in the Covenant! From my journey to America and Europe, I hastened toward Africa, and now in Port Said I have undertaken to write this letter."
+          ]
         },
         {
           "key": "source:AB03741",
@@ -2542,7 +3375,10 @@
         },
         {
           "key": "source:AB03583",
-          "why": "Keep the meeting with Zoroastrian believers after returning East."
+          "why": "Keep the meeting with Zoroastrian believers after returning East.",
+          "shortened": [
+            "O ye kind friends! When I returned from the Western regions to the Eastern clime, I met the Zoroastrian Believers."
+          ]
         },
         {
           "key": "source:ABU2414",
@@ -2558,7 +3394,10 @@
         },
         {
           "key": "source:ABU2082",
-          "why": "Consider the reported lack of systematic documentation during the first journey."
+          "why": "Consider the reported lack of systematic documentation during the first journey.",
+          "shortened": [
+            "During the first journey to Europe no one was thinking to do this work. Now and then Mirza Bager Khan, who was a member of our party, wrote down a few addresses and dates, but no systematic attempt was made in this direction."
+          ]
         },
         {
           "key": "source:ABU2656",
@@ -2570,7 +3409,10 @@
         },
         {
           "key": "source:ABU2214",
-          "why": "Preserve the reported comparison of companions in its particular setting."
+          "why": "Preserve the reported comparison of companions in its particular setting.",
+          "shortened": [
+            "During this journey to America, certain souls showed humility and companionship, compared to whom people like Brown are not worth mentioning."
+          ]
         },
         {
           "key": "source:AB01738",
@@ -2586,7 +3428,10 @@
         },
         {
           "key": "source:AB09738",
-          "why": "Distinguish immediate impressions from effects not yet manifest."
+          "why": "Distinguish immediate impressions from effects not yet manifest.",
+          "shortened": [
+            "Thou hast written regarding the results of my trip to America. Its importance is not now manifest. Ere long you shall behold that these pure seeds have grown and how adorned the green meadow and verdant rose-garden."
+          ]
         },
         {
           "key": "source:ABU2984",
@@ -2602,23 +3447,41 @@
         },
         {
           "key": "source:AB06535",
-          "why": "Keep the separate insistence on conditions that make a journey fruitful."
+          "why": "Keep the separate insistence on conditions that make a journey fruitful.",
+          "shortened": [
+            "Therefore pray thou that harmony may be created so that your country may find the capacity for the Presence of Abdul-Baha. I have the utmost yearning to meet all of you; but unless the conditions which have been previously mentioned are realized, my trip to those parts would be difficult, for it would produce no results."
+          ]
         },
         {
           "key": "source:AB06545",
-          "why": "Retain the acknowledgment of anticipated joy and stated conditions."
+          "why": "Retain the acknowledgment of anticipated joy and stated conditions.",
+          "shortened": [
+            "O thou real beloved!",
+            "The letter which thou hast written in regard to the happiness and joy, beatitude and rejoicing of the American believers concerning the trip of Abdul-Baha to the country of Joseph of Canaan, and likewise their expectation of my going to America was perused. However, the latter event is depended upon several conditions which are already explained in a former Tablet."
+          ]
         },
         {
           "key": "source:AB03112",
-          "why": "Read the prepared places alongside the image of a fragrant breeze."
+          "why": "Read the prepared places alongside the image of a fragrant breeze.",
+          "shortened": [
+            "Regarding my coming to America, you wrote that the friends have prepared places for my arrival.",
+            "Whenever a fragrant breeze reaches Our nostrils, surely the journey will be undertaken."
+          ]
         },
         {
           "key": "source:AB03149",
-          "why": "Keep the flowers-and-thistles invitation and the reply about results."
+          "why": "Keep the flowers-and-thistles invitation and the reply about results.",
+          "shortened": [
+            "Thou hast invited me to America saying that in that region and in that country there are many fragrant and multicolored flowers, likewise there are thorns and thistles but Abdul-Baha should not look upon the thistles of the desert.",
+            "I have the utmost longing to meet all of you but unless the conditions which have been previously mentioned are realized my trip to those parts would be difficult for it would not produce any results."
+          ]
         },
         {
           "key": "source:AB03723",
-          "why": "Let the prospect of a pleasant feast convey longing."
+          "why": "Let the prospect of a pleasant feast convey longing.",
+          "shortened": [
+            "If such a delicious, sweet and pleasant feast is prepared and arranged, surely Abdul-Baha will fly to America to partake of that feast."
+          ]
         },
         {
           "key": "source:AB02081",
@@ -2638,7 +3501,11 @@
         },
         {
           "key": "source:AB02780",
-          "why": "Remember the European response despite a lack of possessions and fame."
+          "why": "Remember the European response despite a lack of possessions and fame.",
+          "shortened": [
+            "You observed what a great commotion arose in Europe.",
+            "However, 'Abdu'l-Baha, despite weakness and having no belongings or fame, entered those regions."
+          ]
         },
         {
           "key": "source:AB12606",
@@ -2646,15 +3513,26 @@
         },
         {
           "key": "source:ABU3198",
-          "why": "Keep the reported request for prayer for service in both East and West."
+          "why": "Keep the reported request for prayer for service in both East and West.",
+          "shortened": [
+            "Will you ever return to America again?",
+            "Answer by Abdul Baha:",
+            "It is in God's hands. Pray for me to return and say: \"O Baha'u'llah! Confirm Abdul Baha in the Cause of God. Confirm him in the servitude of God in the East, so that he may not spend all of his time in the Orient, that he may return to America and occupy his time in the Western world.\""
+          ]
         },
         {
           "key": "source:ABU0772",
-          "why": "Pass the call to travel and serve to another person."
+          "why": "Pass the call to travel and serve to another person.",
+          "shortened": [
+            "Now is the time that thou mayst go to America and exert in the promotion of the Cause of God and the exaltation of the Word of God and [self-sacrifice] in the Path of God.\""
+          ]
         },
         {
           "key": "source:ABU2754",
-          "why": "Read the reported intention to prepare others to carry the work after departure."
+          "why": "Read the reported intention to prepare others to carry the work after departure.",
+          "shortened": [
+            "While in America I strove day and night to prepare a few, holy sanctified souls to take up the burden of the Cause after my departure."
+          ]
         },
         {
           "key": "source:ABU3430",
@@ -2662,7 +3540,10 @@
         },
         {
           "key": "source:ABU3096",
-          "why": "Close with the reported long journey and hoped-for rest, preserving its source context."
+          "why": "Close with the reported long journey and hoped-for rest, preserving its source context.",
+          "shortened": [
+            "As to the second point--I am going to take a long journey and at that time my spirit will rest.\""
+          ]
         }
       ],
       "questions": [
