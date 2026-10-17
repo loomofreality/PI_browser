@@ -6,6 +6,7 @@ import {randomBytes,timingSafeEqual} from 'node:crypto';
 import {execFile,spawn} from 'node:child_process';
 import {GuideStore,guideFiles} from './study-guide-store.mjs';
 import {siteReader,guideQuotations} from './study-guide-quotations.mjs';
+import {readingPassage} from './study-guide-passage.mjs';
 import {githubTarget} from './github-target.mjs';
 import {tool} from './publish-item.mjs';
 
@@ -33,6 +34,23 @@ export async function startGuideEditor({root=path.resolve(directory,'..'),port=0
     for(const reader of readers){try{return {...await guideQuotations(guide,reader.read),from:reader.label};}catch(error){errors.push(error.message);}}
     return {error:'Quotation previews are unavailable ('+(errors.at(-1)||'no website address')+'). You can still edit and save; the notes keep their source IDs.'};
   };
+  // A reading's sentences, and the checks for kept sentences and omissions,
+  // need the source text from the website (or the local build).
+  const readJson=async name=>JSON.parse(await fs.readFile(path.join(root,'study-guides',name),'utf8'));
+  const passage=async(guide,key)=>{
+    const sentenceContext=await readJson('sentence-context.json').then(x=>x.entries,error=>{if(error.code==='ENOENT')return [];throw error;});
+    const review=guide.selection?await readJson(guide.selection.review):undefined;
+    const errors=[];
+    for(const reader of readers){try{return await readingPassage({guide,key,read:reader.read,sentenceContext,review});}catch(error){errors.push(error.message);}}
+    throw Error('The source text of this reading is unavailable ('+(errors.at(-1)||'no website address')+').');
+  };
+  const verify=async(guide,edited,keys)=>{
+    for(const key of keys){
+      const entry=edited.order.find(x=>x.key===key),number=edited.order.indexOf(entry)+1,reading=await passage(guide,key);
+      if(entry.omitted&&!guide.order.find(x=>x.key===key).omitted&&reading.mandatory)throw Error(`Reading ${number} contains an authorized translation, so it cannot be left out.`);
+      if(entry.shortened!==undefined)try{reading.check(entry.shortened);}catch(error){throw Error(`Reading ${number}: ${error.message}`);}
+    }
+  };
   const page=(await fs.readFile(path.join(directory,'study-guide-editor.html'),'utf8')).replace('%SITE%',site.replace(/[^\w:/.~-]/g,''));
   const server=http.createServer(async(req,res)=>{
     const send=(status,value)=>{res.writeHead(status,{'Content-Type':'application/json','Cache-Control':'no-store','X-Content-Type-Options':'nosniff'});res.end(JSON.stringify(value));};
@@ -49,8 +67,9 @@ export async function startGuideEditor({root=path.resolve(directory,'..'),port=0
       if(req.url==='/status'){send(200,{job,pending:await pendingGuideFiles(root,git).catch(()=>[])});return;}
       if(req.url==='/list'){send(200,{guides:await store.list()});return;}
       if(req.url==='/load'){const loaded=await store.load(input.slug);send(200,{...loaded,preview:await quotations(loaded.guide)});return;}
+      if(req.url==='/passage'){const {guide}=await store.load(input.slug);const {check,...reading}=await passage(guide,input.key);send(200,reading);return;}
       if(busy||job?.status==='running'){send(409,{error:'Wait for the current save or publication to finish.'});return;}
-      if(req.url==='/save'){busy=true;try{send(200,await store.save(input.slug,input.revision,input.guide));}finally{busy=false;}return;}
+      if(req.url==='/save'){busy=true;try{send(200,await store.save(input.slug,input.revision,input.guide,{verify}));}finally{busy=false;}return;}
       if(req.url==='/publish'){
         const files=await pendingGuideFiles(root,git);
         if(!files.length)throw Error('There are no saved study-guide changes to publish.');

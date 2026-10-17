@@ -4,11 +4,12 @@
 :root{color-scheme:light;font:17px/1.5 Georgia,serif;color:#203a32;background:#f7f6f0}*{box-sizing:border-box}body{max-width:1100px;margin:32px auto;padding:0 24px}h1{font-size:36px;margin-bottom:8px}h2{font-size:24px}p{max-width:80ch}.note{color:#627069;font-size:15px}button,input,textarea,select{font:inherit;color:inherit}input,textarea,select{background:#fffefa;border:1px solid #afb7aa;border-radius:4px;padding:9px;width:100%}textarea{resize:vertical;field-sizing:content;min-height:3.2em}button{min-height:44px;border:1px solid #839585;background:#203a32;color:white;border-radius:4px;padding:8px 18px;cursor:pointer}button.secondary{background:transparent;color:#203a32}button.small{min-height:36px;padding:4px 12px;font-size:15px}button:disabled{opacity:.45;cursor:default}button:focus-visible,input:focus-visible,textarea:focus-visible,select:focus-visible,summary:focus-visible{outline:3px solid #8b6c36;outline-offset:3px}
 .lookup,.actions,.row{display:flex;gap:12px;align-items:end;flex-wrap:wrap}.lookup label{flex:1 1 260px}.actions{position:sticky;bottom:0;background:#f7f6f0;padding:18px 0;border-top:1px solid #dddfd4;margin-top:24px;align-items:center}label{display:block;margin:12px 0}label span{display:block;margin-bottom:4px}details{border-top:1px solid #dddfd4;padding:18px 0}summary{font-size:23px;cursor:pointer}#status{white-space:pre-wrap;padding:12px 0}#status.error{color:#962f27}#publication{white-space:pre-wrap;overflow-wrap:anywhere;font:14px/1.6 system-ui;max-height:300px;overflow:auto;border:1px solid #dddfd4;padding:12px}.badge{font:14px system-ui;color:#627069}a{color:#365c8f}
 ol.entries{list-style:none;padding:0;margin:0}.entry{display:grid;grid-template-columns:3.2em 1fr;gap:4px 16px;border-top:1px solid #e6e7de;padding:16px 0}.entry .number{font:600 22px system-ui;color:#8b6c36;text-align:right}.entry .source{font:14px system-ui;color:#627069}.entry blockquote{margin:6px 0;padding-left:14px;border-left:3px solid #c9cdbf;max-height:7.5em;overflow:hidden;cursor:pointer}.entry blockquote.open{max-height:none}.entry .moves{display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin-top:6px}.entry .moves input{width:5em;padding:5px}.entry label{margin:6px 0}.section-label{font:600 15px system-ui;color:#627069;margin:20px 0 0;text-transform:uppercase;letter-spacing:.04em}.item{border-top:1px solid #e6e7de;padding:10px 0}.item .row label{flex:1 1 280px;margin:6px 0}.moved{animation:flash 1.2s}@keyframes flash{from{background:#efe3c4}to{background:transparent}}
+.entry.omitted blockquote,.entry.omitted .source{opacity:.45;text-decoration:line-through}.entry .tag{font:600 13px system-ui;color:#8b6c36;margin-left:8px}.picker{border:1px solid #dddfd4;background:#fffefa;padding:10px 14px;margin:8px 0;border-radius:4px}.picker label{display:flex;gap:10px;align-items:start;margin:4px 0;cursor:pointer}.picker label input{width:auto;margin-top:6px}.picker .authorized{color:#2d5a8f}.picker .break{border-top:1px dashed #c9cdbf;margin:8px 0}.picker .row{margin-top:8px}
 @media(max-width:650px){body{padding:0 16px}h1{font-size:30px}.entry{grid-template-columns:2.2em 1fr}}
 </style>
 <h1>Edit a study guide</h1>
-<p>Change a guide’s title, introduction, reading arc, reading order and notes, discussion questions, neighbor invitations and comparative reading. Save keeps a backup on this computer. Publish uploads the saved guides and waits for the website’s checks.</p>
-<p class="note">The quotations themselves come from the subject’s reviewed passages and are not edited here. The introduction and questions appear only in the study guide’s PDF view.</p>
+<p>Change a guide’s title, introduction, reading arc, reading order and notes, which sentences of each reading are shown, which readings are left out, discussion questions, neighbor invitations and comparative reading. Save keeps a backup on this computer. Publish uploads the saved guides and waits for the website’s checks.</p>
+<p class="note">The wording of a quotation is never changed: a reading can only be shortened to some of its whole sentences, or left out. Readings with an authorized translation keep at least one authorized sentence and cannot be left out. The introduction and questions appear only in the study guide’s PDF view.</p>
 <form id="lookup" class="lookup"><label><span>Find a guide</span><input id="filter" placeholder="Type part of a title" autocomplete="off"></label><label><span>Study guide</span><select id="guide"></select></label><button id="load">Open guide</button></form>
 <p id="status" role="status" aria-live="polite">Loading the list of guides…</p>
 <main id="editor" hidden>
@@ -22,7 +23,7 @@ ol.entries{list-style:none;padding:0;margin:0}.entry{display:grid;grid-template-
 <p class="note">One sentence describing the path through the readings. It appears on the list of guides and under “About this reading sequence”.</p>
 </details>
 <details open><summary>Reading order</summary>
-<p class="note">Move readings with the arrows, or type a position and press Move. The note under each reading explains its place in the sequence. Readings linked to the catalog come first; supplied quotations stay at the end. Click a quotation to show all of it.</p>
+<p class="note">Move readings with the arrows, or type a position and press Move. The note under each reading explains its place in the sequence. Readings linked to the catalog come first; supplied quotations stay at the end. Click a quotation to show all of it. “Choose sentences” lists the whole passage so you can tick the sentences to show; “Leave out” keeps a reading out of the published guide (it stays listed here, so you can put it back).</p>
 <ol id="order" class="entries"></ol>
 </details>
 <details open><summary>Questions to carry forward</summary>
@@ -46,16 +47,61 @@ let guides=[],current=null,work=null,preview=null,dirty=false,busy=false,polling
 function status(text,error=false){$('status').textContent=text;$('status').classList.toggle('error',error);}
 async function api(operation,body={}){const response=await fetch('/'+operation,{method:'POST',headers:{'Content-Type':'application/json','X-Editor-Token':token||''},body:JSON.stringify(body)});const value=await response.json();if(!response.ok)throw Error(value.error||'Operation failed.');return value;}
 const el=(tag,props={},...children)=>{const node=Object.assign(document.createElement(tag),props);node.append(...children);return node;};
-function buttons(){for(const id of ['load','save','reload','add-question','add-reference'])$(id).disabled=busy;$('publish').disabled=busy||dirty||!pending.length;$('dirty').textContent=dirty?'Unsaved changes':'';$('pending').textContent=pending.length?`Saved, not yet published: ${pending.join(', ')}`:'';for(const input of $('editor').querySelectorAll('textarea,input,.entry button,.item button'))input.disabled=busy;const [least,most]=current?.questionLimits||[0,0];if(work){$('add-question').disabled=busy||work.questions.length>=most;$('question-limits').textContent=most?`This guide has ${current.readingEntries} reading entries, so it needs ${least===most?most:least+' to '+most} question${most===1?'':'s'} (now ${work.questions.length}).`:'This guide has too few readings for questions.';}}
+function buttons(){for(const id of ['load','save','reload','add-question','add-reference'])$(id).disabled=busy;$('publish').disabled=busy||dirty||!pending.length;$('dirty').textContent=dirty?'Unsaved changes':'';$('pending').textContent=pending.length?`Saved, not yet published: ${pending.join(', ')}`:'';for(const input of $('editor').querySelectorAll('textarea,input,.entry button,.item button'))if(busy)input.disabled=true;else if(input.dataset.disabled!=='true')input.disabled=false;if(work){const shown=work.order.filter(x=>!x.omitted).length,most=Math.min(6,Math.max(0,shown-1)),least=Math.min(3,most);$('add-question').disabled=busy||work.questions.length>=most;$('question-limits').textContent=most?`This guide shows ${shown} readings, so it needs ${least===most?most:least+' to '+most} question${most===1?'':'s'} (now ${work.questions.length}).`:'This guide has too few readings for questions.';}}
 function edited(){dirty=true;buttons();}
 function fillList(){const words=$('filter').value.trim().toLowerCase(),chosen=$('guide').value;$('guide').replaceChildren(...guides.filter(g=>!words||g.title.toLowerCase().includes(words)||g.slug.includes(words)).map(g=>el('option',{value:g.slug,textContent:g.title+(g.curated?' (selected quotations)':'')})));if([...$('guide').options].some(o=>o.value===chosen))$('guide').value=chosen;}
 const bind=(input,set)=>{input.addEventListener('input',()=>{set(input.value);edited();});return input;};
+// Kept sentences are stored as runs of consecutive sentences, joined with the
+// source's own spacing (the same rule as scripts/study-guide-passage.mjs).
+function shortenedFrom(sentences,keep){
+  if(!keep.length||keep.length===sentences.length)return undefined;
+  const pieces=[];let previous=null;
+  for(const i of keep){const s=sentences[i];if(previous!==null&&i===previous+1&&sentences[previous].range===s.range)pieces[pieces.length-1]+=sentences[previous].after+s.text;else pieces.push(s.text);previous=i;}
+  return pieces;
+}
+async function choose(entry,holder,quote){
+  if(holder.firstChild){holder.replaceChildren();return;}
+  holder.replaceChildren(el('p',{className:'note',textContent:'Loading the whole passage…'}));
+  let reading;
+  try{reading=await api('passage',{slug:current.guide.slug,key:entry.key});}catch(error){holder.replaceChildren(el('p',{className:'note',textContent:error.message}));return;}
+  // Start from what this entry shows now (including unsaved choices).
+  const selected=new Set(reading.sentences.map((s,i)=>i));
+  if(entry.shortened){selected.clear();let from=0;for(const piece of entry.shortened){for(let i=from;i<reading.sentences.length;i++){let text=reading.sentences[i].text,j=i;while(text.length<piece.length&&j+1<reading.sentences.length&&reading.sentences[j+1].range===reading.sentences[j].range){text+=reading.sentences[j].after+reading.sentences[j+1].text;j++;}if(text===piece){for(let k=i;k<=j;k++)selected.add(k);from=j+1;break;}}}}
+  const boxes=[],rows=[];
+  reading.sentences.forEach((s,i)=>{
+    if(i&&s.range!==reading.sentences[i-1].range)rows.push(el('div',{className:'break'}));
+    const box=el('input',{type:'checkbox',checked:selected.has(i)});boxes.push(box);
+    rows.push(el('label',{className:s.authorized?'authorized':''},box,el('span',{textContent:s.text})));
+  });
+  const message=el('p',{className:'note'});
+  const apply=el('button',{type:'button',className:'small',textContent:'Use the ticked sentences'});
+  const whole=el('button',{type:'button',className:'secondary small',textContent:'Show the whole passage'});
+  const close=el('button',{type:'button',className:'secondary small',textContent:'Close'});
+  const set=keep=>{
+    if(!keep.length){message.textContent='Tick at least one sentence, or use “Leave out” to drop the reading.';return;}
+    if(reading.sentences.some(s=>s.authorized)&&!keep.some(i=>reading.sentences[i].authorized)&&reading.mandatory){message.textContent='Keep at least one sentence of the authorized translation (shown in blue).';return;}
+    const pieces=shortenedFrom(reading.sentences,keep);
+    if(pieces)entry.shortened=pieces;else delete entry.shortened;
+    if(preview?.entries?.[entry.key])preview.entries[entry.key].text=keep.map(i=>reading.sentences[i].text).join(' ');
+    if(pieces&&preview?.entries?.[entry.key])preview.entries[entry.key].text=pieces.join(' … ');
+    edited();renderOrder(entry.key);
+  };
+  apply.onclick=()=>set(boxes.flatMap((b,i)=>b.checked?[i]:[]));
+  whole.onclick=()=>set(reading.sentences.map((s,i)=>i));
+  close.onclick=()=>holder.replaceChildren();
+  holder.replaceChildren(el('div',{className:'picker'},el('p',{className:'note',textContent:'Tick the sentences to show. Separate runs are joined with an ellipsis. Blue sentences are an authorized translation.'+(reading.mandatory?' At least one of them must stay.':'')}),...rows,message,el('div',{className:'row'},apply,whole,close)));
+}
 function renderOrder(focusKey){
   const list=$('order');list.replaceChildren();let shownLabel=false;
   work.order.forEach((entry,i)=>{
     const info=preview?.entries?.[entry.key];
     if(entry.key.startsWith('selection:')&&!shownLabel){shownLabel=true;list.append(el('li',{className:'section-label',textContent:'Further quotations · supplied wording and references'}));}
     const quote=el('blockquote',{textContent:info?info.text:'(Quotation preview unavailable.)',title:'Click to show or hide the whole quotation'});quote.onclick=()=>quote.classList.toggle('open');
+    const picker=el('div');
+    const pick=el('button',{type:'button',className:'secondary small',textContent:'Choose sentences'});pick.onclick=()=>choose(entry,picker,quote);
+    if(entry.omitted){pick.disabled=true;pick.dataset.disabled='true';}
+    const omit=el('button',{type:'button',className:'secondary small',textContent:entry.omitted?'Put back in the guide':'Leave out'});
+    omit.onclick=()=>{if(entry.omitted)delete entry.omitted;else{if(!confirm(`Leave reading ${i+1} out of the published guide? Its note and the arc may need a word changed.`))return;entry.omitted=true;}edited();renderOrder(entry.key);};
     const label=entry.key.startsWith('source:')?entry.key.slice(7)+(info?.quotations>1?` · ${info.quotations} quotations from this source`:''):(info?.reference||'Supplied quotation');
     const why=bind(el('textarea',{value:entry.why,rows:2}),v=>{entry.why=v;});why.setAttribute('aria-label',`Note for reading ${i+1}`);
     const move=(to)=>{to=Math.max(0,Math.min(work.order.length-1,to));if(to===i)return;const [item]=work.order.splice(i,1);work.order.splice(to,0,item);edited();renderOrder(item.key);};
@@ -64,7 +110,7 @@ function renderOrder(focusKey){
     position.onkeydown=event=>{if(event.key==='Enter'){event.preventDefault();go.click();}};
     const up=el('button',{type:'button',className:'secondary small',textContent:'↑ Up',disabled:i===0});up.onclick=()=>move(i-1);
     const down=el('button',{type:'button',className:'secondary small',textContent:'↓ Down',disabled:i===work.order.length-1});down.onclick=()=>move(i+1);
-    const item=el('li',{className:'entry'},el('div',{className:'number',textContent:String(i+1).padStart(2,'0')}),el('div',{},el('div',{className:'source',textContent:label}),quote,el('label',{},el('span',{className:'note',textContent:'Why it comes here'}),why),el('div',{className:'moves'},up,down,el('span',{className:'badge',textContent:'Move to position'}),position,go)));
+    const item=el('li',{className:'entry'+(entry.omitted?' omitted':'')},el('div',{className:'number',textContent:String(i+1).padStart(2,'0')}),el('div',{},el('div',{className:'source'},label,...(entry.omitted?[el('span',{className:'tag',textContent:'Left out'})]:entry.shortened?[el('span',{className:'tag',textContent:'Shortened'})]:[])),quote,el('div',{className:'moves'},pick,omit),picker,el('label',{},el('span',{className:'note',textContent:'Why it comes here'}),why),el('div',{className:'moves'},up,down,el('span',{className:'badge',textContent:'Move to position'}),position,go)));
     if(entry.key===focusKey){item.classList.add('moved');requestAnimationFrame(()=>{item.scrollIntoView({block:'nearest'});(i===0?down:up).focus();});}
     list.append(item);
   });

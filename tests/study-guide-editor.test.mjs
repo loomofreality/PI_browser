@@ -32,12 +32,27 @@ test('editorial wording and order can change; reviewed structure cannot',()=>{
   g=edit();g.order.pop();assert.throws(()=>checkGuide(original,g),/exactly once/);
   g=edit();g.order[1].key='source:X1';assert.throws(()=>checkGuide(original,g),/exactly once/);
   g=edit();g.order[0].why=' ';assert.throws(()=>checkGuide(original,g),/note for reading 1/);
-  // Kept sentences of a shortened reading move with it but cannot be edited here.
+  // Kept sentences of a shortened reading move with it. New kept sentences, or
+  // a newly omitted reading, need a check against the source text first.
   const shortened=edit();shortened.order[1].shortened=['Kept sentence.'];
   g=structuredClone(shortened);g.order.reverse();g.order.push(g.order.shift());
   assert.deepEqual(checkGuide(shortened,g).order[1].shortened,['Kept sentence.']);
-  g=structuredClone(shortened);g.order[1].shortened=['Another sentence.'];assert.throws(()=>checkGuide(shortened,g),/moved or have their note changed/);
-  g=edit();g.order[0].shortened=['Added.'];assert.throws(()=>checkGuide(original,g),/moved or have their note changed/);
+  g=structuredClone(shortened);g.order[1].shortened=['Another sentence.'];assert.throws(()=>checkGuide(shortened,g),/could not be checked/);
+  assert.deepEqual(checkGuide(shortened,g,{verified:new Set(['source:X2'])}).order[1].shortened,['Another sentence.']);
+  g=structuredClone(shortened);delete g.order[1].shortened;assert.equal(checkGuide(shortened,g).order[1].shortened,undefined);
+  g=edit();g.order[0].shortened=['Added.'];assert.throws(()=>checkGuide(original,g),/could not be checked/);
+  g=edit();g.order[0].shortened=[];assert.throws(()=>checkGuide(original,g,{verified:new Set(['source:X1'])}),/kept sentences of reading 1 are invalid/);
+  g=edit();g.order[0].extra=1;assert.throws(()=>checkGuide(original,g),/moved, shortened, left out/);
+  // Leaving out a reading lowers the question limit; putting it back needs no check.
+  g=edit();g.order[0].omitted=true;assert.throws(()=>checkGuide(original,g),/Leaving out reading 1 could not be checked/);
+  const verified={verified:new Set(['source:X1','source:X2','source:X3','selection:free'])};
+  assert.throws(()=>checkGuide(original,g,verified),/exactly 2 questions/);
+  g.questions.pop();assert.equal(checkGuide(original,g,verified).order[0].omitted,true);
+  g.order[1].omitted=true;assert.throws(()=>checkGuide(original,g,verified),/exactly 1 question/);
+  g.questions=['What follows?'];const omitted=checkGuide(original,g,verified);
+  g=structuredClone(omitted);delete g.order[0].omitted;delete g.order[1].omitted;g.questions=original.questions;assert.deepEqual(checkGuide(omitted,g).order,original.order);
+  g=edit();g.order[0].omitted=false;assert.throws(()=>checkGuide(original,g,verified),/either left out or not/);
+  g=edit();for(const x of g.order)x.omitted=true;g.questions=[];assert.throws(()=>checkGuide(original,g,verified),/At least one reading/);
   g=edit();g.questions=['One?'];assert.throws(()=>checkGuide(original,g),/exactly 3 questions/);
   g=edit();g.questions.push('Four?');assert.throws(()=>checkGuide(original,g),/exactly 3 questions/);
   g=edit();g.questions[1]=g.questions[0];assert.throws(()=>checkGuide(original,g),/identical/);

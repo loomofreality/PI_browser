@@ -249,3 +249,47 @@ test('a shortened reading shows only its kept whole sentences, verbatim, and kee
   f.config.order[0].shortened=['The essential idea.'];await f.saveConfig();
   await assert.rejects(buildStudyGuides(f.root,f.out,dataset),/omits its authorized wording/);
 });
+
+test('an omitted reading is left out of the guide but stays covered, and authorized wording cannot be omitted',async t=>{
+  const f=await fixture(t);
+  f.config.order[1].omitted=true;f.config.questions=[];await f.saveConfig();
+  const validation=await buildStudyGuides(f.root,f.out,dataset);
+  assert.equal(validation.subjects[0].readingEntries,1);assert.equal(validation.subjects[0].omittedEntries,1);
+  const pdf=await fs.readFile(path.join(f.out,'study-guides/sample-pdf.html'),'utf8');
+  assert.doesNotMatch(pdf,/A supplied quotation/);assert.doesNotMatch(pdf,/reading-2/);
+  const exported=JSON.parse(await fs.readFile(path.join(f.out,'study-guides/compiled.json'),'utf8')).subjects[0];
+  assert.deepEqual(exported.compiled.map(x=>x.key),['source:FIXTURE00001']);
+  assert.deepEqual(exported.omitted,[{key:'selection:unlinked',selectionIds:['unlinked']}]);
+  // Questions follow the readings shown.
+  f.config.questions=['A question?'];await f.saveConfig();
+  await assert.rejects(buildStudyGuides(f.root,f.out,dataset),/fewer than quotations/);
+  // The linked passage is authorized, so it cannot be left out.
+  f.config.questions=[];f.config.order[1].omitted=undefined;f.config.order[0].omitted=true;await f.saveConfig();
+  await assert.rejects(buildStudyGuides(f.root,f.out,dataset),/Omitted reading has authorized wording: sample reading 1/);
+  f.config.order[0].omitted='yes';await f.saveConfig();
+  await assert.rejects(buildStudyGuides(f.root,f.out,dataset),/Invalid omitted reading/);
+  f.config.order[0].omitted=true;f.config.order[1].omitted=true;await f.saveConfig();
+  await assert.rejects(buildStudyGuides(f.root,f.out,dataset),/Every reading is omitted/);
+});
+
+test('the editor lists a reading’s whole sentences and rebuilds kept sentences exactly as the build checks them',async t=>{
+  const f=await fixture(t),plain='<Word> in context. A middle sentence. The essential idea.',second='A following paragraph.';
+  await f.zip('data/'+recordFilename('FIXTURE00001'),{id:'FIXTURE00001',enVersion:'v1',metadata:{Authorized:'Y2'},en:{paragraphs:[{plain},{plain:second}]},original:{paragraphs:[]},paired:false});
+  f.data.selections[0].candidates[0].ranges=[{paragraph:1,start:0,end:plain.length,text:plain},{paragraph:2,start:0,end:second.length,text:second}];
+  f.data.selections[1].candidates[0].ranges=[{paragraph:1,start:0,end:6,text:'<Word>'}];
+  await f.saveData();
+  const {readingPassage,shortenedFrom}=await import('../scripts/study-guide-passage.mjs');
+  const {gunzipSync}=await import('node:zlib');
+  const read=async name=>JSON.parse(gunzipSync(await fs.readFile(path.join(f.out,dataset,name))));
+  const guide={...f.config,order:[{...f.config.order[0],shortened:['<Word> in context.',second]},f.config.order[1]]};
+  delete guide.selection;
+  const reading=await readingPassage({guide,key:'source:FIXTURE00001',read});
+  assert.deepEqual(reading.sentences.map(s=>[s.text,s.kept,s.authorized]),[['<Word> in context.',true,false],['A middle sentence.',false,false],['The essential idea.',false,false],[second,true,true]]);
+  assert.equal(reading.mandatory,true);
+  assert.deepEqual(shortenedFrom(reading.sentences,[0,1,3]),['<Word> in context. A middle sentence.',second]);
+  assert.equal(shortenedFrom(reading.sentences,[0,1,2,3]),undefined);
+  reading.check(shortenedFrom(reading.sentences,[1,2,3]));
+  assert.throws(()=>reading.check(shortenedFrom(reading.sentences,[1,2])),/authorized translation/);
+  const supplied=await readingPassage({guide,key:'selection:unlinked',read});
+  assert.deepEqual(supplied.sentences.map(s=>s.text),['A supplied quotation.']);assert.equal(supplied.mandatory,false);
+});
