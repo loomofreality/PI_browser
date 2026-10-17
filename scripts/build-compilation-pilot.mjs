@@ -65,7 +65,9 @@ const withReferences=(text,refs)=>text.split(/(\[\d+\])/).map(part=>{
   return `<sup><a href="${safeUrl(ref.url)}" aria-label="${esc(ref.label)}">${part}</a></sup>`;
 }).join('');
 const nav=active=>`<nav aria-label="Study guides"><a href="index.html"${active==='index'?' aria-current="page"':''}>All study guides</a><a href="${esc(base+'subjects.html')}">Subject view</a></nav>`;
-const document=(title,body,active,pdf=false)=>`<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${esc(title)}${pdf?' · Study guide':''} · Subject compilations</title><link rel="stylesheet" href="pilot.css">${pdf?'<script src="pilot-view.js" defer></script>':''}</head><body${pdf?' class="pdf-view"':''}><a class="skip" href="#main">Skip to reading</a><header><a class="brand" href="index.html">Partial Inventory <span>Subject compilations</span></a>${nav(active)}</header><main id="main">${body}</main><footer>Study guide sample · Introductions, sequence notes, and questions are editorial contributions.</footer></body></html>`;
+// Follow the main page's saved light or dark choice, before styles paint.
+const theme=`<script>(()=>{const root=document.documentElement,apply=value=>{root.dataset.theme=value==='dark'?'dark':'light';};let saved;try{saved=localStorage.getItem('pi-theme');}catch{}apply(saved);addEventListener('storage',event=>{if(event.key==='pi-theme')apply(event.newValue);});})();</script>`;
+const document=(title,body,active,pdf=false)=>`<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${esc(title)}${pdf?' · Study guide':''} · Subject compilations</title>${theme}<link rel="stylesheet" href="pilot.css">${pdf?'<script src="pilot-view.js" defer></script>':''}${active==='index'?'<script src="guide-index.js" defer></script>':''}</head><body${pdf?' class="pdf-view"':''}><a class="skip" href="#main">Skip to reading</a><header><a class="brand" href="index.html">Partial Inventory <span>Subject compilations</span></a>${nav(active)}</header><main id="main">${body}</main><footer>Study guide sample · Introductions, sequence notes, and questions are editorial contributions.</footer></body></html>`;
 const validation={format:1,dataset:editorial.dataset,editorialSha256:digest(JSON.stringify(editorial)),subjects:[]};
 const exportData={format:1,dataset:editorial.dataset,subjects:[]};
 const cards=[];
@@ -108,7 +110,8 @@ for(const config of editorial.subjects){
   }
   const ordered=shownOrder.map(x=>groupMap.get(x.key));
   const shownSelections=ordered.reduce((n,g)=>n+g.selections.length,0);
-  const rendered=[],compiled=[];
+  // The PDF view hides source context, so its pages are published without it.
+  const rendered=[],printed=[],compiled=[];
   let paragraphCount=0,rangeCount=0;
   for(const [position,g] of ordered.entries()){
     let quote='',context='',citation='',note='';
@@ -209,7 +212,8 @@ for(const config of editorial.subjects){
       }
     }
     const unlinkedStart=!g.source&&(position===0||ordered[position-1].source)?'<p class="section-label">Further quotations · supplied wording and references</p>':'';
-    rendered.push(`${unlinkedStart}<article class="quotation" id="reading-${position+1}"><span class="sequence" aria-label="Reading position ${position+1}">${String(position+1).padStart(2,'0')}</span><div class="quote-body"><blockquote>${quote}</blockquote><div class="citation">${citation}</div>${note}${context}</div></article>`);
+    const article=details=>`${unlinkedStart}<article class="quotation" id="reading-${position+1}"><span class="sequence" aria-label="Reading position ${position+1}">${String(position+1).padStart(2,'0')}</span><div class="quote-body"><blockquote>${quote}</blockquote><div class="citation">${citation}</div>${note}${details}</div></article>`;
+    rendered.push(article(context));printed.push(article(''));
     compiled.push(entry);
   }
   const represented=[...compiled.flatMap(x=>x.selectionIds),...omittedIds];
@@ -238,7 +242,7 @@ for(const config of editorial.subjects){
   const controls=`<div class="reading-heading"><h2>Selected passages</h2></div><div class="view-controls"><a class="action" href="${esc(linkSubject(config.id)+'&print=1')}" target="_blank" rel="noopener">Open as PDF</a><a class="action" href="${config.slug}-pdf.html">Try a study guide</a><span class="meta">The introduction and discussion questions appear only in the study guide’s PDF view.</span></div>`;
   const body=`<p class="eyebrow">Editorial pilot · ${config.selection?'selected compilation':'complete sample'}</p>${heading}${controls}${rendered.join('')}${sequenceNotes}`;
   const pdfControls=`<div class="reading-heading"><h2>Selected passages</h2></div><div class="view-controls"><button class="action" id="print-compilation" disabled>Print / Save as PDF</button><a href="${esc(linkSubject(config.id))}">Back to subject</a>${questions?'<a href="#questions">Questions for reflection ↓</a>':''}<span id="print-status" class="meta" role="status">Preparing fonts…</span></div>`;
-  const pdfBody=`${heading}<p class="pdf-label">Editorial introduction</p>${introduction}${pdfControls}${rendered.join('')}${exploration}${questions}`;
+  const pdfBody=`${heading}<p class="pdf-label">Editorial introduction</p>${introduction}${pdfControls}${printed.join('')}${exploration}${questions}`;
   if(body.includes(config.introduction)||config.questions.some(q=>body.includes(esc(q))))throw Error('Editorial content leaked into regular view');
   await fs.writeFile(path.join(output,config.slug+'.html'),document(config.displayTitle,body,config.slug));
   await fs.writeFile(path.join(output,config.slug+'-pdf.html'),document(config.displayTitle,pdfBody,config.slug,true));
@@ -248,14 +252,18 @@ for(const config of editorial.subjects){
   result.boundaryReviewEntries=compiled.filter(x=>x.boundaryIssues?.length).length;
   result.connectedSubjects=connectedSubjects.map(s=>s.id);
   exportData.subjects.push({...config,order:shownOrder,omitted:config.order.filter(x=>x.omitted).map(x=>({key:x.key,selectionIds:groupMap.get(x.key).selections.map(s=>s.id)})),sourceName:data.subject.name,connectedSubjects:result.connectedSubjects,compiled});
-  cards.push(`<article class="sample"><p class="eyebrow">${counts}${newest.has(config.id)?' · New':''}</p><h2><a href="${config.slug}-pdf.html">${esc(config.displayTitle)} →</a></h2><p>${esc(config.arc)}</p><p class="sample-links"><a href="${esc(linkSubject(config.id))}">Open subject</a><a href="${config.slug}-pdf.html">Try a study guide</a></p></article>`);
+  // One line per guide; centrality is the subject's number of public graph connections.
+  const quotations=`${shownSelections} of ${candidateCount} quotation${candidateCount===1?'':'s'}`;
+  cards.push({title:config.displayTitle,centrality:connectedSubjects.length,quotations:shownSelections,html:`<li data-title="${esc(config.displayTitle)}" data-quotations="${shownSelections}" data-total="${candidateCount}" data-centrality="${connectedSubjects.length}"><a href="${config.slug}-pdf.html" title="${connectedSubjects.length} connected subject${connectedSubjects.length===1?'':'s'}"><span class="guide-title">${esc(config.displayTitle)}</span><span class="guide-subject">${esc(data.subject.name)}</span><span class="guide-count">${quotations}</span></a></li>`});
 }
 await fs.mkdir(path.join(output,'fonts'),{recursive:true});
 for(const font of ['eb-garamond.ttf','eb-garamond-italic.ttf','scheherazade-new.ttf','EB-Garamond-OFL.txt','Scheherazade-New-OFL.txt'])await fs.copyFile(path.join(out,'fonts',font),path.join(output,'fonts',font));
 await fs.copyFile(path.join(root,'scripts/compilation-pilot.css'),path.join(output,'pilot.css'));
 await fs.copyFile(path.join(root,'scripts/compilation-pilot-view.js'),path.join(output,'pilot-view.js'));
+await fs.copyFile(path.join(root,'scripts/compilation-guide-index.js'),path.join(output,'guide-index.js'));
+const collator=new Intl.Collator('en',{sensitivity:'base',ignorePunctuation:true});
 const selectionTotal=validation.subjects.reduce((sum,s)=>sum+s.selections,0);
-await fs.writeFile(path.join(output,'index.html'),document('Ways into deeper reading',`<p class="eyebrow">${editorial.subjects.length} sample study guides</p><h1>Ways into<br>deeper reading.</h1><p class="lead">Quotations arranged for deeper exploration.</p><p class="intro-note">${editorial.subjects.some(s=>s.selection)?`These guides contain ${selectionTotal} quotations across ${editorial.subjects.length} subjects. Selected guides state their scope; every original compilation remains available in Subject view.`:`These samples retain all ${selectionTotal} public selections across ${editorial.subjects.length} subjects.`} Each study guide’s PDF view includes an introductory essay and comparative reading, with discussion questions where the quotation count permits. Short compilations have fewer questions than quotations. The original “Open as PDF” format remains available in Subject view.</p><div class="samples">${cards.join('')}</div><details class="editorial"><summary>About these study guides</summary><p>${esc(editorial.method)}</p><p>“Recorded neighbor” means an existing subject connection; “editorial exploration” identifies a suggested path for reading. Introductions and questions are editorial contributions, separate from the quoted sources.</p></details>`,'index'));
+await fs.writeFile(path.join(output,'index.html'),document('Ways into deeper reading',`<p class="eyebrow">${editorial.subjects.length} sample study guides</p><h1>Ways into<br>deeper reading.</h1><p class="lead">Quotations arranged for deeper exploration.</p><p class="intro-note">${editorial.subjects.some(s=>s.selection)?`These guides contain ${selectionTotal} quotations across ${editorial.subjects.length} subjects. Selected guides state their scope; every original compilation remains available in Subject view.`:`These samples retain all ${selectionTotal} public selections across ${editorial.subjects.length} subjects.`} Each study guide’s PDF view includes an introductory essay and comparative reading, with discussion questions where the quotation count permits. Short compilations have fewer questions than quotations. The original “Open as PDF” format remains available in Subject view.</p><div class="guide-list-heading"><h2>Study guides</h2><label class="sort-control" for="guide-sort">Sort by<select id="guide-sort"><option value="centrality" selected>Centrality</option><option value="alphabetical">Alphabetical</option><option value="quotations">Number of quotations</option></select></label></div><ol class="guide-list" id="guide-list">${cards.sort((a,b)=>b.centrality-a.centrality||collator.compare(a.title,b.title)).map(card=>card.html).join('')}</ol><details class="editorial"><summary>About these study guides</summary><p>${esc(editorial.method)}</p><p>“Recorded neighbor” means an existing subject connection; “editorial exploration” identifies a suggested path for reading. Introductions and questions are editorial contributions, separate from the quoted sources.</p></details>`,'index'));
 await fs.writeFile(path.join(output,'manifest.json'),JSON.stringify({format:1,dataset:datasetName,subjects:Object.fromEntries(editorial.subjects.map(s=>[s.id,`${s.slug}-pdf.html`]))})+'\n');
 await fs.writeFile(path.join(output,'compiled.json'),JSON.stringify(exportData,null,2)+'\n');
 await fs.writeFile(path.join(output,'validation.json'),JSON.stringify(validation,null,2)+'\n');

@@ -16,6 +16,7 @@ async function fixture(t){
     'study-guides/editorial.json':JSON.stringify({subjects:[],method:'Fixture'}),
     'scripts/compilation-pilot.css':'body {}',
     'scripts/compilation-pilot-view.js':'// fixture',
+    'scripts/compilation-guide-index.js':'// fixture',
     'scripts/compilation-guide-loader.mjs':'// fixture',
     'src/fonts/eb-garamond.ttf':'font fixture',
     'src/fonts/eb-garamond-italic.ttf':'font fixture',
