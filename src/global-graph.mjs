@@ -1,4 +1,4 @@
-import {ovalLayout} from './subject-graph.mjs';
+import {ringLayout} from './subject-graph.mjs';
 import {transitionGraph} from './graph-transition.mjs';
 import {escapeHtml as esc} from './text.mjs';
 import {subjectColorStyle} from './subject-colors.mjs';
@@ -10,7 +10,7 @@ export function graphShell(neighborhood){
   return `<section class="graph-panel" aria-label="Knowledge graph"><div class="graph-heading"><h2>Connected subjects</h2></div><div class="graph-body"><p role="status">Arranging subjects within ${depth} ${depth===1?'hop':'hops'}…</p></div></section>`;
 }
 
-export function mountGraph(panel,{neighborhood,subject,lines,url,previousGraph}){
+export function mountGraph(panel,{neighborhood,subject,label,url,previousGraph}){
   const abort=new AbortController(),signal=abort.signal;
   let worker,disposed=false,resize,stopTransition=()=>{};
   const listen=(el,type,fn,options={})=>el.addEventListener(type,fn,{...options,signal});
@@ -19,14 +19,14 @@ export function mountGraph(panel,{neighborhood,subject,lines,url,previousGraph})
   async function load(){
     try{
       const {edges,depth}=neighborhood;
-      const nodes=neighborhood.nodes.map(s=>({...s,lines:lines(s.name),width:146})).map(s=>({...s,height:Math.max(40,s.lines.length*16+20)}));
-      const viewportWidth=Math.max(300,body.clientWidth),viewportHeight=560;
-      const key=JSON.stringify([subject.id,depth,viewportWidth,nodes.map(s=>s.id),edges]);
+      // Circles are measured by their bounding squares wherever a layout needs boxes.
+      const nodes=neighborhood.nodes.map(s=>{const {lines,radius}=label(s.name);return {...s,lines,radius,width:radius*2,height:radius*2};});
+      const key=JSON.stringify([subject.id,depth,nodes.map(s=>s.id),edges]);
       let layout;
       if(cached?.key===key)layout=cached.layout;
       else if(depth===1){
-        const focus=nodes.find(n=>n.id===subject.id),others=nodes.filter(n=>n.id!==subject.id),height=Math.max(...nodes.map(n=>n.height));
-        const circle=ovalLayout(others.length,146,height,viewportWidth,viewportHeight);
+        const focus=nodes.find(n=>n.id===subject.id),others=nodes.filter(n=>n.id!==subject.id);
+        const circle=ringLayout(focus.radius,others.map(n=>n.radius));
         layout={width:circle.width,height:circle.height,nodes:[{...focus,x:circle.center[0],y:circle.center[1]},...others.map((n,i)=>({...n,x:circle.neighbors[i][0],y:circle.neighbors[i][1]}))]};cached={key,layout};savedCamera=null;
       }else{
         layout=await new Promise((resolve,reject)=>{
@@ -44,7 +44,7 @@ export function mountGraph(panel,{neighborhood,subject,lines,url,previousGraph})
     // Suggested connections belong only in the editorial review, never the public graph.
     edges=edges.filter(edge=>edge.status!=='suggested');
     const positions=new Map(layout.nodes.map(n=>[n.id,n]));
-    body.innerHTML=`<svg class="subject-graph global-graph" tabindex="0" role="group" aria-label="Subject network within ${neighborhood.depth} ${neighborhood.depth===1?'hop':'hops'}" aria-description="Drag to move; pinch to zoom. Keyboard: arrows to move, plus or minus to zoom, 0 to fit. Select a subject to read."><g class="graph-camera"><g class="global-edges">${edges.map(e=>{const a=positions.get(e.source),b=positions.get(e.target);return `<line data-source="${esc(e.source)}" data-target="${esc(e.target)}" x1="${a.x}" y1="${a.y}" x2="${b.x}" y2="${b.y}"><title>${esc(a.name)} — ${esc(e.type)} — ${esc(b.name)} (${esc(e.status)})</title></line>`;}).join('')}</g>${layout.nodes.map(n=>`<a data-node="${n.id}" href="${esc(url({subject:n.id,page:null}))}" aria-label="${esc(n.name)}" ${n.id===subject.id?'aria-current="true"':''} style="${subjectColorStyle(n)}"><title>${esc(n.name)}</title><rect x="${n.x-n.width/2}" y="${n.y-n.height/2}" width="${n.width}" height="${n.height}" rx="6"/><text x="${n.x}" y="${n.y}" text-anchor="middle">${n.lines.map((line,i)=>`<tspan x="${n.x}" y="${n.y-(n.lines.length-1)*8+4+i*16}">${esc(line)}</tspan>`).join('')}</text></a>`).join('')}</g></svg>`;
+    body.innerHTML=`<svg class="subject-graph global-graph" tabindex="0" role="group" aria-label="Subject network within ${neighborhood.depth} ${neighborhood.depth===1?'hop':'hops'}" aria-description="Drag to move; pinch to zoom. Keyboard: arrows to move, plus or minus to zoom, 0 to fit. Select a subject to read."><g class="graph-camera"><g class="global-edges">${edges.map(e=>{const a=positions.get(e.source),b=positions.get(e.target);return `<line data-source="${esc(e.source)}" data-target="${esc(e.target)}" x1="${a.x}" y1="${a.y}" x2="${b.x}" y2="${b.y}"><title>${esc(a.name)} — ${esc(e.type)} — ${esc(b.name)} (${esc(e.status)})</title></line>`;}).join('')}</g>${layout.nodes.map(n=>`<a data-node="${n.id}" href="${esc(url({subject:n.id,page:null}))}" aria-label="${esc(n.name)}" ${n.id===subject.id?'aria-current="true"':''} style="${subjectColorStyle(n)}"><title>${esc(n.name)}</title><circle cx="${n.x}" cy="${n.y}" r="${n.radius}"/><text x="${n.x}" y="${n.y}" text-anchor="middle">${n.lines.map((line,i)=>`<tspan x="${n.x}" y="${n.y-(n.lines.length-1)*8+4+i*16}">${esc(line)}</tspan>`).join('')}</text></a>`).join('')}</g></svg>`;
     const svg=body.querySelector('svg'),cameraGroup=svg.querySelector('.graph-camera');
     let camera=savedCamera?{...savedCamera}:null,minScale=0.01,fitted=false;
     const size=()=>({width:svg.clientWidth,height:svg.clientHeight});
@@ -52,23 +52,12 @@ export function mountGraph(panel,{neighborhood,subject,lines,url,previousGraph})
     function fit(){fitted=true;const {width,height}=size();minScale=Math.min(width/layout.width,height/layout.height)*0.92;camera={scale:minScale,x:(width-layout.width*minScale)/2,y:(height-layout.height*minScale)/2};paint();}
     function zoom(factor,anchor){fitted=false;const {width,height}=size();camera=zoomCamera(camera,factor,anchor||{x:width/2,y:height/2},minScale*0.5,4);paint();}
     function center(id){fitted=false;const n=positions.get(id);if(!n)return;const {width,height}=size(),scale=Math.min(1.3,width/(n.width+70),height/(n.height+70));camera={scale,x:width/2-n.x*scale,y:height/2-n.y*scale};paint();}
-    function originalSize(){fitted=false;const {width,height}=size(),focus=positions.get(subject.id);camera={scale:1,x:width/2-focus.x,y:height/2-focus.y};paint();}
-    if(neighborhood.depth===1)svg.style.height=`${Math.min(900,Math.max(560,layout.height))}px`;
+    // A one-hop drawing is centred as a whole, so an uneven ring stays in view.
+    function originalSize(){fitted=false;const {width,height}=size(),focus=neighborhood.depth===1?{x:layout.width/2,y:layout.height/2}:positions.get(subject.id);camera={scale:1,x:width/2-focus.x,y:height/2-focus.y};paint();}
+    if(neighborhood.depth===1)svg.style.height=`${Math.min(900,Math.max(320,Math.ceil(layout.height)))}px`;
     if(camera)paint();else originalSize();
-    function reflowOval(width,height){
-      if(neighborhood.depth!==1)return;
-      const others=layout.nodes.filter(n=>n.id!==subject.id),focus=positions.get(subject.id),oldX=focus.x,oldY=focus.y;
-      const oval=ovalLayout(others.length,146,Math.max(...layout.nodes.map(n=>n.height)),width,height);
-      layout.width=oval.width;layout.height=oval.height;
-      [focus.x,focus.y]=oval.center;others.forEach((n,i)=>{[n.x,n.y]=oval.neighbors[i];});
-      svg.querySelectorAll('[data-node]').forEach(a=>{const n=positions.get(a.dataset.node),rect=a.querySelector('rect'),text=a.querySelector('text');rect.setAttribute('x',n.x-n.width/2);rect.setAttribute('y',n.y-n.height/2);text.setAttribute('x',n.x);text.setAttribute('y',n.y);a.querySelectorAll('tspan').forEach((t,i)=>{t.setAttribute('x',n.x);t.setAttribute('y',n.y-(n.lines.length-1)*8+4+i*16);});});
-      svg.querySelectorAll('.global-edges line').forEach((line,i)=>{const a=positions.get(edges[i].source),b=positions.get(edges[i].target);for(const [key,value] of Object.entries({x1:a.x,y1:a.y,x2:b.x,y2:b.y}))line.setAttribute(key,value);});
-      camera.x+=(oldX-focus.x)*camera.scale;camera.y+=(oldY-focus.y)*camera.scale;
-    }
     let previousSize=size();
-    resize=new ResizeObserver(()=>{const next=size();reflowOval(next.width,next.height);minScale=Math.min(next.width/layout.width,next.height/layout.height)*0.92;if(fitted)fit();else{camera.x+=(next.width-previousSize.width)/2;camera.y+=(next.height-previousSize.height)/2;paint();}previousSize=next;});resize.observe(svg);
-    // Resolve the initial responsive layout before measuring the transition.
-    reflowOval(svg.clientWidth,svg.clientHeight);paint();
+    resize=new ResizeObserver(()=>{const next=size();minScale=Math.min(next.width/layout.width,next.height/layout.height)*0.92;if(fitted)fit();else{camera.x+=(next.width-previousSize.width)/2;camera.y+=(next.height-previousSize.height)/2;paint();}previousSize=next;});resize.observe(svg);
     stopTransition=transitionGraph(svg,previousGraph);
     const point=e=>{const r=svg.getBoundingClientRect();return {x:e.clientX-r.left,y:e.clientY-r.top};};
     // The default zoom suits the graph, so the mouse wheel scrolls the page instead of zooming.
