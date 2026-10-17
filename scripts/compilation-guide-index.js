@@ -2,7 +2,7 @@
 // default, so the list reads correctly before this runs. The guide loader shows
 // the overview again in place, so setup is repeatable on the same elements.
 (()=>{
-  const orders=['centrality','alphabetical','quotations'];
+  const orders=['centrality','thematic','alphabetical','quotations'];
   const collator=new Intl.Collator('en',{sensitivity:'base',ignorePunctuation:true});
   function setup(){
     const select=document.getElementById('guide-sort'),list=document.getElementById('guide-list');
@@ -13,7 +13,8 @@
       const key=select.value,rows=[...list.children];
       // Many guides choose the same number of quotations; the larger subject comes first.
       const count=(row,name)=>key==='alphabetical'?0:Number(row.dataset[name]);
-      rows.sort((a,b)=>count(b,key)-count(a,key)||(key==='quotations'?count(b,'total')-count(a,'total'):0)||collator.compare(a.dataset.title,b.dataset.title));
+      // Thematic is Subject view's order, earliest first; the counts sort largest first.
+      rows.sort((a,b)=>(key==='thematic'?count(a,key)-count(b,key):count(b,key)-count(a,key))||(key==='quotations'?count(b,'total')-count(a,'total'):0)||collator.compare(a.dataset.title,b.dataset.title));
       list.append(...rows);
     };
     apply();
