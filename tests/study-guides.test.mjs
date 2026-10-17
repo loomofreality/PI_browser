@@ -206,16 +206,18 @@ test('the overview lists one line per guide, by centrality and then title, with 
   }
   const b='B'.repeat(32),c='C'.repeat(32);
   await f.zip('subjects/index.json.gz',{subjects,edges:[{source:b,target:id,type:'related',status:'imported'},{source:b,target:c,type:'related',status:'imported'}]});
+  await fs.mkdir(path.join(f.root,'src'));await fs.writeFile(path.join(f.root,'src/subject-order.json'),JSON.stringify({groups:[{id:'I.',title:'I.',subjects:['fourth']},{id:'II.',title:'II.',subjects:['third']}]}));
   const validation=await buildStudyGuides(f.root,f.out,dataset);
   assert.deepEqual(validation.subjects.map(s=>s.name),['fourth','Sample','third']);
   const overview=await fs.readFile(path.join(f.out,'study-guides/index.html'),'utf8');
   const rows=overview.match(/<ol class="guide-list" id="guide-list">([\s\S]*?)<\/ol>/)[1].match(/<li[\s\S]*?<\/li>/g);
   assert.deepEqual(rows.map(r=>r.match(/href="([a-z]+)-pdf\.html"/)[1]),['third','fourth','sample']);
-  assert.match(rows[0],/data-centrality="2"/);
+  assert.match(rows[0],/data-centrality="2"/);assert.match(rows[0],/data-thematic="1"/);assert.match(rows[1],/data-thematic="0"/);assert.match(rows[2],/data-thematic="2"/);
   assert.match(rows[0],/<span class="guide-title">third guide<\/span><span class="guide-subject">third<\/span><span class="guide-count">3 of 3 quotations<\/span>/);
-  assert.match(overview,/<select id="guide-sort"><option value="centrality" selected>Centrality<\/option><option value="alphabetical">Alphabetical<\/option><option value="quotations">Number of quotations<\/option><\/select>/);
+  assert.match(overview,/<select id="guide-sort"><option value="centrality" selected>Centrality<\/option><option value="thematic">Thematic<\/option><option value="alphabetical">Alphabetical<\/option><option value="quotations">Number of quotations<\/option><\/select>/);
   assert.match(overview,/src="guide-index.js"/);assert.match(overview,/localStorage\.getItem\('pi-theme'\)/);
-  assert.doesNotMatch(overview,/· New|class="sample"/);
+  assert.match(overview,/<h1 class="overview-title">Ways into deeper reading\.<\/h1>/);
+  assert.doesNotMatch(overview,/· New|class="sample"|These guides contain|class="intro-note"/);
 });
 
 test('build refuses stale source wording, incomplete ordering, and too many questions for grouped quotations',async t=>{
