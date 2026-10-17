@@ -147,6 +147,14 @@
           "why": "Make the value of variety immediately tangible through the image of food."
         },
         {
+          "key": "source:AB00016",
+          "why": "A direct explanation of how differences in ideas and opinions enrich a unified community."
+        },
+        {
+          "key": "source:ABU0064",
+          "why": "Distinguishes unity from forced uniformity and explains the limits of outward pressure."
+        },
+        {
           "key": "source:ABU1400",
           "why": "Show how different observers understand the same material world.",
           "shortened": [
@@ -154,8 +162,68 @@
           ]
         },
         {
+          "key": "source:BH00394",
+          "why": "Explains differences of understanding through the capacities of recipients, using the river and mirror analogies."
+        },
+        {
+          "key": "source:BH01034",
+          "why": "Explicitly accepts differing understandings of revelation while rejecting quarrels over them."
+        },
+        {
+          "key": "source:BB00005",
+          "why": "Urges nurturing and accepting people whose understanding differs, even when they do not advance to another’s position."
+        },
+        {
+          "key": "source:ABU0914",
+          "why": "Distinguishes freedom of thought from conduct, retaining the stated limits of courtesy and law."
+        },
+        {
+          "key": "source:ABU1683",
+          "why": "A concise rejection of coerced religious belief."
+        },
+        {
+          "key": "source:ABU0657",
+          "why": "Explicitly rejects fighting over differences of thought, belief or custom."
+        },
+        {
+          "key": "source:AB01526",
+          "why": "Directly addresses freedom to express differing opinions and their value in reaching a decision."
+        },
+        {
+          "key": "source:ABU0540",
+          "why": "A practical account of consultation, receptiveness to better views and the fallibility of majority opinion."
+        },
+        {
+          "key": "source:AB00394",
+          "why": "Explains respectful disagreement within an assembly and preserves the accompanying rule about implementing its decisions."
+        },
+        {
+          "key": "source:ABU2303",
+          "why": "A concrete response about continuing association across religious boundaries."
+        },
+        {
+          "key": "source:ABU0967",
+          "why": "Proposes reciprocal visits to houses of worship as a practical remedy for religious misunderstanding."
+        },
+        {
+          "key": "source:ABU2308",
+          "why": "The complete Abraham and aged guest story illustrates patience toward a different belief."
+        },
+        {
           "key": "source:ABU3731",
           "why": "Bring diversity into a concrete historical account of affectionate fellowship."
+        },
+        {
+          "key": "source:ABU0091",
+          "why": "The sun and its changing dawning points illustrate openness to truth beyond a familiar religious form."
+        },
+        {
+          "key": "source:ABU0193",
+          "why": "The many entrances to one temple offer a distinct illustration of diverse religious approaches."
+        },
+        {
+          "key": "source:AB00018",
+          "why": "The physician analogy explains why differing religious laws need not imply conflicting purposes."
         },
         {
           "key": "source:AB00131",
@@ -206,12 +274,88 @@
       "id": "61CA06C3639D42A789B6DBF5E2F86E6C",
       "slug": "humanbody",
       "displayTitle": "The human body",
-      "introduction": "Bodies found in the pyramids, ‘Abdu’l-Bahá observed, show the same characteristics as people living today; the span of human life does not change from age to age, and the vast ages given to biblical figures must be read as religious cycles rather than as a report on flesh. That steadiness of the human frame across millennia is the setting for a far larger claim: the human form is the greatest proof of God in creation, a Book written by His own hand, a Temple reared by His wisdom, a compendium of every world and an epitome of the Well-Guarded Tablet. To live in such a body is to carry sacred meaning about in the ordinary business of eating, working and resting. Paul’s image of the body as a temple of the Holy Spirit, with its consequences for conduct, sits naturally beside this and lets the two traditions be compared without being collapsed into one [1]. What such reverence asks of us, in the care we give ourselves and other creatures, leads on to the human being as microcosm of the greater world, as the sum and fruit of creation, and to the long story of human evolution.",
-      "arc": "Move from a reported reflection on bodies across history to the human form imagined as a sacred book and temple.",
+      "introduction": "Bodies found in the pyramids, ‘Abdu’l-Bahá observed, show the same characteristics as people living today; the span of human life does not change from age to age, and the vast ages given to biblical figures must be read as religious cycles rather than as a report on flesh. That steadiness of the human frame across millennia is the setting for a far larger claim: the human form is the greatest proof of God in creation, a Book written by His own hand, a Temple reared by His wisdom, a compendium of every world and an epitome of the Well-Guarded Tablet. To live in such a body is to carry sacred meaning about in the ordinary business of eating, working and resting. Other passages examine bodily composition and the organs as instruments of the soul, tracing illness, aging, death, and the interdependence of different faculties. Paul’s image of the body as a temple of the Holy Spirit, with its consequences for conduct, sits naturally beside this and lets the two traditions be compared without being collapsed into one [1]. What such reverence asks of us, in the care we give ourselves and other creatures, leads on to the human being as microcosm of the greater world, as the sum and fruit of creation, and to the long story of human evolution.",
+      "arc": "Move from bodily composition and development through the faculties and the soul to interdependence, sacred imagery, and respect for the body.",
       "order": [
         {
           "key": "source:ABU3045",
           "why": "Begin with the historical conversation and its context for reading biblical ages."
+        },
+        {
+          "key": "source:AB00266",
+          "why": "Describes bodily composition and the relation of animal and human faculties."
+        },
+        {
+          "key": "source:ABU0323",
+          "why": "Discusses physical evolution alongside spiritual development."
+        },
+        {
+          "key": "source:ABU0701",
+          "why": "Describes bodily composition and decomposition in the cycle of life and death."
+        },
+        {
+          "key": "source:ABU0185",
+          "why": "Distinguishes the names soul, mind, and spirit by their functions."
+        },
+        {
+          "key": "source:AB01309",
+          "why": "Directly explains the organs as instruments through which the spirit operates."
+        },
+        {
+          "key": "source:AB00020",
+          "why": "Distinguishes the condition of bodily faculties from the independence of the soul."
+        },
+        {
+          "key": "source:AB00228",
+          "why": "Explains why changing bodily powers and health do not change the spirit itself."
+        },
+        {
+          "key": "source:ABU3189",
+          "why": "Addresses the effect of old age on the organs through which the spirit functions."
+        },
+        {
+          "key": "source:ABU0541",
+          "why": "Contrasts the spatial body with the soul that is not confined to place."
+        },
+        {
+          "key": "source:AB00457",
+          "why": "Explains death as the severing of the connection between body and soul."
+        },
+        {
+          "key": "source:ABU0825",
+          "why": "Contrasts bodily frailty with spiritual capacity."
+        },
+        {
+          "key": "source:BH00210",
+          "why": "Connects rational perception with the outward and inward senses."
+        },
+        {
+          "key": "source:BH11628",
+          "why": "Explains the changing names of a single faculty in relation to different organs."
+        },
+        {
+          "key": "source:AB00475",
+          "why": "Uses the interdependence of bodily organs to explain mutual effects in the universe."
+        },
+        {
+          "key": "source:ABU1085",
+          "why": "Explains how the diversity of bodily organs contributes to unity and beauty."
+        },
+        {
+          "key": "source:AB03551",
+          "why": "Uses simultaneous bodily faculties to illustrate the manifestation of divine names."
+        },
+        {
+          "key": "source:BH00135",
+          "why": "Presents the human body as an index of the greater world."
+        },
+        {
+          "key": "source:AB07601",
+          "why": "Interprets the human frame as containing the signs of the wider universe."
+        },
+        {
+          "key": "source:BB00001",
+          "why": "Explains why the body deserves respect after death."
         },
         {
           "key": "selection:18634a8739b1a5018342d49b",
@@ -219,7 +363,9 @@
         }
       ],
       "questions": [
-        "What changes in our care for ourselves and other living beings when we read the body as both a physical reality and a bearer of sacred meaning?"
+        "What changes in our care for ourselves and other living beings when we read the body as both a physical reality and a bearer of sacred meaning?",
+        "How do the passages distinguish changes in bodily organs from the capacities attributed to the soul?",
+        "What can bodily interdependence teach us about unity, and where should that analogy be used with care?"
       ],
       "neighbors": [
         {

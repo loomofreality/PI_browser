@@ -13,7 +13,7 @@ export async function readPublicExtracts(root,subjects,decisions={}){
   report.duplicates=[];delete report.reviewCounts;
   for(const selection of archive.selections){
     if(!bySubject.has(selection.subject)||seen.has(selection.id)||!/^[a-f0-9]{24}$/.test(selection.id))throw Error('Invalid public extract identity '+selection.id);
-    if(!['subjects_inv_length_ordered','Evernote_scrape'].includes(selection.provenance?.sourceCollection))throw Error('Invalid public extract provenance');
+    if(!['subjects_inv_length_ordered','Evernote_scrape','editorial'].includes(selection.provenance?.sourceCollection))throw Error('Invalid public extract provenance');
     seen.add(selection.id);
     if(excluded.has(selection.id))throw Error('Excluded quotation remains in public archive '+selection.id);
     if(deleted.has(selection.id)){excluded.add(selection.id);continue;}

@@ -1010,12 +1010,44 @@
           "why": "Ask for good to reach the people of the Bayán."
         },
         {
+          "key": "source:BB00005",
+          "why": "A clear litany explicitly seeking purification, aid, protection, forgiveness and mercy for those in the Bayan."
+        },
+        {
+          "key": "source:BB00141",
+          "why": "A complete supplication for mercy and preservation of believers in the Bayan."
+        },
+        {
+          "key": "source:BB00003",
+          "why": "An explicit prayer for the upbringing and discernment of the people of the Bayan."
+        },
+        {
+          "key": "source:BB00326",
+          "why": "Specifically prays for those who preserve the Bayan and for entry into the religion."
+        },
+        {
           "key": "source:BB00254",
           "why": "Widen the prayer to the Point, Letters, and believers."
         },
         {
+          "key": "source:BB00228",
+          "why": "Specifically invokes blessings for the Letters of the Living and those martyred in the path."
+        },
+        {
           "key": "source:BB00207",
           "why": "Dwell on the breadth of remembrance through divine names."
+        },
+        {
+          "key": "source:BB00550",
+          "why": "A direct intercession for followers of the Bayan addressed to Him Whom God shall make manifest."
+        },
+        {
+          "key": "source:BB00365",
+          "why": "A concise prayer that the people of the Bayan neither censure the new Manifestation nor contend with His signs."
+        },
+        {
+          "key": "source:BH00016",
+          "why": "A substantial prayer for the guidance of the people of the Bayan who have turned away."
         }
       ],
       "questions": [
@@ -1315,6 +1347,10 @@
           "why": "Reject religious claims used to license seizure."
         },
         {
+          "key": "source:BH02398",
+          "why": "Explicitly distinguishes a spiritual claim from permission to take another person’s property."
+        },
+        {
           "key": "source:BH00005",
           "why": "Place permission and repentance within everyday dealings.",
           "shortened": [
@@ -1322,11 +1358,23 @@
           ]
         },
         {
+          "key": "source:AB01195",
+          "why": "Concise direct explanation of why concealing theft harms its victim; include surrounding question and qualification."
+        },
+        {
+          "key": "source:ABU1979",
+          "why": "Concise contrast between condemnation of individual theft and praise of national plunder."
+        },
+        {
           "key": "source:BH00001",
           "why": "Read the specific legal provision in its sacred text.",
           "shortened": [
             "Exile and imprisonment are decreed for the thief, and, on the third offence, place ye a mark upon his brow so that, thus identified, he may not be accepted in the cities of God and His countries. Beware lest, through compassion, ye neglect to carry out the statutes of the religion of God; do that which hath been bidden you by Him Who is compassionate and merciful."
           ]
+        },
+        {
+          "key": "source:BH01476",
+          "why": "Distinguishes possessions vulnerable to theft from enduring spiritual possessions."
         }
       ],
       "questions": [

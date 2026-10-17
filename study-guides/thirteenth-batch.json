@@ -186,13 +186,18 @@
           ]
         },
         {
+          "key": "source:BB00002",
+          "why": "Retained after direct reading despite a 2.94 usefulness score: explicit, substantial prohibition of gambling alongside related practices."
+        },
+        {
           "key": "source:BH00001",
           "why": "Read the prohibition within this wider concern for a person’s life and well-being."
         }
       ],
       "questions": [
         "What helps a person recognize when a pastime is ceasing to refresh life and beginning to consume attention, time, or relationships?",
-        "How does the Buddhist account of consequences deepen the discussion of gambling, and what does the distinction between a general rule and the judgment of particular activities bring into view?"
+        "How does the Buddhist account of consequences deepen the discussion of gambling, and what does the distinction between a general rule and the judgment of particular activities bring into view?",
+        "How do the differing settings of the prohibition and the reported conversations affect what can be concluded from each?"
       ],
       "neighbors": [
         {
@@ -224,8 +229,8 @@
       "id": "5270E6EC14D143038B715776C1D3521E",
       "slug": "slavery",
       "displayTitle": "Slavery: no servant of God is a commodity",
-      "introduction": "The prohibition is short and its reason is shorter. Bahá’u’lláh forbids the buying and selling of human beings, men or women, and then gives the ground: one who is himself a servant of God has no standing to buy another of God’s servants. The ban rests not on sentiment about kind masters but on a fact about everyone, that each person already belongs to God and so cannot be anyone else’s property. That single thought has a long reach, because the same reasoning that forbids the auction block also unsettles every quieter way one person turns another into an instrument. Seneca, writing to a slaveholder, pleads that the enslaved breathe the same air, were born as he was and will die as he will, and asks for kindness and companionship; yet he stops at humane treatment inside the institution, where Bahá’u’lláh forbids the transaction itself [1]. The distance between those two positions is the whole question. It leads on to the oneness of humanity, and to a unity that is not a hope laid over inequality but a standing to be recognised in every servant of God.",
-      "arc": "Read the prohibition together with the shared relationship to God that grounds it.",
+      "introduction": "The prohibition is short and its reason is shorter. Bahá’u’lláh forbids the buying and selling of human beings, men or women, and then gives the ground: one who is himself a servant of God has no standing to buy another of God’s servants. The ban rests not on sentiment about kind masters but on a fact about everyone, that each person already belongs to God and so cannot be anyone else’s property. That single thought has a long reach, because the same reasoning that forbids the auction block also unsettles every quieter way one person turns another into an instrument. The prayer of emancipation and the account of freedom within Bahá’u’lláh’s household give that principle a practical form, while the criticism of monuments built by enslaved people tests what a society calls greatness. Seneca, writing to a slaveholder, pleads that the enslaved breathe the same air, were born as he was and will die as he will, and asks for kindness and companionship; yet he stops at humane treatment inside the institution, where Bahá’u’lláh forbids the transaction itself [1]. The distance between those two positions is the whole question. It leads on to the oneness of humanity, and to a unity that is not a hope laid over inequality but a standing to be recognised in every servant of God.",
+      "arc": "Connect prohibition and spiritual equality with emancipation, personal freedom, and the social cost of slavery.",
       "order": [
         {
           "key": "source:BH00001",
@@ -233,9 +238,25 @@
           "shortened": [
             "It is forbidden you to trade in slaves, be they men or women. It is not for him who is himself a servant to buy another of God's servants, and this hath been prohibited in His Holy Tablet."
           ]
+        },
+        {
+          "key": "source:BH11641",
+          "why": "Actual act of emancipation grounded in the impossibility of one divine servant owning another."
+        },
+        {
+          "key": "source:ABU2597",
+          "why": "Direct report that Baha’u’llah liberated the household’s enslaved people and allowed them to leave or remain freely."
+        },
+        {
+          "key": "source:ABU2923",
+          "why": "Self-contained reported criticism of monumental building founded on the suffering of enslaved people."
         }
       ],
-      "questions": [],
+      "questions": [
+        "How does the reason given for prohibiting slavery connect spiritual equality with practical freedom?",
+        "What does the act of emancipation add to our understanding of the prohibition?",
+        "How might the account of monuments built by enslaved people change the way we evaluate a society’s achievements?"
+      ],
       "neighbors": [
         {
           "id": "8EDE6B0C407DE4EE770AB1CEFF0BCA15",

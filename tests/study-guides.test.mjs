@@ -293,3 +293,24 @@ test('the editor lists a reading’s whole sentences and rebuilds kept sentences
   const supplied=await readingPassage({guide,key:'selection:unlinked',read});
   assert.deepEqual(supplied.sentences.map(s=>s.text),['A supplied quotation.']);assert.equal(supplied.mandatory,false);
 });
+
+
+test('explicitly reviewed word boundaries survive guide rendering and source context remains available',async t=>{
+ const f=await fixture(t);
+ for(const s of f.data.selections.filter(s=>s.passage)){
+  s.preserveBoundaries=true;
+  s.candidates[0].ranges=[{paragraph:1,start:7,end:9,text:'in'}];
+ }
+ await f.saveData();await buildStudyGuides(f.root,f.out,dataset);
+ const compiled=JSON.parse(await fs.readFile(path.join(f.out,'study-guides/compiled.json'))).subjects[0].compiled[0];
+ assert.equal(compiled.paragraphs[0].text,'in');
+ const {readingPassage}=await import('../scripts/study-guide-passage.mjs');
+ const {gunzipSync}=await import('node:zlib');
+ const read=async name=>JSON.parse(gunzipSync(await fs.readFile(path.join(f.out,dataset,name))));
+ const preview=await readingPassage({guide:f.config,key:'source:FIXTURE00001',read});
+ assert.deepEqual(preview.sentences.map(s=>s.text),['in']);
+ assert.equal(compiled.sentenceContextExpanded,false);
+ assert.deepEqual(compiled.paragraphs[0].ranges,[{start:7,end:9}]);
+ const html=await fs.readFile(path.join(f.out,'study-guides/sample-pdf.html'),'utf8');
+ assert.match(html,/<mark>in<\/mark> context\./);
+});

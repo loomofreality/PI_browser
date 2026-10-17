@@ -23,7 +23,7 @@ test('full subject import preserves rows, statuses, source versions and highligh
   assert.equal(index.report.extractImport.files.Evernote_scrape,471);
   assert.equal(index.report.extractImport.blocks.subjects_inv_length_ordered,123155);
   assert.equal(index.report.extractImport.blocks.Evernote_scrape,8553);
-  assert.equal(123155+8553-index.report.extractImport.duplicates.length-(index.report.extractImport.deletedSelections?.length||0),count);
+  assert.equal(Object.values(index.report.extractImport.blocks).reduce((a,b)=>a+b,0)-index.report.extractImport.duplicates.length-(index.report.extractImport.deletedSelections?.length||0),count);
   assert.equal(index.subjects.filter(s=>s.name.startsWith('serving humanity;')).length,1);assert.ok(index.report.selections>100000);
   // Passages are grouped in one file per source, named like the source record.
   const grouped=new Map();

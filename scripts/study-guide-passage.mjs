@@ -25,7 +25,8 @@ export async function readingPassage({guide,key,read,sentenceContext=[],review})
     const record=await read('data/'+recordFilename(group.source||restoration.source));
     const supplied=group.selections[0];
     const selected=group.source?groupedParagraphs(group):locateSuppliedParagraphs(record,supplied.excerpt||supplied.original);
-    const shown=completeSentenceParagraphs(record,selected);
+    const preserveBoundaries=group.source&&group.selections.every(s=>s.preserveBoundaries===true);
+    const shown=preserveBoundaries?{paragraphs:selected}:completeSentenceParagraphs(record,selected);
     const authorization=authorizedRanges(record.metadata?.Authorized);
     const offsets=[];let text='';
     for(const p of record.en.paragraphs){offsets.push(text.length);text+=p.plain+'\n\n';}

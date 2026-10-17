@@ -127,6 +127,14 @@
           ]
         },
         {
+          "key": "source:BB00014",
+          "why": "An explicit account of all four causal roles and their application to the author’s theological framework."
+        },
+        {
+          "key": "source:BB00023",
+          "why": "Relates all four causes to the four elements and explains the final cause through the station of the Shia."
+        },
+        {
           "key": "selection:a6ff6361e257ba09b5dd1629",
           "why": "Restate the four causes before their theological application."
         },
@@ -261,6 +269,46 @@
           "why": "Begin with the general problem of mistaking an imagined form for God."
         },
         {
+          "key": "source:AB03269",
+          "why": "Answers a concrete question about He is God and the danger of worshipping mental images."
+        },
+        {
+          "key": "source:BB00075",
+          "why": "Quoted tradition explains why literal descriptions impose limits on God."
+        },
+        {
+          "key": "source:BB00012",
+          "why": "Concise contrast between divine attributes and bodily instruments or processes."
+        },
+        {
+          "key": "source:BB00005",
+          "why": "Explains hearing and sight as divine names without bodily limitations."
+        },
+        {
+          "key": "source:AB00020",
+          "why": "Explains divine attributes as denial of imperfections rather than humanly conceived qualities."
+        },
+        {
+          "key": "source:BB00036",
+          "why": "Distinguishes the vision of the heart from physical sight of God."
+        },
+        {
+          "key": "source:ABU0002",
+          "why": "Interprets the image and likeness of God as virtues rather than a human shape."
+        },
+        {
+          "key": "source:BH00012",
+          "why": "Distinguishes the hidden Essence from names and attributes revealed through the Prophets."
+        },
+        {
+          "key": "source:AB01794",
+          "why": "Directly distinguishes manifestation from transformation of divinity into human nature."
+        },
+        {
+          "key": "source:ABU0030",
+          "why": "Explains the Father in the Son through reflection rather than bodily entry."
+        },
+        {
           "key": "source:ABU0398",
           "why": "Move into a particular critique of divine embodiment."
         },
@@ -271,7 +319,8 @@
       ],
       "questions": [
         "How might we distinguish a fruitful religious image from a conception that limits what we can recognize?",
-        "What becomes clearer, and what remains in disagreement, when these critiques are read alongside John’s own language about the Word and the unseen God?"
+        "What becomes clearer, and what remains in disagreement, when these critiques are read alongside John’s own language about the Word and the unseen God?",
+        "How do the explanations of hearing, sight, and reflection help distinguish divine attributes from bodily processes?"
       ],
       "neighbors": [
         {
@@ -730,11 +779,27 @@
           ]
         },
         {
+          "key": "source:AB00827",
+          "why": "Casting differing religious communities in a single mold as an image of unity."
+        },
+        {
           "key": "source:ABU3046",
           "why": "Examine purification through the crucible.",
           "shortened": [
             "But the only way to make these metals into one alloy, is to put them into a crucible and apply intense heat to melt them all."
           ]
+        },
+        {
+          "key": "source:BH00386",
+          "why": "Concise authorized interplay between testing gold and being tested by gold."
+        },
+        {
+          "key": "source:AB02911",
+          "why": "Authorized concrete application of separating gold from dross through tests."
+        },
+        {
+          "key": "source:ABU0064",
+          "why": "Distinct workshop and crucible image of the purpose of earthly life."
         },
         {
           "key": "source:AB08891",
@@ -745,6 +810,26 @@
           "why": "Let a second source develop the image of glowing iron."
         },
         {
+          "key": "source:ABU0139",
+          "why": "Authorized explanation of sacrifice through iron assuming the qualities of fire."
+        },
+        {
+          "key": "source:AB00923",
+          "why": "States an essential limit of the iron-and-fire analogy: contingency cannot become divine essence."
+        },
+        {
+          "key": "source:BH02654",
+          "why": "Compact sustained metaphor of the heart as retort and love as fire."
+        },
+        {
+          "key": "source:AB06652",
+          "why": "Extended authorized spiritual interpretation of sulphur, mercury and the philosopher’s stone."
+        },
+        {
+          "key": "source:BH00002",
+          "why": "Authorized developed copper-to-gold analogy explicitly applied to transformation through faith."
+        },
+        {
           "key": "source:BH06094",
           "why": "Turn attention from changing materials to changing hearts.",
           "shortened": [
@@ -752,8 +837,16 @@
           ]
         },
         {
+          "key": "source:ABU0389",
+          "why": "Defines effective teaching through spiritual transmutation and metallurgy."
+        },
+        {
           "key": "source:ABU3373",
           "why": "Close with teaching understood as spiritual transmutation."
+        },
+        {
+          "key": "source:BH01071",
+          "why": "Authorized prayer employing the divine elixir metaphor."
         }
       ],
       "questions": [
@@ -808,6 +901,14 @@
           "shortened": [
             "Regard thou, O friend, the mystery of the Great Reversal in the Sign of the Sovereign. Through this reversal He hath caused the exalted to be abased and the abased to be exalted."
           ]
+        },
+        {
+          "key": "source:BH00548",
+          "why": "Direct explanation of the named mystery, with the reversal of learned and unlearned at the Manifestation."
+        },
+        {
+          "key": "source:BH01252",
+          "why": "Direct explanation linking the great reversal to transformed spiritual heavens and recognition."
         },
         {
           "key": "source:ABU3179",
@@ -1161,11 +1262,23 @@
           ]
         },
         {
+          "key": "source:BH00009",
+          "why": "Complete short prayer expressly for lying down to sleep."
+        },
+        {
+          "key": "source:AB10279",
+          "why": "Specific preparation for prayer before sleep and vision."
+        },
+        {
           "key": "source:ABU1205",
           "why": "Explore the sweetness attributed to night prayer.",
           "shortened": [
             "How sweet, how delicious, how satisfying, how spiritual is prayer in the middle of nights! While all the eyes are closed, the eyes of the worshipper are wide open. While all the ears are stopped, the ears of the devotee are attuned to the Subtle music of God! While the majority of the people are fast sleep, the adorer of the Ideal Beloved is wakeful."
           ]
+        },
+        {
+          "key": "source:AB06528",
+          "why": "Turn to a prayer expressly introduced for midnight."
         },
         {
           "key": "source:AB07032",
@@ -1231,6 +1344,10 @@
           "shortened": [
             "O Lord! Make this food heavenly and make those assembled here of the hosts of Thy Supreme Concourse so that they may become life-giving and the cause of the enlightenment of the world of man, that they may arise to, guide all the peoples of the world."
           ]
+        },
+        {
+          "key": "source:ABU0003",
+          "why": "An actual supplication with instructions for entering the Unity Feast."
         },
         {
           "key": "source:AB05402",
@@ -1902,12 +2019,100 @@
           ]
         },
         {
+          "key": "source:ABU2763",
+          "why": "Answers a question about numbers by placing quality above quantity."
+        },
+        {
+          "key": "source:ABU0465",
+          "why": "Explicitly places conduct and obedience above large numbers."
+        },
+        {
+          "key": "source:AB02333",
+          "why": "Directly contrasts the spiritual influence of one steadfast soul with numerical strength."
+        },
+        {
+          "key": "source:AB02652",
+          "why": "Explains the worldwide influence of a small, pure and united gathering."
+        },
+        {
+          "key": "source:ABU2897",
+          "why": "Explains the significance of a gathering of only ten people."
+        },
+        {
           "key": "source:ABU0090",
           "why": "Place a small beginning within the reported example of early Christianity.",
           "shortened": [
             "The Christian star arose, and in His days a small number were guided by the light of guidance and were enkindled with the fire of the love of God.",
             "They forsook their comfort, their wealth, their lives, and forgot all their affairs - but they were few in number. The true believers were in fact twelve, and one of them turned away in pride, leaving it confined to eleven men and several women."
           ]
+        },
+        {
+          "key": "source:ABU1897",
+          "why": "Places the education of a few transformed souls at the centre of Christ’s mission."
+        },
+        {
+          "key": "source:ABU1939",
+          "why": "Uses the small gathering at the Last Supper to illustrate enduring influence."
+        },
+        {
+          "key": "source:AB00348",
+          "why": "Illustrates the strengthening of a small, fearful group through Mary Magdalene’s steadfastness."
+        },
+        {
+          "key": "source:ABU0652",
+          "why": "Concrete account of growth from the very small early Baha’i community."
+        },
+        {
+          "key": "source:AB01720",
+          "why": "Contrasts the small beginning of the Faith with the future growth of a seed into a tree."
+        },
+        {
+          "key": "source:AB00956",
+          "why": "Encourages teaching by comparing a few seeds with many future harvests."
+        },
+        {
+          "key": "source:BH03689",
+          "why": "Uses one lamp lighting many others as a direct model for teaching."
+        },
+        {
+          "key": "source:BH00536",
+          "why": "Explains how a few sincere souls can influence the world through conduct and words."
+        },
+        {
+          "key": "source:BH01462",
+          "why": "Shows the influence of one person’s good conduct through the example of Hanzalah."
+        },
+        {
+          "key": "source:BH01230",
+          "why": "Explains divine assistance and the potential influence of one soul."
+        },
+        {
+          "key": "source:ABU0796",
+          "why": "Explicitly explains the spiritual, nonviolent nature of the victory of a small group."
+        },
+        {
+          "key": "source:AB00169",
+          "why": "Explicitly counsels believers not to be discouraged by small numbers."
+        },
+        {
+          "key": "source:AB00663",
+          "why": "Encourages even the weakest individual to arise and teach."
+        },
+        {
+          "key": "source:AB00774",
+          "why": "Calls for continued teaching even if only one believer remains."
+        },
+        {
+          "key": "source:AB04396",
+          "why": "Uses an explicitly humorous numerical comparison to encourage an individual teacher."
+        },
+        {
+          "key": "source:AB00898",
+          "why": "Encourages a teacher through the example of a successful solitary journey."
+        },
+        {
+          "key": "source:AB02622",
+          "why": "Describes progress despite the shortage of people and practical means."
         },
         {
           "key": "source:AB04933",
@@ -1919,7 +2124,8 @@
       ],
       "questions": [
         "What can a small group cultivate that numbers alone would fail to reveal?",
-        "How might the seed and leaven images help a community combine confidence in its possibilities with patient, practical service?"
+        "How might the seed and leaven images help a community combine confidence in its possibilities with patient, practical service?",
+        "How do the historical examples and the encouragement of a solitary teacher connect conviction with specific acts of service?"
       ],
       "neighbors": [
         {
@@ -2273,8 +2479,36 @@
           "why": "Begin with an immediately intelligible confusion of sequence and cause."
         },
         {
+          "key": "source:ABU0493",
+          "why": "A clear general explanation of the balance of religion, reason and science and how superstition arises."
+        },
+        {
+          "key": "source:ABU0173",
+          "why": "A memorable story of machinery being mistaken for supernatural agency."
+        },
+        {
+          "key": "source:ABU0177",
+          "why": "Concrete examples of numerological prediction and its failure to guide practical decisions."
+        },
+        {
+          "key": "source:AB01000",
+          "why": "Distinguishes astrological predictions of fortune from astronomical calculations."
+        },
+        {
+          "key": "source:AB00475",
+          "why": "Distinguishes astrological conjecture from mutual influences within the universe."
+        },
+        {
+          "key": "source:ABU0259",
+          "why": "Direct discussion of beliefs about lucky and unlucky numbers."
+        },
+        {
           "key": "source:AB05067",
           "why": "Apply the question to the feared power of an evil eye."
+        },
+        {
+          "key": "source:AB01239",
+          "why": "A concise explanation of the evil eye in terms of imagination and emotional effects."
         },
         {
           "key": "source:AB03340",
@@ -2282,11 +2516,44 @@
           "shortened": [
             "And as for the matter of sneezing, it is pure imagination. This blessed Dispensation has removed such imaginings from our midst. Even mentioning it is not permitted."
           ]
+        },
+        {
+          "key": "source:ABU2117",
+          "why": "A compact example of a superstitious practice causing physical harm."
+        },
+        {
+          "key": "source:ABU1045",
+          "why": "A complete incident exposing the contradiction between ritual impurity and ordinary cleanliness."
+        },
+        {
+          "key": "source:ABU0807",
+          "why": "A brief incident illustrating prejudice against an unfamiliar food."
+        },
+        {
+          "key": "source:AB00152",
+          "why": "Direct treatment of spiritualist mediums and supposed supernatural influences."
+        },
+        {
+          "key": "source:ABU3101",
+          "why": "A complete question and answer concerning possession by earthbound souls."
+        },
+        {
+          "key": "source:AB02401",
+          "why": "Explains several symbolic uses of jinn, devils and angels."
+        },
+        {
+          "key": "source:ABU1727",
+          "why": "A complete answer interpreting automatic writing as a human process."
+        },
+        {
+          "key": "source:ABU3168",
+          "why": "Explicitly distinguishes a religious symbol as a reminder from a magical object."
         }
       ],
       "questions": [
         "What makes an apparent connection between events convincing, and how could we investigate whether it is causal?",
-        "How might fear, habit, or social agreement sustain a belief, and what practices could help us build assurance while remaining open to correction?"
+        "How might fear, habit, or social agreement sustain a belief, and what practices could help us build assurance while remaining open to correction?",
+        "How could one distinguish a meaningful religious symbol from a claim about supernatural causation?"
       ],
       "neighbors": [
         {
@@ -2391,9 +2658,37 @@
       "id": "9BC3001DE5AA410BA0865211BE374327",
       "slug": "deceit",
       "displayTitle": "Truthfulness in difficult circumstances",
-      "introduction": "A physician stands at a bedside and says that there is hope of recovery, knowing it may not be so. ‘Abdu’l-Bahá raises this very case just after calling lying the worst of all qualities and the foundation of all evil, and He does not condemn the doctor: words that ease a mind can become the means of a cure. Shoghi Effendi, asked whether one may tell an untruth to save another, answers that under no condition should we lie, but that we should look for a more legitimate way to help, and that nothing obliges us to be outspoken before the question is directly put. Between these two counsels lies the whole discipline of truthful care: honesty held together with kindness, and silence used in the service of both. Ephesians grounds the duty to speak truth in the fact that we are members one of another [1], which turns a private scruple into a matter of shared trust. The journey from here runs through honesty, truthfulness as the foundation of every virtue, and the trustworthiness that lets a community rest on one another’s word.",
-      "arc": "Hold a difficult example beside a strict principle, and examine how truthful care might be expressed.",
+      "introduction": "Falsehood damages conscience and public trust, whether through hypocrisy, unproved rumors, or the indulgence that allows deception to continue. A physician stands at a bedside and says that there is hope of recovery, knowing it may not be so. ‘Abdu’l-Bahá raises this very case just after calling lying the worst of all qualities and the foundation of all evil, and He does not condemn the doctor: words that ease a mind can become the means of a cure. Shoghi Effendi, asked whether one may tell an untruth to save another, answers that under no condition should we lie, but that we should look for a more legitimate way to help, and that nothing obliges us to be outspoken before the question is directly put. Between these two counsels lies the whole discipline of truthful care: honesty held together with kindness, and silence used in the service of both. Ephesians grounds the duty to speak truth in the fact that we are members one of another [1], which turns a private scruple into a matter of shared trust. The journey from here runs through honesty, truthfulness as the foundation of every virtue, and the trustworthiness that lets a community rest on one another’s word.",
+      "arc": "Consider the harms of falsehood and unexamined claims before approaching difficult cases involving intention, concealment, and restraint.",
       "order": [
+        {
+          "key": "source:AB01717",
+          "why": "Direct general counsel on the gravity of lying and the value of honesty."
+        },
+        {
+          "key": "source:AB09024",
+          "why": "Explains falsehood as an inward moral torment."
+        },
+        {
+          "key": "source:ABU0050",
+          "why": "Warns against teaching righteousness while acting otherwise."
+        },
+        {
+          "key": "source:BH00857",
+          "why": "Compares fabricated praise with worshipping an idol of one’s own making."
+        },
+        {
+          "key": "source:ABU0917",
+          "why": "Explains how repeated unproved rumors generate belief and violence."
+        },
+        {
+          "key": "source:BH01686",
+          "why": "Direct counsel not to accept every claim merely because it appears sincere."
+        },
+        {
+          "key": "source:AB00890",
+          "why": "Explains why indulgence can encourage a liar to continue deceiving."
+        },
         {
           "key": "source:AB00117",
           "why": "Begin with the passage that joins a condemnation of deceit to a difficult exception.",
@@ -2403,12 +2698,18 @@
           ]
         },
         {
+          "key": "source:BB00287",
+          "why": "Records counsel about concealment during imprisonment, preserving its historical context and attribution."
+        },
+        {
           "key": "selection:c1f5d02f4c45b84fb6b7b7ee",
           "why": "Bring the stricter formulation and the possibility of restrained speech into direct conversation with it."
         }
       ],
       "questions": [
-        "How would you investigate the different settings and purposes of these two readings, and what possibilities do they open for speech that preserves both truthfulness and care?"
+        "How would you investigate the different settings and purposes of these two readings, and what possibilities do they open for speech that preserves both truthfulness and care?",
+        "How might attention to evidence interrupt the movement from rumor to harm?",
+        "What responsibilities toward a deceived person complicate a wish to be indulgent toward someone who lies?"
       ],
       "neighbors": [
         {
@@ -2553,6 +2854,18 @@
           "why": "Open with the striking image of books as eyes and ears."
         },
         {
+          "key": "source:BB00035",
+          "why": "A concise primary statement of the earlier ordinance with its stated exception."
+        },
+        {
+          "key": "source:AB00300",
+          "why": "Explains the stated purpose of the Bayan’s severe laws, including destruction of books."
+        },
+        {
+          "key": "source:BH00005",
+          "why": "An explicit appeal to preserve copies of the Bayan rather than destroy them."
+        },
+        {
           "key": "source:BH00238",
           "why": "Place destruction within the wider problem of religious estrangement."
         },
@@ -2563,6 +2876,10 @@
         {
           "key": "source:BH00568",
           "why": "Close with the reform restated in its religious setting."
+        },
+        {
+          "key": "source:BH00451",
+          "why": "Distinguishes destruction of earlier writings in Iraq from later correspondence and preserved verses."
         }
       ],
       "questions": [
@@ -2610,6 +2927,14 @@
         {
           "key": "source:BH00001",
           "why": "Present the direct turning toward God for forgiveness."
+        },
+        {
+          "key": "source:BB00001",
+          "why": "A clear primary statement directing the seeking of forgiveness to God, with its stated exceptions."
+        },
+        {
+          "key": "source:AB00168",
+          "why": "Explains why prophetic prayers use the language of confession and humility."
         },
         {
           "key": "source:ABU2993",
