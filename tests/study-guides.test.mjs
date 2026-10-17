@@ -37,7 +37,7 @@ async function fixture(t){
   await saveData();
   await zip('data/'+recordFilename('FIXTURE00001'),{id:'FIXTURE00001',enVersion:'v1',author:'Author',metadata:{Authorized:'Y'},en:{paragraphs:[{plain:'<Word> in context.'}]},original:{paragraphs:[]},paired:false});
   for(const name of ['eb-garamond.ttf','eb-garamond-italic.ttf','scheherazade-new.ttf','EB-Garamond-OFL.txt','Scheherazade-New-OFL.txt'])await write('dist/fonts/'+name,'Fixture');
-  await write('scripts/compilation-pilot.css','body {}');await write('scripts/compilation-pilot-view.js','// fixture');
+  await write('scripts/compilation-pilot.css','body {}');await write('scripts/compilation-pilot-view.js','// fixture');await write('scripts/compilation-guide-index.js','// fixture');
   return {root,out,config,data,saveConfig,saveData,zip};
 }
 
@@ -196,19 +196,26 @@ test('reviewed supplied context preserves unlinked identity and refuses stale wo
   await assert.rejects(buildStudyGuides(f.root,f.out,dataset),/Stale or uncited sentence context/);
 });
 
-test('the latest numbered batch is featured even when its filename sorts earlier',async t=>{
-  const f=await fixture(t);
+test('the overview lists one line per guide, by centrality and then title, with a sort control',async t=>{
+  const f=await fixture(t),subjects=[f.data.subject];
   for(const [batchNumber,name,letter] of [[3,'third','B'],[4,'fourth','C']]){
-    const config={...f.config,id:letter.repeat(32),slug:name,displayTitle:name};
+    const config={...f.config,id:letter.repeat(32),slug:name,displayTitle:name+' guide'};
+    subjects.push({id:config.id,name});
     await fs.writeFile(path.join(f.root,'study-guides',name+'-batch.json'),JSON.stringify({batchNumber,subjects:[config]}));
     await fs.writeFile(path.join(f.out,dataset,'subjects',config.id+'.json.gz'),gzipSync(JSON.stringify({...f.data,subject:{id:config.id,name}})));
   }
+  const b='B'.repeat(32),c='C'.repeat(32);
+  await f.zip('subjects/index.json.gz',{subjects,edges:[{source:b,target:id,type:'related',status:'imported'},{source:b,target:c,type:'related',status:'imported'}]});
   const validation=await buildStudyGuides(f.root,f.out,dataset);
   assert.deepEqual(validation.subjects.map(s=>s.name),['fourth','Sample','third']);
   const overview=await fs.readFile(path.join(f.out,'study-guides/index.html'),'utf8');
-  const cards=overview.match(/<article class="sample">[\s\S]*?<\/article>/g);
-  assert.match(cards[0],/· New/);assert.match(cards[0],/fourth-pdf\.html/);
-  assert.doesNotMatch(cards.slice(1).join(''),/· New/);
+  const rows=overview.match(/<ol class="guide-list" id="guide-list">([\s\S]*?)<\/ol>/)[1].match(/<li[\s\S]*?<\/li>/g);
+  assert.deepEqual(rows.map(r=>r.match(/href="([a-z]+)-pdf\.html"/)[1]),['third','fourth','sample']);
+  assert.match(rows[0],/data-centrality="2"/);
+  assert.match(rows[0],/<span class="guide-title">third guide<\/span><span class="guide-subject">third<\/span><span class="guide-count">3 of 3 quotations<\/span>/);
+  assert.match(overview,/<select id="guide-sort"><option value="centrality" selected>Centrality<\/option><option value="alphabetical">Alphabetical<\/option><option value="quotations">Number of quotations<\/option><\/select>/);
+  assert.match(overview,/src="guide-index.js"/);assert.match(overview,/localStorage\.getItem\('pi-theme'\)/);
+  assert.doesNotMatch(overview,/· New|class="sample"/);
 });
 
 test('build refuses stale source wording, incomplete ordering, and too many questions for grouped quotations',async t=>{
@@ -236,7 +243,7 @@ test('a shortened reading shows only its kept whole sentences, verbatim, and kee
   const read=name=>fs.readFile(path.join(f.out,'study-guides',name),'utf8');
   const pdf=await read('sample-pdf.html');
   assert.match(pdf,/<blockquote><p>&lt;Word&gt; in context\. … The essential idea\.<\/p><p class="authorized">A following paragraph\.<\/p><\/blockquote>/);
-  assert.match(pdf,/<mark>&lt;Word&gt; in context\.<\/mark> A middle sentence\. <mark>The essential idea\.<\/mark>/);
+  assert.match(await read('sample.html'),/<mark>&lt;Word&gt; in context\.<\/mark> A middle sentence\. <mark>The essential idea\.<\/mark>/);
   assert.match(pdf,/<blockquote><p>Second supplied sentence\. Third supplied sentence\.<\/p><\/blockquote>/);
   const compiled=JSON.parse(await read('compiled.json')).subjects[0].compiled;
   assert.equal(compiled[0].shortened,true);assert.equal(compiled[0].paragraphs[0].text,'<Word> in context. … The essential idea.');
@@ -311,6 +318,8 @@ test('explicitly reviewed word boundaries survive guide rendering and source con
  assert.deepEqual(preview.sentences.map(s=>s.text),['in']);
  assert.equal(compiled.sentenceContextExpanded,false);
  assert.deepEqual(compiled.paragraphs[0].ranges,[{start:7,end:9}]);
- const html=await fs.readFile(path.join(f.out,'study-guides/sample-pdf.html'),'utf8');
+ // Source context is in the regular view; the PDF view, which hides it, is published without it.
+ const html=await fs.readFile(path.join(f.out,'study-guides/sample.html'),'utf8');
  assert.match(html,/<mark>in<\/mark> context\./);
+ assert.doesNotMatch(await fs.readFile(path.join(f.out,'study-guides/sample-pdf.html'),'utf8'),/class="context"/);
 });
