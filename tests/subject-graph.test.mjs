@@ -1,15 +1,32 @@
 import {test} from 'node:test';
 import assert from 'node:assert/strict';
-import {circularLayout,ovalLayout} from '../src/subject-graph.mjs';
+import {circleLabel,circularLayout,ringLayout} from '../src/subject-graph.mjs';
 
-test('oval neighborhoods use viewport width without shrinking or overlapping labels',()=>{
-  for(const count of [0,1,2,3,8,14,30,70])for(const width of [340,800,1600]){
-    const layout=ovalLayout(count,146,100,width,560),points=[layout.center,...layout.neighbors];
-    assert.equal(points.length,count+1);assert.ok(layout.width>=width);
-    for(let i=0;i<points.length;i++)for(let j=i+1;j<points.length;j++)assert.ok(Math.abs(points[i][0]-points[j][0])>=170-1e-6||Math.abs(points[i][1]-points[j][1])>=124-1e-6,`${count} / ${width} / ${i},${j}`);
-    for(const [x,y] of points){assert.ok(x>=73&&x<=layout.width-73);assert.ok(y>=50&&y<=layout.height-50);}
+test('ring neighborhoods touch the focus where possible and never overlap',()=>{
+  const sizes=[[],[40],[40,60],[50,50,50],[50,50,50,50,50,50],[50,50,50,50,50,50,50],[70,30,55,42,64,38,50,46,58],Array.from({length:40},(_,i)=>36+i*7%40)];
+  for(const radii of sizes)for(const focus of [40,75]){
+    const layout=ringLayout(focus,radii,2,24),circles=[[...layout.center,focus],...layout.neighbors.map((p,i)=>[...p,radii[i]])];
+    const clearance=(a,b)=>Math.hypot(a[0]-b[0],a[1]-b[1])-a[2]-b[2]-2;
+    assert.equal(layout.neighbors.length,radii.length);
+    for(let i=0;i<circles.length;i++)for(let j=i+1;j<circles.length;j++)assert.ok(clearance(circles[i],circles[j])>=-1e-6,`${radii} / ${i},${j}`);
+    // Up to six neighbors no larger than the focus all rest against it.
+    if(radii.length<=6&&radii.every(r=>r<=focus))for(const c of circles.slice(1))assert.ok(clearance(c,circles[0])<1e-6,String(radii));
+    // Every neighbor rests against the focus or another neighbor.
+    for(const c of circles.slice(1))assert.ok(circles.some(o=>o!==c&&clearance(c,o)<1e-3),String(radii));
+    for(const [x,y,r] of circles){assert.ok(x-r>=24-1e-6&&x+r<=layout.width-24+1e-6);assert.ok(y-r>=24-1e-6&&y+r<=layout.height-24+1e-6);}
   }
-  const wide=ovalLayout(12,146,68,1600,560);assert.ok(wide.width>wide.height);
+  // Many neighbors form further rings instead of one wide, hollow ring.
+  const many=ringLayout(50,Array(39).fill(50));assert.ok(many.width<900,String(many.width));
+});
+
+test('circle labels keep whole words and fit inside their circle',()=>{
+  const measure=text=>text.length*7;
+  for(const name of ['love','service to humanity','the oneness of the world of humanity and the unity of religions','extraordinarily']){
+    const {lines,radius}=circleLabel(name,measure);
+    assert.equal(lines.join(' '),name);
+    lines.forEach((line,i)=>{const top=i*16-lines.length*8;assert.ok(Math.hypot(measure(line)/2,Math.max(Math.abs(top),Math.abs(top+16)))+8<=radius+1e-6);});
+  }
+  assert.ok(circleLabel('the oneness of the world of humanity and the unity of religions',measure).lines.length>2);
 });
 
 test('circular neighborhoods keep full labels separated and inside the canvas', () => {

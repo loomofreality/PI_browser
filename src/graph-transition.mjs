@@ -3,7 +3,7 @@ const duration=500,lerp=(a,b,t)=>a+(b-a)*t;
 function nodeBoxes(svg){
   const origin=svg.getBoundingClientRect();
   return new Map([...svg.querySelectorAll('a[data-node]')].map(a=>{
-    const b=a.querySelector('rect').getBoundingClientRect();
+    const b=a.querySelector('circle').getBoundingClientRect();
     return [a.dataset.node,{x:b.x-origin.x+b.width/2,y:b.y-origin.y+b.height/2,width:b.width,height:b.height}];
   }));
 }
@@ -54,7 +54,7 @@ export function transitionGraph(svg,previous){
   const host=svg.parentElement,oldPosition=host.style.position;host.style.position='relative';host.append(overlay);
   const wrappers=[],drawNodes=[];
   for(const drawing of [svg,overlay])for(const a of drawing.querySelectorAll('a[data-node]')){
-    const box=a.querySelector('rect').getBBox(),wrapper=document.createElementNS(ns,'g');
+    const box=a.querySelector('circle').getBBox(),wrapper=document.createElementNS(ns,'g');
     a.before(wrapper);wrapper.append(a);wrappers.push(wrapper);
     const matrix=wrapper.parentElement.getScreenCTM();
     drawNodes.push({wrapper,box,id:a.dataset.node,inverse:matrix.inverse(),scaleX:Math.hypot(matrix.a,matrix.b),scaleY:Math.hypot(matrix.c,matrix.d)});
