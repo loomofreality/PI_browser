@@ -1,19 +1,19 @@
 {
   "format": 1,
-  "snapshotVersion": "7314d76b96f42ff2b6c3b96ce22678191b277d1b48c9394b61c9c589c598112b",
+  "snapshotVersion": "5aaca93f4cb4622dd07d1da41e63ed245bc7ce7abc555e237e9c187b9906295b",
   "snapshotDate": null,
   "coordinateSystem": "UTF-16 offsets in unmodified rendered English paragraph plain text; source archive retains original bytes and markup",
-  "subjects": 660,
-  "processedSubjects": 660,
-  "selections": 124987,
+  "subjects": 659,
+  "processedSubjects": 659,
+  "selections": 125213,
   "notices": 0,
   "counts": {
-    "exact": 87967,
-    "normalized": 16241,
+    "exact": 87964,
+    "normalized": 16240,
     "approximate": 720,
     "ambiguous": 2,
     "unmatched": 1815,
-    "confirmed": 18234,
+    "confirmed": 18464,
     "rejected": 8
   },
   "encodingFallbacks": [
@@ -311,8 +311,8 @@
     "BH11518.txt",
     "BH11759.txt"
   ],
-  "duplicateRanges": 4334,
-  "overlappingRanges": 22204,
+  "duplicateRanges": 4350,
+  "overlappingRanges": 22527,
   "missingCategories": [],
   "unusedMatchEdits": [
     "70a2c3693b414d5eb5a6a8af",
@@ -7084,8 +7084,9 @@
       "Evernote_scrape": 471
     },
     "blocks": {
-      "subjects_inv_length_ordered": 123155,
-      "Evernote_scrape": 8553
+      "subjects_inv_length_ordered": 123150,
+      "Evernote_scrape": 8553,
+      "editorial": 231
     },
     "filenameAliases": [
       {
@@ -7150,7 +7151,6 @@
         "Mosaic imagery",
         "Moses",
         "Mount Carmel",
-        "Night of Power (Laylat al-Qadr)",
         "Noah",
         "Ottoman commissions of investigation",
         "Quddus",
@@ -17862,12 +17862,12 @@
       "reason": "The supplied category endpoint repeatedly timed out and the category ID was absent from the current Loom outline. The user requested retaining the subject with an unavailable notice on 2026-09-17."
     }
   },
-  "publicSelections": 124922,
-  "passages": 118828,
+  "publicSelections": 125148,
+  "passages": 119038,
   "relationships": {
     "imported": 12,
-    "suggested": 1791,
-    "reviewed": 3326
+    "suggested": 1833,
+    "reviewed": 3325
   },
   "emptySubjects": []
 }
