@@ -7458,10 +7458,6 @@
     "5a91eb31637773a61411fcae": "Approved through the candidate review utility.",
     "3f6efa60c1e2e7921f61de87": "Approved through the candidate review utility.",
     "dcbee2f18ec8c236399b7d06": "Approved through the candidate review utility.",
-    "feabb3abfb268e4e5868536c": "Approved through the candidate review utility.",
-    "c1f168866ee07c787b7a7c19": "Approved through the candidate review utility.",
-    "e6f7a4f428ca9c718c102561": "Approved through the candidate review utility.",
-    "5c6ab75d66ba6b6b656b4753": "Approved through the candidate review utility.",
     "03d614fb8d13183149c6540e": "Approved through the candidate review utility.",
     "f0f6a8146908af16620859d3": "Approved through the candidate review utility.",
     "fad1ac567b762e47f07bfaf3": "Approved through the candidate review utility.",
@@ -20472,26 +20468,6 @@
         ],
         "method": "approximate",
         "score": 0.9884,
-        "evidence": "Distinct excerpt-word coverage within one paragraph; proposed range needs editorial correction"
-      },
-      "evidence": "Owner accepted the highest-scoring candidate in the reviewed Inventory CSV. Score is lexical similarity, not a calibrated probability; equal-score ties retain CSV order."
-    },
-    "14337595e5ee2701f92025d0": {
-      "status": "confirmed",
-      "candidate": {
-        "source": "BB00068",
-        "version": "e39e9eac8ff473e4d24e60319d83bf827fb9d5f8442fcbf5661626dec84acc2f",
-        "ranges": [
-          {
-            "paragraph": 1,
-            "paragraphId": "BB00068@e39e9eac8ff473e4d24e60319d83bf827fb9d5f8442fcbf5661626dec84acc2f:en:1",
-            "start": 4,
-            "end": 501,
-            "text": "it not grieve thy soul that, within every thousand months, there must needs be certain numbered Nights of Power; for how can one conceive those months which God hath made equal thereunto? Nay rather, they were the days of the dominion of the Bani Umayyih -- may the curse of God rest upon them for ever and ever, and throughout all eternity -- and in them there was no Night of Power; for the basis of the equivalence is the thousand months from which the Night of Power is excepted. This is not a"
-          }
-        ],
-        "method": "approximate",
-        "score": 0.623,
         "evidence": "Distinct excerpt-word coverage within one paragraph; proposed range needs editorial correction"
       },
       "evidence": "Owner accepted the highest-scoring candidate in the reviewed Inventory CSV. Score is lexical similarity, not a calibrated probability; equal-score ties retain CSV order."
@@ -421292,93 +421268,6 @@
             "end": 1493,
             "text": "As for the argument using that which is best, know that the Pillar which is the station of the Shia is the manifestation of the three Pillars and bearer of their signs, for the First Pillar among these four Pillars is the station of the Point, the element of fire, and the manifestation of the Efficient Cause; and the Second Pillar among them is the station of the soft Alif, the element of air, and the manifestation of the Material Cause; and the Third Pillar among them is the station of the Letters, the element of water, and the manifestation of the Formal Cause; and the Fourth Pillar among them is the station of the Perfect Word, the element of earth, and the manifestation of the Final Cause. Thus it is established through this explanation that the station of the Shia is the station of earth, as indicated by His exalted words at the end of the Surih of al-Naba': \"And the unbeliever will say, 'Would that I were dust!'\" - meaning, would that I were among the followers of Ali, peace be upon him. For this reason the Prince of Believers was called Abu Turab (Father of Dust), because the origin of dust and its nourisher is water, as he said: \"Water is the master of dust and its taste is the taste of life.\" And the station of Ali, peace be upon him, was that of water, from which all things live, as He, exalted be His mention, hath said: \"It is He Who hath created from water a human being, then established relationships of lineage and marriage, and thy Lord is ever-powerful.\"",
             "paragraphId": "BB00023@9a89b0e080cb429432544971e9c6e4a4d75a6eab72134e01d0e614b4e9f53d73:en:35"
-          }
-        ],
-        "method": "confirmed",
-        "score": 1,
-        "evidence": "Retained in the completed candidate review; wording and word boundaries approved by the owner."
-      },
-      "evidence": "Owner-approved addition from the completed candidate review; source version and exact word boundaries verified."
-    },
-    "feabb3abfb268e4e5868536c": {
-      "status": "confirmed",
-      "candidate": {
-        "source": "BH00747",
-        "version": "1ce879f1ae1e8a9646b921e8e59d2223ff10daf2ee7a61e561f5cbaccae5d307",
-        "ranges": [
-          {
-            "paragraph": 5,
-            "start": 0,
-            "end": 855,
-            "text": "As to what thou hast asked concerning the Night of Power, say: The Most Great Day hath appeared, and around it hath circled the Night of Power, after We revealed it and adorned it with the ornament of Our mighty and impregnable Name. When it passed, its mention becometh not befitting. Hold fast unto the Most Great Day, whereon God shone forth upon all things. Verily thy Lord is the Ruler over whatsoever He willeth. He Who announced unto men My Revelation hath interpreted it. It hath been adorned with that which was revealed therein of the Letter \"Ha',\" from which have branched all the oceans of names. Know thou this and be of the thankful ones. In its outward appearance, it is the night wherein the Beloved of the worlds was born, and mention of it hath been revealed in the Tablet which We have adorned with this mighty and wondrous remembrance.",
-            "paragraphId": "BH00747@1ce879f1ae1e8a9646b921e8e59d2223ff10daf2ee7a61e561f5cbaccae5d307:en:5"
-          }
-        ],
-        "method": "confirmed",
-        "score": 1,
-        "evidence": "Retained in the completed candidate review; wording and word boundaries approved by the owner."
-      },
-      "evidence": "Owner-approved addition from the completed candidate review; source version and exact word boundaries verified."
-    },
-    "c1f168866ee07c787b7a7c19": {
-      "status": "confirmed",
-      "candidate": {
-        "source": "BB00105",
-        "version": "822c1e4a254ca1b92c06d56104a1f5aecf31c7abe7f9a7757c44a4397a4f5ebf",
-        "ranges": [
-          {
-            "paragraph": 17,
-            "start": 0,
-            "end": 782,
-            "text": "The meaning of \"Spirit\" in His exalted Words \"The angels and the Spirit descend therein by permission of their Lord for every matter\" refers to the Qa'im, and by \"angels\" are meant the Imams, for they have transcended their station of infallibility and descend on the Night of Power upon her. The meaning of His exalted Words \"Peace it is until the emergence of dawn\" points to Fatimih, and what is meant by \"peace\" is the peace of the Lord, Mighty and Exalted, for God, exalted be His mention, ceases not to send peace upon her, since God's outpouring of grace regarding her, which was the sustenance of her existence, is the peace from Him. What is meant by the emergence of dawn is the station of utter poverty of the servant who needs in every aspect the sustenance of his Lord.",
-            "paragraphId": "BB00105@822c1e4a254ca1b92c06d56104a1f5aecf31c7abe7f9a7757c44a4397a4f5ebf:en:17"
-          }
-        ],
-        "method": "confirmed",
-        "score": 1,
-        "evidence": "Retained in the completed candidate review; wording and word boundaries approved by the owner."
-      },
-      "evidence": "Owner-approved addition from the completed candidate review; source version and exact word boundaries verified."
-    },
-    "e6f7a4f428ca9c718c102561": {
-      "status": "confirmed",
-      "candidate": {
-        "source": "BB00018",
-        "version": "fe67e1609638b48a5110a9180b84c6f8aa033556eefb45cc862767d39e7c6ad7",
-        "ranges": [
-          {
-            "paragraph": 165,
-            "start": 0,
-            "end": 1691,
-            "text": "Praise be to God, the Originator of the heavens and the earth, there is no god but He, the Mighty, the Wise. O God, Lord of the Night of Power, who has made it better than a thousand months, I beseech Thee, O my God, by Thy generosity to ordain in this night from the breezes of Thy glory and the stations of Thy holiness what Thou createst eternally for Muhammad and the family of Muhammad - Thy blessings be upon them morning and evening - and to have mercy upon us through them in this blessed night in which Thou revealed the Qur'an to Thy beloved Muhammad - Thy blessings be upon him and upon his chosen successors. Verily, Thou art the Possessor of ancient bounty and great favor. Thy giving is grace and Thy decree is justice. Thou bestowest upon whom Thou willest as Thou willest, and Thou withholdest from whom Thou willest what Thou willest. Thou art God, there is no god but Thee. If Thou decree with mercy, then it is worthy of Thy bounty that has reached us, and if Thou execute Thy decree with recompense for what our hands have sent forth, then Thou art God, the Just in judgment and the Praiseworthy in command. None has power over His good pleasure nor can any influence His decree. None can attain aught save through acceptance of His will, for such has ever been Thy way. O my God! Deprived is he who seeketh other than Thy judgment, and praised is he who acquiesceth in Thy decree. O my God! This is a night whose excellence no book can reckon. I beseech Thee by Thy right that Thou draw me nigh unto Thee and inspire me with Thy remembrance. Had Thou not created me, I would have been as nothing, and had Thou not inspired me, I would not have drawn near unto Thy glory.",
-            "paragraphId": "BB00018@fe67e1609638b48a5110a9180b84c6f8aa033556eefb45cc862767d39e7c6ad7:en:165"
-          }
-        ],
-        "method": "confirmed",
-        "score": 1,
-        "evidence": "Retained in the completed candidate review; wording and word boundaries approved by the owner."
-      },
-      "evidence": "Owner-approved addition from the completed candidate review; source version and exact word boundaries verified."
-    },
-    "5c6ab75d66ba6b6b656b4753": {
-      "status": "confirmed",
-      "candidate": {
-        "source": "BB00105",
-        "version": "822c1e4a254ca1b92c06d56104a1f5aecf31c7abe7f9a7757c44a4397a4f5ebf",
-        "ranges": [
-          {
-            "paragraph": 14,
-            "start": 0,
-            "end": 958,
-            "text": "The meaning of the other verse is the negation of the knowledge of aught besides Fatimih concerning her true station, even as God -- exalted be His remembrance -- hath said: \"And what shall make thee know what the Night of Power is?\" Though outwardly it is a mode of interrogation, inwardly it is the closing of the path unto all created beings. Then recognize the ordinance of her manifestation in the saying of the Most High: \"The Night of Power is better than a thousand months.\" Know, moreover, in that station, that things are not devoid of three grades: Sarmad, which hath neither beginning nor end; Dahr, which hath a beginning but no end; and Time, which is realized through the motion of the sphere of spheres, with the rising of the sun and the moon and the appearance of day and night. When the meaning of \"month\" is applied in the world of Dahr, that is what is intended -- and not otherwise; and the same judgment holdeth in the realm of Sarmad.",
-            "paragraphId": "BB00105@822c1e4a254ca1b92c06d56104a1f5aecf31c7abe7f9a7757c44a4397a4f5ebf:en:14"
-          },
-          {
-            "paragraph": 15,
-            "start": 0,
-            "end": 853,
-            "text": "However, when the matter descends to the realm of limitation, it points to the thousand stations of Adam whom God created before that Adam, indicating that it is better than these. In the outward paths, the Night of Power is the twenty-third night of the month of fasting, the month of Ramadan, in which the Qur'an was revealed. Whoever recites therein the Surih of the Spider on the right side of the letter Ha' and the Surih of the Romans on the left side of the form of the Ha', while acknowledging their truth and their manifestation in the temples of their followers, Paradise becomes incumbent upon them. I swear by God that none shall be excluded from that portion, and I see no sin in this, relying as I do upon His gracious care and bounty. Verily He is the Possessor of great favor and tremendous grace, and He is indeed the Generous Bestower.",
-            "paragraphId": "BB00105@822c1e4a254ca1b92c06d56104a1f5aecf31c7abe7f9a7757c44a4397a4f5ebf:en:15"
           }
         ],
         "method": "confirmed",

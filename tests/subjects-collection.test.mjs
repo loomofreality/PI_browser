@@ -7,7 +7,7 @@ import {gunzipSync} from 'node:zlib';
 const stats=JSON.parse(await fs.readFile('dist/stats.json','utf8'));
 const load=async name=>JSON.parse(gunzipSync(await fs.readFile('dist/'+stats.dataset+name)));
 test('full subject import preserves rows, statuses, source versions and highlight boundaries',async()=>{
-  const index=await load('subjects/index.json.gz');assert.equal(index.subjects.length,660);assert.equal(new Set(index.subjects.map(s=>s.id)).size,660);assert.equal(index.report.processedSubjects,660);for(const id of index.report.missingCategories)assert.ok(index.report.sourceExceptions[id]);
+  const index=await load('subjects/index.json.gz');assert.equal(index.subjects.length,659);assert.equal(new Set(index.subjects.map(s=>s.id)).size,659);assert.equal(index.report.processedSubjects,659);for(const id of index.report.missingCategories)assert.ok(index.report.sourceExceptions[id]);
   assert.equal(Object.values(index.report.counts).reduce((a,b)=>a+b,0),index.report.selections);
   const decisions=JSON.parse(await fs.readFile('data/extract-review-decisions.json','utf8')),deleted=new Set(decisions.deletedIds);let confirmedReview=0;
   const editorial=JSON.parse(await fs.readFile('data/subject-edits.json','utf8'));
@@ -21,7 +21,7 @@ test('full subject import preserves rows, statuses, source versions and highligh
   assert.equal(count,index.report.selections);assert.equal(index.subjects.reduce((n,s)=>n+s.selections,0),index.report.publicSelections);
   assert.equal(index.report.extractImport.files.subjects_inv_length_ordered,653);
   assert.equal(index.report.extractImport.files.Evernote_scrape,471);
-  assert.equal(index.report.extractImport.blocks.subjects_inv_length_ordered,123155);
+  assert.equal(index.report.extractImport.blocks.subjects_inv_length_ordered,123150);
   assert.equal(index.report.extractImport.blocks.Evernote_scrape,8553);
   assert.equal(Object.values(index.report.extractImport.blocks).reduce((a,b)=>a+b,0)-index.report.extractImport.duplicates.length-(index.report.extractImport.deletedSelections?.length||0),count);
   assert.equal(index.subjects.filter(s=>s.name.startsWith('serving humanity;')).length,1);assert.ok(index.report.selections>100000);

@@ -20,7 +20,7 @@ Open http://localhost:4173/PI_browser/. The server deliberately tests the same p
 
 ## Features
 
-- **Catalog view** retains the existing search and metadata filters. **Subject view** browses the 660 subjects (661 CSV rows; two punctuation variants of one subject are merged), selected source passages, optional originals, and a local subject graph. See [SUBJECTS.md](SUBJECTS.md) for the reproducible import, matching evidence, editorial workflow, and limitations.
+- **Catalog view** retains the existing search and metadata filters. **Subject view** browses the 659 subjects (two punctuation variants of one subject are merged), selected source passages, optional originals, and a local subject graph. See [SUBJECTS.md](SUBJECTS.md) for the reproducible import, matching evidence, editorial workflow, and limitations.
 
 - Whole-word search in English, Persian/Arabic, or both; quoted exact phrases.
 - All query terms must occur in the same language version. Diacritics, Arabic/Persian yeh and kaf variants, and Persian/Arabic digits are normalized for search only. There is no stemming or fuzzy matching.
@@ -113,7 +113,7 @@ ExecutionPolicy Bypass applies only to that process; it does not change Windows 
 
 ## Review subject connections
 
-Open `relationships.html` (the **Review subject connections** link at the bottom of Subject view). The thematic directory covers all 660 subjects and shows pending proposal counts. Search, switch to alphabetical order, filter unfinished subjects, or use **Next with proposals**. Imported connections, overlap proposals, accepted decisions, and rejected decisions are labeled separately. **Inspect shared passages** loads a bounded set of source examples on demand. Broader means the other subject is more general; narrower means it is more specific. Editing a connection's type rejects its old form and accepts the replacement. Marking a subject reviewed tracks your progress without accepting its proposals.
+Open `relationships.html` (the **Review subject connections** link at the bottom of Subject view). The thematic directory covers all 659 subjects and shows pending proposal counts. Search, switch to alphabetical order, filter unfinished subjects, or use **Next with proposals**. Imported connections, overlap proposals, accepted decisions, and rejected decisions are labeled separately. **Inspect shared passages** loads a bounded set of source examples on demand. Broader means the other subject is more general; narrower means it is more specific. Editing a connection's type rejects its old form and accepts the replacement. Marking a subject reviewed tracks your progress without accepting its proposals.
 
 Drafts share the existing passage editor's browser storage. Use **Export decisions** regularly; clearing browser data removes local drafts. **Import decisions** merges a backup, with incoming decisions winning conflicts. Exports include existing published passage corrections and relationship decisions, local updates, and subject review progress. **Undo last change** works within the current page session; **Restore published version** removes a local override.
 

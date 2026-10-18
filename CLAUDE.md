@@ -15,7 +15,7 @@ Read AGENTS.md first; it holds the project invariants. Then read DESIGN.md befor
 - The public subject graph has no zoom controls or duplicate related-subject list.
 
 ## Facts verified against the code (2026-10-12)
-- The site has 660 subjects (661 CSV rows; the two "serving humanity" punctuation variants are merged).
+- The site has 659 subjects, one per CSV row (the two "serving humanity" punctuation variants are merged; "Night of Power" was deleted on 2026-10-18).
 - `data/collection/` holds the source archive as 33 uncompressed tar shards; `scripts/archive-sources.py` writes only shards whose bytes change.
 - Volume PDFs are published to the separate site in `src/pdf-hosting.json` by `scripts/publish-pdf-site.mjs` (needs the `PDF_SITE_TOKEN` secret).
 - Windows-1252 fallback decoding goes through `scripts/source-encoding.mjs`, never `TextDecoder('windows-1252')`.
