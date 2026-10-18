@@ -63,12 +63,23 @@ struct SharedItems: Identifiable { let id = UUID(); let items: [Any] }
                     let pdfBase = self.version.flatMap { $0.pdfPublicBase }.flatMap { URL(string: $0) }
                     self.router = SiteRouter(localBase: base, publicBase: AppConfiguration.publicBase, pdfPublicBase: pdfBase)
                     self.store.rememberPort(UInt16(base.port!)); self.ready = true
-                    self.open(self.store.state.lastURL ?? AppConfiguration.publicBase)
+                    self.open(Self.launchPage ?? self.store.state.lastURL ?? AppConfiguration.publicBase)
                 case .failure(let error): self.errorMessage = "The offline reader could not start: \(error.localizedDescription)"
                 }
             }
         }
     }
+
+    #if DEBUG
+    /// Debug builds only: UI tests open a chosen page with `-PIStartPage <path relative to the site>`.
+    static var launchPage: URL? {
+        let arguments = ProcessInfo.processInfo.arguments
+        guard let index = arguments.firstIndex(of: "-PIStartPage"), index + 1 < arguments.count else { return nil }
+        return URL(string: arguments[index + 1], relativeTo: AppConfiguration.publicBase)?.absoluteURL
+    }
+    #else
+    static let launchPage: URL? = nil
+    #endif
 
     func open(_ url: URL) {
         guard let router, let local = router.localURL(for: url) else { return }

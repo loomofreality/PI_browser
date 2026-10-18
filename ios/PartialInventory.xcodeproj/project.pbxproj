@@ -41,10 +41,12 @@ FC5A84A26E90DC93677C0D78 = {isa = XCBuildConfiguration; buildSettings = {PRODUCT
 88DE777BB61026305C5641B4 = {isa = XCBuildConfiguration; buildSettings = {PRODUCT_NAME = "$(TARGET_NAME)"; SWIFT_VERSION = "5.0"; IPHONEOS_DEPLOYMENT_TARGET = "17.0"; TARGETED_DEVICE_FAMILY = "1,2"; CODE_SIGN_STYLE = "Automatic"; GENERATE_INFOPLIST_FILE = "YES"; PRODUCT_BUNDLE_IDENTIFIER = "org.partialinventory.reader.PartialInventoryTests"; SWIFT_EMIT_LOC_STRINGS = "YES"; TEST_HOST = "$(BUILT_PRODUCTS_DIR)/PartialInventory.app/PartialInventory"; BUNDLE_LOADER = "$(TEST_HOST)";}; name = Release;};
 F91B76EF8F794C08CAEF52A5 = {isa = XCConfigurationList; buildConfigurations = (FC5A84A26E90DC93677C0D78, 88DE777BB61026305C5641B4,); defaultConfigurationIsVisible = 0; defaultConfigurationName = Release;};
 6F553AAF3A0A745B5F7307CB = {isa = PBXNativeTarget; buildConfigurationList = F91B76EF8F794C08CAEF52A5; buildPhases = (720F431CBCCFDCA4F3ADC377, 5B8CC74CE562C61832D66D6B, 2AF3944DBF35B8CD7F1797B2,); buildRules = (); dependencies = (FD0D59B9ACCD7783DE851B3D,); name = "PartialInventoryTests"; productName = "PartialInventoryTests"; productReference = ADA4234D52CDE2354745D334; productType = "com.apple.product-type.bundle.unit-test";};
+B6C96F0F97A420893E877E78 = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "AppStoreScreenshots.swift"; sourceTree = "<group>";};
+3D641EBC94C43B2B0F498E50 = {isa = PBXBuildFile; fileRef = B6C96F0F97A420893E877E78;};
 C00B6E82DBD1D00AFFA75E33 = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ReaderUITests.swift"; sourceTree = "<group>";};
 46A834D53D650A431752CA58 = {isa = PBXBuildFile; fileRef = C00B6E82DBD1D00AFFA75E33;};
-93A9C4FD5E9DC28001D765C8 = {isa = PBXGroup; children = (C00B6E82DBD1D00AFFA75E33,); path = "PartialInventoryUITests"; sourceTree = "<group>";};
-5C87DDEF539B2E5E7296B7D0 = {isa = PBXSourcesBuildPhase; buildActionMask = 2147483647; files = (46A834D53D650A431752CA58,); runOnlyForDeploymentPostprocessing = 0;};
+93A9C4FD5E9DC28001D765C8 = {isa = PBXGroup; children = (B6C96F0F97A420893E877E78, C00B6E82DBD1D00AFFA75E33,); path = "PartialInventoryUITests"; sourceTree = "<group>";};
+5C87DDEF539B2E5E7296B7D0 = {isa = PBXSourcesBuildPhase; buildActionMask = 2147483647; files = (3D641EBC94C43B2B0F498E50, 46A834D53D650A431752CA58,); runOnlyForDeploymentPostprocessing = 0;};
 4832F6E6CD3147F31FAD00D5 = {isa = PBXFrameworksBuildPhase; buildActionMask = 2147483647; files = (); runOnlyForDeploymentPostprocessing = 0;};
 1DF678A933A7A69575C4B437 = {isa = PBXResourcesBuildPhase; buildActionMask = 2147483647; files = (); runOnlyForDeploymentPostprocessing = 0;};
 DB9BABD5018C0DE1E415452D = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "PartialInventoryUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR;};
