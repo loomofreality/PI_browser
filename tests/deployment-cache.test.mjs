@@ -6,6 +6,8 @@ import path from 'node:path';
 import {gzipSync} from 'node:zlib';
 import {buildInputs,fingerprint,refreshSite,generatedPaths} from '../scripts/deployment-cache.mjs';
 
+// Study guides take their masthead and About dialog from Catalog view.
+const page=text=>`<header class="masthead"><a href="./study-guides/index.html">Study guides</a></header>${text}<dialog id="about-dialog"></dialog>`;
 async function fixture(t){
   const root=await fs.mkdtemp(path.join(os.tmpdir(),'pi-deployment-'));
   t.after(()=>fs.rm(root,{recursive:true,force:true}));
@@ -17,6 +19,7 @@ async function fixture(t){
     'scripts/compilation-pilot.css':'body {}',
     'scripts/compilation-pilot-view.js':'// fixture',
     'scripts/compilation-guide-index.js':'// fixture',
+    'scripts/compilation-guide-site.js':'// fixture',
     'scripts/compilation-guide-loader.mjs':'// fixture',
     'src/fonts/eb-garamond.ttf':'font fixture',
     'src/fonts/eb-garamond-italic.ttf':'font fixture',
@@ -35,7 +38,7 @@ async function fixture(t){
     'src/parser.mjs':"export {parse} from './normalization.mjs';",
     'src/normalization.mjs':'export const parse = value => value;',
     'src/app.mjs':'// interface',
-    'src/index.html':'current interface',
+    'src/index.html':page('current interface'),
     'src/style.css':'body {color:green}',
     'README.md':'documentation',
   }))await write(name,value);
@@ -86,11 +89,11 @@ test('fresh interface overlays cached output without changing dataset URLs or ge
   const protectedFiles=['stats.json','volumes.json','volume-titles.json','collections/example/catalog.json.gz','pdf-volumes/volume-1.pdf'];
   const original=await Promise.all(protectedFiles.map(f=>fs.readFile(path.join(root,'dist',f))));
   const stats=await refreshSite(root);assert.equal(stats.dataset,'collections/example/');
-  assert.equal(await fs.readFile(path.join(root,'dist/index.html'),'utf8'),'current interface');
+  assert.equal(await fs.readFile(path.join(root,'dist/index.html'),'utf8'),page('current interface'));
   assert.equal(await fs.readFile(path.join(root,'dist/.nojekyll'),'utf8'),'');
   for(const [i,file] of protectedFiles.entries())assert.deepEqual(await fs.readFile(path.join(root,'dist',file)),original[i]);
-  await write('src/index.html','new interface');await refreshSite(root);
-  assert.equal(await fs.readFile(path.join(root,'dist/index.html'),'utf8'),'new interface');
+  await write('src/index.html',page('new interface'));await refreshSite(root);
+  assert.equal(await fs.readFile(path.join(root,'dist/index.html'),'utf8'),page('new interface'));
   assert.ok(!generatedPaths.includes('index.html'));
   assert.deepEqual(JSON.parse(await fs.readFile(path.join(root,'dist/study-guides/manifest.json'),'utf8')),{format:1,dataset:stats.dataset,subjects:{}});
 });
