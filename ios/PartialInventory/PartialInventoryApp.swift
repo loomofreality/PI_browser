@@ -35,7 +35,7 @@ private struct ReaderView: View {
                 WebSurface(webView: browser.webView)
                     .overlay { if !browser.ready && browser.errorMessage == nil { ProgressView("Opening your offline collection…") } }
             }
-            .navigationTitle("Partial Inventory")
+            .navigationTitle("PI Browser")
             .navigationBarTitleDisplayMode(.inline)
             .toolbar {
                 ToolbarItem(placement: .topBarLeading) {
