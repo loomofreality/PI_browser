@@ -37,7 +37,7 @@ async function fixture(t){
   await saveData();
   await zip('data/'+recordFilename('FIXTURE00001'),{id:'FIXTURE00001',enVersion:'v1',author:'Author',metadata:{Authorized:'Y'},en:{paragraphs:[{plain:'<Word> in context.'}]},original:{paragraphs:[]},paired:false});
   for(const name of ['eb-garamond.ttf','eb-garamond-italic.ttf','scheherazade-new.ttf','EB-Garamond-OFL.txt','Scheherazade-New-OFL.txt'])await write('dist/fonts/'+name,'Fixture');
-  await write('scripts/compilation-pilot.css','body {}');await write('scripts/compilation-pilot-view.js','// fixture');await write('scripts/compilation-guide-index.js','// fixture');await write('scripts/compilation-guide-site.js','// fixture');await write('src/index.html',await fs.readFile(new URL('../src/index.html',import.meta.url)));
+  await write('scripts/compilation-pilot.css','body {}');await write('scripts/compilation-pilot-view.js','// fixture');await write('scripts/compilation-guide-index.js','// fixture');await write('scripts/compilation-guide-site.js','// fixture');await write('src/index.html',await fs.readFile(new URL('../src/index.html',import.meta.url)));await write('src/theme.css',await fs.readFile(new URL('../src/theme.css',import.meta.url)));
   return {root,out,config,data,saveConfig,saveData,zip};
 }
 
@@ -53,7 +53,7 @@ test('selected guide uses its reviewed IDs while the original subject and full g
  assert.equal(validation.subjects[0].selections,300);assert.equal(validation.subjects[0].readingEntries,2);assert.equal(validation.subjects[0].candidateSelections,301);
  const html=await fs.readFile(path.join(f.out,'study-guides/sample-pdf.html'),'utf8');assert.match(html,/300 chosen quotations from 301/);
  const regular=await fs.readFile(path.join(f.out,'study-guides/sample.html'),'utf8');assert.doesNotMatch(regular,/All currently public selections are retained|complete sample/);
- const index=await fs.readFile(path.join(f.out,'study-guides/index.html'),'utf8');assert.doesNotMatch(index,/retain all 300/);
+ const index=await fs.readFile(path.join(f.out,'study-guides/index.html'),'utf8');assert.doesNotMatch(index,/retain all 300/);assert.match(index,/<span class="guide-count">300 out of 301 quotations<\/span>/);
  const unchanged=JSON.parse((await import('node:zlib')).gunzipSync(await fs.readFile(path.join(f.out,dataset,'subjects/'+id+'.json.gz'))));assert.deepEqual(unchanged,f.data);
  const compiled=JSON.parse(await fs.readFile(path.join(f.out,'study-guides/compiled.json'))).subjects[0];assert.deepEqual(compiled.compiled.flatMap(g=>g.selectionIds).sort(),selected.map(s=>s.id).sort());
  // Invalid selection reviews stop before replacing a previously built page.
@@ -200,7 +200,7 @@ test('the overview lists one line per guide, by centrality and then title, with 
   const f=await fixture(t),subjects=[f.data.subject];
   for(const [batchNumber,name,letter] of [[3,'third','B'],[4,'fourth','C']]){
     const config={...f.config,id:letter.repeat(32),slug:name,displayTitle:name+' guide'};
-    subjects.push({id:config.id,name});
+    subjects.push({id:config.id,name,...(name==='third'?{color:'#D32B1E'}:{})});
     await fs.writeFile(path.join(f.root,'study-guides',name+'-batch.json'),JSON.stringify({batchNumber,subjects:[config]}));
     await fs.writeFile(path.join(f.out,dataset,'subjects',config.id+'.json.gz'),gzipSync(JSON.stringify({...f.data,subject:{id:config.id,name}})));
   }
@@ -213,18 +213,21 @@ test('the overview lists one line per guide, by centrality and then title, with 
   const rows=overview.match(/<ol class="guide-list" id="guide-list">([\s\S]*?)<\/ol>/)[1].match(/<li[\s\S]*?<\/li>/g);
   assert.deepEqual(rows.map(r=>r.match(/href="([a-z]+)-pdf\.html"/)[1]),['third','fourth','sample']);
   assert.match(rows[0],/data-centrality="2"/);assert.match(rows[0],/data-thematic="1"/);assert.match(rows[1],/data-thematic="0"/);assert.match(rows[2],/data-thematic="2"/);
-  assert.match(rows[0],/<span class="guide-title">third guide<\/span><span class="guide-count">3 of 3 quotations<\/span>/);
+  assert.match(rows[0],/<span class="guide-title">third guide<\/span><span class="guide-count">3 quotations<\/span>/);
+  // Each guide title takes its subject's colour, with Subject view's day and night shades.
+  assert.match(rows[0],/<li [^>]*style="--subject-color:var\(--subject-d32b1e,#d32b1e\);/);assert.match(rows[1],/style="--subject-color:var\(--ink\);/);
+  const css=await fs.readFile(path.join(f.out,'study-guides/pilot.css'),'utf8');assert.match(css,/^:root\{--subject-d32b1e:#D32B1E;/m);assert.match(css,/^:root\[data-theme=dark\]\{--subject-d32b1e:#F16B60;/m);
   assert.doesNotMatch(overview,/guide-subject/);
   assert.match(overview,/<p class="lead">Passages curated for thematic exploration\.<\/p>/);
   // The masthead is Catalog view's, rebased, with Study guides as the current view.
-  assert.match(overview,/<header class="masthead">[\s\S]*<a class="brand" href="\.\.\/"[\s\S]*<nav aria-label="Main navigation"><a href="\.\.\/">Catalogs<\/a><a href="\.\.\/volume-view\.html">Volumes<\/a><a href="\.\.\/subjects\.html">Subjects<\/a><a href="index\.html" class="active" aria-current="page">Study guides<\/a><button id="about-open"[\s\S]*id="theme-toggle"[\s\S]*<\/header>/);
+  assert.match(overview,/<header class="masthead">[\s\S]*<a class="brand" href="\.\.\/"[\s\S]*<nav aria-label="Main navigation"><a href="\.\.\/">Catalog<\/a><a href="\.\.\/volume-view\.html">Volumes<\/a><a href="\.\.\/subjects\.html">Subjects<\/a><a href="index\.html" class="active" aria-current="page">Study guides<\/a><button id="about-open"[\s\S]*id="theme-toggle"[\s\S]*<\/header>/);
   assert.match(overview,/<dialog id="about-dialog" data-stats="\.\.\/about-stats\.mjs"/);assert.match(overview,/<script src="site\.js" defer>/);
   const guide=await fs.readFile(path.join(f.out,'study-guides/third-pdf.html'),'utf8');
   assert.match(guide,/<h1>third guide<\/h1><p class="guide-subtitle">third<\/p>/);
-  assert.match(overview,/<select id="guide-sort"><option value="centrality" selected>Centrality<\/option><option value="thematic">Thematic<\/option><option value="alphabetical">Alphabetical<\/option><option value="quotations">Number of quotations<\/option><\/select>/);
+  assert.match(overview,/<select id="guide-sort"><option value="centrality" selected>Graph centrality<\/option><option value="thematic">Thematic<\/option><option value="alphabetical">Alphabetical<\/option><option value="quotations">Number of quotations<\/option><\/select>/);
   assert.match(overview,/src="guide-index.js"/);assert.match(overview,/localStorage\.getItem\('pi-theme'\)/);
-  assert.match(overview,/<h1 class="overview-title">Ways into deeper reading\.<\/h1>/);
-  assert.doesNotMatch(overview,/· New|class="sample"|These guides contain|class="intro-note"/);
+  assert.match(overview,/<h1 class="overview-title">Ways into deeper reading<\/h1>/);
+  assert.doesNotMatch(overview,/· New|class="sample"|These guides contain|class="intro-note"|About these study guides/);
 });
 
 test('build refuses stale source wording, incomplete ordering, and too many questions for grouped quotations',async t=>{
