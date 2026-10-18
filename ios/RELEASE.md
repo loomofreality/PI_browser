@@ -36,6 +36,10 @@ Run **Build offline iOS app** first. It must finish successfully, including the 
 
 The upload workflow does not submit a public App Store release. Wait for Apple's processing, assign TestFlight testers in App Store Connect, and inspect the actual installed build. Native signing and this workflow must be exercised with your Apple account before relying on automated releases.
 
+## App Store screenshots
+
+Run **Capture App Store screenshots** with the run ID of a successful **Build offline iOS app** run. It captures six screens (reader, catalog search, subject graph, volume, study guide and the offline Collection screen) on the newest 6.9-inch iPhone and 13-inch iPad simulators, with a clean 9:41 status bar, and checks that every image has a size App Store Connect accepts. Download the `app-store-screenshots-iphone-6.9` and `app-store-screenshots-ipad-13` artifacts and upload the PNGs to the version page. The pages are listed in `PartialInventoryUITests/AppStoreScreenshots.swift`; Debug builds open them with the `-PIStartPage` launch argument, which Release builds ignore.
+
 ## Required device acceptance
 
 Run these checks on an actual iPhone and iPad, not only a simulator:

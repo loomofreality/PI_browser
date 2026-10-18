@@ -16,7 +16,7 @@ def arr(values): return '(' + ', '.join(values) + (',' if values else '') + ')'
 def dictionary(values): return '{'+' '.join(k+' = '+q(v)+';' for k,v in values.items())+'}'
 
 app_sources = sorted(p.name for p in (ROOT/'PartialInventory').glob('*.swift'))
-for folder,names in [('PartialInventory',app_sources),('PartialInventoryTests',['OfflineReaderTests.swift']),('PartialInventoryUITests',['ReaderUITests.swift'])]:
+for folder,names in [('PartialInventory',app_sources),('PartialInventoryTests',['OfflineReaderTests.swift']),('PartialInventoryUITests',['AppStoreScreenshots.swift','ReaderUITests.swift'])]:
     refs=[]; builds=[]
     for name in names:
         key=folder+'/'+name

@@ -1,0 +1,95 @@
+name: Capture App Store screenshots
+on:
+  workflow_dispatch:
+    inputs:
+      build_run_id:
+        description: Successful Build offline iOS app workflow run ID
+        required: true
+permissions:
+  contents: read
+  actions: read
+concurrency:
+  group: ios-screenshots
+  cancel-in-progress: false
+jobs:
+  capture:
+    runs-on: macos-latest
+    timeout-minutes: 90
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          # App Store Connect requires 6.9-inch iPhone and 13-inch iPad screenshots for this app.
+          - device: iphone-6.9
+            pattern: 'iPhone [0-9]+ Pro Max'
+            sizes: '1320x2868 1290x2796'
+          - device: ipad-13
+            pattern: 'iPad Pro 13-inch'
+            sizes: '2064x2752 2048x2732'
+    steps:
+      - name: Require a successful trusted build
+        uses: actions/github-script@v7
+        env:
+          BUILD_RUN_ID: ${{ inputs.build_run_id }}
+        with:
+          script: |
+            if (!/^\d+$/.test(process.env.BUILD_RUN_ID)) throw new Error('Invalid run ID');
+            const {data:r} = await github.rest.actions.getWorkflowRun({...context.repo, run_id:Number(process.env.BUILD_RUN_ID)});
+            if (r.name !== 'Build offline iOS app' || r.conclusion !== 'success' || r.head_branch !== 'main' || r.head_repository.full_name !== `${context.repo.owner}/${context.repo.repo}`) throw new Error('Select a successful iOS build from this repository main branch');
+      - uses: actions/download-artifact@v4
+        with:
+          name: ios-workspace
+          run-id: ${{ inputs.build_run_id }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+      - run: tar -xzf ios-workspace.tar.gz
+      - uses: actions/checkout@v4
+        with:
+          path: current
+          sparse-checkout: ios
+      - name: Use this branch's app code with the build's packaged collection
+        run: |
+          rsync -a --exclude PartialInventory/Website current/ios/ ios/
+          python3 ios/scripts/generate-project.py
+      - name: Boot the newest matching simulator with a clean status bar
+        env:
+          PATTERN: ${{ matrix.pattern }}
+        run: |
+          xcodebuild -version
+          xcrun simctl list devices available -j > devices.json
+          SIMULATOR_ID=$(python3 -c '
+          import json, os, re
+          devices = json.load(open("devices.json"))["devices"]
+          def version(runtime): return [int(n) for n in re.findall(r"\d+", runtime.split("iOS")[-1])]
+          found = [(version(k), d["name"], d["udid"]) for k, v in devices.items() if "iOS" in k for d in v if re.search(os.environ["PATTERN"], d["name"])]
+          print(max(found)[2])')
+          echo "SIMULATOR_ID=$SIMULATOR_ID" >> "$GITHUB_ENV"
+          xcrun simctl boot "$SIMULATOR_ID"
+          xcrun simctl bootstatus "$SIMULATOR_ID" -b
+          xcrun simctl ui "$SIMULATOR_ID" appearance light
+          xcrun simctl status_bar "$SIMULATOR_ID" override --time 9:41 --dataNetwork wifi --wifiMode active --wifiBars 3 --cellularMode active --cellularBars 4 --batteryState charged --batteryLevel 100
+      - name: Capture screenshots
+        run: |
+          mkdir -p "$PWD/screenshots"
+          TEST_RUNNER_SCREENSHOT_DIR="$PWD/screenshots" xcodebuild -project ios/PartialInventory.xcodeproj -scheme PartialInventory -destination "platform=iOS Simulator,id=$SIMULATOR_ID" -derivedDataPath ios/build -resultBundlePath ios/Screenshots.xcresult CODE_SIGNING_ALLOWED=NO -only-testing:PartialInventoryUITests/AppStoreScreenshots test
+      - name: Check App Store Connect screenshot sizes
+        env:
+          SIZES: ${{ matrix.sizes }}
+        run: |
+          python3 - <<'EOF'
+          import os, pathlib, struct
+          allowed = set(os.environ['SIZES'].split())
+          shots = sorted(pathlib.Path('screenshots').glob('*.png'))
+          assert shots, 'No screenshots were written'
+          for shot in shots:
+              width, height = struct.unpack('>II', shot.read_bytes()[16:24])
+              print(f'{shot.name}: {width}x{height}')
+              assert f'{width}x{height}' in allowed, f'{shot.name} is not an accepted App Store size ({" or ".join(allowed)})'
+          EOF
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: app-store-screenshots-${{ matrix.device }}
+          path: |
+            screenshots
+            ios/Screenshots.xcresult
+          retention-days: 30
