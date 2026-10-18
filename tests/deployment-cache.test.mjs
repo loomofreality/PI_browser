@@ -38,6 +38,7 @@ async function fixture(t){
     'src/parser.mjs':"export {parse} from './normalization.mjs';",
     'src/normalization.mjs':'export const parse = value => value;',
     'src/app.mjs':'// interface',
+    'src/theme.css':':root{--subject-000000:#000000}\n:root[data-theme=dark]{--subject-000000:#C9CECA}',
     'src/index.html':page('current interface'),
     'src/style.css':'body {color:green}',
     'README.md':'documentation',

@@ -13,6 +13,7 @@ import {completeSentenceParagraphs,boundaryConcerns,locateSuppliedParagraphs} fr
 import {studyGuideSelections,verifyCatalogueBaseline} from './study-guide-catalogue.mjs';
 import {selectStudyGuideQuotations} from './study-guide-selection.mjs';
 import {shortenParagraphs,shortenSupplied} from './study-guide-shortening.mjs';
+import {subjectColorStyle} from '../src/subject-colors.mjs';
 
 // Generate against the same versioned records used by the subject reader. A
 // changed quotation or subject membership must be reviewed before rebuilding.
@@ -264,19 +265,23 @@ for(const config of editorial.subjects){
   result.connectedSubjects=connectedSubjects.map(s=>s.id);
   exportData.subjects.push({...config,order:shownOrder,omitted:config.order.filter(x=>x.omitted).map(x=>({key:x.key,selectionIds:groupMap.get(x.key).selections.map(s=>s.id)})),sourceName:data.subject.name,connectedSubjects:result.connectedSubjects,compiled});
   // One row per guide; centrality is the subject's number of public graph connections.
-  const quotations=`${shownSelections} of ${candidateCount} quotation${candidateCount===1?'':'s'}`;
+  // The total is named only when the guide leaves some of the subject's quotations out.
+  const quotations=`${shownSelections===candidateCount?shownSelections:`${shownSelections} out of ${candidateCount}`} quotation${candidateCount===1?'':'s'}`;
   // Thematic follows Subject view's subject order; a subject missing from it sorts last.
   const thematic=thematicOrder.has(data.subject.name)?thematicOrder.get(data.subject.name):thematicOrder.size;
-  cards.push({title:config.displayTitle,centrality:connectedSubjects.length,quotations:shownSelections,html:`<li data-title="${esc(config.displayTitle)}" data-quotations="${shownSelections}" data-total="${candidateCount}" data-centrality="${connectedSubjects.length}" data-thematic="${thematic}"><a href="${config.slug}-pdf.html" title="${connectedSubjects.length} connected subject${connectedSubjects.length===1?'':'s'}"><span class="guide-title">${esc(config.displayTitle)}</span><span class="guide-count">${quotations}</span></a></li>`});
+  cards.push({title:config.displayTitle,centrality:connectedSubjects.length,quotations:shownSelections,html:`<li data-title="${esc(config.displayTitle)}" data-quotations="${shownSelections}" data-total="${candidateCount}" data-centrality="${connectedSubjects.length}" data-thematic="${thematic}" style="${subjectColorStyle(subjectMap.get(config.id))}"><a href="${config.slug}-pdf.html" title="${connectedSubjects.length} connected subject${connectedSubjects.length===1?'':'s'}"><span class="guide-title">${esc(config.displayTitle)}</span><span class="guide-count">${quotations}</span></a></li>`});
 }
 await fs.mkdir(path.join(output,'fonts'),{recursive:true});
 for(const font of ['eb-garamond.ttf','eb-garamond-italic.ttf','scheherazade-new.ttf','EB-Garamond-OFL.txt','Scheherazade-New-OFL.txt'])await fs.copyFile(path.join(out,'fonts',font),path.join(output,'fonts',font));
-await fs.copyFile(path.join(root,'scripts/compilation-pilot.css'),path.join(output,'pilot.css'));
+// Guide titles take their subject's colour, using the same day and night shades as Subject view.
+const subjectShades=(await fs.readFile(path.join(root,'src/theme.css'),'utf8')).match(/^:root(?:\[data-theme=dark\])?\{--subject-[^\n]*$/gm);
+if(subjectShades?.length!==2)throw Error('Subject colour shades not found in theme.css');
+await fs.writeFile(path.join(output,'pilot.css'),`${await fs.readFile(path.join(root,'scripts/compilation-pilot.css'),'utf8')}\n${subjectShades.join('\n')}\n`);
 await fs.copyFile(path.join(root,'scripts/compilation-pilot-view.js'),path.join(output,'pilot-view.js'));
 await fs.copyFile(path.join(root,'scripts/compilation-guide-index.js'),path.join(output,'guide-index.js'));
 await fs.copyFile(path.join(root,'scripts/compilation-guide-site.js'),path.join(output,'site.js'));
 const collator=new Intl.Collator('en',{sensitivity:'base',ignorePunctuation:true});
-await fs.writeFile(path.join(output,'index.html'),document('Ways into deeper reading',`<p class="eyebrow">${editorial.subjects.length} sample study guides</p><h1 class="overview-title">Ways into deeper reading.</h1><p class="lead">Passages curated for thematic exploration.</p><div class="guide-list-heading"><h2>Study guides</h2><label class="sort-control" for="guide-sort">Sort by<select id="guide-sort"><option value="centrality" selected>Centrality</option><option value="thematic">Thematic</option><option value="alphabetical">Alphabetical</option><option value="quotations">Number of quotations</option></select></label></div><ol class="guide-list" id="guide-list">${cards.sort((a,b)=>b.centrality-a.centrality||collator.compare(a.title,b.title)).map(card=>card.html).join('')}</ol><details class="editorial"><summary>About these study guides</summary><p>${esc(editorial.method)}</p><p>“Recorded neighbor” means an existing subject connection; “editorial exploration” identifies a suggested path for reading. Introductions and questions are editorial contributions, separate from the quoted sources.</p></details>`,'index'));
+await fs.writeFile(path.join(output,'index.html'),document('Ways into deeper reading',`<p class="eyebrow">${editorial.subjects.length} sample study guides</p><h1 class="overview-title">Ways into deeper reading</h1><p class="lead">Passages curated for thematic exploration.</p><div class="guide-list-heading"><h2>Study guides</h2><label class="sort-control" for="guide-sort">Sort by<select id="guide-sort"><option value="centrality" selected>Graph centrality</option><option value="thematic">Thematic</option><option value="alphabetical">Alphabetical</option><option value="quotations">Number of quotations</option></select></label></div><ol class="guide-list" id="guide-list">${cards.sort((a,b)=>b.centrality-a.centrality||collator.compare(a.title,b.title)).map(card=>card.html).join('')}</ol>`,'index'));
 await fs.writeFile(path.join(output,'manifest.json'),JSON.stringify({format:1,dataset:datasetName,subjects:Object.fromEntries(editorial.subjects.map(s=>[s.id,`${s.slug}-pdf.html`]))})+'\n');
 await fs.writeFile(path.join(output,'compiled.json'),JSON.stringify(exportData,null,2)+'\n');
 await fs.writeFile(path.join(output,'validation.json'),JSON.stringify(validation,null,2)+'\n');
