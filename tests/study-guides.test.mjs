@@ -37,7 +37,7 @@ async function fixture(t){
   await saveData();
   await zip('data/'+recordFilename('FIXTURE00001'),{id:'FIXTURE00001',enVersion:'v1',author:'Author',metadata:{Authorized:'Y'},en:{paragraphs:[{plain:'<Word> in context.'}]},original:{paragraphs:[]},paired:false});
   for(const name of ['eb-garamond.ttf','eb-garamond-italic.ttf','scheherazade-new.ttf','EB-Garamond-OFL.txt','Scheherazade-New-OFL.txt'])await write('dist/fonts/'+name,'Fixture');
-  await write('scripts/compilation-pilot.css','body {}');await write('scripts/compilation-pilot-view.js','// fixture');await write('scripts/compilation-guide-index.js','// fixture');
+  await write('scripts/compilation-pilot.css','body {}');await write('scripts/compilation-pilot-view.js','// fixture');await write('scripts/compilation-guide-index.js','// fixture');await write('scripts/compilation-guide-site.js','// fixture');await write('src/index.html',await fs.readFile(new URL('../src/index.html',import.meta.url)));
   return {root,out,config,data,saveConfig,saveData,zip};
 }
 
@@ -206,14 +206,21 @@ test('the overview lists one line per guide, by centrality and then title, with 
   }
   const b='B'.repeat(32),c='C'.repeat(32);
   await f.zip('subjects/index.json.gz',{subjects,edges:[{source:b,target:id,type:'related',status:'imported'},{source:b,target:c,type:'related',status:'imported'}]});
-  await fs.mkdir(path.join(f.root,'src'));await fs.writeFile(path.join(f.root,'src/subject-order.json'),JSON.stringify({groups:[{id:'I.',title:'I.',subjects:['fourth']},{id:'II.',title:'II.',subjects:['third']}]}));
+  await fs.writeFile(path.join(f.root,'src/subject-order.json'),JSON.stringify({groups:[{id:'I.',title:'I.',subjects:['fourth']},{id:'II.',title:'II.',subjects:['third']}]}));
   const validation=await buildStudyGuides(f.root,f.out,dataset);
   assert.deepEqual(validation.subjects.map(s=>s.name),['fourth','Sample','third']);
   const overview=await fs.readFile(path.join(f.out,'study-guides/index.html'),'utf8');
   const rows=overview.match(/<ol class="guide-list" id="guide-list">([\s\S]*?)<\/ol>/)[1].match(/<li[\s\S]*?<\/li>/g);
   assert.deepEqual(rows.map(r=>r.match(/href="([a-z]+)-pdf\.html"/)[1]),['third','fourth','sample']);
   assert.match(rows[0],/data-centrality="2"/);assert.match(rows[0],/data-thematic="1"/);assert.match(rows[1],/data-thematic="0"/);assert.match(rows[2],/data-thematic="2"/);
-  assert.match(rows[0],/<span class="guide-title">third guide<\/span><span class="guide-subject">third<\/span><span class="guide-count">3 of 3 quotations<\/span>/);
+  assert.match(rows[0],/<span class="guide-title">third guide<\/span><span class="guide-count">3 of 3 quotations<\/span>/);
+  assert.doesNotMatch(overview,/guide-subject/);
+  assert.match(overview,/<p class="lead">Passages curated for thematic exploration\.<\/p>/);
+  // The masthead is Catalog view's, rebased, with Study guides as the current view.
+  assert.match(overview,/<header class="masthead">[\s\S]*<a class="brand" href="\.\.\/"[\s\S]*<nav aria-label="Main navigation"><a href="\.\.\/">Catalogs<\/a><a href="\.\.\/volume-view\.html">Volumes<\/a><a href="\.\.\/subjects\.html">Subjects<\/a><a href="index\.html" class="active" aria-current="page">Study guides<\/a><button id="about-open"[\s\S]*id="theme-toggle"[\s\S]*<\/header>/);
+  assert.match(overview,/<dialog id="about-dialog" data-stats="\.\.\/about-stats\.mjs"/);assert.match(overview,/<script src="site\.js" defer>/);
+  const guide=await fs.readFile(path.join(f.out,'study-guides/third-pdf.html'),'utf8');
+  assert.match(guide,/<h1>third guide<\/h1><p class="guide-subtitle">third<\/p>/);
   assert.match(overview,/<select id="guide-sort"><option value="centrality" selected>Centrality<\/option><option value="thematic">Thematic<\/option><option value="alphabetical">Alphabetical<\/option><option value="quotations">Number of quotations<\/option><\/select>/);
   assert.match(overview,/src="guide-index.js"/);assert.match(overview,/localStorage\.getItem\('pi-theme'\)/);
   assert.match(overview,/<h1 class="overview-title">Ways into deeper reading\.<\/h1>/);

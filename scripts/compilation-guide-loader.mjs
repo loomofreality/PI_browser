@@ -40,11 +40,12 @@ function load(name){
       const text=await decodeGuideHtmlPayload(shared,dictionary);html=html.replace(marker,()=>text);
     }
     const heading=new DOMParser().parseFromString(html,'text/html').querySelector('h1')?.textContent.trim()||'Study guide';
-    return {title:`${heading} · Subject compilations`,className:'',html};
+    return {title:`${heading} · Partial Inventory browser`,className:'',html};
   });
 }
 async function show(page){
   document.title=page.title;document.body.className=page.className;document.body.innerHTML=page.html;
+  document.dispatchEvent(new Event('pi-guide-page'));
   const script=document.body.classList.contains('pdf-view')?'./pilot-view.js':document.getElementById('guide-list')?'./guide-index.js':null;
   if(script){const first=!loaded.has(script);loaded.add(script);await import(script);if(!first)document.dispatchEvent(new Event('pi-guide-shown'));}
 }

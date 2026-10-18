@@ -42,7 +42,7 @@ export async function packStudyGuides(root,out){
     await fs.writeFile(file+'.gz',pack(Buffer.from(body)));
     if(packed)continue;
     const heading=match[2].match(/<h1>[\s\S]*?<\/h1>/)?.[0]||'<h1>Study guide</h1>';
-    const header=match[2].match(/<header>[\s\S]*?<\/header>/)?.[0]||'';
+    const header=match[2].match(/<header[\s>][\s\S]*?<\/header>/)?.[0]||'';
     const head=match[1].replace('<script src="pilot-view.js" defer></script>','').replace('</head>','<script type="module" src="guide-loader.mjs"></script></head>');
     await fs.writeFile(file,head+header+'<main id="main" aria-busy="true">'+heading+'<p role="status" id="guide-loading">Opening the study guide…</p><noscript>Please enable JavaScript to read this guide.</noscript></main>'+match[3]);
   }
