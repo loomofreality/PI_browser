@@ -19,7 +19,11 @@ jobs:
       fail-fast: false
       matrix:
         include:
-          # App Store Connect requires 6.9-inch iPhone and 13-inch iPad screenshots for this app.
+          # App Store Connect asks for 6.3-inch iPhone ("iPhone with Dynamic Island, medium display")
+          # and 13-inch iPad screenshots; 6.9-inch fills the optional large-display iPhone slot.
+          - device: iphone-6.3
+            pattern: '^iPhone [0-9]+ Pro$'
+            sizes: '1206x2622 1179x2556'
           - device: iphone-6.9
             pattern: 'iPhone [0-9]+ Pro Max'
             sizes: '1320x2868 1290x2796'
