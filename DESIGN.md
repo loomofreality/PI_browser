@@ -63,7 +63,7 @@ On portrait phones up to 520px wide, the masthead uses Night / Day beside the bo
 
 Catalog details place Extract immediately after Word count, displaying x as Yes and blank as No. Authorized retains its source declaration: Y authorizes the whole English translation; a Y followed by paragraph numbers, inclusive ranges, or open-ended ranges authorizes only those English source paragraphs. Authorized paragraphs use dark blue (#163f80), with other English paragraphs in near-black; night mode uses readable light blue (#9ec5ff). Original paragraphs retain their existing styling.
 
-The Catalog filter rail shows only these fields, in order: ID (source PIN), Author, Language, Title, Word Count, Date, Period, Recipient, Place, Volume, First line (original), First line (translated), Manuscripts, Publications (Per/Ara), Translations, Musical interpretations, Abstracts, Notes. Volume options display the full published volume title and support finding by number or title; their stored filter values remain the source volume numbers. This curated rail does not remove source metadata from catalogue details.
+The Catalog filter rail shows only these fields, in order: ID (source PIN), Author, Language, Title, Word Count, Date, Period, Recipient, Place (recipient), Volume, First line (original), First line (translated), Manuscripts, Publications (Per/Ara), Translations, Musical interpretations, Abstracts, Notes. Volume options display the full published volume title and support finding by number or title; their stored filter values remain the source volume numbers. This curated rail does not remove source metadata from catalogue details.
 
 
 ## Subject graph depth
