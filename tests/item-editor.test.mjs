@@ -56,3 +56,22 @@ test('the local editor requires its token, exact host and same origin; Unicode s
   const response=await fetch(origin+'/save',{method:'POST',headers,body,duplex:'half'});
   assert.equal(response.status,200);assert.equal((await response.json()).original,'سلام 😀');
 });
+test('a published deletion removes only that item from the local sources, with a backup',async t=>{
+  const {root,rows,csv,store}=await fixture(t);
+  const backup=await store.remove('AB00001');
+  assert.deepEqual(parseCsv(await fs.readFile(path.join(root,'metadata - copy/items.csv'),'utf8')),[rows[1]]);
+  for(const folder of ['original_texts - copy','translated_texts - copy'])await assert.rejects(fs.access(path.join(root,folder,'AB00001.txt')));
+  assert.equal(await fs.readFile(path.join(backup,'0'),'utf8'),csv);
+  assert.equal(JSON.parse(await fs.readFile(path.join(backup,'manifest.json'),'utf8')).deleted,true);
+  assert.equal(await store.remove('AB00001'),null);
+});
+test('the editor will not start a deletion without the typed ID and its preview',async t=>{
+  const {root}=await fixture(t),{server,url,token}=await startEditor({root,open:false});
+  t.after(()=>new Promise(resolve=>server.close(resolve)));
+  const origin=new URL(url).origin,headers={Origin:origin,'Content-Type':'application/json','X-Editor-Token':token};
+  for(const body of [{id:'AB00001',confirm:'AB00002',digest:'a'.repeat(64)},{id:'AB00001',confirm:'AB00001'},{id:'../x',confirm:'../x',digest:'a'.repeat(64)}]){
+    const response=await fetch(origin+'/delete',{method:'POST',headers,body:JSON.stringify(body)});
+    assert.equal(response.status,400);
+  }
+  assert.equal((await (await fetch(origin+'/status',{method:'POST',headers,body:'{}'})).json()).job,null);
+});

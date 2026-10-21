@@ -4,9 +4,10 @@ import path from 'node:path';
 import {fileURLToPath} from 'node:url';
 import {randomBytes,timingSafeEqual} from 'node:crypto';
 import {spawn} from 'node:child_process';
-import {ItemStore,requireSourceFolders} from './item-store.mjs';
+import {ItemStore,requireSourceFolders,validId} from './item-store.mjs';
 import {githubTarget} from './github-target.mjs';
 import {tool} from './publish-item.mjs';
+import {previewDeletion} from './publish-deletion.mjs';
 
 const directory=path.dirname(fileURLToPath(import.meta.url));
 export async function startEditor({root=path.resolve(directory,'..'),port=0,open=true}={}){
@@ -33,18 +34,28 @@ export async function startEditor({root=path.resolve(directory,'..'),port=0,open
       if(req.url==='/save'){
         busy=true;try{send(200,await store.save(input));}finally{busy=false;}return;
       }
-      if(req.url==='/publish'){
-        busy=true;
-        try{
-        const current=await store.load(input.id);if(current.revision!==input.revision)throw Error('Sources changed. Reload before publishing.');
-        job={status:'running',id:current.id,log:'Preparing publication…\n'};
-        const child=spawn(process.execPath,[path.join(directory,'publish-item.mjs'),path.resolve(root),current.id,current.revision],{windowsHide:true,stdio:['ignore','pipe','pipe']});
+      const start=(id,script,args,first)=>{
+        job={status:'running',id,log:first+'\n'};
+        const child=spawn(process.execPath,[path.join(directory,script),path.resolve(root),id,...args],{windowsHide:true,stdio:['ignore','pipe','pipe']});
         const append=data=>{job.log=(job.log+data).slice(-60000);};
         child.stdout.on('data',append);child.stderr.on('data',append);
         child.on('error',error=>{append(error.message);job.status='failed';});
         child.on('close',code=>{job.status=code===0?'success':'failed';});
-        send(202,{job});return;
+        send(202,{job});
+      };
+      if(req.url==='/publish'){
+        busy=true;
+        try{
+        const current=await store.load(input.id);if(current.revision!==input.revision)throw Error('Sources changed. Reload before publishing.');
+        start(current.id,'publish-item.mjs',[current.revision],'Preparing publication…');return;
         }finally{busy=false;}
+      }
+      if(req.url==='/delete-preview'){
+        busy=true;try{send(200,await previewDeletion(root,input.id));}finally{busy=false;}return;
+      }
+      if(req.url==='/delete'){
+        if(!validId(input.id)||input.confirm!==input.id||!/^[a-f0-9]{64}$/.test(input.digest||''))throw Error('Type the exact ID to confirm the deletion.');
+        start(input.id,'publish-deletion.mjs',[input.digest],'Preparing deletion…');return;
       }
       send(404,{error:'Unknown operation'});
     }catch(error){send(400,{error:error.message});}

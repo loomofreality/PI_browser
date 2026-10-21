@@ -14,7 +14,11 @@ export async function selectStudyGuideQuotations(data,selection,{readReview,read
  const review=JSON.parse(raw),ids=selection.ids;
  if(review.subject!==data.subject.id||review.candidateFingerprint!==catalogueFingerprint(data.selections))fail('candidate pool changed');
  if(review.status!=='finalized_before_analysis'||review.selectionBeforeAnalysis!==true||review.target!==300)fail('review not finalized before analysis');
- const expected=Math.min(300,pool.length),all=new Map(pool.map(s=>[s.id,s]));
+ // Quotations deleted with their catalog item leave the reviewed choice short
+ // rather than inviting an unreviewed replacement.
+ const removed=review.removedWithCatalogItems||[];
+ if(!Array.isArray(removed)||removed.some(r=>!r||typeof r.id!=='string'||typeof r.chosen!=='boolean'||pool.some(s=>s.id===r.id)))fail('removed quotations');
+ const expected=Math.min(300,pool.length+removed.length)-removed.filter(r=>r.chosen).length,all=new Map(pool.map(s=>[s.id,s]));
  if(all.size!==pool.length)fail('duplicate candidate IDs');
  if(!Array.isArray(ids)||new Set(ids).size!==ids.length)fail('duplicate or missing IDs');
  if(ids.some(id=>!all.has(id)))fail('unknown ID');

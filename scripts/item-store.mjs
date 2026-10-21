@@ -55,11 +55,23 @@ export class ItemStore{
     if(!s.rows.some(row=>row.PIN===s.id))rows.push(input.metadata);
     const metadataChanged=JSON.stringify(input.metadata)!==JSON.stringify(s.metadata)||!s.rows.some(row=>row.PIN===s.id);
     const next=[metadataChanged?Buffer.from(csvText(rows,s.fields)):s.bytes[0],...['original','english'].map((language,i)=>input[language]===null?null:input[language]===decode(s.bytes[i+1]||Buffer.alloc(0))&&s.bytes[i+1]!==null?s.bytes[i+1]:Buffer.from(input[language],'utf8'))];
+    const backup=await this.replace(s,next);
+    return {...await this.load(s.id),backup};
+  }
+  // Remove the item from the local source folders after its deletion has been
+  // published, so a later full collection update cannot restore it.
+  async remove(id){
+    let s;
+    try{s=await this.snapshot(id);}catch(error){if(/^No source item/.test(error.message))return null;throw error;}
+    const rows=s.rows.filter(row=>row.PIN!==s.id);
+    return this.replace(s,[rows.length===s.rows.length?s.bytes[0]:Buffer.from(csvText(rows,s.fields)),null,null],{deleted:true});
+  }
+  async replace(s,next,note={}){
     const changed=next.map((value,i)=>value===null?s.bytes[i]!==null:s.bytes[i]===null||!value.equals(s.bytes[i]));
-    if(!changed.some(Boolean))return {...await this.load(s.id),backup:null};
+    if(!changed.some(Boolean))return null;
     const backup=path.join(this.root,'.qa','item-backups',new Date().toISOString().replaceAll(':','-')+'-'+randomUUID().slice(0,8));
     await fs.mkdir(backup,{recursive:true});
-    await fs.writeFile(path.join(backup,'manifest.json'),JSON.stringify({id:s.id,files:s.names.map((name,i)=>({name,existed:s.bytes[i]!==null,changed:changed[i]}))},null,2));
+    await fs.writeFile(path.join(backup,'manifest.json'),JSON.stringify({id:s.id,...note,files:s.names.map((name,i)=>({name,existed:s.bytes[i]!==null,changed:changed[i]}))},null,2));
     for(const [i,bytes] of s.bytes.entries())if(bytes!==null&&changed[i])await fs.writeFile(path.join(backup,String(i)),bytes);
     // Stage every changed file before replacing any source. Preserve byte-exact backups.
     const staged=[];
@@ -71,6 +83,6 @@ export class ItemStore{
         for(let i=0;i<next.length;i++)if(changed[i]){if(next[i]===null)await fs.unlink(path.join(this.root,s.names[i]));else await fs.rename(staged[i],path.join(this.root,s.names[i]));committed.push(i);}
       }catch(error){for(const i of committed){if(s.bytes[i]===null)await fs.rm(path.join(this.root,s.names[i]),{force:true});else await fs.writeFile(path.join(this.root,s.names[i]),s.bytes[i]);}throw error;}
     }finally{for(const file of staged)if(file)await fs.rm(file,{force:true});}
-    return {...await this.load(s.id),backup};
+    return backup;
   }
 }

@@ -27,7 +27,7 @@ export async function run(command,args,cwd,quiet=false){
     child.on('error',reject);child.on('close',code=>code===0?resolve(result.trim()):reject(Error(`${path.basename(command)} ${args.slice(0,2).join(' ')} failed (${code}). ${diagnostic.trim()||result.trim().slice(-2000)||'No diagnostic output was returned.'}`)));
   });
 }
-export async function watchDeployment(gh,runId,repo,repository,execute=run){
+export async function watchDeployment(gh,runId,repo,repository,execute=run,{change='saved correction',retry='re-enter the correction'}={}){
   const url=`https://github.com/${repository}/actions/runs/${runId}`;
   console.log('Deployment: '+url);
   try{await execute(gh,['run','watch',String(runId),'--repo',repository,'--interval','15','--exit-status'],repo);}
@@ -38,7 +38,7 @@ export async function watchDeployment(gh,runId,repo,repository,execute=run){
       const failed=report.jobs.flatMap(job=>job.steps.filter(step=>step.conclusion==='failure').map(step=>job.name+': '+step.name));
       detail=failed.length?'Failed check: '+failed.join('; '):`Deployment status: ${report.status} (${report.conclusion||'pending'}). ${detail}`;
     }catch{}
-    throw Error(`Your saved correction was uploaded, but publication could not be confirmed. ${detail}\nSee ${url}\nYour local edits and backups are preserved. Do not re-enter the correction.`);
+    throw Error(`Your ${change} was uploaded, but publication could not be confirmed. ${detail}\nSee ${url}\nYour local edits and backups are preserved. Do not ${retry}.`);
   }
 }
 // Wait for the GitHub Pages workflow GitHub starts for this pushed commit.
