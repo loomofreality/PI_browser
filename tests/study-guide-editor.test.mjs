@@ -18,6 +18,17 @@ const guide=()=>({id,slug:'sample',displayTitle:'Sample',introduction:'An editor
   neighbors:[{id:other,relationship:'recorded graph neighbor',evidence:['e1']},{id:other,relationship:'editorial exploration',invitation:'Follow this.',evidence:['e2']}],
   references:[{label:'1 · A source',url:'https://example.org/a',note:'Compare.',verified:'Checked 2026-10-11.'}]});
 
+test('reviewed adjacent source questions survive edits and cannot be rewritten',()=>{
+  const original=guide();original.order[0].sourceQuestion={sourceVersion:'v1',paragraph:1,text:'Question: Why?'};
+  assert.deepEqual(checkGuide(original,structuredClone(original)),original);
+  const olderClient=structuredClone(original);delete olderClient.order[0].sourceQuestion;
+  assert.deepEqual(checkGuide(original,olderClient).order[0].sourceQuestion,original.order[0].sourceQuestion);
+  const changed=structuredClone(original);changed.order[0].sourceQuestion.text='Invented question';
+  assert.throws(()=>checkGuide(original,changed),/reviewed source question cannot be changed/);
+  const injected=guide();injected.order[1].sourceQuestion=original.order[0].sourceQuestion;
+  assert.throws(()=>checkGuide(guide(),injected),/reviewed source question cannot be changed/);
+});
+
 test('every published study guide passes the editor checks unchanged',async()=>{
   const guides=(await new GuideStore(projectRoot).files()).flatMap(file=>file.data.subjects);
   assert.ok(guides.length>600);
