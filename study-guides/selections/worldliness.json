@@ -3,9 +3,9 @@
   "createdAt": "2026-10-13T21:38:29.529Z",
   "status": "finalized_before_analysis",
   "subject": "BD88D70EC7AEE658A00C66FE24E0CA85",
-  "dataset": "collections/7acbc96b-60b/",
-  "candidateFingerprint": "4ad13612944cc0d32789dd92f4d649ef8fcf6c29fea3cc6009ff7f14a71f21f9",
-  "candidateCount": 325,
+  "dataset": "collections/editorial-83f59e6ea2d8/",
+  "candidateFingerprint": "c98c1f2bcbb9225111180e88abe51710d51d70532696a3b1b763081b19379f43",
+  "candidateCount": 326,
   "target": 300,
   "selectedCount": 300,
   "mandatoryAuthorizedCount": 16,
@@ -609,30 +609,6 @@
         "kind": "no_authorized_selected_paragraph",
         "metadata": "",
         "sourceVersion": "40a9d4a04231185f70c72e48e65f5e1acc6c0a67b9a74e6d2f7c4eade698056c",
-        "paragraphs": []
-      }
-    },
-    {
-      "n": 40,
-      "group": 191,
-      "id": "96d6fa1d393ac6679cb22e02",
-      "key": "source:AB08786",
-      "source": "AB08786",
-      "sourceVersion": "16d4f17acdee9e0cc037ef57810012444bb2e322cf0bb81fa079b0f0e2686ef7",
-      "status": "exact",
-      "reference": "AB08786",
-      "authorization": "",
-      "authorizedParagraphs": [],
-      "mandatoryAuthorized": false,
-      "paragraphs": [
-        2
-      ],
-      "text": "I prayed at the Court of Holiness to deliver thee from the darkness of the attachment to this world",
-      "reason": "Tablet of ‘Abdu’l-Bahá praying that the addressee be delivered from the darkness of attachment to this world; follows the mirror image with prayer.",
-      "authorityEvidence": {
-        "kind": "no_authorized_selected_paragraph",
-        "metadata": "",
-        "sourceVersion": "16d4f17acdee9e0cc037ef57810012444bb2e322cf0bb81fa079b0f0e2686ef7",
         "paragraphs": []
       }
     },
@@ -7309,6 +7285,21 @@
           21
         ]
       }
+    },
+    {
+      "id": "b9a81a548290a76a89c37602",
+      "key": "source:AB02513",
+      "source": "AB02513",
+      "sourceVersion": "b371fba89fda15b840023eacff333dadd174ec352645daca9b87f0b460647b59",
+      "status": "confirmed",
+      "reference": "AB02513",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        2
+      ],
+      "text": "The human spirit (ruh-i insani), in other words the rational soul (nafs-i natiqa), in the world of existence is the intermediary between things corporeal ('disengaged' mujarradat) and delimited worldly things (mutahayyizat); that is to say, between realities spiritual and things corporeal. From one vantage point it possesses spiritual refinement while from the other it exhibits the crassness of carnality, animalistic traits and worldly characteristics. It is neither an absolute abstraction nor is it completely of the world but is the confluence of two seas (majma' al-bahrayn) and a barzakh (\"barrier\", \"isthmus\") between two realities (amrayn). If the spiritual aspect dominates it becometh lofty, luminous, merciful, tranquil (mutma'inna), contented (radiya) and approved (mardiyya). And if it is contaminated with contingent, worldly concerns, it becometh immersed in the ocean of darknessess, reproachful (lawwama), commanding to evil (ammara) and residing in the nethermost regions of the world of existence.",
+      "reason": "Describes the soul between spiritual refinement and worldly concerns."
     }
   ],
   "omitted": [
@@ -7461,6 +7452,30 @@
       "n": 287,
       "source": "AB08677",
       "reason": "Surveyed before analysis; selected complementary passages state the subject’s central teachings, qualifications or practical applications more substantively or with less repetition. No verified authorized quotation omitted."
+    },
+    {
+      "n": 40,
+      "group": 191,
+      "id": "96d6fa1d393ac6679cb22e02",
+      "key": "source:AB08786",
+      "source": "AB08786",
+      "sourceVersion": "16d4f17acdee9e0cc037ef57810012444bb2e322cf0bb81fa079b0f0e2686ef7",
+      "status": "exact",
+      "reference": "AB08786",
+      "authorization": "",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        2
+      ],
+      "text": "I prayed at the Court of Holiness to deliver thee from the darkness of the attachment to this world",
+      "reason": "The explanation of the soul’s two orientations adds substance beyond a short request for freedom from attachment.",
+      "authorityEvidence": {
+        "kind": "no_authorized_selected_paragraph",
+        "metadata": "",
+        "sourceVersion": "16d4f17acdee9e0cc037ef57810012444bb2e322cf0bb81fa079b0f0e2686ef7",
+        "paragraphs": []
+      }
     }
   ],
   "importedAuthorityReview": [
@@ -7474,5 +7489,16 @@
       "reviewedAt": "2026-10-13T21:38:29.529Z",
       "contextRestored": false
     }
-  ]
+  ],
+  "integrationReview": {
+    "date": "2026-10-20",
+    "decision": "The explanation of the soul’s two orientations adds substance beyond a short request for freedom from attachment.",
+    "added": [
+      "b9a81a548290a76a89c37602"
+    ],
+    "replaced": [
+      "96d6fa1d393ac6679cb22e02"
+    ],
+    "finalizedBeforeRebuild": true
+  }
 }

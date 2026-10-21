@@ -69,6 +69,15 @@
           "why": "Examine the anatomical reasoning used in the reported discussion."
         },
         {
+          "key": "source:ABU0006",
+          "why": "Explains the expectation that consumption of meat will gradually diminish as humanity develops.",
+          "sourceQuestion": {
+            "sourceVersion": "dd7a75bddc8305e2d7941faee5bac56b9b2f31906a73fec753fd0d76c24d72d6",
+            "paragraph": 36,
+            "text": "Question: What will be the food of the united people?"
+          }
+        },
+        {
           "key": "source:AB00162",
           "why": "Broaden the inquiry to hopes for the relation of food and healing. Read the extended explanation of food and bodily balance.",
           "shortened": [
@@ -238,6 +247,10 @@
           ]
         },
         {
+          "key": "source:BH00013",
+          "why": "Answers a practical question about used washing water and explicitly identifies cleanliness as the purpose."
+        },
+        {
           "key": "source:BB00056",
           "why": "Read the further counsel about garments and fragrance."
         },
@@ -385,6 +398,10 @@
           "shortened": [
             "Become a manifestation of bounty and the essence of sanctification, detachment and supreme purity. Teach the sign of chastity and in the school of handmaidens give lessons in infinite virtue."
           ]
+        },
+        {
+          "key": "source:ABU1604",
+          "why": "Maintains chastity while affirming that it must not obstruct women’s education and acquisition of virtues."
         },
         {
           "key": "source:AB07412",
@@ -701,6 +718,10 @@
           ]
         },
         {
+          "key": "source:ABU2806",
+          "why": "Explicitly distinguishes spiritual growth through virtue and divine favor from extreme asceticism and monasticism."
+        },
+        {
           "key": "source:ABU1983",
           "why": "Clarify the renunciation of self-centered desire while enjoying blessings."
         },
@@ -920,6 +941,10 @@
           ]
         },
         {
+          "key": "source:AB08696",
+          "why": "Appreciates eloquent poetry as flowing water and a feast of truths and meanings."
+        },
+        {
           "key": "selection:efd733e7c22a11f3bf81be83",
           "why": "Examine the distinction between historical drama and portraying central sacred figures."
         },
@@ -1078,6 +1103,10 @@
         {
           "key": "source:ABU2275",
           "why": "Read the hope for a higher civilization in the East."
+        },
+        {
+          "key": "source:ABU0006",
+          "why": "Describes the complementary material and spiritual civilizations of West and East and the benefit of their union."
         },
         {
           "key": "source:AB00146",

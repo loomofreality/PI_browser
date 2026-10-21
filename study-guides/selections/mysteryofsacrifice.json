@@ -3,9 +3,9 @@
   "createdAt": "2026-10-13T21:44:45.632Z",
   "status": "finalized_before_analysis",
   "subject": "2BEF6248EF094C6E9F1AE87D842D03E0",
-  "dataset": "collections/7acbc96b-60b/",
-  "candidateFingerprint": "6941454290496625fd47dc1f56b5fc1856aee359f257a8190d36766bc5fb622e",
-  "candidateCount": 423,
+  "dataset": "collections/editorial-83f59e6ea2d8/",
+  "candidateFingerprint": "a4c1b7f4560a69c3ca3a6758a24bbab9e860e1ff9f8c70fa02b6ea15b86c3348",
+  "candidateCount": 424,
   "target": 300,
   "selectedCount": 300,
   "mandatoryAuthorizedCount": 33,
@@ -2217,30 +2217,6 @@
         "kind": "no_authorized_selected_paragraph",
         "metadata": "",
         "sourceVersion": "af0c0cede47bc98ddc24fc425718610a4f7489c2f03432f5305dde8792236a54",
-        "paragraphs": []
-      }
-    },
-    {
-      "n": 193,
-      "group": 183,
-      "id": "c0f80147b07011fae1b76c18",
-      "key": "source:AB07599",
-      "source": "AB07599",
-      "sourceVersion": "7699b528062dd6b9695e45914a4bf25300723d37dfb21ba7e66c6959095792cd",
-      "status": "exact",
-      "reference": "AB07599",
-      "authorization": "",
-      "authorizedParagraphs": [],
-      "mandatoryAuthorized": false,
-      "paragraphs": [
-        2
-      ],
-      "text": "I beseech God that He may provide the means whereby thou mayest be delivered from this state of melancholy and sacrifice both soul and substance in the path of truth",
-      "reason": "‘Abdu’l-Bahá prays that a melancholy believer be delivered and enabled to sacrifice soul and substance in the path of truth; a personal address that touches inner struggle.",
-      "authorityEvidence": {
-        "kind": "no_authorized_selected_paragraph",
-        "metadata": "",
-        "sourceVersion": "7699b528062dd6b9695e45914a4bf25300723d37dfb21ba7e66c6959095792cd",
         "paragraphs": []
       }
     },
@@ -7383,6 +7359,21 @@
           3
         ]
       }
+    },
+    {
+      "id": "58bbcc5262081caf937bd5a0",
+      "key": "source:ABU0219",
+      "source": "ABU0219",
+      "sourceVersion": "1bfa4f49d6fdd55bf0efeb7f339657db8e7f817087be2c488e839cde6f48de01",
+      "status": "confirmed",
+      "reference": "ABU0219",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        3
+      ],
+      "text": "Every action in the contingent world that emanates from physical susceptibilities is difficult; on the other hand, that which emanates from or owes its origin to the emotions of the conscience is easy. The least self-sacrifice that is based upon material origin seems to be arduous. For instance, it is difficult for man to sacrifice his ease or his possessions for racial love, but the giving of life in its entirety in the pathway of God is easy. Since self-sacrifice owes its origin to the emotions of the conscience man gladly offers his very life for a cause. Consider how willingly and with what great joy and happiness the disciples of Christ sacrificed their lives, because their love for their cause was based upon the emotions of the conscience. Had it been based upon the natural susceptibilities their sacrifice would have been very difficult if not impossible.",
+      "reason": "Explains willing self-sacrifice through spiritual love and conscience."
     }
   ],
   "omitted": [
@@ -8122,6 +8113,30 @@
       "n": 343,
       "source": "AB02144",
       "reason": "Surveyed before analysis; selected complementary passages state the subject’s central teachings, qualifications or practical applications more substantively or with less repetition. No verified authorized quotation omitted."
+    },
+    {
+      "n": 193,
+      "group": 183,
+      "id": "c0f80147b07011fae1b76c18",
+      "key": "source:AB07599",
+      "source": "AB07599",
+      "sourceVersion": "7699b528062dd6b9695e45914a4bf25300723d37dfb21ba7e66c6959095792cd",
+      "status": "exact",
+      "reference": "AB07599",
+      "authorization": "",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        2
+      ],
+      "text": "I beseech God that He may provide the means whereby thou mayest be delivered from this state of melancholy and sacrifice both soul and substance in the path of truth",
+      "reason": "The conscience-based explanation of willing sacrifice adds substance beyond a general prayer for sacrifice and relief from melancholy.",
+      "authorityEvidence": {
+        "kind": "no_authorized_selected_paragraph",
+        "metadata": "",
+        "sourceVersion": "7699b528062dd6b9695e45914a4bf25300723d37dfb21ba7e66c6959095792cd",
+        "paragraphs": []
+      }
     }
   ],
   "importedAuthorityReview": [
@@ -8161,5 +8176,16 @@
       "reviewedAt": "2026-10-13T21:44:45.632Z",
       "contextRestored": false
     }
-  ]
+  ],
+  "integrationReview": {
+    "date": "2026-10-20",
+    "decision": "The conscience-based explanation of willing sacrifice adds substance beyond a general prayer for sacrifice and relief from melancholy.",
+    "added": [
+      "58bbcc5262081caf937bd5a0"
+    ],
+    "replaced": [
+      "c0f80147b07011fae1b76c18"
+    ],
+    "finalizedBeforeRebuild": true
+  }
 }

@@ -7,7 +7,7 @@
       "displayTitle": "House of Worship: a gathering place for prayer and service",
       "selection": {
         "review": "selections/houseofworship.json",
-        "sha256": "d047915a8ed401880ac377e0b4b7649848d9e8e213fe152c8a071cd3888b819c",
+        "sha256": "1af6371a1fc350d044a06584b432fc0f0dd8e3587d26673bb5e7e08666ed9437",
         "ids": [
           "6d16bda63ea026638f5bc399",
           "d0522719762fbe22a92eac55",
@@ -205,7 +205,6 @@
           "c188d27656ccabad02a37043",
           "c87376478b62d886b7cc5a9a",
           "98025eece1c7c3ec2d779e2e",
-          "ca05543b71e3eee40fb8720e",
           "b94efe3bdda237cbafc640e5",
           "4b233a06e1455aa0bbfe8b5f",
           "1934755370e4bfa280a04a09",
@@ -308,7 +307,8 @@
           "49fd477337624953d742d6bd",
           "4d5ff6598209c972e092c1b6",
           "e537a69bc38d5d6c50ec5aca",
-          "cc793c86a9c54b430ee07929"
+          "cc793c86a9c54b430ee07929",
+          "0b9485511805207cc2152b45"
         ]
       },
       "introduction": "At dawn someone walks toward a building, thoughts centred on God, and sits down in silence to listen. Bahá’u’lláh blesses that walker and commands that such houses be raised throughout the lands in the name of the Lord of all religions, adorned without images. ‘Abdu’l-Bahá widens the doorway until every race and sect can pass through it, then keeps building outward: a hospital, a hospice for the traveller, a school for orphans, a university, charities dispensed without regard to colour, so that worship and science may shower their gifts on one humanity. He insists that wherever a heart sincerely prays there is already a Mashriqu’l-Adhkár, and he delights in an aged believer carrying stones morning and evening, in a composer’s melody, in a vow of fifty tumans, in a gathering given another name when caution required it. What does a life become when stillness before God flows into care for neighbours? The question continues into devotional gatherings and feasts, into music and singing, and into the humanitarian work through which a community is built.",
@@ -689,8 +689,8 @@
           "why": "Explore beauty and the senses as invitations to worship. Read these dated architectural and musical directions with their source attributions, allowing their differing settings to remain visible."
         },
         {
-          "key": "source:AB04046",
-          "why": "Explore beauty and the senses as invitations to worship. Read these dated architectural and musical directions with their source attributions, allowing their differing settings to remain visible."
+          "key": "source:AB03645",
+          "why": "Describes the spiritual influence of worship and recitation in the Mashriqu’l-Adhkar."
         },
         {
           "key": "source:ABU0200",

@@ -3,9 +3,9 @@
   "createdAt": "2026-10-13T21:43:40.498Z",
   "status": "finalized_before_analysis",
   "subject": "AB07CB83562E4E8FB296FD5FA74B7DB3",
-  "dataset": "collections/7acbc96b-60b/",
-  "candidateFingerprint": "d532887419de6ff426026c0fb93ca58eb408f566f4f5bea88edc739a3a394c67",
-  "candidateCount": 365,
+  "dataset": "collections/editorial-83f59e6ea2d8/",
+  "candidateFingerprint": "ed3efd46f656eda9d00ab57709ef982f07de5cf01a18278adb768f170541b605",
+  "candidateCount": 366,
   "target": 300,
   "selectedCount": 300,
   "mandatoryAuthorizedCount": 19,
@@ -129,30 +129,6 @@
         "kind": "no_authorized_selected_paragraph",
         "metadata": "",
         "sourceVersion": "a9480344f17186c16759d7f8e4a4b705b5bc06e058cd04dafd20f8f0ed18a999",
-        "paragraphs": []
-      }
-    },
-    {
-      "n": 18,
-      "group": 17,
-      "id": "a7ae4c6dc076f19725fe8065",
-      "key": "source:AB09794",
-      "source": "AB09794",
-      "sourceVersion": "bdaffe905275d73b355070c5607806d2ceb13a3628a5dad7c8d9e1cfc2867fff",
-      "status": "exact",
-      "reference": "AB09794",
-      "authorization": "Y2-3",
-      "authorizedParagraphs": [],
-      "mandatoryAuthorized": false,
-      "paragraphs": [
-        1
-      ],
-      "text": "O handmaiden of God! I beseech God that thou mayest remain firm and steadfast in faith and certitude, and arise to serve the Kingdom of God.",
-      "reason": "‘Abdu’l-Bahá’s brief prayer that a handmaiden remain firm in faith and certitude and arise to serve; steadfastness joined to service.",
-      "authorityEvidence": {
-        "kind": "no_authorized_selected_paragraph",
-        "metadata": "Y2-3",
-        "sourceVersion": "bdaffe905275d73b355070c5607806d2ceb13a3628a5dad7c8d9e1cfc2867fff",
         "paragraphs": []
       }
     },
@@ -7320,6 +7296,21 @@
           20
         ]
       }
+    },
+    {
+      "id": "aca282013cb7a63fd0cba552",
+      "key": "source:ABU1476",
+      "source": "ABU1476",
+      "sourceVersion": "ba7ce7259292d6c9a4699b4308ec47587ab663c67cef83f845079da5bb226046",
+      "status": "confirmed",
+      "reference": "ABU1476",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        2
+      ],
+      "text": "O Thou Kind God! The members of this Society have turned their faces toward Thee. They are begging to receive the lights from Thy Most Great Guidance. They enjoy spiritual susceptibilities. O God! Quicken the spirits! Extend the horizon of their thoughts. Bestow upon them the Power of the Kingdom! Confer upon them the Confirmations of the Holy Spirit! O God! Endear these souls and give unto them merciful powers, so that they may illumine this country with Thy Light! May they resuscitate these dead bodies! May they cause the disappearance of the darkness of nature through the rays of Thy Sun! O God! Assist these souls and deliver them from the darkness of nature. Clothe them with the heavenly body and surround them with spiritual Forces. Verily Thou art the Generous and the Mighty.",
+      "reason": "Prays for the spiritual awakening and influence of a society’s members."
     }
   ],
   "omitted": [
@@ -7711,6 +7702,30 @@
       "id": "c20e08ad309ba2fbf6b93ee6",
       "n": 365,
       "reason": "Imported Bhagavad Gita extract on Krishna as the origin and generating seed of all beings; off-theme for prayer for the spiritual progress of others, and the guide’s comparative readings remain in its Ephesians and Sutta Nipāta references. No verified authorized quotation omitted."
+    },
+    {
+      "n": 18,
+      "group": 17,
+      "id": "a7ae4c6dc076f19725fe8065",
+      "key": "source:AB09794",
+      "source": "AB09794",
+      "sourceVersion": "bdaffe905275d73b355070c5607806d2ceb13a3628a5dad7c8d9e1cfc2867fff",
+      "status": "exact",
+      "reference": "AB09794",
+      "authorization": "Y2-3",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        1
+      ],
+      "text": "O handmaiden of God! I beseech God that thou mayest remain firm and steadfast in faith and certitude, and arise to serve the Kingdom of God.",
+      "reason": "A complete collective prayer offers more range than the brief general request for steadfast service.",
+      "authorityEvidence": {
+        "kind": "no_authorized_selected_paragraph",
+        "metadata": "Y2-3",
+        "sourceVersion": "bdaffe905275d73b355070c5607806d2ceb13a3628a5dad7c8d9e1cfc2867fff",
+        "paragraphs": []
+      }
     }
   ],
   "importedAuthorityReview": [
@@ -7723,5 +7738,16 @@
       "reviewedAt": "2026-10-13T21:43:40.498Z",
       "contextRestored": false
     }
-  ]
+  ],
+  "integrationReview": {
+    "date": "2026-10-20",
+    "decision": "A complete collective prayer offers more range than the brief general request for steadfast service.",
+    "added": [
+      "aca282013cb7a63fd0cba552"
+    ],
+    "replaced": [
+      "a7ae4c6dc076f19725fe8065"
+    ],
+    "finalizedBeforeRebuild": true
+  }
 }

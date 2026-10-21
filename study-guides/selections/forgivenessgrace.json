@@ -3,9 +3,9 @@
   "createdAt": "2026-10-11T18:52:26.272Z",
   "status": "finalized_before_analysis",
   "subject": "5CF47B6B008F461986A90EF7E6BF176E",
-  "dataset": "collections/390a77fa-5b4/",
-  "candidateFingerprint": "89fa095958a6f4939c0c5f6a18eab3d710bd06eb7698fd0d1e495b77d35f1998",
-  "candidateCount": 1569,
+  "dataset": "collections/editorial-83f59e6ea2d8/",
+  "candidateFingerprint": "f0c408a412fdc34c11d5100eecda83b526ebf1b5c9afcf28d014bca0eda28cad",
+  "candidateCount": 1570,
   "target": 300,
   "selectedCount": 300,
   "mandatoryAuthorizedCount": 97,
@@ -2714,30 +2714,6 @@
         "kind": "no_authorized_selected_paragraph",
         "metadata": "Y1-3,5-10",
         "sourceVersion": "fe67e1609638b48a5110a9180b84c6f8aa033556eefb45cc862767d39e7c6ad7",
-        "paragraphs": []
-      }
-    },
-    {
-      "n": 8,
-      "group": 6,
-      "id": "15707984ef05f9a861198e6e",
-      "key": "source:BB00003",
-      "source": "BB00003",
-      "sourceVersion": "df2921c8cd1cb1bd7768c8a6fec0c9877afb228e455135b3dbf89bdf4597656d",
-      "status": "normalized",
-      "reference": "BB00003",
-      "authorization": "Y2255-2259,2261-2263,2265-2267,2269-2271,2273-2275,2277-2281,2283-2286,2288-2293,2295-2305,2307-2310,2312-2317,2319,2321-2328,2330-2333",
-      "authorizedParagraphs": [],
-      "mandatoryAuthorized": false,
-      "paragraphs": [
-        827
-      ],
-      "text": "Through Him hath He granted respite to all things from their Resurrection unto their Resurrection, and hath willed, then commanded forbearance in His earthly kingdom as a token of grace unto His weak creatures and as a kindness to the inhabitants of His realm, that all His servants might thereby give thanks unto God",
-      "reason": "Connects mercy with respite and forbearance across successive resurrections.",
-      "authorityEvidence": {
-        "kind": "no_authorized_selected_paragraph",
-        "metadata": "Y2255-2259,2261-2263,2265-2267,2269-2271,2273-2275,2277-2281,2283-2286,2288-2293,2295-2305,2307-2310,2312-2317,2319,2321-2328,2330-2333",
-        "sourceVersion": "df2921c8cd1cb1bd7768c8a6fec0c9877afb228e455135b3dbf89bdf4597656d",
         "paragraphs": []
       }
     },
@@ -7645,6 +7621,21 @@
         "reviewedAt": "2026-10-11T18:52:26.228Z",
         "contextRestored": false
       }
+    },
+    {
+      "id": "f35eccb888420de50d7c17ae",
+      "key": "source:AB01031",
+      "source": "AB01031",
+      "sourceVersion": "56ac1dfcdebd1d2c6cc2dc75680f6095f3ce3b92ac1f5848864c3610025a8aba",
+      "status": "confirmed",
+      "reference": "AB01031",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        4
+      ],
+      "text": "Regarding your question about forgiveness and pardon for the deceased: Every soul that returns from this transitory world to the eternal realm, according to their merit and capacity - if divine justice encompasses them, \"O what regret for us!\" But in the realm of grace, merit and capacity and worthiness are not considered. \"He forgives whom He wills and pardons whom He wills. Verily He is the All-Forgiving, the All-Merciful.\" After ascension, progress and pardon depend on grace, but descent is impossible and inconceivable. \"God transforms evil deeds into good deeds through His grace and pardon and forgiveness.\" Therefore the seeking of forgiveness by the loved ones and beseeching pardon and forgiveness from the Court of Unity on behalf of the deceased is legitimate and accepted and praiseworthy, and causes abundant pardon and progress. And upon you be greetings and praise.",
+      "reason": "Explains forgiveness and progress after death through divine grace and supplication."
     }
   ],
   "omitted": [
@@ -15261,6 +15252,30 @@
       "n": 1567,
       "source": null,
       "reason": "Surveyed before analysis; selected complementary passages state the subject’s central teachings, qualifications or practical applications more substantively or with less repetition. No verified authorized quotation omitted."
+    },
+    {
+      "n": 8,
+      "group": 6,
+      "id": "15707984ef05f9a861198e6e",
+      "key": "source:BB00003",
+      "source": "BB00003",
+      "sourceVersion": "df2921c8cd1cb1bd7768c8a6fec0c9877afb228e455135b3dbf89bdf4597656d",
+      "status": "normalized",
+      "reference": "BB00003",
+      "authorization": "Y2255-2259,2261-2263,2265-2267,2269-2271,2273-2275,2277-2281,2283-2286,2288-2293,2295-2305,2307-2310,2312-2317,2319,2321-2328,2330-2333",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        827
+      ],
+      "text": "Through Him hath He granted respite to all things from their Resurrection unto their Resurrection, and hath willed, then commanded forbearance in His earthly kingdom as a token of grace unto His weak creatures and as a kindness to the inhabitants of His realm, that all His servants might thereby give thanks unto God",
+      "reason": "The guidance on pardon and progress after death adds a concrete distinction about grace; retain the important qualification concerning manifestations of power.",
+      "authorityEvidence": {
+        "kind": "no_authorized_selected_paragraph",
+        "metadata": "Y2255-2259,2261-2263,2265-2267,2269-2271,2273-2275,2277-2281,2283-2286,2288-2293,2295-2305,2307-2310,2312-2317,2319,2321-2328,2330-2333",
+        "sourceVersion": "df2921c8cd1cb1bd7768c8a6fec0c9877afb228e455135b3dbf89bdf4597656d",
+        "paragraphs": []
+      }
     }
   ],
   "importedAuthorityReview": [
@@ -15293,5 +15308,16 @@
       "reviewedAt": "2026-10-11T18:52:26.228Z",
       "contextRestored": false
     }
-  ]
+  ],
+  "integrationReview": {
+    "date": "2026-10-20",
+    "decision": "The guidance on pardon and progress after death adds a concrete distinction about grace; retain the important qualification concerning manifestations of power.",
+    "added": [
+      "f35eccb888420de50d7c17ae"
+    ],
+    "replaced": [
+      "15707984ef05f9a861198e6e"
+    ],
+    "finalizedBeforeRebuild": true
+  }
 }

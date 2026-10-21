@@ -7,7 +7,7 @@
       "displayTitle": "Love that makes unity possible",
       "selection": {
         "review": "selections/loveunity.json",
-        "sha256": "444ef36b699f4d7f18c851eb0aa9152c6ebfc249ff772d7867d3f71cac2e5c5a",
+        "sha256": "9351e2af69036a02e85732bc79970e715b5ae45b427459119bb16c71a37b2ca0",
         "ids": [
           "ca990565fb8a47be8c5ac8f2",
           "27eec88d20f41dbbcdc44fc3",
@@ -15,7 +15,6 @@
           "adb0d5fc1331ca3ad3311db7",
           "390a1ffbec2923bae000ea62",
           "e2cc2a518edef78bd8d874f2",
-          "b3b2d9fb1d0650da6d8024da",
           "b7590d676f6792fb9e03ca1e",
           "dd7da6e606faa826d469a9d7",
           "8e6cea9fad5508b0cfc7b88b",
@@ -308,7 +307,8 @@
           "9c595378c4d558e602a6c6e1",
           "bc1d7c9cda96c893b081c00d",
           "bdaa7e27e7b2c29cdad7bd14",
-          "e48baf0efe6e3f6e66e30a25"
+          "e48baf0efe6e3f6e66e30a25",
+          "1cdcdc4ef580be89a2e1b54d"
         ]
       },
       "introduction": "Is peace a greater word than love? ‘Abdu’l-Bahá was asked exactly that, and His answer was no: peace rests on love, and a so-called peace can exist without it. Love is the cause of life and enmity the cause of death, and a unity worth the name is not a treaty or a committee but the spirit that animates a body, breathed into hearts by the Holy Spirit. Such love has to be shown in deeds rather than professed by the tongue, and it is tested where it is hardest: strangers treated as friends, enemies regarded as well-wishers, the ignorant seen as enlightened. Bahá’u’lláh asks His followers to keep company with people of every religion in friendliness, and ‘Abdu’l-Bahá widens the circle from the family to the village, the city and the country, each growing in security and joy as its unity grows. Self-love and prejudice pull the other way. From here the journey leads to loving one’s enemies, to the oneness of humanity, and to the universal peace that only love can found.",
@@ -923,10 +923,11 @@
         },
         {
           "key": "source:ABU1327",
-          "why": "Widen love beyond familiar circles and religious or national boundaries.",
-          "shortened": [
-            "The only means is that the believers become one; then they will begin to sing a new melody, will be able to raise a new flag, will be kind to all peoples of the earth, will love humanity and act with perfect honesty and service to all, will know all as members of our own body, will know all nations as their friends, will have perfect friendship for all the peoples of the earth."
-          ]
+          "why": "Widen love beyond familiar circles and religious or national boundaries."
+        },
+        {
+          "key": "source:ABU1573",
+          "why": "Calls for abundant love toward believers, strangers and the broken-hearted."
         },
         {
           "key": "source:ABU1403",

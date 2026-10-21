@@ -3,9 +3,9 @@
   "createdAt": "2026-10-13T19:27:50.987Z",
   "status": "finalized_before_analysis",
   "subject": "C068EBF06ABC4693BF6C2868E2385C69",
-  "dataset": "collections/7acbc96b-60b/",
-  "candidateFingerprint": "ec14595888fdc3bc51f6bea6aeeab3fad640e5a6628396d9c62d1582aba96852",
-  "candidateCount": 3496,
+  "dataset": "collections/editorial-83f59e6ea2d8/",
+  "candidateFingerprint": "ac2e287bad6d6a7c5c85d06e67a5a2e059b2c772a1c60b71f395a89ed96300a8",
+  "candidateCount": 3497,
   "target": 300,
   "selectedCount": 300,
   "mandatoryAuthorizedCount": 169,
@@ -27127,6 +27127,11 @@
       "id": "2992879a36f38c0f4233d72f",
       "n": 3490,
       "reason": "Imported passage on civilization, institutions and community whose supplied date cannot be verified; selected passages carry the move from self-centred concern to the welfare of others. No verified authorized quotation omitted."
+    },
+    {
+      "id": "b993b69349eb84c0376fa608",
+      "source": "AB00254",
+      "reason": "Keep the alchemical prayer and practical development of capacity; the new account of emotional relief is less foundational for this guide."
     }
   ],
   "importedAuthorityReview": [
@@ -27232,5 +27237,12 @@
       "reviewedAt": "2026-10-13T19:27:50.987Z",
       "contextRestored": false
     }
-  ]
+  ],
+  "integrationReview": {
+    "date": "2026-10-20",
+    "decision": "Keep the alchemical prayer and practical development of capacity; the new account of emotional relief is less foundational for this guide.",
+    "added": [],
+    "replaced": [],
+    "finalizedBeforeRebuild": true
+  }
 }

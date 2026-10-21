@@ -3,9 +3,9 @@
   "createdAt": "2026-10-11T17:54:31.076Z",
   "status": "finalized_before_analysis",
   "subject": "8677D5CBAD964C7F95A61AF10D5EB72D",
-  "dataset": "collections/390a77fa-5b4/",
-  "candidateFingerprint": "11c019733699d19b59bb8d5417091777435a9f218a05a491c246d49a87852fff",
-  "candidateCount": 1319,
+  "dataset": "collections/editorial-83f59e6ea2d8/",
+  "candidateFingerprint": "975f11567f5309a83dd621f03176aceda98f21b54dcd69595533f4597a3905f9",
+  "candidateCount": 1320,
   "target": 300,
   "selectedCount": 300,
   "mandatoryAuthorizedCount": 170,
@@ -14120,6 +14120,11 @@
       "n": 1301,
       "source": "BH01788",
       "reason": "Surveyed before analysis; selected complementary passages state the subject’s central teachings, qualifications or practical applications more substantively or with less repetition. No verified authorized quotation omitted."
+    },
+    {
+      "id": "6c1bad5fb2919ffad3643c5c",
+      "source": "ABU0318",
+      "reason": "Preserve the concrete marital application and the link between unity and deliberation; the new broad appeal beyond nationality does not justify replacing these."
     }
   ],
   "importedAuthorityReview": [
@@ -14290,5 +14295,12 @@
       "reviewedAt": "2026-10-11T17:54:31.040Z",
       "contextRestored": false
     }
-  ]
+  ],
+  "integrationReview": {
+    "date": "2026-10-20",
+    "decision": "Preserve the concrete marital application and the link between unity and deliberation; the new broad appeal beyond nationality does not justify replacing these.",
+    "added": [],
+    "replaced": [],
+    "finalizedBeforeRebuild": true
+  }
 }

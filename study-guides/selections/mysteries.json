@@ -3,12 +3,12 @@
   "createdAt": "2026-10-13T21:44:32.005Z",
   "status": "finalized_before_analysis",
   "subject": "112D55EA871649C98F620B987B18D623",
-  "dataset": "collections/7acbc96b-60b/",
-  "candidateFingerprint": "642c4a1b836af6adc5f86e334d5b26cf89f2f7b93ff74275ac8fcb64cc7321ed",
-  "candidateCount": 379,
+  "dataset": "collections/editorial-83f59e6ea2d8/",
+  "candidateFingerprint": "fd238e208600177e55153e72e0f4f537a1c04ce77c9e340ee869a1f9fc1f9c56",
+  "candidateCount": 380,
   "target": 300,
   "selectedCount": 300,
-  "mandatoryAuthorizedCount": 68,
+  "mandatoryAuthorizedCount": 69,
   "selectionBeforeAnalysis": true,
   "method": "Complete candidate survey followed by individual editorial choices and written reasons, applied to the existing complete guide to keep it within 300 quotations. All verified authorized selections included. Priority given to foundational teachings, substantive explanations, necessary qualifications, distinctive applications, narrative examples and thematic breadth across attentive perception of the world, the seeker’s inward dispositions, reading beneath the words of scripture, visions, symbols and the life of the spirit, revelation and the unveiling of hidden mysteries, wisdom in what is disclosed and withheld, what lies beyond this life, understanding that becomes service and prayer, and further voices on wonder and discernment. Neither citation count nor source order used as a ranking rule. Imported wording checked separately; version differences remain explicit. The existing reading arc is retained.",
   "selected": [
@@ -1964,30 +1964,6 @@
         "kind": "no_authorized_selected_paragraph",
         "metadata": "",
         "sourceVersion": "a4d8f8f87285bddbe3ab1fa14f967ada210fc62f78610393544f7b9f94bb0bf7",
-        "paragraphs": []
-      }
-    },
-    {
-      "n": 134,
-      "group": 6,
-      "id": "968b9be91ad72d28f72499a7",
-      "key": "source:BB00002",
-      "source": "BB00002",
-      "sourceVersion": "1903959e9481acc14ae2d5660dc5d0bc0a4e63782224754f5523b3f2b295f9f3",
-      "status": "exact",
-      "reference": "BB00002",
-      "authorization": "Y343,1284,1309,1603,2340",
-      "authorizedParagraphs": [],
-      "mandatoryAuthorized": false,
-      "paragraphs": [
-        427
-      ],
-      "text": "And whenever a mystery is revealed from the hidden mysteries inscribed above the Secret, a group enters and a group departs.",
-      "reason": "The Báb’s statement that whenever a mystery is revealed a group enters and a group departs; shows disclosure as a test.",
-      "authorityEvidence": {
-        "kind": "no_authorized_selected_paragraph",
-        "metadata": "Y343,1284,1309,1603,2340",
-        "sourceVersion": "1903959e9481acc14ae2d5660dc5d0bc0a4e63782224754f5523b3f2b295f9f3",
         "paragraphs": []
       }
     },
@@ -7544,6 +7520,23 @@
         "reviewedAt": "2026-10-13T21:44:32.005Z",
         "contextRestored": false
       }
+    },
+    {
+      "id": "7ce30bf79f9e05e234a48a50",
+      "key": "source:ABU0033",
+      "source": "ABU0033",
+      "sourceVersion": "399abea2e9b21af09eb0e09e28160e77efc9f0d90a8598e7bee2ab6abeffd0cd",
+      "status": "confirmed",
+      "reference": "ABU0033",
+      "authorizedParagraphs": [
+        10
+      ],
+      "mandatoryAuthorized": true,
+      "paragraphs": [
+        10
+      ],
+      "text": "This other and inner reality is called the heavenly body, the ethereal form which corresponds to this body. This is the conscious reality which discovers the inner meaning of things, for the outer body of man does not discover anything. The inner ethereal reality grasps the mysteries of existence, discovers scientific truths and indicates their technical application. It discovers electricity, produces the telegraph, the telephone and opens the door to the world of arts. If the outer material body did this, the animal would, likewise, be able to make scientific and wonderful discoveries, for the animal shares with man all physical powers and limitations. What, then, is that power which penetrates the realities of existence and which is not to be found in the animal? It is the inner reality which comprehends things, throws light upon the mysteries of life and being, discovers the heavenly Kingdom, unseals the mysteries of God and differentiates man from the brute. Of this there can be no doubt.",
+      "reason": "Mandatory authorized wording. Explains the inner reality that discovers natural and spiritual mysteries."
     }
   ],
   "omitted": [
@@ -8018,6 +8011,30 @@
       "id": "4d6965e2536d4d5abe50c9b0",
       "n": 373,
       "reason": "Plotinus on pleasure as distinct from the good; the selected letter of St. John of the Cross makes the same caution about resting in feeling more directly within the guide’s subject. No verified authorized quotation omitted."
+    },
+    {
+      "n": 134,
+      "group": 6,
+      "id": "968b9be91ad72d28f72499a7",
+      "key": "source:BB00002",
+      "source": "BB00002",
+      "sourceVersion": "1903959e9481acc14ae2d5660dc5d0bc0a4e63782224754f5523b3f2b295f9f3",
+      "status": "exact",
+      "reference": "BB00002",
+      "authorization": "Y343,1284,1309,1603,2340",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        427
+      ],
+      "text": "And whenever a mystery is revealed from the hidden mysteries inscribed above the Secret, a group enters and a group departs.",
+      "reason": "Include verified authorized wording explaining the faculty that discovers mysteries; replace the short statement about differing reactions to disclosure.",
+      "authorityEvidence": {
+        "kind": "no_authorized_selected_paragraph",
+        "metadata": "Y343,1284,1309,1603,2340",
+        "sourceVersion": "1903959e9481acc14ae2d5660dc5d0bc0a4e63782224754f5523b3f2b295f9f3",
+        "paragraphs": []
+      }
     }
   ],
   "importedAuthorityReview": [
@@ -8157,5 +8174,16 @@
       "reviewedAt": "2026-10-13T21:44:32.005Z",
       "contextRestored": false
     }
-  ]
+  ],
+  "integrationReview": {
+    "date": "2026-10-20",
+    "decision": "Include verified authorized wording explaining the faculty that discovers mysteries; replace the short statement about differing reactions to disclosure.",
+    "added": [
+      "7ce30bf79f9e05e234a48a50"
+    ],
+    "replaced": [
+      "968b9be91ad72d28f72499a7"
+    ],
+    "finalizedBeforeRebuild": true
+  }
 }

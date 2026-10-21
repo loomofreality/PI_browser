@@ -3,12 +3,12 @@
   "createdAt": "2026-10-13T21:46:36.240Z",
   "status": "finalized_before_analysis",
   "subject": "FF9A4A182AA5EB45D01627817D176E5E",
-  "dataset": "collections/7acbc96b-60b/",
-  "candidateFingerprint": "f67ee081a3c467fe01fb5955a82a2f443115b724a1746523d373f1033649c61b",
-  "candidateCount": 507,
+  "dataset": "collections/editorial-83f59e6ea2d8/",
+  "candidateFingerprint": "2f13667a7342cb0c5c57b222f6139f6cc63fdbe7e1a1e6ffdf80da5b4447b2f6",
+  "candidateCount": 508,
   "target": 300,
   "selectedCount": 300,
-  "mandatoryAuthorizedCount": 40,
+  "mandatoryAuthorizedCount": 41,
   "selectionBeforeAnalysis": true,
   "method": "Complete candidate survey followed by individual editorial choices and written reasons, applied to the existing complete guide to keep it within 300 quotations. All verified authorized selections included. Priority given to foundational teachings, substantive explanations, necessary qualifications, distinctive applications, narrative examples and thematic breadth across hope and responsibility, the reading of promises and explicit periods of time, the Báb and the new Day, the promised Day and its unfolding light, warnings to kings and the consequences of oppression and war, Iran’s upheaval and renewed hope, peace, equality and invention, the Holy Land, the growth of the Cause in particular places, trials and steadfastness, sacrifice, enduring service, future recognition and a world educated in love. Neither citation count nor source order used as a ranking rule. Imported wording checked separately; version differences remain explicit. The existing reading arc is retained.",
   "selected": [
@@ -6719,30 +6719,6 @@
       }
     },
     {
-      "n": 475,
-      "group": 442,
-      "id": "b366f905d47f78214f57a679",
-      "key": "source:BH00357",
-      "source": "BH00357",
-      "sourceVersion": "68fd28a83cafefecc50de0e1e91f0a358448c9abe091ce99500d2f0767224425",
-      "status": "exact",
-      "reference": "BH00357",
-      "authorization": "",
-      "authorizedParagraphs": [],
-      "mandatoryAuthorized": false,
-      "paragraphs": [
-        14
-      ],
-      "text": "Likewise convey my greetings to his honor N.S. and say that this is a day wherein the breaths of steadfastness and certitude must waft from pure hearts, for these are the days about which they have foretold that soon a pack of wolves will emerge from the thickets of hypocrisy. They have also foretold that Satan will appear in different forms in every land - to some in the form of written sheets, to some in the form of messengers, and to some in the form of letters.",
-      "reason": "Words of Bahá’u’lláh that steadfastness is needed in days foretold for wolves of hypocrisy and Satan appearing in written sheets and letters; a vivid warning about deception.",
-      "authorityEvidence": {
-        "kind": "no_authorized_selected_paragraph",
-        "metadata": "",
-        "sourceVersion": "68fd28a83cafefecc50de0e1e91f0a358448c9abe091ce99500d2f0767224425",
-        "paragraphs": []
-      }
-    },
-    {
       "n": 476,
       "group": 400,
       "id": "cff560f404d4964321be4971",
@@ -7409,6 +7385,23 @@
         "sourceVersion": "a223a566bc03077b0e8b010b3d25626056dd2bbb1fe4b1cb0a9a0b6d16b55e4c",
         "paragraphs": []
       }
+    },
+    {
+      "id": "a0a2e4609ff72747006ba6ab",
+      "key": "source:BH00002",
+      "source": "BH00002",
+      "sourceVersion": "631d0052807fa6919f1c8f0e92e8fcb973b46b8023a88ef74bbc0544c100d8a8",
+      "status": "confirmed",
+      "reference": "BH00002",
+      "authorizedParagraphs": [
+        284
+      ],
+      "mandatoryAuthorized": true,
+      "paragraphs": [
+        284
+      ],
+      "text": "How strange! Notwithstanding these explicit and manifest references these people have shunned the Truth. For instance, mention of the sorrows, the imprisonment and afflictions inflicted upon that Essence of divine virtue hath been made in the former traditions. In the \"Bihar\" it is recorded: \"In our Qa'im there shall be four signs from four Prophets, Moses, Jesus, Joseph, and Muhammad. The sign from Moses is fear and expectation; from Jesus, that which was spoken of Him; from Joseph, imprisonment and dissimulation; from Muhammad, the revelation of a Book similar to the Qur'an.\" Notwithstanding such a conclusive tradition, which in such unmistakable language hath foreshadowed the happenings of the present day, none hath been found to heed its prophecy, and methinks none will do so in the future, except him whom thy Lord willeth. \"God indeed shall make whom He will to hearken, but We shall not make those who are in their graves to hearken.\"",
+      "reason": "Mandatory authorized wording. Discusses traditions foretelling the sufferings and signs of the Qa’im."
     }
   ],
   "omitted": [
@@ -8652,6 +8645,30 @@
       "n": 493,
       "source": "BB00045",
       "reason": "Surveyed before analysis; selected complementary passages state the subject’s central teachings, qualifications or practical applications more substantively or with less repetition. No verified authorized quotation omitted."
+    },
+    {
+      "n": 475,
+      "group": 442,
+      "id": "b366f905d47f78214f57a679",
+      "key": "source:BH00357",
+      "source": "BH00357",
+      "sourceVersion": "68fd28a83cafefecc50de0e1e91f0a358448c9abe091ce99500d2f0767224425",
+      "status": "exact",
+      "reference": "BH00357",
+      "authorization": "",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        14
+      ],
+      "text": "Likewise convey my greetings to his honor N.S. and say that this is a day wherein the breaths of steadfastness and certitude must waft from pure hearts, for these are the days about which they have foretold that soon a pack of wolves will emerge from the thickets of hypocrisy. They have also foretold that Satan will appear in different forms in every land - to some in the form of written sheets, to some in the form of messengers, and to some in the form of letters.",
+      "reason": "Include verified authorized wording; the specific four-prophet tradition is more directly explanatory than the warning about hypocrisy in letters.",
+      "authorityEvidence": {
+        "kind": "no_authorized_selected_paragraph",
+        "metadata": "",
+        "sourceVersion": "68fd28a83cafefecc50de0e1e91f0a358448c9abe091ce99500d2f0767224425",
+        "paragraphs": []
+      }
     }
   ],
   "importedAuthorityReview": [
@@ -8664,5 +8681,16 @@
       "reviewedAt": "2026-10-13T21:46:36.240Z",
       "contextRestored": false
     }
-  ]
+  ],
+  "integrationReview": {
+    "date": "2026-10-20",
+    "decision": "Include verified authorized wording; the specific four-prophet tradition is more directly explanatory than the warning about hypocrisy in letters.",
+    "added": [
+      "a0a2e4609ff72747006ba6ab"
+    ],
+    "replaced": [
+      "b366f905d47f78214f57a679"
+    ],
+    "finalizedBeforeRebuild": true
+  }
 }

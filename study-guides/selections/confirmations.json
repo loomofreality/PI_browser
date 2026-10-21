@@ -3,9 +3,9 @@
   "createdAt": "2026-10-13T17:44:37.380Z",
   "status": "finalized_before_analysis",
   "subject": "6DFF61AF1A174D40865772C3AB40FF7E",
-  "dataset": "collections/7acbc96b-60b/",
-  "candidateFingerprint": "ae63754d63aded414af16219fa0cb4ae756bc1c1bc1dd1df2732f2940d8171ba",
-  "candidateCount": 2880,
+  "dataset": "collections/editorial-83f59e6ea2d8/",
+  "candidateFingerprint": "74c1dd93477d01843b197f3ba6d8b903000e7b784847e2ba20d7089db26c22b7",
+  "candidateCount": 2881,
   "target": 300,
   "selectedCount": 300,
   "mandatoryAuthorizedCount": 118,
@@ -23197,6 +23197,11 @@
       "n": 2880,
       "source": "AB00666",
       "reason": "Surveyed before analysis; selected complementary passages state the subject’s central teachings, qualifications or practical applications more substantively or with less repetition. No verified authorized quotation omitted."
+    },
+    {
+      "id": "8ab88d53cc5b6fb444b0c667",
+      "source": "ABU0820",
+      "reason": "Keep the existing treatment of receptivity and surrender of one’s will; the new stone analogy largely repeats the capacity distinction."
     }
   ],
   "importedAuthorityReview": [
@@ -23256,5 +23261,12 @@
       "reviewedAt": "2026-10-13T17:44:37.380Z",
       "contextRestored": false
     }
-  ]
+  ],
+  "integrationReview": {
+    "date": "2026-10-20",
+    "decision": "Keep the existing treatment of receptivity and surrender of one’s will; the new stone analogy largely repeats the capacity distinction.",
+    "added": [],
+    "replaced": [],
+    "finalizedBeforeRebuild": true
+  }
 }

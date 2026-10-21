@@ -3,9 +3,9 @@
   "createdAt": "2026-10-11T21:44:54.982Z",
   "status": "finalized_before_analysis",
   "subject": "14BC9A91715CE69B9FADD0DC5735323F",
-  "dataset": "collections/390a77fa-5b4/",
-  "candidateFingerprint": "7efa4c1d23fe5499e1e86c658d28ad99056ee0230214f8bcd51e0a3e832f0ca6",
-  "candidateCount": 1941,
+  "dataset": "collections/editorial-83f59e6ea2d8/",
+  "candidateFingerprint": "5f1c408f649683c445f24ca6f5aadf0eb557916945b5c1385dec6f7e367f69dd",
+  "candidateCount": 1942,
   "target": 300,
   "selectedCount": 300,
   "mandatoryAuthorizedCount": 25,
@@ -2885,30 +2885,6 @@
         "kind": "no_authorized_selected_paragraph",
         "metadata": "",
         "sourceVersion": "b105348329df7005b76829b4cfbc7d5567f4120729f459b81a906e232f5f7587",
-        "paragraphs": []
-      }
-    },
-    {
-      "n": 641,
-      "group": 638,
-      "id": "441237aa598288e0e81f4ca2",
-      "key": "source:AB07431",
-      "source": "AB07431",
-      "sourceVersion": "ba3fc8f45fa000752d8549f3ec5c5044f43fcdd559a6f19b867cd2327ea3337a",
-      "status": "exact",
-      "reference": "AB07431",
-      "authorization": "",
-      "authorizedParagraphs": [],
-      "mandatoryAuthorized": false,
-      "paragraphs": [
-        1
-      ],
-      "text": "Your letter arrived bringing glad tidings of recovery from illness, which became the cause of heartfelt joy. May you always remain protected and preserved under divine protection and care.",
-      "reason": "Expresses joy at recovery from illness and hopes for continuing health.",
-      "authorityEvidence": {
-        "kind": "no_authorized_selected_paragraph",
-        "metadata": "",
-        "sourceVersion": "ba3fc8f45fa000752d8549f3ec5c5044f43fcdd559a6f19b867cd2327ea3337a",
         "paragraphs": []
       }
     },
@@ -7357,6 +7333,21 @@
         "sourceVersion": "cb9633cddaeb4110b2e4261edc3a0a5f5b046e014916a50422e855b4460940dd",
         "paragraphs": []
       }
+    },
+    {
+      "id": "9764bde32f579058db20bc2e",
+      "key": "source:ABU0082",
+      "source": "ABU0082",
+      "sourceVersion": "a11f3aa859457baed6c09681463288a0f33198cf209c7e7ac4a6b9b0c376208d",
+      "status": "confirmed",
+      "reference": "ABU0082",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        4
+      ],
+      "text": "In brief, there is no rest for man in this world; you cannot find a soul who has no grief or sorrow. However, if one has spiritual sensibilities, if one's attention is directed to the divine Kingdom, this becomes a source of solace. When one turns to God, one finds spiritual sensibilities and forgets every grief and sorrow. Even if afflictions should assail from all directions, the heart finds comfort. When one turns to God, all this sadness, depression and gloom vanish, and the utmost joy and happiness are attained. Divine glad-tidings encompass such a one; in the depths of abasement, one finds glory; in utter poverty, one finds wealth.",
+      "reason": "Describes spiritual consolation amid the griefs of life."
     }
   ],
   "omitted": [
@@ -17205,7 +17196,42 @@
       "n": 1941,
       "source": "AB03693",
       "reason": "Surveyed before analysis; selected complementary passages state the subject’s central teachings, qualifications or practical applications more substantively or with less repetition. No verified authorized quotation omitted."
+    },
+    {
+      "n": 641,
+      "group": 638,
+      "id": "441237aa598288e0e81f4ca2",
+      "key": "source:AB07431",
+      "source": "AB07431",
+      "sourceVersion": "ba3fc8f45fa000752d8549f3ec5c5044f43fcdd559a6f19b867cd2327ea3337a",
+      "status": "exact",
+      "reference": "AB07431",
+      "authorization": "",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        1
+      ],
+      "text": "Your letter arrived bringing glad tidings of recovery from illness, which became the cause of heartfelt joy. May you always remain protected and preserved under divine protection and care.",
+      "reason": "The explanation of spiritual solace is more substantial than the acknowledgment of one person’s recovery.",
+      "authorityEvidence": {
+        "kind": "no_authorized_selected_paragraph",
+        "metadata": "",
+        "sourceVersion": "ba3fc8f45fa000752d8549f3ec5c5044f43fcdd559a6f19b867cd2327ea3337a",
+        "paragraphs": []
+      }
     }
   ],
-  "importedAuthorityReview": []
+  "importedAuthorityReview": [],
+  "integrationReview": {
+    "date": "2026-10-20",
+    "decision": "The explanation of spiritual solace is more substantial than the acknowledgment of one person’s recovery.",
+    "added": [
+      "9764bde32f579058db20bc2e"
+    ],
+    "replaced": [
+      "441237aa598288e0e81f4ca2"
+    ],
+    "finalizedBeforeRebuild": true
+  }
 }

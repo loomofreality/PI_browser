@@ -3,12 +3,12 @@
   "createdAt": "2026-10-13T21:44:06.460Z",
   "status": "finalized_before_analysis",
   "subject": "E52E5452873A452AA14119AAB8CFFC41",
-  "dataset": "collections/7acbc96b-60b/",
-  "candidateFingerprint": "5877158999378fed6366b891e6eb258cd3a32b67aa47d7acc1b24b193cef5ae0",
-  "candidateCount": 344,
+  "dataset": "collections/editorial-83f59e6ea2d8/",
+  "candidateFingerprint": "a38076252732a8b1f6b26068009f039cad38702534602a60da530f7385c29b3f",
+  "candidateCount": 345,
   "target": 300,
   "selectedCount": 300,
-  "mandatoryAuthorizedCount": 35,
+  "mandatoryAuthorizedCount": 36,
   "selectionBeforeAnalysis": true,
   "method": "Complete candidate survey followed by individual editorial choices and written reasons, applied to the existing complete guide to keep it within 300 quotations. All verified authorized selections included. Priority given to foundational teachings, substantive explanations, necessary qualifications, distinctive applications, narrative examples and thematic breadth across the open welcome of the House, worship rooted in homes and gatherings, music, gardens and architectural form, dependencies of learning and care, builders, caretakers and gifts, consultation and financial responsibility, the first Temples and the many to follow, wisdom amid opposition, the promise carried forward, and later explanations of worship and service together. Neither citation count nor source order used as a ranking rule. Imported wording checked separately; version differences remain explicit. The existing reading arc is retained.",
   "selected": [
@@ -4784,31 +4784,6 @@
       }
     },
     {
-      "n": 234,
-      "group": 225,
-      "id": "ca05543b71e3eee40fb8720e",
-      "key": "source:AB04046",
-      "source": "AB04046",
-      "sourceVersion": "38841098a6fa365268152165ed6d7bd14abde49e7ca7eacc49836b3998b6f416",
-      "status": "confirmed",
-      "reference": "AB04046",
-      "authorization": "",
-      "authorizedParagraphs": [],
-      "mandatoryAuthorized": false,
-      "paragraphs": [
-        2,
-        5
-      ],
-      "text": "Thy letter, concerning the celebration of the anniversary of the declaration of His Holiness the Supreme --may my spirit be sacrificed for Him!--which was held on the land of the Mashrak-el-Azcar, was read … I am hopeful that, during the coming of Rizwan, a great feast shall be held in the land of the Mashrak-el-Azcar",
-      "reason": "Tablet of ‘Abdu’l-Bahá on a celebration of the Declaration of the Báb held on the Mashriqu’l-Adhkár land, hoping for a Riḍván feast there; holy days observed on the site.",
-      "authorityEvidence": {
-        "kind": "no_authorized_selected_paragraph",
-        "metadata": "",
-        "sourceVersion": "38841098a6fa365268152165ed6d7bd14abde49e7ca7eacc49836b3998b6f416",
-        "paragraphs": []
-      }
-    },
-    {
       "n": 235,
       "group": 119,
       "id": "b94efe3bdda237cbafc640e5",
@@ -7393,6 +7368,23 @@
         "reviewedAt": "2026-10-13T21:44:06.460Z",
         "contextRestored": false
       }
+    },
+    {
+      "id": "0b9485511805207cc2152b45",
+      "key": "source:AB03645",
+      "source": "AB03645",
+      "sourceVersion": "c91c5eb96d78d57deb30268e877c4d8fb6ec38c79384e66e303b2b932e10088b",
+      "status": "confirmed",
+      "reference": "AB03645",
+      "authorizedParagraphs": [
+        2
+      ],
+      "mandatoryAuthorized": true,
+      "paragraphs": [
+        2
+      ],
+      "text": "The Mashriqu'l-Adhkar is the lodestone of divine confirmations. The Mashriqu'l-Adhkar is the mighty foundation of the Lord, the firm pillar of the Faith of God. The establishment of the Mashriqu'l-Adhkar is a means for the exaltation of the Word of God. The praise and glorification emanating from it cheereth the heart of every righteous soul. The holy fragrances of the Mashriqu'l-Adhkar vivify the souls of the righteous, and its vitalizing breezes confer life upon the pure in heart. The lamps of the Mashriqu'l-Adhkar, like unto the resplendent rays of dawn, illuminate the horizons. The melody of the Mashriqu'l-Adhkar cheereth the souls of the Concourse on high, and the recitation within it of the verses of His Divine Unity bringeth joy and gladness to the inmates of the Kingdom of Glory.",
+      "reason": "Mandatory authorized wording. Describes the spiritual influence of worship and recitation in the Mashriqu’l-Adhkar."
     }
   ],
   "omitted": [
@@ -7654,6 +7646,31 @@
       "id": "819d22635aa1b927787ca564",
       "n": 344,
       "reason": "Imported guidance on uses of a Haziratu’l-Quds and on dances at summer schools; concerns other institutions and activities than the House of Worship. No verified authorized quotation omitted."
+    },
+    {
+      "n": 234,
+      "group": 225,
+      "id": "ca05543b71e3eee40fb8720e",
+      "key": "source:AB04046",
+      "source": "AB04046",
+      "sourceVersion": "38841098a6fa365268152165ed6d7bd14abde49e7ca7eacc49836b3998b6f416",
+      "status": "confirmed",
+      "reference": "AB04046",
+      "authorization": "",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        2,
+        5
+      ],
+      "text": "Thy letter, concerning the celebration of the anniversary of the declaration of His Holiness the Supreme --may my spirit be sacrificed for Him!--which was held on the land of the Mashrak-el-Azcar, was read … I am hopeful that, during the coming of Rizwan, a great feast shall be held in the land of the Mashrak-el-Azcar",
+      "reason": "Include verified authorized wording; the comprehensive explanation of worship’s influence takes precedence over a dated feast acknowledgment.",
+      "authorityEvidence": {
+        "kind": "no_authorized_selected_paragraph",
+        "metadata": "",
+        "sourceVersion": "38841098a6fa365268152165ed6d7bd14abde49e7ca7eacc49836b3998b6f416",
+        "paragraphs": []
+      }
     }
   ],
   "importedAuthorityReview": [
@@ -7765,5 +7782,16 @@
       "reviewedAt": "2026-10-13T21:44:06.460Z",
       "contextRestored": false
     }
-  ]
+  ],
+  "integrationReview": {
+    "date": "2026-10-20",
+    "decision": "Include verified authorized wording; the comprehensive explanation of worship’s influence takes precedence over a dated feast acknowledgment.",
+    "added": [
+      "0b9485511805207cc2152b45"
+    ],
+    "replaced": [
+      "ca05543b71e3eee40fb8720e"
+    ],
+    "finalizedBeforeRebuild": true
+  }
 }

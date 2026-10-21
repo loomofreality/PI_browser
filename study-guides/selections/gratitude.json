@@ -3,9 +3,9 @@
   "createdAt": "2026-10-11T17:05:58.142Z",
   "status": "finalized_before_analysis",
   "subject": "BD4052A3136042C4B86176AB2F552C55",
-  "dataset": "collections/390a77fa-5b4/",
-  "candidateFingerprint": "c089f9764cb6f7b1d018e115c8dbc58627cad0357806abb9d4dfd52a2104e05e",
-  "candidateCount": 890,
+  "dataset": "collections/editorial-83f59e6ea2d8/",
+  "candidateFingerprint": "b66b375275daabad7fe0ec32f78ae1bb2d0354cbe1c82575d6add0d236850ba0",
+  "candidateCount": 891,
   "target": 300,
   "selectedCount": 300,
   "mandatoryAuthorizedCount": 26,
@@ -12409,6 +12409,11 @@
       "id": "6d4e077eb7f1187b5c5ded54",
       "source": "BHU0032",
       "reason": "Not retained in the limited selection: complementary coverage and substantive subject treatment are supplied by the explicitly chosen quotations; no verified authorized quotation omitted."
+    },
+    {
+      "id": "ebdfcde4904003a885e410ff",
+      "source": "BH00149",
+      "reason": "Retain gratitude as a source of confirmation and responsibility to preserve a gift; the new repeated invocation supplies less additional explanation."
     }
   ],
   "importedAuthorityReview": [
@@ -12439,5 +12444,12 @@
       "authorization": "Verified authorized wording: saved review identifies the virtues passage in the official Gleanings CXXXIV. The composite supplied extract retains its approximate catalogue status.",
       "mandatoryAuthorized": true
     }
-  ]
+  ],
+  "integrationReview": {
+    "date": "2026-10-20",
+    "decision": "Retain gratitude as a source of confirmation and responsibility to preserve a gift; the new repeated invocation supplies less additional explanation.",
+    "added": [],
+    "replaced": [],
+    "finalizedBeforeRebuild": true
+  }
 }

@@ -3,9 +3,9 @@
   "createdAt": "2026-10-13T20:57:30.791Z",
   "status": "finalized_before_analysis",
   "subject": "D3D5A6BA921F4EFD915F7B12D2779668",
-  "dataset": "collections/7acbc96b-60b/",
-  "candidateFingerprint": "2db3a3bc939387a28881c2739f9fa272ea9d6f4527d59b1875cdf831204dd69a",
-  "candidateCount": 4321,
+  "dataset": "collections/editorial-83f59e6ea2d8/",
+  "candidateFingerprint": "08ec75525142029ad1fbb4e72be62fa9304a23d7e93d4eb09547c7f1f7e891d2",
+  "candidateCount": 4322,
   "target": 300,
   "selectedCount": 300,
   "mandatoryAuthorizedCount": 114,
@@ -3098,30 +3098,6 @@
         "kind": "no_authorized_selected_paragraph",
         "metadata": "",
         "sourceVersion": "1016d2276349a504fe5d97c35475ef8c3adf46feed6c120785fb2b6c7e814256",
-        "paragraphs": []
-      }
-    },
-    {
-      "n": 2983,
-      "group": 2996,
-      "id": "55009161134cc43371b87386",
-      "key": "source:BH01406",
-      "source": "BH01406",
-      "sourceVersion": "d39f193f28ef2634234c76ed99c80566694c6fa8103adea470feb163e3a5cc8f",
-      "status": "exact",
-      "reference": "BH01406",
-      "authorization": "",
-      "authorizedParagraphs": [],
-      "mandatoryAuthorized": false,
-      "paragraphs": [
-        3
-      ],
-      "text": "It is evident that faithfulness hath ever been the attribute of God's friends, and they have always been successful in achieving and practicing it. In truth, the fragrance of faithfulness wafted from your letter.",
-      "reason": "Faithfulness has ever been the attribute of God's friends, and its fragrance wafted from the believer's letter.",
-      "authorityEvidence": {
-        "kind": "no_authorized_selected_paragraph",
-        "metadata": "",
-        "sourceVersion": "d39f193f28ef2634234c76ed99c80566694c6fa8103adea470feb163e3a5cc8f",
         "paragraphs": []
       }
     },
@@ -7734,6 +7710,21 @@
         "reviewedAt": "2026-10-13T20:57:30.791Z",
         "contextRestored": false
       }
+    },
+    {
+      "id": "ebe8cc848d49035c75aad3cc",
+      "key": "source:AB07542",
+      "source": "AB07542",
+      "sourceVersion": "460f945595a37e40275377f78791b2135e684e944e33136d0dc06434cb268e1e",
+      "status": "confirmed",
+      "reference": "AB07542",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        3
+      ],
+      "text": "But undoubtedly, what is most certain, most sure and incontrovertible, what the People of God cling to most confidently is that the true cause of salvation is none other than steadfastness in the Testament and firmness in the Covenant of the All-Merciful. This faithfulness is the particular characteristic of our belief in the Manifestation of God in this Day. This is the truth enshrined in the safeguarded Mystery of this Cause and verily, in this faithfulness can be found all the other grades and standards of salvation.",
+      "reason": "Connects steadfastness in the Covenant with the standards of salvation."
     }
   ],
   "omitted": [
@@ -31854,6 +31845,30 @@
       "id": "80f7f8a56a3765b70156c34b",
       "n": 4320,
       "reason": "Imported Gospel passage on the lilies of the field and freedom from worry, in an unidentified rendering with unmarked omissions; selected passages carry trust in God more directly. No verified authorized quotation omitted."
+    },
+    {
+      "n": 2983,
+      "group": 2996,
+      "id": "55009161134cc43371b87386",
+      "key": "source:BH01406",
+      "source": "BH01406",
+      "sourceVersion": "d39f193f28ef2634234c76ed99c80566694c6fa8103adea470feb163e3a5cc8f",
+      "status": "exact",
+      "reference": "BH01406",
+      "authorization": "",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        3
+      ],
+      "text": "It is evident that faithfulness hath ever been the attribute of God's friends, and they have always been successful in achieving and practicing it. In truth, the fragrance of faithfulness wafted from your letter.",
+      "reason": "The new explanation of faithfulness and the Covenant adds substance beyond a letter acknowledging faithfulness.",
+      "authorityEvidence": {
+        "kind": "no_authorized_selected_paragraph",
+        "metadata": "",
+        "sourceVersion": "d39f193f28ef2634234c76ed99c80566694c6fa8103adea470feb163e3a5cc8f",
+        "paragraphs": []
+      }
     }
   ],
   "importedAuthorityReview": [
@@ -31994,5 +32009,16 @@
       "reviewedAt": "2026-10-13T20:57:30.791Z",
       "contextRestored": false
     }
-  ]
+  ],
+  "integrationReview": {
+    "date": "2026-10-20",
+    "decision": "The new explanation of faithfulness and the Covenant adds substance beyond a letter acknowledging faithfulness.",
+    "added": [
+      "ebe8cc848d49035c75aad3cc"
+    ],
+    "replaced": [
+      "55009161134cc43371b87386"
+    ],
+    "finalizedBeforeRebuild": true
+  }
 }

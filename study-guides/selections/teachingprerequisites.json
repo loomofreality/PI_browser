@@ -3,9 +3,9 @@
   "createdAt": "2026-10-11T17:09:51.207Z",
   "status": "finalized_before_analysis",
   "subject": "8AC80D4CBCF3EC2FB87444DBA8BEBD67",
-  "dataset": "collections/390a77fa-5b4/",
-  "candidateFingerprint": "94a627ce9e8cafd1ef687d4013bfadd011b6e7d2ff950701a89aa085129b6c62",
-  "candidateCount": 971,
+  "dataset": "collections/editorial-83f59e6ea2d8/",
+  "candidateFingerprint": "b5cf0d8f2e200543a544d533974809b83193dca183ee857af5258ad27860566d",
+  "candidateCount": 972,
   "target": 300,
   "selectedCount": 300,
   "mandatoryAuthorizedCount": 43,
@@ -7057,32 +7057,6 @@
       }
     },
     {
-      "n": 304,
-      "group": 302,
-      "id": "454c97cd2c4a7dca174d54f2",
-      "key": "source:AB00569",
-      "source": "AB00569",
-      "sourceVersion": "c8b5dda8feb0b544ab4c4939b180677da82515515d9b78571ec4603d9fb82d0b",
-      "status": "exact",
-      "reference": "AB00569",
-      "authorization": "",
-      "authorizedParagraphs": [],
-      "mandatoryAuthorized": false,
-      "paragraphs": [
-        13
-      ],
-      "text": "At midnight, or at the early dawn, arise and commune and pray for help to the beauty of the Most Glorious",
-      "stage": 7,
-      "previousPosition": 901,
-      "reason": "Connects prayer, study and inward preparation with capacity to address others.",
-      "authorityEvidence": {
-        "kind": "no_authorized_selected_paragraph",
-        "metadata": "",
-        "sourceVersion": "c8b5dda8feb0b544ab4c4939b180677da82515515d9b78571ec4603d9fb82d0b",
-        "paragraphs": []
-      }
-    },
-    {
       "n": 307,
       "group": 305,
       "id": "a1de34e77c8cdad256ce4918",
@@ -9503,6 +9477,21 @@
         "metadata": "",
         "paragraphs": []
       }
+    },
+    {
+      "id": "bd19b7dba817a3955d1b8add",
+      "key": "source:ABU0992",
+      "source": "ABU0992",
+      "sourceVersion": "84e4db62903365d7dae4a675d8b2cb3c3e44f10df6ebd3c333a4b0b0d3f9a1ef",
+      "status": "confirmed",
+      "reference": "ABU0992",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        1
+      ],
+      "text": "Teachers of the Cause must have courtesy and forbearance. They must be the essence of sanctity---informed, moved by the divine teachings, knowledgeable and well apprised. Their hearts must be a treasury brimming with the gems of the love of God, and their souls must be stirred by His sweet savors. Such teachers must be the embodiment of qualities both human and divine. They must have the power of clear expression, and be eloquent and articulate in speech. In every city to which they travel, they must seek to consort with rich and poor alike---being neither sanctimonious literalists nor irreligious libertines---so that all who associate with these teachers may see that they are spiritual, that they are pious, that they are heavenly, that they are consummate humans possessed of great knowledge and learning.",
+      "reason": "Sets out the spiritual character and understanding required of teachers."
     }
   ],
   "omitted": [
@@ -12860,6 +12849,32 @@
       "id": "1a30c7b07e9ed830365b0511",
       "source": "BH04605",
       "reason": "Not retained in the limited selection: complementary coverage and substantive subject treatment are supplied by the explicitly chosen quotations; no verified authorized quotation omitted."
+    },
+    {
+      "n": 304,
+      "group": 302,
+      "id": "454c97cd2c4a7dca174d54f2",
+      "key": "source:AB00569",
+      "source": "AB00569",
+      "sourceVersion": "c8b5dda8feb0b544ab4c4939b180677da82515515d9b78571ec4603d9fb82d0b",
+      "status": "exact",
+      "reference": "AB00569",
+      "authorization": "",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        13
+      ],
+      "text": "At midnight, or at the early dawn, arise and commune and pray for help to the beauty of the Most Glorious",
+      "stage": 7,
+      "previousPosition": 901,
+      "reason": "A comprehensive teacher profile adds courtesy, knowledge, expression and association with rich and poor beyond a short prayer-time instruction.",
+      "authorityEvidence": {
+        "kind": "no_authorized_selected_paragraph",
+        "metadata": "",
+        "sourceVersion": "c8b5dda8feb0b544ab4c4939b180677da82515515d9b78571ec4603d9fb82d0b",
+        "paragraphs": []
+      }
     }
   ],
   "importedAuthorityReview": [
@@ -12989,5 +13004,16 @@
       "authorization": "Retained in the selected set, including any authorized wording. No new translation-authority assertion is made from an approximate source reference; exact authority and source limitations remain as recorded in the saved review.",
       "mandatoryAuthorized": false
     }
-  ]
+  ],
+  "integrationReview": {
+    "date": "2026-10-20",
+    "decision": "A comprehensive teacher profile adds courtesy, knowledge, expression and association with rich and poor beyond a short prayer-time instruction.",
+    "added": [
+      "bd19b7dba817a3955d1b8add"
+    ],
+    "replaced": [
+      "454c97cd2c4a7dca174d54f2"
+    ],
+    "finalizedBeforeRebuild": true
+  }
 }

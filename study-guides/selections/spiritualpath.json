@@ -3,9 +3,9 @@
   "createdAt": "2026-10-11T17:18:07.161Z",
   "status": "finalized_before_analysis",
   "subject": "DBB07A9A48FD421E8F6E02D219149549",
-  "dataset": "collections/390a77fa-5b4/",
-  "candidateFingerprint": "6316ee6bc74ea2c58f6a43541ab0649d72c4ce3e6b70943108ed7ec18b0fd3f7",
-  "candidateCount": 1132,
+  "dataset": "collections/editorial-83f59e6ea2d8/",
+  "candidateFingerprint": "84219e2edd6b3aeac88bc2df3acbffa6ae5daf93d7c192654632d3e015ef995e",
+  "candidateCount": 1133,
   "target": 300,
   "selectedCount": 300,
   "mandatoryAuthorizedCount": 129,
@@ -14075,6 +14075,11 @@
       "id": "df4994b3a25e978b692a61b2",
       "source": "BH11918",
       "reason": "Not retained in the limited selection: complementary coverage and substantive subject treatment are supplied by the explicitly chosen quotations; no verified authorized quotation omitted."
+    },
+    {
+      "id": "176da0dac8e5a6ffc6d8550c",
+      "source": "ABU0930",
+      "reason": "Keep the explicit purification counsel and memorable cloud image; the new broad list of principles does not clearly strengthen the chosen wayfaring sequence."
     }
   ],
   "importedAuthorityReview": [
@@ -14231,5 +14236,12 @@
       "authorization": "Retained in the selected set, including any authorized wording. No new translation-authority assertion is made from an approximate source reference; exact authority and source limitations remain as recorded in the saved review.",
       "mandatoryAuthorized": false
     }
-  ]
+  ],
+  "integrationReview": {
+    "date": "2026-10-20",
+    "decision": "Keep the explicit purification counsel and memorable cloud image; the new broad list of principles does not clearly strengthen the chosen wayfaring sequence.",
+    "added": [],
+    "replaced": [],
+    "finalizedBeforeRebuild": true
+  }
 }

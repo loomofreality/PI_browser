@@ -7,7 +7,7 @@
       "displayTitle": "Education of children: discovering the treasures within",
       "selection": {
         "review": "selections/moraleducation.json",
-        "sha256": "3b7de682dee66787de7513710e3cf120c014c02d3437c8ff09d9d87aa4cfc6d2",
+        "sha256": "beaf6c238cfb1873971fde66fbd01c7874f486208295befb1d09210306d495e4",
         "ids": [
           "9f22a8cb3cc94cbc5ece7de8",
           "a15bdfe407c2921101d62163",
@@ -27,7 +27,6 @@
           "49062a1d73dea6b38d05dec8",
           "1114b510e8a3a9a11423ee8a",
           "ec076e834c2a82e4107cb9cb",
-          "165876da9f2cebf6d22e7cc7",
           "46ff121e1e5e4fb89c12241d",
           "336545c9ad5cdab5e9f2f513",
           "eb2b5842912e04d98471070f",
@@ -308,7 +307,8 @@
           "afedee9075f7684ab5dc3dee",
           "93cc774e606ad72ffdb681ce",
           "dbf0f9d45c79cb931f50a76c",
-          "662e5b2afa8610b09e560e19"
+          "662e5b2afa8610b09e560e19",
+          "f4a40b24f18d30235406c9fd"
         ]
       },
       "introduction": "A child, Bahá’u’lláh teaches, is like a mine rich in gems whose worth no one can see until education brings it to light. The whole labour of raising children follows from that image: the educator does not pour something in but draws something out, and so must be patient with what is still undeveloped, generous with praise, quick to counsel and never to strike, teaching a kindness that reaches even to a hungry or weary animal. ‘Abdu’l‑Bahá widens the task across a whole life: the sciences and arts, a craft to live by, the love of beauty and music, and above all a character that makes a person useful to others, since a well-behaved child who knows little is worth more than a learned one who does harm. Jesus’ welcome to the little ones [1] and Mencius’s stripped mountain mistaken for barren ground [2] press the same question: what does a growing soul need, and what does repeated neglect destroy? The answer leads outward, to how human capacity unfolds, to the mother as first educator and the schooling of girls, and to the village school that leaves no child untaught.",
@@ -1130,6 +1130,10 @@
           "shortened": [
             "The fathers and especially the mothers must always think how best they should educate their children; not how to fondle and embrace them and thus spoil them. By every means at their disposal they must knead with their growing bodies, souls, minds and spirits the basic principles of sincerity, love, trustfulness, obedience, true democracy and kindness toward all the races, thus, hereafter the world civilization may flow in one mighty current and the children of the future generation may secure the foundation of human solidarity and good-will."
           ]
+        },
+        {
+          "key": "source:AB00965",
+          "why": "Calls for a planned program supporting mothers in children’s moral education."
         },
         {
           "key": "source:ABU0985",

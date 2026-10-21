@@ -3,9 +3,9 @@
   "createdAt": "2026-10-13T18:20:32.810Z",
   "status": "finalized_before_analysis",
   "subject": "4E323D7B85E34704B18BD5AB68F84E22",
-  "dataset": "collections/7acbc96b-60b/",
-  "candidateFingerprint": "3457fdbf3fa84437ebbd052dcefe4563c0fcec0d4b98eb1a42596ddd380dfa65",
-  "candidateCount": 3075,
+  "dataset": "collections/editorial-83f59e6ea2d8/",
+  "candidateFingerprint": "8fa9d3e1675b7dcbf293845d375d1630e5f7f9b9b333134e21523a9955febc01",
+  "candidateCount": 3076,
   "target": 300,
   "selectedCount": 300,
   "mandatoryAuthorizedCount": 112,
@@ -24341,6 +24341,11 @@
       "n": 3073,
       "source": "AB02301",
       "reason": "Surveyed before analysis; selected complementary passages state the subject’s central teachings, qualifications or practical applications more substantively or with less repetition. No verified authorized quotation omitted."
+    },
+    {
+      "id": "f7fbe07cdbba19139e882973",
+      "source": "ABU1248",
+      "reason": "Keep the distinct treatments of inimitability and the verses as divine possession; the new general unifying-power statement is not a clear improvement."
     }
   ],
   "importedAuthorityReview": [
@@ -24427,5 +24432,12 @@
       "reviewedAt": "2026-10-13T18:20:32.810Z",
       "contextRestored": false
     }
-  ]
+  ],
+  "integrationReview": {
+    "date": "2026-10-20",
+    "decision": "Keep the distinct treatments of inimitability and the verses as divine possession; the new general unifying-power statement is not a clear improvement.",
+    "added": [],
+    "replaced": [],
+    "finalizedBeforeRebuild": true
+  }
 }

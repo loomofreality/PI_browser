@@ -3,12 +3,12 @@
   "createdAt": "2026-10-13T21:55:09.191Z",
   "status": "finalized_before_analysis",
   "subject": "703AB631CB76E66408E7D6F7160F01F5",
-  "dataset": "collections/7acbc96b-60b/",
-  "candidateFingerprint": "8483f37a2ce414d5f6c602b5130652dcc4d1e69dec46f69a8041ae731e68bfe5",
-  "candidateCount": 605,
+  "dataset": "collections/editorial-83f59e6ea2d8/",
+  "candidateFingerprint": "2853989f88d916fe185edcf3ff9a5c4dbdca4c954bfcd35eb8a967ac486ff1a4",
+  "candidateCount": 606,
   "target": 300,
   "selectedCount": 300,
-  "mandatoryAuthorizedCount": 46,
+  "mandatoryAuthorizedCount": 47,
   "selectionBeforeAnalysis": true,
   "method": "Complete candidate survey followed by individual editorial choices and written reasons, applied to the existing complete guide to keep it within 300 quotations. All verified authorized selections included. Priority given to foundational teachings, substantive explanations, necessary qualifications, distinctive applications, narrative examples and thematic breadth across the divine educator and the transformation of hearts, the sun, mirror and tree with their limits, the unknowable Essence and its knowable signs, the material, human and divine stations with servitude, unity and distinction among successive missions, the Báb’s language of the first remembrance and praise, recognition, evidence and infallibility, promise and fulfillment, the Báb’s claims and the promised One, the challenge to inherited expectation, the Word, the Book and the living temple, the proclamations and their many images, exile, suffering and steadfastness, prayer as recognition, and the service and freedom from racial superiority that recognition asks of a life. Neither citation count nor source order used as a ranking rule. Imported wording checked separately; version differences remain explicit. The existing reading arc is retained.",
   "selected": [
@@ -4822,30 +4822,6 @@
       }
     },
     {
-      "n": 467,
-      "group": 8,
-      "id": "f08faab5e6a85dd08ec60bee",
-      "key": "source:BB00005",
-      "source": "BB00005",
-      "sourceVersion": "9b1b13a8e30c22d15375064f6c101c27b58ba354766c85e9c010b386d2e6cbea",
-      "status": "exact",
-      "reference": "BB00005",
-      "authorization": "N",
-      "authorizedParagraphs": [],
-      "mandatoryAuthorized": false,
-      "paragraphs": [
-        1400
-      ],
-      "text": "This is He the like of Whom the pole of heaven hath never seen, nor the face of earth His similitude, nor what lieth between them His equal. This is He Whom God shall manifest until the End that hath no end, even as He hath manifested Him from the Beginning that hath no beginning. This is He Who is manifest in the Thrones, this is He Who is hidden in the Scrolls.",
-      "reason": "The Báb on One the like of Whom the heavens have never seen, manifest from the Beginning without beginning to the End without end.",
-      "authorityEvidence": {
-        "kind": "no_authorized_selected_paragraph",
-        "metadata": "N",
-        "sourceVersion": "9b1b13a8e30c22d15375064f6c101c27b58ba354766c85e9c010b386d2e6cbea",
-        "paragraphs": []
-      }
-    },
-    {
       "n": 468,
       "group": 71,
       "id": "d0c80e7041cd5455e618824d",
@@ -7428,6 +7404,23 @@
           97
         ]
       }
+    },
+    {
+      "id": "61f83dfa5cec2717341d834e",
+      "key": "source:AB05731",
+      "source": "AB05731",
+      "sourceVersion": "2c67873cd4d4e77d93194ddcab5d5262bc98519990ec7215da1f216991cbc477",
+      "status": "confirmed",
+      "reference": "AB05731",
+      "authorizedParagraphs": [
+        2
+      ],
+      "mandatoryAuthorized": true,
+      "paragraphs": [
+        2
+      ],
+      "text": "The Holy Manifestations of God possess two stations: one is the physical station, and one the spiritual. In other words, one station is that of a human being, and one, of the Divine Reality. If the Manifestations are subjected to tests, it is in Their human station only, not in the splendor of Their Divine Reality.",
+      "reason": "Mandatory authorized wording. Distinguishes the human and divine stations of the Manifestations."
     }
   ],
   "omitted": [
@@ -9260,6 +9253,30 @@
       "n": 603,
       "source": "BB00004",
       "reason": "Surveyed before analysis; selected complementary passages state the subject’s central teachings, qualifications or practical applications more substantively or with less repetition. No verified authorized quotation omitted."
+    },
+    {
+      "n": 467,
+      "group": 8,
+      "id": "f08faab5e6a85dd08ec60bee",
+      "key": "source:BB00005",
+      "source": "BB00005",
+      "sourceVersion": "9b1b13a8e30c22d15375064f6c101c27b58ba354766c85e9c010b386d2e6cbea",
+      "status": "exact",
+      "reference": "BB00005",
+      "authorization": "N",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        1400
+      ],
+      "text": "This is He the like of Whom the pole of heaven hath never seen, nor the face of earth His similitude, nor what lieth between them His equal. This is He Whom God shall manifest until the End that hath no end, even as He hath manifested Him from the Beginning that hath no beginning. This is He Who is manifest in the Thrones, this is He Who is hidden in the Scrolls.",
+      "reason": "Include verified authorized wording; the distinction between human and divine stations is more foundational than another statement of incomparability.",
+      "authorityEvidence": {
+        "kind": "no_authorized_selected_paragraph",
+        "metadata": "N",
+        "sourceVersion": "9b1b13a8e30c22d15375064f6c101c27b58ba354766c85e9c010b386d2e6cbea",
+        "paragraphs": []
+      }
     }
   ],
   "importedAuthorityReview": [
@@ -9282,5 +9299,16 @@
       "reviewedAt": "2026-10-13T21:55:09.191Z",
       "contextRestored": false
     }
-  ]
+  ],
+  "integrationReview": {
+    "date": "2026-10-20",
+    "decision": "Include verified authorized wording; the distinction between human and divine stations is more foundational than another statement of incomparability.",
+    "added": [
+      "61f83dfa5cec2717341d834e"
+    ],
+    "replaced": [
+      "f08faab5e6a85dd08ec60bee"
+    ],
+    "finalizedBeforeRebuild": true
+  }
 }

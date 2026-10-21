@@ -3,9 +3,9 @@
   "createdAt": "2026-10-13T20:03:02.957Z",
   "status": "finalized_before_analysis",
   "subject": "48991B831FEB414988B143D181EB0DEF",
-  "dataset": "collections/7acbc96b-60b/",
-  "candidateFingerprint": "c6a4d6474b46efecc4e47b187ffd91fec027bf1b64795700ba1bf7b60505297f",
-  "candidateCount": 3500,
+  "dataset": "collections/editorial-83f59e6ea2d8/",
+  "candidateFingerprint": "1978dc406425fdffb423d6006a9a42885e33f0bb191b9e1737efeb55d53ba15d",
+  "candidateCount": 3501,
   "target": 300,
   "selectedCount": 300,
   "mandatoryAuthorizedCount": 141,
@@ -27032,6 +27032,11 @@
       "id": "8ffbc45fe80e984a6e5ca299",
       "n": 3497,
       "reason": "Imported extract that repeats, word for word, the closing of a longer extract from the same message, which is retained. No verified authorized quotation omitted."
+    },
+    {
+      "id": "f5254598443385581bae802c",
+      "source": "AB00883",
+      "reason": "Preserve discernment of a seeker and the concrete responsibility to guide one soul; the new general call to uninterrupted activity adds less."
     }
   ],
   "importedAuthorityReview": [
@@ -27216,5 +27221,12 @@
       "reviewedAt": "2026-10-13T20:03:02.957Z",
       "contextRestored": false
     }
-  ]
+  ],
+  "integrationReview": {
+    "date": "2026-10-20",
+    "decision": "Preserve discernment of a seeker and the concrete responsibility to guide one soul; the new general call to uninterrupted activity adds less.",
+    "added": [],
+    "replaced": [],
+    "finalizedBeforeRebuild": true
+  }
 }

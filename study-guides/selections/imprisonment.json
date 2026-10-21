@@ -3,9 +3,9 @@
   "createdAt": "2026-10-13T18:04:46.886Z",
   "status": "finalized_before_analysis",
   "subject": "370AC40D2874E1246B99EB8122E23C9A",
-  "dataset": "collections/7acbc96b-60b/",
-  "candidateFingerprint": "4a79e04a87876e2c723d2e752b1c8b2b74757a2f16e9ee0a658999a9ccf473ee",
-  "candidateCount": 2888,
+  "dataset": "collections/editorial-83f59e6ea2d8/",
+  "candidateFingerprint": "213ab44c60aefcdab93fb60f819fa4ca0940b4695d5a779ad8f8b1c1197f9659",
+  "candidateCount": 2889,
   "target": 300,
   "selectedCount": 300,
   "mandatoryAuthorizedCount": 177,
@@ -23518,6 +23518,11 @@
       "n": 2888,
       "source": "AB12834",
       "reason": "Surveyed before analysis; selected complementary passages state the subject’s central teachings, qualifications or practical applications more substantively or with less repetition. No verified authorized quotation omitted."
+    },
+    {
+      "id": "68e4bda8abb0a22d874c044d",
+      "source": "ABU0292",
+      "reason": "Keep freedom as an inner condition and the concrete history of confinement; the new travel recollection adds less than these distinct teachings."
     }
   ],
   "importedAuthorityReview": [
@@ -23586,5 +23591,12 @@
       "reviewedAt": "2026-10-13T18:04:46.886Z",
       "contextRestored": false
     }
-  ]
+  ],
+  "integrationReview": {
+    "date": "2026-10-20",
+    "decision": "Keep freedom as an inner condition and the concrete history of confinement; the new travel recollection adds less than these distinct teachings.",
+    "added": [],
+    "replaced": [],
+    "finalizedBeforeRebuild": true
+  }
 }

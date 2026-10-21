@@ -7,7 +7,7 @@
       "displayTitle": "One light, many histories: exploring the unity of religion",
       "selection": {
         "review": "selections/onenessreligion.json",
-        "sha256": "7fc859100cb616133e60c5b27edbcd0bbaacafbe1ab8459885df5ddcc06bc4c7",
+        "sha256": "4573d000d8257a1c1d10f355520759bc0c136827d2de4b030de17398f4954fe2",
         "ids": [
           "20f3912d105e77a9f3b3429c",
           "ff251985f15b1016fb38ae26",
@@ -34,7 +34,6 @@
           "76ddf43af91fedb36cf95a65",
           "ebd8f8510c0d370d4ca0d65c",
           "4e3101c9dd094cfbfd3b6c5e",
-          "f5e57c8ffca1182bee1044f1",
           "fd6adb1683b58c9b442b9f2e",
           "cc93c8d069ef850a4a30893a",
           "224a5282f1144d5018c9e1f4",
@@ -308,7 +307,8 @@
           "3dcb58fabfe7c52ed714a857",
           "c602ae106042734113924c1c",
           "fc610a5bf88ebb73f278eff0",
-          "48ab5842b3ef81c4c6fd4c79"
+          "48ab5842b3ef81c4c6fd4c79",
+          "4c80fe18b24c572be87d0d99"
         ]
       },
       "introduction": "Bahá’u’lláh teaches that the religions of the world have proceeded from one Source and are rays of one Light, differing only because the ages that received them had different needs. To hold that conviction honestly is to take difference seriously rather than wish it away: the spring of this year is the same as last year’s, yet the garden it wakens is older and larger. ‘Abdu’l-Bahá turns the teaching into a test. A religion that breeds estrangement has failed its own purpose, since it was given as a remedy for the sake of fellowship, and he points to Muslims and Jews attending one another’s gatherings in Hamadan as the kind of evidence that counts. The Qur’an’s refusal to make distinctions among the prophets, and Peter’s discovery that God accepts the devout of every nation, show that such recognition has roots in older scripture. From here the path runs into progressive revelation, into the question of which parts of religion change and which endure, and into the distinct station each Manifestation holds within a single unfolding purpose.",
@@ -880,6 +880,10 @@
           "shortened": [
             "\"There are prepared souls in every religion. Today God is working in all the religions, instructing a number of souls in the school of Celestial brotherhood. These souls are related together by the invisible tie of the Spirit."
           ]
+        },
+        {
+          "key": "source:ABU0212",
+          "why": "Identifies a common foundation beneath religious dogmas and divisions."
         },
         {
           "key": "source:ABU1046",
@@ -1828,7 +1832,7 @@
       "displayTitle": "Learning across the ages: exploring progressive revelation",
       "selection": {
         "review": "selections/progressiverevelation.json",
-        "sha256": "95ea33937521e5071859d3461cc63a1ef8ca51233ef34f808ab7f67423825906",
+        "sha256": "3a55b1869022e90ebd71ce1fecf9d8dd0614ff4fbb2bcdbe2934903b0afb9cd9",
         "ids": [
           "8f85683758191cc737a0ffc2",
           "db6285451f228b0d0a61bb4f",
@@ -1890,7 +1894,6 @@
           "ca04ff2e07cd2140c1165ec7",
           "5bdcf1aae713ad89733d5bdb",
           "bceb42be1dd77e8449f59d37",
-          "652ea7ae2a19a3f3ec004f41",
           "e187396f8a97d7fbb0df0b4d",
           "516a4e0eee5b360da74f9865",
           "10b306dbc2b95c2e76889f4f",
@@ -2129,7 +2132,8 @@
           "d05e35e36b66750f635eac07",
           "13609e48f39ad7af7b548571",
           "266ca406abd4c712220a734b",
-          "50393ebced08ec101a5f7202"
+          "50393ebced08ec101a5f7202",
+          "51f1242869cdc0ee0deffb82"
         ]
       },
       "introduction": "Bahá’u’lláh teaches that every word God speaks is measured to the capacity of those who hear it, as a father makes gurgling sounds for an infant though his wisdom could measure the universe. Religion, seen this way, is a living thing: it is sown, grows into a fruitful tree, ages, and must be sown again, and each spring is the return of the spring before it without repeating last year’s blossoms. The same light shines from many mirrors, and the hard question is whether a heart loves the sun or only the mirror in which it first saw it. Jesus told his disciples there was much he could not yet say to them [1], and answered a question about fasting with new cloth and new wine [2]; both point to a disclosure that unfolds as people become able to bear it. A seeker who takes this seriously soon wants to know which parts of religion change and which endure, what a spiritual springtime does to a decayed age, whether the truth of past scriptures survives their renewal, and what it means that no revelation is ever the last.",
@@ -2971,6 +2975,10 @@
           ]
         },
         {
+          "key": "source:ABU0018",
+          "why": "Distinguishes the unchanging moral foundation from laws renewed according to each age."
+        },
+        {
           "key": "source:BH00049",
           "why": "Consider innumerable luminaries of knowledge."
         },
@@ -3623,7 +3631,7 @@
       "displayTitle": "Receiving and reflecting light: the Manifestation as sun",
       "selection": {
         "review": "selections/manifestationsun.json",
-        "sha256": "5321c8f4b29343817312bdd70b86f3f36b33f41440eabc6a8ac3476d46f3adfa",
+        "sha256": "2bd7695e8a84049cad4edc633e4d9a0eafa822e1b104fc0467afb4e129d138bd",
         "ids": [
           "f05e2af1632baa4b04d40493",
           "ad90495d4458c0b0bd5101e6",
@@ -3659,7 +3667,6 @@
           "a491ba7d0ed8031624b17b59",
           "7fa07c9f3afe6d2dd9df5d78",
           "9ccfad30fa4682cbb7707ce8",
-          "deb4c502889a3a1171c3b236",
           "5d199524aad81d214afa99b2",
           "b0341a4c8db0776b82108d95",
           "c6e2c42095f1d0d6921eca39",
@@ -3924,7 +3931,8 @@
           "72e0ab935ac2e6fa1776f401",
           "97a25328ce9332009fedd624",
           "fd22b98882cfad1d2b67bd75",
-          "11aa11ac3d36a4769600ae9e"
+          "11aa11ac3d36a4769600ae9e",
+          "5bbe70e4d983f99e89291dff"
         ]
       },
       "introduction": "On a bright morning the sun gives light and warmth to everything beneath it without asking what it is. ‘Abdu’l-Bahá begins there, with the plain experience of a sunny day, and lets it open onto the Sun of Truth whose rays educate souls as sunlight draws out seeds. The light is the light, whichever lamp it shines from, and the sun of today may truly call itself the sun of yesterday; so the Messengers of God are one radiance from different horizons, and the trouble begins when love for a particular lamp makes a new dawn invisible. The same light shows differently in a polished mirror and a dull stone, which turns attention to the heart that receives it and to the clouds of prejudice and desire that veil it. The sun does not set when it seems to; the earth turns. The Qur’an’s niche and lamp and Jesus’ word that he is the light of the world say this in neighbouring ways. From here educator, physician and gardener describe what the light does, the mirror asks how it is received, and the question comes home: whether one has become a lighted taper or merely bears a name.",
@@ -5219,11 +5227,8 @@
           "why": "Preserve the prayer’s invocation of love, holiness and illumination."
         },
         {
-          "key": "source:BH09381",
-          "why": "Read the prayer to turn servants toward the Countenance.",
-          "shortened": [
-            "I beseech Thee by Thy light which hath shone forth upon the world, and by the fire of Thy Lote-Tree whereby the hearts of the nations have been set ablaze, and by the lights of Thy Manifestation and the Call raised upon Thy Mount, to aid Thy servants to turn toward the lights of Thy countenance."
-          ]
+          "key": "source:AB00952",
+          "why": "Explains one divine Sun appearing through different mirrors without descending into them."
         },
         {
           "key": "source:AB06666",

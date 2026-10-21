@@ -3,9 +3,9 @@
   "createdAt": "2026-10-13T21:39:51.951Z",
   "status": "finalized_before_analysis",
   "subject": "A868B8CCFDF44B2890211A0FAFE9F2B9",
-  "dataset": "collections/7acbc96b-60b/",
-  "candidateFingerprint": "f208c478839df59f9d2e37877dffc94a32680698fd6e2a0a87430e809e91a77a",
-  "candidateCount": 310,
+  "dataset": "collections/editorial-83f59e6ea2d8/",
+  "candidateFingerprint": "b32f5a60342f56a273543ec349161679b8299fc35ba28312b18f58e7861cfd82",
+  "candidateCount": 311,
   "target": 300,
   "selectedCount": 300,
   "mandatoryAuthorizedCount": 83,
@@ -1477,30 +1477,6 @@
         "kind": "no_authorized_selected_paragraph",
         "metadata": "",
         "sourceVersion": "d822da53a9a8290a5221165c5d82b53c183c53bfa3b4baa7d47520eaf66538e2",
-        "paragraphs": []
-      }
-    },
-    {
-      "n": 65,
-      "group": 8,
-      "id": "652ea7ae2a19a3f3ec004f41",
-      "key": "source:BB00005",
-      "source": "BB00005",
-      "sourceVersion": "9b1b13a8e30c22d15375064f6c101c27b58ba354766c85e9c010b386d2e6cbea",
-      "status": "exact",
-      "reference": "BB00005",
-      "authorization": "N",
-      "authorizedParagraphs": [],
-      "mandatoryAuthorized": false,
-      "paragraphs": [
-        1130
-      ],
-      "text": "Though there can be no doubt that each Dispensation progresseth and the evidences of light, if not ascending, will not descend - except when the Sun of Truth appeareth in its fullness, at which time the essences of light remain veiled in veils of light and come not into being.",
-      "reason": "The Báb’s statement that each Dispensation progresses and the evidences of light do not descend; states progress across dispensations.",
-      "authorityEvidence": {
-        "kind": "no_authorized_selected_paragraph",
-        "metadata": "N",
-        "sourceVersion": "9b1b13a8e30c22d15375064f6c101c27b58ba354766c85e9c010b386d2e6cbea",
         "paragraphs": []
       }
     },
@@ -7673,6 +7649,21 @@
           12
         ]
       }
+    },
+    {
+      "id": "51f1242869cdc0ee0deffb82",
+      "key": "source:ABU0018",
+      "source": "ABU0018",
+      "sourceVersion": "d7c6fe89da90474c8c96bb8ce6c238db4ad2c43901844729550445af971da4c3",
+      "status": "confirmed",
+      "reference": "ABU0018",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        14
+      ],
+      "text": "He replied: The foundation of the divine religions is one. The same foundation that Christ laid, which had been forgotten, Baha'u'llah renewed, for the foundation of divine religions is one. That is, every religion is divided into two parts: one part is fundamental and concerns morals, realities, meanings, and the knowledge of God - and that is one, never changing, for it is reality and reality does not change or alter. The other part is subsidiary and concerns transactions and dealings - this changes in every age according to the requirements of the time.",
+      "reason": "Distinguishes the unchanging moral foundation from laws renewed according to each age."
     }
   ],
   "omitted": [
@@ -7731,6 +7722,30 @@
       "id": "fd74129ed034d93c9994cc65",
       "n": 302,
       "reason": "Unverified pilgrim-note report on Manifestations before the Ice Age; selected passages #291, #294, #299 and #303 carry the teaching on Manifestations in unrecorded ages. No verified authorized quotation omitted."
+    },
+    {
+      "n": 65,
+      "group": 8,
+      "id": "652ea7ae2a19a3f3ec004f41",
+      "key": "source:BB00005",
+      "source": "BB00005",
+      "sourceVersion": "9b1b13a8e30c22d15375064f6c101c27b58ba354766c85e9c010b386d2e6cbea",
+      "status": "exact",
+      "reference": "BB00005",
+      "authorization": "N",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        1130
+      ],
+      "text": "Though there can be no doubt that each Dispensation progresseth and the evidences of light, if not ascending, will not descend - except when the Sun of Truth appeareth in its fullness, at which time the essences of light remain veiled in veils of light and come not into being.",
+      "reason": "The distinction between enduring spiritual principles and changing social laws is more useful than a second terse statement of dispensational progress.",
+      "authorityEvidence": {
+        "kind": "no_authorized_selected_paragraph",
+        "metadata": "N",
+        "sourceVersion": "9b1b13a8e30c22d15375064f6c101c27b58ba354766c85e9c010b386d2e6cbea",
+        "paragraphs": []
+      }
     }
   ],
   "importedAuthorityReview": [
@@ -7977,5 +7992,16 @@
       "reviewedAt": "2026-10-13T21:39:51.951Z",
       "contextRestored": false
     }
-  ]
+  ],
+  "integrationReview": {
+    "date": "2026-10-20",
+    "decision": "The distinction between enduring spiritual principles and changing social laws is more useful than a second terse statement of dispensational progress.",
+    "added": [
+      "51f1242869cdc0ee0deffb82"
+    ],
+    "replaced": [
+      "652ea7ae2a19a3f3ec004f41"
+    ],
+    "finalizedBeforeRebuild": true
+  }
 }

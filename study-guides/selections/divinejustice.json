@@ -3,9 +3,9 @@
   "createdAt": "2026-10-13T21:38:19.165Z",
   "status": "finalized_before_analysis",
   "subject": "9170438CF5C0E2D84968B1DE41C36F0F",
-  "dataset": "collections/7acbc96b-60b/",
-  "candidateFingerprint": "69df72f39deeaa679d79ef4a004bc2ba798f7f10f1c8aaf1f418194e16e05e63",
-  "candidateCount": 348,
+  "dataset": "collections/editorial-83f59e6ea2d8/",
+  "candidateFingerprint": "40deebd8c94c59e0c8e560b11ec3aae7a8da3a88dee31f329b6d8cf29733d221",
+  "candidateCount": 349,
   "target": 300,
   "selectedCount": 300,
   "mandatoryAuthorizedCount": 23,
@@ -1886,30 +1886,6 @@
         "kind": "no_authorized_selected_paragraph",
         "metadata": "",
         "sourceVersion": "d706a9adba9278dddcff924c48e031c4c5d2ffa59083c877aeb0fd668fe64306",
-        "paragraphs": []
-      }
-    },
-    {
-      "n": 115,
-      "group": 7,
-      "id": "337454bd41c832bcccb6b2d4",
-      "key": "source:BB00002",
-      "source": "BB00002",
-      "sourceVersion": "1903959e9481acc14ae2d5660dc5d0bc0a4e63782224754f5523b3f2b295f9f3",
-      "status": "exact",
-      "reference": "BB00002",
-      "authorization": "Y343,1284,1309,1603,2340",
-      "authorizedParagraphs": [],
-      "mandatoryAuthorized": false,
-      "paragraphs": [
-        402
-      ],
-      "text": "God shall take vengeance upon them during Our return, and in the world to come He hath prepared for them a grievous chastisement in truth.",
-      "reason": "The Báb’s Commentary on the Surah of Joseph warning of vengeance at the return and chastisement in the world to come; representative warning.",
-      "authorityEvidence": {
-        "kind": "no_authorized_selected_paragraph",
-        "metadata": "Y343,1284,1309,1603,2340",
-        "sourceVersion": "1903959e9481acc14ae2d5660dc5d0bc0a4e63782224754f5523b3f2b295f9f3",
         "paragraphs": []
       }
     },
@@ -7329,6 +7305,21 @@
         "sourceVersion": "aa2dfb75ac327c1cc68252fec7af70d3c9066cc5129005444f13305f42f7c7b9",
         "paragraphs": []
       }
+    },
+    {
+      "id": "bc6a03a988c897a734b9372d",
+      "key": "source:BH00199",
+      "source": "BH00199",
+      "sourceVersion": "12fbfaa7728f507439159b1d5338d95b6bba1715558d9504bf65d75dfc882dc0",
+      "status": "confirmed",
+      "reference": "BH00199",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        8
+      ],
+      "text": "As to your question about God's favors and wrath toward His servants - we seek refuge in God from His wrath and anger - this is very clear and evident. \"Turn not unto those with whom God is wroth.\" The signs of divine wrath are visible in those people who act contrary to His good-pleasure and wander in the wilderness of error. And God's good-pleasure is not imaginary - one who acts in accordance with what the All-Merciful has ordained in the Tablets has attained His good-pleasure and walks the path of His contentment. Blessed is he and those like him. Such heedless, deluded souls are tormented in all divine worlds, and these souls have chosen wrath for themselves unknowingly. Otherwise, His mercy has preceded all things.",
+      "reason": "Explains divine wrath in relation to conduct and mercy."
     }
   ],
   "omitted": [
@@ -7619,7 +7610,42 @@
       "n": 307,
       "source": "BB00002",
       "reason": "Surveyed before analysis; selected complementary passages state the subject’s central teachings, qualifications or practical applications more substantively or with less repetition. No verified authorized quotation omitted."
+    },
+    {
+      "n": 115,
+      "group": 7,
+      "id": "337454bd41c832bcccb6b2d4",
+      "key": "source:BB00002",
+      "source": "BB00002",
+      "sourceVersion": "1903959e9481acc14ae2d5660dc5d0bc0a4e63782224754f5523b3f2b295f9f3",
+      "status": "exact",
+      "reference": "BB00002",
+      "authorization": "Y343,1284,1309,1603,2340",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        402
+      ],
+      "text": "God shall take vengeance upon them during Our return, and in the world to come He hath prepared for them a grievous chastisement in truth.",
+      "reason": "The explanation of self-chosen wrath and preceding mercy adds a qualification absent from the short warning of vengeance.",
+      "authorityEvidence": {
+        "kind": "no_authorized_selected_paragraph",
+        "metadata": "Y343,1284,1309,1603,2340",
+        "sourceVersion": "1903959e9481acc14ae2d5660dc5d0bc0a4e63782224754f5523b3f2b295f9f3",
+        "paragraphs": []
+      }
     }
   ],
-  "importedAuthorityReview": []
+  "importedAuthorityReview": [],
+  "integrationReview": {
+    "date": "2026-10-20",
+    "decision": "The explanation of self-chosen wrath and preceding mercy adds a qualification absent from the short warning of vengeance.",
+    "added": [
+      "bc6a03a988c897a734b9372d"
+    ],
+    "replaced": [
+      "337454bd41c832bcccb6b2d4"
+    ],
+    "finalizedBeforeRebuild": true
+  }
 }

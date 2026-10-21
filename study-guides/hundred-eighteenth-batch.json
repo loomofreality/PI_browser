@@ -7,7 +7,7 @@
       "displayTitle": "Permission for pilgrimage: longing, wisdom and care",
       "selection": {
         "review": "selections/permissionvisit.json",
-        "sha256": "0687b85e5d2709acd119ced9631ce2742de8ef5fbb2f84bde23cbb6e01f04416",
+        "sha256": "d8636bf5727737eb9d6f07d5689c2bed4ac13c24a739946dc6e7bc4028948441",
         "ids": [
           "0345627e491556e742948093",
           "04ec23767680ddbd16ed11e5",
@@ -201,7 +201,6 @@
           "2a469e8ef46a5e5ae5557362",
           "3e9520660c01f29d9ec93dda",
           "04b50bf099c26104530fe297",
-          "30fa610c0f8d1e076eab8462",
           "bd01619fc8a7810d4df57a18",
           "30c1e168a7d9d13b83ef5355",
           "acffbbba5602b24cdce5274a",
@@ -308,7 +307,8 @@
           "4ac27885aba2bb9b62fbd74e",
           "11058db9c369cd8932e10ac1",
           "5dbf56757635c5ccdce1a83c",
-          "538a81c3e262765661ff1316"
+          "538a81c3e262765661ff1316",
+          "f35c821664b794eb3925dbab"
         ]
       },
       "introduction": "Someone writes to ask whether they may come, and the answer that returns is at once a yes, a not yet, and a confession that the longing runs both ways. ‘Abdu’l-Bahá tells one friend that service to the Sacred Threshold is itself pilgrimage; Bahá’u’lláh tells another that a journey cut short by danger has been accepted as if completed. Illness, bad roads, summer heat, a family that needs its breadwinner, debts to be settled, a quarrel to be mended before setting out: these ordinary facts are treated as part of the readiness a sacred encounter asks for, much as the Qur’án joins the pilgrimage to questions of health, means and conduct [2]. The psalmist’s cry for the courts of God, where even the sparrow finds a home [1], sounds through every letter of yearning. From here the way leads toward the holy places themselves, toward the law that governs pilgrimage, toward the prayers offered for those who travel, and toward the wisdom that knows when to wait and when to go, carrying the visit home in a life.",
@@ -1441,8 +1441,8 @@
           ]
         },
         {
-          "key": "source:BH11612",
-          "why": "Read the more concise permissions as individual acts of welcome, following the fuller exchanges that have established their human and historical setting."
+          "key": "source:AB00041",
+          "why": "Explains permission to visit in relation to means and changing circumstances."
         },
         {
           "key": "source:BH11632",

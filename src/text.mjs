@@ -1,4 +1,5 @@
 import {alignmentSlots} from './paragraph-alignment.mjs';
+import {correctDisplayText} from './display-spelling.mjs';
 
 export const escapeHtml = value => String(value).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 
@@ -55,7 +56,7 @@ function groupAt(text, start) {
 export function renderInline(text, context={language:'en',notes:[]}, depth=0) {
   if(depth>30)return {html:escapeHtml(text),plain:text};
   let html='',plain='';
-  const add=s=>{html+=escapeHtml(s);plain+=s;};
+  const add=s=>{html+=escapeHtml(correctDisplayText(s));plain+=s;};
   for(let i=0;i<text.length;){
     if(text[i]!=='\\'){let end=text.indexOf('\\',i);if(end<0)end=text.length;add(text.slice(i,end));i=end;continue;}
     const match=/^\\([a-zA-Z]+|.)/.exec(text.slice(i));

@@ -7,7 +7,7 @@
       "displayTitle": "The voice of Divinity: revelation, servitude and response",
       "selection": {
         "review": "selections/voiceofdivinity.json",
-        "sha256": "0ad11c03e731fbff652b0f3cb839e4368d5c86e6c085a0c64752b3f48b7b3b5d",
+        "sha256": "beb0bfba5e006ed78e9ae8a5ed873de92813725bb9ea00f150e54f5eeb6d7907",
         "ids": [
           "c235402863b7fd4776b88518",
           "cf2dca891ca5683d6c33004b",
@@ -48,7 +48,6 @@
           "12e61addccdaad51674d597c",
           "a7db34036ee10a29ddb28c46",
           "cfb80f743aa62aec054ecc5e",
-          "46512adfd605fe578a12cd51",
           "2130693731d28493d274537a",
           "9f871d7ecee9d56356c539e0",
           "2191eac65e4e03396073407d",
@@ -308,7 +307,8 @@
           "8cb7bf79756a83c8b7f9bf5e",
           "eeb270ddef6839ca842b385a",
           "0ae8a6aa1976c7179e7cbcd5",
-          "c3348ae4a958dec258aa27a1"
+          "c3348ae4a958dec258aa27a1",
+          "210288100e6867fd0c17551b"
         ]
       },
       "introduction": "A man in prison says that the words leaving his lips are not his own, that a Spirit speaks within his breast, and in the same breath calls himself a servant of God. Bahá’u’lláh asks us to hold both together, then presses the question further: who was it that spoke on Sinai, the Tree or the One within the Tree, and why should that voice be welcomed in one age and refused in another? Moses hearing his name from a burning bush [1] and Jesus telling Philip that to see him is to see the Father [2] stand close by as kindred encounters. The Temple with its tongue and limbs, the Pen awaiting a command, the Book that calls its readers to life, each is a way of thinking about how the unseen reaches the seen. To listen well, one has to learn how the Manifestation stands in relation to God, how the Holy Spirit moves through a human frame, and what the stations of that one voice allow it to say. Hearing is answered in a life: in trustworthiness, friendship, wisdom and service.",
@@ -328,6 +328,10 @@
             "This is a Book that speaketh the truth, that there is none other God but Him, the Almighty, the Self-Subsisting.",
             "And as I was beholding the direction of His Cause, there was revealed in this Manifestation that which hath caused every witness and the witnessed to tremble."
           ]
+        },
+        {
+          "key": "source:BB00116",
+          "why": "An example of the divine voice in the Bab’s revelation."
         },
         {
           "key": "source:BH00627",

@@ -7,7 +7,7 @@
       "displayTitle": "Living in the world with a free heart",
       "selection": {
         "review": "selections/worldliness.json",
-        "sha256": "287a2c6fb954de1731ebfdd8611179c441a546df5a65d16ddafd520677bde043",
+        "sha256": "1fec830a2766476ed47933728a453e55f876f9c9695233fcaa57e3bbb26d2eb5",
         "ids": [
           "ea803b1e30f996486669197b",
           "1077643334f56aaad3366fbe",
@@ -34,7 +34,6 @@
           "d4eb6a1bcb023991bd2e127d",
           "3fa550ee97bb4fbd9ddf0ab1",
           "552b4c44708c8919841b22be",
-          "96d6fa1d393ac6679cb22e02",
           "d654245048c263547b25cded",
           "5c67110ae9c3b511b3c570b6",
           "15b1f89964cc7fd08777fdfc",
@@ -308,7 +307,8 @@
           "5fecd149579677950c1d5755",
           "fab79b2f2c7b6ab322600083",
           "fb29d038556ce8606afcb8fc",
-          "551fb682d6272dedeca6245b"
+          "551fb682d6272dedeca6245b",
+          "b9a81a548290a76a89c37602"
         ]
       },
       "introduction": "A heart entirely free, yet busy with rent, work and the needs of others: ‘Abdu’l-Bahá likens the task to going through water without getting wet, and admits it is the subtlest of psychological questions. Bahá’u’lláh settles what is at stake by defining the world not as fields, rivers, trade or the ties of family, but as whatever turns a person aside from God, and He warns that an admirable deed or an inherited creed can serve as that veil just as well as gold. The inquiry then becomes personal: where does my attention rest, and what would I grieve to lose? Fattened cows and nesting birds, mirages and shifting sand, palaces emptied into tombs, all unsettle the usual measures of success and ask whether wealth or power ever made anyone free. Detachment of this kind is not withdrawal; it shows itself as kindness, honest labour and moderation inside ordinary responsibilities. From here the road leads on to the inner meaning of detachment, to the restless hunger of greed, and to the difference between a material and a spiritual civilization.",
@@ -526,11 +526,8 @@
           ]
         },
         {
-          "key": "source:AB08786",
-          "why": "Read purification of the mirror as a prayer.",
-          "shortened": [
-            "I prayed at the Court of Holiness to deliver thee from the darkness of the attachment to this world, enlighten thee by the Divine Illumination and purify the mirror of thy heart, so that the Rays of the Sun of Truth may shine therein."
-          ]
+          "key": "source:AB02513",
+          "why": "Describes the soul between spiritual refinement and worldly concerns."
         },
         {
           "key": "source:BH06213",

@@ -3,9 +3,9 @@
   "createdAt": "2026-10-13T21:44:00.241Z",
   "status": "finalized_before_analysis",
   "subject": "A73492EB36754162BEE9588EF11F2FD9",
-  "dataset": "collections/7acbc96b-60b/",
-  "candidateFingerprint": "65d7c64f98f60ed836c59213e0924a4a125bc54e4f3c061b71134f509865b446",
-  "candidateCount": 405,
+  "dataset": "collections/editorial-83f59e6ea2d8/",
+  "candidateFingerprint": "434068186d91ce2afa2fdbf00904ecf82cf47aa3ceef3ebd64aa1729f5ed3416",
+  "candidateCount": 406,
   "target": 300,
   "selectedCount": 300,
   "mandatoryAuthorizedCount": 69,
@@ -2233,30 +2233,6 @@
         "kind": "no_authorized_selected_paragraph",
         "metadata": "",
         "sourceVersion": "2750d3f93b6a479bc41a29534d92884f11e20b0e9578d564976de4a7e3bc4136",
-        "paragraphs": []
-      }
-    },
-    {
-      "n": 159,
-      "group": 6,
-      "id": "fb490e42f04635d770bfa714",
-      "key": "source:BB00001",
-      "source": "BB00001",
-      "sourceVersion": "bd7fc5791f9c76a687146adbfb7b37253c621bdf4b19f56a2f8a706059a70098",
-      "status": "exact",
-      "reference": "BB00001",
-      "authorization": "Y1-6,102-103,106-108,119-121,130-131,133,137,192,195-197,201-202,234,236,353-354,400,427,510-511,513,521,523,527,529-531,568,830-831,870,1215,1217-1219,1321,1368-1371,1463-1464,1597,1648-1649",
-      "authorizedParagraphs": [],
-      "mandatoryAuthorized": false,
-      "paragraphs": [
-        95
-      ],
-      "text": "Whoso ponderth upon it, he would assuredly witness that the spirits of truth are generated within the inmost realities of the souls and the universe, by the Revelation of the Primal Point through the divine verses.",
-      "reason": "The Báb in the Persian Bayan stating that the spirits of truth are generated in souls and the universe by the Revelation of the Primal Point; links revelation to inner creation.",
-      "authorityEvidence": {
-        "kind": "no_authorized_selected_paragraph",
-        "metadata": "Y1-6,102-103,106-108,119-121,130-131,133,137,192,195-197,201-202,234,236,353-354,400,427,510-511,513,521,523,527,529-531,568,830-831,870,1215,1217-1219,1321,1368-1371,1463-1464,1597,1648-1649",
-        "sourceVersion": "bd7fc5791f9c76a687146adbfb7b37253c621bdf4b19f56a2f8a706059a70098",
         "paragraphs": []
       }
     },
@@ -7526,6 +7502,21 @@
         "reviewedAt": "2026-10-13T21:44:00.241Z",
         "contextRestored": false
       }
+    },
+    {
+      "id": "40174413b74c1123617a9ea1",
+      "key": "source:AB05728",
+      "source": "AB05728",
+      "sourceVersion": "855374b11dd4b8c7cba921c0438d636f074c8d7351674248a5271223944bcad1",
+      "status": "confirmed",
+      "reference": "AB05728",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        2
+      ],
+      "text": "The mighty sun is the source of all physical light and the growth and development of all things depend upon its munificent heat, its radiant emanations. Likewise, spiritual bounty too requires a mighty source, an ancient and eternal origin. That sacred reality, the Sun of Truth, that divine Daystar of the world is the Cause of God itself. All true development in the spiritual kingdom depends upon the transcendent emanations of His Word. Know, verily, that even the smallest atom in that realm circles around the Cause of God and seeks its light of mystery from His Word. Without His effulgent appearance, the horizons cannot be illumined; without the aid of the munificent heat of His Word spiritual beings cannot grow or develop.",
+      "reason": "Uses the sun’s radiance to explain spiritual growth through divine emanation."
     }
   ],
   "omitted": [
@@ -8150,6 +8141,30 @@
       "id": "799066033e67b38dc56ec8c0",
       "n": 404,
       "reason": "Imported Burckhardt rendering of the teaching that Nature is the Breath of Mercy; #405 gives the same passage more fully. No verified authorized quotation omitted."
+    },
+    {
+      "n": 159,
+      "group": 6,
+      "id": "fb490e42f04635d770bfa714",
+      "key": "source:BB00001",
+      "source": "BB00001",
+      "sourceVersion": "bd7fc5791f9c76a687146adbfb7b37253c621bdf4b19f56a2f8a706059a70098",
+      "status": "exact",
+      "reference": "BB00001",
+      "authorization": "Y1-6,102-103,106-108,119-121,130-131,133,137,192,195-197,201-202,234,236,353-354,400,427,510-511,513,521,523,527,529-531,568,830-831,870,1215,1217-1219,1321,1368-1371,1463-1464,1597,1648-1649",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        95
+      ],
+      "text": "Whoso ponderth upon it, he would assuredly witness that the spirits of truth are generated within the inmost realities of the souls and the universe, by the Revelation of the Primal Point through the divine verses.",
+      "reason": "The developed sun analogy explains the source and conditions of spiritual growth more fully than the short statement about inner generation.",
+      "authorityEvidence": {
+        "kind": "no_authorized_selected_paragraph",
+        "metadata": "Y1-6,102-103,106-108,119-121,130-131,133,137,192,195-197,201-202,234,236,353-354,400,427,510-511,513,521,523,527,529-531,568,830-831,870,1215,1217-1219,1321,1368-1371,1463-1464,1597,1648-1649",
+        "sourceVersion": "bd7fc5791f9c76a687146adbfb7b37253c621bdf4b19f56a2f8a706059a70098",
+        "paragraphs": []
+      }
     }
   ],
   "importedAuthorityReview": [
@@ -8261,5 +8276,16 @@
       "reviewedAt": "2026-10-13T21:44:00.241Z",
       "contextRestored": false
     }
-  ]
+  ],
+  "integrationReview": {
+    "date": "2026-10-20",
+    "decision": "The developed sun analogy explains the source and conditions of spiritual growth more fully than the short statement about inner generation.",
+    "added": [
+      "40174413b74c1123617a9ea1"
+    ],
+    "replaced": [
+      "fb490e42f04635d770bfa714"
+    ],
+    "finalizedBeforeRebuild": true
+  }
 }

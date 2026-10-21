@@ -61,7 +61,7 @@ export async function buildSubjects(root,out,dataset){
 // Derive the shared passage registry and graph from the final, reviewable mappings.
 // Keeping this separate also permits validation/correction of imported mappings
 // without repeating corpus-wide candidate retrieval.
-export async function writeSubjectOutputs({root,out,dataset,subjects,bySubject,report,edits,hierarchyHtml,limit=subjects.length}){
+export async function writeSubjectOutputs({root,out,dataset,subjects,bySubject,report,edits,hierarchyHtml,limit=subjects.length,summaryLoader}){
   const base=path.join(out,dataset,'subjects');await fs.mkdir(base,{recursive:true});await fs.mkdir(path.join(base,'passages'),{recursive:true});
   const catalog=JSON.parse(gunzipSync(await fs.readFile(path.join(out,dataset,'catalog.json.gz'))));const metadata=new Map(catalog.map(r=>[r.id,r]));
   const passages=new Map(),verifiedSubjects=new Map();report.publicSelections=0;report.duplicateRanges=0;report.overlappingRanges=0;report.selections=0;
@@ -92,7 +92,7 @@ export async function writeSubjectOutputs({root,out,dataset,subjects,bySubject,r
   for(const edit of edits.relationships){if(!sets.has(edit.source)||!sets.has(edit.target)||edit.source===edit.target||!['broader','narrower','related'].includes(edit.type)||!['accepted','rejected'].includes(edit.status))throw Error('Invalid relationship edit');for(let i=edges.length-1;i>=0;i--)if(relationKey(edges[i])===relationKey(edit))edges.splice(i,1);edges.push({...edit,provenance:edit.note||'Editorial decision'});}
   for(const data of bySubject.values()){
     const sourceIds=new Set(data.selections.flatMap(s=>[...s.candidates.map(c=>c.source),...s.suppliedIds]));
-    data.summary=parseSubjectSummary(await fs.readFile(path.join(root,'subject-summaries',data.subject.name+'.md'),'utf8'),data.subject,subjects);
+    data.summary=summaryLoader?await summaryLoader(data):parseSubjectSummary(await fs.readFile(path.join(root,'subject-summaries',data.subject.name+'.md'),'utf8'),data.subject,subjects);
     data.sources=Object.fromEntries([...sourceIds].map(id=>[id,metadata.get(id)]));
     for(const s of data.selections)if(s.passage)s.otherSubjects=passages.get(s.passage).subjects;
     await zip(path.join(base,data.subject.id+'.json.gz'),data);

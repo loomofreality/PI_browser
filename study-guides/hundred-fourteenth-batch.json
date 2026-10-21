@@ -7,7 +7,7 @@
       "displayTitle": "Prayer for forgiveness: the courage to return",
       "selection": {
         "review": "selections/prayerforforgiveness.json",
-        "sha256": "9266cc2b1974466e30da44c4159e1ccb739ebec3f44561e5e013a96fb6cb4c9b",
+        "sha256": "d7694c14c35ab908de59549da3ba0bcc3866250b504bed00dbe9ef8ff8fbf06c",
         "ids": [
           "074b75d089d0a6a15c499ae3",
           "336bf41f96f0f64f919e5f55",
@@ -248,7 +248,6 @@
           "11585f32611663915b67474b",
           "91709d7a2d1da16d387dc728",
           "11aed8b2a313e41ac53bf24c",
-          "9c284d98177c3e6ae3f97517",
           "4b51b96ca731ec7316867acd",
           "62aaf5fb1e7f6f9dff058af4",
           "759370d744312baa76a1c1d8",
@@ -308,7 +307,8 @@
           "722228b1c71bc8e26b4d527a",
           "1204e7bf1734b1637c3a012d",
           "caadb1a3fea0b1f566e94863",
-          "8af605007cceb3081772acb8"
+          "8af605007cceb3081772acb8",
+          "495318c79fc977d3a563fe7f"
         ]
       },
       "introduction": "To ask forgiveness is to look squarely at what one has done and refuse to let it be the last word. Bahá’u’lláh pictures the supplicant trembling before divine justice and then, turning toward grace, finding the heart at rest; ‘Abdu’l-Bahá teaches that sin is like the darkness of night, and that darkness has no power once the sun has risen. The plea is never an end in itself. It asks for a changed life, for truthful speech, trustworthy conduct and useful service, and it soon widens past the self to parents and children, companions, opponents and those who have died, whom the living may still help by their pleading. Jesus’ parable of the Pharisee and the tax collector shows how admitting one’s own fault loosens the habit of judging others [1], and the Qur’an forbids despair of mercy while summoning the transgressor to return [2]. From here the path leads on into the mercy and grace of God, into prayer for the departed, and into the wider life of prayer itself.",
@@ -1898,11 +1898,8 @@
           "why": "Keep the correspondence around forgiveness visible: requests, reassurances, intercession and the continuing remembrance of particular people."
         },
         {
-          "key": "source:AB09579",
-          "why": "Keep the correspondence around forgiveness visible: requests, reassurances, intercession and the continuing remembrance of particular people.",
-          "shortened": [
-            "O supplicating leaf! Your letter arrived and supplications and entreaties were made at the threshold of the All-Knowing God, and forgiveness and pardon were sought from the Court of the Divine Unity for your father and mother and Mirza Nuru'llah Khan. It is hoped that, through the favors of the Glorious Lord, they may be immersed in the ocean of forgiveness and attain to the proximity of His supreme mercy."
-          ]
+          "key": "source:BB00362",
+          "why": "A prayer expressing complete need for divine forgiveness and generosity."
         },
         {
           "key": "source:AB11781",

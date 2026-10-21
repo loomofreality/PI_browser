@@ -7,7 +7,7 @@
       "displayTitle": "Consolation and comfort",
       "selection": {
         "review": "selections/consolation.json",
-        "sha256": "91b785fe56702edbcefc9f3a4f404c3f39976cb9c8e2d8fe093d2c2f7426476c",
+        "sha256": "99f484d90450db81832e12c2ceb329008f7b4800d49b14354ba9e37089abb83b",
         "ids": [
           "6f9f5bcfdf41af5490d3d685",
           "d8e149b32e9e479fa6e8de7d",
@@ -124,7 +124,6 @@
           "2db602d1a8f34465350db429",
           "455b8210d6ccd89ddab1e30d",
           "fc18e492c5e6c1f459af56c7",
-          "441237aa598288e0e81f4ca2",
           "7619a057ada01a265655e992",
           "ddab1fd0a03c43210da952ed",
           "90a8bfde284c69eb55f60a98",
@@ -308,7 +307,8 @@
           "945bbd33ffb74aae056f6de0",
           "622f29ef262c9ea168f2ef3a",
           "2097e3550c936b42ec986587",
-          "5a3da844e71086f3f3ad362a"
+          "5a3da844e71086f3f3ad362a",
+          "9764bde32f579058db20bc2e"
         ]
       },
       "introduction": "Sorrow seldom asks for an explanation; it asks for company. Bahá’u’lláh writes to the grieving as a prisoner who will not flee from them and who promises to be present in the room where there is neither lamp nor bed nor helper. Consolation in His teaching begins with that assurance of being remembered, and then grows hands: a sick sister is given rest and visitors, a widow’s rights are defended, a debtor is helped, a late reply is explained so that no one mistakes silence for forgetting. ‘Abdu’l-Bahá weeps with the bereaved before he counsels patience, and he treats tears as a sign of tenderness rather than a failure of faith. To dwell on such comfort is to be drawn toward the mercy of God, toward the soul’s life after death and the prayers offered for those who have gone, and toward a trust in God that holds steady while circumstances change. Paul’s account of consolation received and then shared [1] names the turn the journey finally makes: the one who was comforted becomes a comforter, a balm for aching hearts.",
@@ -1864,11 +1864,8 @@
           ]
         },
         {
-          "key": "source:AB07431",
-          "why": "A letter can itself be an act of care. Delayed replies, interrupted journeys and absent names are repeatedly distinguished from being forgotten. Correspondence reports health, asks for news, arranges visits, remembers family members and sometimes corrects a misunderstanding. Restrictions on travel or communication retain their historical reasons; yearning does not erase the duty to protect children or avoid danger. Joseph and Jacob supply a recurring language for distance, recognition and longing, while the poems admit how painful separation remains. Personal dream interpretations remain personal. Explore the neighbor on the modes and abundance of revelation, attending also to the material circumstances of sending a tablet. How does remembering become visible through action? What can a message accomplish when a meeting is impossible, and what still requires practical follow-up?",
-          "shortened": [
-            "O thou musk-scented pilgrim! Your letter arrived bringing glad tidings of recovery from illness, which became the cause of heartfelt joy. May you always remain protected and preserved under divine protection and care."
-          ]
+          "key": "source:ABU0082",
+          "why": "Describes spiritual consolation amid the griefs of life."
         },
         {
           "key": "source:AB06388",

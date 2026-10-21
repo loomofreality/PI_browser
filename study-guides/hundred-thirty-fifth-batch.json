@@ -7,7 +7,7 @@
       "displayTitle": "Prophecy and fulfillment: expectation, recognition and responsibility",
       "selection": {
         "review": "selections/prophecyfulfillment.json",
-        "sha256": "79976bc38d424415380d1f95089a254fa0cbeb0056a5ad55defeabaee192ae96",
+        "sha256": "3eea3aa7042aff2a210f5a6f3733ca62929216d2310a8973c09c68ad3ec54e2f",
         "ids": [
           "02edce9dc633a834779e89ad",
           "685aa00c93cd1f3f9bf671e0",
@@ -113,7 +113,6 @@
           "b6898152b91dab23e4cb4f65",
           "c4e84c830e4d2e1078818477",
           "7f5bf7b171e92a1d25fa278b",
-          "9d28ca0044e2b52fd5737be7",
           "32bc7c26a06f6267859202b6",
           "47f563cfe5d1da5f25b3c95d",
           "2e8f36271e39f6e6aa05476f",
@@ -308,7 +307,8 @@
           "5363d7edafa005b14d416971",
           "774a857c178e611229611802",
           "8dbec3303da7fc0591a48b7b",
-          "333a8e3ece5dc97491a010a6"
+          "333a8e3ece5dc97491a010a6",
+          "80a25e9351ad04fe1f7890b7"
         ]
       },
       "introduction": "A prayer taught two thousand years ago asks that the Kingdom come on earth as it is in heaven, and ‘Abdu’l-Bahá calls that prayer a prophecy. Can a world so laden with misery become happy? The question turns at once into a harder one: how is a promise recognised when it is kept? Bahá’u’lláh declares that the trumpet, the balance and the rising of the dead have all appeared, though outwardly none of them did, for each image carries a meaning ordained with God. Every tradition awaited a Promised One who came in a form it did not expect; the Báb pleads with his own followers not to miss Him Whom God shall make manifest, and Bahá’u’lláh warns emperors from a prison cell. Luke’s travellers recognise their companion only at a shared meal [1], and the Qur’an’s promise amid the reversals of Romans and Persians asks what victory finally means [2]. From here the path leads into the interpretation of scripture, the day of resurrection heard as voice and seen as light, and the Holy Land itself, where a fulfilled promise becomes a question put to how we live.",
@@ -727,6 +727,10 @@
           "shortened": [
             "If ye desire Him Whom God shall make manifest for sovereignty, behold, there are countless kings upon the earth - how then could this divert you from the good-pleasure of your Lord? Reflect ye a little! And if ye desire Him Whom God shall make manifest for riches, lo, there are numberless wealthy ones upon the earth - how then could this distract you from God, your Lord, and aught of His good-pleasure? Would that ye would reflect a little! And if ye desire Him Whom God shall make manifest for armies, behold, there are countless hosts upon the earth - how then could this turn you away from God and His good-pleasure? Would that ye would reflect a little!"
           ]
+        },
+        {
+          "key": "source:ABU0027",
+          "why": "Relates each Manifestation’s fulfillment of earlier promises to the unity of their mission."
         },
         {
           "key": "source:BB00005",

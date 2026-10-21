@@ -7,7 +7,7 @@
       "displayTitle": "Divine bounty: the gift that sustains existence",
       "selection": {
         "review": "selections/divineemanation.json",
-        "sha256": "3f33d8eba8d913788462f33d04f16e675e15f732739bab433e3bfb1bdd893a20",
+        "sha256": "5cc2b388165b75145488d6b68e15134d9e5380a6623e3187627b3def43dddc9a",
         "ids": [
           "84937958d3a44dc74eda1270",
           "fd1b212e786f79b70f34d898",
@@ -101,7 +101,6 @@
           "9ad0274f6ae4f9694288dd1c",
           "73a3b07521d7b7e38a2c5228",
           "175af90c625ed984c6333551",
-          "fb490e42f04635d770bfa714",
           "8c675df26559125cf40baf10",
           "703dfdc27b99a704fee1ffc3",
           "f56b49519d823cb81f90c8c1",
@@ -308,7 +307,8 @@
           "d55e1b24101bcc1a84fbf80b",
           "d70e13e7883439a2aebd7611",
           "c8337a614c8a685a70b23999",
-          "dd29c8db2c9f8d526aa84470"
+          "dd29c8db2c9f8d526aa84470",
+          "40174413b74c1123617a9ea1"
         ]
       },
       "introduction": "Fish swim in the sea and never see it; so, ‘Abdu’l‑Bahá says, do we live inside a bounty so constant that we forget to ask what holds us up. Bahá’u’lláh teaches that if the tide of divine grace were withheld for a single moment the world would cease, that existence is not a gift received once at the beginning but a current flowing now, like sunlight, breath or spring rain. Yet the sun is not the earth it warms: creation proceeds from God by emanation, as writing from a writer, without the Source becoming any of the things it sustains. That distinction between emanation and manifestation keeps the imagery from collapsing into pantheism, and it opens onto the soul as an emanation and the divine attributes hidden within every atom. Plotinus pictures an overflow that gives without being depleted [1], and Paul at Athens speaks of the God in whom all live and move [2]. Rain falls alike on fertile soil and barren, and the only true answer to such impartial generosity is a kindness that expects nothing in return.",
@@ -607,6 +607,10 @@
           "shortened": [
             "Inasmuch as the Sun is bound to shine forth forever, those mirrors will never cease to seek reflection in their own limited stations. The effulgence of God hath never been and will never be interrupted or exhausted."
           ]
+        },
+        {
+          "key": "source:AB05728",
+          "why": "Uses the sun’s radiance to explain spiritual growth through divine emanation."
         },
         {
           "key": "source:BB00107",

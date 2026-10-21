@@ -3,12 +3,12 @@
   "createdAt": "2026-10-13T21:44:39.388Z",
   "status": "finalized_before_analysis",
   "subject": "4527819F4272482F94777C3D36326FD4",
-  "dataset": "collections/7acbc96b-60b/",
-  "candidateFingerprint": "b9b045ecd6c1dd9e1eec2e0790061ebe51901a0135ef40cf7aec1c7e4ce3ef94",
-  "candidateCount": 439,
+  "dataset": "collections/editorial-83f59e6ea2d8/",
+  "candidateFingerprint": "a54e400a4f11f21dee406c6d41d9930ccfb77bfc875c6cfd44c3ec4b6f165b3d",
+  "candidateCount": 440,
   "target": 300,
   "selectedCount": 300,
-  "mandatoryAuthorizedCount": 78,
+  "mandatoryAuthorizedCount": 79,
   "selectionBeforeAnalysis": true,
   "method": "Complete candidate survey followed by individual editorial choices and written reasons, applied to the existing complete guide to keep it within 300 quotations. All verified authorized selections included. Priority given to foundational teachings, substantive explanations, necessary qualifications, distinctive applications, narrative examples and thematic breadth across the child’s latent capacities, the manner of education, character and the need for an educator, curriculum and spiritual formation, aptitude, skills and the arts, girls’ education, the responsibilities of families, access for orphans and children without means, bereavement, the building and sustaining of schools, teaching as service, particular school situations, words to children and youth, education and social renewal, and prayers for children and their teachers. Neither citation count nor source order used as a ranking rule. Imported wording checked separately; version differences remain explicit. The existing reading arc is retained.",
   "selected": [
@@ -465,30 +465,6 @@
         "kind": "no_authorized_selected_paragraph",
         "metadata": "",
         "sourceVersion": "72a94874edb2fb32395cd1306c546192f93e707fc633e1e7a1a6cdc2e38cf924",
-        "paragraphs": []
-      }
-    },
-    {
-      "n": 21,
-      "group": 83,
-      "id": "165876da9f2cebf6d22e7cc7",
-      "key": "source:ABU0973",
-      "source": "ABU0973",
-      "sourceVersion": "464f2495a64264819345b5a82621320db2223a994d5384860a7c9b0ab01d28fe",
-      "status": "exact",
-      "reference": "ABU0973",
-      "authorization": "",
-      "authorizedParagraphs": [],
-      "mandatoryAuthorized": false,
-      "paragraphs": [
-        5
-      ],
-      "text": "In short, the mothers must not think of themselves but of the progress of their children because upon the children of today - whether boys or girls - depend the moulding of the civilization of tomorrow.",
-      "reason": "Reported words of ‘Abdu’l-Bahá that mothers must think of their children’s progress, since the civilization of tomorrow depends on them; links family and society.",
-      "authorityEvidence": {
-        "kind": "no_authorized_selected_paragraph",
-        "metadata": "",
-        "sourceVersion": "464f2495a64264819345b5a82621320db2223a994d5384860a7c9b0ab01d28fe",
         "paragraphs": []
       }
     },
@@ -7553,6 +7529,23 @@
         "reviewedAt": "2026-10-13T21:44:39.388Z",
         "contextRestored": false
       }
+    },
+    {
+      "id": "f4a40b24f18d30235406c9fd",
+      "key": "source:AB00965",
+      "source": "AB00965",
+      "sourceVersion": "182a6c67847623f35b98138fc65cefcc4cd12f0333067df51e6c7fb4d70e8fc9",
+      "status": "confirmed",
+      "reference": "AB00965",
+      "authorizedParagraphs": [
+        5
+      ],
+      "mandatoryAuthorized": true,
+      "paragraphs": [
+        5
+      ],
+      "text": "So long as the mother faileth to train her children, and start them on a proper way of life, the training which they receive later on will not take its full effect. It is incumbent upon the Spiritual Assemblies to provide the mothers with a well-planned program for the education of children, showing how, from infancy, the child must be watched over and taught. These instructions must be given to every mother to serve her as a guide, so that each will train and nurture her children in accordance with the Teachings.",
+      "reason": "Mandatory authorized wording. Calls for a planned program supporting mothers in children’s moral education."
     }
   ],
   "omitted": [
@@ -8389,6 +8382,30 @@
       "n": 435,
       "source": "AB00251",
       "reason": "Surveyed before analysis; selected complementary passages state the subject’s central teachings, qualifications or practical applications more substantively or with less repetition. No verified authorized quotation omitted."
+    },
+    {
+      "n": 21,
+      "group": 83,
+      "id": "165876da9f2cebf6d22e7cc7",
+      "key": "source:ABU0973",
+      "source": "ABU0973",
+      "sourceVersion": "464f2495a64264819345b5a82621320db2223a994d5384860a7c9b0ab01d28fe",
+      "status": "exact",
+      "reference": "ABU0973",
+      "authorization": "",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        5
+      ],
+      "text": "In short, the mothers must not think of themselves but of the progress of their children because upon the children of today - whether boys or girls - depend the moulding of the civilization of tomorrow.",
+      "reason": "Include verified authorized guidance on institutional support for mothers; it develops the broader appeal to think of children’s future while retaining the warning about harmful affection.",
+      "authorityEvidence": {
+        "kind": "no_authorized_selected_paragraph",
+        "metadata": "",
+        "sourceVersion": "464f2495a64264819345b5a82621320db2223a994d5384860a7c9b0ab01d28fe",
+        "paragraphs": []
+      }
     }
   ],
   "importedAuthorityReview": [
@@ -8420,5 +8437,16 @@
       "reviewedAt": "2026-10-13T21:44:39.388Z",
       "contextRestored": false
     }
-  ]
+  ],
+  "integrationReview": {
+    "date": "2026-10-20",
+    "decision": "Include verified authorized guidance on institutional support for mothers; it develops the broader appeal to think of children’s future while retaining the warning about harmful affection.",
+    "added": [
+      "f4a40b24f18d30235406c9fd"
+    ],
+    "replaced": [
+      "165876da9f2cebf6d22e7cc7"
+    ],
+    "finalizedBeforeRebuild": true
+  }
 }

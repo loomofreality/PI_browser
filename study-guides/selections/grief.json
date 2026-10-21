@@ -3,9 +3,9 @@
   "createdAt": "2026-10-11T19:33:01.083Z",
   "status": "finalized_before_analysis",
   "subject": "8B74AA4BF06FE197BC2DFCF83BE17C14",
-  "dataset": "collections/390a77fa-5b4/",
-  "candidateFingerprint": "5c3ab026dc98612b811be0bfd44fb66c5f50b9e5a1c99747fe51b83d5ed80549",
-  "candidateCount": 1571,
+  "dataset": "collections/editorial-83f59e6ea2d8/",
+  "candidateFingerprint": "215bdc1ad47de10efcc5480590a326771c8972734c038f09d4808a4995a6ef7a",
+  "candidateCount": 1572,
   "target": 300,
   "selectedCount": 300,
   "mandatoryAuthorizedCount": 64,
@@ -15131,7 +15131,19 @@
       "n": 1570,
       "source": "BH11923",
       "reason": "Surveyed before analysis; selected complementary passages state the subject’s central teachings, qualifications or practical applications more substantively or with less repetition. No verified authorized quotation omitted."
+    },
+    {
+      "id": "19f05da91cec3beda461dfc8",
+      "source": "AB02136",
+      "reason": "Keep the direct response to despair and the named historical mourning; the new expression of grief and remembrance is complementary in the compilation but not a stronger guide replacement."
     }
   ],
-  "importedAuthorityReview": []
+  "importedAuthorityReview": [],
+  "integrationReview": {
+    "date": "2026-10-20",
+    "decision": "Keep the direct response to despair and the named historical mourning; the new expression of grief and remembrance is complementary in the compilation but not a stronger guide replacement.",
+    "added": [],
+    "replaced": [],
+    "finalizedBeforeRebuild": true
+  }
 }

@@ -68,9 +68,12 @@
           "key": "source:BB00002",
           "why": "Begin with the Day described as the fulfillment of earlier promises, the opening of a new horizon and an occasion for joy. Follow the images of Sinai, Zion, springtime and festival in their particular scriptural settings. Celebration can coexist with exile and sorrow, and the dawn of a new age need not mean that its possibilities are already fully realized. How does recognition of a promised Day change the meaning of the present? What work remains for those who celebrate it?",
           "shortened": [
-            "Say: The Cause of God hath come; hasten it not, for verily the Cause of God hath been, upon the truth, by the truth, nigh. And verily God's promise hath been, by the truth, fulfilled.",
-            "God hath indeed appointed for you this Day on the land of the Path, upon the bridge over the Fire, as a fixed time."
+            "Say: The Cause of God hath come; hasten it not, for verily the Cause of God hath been, upon the truth, by the truth, nigh. And verily God's promise hath been, by the truth, fulfilled."
           ]
+        },
+        {
+          "key": "source:BH00042",
+          "why": "Describes the distinctive greatness of this Day and its believers’ station."
         },
         {
           "key": "source:BH02198",
@@ -2134,7 +2137,7 @@
       ],
       "selection": {
         "review": "selections/greatnesscause.json",
-        "sha256": "7dfdd94567131255f6b5377df077d8ea6a68f0afe55343e7750f49e1f753801a",
+        "sha256": "121da8f577f6bfe44b289d3a578fdcde194f6639fecb6a6943e180229800ef53",
         "ids": [
           "d8385f558a45ff7d9a5089a7",
           "992f66c4e47116f290336413",
@@ -2143,7 +2146,6 @@
           "57df190a0ba693cd634438c6",
           "1cbfe086fe384ab6861aaa1e",
           "3bb6de86d8cd726f9e167dd9",
-          "a1f603e5f399ca5acdba8719",
           "50f157f7a571feb253e5e967",
           "987bdd44b2cfa9b12bda1200",
           "ad8f09adc58a5197770efe6f",
@@ -2435,7 +2437,8 @@
           "f971c524cc07a96ad0707e83",
           "34fabcac6e753a8a5c04116f",
           "eb7e674b7673baaaadb32481",
-          "3645b2fc3a07050c2392fc02"
+          "3645b2fc3a07050c2392fc02",
+          "2411e6766a67bfb5f3545400"
         ]
       }
     }

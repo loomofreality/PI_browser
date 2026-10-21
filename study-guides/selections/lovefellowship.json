@@ -3,9 +3,9 @@
   "createdAt": "2026-10-13T21:49:17.260Z",
   "status": "finalized_before_analysis",
   "subject": "B002D95B61D1427697DF9636DF3B6E0A",
-  "dataset": "collections/7acbc96b-60b/",
-  "candidateFingerprint": "e21eb5201b134afa35209b839084e46cdb869cd14160e76a9d4e1bed2b719588",
-  "candidateCount": 683,
+  "dataset": "collections/editorial-83f59e6ea2d8/",
+  "candidateFingerprint": "c1f511aa4f245ab15947be7d187ef60c7f4a7a0ca650572cef1ab8d61e8e6cea",
+  "candidateCount": 684,
   "target": 300,
   "selectedCount": 300,
   "mandatoryAuthorizedCount": 51,
@@ -9756,6 +9756,11 @@
       "id": "e643139fcaa24f5f8d26bd34",
       "n": 676,
       "reason": "Imported different rendering of Bahá’u’lláh’s words on the concourse circling a house where the friends praise God, with its citation embedded in the wording; the selected gathering passages carry the theme. No verified authorized quotation omitted."
+    },
+    {
+      "id": "2faeb00daf5d2e8af131d83b",
+      "source": "ABU1409",
+      "reason": "The historical accounts of breach and reconciliation add concrete applications that the new general praise of friendship would not replace."
     }
   ],
   "importedAuthorityReview": [
@@ -9806,5 +9811,12 @@
       "reviewedAt": "2026-10-13T21:49:17.260Z",
       "contextRestored": false
     }
-  ]
+  ],
+  "integrationReview": {
+    "date": "2026-10-20",
+    "decision": "The historical accounts of breach and reconciliation add concrete applications that the new general praise of friendship would not replace.",
+    "added": [],
+    "replaced": [],
+    "finalizedBeforeRebuild": true
+  }
 }

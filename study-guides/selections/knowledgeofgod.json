@@ -3,9 +3,9 @@
   "createdAt": "2026-10-11T17:07:36.748Z",
   "status": "finalized_before_analysis",
   "subject": "0DD5324F4D5F4083B4CAA0D5360C7218",
-  "dataset": "collections/390a77fa-5b4/",
-  "candidateFingerprint": "6a1367eb5c150806b268e5d6f014990e64e4b2ab7b30665d5c7d826563d5410f",
-  "candidateCount": 949,
+  "dataset": "collections/editorial-83f59e6ea2d8/",
+  "candidateFingerprint": "b0df2b6157a2e1582339913aed9a16c66ee7d8ae689a8e62471e636ae4831f1d",
+  "candidateCount": 950,
   "target": 300,
   "selectedCount": 300,
   "mandatoryAuthorizedCount": 66,
@@ -6450,32 +6450,6 @@
       }
     },
     {
-      "n": 286,
-      "group": 267,
-      "id": "5cbbea21f48e78a24bc7a74a",
-      "key": "source:BH09556",
-      "source": "BH09556",
-      "sourceVersion": "be8117684f4ff502f5de2f4675d9dea80cc545122ff945af4c8fb54e633c8323",
-      "status": "exact",
-      "reference": "BH09556",
-      "authorization": "",
-      "authorizedParagraphs": [],
-      "mandatoryAuthorized": false,
-      "paragraphs": [
-        3
-      ],
-      "text": "We beseech Thee by the Mystery that lay hidden within Thy knowledge, and by the Pearl that remained concealed within the shell of Thy decree and destiny",
-      "stage": 7,
-      "previousPosition": 808,
-      "reason": "Prayer expresses dependence, desire for recognition and acknowledgment of the limits of knowing.",
-      "authorityEvidence": {
-        "kind": "no_authorized_selected_paragraph",
-        "metadata": "",
-        "sourceVersion": "be8117684f4ff502f5de2f4675d9dea80cc545122ff945af4c8fb54e633c8323",
-        "paragraphs": []
-      }
-    },
-    {
       "n": 291,
       "group": 272,
       "id": "d9201a7dc0510ec72b76fab7",
@@ -9629,6 +9603,21 @@
         "metadata": "",
         "paragraphs": []
       }
+    },
+    {
+      "id": "bf6756fd9b9f8efe895c52fa",
+      "key": "source:BB00027",
+      "source": "BB00027",
+      "sourceVersion": "9bcce17d0bf3cc0343f8d9ffb1d9aab9cc955701a4ca0b5c2d32283ea6b69461",
+      "status": "confirmed",
+      "reference": "BB00027",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        9
+      ],
+      "text": "Glory be unto Thee, O God! Neither I nor anything else, from a beginning that had no beginning, has known Thee, nor can I or anything else know Thee, unto an end that has no end. Glory be unto Thee! I am among those who recognize that the knowledge of God, exalted and glorified is He, is impossible in its primary essence - how much more so in what has perished or will perish through it - by its testimony in the Book. I bear witness to this from a beginning that has no beginning throughout all its manifestations, and am certain of it unto an end that has no end throughout all its concealments. And since knowledge is impossible, how can creation find a way to anything less? For other conditions come after the perishing of knowledge and its realization.",
+      "reason": "Affirms the impossibility of comprehending the divine Essence."
     }
   ],
   "omitted": [
@@ -12876,6 +12865,32 @@
       "id": "4cb5b2ad4b37a5d5b29bcce5",
       "source": "BH11845",
       "reason": "Not retained in the limited selection: complementary coverage and substantive subject treatment are supplied by the explicitly chosen quotations; no verified authorized quotation omitted."
+    },
+    {
+      "n": 286,
+      "group": 267,
+      "id": "5cbbea21f48e78a24bc7a74a",
+      "key": "source:BH09556",
+      "source": "BH09556",
+      "sourceVersion": "be8117684f4ff502f5de2f4675d9dea80cc545122ff945af4c8fb54e633c8323",
+      "status": "exact",
+      "reference": "BH09556",
+      "authorization": "",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        3
+      ],
+      "text": "We beseech Thee by the Mystery that lay hidden within Thy knowledge, and by the Pearl that remained concealed within the shell of Thy decree and destiny",
+      "stage": 7,
+      "previousPosition": 808,
+      "reason": "An explicit treatment of the limits of knowing the Essence is stronger than the short fragment invoking a hidden mystery.",
+      "authorityEvidence": {
+        "kind": "no_authorized_selected_paragraph",
+        "metadata": "",
+        "sourceVersion": "be8117684f4ff502f5de2f4675d9dea80cc545122ff945af4c8fb54e633c8323",
+        "paragraphs": []
+      }
     }
   ],
   "importedAuthorityReview": [
@@ -12996,5 +13011,16 @@
       "authorization": "Retained in the selected set, including any authorized wording. No new translation-authority assertion is made from an approximate source reference; exact authority and source limitations remain as recorded in the saved review.",
       "mandatoryAuthorized": false
     }
-  ]
+  ],
+  "integrationReview": {
+    "date": "2026-10-20",
+    "decision": "An explicit treatment of the limits of knowing the Essence is stronger than the short fragment invoking a hidden mystery.",
+    "added": [
+      "bf6756fd9b9f8efe895c52fa"
+    ],
+    "replaced": [
+      "5cbbea21f48e78a24bc7a74a"
+    ],
+    "finalizedBeforeRebuild": true
+  }
 }

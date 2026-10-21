@@ -3,12 +3,12 @@
   "createdAt": "2026-10-11T16:36:43.498Z",
   "status": "finalized_before_analysis",
   "subject": "D9EB77409AAAEE3EEEBB51E542688C78",
-  "dataset": "collections/390a77fa-5b4/",
-  "candidateFingerprint": "a6681bae5c5618cc047c2a1ea506add1891d9424d2adf4f64d4d596b17527042",
-  "candidateCount": 1267,
+  "dataset": "collections/editorial-83f59e6ea2d8/",
+  "candidateFingerprint": "f9520498530e07fc4a0df626a3cfbea4024dcb413d7c2b9608a5999b646421be",
+  "candidateCount": 1269,
   "target": 300,
   "selectedCount": 300,
-  "mandatoryAuthorizedCount": 6,
+  "mandatoryAuthorizedCount": 7,
   "selectionBeforeAnalysis": true,
   "method": "Complete survey of all1267 candidate quotations. Editorial selection prioritizes central teachings, qualifications, stewardship, voluntary giving, relief, education, service, acknowledgment and representative personal gifts. All6 verified authorized quotations and all7 imported quotations included. Citation count and source order were not ranking criteria.",
   "selected": [
@@ -4602,29 +4602,6 @@
       }
     },
     {
-      "n": 641,
-      "group": 625,
-      "id": "1bb531f45450cb3b7e85b2c8",
-      "key": "source:AB04291",
-      "source": "AB04291",
-      "sourceVersion": "75b1fae0bcf24679702c5ef890894d9070f3a8bccc1108521d391bb98fb30f90",
-      "reference": "AB04291",
-      "status": "exact",
-      "authorization": "",
-      "authorizedParagraphs": [],
-      "mandatoryAuthorized": false,
-      "paragraphs": [
-        1
-      ],
-      "text": "Your letter arrived and was read with utmost attention. It did not drown in the sea of papers",
-      "reason": "Personal attention to a letter matters amid a large correspondence.",
-      "authorityEvidence": {
-        "kind": "no_authorized_selected_paragraph",
-        "metadata": "",
-        "sourceVersion": "75b1fae0bcf24679702c5ef890894d9070f3a8bccc1108521d391bb98fb30f90"
-      }
-    },
-    {
       "n": 644,
       "group": 628,
       "id": "b6d386d28793be141a2c1d80",
@@ -6979,6 +6956,23 @@
         "authorization": "Verified published English original or letter on behalf; not an additional authorized translation. Included in all cases.",
         "contextRestored": false
       }
+    },
+    {
+      "id": "715cbbd8e4997b85709f9766",
+      "key": "source:AB01467",
+      "source": "AB01467",
+      "sourceVersion": "f73f845218c0bb1d7cfc095f3d59842a2eb25f303bf9e571506890dd27a3db91",
+      "status": "confirmed",
+      "reference": "AB01467",
+      "authorizedParagraphs": [
+        3
+      ],
+      "mandatoryAuthorized": true,
+      "paragraphs": [
+        3
+      ],
+      "text": "The four pages in the blessed handwriting of the Bab---may my life be a sacrifice unto Him---that thou didst present to 'Abdu'l-Baha as a gift were received. Thereupon, the very walls resounded with the anthem of \"O blessed, blessed are we!\" whilst 'Abdu'l-Baha hearkened from a corner unto these sweet melodies. Well done! Well done! for having cheered our hearts with such a cherished gift.",
+      "reason": "Mandatory authorized wording. Expresses delight on receiving pages in the Bab’s handwriting as a gift."
     }
   ],
   "omitted": [
@@ -12783,6 +12777,34 @@
       "n": 1260,
       "source": "BH01788",
       "reason": "Reviewed in the complete candidate survey; complementary selected passages cover the teaching or acknowledgment more substantively, directly or with less repetition."
+    },
+    {
+      "n": 641,
+      "group": 625,
+      "id": "1bb531f45450cb3b7e85b2c8",
+      "key": "source:AB04291",
+      "source": "AB04291",
+      "sourceVersion": "75b1fae0bcf24679702c5ef890894d9070f3a8bccc1108521d391bb98fb30f90",
+      "reference": "AB04291",
+      "status": "exact",
+      "authorization": "",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        1
+      ],
+      "text": "Your letter arrived and was read with utmost attention. It did not drown in the sea of papers",
+      "reason": "Include the authorized manuscript-gift acknowledgment in place of the letter-receipt fragment. Keep the poetry example; the other new financial acknowledgment adds less distinct coverage.",
+      "authorityEvidence": {
+        "kind": "no_authorized_selected_paragraph",
+        "metadata": "",
+        "sourceVersion": "75b1fae0bcf24679702c5ef890894d9070f3a8bccc1108521d391bb98fb30f90"
+      }
+    },
+    {
+      "id": "5bcc89d1b5135e17c851de5c",
+      "source": "AB01388",
+      "reason": "Include the authorized manuscript-gift acknowledgment in place of the letter-receipt fragment. Keep the poetry example; the other new financial acknowledgment adds less distinct coverage."
     }
   ],
   "importedAuthorityReview": [
@@ -12857,5 +12879,16 @@
       "previousReason": "Doing good before one's appointed end gives urgency to generosity.",
       "finding": "Full context identifies the appointed time with a particular government stipend matter, not death. Selection membership unchanged."
     }
-  ]
+  ],
+  "integrationReview": {
+    "date": "2026-10-20",
+    "decision": "Include the authorized manuscript-gift acknowledgment in place of the letter-receipt fragment. Keep the poetry example; the other new financial acknowledgment adds less distinct coverage.",
+    "added": [
+      "715cbbd8e4997b85709f9766"
+    ],
+    "replaced": [
+      "1bb531f45450cb3b7e85b2c8"
+    ],
+    "finalizedBeforeRebuild": true
+  }
 }

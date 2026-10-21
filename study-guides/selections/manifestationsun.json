@@ -3,9 +3,9 @@
   "createdAt": "2026-10-13T21:38:01.513Z",
   "status": "finalized_before_analysis",
   "subject": "B31B67349BA147D8A57CDBAF1EDE3B35",
-  "dataset": "collections/7acbc96b-60b/",
-  "candidateFingerprint": "6baf9e200e7ecb0e0c8ec4bd1123b4053405587bb0c4cf58efb11b6cfbd545f7",
-  "candidateCount": 312,
+  "dataset": "collections/editorial-83f59e6ea2d8/",
+  "candidateFingerprint": "4f9975050b45a12d2f16492386077cdfa77c7acc6c82783fe0fd5642b665de89",
+  "candidateCount": 313,
   "target": 300,
   "selectedCount": 300,
   "mandatoryAuthorizedCount": 26,
@@ -829,30 +829,6 @@
         "kind": "no_authorized_selected_paragraph",
         "metadata": "",
         "sourceVersion": "5cf7a1056dd1dc9065e7f19c4ca323b5e2f9032691178e8a2a3f5f51e858ef7b",
-        "paragraphs": []
-      }
-    },
-    {
-      "n": 42,
-      "group": 82,
-      "id": "deb4c502889a3a1171c3b236",
-      "key": "source:BH09381",
-      "source": "BH09381",
-      "sourceVersion": "597848ae7fca4311e7c94d74a95ee1941938eda490c593d6b14cdfffc1ab450b",
-      "status": "exact",
-      "reference": "BH09381",
-      "authorization": "",
-      "authorizedParagraphs": [],
-      "mandatoryAuthorized": false,
-      "paragraphs": [
-        2
-      ],
-      "text": "I beseech Thee by Thy light which hath shone forth upon the world",
-      "reason": "Bahá’u’lláh’s petition by His light shone forth upon the world; keeps the prayer to turn servants toward Him.",
-      "authorityEvidence": {
-        "kind": "no_authorized_selected_paragraph",
-        "metadata": "",
-        "sourceVersion": "597848ae7fca4311e7c94d74a95ee1941938eda490c593d6b14cdfffc1ab450b",
         "paragraphs": []
       }
     },
@@ -7336,6 +7312,21 @@
           5
         ]
       }
+    },
+    {
+      "id": "5bbe70e4d983f99e89291dff",
+      "key": "source:AB00952",
+      "source": "AB00952",
+      "sourceVersion": "a1c601ccc651593781ea3169717ab401024901bba1240be85cc11c080e5957b7",
+      "status": "confirmed",
+      "reference": "AB00952",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        5
+      ],
+      "text": "The reality of this question is as follows: Divine Oneness is proven and He revealeth Himself in the Holy Essences. The sun is one sun but manifesteth itself in different mirrors. If thou lookest into the mirror and seest the manifestation of the sun, thou wilt say, the sun is in the mirror and this sun manifest in the mirror is the same sun of the heavens; although two suns, yet in reality they are one. The sun hath not descended from its high and lofty station, it hath not taken up its abode in this mirror, but hath manifested itself therein.",
+      "reason": "Explains one divine Sun appearing through different mirrors without descending into them."
     }
   ],
   "omitted": [
@@ -7410,6 +7401,30 @@
       "n": 164,
       "source": "ABU1801",
       "reason": "Surveyed before analysis; selected complementary passages state the subject’s central teachings, qualifications or practical applications more substantively or with less repetition. No verified authorized quotation omitted."
+    },
+    {
+      "n": 42,
+      "group": 82,
+      "id": "deb4c502889a3a1171c3b236",
+      "key": "source:BH09381",
+      "source": "BH09381",
+      "sourceVersion": "597848ae7fca4311e7c94d74a95ee1941938eda490c593d6b14cdfffc1ab450b",
+      "status": "exact",
+      "reference": "BH09381",
+      "authorization": "",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        2
+      ],
+      "text": "I beseech Thee by Thy light which hath shone forth upon the world",
+      "reason": "A complete explanation of the sun and mirror replaces a short petitionary fragment about light.",
+      "authorityEvidence": {
+        "kind": "no_authorized_selected_paragraph",
+        "metadata": "",
+        "sourceVersion": "597848ae7fca4311e7c94d74a95ee1941938eda490c593d6b14cdfffc1ab450b",
+        "paragraphs": []
+      }
     }
   ],
   "importedAuthorityReview": [
@@ -7422,5 +7437,16 @@
       "reviewedAt": "2026-10-13T21:38:01.513Z",
       "contextRestored": false
     }
-  ]
+  ],
+  "integrationReview": {
+    "date": "2026-10-20",
+    "decision": "A complete explanation of the sun and mirror replaces a short petitionary fragment about light.",
+    "added": [
+      "5bbe70e4d983f99e89291dff"
+    ],
+    "replaced": [
+      "deb4c502889a3a1171c3b236"
+    ],
+    "finalizedBeforeRebuild": true
+  }
 }

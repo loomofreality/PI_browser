@@ -7,7 +7,7 @@
       "displayTitle": "Servitude, submission to God, and repentance",
       "selection": {
         "review": "selections/servitude.json",
-        "sha256": "2c426e9fdc8bbb1ee551760a313549f672ae1fe58de22379a285115e75f79c95",
+        "sha256": "e9491b862453a199fe8cd80e398e84c6bf9e40feeec99e5462a12cb851c5103b",
         "ids": [
           "0a58814a0396d454ac52fd09",
           "743dff15d64e8e44f7980a6c",
@@ -137,7 +137,6 @@
           "8b836ea6b98987db29ae4d0a",
           "cf579ce95df1ba3b9f127180",
           "cc8b071234449c45b7f3be96",
-          "f4c7358b37b225e4436be353",
           "753eb101606cdbc1d7012aef",
           "a0974aca026cebe970f26b4b",
           "26a2897373a7a7fd98467299",
@@ -308,7 +307,8 @@
           "7f1ac6c0de914ee7773f367e",
           "0f08986a26e95b887a0e6818",
           "92bdb50ff5f4d216b44e617a",
-          "00985de40c0c834a145ad9c1"
+          "00985de40c0c834a145ad9c1",
+          "96e4acaebf4b9d4eb2a7b136"
         ]
       },
       "introduction": "Bahá’u’lláh turns the ordinary meaning of freedom inside out: the liberty that profits a person lies in complete servitude to God, and whoever has tasted it would not exchange it for any kingdom. Servitude in this sense is not resignation but recognition, the discovery that one was created to know and to worship, and that a will merged in the divine Will acts with a clarity self-assertion never gives. The road passes through failure. Repentance is never left in despair: the penitent who cannot number his sins is met by breezes of forgiveness, while the returning soul is asked to make amends and to spread no accusations. Luke’s publican, justified by a bare plea for mercy [1], and the Qur’án’s promise of pardon followed at once by a summons to return [2], stand close by. From there the path leads into trust and reliance on God amid grief, into the humility and lowliness ‘Abdu’l-Bahá claimed as his own station, and into the question of where reliance ends and testing God begins. The cook of the Zhuangzi, slowing at the difficult joint, suggests how letting go of force can sharpen attention [3].",
@@ -383,6 +383,10 @@
           "shortened": [
             "All are servants of God and all are submissive unto Him. All are servants of God and all bow down before Him. All are servants of God and all worship Him. All are servants of God and all shall return unto Him."
           ]
+        },
+        {
+          "key": "source:BB00027",
+          "why": "Explains devotion and servitude through recognition and obedience."
         },
         {
           "key": "source:AB04139",

@@ -3,9 +3,9 @@
   "createdAt": "2026-10-13T21:36:31.842Z",
   "status": "finalized_before_analysis",
   "subject": "1219A74FADB7E7059B143DAF131CB386",
-  "dataset": "collections/7acbc96b-60b/",
-  "candidateFingerprint": "e22a102d9a8ed554de6716f23228bdfb8dd798fdef9db45f097c5ad67116dba9",
-  "candidateCount": 333,
+  "dataset": "collections/editorial-83f59e6ea2d8/",
+  "candidateFingerprint": "e3f3e392fa6852a6782a995ef84b98f9778a539fbb724312abdf72f151d6c2b2",
+  "candidateCount": 334,
   "target": 300,
   "selectedCount": 300,
   "mandatoryAuthorizedCount": 8,
@@ -853,31 +853,6 @@
         "kind": "no_authorized_selected_paragraph",
         "metadata": "",
         "sourceVersion": "0aa7cd2506820426bce09b9825a9be3c02ef0d9b7583e80ebbcd67f283858c14",
-        "paragraphs": []
-      }
-    },
-    {
-      "n": 39,
-      "group": 2,
-      "id": "61513602b595699658327f65",
-      "key": "source:BB00003",
-      "source": "BB00003",
-      "sourceVersion": "df2921c8cd1cb1bd7768c8a6fec0c9877afb228e455135b3dbf89bdf4597656d",
-      "status": "normalized",
-      "reference": "BB00003",
-      "authorization": "Y2255-2259,2261-2263,2265-2267,2269-2271,2273-2275,2277-2281,2283-2286,2288-2293,2295-2305,2307-2310,2312-2317,2319,2321-2328,2330-2333",
-      "authorizedParagraphs": [],
-      "mandatoryAuthorized": false,
-      "paragraphs": [
-        1284,
-        1285
-      ],
-      "text": "Watch then for Him Whom God shall make manifest, for ye prostrate yourselves before God. Say: We all prostrate to Him. Say: We all are devoted to Him. Say: All fear His justice and hope for His grace, and all are suppliants before Him. … O people of the Bayan! Fear ye your own selves, for on the Day of Him Whom God shall make manifest, your inner realities shall be exposed and ye shall remain in your remoteness just as nations before you remained",
-      "reason": "The Báb’s summons to watch for Him Whom God shall make manifest and to fear one’s own self, since inner realities will be exposed on that Day; ties the warning to self-examination.",
-      "authorityEvidence": {
-        "kind": "no_authorized_selected_paragraph",
-        "metadata": "Y2255-2259,2261-2263,2265-2267,2269-2271,2273-2275,2277-2281,2283-2286,2288-2293,2295-2305,2307-2310,2312-2317,2319,2321-2328,2330-2333",
-        "sourceVersion": "df2921c8cd1cb1bd7768c8a6fec0c9877afb228e455135b3dbf89bdf4597656d",
         "paragraphs": []
       }
     },
@@ -7256,6 +7231,21 @@
         "sourceVersion": "036df1b2c9cdcf70fa380a1a06d836f541cd960da28a79f9a799b9110f5fcbd5",
         "paragraphs": []
       }
+    },
+    {
+      "id": "7ce6a451aa086fc3074c684e",
+      "key": "source:BH00052",
+      "source": "BH00052",
+      "sourceVersion": "1223afee3aecda5ee3ac4a295d3acefe5854b4e5c61b2f98eb5aac6a7333ea38",
+      "status": "confirmed",
+      "reference": "BH00052",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        22
+      ],
+      "text": "O people of the Bayan! Do ye read the verses while denying their Revealer? By God the Truth! None hath done as ye have done, nor have any peoples committed what ye have committed. Woe unto you, O company of evil ones! Ye have indeed failed in your own selves, to such extent that ye have forgotten God's covenant, broken His testament, and turned away from Him by Whose command ye and the heavens and earth were created. There is no God but Him. His is the creation and the command. He sendeth down what He willeth to whom He willeth, and all things are decreed in His presence.",
+      "reason": "Addresses reading revealed verses while denying their Revealer."
     }
   ],
   "omitted": [
@@ -7456,7 +7446,43 @@
       "n": 297,
       "source": "BH06871",
       "reason": "Surveyed before analysis; selected complementary passages state the subject’s central teachings, qualifications or practical applications more substantively or with less repetition. No verified authorized quotation omitted."
+    },
+    {
+      "n": 39,
+      "group": 2,
+      "id": "61513602b595699658327f65",
+      "key": "source:BB00003",
+      "source": "BB00003",
+      "sourceVersion": "df2921c8cd1cb1bd7768c8a6fec0c9877afb228e455135b3dbf89bdf4597656d",
+      "status": "normalized",
+      "reference": "BB00003",
+      "authorization": "Y2255-2259,2261-2263,2265-2267,2269-2271,2273-2275,2277-2281,2283-2286,2288-2293,2295-2305,2307-2310,2312-2317,2319,2321-2328,2330-2333",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        1284,
+        1285
+      ],
+      "text": "Watch then for Him Whom God shall make manifest, for ye prostrate yourselves before God. Say: We all prostrate to Him. Say: We all are devoted to Him. Say: All fear His justice and hope for His grace, and all are suppliants before Him. … O people of the Bayan! Fear ye your own selves, for on the Day of Him Whom God shall make manifest, your inner realities shall be exposed and ye shall remain in your remoteness just as nations before you remained",
+      "reason": "The new direct address by Baha’u’llah complements the Bab’s warning against imposing old laws; replace the more general exhortation to watch.",
+      "authorityEvidence": {
+        "kind": "no_authorized_selected_paragraph",
+        "metadata": "Y2255-2259,2261-2263,2265-2267,2269-2271,2273-2275,2277-2281,2283-2286,2288-2293,2295-2305,2307-2310,2312-2317,2319,2321-2328,2330-2333",
+        "sourceVersion": "df2921c8cd1cb1bd7768c8a6fec0c9877afb228e455135b3dbf89bdf4597656d",
+        "paragraphs": []
+      }
     }
   ],
-  "importedAuthorityReview": []
+  "importedAuthorityReview": [],
+  "integrationReview": {
+    "date": "2026-10-20",
+    "decision": "The new direct address by Baha’u’llah complements the Bab’s warning against imposing old laws; replace the more general exhortation to watch.",
+    "added": [
+      "7ce6a451aa086fc3074c684e"
+    ],
+    "replaced": [
+      "61513602b595699658327f65"
+    ],
+    "finalizedBeforeRebuild": true
+  }
 }

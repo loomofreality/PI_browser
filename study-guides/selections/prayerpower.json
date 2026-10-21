@@ -3,9 +3,9 @@
   "createdAt": "2026-10-13T21:46:40.181Z",
   "status": "finalized_before_analysis",
   "subject": "374926D1B4A0440A807608CC09170687",
-  "dataset": "collections/7acbc96b-60b/",
-  "candidateFingerprint": "11bff09bb29e7bc164187d9d431719b93c7cdb39b3fb2ac4cef7c3a21b4f350a",
-  "candidateCount": 515,
+  "dataset": "collections/editorial-83f59e6ea2d8/",
+  "candidateFingerprint": "369256ccbbbaf67feb4637c377a22920da722a9db41ce5f369cf817361fe7072",
+  "candidateCount": 516,
   "target": 300,
   "selectedCount": 300,
   "mandatoryAuthorizedCount": 42,
@@ -585,30 +585,6 @@
         "kind": "no_authorized_selected_paragraph",
         "metadata": "",
         "sourceVersion": "b8162868cc94c34885887e019098a256c8f54ad8321c433d9eaf89dd5e5bb440",
-        "paragraphs": []
-      }
-    },
-    {
-      "n": 71,
-      "group": 114,
-      "id": "60e5db153daa42ab1661deef",
-      "key": "source:BH04766",
-      "source": "BH04766",
-      "sourceVersion": "d16b0e5ae1779694c6233c2a510afc5fd88210ba0feead21a83620cb0ba40032",
-      "status": "exact",
-      "reference": "BH04766",
-      "authorization": "",
-      "authorizedParagraphs": [],
-      "mandatoryAuthorized": false,
-      "paragraphs": [
-        2
-      ],
-      "text": "We have read thy letter before Us and heard thy cry and supplication at thy remoteness from the Dawning-Place of Lights.",
-      "reason": "Tablet of Bahá’u’lláh recording that the recipient’s cry at his remoteness was heard; a reply to separation.",
-      "authorityEvidence": {
-        "kind": "no_authorized_selected_paragraph",
-        "metadata": "",
-        "sourceVersion": "d16b0e5ae1779694c6233c2a510afc5fd88210ba0feead21a83620cb0ba40032",
         "paragraphs": []
       }
     },
@@ -7402,6 +7378,21 @@
         "sourceVersion": "2b2db6dbcd3024d90d810da436f20d27b4b9a348922139f0f93ab2334577631a",
         "paragraphs": []
       }
+    },
+    {
+      "id": "e7ac2e8b10244b6a116c3ea4",
+      "key": "source:BB00061",
+      "source": "BB00061",
+      "sourceVersion": "05abdb07854f1f437a3c5949a0ea6d4fcbad6be95025a00e23fdb448a1bd38df",
+      "status": "confirmed",
+      "reference": "BB00061",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        20
+      ],
+      "text": "For this reason, God does not accept the prayers of most supplicants, nor are they answered, because they call upon what they do not know. When anyone calls upon God in this way, God answers immediately, for turning to God in true unity is greater than what the servant asks of his Lord. Prayer in that station is itself the answer, and therefore God has said: \"Call upon Me; I will answer you.\" There is no doubt that God's promise is fulfilled.",
+      "reason": "Explains prayer itself as an answer when offered in true turning toward God."
     }
   ],
   "omitted": [
@@ -8694,6 +8685,30 @@
       "n": 506,
       "source": "ABU3093",
       "reason": "Surveyed before analysis; selected complementary passages state the subject’s central teachings, qualifications or practical applications more substantively or with less repetition. No verified authorized quotation omitted."
+    },
+    {
+      "n": 71,
+      "group": 114,
+      "id": "60e5db153daa42ab1661deef",
+      "key": "source:BH04766",
+      "source": "BH04766",
+      "sourceVersion": "d16b0e5ae1779694c6233c2a510afc5fd88210ba0feead21a83620cb0ba40032",
+      "status": "exact",
+      "reference": "BH04766",
+      "authorization": "",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        2
+      ],
+      "text": "We have read thy letter before Us and heard thy cry and supplication at thy remoteness from the Dawning-Place of Lights.",
+      "reason": "Prayer itself as an answer offers a substantive explanation beyond a short acknowledgment that a cry was heard.",
+      "authorityEvidence": {
+        "kind": "no_authorized_selected_paragraph",
+        "metadata": "",
+        "sourceVersion": "d16b0e5ae1779694c6233c2a510afc5fd88210ba0feead21a83620cb0ba40032",
+        "paragraphs": []
+      }
     }
   ],
   "importedAuthorityReview": [
@@ -8751,5 +8766,16 @@
       "reviewedAt": "2026-10-13T21:46:40.181Z",
       "contextRestored": false
     }
-  ]
+  ],
+  "integrationReview": {
+    "date": "2026-10-20",
+    "decision": "Prayer itself as an answer offers a substantive explanation beyond a short acknowledgment that a cry was heard.",
+    "added": [
+      "e7ac2e8b10244b6a116c3ea4"
+    ],
+    "replaced": [
+      "60e5db153daa42ab1661deef"
+    ],
+    "finalizedBeforeRebuild": true
+  }
 }

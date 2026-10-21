@@ -7,7 +7,7 @@
       "displayTitle": "Transcendence and the unknowability of God",
       "selection": {
         "review": "selections/unknowability.json",
-        "sha256": "32ccea95ec24b35bb8474cd08b21aad4bb0ea8f3116088a2de2994ca221c78bb",
+        "sha256": "7dd14ee94ae40e56583e5c561d66e14ae27c294ebf63cdd0257ad2406e860e55",
         "ids": [
           "84c9d84fbcd5c17ef03eb0b1",
           "a66ec99dbc67d2b224fe4080",
@@ -158,7 +158,6 @@
           "e119ccf911365900d678c4eb",
           "5b4eceae4185415d4bf9187e",
           "d522dcf8858357748b638951",
-          "0071ca7444b914e939665163",
           "aa73af5dce9f55e77b17ee65",
           "a763831fdb1e5e58677801ea",
           "ca2f52703100d3d2ab98c1ed",
@@ -308,7 +307,8 @@
           "8187d1f98468c55d6587ee50",
           "a7cbbf625d44e9ea37e170cd",
           "9e6d2160244d19c001882f9e",
-          "7066fbf678dd578cb402d482"
+          "7066fbf678dd578cb402d482",
+          "506fb6d300563bc765d5b6ce"
         ]
       },
       "introduction": "To say that God cannot be known sounds at first like a closed door, yet Bahá’u’lláh treats it as the beginning of every real approach to the divine. The Essence of God, He teaches, is beyond number and direction, beyond rising and setting, beyond the farthest flight of the heart; whatever a mind manages to picture is a creature of that mind and not its Creator. The journey begins by admitting this, and then discovering how much remains open: the signs scattered through creation, the names and attributes by which God permits Himself to be praised, and the Manifestation, the mirror in which the sun appears without descending into it. The question deepens as it travels. A mineral cannot conceive of sight, so how far can the lower reach toward the higher? What can language carry before it meets its limit? And when praise itself confesses that it falls short, why does the longing to pray only grow stronger? Humility before an unsearchable God turns out to be a form of nearness, and a reason for service.",
@@ -941,6 +941,10 @@
             "I testify that God hath ever been and will ever be too exalted to be a treasure unto any of His creation. However, since God hath created all things for His knowledge and worship, He hath opened for them a path in creation beyond which nothing is possible in invention, and hath made Him Whom God shall make manifest the Sun of Truth, purified from all that is attributed unto Him.",
             "I testify that the Divine Essence is an inaccessible mystery that none save Him can know, and when thou desirest to know Him, know Him through His Manifestation in every Revelation, for no other way is possible in the contingent world."
           ]
+        },
+        {
+          "key": "source:BH00586",
+          "why": "Affirms divine manifestation in all things while preserving transcendence."
         },
         {
           "key": "source:BB00426",

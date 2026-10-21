@@ -3,9 +3,9 @@
   "createdAt": "2026-10-13T21:37:47.994Z",
   "status": "finalized_before_analysis",
   "subject": "71CA0BAD93CAE678CC1BA773DF8A5EC8",
-  "dataset": "collections/7acbc96b-60b/",
-  "candidateFingerprint": "73b2f7ec881a4319b4ae50e8aa44d754ee127ea4347f5aee19f5d5c097ab4ae3",
-  "candidateCount": 416,
+  "dataset": "collections/editorial-83f59e6ea2d8/",
+  "candidateFingerprint": "a3e91cc8dae435223709887659375de88212f8ffb6f2d17b3cedc1b615103289",
+  "candidateCount": 417,
   "target": 300,
   "selectedCount": 300,
   "mandatoryAuthorizedCount": 4,
@@ -4629,30 +4629,6 @@
       }
     },
     {
-      "n": 307,
-      "group": 173,
-      "id": "30fa610c0f8d1e076eab8462",
-      "key": "source:BH11612",
-      "source": "BH11612",
-      "sourceVersion": "a4b54d3963158303094f4aff287ef2a684dd6af0ad88d21734aee623248a3c33",
-      "status": "exact",
-      "reference": "BH11612",
-      "authorization": "",
-      "authorizedParagraphs": [],
-      "mandatoryAuthorized": false,
-      "paragraphs": [
-        3
-      ],
-      "text": "And now, O beloved of My heart! Thy letter arrived repeatedly, news arrived, and praise be to God, the morn of hope hath dawned, in that, praise be to God, the Sun of loving-kindness hath risen and permission hath been granted.",
-      "reason": "Bahá’u’lláh tells a beloved correspondent that after repeated letters the morn of hope has dawned and permission is granted.",
-      "authorityEvidence": {
-        "kind": "no_authorized_selected_paragraph",
-        "metadata": "",
-        "sourceVersion": "a4b54d3963158303094f4aff287ef2a684dd6af0ad88d21734aee623248a3c33",
-        "paragraphs": []
-      }
-    },
-    {
       "n": 308,
       "group": 108,
       "id": "bd01619fc8a7810d4df57a18",
@@ -7239,6 +7215,21 @@
         "sourceVersion": "6f0cd47c1113ee69ff4f556c0f7a2999b54d35e59c39fd114da792945022ee92",
         "paragraphs": []
       }
+    },
+    {
+      "id": "f35c821664b794eb3925dbab",
+      "key": "source:AB00041",
+      "source": "AB00041",
+      "sourceVersion": "4ce89f7afb9bab2ced9fcf15339eeaf9dc5b91a83a87b1fc646101a998b09cc5",
+      "status": "confirmed",
+      "reference": "AB00041",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        14
+      ],
+      "text": "In the coming spring, whoever is able - that is, has complete and adequate means for the journey to and from - may come in the spirit of joy and fragrance. If they seek permission to attain the Holy Threshold, permission will be granted. Now the wisdom of preventing visits has become clear, for in these days of upheaval what difficulties would have resulted! Therefore take heed, O people of insight! Thus it has become evident that whatever is written is based on consummate wisdom.",
+      "reason": "Explains permission to visit in relation to means and changing circumstances."
     }
   ],
   "omitted": [
@@ -7937,7 +7928,42 @@
       "n": 403,
       "source": "AB09457",
       "reason": "Surveyed before analysis; selected complementary passages state the subject’s central teachings, qualifications or practical applications more substantively or with less repetition. No verified authorized quotation omitted."
+    },
+    {
+      "n": 307,
+      "group": 173,
+      "id": "30fa610c0f8d1e076eab8462",
+      "key": "source:BH11612",
+      "source": "BH11612",
+      "sourceVersion": "a4b54d3963158303094f4aff287ef2a684dd6af0ad88d21734aee623248a3c33",
+      "status": "exact",
+      "reference": "BH11612",
+      "authorization": "",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        3
+      ],
+      "text": "And now, O beloved of My heart! Thy letter arrived repeatedly, news arrived, and praise be to God, the morn of hope hath dawned, in that, praise be to God, the Sun of loving-kindness hath risen and permission hath been granted.",
+      "reason": "Means for the return journey and changing conditions add practical qualifications beyond a repeated grant of permission.",
+      "authorityEvidence": {
+        "kind": "no_authorized_selected_paragraph",
+        "metadata": "",
+        "sourceVersion": "a4b54d3963158303094f4aff287ef2a684dd6af0ad88d21734aee623248a3c33",
+        "paragraphs": []
+      }
     }
   ],
-  "importedAuthorityReview": []
+  "importedAuthorityReview": [],
+  "integrationReview": {
+    "date": "2026-10-20",
+    "decision": "Means for the return journey and changing conditions add practical qualifications beyond a repeated grant of permission.",
+    "added": [
+      "f35c821664b794eb3925dbab"
+    ],
+    "replaced": [
+      "30fa610c0f8d1e076eab8462"
+    ],
+    "finalizedBeforeRebuild": true
+  }
 }

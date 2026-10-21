@@ -3,12 +3,12 @@
   "createdAt": "2026-10-13T21:45:25.235Z",
   "status": "finalized_before_analysis",
   "subject": "0E46A9D425ED4F89AB54563B472E6EF6",
-  "dataset": "collections/7acbc96b-60b/",
-  "candidateFingerprint": "572a08bd29130df40d5131982f50101df58ee0e9b9e38f2f12994356f9b4887e",
-  "candidateCount": 418,
+  "dataset": "collections/editorial-83f59e6ea2d8/",
+  "candidateFingerprint": "5f077b0354af2b9df2e09be609ec413f550b685c81e420c3f1223ec60d5af283",
+  "candidateCount": 419,
   "target": 300,
   "selectedCount": 300,
-  "mandatoryAuthorizedCount": 51,
+  "mandatoryAuthorizedCount": 52,
   "selectionBeforeAnalysis": true,
   "method": "Complete candidate survey followed by individual editorial choices and written reasons, applied to the existing complete guide to keep it within 300 quotations. All verified authorized selections included. Priority given to foundational teachings, substantive explanations, necessary qualifications, distinctive applications, narrative examples and thematic breadth across power that gives life through suffering accepted for others, the fruits of education in character and fellowship, miracles, evidence and recognition, the station of the divine Educator, a word that renews creation, the promise and the voice, capacity, veils and the act of seeing, sovereignty and its purpose, the call from within captivity, encounters and recollections, an influence that continues, and receiving power through service. Neither citation count nor source order used as a ranking rule. Imported wording checked separately; version differences remain explicit. The existing reading arc is retained.",
   "selected": [
@@ -1129,30 +1129,6 @@
         "kind": "no_authorized_selected_paragraph",
         "metadata": "",
         "sourceVersion": "069e02b32ad53a55219d0ee40c8496e5bf809e304045a6d9dcfbfbafca011488",
-        "paragraphs": []
-      }
-    },
-    {
-      "n": 113,
-      "group": 9,
-      "id": "d0566c4dcfcc7bab30536717",
-      "key": "source:BB00002",
-      "source": "BB00002",
-      "sourceVersion": "1903959e9481acc14ae2d5660dc5d0bc0a4e63782224754f5523b3f2b295f9f3",
-      "status": "exact",
-      "reference": "BB00002",
-      "authorization": "Y343,1284,1309,1603,2340",
-      "authorizedParagraphs": [],
-      "mandatoryAuthorized": false,
-      "paragraphs": [
-        509
-      ],
-      "text": "Do people think that the Remembrance seeth not their deeds? Nay, for He is the Witness from God, their Lord, over all the worlds together.",
-      "reason": "The Báb’s statement that the Remembrance sees people’s deeds as the Witness from God over all the worlds; a brief statement of the Manifestation as witness.",
-      "authorityEvidence": {
-        "kind": "no_authorized_selected_paragraph",
-        "metadata": "Y343,1284,1309,1603,2340",
-        "sourceVersion": "1903959e9481acc14ae2d5660dc5d0bc0a4e63782224754f5523b3f2b295f9f3",
         "paragraphs": []
       }
     },
@@ -7464,6 +7440,23 @@
         "reviewedAt": "2026-10-13T21:45:25.235Z",
         "contextRestored": false
       }
+    },
+    {
+      "id": "6d7d0809ca4d9d48bee57fd9",
+      "key": "source:ABU0033",
+      "source": "ABU0033",
+      "sourceVersion": "399abea2e9b21af09eb0e09e28160e77efc9f0d90a8598e7bee2ab6abeffd0cd",
+      "status": "confirmed",
+      "reference": "ABU0033",
+      "authorizedParagraphs": [
+        13
+      ],
+      "mandatoryAuthorized": true,
+      "paragraphs": [
+        13
+      ],
+      "text": "The holy Manifestations of God come into the world to dispel the darkness of the animal, or physical, nature of man, to purify him from his imperfections in order that his heavenly and spiritual nature may become quickened, his divine qualities awakened, his perfections visible, his potential powers revealed and all the virtues of the world of humanity latent within him may come to life. These holy Manifestations of God are the Educators and Trainers of the world of existence, the Teachers of the world of humanity. They liberate man from the darkness of the world of nature, deliver him from despair, error, ignorance, imperfections and all evil qualities.",
+      "reason": "Mandatory authorized wording. Describes the Manifestations’ power to quicken latent spiritual capacities."
     }
   ],
   "omitted": [
@@ -8170,6 +8163,30 @@
       "id": "7f63b3b25ce549e9df801e13",
       "n": 413,
       "reason": "Imported rendering of the image of power that turns poison into a panacea; the same paragraph is carried by the catalogue passage #45. No verified authorized quotation omitted."
+    },
+    {
+      "n": 113,
+      "group": 9,
+      "id": "d0566c4dcfcc7bab30536717",
+      "key": "source:BB00002",
+      "source": "BB00002",
+      "sourceVersion": "1903959e9481acc14ae2d5660dc5d0bc0a4e63782224754f5523b3f2b295f9f3",
+      "status": "exact",
+      "reference": "BB00002",
+      "authorization": "Y343,1284,1309,1603,2340",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        509
+      ],
+      "text": "Do people think that the Remembrance seeth not their deeds? Nay, for He is the Witness from God, their Lord, over all the worlds together.",
+      "reason": "Include verified authorized wording; a full account of moral transformation replaces the short question about divine witness.",
+      "authorityEvidence": {
+        "kind": "no_authorized_selected_paragraph",
+        "metadata": "Y343,1284,1309,1603,2340",
+        "sourceVersion": "1903959e9481acc14ae2d5660dc5d0bc0a4e63782224754f5523b3f2b295f9f3",
+        "paragraphs": []
+      }
     }
   ],
   "importedAuthorityReview": [
@@ -8256,5 +8273,16 @@
       "reviewedAt": "2026-10-13T21:45:25.235Z",
       "contextRestored": false
     }
-  ]
+  ],
+  "integrationReview": {
+    "date": "2026-10-20",
+    "decision": "Include verified authorized wording; a full account of moral transformation replaces the short question about divine witness.",
+    "added": [
+      "6d7d0809ca4d9d48bee57fd9"
+    ],
+    "replaced": [
+      "d0566c4dcfcc7bab30536717"
+    ],
+    "finalizedBeforeRebuild": true
+  }
 }

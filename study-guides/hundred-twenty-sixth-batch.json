@@ -7,7 +7,7 @@
       "displayTitle": "Prayer for steadfastness: love, obedience and enduring service",
       "selection": {
         "review": "selections/prayersteadfastness.json",
-        "sha256": "5f41cc8165d8fc69fbc372ee2db746a7f4b92c7836ebc40b5b6d8a12eb994c52",
+        "sha256": "4010f46b397e7f047cc0aac212b1c97d115247b080466e58152e50e5cbd64aa6",
         "ids": [
           "ceb548889b22236abbefd074",
           "137eb1a93040da42a10e8114",
@@ -15,7 +15,6 @@
           "5f85c19197390c0720ce4d21",
           "f5eeb7526c31ebd074b40882",
           "235f54877f67326d71186c39",
-          "541c82b74198be7033b0fbd7",
           "bdd52691b948d18ca50af057",
           "e156895612552a6cf833ff2f",
           "f5cef9305e70823a9219a321",
@@ -308,7 +307,8 @@
           "0989b15a82eb128823f91f3a",
           "c370aa2b45af2e31624ffb98",
           "ec5bb238a5788da155ff7964",
-          "51cf425bf0150b9ddac9bee8"
+          "51cf425bf0150b9ddac9bee8",
+          "485253037a2cdbcde35bf280"
         ]
       },
       "introduction": "Steadfastness, as Bahá’u’lláh and ‘Abdu’l-Bahá teach it in prayer, is never claimed as a personal achievement. It is asked for. The heart cannot find tranquillity, one prayer confesses, except through divine loving-kindness; the servant who testifies to God’s oneness admits that doubt still seizes him at times; a broken-winged bird asks to be made firm. To pray for constancy is to accept that love must be renewed, and that the renewal comes from beyond oneself. Yet the asking never rests in the heart alone. Firmness is meant to show itself in trustworthiness, forgiveness, wise speech and virtuous deeds, in a service that reaches as far as reconciliation among peoples. The images change with the need: a cord to hold, a sheltering tree, living water for a thirsty soul, the fortified stronghold of the Covenant. Prisoners, widows and whole families are prayed for by name, and prosperity is named as a test no less than adversity. From here the journey leads into the wider life of prayer, and into steadfastness and perseverance as the daily shape that faithfulness takes.",
@@ -1294,11 +1294,8 @@
           ]
         },
         {
-          "key": "source:BH09859",
-          "why": "Develop the practical direction of steadfastness: thoughtful speech, service to others, a peaceful purpose and work carried out with wisdom.",
-          "shortened": [
-            "I beseech Thee by the Sun of Thy Cause and the heaven of Thy grace, and by Thy loved ones who have circled round Thee and sacrificed their spirits in Thy days, to aid Thy loved ones with patience from Thee and steadfastness from Thy presence."
-          ]
+          "key": "source:AB08903",
+          "why": "A prayer for a child’s faith, wisdom and steadfastness."
         },
         {
           "key": "source:BH11614",

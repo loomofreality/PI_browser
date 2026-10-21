@@ -3,9 +3,9 @@
   "createdAt": "2026-10-13T21:40:41.822Z",
   "status": "finalized_before_analysis",
   "subject": "D639D12CD679E3ED02A0F7A8D7835DB2",
-  "dataset": "collections/7acbc96b-60b/",
-  "candidateFingerprint": "8a1c3e2215b56b8a5459c3a263d59ede2908411f8ce3c9948068d14014df6fa5",
-  "candidateCount": 683,
+  "dataset": "collections/editorial-83f59e6ea2d8/",
+  "candidateFingerprint": "3cdea6e9fa84a0080bf8cb96c6941be544ce9bff66fc9eff4176ec2e35b3c4ac",
+  "candidateCount": 684,
   "target": 300,
   "selectedCount": 300,
   "mandatoryAuthorizedCount": 8,
@@ -2979,30 +2979,6 @@
         "kind": "no_authorized_selected_paragraph",
         "metadata": "N",
         "sourceVersion": "7f7d6be64acf8a3d2a68855168c6a7c02fd67786adba44b615d675742746be1b",
-        "paragraphs": []
-      }
-    },
-    {
-      "n": 390,
-      "group": 597,
-      "id": "75062541e28ccab53ba6b183",
-      "key": "source:BH06602",
-      "source": "BH06602",
-      "sourceVersion": "23dd972919741cfb875a4d90cf1b89b77787cd2f68e3631af773f4e3051d0862",
-      "status": "exact",
-      "reference": "BH06602",
-      "authorization": "",
-      "authorizedParagraphs": [],
-      "mandatoryAuthorized": false,
-      "paragraphs": [
-        5
-      ],
-      "text": "Convey My greetings unto thy wife who attained the presence when the Luminary of the horizons was shining from the direction of Iraq. We beseech God to assist thee and her in that which He loveth and is pleased with.",
-      "reason": "Bahá’u’lláh sends greetings to a believer’s wife who attained His presence in Iraq; remembrance of a whole family.",
-      "authorityEvidence": {
-        "kind": "no_authorized_selected_paragraph",
-        "metadata": "",
-        "sourceVersion": "23dd972919741cfb875a4d90cf1b89b77787cd2f68e3631af773f4e3051d0862",
         "paragraphs": []
       }
     },
@@ -7262,6 +7238,21 @@
         "sourceVersion": "a4b85b689f27c6e5f90968b56814b851ec70d519e9c7d8bc60e9b809c7dcc6b8",
         "paragraphs": []
       }
+    },
+    {
+      "id": "80f3f59926bf3395dfa79f43",
+      "key": "source:AB01090",
+      "source": "AB01090",
+      "sourceVersion": "e1a86196cbdd3841a1c8c4c103646e895df2278467487ff90c0659c7321e051b",
+      "status": "confirmed",
+      "reference": "AB01090",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        4
+      ],
+      "text": "Regarding your signature, you did not understand the intent. The purpose was not what you thought, rather the intent was that whatever station this servant describes or even desires for himself, you should endorse it - meaning you should mention that same station for this servant in letters and statements. And the station of this servant is 'Abdu'l-Baha. You had somehow thought the intent was about signing your letter - this was absolutely not the purpose.",
+      "reason": "Corrects a recipient’s misunderstanding of a personal instruction."
     }
   ],
   "omitted": [
@@ -9562,7 +9553,42 @@
       "n": 682,
       "source": "BH00971",
       "reason": "Surveyed before analysis; selected complementary passages state the subject’s central teachings, qualifications or practical applications more substantively or with less repetition. No verified authorized quotation omitted."
+    },
+    {
+      "n": 390,
+      "group": 597,
+      "id": "75062541e28ccab53ba6b183",
+      "key": "source:BH06602",
+      "source": "BH06602",
+      "sourceVersion": "23dd972919741cfb875a4d90cf1b89b77787cd2f68e3631af773f4e3051d0862",
+      "status": "exact",
+      "reference": "BH06602",
+      "authorization": "",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        5
+      ],
+      "text": "Convey My greetings unto thy wife who attained the presence when the Luminary of the horizons was shining from the direction of Iraq. We beseech God to assist thee and her in that which He loveth and is pleased with.",
+      "reason": "Clarifying a misunderstood personal instruction offers more substance than a greeting to a correspondent’s wife.",
+      "authorityEvidence": {
+        "kind": "no_authorized_selected_paragraph",
+        "metadata": "",
+        "sourceVersion": "23dd972919741cfb875a4d90cf1b89b77787cd2f68e3631af773f4e3051d0862",
+        "paragraphs": []
+      }
     }
   ],
-  "importedAuthorityReview": []
+  "importedAuthorityReview": [],
+  "integrationReview": {
+    "date": "2026-10-20",
+    "decision": "Clarifying a misunderstood personal instruction offers more substance than a greeting to a correspondent’s wife.",
+    "added": [
+      "80f3f59926bf3395dfa79f43"
+    ],
+    "replaced": [
+      "75062541e28ccab53ba6b183"
+    ],
+    "finalizedBeforeRebuild": true
+  }
 }

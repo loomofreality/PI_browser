@@ -3,9 +3,9 @@
   "createdAt": "2026-10-13T21:33:00.381Z",
   "status": "finalized_before_analysis",
   "subject": "7A8DB05467DBEF2954FD9B30F84AA0E8",
-  "dataset": "collections/7acbc96b-60b/",
-  "candidateFingerprint": "5095d5b3f6ad3d0e12b1d0294288e2cde6e94dbb4dc6fcd487053d1da55f0a23",
-  "candidateCount": 408,
+  "dataset": "collections/editorial-83f59e6ea2d8/",
+  "candidateFingerprint": "8cf5dbac33989c2bfe5a76d5f115042d0eaa0c45e86c00dc50eafefa1db44346",
+  "candidateCount": 409,
   "target": 300,
   "selectedCount": 300,
   "mandatoryAuthorizedCount": 14,
@@ -1169,30 +1169,6 @@
         "kind": "no_authorized_selected_paragraph",
         "metadata": "Y4",
         "sourceVersion": "e0a4c1356f5f8da0b870b6289c8a3a920e4fe6a7dfb7ff649a9b5971852ba6de",
-        "paragraphs": []
-      }
-    },
-    {
-      "n": 101,
-      "group": 1,
-      "id": "4274408a6b9a4662b609dee6",
-      "key": "source:BB00002",
-      "source": "BB00002",
-      "sourceVersion": "1903959e9481acc14ae2d5660dc5d0bc0a4e63782224754f5523b3f2b295f9f3",
-      "status": "exact",
-      "reference": "BB00002",
-      "authorization": "Y343,1284,1309,1603,2340",
-      "authorizedParagraphs": [],
-      "mandatoryAuthorized": false,
-      "paragraphs": [
-        398
-      ],
-      "text": "We did forbid Adam and his mate from Our tree in that Gate, and We willed that they should draw nigh unto it according to what We knew concerning them. Thus did they draw nigh, and were deprived of the blessings of Paradise.",
-      "reason": "The Báb’s verse on Adam and his mate drawing near the tree and being deprived of Paradise; the revealed treatment of the Adam story.",
-      "authorityEvidence": {
-        "kind": "no_authorized_selected_paragraph",
-        "metadata": "Y343,1284,1309,1603,2340",
-        "sourceVersion": "1903959e9481acc14ae2d5660dc5d0bc0a4e63782224754f5523b3f2b295f9f3",
         "paragraphs": []
       }
     },
@@ -7416,6 +7392,21 @@
         "sourceVersion": "e03728bf7a9c7a64b18982c27787f453a5bc2bafafd78d74291409bd02602a40",
         "paragraphs": []
       }
+    },
+    {
+      "id": "de50f3231ee0d808dbe324dc",
+      "key": "source:BH02058",
+      "source": "BH02058",
+      "sourceVersion": "2428c23599f4f2591ec5c4920d229de36b715bfa3f18df92064ed12cc8f7d37a",
+      "status": "confirmed",
+      "reference": "BH02058",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        4
+      ],
+      "text": "Our story and yours is like that of the Bedouin who came before a great one and said \"I am poor.\" The great one replied \"We are all poor, as God hath said: 'O people! Ye are all poor before God, and God is the Self-Sufficient, the All-Praised.'\" Then he said \"I wish to make pilgrimage to Mecca.\" The great one replied \"God bless you, for pilgrimage to the House is prescribed for people by God.\" Then he said \"I have no means for the journey.\" He replied \"No blame is on you; stay at home, for God hath said 'for those who are able to make their way thereto.'\" Then he said \"O my master, I came for my need, not for sermons!\"",
+      "reason": "A humorous anecdote about practical need and unsolicited sermons."
     }
   ],
   "omitted": [
@@ -8066,7 +8057,42 @@
       "n": 389,
       "source": "ABU1367",
       "reason": "Surveyed before analysis; selected complementary passages state the subject’s central teachings, qualifications or practical applications more substantively or with less repetition. No verified authorized quotation omitted."
+    },
+    {
+      "n": 101,
+      "group": 1,
+      "id": "4274408a6b9a4662b609dee6",
+      "key": "source:BB00002",
+      "source": "BB00002",
+      "sourceVersion": "1903959e9481acc14ae2d5660dc5d0bc0a4e63782224754f5523b3f2b295f9f3",
+      "status": "exact",
+      "reference": "BB00002",
+      "authorization": "Y343,1284,1309,1603,2340",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        398
+      ],
+      "text": "We did forbid Adam and his mate from Our tree in that Gate, and We willed that they should draw nigh unto it according to what We knew concerning them. Thus did they draw nigh, and were deprived of the blessings of Paradise.",
+      "reason": "The complete Bedouin anecdote adds humor and practical need to a section otherwise represented by short symbolic scriptural narratives.",
+      "authorityEvidence": {
+        "kind": "no_authorized_selected_paragraph",
+        "metadata": "Y343,1284,1309,1603,2340",
+        "sourceVersion": "1903959e9481acc14ae2d5660dc5d0bc0a4e63782224754f5523b3f2b295f9f3",
+        "paragraphs": []
+      }
     }
   ],
-  "importedAuthorityReview": []
+  "importedAuthorityReview": [],
+  "integrationReview": {
+    "date": "2026-10-20",
+    "decision": "The complete Bedouin anecdote adds humor and practical need to a section otherwise represented by short symbolic scriptural narratives.",
+    "added": [
+      "de50f3231ee0d808dbe324dc"
+    ],
+    "replaced": [
+      "4274408a6b9a4662b609dee6"
+    ],
+    "finalizedBeforeRebuild": true
+  }
 }

@@ -3,9 +3,9 @@
   "createdAt": "2026-10-13T21:45:28.490Z",
   "status": "finalized_before_analysis",
   "subject": "F98B57795BFF4F67AF474B13EE107703",
-  "dataset": "collections/7acbc96b-60b/",
-  "candidateFingerprint": "efb1d681596595239a02ab0458ac0545ff3ba9fc1019644e7c59ac76046933e3",
-  "candidateCount": 510,
+  "dataset": "collections/editorial-83f59e6ea2d8/",
+  "candidateFingerprint": "e1bf9e066f5ad81f0951edf81f5785be55d66efca8a346a18a4a057e9ce72866",
+  "candidateCount": 511,
   "target": 300,
   "selectedCount": 300,
   "mandatoryAuthorizedCount": 39,
@@ -8653,6 +8653,11 @@
       "n": 505,
       "source": "ABU2109",
       "reason": "Surveyed before analysis; selected complementary passages state the subject’s central teachings, qualifications or practical applications more substantively or with less repetition. No verified authorized quotation omitted."
+    },
+    {
+      "id": "85eeddb3731660e92cbe630c",
+      "source": "AB01416",
+      "reason": "The new letter acknowledgment does not improve on the existing link between humility and hope or the distinct Pharisee-and-poor-man comparison."
     }
   ],
   "importedAuthorityReview": [
@@ -8701,5 +8706,12 @@
       "reviewedAt": "2026-10-13T21:45:28.490Z",
       "contextRestored": false
     }
-  ]
+  ],
+  "integrationReview": {
+    "date": "2026-10-20",
+    "decision": "The new letter acknowledgment does not improve on the existing link between humility and hope or the distinct Pharisee-and-poor-man comparison.",
+    "added": [],
+    "replaced": [],
+    "finalizedBeforeRebuild": true
+  }
 }

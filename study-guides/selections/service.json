@@ -3,9 +3,9 @@
   "createdAt": "2026-10-11T20:08:43.228Z",
   "status": "finalized_before_analysis",
   "subject": "75315FCCBA5D4B54A22808A1159B1775",
-  "dataset": "collections/390a77fa-5b4/",
-  "candidateFingerprint": "5b5b91508d834f827b92071d4b2d1f6a8cca1f24b787488901a1feb70fbf8859",
-  "candidateCount": 1661,
+  "dataset": "collections/editorial-83f59e6ea2d8/",
+  "candidateFingerprint": "bd7ba7b13f09b554c2d86ed324c4535454d98b7f101e03165c435ce2d347b8b7",
+  "candidateCount": 1662,
   "target": 300,
   "selectedCount": 300,
   "mandatoryAuthorizedCount": 88,
@@ -15759,6 +15759,11 @@
       "n": 1659,
       "source": null,
       "reason": "Surveyed before analysis; selected complementary passages state the subject’s central teachings, qualifications or practical applications more substantively or with less repetition. No verified authorized quotation omitted."
+    },
+    {
+      "id": "735c47f445d12070f01dbfde",
+      "source": "BH00625",
+      "reason": "Keep useful invention and the arising of local people as distinct applications of service; the new general portrait of servants does not improve that practical breadth."
     }
   ],
   "importedAuthorityReview": [
@@ -15858,5 +15863,12 @@
       "reviewedAt": "2026-10-11T20:08:43.185Z",
       "contextRestored": false
     }
-  ]
+  ],
+  "integrationReview": {
+    "date": "2026-10-20",
+    "decision": "Keep useful invention and the arising of local people as distinct applications of service; the new general portrait of servants does not improve that practical breadth.",
+    "added": [],
+    "replaced": [],
+    "finalizedBeforeRebuild": true
+  }
 }

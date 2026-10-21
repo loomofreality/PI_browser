@@ -3,9 +3,9 @@
   "createdAt": "2026-10-11T17:23:19.018Z",
   "status": "finalized_before_analysis",
   "subject": "1A99E9F886AA4DB89E927820FA635633",
-  "dataset": "collections/390a77fa-5b4/",
-  "candidateFingerprint": "86b53077fabdd011730bd95db959d52fe204e2e309d5d957c3d884a21a4a55dc",
-  "candidateCount": 1225,
+  "dataset": "collections/editorial-83f59e6ea2d8/",
+  "candidateFingerprint": "64d79c8e679cf9bbc965bffbb73de6ea2aef7f93c04dee0ade3d45537ca8847b",
+  "candidateCount": 1226,
   "target": 300,
   "selectedCount": 300,
   "mandatoryAuthorizedCount": 34,
@@ -7763,32 +7763,6 @@
       }
     },
     {
-      "n": 887,
-      "group": 848,
-      "id": "52bba5d7d74b0a355cbc02e2",
-      "key": "source:AB07333",
-      "source": "AB07333",
-      "sourceVersion": "d34ef0caaa1c635bdf32158443ddb2eba07ff65e03875fa06f8850ce7adecee2",
-      "status": "exact",
-      "reference": "AB07333",
-      "authorization": "",
-      "authorizedParagraphs": [],
-      "mandatoryAuthorized": false,
-      "paragraphs": [
-        1
-      ],
-      "text": "O thou who art firm in the Covenant! Thy letter was noted. It was evidence of humility and submissiveness and proof of attraction to the Countenance of the Desired One",
-      "stage": 3,
-      "previousPosition": 350,
-      "reason": "Obedience to ordinances, humility and sustained purposeful effort.",
-      "authorityEvidence": {
-        "kind": "no_authorized_selected_paragraph",
-        "metadata": "",
-        "sourceVersion": "d34ef0caaa1c635bdf32158443ddb2eba07ff65e03875fa06f8850ce7adecee2",
-        "paragraphs": []
-      }
-    },
-    {
       "n": 891,
       "group": 852,
       "id": "6427713db897a2dbab81d6fe",
@@ -9480,6 +9454,21 @@
         "metadata": "",
         "paragraphs": []
       }
+    },
+    {
+      "id": "49ed2fcf3feaca986d0e20e4",
+      "key": "source:AB00601",
+      "source": "AB00601",
+      "sourceVersion": "c070802265ac55e23922786732ecbbe65ee52aaacad68209e9c849d49e47eb26",
+      "status": "confirmed",
+      "reference": "AB00601",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        3
+      ],
+      "text": "You should be confident in the grace of the Blessed Beauty. Pay no attention to such talk, but with utmost steadfastness and firmness call souls to the Abha Kingdom and invite them to firmness and steadfastness in the Covenant and Testament. Show them the translation of the Surih of the Branch and speak with joy and fellowship and kindness, that we have no purpose except preserving the mighty fortress of the Cause of God. This mighty fortress must be protected from the assault of the thoughtless ones. Therefore attention must be paid to the appointed Center so that Baha'i unity may be preserved, otherwise in one year the Baha'is would be divided into a thousand sects. We have no purpose except protecting the Cause of God.",
+      "reason": "Connects steadfastness and attention to the appointed Center with preserving unity."
     }
   ],
   "omitted": [
@@ -14107,6 +14096,32 @@
       "id": "1904f5d58c10079e4f276a1b",
       "source": "BH11920",
       "reason": "Not retained in the limited selection: complementary coverage and substantive subject treatment are supplied by the explicitly chosen quotations; no verified authorized quotation omitted."
+    },
+    {
+      "n": 887,
+      "group": 848,
+      "id": "52bba5d7d74b0a355cbc02e2",
+      "key": "source:AB07333",
+      "source": "AB07333",
+      "sourceVersion": "d34ef0caaa1c635bdf32158443ddb2eba07ff65e03875fa06f8850ce7adecee2",
+      "status": "exact",
+      "reference": "AB07333",
+      "authorization": "",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        1
+      ],
+      "text": "O thou who art firm in the Covenant! Thy letter was noted. It was evidence of humility and submissiveness and proof of attraction to the Countenance of the Desired One",
+      "stage": 3,
+      "previousPosition": 350,
+      "reason": "The role of the appointed Center in safeguarding unity adds an explanation beyond an acknowledgment of a humble letter.",
+      "authorityEvidence": {
+        "kind": "no_authorized_selected_paragraph",
+        "metadata": "",
+        "sourceVersion": "d34ef0caaa1c635bdf32158443ddb2eba07ff65e03875fa06f8850ce7adecee2",
+        "paragraphs": []
+      }
     }
   ],
   "importedAuthorityReview": [
@@ -14155,5 +14170,16 @@
       "authorization": "Retained in the selected set, including any authorized wording. No new translation-authority assertion is made from an approximate source reference; exact authority and source limitations remain as recorded in the saved review.",
       "mandatoryAuthorized": false
     }
-  ]
+  ],
+  "integrationReview": {
+    "date": "2026-10-20",
+    "decision": "The role of the appointed Center in safeguarding unity adds an explanation beyond an acknowledgment of a humble letter.",
+    "added": [
+      "49ed2fcf3feaca986d0e20e4"
+    ],
+    "replaced": [
+      "52bba5d7d74b0a355cbc02e2"
+    ],
+    "finalizedBeforeRebuild": true
+  }
 }

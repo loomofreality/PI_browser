@@ -3,9 +3,9 @@
   "createdAt": "2026-10-13T21:38:23.619Z",
   "status": "finalized_before_analysis",
   "subject": "63ABB434FE01EB0C75DABE2680B7A71E",
-  "dataset": "collections/7acbc96b-60b/",
-  "candidateFingerprint": "ee7799ba2511f80c7ac7be6dde6663d8267a0398c7384d9957b94aa37c46a870",
-  "candidateCount": 338,
+  "dataset": "collections/editorial-83f59e6ea2d8/",
+  "candidateFingerprint": "152f790eee5079de043d3bfb90df8ea672e74ee73491299020ee430f4c1ddc57",
+  "candidateCount": 339,
   "target": 300,
   "selectedCount": 300,
   "mandatoryAuthorizedCount": 8,
@@ -1073,30 +1073,6 @@
         "kind": "no_authorized_selected_paragraph",
         "metadata": "",
         "sourceVersion": "50dc6a49406cd4eb3f5128e4e7122423a66a9bb8797b8faaff1f0ce59e0925a3",
-        "paragraphs": []
-      }
-    },
-    {
-      "n": 72,
-      "group": 38,
-      "id": "40de553be451335d4e78f537",
-      "key": "source:AB03589",
-      "source": "AB03589",
-      "sourceVersion": "fdd6b547df6950f83479b6ed427ceeaab0ec8704ebf297736b02e019d7920dee",
-      "status": "exact",
-      "reference": "AB03589",
-      "authorization": "",
-      "authorizedParagraphs": [],
-      "mandatoryAuthorized": false,
-      "paragraphs": [
-        1
-      ],
-      "text": "Thy letter contained most cheering good news and indicated the oneness of spiritual state that exists amongst the believers",
-      "reason": "Tablet of ‘Abdu’l-Bahá finding in a letter cheering news of the oneness of spiritual state among the believers; links correspondence to unity.",
-      "authorityEvidence": {
-        "kind": "no_authorized_selected_paragraph",
-        "metadata": "",
-        "sourceVersion": "fdd6b547df6950f83479b6ed427ceeaab0ec8704ebf297736b02e019d7920dee",
         "paragraphs": []
       }
     },
@@ -7261,6 +7237,21 @@
         "sourceVersion": "24a08c612425518dd2eb8a9a490bcc3c23d82dd7a35041306237a3e194439449",
         "paragraphs": []
       }
+    },
+    {
+      "id": "a08b03051115b7cd088ed4a0",
+      "key": "source:ABU0209",
+      "source": "ABU0209",
+      "sourceVersion": "afe7c6836358e768d646373ffc18573d8c53739cade3a49ba0fd32afd3b22b9a",
+      "status": "confirmed",
+      "reference": "ABU0209",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        1
+      ],
+      "text": "Always gather in your home and remember my words. I too will seek confirmation for you. See what spiritual feelings accomplish - we from Iran and you from Vienna, in but a few days what heartfelt connections were formed that will never be forgotten. My heart is always with you. This earthly body has no significance; what matters is the reality and heart of the human being which must maintain spiritual connection.",
+      "reason": "Describes enduring connections of the heart beyond the physical body."
     }
   ],
   "omitted": [
@@ -7491,7 +7482,42 @@
       "n": 330,
       "source": "AB10512",
       "reason": "Surveyed before analysis; selected complementary passages state the subject’s central teachings, qualifications or practical applications more substantively or with less repetition. No verified authorized quotation omitted."
+    },
+    {
+      "n": 72,
+      "group": 38,
+      "id": "40de553be451335d4e78f537",
+      "key": "source:AB03589",
+      "source": "AB03589",
+      "sourceVersion": "fdd6b547df6950f83479b6ed427ceeaab0ec8704ebf297736b02e019d7920dee",
+      "status": "exact",
+      "reference": "AB03589",
+      "authorization": "",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        1
+      ],
+      "text": "Thy letter contained most cheering good news and indicated the oneness of spiritual state that exists amongst the believers",
+      "reason": "An account of enduring spiritual connection develops the short acknowledgment of unity in a letter.",
+      "authorityEvidence": {
+        "kind": "no_authorized_selected_paragraph",
+        "metadata": "",
+        "sourceVersion": "fdd6b547df6950f83479b6ed427ceeaab0ec8704ebf297736b02e019d7920dee",
+        "paragraphs": []
+      }
     }
   ],
-  "importedAuthorityReview": []
+  "importedAuthorityReview": [],
+  "integrationReview": {
+    "date": "2026-10-20",
+    "decision": "An account of enduring spiritual connection develops the short acknowledgment of unity in a letter.",
+    "added": [
+      "a08b03051115b7cd088ed4a0"
+    ],
+    "replaced": [
+      "40de553be451335d4e78f537"
+    ],
+    "finalizedBeforeRebuild": true
+  }
 }

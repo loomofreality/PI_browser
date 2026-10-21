@@ -16,6 +16,10 @@
           ]
         },
         {
+          "key": "source:BHU0002",
+          "why": "A reported recollection of Baha'u'llah walking with Quddus in Sari and encountering public hostility."
+        },
+        {
           "key": "source:BH00009",
           "why": "Locate Quddús within the relationships of an unfolding revelation."
         },
@@ -49,8 +53,16 @@
           ]
         },
         {
+          "key": "source:ABU0467",
+          "why": "A complete incident illustrating Mulla Husayn's recognition of Quddus's knowledge and the resulting reversal of their seating and service."
+        },
+        {
           "key": "source:BH00831",
           "why": "End with a question about His name that preserves the possibility of scribal error."
+        },
+        {
+          "key": "source:BBU0005",
+          "why": "The Bab names Quddus as His companion on the pilgrimage to Hijaz and outlines the intended journey."
         }
       ],
       "questions": [
@@ -128,6 +140,10 @@
           ]
         },
         {
+          "key": "source:BH02415",
+          "why": "Contrasts searching for the Promised One in imaginary cities with His actual appearance and birth in Shiraz."
+        },
+        {
           "key": "source:BH06358",
           "why": "Attend to the harm of inherited accusations."
         },
@@ -194,11 +210,24 @@
           ]
         },
         {
+          "key": "source:BB00026",
+          "why": "Discusses the relationship between Shaykhi belief, Ahmad and Kazim, and acknowledgment of the Bab."
+        },
+        {
           "key": "source:AB00002",
           "why": "Notice the patient study through which teachings were transmitted.",
           "shortened": [
             "Ismu'llah had memorized a great number of Islamic traditions and had mastered the teachings of Shaykh Ahmad and Siyyid Kazim."
           ]
+        },
+        {
+          "key": "source:AB00098",
+          "why": "Places opposition to Shaykh Ahmad and Siyyid Kazim in the historical setting of the early Babi movement.",
+          "sourceQuestion": {
+            "sourceVersion": "a943413e5761f5c061502a679ff11e3c5abe62382ab9896b2f390644d13759fc",
+            "paragraph": 1,
+            "text": "Question: Can you provide an account of Tahirih's deliverance from Qazvin, her arrival in Tihran, her departure for Badasht, and the events that transpired there?"
+          }
         },
         {
           "key": "source:BB00496",
@@ -339,8 +368,16 @@
           ]
         },
         {
+          "key": "source:BB00314",
+          "why": "Gives practical instructions for delivering a Haykal and obtaining a transcript when fair copies are unavailable."
+        },
+        {
           "key": "source:BH09807",
           "why": "Place the form within an exchange between people."
+        },
+        {
+          "key": "source:BB00003",
+          "why": "Explains the distinction between the forms of letters and the numerical values studied through talismans, within a proposed order of learning."
         },
         {
           "key": "source:BH11677",
@@ -420,6 +457,10 @@
           "why": "Set exalted authority beside the language of servitude."
         },
         {
+          "key": "source:BB00001",
+          "why": "Sets out the station of the Commander of the Faithful as the primary manifestation of Mercifulness in the Quranic dispensation."
+        },
+        {
           "key": "source:ABU1910",
           "why": "Consider the relationship between truth and recognition."
         },
@@ -437,6 +478,10 @@
         {
           "key": "source:BB00176",
           "why": "Read a devotional remembrance of succession and knowledge."
+        },
+        {
+          "key": "source:BB00017",
+          "why": "Clarifies that reverence for Ali and the holy Family does not mean regarding them as independent creators."
         },
         {
           "key": "source:AB02587",
@@ -500,6 +545,10 @@
           "why": "Begin with a good beginning that does not guarantee the end."
         },
         {
+          "key": "source:AB00093",
+          "why": "Uses Judas as an image of the transience of opposition in contrast with the enduring Covenant."
+        },
+        {
           "key": "source:AB00872",
           "why": "Examine envy as a change in the direction of love."
         },
@@ -531,6 +580,10 @@
           "shortened": [
             "Jesus Christ, through his spiritual power, taught a few in his time, through in reality there were only twelve disciples, one of whom Judas Iscariot, who betrayed him, thus leaving eleven who remained with the Master."
           ]
+        },
+        {
+          "key": "source:ABU0259",
+          "why": "Explains the connection between Judas and the superstition about thirteen while rejecting the superstition."
         },
         {
           "key": "source:AB00208",
@@ -710,6 +763,14 @@
         {
           "key": "source:BB00627",
           "why": "Preserve the Báb’s insistence on religious fidelity in its context."
+        },
+        {
+          "key": "source:AB11677",
+          "why": "Discusses ijtihad, cases before mujtahids and the authority of religious leaders as institutions subject to historical change."
+        },
+        {
+          "key": "source:BH00004",
+          "why": "Distinguishes a revealer who renews laws from a jurist making a ruling within an existing system, using the Bab and ritual purification as an example."
         },
         {
           "key": "source:ABU0771",

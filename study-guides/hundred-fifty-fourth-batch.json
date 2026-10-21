@@ -1023,11 +1023,8 @@
           ]
         },
         {
-          "key": "source:AB07333",
-          "why": "These readings connect perseverance with discernment, detachment, trustworthiness and examination of one’s own conduct. Images of a rock, an ark or a strong cord suggest stability, while warnings about pride and self-interest ask what a person is actually holding fast to. Read questions and answers together and retain the qualifications attached to commands. What forms of evidence are offered, and how are written authority, personal impression and reported speech distinguished? Consider the passages about authentic documents and the limits on personal denunciation. How could steadfastness be renewed through learning and repentance, and how might an outward profession of certainty conceal a need for both?",
-          "shortened": [
-            "O thou who art firm in the Covenant! Thy letter was noted. It was evidence of humility and submissiveness and proof of attraction to the Countenance of the Desired One."
-          ]
+          "key": "source:AB00601",
+          "why": "Connects steadfastness and attention to the appointed Center with preserving unity."
         },
         {
           "key": "source:AB07867",
@@ -2142,7 +2139,7 @@
       ],
       "selection": {
         "review": "selections/covenantfirmness.json",
-        "sha256": "19aaccaa9eaa692138bcb11f145a911b0e5d2d3daabb10dbd80ff4b3e23d5880",
+        "sha256": "b2e4e82c35bcab5a452f946c4aca33bbde722966ce64a0095aeee91a47e1b859",
         "ids": [
           "ca404ef2ad997eee741a0940",
           "1db4c5f896ec232d72dfa1fd",
@@ -2378,7 +2375,6 @@
           "74aa7e5d9b14ee206ea0055b",
           "8b68878ae3d330cf2c0497e8",
           "82626e3dd37487d9e3ad7411",
-          "52bba5d7d74b0a355cbc02e2",
           "6427713db897a2dbab81d6fe",
           "2e316c410bcc8a195e164eb6",
           "81572d23c909af4c0674585f",
@@ -2443,7 +2439,8 @@
           "03e2ced86250cf6689d250f7",
           "6e58af1e19ea9bab5b568066",
           "a8033a962de6d1922c47b6b5",
-          "4be5cd056c7dccd8753363de"
+          "4be5cd056c7dccd8753363de",
+          "49ed2fcf3feaca986d0e20e4"
         ]
       }
     }

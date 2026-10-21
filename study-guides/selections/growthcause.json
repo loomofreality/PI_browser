@@ -3,9 +3,9 @@
   "createdAt": "2026-10-13T21:51:39.570Z",
   "status": "finalized_before_analysis",
   "subject": "22EED87D5EEC4CA68E16AB238733762E",
-  "dataset": "collections/7acbc96b-60b/",
-  "candidateFingerprint": "484ef8cade516855de7875f469875d676d00e20287c8654f73914c18e023c90f",
-  "candidateCount": 732,
+  "dataset": "collections/editorial-83f59e6ea2d8/",
+  "candidateFingerprint": "add5a5137869c95d19d08784f79b6a6cc47cc1eac14a62575f8d22d02453bf43",
+  "candidateCount": 733,
   "target": 300,
   "selectedCount": 300,
   "mandatoryAuthorizedCount": 55,
@@ -10063,6 +10063,11 @@
       "id": "95588776b78211e7073fc03d",
       "n": 723,
       "reason": "Imported extract on expansion and consolidation that embeds the Guardian’s passage only as a placeholder; #721 and #722 carry the same teaching in complete form. No verified authorized quotation omitted."
+    },
+    {
+      "id": "a3c0a7c07eab48480e9d9b06",
+      "source": "BH00236",
+      "reason": "Keep the concrete German institutional example and the wider assurance of growth; the new general claim of rapid spread is not a clear improvement."
     }
   ],
   "importedAuthorityReview": [
@@ -10192,5 +10197,12 @@
       "reviewedAt": "2026-10-13T21:51:39.570Z",
       "contextRestored": false
     }
-  ]
+  ],
+  "integrationReview": {
+    "date": "2026-10-20",
+    "decision": "Keep the concrete German institutional example and the wider assurance of growth; the new general claim of rapid spread is not a clear improvement.",
+    "added": [],
+    "replaced": [],
+    "finalizedBeforeRebuild": true
+  }
 }

@@ -3,9 +3,9 @@
   "createdAt": "2026-10-13T21:33:55.079Z",
   "status": "finalized_before_analysis",
   "subject": "5F1349F0A072481181E9D852C41EC6BD",
-  "dataset": "collections/7acbc96b-60b/",
-  "candidateFingerprint": "08f988410750880844bf683ae9f743f4bb458fb9ccf051a6f0799a39fd866a5f",
-  "candidateCount": 302,
+  "dataset": "collections/editorial-83f59e6ea2d8/",
+  "candidateFingerprint": "d440378f4f033386aa9251bb5aad852e7e3fd605e5114a25fa16f821ba3a1dbc",
+  "candidateCount": 303,
   "target": 300,
   "selectedCount": 300,
   "mandatoryAuthorizedCount": 65,
@@ -617,30 +617,6 @@
         "kind": "no_authorized_selected_paragraph",
         "metadata": "",
         "sourceVersion": "bba4faed92d3b112d8ac0cd46dd10502bcd35dfc44bb6725523de5c3da3b5387",
-        "paragraphs": []
-      }
-    },
-    {
-      "n": 26,
-      "group": 208,
-      "id": "f5e57c8ffca1182bee1044f1",
-      "key": "source:ABU0673",
-      "source": "ABU0673",
-      "sourceVersion": "ad9f6536b61ba5f5ea3dd2f7c7bfb52a5ce6018cc7be1d0bfb0ccb7a30c34bb7",
-      "status": "exact",
-      "reference": "ABU0673",
-      "authorization": "",
-      "authorizedParagraphs": [],
-      "mandatoryAuthorized": false,
-      "paragraphs": [
-        2
-      ],
-      "text": "The Ultimate object of all the religions is One: Dogmas have bred differences. All the religionists concur together that there must of necessity be an intermediary between God and man.",
-      "reason": "Reported words of ‘Abdu’l-Bahá that the ultimate object of all religions is one while dogmas have bred differences; distinguishes purpose from dogma.",
-      "authorityEvidence": {
-        "kind": "no_authorized_selected_paragraph",
-        "metadata": "",
-        "sourceVersion": "ad9f6536b61ba5f5ea3dd2f7c7bfb52a5ce6018cc7be1d0bfb0ccb7a30c34bb7",
         "paragraphs": []
       }
     },
@@ -7543,6 +7519,21 @@
         "reviewedAt": "2026-10-13T21:33:55.079Z",
         "contextRestored": false
       }
+    },
+    {
+      "id": "4c80fe18b24c572be87d0d99",
+      "key": "source:ABU0212",
+      "source": "ABU0212",
+      "sourceVersion": "5265db59c55eb6eb1bbb44526bc6af57214f9f73807ec4716c0732173a9f5dda",
+      "status": "confirmed",
+      "reference": "ABU0212",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        6
+      ],
+      "text": "Baha'u'llah proclaimed the ideal of universal peace among religions. The fundamental principle of religion is one and the same--all the prophets guided mankind to divine love. They have called them to the knowledge of God. They have taught them the unity of the human race. They have summoned them to the furtherance of human virtues. They have enlightened the fundamental law of morality. The differences of the various religions are the results of dogmas and imitations, so we must give up dogmas and turn our faces to the foundation of religion. Dogmas have always been the cause of strife, while religion was always the cause of Unity. Baha'u'llah proclaimed that religion will again bring love and friendship to mankind; if it does not fulfill this duty, then is it a failure. Religion must be the antidote for all illness. If the medicine makes the sickness worse, then it is better not to take it.",
+      "reason": "Identifies a common foundation beneath religious dogmas and divisions."
     }
   ],
   "omitted": [
@@ -7556,6 +7547,30 @@
       "id": "6f2b01ef6f8226aec5073ceb",
       "n": 175,
       "reason": "Imported older rendering of ‘Abdu’l-Bahá’s statement that religion is the foundation of spiritual unity and divine civilization; selected passages carry religion’s shared foundation and purpose, including #172 from the same Tablet. No verified authorized quotation omitted."
+    },
+    {
+      "n": 26,
+      "group": 208,
+      "id": "f5e57c8ffca1182bee1044f1",
+      "key": "source:ABU0673",
+      "source": "ABU0673",
+      "sourceVersion": "ad9f6536b61ba5f5ea3dd2f7c7bfb52a5ce6018cc7be1d0bfb0ccb7a30c34bb7",
+      "status": "exact",
+      "reference": "ABU0673",
+      "authorization": "",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        2
+      ],
+      "text": "The Ultimate object of all the religions is One: Dogmas have bred differences. All the religionists concur together that there must of necessity be an intermediary between God and man.",
+      "reason": "The fuller common-foundation explanation adds morality and the medicine qualification beyond the brief dogma statement.",
+      "authorityEvidence": {
+        "kind": "no_authorized_selected_paragraph",
+        "metadata": "",
+        "sourceVersion": "ad9f6536b61ba5f5ea3dd2f7c7bfb52a5ce6018cc7be1d0bfb0ccb7a30c34bb7",
+        "paragraphs": []
+      }
     }
   ],
   "importedAuthorityReview": [
@@ -7695,5 +7710,16 @@
       "reviewedAt": "2026-10-13T21:33:55.079Z",
       "contextRestored": false
     }
-  ]
+  ],
+  "integrationReview": {
+    "date": "2026-10-20",
+    "decision": "The fuller common-foundation explanation adds morality and the medicine qualification beyond the brief dogma statement.",
+    "added": [
+      "4c80fe18b24c572be87d0d99"
+    ],
+    "replaced": [
+      "f5e57c8ffca1182bee1044f1"
+    ],
+    "finalizedBeforeRebuild": true
+  }
 }

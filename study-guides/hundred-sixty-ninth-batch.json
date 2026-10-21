@@ -7,7 +7,7 @@
       "displayTitle": "Detachment, severance, renunciation and patience",
       "selection": {
         "review": "selections/severance.json",
-        "sha256": "787f95a77f791442715685fc8219e3991057e15cc30da9f27d26ee8f8392370e",
+        "sha256": "49df7f416b140d1bd443b452529b519f4434160dbc5d5f9ad1e456be24853c48",
         "ids": [
           "067a91b378e5bfba75b5bd14",
           "3efe3a3c5f19e13ec6575a43",
@@ -70,7 +70,6 @@
           "19406ee9a3b1b290273a8163",
           "0ec89493a83965dd262a47fb",
           "a2567001aef60970dc0b066b",
-          "d6d0a5053286c85cfc0c7fee",
           "3a00f108acf5f2daa077832f",
           "5fe32a3f104af42bd7b55209",
           "be78e84253306bd72fefcda1",
@@ -308,7 +307,8 @@
           "7abb078f503f4afc056a8b3f",
           "4c19777ade814d2046ebeaa6",
           "6ad27f9844e18f6c99866f7b",
-          "27ca066b75e1b3afd2b8efce"
+          "27ca066b75e1b3afd2b8efce",
+          "d974aa791b13d8461629bcad"
         ]
       },
       "introduction": "To be in the water and not get wet: so ‘Abdu’l-Bahá is reported to have described the life Bahá’u’lláh asks of us, fully at work in the world yet unpossessed by it. Detachment is not the absence of means but the freedom of the heart; a person may trade, build, wear silk and prosper, so long as nothing stands between the soul and its Maker. Gleanings section CXXVIII defines the world itself as unawareness of one’s Maker [1], which makes renunciation less a flight from life than a way of seeing it clearly. The way leads inward, to the surrender of self and will, and to the seeker who must empty the heart of love and hate before truth can be found. Its highest fruit is patience: the Ishráqát closes with a counsel to be patient [2], a letter written on behalf of Shoghi Effendi extends that patience to oneself [3], and the Qur’án [4] and the Dhammapada [5] speak of persevering and of conquering the self. From here the path continues toward contentment, toward tests and trials, and toward trust in God.",
@@ -1001,11 +1001,16 @@
         },
         {
           "key": "source:BH00234",
-          "why": "Detachment appears here as a source of influence in service and in the life of a community. Bahá’u’lláh calls it influential and attractive, the first ornament for drawing near to God, and among the virtues as the sun among the stars. Teachers are told to expect neither meat nor reward from a city, and ‘Abdu’l-Bahá says that travel with comfort, ease and luxury robs teaching of its effect. Bahá’u’lláh also counsels forsaking the entire world, yet not an atom’s weight of the honour of the Cause. How does a teacher’s own conduct affect the words he or she speaks? Which forms of independence strengthen service, and which could weaken cooperation with others?",
-          "shortened": [
-            "Detachment and severance are two wings for the flight of those who are captives of self and passion to the atmosphere of nearness and the presence of God.",
-            "At one time this sublime Word was heard from the Tongue of Him Who is the Possessor of all being and the Lord of the throne on high and of earth below—exalted is the glory of His utterance—: Piety and detachment are even as two most great luminaries of the heaven of teaching. Blessed the one who hath attained unto this supreme station, this habitation of transcendent holiness and sublimity."
-          ]
+          "why": "Detachment appears here as a source of influence in service and in the life of a community. Bahá’u’lláh calls it influential and attractive, the first ornament for drawing near to God, and among the virtues as the sun among the stars. Teachers are told to expect neither meat nor reward from a city, and ‘Abdu’l-Bahá says that travel with comfort, ease and luxury robs teaching of its effect. Bahá’u’lláh also counsels forsaking the entire world, yet not an atom’s weight of the honour of the Cause. How does a teacher’s own conduct affect the words he or she speaks? Which forms of independence strengthen service, and which could weaken cooperation with others?"
+        },
+        {
+          "key": "source:ABU0687",
+          "why": "Distinguishes mature spiritual detachment from an infant’s lack of worldly capacity.",
+          "sourceQuestion": {
+            "sourceVersion": "3d4c66421aa74b4f347ba59a704e6d165678f2879781abf2685de3317ff369ef",
+            "paragraph": 1,
+            "text": "Another question: Does the Oriental Teaching about Adepts, Initiates, Masters, etc., harmonize with the spirit of the Manifestation of God?"
+          }
         },
         {
           "key": "source:AB01587",

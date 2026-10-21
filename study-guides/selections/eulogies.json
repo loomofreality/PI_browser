@@ -3,9 +3,9 @@
   "createdAt": "2026-10-13T21:39:43.414Z",
   "status": "finalized_before_analysis",
   "subject": "9F2E188A76D8EB43AE22B4F563C85137",
-  "dataset": "collections/7acbc96b-60b/",
-  "candidateFingerprint": "3328b4be6b17bc5be497521ed0d48bc2c26af2219318763a352b9bcd88cdbcd8",
-  "candidateCount": 546,
+  "dataset": "collections/editorial-83f59e6ea2d8/",
+  "candidateFingerprint": "fbbfe0794be7e621b6a7b50e03059d60bb8b3375964820a097f8f11aa5c6f424",
+  "candidateCount": 547,
   "target": 300,
   "selectedCount": 300,
   "mandatoryAuthorizedCount": 6,
@@ -8746,7 +8746,19 @@
       "n": 542,
       "source": "AB01226",
       "reason": "Surveyed before analysis; selected complementary passages state the subject’s central teachings, qualifications or practical applications more substantively or with less repetition. No verified authorized quotation omitted."
+    },
+    {
+      "id": "0d19a948050fd438d65d4fe0",
+      "source": "ABU1288",
+      "reason": "Retain the distinct reminiscences of Abu’l-Fadl and Mishkin, including neglect and family context; the new Chase passage does not clearly improve this biographical breadth."
     }
   ],
-  "importedAuthorityReview": []
+  "importedAuthorityReview": [],
+  "integrationReview": {
+    "date": "2026-10-20",
+    "decision": "Retain the distinct reminiscences of Abu’l-Fadl and Mishkin, including neglect and family context; the new Chase passage does not clearly improve this biographical breadth.",
+    "added": [],
+    "replaced": [],
+    "finalizedBeforeRebuild": true
+  }
 }

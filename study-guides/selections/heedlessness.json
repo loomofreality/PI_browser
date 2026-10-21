@@ -3,9 +3,9 @@
   "createdAt": "2026-10-13T21:48:05.451Z",
   "status": "finalized_before_analysis",
   "subject": "9EC159259B874FABB63915C45183582D",
-  "dataset": "collections/7acbc96b-60b/",
-  "candidateFingerprint": "4e16150a857d7d7d51766f202d074b033e6fa51e70b2e7a6259ee0038225d4c0",
-  "candidateCount": 629,
+  "dataset": "collections/editorial-83f59e6ea2d8/",
+  "candidateFingerprint": "280127b3e3addbb4d8702bc05ceafd65cc230e1e26e4b8e82b6e5ef419f767ae",
+  "candidateCount": 630,
   "target": 300,
   "selectedCount": 300,
   "mandatoryAuthorizedCount": 35,
@@ -9377,6 +9377,11 @@
       "n": 628,
       "source": "BH00004",
       "reason": "Surveyed before analysis; selected complementary passages state the subject’s central teachings, qualifications or practical applications more substantively or with less repetition. No verified authorized quotation omitted."
+    },
+    {
+      "id": "93899148d45039e74b04caff",
+      "source": "BH00119",
+      "reason": "Retain the existing passages linking heedlessness to calamity, prayer and repentance; the new polemical warning adds no stronger practical distinction."
     }
   ],
   "importedAuthorityReview": [
@@ -9416,5 +9421,12 @@
       "reviewedAt": "2026-10-13T21:48:05.451Z",
       "contextRestored": false
     }
-  ]
+  ],
+  "integrationReview": {
+    "date": "2026-10-20",
+    "decision": "Retain the existing passages linking heedlessness to calamity, prayer and repentance; the new polemical warning adds no stronger practical distinction.",
+    "added": [],
+    "replaced": [],
+    "finalizedBeforeRebuild": true
+  }
 }

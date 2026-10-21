@@ -7,7 +7,7 @@
       "displayTitle": "Predictions and prophecies: hope, warning and human responsibility",
       "selection": {
         "review": "selections/predictions.json",
-        "sha256": "99541b79f3b3420b97537476bb48789057e3ecbc19016e1351c3510c2e2cb91e",
+        "sha256": "28478a17392de78ef9f5804ee7338bba2847d9e18925f90df81610b7defb813a",
         "ids": [
           "66d13229502e7cc420ec9a16",
           "abb584fe8edb179b9e661d42",
@@ -281,7 +281,6 @@
           "1041e762955439f4a2f36f3d",
           "a66d226152459441fccb17f2",
           "31e635496bc1bb130e9ba52a",
-          "b366f905d47f78214f57a679",
           "cff560f404d4964321be4971",
           "f075e2bae321674103a29d81",
           "1bd306b27081f5028439dfa0",
@@ -308,7 +307,8 @@
           "10989004e769028f9d329032",
           "184ec5892e6e239324fcdd03",
           "2530d3a16f6371338f58ded2",
-          "08906ac7b9dfc3fa5e5209da"
+          "08906ac7b9dfc3fa5e5209da",
+          "a0a2e4609ff72747006ba6ab"
         ]
       },
       "introduction": "Knowing what will come is not the same as making it happen. ‘Abdu’l-Bahá draws that line at the start: the Prophets knew Christ would be martyred, and their knowledge was a sign of their perfection, not the cause of His death. Once foreknowledge is freed from fatalism, prophecy turns from a timetable into a summons. Bahá’u’lláh warned kings while they stood at the height of their power; ‘Abdu’l-Bahá pleaded in churches and assemblies to avert the war He saw gathering, and insisted that the union of black and white in America was urgent because its failure would end in bloodshed. Hope, in this light, is demanding. Jeremiah’s potter reshaping a vessel makes the same demand, since disaster or blessing hangs on how a people answers a warning [1], and Paul reminds us that we prophesy only in part and that love outlasts whatever we know [2]. The path leads on to the fulfilment of prophecy, to the dreams and visions through which future things are sometimes glimpsed, to the promised flowering of Mount Carmel and the Holy Land, and to the universal peace that will surely come, yet only through those who arise for it.",
@@ -1911,11 +1911,8 @@
           ]
         },
         {
-          "key": "source:BH00357",
-          "why": "Keep reassurance with the trials it addresses. Follow prison, exile, conflict and Covenant language through calls to patience, wisdom and steadfastness, without changing metaphor into a direction to harm.",
-          "shortened": [
-            "Likewise convey my greetings to his honor N.S. and say that this is a day wherein the breaths of steadfastness and certitude must waft from pure hearts, for these are the days about which they have foretold that soon a pack of wolves will emerge from the thickets of hypocrisy. They have also foretold that Satan will appear in different forms in every land - to some in the form of written sheets, to some in the form of messengers, and to some in the form of letters."
-          ]
+          "key": "source:BH00002",
+          "why": "Discusses traditions foretelling the sufferings and signs of the Qa’im."
         },
         {
           "key": "source:BH02475",

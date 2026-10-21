@@ -3,9 +3,9 @@
   "createdAt": "2026-10-11T23:25:25.724Z",
   "status": "finalized_before_analysis",
   "subject": "E3503B9BB6424884B3157B754204073E",
-  "dataset": "collections/390a77fa-5b4/",
-  "candidateFingerprint": "d92d4b3b87a9d1bddbb0649d69ab1c1997185da11bb1f5161b72647f5d540d8a",
-  "candidateCount": 2872,
+  "dataset": "collections/editorial-83f59e6ea2d8/",
+  "candidateFingerprint": "7f0f5857bf4312af3775f83bec311926193134a3de38f79f4b6e3848954945bb",
+  "candidateCount": 2873,
   "target": 300,
   "selectedCount": 300,
   "mandatoryAuthorizedCount": 173,
@@ -23397,6 +23397,11 @@
       "n": 2858,
       "source": null,
       "reason": "Surveyed before analysis; selected complementary passages state the subject’s central teachings, qualifications or practical applications more substantively or with less repetition. No verified authorized quotation omitted."
+    },
+    {
+      "id": "91c6d2f050254ae285dc2e23",
+      "source": "AB05582",
+      "reason": "The existing episodes show practical protection, flight and historically difficult intervention; the new general praise of endurance is not a stronger replacement."
     }
   ],
   "importedAuthorityReview": [
@@ -23569,5 +23574,12 @@
       "reviewedAt": "2026-10-11T23:25:25.648Z",
       "contextRestored": false
     }
-  ]
+  ],
+  "integrationReview": {
+    "date": "2026-10-20",
+    "decision": "The existing episodes show practical protection, flight and historically difficult intervention; the new general praise of endurance is not a stronger replacement.",
+    "added": [],
+    "replaced": [],
+    "finalizedBeforeRebuild": true
+  }
 }

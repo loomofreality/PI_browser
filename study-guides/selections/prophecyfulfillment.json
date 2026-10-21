@@ -3,12 +3,12 @@
   "createdAt": "2026-10-13T21:46:34.160Z",
   "status": "finalized_before_analysis",
   "subject": "A72CD9234D5E4386A7C153F8E08CF797",
-  "dataset": "collections/7acbc96b-60b/",
-  "candidateFingerprint": "00a4336f54a832c353d046a6bdee6e252cf70a60b43b9e2cca22a0e892a6f7fe",
-  "candidateCount": 616,
+  "dataset": "collections/editorial-83f59e6ea2d8/",
+  "candidateFingerprint": "86d9307468f40968a2642685b94c84d4934934ac7be72ab4719ca14cc5906639",
+  "candidateCount": 617,
   "target": 300,
   "selectedCount": 300,
-  "mandatoryAuthorizedCount": 41,
+  "mandatoryAuthorizedCount": 42,
   "selectionBeforeAnalysis": true,
   "method": "Complete candidate survey followed by individual editorial choices and written reasons, applied to the existing complete guide to keep it within 300 quotations. All verified authorized selections included. Priority given to foundational teachings, substantive explanations, necessary qualifications, distinctive applications, narrative examples and thematic breadth across hope and the kinds of prophecy, symbolic interpretation of signs, scriptural time and numerical prophecy, promise across religious traditions, the Báb’s promise and the people of the Bayan, warnings to rulers and their fulfillment, conquest and the meaning of victory, exile and the Holy Land, personal accounts and recollections, expectation followed by refusal, the widening proclamation and its images of city, trumpet, mount and book, the encounter of revealed words with their hearers, patience and future expectation, and fulfillment as responsibility. Neither citation count nor source order used as a ranking rule. Imported wording checked separately; version differences remain explicit. The existing reading arc is retained.",
   "selected": [
@@ -2556,30 +2556,6 @@
         "kind": "no_authorized_selected_paragraph",
         "metadata": "",
         "sourceVersion": "cca962deec8608620ee119e59a629da95523448c67c4f43296c5e5709c058929",
-        "paragraphs": []
-      }
-    },
-    {
-      "n": 339,
-      "group": 2,
-      "id": "9d28ca0044e2b52fd5737be7",
-      "key": "source:BB00003",
-      "source": "BB00003",
-      "sourceVersion": "df2921c8cd1cb1bd7768c8a6fec0c9877afb228e455135b3dbf89bdf4597656d",
-      "status": "confirmed",
-      "reference": "BB00003",
-      "authorization": "Y2255-2259,2261-2263,2265-2267,2269-2271,2273-2275,2277-2281,2283-2286,2288-2293,2295-2305,2307-2310,2312-2317,2319,2321-2328,2330-2333",
-      "authorizedParagraphs": [],
-      "mandatoryAuthorized": false,
-      "paragraphs": [
-        1447
-      ],
-      "text": "O people of the Bayan! Train your souls in such wise that if any trace remains from you after Him Whom God shall make manifest, your Maker may benefit, even as what appeared after that Day benefited the Creator of the followers of the Gospel",
-      "reason": "Book of Names of the Báb exhorting the people of the Bayan to train their souls so their traces may benefit after Him Whom God shall make manifest; ethical form of the promise.",
-      "authorityEvidence": {
-        "kind": "no_authorized_selected_paragraph",
-        "metadata": "Y2255-2259,2261-2263,2265-2267,2269-2271,2273-2275,2277-2281,2283-2286,2288-2293,2295-2305,2307-2310,2312-2317,2319,2321-2328,2330-2333",
-        "sourceVersion": "df2921c8cd1cb1bd7768c8a6fec0c9877afb228e455135b3dbf89bdf4597656d",
         "paragraphs": []
       }
     },
@@ -7410,6 +7386,23 @@
         "reviewedAt": "2026-10-13T21:46:34.160Z",
         "contextRestored": false
       }
+    },
+    {
+      "id": "80a25e9351ad04fe1f7890b7",
+      "key": "source:ABU0027",
+      "source": "ABU0027",
+      "sourceVersion": "963b72d8299e96d6c004178b46db585b79428e33a6d5fc40cab74463ee37bd4b",
+      "status": "confirmed",
+      "reference": "ABU0027",
+      "authorizedParagraphs": [
+        2
+      ],
+      "mandatoryAuthorized": true,
+      "paragraphs": [
+        2
+      ],
+      "text": "The holy Manifestations Who have been the Sources or Founders of the various religious systems were united and agreed in purpose and teaching. Abraham, Moses, Zoroaster, Buddha, Jesus, Muhammad, the Bab and Baha'u'llah are one in spirit and reality. Moreover, each Prophet fulfilled the promise of the One Who came before Him and, likewise, Each announced the One Who would follow. Consider how Abraham foretold the coming of Moses, and Moses embodied the Abrahamic statement. Moses prophesied the Messianic cycle, and Christ fulfilled the law of Moses. It is evident, therefore, that the Holy Manifestations Who founded the religious systems are united and agreed; there is no differentiation possible in Their mission and teachings; all are reflectors of reality, and all are promulgators of the religion of God.",
+      "reason": "Mandatory authorized wording. Relates each Manifestation’s fulfillment of earlier promises to the unity of their mission."
     }
   ],
   "omitted": [
@@ -9307,6 +9300,30 @@
       "n": 600,
       "source": "BH00091",
       "reason": "Surveyed before analysis; selected complementary passages state the subject’s central teachings, qualifications or practical applications more substantively or with less repetition. No verified authorized quotation omitted."
+    },
+    {
+      "n": 339,
+      "group": 2,
+      "id": "9d28ca0044e2b52fd5737be7",
+      "key": "source:BB00003",
+      "source": "BB00003",
+      "sourceVersion": "df2921c8cd1cb1bd7768c8a6fec0c9877afb228e455135b3dbf89bdf4597656d",
+      "status": "confirmed",
+      "reference": "BB00003",
+      "authorization": "Y2255-2259,2261-2263,2265-2267,2269-2271,2273-2275,2277-2281,2283-2286,2288-2293,2295-2305,2307-2310,2312-2317,2319,2321-2328,2330-2333",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        1447
+      ],
+      "text": "O people of the Bayan! Train your souls in such wise that if any trace remains from you after Him Whom God shall make manifest, your Maker may benefit, even as what appeared after that Day benefited the Creator of the followers of the Gospel",
+      "reason": "Include verified authorized wording; successive prophetic promises directly develop fulfillment, replacing the more peripheral exhortation about future traces.",
+      "authorityEvidence": {
+        "kind": "no_authorized_selected_paragraph",
+        "metadata": "Y2255-2259,2261-2263,2265-2267,2269-2271,2273-2275,2277-2281,2283-2286,2288-2293,2295-2305,2307-2310,2312-2317,2319,2321-2328,2330-2333",
+        "sourceVersion": "df2921c8cd1cb1bd7768c8a6fec0c9877afb228e455135b3dbf89bdf4597656d",
+        "paragraphs": []
+      }
     }
   ],
   "importedAuthorityReview": [
@@ -9328,5 +9345,16 @@
       "reviewedAt": "2026-10-13T21:46:34.160Z",
       "contextRestored": false
     }
-  ]
+  ],
+  "integrationReview": {
+    "date": "2026-10-20",
+    "decision": "Include verified authorized wording; successive prophetic promises directly develop fulfillment, replacing the more peripheral exhortation about future traces.",
+    "added": [
+      "80a25e9351ad04fe1f7890b7"
+    ],
+    "replaced": [
+      "9d28ca0044e2b52fd5737be7"
+    ],
+    "finalizedBeforeRebuild": true
+  }
 }

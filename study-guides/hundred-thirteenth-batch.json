@@ -7,7 +7,7 @@
       "displayTitle": "Mysteries and their discovery: learning to see anew",
       "selection": {
         "review": "selections/mysteries.json",
-        "sha256": "70aaa62422594e83922ea946b50adc5dec1088bf0c90dd393a3ba8252cab9bf5",
+        "sha256": "62e0dc51ba4b5ec58f9400aac3f7018677002b9402754777a6a9ab802977c0fb",
         "ids": [
           "56832504c3d61c5ea36d6752",
           "a9c1074630b80e9a11d0916c",
@@ -89,7 +89,6 @@
           "70e13549ae073deee2b5b7e3",
           "93260606cf6a8bd660d2dbf8",
           "e87e72399fe71648ff132c92",
-          "968b9be91ad72d28f72499a7",
           "7906a06f48353166d0e0cc6e",
           "74542e544580609a3c0d8a8b",
           "b65dd272836dcab6b1415553",
@@ -308,7 +307,8 @@
           "380a0ea01c2e6ca95ce529d7",
           "d73103b261e9ba1914aacab0",
           "cc05af9c1d7a0094cc8cc4db",
-          "81703b86ae0fda0e7d284b4f"
+          "81703b86ae0fda0e7d284b4f",
+          "7ce30bf79f9e05e234a48a50"
         ]
       },
       "introduction": "Wind in the leaves, the murmur of a stream, a line of scripture read a hundred times: Bahá’u’lláh teaches that each holds a meaning that waits on the one who perceives it. Mystery, in this light, is less a puzzle to be solved than a depth that opens as the knower changes. The inner eye is clouded by malice and idle fancy, and cleared by love, learning, prayer and a heart washed of prejudice; what it then finds in every atom is a door. Yet the same teachings keep a sober distinction between insight and imagination, between the mysteries a wayfarer may discover and the Essence no mind will ever reach, and they counsel care about when, and to whom, a discovery is told. The Tao-te Ching’s doubt whether the named is still the mystery, and Paul’s wisdom discerned only through the Spirit, press the point from other directions. From here the road runs into contemplation, into the spirit of faith that lights the mirror of the mind, and into the transformation and virtuous life in which understanding bears fruit.",
@@ -919,6 +919,10 @@
           "shortened": [
             "Guard ye God's mystery within you, for God hath appointed for you a station upon the Path. Give not wisdom unto the foolish, for they have believed in God, the Most High, and His mystery weakly, upon the ocean of weakness."
           ]
+        },
+        {
+          "key": "source:ABU0033",
+          "why": "Explains the inner reality that discovers natural and spiritual mysteries."
         },
         {
           "key": "source:BB00325",

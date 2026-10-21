@@ -7,7 +7,7 @@
       "displayTitle": "Personal instructions: wisdom addressed to a life",
       "selection": {
         "review": "selections/personalinstructions.json",
-        "sha256": "fb3bfd3be5a4668aea56b602c6c6e4dc4cdd5db837dc557500444b5700761d76",
+        "sha256": "36c58469bd9a71fc0124d43e79622ebde54d58e6f5e831936dfc273917c5cf95",
         "ids": [
           "5b2c62c73aa7a66a771074b1",
           "307df2dffc24cc54606af564",
@@ -132,7 +132,6 @@
           "8634cf89ccb9cc7c0ba6b4ce",
           "39fc1787d0eb611ab5c2acf3",
           "bd68bb12fb8b9418604c3ff5",
-          "75062541e28ccab53ba6b183",
           "b3d094912a9d82e73107e103",
           "00bad12b1126bca63a61d7fd",
           "d8309b73463f96ef942a4b7e",
@@ -308,7 +307,8 @@
           "dadd4a5fbec9ff34fd5b4c4c",
           "237f965eaa1bd6311429b04d",
           "dc2a23caa1aec7537794d7c0",
-          "6d7ad175b8bb3ea4ad4b7904"
+          "6d7ad175b8bb3ea4ad4b7904",
+          "80f3f59926bf3395dfa79f43"
         ]
       },
       "introduction": "Greet your household with a loving face when the sun rises; rest, because a body worn out by hardship can serve no one; consult with your husband before deciding about Africa; write often, whether or not a reply comes. Bahá’u’lláh and ‘Abdu’l-Bahá addressed counsel of this kind to particular people in particular straits, and in it a whole spiritual life descends into the texture of a single day: a child’s schooling, a debt, a difficult colleague, a letter that must reach the right hands. Is this an absolute command or wisdom offered in goodwill, and whose circumstances does it fit? Confucius gave opposite answers to two disciples who asked the same question, knowing one needed urging and the other restraint [1]; Paul, pleading for Onesimus, hoped for a kindness freely given rather than exacted [2]. The journey leads on into wisdom as the measure of every act, into permission to visit, and into business and property matters, where trust in God meets practical skill. Beneath every instruction runs a remembrance: the one counselled is seen in the light of what they may become.",
@@ -1852,11 +1852,8 @@
           ]
         },
         {
-          "key": "source:BH06602",
-          "why": "Hear the personal relationship carried by letters, prayers, greetings and replies delayed by overwhelming work. Being remembered calls forth gratitude and action. Keep each named recipient and the different scriptural, epistolary and reported voices distinct.",
-          "shortened": [
-            "Convey My greetings unto thy wife who attained the presence when the Luminary of the horizons was shining from the direction of Iraq. We beseech God to assist thee and her in that which He loveth and is pleased with."
-          ]
+          "key": "source:AB01090",
+          "why": "Corrects a recipient’s misunderstanding of a personal instruction."
         },
         {
           "key": "source:BH07510",

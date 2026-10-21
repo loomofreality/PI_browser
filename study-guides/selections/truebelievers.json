@@ -3,9 +3,9 @@
   "createdAt": "2026-10-13T21:38:43.191Z",
   "status": "finalized_before_analysis",
   "subject": "0DB1352636234AF3A5E69C0111872F10",
-  "dataset": "collections/7acbc96b-60b/",
-  "candidateFingerprint": "18f018dd4827bbe333dc1c48449c9125a276c571f270b4d1816fc0ec283102c1",
-  "candidateCount": 396,
+  "dataset": "collections/editorial-83f59e6ea2d8/",
+  "candidateFingerprint": "04bd1c4d2dd7d3cf2d23daa2113d7c638ae24fc8ade00c1293cff39cf126c3e4",
+  "candidateCount": 397,
   "target": 300,
   "selectedCount": 300,
   "mandatoryAuthorizedCount": 19,
@@ -853,30 +853,6 @@
         "kind": "no_authorized_selected_paragraph",
         "metadata": "",
         "sourceVersion": "17888f3a5f4e5475ff739d8d738cffc7fe4e3988c8acdf8f9ef3977b5ee3b979",
-        "paragraphs": []
-      }
-    },
-    {
-      "n": 84,
-      "group": 305,
-      "id": "dc77ceba58ca64983fd665b9",
-      "key": "source:AB11913",
-      "source": "AB11913",
-      "sourceVersion": "9c2655f078b83da2b798b5c67223c9b6ceef9479fc594849040dee8f9712b662",
-      "status": "confirmed",
-      "reference": "AB11913",
-      "authorization": "",
-      "authorizedParagraphs": [],
-      "mandatoryAuthorized": false,
-      "paragraphs": [
-        1
-      ],
-      "text": "are united, attracted, enkindled and mindful, and likewise the spiritual leaves, the handmaidens of the Divine Unity, are in the utmost love and remembrance and devotion and supplication and prayer",
-      "reason": "Tablet reporting that the friends and the handmaidens are united and devoted in remembrance and prayer; includes the women of the community in its remembrance.",
-      "authorityEvidence": {
-        "kind": "no_authorized_selected_paragraph",
-        "metadata": "",
-        "sourceVersion": "9c2655f078b83da2b798b5c67223c9b6ceef9479fc594849040dee8f9712b662",
         "paragraphs": []
       }
     },
@@ -7316,6 +7292,21 @@
         "sourceVersion": "9a1e63697367ccd6e2a50305d5adce6e1a2b786075d9baafdfe8e3971a9229ad",
         "paragraphs": []
       }
+    },
+    {
+      "id": "7e1e329edd33898748a30b76",
+      "key": "source:ABU1305",
+      "source": "ABU1305",
+      "sourceVersion": "17d086602a613df87d67ea62e8f553fb9bcfa19ee81f0ecf00a39f9414e680a4",
+      "status": "confirmed",
+      "reference": "ABU1305",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        1
+      ],
+      "text": "Since this manifestation is a manifestation of grace, therefore righteous people of good conduct who are not believers will not be deprived of divine grace and bounty. Certainly, a non-believer who performs good deeds is better than one who claims love and faith but whose deeds reveal satanic temptations. However, perfection is achieved when deeds and faith are combined, and the person of good conduct strives to spread the unity of the human world and promote peace and oneness among the nations and peoples of the world. This station is undoubtedly supreme.",
+      "reason": "Prefers good conduct to an empty profession of faith and calls for their union."
     }
   ],
   "omitted": [
@@ -7894,7 +7885,42 @@
       "n": 392,
       "source": "AB09107",
       "reason": "Surveyed before analysis; selected complementary passages state the subject’s central teachings, qualifications or practical applications more substantively or with less repetition. No verified authorized quotation omitted."
+    },
+    {
+      "n": 84,
+      "group": 305,
+      "id": "dc77ceba58ca64983fd665b9",
+      "key": "source:AB11913",
+      "source": "AB11913",
+      "sourceVersion": "9c2655f078b83da2b798b5c67223c9b6ceef9479fc594849040dee8f9712b662",
+      "status": "confirmed",
+      "reference": "AB11913",
+      "authorization": "",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        1
+      ],
+      "text": "are united, attracted, enkindled and mindful, and likewise the spiritual leaves, the handmaidens of the Divine Unity, are in the utmost love and remembrance and devotion and supplication and prayer",
+      "reason": "The relation between good conduct and professed belief is more illuminating than the brief list of devotional qualities.",
+      "authorityEvidence": {
+        "kind": "no_authorized_selected_paragraph",
+        "metadata": "",
+        "sourceVersion": "9c2655f078b83da2b798b5c67223c9b6ceef9479fc594849040dee8f9712b662",
+        "paragraphs": []
+      }
     }
   ],
-  "importedAuthorityReview": []
+  "importedAuthorityReview": [],
+  "integrationReview": {
+    "date": "2026-10-20",
+    "decision": "The relation between good conduct and professed belief is more illuminating than the brief list of devotional qualities.",
+    "added": [
+      "7e1e329edd33898748a30b76"
+    ],
+    "replaced": [
+      "dc77ceba58ca64983fd665b9"
+    ],
+    "finalizedBeforeRebuild": true
+  }
 }

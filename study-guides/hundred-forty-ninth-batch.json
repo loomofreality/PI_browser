@@ -1954,11 +1954,8 @@
           ]
         },
         {
-          "key": "source:AB00569",
-          "why": "Read the prayers as complete acts of address, praise, dependence and petition. Their requests for knowledge, pure intention, steadfastness and a capacity to serve gather up the earlier themes. Notice the personal needs and the concern for other people within them. Prayer can be read alongside the call to deliberate effort without reducing either to a technique for obtaining a result. What changes when spiritual readiness is approached as something to seek and cultivate rather than something already possessed?",
-          "shortened": [
-            "At midnight, or at the early dawn, arise and commune and pray for help to the beauty of the Most Glorious One."
-          ]
+          "key": "source:ABU0992",
+          "why": "Sets out the spiritual character and understanding required of teachers."
         },
         {
           "key": "source:AB09240",
@@ -2221,7 +2218,7 @@
       ],
       "selection": {
         "review": "selections/teachingprerequisites.json",
-        "sha256": "76eacc2403094d277faeef73757393037b8371348f6982587bef599fe3352d9c",
+        "sha256": "c51821054e542e20d00e49cc78c70519800310d30fbb412e52db9a3e61edc6a3",
         "ids": [
           "9983b51e13ba7e94601853c5",
           "86bf12ca7c8d834bebaeb3ea",
@@ -2429,7 +2426,6 @@
           "236fd4562bdc21c19472ad19",
           "ce75e9eb28130857f6eaa3ed",
           "1a7e7507eea25b2eecbe0d97",
-          "454c97cd2c4a7dca174d54f2",
           "a1de34e77c8cdad256ce4918",
           "d6853b4027a94e80cfba2786",
           "989b5f07208cb96de1d11403",
@@ -2522,7 +2518,8 @@
           "806dfd06c02073b518626e30",
           "499e4b4fdba526271e28ee2b",
           "bae981d74108ca862c41e4d0",
-          "76eca566c529c138198cc1c5"
+          "76eca566c529c138198cc1c5",
+          "bd19b7dba817a3955d1b8add"
         ]
       }
     }

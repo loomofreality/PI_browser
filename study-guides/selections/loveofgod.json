@@ -3,12 +3,12 @@
   "createdAt": "2026-10-11T18:24:51.889Z",
   "status": "finalized_before_analysis",
   "subject": "410D6617D11A4266BA52B4B00A48D649",
-  "dataset": "collections/390a77fa-5b4/",
-  "candidateFingerprint": "9c51710d2ba50d91c168e04b901e85a5a657a60836b0763607c21135215c41b8",
-  "candidateCount": 1442,
+  "dataset": "collections/editorial-83f59e6ea2d8/",
+  "candidateFingerprint": "7d97aee08a21096126c75d820a7af87cf419dd2d974171172dd7040cddc9fa06",
+  "candidateCount": 1443,
   "target": 300,
   "selectedCount": 300,
-  "mandatoryAuthorizedCount": 110,
+  "mandatoryAuthorizedCount": 111,
   "selectionBeforeAnalysis": true,
   "method": "Complete candidate survey followed by individual editorial choices and written reasons. All verified authorized selections included. Priority given to foundational teachings, substantive explanations, necessary qualifications, distinctive applications and thematic breadth. Neither citation count nor source order used as a ranking rule. Imported wording checked separately; version differences remain explicit.",
   "selected": [
@@ -7446,38 +7446,6 @@
       }
     },
     {
-      "n": 1430,
-      "group": 1376,
-      "id": "b12d3790a10aa534ed71cfb7",
-      "key": "selection:b12d3790a10aa534ed71cfb7",
-      "source": null,
-      "status": "approximate",
-      "reference": "AB04980",
-      "authorization": "",
-      "authorizedParagraphs": [],
-      "mandatoryAuthorized": false,
-      "paragraphs": [],
-      "text": "\"My God! my God! Thou art my hope and my beloved, my intended aim and desire! With great humbleness and entire devotion I pray to Thee\"",
-      "original": "\"My God! my God! Thou art my hope and my beloved, my intended aim and desire! With great humbleness and entire devotion I pray to Thee\"  AB04980",
-      "candidateReference": {
-        "source": "AB04980",
-        "version": "447d1bebc0097bdd70f2386ecd65e427e981bdfe6d11a44af0e1dd1cc1194758",
-        "paragraphs": [
-          5
-        ]
-      },
-      "reason": "A prayer addresses God as hope and beloved; preserve its older wording and incomplete supplied ending.",
-      "authorityEvidence": {
-        "n": 1430,
-        "url": "https://www.bahai.org/library/authoritative-texts/prayers/bahai-prayers/3",
-        "authorization": "Authorized counterpart exists; exact older supplied translation not verified as that version.",
-        "finding": "AB04980 has authorization Y5,7. Supplied My God / my intended aim differs from its O God / my highest Aim and from the official prayer. Common concluding words do not establish this older version's authority. Preserve approximate status and supplied wording; no substitution.",
-        "id": "b12d3790a10aa534ed71cfb7",
-        "reviewedAt": "2026-10-11T18:24:51.849Z",
-        "contextRestored": false
-      }
-    },
-    {
       "n": 1431,
       "group": 1377,
       "id": "3e142d9752988dca834704f2",
@@ -7769,6 +7737,23 @@
         "reviewedAt": "2026-10-11T18:24:51.850Z",
         "contextRestored": false
       }
+    },
+    {
+      "id": "afb05eae32f82f134f46bb16",
+      "key": "source:AB00189",
+      "source": "AB00189",
+      "sourceVersion": "fcfd7b1901d0e49c332d270a37e0b3af5adf5a161112f0a21a8c0e7b2647c59c",
+      "status": "confirmed",
+      "reference": "AB00189",
+      "authorizedParagraphs": [
+        1
+      ],
+      "mandatoryAuthorized": true,
+      "paragraphs": [
+        1
+      ],
+      "text": "O ye spiritual friends of Abdu'l-Baha! A trusted messenger hath arrived and hath, in the world of the spirit, delivered a message from God's loved ones. This auspicious courier bringeth fragrances of great ardour and wafteth the life-giving breezes of the love of God. He maketh the heart to dance for joy and filleth up the soul with an ecstasy of love and rapture. So intensely hath the glory of Divine Unity penetrated souls and hearts that all are now bound one to another with heavenly ties, and all are even as a single heart, a single soul. Wherefore reflections of the spirit and impressions of the Divine are now mirrored clear and sharp in the deep heart's core.",
+      "reason": "Mandatory authorized wording. Describes the love of God binding hearts through spiritual ties."
     }
   ],
   "omitted": [
@@ -14623,6 +14608,38 @@
       "n": 1441,
       "source": null,
       "reason": "Surveyed before analysis; selected complementary passages state the subject’s central teachings, qualifications or practical applications more substantively or with less repetition. No verified authorized quotation omitted."
+    },
+    {
+      "n": 1430,
+      "group": 1376,
+      "id": "b12d3790a10aa534ed71cfb7",
+      "key": "selection:b12d3790a10aa534ed71cfb7",
+      "source": null,
+      "status": "approximate",
+      "reference": "AB04980",
+      "authorization": "",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [],
+      "text": "\"My God! my God! Thou art my hope and my beloved, my intended aim and desire! With great humbleness and entire devotion I pray to Thee\"",
+      "original": "\"My God! my God! Thou art my hope and my beloved, my intended aim and desire! With great humbleness and entire devotion I pray to Thee\"  AB04980",
+      "candidateReference": {
+        "source": "AB04980",
+        "version": "447d1bebc0097bdd70f2386ecd65e427e981bdfe6d11a44af0e1dd1cc1194758",
+        "paragraphs": [
+          5
+        ]
+      },
+      "reason": "Include verified authorized wording linking divine love to united hearts; replace the incomplete prayer opening while preserving the striking love-and-sin qualification.",
+      "authorityEvidence": {
+        "n": 1430,
+        "url": "https://www.bahai.org/library/authoritative-texts/prayers/bahai-prayers/3",
+        "authorization": "Authorized counterpart exists; exact older supplied translation not verified as that version.",
+        "finding": "AB04980 has authorization Y5,7. Supplied My God / my intended aim differs from its O God / my highest Aim and from the official prayer. Common concluding words do not establish this older version's authority. Preserve approximate status and supplied wording; no substitution.",
+        "id": "b12d3790a10aa534ed71cfb7",
+        "reviewedAt": "2026-10-11T18:24:51.849Z",
+        "contextRestored": false
+      }
     }
   ],
   "importedAuthorityReview": [
@@ -14746,5 +14763,16 @@
       "reviewedAt": "2026-10-11T18:24:51.850Z",
       "contextRestored": false
     }
-  ]
+  ],
+  "integrationReview": {
+    "date": "2026-10-20",
+    "decision": "Include verified authorized wording linking divine love to united hearts; replace the incomplete prayer opening while preserving the striking love-and-sin qualification.",
+    "added": [
+      "afb05eae32f82f134f46bb16"
+    ],
+    "replaced": [
+      "b12d3790a10aa534ed71cfb7"
+    ],
+    "finalizedBeforeRebuild": true
+  }
 }

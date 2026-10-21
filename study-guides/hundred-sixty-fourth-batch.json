@@ -7,7 +7,7 @@
       "displayTitle": "Tests and trials; sacrifice and suffering",
       "selection": {
         "review": "selections/tests.json",
-        "sha256": "951ef4f2d2fbf356a5d52f60c7fb714c767afd04296ff143dea4b2736f1437ce",
+        "sha256": "c438081a62b5bbd61ef73a482ac67e19214ea6d29ff31f11dea19e1849865d64",
         "ids": [
           "c5e9b3fcaad45da3db07b99e",
           "75a73101676e253ccc6acc50",
@@ -251,7 +251,6 @@
           "889b4a2872fc2c7ef9dbd62d",
           "ed72087b3c5c2af89b5f4846",
           "12d30448ac54a7ac263f25ca",
-          "71c9031adbd95af991efc226",
           "361263e0fdc3a8f9e7712ca0",
           "4f62d102918c1f523968afd4",
           "cf7b1c006bd0b640dc38a552",
@@ -308,7 +307,8 @@
           "d7eac5332e30a8b13056a4d1",
           "c1cd0d0b6dd067044787bafd",
           "0d7bb68e58eb94509c98e637",
-          "a7e03a1d9f0eed54e68826fd"
+          "a7e03a1d9f0eed54e68826fd",
+          "fd52a89ed0fb720325a91e4b"
         ]
       },
       "introduction": "Bahá’u’lláh teaches that God has always tried His servants so that light can be told from darkness and roses from thorns, and ‘Abdu’l-Bahá likens the soul to ground that yields a richer harvest the more deeply it is ploughed. Trial, then, is no verdict on the one who suffers. The storm does not rise to sink the ship but follows its own course, and a sturdy vessel rides it out; immolation in the days of Abraham meant a station of sacrifice, freedom from desire, not the shedding of blood. Yet the same teachings refuse to turn pain into a formula: affliction is not proof of sin, grief and fatigue are real, and the sick and the bereaved need practical care rather than explanation. Trust walks beside prudence, forgiveness beside appeals for justice, endurance beside the quiet work of planting a garden while a city is in turmoil. From here the path opens toward the mystery of sacrifice and the hard questions of theodicy, and toward the gentler disciplines of consolation, detachment and steadfastness, where what was endured becomes something offered.",
@@ -2149,11 +2149,8 @@
           ]
         },
         {
-          "key": "source:AB08375",
-          "why": "Conclude with complete prayers, including the Fire Tablet’s call and response and its closing counsel. The voices move through lament, longing, trust, bewilderment, forgiveness and thanksgiving. Some ask for endurance; others ask that danger, illness, bondage or distress be removed. The prayer that expresses readiness for ordeal also asks for protection from tests and for healing. First-person devotional language retains its speaker and setting. Explore the neighbors on prayers for sacrifice and for tests and difficulties. What changes when a complete prayer replaces an isolated phrase? How do its petitions return to fellowship and service? The supplied extracts that follow keep their original wording, with primary links and notes identifying omissions, transcription differences and personal circumstances.",
-          "shortened": [
-            "And I beseech Him to preserve thee from the confirmed tests and great trials which break backs and perish souls and to make thee a sign of submissiveness and a standard of meekness, lowliness and humility before the Kingdom of the Mighty and Omnipotent God."
-          ]
+          "key": "source:AB02190",
+          "why": "Compares the effects of trials on steadfast souls to the refining of gold."
         },
         {
           "key": "source:AB12172",
