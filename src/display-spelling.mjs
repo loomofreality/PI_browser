@@ -1,7 +1,7 @@
 // Presentation correction only. Source bytes, plain text, quotation offsets,
 // catalogue identity, and link destinations remain unchanged.
 export function correctDisplayText(value){
-  return String(value).replace(/(?<![\p{L}\p{N}])Abduil-Bah[aá](?![\p{L}\p{N}])/giu,"Abdu'l-Baha");
+  return String(value).replace(/(?<![\p{L}\p{N}\p{M}])Abduil(?![\p{L}\p{N}\p{M}])/giu,"Abdu'l");
 }
 export function correctDisplaySegments(segments){
   const corrected=correctDisplayText(segments.join(''));let at=0;
@@ -32,7 +32,9 @@ export function installDisplaySpelling(doc=document){
     nodes.forEach((node,i)=>{if(node.data!==pieces[i])node.data=pieces[i];});
   };
   correct(doc.documentElement);
-  const observer=new MutationObserver(changes=>{for(const change of changes){if(change.type==='characterData')correct(change.target.parentNode||change.target);else for(const node of change.addedNodes)correct(node);}});
+  // Inspect the containing element: highlighting can split a word across
+  // several newly inserted text nodes and inline elements.
+  const observer=new MutationObserver(changes=>{for(const change of changes)correct(change.target.parentNode&&change.type==='characterData'?change.target.parentNode:change.target);});
   observer.observe(doc.documentElement,{childList:true,characterData:true,subtree:true});
   return ()=>observer.disconnect();
 }
