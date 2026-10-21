@@ -3,9 +3,9 @@
   "createdAt": "2026-10-13T21:37:55.690Z",
   "status": "finalized_before_analysis",
   "subject": "3186621C7B97EB4AAD2CCA81C1358C2B",
-  "dataset": "collections/7acbc96b-60b/",
-  "candidateFingerprint": "a70b98172a201d00e303a6207d5d40e35a10cd0df218ec9c0b38e459d52e6c74",
-  "candidateCount": 495,
+  "dataset": "collections/editorial-83f59e6ea2d8/",
+  "candidateFingerprint": "2e8004fa908ef865ad13d1e0733a5201c49ffa65ad53c1e23bab66c546f1d85d",
+  "candidateCount": 496,
   "target": 300,
   "selectedCount": 300,
   "mandatoryAuthorizedCount": 17,
@@ -8491,7 +8491,19 @@
       "n": 490,
       "source": "AB04524",
       "reason": "Surveyed before analysis; selected complementary passages state the subject’s central teachings, qualifications or practical applications more substantively or with less repetition. No verified authorized quotation omitted."
+    },
+    {
+      "id": "051e93490eaa44aa83293974",
+      "source": "BH01454",
+      "reason": "Keep the existing contextual counsel to women and the rebuke of spiritual coldness; the new general deeds-before-words counsel does not justify displacing either."
     }
   ],
-  "importedAuthorityReview": []
+  "importedAuthorityReview": [],
+  "integrationReview": {
+    "date": "2026-10-20",
+    "decision": "Keep the existing contextual counsel to women and the rebuke of spiritual coldness; the new general deeds-before-words counsel does not justify displacing either.",
+    "added": [],
+    "replaced": [],
+    "finalizedBeforeRebuild": true
+  }
 }

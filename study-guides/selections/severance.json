@@ -3,9 +3,9 @@
   "createdAt": "2026-10-13T17:31:51.680Z",
   "status": "finalized_before_analysis",
   "subject": "379BEFFCBC0C4B9683034D7269624B3C",
-  "dataset": "collections/7acbc96b-60b/",
-  "candidateFingerprint": "0a951dfc5469499a2ab56763491d767e0b8bc076ae0590fa1820942ac4946928",
-  "candidateCount": 2877,
+  "dataset": "collections/editorial-83f59e6ea2d8/",
+  "candidateFingerprint": "cf56625a36e09051dc3d796e50a6bb98953eba512321b86979bb8399656cf65f",
+  "candidateCount": 2878,
   "target": 300,
   "selectedCount": 300,
   "mandatoryAuthorizedCount": 190,
@@ -1586,30 +1586,6 @@
         "paragraphs": [
           2
         ]
-      }
-    },
-    {
-      "n": 1499,
-      "group": 30,
-      "id": "d6d0a5053286c85cfc0c7fee",
-      "key": "source:BH00234",
-      "source": "BH00234",
-      "sourceVersion": "222a2d60412e457af56c194d0fbf7d10bb484ac60ce2a2cadc0a720f2d3d623e",
-      "status": "exact",
-      "reference": "BH00234",
-      "authorization": "Y7-8,29-30,58,72,110,115",
-      "authorizedParagraphs": [],
-      "mandatoryAuthorized": false,
-      "paragraphs": [
-        47
-      ],
-      "text": "Detachment and severance are two wings for the flight of those who are captives of self and passion to the atmosphere of nearness and the presence of God.",
-      "reason": "Detachment and severance as two wings for the flight of captives of self.",
-      "authorityEvidence": {
-        "kind": "no_authorized_selected_paragraph",
-        "metadata": "Y7-8,29-30,58,72,110,115",
-        "sourceVersion": "222a2d60412e457af56c194d0fbf7d10bb484ac60ce2a2cadc0a720f2d3d623e",
-        "paragraphs": []
       }
     },
     {
@@ -8038,6 +8014,21 @@
           1370
         ]
       }
+    },
+    {
+      "id": "d974aa791b13d8461629bcad",
+      "key": "source:ABU0687",
+      "source": "ABU0687",
+      "sourceVersion": "3d4c66421aa74b4f347ba59a704e6d165678f2879781abf2685de3317ff369ef",
+      "status": "confirmed",
+      "reference": "ABU0687",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        2
+      ],
+      "text": "Answer: In this day or Dispensation asceticism is of the spiritual type: For spiritual asceticism is correct - is productive of result. On the one hand a man may attain virtues by inherent force of nature or of existence; on the other hand these virtues may be due to the weakness of his nature. For instance, an infant is detached from the world: that severance or detachment is due to its potential weakness. But a wise man having passed the stage of maturity will likewise be detached from the world, and care nothing for the world, but that severance at that stage is indicative of inherent force or strength of character.",
+      "reason": "Distinguishes mature spiritual detachment from an infant’s lack of worldly capacity."
     }
   ],
   "omitted": [
@@ -23493,6 +23484,30 @@
       "id": "29439963917f2bfa9cfae4c3",
       "n": 2877,
       "reason": "Comparative mystical letter in an unidentified translation; omitted in favour of two short verified scriptural comparisons. No verified authorized quotation omitted."
+    },
+    {
+      "n": 1499,
+      "group": 30,
+      "id": "d6d0a5053286c85cfc0c7fee",
+      "key": "source:BH00234",
+      "source": "BH00234",
+      "sourceVersion": "222a2d60412e457af56c194d0fbf7d10bb484ac60ce2a2cadc0a720f2d3d623e",
+      "status": "exact",
+      "reference": "BH00234",
+      "authorization": "Y7-8,29-30,58,72,110,115",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        47
+      ],
+      "text": "Detachment and severance are two wings for the flight of those who are captives of self and passion to the atmosphere of nearness and the presence of God.",
+      "reason": "The distinction between infant incapacity and mature detachment adds a necessary qualification beyond the familiar two-wings image.",
+      "authorityEvidence": {
+        "kind": "no_authorized_selected_paragraph",
+        "metadata": "Y7-8,29-30,58,72,110,115",
+        "sourceVersion": "222a2d60412e457af56c194d0fbf7d10bb484ac60ce2a2cadc0a720f2d3d623e",
+        "paragraphs": []
+      }
     }
   ],
   "importedAuthorityReview": [
@@ -23635,5 +23650,16 @@
       "reviewedAt": "2026-10-13T17:31:51.680Z",
       "contextRestored": false
     }
-  ]
+  ],
+  "integrationReview": {
+    "date": "2026-10-20",
+    "decision": "The distinction between infant incapacity and mature detachment adds a necessary qualification beyond the familiar two-wings image.",
+    "added": [
+      "d974aa791b13d8461629bcad"
+    ],
+    "replaced": [
+      "d6d0a5053286c85cfc0c7fee"
+    ],
+    "finalizedBeforeRebuild": true
+  }
 }

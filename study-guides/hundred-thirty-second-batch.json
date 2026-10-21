@@ -7,7 +7,7 @@
       "displayTitle": "Power of prayer: communion, courage and action",
       "selection": {
         "review": "selections/prayerpower.json",
-        "sha256": "7497a7ee15a62f26e578da20b9352c8efab342a0a7efb2ce4e07054ab66a23e3",
+        "sha256": "ad9194446b53d22d2b01a7f93b70ba026ac67a1514c472dfecef384b7cac9e4a",
         "ids": [
           "0d0bedc7e777694cd7a0ea22",
           "75e5ce09bce8ff1b3fc526c4",
@@ -32,7 +32,6 @@
           "bfa4c099e1d195a7a1b0f0fe",
           "558d66e5fcf55ceeff916d6b",
           "b5fb0b2e4c6fe161e11208e0",
-          "60e5db153daa42ab1661deef",
           "b3baa0e204018ea21bf3864a",
           "320b649ca05eb5271e4d068c",
           "cbc9fb3fa46bca9f52e727e4",
@@ -308,7 +307,8 @@
           "e13abe36f84afa57900295fb",
           "e5f0c1f57d72b9fc57a190f3",
           "c6e64159297bc2f95812660f",
-          "aa4c45c499eabc1236507da4"
+          "aa4c45c499eabc1236507da4",
+          "e7ac2e8b10244b6a116c3ea4"
         ]
       },
       "introduction": "The weak turn to the Strong and the seeker of bounty to the Bountiful: that, ‘Abdu’l-Bahá says, is reason enough to pray even though God already knows every need, because the asking itself becomes a light to the heart of the one who asks. Something begins to change in that person: a heart polished like a mirror, a will laid down, a day steadied by a midnight conversation with God. This is a power that works less on circumstances than on people. It excuses no one from the hand of practical means; the medicine is still taken, the child still taught, and a decision reached in prayer still calls for tireless effort. Nor does it promise every outcome, for some decrees can be averted and some cannot, and a believer may pray for healing and still have to give back what was only ever lent. The road runs on toward the state of prayer and its inner dynamics, toward the obligatory prayer that gives devotion a daily shape, and toward the spiritual transformation of the one who keeps conversing with God.",
@@ -2006,11 +2006,8 @@
           ]
         },
         {
-          "key": "source:BH04766",
-          "why": "Consider how replies become lasting encouragement, opening the reader to prayer for guidance rather than control of circumstances.",
-          "shortened": [
-            "We have read thy letter before Us and heard thy cry and supplication at thy remoteness from the Dawning-Place of Lights."
-          ]
+          "key": "source:BB00061",
+          "why": "Explains prayer itself as an answer when offered in true turning toward God."
         },
         {
           "key": "source:BH02822",

@@ -7,7 +7,7 @@
       "displayTitle": "Serving humanity: from compassion to collective progress",
       "selection": {
         "review": "selections/servinghumanity.json",
-        "sha256": "7a015df1b570d800f3babd137a1317b1ea493b864126459e3a1f8c5b2d81385e",
+        "sha256": "df024b8664bf1cdfc9a8299d13ffbb314dae96dd829ed704d0affbbefa017a26",
         "ids": [
           "b455487ab8d6c270a72b7ad3",
           "41e974b5062db81311b92144",
@@ -152,7 +152,6 @@
           "fe21ecbfcfbca7ace7ce41cd",
           "cb37d1dec29e2876e11b3846",
           "c9e04480d1cde999c2a82ca5",
-          "67fea8578df7a16ae7cc151b",
           "f2940d76a114d464ce1d7e79",
           "3520950903a25560db05b927",
           "d22db8868f7ecab849f26abe",
@@ -308,7 +307,8 @@
           "d6e0286fa6339fb6149f8929",
           "befcd7b1554678d94616917b",
           "ff3d0e5da84ce10fee3a113c",
-          "64fbb55dec43add7572a925f"
+          "64fbb55dec43add7572a925f",
+          "a27baca0d024a13a843d19f4"
         ]
       },
       "introduction": "Every person, Bahá’u’lláh says, has been called into being for the betterment of the world. The claim turns ordinary life inside out: a bed offered to a stranger, a wound dressed, a sorrowful friend made glad, become what a human being exists to do. ‘Abdu’l-Bahá calls such service worship, the physician at a sickbed giving praise as surely as anyone at prayer. The circle then widens past family and friend to opponent and foreigner, and past the single act to schools, honest public office, science and the patient building of institutions that leave people more capable. Service tests the server too, asking humility, freedom from the wish for praise, care for the dignity of the one helped, and perseverance when humanity proves ungrateful. The Samaritan who becomes a neighbour by acting, and Krishna’s summons to work for the good of the world, press the question from other traditions. The road leads into kindness to the poor and the sick, into useful work and a craft practised with conscience, and into the ascent of a civilization at once material and spiritual.",
@@ -1673,8 +1673,8 @@
           ]
         },
         {
-          "key": "source:AB08040",
-          "why": "Let counsel, encouragement, and prayer gather the preceding practical duties into a common effort, ending the linked readings with care for every person, including enemies."
+          "key": "source:AB00546",
+          "why": "Connects practical service to humanity with the soul’s progress."
         },
         {
           "key": "source:AB11670",

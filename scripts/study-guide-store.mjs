@@ -51,7 +51,8 @@ export function checkGuide(original,edited,{verified=new Set()}={}){
   let unlinked=false;
   const order=edited.order.map((entry,i)=>{
     const before=original.order.find(x=>x.key===entry.key);
-    if(Object.keys(entry).some(k=>!['key','why','shortened','omitted'].includes(k)))fail('Reading entries can only be moved, shortened, left out or have their note changed.');
+    if(Object.keys(entry).some(k=>!['key','why','shortened','omitted','sourceQuestion'].includes(k)))fail('Reading entries can only be moved, shortened, left out or have their note changed.');
+    if(entry.sourceQuestion!==undefined&&JSON.stringify(entry.sourceQuestion)!==JSON.stringify(before.sourceQuestion))fail('The reviewed source question cannot be changed in this editor.');
     // New kept sentences or a new omission must have been checked against the source.
     if(entry.shortened!==undefined){
       if(!Array.isArray(entry.shortened)||!entry.shortened.length||entry.shortened.some(t=>typeof t!=='string'||!t.trim()))fail(`The kept sentences of reading ${i+1} are invalid.`);
@@ -63,7 +64,7 @@ export function checkGuide(original,edited,{verified=new Set()}={}){
     if(entry.key.startsWith('selection:'))unlinked=true;
     else if(unlinked)fail(`Reading ${i+1} is linked to a catalog source, so it must come before the supplied quotations (“Further quotations”).`);
     const {key,why,shortened,omitted}=entry;
-    return {key,why,...(shortened!==undefined&&{shortened}),...(omitted&&{omitted})};
+    return {key,why,...(shortened!==undefined&&{shortened}),...(omitted&&{omitted}),...(before.sourceQuestion&&{sourceQuestion:structuredClone(before.sourceQuestion)})};
   });
   const shown=shownReadings(edited);
   if(!shown)fail('At least one reading must stay in the guide.');

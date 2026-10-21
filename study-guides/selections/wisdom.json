@@ -3,9 +3,9 @@
   "createdAt": "2026-10-13T21:51:17.425Z",
   "status": "finalized_before_analysis",
   "subject": "F21CB46DB1E7424F8F52EA6E0C61DD3B",
-  "dataset": "collections/7acbc96b-60b/",
-  "candidateFingerprint": "c3f154b35b59fa8dd0eab772a6552a16a1164e7c2f6c39bb7ca27c1bb8db929a",
-  "candidateCount": 774,
+  "dataset": "collections/editorial-83f59e6ea2d8/",
+  "candidateFingerprint": "6ed5d57695486dde9b3f86749ea855586a2087c8233a6a14653b0d818dc733fe",
+  "candidateCount": 775,
   "target": 300,
   "selectedCount": 300,
   "mandatoryAuthorizedCount": 28,
@@ -10200,6 +10200,11 @@
       "id": "c4d1d50c9e68939ad5498b1d",
       "n": 771,
       "reason": "Imported rendering of Bahá’u’lláh’s counsel to observe wisdom because most people are weak and far from God’s purpose; selected passages carry the same counsel, including #527, #636 and #555. No verified authorized quotation omitted."
+    },
+    {
+      "id": "b85df7b6727a81d9ac9310f0",
+      "source": "BH00765",
+      "reason": "The existing examples of protecting hope and adapting treatment to capacity retain useful qualifications; the new planning-and-reflection exhortation is not clearly better."
     }
   ],
   "importedAuthorityReview": [
@@ -10275,5 +10280,12 @@
       "reviewedAt": "2026-10-13T21:51:17.425Z",
       "contextRestored": false
     }
-  ]
+  ],
+  "integrationReview": {
+    "date": "2026-10-20",
+    "decision": "The existing examples of protecting hope and adapting treatment to capacity retain useful qualifications; the new planning-and-reflection exhortation is not clearly better.",
+    "added": [],
+    "replaced": [],
+    "finalizedBeforeRebuild": true
+  }
 }

@@ -7,7 +7,7 @@
       "displayTitle": "Praise and encouragement",
       "selection": {
         "review": "selections/praise.json",
-        "sha256": "dad054780a8465eb62e4c70a25280eecf9bcc01e5384be629816c1681ca9db4c",
+        "sha256": "a9999a14b19b09595e43b9e529d8c557885e6a27f6e5229fcadef85671f1459d",
         "ids": [
           "65058d16b0c803cc5f23f5dc",
           "9a402e7abaa9d0a951b59921",
@@ -294,7 +294,6 @@
           "2ac135a9541656c97db7b57c",
           "f42ea91ecbe5fb4b257263f4",
           "2a478a3b3b65177b991ec33f",
-          "ac560cdc8de91cdbe18d4e6d",
           "3ab54141ce23ae81b7050da3",
           "284776c9a7e80d56a3eef1a9",
           "ad42fc17125a44e8dbea4a15",
@@ -308,7 +307,8 @@
           "68e5bcaa4b07d261696c95eb",
           "85f9d244f270ff0bc1518b4a",
           "a1ac1b7ed42bb20057c813f9",
-          "f8780044817d68e63f2f1ab4"
+          "f8780044817d68e63f2f1ab4",
+          "5aa8c05369d946017539b170"
         ]
       },
       "introduction": "To praise is to notice a gift for what it is and to say so. Bahá’u’lláh roots that act in a Creator whose mercy outruns every tongue that tries to describe it, and whose remembrance falls on a tired heart like rain on a garden. From that first thankfulness the eye turns outward. ‘Abdu’l-Bahá names a particular service, answers a letter delayed by travel, delights in a child’s first page of writing, a village school, a craftsman’s honest work. His encouragement is specific and seldom unconditional: improve the skill, act with humility, weigh the means at hand, care for the person beside you. Such praise is tested against character and deeds, and it learns to sit with grief without hurrying it. The path runs on into gratitude, into the consolation offered to the bereaved and persecuted, and into the call to action that turns appreciation into effort. Paul’s plea that the Thessalonians build one another up while testing everything [1] poses the same question: how does a community encourage without ceasing to discern?",
@@ -758,11 +758,8 @@
           ]
         },
         {
-          "key": "source:AB02798",
-          "why": "The readings repeatedly test a name or reputation against conduct. They praise humility, trustworthiness and service, and distinguish sincere recognition from merely reading words of commendation. A theft narrative warns against trusting appearances alone. A later note updates an earlier rebuke, showing why the whole exchange matters. The reported farewell to the Letters of the Living joins high expectations with purity of motive. AB00700 contains a derogatory racial analogy in its discussion of names and character; retaining the historical wording does not endorse it. Other texts preserve specific fasting exemptions, voluntary offerings and corrections about a commemoration. Explore the neighbors on counsels and calls to action. How can praise be truthful, specific and open to growth? What makes an expression of humility consistent with recognizing someone’s achievement?",
-          "shortened": [
-            "O friends and maidservants of the Merciful! Your letter truly brought joy and happiness and became the cause of hope, for it showed your being affected by the counsels and exhortations of 'Abdu'l-Baha."
-          ]
+          "key": "source:AB02732",
+          "why": "Encourages a recipient to resume valued service and strive for greater success."
         },
         {
           "key": "source:BH04171",

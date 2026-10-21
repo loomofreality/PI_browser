@@ -1817,11 +1817,8 @@
           ]
         },
         {
-          "key": "source:BH09556",
-          "why": "Read each prayer as a whole, with its address, petitions, qualifications and closing praise. Knowledge is sought together with detachment, mercy, protection, steadfastness and the ability to act. Some prayers acknowledge that even their own praise cannot encompass God. Attend to the particular people and needs named within them. How does asking for understanding differ from claiming possession of it, and how might prayer renew both inquiry and responsibility?",
-          "shortened": [
-            "We beseech Thee by the Mystery that lay hidden within Thy knowledge, and by the Pearl that remained concealed within the shell of Thy decree and destiny, to ordain for those who have heard Thy call and responded to that which Thou hast prescribed for the sincere ones among Thy creatures--those whom neither the might of the world could dismay nor the power of the nations enfeeble, who hastened with their hearts to the horizon of Thy Revelation and attained unto that which the Tongue of Thy grandeur had uttered on the Mount--that which Thou hast ordained for them."
-          ]
+          "key": "source:BB00027",
+          "why": "Affirms the impossibility of comprehending the divine Essence."
         },
         {
           "key": "source:AB03601",
@@ -2107,7 +2104,7 @@
       ],
       "selection": {
         "review": "selections/knowledgeofgod.json",
-        "sha256": "d79834f502fcdf5572bb28981d573900c3ee2d58516c234ac0c1978fd91ff9f7",
+        "sha256": "eaeb4b4825b64ff21f4d67f61af282b7797055eb8dd19d4982f42877abb2ddd1",
         "ids": [
           "aad7605fc81de49dc8b9ed79",
           "1637dbbf23df006f8f332d18",
@@ -2288,7 +2285,6 @@
           "bcb5f47d826e543af3f1dc6d",
           "9e0c33148297640a04efab7c",
           "412d62267445b9bf7f94641b",
-          "5cbbea21f48e78a24bc7a74a",
           "d9201a7dc0510ec72b76fab7",
           "c3ea71875d8ed5e812a7be7b",
           "c17dff2f8125e42168292985",
@@ -2408,7 +2404,8 @@
           "6c0c8edac1100030be519fba",
           "156bb60af3f75e76f5ae45d0",
           "8c6cfa7ef3c9134d9fcbc9e0",
-          "8c877d66f7fa60bef387ba12"
+          "8c877d66f7fa60bef387ba12",
+          "bf6756fd9b9f8efe895c52fa"
         ]
       }
     }

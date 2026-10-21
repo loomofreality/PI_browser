@@ -3,9 +3,9 @@
   "createdAt": "2026-10-11T21:02:40.999Z",
   "status": "finalized_before_analysis",
   "subject": "CC093CE37A394C1F81BEAF67251D3FC4",
-  "dataset": "collections/390a77fa-5b4/",
-  "candidateFingerprint": "94679541841f81c0c9cc68cebfc55ac2f8dda07991090d499a5ab80039797064",
-  "candidateCount": 1860,
+  "dataset": "collections/editorial-83f59e6ea2d8/",
+  "candidateFingerprint": "ce90cf65d737662644c7623b75b375163658a04dda6b0e5900e2c69768b74665",
+  "candidateCount": 1861,
   "target": 300,
   "selectedCount": 300,
   "mandatoryAuthorizedCount": 119,
@@ -6312,30 +6312,6 @@
       }
     },
     {
-      "n": 1361,
-      "group": 1313,
-      "id": "71c9031adbd95af991efc226",
-      "key": "source:AB08375",
-      "source": "AB08375",
-      "sourceVersion": "c046c71130a914b706368f26cf76154ef17367e00ffc537a7f4f52d4e592e6a2",
-      "status": "exact",
-      "reference": "AB08375",
-      "authorization": "",
-      "authorizedParagraphs": [],
-      "mandatoryAuthorized": false,
-      "paragraphs": [
-        2
-      ],
-      "text": "And I beseech Him to preserve thee from the confirmed tests and great trials which break backs and perish souls",
-      "reason": "Prays for protection from trials described as breaking backs and destroying souls.",
-      "authorityEvidence": {
-        "kind": "no_authorized_selected_paragraph",
-        "metadata": "",
-        "sourceVersion": "c046c71130a914b706368f26cf76154ef17367e00ffc537a7f4f52d4e592e6a2",
-        "paragraphs": []
-      }
-    },
-    {
       "n": 1362,
       "group": 1314,
       "id": "361263e0fdc3a8f9e7712ca0",
@@ -7722,6 +7698,21 @@
         "reviewedAt": "2026-10-11T21:02:40.944Z",
         "contextRestored": false
       }
+    },
+    {
+      "id": "fd52a89ed0fb720325a91e4b",
+      "key": "source:AB02190",
+      "source": "AB02190",
+      "sourceVersion": "e5fe9d511725bbebb5d7c5696c4e5d8bda119e022e02db120954d12700f8c182",
+      "status": "confirmed",
+      "reference": "AB02190",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        1
+      ],
+      "text": "O friends of God and maidservants of the Most Merciful! Your detailed letter was an extensive statement about steadfastness and firmness. Although in these days full of tests, steadfastness and firmness were difficult, yet praise be to God, the friends of God and maidservants of the Most Merciful remained firm and steadfast like a mighty rock - rather, they increased in their steadfastness. This is the custom and the way: in the day of tests, the weak become completely shaken and turn away, while the strong who possess spiritual power increase in strength. Impure copper becomes completely blackened in the fire of tests, but pure gold increases in luster and shines more brightly.",
+      "reason": "Compares the effects of trials on steadfast souls to the refining of gold."
     }
   ],
   "omitted": [
@@ -17084,6 +17075,30 @@
       "n": 1851,
       "source": null,
       "reason": "Surveyed before analysis; selected complementary passages state the subject’s central teachings, qualifications or practical applications more substantively or with less repetition. No verified authorized quotation omitted."
+    },
+    {
+      "n": 1361,
+      "group": 1313,
+      "id": "71c9031adbd95af991efc226",
+      "key": "source:AB08375",
+      "source": "AB08375",
+      "sourceVersion": "c046c71130a914b706368f26cf76154ef17367e00ffc537a7f4f52d4e592e6a2",
+      "status": "exact",
+      "reference": "AB08375",
+      "authorization": "",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        2
+      ],
+      "text": "And I beseech Him to preserve thee from the confirmed tests and great trials which break backs and perish souls",
+      "reason": "The fire-and-gold explanation develops trials more fully than a short protective petition; retain the call to become a balm to the oppressed.",
+      "authorityEvidence": {
+        "kind": "no_authorized_selected_paragraph",
+        "metadata": "",
+        "sourceVersion": "c046c71130a914b706368f26cf76154ef17367e00ffc537a7f4f52d4e592e6a2",
+        "paragraphs": []
+      }
     }
   ],
   "importedAuthorityReview": [
@@ -17195,5 +17210,16 @@
       "reviewedAt": "2026-10-11T21:02:40.944Z",
       "contextRestored": false
     }
-  ]
+  ],
+  "integrationReview": {
+    "date": "2026-10-20",
+    "decision": "The fire-and-gold explanation develops trials more fully than a short protective petition; retain the call to become a balm to the oppressed.",
+    "added": [
+      "fd52a89ed0fb720325a91e4b"
+    ],
+    "replaced": [
+      "71c9031adbd95af991efc226"
+    ],
+    "finalizedBeforeRebuild": true
+  }
 }

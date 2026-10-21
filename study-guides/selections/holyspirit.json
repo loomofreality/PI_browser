@@ -3,9 +3,9 @@
   "createdAt": "2026-10-13T21:45:40.601Z",
   "status": "finalized_before_analysis",
   "subject": "55CE96F733184F5FBA91482E85085853",
-  "dataset": "collections/7acbc96b-60b/",
-  "candidateFingerprint": "649a9143ad26bda685a4dcf82356bef04bbbd2d036f2adc100af341698ff12d0",
-  "candidateCount": 458,
+  "dataset": "collections/editorial-83f59e6ea2d8/",
+  "candidateFingerprint": "78ce68a7d9cdcab6f081c935ab3ffd67fa732606f118925fdf28ebc48ad3fd9e",
+  "candidateCount": 459,
   "target": 300,
   "selectedCount": 300,
   "mandatoryAuthorizedCount": 130,
@@ -2499,30 +2499,6 @@
         "kind": "no_authorized_selected_paragraph",
         "metadata": "",
         "sourceVersion": "85a42c4e6d6338752907811b5dc5061eef117a8ca2b89a29948a4e216b6bca81",
-        "paragraphs": []
-      }
-    },
-    {
-      "n": 228,
-      "group": 150,
-      "id": "3e86e4a8e349e1a863f80e38",
-      "key": "source:ABU0904",
-      "source": "ABU0904",
-      "sourceVersion": "74c0dd5e4a26ba0e09ba62f2ba2c2cb2b02bfff7c0e533682a6cc8a02349f491",
-      "status": "exact",
-      "reference": "ABU0904",
-      "authorization": "",
-      "authorizedParagraphs": [],
-      "mandatoryAuthorized": false,
-      "paragraphs": [
-        6
-      ],
-      "text": "The wonder-working rays of the radiant sun fall upon the dull earth, carrying there richness and glory. The earth alone is but a senseless clod; touched by the sun it becomes life, energy, budding and blossoming wealth.",
-      "reason": "Reported words of ‘Abdu’l-Bahá that the sun’s rays turn the senseless clod of earth into life and blossoming wealth; the image behind the Holy Spirit as intermediary.",
-      "authorityEvidence": {
-        "kind": "no_authorized_selected_paragraph",
-        "metadata": "",
-        "sourceVersion": "74c0dd5e4a26ba0e09ba62f2ba2c2cb2b02bfff7c0e533682a6cc8a02349f491",
         "paragraphs": []
       }
     },
@@ -7819,6 +7795,21 @@
         "reviewedAt": "2026-10-13T21:45:40.601Z",
         "contextRestored": false
       }
+    },
+    {
+      "id": "4ab5f2c3bc435558aea1185c",
+      "key": "source:ABU0179",
+      "source": "ABU0179",
+      "sourceVersion": "99789abf93a759878fa4367eb840def699ab63298a3bb5bc134c1e752bf26d24",
+      "status": "confirmed",
+      "reference": "ABU0179",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        7
+      ],
+      "text": "When this spirit is reinforced by the breaths of the Holy Spirit, it gains penetrating power and revives the world, makes the ignorant wise, transforms darkness into light, and renders the human world heavenly. It puts the divine teachings into practice, spreads the Law of God, and promotes the divine Jerusalem that descends from heaven. All divine Manifestations, being supported by this spirit, are one; the reality of their teachings, through this spirit, is one, for the Holy Spirit is one.",
+      "reason": "Describes the unifying and renewing action of the Holy Spirit."
     }
   ],
   "omitted": [
@@ -8761,6 +8752,30 @@
       "n": 438,
       "source": "ABU3534",
       "reason": "Surveyed before analysis; selected complementary passages state the subject’s central teachings, qualifications or practical applications more substantively or with less repetition. No verified authorized quotation omitted."
+    },
+    {
+      "n": 228,
+      "group": 150,
+      "id": "3e86e4a8e349e1a863f80e38",
+      "key": "source:ABU0904",
+      "source": "ABU0904",
+      "sourceVersion": "74c0dd5e4a26ba0e09ba62f2ba2c2cb2b02bfff7c0e533682a6cc8a02349f491",
+      "status": "exact",
+      "reference": "ABU0904",
+      "authorization": "",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        6
+      ],
+      "text": "The wonder-working rays of the radiant sun fall upon the dull earth, carrying there richness and glory. The earth alone is but a senseless clod; touched by the sun it becomes life, energy, budding and blossoming wealth.",
+      "reason": "The action and unity of the Holy Spirit are more explicit than the short natural-sun analogy; retain the distinct naming of the Faithful Spirit.",
+      "authorityEvidence": {
+        "kind": "no_authorized_selected_paragraph",
+        "metadata": "",
+        "sourceVersion": "74c0dd5e4a26ba0e09ba62f2ba2c2cb2b02bfff7c0e533682a6cc8a02349f491",
+        "paragraphs": []
+      }
     }
   ],
   "importedAuthorityReview": [
@@ -8917,5 +8932,16 @@
       "reviewedAt": "2026-10-13T21:45:40.601Z",
       "contextRestored": false
     }
-  ]
+  ],
+  "integrationReview": {
+    "date": "2026-10-20",
+    "decision": "The action and unity of the Holy Spirit are more explicit than the short natural-sun analogy; retain the distinct naming of the Faithful Spirit.",
+    "added": [
+      "4ab5f2c3bc435558aea1185c"
+    ],
+    "replaced": [
+      "3e86e4a8e349e1a863f80e38"
+    ],
+    "finalizedBeforeRebuild": true
+  }
 }

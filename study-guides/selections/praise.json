@@ -3,12 +3,12 @@
   "createdAt": "2026-10-13T19:35:37.652Z",
   "status": "finalized_before_analysis",
   "subject": "A61D5813EBB7E2C5981ECFA84987639B",
-  "dataset": "collections/390a77fa-5b4/",
-  "candidateFingerprint": "02fb2ac2beed3547db757f01d5fe2ca68d496ef9123626a2d94dc41437e4bdf2",
-  "candidateCount": 6143,
+  "dataset": "collections/editorial-83f59e6ea2d8/",
+  "candidateFingerprint": "ba3218ccc720500defae8719fdf656d8ecd7c23f044cf16bc41dfbefdef7105f",
+  "candidateCount": 6144,
   "target": 300,
   "selectedCount": 300,
-  "mandatoryAuthorizedCount": 123,
+  "mandatoryAuthorizedCount": 124,
   "selectionBeforeAnalysis": true,
   "method": "Complete candidate-pool inventory and thematic retrieval survey, followed by individual editorial choices and written reasons; all chosen catalogue wording read. The survey record distinguishes inspected previews from machine scans and does not claim full reading of omitted quotations. All verified authorized selections included. Priority given to foundational teachings, substantive explanations, necessary qualifications, distinctive applications and thematic breadth. Neither citation count nor source order used as a ranking rule. Imported wording checked separately; version differences remain explicit.",
   "selected": [
@@ -7390,30 +7390,6 @@
       }
     },
     {
-      "n": 193,
-      "group": 189,
-      "id": "ac560cdc8de91cdbe18d4e6d",
-      "key": "source:AB02798",
-      "source": "AB02798",
-      "sourceVersion": "c55e401f129f47c3402c90987012e71136d02a6ce62b7e0e18f09ac658235ff2",
-      "status": "exact",
-      "reference": "AB02798",
-      "authorization": "",
-      "authorizedParagraphs": [],
-      "mandatoryAuthorized": false,
-      "paragraphs": [
-        1
-      ],
-      "text": "O friends and maidservants of the Merciful! Your letter truly brought joy and happiness and became the cause of hope, for it showed your being affected by the counsels and exhortations of 'Abdu'l-Baha.",
-      "reason": "Joy at the effect of counsel on its recipients. Selected for direct relevance and complementary thematic coverage after reading the complete catalogue wording; exact source context remains to be reviewed.",
-      "authorityEvidence": {
-        "kind": "no_authorized_selected_paragraph",
-        "metadata": "",
-        "sourceVersion": "c55e401f129f47c3402c90987012e71136d02a6ce62b7e0e18f09ac658235ff2",
-        "paragraphs": []
-      }
-    },
-    {
       "n": 260,
       "group": 256,
       "id": "3ab54141ce23ae81b7050da3",
@@ -7750,6 +7726,23 @@
         "sourceVersion": "a3aeb320a859526903fa7dacbf1b1a9a636c189553032da0555222a8cbadf0a8",
         "paragraphs": []
       }
+    },
+    {
+      "id": "5aa8c05369d946017539b170",
+      "key": "source:AB02732",
+      "source": "AB02732",
+      "sourceVersion": "8d5676f5eed25671cb2e3b482c6c390e4f44e987ddf049f526729ee6b2683de4",
+      "status": "confirmed",
+      "reference": "AB02732",
+      "authorizedParagraphs": [
+        3
+      ],
+      "mandatoryAuthorized": true,
+      "paragraphs": [
+        3
+      ],
+      "text": "Thou wert engaged for some time in rendering outstanding services in that most glorious spot and wert responsible for essential tasks. Thy services were praiseworthy and thine efforts pleasing. Return, now, to that land, and resume thy former services. It is hoped that, through the bounties of the All-Glorious Lord, thou wilt achieve even greater success than before, wilt cheer all the friends through distinguished services, and wilt, at all times, arise as an obedient servant to render service to the loved ones of God, for service to the loved ones of God is service to God. Glory be upon all who stand firm in the Covenant of God.",
+      "reason": "Mandatory authorized wording. Encourages a recipient to resume valued service and strive for greater success."
     }
   ],
   "omitted": [
@@ -42810,6 +42803,30 @@
       "n": 6143,
       "source": null,
       "reason": "Surveyed before analysis; selected complementary passages state the subject’s central teachings, qualifications or practical applications more substantively or with less repetition. No verified authorized quotation omitted."
+    },
+    {
+      "n": 193,
+      "group": 189,
+      "id": "ac560cdc8de91cdbe18d4e6d",
+      "key": "source:AB02798",
+      "source": "AB02798",
+      "sourceVersion": "c55e401f129f47c3402c90987012e71136d02a6ce62b7e0e18f09ac658235ff2",
+      "status": "exact",
+      "reference": "AB02798",
+      "authorization": "",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        1
+      ],
+      "text": "O friends and maidservants of the Merciful! Your letter truly brought joy and happiness and became the cause of hope, for it showed your being affected by the counsels and exhortations of 'Abdu'l-Baha.",
+      "reason": "Include verified authorized wording joining praise with a specific return to service; replace the more general acknowledgment of responding to counsel.",
+      "authorityEvidence": {
+        "kind": "no_authorized_selected_paragraph",
+        "metadata": "",
+        "sourceVersion": "c55e401f129f47c3402c90987012e71136d02a6ce62b7e0e18f09ac658235ff2",
+        "paragraphs": []
+      }
     }
   ],
   "importedAuthorityReview": [
@@ -42843,5 +42860,16 @@
       "reviewedAt": "2026-10-13T19:35:37.443Z",
       "contextRestored": false
     }
-  ]
+  ],
+  "integrationReview": {
+    "date": "2026-10-20",
+    "decision": "Include verified authorized wording joining praise with a specific return to service; replace the more general acknowledgment of responding to counsel.",
+    "added": [
+      "5aa8c05369d946017539b170"
+    ],
+    "replaced": [
+      "ac560cdc8de91cdbe18d4e6d"
+    ],
+    "finalizedBeforeRebuild": true
+  }
 }

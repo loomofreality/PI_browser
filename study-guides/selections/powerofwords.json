@@ -3,9 +3,9 @@
   "createdAt": "2026-10-13T21:43:02.763Z",
   "status": "finalized_before_analysis",
   "subject": "2F9E3A01AFCCEAC5262DC3738E50F13A",
-  "dataset": "collections/7acbc96b-60b/",
-  "candidateFingerprint": "bac1d51775c47e0eb59660b74421eb75c58c2aa4ca6f612f328eb3bceb4c6bf2",
-  "candidateCount": 356,
+  "dataset": "collections/editorial-83f59e6ea2d8/",
+  "candidateFingerprint": "4aef1e112cc81ae029f5c439915dd9d78f0039e038b4bea4d8dc56ff6e9f2a6a",
+  "candidateCount": 357,
   "target": 300,
   "selectedCount": 300,
   "mandatoryAuthorizedCount": 14,
@@ -4026,30 +4026,6 @@
       }
     },
     {
-      "n": 214,
-      "group": 190,
-      "id": "345bff374f60beff1434b5d7",
-      "key": "source:AB01623",
-      "source": "AB01623",
-      "sourceVersion": "2045cff20666dd56faed32e63be75cf885ecc2d9a1aeb7788116647dbc56712b",
-      "status": "normalized",
-      "reference": "AB01623",
-      "authorization": "",
-      "authorizedParagraphs": [],
-      "mandatoryAuthorized": false,
-      "paragraphs": [
-        2
-      ],
-      "text": "Verily thy letter was received and I was informed of thy chanting the verses of GOD in the Spiritual Assemblies, of thy excellent speech and eloquent address in the illumined gatherings",
-      "reason": "Tablet of ‘Abdu’l-Bahá acknowledging a letter reporting the reader’s chanting and eloquent addresses in the gatherings.",
-      "authorityEvidence": {
-        "kind": "no_authorized_selected_paragraph",
-        "metadata": "",
-        "sourceVersion": "2045cff20666dd56faed32e63be75cf885ecc2d9a1aeb7788116647dbc56712b",
-        "paragraphs": []
-      }
-    },
-    {
       "n": 215,
       "group": 143,
       "id": "e07f3f73c88b69008f6176ad",
@@ -7279,6 +7255,21 @@
         "sourceVersion": "3b26ec7ea478372deb8dbd0ac8a01c3237726404796be5711f09070b64970b71",
         "paragraphs": []
       }
+    },
+    {
+      "id": "354d8c3ce2286c475c42236b",
+      "key": "source:AB00521",
+      "source": "AB00521",
+      "sourceVersion": "d4f61c068a9f3ac07c6cd84f98ab57064be0691fda54bf1767d9be9944c39a06",
+      "status": "confirmed",
+      "reference": "AB00521",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        3
+      ],
+      "text": "Observe the Christian nation - today no one acts according to Christ's counsels. Similarly look at Islam - they are entirely heedless of the divine counsels and admonitions in the Quran. They recite the words but detect nothing of the meaning. Likewise with other peoples and nations - though some philosophers may utter words indicating peace or proper conduct, these have no authority and are mere talk. But the counsels and teachings of the Most Great Name penetrate hearts, are established in souls, their effects are evident, their lights brilliant, their verses manifest and their signs radiant.",
+      "reason": "Contrasts mere talk with counsels that penetrate hearts and shape conduct."
     }
   ],
   "omitted": [
@@ -7616,6 +7607,30 @@
       "n": 336,
       "source": "BH00045",
       "reason": "Surveyed before analysis; selected complementary passages state the subject’s central teachings, qualifications or practical applications more substantively or with less repetition. No verified authorized quotation omitted."
+    },
+    {
+      "n": 214,
+      "group": 190,
+      "id": "345bff374f60beff1434b5d7",
+      "key": "source:AB01623",
+      "source": "AB01623",
+      "sourceVersion": "2045cff20666dd56faed32e63be75cf885ecc2d9a1aeb7788116647dbc56712b",
+      "status": "normalized",
+      "reference": "AB01623",
+      "authorization": "",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        2
+      ],
+      "text": "Verily thy letter was received and I was informed of thy chanting the verses of GOD in the Spiritual Assemblies, of thy excellent speech and eloquent address in the illumined gatherings",
+      "reason": "The contrast between reciting words and their effect on conduct is more substantial than an acknowledgment of eloquent speech.",
+      "authorityEvidence": {
+        "kind": "no_authorized_selected_paragraph",
+        "metadata": "",
+        "sourceVersion": "2045cff20666dd56faed32e63be75cf885ecc2d9a1aeb7788116647dbc56712b",
+        "paragraphs": []
+      }
     }
   ],
   "importedAuthorityReview": [
@@ -7628,5 +7643,16 @@
       "reviewedAt": "2026-10-13T21:43:02.763Z",
       "contextRestored": false
     }
-  ]
+  ],
+  "integrationReview": {
+    "date": "2026-10-20",
+    "decision": "The contrast between reciting words and their effect on conduct is more substantial than an acknowledgment of eloquent speech.",
+    "added": [
+      "354d8c3ce2286c475c42236b"
+    ],
+    "replaced": [
+      "345bff374f60beff1434b5d7"
+    ],
+    "finalizedBeforeRebuild": true
+  }
 }

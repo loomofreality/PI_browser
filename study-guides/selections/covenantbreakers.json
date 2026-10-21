@@ -3,9 +3,9 @@
   "createdAt": "2026-10-11T17:14:59.365Z",
   "status": "finalized_before_analysis",
   "subject": "42BA11FC5FE24CBEA769298634A7FA42",
-  "dataset": "collections/390a77fa-5b4/",
-  "candidateFingerprint": "ce81682a3df93543761b157fc78e9644d3698f9c4c1f002c8747ff573b304f71",
-  "candidateCount": 997,
+  "dataset": "collections/editorial-83f59e6ea2d8/",
+  "candidateFingerprint": "34cc9d9cf81ed5c46b47580b71078d9970a9327ba2285d6f2cf797011c645d36",
+  "candidateCount": 998,
   "target": 300,
   "selectedCount": 300,
   "mandatoryAuthorizedCount": 32,
@@ -1673,32 +1673,6 @@
         "paragraphs": [
           59
         ]
-      }
-    },
-    {
-      "n": 6,
-      "group": 4,
-      "id": "75d7c51d07429c632324d644",
-      "key": "source:BH00004",
-      "source": "BH00004",
-      "sourceVersion": "81c225085a5181b85665978fcfc406af6e98e19baff1429eea24fbb825950a7b",
-      "status": "confirmed",
-      "reference": "BH00004",
-      "authorization": "Y605",
-      "authorizedParagraphs": [],
-      "mandatoryAuthorized": false,
-      "paragraphs": [
-        20
-      ],
-      "text": "you is the one who created it, as is evident. They were together for forty years, and you yourself are certain of what has been mentioned. In this journey when that unbeliever entered among the party of God, he perpetrated what neither Nimrod nor Shaddad had done. Nevertheless, we know not what caused you to abandon your own sight, hearing and heart through his enticement, accepting whatever he said",
-      "stage": 3,
-      "previousPosition": 277,
-      "reason": "Preserves historical episodes and personal circumstances rather than treating polemical descriptions as context-free rules.",
-      "authorityEvidence": {
-        "kind": "no_authorized_selected_paragraph",
-        "metadata": "Y605",
-        "sourceVersion": "81c225085a5181b85665978fcfc406af6e98e19baff1429eea24fbb825950a7b",
-        "paragraphs": []
       }
     },
     {
@@ -9478,6 +9452,21 @@
         "metadata": "",
         "paragraphs": []
       }
+    },
+    {
+      "id": "6a02dc7b14ee7ec01e09e82f",
+      "key": "source:AB00524",
+      "source": "AB00524",
+      "sourceVersion": "6a2cb951747e500fc243b5e33ceda47e35aabe4af6be2018846fd4a23dd24409",
+      "status": "confirmed",
+      "reference": "AB00524",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        8
+      ],
+      "text": "Thou must warn the friends that at this time such differences are as deadly poison and swift-acting venom. The Covenant-breakers, with all their might, are striving to raze to the ground the foundation of the Pact; and ye---praise be to God---are firm and steadfast. By day and by night ye must labour for unity and concord and the uprooting of the tree of discord.",
+      "reason": "Warns against division and calls for unity amid Covenant-breaking."
     }
   ],
   "omitted": [
@@ -12965,6 +12954,32 @@
       "id": "e82d3d68f04b95d32216cb5e",
       "source": "ABU0829",
       "reason": "Not retained in the limited selection: complementary coverage and substantive subject treatment are supplied by the explicitly chosen quotations; no verified authorized quotation omitted."
+    },
+    {
+      "n": 6,
+      "group": 4,
+      "id": "75d7c51d07429c632324d644",
+      "key": "source:BH00004",
+      "source": "BH00004",
+      "sourceVersion": "81c225085a5181b85665978fcfc406af6e98e19baff1429eea24fbb825950a7b",
+      "status": "confirmed",
+      "reference": "BH00004",
+      "authorization": "Y605",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        20
+      ],
+      "text": "you is the one who created it, as is evident. They were together for forty years, and you yourself are certain of what has been mentioned. In this journey when that unbeliever entered among the party of God, he perpetrated what neither Nimrod nor Shaddad had done. Nevertheless, we know not what caused you to abandon your own sight, hearing and heart through his enticement, accepting whatever he said",
+      "stage": 3,
+      "previousPosition": 277,
+      "reason": "The call to remove discord gives a clearer constructive response than the less specific historical accusation; retain the distinct account of rival authority.",
+      "authorityEvidence": {
+        "kind": "no_authorized_selected_paragraph",
+        "metadata": "Y605",
+        "sourceVersion": "81c225085a5181b85665978fcfc406af6e98e19baff1429eea24fbb825950a7b",
+        "paragraphs": []
+      }
     }
   ],
   "importedAuthorityReview": [
@@ -12977,5 +12992,16 @@
       "authorization": "Retained in the selected set, including any authorized wording. No new translation-authority assertion is made from an approximate source reference; exact authority and source limitations remain as recorded in the saved review.",
       "mandatoryAuthorized": false
     }
-  ]
+  ],
+  "integrationReview": {
+    "date": "2026-10-20",
+    "decision": "The call to remove discord gives a clearer constructive response than the less specific historical accusation; retain the distinct account of rival authority.",
+    "added": [
+      "6a02dc7b14ee7ec01e09e82f"
+    ],
+    "replaced": [
+      "75d7c51d07429c632324d644"
+    ],
+    "finalizedBeforeRebuild": true
+  }
 }

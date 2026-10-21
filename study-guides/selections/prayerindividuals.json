@@ -3,9 +3,9 @@
   "createdAt": "2026-10-13T21:39:55.031Z",
   "status": "finalized_before_analysis",
   "subject": "26E85C22B274E5695DA94BA1A3A0A343",
-  "dataset": "collections/7acbc96b-60b/",
-  "candidateFingerprint": "b83646f39b047bdb7e83d48cb4115b083a2416820a40389e74a7c36b382fdb05",
-  "candidateCount": 622,
+  "dataset": "collections/editorial-83f59e6ea2d8/",
+  "candidateFingerprint": "f286d7e6bb3306f6f8392a678584fd218f37e32e88dbfb73f91ab49d43c77df1",
+  "candidateCount": 623,
   "target": 300,
   "selectedCount": 300,
   "mandatoryAuthorizedCount": 13,
@@ -719,30 +719,6 @@
         "kind": "no_authorized_selected_paragraph",
         "metadata": "",
         "sourceVersion": "4634d355329d2381d240d042f0a527a0840f654ce055798dff9abcdeb806df26",
-        "paragraphs": []
-      }
-    },
-    {
-      "n": 125,
-      "group": 43,
-      "id": "303727fd72b67ea1543c04fa",
-      "key": "source:AB02456",
-      "source": "AB02456",
-      "sourceVersion": "20a78704e66decc7c432fe905da3507412ad7cb34c49734df55016abf325fd4b",
-      "status": "exact",
-      "reference": "AB02456",
-      "authorization": "",
-      "authorizedParagraphs": [],
-      "mandatoryAuthorized": false,
-      "paragraphs": [
-        3
-      ],
-      "text": "Convey my greetings to thy beloved son Albert. I beseech God to make him a lamp diffusing brilliant lights in the gatherings of the loved ones of God",
-      "reason": "Words of ‘Abdu’l-Bahá greeting a correspondent’s son and asking that he become a lamp in the gatherings of the loved ones; a child named and given a hope.",
-      "authorityEvidence": {
-        "kind": "no_authorized_selected_paragraph",
-        "metadata": "",
-        "sourceVersion": "20a78704e66decc7c432fe905da3507412ad7cb34c49734df55016abf325fd4b",
         "paragraphs": []
       }
     },
@@ -7302,6 +7278,21 @@
         "sourceVersion": "2eebada76e561683a25f4ad52487e05228c7c29bffc8a70eec78940cb95c3ab5",
         "paragraphs": []
       }
+    },
+    {
+      "id": "eca1536c9ed0e1b165904a3a",
+      "key": "source:AB02322",
+      "source": "AB02322",
+      "sourceVersion": "d872571f46dbc4131555ef1d8fc93436444be8fa9b8ebbb6f9a1dc969de567fb",
+      "status": "confirmed",
+      "reference": "AB02322",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        3
+      ],
+      "text": "O my God! This servant of Thine, Abu'l-Qasim, has turned toward the Dawning Place of Thy forgiveness and the Rising Point of Thy favor, and seeks pardon for his father who has left this transient abode and turned toward the eternal realm of the hereafter. O Lord! Forgive his sins and mistakes and pardon his misdeeds, both outward and hidden. O Lord! Immerse him in the seas of Thy great mercy. Then forgive Thy servant Baqir who has ascended to Thy heaven and been illumined by the lights of Thy glory. Then forgive Thy handmaiden who was related to Thy servant who visited Thy pure shrine, and her sister who ascended to the Kingdom of Thy manifest mercy. Verily Thou art the Bountiful, the Pardoning, the All-Sufficient, the Forgiving, the Mighty, the Bestower.",
+      "reason": "Prays for named departed individuals and members of their families."
     }
   ],
   "omitted": [
@@ -9236,7 +9227,42 @@
       "n": 622,
       "source": "AB12838",
       "reason": "Surveyed before analysis; selected complementary passages state the subject’s central teachings, qualifications or practical applications more substantively or with less repetition. No verified authorized quotation omitted."
+    },
+    {
+      "n": 125,
+      "group": 43,
+      "id": "303727fd72b67ea1543c04fa",
+      "key": "source:AB02456",
+      "source": "AB02456",
+      "sourceVersion": "20a78704e66decc7c432fe905da3507412ad7cb34c49734df55016abf325fd4b",
+      "status": "exact",
+      "reference": "AB02456",
+      "authorization": "",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        3
+      ],
+      "text": "Convey my greetings to thy beloved son Albert. I beseech God to make him a lamp diffusing brilliant lights in the gatherings of the loved ones of God",
+      "reason": "A complete intercessory prayer for several named family members replaces a short greeting and hope for a son.",
+      "authorityEvidence": {
+        "kind": "no_authorized_selected_paragraph",
+        "metadata": "",
+        "sourceVersion": "20a78704e66decc7c432fe905da3507412ad7cb34c49734df55016abf325fd4b",
+        "paragraphs": []
+      }
     }
   ],
-  "importedAuthorityReview": []
+  "importedAuthorityReview": [],
+  "integrationReview": {
+    "date": "2026-10-20",
+    "decision": "A complete intercessory prayer for several named family members replaces a short greeting and hope for a son.",
+    "added": [
+      "eca1536c9ed0e1b165904a3a"
+    ],
+    "replaced": [
+      "303727fd72b67ea1543c04fa"
+    ],
+    "finalizedBeforeRebuild": true
+  }
 }

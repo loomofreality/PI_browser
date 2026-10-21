@@ -7,7 +7,7 @@
       "displayTitle": "Divine justice: accountability, judgment, and mercy",
       "selection": {
         "review": "selections/divinejustice.json",
-        "sha256": "bf5a160cfaa10cbe037d5041b6f9a07a722dad2399476e9a02205fa86310abe4",
+        "sha256": "4c8484ff5b61d211eeecf9aec92e707da221e67cce463b24f2369abead9c2368",
         "ids": [
           "d1f335fd3e654404f58183cd",
           "008f3706948c3e309b78a95e",
@@ -86,7 +86,6 @@
           "8856dd288ea599b7a4c51bd3",
           "e4755dee4151d723479b33ba",
           "8b3b771e88dc72a956f1e2b2",
-          "337454bd41c832bcccb6b2d4",
           "b8ea48c6620e29957d2629f4",
           "f7041b3c75a995d3605baa91",
           "46420255e1919f75f2d6672e",
@@ -308,7 +307,8 @@
           "1e6b9466a6f72be28938ef9b",
           "23f2f5229e1076a4bb34b4f9",
           "9939f1b702bdf3ac111f5c8a",
-          "dcbb88c962d18f6aa1470e77"
+          "dcbb88c962d18f6aa1470e77",
+          "bc6a03a988c897a734b9372d"
         ]
       },
       "introduction": "The cry goes up from a prison and from a grave: how long will the oppressor be given respite, and will the murdered ever be avenged? Bahá’u’lláh answers that cry with a Name, the Just, breathed into all created things, and then turns the demand back on the one who utters it, asking each of us to judge ourselves and others without deviating by a hair’s breadth. Justice gives to each his due; grace gives without regard to worthiness, and mercy is said to run ahead of wrath. Yet the warnings are real: the tyrant’s refuge is temporary, every deed is weighed hair by hair, and thrones that seemed secure are overturned within living memory. The Qur’án promises that no good deed is lost and that God wrongs no one [1]; Paul asks the wronged to leave vengeance to God and feed a hungry enemy [2]. From here the path leads into the fate of those who persecute the Prophets, into the trials that test a soul, and into the mystery of why suffering falls on the innocent at all.",
@@ -834,6 +834,10 @@
             "And your Lord, the All-Merciful, is never in the least unjust to His servants.",
             "If you do good, you do good for your own souls -- this is the truth that exists from God your Lord upon the paths of the Gate around the water. And if you do evil, you do it against yourselves -- this decree from you is inscribed in the Mother Book around the fire."
           ]
+        },
+        {
+          "key": "source:BH00199",
+          "why": "Explains divine wrath in relation to conduct and mercy."
         },
         {
           "key": "source:BH00416",

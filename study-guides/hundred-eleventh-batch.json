@@ -7,7 +7,7 @@
       "displayTitle": "The power of words: speaking to the heart",
       "selection": {
         "review": "selections/powerofwords.json",
-        "sha256": "85c128623c97aaa1924178c87dc17955d49152ba8673f38d2a2ad1bcded8570a",
+        "sha256": "89731372b45b2fde4b2cb85c1d7f71c4eea2493fc811c98c5d94ff0779ebe620",
         "ids": [
           "5e485d31c18dee21adbd328e",
           "764c3c08d0e96059bc5369ac",
@@ -175,7 +175,6 @@
           "b4fca2a5a6fab0bbf35f1d17",
           "849af24869e16f10a1cc3ec4",
           "8ff71aced0b1a048415e2be0",
-          "345bff374f60beff1434b5d7",
           "e07f3f73c88b69008f6176ad",
           "31c66606dcb1978ea85da887",
           "ab6ad2ff0abead12c6ad8cd7",
@@ -308,7 +307,8 @@
           "ecb916b487ec6aa9dc15df2e",
           "efff9205544e105bdcbd8131",
           "6f7bc08633c6b0bca130acfe",
-          "8aaf3539ef0ac4b468651a22"
+          "8aaf3539ef0ac4b468651a22",
+          "354d8c3ce2286c475c42236b"
         ]
       },
       "introduction": "The heart, ‘Abdu’l‑Bahá says, is a locked box, and language is the key that opens it. What spills out can be fire or light, a spring breeze or a scorching wind: Bahá’u’lláh warns that one word kindles love in a soul and another extinguishes it, that a careless remark may turn a seeker away while a kindly one awakens a multitude. Speech is a moral act before it is a skill. Its reach depends on a detached heart, on moderation joined to wisdom, on timing, and on deeds that make the words believable. The Buddha, challenged by Prince Abhaya, measures speech by truth, benefit and timing, with compassion deciding [1]; James likens the tongue to a rudder and a spark and asks how one mouth can both bless and curse [2]. Yet the counsel is not silence: a nightingale that will not sing is only a sparrow, and daughters and hesitant friends are urged to find their voices. The path leads on toward wisdom, toward words measured against deeds, and toward the Word of God, the speech that gave life to every other.",
@@ -1257,12 +1257,8 @@
           "why": "Move into letters, ink, paper, and poetry as bearers of affection and meaning across distance; notice how the value of an expression exceeds its outward polish or length."
         },
         {
-          "key": "source:AB01623",
-          "why": "Move into letters, ink, paper, and poetry as bearers of affection and meaning across distance; notice how the value of an expression exceeds its outward polish or length.",
-          "shortened": [
-            "O thou who are spreading the Fragrances of GOD!",
-            "Verily thy letter was received and I was informed of thy chanting the verses of GOD in the Spiritual Assemblies, of thy excellent speech and eloquent address in the illumined gatherings."
-          ]
+          "key": "source:AB00521",
+          "why": "Contrasts mere talk with counsels that penetrate hearts and shape conduct."
         },
         {
           "key": "source:AB06955",

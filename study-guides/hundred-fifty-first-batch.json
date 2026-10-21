@@ -1241,6 +1241,10 @@
           ]
         },
         {
+          "key": "source:BH04033",
+          "why": "Prays for recognition of the Day-Star and response to the divine voice."
+        },
+        {
           "key": "source:AB02025",
           "why": "Turn to prayer as address, remembrance and thanksgiving. Read the reported conversation about prayer with its question and historical circumstances, and the passages about prayer beyond words beside the actual words of these prayers. Praise repeatedly acknowledges that the capacity to recognize and respond is itself a gift. How do repetition, attention, silence and gratitude shape the person who prays? What would it mean for remembrance to continue through ordinary activity?",
           "shortened": [
@@ -2141,7 +2145,7 @@
       ],
       "selection": {
         "review": "selections/prayerspiritualrecognition.json",
-        "sha256": "24c8453d1d8fbe6cc86342ed625263a42b6ecbdf0174c5067271ac5ce20749cb",
+        "sha256": "b2282a24a67de63252693ccca2ad1c69073b2f8585d16ccb212794ffd4ca3e2d",
         "ids": [
           "99a1843650ea3252348ac012",
           "1b7feebd691905db11e0e3f1",
@@ -2152,7 +2156,6 @@
           "a0eea8047f2d2575fb1fe83e",
           "f30ad83f930b4a9aee4a9e07",
           "f963e5b49ca45ab43e0a3beb",
-          "cd04020efd6263d4020ed637",
           "fcf6dafd8eae4f59d56a68e7",
           "795026b8273cf9e082427a7d",
           "fdba47ee9d5642ca99e1d6a0",
@@ -2442,7 +2445,8 @@
           "d9cd89ff1e82f7fd8f208937",
           "395ef807862c684145b4dc54",
           "92c1b5a729d84da41d5a023f",
-          "734b8f91ba6fa2a95dbfa10d"
+          "734b8f91ba6fa2a95dbfa10d",
+          "b631cdbe52aefca524140326"
         ]
       }
     }

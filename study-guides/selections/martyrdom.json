@@ -3,9 +3,9 @@
   "createdAt": "2026-10-11T17:19:59.879Z",
   "status": "finalized_before_analysis",
   "subject": "A7271C05C12E4A3180E1E00F1DEBF977",
-  "dataset": "collections/390a77fa-5b4/",
-  "candidateFingerprint": "8530292f06aeb4b6374449203cea51e276886e9793c8749f36683b991a78930d",
-  "candidateCount": 1215,
+  "dataset": "collections/editorial-83f59e6ea2d8/",
+  "candidateFingerprint": "73bd690c9c4b0743beb012b5b05a525fd1295e63038de67c6b491a8deff82c24",
+  "candidateCount": 1216,
   "target": 300,
   "selectedCount": 300,
   "mandatoryAuthorizedCount": 50,
@@ -8528,32 +8528,6 @@
       }
     },
     {
-      "n": 975,
-      "group": 922,
-      "id": "e77ddf0dd90ebc3809a653e2",
-      "key": "source:AB11985",
-      "source": "AB11985",
-      "sourceVersion": "8b0510a85976d1de0a5ec5c23b86fb55e2f0d2090b5a7375bb55e2f3dd31a527",
-      "status": "exact",
-      "reference": "AB11985",
-      "authorization": "",
-      "authorizedParagraphs": [],
-      "mandatoryAuthorized": false,
-      "paragraphs": [
-        1
-      ],
-      "text": "Your letter was received and the photographs that you had sent arrived, except for 140 photographs of His Holiness Badi' which were confiscated at the Baghdad post office",
-      "stage": 4,
-      "previousPosition": 586,
-      "reason": "Retains concrete evidence about family support, children’s education, historical records, correspondence, care and financial dealings.",
-      "authorityEvidence": {
-        "kind": "no_authorized_selected_paragraph",
-        "metadata": "",
-        "sourceVersion": "8b0510a85976d1de0a5ec5c23b86fb55e2f0d2090b5a7375bb55e2f3dd31a527",
-        "paragraphs": []
-      }
-    },
-    {
       "n": 978,
       "group": 925,
       "id": "6ad5e65f26166bb95743025c",
@@ -9551,6 +9525,21 @@
         "metadata": "",
         "paragraphs": []
       }
+    },
+    {
+      "id": "0aaea3091e78ab28a7848360",
+      "key": "source:ABU0808",
+      "source": "ABU0808",
+      "sourceVersion": "5a33c003e7936c98c3d3e31b681a25899647558873e6eeb53f653dea9de717db",
+      "status": "confirmed",
+      "reference": "ABU0808",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        2
+      ],
+      "text": "The self-sacrifice of Jesus Christ caused those who believed in Him to have eternal life. The mystery of self-sacrifice has been manifested in all the prophets, because this is the foundation- the basis of divinity. The self-sacrifice and martyrdom of all the prophets caused the sins of the people to be forgiven. Self-sacrifice effaces discord, and causes man to attain virtues, changes darkness into light, hides the darkness of crime, and brings forth the light of good deeds. The mystery of it is explained in four ways.",
+      "reason": "Connects martyrdom and self-sacrifice with spiritual transformation."
     }
   ],
   "omitted": [
@@ -14128,6 +14117,32 @@
       "id": "5c16bbfd076ded13545c5536",
       "source": "ABU0829",
       "reason": "Not retained in the limited selection: complementary coverage and substantive subject treatment are supplied by the explicitly chosen quotations; no verified authorized quotation omitted."
+    },
+    {
+      "n": 975,
+      "group": 922,
+      "id": "e77ddf0dd90ebc3809a653e2",
+      "key": "source:AB11985",
+      "source": "AB11985",
+      "sourceVersion": "8b0510a85976d1de0a5ec5c23b86fb55e2f0d2090b5a7375bb55e2f3dd31a527",
+      "status": "exact",
+      "reference": "AB11985",
+      "authorization": "",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        1
+      ],
+      "text": "Your letter was received and the photographs that you had sent arrived, except for 140 photographs of His Holiness Badi' which were confiscated at the Baghdad post office",
+      "stage": 4,
+      "previousPosition": 586,
+      "reason": "The account of the spiritual significance of martyrdom is more central than the postal confiscation of photographs; retain care for martyrs’ families.",
+      "authorityEvidence": {
+        "kind": "no_authorized_selected_paragraph",
+        "metadata": "",
+        "sourceVersion": "8b0510a85976d1de0a5ec5c23b86fb55e2f0d2090b5a7375bb55e2f3dd31a527",
+        "paragraphs": []
+      }
     }
   ],
   "importedAuthorityReview": [
@@ -14167,5 +14182,16 @@
       "authorization": "Retained in the selected set, including any authorized wording. No new translation-authority assertion is made from an approximate source reference; exact authority and source limitations remain as recorded in the saved review.",
       "mandatoryAuthorized": false
     }
-  ]
+  ],
+  "integrationReview": {
+    "date": "2026-10-20",
+    "decision": "The account of the spiritual significance of martyrdom is more central than the postal confiscation of photographs; retain care for martyrs’ families.",
+    "added": [
+      "0aaea3091e78ab28a7848360"
+    ],
+    "replaced": [
+      "e77ddf0dd90ebc3809a653e2"
+    ],
+    "finalizedBeforeRebuild": true
+  }
 }

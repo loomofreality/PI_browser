@@ -853,6 +853,10 @@
           ]
         },
         {
+          "key": "source:AB00524",
+          "why": "Warns against division and calls for unity amid Covenant-breaking."
+        },
+        {
           "key": "source:BH00035",
           "why": "Follow the named persons and the claims about succession, loyalty and authority. Distinguish conflicts surrounding Mirza Yahya from those after Baha’u’llah’s ascension and the disputes described in correspondence with believers in America. Read testimony, autobiographical passages, biographies and reported conversations according to their stated source status. Particular travel permissions and restrictions on contact arose within these histories. What can each passage establish from its own standpoint, and what remains a claim requiring other evidence? How does the historical setting change the meaning of an instruction addressed to a particular person?",
           "shortened": [
@@ -2046,14 +2050,13 @@
       ],
       "selection": {
         "review": "selections/covenantbreakers.json",
-        "sha256": "fce59e6ec6cfa433cea5a94d60b5e1ee4168c13de5d60361c70373b5fc03626c",
+        "sha256": "39e0b7f1742c49d9884a6886e74935bbfcff1f4cfbc54d7277a23bcfb7f875fd",
         "ids": [
           "d8fd596675b192e5d4b97ffb",
           "b7091481f94075fde560c295",
           "73bcd7acffb9da9dbff69ea7",
           "199a2be986f7f136e885233b",
           "f38eda59e5d4a16f208b10bf",
-          "75d7c51d07429c632324d644",
           "757452336ddf07d6cca1b793",
           "5ed84b72a8cfb1b4c084829c",
           "476bfe69ec6b7449201d3fd7",
@@ -2347,7 +2350,8 @@
           "5296384e3bf5f66b6fc5780b",
           "9146307c70bc7579fa37b53c",
           "0f43d101c7114e5e00e2cbc3",
-          "f84fccfa9de398a25fe01a50"
+          "f84fccfa9de398a25fe01a50",
+          "6a02dc7b14ee7ec01e09e82f"
         ]
       }
     }

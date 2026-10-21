@@ -3,9 +3,9 @@
   "createdAt": "2026-10-11T22:11:06.824Z",
   "status": "finalized_before_analysis",
   "subject": "64297813E037448AB17A91940A7008DE",
-  "dataset": "collections/390a77fa-5b4/",
-  "candidateFingerprint": "aa3cb756722a948753dce4a0d282f91886ff35eaacfe919ae027ed6b8c1566b0",
-  "candidateCount": 2080,
+  "dataset": "collections/editorial-83f59e6ea2d8/",
+  "candidateFingerprint": "a0659e58fa61b05f90d28f10879e5e7404b28a002afa7ef7a3807261214081ef",
+  "candidateCount": 2081,
   "target": 300,
   "selectedCount": 300,
   "mandatoryAuthorizedCount": 70,
@@ -18218,6 +18218,11 @@
       "n": 2075,
       "source": "BH11874",
       "reason": "Surveyed before analysis; selected complementary passages state the subject’s central teachings, qualifications or practical applications more substantively or with less repetition. No verified authorized quotation omitted."
+    },
+    {
+      "id": "b30152f8c44eb3bde4ed60b1",
+      "source": "ABU0993",
+      "reason": "Preserve the distinct calls to learned service and public trustworthiness; the new appeal is confined to teaching and would narrow these applications."
     }
   ],
   "importedAuthorityReview": [
@@ -18259,5 +18264,12 @@
       "reviewedAt": "2026-10-11T22:11:06.771Z",
       "contextRestored": false
     }
-  ]
+  ],
+  "integrationReview": {
+    "date": "2026-10-20",
+    "decision": "Preserve the distinct calls to learned service and public trustworthiness; the new appeal is confined to teaching and would narrow these applications.",
+    "added": [],
+    "replaced": [],
+    "finalizedBeforeRebuild": true
+  }
 }

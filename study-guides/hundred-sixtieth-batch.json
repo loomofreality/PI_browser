@@ -7,7 +7,7 @@
       "displayTitle": "Forgiveness, grace, bounty, mercy and compassion of God",
       "selection": {
         "review": "selections/forgivenessgrace.json",
-        "sha256": "8bff35815f765f02bc2d740c280b0bc30d6dc92e76726f808fcdfcc28141f312",
+        "sha256": "7536fad0d4ea20ad1910a34fa708f32f64c7ba4394152bd319fa2e83aa335d99",
         "ids": [
           "2c94d39ece9d7d595e8b1936",
           "a6f562e7b2e017ae062b2442",
@@ -105,7 +105,6 @@
           "f4ead85ee30b2d6035734f98",
           "8db89baed74c41097440eb11",
           "77a20b0204824ffb4d49d087",
-          "15707984ef05f9a861198e6e",
           "6b13f5ab609e814d06edacaa",
           "af7ed542d1fb23f6e7f95b99",
           "d40dc9ff3df1d4acfb767140",
@@ -308,7 +307,8 @@
           "55d125b229bba778fbb09e1e",
           "5aad66873fb3cb389074aba6",
           "c7c6b949b8f661d9823c5217",
-          "a03d5bae30297b09553a6cf2"
+          "a03d5bae30297b09553a6cf2",
+          "f35eccb888420de50d7c17ae"
         ]
       },
       "introduction": "Before anyone asks, the giving has already begun. Existence, a mother waiting at birth, the daily means of life, the capacity to know and to turn toward God: Bahá’u’lláh and ‘Abdu’l-Bahá describe all of this as bounty bestowed ahead of any request, falling like rain on righteous and sinful alike, never diminished by how much is drawn from it. To dwell on the mercy of God is to discover that the first spiritual act is not striving but receiving, and that receiving ripens into thankfulness. Mercy, though, is not a soft word. It keeps its distinction from justice, which gives what is due, while bounty gives what was never owed; it meets repentance with a welcome that still asks for changed conduct; it reaches the departed through intercession and prayer. And it asks to be passed on, in a sin-covering eye turned toward a neighbour’s faults, in consolation offered to the grieving, in generosity toward stranger and opponent seated at the same table of favour. The question that remains is how a life that has been forgiven learns to forgive.",
@@ -954,6 +954,10 @@
           "shortened": [
             "Should He raise up a Manifestation of mercy, this is through His grace unto those who believe in Him, and should He cause to appear a Manifestation of power, this is through His mercy that He might cause to enter therein those who were not in His good-pleasure. Both of these are grace and mercy, existence and bounty."
           ]
+        },
+        {
+          "key": "source:AB01031",
+          "why": "Explains forgiveness and progress after death through divine grace and supplication."
         },
         {
           "key": "source:BB00050",

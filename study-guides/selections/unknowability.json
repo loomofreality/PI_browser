@@ -3,9 +3,9 @@
   "createdAt": "2026-10-11T22:44:39.294Z",
   "status": "finalized_before_analysis",
   "subject": "F3B3303C979E42428EFC5629B545E4E4",
-  "dataset": "collections/390a77fa-5b4/",
-  "candidateFingerprint": "86e54963c0c68d5c733aec55ef981cf9954e75f273c0e469c9c5e1410247fa3e",
-  "candidateCount": 2097,
+  "dataset": "collections/editorial-83f59e6ea2d8/",
+  "candidateFingerprint": "e1a8bfcad02463f1aaa79c00d55c4b1de589af05a36f5efcda5897ff44ae4888",
+  "candidateCount": 2098,
   "target": 300,
   "selectedCount": 300,
   "mandatoryAuthorizedCount": 150,
@@ -4198,30 +4198,6 @@
       }
     },
     {
-      "n": 44,
-      "group": 9,
-      "id": "0071ca7444b914e939665163",
-      "key": "source:BB00003",
-      "source": "BB00003",
-      "sourceVersion": "df2921c8cd1cb1bd7768c8a6fec0c9877afb228e455135b3dbf89bdf4597656d",
-      "status": "exact",
-      "reference": "BB00003",
-      "authorization": "Y2255-2259,2261-2263,2265-2267,2269-2271,2273-2275,2277-2281,2283-2286,2288-2293,2295-2305,2307-2310,2312-2317,2319,2321-2328,2330-2333",
-      "authorizedParagraphs": [],
-      "mandatoryAuthorized": false,
-      "paragraphs": [
-        1298
-      ],
-      "text": "Verily God, glorified be He, in His Essence, hath no direct contact with what His creation hath contact with.",
-      "reason": "States the distinction between divine Essence and created relations directly.",
-      "authorityEvidence": {
-        "kind": "no_authorized_selected_paragraph",
-        "metadata": "Y2255-2259,2261-2263,2265-2267,2269-2271,2273-2275,2277-2281,2283-2286,2288-2293,2295-2305,2307-2310,2312-2317,2319,2321-2328,2330-2333",
-        "sourceVersion": "df2921c8cd1cb1bd7768c8a6fec0c9877afb228e455135b3dbf89bdf4597656d",
-        "paragraphs": []
-      }
-    },
-    {
       "n": 58,
       "group": 9,
       "id": "aa73af5dce9f55e77b17ee65",
@@ -7858,6 +7834,21 @@
         "reviewedAt": "2026-10-11T22:44:39.243Z",
         "contextRestored": false
       }
+    },
+    {
+      "id": "506fb6d300563bc765d5b6ce",
+      "key": "source:BH00586",
+      "source": "BH00586",
+      "sourceVersion": "c77ca601947d84c9167f139f9d795cfd5bed7d96fa82c2af7f3a70bb3c3cf247",
+      "status": "confirmed",
+      "reference": "BH00586",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        6
+      ],
+      "text": "Know thou the value of these days. By My life! The eye of creation hath not seen their like. Behold thou the Truth as sanctified above all things. He is manifest in all and yet sanctified above all. This is the essence of unity - that ye should behold the True One alone as all-prevailing over all things and manifest in the mirrors of all created things. Know ye all things to be sustained by Him and drawing their essence from Him. This is the meaning of unity and the purpose thereof. Some deluded ones have, in their imaginings, made all things partners with God, and yet consider themselves people of unity.",
+      "reason": "Affirms divine manifestation in all things while preserving transcendence."
     }
   ],
   "omitted": [
@@ -18642,6 +18633,30 @@
       "n": 2094,
       "source": null,
       "reason": "Surveyed before analysis; selected complementary passages state the subject’s central teachings, qualifications or practical applications more substantively or with less repetition. No verified authorized quotation omitted."
+    },
+    {
+      "n": 44,
+      "group": 9,
+      "id": "0071ca7444b914e939665163",
+      "key": "source:BB00003",
+      "source": "BB00003",
+      "sourceVersion": "df2921c8cd1cb1bd7768c8a6fec0c9877afb228e455135b3dbf89bdf4597656d",
+      "status": "exact",
+      "reference": "BB00003",
+      "authorization": "Y2255-2259,2261-2263,2265-2267,2269-2271,2273-2275,2277-2281,2283-2286,2288-2293,2295-2305,2307-2310,2312-2317,2319,2321-2328,2330-2333",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        1298
+      ],
+      "text": "Verily God, glorified be He, in His Essence, hath no direct contact with what His creation hath contact with.",
+      "reason": "The new passage holds manifestation and transcendence together, adding nuance beyond the terse statement of no direct contact.",
+      "authorityEvidence": {
+        "kind": "no_authorized_selected_paragraph",
+        "metadata": "Y2255-2259,2261-2263,2265-2267,2269-2271,2273-2275,2277-2281,2283-2286,2288-2293,2295-2305,2307-2310,2312-2317,2319,2321-2328,2330-2333",
+        "sourceVersion": "df2921c8cd1cb1bd7768c8a6fec0c9877afb228e455135b3dbf89bdf4597656d",
+        "paragraphs": []
+      }
     }
   ],
   "importedAuthorityReview": [
@@ -18738,5 +18753,16 @@
       "reviewedAt": "2026-10-11T22:44:39.243Z",
       "contextRestored": false
     }
-  ]
+  ],
+  "integrationReview": {
+    "date": "2026-10-20",
+    "decision": "The new passage holds manifestation and transcendence together, adding nuance beyond the terse statement of no direct contact.",
+    "added": [
+      "506fb6d300563bc765d5b6ce"
+    ],
+    "replaced": [
+      "0071ca7444b914e939665163"
+    ],
+    "finalizedBeforeRebuild": true
+  }
 }

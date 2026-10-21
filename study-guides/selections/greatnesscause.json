@@ -3,9 +3,9 @@
   "createdAt": "2026-10-11T17:08:38.633Z",
   "status": "finalized_before_analysis",
   "subject": "1026FD55727C4292B730BB0C841E20E7",
-  "dataset": "collections/390a77fa-5b4/",
-  "candidateFingerprint": "ed326ef6b2fd2a6fc0a7242e73dee4f39fe2d892a2c6b0829c075616f0dfe0f1",
-  "candidateCount": 965,
+  "dataset": "collections/editorial-83f59e6ea2d8/",
+  "candidateFingerprint": "4eb6163cc6f0afb87d1afd59ab7a793ca1f474d90941ec47c5f504925e83bf6e",
+  "candidateCount": 966,
   "target": 300,
   "selectedCount": 300,
   "mandatoryAuthorizedCount": 79,
@@ -1718,32 +1718,6 @@
         128
       ],
       "text": "The Cause of God hath come; hasten it not, for verily the Cause of God hath been, upon the truth, by the truth, nigh. And verily God's promise hath been, by the truth, fulfilled.",
-      "stage": 1,
-      "previousPosition": 13,
-      "reason": "Locates this Day within scriptural expectation, divine promise and a distinctive spiritual season.",
-      "authorityEvidence": {
-        "kind": "no_authorized_selected_paragraph",
-        "metadata": "Y343,1284,1309,1603,2340",
-        "sourceVersion": "1903959e9481acc14ae2d5660dc5d0bc0a4e63782224754f5523b3f2b295f9f3",
-        "paragraphs": []
-      }
-    },
-    {
-      "n": 8,
-      "group": 5,
-      "id": "a1f603e5f399ca5acdba8719",
-      "key": "source:BB00002",
-      "source": "BB00002",
-      "sourceVersion": "1903959e9481acc14ae2d5660dc5d0bc0a4e63782224754f5523b3f2b295f9f3",
-      "status": "exact",
-      "reference": "BB00002",
-      "authorization": "Y343,1284,1309,1603,2340",
-      "authorizedParagraphs": [],
-      "mandatoryAuthorized": false,
-      "paragraphs": [
-        154
-      ],
-      "text": "God hath indeed appointed for you this Day on the land of the Path, upon the bridge over the Fire, as a fixed time.",
       "stage": 1,
       "previousPosition": 13,
       "reason": "Locates this Day within scriptural expectation, divine promise and a distinctive spiritual season.",
@@ -9652,6 +9626,21 @@
         "metadata": "",
         "paragraphs": []
       }
+    },
+    {
+      "id": "2411e6766a67bfb5f3545400",
+      "key": "source:BH00042",
+      "source": "BH00042",
+      "sourceVersion": "9a3a9af3e8c1d0ad7199ffde1bbaf57381ea5974831715ca68e88066388b212e",
+      "status": "confirmed",
+      "reference": "BH00042",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        57
+      ],
+      "text": "This Day is unlike all days, this age unlike all ages, and this Cause unlike all causes. Consider what the All-Merciful hath foretold in the Qur'an - blessed and exalted be His words: \"The Day when men shall be as scattered moths, and the mountains shall be as carded wool.\" The learned and mystics of the earth, who are deprived of true knowledge and far from the straight path, are observed in just this state, while the rest are seen as moths. Concerning the greatness of this Day, such utterances have been heard from the Kingdom of divine knowledge as cause the limbs of the world to tremble. Were the souls who have accepted and stood firm to behold their stations, they would surely be struck with wonder and amazement at first. Just as this Day is great and this Cause is great, so too are those who are assured and have accepted it great in the sight of God.",
+      "reason": "Describes the distinctive greatness of this Day and its believers’ station."
     }
   ],
   "omitted": [
@@ -12979,6 +12968,32 @@
       "id": "5a4cc550364fd49bb8138915",
       "source": "BH11675",
       "reason": "Not retained in the limited selection: complementary coverage and substantive subject treatment are supplied by the explicitly chosen quotations; no verified authorized quotation omitted."
+    },
+    {
+      "n": 8,
+      "group": 5,
+      "id": "a1f603e5f399ca5acdba8719",
+      "key": "source:BB00002",
+      "source": "BB00002",
+      "sourceVersion": "1903959e9481acc14ae2d5660dc5d0bc0a4e63782224754f5523b3f2b295f9f3",
+      "status": "exact",
+      "reference": "BB00002",
+      "authorization": "Y343,1284,1309,1603,2340",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        154
+      ],
+      "text": "God hath indeed appointed for you this Day on the land of the Path, upon the bridge over the Fire, as a fixed time.",
+      "stage": 1,
+      "previousPosition": 13,
+      "reason": "The developed explanation of this Day and believers’ station is more illuminating than the brief bridge-over-fire image.",
+      "authorityEvidence": {
+        "kind": "no_authorized_selected_paragraph",
+        "metadata": "Y343,1284,1309,1603,2340",
+        "sourceVersion": "1903959e9481acc14ae2d5660dc5d0bc0a4e63782224754f5523b3f2b295f9f3",
+        "paragraphs": []
+      }
     }
   ],
   "importedAuthorityReview": [
@@ -13108,5 +13123,16 @@
       "authorization": "Retained in the selected set, including any authorized wording. No new translation-authority assertion is made from an approximate source reference; exact authority and source limitations remain as recorded in the saved review.",
       "mandatoryAuthorized": false
     }
-  ]
+  ],
+  "integrationReview": {
+    "date": "2026-10-20",
+    "decision": "The developed explanation of this Day and believers’ station is more illuminating than the brief bridge-over-fire image.",
+    "added": [
+      "2411e6766a67bfb5f3545400"
+    ],
+    "replaced": [
+      "a1f603e5f399ca5acdba8719"
+    ],
+    "finalizedBeforeRebuild": true
+  }
 }

@@ -1,3 +1,4 @@
+import {correctDisplayHtml} from '../src/display-spelling.mjs';
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import {fileURLToPath} from 'node:url';
@@ -14,6 +15,7 @@ import {studyGuideSelections,verifyCatalogueBaseline} from './study-guide-catalo
 import {selectStudyGuideQuotations} from './study-guide-selection.mjs';
 import {shortenParagraphs,shortenSupplied} from './study-guide-shortening.mjs';
 import {subjectColorStyle} from '../src/subject-colors.mjs';
+import {withSourceQuestion} from './study-guide-question-context.mjs';
 
 // Generate against the same versioned records used by the subject reader. A
 // changed quotation or subject membership must be reviewed before rebuilding.
@@ -41,7 +43,18 @@ editorial.dataset=datasetName;
 if(new Set(editorial.subjects.map(s=>s.id)).size!==editorial.subjects.length||new Set(editorial.subjects.map(s=>s.slug)).size!==editorial.subjects.length)throw Error('Duplicate study guide');
 await fs.mkdir(output,{recursive:true});
 const dataset=path.join(out,datasetName);
-const read=async name=>JSON.parse(gunzipSync(await fs.readFile(path.join(dataset,name))));
+// Records recur across many guides. Keep a bounded build-local cache so a
+// collection-wide rebuild does not repeatedly decompress the same source.
+const recordCache=new Map();let recordCacheBytes=0;
+const read=async name=>{
+  if(recordCache.has(name)){const hit=recordCache.get(name);recordCache.delete(name);recordCache.set(name,hit);return hit.value;}
+  const bytes=gunzipSync(await fs.readFile(path.join(dataset,name))),value=JSON.parse(bytes);
+  if(name.startsWith('data/')&&bytes.length<=64*1024*1024){
+    recordCache.set(name,{value,bytes:bytes.length});recordCacheBytes+=bytes.length;
+    while(recordCache.size>512||recordCacheBytes>64*1024*1024){const oldest=recordCache.keys().next().value;recordCacheBytes-=recordCache.get(oldest).bytes;recordCache.delete(oldest);}
+  }
+  return value;
+};
 const index=await read('subjects/index.json.gz');
 const subjectMap=new Map(index.subjects.map(s=>[s.id,s]));
 // Validate all authored subjects before replacing any previously built page.
@@ -76,7 +89,7 @@ const header=masthead.replace(studyGuidesLink,'<a href="index.html" class="activ
 const about=sitePart(/<dialog id="about-dialog"[\s\S]*?<\/dialog>/).replace('<dialog id="about-dialog"',`<dialog id="about-dialog" data-stats="${esc(base)}about-stats.mjs"`);
 // Follow the main page's saved light or dark choice, before styles paint.
 const theme=`<script>(()=>{const root=document.documentElement,apply=value=>{root.dataset.theme=value==='dark'?'dark':'light';};let saved;try{saved=localStorage.getItem('pi-theme');}catch{}apply(saved);addEventListener('storage',event=>{if(event.key==='pi-theme')apply(event.newValue);});})();</script>`;
-const document=(title,body,active,pdf=false)=>`<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#203a32"><title>${esc(title)}${pdf?' · Study guide':''} · Partial Inventory browser</title><link rel="icon" href="${esc(base)}favicon.svg">${theme}<link rel="stylesheet" href="pilot.css"><script src="site.js" defer></script>${pdf?'<script src="pilot-view.js" defer></script>':''}${active==='index'?'<script src="guide-index.js" defer></script>':''}</head><body${pdf?' class="pdf-view"':''}><a class="skip" href="#main">Skip to reading</a>${header}<main id="main">${body}</main><footer>Study guide sample · Introductions, sequence notes, and questions are editorial contributions.</footer>${about}</body></html>`;
+const document=(title,body,active,pdf=false)=>correctDisplayHtml(`<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#203a32"><title>${esc(title)}${pdf?' · Study guide':''} · Partial Inventory browser</title><link rel="icon" href="${esc(base)}favicon.svg">${theme}<link rel="stylesheet" href="pilot.css"><script src="site.js" defer></script>${pdf?'<script src="pilot-view.js" defer></script>':''}${active==='index'?'<script src="guide-index.js" defer></script>':''}</head><body${pdf?' class="pdf-view"':''}><a class="skip" href="#main">Skip to reading</a>${header}<main id="main">${body}</main><footer>Study guide sample · Introductions, sequence notes, and questions are editorial contributions.</footer>${about}</body></html>`);
 const validation={format:1,dataset:editorial.dataset,editorialSha256:digest(JSON.stringify(editorial)),subjects:[]};
 const exportData={format:1,dataset:editorial.dataset,subjects:[]};
 const cards=[];
@@ -149,6 +162,10 @@ for(const config of editorial.subjects){
       const editorApproved=g.source&&g.selections.every(s=>s.preserveBoundaries===true);
       const sentences=editorApproved?{paragraphs:selected,changed:false,issues:[]}:completeSentenceParagraphs(record,selected);
       if(editorApproved)entry.editorApprovedBoundaries=true;
+      if(shownOrder[position].sourceQuestion){
+        sentences.paragraphs=withSourceQuestion(record,sentences.paragraphs,shownOrder[position].sourceQuestion,label);
+        sentences.changed=true;entry.sourceQuestionAdded=true;
+      }
       const authorization=authorizedRanges(record.metadata?.Authorized);
       const paragraphs=shortened?shortenParagraphs(record,sentences.paragraphs,shortened,label):sentences.paragraphs;
       // A shortened passage keeps authorized wording when its chosen quotation has any.

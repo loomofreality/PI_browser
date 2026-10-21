@@ -3,9 +3,9 @@
   "createdAt": "2026-10-13T21:37:11.531Z",
   "status": "finalized_before_analysis",
   "subject": "0137285CF3DEE3ABF3193E5E857AE7DB",
-  "dataset": "collections/7acbc96b-60b/",
-  "candidateFingerprint": "542ffaa19270515d026787e61b766b0458370b2a7fff5fc2328034ad085c9e95",
-  "candidateCount": 394,
+  "dataset": "collections/editorial-83f59e6ea2d8/",
+  "candidateFingerprint": "02ba11434c497a4ac5c5b1bb2de7b35b7a48b8f3f0139a47bbdeb5029593cf69",
+  "candidateCount": 395,
   "target": 300,
   "selectedCount": 300,
   "mandatoryAuthorizedCount": 17,
@@ -5818,30 +5818,6 @@
       }
     },
     {
-      "n": 328,
-      "group": 285,
-      "id": "9c284d98177c3e6ae3f97517",
-      "key": "source:AB09579",
-      "source": "AB09579",
-      "sourceVersion": "0834374c74147d6ca3793ccafef1a9f6b101a2916cdaadecbea812df2c9c544f",
-      "status": "exact",
-      "reference": "AB09579",
-      "authorization": "",
-      "authorizedParagraphs": [],
-      "mandatoryAuthorized": false,
-      "paragraphs": [
-        1
-      ],
-      "text": "Your letter arrived and supplications and entreaties were made at the threshold of the All-Knowing God, and forgiveness and pardon were sought from the Court of the Divine Unity for your father and mother and Mirza Nuru'llah Khan. It is hoped that, through the favors of the Glorious Lord, they may be immersed in the ocean of forgiveness and attain to the proximity of His supreme mercy.",
-      "reason": "Passage of ‘Abdu’l-Bahá recording supplication for a father, mother and another; reply to a letter.",
-      "authorityEvidence": {
-        "kind": "no_authorized_selected_paragraph",
-        "metadata": "",
-        "sourceVersion": "0834374c74147d6ca3793ccafef1a9f6b101a2916cdaadecbea812df2c9c544f",
-        "paragraphs": []
-      }
-    },
-    {
       "n": 330,
       "group": 337,
       "id": "4b51b96ca731ec7316867acd",
@@ -7312,6 +7288,21 @@
         "sourceVersion": "0c0a321f2e8556ca792a3ab174f34434a479be4e1a32e8fe8cff7ec1c0a310b7",
         "paragraphs": []
       }
+    },
+    {
+      "id": "495318c79fc977d3a563fe7f",
+      "key": "source:BB00362",
+      "source": "BB00362",
+      "sourceVersion": "09e7b3631482005f727c639baeb9f494eb11a766d1439cc4c9e4d85d501da9b8",
+      "status": "confirmed",
+      "reference": "BB00362",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        3
+      ],
+      "text": "O my God! My self is sin, my remembrance is sin, my existence is sin, and my seeking forgiveness is sin. If I flee from one sin I enter into another sin. Glory be unto Thee! Glory be unto Thee! My whole being is sin upon sin above all sin. Were it not for Thy generosity I would not have been remembered, were it not for Thy mercy I would not have existed, were it not for Thy decree I would not have been forgiven, and were it not for Thy mystery I would not have been shown mercy.",
+      "reason": "A prayer expressing complete need for divine forgiveness and generosity."
     }
   ],
   "omitted": [
@@ -7878,7 +7869,42 @@
       "n": 376,
       "source": "AB09677",
       "reason": "Surveyed before analysis; selected complementary passages state the subject’s central teachings, qualifications or practical applications more substantively or with less repetition. No verified authorized quotation omitted."
+    },
+    {
+      "n": 328,
+      "group": 285,
+      "id": "9c284d98177c3e6ae3f97517",
+      "key": "source:AB09579",
+      "source": "AB09579",
+      "sourceVersion": "0834374c74147d6ca3793ccafef1a9f6b101a2916cdaadecbea812df2c9c544f",
+      "status": "exact",
+      "reference": "AB09579",
+      "authorization": "",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        1
+      ],
+      "text": "Your letter arrived and supplications and entreaties were made at the threshold of the All-Knowing God, and forgiveness and pardon were sought from the Court of the Divine Unity for your father and mother and Mirza Nuru'llah Khan. It is hoped that, through the favors of the Glorious Lord, they may be immersed in the ocean of forgiveness and attain to the proximity of His supreme mercy.",
+      "reason": "A complete prayer adds a distinctive expression of dependence beyond a letter reporting requests for pardon.",
+      "authorityEvidence": {
+        "kind": "no_authorized_selected_paragraph",
+        "metadata": "",
+        "sourceVersion": "0834374c74147d6ca3793ccafef1a9f6b101a2916cdaadecbea812df2c9c544f",
+        "paragraphs": []
+      }
     }
   ],
-  "importedAuthorityReview": []
+  "importedAuthorityReview": [],
+  "integrationReview": {
+    "date": "2026-10-20",
+    "decision": "A complete prayer adds a distinctive expression of dependence beyond a letter reporting requests for pardon.",
+    "added": [
+      "495318c79fc977d3a563fe7f"
+    ],
+    "replaced": [
+      "9c284d98177c3e6ae3f97517"
+    ],
+    "finalizedBeforeRebuild": true
+  }
 }

@@ -3,9 +3,9 @@
   "createdAt": "2026-10-13T21:40:24.428Z",
   "status": "finalized_before_analysis",
   "subject": "6F48F0918CDBEBB76DD545292C255B68",
-  "dataset": "collections/7acbc96b-60b/",
-  "candidateFingerprint": "799296b515d5d0d19ae7b2b9c7499b3fcd4ce1253787f55a6dc1a73e94caa6d7",
-  "candidateCount": 318,
+  "dataset": "collections/editorial-83f59e6ea2d8/",
+  "candidateFingerprint": "08eadaa82173472b24b9a97656c43d7d1b7e857ecb6394fcecf60ec06021e913",
+  "candidateCount": 319,
   "target": 300,
   "selectedCount": 300,
   "mandatoryAuthorizedCount": 14,
@@ -2616,30 +2616,6 @@
         "kind": "no_authorized_selected_paragraph",
         "metadata": "",
         "sourceVersion": "27f77d077eadf5cd98ee189ed5779b0112cf7b4c9c6727dfffe224d95d99af90",
-        "paragraphs": []
-      }
-    },
-    {
-      "n": 113,
-      "group": 198,
-      "id": "1557bce0c60c39c091b6f078",
-      "key": "source:AB04257",
-      "source": "AB04257",
-      "sourceVersion": "1465461f5b646e043b0865bce71e77208c1fc2735bbcd7108627894e7ae63183",
-      "status": "exact",
-      "reference": "AB04257",
-      "authorization": "",
-      "authorizedParagraphs": [],
-      "mandatoryAuthorized": false,
-      "paragraphs": [
-        4
-      ],
-      "text": "Your letters are filled with mention of the friends of God and requests for forgiveness for those who have ascended. In the Holy Shrine, with utmost humility, I beseech assistance and bounty for the friends and seek pardon and forgiveness for those who have ascended to God.",
-      "reason": "Account of ‘Abdu’l-Bahá praying at the Holy Shrine for assistance for the friends and for pardon for those who have ascended.",
-      "authorityEvidence": {
-        "kind": "no_authorized_selected_paragraph",
-        "metadata": "",
-        "sourceVersion": "1465461f5b646e043b0865bce71e77208c1fc2735bbcd7108627894e7ae63183",
         "paragraphs": []
       }
     },
@@ -7357,6 +7333,21 @@
         "sourceVersion": "3f5ab6c839598d1713d23127c5ce6fe300ffb34638d2eba5e0d85f0b8d6f1de8",
         "paragraphs": []
       }
+    },
+    {
+      "id": "af93b8d8269b476248acd724",
+      "key": "source:AB11041",
+      "source": "AB11041",
+      "sourceVersion": "3e451f5b8c53af9196667f78f642a2276a3bab5e6f00db4f468261b1067ec5fe",
+      "status": "confirmed",
+      "reference": "AB11041",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        1
+      ],
+      "text": "O Lord! Verily, Thy servant Mahdi, who was guided to Thy straight path, who believed in Thy manifest light, who was attracted to Thy mighty Kingdom, hath left this dusty earth and turned toward Thy Most Glorious Kingdom, hoping for pardon and bounty, and rejoicing in Thy great forgiveness. O Lord! Make easy his hope and fulfill his aspiration. Verily, Thou art the All-Merciful, the All-Compassionate.",
+      "reason": "A prayer for pardon and fulfillment for the departed servant Mahdi."
     }
   ],
   "omitted": [
@@ -7466,6 +7457,30 @@
       "n": 293,
       "source": "AB09025",
       "reason": "Surveyed before analysis; selected complementary passages state the subject’s central teachings, qualifications or practical applications more substantively or with less repetition. No verified authorized quotation omitted."
+    },
+    {
+      "n": 113,
+      "group": 198,
+      "id": "1557bce0c60c39c091b6f078",
+      "key": "source:AB04257",
+      "source": "AB04257",
+      "sourceVersion": "1465461f5b646e043b0865bce71e77208c1fc2735bbcd7108627894e7ae63183",
+      "status": "exact",
+      "reference": "AB04257",
+      "authorization": "",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        4
+      ],
+      "text": "Your letters are filled with mention of the friends of God and requests for forgiveness for those who have ascended. In the Holy Shrine, with utmost humility, I beseech assistance and bounty for the friends and seek pardon and forgiveness for those who have ascended to God.",
+      "reason": "A complete prayer for a named departed person replaces a report that prayer was offered.",
+      "authorityEvidence": {
+        "kind": "no_authorized_selected_paragraph",
+        "metadata": "",
+        "sourceVersion": "1465461f5b646e043b0865bce71e77208c1fc2735bbcd7108627894e7ae63183",
+        "paragraphs": []
+      }
     }
   ],
   "importedAuthorityReview": [
@@ -7498,5 +7513,16 @@
       "reviewedAt": "2026-10-13T21:40:24.428Z",
       "contextRestored": false
     }
-  ]
+  ],
+  "integrationReview": {
+    "date": "2026-10-20",
+    "decision": "A complete prayer for a named departed person replaces a report that prayer was offered.",
+    "added": [
+      "af93b8d8269b476248acd724"
+    ],
+    "replaced": [
+      "1557bce0c60c39c091b6f078"
+    ],
+    "finalizedBeforeRebuild": true
+  }
 }

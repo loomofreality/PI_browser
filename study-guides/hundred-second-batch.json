@@ -7,7 +7,7 @@
       "displayTitle": "Love beyond separation: praying for the departed",
       "selection": {
         "review": "selections/prayerdeparted.json",
-        "sha256": "85f2a7f555abacaad342830dc2be1f89e48684375d61c2fda31b4058b2f9ef68",
+        "sha256": "7e465c0f081471ef3e31fc850f30c3469fe6d97685db84359dd55b74ae3df683",
         "ids": [
           "bfa0b41dad05748ff601a022",
           "b20ea8201c08328a70c1491c",
@@ -116,7 +116,6 @@
           "19c1a2d7c610f1904db2fb30",
           "800911a2c6059616d47ead13",
           "1edd5664bf3edc1f23e80e97",
-          "1557bce0c60c39c091b6f078",
           "d66abfbef8bb6a8176d82920",
           "9166acef80ed20196920f77f",
           "24fbe3fe1c7eb2830fef8b0d",
@@ -308,7 +307,8 @@
           "c59b7992e9efbf97ef2d4120",
           "d28dd0d5a00d8d91ebde7586",
           "4090a05f73ba8f875050f5ed",
-          "f60e4e00f3b66a8222a748f2"
+          "f60e4e00f3b66a8222a748f2",
+          "af93b8d8269b476248acd724"
         ]
       },
       "introduction": "Death ends a presence but not a relationship. ‘Abdu’l-Bahá teaches that sincere prayer has its effect in the world beyond and that the bond with those who have gone before is never severed, so to pray for the departed is to keep on loving someone actively: asking pardon and further blessing for a soul now out of sight, while admitting that the one who prays also needs an intercessor. Bahá’u’lláh and ‘Abdu’l-Bahá picture the one who has ascended as a guest welcomed to a heavenly table, a bird freed from its cage, an ending that becomes a beginning of favors. Such prayer makes room for tears, and takes practical shape in gifts to the poor, kindness to orphans and the continuation of a loved one’s good example. The offering made for fallen soldiers in 2 Maccabees [1] and the Qur’anic plea for those who preceded us in faith [2] show how widely this hope has been held. From here the path leads into consolation for those who grieve, into prayer for forgiveness, and toward the spirit after death.",
@@ -824,11 +824,8 @@
           ]
         },
         {
-          "key": "source:AB04257",
-          "why": "Read the joining of assistance for living friends and pardon for the departed.",
-          "shortened": [
-            "Your letters are filled with mention of the friends of God and requests for forgiveness for those who have ascended. In the Holy Shrine, with utmost humility, I beseech assistance and bounty for the friends and seek pardon and forgiveness for those who have ascended to God."
-          ]
+          "key": "source:AB11041",
+          "why": "A prayer for pardon and fulfillment for the departed servant Mahdi."
         },
         {
           "key": "source:AB01035",

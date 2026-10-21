@@ -3,9 +3,9 @@
   "createdAt": "2026-10-13T21:52:56.557Z",
   "status": "finalized_before_analysis",
   "subject": "AEF71C54D9B047EB8B92DBF1831755FA",
-  "dataset": "collections/7acbc96b-60b/",
-  "candidateFingerprint": "63840d892c3d3cbe7a82a82946a5f8c09f51642d3f5946059e13ed8cbb398fae",
-  "candidateCount": 809,
+  "dataset": "collections/editorial-83f59e6ea2d8/",
+  "candidateFingerprint": "9aff49956b841f17418f314dc9f26a77009e2520ef5632a741f2a89f977a8bdd",
+  "candidateCount": 810,
   "target": 300,
   "selectedCount": 300,
   "mandatoryAuthorizedCount": 51,
@@ -3197,30 +3197,6 @@
         "kind": "no_authorized_selected_paragraph",
         "metadata": "",
         "sourceVersion": "4a111201263330241df5fbc7d014366c125d5030398dae0ddcd9e6009f37d704",
-        "paragraphs": []
-      }
-    },
-    {
-      "n": 516,
-      "group": 12,
-      "id": "f4c7358b37b225e4436be353",
-      "key": "source:BB00004",
-      "source": "BB00004",
-      "sourceVersion": "fe1964f12081efaac35466d6f5f897a73ed36423af0aa66bd0bcdc9b40d082fa",
-      "status": "confirmed",
-      "reference": "BB00004",
-      "authorization": "Y799-",
-      "authorizedParagraphs": [],
-      "mandatoryAuthorized": false,
-      "paragraphs": [
-        365
-      ],
-      "text": "And if ye desire to prevail, then seek victory through God, and then place your trust in God, your Lord. We are all servants of God and we are submissive unto Him. We are all servants of God and we all bow down before Him. Glorified be He before Whom prostrate themselves all who are in the heavens and who are on the earth",
-      "reason": "The Báb counselling those who desire to prevail to seek victory through God and trust in Him, joined to the confession that all are His submissive servants; links servitude to reliance.",
-      "authorityEvidence": {
-        "kind": "no_authorized_selected_paragraph",
-        "metadata": "Y799-",
-        "sourceVersion": "fe1964f12081efaac35466d6f5f897a73ed36423af0aa66bd0bcdc9b40d082fa",
         "paragraphs": []
       }
     },
@@ -7453,6 +7429,21 @@
           79
         ]
       }
+    },
+    {
+      "id": "96e4acaebf4b9d4eb2a7b136",
+      "key": "source:BB00027",
+      "source": "BB00027",
+      "sourceVersion": "9bcce17d0bf3cc0343f8d9ffb1d9aab9cc955701a4ca0b5c2d32283ea6b69461",
+      "status": "confirmed",
+      "reference": "BB00027",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        63
+      ],
+      "text": "And since what is manifest in all the Prophets is one manifestation, then on the Day of Him Whom God shall make manifest, all are obedient unto Him and worshippers of God through Him. Verily, the truth in His obedience is in who knoweth Him and obeyeth Him, and the one prostrate before God is he who prostrateth before God through Him, and the worshipper of God is he who worshippeth through Him. Thus if one soul obeyeth Him Whom God shall make manifest, this is considered by God as all, until God distinguisheth it. But God hath loved and doth love that every soul that is upon the earth should obey Him Whom God shall make manifest, and be at ease, and be devoted, and glorify God through Him, and prostrate before Him, and worship Him with pure essence and sincere identity, and what behooveth God to manifest of the essence of servitude.",
+      "reason": "Explains devotion and servitude through recognition and obedience."
     }
   ],
   "omitted": [
@@ -10509,6 +10500,30 @@
       "n": 795,
       "source": "AB08509",
       "reason": "Surveyed before analysis; selected complementary passages state the subject’s central teachings, qualifications or practical applications more substantively or with less repetition. No verified authorized quotation omitted."
+    },
+    {
+      "n": 516,
+      "group": 12,
+      "id": "f4c7358b37b225e4436be353",
+      "key": "source:BB00004",
+      "source": "BB00004",
+      "sourceVersion": "fe1964f12081efaac35466d6f5f897a73ed36423af0aa66bd0bcdc9b40d082fa",
+      "status": "confirmed",
+      "reference": "BB00004",
+      "authorization": "Y799-",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        365
+      ],
+      "text": "And if ye desire to prevail, then seek victory through God, and then place your trust in God, your Lord. We are all servants of God and we are submissive unto Him. We are all servants of God and we all bow down before Him. Glorified be He before Whom prostrate themselves all who are in the heavens and who are on the earth",
+      "reason": "The new explanation of worship through recognition adds substance; keep the clearest universal-servitude refrain and replace the second similar litany.",
+      "authorityEvidence": {
+        "kind": "no_authorized_selected_paragraph",
+        "metadata": "Y799-",
+        "sourceVersion": "fe1964f12081efaac35466d6f5f897a73ed36423af0aa66bd0bcdc9b40d082fa",
+        "paragraphs": []
+      }
     }
   ],
   "importedAuthorityReview": [
@@ -10530,5 +10545,16 @@
       "reviewedAt": "2026-10-13T21:52:56.557Z",
       "contextRestored": false
     }
-  ]
+  ],
+  "integrationReview": {
+    "date": "2026-10-20",
+    "decision": "The new explanation of worship through recognition adds substance; keep the clearest universal-servitude refrain and replace the second similar litany.",
+    "added": [
+      "96e4acaebf4b9d4eb2a7b136"
+    ],
+    "replaced": [
+      "f4c7358b37b225e4436be353"
+    ],
+    "finalizedBeforeRebuild": true
+  }
 }

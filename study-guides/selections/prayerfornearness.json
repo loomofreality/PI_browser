@@ -3,9 +3,9 @@
   "createdAt": "2026-10-13T21:37:50.091Z",
   "status": "finalized_before_analysis",
   "subject": "C22A37A43832E506617EB2F4434E855F",
-  "dataset": "collections/7acbc96b-60b/",
-  "candidateFingerprint": "23017efb9322869c86f37d19e143edcf88846e73b459eff089033047a5232e95",
-  "candidateCount": 419,
+  "dataset": "collections/editorial-83f59e6ea2d8/",
+  "candidateFingerprint": "7cd402ec9d3108390263bee83b647f753e839074f134461bd7afb534b70b89b2",
+  "candidateCount": 420,
   "target": 300,
   "selectedCount": 300,
   "mandatoryAuthorizedCount": 31,
@@ -8064,7 +8064,19 @@
       "n": 414,
       "source": "AB09374",
       "reason": "Surveyed before analysis; selected complementary passages state the subject’s central teachings, qualifications or practical applications more substantively or with less repetition. No verified authorized quotation omitted."
+    },
+    {
+      "id": "e4390e759e0228eacd1d7a65",
+      "source": "BH11289",
+      "reason": "Retain the existing prayers: they distinguish nearness, obedience, desire and veils more fully; the new short petition adds little to these complementary emphases."
     }
   ],
-  "importedAuthorityReview": []
+  "importedAuthorityReview": [],
+  "integrationReview": {
+    "date": "2026-10-20",
+    "decision": "Retain the existing prayers: they distinguish nearness, obedience, desire and veils more fully; the new short petition adds little to these complementary emphases.",
+    "added": [],
+    "replaced": [],
+    "finalizedBeforeRebuild": true
+  }
 }

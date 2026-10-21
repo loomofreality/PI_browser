@@ -7,7 +7,7 @@
       "displayTitle": "The power of the Covenant: a bond that gives life",
       "selection": {
         "review": "selections/covenantpower.json",
-        "sha256": "3d050000acda5c8913321915b3a7de2e1cf2ce101bada0a6e04bd3fd99ee8cdc",
+        "sha256": "ce70272a818e48b99be16033ab89385b843e1e014eb6f9c5ffba9cf1cc5259ce",
         "ids": [
           "8e5d186c4b69ed9bb4484487",
           "baed8d4d2074acf4891f0f67",
@@ -198,7 +198,6 @@
           "180871e8de6cc89f5430a547",
           "a0ab6815f6c35a832332ab29",
           "f13dc4ddfa5032bfe7e02302",
-          "082a1f235e5e199d90a038b8",
           "33e30acf20d54497db5b620b",
           "9f6db58d85d2102fd05d619c",
           "f8df9ac81b731630a42d4cbb",
@@ -308,7 +307,8 @@
           "b8fbb729baa7ce63897a0b6e",
           "4414e8128b2e0046c5ef39bd",
           "a3e36ab45eff0baa48d30371",
-          "cd5a6af56cb985236b641e63"
+          "cd5a6af56cb985236b641e63",
+          "7a09b2070d82160d44160fc1"
         ]
       },
       "introduction": "‘Abdu’l-Bahá likens the Covenant to an artery pulsing through the body of the world, and then puts a plain question to those who profess it: if the people commanded to unite humanity cannot gather around one point, how will they ever bring anyone else together? Bahá’u’lláh’s written Covenant is the answer, a Centre appointed so that disputes are set aside and a thousand sects do not spring up in a single day. Yet its power is measured less in grand assertion than in conduct: kindness, freedom from prejudice, a love that reaches even its opponents. The Qur’anic call to hold fast together to God’s bond, remembering former enmity turned to brotherhood [1], and the rainbow set above Noah’s ark as the visible sign of a promise [2], give older settings to images taken up afresh here: the ark, the lamp no wind can put out, the healing remedy, the sun whose light shines from steadfast faces. From this point the journey leads into authoritative interpretation and its work of preserving unity, into firmness under tests and controversy, and back to the primordial Covenant of Alast, where every soul first answered its Lord.",
@@ -487,6 +487,10 @@
           "shortened": [
             "For thirty years He thus nursed the children of the Kingdom in the bosom of the Most Holy Book, that these divine obligations and relationships might be deeply engraved upon every heart, and that the stronghold of the Cause of God might become as impervious to intrusion as a mighty and impregnable fortress.  He appointed the Interpreter of His perspicuous Book in the clearest terms and made the Centre of His Covenant known to all."
           ]
+        },
+        {
+          "key": "source:AB00838",
+          "why": "Explains the Covenant’s necessity for preserving unity."
         },
         {
           "key": "source:ABU0736",

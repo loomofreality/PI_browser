@@ -3,12 +3,12 @@
   "createdAt": "2026-10-13T21:52:48.026Z",
   "status": "finalized_before_analysis",
   "subject": "628D2EB989914C2DBBDDFEB888CA31CA",
-  "dataset": "collections/7acbc96b-60b/",
-  "candidateFingerprint": "683b651f6e60d4811b9c749a4c4c10e721a63f3894507192c85bb9785c77664b",
-  "candidateCount": 686,
+  "dataset": "collections/editorial-83f59e6ea2d8/",
+  "candidateFingerprint": "7e56544b5fcc517356ba5ea15f28d9282b50e8e6f0f6532a9f83f295909cfbf4",
+  "candidateCount": 687,
   "target": 300,
   "selectedCount": 300,
-  "mandatoryAuthorizedCount": 27,
+  "mandatoryAuthorizedCount": 28,
   "selectionBeforeAnalysis": true,
   "method": "Complete candidate survey followed by individual editorial choices and written reasons, applied to the existing complete guide to keep it within 300 quotations. All verified authorized selections included. Priority given to foundational teachings, substantive explanations, necessary qualifications, distinctive applications, narrative examples and thematic breadth across power measured in fellowship and freedom from prejudice, the written bond and its provisions for interpretation and succession, the covenant of recognition and the horizon of revelation, the images of ark, rainbow, artery, tree, lamp, cup and healing remedy, steadfastness amid controversy, imprisonment, war and loss, confirmation turned into teaching and service, gratitude, prayer and humility, and later explanations of the Greater and Lesser Covenants. Neither citation count nor source order used as a ranking rule. Imported wording checked separately; version differences remain explicit. The existing reading arc is retained.",
   "selected": [
@@ -4616,30 +4616,6 @@
       }
     },
     {
-      "n": 540,
-      "group": 5,
-      "id": "082a1f235e5e199d90a038b8",
-      "key": "source:AB00005",
-      "source": "AB00005",
-      "sourceVersion": "2dca9b354d41ab35cbe32f68852724081c5bde21f825f8a38181935e2f5a373b",
-      "status": "exact",
-      "reference": "AB00005",
-      "authorization": "",
-      "authorizedParagraphs": [],
-      "mandatoryAuthorized": false,
-      "paragraphs": [
-        10
-      ],
-      "text": "Never can the day-star of the Covenant be eclipsed by the puerile efforts of childish minds, nor the shining countenance of the sun be vexed by the faint cries of feeble bats, nor the flood of vernal grace be confined by a handful of clay, nor the breezes of the bower of the Testament be stilled.",
-      "reason": "‘Abdu’l-Bahá that the day-star of the Covenant can never be eclipsed by childish minds nor the sun vexed by the cries of bats; a memorable image of its permanence.",
-      "authorityEvidence": {
-        "kind": "no_authorized_selected_paragraph",
-        "metadata": "",
-        "sourceVersion": "2dca9b354d41ab35cbe32f68852724081c5bde21f825f8a38181935e2f5a373b",
-        "paragraphs": []
-      }
-    },
-    {
       "n": 542,
       "group": 284,
       "id": "33e30acf20d54497db5b620b",
@@ -7367,6 +7343,23 @@
         "reviewedAt": "2026-10-13T21:52:48.026Z",
         "contextRestored": false
       }
+    },
+    {
+      "id": "7a09b2070d82160d44160fc1",
+      "key": "source:AB00838",
+      "source": "AB00838",
+      "sourceVersion": "2c917fbced7a65d760efab4790b04ecafac001eb5f0bbbd9e4dcafbcb6e3e4c5",
+      "status": "confirmed",
+      "reference": "AB00838",
+      "authorizedParagraphs": [
+        3
+      ],
+      "mandatoryAuthorized": true,
+      "paragraphs": [
+        3
+      ],
+      "text": "Thou must be exceedingly alert, and shield the souls from veiled suggestions and secret whisperings. Enable them to be steadfast in the Covenant according to the explicit divine Text, which is a conclusive evidence of the Truth, so that Baha'i unity may be preserved. Otherwise, a new sect would emerge each day, utter division would result, and the Cause of God would be destroyed---nay, exterminated. Were there any other power that could safeguard Baha'i unity, I would have summoned everyone unto it. But ponder and reflect: Is it possible for the unity of the Faith to be protected by any other power than that of the Covenant? This is why I admonish everyone to cleave unto the Covenant---purely to safeguard Baha'i unity.",
+      "reason": "Mandatory authorized wording. Explains the Covenant’s necessity for preserving unity."
     }
   ],
   "omitted": [
@@ -9680,6 +9673,30 @@
       "id": "c6e0385f1bf1bfafbcfadf0c",
       "n": 682,
       "reason": "Universal House of Justice on the Major and Minor Plans of God, whose focus lies outside the power of the Covenant; selected passages such as #566, #596 and #336 carry the call to devoted service. No verified authorized quotation omitted."
+    },
+    {
+      "n": 540,
+      "group": 5,
+      "id": "082a1f235e5e199d90a038b8",
+      "key": "source:AB00005",
+      "source": "AB00005",
+      "sourceVersion": "2dca9b354d41ab35cbe32f68852724081c5bde21f825f8a38181935e2f5a373b",
+      "status": "exact",
+      "reference": "AB00005",
+      "authorization": "",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        10
+      ],
+      "text": "Never can the day-star of the Covenant be eclipsed by the puerile efforts of childish minds, nor the shining countenance of the sun be vexed by the faint cries of feeble bats, nor the flood of vernal grace be confined by a handful of clay, nor the breezes of the bower of the Testament be stilled.",
+      "reason": "Include verified authorized wording; the rationale for preserving unity is more explanatory than the additional poetic assertion of permanence, while retaining the Alast connection.",
+      "authorityEvidence": {
+        "kind": "no_authorized_selected_paragraph",
+        "metadata": "",
+        "sourceVersion": "2dca9b354d41ab35cbe32f68852724081c5bde21f825f8a38181935e2f5a373b",
+        "paragraphs": []
+      }
     }
   ],
   "importedAuthorityReview": [
@@ -9809,5 +9826,16 @@
       "reviewedAt": "2026-10-13T21:52:48.026Z",
       "contextRestored": false
     }
-  ]
+  ],
+  "integrationReview": {
+    "date": "2026-10-20",
+    "decision": "Include verified authorized wording; the rationale for preserving unity is more explanatory than the additional poetic assertion of permanence, while retaining the Alast connection.",
+    "added": [
+      "7a09b2070d82160d44160fc1"
+    ],
+    "replaced": [
+      "082a1f235e5e199d90a038b8"
+    ],
+    "finalizedBeforeRebuild": true
+  }
 }

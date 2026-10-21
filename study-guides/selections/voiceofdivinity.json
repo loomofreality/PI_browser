@@ -3,9 +3,9 @@
   "createdAt": "2026-10-13T21:44:23.118Z",
   "status": "finalized_before_analysis",
   "subject": "618FD8010F10E760CBC53B05C0F1DC25",
-  "dataset": "collections/7acbc96b-60b/",
-  "candidateFingerprint": "819db126f7ef6d27c36080f7e6b77ceb2c817e00c5b796720431269b7b9841b8",
-  "candidateCount": 445,
+  "dataset": "collections/editorial-83f59e6ea2d8/",
+  "candidateFingerprint": "55e12c2f962233b43e10e373e272c263481eacf27c58a567e804001b76c89cbb",
+  "candidateCount": 446,
   "target": 300,
   "selectedCount": 300,
   "mandatoryAuthorizedCount": 25,
@@ -961,30 +961,6 @@
         "kind": "no_authorized_selected_paragraph",
         "metadata": "",
         "sourceVersion": "e64b11e3228b7a442deede4589620d7b6fc26a88870aee65b55d676521156039",
-        "paragraphs": []
-      }
-    },
-    {
-      "n": 119,
-      "group": 149,
-      "id": "46512adfd605fe578a12cd51",
-      "key": "source:BH02168",
-      "source": "BH02168",
-      "sourceVersion": "fbaa45ab2772853ca3a0a524f11d9d9804def5ec5bffd9825487d0c02e69bd6b",
-      "status": "exact",
-      "reference": "BH02168",
-      "authorization": "",
-      "authorizedParagraphs": [],
-      "mandatoryAuthorized": false,
-      "paragraphs": [
-        2
-      ],
-      "text": "This is a Book that speaketh the truth, that there is none other God but Him, the Almighty, the Self-Subsisting.",
-      "reason": "Bahá’u’lláh describing a Book that speaks the truth that there is none other God but Him; begins the second reading with utterance attributed to the Book itself.",
-      "authorityEvidence": {
-        "kind": "no_authorized_selected_paragraph",
-        "metadata": "",
-        "sourceVersion": "fbaa45ab2772853ca3a0a524f11d9d9804def5ec5bffd9825487d0c02e69bd6b",
         "paragraphs": []
       }
     },
@@ -7322,6 +7298,21 @@
         "sourceVersion": "78af0c8c4248dfd98765e0fd2cfd9b88414edf9e614b6bc94e9b67bbdfcbc558",
         "paragraphs": []
       }
+    },
+    {
+      "id": "210288100e6867fd0c17551b",
+      "key": "source:BB00116",
+      "source": "BB00116",
+      "sourceVersion": "40328586f068bbc929fbfc740d18ea0d9a962955484a47893a53d14b5b733c12",
+      "status": "confirmed",
+      "reference": "BB00116",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        4
+      ],
+      "text": "Verily, I am God! There is no God but Me! I have been from a beginning that hath no beginning, a sovereign, all-powerful. Verily, I am God! There is no God but Me! I shall be unto an end that hath no end, a sovereign, all-powerful. Verily, I am God! There is no God but Me! I have been from a beginning that hath no beginning, ever-living, ever-abiding. Verily, I am God! There is no God but Me! I shall be unto an end that hath no end, ever-living, ever-abiding.",
+      "reason": "An example of the divine voice in the Bab’s revelation."
     }
   ],
   "omitted": [
@@ -8193,6 +8184,30 @@
       "n": 395,
       "source": "BH01764",
       "reason": "Surveyed before analysis; selected complementary passages state the subject’s central teachings, qualifications or practical applications more substantively or with less repetition. No verified authorized quotation omitted."
+    },
+    {
+      "n": 119,
+      "group": 149,
+      "id": "46512adfd605fe578a12cd51",
+      "key": "source:BH02168",
+      "source": "BH02168",
+      "sourceVersion": "fbaa45ab2772853ca3a0a524f11d9d9804def5ec5bffd9825487d0c02e69bd6b",
+      "status": "exact",
+      "reference": "BH02168",
+      "authorization": "",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        2
+      ],
+      "text": "This is a Book that speaketh the truth, that there is none other God but Him, the Almighty, the Self-Subsisting.",
+      "reason": "A direct first-person divine utterance is a clearer instance of the subject than a third-person declaration about a book.",
+      "authorityEvidence": {
+        "kind": "no_authorized_selected_paragraph",
+        "metadata": "",
+        "sourceVersion": "fbaa45ab2772853ca3a0a524f11d9d9804def5ec5bffd9825487d0c02e69bd6b",
+        "paragraphs": []
+      }
     }
   ],
   "importedAuthorityReview": [
@@ -8205,5 +8220,16 @@
       "reviewedAt": "2026-10-13T21:44:23.118Z",
       "contextRestored": false
     }
-  ]
+  ],
+  "integrationReview": {
+    "date": "2026-10-20",
+    "decision": "A direct first-person divine utterance is a clearer instance of the subject than a third-person declaration about a book.",
+    "added": [
+      "210288100e6867fd0c17551b"
+    ],
+    "replaced": [
+      "46512adfd605fe578a12cd51"
+    ],
+    "finalizedBeforeRebuild": true
+  }
 }

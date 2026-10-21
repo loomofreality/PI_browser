@@ -7,7 +7,7 @@
       "displayTitle": "Spiritual emotions and susceptibilities",
       "selection": {
         "review": "selections/spiritualemotions.json",
-        "sha256": "6f5f3fa33c69d0afc28b855ac9e9a71e3471dd38134fc3f0ce9fea1204531035",
+        "sha256": "9b30c5dee8717db7dc901f164ac43a92d707651fb0463d2d25f16c27b8b87499",
         "ids": [
           "72a324a99971204fa95200cd",
           "ec079e47621974fb2d4383c1",
@@ -108,7 +108,6 @@
           "678a767b4868fea2b0c7e4fe",
           "024b9d6bc029b1bcd8e6f4dc",
           "c7424e4e0377a1d3195afbaa",
-          "28c3079d9e77a44108ca2627",
           "b812bbf7e27a108319ece5a3",
           "d390dfa04c2ef5c7d53c84bf",
           "d22da59751a7405b0790bd64",
@@ -308,7 +307,8 @@
           "81165be0abd80784dfa5a420",
           "bff86852d136c592ac7bb399",
           "6c6f6bb526abc116555dbed9",
-          "87a5ef6cbf352307958bdf4c"
+          "87a5ef6cbf352307958bdf4c",
+          "801358861cc3678ebb6eba62"
         ]
       },
       "introduction": "Sight is one thing and insight another, ‘Abdu’l-Bahá teaches, and the difference lies not in the eye but in the heart. A spiritual emotion is a perception of this second kind: the stirring by which a soul recognizes something real, the warmth that rises in prayer when words fall away and the heart itself becomes the wilderness where Moses heard the Voice. Bahá’u’lláh writes that in this Day the only approach to God runs through the heart, yet feeling alone is not a compass. Fascination fades, imagination flatters, and the wine of attraction must be drunk with sobriety, humility and care for consequences. Receptivity can be cultivated, through remembrance, music, the company of devoted friends and attention to beauty, until it steadies into a joy that survives illness, separation and grief. From here the way leads toward the life of the spirit itself, toward inspiration and intuition, and toward the connections of the heart that turn private feeling into fellowship and service.",
@@ -1677,11 +1677,8 @@
           ]
         },
         {
-          "key": "source:AB01201",
-          "why": "Spiritual feeling becomes relational in affection, correspondence, hospitality, prayer for others and concern for another person’s condition. The stronger bond among close companions is explicitly accompanied by equal truthfulness, compassion and care toward all humanity. Letters explain silence, delay and the limitations of time; expressions of inward communion coexist with the need to communicate. Reported exchanges about attraction retain the questions asked and the circumstances of the answers. Explore the actual neighbors on connections of the heart and fellowship among the friends. What does it mean to share another person’s joy or sorrow? How might attentive words, a letter, a meal or a welcome give practical form to a bond that is described as spiritual?",
-          "shortened": [
-            "When your letter is read, if it indicates happiness, a breeze of joy wafts, and if signs of sorrow appear, it has a profound effect."
-          ]
+          "key": "source:ABU0228",
+          "why": "Distinguishes spiritual love from the bonds of family, commerce, politics and nationality."
         },
         {
           "key": "source:BH01165",

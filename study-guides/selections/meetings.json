@@ -3,9 +3,9 @@
   "createdAt": "2026-10-13T21:54:47.100Z",
   "status": "finalized_before_analysis",
   "subject": "53AFF53F02514681A22F4E2FAB467483",
-  "dataset": "collections/7acbc96b-60b/",
-  "candidateFingerprint": "195c43896818808b59224376d115f029cc374a2bccd8df7126e068b640238c7c",
-  "candidateCount": 792,
+  "dataset": "collections/editorial-83f59e6ea2d8/",
+  "candidateFingerprint": "00f2f5f09f2eef859d2abe2a004f5972b1afa936541ed4b6773ec85695c4ea40",
+  "candidateCount": 793,
   "target": 300,
   "selectedCount": 300,
   "mandatoryAuthorizedCount": 63,
@@ -10457,6 +10457,11 @@
       "id": "10ecc032984302695ba6304f",
       "n": 792,
       "reason": "Letter written on behalf of Shoghi Effendi on the participation and voting rights of National Assembly members at Convention; procedural detail beyond the guide’s focus, with convention consultation carried by #791. No verified authorized quotation omitted."
+    },
+    {
+      "id": "57f0fdbfc8ceff0f2600e4d2",
+      "source": "AB00795",
+      "reason": "Preserve the practical weekly meeting format and the timing of feasts; the new gathering letter’s caution under persecution does not justify displacing these."
     }
   ],
   "importedAuthorityReview": [
@@ -10543,5 +10548,12 @@
       "reviewedAt": "2026-10-13T21:54:47.100Z",
       "contextRestored": false
     }
-  ]
+  ],
+  "integrationReview": {
+    "date": "2026-10-20",
+    "decision": "Preserve the practical weekly meeting format and the timing of feasts; the new gathering letter’s caution under persecution does not justify displacing these.",
+    "added": [],
+    "replaced": [],
+    "finalizedBeforeRebuild": true
+  }
 }

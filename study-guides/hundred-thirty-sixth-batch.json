@@ -7,7 +7,7 @@
       "displayTitle": "Prayer for others: remembrance, companionship and care",
       "selection": {
         "review": "selections/prayerindividuals.json",
-        "sha256": "1f4c0dd67877ba858700cefba22e85a276d8be3973f682b688340dae7cd5e6c0",
+        "sha256": "8613724cf62d3ff39472889a6000ace15c67d12f2e9b07b08d065aa0c807500f",
         "ids": [
           "448244c400ba8db2fe3e27e2",
           "f0221778402b1023ece270bd",
@@ -38,7 +38,6 @@
           "2f021de265ebc12331ce61ca",
           "8a122a76989f8eb57f8dc78f",
           "91e2ea0f0c991dd4f85db971",
-          "303727fd72b67ea1543c04fa",
           "13d8c0ba33f21f9d1b3ee0e5",
           "5bd6a8eaaff77a1cc9061b35",
           "d8711e27d72106b6c8386d12",
@@ -308,7 +307,8 @@
           "a9bb9e38c71995abd9fc19c2",
           "68344afe126e9e05d12e7ef7",
           "41e83e902c6fbfd08d16fc96",
-          "80aff7ebbd24e1d834025555"
+          "80aff7ebbd24e1d834025555",
+          "eca1536c9ed0e1b165904a3a"
         ]
       },
       "introduction": "Asked to pray that a correspondent be protected from the commanding self, ‘Abdu’l-Bahá answers that he constantly utters that very prayer for himself, and hopes that both of them may be kept safe. To carry another person into prayer is, from the first, to stand beside them rather than above them. Names are remembered at midnight and written into letters despite exhaustion; a pilgrimage is made on behalf of a friend who could not travel; children, parents, bereaved households and whole gatherings are commended to God, and nearly every petition asks not only for relief but for the strength to be useful. Jesus’ parable of the Pharisee and the tax collector shows how easily intercession curdles into judgment [1], and the Qur’an joins a prayer for earlier believers with a plea that bitterness be lifted from the heart [2]; the circle, once opened, widens to strangers and enemies. The path leads on into the power of prayer itself, into asking for the spiritual progress of others, and into the gatherings where a community learns to pray as one without forgetting a single name.",
@@ -722,11 +722,8 @@
           ]
         },
         {
-          "key": "source:AB02456",
-          "why": "Attend to each generation and each named person, linking family blessing with growth, affection and responsibility rather than treating all petitions as interchangeable.",
-          "shortened": [
-            "Convey my greetings to thy beloved son Albert. I beseech God to make him a lamp diffusing brilliant lights in the gatherings of the loved ones of God."
-          ]
+          "key": "source:AB02322",
+          "why": "Prays for named departed individuals and members of their families."
         },
         {
           "key": "source:AB04477",

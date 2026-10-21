@@ -3,9 +3,9 @@
   "createdAt": "2026-10-13T21:44:20.182Z",
   "status": "finalized_before_analysis",
   "subject": "7A2DA22B0196E4813CDC85DB1C970313",
-  "dataset": "collections/7acbc96b-60b/",
-  "candidateFingerprint": "6a22ab6dfac57414eb0c4bc260321eeb25e60bbc7aa408b84911bfe51aefef2b",
-  "candidateCount": 487,
+  "dataset": "collections/editorial-83f59e6ea2d8/",
+  "candidateFingerprint": "88c1fd16ee84cc0833f083f1de89eac96f9929fe6656e7fcfa111fa8b77ca179",
+  "candidateCount": 488,
   "target": 300,
   "selectedCount": 300,
   "mandatoryAuthorizedCount": 11,
@@ -157,30 +157,6 @@
         "kind": "no_authorized_selected_paragraph",
         "metadata": "",
         "sourceVersion": "7d939631cdd993419a408e39bc65dad775422477c4f48beabb61ce56f40cf765",
-        "paragraphs": []
-      }
-    },
-    {
-      "n": 48,
-      "group": 461,
-      "id": "541c82b74198be7033b0fbd7",
-      "key": "source:BH09859",
-      "source": "BH09859",
-      "sourceVersion": "48e6ba993364284c1a1d12c3c8a84f1003c01f973317ff9f845f603d29a303cf",
-      "status": "normalized",
-      "reference": "BH09859",
-      "authorization": "",
-      "authorizedParagraphs": [],
-      "mandatoryAuthorized": false,
-      "paragraphs": [
-        2
-      ],
-      "text": "I beseech Thee … to aid Thy loved ones with patience from Thee and steadfastness from Thy presence",
-      "reason": "Bahá’u’lláh’s petition that the loved ones be aided with patience and steadfastness from God’s presence.",
-      "authorityEvidence": {
-        "kind": "no_authorized_selected_paragraph",
-        "metadata": "",
-        "sourceVersion": "48e6ba993364284c1a1d12c3c8a84f1003c01f973317ff9f845f603d29a303cf",
         "paragraphs": []
       }
     },
@@ -7270,6 +7246,21 @@
         "sourceVersion": "e109ef28f63e8ff71cad9750e2cc35100ff00665bbc11d2c0b3fb5a77c54c0b8",
         "paragraphs": []
       }
+    },
+    {
+      "id": "485253037a2cdbcde35bf280",
+      "key": "source:AB08903",
+      "source": "AB08903",
+      "sourceVersion": "4e9dab2967da6af32958507885ba3bb728ab4429c94aacdb70bc56fde0294df8",
+      "status": "confirmed",
+      "reference": "AB08903",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        1
+      ],
+      "text": "O believer in God! Your letter was received and read. May the new-born be blessed. Pray and supplicate and say: \"O God! Make this child successful in faith and certitude, make him firm and steadfast in the Covenant and Testament, confirm him through Thine infinite bounty, make him a fruitful tree in the Abha Paradise, make him intelligent and wise, make him Thy needy one, and make him honored among strangers and kin.\"",
+      "reason": "A prayer for a child’s faith, wisdom and steadfastness."
     }
   ],
   "omitted": [
@@ -8394,6 +8385,30 @@
       "n": 429,
       "source": "BH03285",
       "reason": "Surveyed before analysis; selected complementary passages state the subject’s central teachings, qualifications or practical applications more substantively or with less repetition. No verified authorized quotation omitted."
+    },
+    {
+      "n": 48,
+      "group": 461,
+      "id": "541c82b74198be7033b0fbd7",
+      "key": "source:BH09859",
+      "source": "BH09859",
+      "sourceVersion": "48e6ba993364284c1a1d12c3c8a84f1003c01f973317ff9f845f603d29a303cf",
+      "status": "normalized",
+      "reference": "BH09859",
+      "authorization": "",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        2
+      ],
+      "text": "I beseech Thee … to aid Thy loved ones with patience from Thee and steadfastness from Thy presence",
+      "reason": "The child’s prayer adds a distinct application to faith, wisdom and steadfastness beyond a brief general petition for patience.",
+      "authorityEvidence": {
+        "kind": "no_authorized_selected_paragraph",
+        "metadata": "",
+        "sourceVersion": "48e6ba993364284c1a1d12c3c8a84f1003c01f973317ff9f845f603d29a303cf",
+        "paragraphs": []
+      }
     }
   ],
   "importedAuthorityReview": [
@@ -8406,5 +8421,16 @@
       "reviewedAt": "2026-10-13T21:44:20.182Z",
       "contextRestored": false
     }
-  ]
+  ],
+  "integrationReview": {
+    "date": "2026-10-20",
+    "decision": "The child’s prayer adds a distinct application to faith, wisdom and steadfastness beyond a brief general petition for patience.",
+    "added": [
+      "485253037a2cdbcde35bf280"
+    ],
+    "replaced": [
+      "541c82b74198be7033b0fbd7"
+    ],
+    "finalizedBeforeRebuild": true
+  }
 }

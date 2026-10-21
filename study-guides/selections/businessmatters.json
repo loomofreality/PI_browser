@@ -3,12 +3,12 @@
   "createdAt": "2026-10-13T21:38:14.581Z",
   "status": "finalized_before_analysis",
   "subject": "8C309A3E20044543A9A72F36981F7D2A",
-  "dataset": "collections/7acbc96b-60b/",
-  "candidateFingerprint": "90242b667ccf8d52732ee691b1d4e64bc25f3d75f8a32dadd040ca8fb51b88d1",
-  "candidateCount": 425,
+  "dataset": "collections/editorial-83f59e6ea2d8/",
+  "candidateFingerprint": "4da62f0296d6434178999af35f49cb78fbaaa313c3befd44f87042af6c62d658",
+  "candidateCount": 426,
   "target": 300,
   "selectedCount": 300,
-  "mandatoryAuthorizedCount": 5,
+  "mandatoryAuthorizedCount": 6,
   "selectionBeforeAnalysis": true,
   "method": "Complete candidate survey followed by individual editorial choices and written reasons, applied to the existing complete guide to keep it within 300 quotations. All verified authorized selections included. Priority given to foundational teachings, substantive explanations, necessary qualifications, distinctive applications, narrative examples and thematic breadth across trustworthiness with other people’s funds, consultation and accurate accounts, work and enterprise as service, partnership and proportion, livelihood, receipts and financial records, debt and mercy, inheritance and reconciliation, wills and gifts, assistance to particular lives, building funds, property and title, trading under pressure, travel, daily supplies, laws in their distinct settings, and spiritual commerce. Neither citation count nor source order used as a ranking rule. The existing reading arc is retained.",
   "selected": [
@@ -4473,30 +4473,6 @@
       }
     },
     {
-      "n": 302,
-      "group": 119,
-      "id": "5542dd75ba11e55abb11f6da",
-      "key": "source:AB09209",
-      "source": "AB09209",
-      "sourceVersion": "525cb915118f5b0154314b993e47100b4f2b5caee45f30aa109f1769641ec1f5",
-      "status": "exact",
-      "reference": "AB09209",
-      "authorization": "",
-      "authorizedParagraphs": [],
-      "mandatoryAuthorized": false,
-      "paragraphs": [
-        1
-      ],
-      "text": "A letter has arrived from Mulla Bahram expressing gratitude to a respected person and Mirza Hasan 'Ali Khan who have arranged to give him some land along with two hundred and fifty tumans. You should strive to ensure that Mulla Bahram returns to Yazd gratefully and that these gentlemen quickly fulfill what they have promised.",
-      "reason": "‘Abdu’l-Bahá asks that promised land and money for Mullá Bahrám be delivered quickly; fulfilling promises of assistance.",
-      "authorityEvidence": {
-        "kind": "no_authorized_selected_paragraph",
-        "metadata": "",
-        "sourceVersion": "525cb915118f5b0154314b993e47100b4f2b5caee45f30aa109f1769641ec1f5",
-        "paragraphs": []
-      }
-    },
-    {
       "n": 304,
       "group": 203,
       "id": "759c840f12bc6618ded96277",
@@ -7260,6 +7236,23 @@
           88
         ]
       }
+    },
+    {
+      "id": "8f532174640900e5ecb282ba",
+      "key": "source:BH00069",
+      "source": "BH00069",
+      "sourceVersion": "c2e6bc55fbf618b2dc07d403348cfeb8c71e4d1f0eded179d86b8b05e9080afe",
+      "status": "confirmed",
+      "reference": "BH00069",
+      "authorizedParagraphs": [
+        18
+      ],
+      "mandatoryAuthorized": true,
+      "paragraphs": [
+        18
+      ],
+      "text": "ANSWER:  The funeral and burial take precedence, then settlement of debts, then payment of Huququ'llah.  Should the property of the deceased prove insufficient to cover his debts, the remainder of his estate should be distributed among these debts in proportion to their size.",
+      "reason": "Mandatory authorized wording. Clarifies the order of estate expenses and proportional settlement of debt."
     }
   ],
   "omitted": [
@@ -8012,7 +8005,42 @@
       "n": 369,
       "source": "AB09285",
       "reason": "Surveyed before analysis; selected complementary passages state the subject’s central teachings, qualifications or practical applications more substantively or with less repetition. No verified authorized quotation omitted."
+    },
+    {
+      "n": 302,
+      "group": 119,
+      "id": "5542dd75ba11e55abb11f6da",
+      "key": "source:AB09209",
+      "source": "AB09209",
+      "sourceVersion": "525cb915118f5b0154314b993e47100b4f2b5caee45f30aa109f1769641ec1f5",
+      "status": "exact",
+      "reference": "AB09209",
+      "authorization": "",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        1
+      ],
+      "text": "A letter has arrived from Mulla Bahram expressing gratitude to a respected person and Mirza Hasan 'Ali Khan who have arranged to give him some land along with two hundred and fifty tumans. You should strive to ensure that Mulla Bahram returns to Yazd gratefully and that these gentlemen quickly fulfill what they have promised.",
+      "reason": "Include verified authorized inheritance guidance; the order of obligations is more generally useful than one instruction about promised land and money.",
+      "authorityEvidence": {
+        "kind": "no_authorized_selected_paragraph",
+        "metadata": "",
+        "sourceVersion": "525cb915118f5b0154314b993e47100b4f2b5caee45f30aa109f1769641ec1f5",
+        "paragraphs": []
+      }
     }
   ],
-  "importedAuthorityReview": []
+  "importedAuthorityReview": [],
+  "integrationReview": {
+    "date": "2026-10-20",
+    "decision": "Include verified authorized inheritance guidance; the order of obligations is more generally useful than one instruction about promised land and money.",
+    "added": [
+      "8f532174640900e5ecb282ba"
+    ],
+    "replaced": [
+      "5542dd75ba11e55abb11f6da"
+    ],
+    "finalizedBeforeRebuild": true
+  }
 }

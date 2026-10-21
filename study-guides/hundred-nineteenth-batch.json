@@ -7,7 +7,7 @@
       "displayTitle": "The power of the Manifestation: a world made new",
       "selection": {
         "review": "selections/powerofmanifestation.json",
-        "sha256": "9133530fbcc3b53b75cffbf65aa65a9bcddc2ff7c3831a65f787ece4b0642e96",
+        "sha256": "2a030b84d6afc157cb352e24a5e48ef917f2a2ea6e82486f0bee273db5c24db4",
         "ids": [
           "3025edb31f5a07fcd7c93b0d",
           "94708ccd90abd81d77de862d",
@@ -55,7 +55,6 @@
           "22e38d39ff5210191407d042",
           "fae840670ade5d518cd40c2c",
           "1d9beaa3564a6cddf83e27fe",
-          "d0566c4dcfcc7bab30536717",
           "07fb0238c0040d4e49964bdf",
           "59e55f38884690d02faa8d1e",
           "1d01e287209288c46aef2a67",
@@ -308,7 +307,8 @@
           "e1e081949a4c776d9955ef07",
           "1931aae9693413e99087f8bd",
           "34a072737224d0732535e539",
-          "7a7c90511886a4d0fa99d0d3"
+          "7a7c90511886a4d0fa99d0d3",
+          "6d7d0809ca4d9d48bee57fd9"
         ]
       },
       "introduction": "A prisoner in chains announces that He has accepted sorrow so that the worlds may rejoice, and captivity so that others may be freed from the tyranny of self. That is the strange shape of the power Bahá’u’lláh claims for the Manifestation of God: it owns no army and no throne, yet it educates whole peoples, turns enemies into companions, and sets a nation in motion through one solitary Figure. ‘Abdu’l‑Bahá likens it to the sun, whose warmth draws fruit from the tree and breathes life into what seemed dead, and He insists that it works upon character and the bonds between people rather than upon spectacle, so that reported wonders prove less than inward sight and enduring life. Jesus before Pilate speaks of a kingdom not of this world [1], and John’s prologue tells of a Word that gives life yet goes unrecognised [2]. The trail leads on into the station of the Manifestation, the Word of God and the omnipotence of God, and asks what such power requires of the way you learn, serve and love.",
@@ -832,6 +832,10 @@
           "shortened": [
             "God hath indeed sent down the Book with the Most Great Truth upon His Word, that people might know that God hath preserved fire within a point of snow. We have raised up the Remembrance from before Us in truth, and We have made him mighty before God and exalted above truth."
           ]
+        },
+        {
+          "key": "source:ABU0033",
+          "why": "Describes the Manifestations’ power to quicken latent spiritual capacities."
         },
         {
           "key": "source:BB00004",

@@ -3,9 +3,9 @@
   "createdAt": "2026-10-11T17:24:53.099Z",
   "status": "finalized_before_analysis",
   "subject": "CBBEF627F45A45E7850653204203438C",
-  "dataset": "collections/390a77fa-5b4/",
-  "candidateFingerprint": "8a17e395aabeef401148e295a6fed4fd115e61858c1341434697dd221f27771b",
-  "candidateCount": 1253,
+  "dataset": "collections/editorial-83f59e6ea2d8/",
+  "candidateFingerprint": "26d93f1066bcbad733a5f2e5fcd4d92cd7d90fc830b434f3de38436b604f6d21",
+  "candidateCount": 1254,
   "target": 300,
   "selectedCount": 300,
   "mandatoryAuthorizedCount": 54,
@@ -14320,7 +14320,19 @@
       "id": "133de7d343c2f6b39800b686",
       "source": "BH11920",
       "reason": "Not retained in the limited selection: complementary coverage and substantive subject treatment are supplied by the explicitly chosen quotations; no verified authorized quotation omitted."
+    },
+    {
+      "id": "89c9c2be621bafec6ffe9d3d",
+      "source": "AB03690",
+      "reason": "Keep the practical call to enduring action and the existing wider context; the new funeral contrast repeats transience without a stronger qualification."
     }
   ],
-  "importedAuthorityReview": []
+  "importedAuthorityReview": [],
+  "integrationReview": {
+    "date": "2026-10-20",
+    "decision": "Keep the practical call to enduring action and the existing wider context; the new funeral contrast repeats transience without a stronger qualification.",
+    "added": [],
+    "replaced": [],
+    "finalizedBeforeRebuild": true
+  }
 }

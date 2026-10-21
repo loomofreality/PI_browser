@@ -3,9 +3,9 @@
   "createdAt": "2026-10-11T20:33:18.943Z",
   "status": "finalized_before_analysis",
   "subject": "14C5477A6EE041A3B19DAD048E3FBB5B",
-  "dataset": "collections/390a77fa-5b4/",
-  "candidateFingerprint": "ce52bafa9c1dcc317fe8e40923c58c4538ed761558a2ceb707d063193b83f48e",
-  "candidateCount": 1770,
+  "dataset": "collections/editorial-83f59e6ea2d8/",
+  "candidateFingerprint": "8e228b50c63cc6b29857f89c2f1da34800f4798114b4aab27a7dc350fd0806f0",
+  "candidateCount": 1771,
   "target": 300,
   "selectedCount": 300,
   "mandatoryAuthorizedCount": 85,
@@ -2732,30 +2732,6 @@
         "kind": "no_authorized_selected_paragraph",
         "metadata": "",
         "sourceVersion": "c3fdd942c557a6cab85a1ff66d77f6864ef39dc06167001b2c50b68c36ccfd75",
-        "paragraphs": []
-      }
-    },
-    {
-      "n": 136,
-      "group": 133,
-      "id": "28c3079d9e77a44108ca2627",
-      "key": "source:AB01201",
-      "source": "AB01201",
-      "sourceVersion": "f243ed51aa5d6926839ebeb05bb9ef5407a04bd2c3d274c5f4efd7f06926dff5",
-      "status": "exact",
-      "reference": "AB01201",
-      "authorization": "",
-      "authorizedParagraphs": [],
-      "mandatoryAuthorized": false,
-      "paragraphs": [
-        1
-      ],
-      "text": "When your letter is read, if it indicates happiness, a breeze of joy wafts, and if signs of sorrow appear, it has a profound effect.",
-      "reason": "Shows responsiveness to the happiness and sorrow expressed by another person.",
-      "authorityEvidence": {
-        "kind": "no_authorized_selected_paragraph",
-        "metadata": "",
-        "sourceVersion": "f243ed51aa5d6926839ebeb05bb9ef5407a04bd2c3d274c5f4efd7f06926dff5",
         "paragraphs": []
       }
     },
@@ -7581,6 +7557,21 @@
         "reviewedAt": "2026-10-11T20:33:18.894Z",
         "contextRestored": false
       }
+    },
+    {
+      "id": "801358861cc3678ebb6eba62",
+      "key": "source:ABU0228",
+      "source": "ABU0228",
+      "sourceVersion": "ae7773c6c02f50b869d93e1d66473411f3dbc5634a5e2954a2cb0b3cb5686ede",
+      "status": "confirmed",
+      "reference": "ABU0228",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        5
+      ],
+      "text": "Physical susceptibilities have certain avenues of expression, and spiritual susceptibilities likewise have their avenues. The physical, or material susceptibilities have their channels of expression in the physical realm. Earthly fraternity is due either to a family relationship, or to a commercial bond, or to a bond of love based upon policy or politics, or to a racial bond which supplies that affection, or to a bond patriotic in foundation. These are physical susceptibilities and ordinary outward love. But spiritual susceptibilities, namely, real love and heavenly fraternity, emanate through divine channels. They emanate from faith, or they emanate from knowledge, or they emanate from the bounty of the Holy Spirit, or they emanate from the effulgence of the Sun of Reality.",
+      "reason": "Distinguishes spiritual love from the bonds of family, commerce, politics and nationality."
     }
   ],
   "omitted": [
@@ -16403,6 +16394,30 @@
       "n": 1769,
       "source": null,
       "reason": "Surveyed before analysis; selected complementary passages state the subject’s central teachings, qualifications or practical applications more substantively or with less repetition. No verified authorized quotation omitted."
+    },
+    {
+      "n": 136,
+      "group": 133,
+      "id": "28c3079d9e77a44108ca2627",
+      "key": "source:AB01201",
+      "source": "AB01201",
+      "sourceVersion": "f243ed51aa5d6926839ebeb05bb9ef5407a04bd2c3d274c5f4efd7f06926dff5",
+      "status": "exact",
+      "reference": "AB01201",
+      "authorization": "",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        1
+      ],
+      "text": "When your letter is read, if it indicates happiness, a breeze of joy wafts, and if signs of sorrow appear, it has a profound effect.",
+      "reason": "The distinction between physical and spiritual channels explains the subject more fully than the brief response to a correspondent’s mood.",
+      "authorityEvidence": {
+        "kind": "no_authorized_selected_paragraph",
+        "metadata": "",
+        "sourceVersion": "f243ed51aa5d6926839ebeb05bb9ef5407a04bd2c3d274c5f4efd7f06926dff5",
+        "paragraphs": []
+      }
     }
   ],
   "importedAuthorityReview": [
@@ -16425,5 +16440,16 @@
       "reviewedAt": "2026-10-11T20:33:18.894Z",
       "contextRestored": false
     }
-  ]
+  ],
+  "integrationReview": {
+    "date": "2026-10-20",
+    "decision": "The distinction between physical and spiritual channels explains the subject more fully than the brief response to a correspondent’s mood.",
+    "added": [
+      "801358861cc3678ebb6eba62"
+    ],
+    "replaced": [
+      "28c3079d9e77a44108ca2627"
+    ],
+    "finalizedBeforeRebuild": true
+  }
 }

@@ -7,7 +7,7 @@
       "displayTitle": "Station of the Manifestation of God: revelation, recognition and response",
       "selection": {
         "review": "selections/manifestationstation.json",
-        "sha256": "040593ae5adc035ac7fba07472ef31137a2253d1fdefb0f8117a95847e4ade59",
+        "sha256": "b97be41df0795add955cff65fd4f8d055fdbfdfe0f763165169284bb15f6cf50",
         "ids": [
           "bef90d0e3c0d8316b27a4154",
           "10825fd520f2f7c6fdc34e22",
@@ -204,7 +204,6 @@
           "5388dc4e2960d51f23a7f38c",
           "32c1d4860c2d8994612f03db",
           "43af89dfa23e8bbfa3c1b88a",
-          "f08faab5e6a85dd08ec60bee",
           "d0c80e7041cd5455e618824d",
           "0ed1f6762349ef9466acbd45",
           "fca0923c46ccc4c5c53b1bb4",
@@ -308,7 +307,8 @@
           "1328043545c304c4071bb8fd",
           "d3101fd400c7700f7b286cf5",
           "69837eba0cf6e2a8e8e4e9a3",
-          "efe0f226942ba537fa81dec0"
+          "efe0f226942ba537fa81dec0",
+          "61f83dfa5cec2717341d834e"
         ]
       },
       "introduction": "How can the unknowable God be known through a human life? ‘Abdu’l-Bahá begins the answer with what a divine educator does: hearts are transformed, a humiliated people is raised to glory, the springtime of the soul returns, and no school could have supplied the knowledge that did it. Then the question deepens. The Manifestation is a mirror that reveals the sun without containing it, a Word whose meaning exceeds the voice that speaks it, a servant who prays and fasts and is driven into exile, and at the same time the one through whom creation was called into being. Holding those claims together without collapsing them is the real work: noticing who is speaking, which station is being described, and why unity of purpose among the Messengers does not erase their distinct missions. John’s account of the Word made flesh [1] and the Qur’an’s pairing of divine incomparability with a single religious summons [2] sharpen the inquiry from outside. The path leads on into the sun and the mirror as images, into the Primal Will and preexistence, into the Manifestation’s relationship to God, and finally back to daily life, where recognition shows itself as justice, trustworthiness and care for the poor.",
@@ -986,6 +986,10 @@
           "shortened": [
             "Therefore, when thou desirest to know Him, know the Manifestation of His Self in every Revelation, for this is the most glorious veil of God, the most exalted pavilion of God, the most excellent embroidery of God, and the most enduring light of God. Thou hast no way to know Him or to attain His good-pleasure except through the Manifestations of His Revelation in every Dispensation."
           ]
+        },
+        {
+          "key": "source:AB05731",
+          "why": "Distinguishes the human and divine stations of the Manifestations."
         },
         {
           "key": "source:BB00002",

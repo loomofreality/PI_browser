@@ -7,7 +7,7 @@
       "displayTitle": "Acknowledgment of gifts and monetary contributions",
       "selection": {
         "review": "selections/giftacknowledgment.json",
-        "sha256": "b6e2a851ee0e90185f579c2fb21775163429518b93e8782f6f76c3131eec20b4",
+        "sha256": "cd5f4f988cacd30fc5d2cfe773f832ae27c90827423252e59ede06bcbdadba13",
         "ids": [
           "8821b1bdf4873e69c2279a54",
           "a59535101e584db22e79f6ce",
@@ -207,7 +207,6 @@
           "8f3563d1165cd3efcce96477",
           "b9670b16abbdaab1aa4e9b61",
           "41143f76d3ae813f8f126e93",
-          "1bb531f45450cb3b7e85b2c8",
           "b6d386d28793be141a2c1d80",
           "44fc073ce19b54fa0f82c151",
           "958ac1cae9265e815ca0953e",
@@ -308,7 +307,8 @@
           "9f0c2e986f198bf5e9bb15ce",
           "53ca5a4d6cb0656f45c8d42b",
           "87408c0c89c312df865fa1f3",
-          "7c42c1df90bff2d688d3dcde"
+          "7c42c1df90bff2d688d3dcde",
+          "715cbbd8e4997b85709f9766"
         ]
       },
       "introduction": "A gift changes hands twice: once when it is given, and again when it is received with care. Bahá’u’lláh teaches that a single coin spent in the path of God outweighs everything the world can offer, and that an offering counts for its love and willing spirit rather than its amount; ‘Abdu’l-Bahá could see pure gold in the weavings of children. Acceptance is never automatic. Debts come first, giving stays within one’s means, and a couch of woven damask can be gratefully accepted and then sent back to its maker. From there the path runs through receipts, trustees and faithful accounts, through samovars, rosewater and vine cuttings shared in remembrance, and into the discreet relief that guards a poor person’s dignity. Paul’s appeal to the Corinthians asks how willingness relates to capacity and credible stewardship [1], and how sowing bears fruit in thanksgiving [2]; the Qur’an warns that a reminder or an injury can undo a gift [3]. The same questions lead onward into personal instructions, into business and property matters, and into the deeper reckoning with wealth and poverty.",
@@ -1019,11 +1019,8 @@
           ]
         },
         {
-          "key": "source:AB04291",
-          "why": "A receipt can also convey remembrance, affection, consolation or prayer. These letters recognize individual people and their circumstances, including delays, limited means and gifts sent through intermediaries. One playful passage explicitly frames its remark as humor; other acknowledgments refer to an object’s arrival or to the loving intention even when practical circumstances intervene. What is recognized beyond the object or sum? How might an acknowledgment strengthen a relationship without creating a debt of gratitude? Attend to the particular recipient and occasion, and consider what the tone of a reply reveals about attentive care.",
-          "shortened": [
-            "O servant of Truth! Your letter arrived and was read with utmost attention. It did not drown in the sea of papers, and your intense longing became known and evident."
-          ]
+          "key": "source:AB01467",
+          "why": "Expresses delight on receiving pages in the Bab’s handwriting as a gift."
         },
         {
           "key": "source:AB04493",

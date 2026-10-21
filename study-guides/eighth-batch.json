@@ -27,6 +27,14 @@
           ]
         },
         {
+          "key": "source:BB00416",
+          "why": "Distinguishes divine decree before execution from the state in which no further bada occurs."
+        },
+        {
+          "key": "source:BB00021",
+          "why": "Distinguishes the bada of justice from the bada of grace, including the transformation of evil deeds into good."
+        },
+        {
           "key": "source:AB00235",
           "why": "Consider the relation between disclosure and delay."
         },
@@ -113,8 +121,16 @@
           "why": "Open with the difference between a number and those numbered."
         },
         {
+          "key": "source:BH01733",
+          "why": "Directly evaluates numerology and explains why preoccupation with it can obstruct spiritual progress."
+        },
+        {
           "key": "source:AB01000",
           "why": "Draw the central distinction between astronomy and astrology."
+        },
+        {
+          "key": "source:ABU0629",
+          "why": "Describes the historical practice of timing a christening astrologically and contrasts it with the present occasion."
         },
         {
           "key": "source:ABU3146",
@@ -208,11 +224,19 @@
           "why": "Begin with the intimate challenge to translate devotion into action."
         },
         {
+          "key": "source:AB00097",
+          "why": "Describes the distinct impact of Baha'u'llah's presence and words on the believers at Badasht."
+        },
+        {
           "key": "source:AB00098",
           "why": "Locate the gathering and its principal figures.",
           "shortened": [
             "Later Baha'u'llah sent her with a number of believers towards Badasht. Their first stop was a beautiful and verdant garden. Tahirih and the friends arrived there and were later joined by Baha'u'llah, Who rested the night there. In the morning He sent Tahirih and the friends with ample provisions to Badasht. After a few days, Baha'u'llah Himself went there. When He reached Badasht, Quddus had returned from Khurasan and he, too, came to Badasht, but he remained concealed."
           ]
+        },
+        {
+          "key": "source:BHU0005",
+          "why": "A reported recollection of the authorities' response to Badasht and the resulting threat to Baha'u'llah."
         },
         {
           "key": "source:ABU1131",
@@ -226,8 +250,16 @@
           ]
         },
         {
+          "key": "source:BH00006",
+          "why": "Discusses Tablets Quddus wrote at Badasht and quotes their anticipatory language concerning the later Revelation."
+        },
+        {
           "key": "source:ABU0497",
           "why": "Follow the difficulties preceding Táhirih’s participation."
+        },
+        {
+          "key": "source:ABU1492",
+          "why": "A concise incident about a participant's fearful departure, later influence on others, and eventual repentance."
         },
         {
           "key": "source:BHU0003",
@@ -303,6 +335,10 @@
           "why": "Hear reassurance concerning the evil eye."
         },
         {
+          "key": "source:ABU1043",
+          "why": "Explains the word devil in John 8 through evil qualities such as envy and malice."
+        },
+        {
           "key": "source:AB00767",
           "why": "Explore symbolic meanings of jinn and related terms."
         },
@@ -330,6 +366,14 @@
           "shortened": [
             "Abdu'l-Baha answered, \"There are no earthbound souls. When the souls that are not good die, they go entirely away from this earth and so cannot influence anyone. They are spiritually dead. Their thoughts can have influence only while they are alive on the earth."
           ]
+        },
+        {
+          "key": "source:AB01171",
+          "why": "Corrects a misunderstanding about the annihilation of evil spirits by explaining the relative sense of non-being."
+        },
+        {
+          "key": "source:ABU0019",
+          "why": "Explicitly interprets Satan and evil spirits as symbols of the lower human nature rather than beings created evil by God."
         },
         {
           "key": "source:AB02627",
@@ -400,6 +444,14 @@
         {
           "key": "source:ABU2759",
           "why": "Consider hardship in the language of committed service."
+        },
+        {
+          "key": "source:ABU0419",
+          "why": "Warns that attention to bodily comfort can displace concern for the soul."
+        },
+        {
+          "key": "source:AB00393",
+          "why": "Connects service with bearing hardship and renouncing the pursuit of personal ease."
         },
         {
           "key": "source:AB11798",
@@ -488,6 +540,10 @@
           ]
         },
         {
+          "key": "source:ABU0537",
+          "why": "A self-contained account of pressure to recant and a mother encouraging steadfastness rather than denial."
+        },
+        {
           "key": "source:BH00037",
           "why": "Place protective guidance within a period of persecution.",
           "shortened": [
@@ -535,6 +591,15 @@
         {
           "key": "source:BH00005",
           "why": "Set the preceding counsels beside Bahá’u’lláh’s declaration of candor."
+        },
+        {
+          "key": "source:BB00407",
+          "why": "An explicit statement on prudent dissimulation in its Babi setting, useful alongside later teachings.",
+          "sourceQuestion": {
+            "sourceVersion": "bf16312b82c3eb2706e0bab94ed848bb180db91e1fc911d83dedfe192e360aaf",
+            "paragraph": 9,
+            "text": "Question: A group from Qazvin submits that if we deny this true Cause in our province, we may perhaps be able to remain with a thousand mockeries and taunts, otherwise they deem our death obligatory. How should we conduct ourselves?"
+          }
         },
         {
           "key": "selection:90889f073b59662a608f9e1a",
@@ -668,6 +733,10 @@
         {
           "key": "source:AB11842",
           "why": "End with freedom from grammar’s becoming a fetter."
+        },
+        {
+          "key": "source:BB00036",
+          "why": "Answers objections about grammar and disconnected verses by recalling similar objections to the Quran."
         }
       ],
       "questions": [
@@ -726,8 +795,16 @@
           "why": "Locate grammatical criticism within the Báb’s examination."
         },
         {
+          "key": "source:AB11842",
+          "why": "Discusses the differing treatment of Arabic grammatical conventions in the Bab's writings and Baha'u'llah's earlier and later writings."
+        },
+        {
           "key": "source:BBU0004",
           "why": "Ask whether a text can also be a source of linguistic standards. Examine a more detailed account without erasing its mediation."
+        },
+        {
+          "key": "source:BB00001",
+          "why": "Explains why revealed verses are not governed by grammatical rules derived from previous revelation."
         },
         {
           "key": "source:ABU2619",
@@ -740,6 +817,10 @@
             "O Zayn, the delay in answering what you asked about the verses has been for the preservation of change, for in the early days there was absolutely no consideration of the people's rules at the time of revelation, while in these days it is observed out of wisdom. Therefore, if a Tablet from before is read in the presence of the Countenance, it descends in some stations differently than what was revealed before. This refers to the outward expression, but in reality whatever was revealed was and will be correct.",
             "That which flowed from the Pen of this Servant, in the very presence of the Countenance, hath been disseminated abroad; it is thus possible that in certain places omissions may have occurred, or that there may be excesses or deficiencies, for no soul is able, at the very moment of revelation, to commit to writing in its entirety that which is sent down."
           ]
+        },
+        {
+          "key": "source:BB00036",
+          "why": "Responds to alleged grammatical errors and disconnected verses by comparing similar objections to the Quran."
         },
         {
           "key": "selection:d2492d05c2b7c611da09f8be",
@@ -811,6 +892,14 @@
             "And were they to maintain that by \"divine Presence\" is meant the \"Specific Revelation of God,\" expressed by certain Sufis as the \"Most Holy Outpouring,\" if this be in the Essence Itself, it is evident that it hath been eternally in the divine Knowledge. Assuming the truth of this hypothesis, \"attainment unto the divine Presence\" is in this sense obviously possible to no one, inasmuch as this revelation is confined to the innermost Essence, unto which no man can attain.",
             "And were they to say that by \"divine Presence\" is meant the \"Secondary Revelation of God,\" interpreted as the \"Holy Outpouring,\" this is admittedly applicable to the world of creation, that is, in the realm of the primal and original manifestation of God. Such revelation is confined to His Prophets and chosen Ones, inasmuch as none mightier than they hath come to exist in the world of being. This truth all recognize, and bear witness thereto. These Prophets and chosen Ones of God are the recipients and revealers of all the unchangeable attributes and names of God. They are the mirrors that truly and faithfully reflect the light of God."
           ]
+        },
+        {
+          "key": "source:AB10431",
+          "why": "A concise statement identifying the two kinds of mercy with the two outpourings."
+        },
+        {
+          "key": "source:AB00013",
+          "why": "Distinguishes the Most Holy Outpouring from the Holy Outpouring and describes the spiritual gifts associated with each."
         },
         {
           "key": "source:AB00876",
@@ -932,6 +1021,10 @@
           ]
         },
         {
+          "key": "source:ABU1227",
+          "why": "Illustrates the transformation in the significance of Mecca through its association with Muhammad."
+        },
+        {
           "key": "source:ABU1119",
           "why": "Distinguish a sacred symbol from worship of an object."
         },
@@ -953,6 +1046,10 @@
         {
           "key": "source:ABU1875",
           "why": "Broaden the view to another sacred visit."
+        },
+        {
+          "key": "source:ABU1664",
+          "why": "Examines the meaning of pilgrimage to the Kaaba in relation to the Prophet and His shrine."
         },
         {
           "key": "source:BB00077",
@@ -1098,6 +1195,10 @@
           ]
         },
         {
+          "key": "source:BB00052",
+          "why": "States that divine manifestation has neither beginning nor end, using the one sun and its repeated risings as an explanation."
+        },
+        {
           "key": "source:BH00047",
           "why": "Hear pre-existence through a sequence of luminous images.",
           "shortened": [
@@ -1114,6 +1215,10 @@
         {
           "key": "source:AB01528",
           "why": "Consider the Word beyond temporal beginnings."
+        },
+        {
+          "key": "source:AB01794",
+          "why": "Distinguishes manifestation from incarnation and explains why pre-existence cannot turn into temporal existence."
         },
         {
           "key": "source:BH00686",
@@ -1179,6 +1284,14 @@
           ]
         },
         {
+          "key": "source:AB12183",
+          "why": "Distinguishes rebellion and party agitation from constructive service to the people and government, including parliamentary service in the context of this letter."
+        },
+        {
+          "key": "source:BH00004",
+          "why": "Distinguishes destructive sedition from the upheaval caused by speaking religious truth, whose effects are security and peace."
+        },
+        {
           "key": "source:BH00005",
           "why": "Name violence, disorder, and violations of property.",
           "shortened": [
@@ -1206,6 +1319,14 @@
         {
           "key": "source:BB00113",
           "why": "Read a specific command of obedience in its religious setting."
+        },
+        {
+          "key": "source:ABU2970",
+          "why": "Addresses obedience under wartime orders while first seeking permission for non-participation in battle."
+        },
+        {
+          "key": "source:AB00003",
+          "why": "Uses the community's record of obedience to challenge the grounds for continuing persecution."
         },
         {
           "key": "selection:b2dc7381ac48387a45bbc3fa",
@@ -1258,6 +1379,10 @@
           "why": "Open with the warning against an inner club."
         },
         {
+          "key": "source:ABU0325",
+          "why": "Uses opposing Freemasons in a war as a concrete test of professed brotherhood against actual conduct."
+        },
+        {
           "key": "source:AB00731",
           "why": "Consider how secret meetings can generate public suspicion.",
           "shortened": [
@@ -1267,6 +1392,14 @@
         {
           "key": "source:AB02279",
           "why": "Read a particular counsel about clandestine association."
+        },
+        {
+          "key": "source:AB01643",
+          "why": "Addresses teaching members of the Masonic Order and describes their capacity to receive the message."
+        },
+        {
+          "key": "source:ABU2303",
+          "why": "A reported answer about society membership, inclusion and the explicit statement that there are no secrets among Baha'is."
         },
         {
           "key": "selection:b27db62ba7edc144f26a7cf7",
@@ -1424,6 +1557,10 @@
           ]
         },
         {
+          "key": "source:BH00333",
+          "why": "Directly explains the expression that the Simple Reality contains all things in terms of the divine names and attributes."
+        },
+        {
           "key": "source:BH01112",
           "why": "Question understanding that bears no fruit.",
           "shortened": [
@@ -1530,6 +1667,10 @@
         {
           "key": "source:ABU1205",
           "why": "Begin with the mountain’s air and beauty."
+        },
+        {
+          "key": "source:ABU0288",
+          "why": "Connects the natural qualities and renewal of Mount Carmel with Baha’u’llah’s presence and the construction of the Bab’s Shrine."
         },
         {
           "key": "source:ABU1430",
@@ -1682,6 +1823,10 @@
         {
           "key": "source:ABU0138",
           "why": "Develop the relation between composition and decomposition."
+        },
+        {
+          "key": "source:ABU0004",
+          "why": "Distinguishes the decomposition of compounds from the continued existence of their simple constituent elements."
         },
         {
           "key": "source:ABU0441",
@@ -1870,6 +2015,10 @@
           "why": "Retain a brief statement of station."
         },
         {
+          "key": "source:BH02501",
+          "why": "Identifies praise and teaching the Cause as the highest station and gives encouragement to the Afnan."
+        },
+        {
           "key": "source:AB06611",
           "why": "Read guidance through the image of Joseph’s garment."
         },
@@ -1932,6 +2081,10 @@
         {
           "key": "source:ABU0319",
           "why": "Open with different roles joined to equal rights."
+        },
+        {
+          "key": "source:ABU0108",
+          "why": "Explains the preservation of social and vocational distinctions alongside a right to a comfortable life and work."
         },
         {
           "key": "source:AB00398",
@@ -2101,6 +2254,10 @@
           ]
         },
         {
+          "key": "source:ABU1893",
+          "why": "Distinguishes the passing physical suffering of Christ from the enduring reality of His spirit."
+        },
+        {
           "key": "source:BH00958",
           "why": "Separate spiritual sovereignty from earthly dominion.",
           "shortened": [
@@ -2250,6 +2407,10 @@
           ]
         },
         {
+          "key": "source:BH00004",
+          "why": "Identifies the divine Throne with the Command and Word proceeding from the Tongue of God."
+        },
+        {
           "key": "source:ABU0017",
           "why": "Hear a reported account of Logos and love.",
           "shortened": [
@@ -2352,6 +2513,10 @@
         {
           "key": "source:ABU1887",
           "why": "Consider the uncertainty of survival."
+        },
+        {
+          "key": "source:ABU0915",
+          "why": "Specifically describes the walk to Tehran, confinement in the Siyah-Chal, the chain, and the surrounding persecution."
         },
         {
           "key": "source:BH04339",
@@ -2462,6 +2627,14 @@
         {
           "key": "source:ABU1012",
           "why": "Locate a recollection of birthplace and childhood."
+        },
+        {
+          "key": "source:AB02620",
+          "why": "A personal recollection of childhood affection and hospitality."
+        },
+        {
+          "key": "source:ABU1752",
+          "why": "A complete childhood recollection from Baghdad that illustrates an early encounter with gratitude amid poverty."
         },
         {
           "key": "source:ABU0678",

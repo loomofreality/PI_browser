@@ -7,7 +7,7 @@
       "displayTitle": "The Holy Spirit: renewal, understanding and a shared life",
       "selection": {
         "review": "selections/holyspirit.json",
-        "sha256": "bcbac6f26ebf1ac5a3fede5c4f2b860c56cd451d7c87c4630d77ffa2d4066fce",
+        "sha256": "2a1c5db2461875ccf59bc8897cb578d9507c880d3a0de1cde219f2b2e6621752",
         "ids": [
           "315f109949353110a8c6f9a2",
           "7733b26e9e7b186732963ab3",
@@ -110,7 +110,6 @@
           "f250d632fbee44dd762f8b99",
           "fc2ea7a647151e5b765cc0ea",
           "ace6aec2f9f9b10704bacc2c",
-          "3e86e4a8e349e1a863f80e38",
           "e55982524cbd6f3081afa4f3",
           "0ebd5f2a87887b4e14521a08",
           "516859bb896e179b952c2f33",
@@ -308,7 +307,8 @@
           "2404183d7939a43581361063",
           "afb95467ae2a1ce3cb9dc8f6",
           "c753c0571b43396b2fa6b5a9",
-          "717575c97d45806707c41621"
+          "717575c97d45806707c41621",
+          "4ab5f2c3bc435558aea1185c"
         ]
       },
       "introduction": "One sun, and yet in the heart of the wise it kindles wisdom, in the heart of the craftsman new arts, in the heart of the seeker the meaning of what God has said. So ‘Abdu’l-Bahá describes the Holy Spirit: the outpouring grace of God, conveyed through His Manifestations as rays are conveyed from the sun, the mediator without which the soul stays a dark mirror and the earth a senseless clod. To ask about the Holy Spirit is to ask what makes a person more loving, perceptive and brave than nature can account for, and what lets a community cohere as the members of one body do. Nicodemus heard that such a life begins with a birth no one can watch, from a wind heard but not traced [1]; at Pentecost it arrived as fire and shared speech, and settled into prayer, bread and care for the needy [2]. The way forward runs through the second birth and the spirit of faith, through the Word of God and the Manifestation who bears it, and through the transformation of character that makes an unseen gift visible.",
@@ -499,6 +499,10 @@
             "As there must be an intermediary to transmit to earth the life-giving power of the sun, so there must be an intermediary to bring God to man, and this is found through the ever-present efficacy of the Holy Spirit.",
             "So without the intermediary of the Holy Spirit man would remain dull, helpless and deprived of all attainment. But touched by that Divine Elixir he becomes tender, loving, responsive, and capable of every perfection of life."
           ]
+        },
+        {
+          "key": "source:ABU0179",
+          "why": "Describes the unifying and renewing action of the Holy Spirit."
         },
         {
           "key": "source:ABU0565",

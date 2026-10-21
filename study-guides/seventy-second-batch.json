@@ -516,6 +516,10 @@
           ]
         },
         {
+          "key": "source:AB01857",
+          "why": "Explains unity as a protection against attempts to scatter the community."
+        },
+        {
           "key": "source:ABU1023",
           "why": "Keep the reported assessment of surrounding peril attributed.",
           "shortened": [
@@ -1067,6 +1071,10 @@
           ]
         },
         {
+          "key": "source:AB03219",
+          "why": "Discusses acceptance of destiny and contentment with divine decree."
+        },
+        {
           "key": "source:BB00407",
           "why": "Read the Bab’s counsel about contentment within the short duration of worldly life.",
           "shortened": [
@@ -1324,6 +1332,15 @@
             "And among the teachings of Baha'u'llah is that although material civilization is one of the means for the progress of the world of mankind, yet until it becomes combined with Divine civilization, the desired result, which is the felicity of mankind, will not be attained.",
             "Material civilization is like a lamp-glass. Divine civilization is the lamp itself and the glass without the light is dark."
           ]
+        },
+        {
+          "key": "source:ABU0141",
+          "why": "Distinguishes material civilization from the spiritual refinement it requires.",
+          "sourceQuestion": {
+            "sourceVersion": "4e527f2608f58e84cf91f8cab6bfd877a2807133ac079d7c4397e7c9177b5c4c",
+            "paragraph": 3,
+            "text": "Question: What is divine civilization?"
+          }
         },
         {
           "key": "source:ABU0042",

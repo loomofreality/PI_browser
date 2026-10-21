@@ -7,7 +7,7 @@
       "displayTitle": "When the promise is tested: rejection and recognition",
       "selection": {
         "review": "selections/rejectionbythepeopleofthebayan.json",
-        "sha256": "6c557d1693030fd3ee231eff7e0a3102ee3409faf3db28871f4eff422b9a6496",
+        "sha256": "f35a855cfa725a880e2c0540d38e77dc1fc3478d0894099b3bc9c57c05fefbf5",
         "ids": [
           "6b1b46078209ad2a51987898",
           "f1d4502845c05a3fc1138ee1",
@@ -44,7 +44,6 @@
           "859e11d4f7810d80784c3a1a",
           "b99bfa638dfe6c32a155d507",
           "ea3a0e5600224ee42eaaadff",
-          "61513602b595699658327f65",
           "1cdd8aa25d3c6f9e9f980bc6",
           "a20defd01ad08796cc4286ad",
           "94da95945ed6248b03708506",
@@ -308,7 +307,8 @@
           "a1be22fb08862a46f86e7afe",
           "78d07b8f905faa2f0bafd00d",
           "90deb45ac24e277d71a0e41d",
-          "3415e04e6ceb32f60fa5bcba"
+          "3415e04e6ceb32f60fa5bcba",
+          "7ce6a451aa086fc3074c684e"
         ]
       },
       "introduction": "A community can wait a lifetime for a promise and then fail to know it when it knocks. The Báb warned those who loved Him that the Bayan had been written for one purpose, the recognition of Him Whom God would make manifest, and that its bounds must never be used to judge Him. Hardly had the traces of His blood faded from the earth, Bahá’u’lláh says, before many of His followers did what He had feared: they clung to names, inherited proofs and the authority of a leader, and the One the Bayan existed to announce was slandered and driven from Iraq into a bitter European exile. Bahá’u’lláh tells this with grief rather than triumph, unsparing about how a people who thought themselves the most discerning on earth fell at a single breath of test. What makes a heart fair, and how does loyalty harden into a veil? The way forward leads through the heedlessness that closes the eyes, through the literal reading that locks scripture against its own fulfilment, and at last into prayer for the very people who turned away.",
@@ -328,6 +328,10 @@
             "And be watchful on the Day of Him Whom God shall make manifest lest ye judge those who believe in Him by the bounds of the Bayan, for on that Day all sovereignty belongeth in truth unto Him, and all abide by His command.",
             "Enter ye, then, into that which God hath ordained for you in every Dispensation, and be not veiled from God by that which ye acquired in your former manifestations."
           ]
+        },
+        {
+          "key": "source:BH00052",
+          "why": "Addresses reading revealed verses while denying their Revealer."
         },
         {
           "key": "source:BB00005",

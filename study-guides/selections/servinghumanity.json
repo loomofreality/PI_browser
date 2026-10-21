@@ -3,9 +3,9 @@
   "createdAt": "2026-10-13T21:41:57.341Z",
   "status": "finalized_before_analysis",
   "subject": "5A637BBBB913426BA5FEBBC58E0A6BF2",
-  "dataset": "collections/7acbc96b-60b/",
-  "candidateFingerprint": "c9d43e46465b9f8ff2d3a5ec8ef6af4098589de4580316601664ccb1a1a42a9f",
-  "candidateCount": 335,
+  "dataset": "collections/editorial-83f59e6ea2d8/",
+  "candidateFingerprint": "a0d83f969ad59687dfbf7c2eb223f47ce6c1101eb80acaf7d88781c18c3aaa3c",
+  "candidateCount": 336,
   "target": 300,
   "selectedCount": 300,
   "mandatoryAuthorizedCount": 58,
@@ -3519,30 +3519,6 @@
         "kind": "no_authorized_selected_paragraph",
         "metadata": "",
         "sourceVersion": "c0f318b9a08fb484bc72e28b78400864a19c41e5b8b84bdee0d8deef1de6b751",
-        "paragraphs": []
-      }
-    },
-    {
-      "n": 169,
-      "group": 207,
-      "id": "67fea8578df7a16ae7cc151b",
-      "key": "source:AB08040",
-      "source": "AB08040",
-      "sourceVersion": "25faef923f29fbdf00762ae608c0ff006bd4b5d620de327d0589abd15f01a586",
-      "status": "exact",
-      "reference": "AB08040",
-      "authorization": "",
-      "authorizedParagraphs": [],
-      "mandatoryAuthorized": false,
-      "paragraphs": [
-        2
-      ],
-      "text": "Thy letter was received and thy pure intentions became manifest, showing that thou hast no other aim than serving the Kingdom of God and having compassion for the world of humanity.",
-      "reason": "‘Abdu’l-Bahá recognising pure intentions to serve the Kingdom and have compassion for humanity; intention joined to compassion.",
-      "authorityEvidence": {
-        "kind": "no_authorized_selected_paragraph",
-        "metadata": "",
-        "sourceVersion": "25faef923f29fbdf00762ae608c0ff006bd4b5d620de327d0589abd15f01a586",
         "paragraphs": []
       }
     },
@@ -7478,6 +7454,21 @@
           13
         ]
       }
+    },
+    {
+      "id": "a27baca0d024a13a843d19f4",
+      "key": "source:AB00546",
+      "source": "AB00546",
+      "sourceVersion": "b35e636d7136b01e29218ce04b6c039b89d1b97145950b9d0f9096226d0b9b3f",
+      "status": "confirmed",
+      "reference": "AB00546",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        4
+      ],
+      "text": "Regarding the statement written that the soul progresses with the assistance of the body - this means that when the body engages in service to humanity, such as nursing the sick, strengthening the weak, and being martyred and sacrificed in the path of God, this causes the soul's progress. Similarly, when the physical eye beholds the faces of the loved ones, and the physical ear hears the Blessed Beauty's counsels and heavenly call, this causes the soul's progress. The primary means of the soul's progress is faith, certitude and knowledge, and words and deeds according to Baha'u'llah's teachings. After ascension from this body, the means of souls' progress are the prayers and supplications of friends, as well as the grace and bounty of the All-Merciful.",
+      "reason": "Connects practical service to humanity with the soul’s progress."
     }
   ],
   "omitted": [
@@ -7685,6 +7676,30 @@
       "id": "5b2a980f6d7925b243373bec",
       "n": 320,
       "reason": "Supplied announcement of the Office of Social and Economic Development; #319 from the same letter carries its teaching on the coherence of spiritual and practical life. No verified authorized quotation omitted."
+    },
+    {
+      "n": 169,
+      "group": 207,
+      "id": "67fea8578df7a16ae7cc151b",
+      "key": "source:AB08040",
+      "source": "AB08040",
+      "sourceVersion": "25faef923f29fbdf00762ae608c0ff006bd4b5d620de327d0589abd15f01a586",
+      "status": "exact",
+      "reference": "AB08040",
+      "authorization": "",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        2
+      ],
+      "text": "Thy letter was received and thy pure intentions became manifest, showing that thou hast no other aim than serving the Kingdom of God and having compassion for the world of humanity.",
+      "reason": "Practical nursing and strengthening others, connected with spiritual progress, replace an acknowledgment of good intentions.",
+      "authorityEvidence": {
+        "kind": "no_authorized_selected_paragraph",
+        "metadata": "",
+        "sourceVersion": "25faef923f29fbdf00762ae608c0ff006bd4b5d620de327d0589abd15f01a586",
+        "paragraphs": []
+      }
     }
   ],
   "importedAuthorityReview": [
@@ -7859,5 +7874,16 @@
       "reviewedAt": "2026-10-13T21:41:57.341Z",
       "contextRestored": false
     }
-  ]
+  ],
+  "integrationReview": {
+    "date": "2026-10-20",
+    "decision": "Practical nursing and strengthening others, connected with spiritual progress, replace an acknowledgment of good intentions.",
+    "added": [
+      "a27baca0d024a13a843d19f4"
+    ],
+    "replaced": [
+      "67fea8578df7a16ae7cc151b"
+    ],
+    "finalizedBeforeRebuild": true
+  }
 }

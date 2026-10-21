@@ -1036,11 +1036,8 @@
           ]
         },
         {
-          "key": "source:AB11985",
-          "why": "The prayers and visitations give remembrance a language of grief, gratitude, nearness and hope. Read each complete available prayer, including its address and conclusion. The words of the Bab concerning Husayn, Baha’u’llah’s memorials and later prayers retain distinct historical and religious settings. Appeals for divine judgment and mercy should be heard in their own voices rather than compressed into a single formula. Return to the explanations of inward martyrdom when reading intense devotional images. What is the relation between remembering a person, praying for that person and allowing that remembrance to shape one’s conduct? How do these prayers include both those who have died and those who remain?",
-          "shortened": [
-            "Your letter was received and the photographs that you had sent arrived, except for 140 photographs of His Holiness Badi' which were confiscated at the Baghdad post office."
-          ]
+          "key": "source:ABU0808",
+          "why": "Connects martyrdom and self-sacrifice with spiritual transformation."
         },
         {
           "key": "source:ABU2587",
@@ -2145,7 +2142,7 @@
       ],
       "selection": {
         "review": "selections/martyrdom.json",
-        "sha256": "29e51b1215394a20509f9f3d569767fa7b8f756ad0226f3812db359deac97ba4",
+        "sha256": "ef2cc40c2525f1edd67ecd04310c567dc7836bdacc0d1c4e7dcf5de5f1fe58ca",
         "ids": [
           "5d9ae4270ad44fb30c8db115",
           "3bc7a6dc05079100271d735a",
@@ -2408,7 +2405,6 @@
           "513a9d9f190ff6326a0a46ad",
           "023fa531f54ac13af6f97730",
           "f25e62f2165c249cc99eaaeb",
-          "e77ddf0dd90ebc3809a653e2",
           "6ad5e65f26166bb95743025c",
           "7912a26264f39352aa699310",
           "fa4b45bdbbec607fe29d533a",
@@ -2446,7 +2442,8 @@
           "a411d8079ded8a7d2b2805b3",
           "0f71450b5e84b8b85fa0c217",
           "ae204cdf01fb12eea1aacf61",
-          "f753bb7d2ebb5e7dcc76a797"
+          "f753bb7d2ebb5e7dcc76a797",
+          "0aaea3091e78ab28a7848360"
         ]
       }
     }

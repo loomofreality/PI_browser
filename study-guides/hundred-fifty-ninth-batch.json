@@ -7,7 +7,7 @@
       "displayTitle": "Love of God",
       "selection": {
         "review": "selections/loveofgod.json",
-        "sha256": "7891fa6fee5e3a4fc5c5032a2d99905e262f98cbd8771efe2d1018038cd8a614",
+        "sha256": "f71a254c8dddfd53c5a413c805799cbfbc6fff72a65644de920899f269d5b46f",
         "ids": [
           "daf70cf5f284910fa0601d77",
           "cc70f0cb9d9f7c1b60a2a41c",
@@ -297,7 +297,6 @@
           "1d55f1975308b88c6c6c7e6b",
           "6683c316e90895f111afb1be",
           "e1e1afe25006c7512797ab23",
-          "b12d3790a10aa534ed71cfb7",
           "3e142d9752988dca834704f2",
           "b686ae4d048cc9652f533a18",
           "cd4c0d11d1c24448ef157282",
@@ -308,7 +307,8 @@
           "3b895cdac0e356f1014c1f3d",
           "8fb9f62723fcd9ee4e2f0f83",
           "4faa42235293f2e2b06ce12d",
-          "3b33a3dd42b83bf577f8ffad"
+          "3b33a3dd42b83bf577f8ffad",
+          "afb05eae32f82f134f46bb16"
         ]
       },
       "introduction": "Before any human heart turned toward God, Bahá’u’lláh teaches, God had already turned toward it: He loved the creature He had not yet made, and brought it into being out of that love. Everything else in a life of faith is an answer to this prior affection. The answer begins with knowing, for love is kindled in the lamp of the heart by the knowledge of God, and it grows by turning oneself toward Him until no stranger’s love divides a heart that was fashioned to be one. ‘Abdu’l-Bahá calls this love the fruit of human existence, the power without which the stranger would never become the friend and East and West would never embrace. It is also a fire. It burns away the veils of self, steadies the soul under trial, and shows itself in the care given to a child, a grieving neighbour or someone hard to like. To follow where it leads is to ask why creation exists at all, to find what can unite people across every difference, and to watch a heart being transformed.",
@@ -2124,6 +2124,10 @@
           ]
         },
         {
+          "key": "source:AB00189",
+          "why": "Describes the love of God binding hearts through spiritual ties."
+        },
+        {
           "key": "selection:29a8ff3b75d0d9a80bbca6d2",
           "why": "Return to the image of a protected flame. This is verified authorized wording from Gleanings CLIII, translated by Shoghi Effendi; the supplied transcription “te ungodly” is retained. The catalogue’s unlinked status is unchanged."
         },
@@ -2142,10 +2146,6 @@
         {
           "key": "selection:cd4c0d11d1c24448ef157282",
           "why": "This is Rumi’s ode as quoted in Memorials of the Faithful, with the account of Ustad Isma’il singing it toward the Báb. Its published translation is verified; the poet’s authorship and the historical frame remain distinct from the surrounding Bahá’í writings."
-        },
-        {
-          "key": "selection:b12d3790a10aa534ed71cfb7",
-          "why": "This supplied prayer fragment ends before its petition is complete. The explicitly cited local record and current authorized prayer use different wording; no continuation from another translation has been inserted. Read it with that source limitation."
         },
         {
           "key": "selection:8fb9f62723fcd9ee4e2f0f83",

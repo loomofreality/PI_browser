@@ -3,9 +3,9 @@
   "createdAt": "2026-10-13T20:35:58.660Z",
   "status": "finalized_before_analysis",
   "subject": "B4480B0CDB52EF0534E437134978DC1E",
-  "dataset": "collections/7acbc96b-60b/",
-  "candidateFingerprint": "0b2a261cbe8893eeb3c4565b44d88220a1d778a04fb96d173902aae47410a8b0",
-  "candidateCount": 3892,
+  "dataset": "collections/editorial-83f59e6ea2d8/",
+  "candidateFingerprint": "b99e92c5904d544c07290d5110343fec7e1a412618a20b599b6bb0d66fedcca7",
+  "candidateCount": 3893,
   "target": 300,
   "selectedCount": 300,
   "mandatoryAuthorizedCount": 214,
@@ -29672,6 +29672,11 @@
       "n": 3891,
       "source": "BB00004",
       "reason": "Surveyed before analysis; selected complementary passages state the subject’s central teachings, qualifications or practical applications more substantively or with less repetition. No verified authorized quotation omitted."
+    },
+    {
+      "id": "9f9e7d205e1ac9607a7210f5",
+      "source": "BH03854",
+      "reason": "The existing explanations of eternal sovereignty and why Messengers are sent are more substantive than the new repeated testimony of attributes."
     }
   ],
   "importedAuthorityReview": [
@@ -29722,5 +29727,12 @@
       "reviewedAt": "2026-10-13T20:35:58.660Z",
       "contextRestored": false
     }
-  ]
+  ],
+  "integrationReview": {
+    "date": "2026-10-20",
+    "decision": "The existing explanations of eternal sovereignty and why Messengers are sent are more substantive than the new repeated testimony of attributes.",
+    "added": [],
+    "replaced": [],
+    "finalizedBeforeRebuild": true
+  }
 }

@@ -3,9 +3,9 @@
   "createdAt": "2026-10-13T21:38:40.535Z",
   "status": "finalized_before_analysis",
   "subject": "79CCBA0D8726E9D920DC566B92556700",
-  "dataset": "collections/7acbc96b-60b/",
-  "candidateFingerprint": "f17a17b8e56bf071a55dd0e5b126dab1370a2f2531664adc2b9df3b6d9f0abf6",
-  "candidateCount": 329,
+  "dataset": "collections/editorial-83f59e6ea2d8/",
+  "candidateFingerprint": "07b5a6f22ffeb7b74a8fd7adcad938de858b0dd5bc60c377dff44f80908e34c4",
+  "candidateCount": 330,
   "target": 300,
   "selectedCount": 300,
   "mandatoryAuthorizedCount": 31,
@@ -160,30 +160,6 @@
         "kind": "no_authorized_selected_paragraph",
         "metadata": "",
         "sourceVersion": "43d7316da633e77633667425b293dcbc71edaf7dde3b514732a8b9c923a52dcc",
-        "paragraphs": []
-      }
-    },
-    {
-      "n": 8,
-      "group": 263,
-      "id": "b3b2d9fb1d0650da6d8024da",
-      "key": "source:ABU1327",
-      "source": "ABU1327",
-      "sourceVersion": "0169de39b08b0cec0bf72d85b32d32abdd06f3afdfd86bc1ea31745ea9c4be2c",
-      "status": "exact",
-      "reference": "ABU1327",
-      "authorization": "",
-      "authorizedParagraphs": [],
-      "mandatoryAuthorized": false,
-      "paragraphs": [
-        2
-      ],
-      "text": "the foundation must be love and unity",
-      "reason": "‘Abdu’l-Bahá’s brief principle that the foundation must be love and unity; introduces the fuller passage that follows.",
-      "authorityEvidence": {
-        "kind": "no_authorized_selected_paragraph",
-        "metadata": "",
-        "sourceVersion": "0169de39b08b0cec0bf72d85b32d32abdd06f3afdfd86bc1ea31745ea9c4be2c",
         "paragraphs": []
       }
     },
@@ -7359,6 +7335,21 @@
         "reviewedAt": "2026-10-13T21:38:40.535Z",
         "contextRestored": false
       }
+    },
+    {
+      "id": "1cdcdc4ef580be89a2e1b54d",
+      "key": "source:ABU1573",
+      "source": "ABU1573",
+      "sourceVersion": "b01237dff70f013b3b56545b81ac401892c1a507e152e51e123fb34adb5fd730",
+      "status": "confirmed",
+      "reference": "ABU1573",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        3
+      ],
+      "text": "The message of Rizwan is love, love and still more love, love amongst the believers, love for the strangers, love for the fallen and broken-hearted, love for mankind. If thou hast a universe of love, hunger for more. Live in the world of love, swim in the ocean of love, soar in the atmosphere of love, walk in the bright realm of love, speak the words of love, practice the deeds of love, adore the Beloved of love, sing the soothing lullaby of love and advance toward the palace of love. We must be all lovers, lovers of God and men. Thus the greeting of this Rizwan is Love, amity and peace.",
+      "reason": "Calls for abundant love toward believers, strangers and the broken-hearted."
     }
   ],
   "omitted": [
@@ -7535,6 +7526,30 @@
       "n": 237,
       "source": "BH03813",
       "reason": "Surveyed before analysis; selected complementary passages state the subject’s central teachings, qualifications or practical applications more substantively or with less repetition. No verified authorized quotation omitted."
+    },
+    {
+      "n": 8,
+      "group": 263,
+      "id": "b3b2d9fb1d0650da6d8024da",
+      "key": "source:ABU1327",
+      "source": "ABU1327",
+      "sourceVersion": "0169de39b08b0cec0bf72d85b32d32abdd06f3afdfd86bc1ea31745ea9c4be2c",
+      "status": "exact",
+      "reference": "ABU1327",
+      "authorization": "",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        2
+      ],
+      "text": "the foundation must be love and unity",
+      "reason": "The inclusive Ridvan address develops the brief assertion that love and unity are the foundation.",
+      "authorityEvidence": {
+        "kind": "no_authorized_selected_paragraph",
+        "metadata": "",
+        "sourceVersion": "0169de39b08b0cec0bf72d85b32d32abdd06f3afdfd86bc1ea31745ea9c4be2c",
+        "paragraphs": []
+      }
     }
   ],
   "importedAuthorityReview": [
@@ -7592,5 +7607,16 @@
       "reviewedAt": "2026-10-13T21:38:40.535Z",
       "contextRestored": false
     }
-  ]
+  ],
+  "integrationReview": {
+    "date": "2026-10-20",
+    "decision": "The inclusive Ridvan address develops the brief assertion that love and unity are the foundation.",
+    "added": [
+      "1cdcdc4ef580be89a2e1b54d"
+    ],
+    "replaced": [
+      "b3b2d9fb1d0650da6d8024da"
+    ],
+    "finalizedBeforeRebuild": true
+  }
 }

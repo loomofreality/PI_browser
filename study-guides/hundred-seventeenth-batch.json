@@ -7,7 +7,7 @@
       "displayTitle": "Stories and anecdotes: learning to see again",
       "selection": {
         "review": "selections/stories.json",
-        "sha256": "81c2866410eef487cc67bffef2cf18524b1ff21def10ad944e89e0170b338635",
+        "sha256": "5d55f95afa1ecfd07ab8fff344251c2403c0eb6227a721170c99c46ee6af95ea",
         "ids": [
           "8a89ee50faf0d61d0791b0ef",
           "c9407458a23e7bafe97535db",
@@ -56,7 +56,6 @@
           "d4bab9d102d80ab2fc970548",
           "aa4500da8372583b3ebd5c5c",
           "0a4a4c38d01f04cc845b2546",
-          "4274408a6b9a4662b609dee6",
           "072f00dc2d13f990fe2bb80a",
           "755efce852741e22df54bb05",
           "7a5b00c6841023a1536935cf",
@@ -308,7 +307,8 @@
           "7a6e8326c52035076d1a1449",
           "01e9fcd2a5262ba99c178de4",
           "dee4f088319b690319b1110d",
-          "4636346eea1bc47a3b6b5c6b"
+          "4636346eea1bc47a3b6b5c6b",
+          "de50f3231ee0d808dbe324dc"
         ]
       },
       "introduction": "Jesus stops beside a rotting dog and remarks on the whiteness of its teeth. An old gardener plants date palms he will never harvest and talks a caliph out of his treasury. A grieving Arab weeps over his dying dog, yet will not share his bread with it. Stories like these do not argue; they catch us in the middle of a judgment and turn the judgment around. ‘Abdu’l-Bahá told them constantly, on the road, at table, in prison and in the drawing rooms of the West, because a well-placed anecdote reaches a habit of mind that no instruction touches: the generosity that costs nothing, the piety that flees the moment the Imam hands over his horse, the courtier who praises verses he privately despises. A story may be revealed scripture, a remembered conversation or folk wisdom whose history no one can verify and whose moral no one can miss. To follow it further is to walk into humour and jokes, into the dreams and visions that so often carry its meaning, and into the recollections of the early believers, whose lives were themselves the hardest stories to hear.",
@@ -1467,6 +1467,10 @@
           "shortened": [
             "\"And he who bought him in Egypt said to his wife: 'Make his dwelling honorable. He may be of benefit to us, or we may adopt him as a son.' Thus did We establish Joseph in the land, that We might teach him the interpretation of events. And God has full power over His affairs, but most men know not.\""
           ]
+        },
+        {
+          "key": "source:BH02058",
+          "why": "A humorous anecdote about practical need and unsolicited sermons."
         },
         {
           "key": "source:AB09426",

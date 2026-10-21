@@ -7,7 +7,7 @@
       "displayTitle": "Business and property: the people behind the accounts",
       "selection": {
         "review": "selections/businessmatters.json",
-        "sha256": "4a002aff7499c3b68329e814630802471c5599aa8ea5a33acb10e042a88210b9",
+        "sha256": "ee7d194ba7e0341d48c23a6a0f3bbfe68992b4c4fdc5b8242b5f4442d197f09d",
         "ids": [
           "0fb5676d51ca537c1b1eb1ec",
           "7189891e1b8703fd51f2121a",
@@ -194,7 +194,6 @@
           "0512f7c63011b3e805f86ce1",
           "a058e35871f35bcbc8d30f96",
           "3e44b824783023d2be14229d",
-          "5542dd75ba11e55abb11f6da",
           "759c840f12bc6618ded96277",
           "9415f0f7fd1a528087f8a48c",
           "27b299d1f749e1f2b84b273f",
@@ -308,7 +307,8 @@
           "17efe98bc4966e401f89e787",
           "5ba45e2d924b77e49addd23a",
           "1ae2dcfcfb33f14f1ff2dc22",
-          "e17947f7026c3228e42d49ae"
+          "e17947f7026c3228e42d49ae",
+          "8f532174640900e5ecb282ba"
         ]
       },
       "introduction": "Orphans’ money, one instruction says, should never rest with a single person but in a fund the Assembly can watch over: a small direction with a whole way of handling possessions behind it. Every account is then a roster of people: workers whose livelihood depends on a firm agreement about salary, partners who must consult, creditors waiting, heirs not yet grown, a widow who sends returned money on to her husband’s family rather than keep it. ‘Abdu’l-Bahá asks that a trade be practised with such skill that all may praise it, and that the day be divided between business and the Kingdom; Bahá’u’lláh tells a collector to take from the poor only what they are able to give. Judgment is the daily work: a debt must be paid, yet poverty asks for mercy; a company serves humanity, yet should not be announced where famine makes surplus capital a fiction. The path leads on into the conduct of finance and business, into the acknowledgment of gifts and contributions, and into the personal instructions through which care reaches a particular door.",
@@ -1186,11 +1186,13 @@
           ]
         },
         {
-          "key": "source:AB09209",
-          "why": "Turn accounts into recognizable acts of care, retaining who needs assistance, why it is offered and any conditions attached.",
-          "shortened": [
-            "O servant of God! A letter has arrived from Mulla Bahram expressing gratitude to a respected person and Mirza Hasan 'Ali Khan who have arranged to give him some land along with two hundred and fifty tumans. You should strive to ensure that Mulla Bahram returns to Yazd gratefully and that these gentlemen quickly fulfill what they have promised."
-          ]
+          "key": "source:BH00069",
+          "why": "Clarifies the order of estate expenses and proportional settlement of debt.",
+          "sourceQuestion": {
+            "sourceVersion": "c2e6bc55fbf618b2dc07d403348cfeb8c71e4d1f0eded179d86b8b05e9080afe",
+            "paragraph": 17,
+            "text": "9. QUESTION:  Which is to take precedence:  the Huququ'llah, the debts of the deceased or the cost of the funeral and burial?"
+          }
         },
         {
           "key": "source:AB10628",

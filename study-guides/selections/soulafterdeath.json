@@ -3,9 +3,9 @@
   "createdAt": "2026-10-13T21:50:22.435Z",
   "status": "finalized_before_analysis",
   "subject": "79CD788B08C5E8B37070B3DD452FB313",
-  "dataset": "collections/7acbc96b-60b/",
-  "candidateFingerprint": "9561509e1c0b86b80df795c167b9381f951b9669371a16288adfc44d43104927",
-  "candidateCount": 509,
+  "dataset": "collections/editorial-83f59e6ea2d8/",
+  "candidateFingerprint": "36a17b52bf6dbae44f4bb952cd1ab72906bfbd05eedc092b104ea23934c37fbc",
+  "candidateCount": 510,
   "target": 300,
   "selectedCount": 300,
   "mandatoryAuthorizedCount": 59,
@@ -8810,6 +8810,11 @@
       "n": 509,
       "source": "BH00972",
       "reason": "Surveyed before analysis; selected complementary passages state the subject’s central teachings, qualifications or practical applications more substantively or with less repetition. No verified authorized quotation omitted."
+    },
+    {
+      "id": "d964fa9848ca0577d25c778b",
+      "source": "BH00135",
+      "reason": "Preserve the existing opening’s balance of grief, reunion and mercy; the longer sleep-and-resurrection discussion is less central to this guide."
     }
   ],
   "importedAuthorityReview": [
@@ -9155,5 +9160,12 @@
       "reviewedAt": "2026-10-13T21:50:22.435Z",
       "contextRestored": false
     }
-  ]
+  ],
+  "integrationReview": {
+    "date": "2026-10-20",
+    "decision": "Preserve the existing opening’s balance of grief, reunion and mercy; the longer sleep-and-resurrection discussion is less central to this guide.",
+    "added": [],
+    "replaced": [],
+    "finalizedBeforeRebuild": true
+  }
 }

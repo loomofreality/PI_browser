@@ -3,9 +3,9 @@
   "createdAt": "2026-10-11T17:26:24.373Z",
   "status": "finalized_before_analysis",
   "subject": "9418F5521D7B489CA21A536FB126B118",
-  "dataset": "collections/390a77fa-5b4/",
-  "candidateFingerprint": "f2647e0aa701b3cc8a6bef6fec97de97eb3700ae0d4745a35873f8bf68701d70",
-  "candidateCount": 1257,
+  "dataset": "collections/editorial-83f59e6ea2d8/",
+  "candidateFingerprint": "8673ab5a62051febcefee33b7268c4aaa1fb583a2152fc906f539950d7991936",
+  "candidateCount": 1258,
   "target": 300,
   "selectedCount": 300,
   "mandatoryAuthorizedCount": 36,
@@ -7813,32 +7813,6 @@
       }
     },
     {
-      "n": 880,
-      "group": 828,
-      "id": "2bfbe61d10a0b19298cc902d",
-      "key": "source:BH04096",
-      "source": "BH04096",
-      "sourceVersion": "6a1c150d6035aa1e5b230751a92237a3dae133e88bd4ca0c9e939ce5faa70b87",
-      "status": "confirmed",
-      "reference": "BH04096",
-      "authorization": "",
-      "authorizedParagraphs": [],
-      "mandatoryAuthorized": false,
-      "paragraphs": [
-        2
-      ],
-      "text": "After your letter arrived - may God reward you with the most wondrous reward for mentioning Him Who was in the hands of the enemies at all times until He was imprisoned in this prison - and if you inquire about conditions, I swear by the Pre-existent King that they are beyond description. However, this much was known to you, that all which this servant strove for over successive years to exalt the Cause of God was scattered to the winds",
-      "stage": 6,
-      "previousPosition": 971,
-      "reason": "Defines polemical imagery, preserves correspondence context and differentiates worldly and spiritual consequences.",
-      "authorityEvidence": {
-        "kind": "no_authorized_selected_paragraph",
-        "metadata": "",
-        "sourceVersion": "6a1c150d6035aa1e5b230751a92237a3dae133e88bd4ca0c9e939ce5faa70b87",
-        "paragraphs": []
-      }
-    },
-    {
       "n": 881,
       "group": 829,
       "id": "d681f32b4af77e7aac59737b",
@@ -9514,6 +9488,21 @@
         "metadata": "",
         "paragraphs": []
       }
+    },
+    {
+      "id": "e37b635704a4aba5b4a61ac5",
+      "key": "source:BH00423",
+      "source": "BH00423",
+      "sourceVersion": "992c45625dd7000eec22fb97037aa96063092bdd9fc067eccb74a75b953061ea",
+      "status": "confirmed",
+      "reference": "BH00423",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        9
+      ],
+      "text": "Those mature philosophers who have drunk the choice wine of true understanding have acknowledged the embodiment of deeds. The All-Glorious states: \"He will requite them for their [acquired] attributes (wasf).\" The Dayspring of the Revelation of the All-Merciful has declared: \"The people will be requited for their deeds, with reward being the consequence of good deeds and punishment the consequence of wrongdoing.\" It is evident, then, that deeds will be preserved and every [acquired] attribute will continue to exist, so that through the attribute or deed itself requital can be given. Every [acquired] attribute a person possesses and every deed he commits, therefore, will reveal itself and take on a particular form in each world \"so that He may requite each soul for what it has done. He, indeed, is swift in calling to account.\"",
+      "reason": "Explains requital through the preservation and embodiment of deeds and attributes."
     }
   ],
   "omitted": [
@@ -14301,6 +14290,32 @@
       "id": "9fa8d59c34d1b52449aae3ee",
       "source": "BH11912",
       "reason": "Not retained in the limited selection: complementary coverage and substantive subject treatment are supplied by the explicitly chosen quotations; no verified authorized quotation omitted."
+    },
+    {
+      "n": 880,
+      "group": 828,
+      "id": "2bfbe61d10a0b19298cc902d",
+      "key": "source:BH04096",
+      "source": "BH04096",
+      "sourceVersion": "6a1c150d6035aa1e5b230751a92237a3dae133e88bd4ca0c9e939ce5faa70b87",
+      "status": "confirmed",
+      "reference": "BH04096",
+      "authorization": "",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        2
+      ],
+      "text": "After your letter arrived - may God reward you with the most wondrous reward for mentioning Him Who was in the hands of the enemies at all times until He was imprisoned in this prison - and if you inquire about conditions, I swear by the Pre-existent King that they are beyond description. However, this much was known to you, that all which this servant strove for over successive years to exalt the Cause of God was scattered to the winds",
+      "stage": 6,
+      "previousPosition": 971,
+      "reason": "Embodiment of deeds explains requital directly, replacing correspondence about difficult conditions with only a passing reward formula.",
+      "authorityEvidence": {
+        "kind": "no_authorized_selected_paragraph",
+        "metadata": "",
+        "sourceVersion": "6a1c150d6035aa1e5b230751a92237a3dae133e88bd4ca0c9e939ce5faa70b87",
+        "paragraphs": []
+      }
     }
   ],
   "importedAuthorityReview": [
@@ -14331,5 +14346,16 @@
       "authorization": "Retained in the selected set, including any authorized wording. No new translation-authority assertion is made from an approximate source reference; exact authority and source limitations remain as recorded in the saved review.",
       "mandatoryAuthorized": false
     }
-  ]
+  ],
+  "integrationReview": {
+    "date": "2026-10-20",
+    "decision": "Embodiment of deeds explains requital directly, replacing correspondence about difficult conditions with only a passing reward formula.",
+    "added": [
+      "e37b635704a4aba5b4a61ac5"
+    ],
+    "replaced": [
+      "2bfbe61d10a0b19298cc902d"
+    ],
+    "finalizedBeforeRebuild": true
+  }
 }

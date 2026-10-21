@@ -1683,11 +1683,8 @@
           ]
         },
         {
-          "key": "source:BH04096",
-          "why": "These counsels were often addressed to people enduring loss, poverty, persecution or uncertainty. Their language of steadfastness belongs with expressions of shared grief, concern for safety and attention to individual capacity. Preserve the circumstances of restrictions on travel, correspondence and association. Intense images of sacrifice and suffering remain within their historical and devotional settings; the actual directions concerning wisdom, moderation and the prevention of harm guide the reader’s response. How does patient faithfulness differ from indifference to suffering? What kinds of consolation and practical assistance appear here? Consider how to encourage another person without presuming to explain why a hardship has occurred.",
-          "shortened": [
-            "After your letter arrived - may God reward you with the most wondrous reward for mentioning Him Who was in the hands of the enemies at all times until He was imprisoned in this prison - and if you inquire about conditions, I swear by the Pre-existent King that they are beyond description. However, this much was known to you, that all which this servant strove for over successive years to exalt the Cause of God was scattered to the winds."
-          ]
+          "key": "source:BH00423",
+          "why": "Explains requital through the preservation and embodiment of deeds and attributes."
         },
         {
           "key": "source:BH04582",
@@ -2113,7 +2110,7 @@
       ],
       "selection": {
         "review": "selections/chastisement.json",
-        "sha256": "1d6ad77920d58bb9f561280a2bdb965b6e6267c6ff2d5d5aa26dae2f45be7a0f",
+        "sha256": "4a0e4af17209d96e8247e7f91c9cf2039df47c6c6cdcc2d83c1a0db46c7838e1",
         "ids": [
           "a17ecf601c096ab2bcbb8b78",
           "1841faf9baa5f7666c5ed9a2",
@@ -2350,7 +2347,6 @@
           "9b85d89b4b9dedfadda9ffae",
           "e3a8fda1e1868124e5687535",
           "d4317a440329b039e86d2f7a",
-          "2bfbe61d10a0b19298cc902d",
           "d681f32b4af77e7aac59737b",
           "23f0b0f190406ccc18d780d2",
           "e8e07ba6e488238f56d94c36",
@@ -2414,7 +2410,8 @@
           "c45066af87ace1923279402f",
           "6b58ce1f88b7fcd2f1d602ba",
           "eec87c2f7d495183b2c6e799",
-          "f75543f746d4020dd7351f44"
+          "f75543f746d4020dd7351f44",
+          "e37b635704a4aba5b4a61ac5"
         ]
       }
     }

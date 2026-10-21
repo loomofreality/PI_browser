@@ -3,9 +3,9 @@
   "createdAt": "2026-10-13T21:38:04.217Z",
   "status": "finalized_before_analysis",
   "subject": "3B0211B4DCD4EA86BB1FC4BB6ADCD7C3",
-  "dataset": "collections/7acbc96b-60b/",
-  "candidateFingerprint": "bce96dfc95e05bdc3291950aaee3d13515da20bfa864c1a3509d7f7e6569f56a",
-  "candidateCount": 513,
+  "dataset": "collections/editorial-83f59e6ea2d8/",
+  "candidateFingerprint": "3090751a3ae371fa647aa356c486234d904122102999176d082d6e7da377bbb5",
+  "candidateCount": 514,
   "target": 300,
   "selectedCount": 300,
   "mandatoryAuthorizedCount": 41,
@@ -8671,7 +8671,19 @@
       "n": 502,
       "source": "BH00137",
       "reason": "Surveyed before analysis; selected complementary passages state the subject’s central teachings, qualifications or practical applications more substantively or with less repetition. No verified authorized quotation omitted."
+    },
+    {
+      "id": "4d212185ca1e90af681ff617",
+      "source": "AB02246",
+      "reason": "Preserve the existing assurance with its practical-vigilance context and the stewardship petition; the new Covenant-protection prayer does not supply a stronger replacement."
     }
   ],
-  "importedAuthorityReview": []
+  "importedAuthorityReview": [],
+  "integrationReview": {
+    "date": "2026-10-20",
+    "decision": "Preserve the existing assurance with its practical-vigilance context and the stewardship petition; the new Covenant-protection prayer does not supply a stronger replacement.",
+    "added": [],
+    "replaced": [],
+    "finalizedBeforeRebuild": true
+  }
 }

@@ -3,9 +3,9 @@
   "createdAt": "2026-10-13T21:37:20.699Z",
   "status": "finalized_before_analysis",
   "subject": "BF2B7E937407E648DD80C2528263A450",
-  "dataset": "collections/7acbc96b-60b/",
-  "candidateFingerprint": "a0add80e5716ade17d1126fa0db4a42f8be142d5d174b11258db307e5652c578",
-  "candidateCount": 329,
+  "dataset": "collections/editorial-83f59e6ea2d8/",
+  "candidateFingerprint": "acaeb4909dff031d60644bd7e8aacc9734fc8d23303bb9b9da05b7c60f70b2bf",
+  "candidateCount": 330,
   "target": 300,
   "selectedCount": 300,
   "mandatoryAuthorizedCount": 26,
@@ -1365,30 +1365,6 @@
         "kind": "no_authorized_selected_paragraph",
         "metadata": "",
         "sourceVersion": "6485ef9fcc29ead5700a511fe3a83e5a0d9a81f992046629ce62755c85402b95",
-        "paragraphs": []
-      }
-    },
-    {
-      "n": 74,
-      "group": 4,
-      "id": "ac766658a12d0dee0a084f24",
-      "key": "source:BB00002",
-      "source": "BB00002",
-      "sourceVersion": "1903959e9481acc14ae2d5660dc5d0bc0a4e63782224754f5523b3f2b295f9f3",
-      "status": "normalized",
-      "reference": "BB00002",
-      "authorization": "Y343,1284,1309,1603,2340",
-      "authorizedParagraphs": [],
-      "mandatoryAuthorized": false,
-      "paragraphs": [
-        250
-      ],
-      "text": "When the letters of \"There is no God but God\" bore witness unto Ali on the Day of Beginning, they were seen around the Fire in the land of the heart",
-      "reason": "The Báb’s Qayyumu’l-Asma’ picturing the letters of “There is no God but God” around the Fire in the land of the heart; joins letters, fire and inward perception.",
-      "authorityEvidence": {
-        "kind": "no_authorized_selected_paragraph",
-        "metadata": "Y343,1284,1309,1603,2340",
-        "sourceVersion": "1903959e9481acc14ae2d5660dc5d0bc0a4e63782224754f5523b3f2b295f9f3",
         "paragraphs": []
       }
     },
@@ -7349,6 +7325,21 @@
           4
         ]
       }
+    },
+    {
+      "id": "38f91f21d4654ed3c67c226c",
+      "key": "source:ABU1318",
+      "source": "ABU1318",
+      "sourceVersion": "05fe7322d8a009e7fa90ee4b086136c18fe5485901426f59e4f96bcf41e7f3f7",
+      "status": "confirmed",
+      "reference": "ABU1318",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        1
+      ],
+      "text": "Whatever there is in the world of contingency is a symbol of the spiritual world; whatever there is on the earth is a symbol of heavenly things. For example: In the spiritual world there is the light of guidance, in the outer world there is the lamp, its symbol. In the divine world there is love, symbolized in the material world by magnetism. So there are four seasons in the perishable, outer world-spring, which brings the vegetables, refreshes the animals, and promises fruits; summer, which charges the trees with fruits; then follows, the autumn, after which comes the winter, when the trees are bare and empty. Such is the condition of the spiritual world, which has its four seasons-spring, summer, autumn, and winter.",
+      "reason": "Explains correspondence between earthly symbols and spiritual realities."
     }
   ],
   "omitted": [
@@ -7525,7 +7516,42 @@
       "n": 328,
       "source": "ABU1640",
       "reason": "Surveyed before analysis; selected complementary passages state the subject’s central teachings, qualifications or practical applications more substantively or with less repetition. No verified authorized quotation omitted."
+    },
+    {
+      "n": 74,
+      "group": 4,
+      "id": "ac766658a12d0dee0a084f24",
+      "key": "source:BB00002",
+      "source": "BB00002",
+      "sourceVersion": "1903959e9481acc14ae2d5660dc5d0bc0a4e63782224754f5523b3f2b295f9f3",
+      "status": "normalized",
+      "reference": "BB00002",
+      "authorization": "Y343,1284,1309,1603,2340",
+      "authorizedParagraphs": [],
+      "mandatoryAuthorized": false,
+      "paragraphs": [
+        250
+      ],
+      "text": "When the letters of \"There is no God but God\" bore witness unto Ali on the Day of Beginning, they were seen around the Fire in the land of the heart",
+      "reason": "Concrete examples of lamp, magnetism and seasons explain symbolic correspondence more accessibly than the short letters-and-fire image.",
+      "authorityEvidence": {
+        "kind": "no_authorized_selected_paragraph",
+        "metadata": "Y343,1284,1309,1603,2340",
+        "sourceVersion": "1903959e9481acc14ae2d5660dc5d0bc0a4e63782224754f5523b3f2b295f9f3",
+        "paragraphs": []
+      }
     }
   ],
-  "importedAuthorityReview": []
+  "importedAuthorityReview": [],
+  "integrationReview": {
+    "date": "2026-10-20",
+    "decision": "Concrete examples of lamp, magnetism and seasons explain symbolic correspondence more accessibly than the short letters-and-fire image.",
+    "added": [
+      "38f91f21d4654ed3c67c226c"
+    ],
+    "replaced": [
+      "ac766658a12d0dee0a084f24"
+    ],
+    "finalizedBeforeRebuild": true
+  }
 }

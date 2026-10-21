@@ -7,7 +7,7 @@
       "displayTitle": "Reading the signs: symbolism and meaning",
       "selection": {
         "review": "selections/symbolism.json",
-        "sha256": "d8a08d54bc51e16951dc9df1397f43039ae145a1663367793fcd77667a721fa4",
+        "sha256": "2d8a3ea6acfafc6e8b7460e8c6a5692575c48ae219a0ebc76eaa64323df937c4",
         "ids": [
           "a19f2339f64e747f84acbc33",
           "c43ca65c84cb64b555478943",
@@ -65,7 +65,6 @@
           "904b0bc9451b4601c8ae63fb",
           "1ef04ccc381e9d8c88a62681",
           "eaaebf60df6ea13eb5bd9769",
-          "ac766658a12d0dee0a084f24",
           "1fc6cc23553ecaa78061419f",
           "36f956faf147ddb02bc066bd",
           "eb4494aa1655bcd5636f4655",
@@ -308,7 +307,8 @@
           "6965b80ef54c51e124456275",
           "beca14d2fdf52ca14935887d",
           "15609d6ad2455d49ef3e141b",
-          "c39895abc82dcb0f66084739"
+          "c39895abc82dcb0f66084739",
+          "38f91f21d4654ed3c67c226c"
         ]
       },
       "introduction": "A sun that is a law, a moon that is a kingdom, water that is knowledge and fire that is love: scripture speaks this way because, as ‘Abdu’l-Bahá explains, an inward reality has no language except that of sensible things. Grief makes the heart heavy though nothing has been lowered; so too paradise, baptism and the woman clothed with the sun carry meanings their images can only gesture toward. Symbols outlast the languages that carry them, which is why every religion is written in them, and why a reader who insists on the flat sense of a sign shuts the door it was meant to open. Jesus spoke in parables so that what was hidden from the foundation of the world might reach those with ears to hear [1]; the Qur’án’s lamp in its niche, light upon light, moves the same way from image to guidance [2]. Learning this attention leads naturally into the outward and inward meanings of scripture, into the claims of literal interpretation, and into what dreams and visions, or wine as the figure of a transformed soul, say about the Word of God.",
@@ -421,6 +421,10 @@
             "O believers! Fear God, lest ye sell him for a counted price apart from the pure ocean of Divine Unity -- and God is aware of what ye do.",
             "Know ye, O servants of God, in truth and by truth, that if ye look upon him with other than the eyes of your hearts, ye have purchased him for a paltry price -- a few counted dirhams -- and God will not judge in your favor in the Book through the knowledge of the Remembrance, for ye have not entered upon the mystery of the heart."
           ]
+        },
+        {
+          "key": "source:ABU1318",
+          "why": "Explains correspondence between earthly symbols and spiritual realities."
         },
         {
           "key": "source:BB00004",
