@@ -4,12 +4,7 @@ import os from 'node:os';
 import {fileURLToPath} from 'node:url';
 import {spawn} from 'node:child_process';
 import {randomUUID,createHash} from 'node:crypto';
-import {gunzipSync} from 'node:zlib';
-import {ItemStore,decode} from './item-store.mjs';
-import {publicMetadata,mayPublishOriginal} from '../src/original-publication.mjs';
-import {recordFilename} from '../src/record-file.mjs';
-import {parseText} from '../src/text.mjs';
-import assert from 'node:assert/strict';
+import {ItemStore} from './item-store.mjs';
 import {githubTarget} from './github-target.mjs';
 
 const codeRoot=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
@@ -50,6 +45,19 @@ export async function findDeploymentRun(gh,repository,sha,cwd,execute=run,delay=
   }
   throw Error('The commit was uploaded, but GitHub has not started its workflow. Check repository Actions.');
 }
+// Push the committed change to a new branch and open a pull request against
+// main. Nothing reaches main or the website until the pull request is merged.
+export async function openPullRequest({gh,repo,repository,kind,id,title,body,execute=run}){
+  const stamp=new Date().toISOString().replace(/\D/g,'').slice(0,14);
+  const branch=`catalog/${kind}-${id.replace(/[^\w-]+/g,'_')}-${stamp}`;
+  // A new branch name: an ordinary push never overwrites remote history.
+  await execute('git',['push','origin','HEAD:refs/heads/'+branch],repo);
+  const bodyFile=path.join(path.dirname(repo),'pull-request.md');
+  await fs.writeFile(bodyFile,body);
+  const url=(await execute(gh,['pr','create','--repo',repository,'--base','main','--head',branch,'--title',title,'--body-file',bodyFile],repo,true)).split('\n').at(-1).trim();
+  console.log('Pull request: '+url);
+  return {branch,url};
+}
 export async function publishItem(root,id,revision){
   root=path.resolve(root);
   const store=new ItemStore(root),snapshot=await store.snapshot(id);
@@ -88,29 +96,18 @@ export async function publishItem(root,id,revision){
     await run(python,[path.join(codeRoot,'scripts/patch-item-archive.py'),'--root',input,'--archive',path.join(repo,'data/collection'),'--id',id],repo);
     await run(python,[path.join(codeRoot,'scripts/archive-sources.py'),'--root',repo,'--check'],repo);
     const status=await run('git',['status','--porcelain'],repo);
-    if(!status)console.log('This item already matches the uploaded source. Checking deployment and the live item.');
+    if(!status)console.log('This item already matches the published source; there is nothing to propose.');
     else{
     if(status.split('\n').some(line=>!/ data\/collection\/[\w-]+\.tar$/.test(line)))throw Error('Unexpected files changed in the isolated publication checkout.');
     const account=JSON.parse(await run(gh,['api','user','--jq','{login,id}'],repo));
     await run('git',['add','--','data/collection'],repo);
     await run('git',['-c','user.name='+account.login,'-c',`user.email=${account.id}+${account.login}@users.noreply.github.com`,'commit','-m','Correct catalog item '+id],repo);
-    // A concurrent update rejects this ordinary push. Never overwrite remote history.
-    await run('git',['push','origin','HEAD:main'],repo);
+    const changed=[snapshot.rows.some(row=>row.PIN===id)&&'metadata row',snapshot.bytes[1]!==null&&'original text',snapshot.bytes[2]!==null&&'English translation'].filter(Boolean).join(', ');
+    await openPullRequest({gh,repo,repository,kind:'edit',id,title:'Correct catalog item '+id,
+      body:`Correction of catalog item \`${id}\` saved with Edit-Catalog-Item.cmd.\n\nOnly this item's entry in the source archive (\`data/collection\`) changes: ${changed}, as saved on the editor's computer. The original-text publication policy was applied and checked.\n\nAfter merging, the website rebuilds; check the item at ${site}?id=${encodeURIComponent(id)}\n`});
+    console.log('Nothing is published until the pull request is merged on GitHub; the website then rebuilds automatically.');
     }
-    const sha=await run('git',['rev-parse','HEAD'],repo);
-    console.log('Waiting for the build, validation and Pages deployment.');
-    const runId=await findDeploymentRun(gh,repository,sha,repo);
-    await watchDeployment(gh,runId,repo,repository);
-    const statsResponse=await fetch(site+'stats.json?item-update='+sha);if(!statsResponse.ok)throw Error('Cannot verify the published manifest.');
-    const stats=await statsResponse.json(),response=await fetch(site+stats.dataset+'data/'+recordFilename(id));
-    if(!response.ok)throw Error('Cannot verify the published item.');
-    const record=JSON.parse(gunzipSync(Buffer.from(await response.arrayBuffer())));
-    if(snapshot.rows.some(row=>row.PIN===id))assert.deepEqual({...record.metadata,...record.metadataOriginalValues},publicMetadata(snapshot.metadata),'Published metadata does not match the saved item');
-    const expectedEnglish=snapshot.bytes[2]===null?undefined:createHash('sha256').update(snapshot.bytes[2]).digest('hex');
-    assert.equal(record.enVersion,expectedEnglish,'Published translation does not match the saved text');
-    assert.equal(record.hasOriginal,snapshot.bytes[1]!==null&&mayPublishOriginal(snapshot.metadata),'Published original availability differs');
-    if(record.hasOriginal)assert.deepEqual(record.original,parseText(decode(snapshot.bytes[1]),'original'),'Published original differs');
-    console.log('Published and verified: '+site+'?id='+encodeURIComponent(id));success=true;
+    success=true;
   }finally{
     await lock.close();await fs.unlink(lockFile);
     // Keep failed jobs for diagnosis; remove only this verified transient directory.
