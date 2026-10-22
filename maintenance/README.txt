@@ -22,19 +22,24 @@ Edit-Catalog-Item.cmd
   1. Enter the exact catalog ID (case-sensitive) and click Open item.
   2. Make the correction and click Save on this computer. The previous files
      are backed up under .qa\item-backups, with a manifest of what was saved.
-  3. Click Publish saved item. Only this item is uploaded, starting from the
-     latest published collection; other local edits are not included.
+  3. Click Open pull request for saved item. Only this item is included,
+     starting from the latest published collection; other local edits are
+     not. The tool prints the pull request's link. Review and merge it on
+     GitHub; the website then rebuilds by itself.
   If the corrected English text is used by reviewed subject quotations, the
-  tool stops before uploading so those references can be reviewed first.
+  tool stops before opening a pull request so those references can be
+  reviewed first.
 
   To delete an item entirely, enter its ID and click Preview deletion (at
   the end of the page). It lists the subject quotations taken from the item
   and the study-guide readings that will be removed with it; the volume PDFs
-  are not changed. Type the ID again and click Delete and publish. The tool
-  rebuilds and tests the whole collection on this computer before uploading
-  (allow half an hour or more), then waits for the website. Only after the
-  website confirms the deletion is the item removed from the source folders
-  here, with a backup under .qa\item-backups.
+  are not changed. Type the ID again and click Delete and open pull request.
+  The tool rebuilds and tests the whole collection on this computer (allow
+  half an hour or more), then opens the deletion as a pull request; merge it
+  on GitHub to publish. Once the pull request is open, the item is removed
+  from the source folders here, with a backup under .qa\item-backups. If you
+  close the pull request without merging, copy the files back from that
+  backup (its manifest.json names them).
   Use Update-Collection.cmd to add or rename items.
 
 Update-Collection.cmd

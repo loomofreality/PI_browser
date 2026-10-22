@@ -1,14 +1,14 @@
-// Delete one item from the published catalog, with its subject quotations and
-// study-guide readings. Work happens in an isolated copy of the latest
-// published repository, which is fully rebuilt and tested before anything is
-// pushed; the local source files are removed (with a backup) only after the
-// website confirms the deletion. Volume PDFs are not changed.
+// Propose deleting one item from the catalog, with its subject quotations and
+// study-guide readings, as a pull request. Work happens in an isolated copy of
+// the latest published repository, which is fully rebuilt and tested before the
+// branch is pushed; the local source files are removed (with a backup) once the
+// pull request is open. Volume PDFs are not changed.
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import {fileURLToPath} from 'node:url';
 import {randomUUID} from 'node:crypto';
 import {gunzipSync} from 'node:zlib';
-import {tool,run,findDeploymentRun,watchDeployment} from './publish-item.mjs';
+import {tool,run,openPullRequest} from './publish-item.mjs';
 import {ItemStore,validId} from './item-store.mjs';
 import {githubTarget} from './github-target.mjs';
 import {planDeletion,liveSite,updateGuides,authorizedGroups} from './catalog-deletion.mjs';
@@ -84,12 +84,12 @@ export async function reconcileBuild(repo,id,site,planned){
     subjects.set(subjectId,{before,after});
     console.log(`Rematched quotations changed in “${after.subject.name}”.`);
   }
-  if(!subjects.size)return false;
+  if(!subjects.size)return null;
   const exists=new Map([...subjects].map(([subjectId,{after}])=>[subjectId,new Set(after.selections.map(s=>s.id))]));
   const result=await updateGuides({...files,item:id,subjects,evidenceGone:(subjectId,selection)=>exists.has(subjectId)&&!exists.get(subjectId).has(selection),authorized:authorizedGroups(source=>read('data/'+recordFilename(source)).catch(()=>null))});
   for(const [name,value] of result.changes)await fs.writeFile(path.join(repo,name),value);
   for(const guide of result.guides)console.log(`Study guide “${guide.title}”:\n  ${guide.notes.join('\n  ')}`);
-  return true;
+  return result.guides;
 }
 
 export async function publishDeletion(root,id,digest){
@@ -116,9 +116,12 @@ export async function publishDeletion(root,id,digest){
     await run(python,[path.join(codeRoot,'scripts/archive-sources.py'),'--root',repo,'--check'],repo);
     const build=()=>run(process.execPath,['--max-old-space-size=6144','scripts/build.mjs'],repo);
     console.log('Building and checking the complete collection without the item. This takes a while.');
+    let reconciled=[];
     try{await build();}
     catch(error){
-      if(!/Catalogue review data changed for/.test(error.message)||!await reconcileBuild(repo,id,live,plan.subjectData))throw error;
+      const result=/Catalogue review data changed for/.test(error.message)?await reconcileBuild(repo,id,live,plan.subjectData):false;
+      if(!result)throw error;
+      reconciled=result;
       console.log('Rebuilding with the reconciled study guides.');
       await fs.rm(path.join(repo,'dist'),{recursive:true,force:true});
       await build();
@@ -127,25 +130,21 @@ export async function publishDeletion(root,id,digest){
     await run(process.execPath,['scripts/prepare-pages.mjs'],repo,true);
     const tests=(await fs.readdir(path.join(repo,'tests'))).filter(name=>name.endsWith('.test.mjs')).map(name=>path.join('tests',name));
     await run(process.execPath,['--test',...tests],repo);
-    const expected=JSON.parse(await fs.readFile(path.join(repo,'dist/stats.json'),'utf8'));
     await run('git',['add','--',...committed],repo);
     const account=JSON.parse(await run(gh,['api','user','--jq','{login,id}'],repo,true));
     await run('git',['-c','user.name='+account.login,'-c',`user.email=${account.id}+${account.login}@users.noreply.github.com`,'commit','-m','Delete catalog item '+id],repo);
-    // A concurrent update rejects this ordinary push. Never overwrite remote history.
-    await run('git',['push','origin','HEAD:main'],repo);
-    const sha=await run('git',['rev-parse','HEAD'],repo,true);
-    console.log('Waiting for the build, validation and Pages deployment.');
-    const runId=await findDeploymentRun(gh,repository,sha,repo);
-    await watchDeployment(gh,runId,repo,repository,run,{change:'deletion',retry:'delete the item again'});
-    const statsResponse=await fetch(site+'stats.json?item-delete='+sha);if(!statsResponse.ok)throw Error('Cannot verify the published manifest.');
-    const stats=await statsResponse.json();
-    if(stats.records!==expected.records)throw Error(`The website lists ${stats.records} items; ${expected.records} were expected after the deletion.`);
-    if((await fetch(site+stats.dataset+'data/'+recordFilename(id))).status!==404)throw Error('The deleted item is still on the website.');
-    console.log(`Deleted from the website: ${id}.`);
+    const guides=[...plan.guides,...reconciled];
+    const body=[`Deletion of catalog item \`${id}\` requested with Edit-Catalog-Item.cmd. Volume PDFs are unchanged.`,'',
+      'The item is removed from the source archive (`data/collection`). The complete collection was rebuilt and every test passed before this pull request was opened.','',
+      plan.subjects.length?`**Subject quotations removed (${plan.quotations}):**\n${plan.subjects.map(s=>`- ${s.name} (${s.removed})`).join('\n')}`:'No subject compilation quoted this item.','',
+      guides.length?`**Study guides changed:**\n${guides.map(g=>`- ${g.title}\n${g.notes.map(n=>'  - '+n).join('\n')}`).join('\n')}`:'No study guide changes.',''].join('\n');
+    await openPullRequest({gh,repo,repository,kind:'delete',id,title:'Delete catalog item '+id,body});
+    console.log('Nothing is published until the pull request is merged on GitHub; the website then rebuilds automatically.');
   });
   const backup=await store.remove(id);
-  console.log(backup?`Removed ${id} from this computer’s source folders. Backup: ${backup}`:`${id} was not in this computer’s source folders.`);
-  console.log('Deletion complete. The PDFs are unchanged.');
+  // Removed now so a full collection update cannot restore the item; if the pull
+  // request is closed without merging, restore the files from this backup.
+  console.log(backup?`Removed ${id} from this computer’s source folders. Backup (restore it if the pull request is closed without merging): ${backup}`:`${id} was not in this computer’s source folders.`);
 }
 
 if(process.argv[1]&&path.resolve(process.argv[1])===fileURLToPath(import.meta.url)){
