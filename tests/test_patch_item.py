@@ -27,4 +27,13 @@ class ItemPatch(unittest.TestCase):
             self.assertNotIn('original_texts - copy/AB1.txt',result);self.assertEqual(result['translated_texts - copy/AB1.txt'],b'corrected translation')
             self.assertIn('AB1',json.loads(result[policy.MANIFEST]))
             with self.assertRaises(ValueError):patcher.patch(files,root,'NEW',policy)
+    def test_delete_removes_only_the_item(self):
+        a=dict(zip(FIELDS,['AB1','First','','','']));b=dict(zip(FIELDS,['AB2','Second','M','','دوم']))
+        files={'metadata - copy/items.csv':metadata([a,b]),policy.MANIFEST:b'["AB1"]\n','translated_texts - copy/AB1.txt':b'gone','original_texts - copy/AB2.txt':b'keep','translated_texts - copy/AB2.txt':b'keep too'}
+        result=patcher.delete(files,'AB1',policy)
+        rows=list(csv.DictReader(io.StringIO(result['metadata - copy/items.csv'].decode())))
+        self.assertEqual([row['PIN'] for row in rows],['AB2']);self.assertEqual(rows[0]['First line (original)'],'دوم')
+        self.assertNotIn('translated_texts - copy/AB1.txt',result);self.assertEqual(json.loads(result[policy.MANIFEST]),[])
+        self.assertEqual(result['original_texts - copy/AB2.txt'],b'keep');self.assertEqual(result['translated_texts - copy/AB2.txt'],b'keep too')
+        with self.assertRaises(ValueError):patcher.delete(result,'AB1',policy)
 if __name__=='__main__':unittest.main()

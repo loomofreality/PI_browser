@@ -26,7 +26,16 @@ Edit-Catalog-Item.cmd
      latest published collection; other local edits are not included.
   If the corrected English text is used by reviewed subject quotations, the
   tool stops before uploading so those references can be reviewed first.
-  Use Update-Collection.cmd to add, delete or rename items.
+
+  To delete an item entirely, enter its ID and click Preview deletion (at
+  the end of the page). It lists the subject quotations taken from the item
+  and the study-guide readings that will be removed with it; the volume PDFs
+  are not changed. Type the ID again and click Delete and publish. The tool
+  rebuilds and tests the whole collection on this computer before uploading
+  (allow half an hour or more), then waits for the website. Only after the
+  website confirms the deletion is the item removed from the source folders
+  here, with a backup under .qa\item-backups.
+  Use Update-Collection.cmd to add or rename items.
 
 Update-Collection.cmd
   Publish the whole collection after replacing or adding source files. Keep
