@@ -52,6 +52,7 @@ jobs:
         run: |
           python -m unittest discover -s tests -p test_archive_sources.py
           python -m unittest discover -s tests -p test_patch_item.py
+          python -m unittest discover -s tests -p test_describe_collection.py
           python scripts/archive-sources.py --check
       - name: Fingerprint source data and build dependencies
         id: inputs

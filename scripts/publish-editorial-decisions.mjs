@@ -2,7 +2,7 @@
 // connections, Review quoted passages, Editorial workspace). The exported
 // subject-edits.json is checked, merged onto the published decisions (the
 // export wins where both have an entry, and nothing published is lost), shown
-// as a summary, then committed and deployed.
+// as a summary, then proposed as a pull request; merging it publishes them.
 //
 //   node scripts/publish-editorial-decisions.mjs [EXPORTED-FILE] [--yes] [--dry-run]
 // Without a file, the newest subject-edits*.json in your Downloads folder is used.
@@ -53,6 +53,16 @@ export function mergeDecisions(published,incoming,ids){
   return {merged,summary};
 }
 
+export function decisionsBody(summary,file){
+  return `Editorial decisions exported from the website's review pages (\`${file}\`) and merged onto the published decisions in \`${target}\`. Published decisions are kept; where both have an entry, the export wins.
+
+| Decisions | New | Changed |
+| --- | ---: | ---: |
+| Quoted passages (confirmed or rejected) | ${summary.newPassages} | ${summary.changedPassages} |
+| Subject connections | ${summary.newConnections} | ${summary.changedConnections} |
+| Subjects marked reviewed or unreviewed | ${summary.reviewProgress} | |`;
+}
+
 async function newestExport(){
   const folder=path.join(os.homedir(),'Downloads');
   let names=[];try{names=(await fs.readdir(folder)).filter(name=>/^subject-edits.*\.json$/i.test(name));}catch{}
@@ -78,10 +88,11 @@ if(process.argv[1]&&path.resolve(process.argv[1])===fileURLToPath(import.meta.ur
     if(dry){console.log('\nDry run: nothing was changed.');process.exit(0);}
     if(!yes){
       const prompt=readline.createInterface({input:process.stdin,output:process.stdout});
-      const answer=await prompt.question('\nPublish these changes to the website? Type Y and press Enter: ');prompt.close();
+      const answer=await prompt.question('\nOpen a pull request with these changes? Type Y and press Enter: ');prompt.close();
       if(!/^y(es)?$/i.test(answer.trim())){console.log('Cancelled. Nothing was changed.');process.exit(0);}
     }
     await fs.writeFile(path.join(projectRoot,target),JSON.stringify(merged,null,2)+'\n');
-    await publishChanges(projectRoot,[target],`Publish editorial decisions (${summary.total} changes)`);
-  }catch(error){console.error('\nNOT PUBLISHED: '+error.message);process.exitCode=1;}
+    await publishChanges(projectRoot,[target],`Publish editorial decisions (${summary.total} changes)`,
+      {kind:'editorial-decisions',toolName:'Publish-Editorial-Decisions.cmd',body:decisionsBody(summary,path.basename(source))});
+  }catch(error){console.error('\nNO PULL REQUEST OPENED: '+error.message);process.exitCode=1;}
 }

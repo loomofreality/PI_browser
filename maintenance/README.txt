@@ -1,10 +1,21 @@
 SITE MAINTENANCE TOOLS
 
 Double-click a tool in this folder. Each one works on this project folder and
-publishes to the GitHub repository it was cloned from (Git's "origin"), so the
-tools keep working if the repository is renamed. Publishing tools wait for
-GitHub to rebuild and check the website; keep their window open until they say
-"Published" or explain what stopped them.
+the GitHub repository it was cloned from (Git's "origin"), so the tools keep
+working if the repository is renamed.
+
+No tool changes the website directly. A tool that publishes something puts the
+change on a new branch and opens a pull request on GitHub, with a description
+of what changed, and prints its link. Review and merge the pull request on
+GitHub; the website then rebuilds and checks itself. Closing a pull request
+without merging discards the proposal. This keeps a record of every change.
+Keep the tool's window open until it prints the pull request link or explains
+what stopped it.
+
+The files a tool proposed stay changed in this folder until the pull request
+is merged; the next tool run notices that GitHub has them and tidies up. If a
+tool says GitHub has newer versions of files changed here, merge (or close)
+the earlier pull request first.
 
 Requirements: Node.js 22 or newer, Git, GitHub CLI (signed in with
 "gh auth login"), and Python 3 for the catalog tools.
@@ -43,11 +54,12 @@ Edit-Catalog-Item.cmd
   Use Update-Collection.cmd to add or rename items.
 
 Update-Collection.cmd
-  Publish the whole collection after replacing or adding source files. Keep
+  Propose the whole collection after replacing or adding source files. Keep
   exactly one CSV (with a PIN column) in "metadata - copy" and wait for Dropbox
   to finish syncing first. It packages the publishable sources, builds and
-  tests a separate copy, uploads only the changed archive pieces, and waits for
-  the website.
+  tests a separate copy, and opens a pull request with only the changed archive
+  pieces and volume PDFs. The description lists, by catalog ID, the texts and
+  metadata rows that were added, changed or removed.
 
 
 SUBJECTS: CONNECTIONS AND PASSAGES
@@ -66,8 +78,9 @@ To publish your decisions:
      plus your drafts) to your Downloads folder.
   2. Double-click Publish-Editorial-Decisions.cmd (or drag the exported file
      onto it). It checks the file, shows how many decisions are new or
-     changed, and publishes after you type Y. Published decisions are never
-     dropped, even if the export is older.
+     changed, and opens a pull request after you type Y. Published decisions
+     are never dropped, even if the export is older.
+  3. Merge the pull request on GitHub to publish the decisions.
   Export regularly as a backup: clearing browser data removes drafts.
 
 
@@ -84,8 +97,9 @@ Edit-Study-Guide.cmd
      against the website's rules (for example, the number of questions a guide
      may have, and that [1], [2] ... in the introduction match the comparative
      readings). The previous file is backed up under .qa\guide-backups.
-  3. Save other guides if you like, then click Publish saved guides. All saved
-     guides go up together and the tool waits for the website.
+  3. Save other guides if you like, then click Propose saved guides. All
+     saved guides go into one pull request, whose description says what
+     changed in each guide. Merge it on GitHub to publish.
   Under each reading, "Choose sentences" lists the whole passage: tick the
   sentences to show (the wording itself never changes). "Leave out" keeps a
   reading out of the published guide; it stays listed in the editor so it can
@@ -99,11 +113,14 @@ SUBJECT ORDER
 
 Update-Subject-Order.cmd
   After editing "subjects - reference.docx" (the thematic subject order and
-  its 19 headings), regenerate the order and publish both files.
+  its 19 headings), regenerate the order and open a pull request with both
+  files. The description lists subjects and headings that moved.
 
 
 VOLUME PDFs
 
-Add or replace PDFs in "pdf_volumes - copy" and publish with Git (or the
-GitHub website). The deployment copies changed PDFs to the separate PDF site
-automatically; see "Volume PDF site" in README.md for its one-time setup.
+Add or replace PDFs in "pdf_volumes - copy" and run Update-Collection.cmd,
+which includes them in its pull request (or propose them with Git or the
+GitHub website). After merging, the deployment copies changed PDFs to the
+separate PDF site automatically; see "Volume PDF site" in README.md for its
+one-time setup.

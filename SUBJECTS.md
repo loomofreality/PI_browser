@@ -99,7 +99,7 @@ shades, each with at least 4.5:1 contrast on the theme's paper (see DESIGN.md).
 
 After updating the reference document, double-click
 `maintenance/Update-Subject-Order.cmd`. It runs `scripts/extract-subject-order.ps1`
-and publishes the regenerated `src/subject-order.json` alongside the reference. The extractor reads document
+and opens a pull request with the regenerated `src/subject-order.json` alongside the reference; its description lists headings and subjects that were added, removed or moved. Merging it publishes the new order. The extractor reads document
 paragraphs in order, matches names after Unicode normalization and removal of
 punctuation/spacing, and fails if any CSV subject is missing. It preserves the
 exact CSV names, retains both punctuation variants in CSV order at their shared

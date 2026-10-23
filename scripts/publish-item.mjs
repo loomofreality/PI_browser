@@ -14,9 +14,9 @@ export async function tool(name,root){
   for(const candidate of candidates.filter(Boolean))try{await fs.access(candidate);return candidate;}catch{}
   return name;
 }
-export async function run(command,args,cwd,quiet=false){
+export async function run(command,args,cwd,quiet=false,env=null){
   return new Promise((resolve,reject)=>{
-    const child=spawn(command,args,{cwd,windowsHide:true,stdio:['ignore','pipe','pipe']});let result='',diagnostic='';
+    const child=spawn(command,args,{cwd,windowsHide:true,stdio:['ignore','pipe','pipe'],...env&&{env:{...process.env,...env}}});let result='',diagnostic='';
     child.stdout.on('data',chunk=>{result+=chunk;if(!quiet)process.stdout.write(chunk);});
     child.stderr.on('data',chunk=>{diagnostic=(diagnostic+chunk).slice(-6000);if(!quiet)process.stderr.write(chunk);});
     child.on('error',reject);child.on('close',code=>code===0?resolve(result.trim()):reject(Error(`${path.basename(command)} ${args.slice(0,2).join(' ')} failed (${code}). ${diagnostic.trim()||result.trim().slice(-2000)||'No diagnostic output was returned.'}`)));
@@ -47,12 +47,13 @@ export async function findDeploymentRun(gh,repository,sha,cwd,execute=run,delay=
 }
 // Push the committed change to a new branch and open a pull request against
 // main. Nothing reaches main or the website until the pull request is merged.
-export async function openPullRequest({gh,repo,repository,kind,id,title,body,execute=run}){
+// `ref` is the commit to propose (HEAD of `repo` by default); the maintenance
+// tools use the `maintenance` prefix, catalog item changes `catalog`.
+export async function openPullRequest({gh,git='git',repo,repository,prefix='catalog',kind,id,title,body,ref='HEAD',bodyFile=path.join(path.dirname(repo),'pull-request.md'),execute=run}){
   const stamp=new Date().toISOString().replace(/\D/g,'').slice(0,14);
-  const branch=`catalog/${kind}-${id.replace(/[^\w-]+/g,'_')}-${stamp}`;
+  const branch=`${prefix}/${kind}${id?'-'+id.replace(/[^\w-]+/g,'_'):''}-${stamp}`;
   // A new branch name: an ordinary push never overwrites remote history.
-  await execute('git',['push','origin','HEAD:refs/heads/'+branch],repo);
-  const bodyFile=path.join(path.dirname(repo),'pull-request.md');
+  await execute(git,['push','origin',ref+':refs/heads/'+branch],repo);
   await fs.writeFile(bodyFile,body);
   const url=(await execute(gh,['pr','create','--repo',repository,'--base','main','--head',branch,'--title',title,'--body-file',bodyFile],repo,true)).split('\n').at(-1).trim();
   console.log('Pull request: '+url);
