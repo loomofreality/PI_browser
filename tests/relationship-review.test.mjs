@@ -42,3 +42,9 @@ test('merged subject backups migrate relationships and review progress without m
  const backup={format:1,matches:{},relationships:[{source:old,target:other,type:'related',status:'accepted'}],reviewedSubjects:{[old]:true,[canonical]:true}};
  const migrated=validateDraft(backup,new Set([canonical,other]));assert.equal(migrated.relationships[0].source,canonical);assert.equal(migrated.reviewedSubjects[canonical],true);assert.ok(!Object.hasOwn(migrated.reviewedSubjects,old));assert.equal(backup.relationships[0].source,old);
 });
+test('the review page colours subject choices with the shared subject colour style',async()=>{
+  const source=(await import('node:fs')).readFileSync(new URL('../src/relationships.mjs',import.meta.url),'utf8');
+  // An undefined color() call once stopped the page from opening any subject.
+  assert.doesNotMatch(source,/[^\w.]color\(/);
+  assert.match(source,/<option value="\$\{s\.id\}" style="\$\{subjectColorStyle\(s\)\}/);
+});

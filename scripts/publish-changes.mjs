@@ -1,59 +1,102 @@
-// Commit and publish specific project files from this folder, then wait for the
-// GitHub Pages deployment and check the live site. Used by the maintenance
-// tools; only the named files are committed, so unrelated local work stays put.
+// Propose specific project files from this folder as a pull request. Used by
+// the maintenance tools: only the named files are committed, on a new branch
+// made from main, and nothing reaches main or the website until the pull
+// request is merged on GitHub. This folder stays on main with its files as
+// they are, so unrelated local work stays put.
 //
-//   node scripts/publish-changes.mjs --message "Describe the change" FILE...
+//   node scripts/publish-changes.mjs --message "Title" [--kind NAME] [--body-file FILE] FILE...
+import fs from 'node:fs/promises';
 import path from 'node:path';
+import {randomUUID} from 'node:crypto';
 import {fileURLToPath} from 'node:url';
-import {run,tool,watchDeployment,findDeploymentRun} from './publish-item.mjs';
+import {run,tool,openPullRequest} from './publish-item.mjs';
 import {githubTarget} from './github-target.mjs';
 
 const projectRoot=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
 let gitPath='git';
-const git=(args,root,quiet=true)=>run(gitPath,['-C',root,...args],root,quiet);
+const git=(args,root,quiet=true,env=null)=>run(gitPath,['-C',root,...args],root,quiet,env);
+const changedFiles=async(root,...range)=>(await git(['-c','core.quotePath=false','diff','--name-only',...range],root)).split('\n').filter(Boolean);
 
-// Before changing anything: on main, no other tracked edits, up to date with GitHub.
+// Before changing anything: on main, no local commits, up to date with GitHub.
+// A file whose local edit has since been merged on GitHub (it now matches
+// main there) is brought up to date instead of blocking the update.
 export async function prepareRepository(root,files){
   gitPath=await tool('git',root);
   const top=await git(['rev-parse','--show-toplevel'],root);
   if(path.resolve(top)!==path.resolve(root))throw Error('Run this from the project folder (the Git repository root).');
   if(await git(['branch','--show-current'],root)!=='main')throw Error('Switch this folder to the main branch first.');
-  const allowed=new Set(files.map(file=>file.replaceAll('\\','/')));
-  const other=(await git(['-c','core.quotePath=false','diff','--name-only','HEAD'],root)).split('\n').filter(Boolean).filter(file=>!allowed.has(file));
-  if(other.length)throw Error('Other tracked files have unpublished changes. Commit or undo them first:\n  '+other.slice(0,10).join('\n  '));
   console.log('Checking GitHub for newer changes…');
   await git(['fetch','--quiet','origin','main'],root);
   if(await git(['log','--format=%H','origin/main..HEAD'],root))throw Error('This folder has local commits that are not on GitHub. Push or resolve them first.');
-  await git(['merge','--ff-only','--quiet','origin/main'],root);
+  const upstream=new Set(await changedFiles(root,'HEAD..origin/main'));
+  const merged=[];
+  for(const file of (await changedFiles(root,'HEAD')).filter(file=>upstream.has(file))){
+    try{await git(['diff','--quiet','origin/main','--',file],root);merged.push(file);}catch{}
+  }
+  if(merged.length)await git(['checkout','HEAD','--',...merged],root);
+  try{await git(['merge','--ff-only','--quiet','origin/main'],root);}
+  catch{
+    const blocking=(await changedFiles(root,'HEAD')).filter(file=>upstream.has(file));
+    throw Error('GitHub has newer versions of files that also have unpublished changes here:\n  '+blocking.slice(0,10).join('\n  ')+'\nIf a pull request for them is still open, merge or close it on GitHub first.');
+  }
+  const allowed=new Set(files.map(file=>file.replaceAll('\\','/')));
+  const other=(await changedFiles(root,'HEAD')).filter(file=>!allowed.has(file));
+  if(other.length)console.log('Other changed files in this folder are not included:\n  '+other.slice(0,10).join('\n  '));
 }
 
-export async function publishChanges(root,files,message){
+// The pull request description: the tool's own account of the change, the
+// files it touches, and what merging does.
+export function pullRequestBody({body='',files,toolName}){
+  return [body.trim(),
+    'Files changed:\n'+files.map(file=>'- `'+file+'`').join('\n'),
+    `Opened by ${toolName||'a maintenance tool'} (maintenance folder). Merging this pull request publishes the change: the website rebuilds and is checked automatically.`,
+  ].filter(Boolean).join('\n\n')+'\n';
+}
+
+// Commit the named files on top of HEAD through a separate index, so that
+// this folder's branch, index and working files are not touched; main itself
+// never moves. Returns the commit and the files it changes.
+export async function proposalCommit(root,files,message,account){
+  const qa=path.join(root,'.qa');await fs.mkdir(qa,{recursive:true});
+  const index=path.join(qa,'pull-request-index-'+randomUUID()),env={GIT_INDEX_FILE:index};
+  let sha;
+  try{
+    await git(['read-tree','HEAD'],root,true,env);
+    await git(['add','-A','--',...files],root,true,env);
+    const tree=await git(['write-tree'],root,true,env);
+    sha=await git(['-c','user.name='+account.login,'-c',`user.email=${account.id}+${account.login}@users.noreply.github.com`,'commit-tree',tree,'-p','HEAD','-m',message],root,true,env);
+  }finally{await fs.rm(index,{force:true});}
+  return {sha,proposed:await changedFiles(root,'HEAD',sha)};
+}
+
+export async function publishChanges(root,files,message,{kind='change',body='',toolName}={}){
   const gh=await tool('gh',root);
   const target=await githubTarget(root,{gh,git:gitPath});
   if(target.renamedFrom)console.log(`Note: GitHub now calls this repository ${target.repository}. Update this folder with:\n  git remote set-url origin ${target.remote}`);
   const changed=(await git(['status','--porcelain','--',...files],root)).trim();
-  if(!changed){console.log('Nothing to publish: these files already match GitHub.');return null;}
+  if(!changed){console.log('Nothing to propose: these files already match GitHub.');return null;}
   const account=JSON.parse(await run(gh,['api','user','--jq','{login,id}'],root,true));
-  await git(['add','--',...files],root);
-  await git(['-c','user.name='+account.login,'-c',`user.email=${account.id}+${account.login}@users.noreply.github.com`,'commit','--quiet','-m',message,'--',...files],root);
-  console.log('Uploading…');
-  // An ordinary push: a newer change on GitHub stops it instead of being overwritten.
-  await git(['push','--quiet','origin','HEAD:main'],root,false);
-  const sha=await git(['rev-parse','HEAD'],root);
-  console.log('Waiting for the build, checks and Pages deployment (usually a few minutes)…');
-  const runId=await findDeploymentRun(gh,target.repository,sha,root);
-  await watchDeployment(gh,runId,root,target.repository);
-  const response=await fetch(target.site+'stats.json?published='+sha,{cache:'no-store'});
-  if(!response.ok)throw Error(`The deployment finished, but ${target.site} did not respond. Check it in a browser.`);
-  console.log('Published: '+target.site);
-  return {sha,site:target.site};
+  const {sha,proposed}=await proposalCommit(root,files,message,account);
+  if(!proposed.length){console.log('Nothing to propose: these files already match GitHub.');return null;}
+  const qa=path.join(root,'.qa');
+  console.log('Uploading to a new branch and opening a pull request…');
+  const pr=await openPullRequest({gh,git:gitPath,repo:root,repository:target.repository,prefix:'maintenance',kind,title:message,ref:sha,
+    body:pullRequestBody({body,files:proposed,toolName}),bodyFile:path.join(qa,'pull-request-'+randomUUID().slice(0,8)+'.md')});
+  console.log('Nothing is published until the pull request is merged on GitHub; the website then rebuilds automatically.');
+  return {sha,...pr};
 }
 
 if(process.argv[1]&&path.resolve(process.argv[1])===fileURLToPath(import.meta.url)){
-  const args=process.argv.slice(2),at=args.indexOf('--message');
-  if(at<0||!args[at+1])throw Error('Usage: node scripts/publish-changes.mjs --message "text" FILE...');
-  const message=args[at+1],files=args.filter((_,i)=>i!==at&&i!==at+1);
-  if(!files.length)throw Error('Name the files to publish.');
-  try{await prepareRepository(projectRoot,files);await publishChanges(projectRoot,files,message);}
-  catch(error){console.error('\nNOT PUBLISHED: '+error.message);process.exitCode=1;}
+  const args=process.argv.slice(2),options={},files=[];
+  for(let i=0;i<args.length;i++){
+    if(['--message','--kind','--body-file','--tool'].includes(args[i])){options[args[i].slice(2)]=args[++i];}
+    else files.push(args[i]);
+  }
+  try{
+    if(!options.message)throw Error('Usage: node scripts/publish-changes.mjs --message "text" [--kind NAME] [--body-file FILE] [--tool NAME] FILE...');
+    if(!files.length)throw Error('Name the files to propose.');
+    const body=options['body-file']?await fs.readFile(options['body-file'],'utf8'):'';
+    await prepareRepository(projectRoot,files);
+    await publishChanges(projectRoot,files,options.message,{kind:options.kind||'change',body,toolName:options.tool});
+  }catch(error){console.error('\nNO PULL REQUEST OPENED: '+error.message);process.exitCode=1;}
 }

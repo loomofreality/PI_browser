@@ -18,6 +18,7 @@ function Run($Exe, [string[]]$Arguments) {
 }
 $lock = $null
 $stage = $null
+$repacked = $false
 $originalLocation = Get-Location
 try {
     Set-Location -LiteralPath $root
@@ -47,19 +48,32 @@ try {
         $repo = "$current"
         $site = "https://$($Matches[1].ToLowerInvariant()).github.io/$($Matches[2])/"
     }
-    $dirty = @(Run $git @('-C', $root, 'status', '--porcelain', '--untracked-files=no'))
-    if ($dirty.Count) { throw 'Commit or resolve tracked-file changes before updating. Your source folders are ignored by Git and may contain your edits.' }
     foreach ($folder in @('original_texts - copy','translated_texts - copy')) {
         if (@(Get-ChildItem -LiteralPath (Join-Path $root $folder) -Filter '*.txt' -File).Count -eq 0) { throw "$folder contains no .txt files." }
     }
     if (@(Get-ChildItem -LiteralPath (Join-Path $root 'metadata - copy') -Filter '*.csv' -File).Count -ne 1) { throw 'Keep exactly one .csv file in metadata - copy.' }
-    Write-Host "`n1/5 Checking GitHub access and syncing main..." -ForegroundColor Cyan
+    Write-Host "`n1/4 Checking GitHub access and syncing main..." -ForegroundColor Cyan
     Run $gh @('auth','status','--hostname','github.com')
     Run $git @('-C',$root,'fetch','origin')
     $ahead = @(Run $git @('-C',$root,'log','--format=%H','origin/main..HEAD'))
     if ($ahead.Count) { throw 'There are unpublished local commits. Push or resolve them before running the updater.' }
+    # Volume PDFs proposed by an earlier update stay in this folder as local
+    # changes. Once that pull request is merged they match main on GitHub, so
+    # they are handed back to Git (their bytes are identical) before syncing.
+    $upstream = @(Run $git @('-C',$root,'-c','core.quotePath=false','diff','--name-only','HEAD','origin/main'))
+    foreach ($file in $upstream) {
+        $local = Join-Path $root $file
+        if (-not (Test-Path -LiteralPath $local -PathType Leaf)) { continue }
+        $remoteHash = & $git -C $root rev-parse --verify --quiet "origin/main:$file"
+        if ($LASTEXITCODE -ne 0) { continue }
+        if ((Run $git @('-C',$root,'hash-object','--',$file)) -ne $remoteHash) { continue }
+        $tracked = & $git -C $root ls-files -- $file
+        if ($tracked) { Run $git @('-C',$root,'checkout','HEAD','--',$file) } else { Remove-Item -LiteralPath $local -Force }
+    }
+    $dirty = @(Run $git @('-C', $root, '-c', 'core.quotePath=false', 'status', '--porcelain', '--untracked-files=no'))
+    if ($dirty.Count) { throw "Commit or resolve tracked-file changes before updating (if they belong to a pull request that is still open, merge or close it on GitHub first): $(($dirty | Select-Object -First 5) -join '; '). Your source folders are ignored by Git and may contain your edits." }
     Run $git @('-C',$root,'merge','--ff-only','origin/main')
-    Write-Host "`n2/5 Snapshotting publishable sources and filtered metadata..." -ForegroundColor Cyan
+    Write-Host "`n2/4 Snapshotting publishable sources and filtered metadata..." -ForegroundColor Cyan
     $stage = Join-Path $root ('.qa/update-' + [Guid]::NewGuid().ToString('N'))
     New-Item -ItemType Directory -Path $stage | Out-Null
     # Copy every build input; the source archive is regenerated below.
@@ -70,56 +84,66 @@ try {
     Copy-Item -LiteralPath (Join-Path $root 'subjects - reference.docx') -Destination $stage
     Copy-Item -LiteralPath (Join-Path $root 'pdf_volumes - copy') -Destination $stage -Recurse
     Run $python @((Join-Path $root 'scripts/archive-sources.py'),'--output',(Join-Path $stage 'data/collection'))
-    Write-Host "`n3/5 Building and testing the exact upload snapshot..." -ForegroundColor Cyan
+    Write-Host "`n3/4 Building and testing the exact upload snapshot..." -ForegroundColor Cyan
     Set-Location -LiteralPath $stage
     Run $node @('--max-old-space-size=6144','scripts/build.mjs')
     $tests = @(Get-ChildItem -LiteralPath (Join-Path $stage 'tests') -Filter '*.test.mjs' -File | ForEach-Object { $_.FullName })
     Run $node (@('--test') + $tests)
     Set-Location -LiteralPath $root
     if ($ValidateOnly) { Write-Host 'Validation passed. Nothing was uploaded.' -ForegroundColor Green; exit 0 }
+    # Describe the update by catalog ID before the repository copy is re-packed.
+    $body = Join-Path $stage 'pull-request.md'
+    Run $python @((Join-Path $root 'scripts/describe-collection-update.py'),'--old',(Join-Path $root 'data/collection'),'--new',(Join-Path $stage 'data/collection'),'--stats',(Join-Path $stage 'dist/stats.json'),'--output',$body)
     # Only tested snapshot files are committed; source folders are never edited.
     # Re-pack into the repository copy so that only changed shards are rewritten.
+    $repacked = $true
     Run $python @((Join-Path $root 'scripts/archive-sources.py'),'--from-archive',(Join-Path $stage 'data/collection'),'--output',(Join-Path $root 'data/collection'))
     Copy-Item -LiteralPath (Join-Path $stage 'build-report.json') -Destination (Join-Path $root 'build-report.json')
     Copy-Item -LiteralPath (Join-Path $stage 'subject-import-report.json') -Destination (Join-Path $root 'subject-import-report.json')
-    Write-Host "`n4/5 Uploading the filtered source archive..." -ForegroundColor Cyan
-    Run $git @('-C',$root,'add','-A','--','data/collection','build-report.json','subject-import-report.json','pdf_volumes - copy')
-    $account = (Run $gh @('api','user') | Out-String | ConvertFrom-Json)
-    Run $git @('-C',$root,'-c',('user.name='+$account.login),'-c',('user.email='+$account.id+'+'+$account.login+'@users.noreply.github.com'),'commit','-m',('Refresh collection sources '+(Get-Date -Format 'yyyy-MM-dd HH:mm')))
-    $sha = Run $git @('-C',$root,'rev-parse','HEAD')
-    Run $git @('-C',$root,'push','origin','main')
-    Write-Host "`n5/5 Waiting for the GitHub Pages rebuild and publication..." -ForegroundColor Cyan
-    $deadline = (Get-Date).AddMinutes(3)
-    $runId = $null
-    do {
-        $runJson = & $gh 'run' 'list' '--repo' $repo '--workflow' 'pages.yml' '--commit' $sha '--event' 'push' '--limit' '1' '--json' 'databaseId'
-        if ($LASTEXITCODE -ne 0) { throw "GitHub could not list the deployment run." }
-        $runData = $runJson | ConvertFrom-Json
-        if ($runData -is [array] -and $runData.Count) { $runId = $runData[0].databaseId }
-        elseif ($runData -and $runData.databaseId) { $runId = $runData.databaseId }
-        if ($runId) { break }
-        Start-Sleep -Seconds 5
-    } while ((Get-Date) -lt $deadline)
-    if (-not $runId) { throw "GitHub has not started a deployment for $sha. Check the repository Actions page." }
-    Run $gh @('run','watch',"$runId",'--repo',$repo,'--interval','15','--exit-status')
-    # The deployed report's dataset differs from the local rebuild, so compare corpus counts.
-    $expected = Get-Content -Raw -LiteralPath (Join-Path $stage 'dist/stats.json') | ConvertFrom-Json
-    $live = Invoke-RestMethod -Uri ($site+'stats.json?update='+$sha)
-    foreach ($key in @('records','pairs','original','english','metadataOnly')) {
-        if ($live.$key -ne $expected.$key) { throw "Deployment finished but public $key differs. Check $site" }
-    }
     # Add the tested build alongside existing datasets so an open preview keeps working.
     New-Item -ItemType Directory -Force -Path (Join-Path $root 'dist') | Out-Null
     Copy-Item -Path (Join-Path $stage 'dist/*') -Destination (Join-Path $root 'dist') -Recurse -Force
-    Write-Host "`nPublished successfully: $site" -ForegroundColor Green
-    Write-Host "Deployment: https://github.com/$repo/actions/runs/$runId"
+    $paths = @('data/collection','build-report.json','subject-import-report.json','pdf_volumes - copy')
+    $sources = @(Run $git (@('-C',$root,'-c','core.quotePath=false','status','--porcelain','--untracked-files=all','--','data/collection','pdf_volumes - copy')))
+    if (-not $sources.Count) {
+        Write-Host "`nNothing to propose: the sources and volume PDFs already match GitHub." -ForegroundColor Green
+        exit 0
+    }
+    $pdfs = @($sources | Where-Object { $_.Substring(3).Trim('"') -like 'pdf_volumes - copy/*' } | ForEach-Object {
+        $name = Split-Path -Leaf $_.Substring(3).Trim('"')
+        switch -Regex ($_.Substring(0,2)) { '\?\?|A' { "added: $name" } 'D' { "removed: $name" } default { "replaced: $name" } }
+    })
+    if ($pdfs.Count) { Add-Content -LiteralPath $body -Encoding UTF8 -Value ("`nVolume PDFs (copied to the PDF site when this is merged):`n" + (($pdfs | ForEach-Object { "- $_" }) -join "`n")) }
+    Write-Host "`n4/4 Opening a pull request for the tested update..." -ForegroundColor Cyan
+    $account = (Run $gh @('api','user') | Out-String | ConvertFrom-Json)
+    $title = 'Refresh collection sources ' + (Get-Date -Format 'yyyy-MM-dd HH:mm')
+    # Commit through a separate index: this folder stays on main, untouched by Git.
+    $env:GIT_INDEX_FILE = Join-Path $stage 'pull-request.index'
+    try {
+        Run $git @('-C',$root,'read-tree','HEAD')
+        Run $git (@('-C',$root,'add','-A','--') + $paths)
+        $tree = Run $git @('-C',$root,'write-tree')
+        $sha = Run $git @('-C',$root,'-c',('user.name='+$account.login),'-c',('user.email='+$account.id+'+'+$account.login+'@users.noreply.github.com'),'commit-tree',$tree,'-p','HEAD','-m',$title)
+    } finally { Remove-Item Env:GIT_INDEX_FILE -ErrorAction SilentlyContinue }
+    $files = @(Run $git @('-C',$root,'-c','core.quotePath=false','diff','--name-only','HEAD',$sha))
+    Add-Content -LiteralPath $body -Encoding UTF8 -Value ("`nFiles changed:`n" + (($files | ForEach-Object { '- `' + $_ + '`' }) -join "`n") + "`n`nOpened by Update-Collection.cmd (maintenance folder). Merging this pull request publishes the change: the website rebuilds and is checked automatically.")
+    # A new branch name: an ordinary push never overwrites remote history, and main does not move.
+    $branch = 'maintenance/collection-' + (Get-Date).ToUniversalTime().ToString('yyyyMMddHHmmss')
+    Run $git @('-C',$root,'push','origin',"${sha}:refs/heads/$branch")
+    $url = @(Run $gh @('pr','create','--repo',$repo,'--base','main','--head',$branch,'--title',$title,'--body-file',$body))[-1]
+    Write-Host "`nPull request: $url" -ForegroundColor Green
+    Write-Host "Nothing is published until the pull request is merged on GitHub; the website then rebuilds automatically ($site)."
+    Write-Host 'Keep added or replaced volume PDFs in pdf_volumes - copy; once the pull request is merged, the next update recognises them.'
 } catch {
     Write-Host "`nUPDATE STOPPED: $($_.Exception.Message)" -ForegroundColor Red
-    Write-Host 'Your source folders have not been changed. Resolve the reported error before retrying.'
+    Write-Host 'No pull request was opened. Your source folders have not been changed. Resolve the reported error before retrying.'
     exit 1
 } finally {
     Set-Location -LiteralPath $originalLocation
     if ($lock) { $lock.Dispose() }
+    # The re-packed archive and reports are rebuilt on every run, and the pull
+    # request carries them; keep this folder's copies matching main.
+    if ($repacked) { & $git -C $root checkout HEAD -- data/collection build-report.json subject-import-report.json }
     if ($stage -and (Test-Path -LiteralPath $stage)) {
         $resolvedStage = [IO.Path]::GetFullPath($stage)
         $allowedParent = [IO.Path]::GetFullPath((Join-Path $root '.qa')) + [IO.Path]::DirectorySeparatorChar

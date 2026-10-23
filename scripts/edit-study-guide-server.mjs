@@ -8,16 +8,38 @@ import {GuideStore,guideFiles} from './study-guide-store.mjs';
 import {siteReader,guideQuotations} from './study-guide-quotations.mjs';
 import {readingPassage} from './study-guide-passage.mjs';
 import {githubTarget} from './github-target.mjs';
-import {tool} from './publish-item.mjs';
+import {tool,run} from './publish-item.mjs';
 
 const directory=path.dirname(fileURLToPath(import.meta.url));
 const exec=(command,args,cwd)=>new Promise((resolve,reject)=>execFile(command,args,{cwd,windowsHide:true},(error,stdout,stderr)=>error?reject(Error(String(stderr||error.message).trim())):resolve(String(stdout))));
 
-// Study-guide files with saved, unpublished edits in this folder.
+// Study-guide files with saved edits in this folder that are not yet on main
+// (including ones already proposed in a pull request that is not merged).
 export async function pendingGuideFiles(root,git='git'){
   const names=new Set((await guideFiles(path.join(root,'study-guides'))).map(name=>'study-guides/'+name));
   const status=await exec(git,['-C',root,'-c','core.quotePath=false','status','--porcelain','--','study-guides'],root);
   return status.split('\n').filter(Boolean).map(line=>line.slice(3).trim()).filter(file=>names.has(file));
+}
+
+// A readable account of the saved changes to each guide in one study-guide
+// file, for the pull request description. `before` is the file on main.
+const guideFields=[['displayTitle','title'],['introduction','introduction'],['arc','reading arc'],['questions','discussion questions'],['neighbors','"Continue exploring" invitations'],['references','comparative readings']];
+export function describeGuideChanges(before,after){
+  const old=new Map((before?.subjects||[]).map(guide=>[guide.slug,guide]));
+  return after.subjects.flatMap(guide=>{
+    const was=old.get(guide.slug);
+    if(!was)return [`- **${guide.displayTitle}**: new guide`];
+    const same=(a,b)=>JSON.stringify(a)===JSON.stringify(b),changes=guideFields.filter(([key])=>!same(was[key],guide[key])).map(([,label])=>label);
+    const previous=new Map(was.order.map(x=>[x.key,x])),kept=guide.order.filter(x=>previous.has(x.key));
+    if(!same(was.order.filter(x=>guide.order.some(y=>y.key===x.key)).map(x=>x.key),kept.map(x=>x.key)))changes.push('reading order');
+    const count=(test,label)=>{const n=kept.filter(test).length;if(n)changes.push(`${label} (${n} reading${n>1?'s':''})`);};
+    count(x=>x.why!==previous.get(x.key).why,'notes on readings');
+    count(x=>!same(x.shortened,previous.get(x.key).shortened),'sentences shown');
+    count(x=>x.omitted&&!previous.get(x.key).omitted,'left out');
+    count(x=>!x.omitted&&previous.get(x.key).omitted,'put back');
+    if(!changes.length&&same(was,guide))return [];
+    return [`- **${guide.displayTitle}**: ${changes.length?changes.join('; '):'other details'} changed`];
+  });
 }
 
 export async function startGuideEditor({root=path.resolve(directory,'..'),port=0,open=true,site=process.env.PI_GUIDE_SITE}={}){
@@ -76,8 +98,15 @@ export async function startGuideEditor({root=path.resolve(directory,'..'),port=0
         const titles=new Map((await store.list()).map(g=>[g.slug,g.title]));
         const named=(input.slugs||[]).filter(slug=>titles.has(slug)).map(slug=>titles.get(slug));
         const message=named.length?`Edit study guide${named.length>1?'s':''}: ${named.join(', ')}`.slice(0,200):'Edit study guides';
-        job={status:'running',log:`Publishing ${files.join(', ')}…\n`};
-        const child=spawn(process.execPath,[path.join(directory,'publish-changes.mjs'),'--message',message,...files],{cwd:root,windowsHide:true,stdio:['ignore','pipe','pipe']});
+        const changes=[];
+        for(const file of files){
+          const before=await run(git,['-C',root,'show','HEAD:'+file],root,true).then(JSON.parse,()=>null);
+          changes.push(...describeGuideChanges(before,JSON.parse(await fs.readFile(path.join(root,file),'utf8'))));
+        }
+        const bodyFile=path.join(root,'.qa','study-guide-pull-request.md');await fs.mkdir(path.dirname(bodyFile),{recursive:true});
+        await fs.writeFile(bodyFile,'Study guide wording edited and saved with Edit-Study-Guide.cmd. The reviewed quotations, the subjects and the guides\' selections are unchanged; the editor checked each guide against the website\'s rules before saving.\n\n'+(changes.join('\n')||'- No guide content changed.')+'\n');
+        job={status:'running',log:`Opening a pull request for ${files.join(', ')}…\n`};
+        const child=spawn(process.execPath,[path.join(directory,'publish-changes.mjs'),'--message',message,'--kind','study-guides','--tool','Edit-Study-Guide.cmd','--body-file',bodyFile,...files],{cwd:root,windowsHide:true,stdio:['ignore','pipe','pipe']});
         const append=data=>{job.log=(job.log+data).slice(-60000);};
         child.stdout.on('data',append);child.stderr.on('data',append);
         child.on('error',error=>{append(error.message);job.status='failed';});

@@ -45,7 +45,7 @@ function render(){
   $('review-prev').onclick=()=>select(ordered[position-1].id);$('review-next').onclick=()=>select(ordered[position+1].id);
   $('next-proposals').onclick=()=>{const next=[...ordered.slice(position+1),...ordered.slice(0,position+1)].find(s=>pending(s.id));if(next)select(next.id);else message('No proposed connections remain.');};
   $('mark-reviewed').onchange=e=>{const checked=e.target.checked;save(d=>({...d,reviewedSubjects:{...d.reviewedSubjects,[active]:checked}}));};
-  const fillTargets=()=>{const q=$('other-search').value.toLowerCase();const targets=index.subjects.filter(s=>s.id!==active&&s.name.toLowerCase().includes(q)).sort((a,b)=>a.name.localeCompare(b.name));$('other-subject').innerHTML=targets.map(s=>`<option value="${s.id}" style="color:${color(s)}">${esc(s.name)}</option>`).join('');};
+  const fillTargets=()=>{const q=$('other-search').value.toLowerCase();const targets=index.subjects.filter(s=>s.id!==active&&s.name.toLowerCase().includes(q)).sort((a,b)=>a.name.localeCompare(b.name));$('other-subject').innerHTML=targets.map(s=>`<option value="${s.id}" style="${subjectColorStyle(s)};color:var(--subject-color)">${esc(s.name)}</option>`).join('');};
   $('other-search').oninput=fillTargets;fillTargets();
   $('add-connection').onsubmit=e=>{e.preventDefault();const target=$('other-subject').value;if(!target){message('Choose another subject.',true);return;}const edge={source:active,target,type:$('new-type').value,status:'accepted',note:$('new-note').value};save(d=>changeConnection(d,edge));};
   for(const [i,edge] of connections.entries()){
