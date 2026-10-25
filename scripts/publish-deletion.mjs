@@ -8,7 +8,7 @@ import path from 'node:path';
 import {fileURLToPath} from 'node:url';
 import {randomUUID} from 'node:crypto';
 import {gunzipSync} from 'node:zlib';
-import {tool,run,openPullRequest} from './publish-item.mjs';
+import {tool,run,openPullRequest,jobFolder} from './publish-item.mjs';
 import {ItemStore,validId} from './item-store.mjs';
 import {githubTarget} from './github-target.mjs';
 import {planDeletion,liveSite,updateGuides,authorizedGroups} from './catalog-deletion.mjs';
@@ -41,12 +41,12 @@ async function withStage(root,prefix,work){
   const qa=path.join(root,'.qa');await fs.mkdir(qa,{recursive:true});
   const lockFile=path.join(qa,'item-publish.lock');let lock;
   try{lock=await fs.open(lockFile,'wx');}catch{throw Error('Another item publication is running. If it was interrupted, close the editor and remove .qa/item-publish.lock before retrying.');}
-  const stage=path.join(qa,prefix+randomUUID());let keep=true;
+  const jobs=await jobFolder(),stage=path.join(jobs,prefix+randomUUID());let keep=true;
   try{const result=await work(stage);keep=false;return result;}
   finally{
     await lock.close();await fs.unlink(lockFile);
     // Keep a failed job for diagnosis; remove only this verified transient directory.
-    if(!keep&&path.dirname(stage)===qa&&new RegExp('^'+prefix+'[a-f0-9-]+$').test(path.basename(stage))){
+    if(!keep&&path.dirname(stage)===jobs&&new RegExp('^'+prefix+'[a-f0-9-]+$').test(path.basename(stage))){
       try{await fs.rm(stage,{recursive:true,force:true,maxRetries:5,retryDelay:500});}
       catch{console.log('Temporary files are still in '+stage+' because another program has them open.');}
     }

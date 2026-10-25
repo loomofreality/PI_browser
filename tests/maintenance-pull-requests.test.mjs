@@ -92,3 +92,14 @@ test('pull request descriptions summarize editorial decisions, subject order and
     ['- **Sample**: introduction; discussion questions; reading order; notes on readings (1 reading); sentences shown (1 reading); left out (1 reading) changed']);
   assert.deepEqual(describeGuideChanges(null,{subjects:[guide]}),['- **Sample**: new guide']);
 });
+
+test('temporary checkouts are made outside the project folder',async()=>{
+  const {jobFolder}=await import('../scripts/publish-item.mjs');
+  const folder=await jobFolder();
+  assert.ok(path.relative(root,folder).startsWith('..'),folder);
+  for(const name of ['publish-item.mjs','publish-deletion.mjs','publish-changes.mjs']){
+    const text=await fs.readFile(path.join(root,'scripts',name),'utf8');
+    assert.doesNotMatch(text,/path\.join\(qa,['"](?:item-publish-|pull-request-index-)|path\.join\(qa,prefix/,name);
+  }
+  assert.match(await fs.readFile(path.join(root,'scripts/update-collection.ps1'),'utf8'),/GetTempPath\(\)\) 'pi-browser-jobs'/);
+});

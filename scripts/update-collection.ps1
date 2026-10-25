@@ -74,7 +74,11 @@ try {
     if ($dirty.Count) { throw "Commit or resolve tracked-file changes before updating (if they belong to a pull request that is still open, merge or close it on GitHub first): $(($dirty | Select-Object -First 5) -join '; '). Your source folders are ignored by Git and may contain your edits." }
     Run $git @('-C',$root,'merge','--ff-only','origin/main')
     Write-Host "`n2/4 Snapshotting publishable sources and filtered metadata..." -ForegroundColor Cyan
-    $stage = Join-Path $root ('.qa/update-' + [Guid]::NewGuid().ToString('N'))
+    # Build outside the project folder: a Dropbox folder would sync gigabytes of
+    # throwaway output, and its sync client can lock files Git has just written.
+    $jobs = Join-Path ([IO.Path]::GetTempPath()) 'pi-browser-jobs'
+    New-Item -ItemType Directory -Force -Path $jobs | Out-Null
+    $stage = Join-Path $jobs ('update-' + [Guid]::NewGuid().ToString('N'))
     New-Item -ItemType Directory -Path $stage | Out-Null
     # Copy every build input; the source archive is regenerated below.
     foreach ($folder in @('src','scripts','tests','subject-summaries','study-guides')) { Copy-Item -LiteralPath (Join-Path $root $folder) -Destination $stage -Recurse }
@@ -146,7 +150,7 @@ try {
     if ($repacked) { & $git -C $root checkout HEAD -- data/collection build-report.json subject-import-report.json }
     if ($stage -and (Test-Path -LiteralPath $stage)) {
         $resolvedStage = [IO.Path]::GetFullPath($stage)
-        $allowedParent = [IO.Path]::GetFullPath((Join-Path $root '.qa')) + [IO.Path]::DirectorySeparatorChar
+        $allowedParent = [IO.Path]::GetFullPath($jobs) + [IO.Path]::DirectorySeparatorChar
         if ($resolvedStage.StartsWith($allowedParent,[StringComparison]::OrdinalIgnoreCase) -and (Split-Path -Leaf $resolvedStage) -match '^update-[a-f0-9]{32}$') {
             try { Remove-Item -LiteralPath $resolvedStage -Recurse -Force -ErrorAction Stop }
             catch { Write-Warning "Temporary snapshot could not be removed because Windows still has a file open: $resolvedStage" }
