@@ -1,6 +1,9 @@
 // Plan the removal of one catalog item from everything built on it: subject
 // quotations (through the review decisions), study-guide readings, curated
 // selections and the study-guide catalogue baseline. Volume PDFs are untouched.
+// What a rebuild changes beyond this plan (quotations matched again to other
+// records) is reconciled by scripts/reconcile-study-guides.mjs when GitHub
+// checks the pull request.
 //
 // Planning reads repository files through `read(relativePath)` (a Buffer, or
 // null when absent) and `list(directory)`, and the published site through
@@ -66,7 +69,7 @@ const label=x=>x.why.length>90?x.why.slice(0,89)+'…':x.why;
 // the reading its quotations came from, otherwise it is added as left out (or
 // shown, when it has authorized wording, which may not be left out). Returns
 // guide null when nothing remains to read.
-export function reconcileGuide(guide,before,after,{item,review=null,authorized=()=>false}={}){
+export function reconcileGuide(guide,before,after,{item,cause=`catalog item ${item} was deleted`,review=null,authorized=()=>false}={}){
   guide=structuredClone(guide);review=review&&structuredClone(review);
   const notes=[],oldIds=guide.selection?.ids;
   const beforePool=studyGuideSelections(before.selections),afterPool=studyGuideSelections(after.selections);
@@ -75,8 +78,8 @@ export function reconcileGuide(guide,before,after,{item,review=null,authorized=(
     if(!review)throw Error(`The curated selection review for ${guide.slug} is missing.`);
     const chosen=new Set(oldIds),gone=beforePool.filter(s=>!afterIds.has(s.id)).map(s=>s.id);
     for(const s of afterPool.filter(s=>!beforeIds.has(s.id))){
-      if(!s.passage||authorized({source:s.candidates[0].source,selections:[s]}))throw Error(`Deleting ${item} gives “${guide.displayTitle}” a new candidate quotation (${s.id}) that needs an editorial decision. Nothing was published.`);
-      review.omitted.push({id:s.id,source:s.candidates[0].source,reason:`Became a candidate when catalog item ${item} was deleted; not yet reviewed for this guide.`});
+      if(!s.passage||authorized({source:s.candidates[0].source,selections:[s]}))throw Error(`The catalog change (${cause}) gives “${guide.displayTitle}” a new candidate quotation (${s.id}) that needs an editorial decision. Nothing was published.`);
+      review.omitted.push({id:s.id,source:s.candidates[0].source,reason:`Became a candidate when ${cause}; not yet reviewed for this guide.`});
       notes.push('New candidate quotation left out: '+s.id);
     }
     const lostMandatory=review.selected.filter(s=>!afterIds.has(s.id)&&s.mandatoryAuthorized===true).length;
@@ -85,7 +88,9 @@ export function reconcileGuide(guide,before,after,{item,review=null,authorized=(
     review.importedAuthorityReview=(review.importedAuthorityReview||[]).filter(s=>afterIds.has(s.id));
     const goneChosen=gone.filter(id=>chosen.has(id)).length;
     if(gone.length)notes.push(`${gone.length} candidate quotation${gone.length===1?'':'s'} removed from the curated selection (${goneChosen?goneChosen+' of them chosen for the guide':'none of them chosen for the guide'}).`);
-    if(gone.length)review.removedWithCatalogItems=[...(review.removedWithCatalogItems||[]),...gone.map(id=>({id,item,chosen:chosen.has(id)}))];
+    // Recorded once, even when the guide is reconciled again after a rebuild.
+    const recorded=new Set((review.removedWithCatalogItems||[]).map(x=>x.id));
+    if(gone.some(id=>!recorded.has(id)))review.removedWithCatalogItems=[...(review.removedWithCatalogItems||[]),...gone.filter(id=>!recorded.has(id)).map(id=>({id,item,chosen:chosen.has(id)}))];
     review.candidateCount=afterPool.length;review.selectedCount=review.selected.length;
     review.mandatoryAuthorizedCount-=lostMandatory;
     review.candidateFingerprint=catalogueFingerprint(after.selections);
@@ -99,7 +104,7 @@ export function reconcileGuide(guide,before,after,{item,review=null,authorized=(
   for(const g of groups){
     const key=keyOf(g);if(kept.has(key))continue;
     const previous=g.selections.map(s=>entryOf.get(s.id)).find(Boolean);
-    const entry={key,why:previous?.why||`Added when catalog item ${item} was deleted.`};
+    const entry={key,why:previous?.why||`Added when ${cause}.`};
     if(previous?previous.omitted:!authorized(g))entry.omitted=true;
     // Linked readings come before unlinked ones.
     order.splice(g.source?order.findLastIndex(x=>x.key.startsWith('source:'))+1:order.length,0,entry);
@@ -127,7 +132,7 @@ export function authorizedGroups(readRecord){
 // Apply new subject data to every study-guide file. `subjects` maps a subject
 // ID to {before, after}; `evidenceGone(subjectId, selectionId)` tells whether
 // a neighbor's evidence quotation no longer exists.
-export async function updateGuides({read,list,item,subjects,evidenceGone,authorized=async()=>false}){
+export async function updateGuides({read,list,item,cause=`catalog item ${item} was deleted`,subjects,evidenceGone,authorized=async()=>false}){
   const changes=new Map(),guides=[],text=async name=>(await read(name))?.toString('utf8');
   const baselineText=await text('study-guides/catalogue-baseline.json'),baseline=baselineText&&JSON.parse(baselineText);
   for(const [id,{after}] of subjects)if(baseline?.subjects[id]){
@@ -147,7 +152,7 @@ export async function updateGuides({read,list,item,subjects,evidenceGone,authori
         // Authorized wording is looked up before reconciling, which is synchronous.
         const flags=new Map();
         for(const g of groupSelections(studyGuideSelections(subject.after.selections),subject.after.sources))flags.set(keyOf(g),await authorized(g));
-        const result=reconcileGuide(guide,subject.before,subject.after,{item,review:reviewText&&JSON.parse(reviewText),authorized:g=>flags.get(keyOf(g))??false});
+        const result=reconcileGuide(guide,subject.before,subject.after,{item,cause,review:reviewText&&JSON.parse(reviewText),authorized:g=>flags.get(keyOf(g))??false});
         notes.push(...result.notes);updated=result.guide;
         for(const x of guide.order)if(!updated?.order.some(y=>y.key===x.key))removedReadings.push({slug:guide.slug,key:x.key});
         if(updated&&reviewFile&&JSON.stringify(result.review)!==JSON.stringify(JSON.parse(reviewText))){
@@ -222,7 +227,7 @@ export async function planDeletion({id,read,list,site}){
     changes.set(publicExtractArchive,gzipSync(JSON.stringify(archive),{level:9}));
   }
   const decisionsBefore=JSON.stringify(decisions),deleted=new Set(decisions.deletedIds||[]);
-  decisions.deletedIds=[...(decisions.deletedIds||[]),...[...removed].filter(x=>!deleted.has(x)).sort()];
+  if(removed.size)decisions.deletedIds=[...(decisions.deletedIds||[]),...[...removed].filter(x=>!deleted.has(x)).sort()];
   for(const x of removed)for(const field of ['matches','notes','hints'])if(decisions[field])delete decisions[field][x];
   for(const hint of Object.values(decisions.hints||{}))if(hint.candidates?.some(c=>c.source===id)){hint.candidates=hint.candidates.filter(c=>c.source!==id);hint.referenceIds=(hint.referenceIds||[]).filter(x=>x!==id);}
   if(JSON.stringify(decisions)!==decisionsBefore)changes.set('data/extract-review-decisions.json',jsonText(decisionsText,decisions));
@@ -240,9 +245,5 @@ export async function planDeletion({id,read,list,site}){
   }
   const guides=await updateGuides({read,list,item:id,subjects,evidenceGone:(_,selection)=>removed.has(selection)});
   for(const [name,value] of guides.changes)changes.set(name,value);
-  const result={id,published:Boolean(record),title:record?.title||'',subjects:summary,quotations:removed.size,guides:guides.guides};
-  // The digest ties a preview to its publication, so it leaves out the
-  // baseline's verification time, which differs on every run.
-  const stable=(name,value)=>name==='study-guides/catalogue-baseline.json'?JSON.stringify({...JSON.parse(value),verifiedAt:null}):value;
-  return {...result,digest:sha(JSON.stringify([result,[...changes].map(([name,value])=>[name,sha(stable(name,value))])])),changes,subjectData:subjects};
+  return {id,published:Boolean(record),title:record?.title||'',subjects:summary,quotations:removed.size,removedIds:[...removed].sort(),guides:guides.guides,changes};
 }

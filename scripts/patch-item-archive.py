@@ -1,62 +1,100 @@
-"""Apply exactly one local item to the current published archive, or delete one
-published item (--delete); preserve other items."""
+"""Apply pending catalog edits and deletions to the published source archive.
+
+Reads the shards present in --archive (a part of the archive is enough, as long
+as metadata.tar and every shard an item's texts belong to are there), applies
+the items in --batch and rewrites only the shards whose bytes change, printing
+them as JSON. With --inspect FILE it instead writes the published state of the
+batch's items to FILE and changes nothing.
+
+Batch file: {"items": {ID: {"action": "edit", "metadata": {column: value},
+"original": base64 or null, "english": base64 or null} | {"action": "delete"}}}
+"""
 from pathlib import Path
-import argparse, csv, importlib.util, io, json
+import argparse, base64, csv, importlib.util, io, json
 
-def patch(files, local, identity, policy):
-    # Exact filenames preserve case-distinct IDs. Do not import unrelated local changes.
-    csvs=list((local/'metadata - copy').glob('*.csv'))
-    if len(csvs)!=1: raise ValueError('Expected one local metadata CSV')
-    with csvs[0].open(encoding='utf-8-sig',newline='') as stream:
-        reader=csv.DictReader(stream); fields=reader.fieldnames; rows=list(reader)
-    matches=[row for row in rows if row['PIN']==identity]
-    if len(matches)>1: raise ValueError('Duplicate local metadata ID')
-    name=next(name for name in files if name.startswith('metadata - copy/') and name.endswith('.csv'))
-    reader=csv.DictReader(io.StringIO(files[name].decode('utf-8-sig'),newline=''))
-    if reader.fieldnames!=fields: raise ValueError('Metadata columns differ from the published catalog. Use the full updater.')
-    published=list(reader)
-    known={row['PIN'] for row in published}|{Path(name).stem for name in files if name.endswith('.txt')}|set(json.loads(files[policy.MANIFEST]))
-    if identity not in known: raise ValueError('This is not an existing published ID. Use the full updater to add or rename records.')
-    if matches:
-        if not any(row['PIN']==identity for row in published): published.append(matches[0])
-        else: published=[matches[0] if row['PIN']==identity else row for row in published]
-    output=io.StringIO(newline=''); writer=csv.DictWriter(output,fieldnames=fields,lineterminator='\n');writer.writeheader();writer.writerows(published)
-    result=dict(files);result[name]=output.getvalue().encode('utf-8')
-    for folder in policy.FOLDERS[1:]:
-        filename=identity+'.txt'; key=folder+'/'+filename
-        # Windows paths are case insensitive; enumeration enforces exact identity.
-        actual=next((p for p in (local/folder).iterdir() if p.name==filename),None)
-        if actual is None: result.pop(key,None)
-        else: result[key]=actual.read_bytes()
-    return policy.public_files(result)
+def valid_id(identity):
+    return bool(identity) and len(identity)<=160 and all(c.isalnum() or c in '_ ()-' for c in identity)
 
-def delete(files, identity, policy):
-    # Remove every published trace of one ID: its metadata row, both texts and
-    # any withheld-original entry. Other rows keep their exact published bytes.
-    name=next(name for name in files if name.startswith('metadata - copy/') and name.endswith('.csv'))
-    reader=csv.DictReader(io.StringIO(files[name].decode('utf-8-sig'),newline=''));fields=reader.fieldnames;published=list(reader)
-    withheld=json.loads(files[policy.MANIFEST])
-    texts=[folder+'/'+identity+'.txt' for folder in policy.FOLDERS[1:]]
-    if not any(row['PIN']==identity for row in published) and not any(key in files for key in texts) and identity not in withheld:
-        raise ValueError('This ID is not in the published catalog.')
-    output=io.StringIO(newline='');writer=csv.DictWriter(output,fieldnames=fields,lineterminator='\n');writer.writeheader();writer.writerows(row for row in published if row['PIN']!=identity)
-    result={key:value for key,value in files.items() if key not in texts}
-    result[name]=output.getvalue().encode('utf-8')
-    result[policy.MANIFEST]=(json.dumps(sorted(set(withheld)-{identity}),ensure_ascii=False)+'\n').encode('utf-8')
+def read_metadata(files, policy):
+    names=[n for n in files if n.startswith(policy.FOLDERS[0]+'/') and n.endswith('.csv')]
+    if len(names)!=1: raise ValueError('Expected exactly one metadata CSV in the archive')
+    reader=csv.DictReader(io.StringIO(files[names[0]].decode('utf-8-sig'),newline=''))
+    return names[0], reader.fieldnames, list(reader)
+
+def csv_bytes(fields, rows):
+    output=io.StringIO(newline=''); writer=csv.DictWriter(output,fieldnames=fields,lineterminator='\n')
+    writer.writeheader(); writer.writerows(rows)
+    return output.getvalue().encode('utf-8')
+
+def text_keys(identity, policy):
+    return [folder+'/'+identity+'.txt' for folder in policy.FOLDERS[1:]]
+
+def published_state(files, ids, policy):
+    """What the archive holds for each ID: its metadata row, both texts and
+    whether its original is withheld. Absent parts are null."""
+    name, fields, rows = read_metadata(files, policy)
+    by_id={row['PIN']: row for row in rows}
+    withheld=set(json.loads(files[policy.MANIFEST]))
+    items={}
+    for identity in ids:
+        if not valid_id(identity): raise ValueError('Invalid ID: '+repr(identity))
+        original, english = (files.get(key) for key in text_keys(identity, policy))
+        items[identity]={'metadata': by_id.get(identity),
+                         'original': None if original is None else base64.b64encode(original).decode('ascii'),
+                         'english': None if english is None else base64.b64encode(english).decode('ascii'),
+                         'withheld': identity in withheld}
+    return {'fields': fields, 'items': items}
+
+def apply_batch(files, batch, policy):
+    """The archive files after every edit and deletion in the batch, with the
+    publication policy applied. Other items keep their exact published bytes."""
+    name, fields, rows = read_metadata(files, policy)
+    withheld=set(json.loads(files[policy.MANIFEST]))
+    result=dict(files)
+    for identity, item in batch['items'].items():
+        if not valid_id(identity): raise ValueError('Invalid ID: '+repr(identity))
+        keys=text_keys(identity, policy)
+        listed=any(row['PIN']==identity for row in rows)
+        known=listed or any(key in result for key in keys) or identity in withheld
+        if item['action']=='delete':
+            if not known: raise ValueError(f'{identity} is not in the published catalog.')
+            rows=[row for row in rows if row['PIN']!=identity]
+            for key in keys: result.pop(key, None)
+            withheld.discard(identity)
+        elif item['action']=='edit':
+            if not known: raise ValueError(f'{identity} is not in the published catalog. Add new items with Update-Collection.cmd.')
+            row=item['metadata']
+            if not isinstance(row, dict) or list(row)!=list(fields) or row.get('PIN')!=identity:
+                raise ValueError('Metadata columns differ from the published catalog. Use Update-Collection.cmd for a changed metadata schema.')
+            rows=[row if r['PIN']==identity else r for r in rows] if listed else rows+[row]
+            for key, value in zip(keys, (item.get('original'), item.get('english'))):
+                if value is None: result.pop(key, None)
+                else: result[key]=base64.b64decode(value)
+            # Whether the original is withheld is decided again by the policy below.
+            withheld.discard(identity)
+        else: raise ValueError('Unknown action: '+repr(item.get('action')))
+    result[name]=csv_bytes(fields, rows)
+    result[policy.MANIFEST]=(json.dumps(sorted(withheld), ensure_ascii=False)+'\n').encode('utf-8')
     return policy.public_files(result)
 
 def main():
-    args=argparse.ArgumentParser();args.add_argument('--root',type=Path);args.add_argument('--archive',type=Path,required=True);args.add_argument('--id',required=True);args.add_argument('--delete',action='store_true')
-    options=args.parse_args()
-    if not options.delete and options.root is None: args.error('--root is required unless --delete is given')
-    if not options.id or len(options.id)>160 or any(not(c.isalnum() or c in '_ ()-') for c in options.id): raise ValueError('Invalid ID')
-    spec=importlib.util.spec_from_file_location('archive_sources',Path(__file__).with_name('archive-sources.py'));policy=importlib.util.module_from_spec(spec);spec.loader.exec_module(policy)
-    before=policy.read_archive(options.archive)
-    files=delete(before,options.id,policy) if options.delete else patch(before,options.root,options.id,policy)
-    if files==before:
-        print('This item already matches the published source.')
+    parser=argparse.ArgumentParser(description=__doc__)
+    parser.add_argument('--archive', type=Path, required=True, help='Directory holding the published shards to change')
+    parser.add_argument('--batch', type=Path, required=True, help='JSON file of edits and deletions')
+    parser.add_argument('--inspect', type=Path, help='Write the published state of the batch items here and change nothing')
+    options=parser.parse_args()
+    spec=importlib.util.spec_from_file_location('archive_sources', Path(__file__).with_name('archive-sources.py'))
+    policy=importlib.util.module_from_spec(spec); spec.loader.exec_module(policy)
+    batch=json.loads(options.batch.read_text(encoding='utf-8'))
+    files=policy.read_archive(options.archive, partial=True)
+    if policy.MANIFEST not in files: raise SystemExit('metadata.tar is missing from '+str(options.archive))
+    if options.inspect:
+        options.inspect.write_text(json.dumps(published_state(files, list(batch['items']), policy), ensure_ascii=False), encoding='utf-8')
         return
-    changed=policy.write_archive(options.archive,files)
-    print(f'Prepared one-item public archive {"without" if options.delete else "for"} {options.id} ({changed} changed shard(s))')
+    result=apply_batch(files, batch, policy)
+    present={p.name for p in options.archive.iterdir()}
+    missing=sorted({policy.shard_name(n) for n in result}-present)
+    if missing: raise SystemExit('Archive shards missing for this change: '+', '.join(missing))
+    print(json.dumps({'changed': policy.write_shards(options.archive, result, only=present)}))
 
 if __name__=='__main__': main()

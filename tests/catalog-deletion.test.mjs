@@ -75,7 +75,7 @@ test('guide files, neighbors, baselines and sentence context are updated togethe
   assert.deepEqual(guides.map(g=>g.slug),['sample','other']);
 });
 
-test('a deletion previewed earlier keeps its digest when the baseline is verified again',async t=>{
+test('a plan lists the removed quotations; reconciling a guide again after a rebuild records them once',async()=>{
   const before={subject:{id:'S',name:'Sample'},sources,selections:[{...linked('a','GONE'),subject:'S'},{...linked('b','KEEP'),subject:'S'}]};
   const guide={id:'S',slug:'sample',displayTitle:'Sample',order:[{key:'source:GONE',why:'First.'},{key:'source:KEEP',why:'Second.'}],questions:[],neighbors:[]};
   const files={
@@ -85,12 +85,18 @@ test('a deletion previewed earlier keeps its digest when the baseline is verifie
     'study-guides/catalogue-baseline.json':JSON.stringify({format:1,subjects:{S:{fingerprint:catalogueFingerprint(before.selections),publicSelections:2}}},null,2)+'\n'
   };
   const site=async name=>name==='subjects/S.json.gz'?before:name==='subjects/passages/GONE.json.gz'?{passages:{x:{subjects:['S']}}}:null;
-  const plan=()=>planDeletion({id:'GONE',read:async name=>files[name]===undefined?null:Buffer.from(files[name]),list:async()=>['first-batch.json','catalogue-baseline.json'],site});
-  t.mock.timers.enable({apis:['Date'],now:0});
-  const preview=await plan();
-  t.mock.timers.tick(60000);
-  const publication=await plan();
-  assert.equal(preview.quotations,1);
-  assert.notEqual(preview.changes.get('study-guides/catalogue-baseline.json'),publication.changes.get('study-guides/catalogue-baseline.json'));
-  assert.equal(publication.digest,preview.digest);
+  const plan=await planDeletion({id:'GONE',read:async name=>files[name]===undefined?null:Buffer.from(files[name]),list:async()=>['first-batch.json','catalogue-baseline.json'],site});
+  assert.deepEqual(plan.removedIds,['a']);assert.equal(plan.quotations,1);
+  assert.deepEqual([...plan.changes.keys()].sort(),['data/extract-review-decisions.json','data/subject-extracts-public.json.gz','study-guides/catalogue-baseline.json','study-guides/first-batch.json']);
+  // A curated guide reconciled by the plan, then again on GitHub against the rebuilt data.
+  const review={subject:'S',status:'finalized_before_analysis',selectionBeforeAnalysis:true,target:2,candidateCount:2,selectedCount:2,mandatoryAuthorizedCount:0,candidateFingerprint:catalogueFingerprint(before.selections),selected:[{id:'a',source:'GONE'},{id:'b',source:'KEEP'}],omitted:[],importedAuthorityReview:[]};
+  const curated={...guide,selection:{review:'selections/sample.json',ids:['a','b'],sha256:''}};
+  const planned={...before,selections:[before.selections[1]]};
+  const first=reconcileGuide(curated,before,planned,{item:'GONE',review});
+  assert.deepEqual(first.review.removedWithCatalogItems,[{id:'a',item:'GONE',chosen:true}]);
+  const rebuilt={...planned,selections:[{...linked('b','KEEP'),subject:'S',candidates:[{source:'KEEP',version:'v2',ranges:[{paragraph:1,start:0,end:5,text:'Text.'}]}]}]};
+  const second=reconcileGuide(first.guide,before,rebuilt,{item:'GONE',cause:'catalog item GONE was deleted',review:first.review});
+  assert.deepEqual(second.review.removedWithCatalogItems,[{id:'a',item:'GONE',chosen:true}]);
+  assert.equal(second.review.candidateFingerprint,catalogueFingerprint(rebuilt.selections));
+  assert.deepEqual(second.guide.order,[guide.order[1]]);
 });

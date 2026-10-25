@@ -5,18 +5,29 @@ import {parseCsv} from '../src/text.mjs';
 import {decodeSource} from './source-encoding.mjs';
 
 const sha=bytes=>createHash('sha256').update(bytes).digest('hex');
-const folders=['original_texts - copy','translated_texts - copy'];
+export const sourceFolders=['metadata - copy','original_texts - copy','translated_texts - copy'];
+const folders=sourceFolders.slice(1);
 export const validId=id=>typeof id==='string'&&/^[\p{L}\p{N}_ ()-]+$/u.test(id)&&id.length<=160;
 export function csvText(rows,fields){
   const cell=value=>'"'+String(value??'').replaceAll('"','""')+'"';
   return [fields.map(cell).join(','),...rows.map(row=>fields.map(field=>cell(row[field])).join(','))].join('\n')+'\n';
 }
 export function decode(bytes){return decodeSource(bytes).text;}
+// One item's content: its metadata row and both texts (decoded). Two items
+// with the same content have the same state, whatever the file encodings.
+export const itemContent=item=>({metadata:item.metadata,original:item.original??null,english:item.english??null});
+export const itemState=item=>sha(JSON.stringify(itemContent(item)));
+// Check an item as the editor sends it: the ID and column names are fixed,
+// texts are strings or absent (null).
+export function checkItemInput(input,fields,id){
+  if(!input.metadata||typeof input.metadata!=='object'||Object.keys(input.metadata).length!==fields.length||fields.some(field=>typeof input.metadata[field]!=='string')||input.metadata.PIN!==id)throw Error('Keep the ID and metadata column names unchanged.');
+  for(const language of ['original','english'])if(input[language]!==null&&typeof input[language]!=='string')throw Error('Text must be a string, or absent.');
+}
 // The editor changes the local source folders, which are not in Git. Explain
 // how to supply them rather than failing on the first lookup.
 export async function requireSourceFolders(root){
   const missing=[];
-  for(const folder of ['metadata - copy',...folders])try{if(!(await fs.stat(path.join(root,folder))).isDirectory())missing.push(folder);}catch{missing.push(folder);}
+  for(const folder of sourceFolders)try{if(!(await fs.stat(path.join(root,folder))).isDirectory())missing.push(folder);}catch{missing.push(folder);}
   if(missing.length)throw Error(`The source folders are missing from ${path.resolve(root)}: ${missing.join(', ')}. Copy them into this project folder (they are not stored in Git), then start the editor again.`);
 }
 export class ItemStore{
@@ -28,7 +39,7 @@ export class ItemStore{
     if(csvs.length!==1)throw Error('Keep exactly one CSV in metadata - copy.');
     const names=[path.join('metadata - copy',csvs[0]),...folders.map(folder=>path.join(folder,id+'.txt'))];
     const bytes=[];
-    for(const [i,name] of names.entries()){
+    for(const name of names){
       const file=path.join(this.root,name),entries=await fs.readdir(path.dirname(file));
       if(!entries.includes(path.basename(file))){bytes.push(null);continue;}
       if((await fs.lstat(file)).isSymbolicLink())throw Error('Source files must not be symbolic links.');
@@ -39,27 +50,30 @@ export class ItemStore{
     const row=rows.find(row=>row.PIN===id);
     if(!row&&!bytes[1]&&!bytes[2])throw Error('No source item has that exact ID. IDs are case-sensitive.');
     const fields=Object.keys(rows[0]);
+    // The files as a whole, to notice a concurrent write while saving.
     const revision=sha(JSON.stringify(bytes.map(value=>value===null?null:sha(value))));
-    return {id,revision,names,bytes,rows,fields,metadata:row||Object.fromEntries(fields.map(field=>[field,field==='PIN'?id:'']))};
+    const item={id,fields,metadata:row||Object.fromEntries(fields.map(field=>[field,field==='PIN'?id:''])),original:bytes[1]===null?null:decode(bytes[1]),english:bytes[2]===null?null:decode(bytes[2])};
+    return {...item,state:itemState(item),revision,names,bytes,rows,listed:Boolean(row)};
   }
   async load(id){
-    const s=await this.snapshot(id);
-    return {id:s.id,revision:s.revision,fields:s.fields,metadata:s.metadata,original:s.bytes[1]===null?null:decode(s.bytes[1]),english:s.bytes[2]===null?null:decode(s.bytes[2])};
+    const {id:itemId,state,fields,metadata,original,english}=await this.snapshot(id);
+    return {id:itemId,state,fields,metadata,original,english};
   }
+  // Write the item as given. `input.state` is the content it was based on: the
+  // save stops when the source files hold something else now.
   async save(input){
     const s=await this.snapshot(input.id);
-    if(s.revision!==input.revision)throw Error('The source files changed since this item was opened. Reload before saving; your edits have not been written.');
-    if(!input.metadata||Object.keys(input.metadata).length!==s.fields.length||s.fields.some(field=>typeof input.metadata[field]!=='string')||input.metadata.PIN!==s.id)throw Error('Keep the ID and metadata column names unchanged.');
-    for(const language of ['original','english'])if(input[language]!==null&&typeof input[language]!=='string')throw Error('Text must be a string, or absent.');
+    if(s.state!==input.state)throw Error('The source files changed since this item was opened. Reload before saving; your edits have not been written.');
+    checkItemInput(input,s.fields,s.id);
     const rows=s.rows.map(row=>row.PIN===s.id?input.metadata:row);
-    if(!s.rows.some(row=>row.PIN===s.id))rows.push(input.metadata);
-    const metadataChanged=JSON.stringify(input.metadata)!==JSON.stringify(s.metadata)||!s.rows.some(row=>row.PIN===s.id);
-    const next=[metadataChanged?Buffer.from(csvText(rows,s.fields)):s.bytes[0],...['original','english'].map((language,i)=>input[language]===null?null:input[language]===decode(s.bytes[i+1]||Buffer.alloc(0))&&s.bytes[i+1]!==null?s.bytes[i+1]:Buffer.from(input[language],'utf8'))];
+    if(!s.listed)rows.push(input.metadata);
+    const metadataChanged=JSON.stringify(input.metadata)!==JSON.stringify(s.metadata)||!s.listed;
+    const next=[metadataChanged?Buffer.from(csvText(rows,s.fields)):s.bytes[0],...['original','english'].map((language,i)=>input[language]===null?null:s.bytes[i+1]!==null&&input[language]===s[language]?s.bytes[i+1]:Buffer.from(input[language],'utf8'))];
     const backup=await this.replace(s,next);
     return {...await this.load(s.id),backup};
   }
-  // Remove the item from the local source folders after its deletion has been
-  // published, so a later full collection update cannot restore it.
+  // Remove the item from the local source folders once its deletion has been
+  // proposed, so a later full collection update cannot restore it.
   async remove(id){
     let s;
     try{s=await this.snapshot(id);}catch(error){if(/^No source item/.test(error.message))return null;throw error;}

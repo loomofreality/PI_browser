@@ -54,6 +54,11 @@ try {
     if (@(Get-ChildItem -LiteralPath (Join-Path $root 'metadata - copy') -Filter '*.csv' -File).Count -ne 1) { throw 'Keep exactly one .csv file in metadata - copy.' }
     Write-Host "`n1/4 Checking GitHub access and syncing main..." -ForegroundColor Cyan
     Run $gh @('auth','status','--hostname','github.com')
+    # One tool pull request at a time, so that two cannot change the same files.
+    $openJson = & $gh pr list --repo $repo --state open --limit 100 --json number,url,title,headRefName
+    if ($LASTEXITCODE -ne 0) { throw 'Could not list the open pull requests on GitHub.' }
+    $open = @(($openJson | Out-String | ConvertFrom-Json) | Where-Object { $_.headRefName -match '^(maintenance|catalog)/' })
+    if ($open.Count) { throw "A pull request from the maintenance tools is still open: #$($open[0].number) $($open[0].title) ($($open[0].url)). Merge or close it on GitHub first, so that two pull requests cannot change the same files." }
     Run $git @('-C',$root,'fetch','origin')
     $ahead = @(Run $git @('-C',$root,'log','--format=%H','origin/main..HEAD'))
     if ($ahead.Count) { throw 'There are unpublished local commits. Push or resolve them before running the updater.' }

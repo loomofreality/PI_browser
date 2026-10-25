@@ -1,0 +1,120 @@
+name: Check pull request
+# Builds and tests a pull request as the deployment would, reusing the last
+# deployment's generated collection, so a catalog or editorial change is
+# verified before it is merged. When a pull request from the catalog tools
+# moves quotations between records (for example a deleted duplicate), the
+# study guides are reconciled here and pushed to the pull request.
+on:
+  pull_request:
+    branches: [main]
+    paths:
+      - '.github/workflows/check-pull-request.yml'
+      - 'src/**'
+      - 'scripts/**'
+      - 'tests/**'
+      - 'data/**'
+      - 'subject-summaries/**'
+      - 'study-guides/**'
+      - 'subject_extracts/**'
+      - 'pdf_volumes - copy/**'
+      - '*.csv'
+      - 'subjects - reference.docx'
+      - 'package.json'
+permissions:
+  contents: write
+  pull-requests: write
+concurrency:
+  group: check-pull-request-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    env:
+      GENERATED_PATHS: |
+        dist/collections
+        dist/pdf-volumes
+        dist/build-state.json
+        dist/stats.json
+        dist/volumes.json
+        dist/volume-titles.json
+        build-report.json
+        subject-import-report.json
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Test parser and search semantics
+        run: node --test tests/core.test.mjs tests/subjects.test.mjs
+      - name: Verify source publication policy
+        run: |
+          python -m unittest discover -s tests -p test_archive_sources.py
+          python -m unittest discover -s tests -p test_patch_item.py
+          python -m unittest discover -s tests -p test_describe_collection.py
+          python scripts/archive-sources.py --check
+      - name: Fingerprint source data and build dependencies
+        id: inputs
+        run: node scripts/deployment-cache.mjs key >> "$GITHUB_OUTPUT"
+      - name: Restore the generated collection of the last deployment
+        id: generated
+        uses: actions/cache/restore@v4
+        with:
+          path: ${{ env.GENERATED_PATHS }}
+          key: pages-data-v2-${{ runner.os }}-${{ steps.inputs.outputs.compatible }}-${{ steps.inputs.outputs.key }}
+          restore-keys: |
+            pages-data-v2-${{ runner.os }}-${{ steps.inputs.outputs.compatible }}-
+      - name: Extract source archive for validation of cached data
+        if: steps.generated.outputs.cache-hit == 'true'
+        run: for shard in data/collection/*.tar; do tar -xf "$shard"; done
+      - name: Build the changed records, search index and subjects
+        id: build
+        if: steps.generated.outputs.cache-hit != 'true'
+        continue-on-error: true
+        run: |
+          set -o pipefail
+          PI_INCREMENTAL=1 node --max-old-space-size=6144 scripts/build.mjs 2>&1 | tee build.log
+      - name: Reconcile study guides with quotations the catalog change moved
+        if: steps.build.outcome == 'failure'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          HEAD_BRANCH: ${{ github.head_ref }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+        run: |
+          if ! grep -q 'Catalogue review data changed for' build.log; then echo 'The build failed; see the log above.'; exit 1; fi
+          case "$HEAD_BRANCH" in
+            maintenance/catalog-edits-*) ;;
+            *) echo 'Study guides are reconciled automatically only for pull requests from Publish-Editorial-Decisions.cmd. Review the changed quotations and run scripts/refresh-catalogue-baseline.mjs.'; exit 1;;
+          esac
+          git fetch --depth=1 origin main
+          node scripts/reconcile-study-guides.mjs --output reconcile.md
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add study-guides
+          git commit -m 'Reconcile study guides with the catalog change'
+          git push origin "HEAD:refs/heads/$HEAD_BRANCH"
+          { echo 'The study guides were reconciled with this catalog change and pushed to this pull request; the collection was then rebuilt and tested with them.'; echo; cat reconcile.md; } > comment.md
+          PI_INCREMENTAL=1 node --max-old-space-size=6144 scripts/build.mjs
+      - name: Apply current interface to generated collection
+        run: node scripts/deployment-cache.mjs refresh
+      - name: Prepare public files and retain separate audit records
+        run: node scripts/prepare-pages.mjs
+      - name: Verify generated collection
+        run: node --test tests/*.test.mjs
+      - name: Report the reconciled study guides on the pull request
+        if: hashFiles('comment.md') != ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+        run: gh pr comment "$PR_NUMBER" --body-file comment.md
+      - name: Summarize
+        env:
+          CACHE_HIT: ${{ steps.generated.outputs.cache-hit }}
+        run: |
+          if [ "$CACHE_HIT" = "true" ]; then
+            echo 'Reused the deployed collection; refreshed interface; all tests passed.' >> "$GITHUB_STEP_SUMMARY"
+          else
+            echo 'Rebuilt the changed records (or the complete collection when no compatible cached data existed); all tests passed.' >> "$GITHUB_STEP_SUMMARY"
+          fi
+          if [ -f comment.md ]; then cat comment.md >> "$GITHUB_STEP_SUMMARY"; fi

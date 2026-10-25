@@ -8,7 +8,7 @@ import {GuideStore,guideFiles} from './study-guide-store.mjs';
 import {siteReader,guideQuotations} from './study-guide-quotations.mjs';
 import {readingPassage} from './study-guide-passage.mjs';
 import {githubTarget} from './github-target.mjs';
-import {tool,run} from './publish-item.mjs';
+import {tool,run} from './publish-tools.mjs';
 
 const directory=path.dirname(fileURLToPath(import.meta.url));
 const exec=(command,args,cwd)=>new Promise((resolve,reject)=>execFile(command,args,{cwd,windowsHide:true},(error,stdout,stderr)=>error?reject(Error(String(stderr||error.message).trim())):resolve(String(stdout))));

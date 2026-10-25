@@ -64,15 +64,18 @@ def _read_entries(archive, files, shard=None):
             raise ValueError(f'{entry.name} is in the wrong archive shard {shard}')
         files[entry.name] = archive.extractfile(entry).read()
 
-def read_archive(source):
-    """Read a sharded archive directory, or a legacy single .tar.gz archive."""
+def read_archive(source, partial=False):
+    """Read a sharded archive directory, or a legacy single .tar.gz archive.
+    With partial, a directory holding only some of the shards is accepted."""
     source = Path(source)
     files = {}
     if source.is_dir():
         present = sorted(p.name for p in source.iterdir())
-        if present != sorted(shard_names()):
+        unknown = sorted(set(present) - set(shard_names()))
+        if unknown or (not partial and present != sorted(shard_names())):
             raise ValueError(f'Unexpected archive shards in {source}: expected {len(shard_names())} .tar files')
         for name in shard_names():
+            if name not in present: continue
             with tarfile.open(source / name, 'r:') as archive: _read_entries(archive, files, name)
     else:
         with tarfile.open(source, 'r:gz') as archive: _read_entries(archive, files)
@@ -94,22 +97,30 @@ def shard_bytes(files):
         result[shard] = buffer.getvalue()
     return result
 
-def write_archive(target, files):
-    """Replace only shards whose bytes change, then remove unexpected files."""
+def write_shards(target, files, only=None):
+    """Replace only shards whose bytes change; returns their names. With `only`
+    (shard names), other shards are neither written nor removed."""
     target = Path(target)
     target.mkdir(parents=True, exist_ok=True)
     shards = shard_bytes(files)
-    changed = 0
+    changed = []
     for name, contents in shards.items():
+        if only is not None and name not in only: continue
         path = target / name
         if path.exists() and path.read_bytes() == contents: continue
         temporary = path.with_name(path.name + '.tmp')
         temporary.write_bytes(contents)
         temporary.replace(path)
-        changed += 1
-    for path in target.iterdir():
-        if path.name not in shards: path.unlink()
+        changed.append(name)
+    if only is None:
+        for path in target.iterdir():
+            if path.name not in shards: path.unlink()
     return changed
+
+def write_archive(target, files):
+    """Write the complete archive, replacing only shards whose bytes change and
+    removing unexpected files; returns the number of shards written."""
+    return len(write_shards(target, files))
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)

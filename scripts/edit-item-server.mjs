@@ -4,18 +4,21 @@ import path from 'node:path';
 import {fileURLToPath} from 'node:url';
 import {randomBytes,timingSafeEqual} from 'node:crypto';
 import {spawn} from 'node:child_process';
-import {ItemStore,requireSourceFolders,validId} from './item-store.mjs';
+import {requireSourceFolders,validId} from './item-store.mjs';
+import {CatalogEdits,previewDeletion,pendingFile} from './catalog-edits.mjs';
 import {githubTarget} from './github-target.mjs';
-import {tool} from './publish-item.mjs';
-import {previewDeletion} from './publish-deletion.mjs';
+import {tool} from './publish-tools.mjs';
 
 const directory=path.dirname(fileURLToPath(import.meta.url));
+// A private local page for one item at a time. Saving records the change in
+// the pending file; Publish-Editorial-Decisions.cmd publishes everything
+// pending as one pull request.
 export async function startEditor({root=path.resolve(directory,'..'),port=0,open=true}={}){
   await requireSourceFolders(root);
-  const store=new ItemStore(root),token=randomBytes(32).toString('hex');let busy=false,job=null;
+  const edits=new CatalogEdits(root),token=randomBytes(32).toString('hex');let busy=false;
   // The live-site link follows this checkout's GitHub origin.
   const site=await githubTarget(root,{gh:await tool('gh',root),git:await tool('git',root)}).then(target=>target.site,()=>'');
-  const page=(await fs.readFile(path.join(directory,'item-editor.html'),'utf8')).replace('%SITE%',site.replace(/[^\w:/.~-]/g,''));
+  const page=(await fs.readFile(path.join(directory,'item-editor.html'),'utf8')).replace('%SITE%',site.replace(/[^\w:/.~-]/g,'')).replaceAll('%PENDING_FILE%',pendingFile.replaceAll('/','\\'));
   const server=http.createServer(async(req,res)=>{
     const send=(status,value)=>{res.writeHead(status,{'Content-Type':'application/json','Cache-Control':'no-store','X-Content-Type-Options':'nosniff'});res.end(JSON.stringify(value));};
     const address=`127.0.0.1:${server.address().port}`,origin='http://'+address;
@@ -28,41 +31,25 @@ export async function startEditor({root=path.resolve(directory,'..'),port=0,open
     try{
       const chunks=[];let size=0;for await(const chunk of req){size+=chunk.length;if(size>24*1024*1024)throw Error('This item is too large for the editor.');chunks.push(chunk);}
       const input=JSON.parse(Buffer.concat(chunks).toString('utf8'));
-      if(req.url==='/status'){send(200,{job});return;}
-      if(req.url==='/load'){send(200,await store.load(input.id));return;}
-      if(busy||job?.status==='running'){send(409,{error:'Wait for the current save or publication to finish.'});return;}
-      if(req.url==='/save'){
-        busy=true;try{send(200,await store.save(input));}finally{busy=false;}return;
-      }
-      const start=(id,script,args,first)=>{
-        job={status:'running',id,log:first+'\n'};
-        const child=spawn(process.execPath,[path.join(directory,script),path.resolve(root),id,...args],{windowsHide:true,stdio:['ignore','pipe','pipe']});
-        const append=data=>{job.log=(job.log+data).slice(-60000);};
-        child.stdout.on('data',append);child.stderr.on('data',append);
-        child.on('error',error=>{append(error.message);job.status='failed';});
-        child.on('close',code=>{job.status=code===0?'success':'failed';});
-        send(202,{job});
-      };
-      if(req.url==='/publish'){
-        busy=true;
-        try{
-        const current=await store.load(input.id);if(current.revision!==input.revision)throw Error('Sources changed. Reload before publishing.');
-        start(current.id,'publish-item.mjs',[current.revision],'Preparing publication…');return;
-        }finally{busy=false;}
-      }
-      if(req.url==='/delete-preview'){
-        busy=true;try{send(200,await previewDeletion(root,input.id));}finally{busy=false;}return;
-      }
-      if(req.url==='/delete'){
-        if(!validId(input.id)||input.confirm!==input.id||!/^[a-f0-9]{64}$/.test(input.digest||''))throw Error('Type the exact ID to confirm the deletion.');
-        start(input.id,'publish-deletion.mjs',[input.digest],'Preparing deletion…');return;
-      }
-      send(404,{error:'Unknown operation'});
+      if(req.url==='/load'){send(200,await edits.load(input.id));return;}
+      if(req.url==='/pending'){send(200,await edits.list());return;}
+      if(busy){send(409,{error:'Wait for the current operation to finish.'});return;}
+      busy=true;
+      try{
+        if(req.url==='/save')send(200,await edits.save(input));
+        else if(req.url==='/discard')send(200,await edits.discard(input.id));
+        else if(req.url==='/delete-preview')send(200,await previewDeletion(root,input.id));
+        else if(req.url==='/delete'){
+          if(!validId(input.id)||input.confirm!==input.id)throw Error('Type the exact ID to confirm the deletion.');
+          send(200,await edits.markDeletion(input.id));
+        }
+        else send(404,{error:'Unknown operation'});
+      }finally{busy=false;}
     }catch(error){send(400,{error:error.message});}
   });
   await new Promise((resolve,reject)=>{server.once('error',reject);server.listen(port,'127.0.0.1',resolve);});
   const url=`http://127.0.0.1:${server.address().port}/#token=${token}`;
-  console.log('Single-item catalog editor: '+url);console.log('Keep this window open while editing or publishing. Source folder: '+path.resolve(root));
+  console.log('Catalog item editor: '+url);console.log('Keep this window open while editing. Source folder: '+path.resolve(root));
   if(open&&process.platform==='win32')spawn('powershell.exe',['-NoProfile','-Command',`Start-Process '${url}'`],{windowsHide:true,stdio:'ignore'}).on('error',()=>{});
   return {server,url,token};
 }
