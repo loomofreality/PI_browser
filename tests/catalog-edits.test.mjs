@@ -103,7 +103,10 @@ test('pending edits and deletions become patched archive shards and deletion cha
   const stage=await fs.mkdtemp(path.join(os.tmpdir(),'pi-catalog-'));t.after(()=>fs.rm(stage,{recursive:true,force:true}));
   const folder=await sources(stage),repo=path.join(stage,'repo');
   await fs.mkdir(path.join(repo,'data'),{recursive:true});
+  // The archive holds a translation of AB00003 that this computer's folder has since lost.
+  await fs.writeFile(path.join(folder,'translated_texts - copy/AB00003.txt'),'Third text.');
   execFileSync(py,[path.join(root,'scripts/archive-sources.py'),'--root',folder,'--output',path.join(repo,'data/collection')],{stdio:'ignore'});
+  await fs.rm(path.join(folder,'translated_texts - copy/AB00003.txt'));
   await fs.writeFile(path.join(repo,'data/subject-edits.json'),JSON.stringify({format:1,matches:{},relationships:[]})+'\n');
   // A reviewed quotation refers to AB00001's English text by its version.
   await fs.writeFile(path.join(repo,'data/extract-review-decisions.json'),JSON.stringify({matches:{q1:{status:'confirmed',candidate:{source:'AB00001',version:'0'.repeat(64),ranges:[{paragraph:1,start:0,end:2,text:'Hi'}]}}}})+'\n');
@@ -111,9 +114,10 @@ test('pending edits and deletions become patched archive shards and deletion cha
   git(repo,'init','--quiet');git(repo,'add','.');git(repo,'commit','--quiet','-m','published');
   const start=git(repo,'rev-parse','HEAD');
   const entries={
-    AB00001:entry('edit',{fields,metadata:{...rows[0],Title:'Corrected'},original:'متن',english:'“Hi”'}),
+    // AB00001's original reads differently in this folder and AB00003's translation is missing from it; the editor left both texts as they were.
+    AB00001:entry('edit',{fields,metadata:{...rows[0],Title:'Corrected'},original:'متن محلی',english:'“Hi”',unchanged:['original']}),
     AB00002:entry('delete'),
-    AB00003:entry('edit',{fields,metadata:rows[2],original:'withheld',english:null}),
+    AB00003:entry('edit',{fields,metadata:rows[2],original:'withheld',english:null,unchanged:['original','english']}),
     AB00009:entry('edit',{fields,metadata:{...rows[0],PIN:'AB00009'},original:null,english:'x'}),
   };
   const files=publishedFiles(repo,gitPath,'HEAD');
@@ -122,18 +126,24 @@ test('pending edits and deletions become patched archive shards and deletion cha
   assert.deepEqual(result.deletions.map(d=>[d.id,d.archived,d.published,d.quotations]),[['AB00002',true,false,0]]);
   assert.deepEqual(result.skipped.map(s=>[s.id,Boolean(s.applyOnly)]),[['AB00003',true],['AB00009',false]]);
   assert.match(result.skipped[1].reason,/not in the published catalog/);
-  const shard=name=>'data/collection/'+execFileSync(py,['-c','import hashlib,sys;print(hashlib.sha256(sys.argv[1].encode()).hexdigest()[0])',name],{encoding:'utf8'}).trim();
-  assert.deepEqual([...result.blobs.keys()].sort(),['data/collection/metadata.tar',`${shard('AB00002.txt').replace('data/collection/','data/collection/translated-')}.tar`].sort());
+  const digit=name=>execFileSync(py,['-c','import hashlib,sys;print(hashlib.sha256(sys.argv[1].encode()).hexdigest()[0])',name],{encoding:'utf8'}).trim();
+  const tar=(prefix,id)=>`data/collection/${prefix}-${digit(id+'.txt')}.tar`;
+  assert.deepEqual([...result.blobs.keys()].sort(),['data/collection/metadata.tar',tar('translated','AB00002')].sort());
   // The commit holds exactly the patched shards; this folder is untouched.
   const {sha,proposed}=await proposalCommit(repo,[],'Publish catalog edits',{login:'editor',id:7},result.blobs);
   assert.deepEqual(proposed.sort(),[...result.blobs.keys()].sort());
   assert.equal(git(repo,'rev-parse','HEAD'),start);assert.equal(git(repo,'status','--porcelain'),'');
-  const metadataTar=path.join(stage,'metadata.tar');
-  await fs.writeFile(metadataTar,execFileSync(gitPath,['show',sha+':data/collection/metadata.tar'],{cwd:repo,encoding:'buffer',maxBuffer:64*1024*1024}));
-  const listing=JSON.parse(execFileSync(py,['-c','import tarfile,json,sys\nt=tarfile.open(sys.argv[1]);print(json.dumps({m.name:t.extractfile(m).read().decode() for m in t.getmembers()}))',metadataTar],{encoding:'utf8'}));
-  const csv=listing['metadata - copy/items.csv'];
+  const archived=async name=>{
+    const file=path.join(stage,name.replaceAll('/','__'));
+    await fs.writeFile(file,execFileSync(gitPath,['show',`${sha}:${name}`],{cwd:repo,encoding:'buffer',maxBuffer:64*1024*1024}));
+    return JSON.parse(execFileSync(py,['-c','import tarfile,json,sys\nt=tarfile.open(sys.argv[1]);print(json.dumps({m.name:t.extractfile(m).read().decode("utf-8","replace") for m in t.getmembers()}))',file],{encoding:'utf8'}));
+  };
+  const metadata=await archived('data/collection/metadata.tar'),csv=metadata['metadata - copy/items.csv'];
   assert.match(csv,/AB00001,Corrected,M/);assert.doesNotMatch(csv,/AB00002/);assert.match(csv,/AB00003,Third,,,\n/);
-  assert.deepEqual(JSON.parse(listing['metadata - copy/withheld-original-ids.json']),['AB00003']);
+  assert.deepEqual(JSON.parse(metadata['metadata - copy/withheld-original-ids.json']),['AB00003']);
+  // Texts the editor left alone keep their published bytes, whatever this folder holds.
+  assert.equal((await archived(tar('original','AB00001')))['original_texts - copy/AB00001.txt'],'متن');
+  assert.equal((await archived(tar('translated','AB00003')))['translated_texts - copy/AB00003.txt'],'Third text.');
   // Changing English text that reviewed quotations refer to waits for their review;
   // the unchanged text kept its published bytes, so the metadata-only edit above went through.
   const second=await prepareCatalogProposal({root:repo,git:gitPath,python:py,entries:{AB00001:entry('edit',{fields,metadata:rows[0],original:'متن',english:'Changed.'})},files:publishedFiles(repo,gitPath,'HEAD'),site:async()=>null,stage:path.join(stage,'work2')});

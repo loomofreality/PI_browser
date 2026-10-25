@@ -55,7 +55,8 @@ test('saving in the editor records a pending edit and leaves the source files al
   const saved=await edits.save(item);
   assert.deepEqual(saved.pending.changed,['Title','English translation changed']);assert.equal(saved.pending.action,'edit');
   assert.equal(await fs.readFile(path.join(root,'metadata - copy/items.csv'),'utf8'),csv);
-  assert.equal(JSON.parse(await fs.readFile(file,'utf8')).items.AB00001.english,'New English.');
+  const recorded=JSON.parse(await fs.readFile(file,'utf8')).items.AB00001;
+  assert.equal(recorded.english,'New English.');assert.deepEqual(recorded.unchanged,['original']);
   // Reloading shows the pending version; `state` still describes the source files.
   const again=await edits.load('AB00001');
   assert.equal(again.metadata.Title,'Pending title');assert.equal(again.english,'New English.');assert.equal(again.state,item.state);

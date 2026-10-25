@@ -8,10 +8,11 @@
 //
 // Pending file (.qa/pending-catalog-edits.json):
 //   {format: 1,
-//    items: {ID: {action: 'edit', savedAt, state, fields, metadata, original, english, changed}
+//    items: {ID: {action: 'edit', savedAt, state, fields, metadata, original, english, changed, unchanged}
 //                | {action: 'delete', savedAt, state}},
 //    pullRequest: {number, url, branch, openedAt, ids}}      (after publishing)
-// `state` is the content of the source files the entry was based on. After
+// `state` is the content of the source files the entry was based on, and
+// `unchanged` names the texts left as those files have them. After
 // publishing, an entry carries `publishedIn` and `applied`, and stays until the
 // pull request is merged (it is proposed again if the pull request is closed).
 import fs from 'node:fs/promises';
@@ -89,7 +90,8 @@ export class CatalogEdits{
     checkItemInput(input,current.fields,current.id);
     const changed=describeChanges(current,input);
     if(!changed.length){await this.pending.remove(current.id);return {...this.view(current,null),note:'This matches the source files; nothing is pending for this item.'};}
-    const entry={action:'edit',savedAt:new Date().toISOString(),state:current.state,fields:current.fields,metadata:input.metadata,original:input.original,english:input.english,changed};
+    const unchanged=languages.filter(([language])=>(input[language]??null)===(current[language]??null)).map(([language])=>language);
+    const entry={action:'edit',savedAt:new Date().toISOString(),state:current.state,fields:current.fields,metadata:input.metadata,original:input.original,english:input.english,changed,unchanged};
     await this.pending.set(current.id,entry);
     return this.view(current,entry);
   }
@@ -191,10 +193,15 @@ export async function prepareCatalogProposal({root,git,python,entries,files,site
     }
     if(!inArchive){skipped.push({id,reason:'not in the published catalog. Add new items with Update-Collection.cmd; this edit stays pending.'});continue;}
     if(JSON.stringify(entry.fields)!==JSON.stringify(published.fields)){skipped.push({id,reason:'the metadata columns differ from the published catalog. Use Update-Collection.cmd for a changed metadata schema.'});continue;}
-    // Unchanged text keeps its published bytes (and so its version); changed
-    // text is stored in UTF-8.
+    // Text the editor left as the source folder has it keeps its published
+    // bytes (and so its version), also when that folder lacks a text the
+    // archive holds; a text the folder holds and the archive lacks is offered
+    // for the publication policy to decide. Changed text is stored in UTF-8.
     const before=view(id,p),texts={};
-    for(const [language] of languages)texts[language]=entry[language]===null?null:p[language]!==null&&before[language]===entry[language]?p[language]:b64(Buffer.from(entry[language],'utf8'));
+    for(const [language] of languages){
+      if(entry.unchanged?.includes(language)&&p[language]!==null){texts[language]=p[language];continue;}
+      texts[language]=entry[language]===null?null:p[language]!==null&&before[language]===entry[language]?p[language]:b64(Buffer.from(entry[language],'utf8'));
+    }
     if(texts.english!==p.english&&texts.english!==null){
       const version=sha(fromB64(texts.english)),referenced=[...referencedVersions(decisions,id)];
       if(referenced.some(v=>v!==version)){skipped.push({id,reason:'its English text is quoted by reviewed subject quotations, which need review against the correction before it can be published. This edit stays pending.'});continue;}
