@@ -997,10 +997,6 @@
       "arc": "Begin with cultural gifts offered to others, explore memory and renewal, consider simplicity and poetic life, and return to exchange across societies.",
       "order": [
         {
-          "key": "source:ABU3762",
-          "why": "Open with the hope that a cultural inheritance may benefit other peoples."
-        },
-        {
           "key": "source:AB00004",
           "why": "Explore the appeal to Persian history as a call to renewal.",
           "shortened": [
@@ -1132,6 +1128,10 @@
         {
           "key": "source:ABU2319",
           "why": "End with a historically worded hope for reciprocal learning between Iran and Germany."
+        },
+        {
+          "key": "selection:c6c09756783c94666681c36a",
+          "why": "Open with the hope that a cultural inheritance may benefit other peoples."
         }
       ],
       "questions": [
