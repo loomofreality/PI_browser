@@ -32,6 +32,7 @@ Read AGENTS.md first; it holds the project invariants. Then read DESIGN.md befor
 
 ## Working environment
 - The owner works on Windows in a Dropbox folder under `C:\Users\steve\Dropbox\AI_project\` (the working folder is named for the task). Claude may reach it only through file staging, not a shell, so builds and tests run in Claude's own workspace on a copy, and the owner publishes with the launchers in `maintenance/` (see `maintenance/README.txt`) or a normal Git push.
+- The owner's PC has two Gits: an old Git 2.21 in `C:\Program Files\Git` that is first on PATH (no `core.autocrlf`), and the Codex runtime Git 2.53 that the tools choose through `tool('git', root)` and `Find-Tool` (`core.autocrlf=true`, so it checks out LF blobs as CRLF). Anything that spawns Git, tests included, must use that same Git: a repository touched by both shows spurious line-ending changes, and the old Git ignores `init.defaultBranch` (2026-10-25).
 - Several docs use CRLF line endings. Preserve each file's existing line endings and UTF-8 encoding; watch for mojibake (`â€™`, `â†’`) when editing.
 - Do not edit the immutable source folders (`original_texts - copy`, `translated_texts - copy`, `metadata - copy`, `pdf_volumes - copy`). Root `*.log` files and `.qa/` are ignored working output.
 - The owner's local folder can hold uncommitted work that is not on GitHub (as of 2026-09-23: the passage review utility, passage citations and thematic-matrix scripts). Never publish it without the owner's explicit approval; compare against `origin/main` before pushing.
