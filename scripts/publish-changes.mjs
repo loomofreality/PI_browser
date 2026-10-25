@@ -9,7 +9,7 @@ import fs from 'node:fs/promises';
 import path from 'node:path';
 import {randomUUID} from 'node:crypto';
 import {fileURLToPath} from 'node:url';
-import {run,tool,openPullRequest} from './publish-item.mjs';
+import {run,tool,openPullRequest,jobFolder} from './publish-item.mjs';
 import {githubTarget} from './github-target.mjs';
 
 const projectRoot=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
@@ -57,8 +57,7 @@ export function pullRequestBody({body='',files,toolName}){
 // this folder's branch, index and working files are not touched; main itself
 // never moves. Returns the commit and the files it changes.
 export async function proposalCommit(root,files,message,account){
-  const qa=path.join(root,'.qa');await fs.mkdir(qa,{recursive:true});
-  const index=path.join(qa,'pull-request-index-'+randomUUID()),env={GIT_INDEX_FILE:index};
+  const index=path.join(await jobFolder(),'pull-request-index-'+randomUUID()),env={GIT_INDEX_FILE:index};
   let sha;
   try{
     await git(['read-tree','HEAD'],root,true,env);
@@ -78,10 +77,9 @@ export async function publishChanges(root,files,message,{kind='change',body='',t
   const account=JSON.parse(await run(gh,['api','user','--jq','{login,id}'],root,true));
   const {sha,proposed}=await proposalCommit(root,files,message,account);
   if(!proposed.length){console.log('Nothing to propose: these files already match GitHub.');return null;}
-  const qa=path.join(root,'.qa');
   console.log('Uploading to a new branch and opening a pull request…');
   const pr=await openPullRequest({gh,git:gitPath,repo:root,repository:target.repository,prefix:'maintenance',kind,title:message,ref:sha,
-    body:pullRequestBody({body,files:proposed,toolName}),bodyFile:path.join(qa,'pull-request-'+randomUUID().slice(0,8)+'.md')});
+    body:pullRequestBody({body,files:proposed,toolName}),bodyFile:path.join(await jobFolder(),'pull-request-'+randomUUID().slice(0,8)+'.md')});
   console.log('Nothing is published until the pull request is merged on GitHub; the website then rebuilds automatically.');
   return {sha,...pr};
 }

@@ -14,6 +14,15 @@ export async function tool(name,root){
   for(const candidate of candidates.filter(Boolean))try{await fs.access(candidate);return candidate;}catch{}
   return name;
 }
+// Temporary checkouts live outside the project folder. Inside a Dropbox (or
+// OneDrive) folder the sync client briefly locks files Git has just written,
+// so Git's next write to the same file fails with "Permission denied", and
+// syncing gigabytes of throwaway build output wastes time and space.
+export async function jobFolder(){
+  const folder=path.join(os.tmpdir(),'pi-browser-jobs');
+  await fs.mkdir(folder,{recursive:true});
+  return folder;
+}
 export async function run(command,args,cwd,quiet=false,env=null){
   return new Promise((resolve,reject)=>{
     const child=spawn(command,args,{cwd,windowsHide:true,stdio:['ignore','pipe','pipe'],...env&&{env:{...process.env,...env}}});let result='',diagnostic='';
@@ -66,7 +75,7 @@ export async function publishItem(root,id,revision){
   const qa=path.join(root,'.qa');await fs.mkdir(qa,{recursive:true});
   const lockFile=path.join(qa,'item-publish.lock');let lock;
   try{lock=await fs.open(lockFile,'wx');}catch{throw Error('Another item publication is running. If it was interrupted, close the editor and remove .qa/item-publish.lock before retrying.');}
-  const stage=path.join(qa,'item-publish-'+randomUUID()),repo=path.join(stage,'repo'),input=path.join(stage,'source');
+  const jobs=await jobFolder(),stage=path.join(jobs,'item-publish-'+randomUUID()),repo=path.join(stage,'repo'),input=path.join(stage,'source');
   let success=false;
   try{
     console.log('Snapshotting the saved item. Other local items will not be uploaded.');
@@ -112,7 +121,7 @@ export async function publishItem(root,id,revision){
   }finally{
     await lock.close();await fs.unlink(lockFile);
     // Keep failed jobs for diagnosis; remove only this verified transient directory.
-    if(success&&path.dirname(stage)===qa&&/^item-publish-[a-f0-9-]+$/.test(path.basename(stage))){
+    if(success&&path.dirname(stage)===jobs&&/^item-publish-[a-f0-9-]+$/.test(path.basename(stage))){
       try{await fs.rm(stage,{recursive:true,force:true,maxRetries:5,retryDelay:500});}
       catch{console.log('Publication succeeded. Temporary files are still in '+stage+' because another program has them open.');}
     }
