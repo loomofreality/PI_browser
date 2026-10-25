@@ -4,11 +4,11 @@
   "status": "finalized_before_analysis",
   "subject": "79CD788B08C5E8B37070B3DD452FB313",
   "dataset": "collections/editorial-83f59e6ea2d8/",
-  "candidateFingerprint": "36a17b52bf6dbae44f4bb952cd1ab72906bfbd05eedc092b104ea23934c37fbc",
-  "candidateCount": 510,
+  "candidateFingerprint": "3f155e7f9105605d1a64b4e34099bc6bc732c4726cbda0fbb6338a9e33f1e93a",
+  "candidateCount": 509,
   "target": 300,
-  "selectedCount": 300,
-  "mandatoryAuthorizedCount": 59,
+  "selectedCount": 299,
+  "mandatoryAuthorizedCount": 58,
   "selectionBeforeAnalysis": true,
   "method": "Complete candidate survey followed by individual editorial choices and written reasons, applied to the existing complete guide to keep it within 300 quotations. All verified authorized selections included. Priority given to foundational teachings, substantive explanations, necessary qualifications, distinctive applications, narrative examples and thematic breadth across hope that deepens life, images at the edge of understanding, the soul and its earthly instrument, eternal life, progress through justice and mercy, recognition and spiritual influence, prayer and deeds across separation, consolation amid grief, lives remembered through service, faithfulness under persecution, welcome and reunion, and the return to the work of life. Neither citation count nor source order used as a ranking rule. Imported wording checked separately; version differences remain explicit. The existing reading arc is retained.",
   "selected": [
@@ -34,34 +34,6 @@
         "metadata": "",
         "sourceVersion": "80f0ef84ac7ece5ebc3d4215bfb9fd1fdb2427f8353d629e8543dec80cac9596",
         "paragraphs": []
-      }
-    },
-    {
-      "n": 4,
-      "group": 22,
-      "id": "afc6a5ab37a73cb8a1ef6592",
-      "key": "source:AB11094",
-      "source": "AB11094",
-      "sourceVersion": "58cb499ca4672df761d35060e24f034172412fe972afe67c55715d2579ca756c",
-      "status": "exact",
-      "reference": "AB11094",
-      "authorization": "Y",
-      "authorizedParagraphs": [
-        2
-      ],
-      "mandatoryAuthorized": true,
-      "paragraphs": [
-        2
-      ],
-      "text": "I beseech Thee to forgive the sins of such as have abandoned the physical garment and have ascended to the spiritual world",
-      "reason": "Mandatory inclusion: exact selected wording lies in a catalogue-authorized paragraph of this translation version.",
-      "authorityEvidence": {
-        "kind": "exact_version_authorized_paragraphs",
-        "metadata": "Y",
-        "sourceVersion": "58cb499ca4672df761d35060e24f034172412fe972afe67c55715d2579ca756c",
-        "paragraphs": [
-          2
-        ]
       }
     },
     {
@@ -9167,5 +9139,12 @@
     "added": [],
     "replaced": [],
     "finalizedBeforeRebuild": true
-  }
+  },
+  "removedWithCatalogItems": [
+    {
+      "id": "afc6a5ab37a73cb8a1ef6592",
+      "item": "AB11094",
+      "chosen": true
+    }
+  ]
 }

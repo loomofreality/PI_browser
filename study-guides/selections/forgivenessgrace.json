@@ -4,11 +4,11 @@
   "status": "finalized_before_analysis",
   "subject": "5CF47B6B008F461986A90EF7E6BF176E",
   "dataset": "collections/editorial-83f59e6ea2d8/",
-  "candidateFingerprint": "f0c408a412fdc34c11d5100eecda83b526ebf1b5c9afcf28d014bca0eda28cad",
-  "candidateCount": 1570,
+  "candidateFingerprint": "6dbab0f6f7300b626516a8dff42055fc6a804e04ee1a779d9da949988e6f24bd",
+  "candidateCount": 1569,
   "target": 300,
-  "selectedCount": 300,
-  "mandatoryAuthorizedCount": 97,
+  "selectedCount": 299,
+  "mandatoryAuthorizedCount": 96,
   "selectionBeforeAnalysis": true,
   "method": "Complete candidate survey followed by individual editorial choices and written reasons. All verified authorized selections included. Priority given to foundational teachings, substantive explanations, necessary qualifications, distinctive applications and thematic breadth. Neither citation count nor source order used as a ranking rule. Imported wording checked separately; version differences remain explicit.",
   "selected": [
@@ -432,34 +432,6 @@
         "sourceVersion": "df546047e9eb61ab9e97c8bd2909be993373ac55c7ee44328bc1ce1a8d36c953",
         "paragraphs": [
           2
-        ]
-      }
-    },
-    {
-      "n": 60,
-      "group": 36,
-      "id": "14e1350271cb54f457ce020e",
-      "key": "source:AB11094",
-      "source": "AB11094",
-      "sourceVersion": "58cb499ca4672df761d35060e24f034172412fe972afe67c55715d2579ca756c",
-      "status": "exact",
-      "reference": "AB11094",
-      "authorization": "Y",
-      "authorizedParagraphs": [
-        1
-      ],
-      "mandatoryAuthorized": true,
-      "paragraphs": [
-        1
-      ],
-      "text": "O Thou forgiver of sins, bestower of gifts, dispeller of afflictions!",
-      "reason": "Mandatory inclusion: exact selected wording lies in a catalogue-authorized paragraph of this translation version.",
-      "authorityEvidence": {
-        "kind": "exact_version_authorized_paragraphs",
-        "metadata": "Y",
-        "sourceVersion": "58cb499ca4672df761d35060e24f034172412fe972afe67c55715d2579ca756c",
-        "paragraphs": [
-          1
         ]
       }
     },
@@ -15319,5 +15291,12 @@
       "15707984ef05f9a861198e6e"
     ],
     "finalizedBeforeRebuild": true
-  }
+  },
+  "removedWithCatalogItems": [
+    {
+      "id": "14e1350271cb54f457ce020e",
+      "item": "AB11094",
+      "chosen": true
+    }
+  ]
 }

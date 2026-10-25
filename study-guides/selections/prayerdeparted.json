@@ -4,11 +4,11 @@
   "status": "finalized_before_analysis",
   "subject": "6F48F0918CDBEBB76DD545292C255B68",
   "dataset": "collections/editorial-83f59e6ea2d8/",
-  "candidateFingerprint": "08eadaa82173472b24b9a97656c43d7d1b7e857ecb6394fcecf60ec06021e913",
-  "candidateCount": 319,
+  "candidateFingerprint": "b7753b85c0f4ddc097fb79c8ca5d4e59504d143c096f2353792ca48131a549e8",
+  "candidateCount": 318,
   "target": 300,
-  "selectedCount": 300,
-  "mandatoryAuthorizedCount": 14,
+  "selectedCount": 299,
+  "mandatoryAuthorizedCount": 13,
   "selectionBeforeAnalysis": true,
   "method": "Complete candidate survey followed by individual editorial choices and written reasons, applied to the existing complete guide to keep it within 300 quotations. All verified authorized selections included. Priority given to foundational teachings, substantive explanations, necessary qualifications, distinctive applications, narrative examples and thematic breadth across mercy and the breadth of intercession, grief and consolation for those who remain, prayers for children, parents, spouses, companions and communities, the images of the welcomed guest, the bird, light, the garden and continued growth, and humility, remembrance and practical service. Neither citation count nor source order used as a ranking rule. Imported wording checked separately; version differences remain explicit. The existing reading arc is retained.",
   "selected": [
@@ -5489,40 +5489,6 @@
       }
     },
     {
-      "n": 240,
-      "group": 3,
-      "id": "7442970d55a449d07cfe25a8",
-      "key": "source:AB11094",
-      "source": "AB11094",
-      "sourceVersion": "58cb499ca4672df761d35060e24f034172412fe972afe67c55715d2579ca756c",
-      "status": "normalized",
-      "reference": "AB11094",
-      "authorization": "Y",
-      "authorizedParagraphs": [
-        1,
-        2,
-        3
-      ],
-      "mandatoryAuthorized": true,
-      "paragraphs": [
-        1,
-        2,
-        3
-      ],
-      "text": "O my God! O Thou forgiver of sins, bestower of gifts, dispeller of afflictions! … Verily, I beseech Thee to forgive the sins of such as have abandoned the physical garment and have ascended to the spiritual world. … O my Lord! Purify them from trespasses, dispel their sorrows, and change their darkness into light. Cause them to enter the garden of happiness, cleanse them with the most pure water, and grant them to behold Thy splendors on the loftiest mount",
-      "reason": "Mandatory inclusion: exact selected wording lies in a catalogue-authorized paragraph of this translation version.",
-      "authorityEvidence": {
-        "kind": "exact_version_authorized_paragraphs",
-        "metadata": "Y",
-        "sourceVersion": "58cb499ca4672df761d35060e24f034172412fe972afe67c55715d2579ca756c",
-        "paragraphs": [
-          1,
-          2,
-          3
-        ]
-      }
-    },
-    {
       "n": 241,
       "group": 119,
       "id": "a8276d5dc4377db74a03ca03",
@@ -7524,5 +7490,12 @@
       "1557bce0c60c39c091b6f078"
     ],
     "finalizedBeforeRebuild": true
-  }
+  },
+  "removedWithCatalogItems": [
+    {
+      "id": "7442970d55a449d07cfe25a8",
+      "item": "AB11094",
+      "chosen": true
+    }
+  ]
 }

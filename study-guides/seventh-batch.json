@@ -1238,10 +1238,6 @@
       "arc": "Look first for teachings in practice, examine the needs of a changing world, and end with renewal expressed through love.",
       "order": [
         {
-          "key": "source:ABU3762",
-          "why": "Open with the possibility of practicing teachings before adopting a name."
-        },
-        {
           "key": "source:BH00005",
           "why": "Make the change concrete through conflict turned toward peace.",
           "shortened": [
@@ -1360,6 +1356,10 @@
         {
           "key": "selection:0bc4594556f2925a4b75f0b2",
           "why": "Ask how scientific change relates to renewed religious teaching."
+        },
+        {
+          "key": "selection:badbe055288fd8b1f8a475ff",
+          "why": "Open with the possibility of practicing teachings before adopting a name."
         }
       ],
       "questions": [

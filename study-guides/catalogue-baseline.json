@@ -2,7 +2,7 @@
   "format": 1,
   "dataset": "collections/390a77fa-5b4/",
   "sourceCommit": "edbd584e227978691b52bc96280eba80515d177b",
-  "verifiedAt": "2026-10-21T03:09:01.676Z",
+  "verifiedAt": "2026-10-25T19:11:16.905Z",
   "subjects": {
     "0FDA9B7CC77849A9B4E383D68116F833": {
       "fingerprint": "ac88ed5c7bf62a4579c2689294fd62f32f14c0c733bdb76190cb4583c827ede3",
@@ -705,7 +705,7 @@
       "publicSelections": 14
     },
     "AD7F1E7F696842D3B9D7E108934676B7": {
-      "fingerprint": "4bd23bd9f9053599f1b02838c460b6d0fb05740c3c82cc7c407568785050b655",
+      "fingerprint": "4e0cbaa884c32fc1bc9b63e00fcda49d9e5b0f548a29eefe599e2e0d742bdadb",
       "publicSelections": 58
     },
     "07D20A3AD4B944BD8CF60BEE1C34CE61": {
@@ -989,8 +989,8 @@
       "publicSelections": 82
     },
     "5CF47B6B008F461986A90EF7E6BF176E": {
-      "fingerprint": "f0c408a412fdc34c11d5100eecda83b526ebf1b5c9afcf28d014bca0eda28cad",
-      "publicSelections": 1570
+      "fingerprint": "6dbab0f6f7300b626516a8dff42055fc6a804e04ee1a779d9da949988e6f24bd",
+      "publicSelections": 1569
     },
     "318AF6512E454733BC17A1B298A41946": {
       "fingerprint": "3eb021582f67898a1d252d9c05cff06b34cf71a5adebe81e5660278a3d54663d",
@@ -1605,8 +1605,8 @@
       "publicSelections": 41
     },
     "4B7D2672283AE883B6CC489FBC7D4E7A": {
-      "fingerprint": "820afb9dbb2b0fddeff3a726daccf600c1f80d8317c8a2fcfe9f754a12f90c67",
-      "publicSelections": 130
+      "fingerprint": "64e6b12b8a0560392f014cc8119fa96958459665ac55feb9b3d3d475a5989393",
+      "publicSelections": 129
     },
     "3568B942A8FE439CBD3238E92AE8D80E": {
       "fingerprint": "de99a7de3bfc9d9a6fcdb56ee7f0841f0b89512279d2f8ff64cb8eab0510ef06",
@@ -1633,7 +1633,7 @@
       "publicSelections": 417
     },
     "E5E0436334E8467AA2757EF389C2161A": {
-      "fingerprint": "f6f0abea88fa189570702776a4dfaf277170d6a77386d2bbb4ed7451166a9f91",
+      "fingerprint": "a87145c42b38f52733cc6bde58f7d61264351c680452e16de4f069c32e549f40",
       "publicSelections": 118
     },
     "D64346EB795847B3817AB6A1A38C8ED9": {
@@ -1649,7 +1649,7 @@
       "publicSelections": 67
     },
     "AECD255E0A17E60EF9B3EAFAE4522D5C": {
-      "fingerprint": "b03213cad6ab13e47ddbf673734f0407bf7bbd2cbe94d2d236114d19ba9e1520",
+      "fingerprint": "82a40795a0067dc71d57f11e77a832ae2eade22da7a0fe723a70ea4dc1cdca50",
       "publicSelections": 29
     },
     "0E46A9D425ED4F89AB54563B472E6EF6": {
@@ -1829,8 +1829,8 @@
       "publicSelections": 95
     },
     "6F48F0918CDBEBB76DD545292C255B68": {
-      "fingerprint": "08eadaa82173472b24b9a97656c43d7d1b7e857ecb6394fcecf60ec06021e913",
-      "publicSelections": 319
+      "fingerprint": "b7753b85c0f4ddc097fb79c8ca5d4e59504d143c096f2353792ca48131a549e8",
+      "publicSelections": 318
     },
     "AAC65ADBDE024CAFA9F155EDDCCA0C1F": {
       "fingerprint": "ca4526140c6913ae1de10e157e524f2a8f8322907aef4feee00d243017b0ae43",
@@ -2181,8 +2181,8 @@
       "publicSelections": 45
     },
     "79CD788B08C5E8B37070B3DD452FB313": {
-      "fingerprint": "36a17b52bf6dbae44f4bb952cd1ab72906bfbd05eedc092b104ea23934c37fbc",
-      "publicSelections": 510
+      "fingerprint": "3f155e7f9105605d1a64b4e34099bc6bc732c4726cbda0fbb6338a9e33f1e93a",
+      "publicSelections": 509
     },
     "AEF71C54D9B047EB8B92DBF1831755FA": {
       "fingerprint": "9aff49956b841f17418f314dc9f26a77009e2520ef5632a741f2a89f977a8bdd",
@@ -2269,7 +2269,7 @@
       "publicSelections": 36
     },
     "7A8DB05467DBEF2954FD9B30F84AA0E8": {
-      "fingerprint": "8cf5dbac33989c2bfe5a76d5f115042d0eaa0c45e86c00dc50eafefa1db44346",
+      "fingerprint": "93061488ba8e5e2e3c79a9ea37291bae0e5067d30d3703198b3ff98fba6f01ec",
       "publicSelections": 409
     },
     "CFB58B5793CB4B10BCCDDE3EC1B51C19": {
@@ -2285,11 +2285,11 @@
       "publicSelections": 215
     },
     "370AC40D2874E1246B99EB8122E23C9A": {
-      "fingerprint": "213ab44c60aefcdab93fb60f819fa4ca0940b4695d5a779ad8f8b1c1197f9659",
+      "fingerprint": "c8ba57b124a83c243bcc6b61786d74164619c4adba261350488bdc79f89c1eef",
       "publicSelections": 2889
     },
     "342F898B5918E013D0EFAF5D187CAC22": {
-      "fingerprint": "48057c2f611544cbe56b709ce01dada9fadae2adcfb7dd5499f593fb611ab45e",
+      "fingerprint": "9da988ddd12329719bb7319617e167575f48a9f98ad78960f66055239e47e4c2",
       "publicSelections": 22
     },
     "3B0B2077A5A44699B8F756D6A1F5CC7D": {
@@ -2521,7 +2521,7 @@
       "publicSelections": 119
     },
     "84AD735BE35249BCBFC3DE87B796C72C": {
-      "fingerprint": "0a275387e75bddfc8bad7eaa2fd4dfb4f19c09c255bfb435ce93ab52c590100a",
+      "fingerprint": "2e12591b20a240a3645f4246963bd3dd453151c739fac6c990e8150e4d6c4a7e",
       "publicSelections": 73
     },
     "58CCB959C2C14BCA91979DA42D866EC8": {
