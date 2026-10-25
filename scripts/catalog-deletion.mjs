@@ -241,5 +241,8 @@ export async function planDeletion({id,read,list,site}){
   const guides=await updateGuides({read,list,item:id,subjects,evidenceGone:(_,selection)=>removed.has(selection)});
   for(const [name,value] of guides.changes)changes.set(name,value);
   const result={id,published:Boolean(record),title:record?.title||'',subjects:summary,quotations:removed.size,guides:guides.guides};
-  return {...result,digest:sha(JSON.stringify([result,[...changes].map(([name,value])=>[name,sha(value)])])),changes,subjectData:subjects};
+  // The digest ties a preview to its publication, so it leaves out the
+  // baseline's verification time, which differs on every run.
+  const stable=(name,value)=>name==='study-guides/catalogue-baseline.json'?JSON.stringify({...JSON.parse(value),verifiedAt:null}):value;
+  return {...result,digest:sha(JSON.stringify([result,[...changes].map(([name,value])=>[name,sha(stable(name,value))])])),changes,subjectData:subjects};
 }
