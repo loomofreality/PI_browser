@@ -1,7 +1,8 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import {createHash} from 'node:crypto';
-import {removedSelections,reconcileGuide,updateGuides} from '../scripts/catalog-deletion.mjs';
+import {gzipSync} from 'node:zlib';
+import {removedSelections,reconcileGuide,updateGuides,planDeletion} from '../scripts/catalog-deletion.mjs';
 import {catalogueFingerprint} from '../scripts/study-guide-catalogue.mjs';
 import {selectStudyGuideQuotations} from '../scripts/study-guide-selection.mjs';
 
@@ -72,4 +73,24 @@ test('guide files, neighbors, baselines and sentence context are updated togethe
   assert.equal(JSON.parse(changes.get('study-guides/catalogue-baseline.json')).subjects.S.fingerprint,catalogueFingerprint(after.selections));
   assert.deepEqual(JSON.parse(changes.get('study-guides/sentence-context.json')).entries.map(x=>x.slug),['other']);
   assert.deepEqual(guides.map(g=>g.slug),['sample','other']);
+});
+
+test('a deletion previewed earlier keeps its digest when the baseline is verified again',async t=>{
+  const before={subject:{id:'S',name:'Sample'},sources,selections:[{...linked('a','GONE'),subject:'S'},{...linked('b','KEEP'),subject:'S'}]};
+  const guide={id:'S',slug:'sample',displayTitle:'Sample',order:[{key:'source:GONE',why:'First.'},{key:'source:KEEP',why:'Second.'}],questions:[],neighbors:[]};
+  const files={
+    'data/subject-extracts-public.json.gz':gzipSync(JSON.stringify({selections:before.selections,report:{}})),
+    'data/extract-review-decisions.json':'{}\n','data/subject-edits.json':'{}\n',
+    'study-guides/first-batch.json':JSON.stringify({batchNumber:1,subjects:[guide]},null,2)+'\n',
+    'study-guides/catalogue-baseline.json':JSON.stringify({format:1,subjects:{S:{fingerprint:catalogueFingerprint(before.selections),publicSelections:2}}},null,2)+'\n'
+  };
+  const site=async name=>name==='subjects/S.json.gz'?before:name==='subjects/passages/GONE.json.gz'?{passages:{x:{subjects:['S']}}}:null;
+  const plan=()=>planDeletion({id:'GONE',read:async name=>files[name]===undefined?null:Buffer.from(files[name]),list:async()=>['first-batch.json','catalogue-baseline.json'],site});
+  t.mock.timers.enable({apis:['Date'],now:0});
+  const preview=await plan();
+  t.mock.timers.tick(60000);
+  const publication=await plan();
+  assert.equal(preview.quotations,1);
+  assert.notEqual(preview.changes.get('study-guides/catalogue-baseline.json'),publication.changes.get('study-guides/catalogue-baseline.json'));
+  assert.equal(publication.digest,preview.digest);
 });
