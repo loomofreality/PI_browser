@@ -5,7 +5,7 @@ import os from 'node:os';
 import path from 'node:path';
 import {execFileSync} from 'node:child_process';
 import {fileURLToPath} from 'node:url';
-import {openPullRequest,tool} from '../scripts/publish-item.mjs';
+import {openPullRequest,tool,run} from '../scripts/publish-tools.mjs';
 import {prepareRepository,proposalCommit,pullRequestBody} from '../scripts/publish-changes.mjs';
 import {decisionsBody} from '../scripts/publish-editorial-decisions.mjs';
 import {describeSubjectOrder} from '../scripts/describe-subject-order.mjs';
@@ -19,22 +19,35 @@ const gitPath=await tool('git',root);
 const git=(cwd,...args)=>execFileSync(gitPath,['-c','user.name=t','-c','user.email=t@example.org','-c','init.defaultBranch=main',...args],{cwd,encoding:'utf8',stdio:['ignore','pipe','pipe']}).trim();
 
 test('no maintenance tool pushes to main; each opens a pull request',async()=>{
-  for(const name of ['publish-changes.mjs','update-collection.ps1','publish-item.mjs','publish-deletion.mjs']){
+  for(const name of ['publish-changes.mjs','update-collection.ps1','publish-tools.mjs','catalog-edits.mjs','publish-editorial-decisions.mjs','edit-study-guide-server.mjs']){
     const text=await fs.readFile(path.join(root,'scripts',name),'utf8');
-    assert.doesNotMatch(text,/HEAD:main|'origin','main'\)|push','origin','main'|--force/,name);
+    assert.doesNotMatch(text,/HEAD:main|'origin','main'\)|push','origin','main'|--force(?!-remove)/,name);
   }
   assert.match(await fs.readFile(path.join(root,'scripts/update-collection.ps1'),'utf8'),/'pr','create'/);
   assert.match(await fs.readFile(path.join(root,'scripts/update-subject-order.ps1'),'utf8'),/publish-changes\.mjs/);
+  // The editor itself never publishes: Publish-Editorial-Decisions.cmd does.
+  const editor=await fs.readFile(path.join(root,'scripts/edit-item-server.mjs'),'utf8');
+  assert.doesNotMatch(editor,/publish-changes|openPullRequest|spawn\(process\.execPath/);
+});
+
+test('command output and failure diagnostics are kept apart',async()=>{
+  const json=await run(process.execPath,['-e',"console.error('warning');console.log(JSON.stringify({id:1}))"],process.cwd(),true);
+  assert.deepEqual(JSON.parse(json),{id:1});
+  await assert.rejects(run(process.execPath,['-e',"console.error('Authentication expired');process.exit(1)"],process.cwd(),true),/Authentication expired/);
 });
 
 test('maintenance pull requests use their own branch prefix and the given commit',async t=>{
   const stage=await fs.mkdtemp(path.join(os.tmpdir(),'pi-pr-'));t.after(()=>fs.rm(stage,{recursive:true,force:true}));
   const calls=[],bodyFile=path.join(stage,'body.md');
   const execute=async(command,args)=>{calls.push([command,...args]);return command==='gh'?'https://github.com/owner/example/pull/9':'';};
-  const result=await openPullRequest({gh:'gh',git:'git.exe',repo:stage,repository:'owner/example',prefix:'maintenance',kind:'study-guides',title:'Edit study guide: A',body:'Body.',ref:'abc123',bodyFile,execute});
+  const result=await openPullRequest({gh:'gh',git:'git.exe',repo:stage,repository:'owner/example',kind:'study-guides',title:'Edit study guide: A',body:'Body.',ref:'abc123',bodyFile,execute});
   assert.match(result.branch,/^maintenance\/study-guides-\d{14}$/);
+  assert.equal(result.number,9);assert.equal(result.url,'https://github.com/owner/example/pull/9');
   assert.deepEqual(calls[0],['git.exe','push','origin','abc123:refs/heads/'+result.branch]);
+  assert.deepEqual(calls[1].slice(0,8),['gh','pr','create','--repo','owner/example','--base','main','--head']);
+  assert(!calls.flat().some(arg=>/HEAD:main|--force/.test(arg)));
   assert.equal(await fs.readFile(bodyFile,'utf8'),'Body.');
+  assert.match((await openPullRequest({gh:'gh',repo:stage,repository:'owner/example',prefix:'catalog',kind:'delete',id:'AB 12(3)',title:'t',body:'b',bodyFile,execute})).branch,/^catalog\/delete-AB_12_3_-\d{14}$/);
   assert.equal(pullRequestBody({body:'Summary.',files:['a.json'],toolName:'Tool.cmd'}),'Summary.\n\nFiles changed:\n- `a.json`\n\nOpened by Tool.cmd (maintenance folder). Merging this pull request publishes the change: the website rebuilds and is checked automatically.\n');
 });
 
@@ -60,6 +73,13 @@ test('a proposal commits only the named files and leaves the folder on main; mer
   assert.equal(git(work,'show',sha+':a.json'),'{"a":1}');
   assert.equal(git(work,'log','-1','--format=%an <%ae> %s',sha),'editor <7+editor@users.noreply.github.com> Propose a');
   assert.equal(git(work,'rev-parse',sha+'^'),start);
+  // Files prepared elsewhere are committed byte for byte, without touching this folder.
+  const prepared=path.join(stage,'prepared.bin');await fs.writeFile(prepared,Buffer.from('line\r\n\0binary'));
+  const blobs=await proposalCommit(work,[],'Propose blobs',{login:'editor',id:7},new Map([['data/new.bin',prepared],['b.json',null]]));
+  assert.deepEqual(blobs.proposed.sort(),['b.json','data/new.bin']);
+  assert.deepEqual(execFileSync(gitPath,['show',blobs.sha+':data/new.bin'],{cwd:work,encoding:'buffer'}),Buffer.from('line\r\n\0binary'));
+  assert.equal(git(work,'rev-parse','HEAD'),start);assert.equal(git(work,'diff','--name-only'),'a.json\nc.json');
+  await assert.rejects(fs.access(path.join(work,'data')));
   // The pull request is merged on GitHub, and someone else changes b.json.
   git(work,'push','--quiet','origin',sha+':refs/heads/main');
   git(stage,'clone','--quiet',origin,other);
@@ -100,12 +120,12 @@ test('pull request descriptions summarize editorial decisions, subject order and
 });
 
 test('temporary checkouts are made outside the project folder',async()=>{
-  const {jobFolder}=await import('../scripts/publish-item.mjs');
+  const {jobFolder}=await import('../scripts/publish-tools.mjs');
   const folder=await jobFolder();
   assert.ok(path.relative(root,folder).startsWith('..'),folder);
-  for(const name of ['publish-item.mjs','publish-deletion.mjs','publish-changes.mjs']){
+  for(const name of ['publish-tools.mjs','catalog-edits.mjs','publish-changes.mjs']){
     const text=await fs.readFile(path.join(root,'scripts',name),'utf8');
-    assert.doesNotMatch(text,/path\.join\(qa,['"](?:item-publish-|pull-request-index-)|path\.join\(qa,prefix/,name);
+    assert.doesNotMatch(text,/path\.join\(qa,|\.qa['"],['"](?:item-publish|catalog-edits-|pull-request)/,name);
   }
   assert.match(await fs.readFile(path.join(root,'scripts/update-collection.ps1'),'utf8'),/GetTempPath\(\)\) 'pi-browser-jobs'/);
 });

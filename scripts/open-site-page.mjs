@@ -4,7 +4,7 @@ import path from 'node:path';
 import {spawn} from 'node:child_process';
 import {fileURLToPath} from 'node:url';
 import {githubTarget} from './github-target.mjs';
-import {tool} from './publish-item.mjs';
+import {tool} from './publish-tools.mjs';
 
 const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
 export async function sitePage(page,options){

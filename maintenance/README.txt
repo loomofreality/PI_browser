@@ -12,13 +12,18 @@ without merging discards the proposal. This keeps a record of every change.
 Keep the tool's window open until it prints the pull request link or explains
 what stopped it.
 
-The files a tool proposed stay changed in this folder until the pull request
-is merged; the next tool run notices that GitHub has them and tidies up. If a
-tool says GitHub has newer versions of files changed here, merge (or close)
-the earlier pull request first.
+One tool pull request at a time: a tool stops if a pull request from these
+tools is still open, so that two cannot change the same files. Merge or close
+it on GitHub, then run the tool again.
+
+Study-guide, subject-order and collection proposals stay changed in this
+folder until their pull request is merged; the next tool run notices that
+GitHub has them and tidies up. Catalog edits and editorial decisions are built
+from GitHub's copy of the project and leave this folder's files unchanged.
 
 Requirements: Node.js 22 or newer, Git, GitHub CLI (signed in with
-"gh auth login"), and Python 3 for the catalog tools.
+"gh auth login"), and Python 3 for the catalog tools. The bundled Windows
+copies are found automatically.
 
 
 CATALOG TEXTS AND METADATA
@@ -29,29 +34,42 @@ Those folders are not stored in Git. If they are missing, copy them here from
 your master copy first; both tools stop with an explanation if they are absent.
 
 Edit-Catalog-Item.cmd
-  Correct one item's metadata, original text or English translation.
+  Correct one item's metadata, original text or English translation, or
+  delete an item. Nothing is changed until you publish.
   1. Enter the exact catalog ID (case-sensitive) and click Open item.
-  2. Make the correction and click Save on this computer. The previous files
-     are backed up under .qa\item-backups, with a manifest of what was saved.
-  3. Click Open pull request for saved item. Only this item is included,
-     starting from the latest published collection; other local edits are
-     not. The tool prints the pull request's link. Review and merge it on
-     GitHub; the website then rebuilds by itself.
-  If the corrected English text is used by reviewed subject quotations, the
-  tool stops before opening a pull request so those references can be
-  reviewed first.
-
-  To delete an item entirely, enter its ID and click Preview deletion (at
-  the end of the page). It lists the subject quotations taken from the item
-  and the study-guide readings that will be removed with it; the volume PDFs
-  are not changed. Type the ID again and click Delete and open pull request.
-  The tool rebuilds and tests the whole collection on this computer (allow
-  half an hour or more), then opens the deletion as a pull request; merge it
-  on GitHub to publish. Once the pull request is open, the item is removed
-  from the source folders here, with a backup under .qa\item-backups. If you
-  close the pull request without merging, copy the files back from that
-  backup (its manifest.json names them).
+  2. Make the correction and click Save as pending edit. The edit is recorded
+     in .qa\pending-catalog-edits.json; the source folders and GitHub are not
+     touched. Open other items and save more edits; the page lists everything
+     pending. Opening an item shows its pending version; Discard pending edit
+     forgets it.
+  3. Run Publish-Editorial-Decisions.cmd (below) to publish all pending edits
+     as one pull request.
+  To delete an item, enter its ID and click Preview deletion (at the end of
+  the page). It lists the subject quotations taken from the item and the
+  study-guide readings that go with them, read from GitHub and the website;
+  the volume PDFs are not changed. Type the ID again and click Mark for
+  deletion; the deletion is then pending like an edit.
   Use Update-Collection.cmd to add or rename items.
+
+Publish-Editorial-Decisions.cmd
+  Publishes, as one pull request, the pending catalog edits and deletions
+  and (if one is found) a subject-edits.json exported from the review pages
+  (see SUBJECTS below). It compares the edits with the published catalog,
+  shows what changes, and opens the pull request after you type Y. Only the
+  pieces of the source archive and the data files that change are uploaded;
+  no copy of the repository, no volume PDF and no local rebuild is involved,
+  so it takes seconds. GitHub then builds and tests the pull request; if a
+  deletion moves quotations to another record, the check adjusts the study
+  guides itself and adds the result to the pull request. Merge it on GitHub
+  to publish.
+  Once the pull request is open, the edits are written to the source folders
+  here (backups under .qa\item-backups) so that Update-Collection.cmd cannot
+  undo them, and deleted items are removed. The edits stay listed in the
+  editor until the pull request is merged; if it is closed without merging,
+  the next publication proposes them again (restore the backups to undo them
+  here instead). An edit that cannot be published yet (for example an English
+  text that reviewed quotations refer to) stays pending and is named in the
+  tool's output.
 
 Update-Collection.cmd
   Propose the whole collection after replacing or adding source files. Keep
@@ -77,9 +95,11 @@ To publish your decisions:
      Export decisions. This saves subject-edits.json (all published decisions
      plus your drafts) to your Downloads folder.
   2. Double-click Publish-Editorial-Decisions.cmd (or drag the exported file
-     onto it). It checks the file, shows how many decisions are new or
-     changed, and opens a pull request after you type Y. Published decisions
-     are never dropped, even if the export is older.
+     onto it; otherwise it uses the newest subject-edits*.json in Downloads).
+     It checks the file, shows how many decisions are new or changed, and
+     opens a pull request after you type Y, together with any pending catalog
+     edits. Published decisions are never dropped, even if the export is
+     older.
   3. Merge the pull request on GitHub to publish the decisions.
   Export regularly as a backup: clearing browser data removes drafts.
 

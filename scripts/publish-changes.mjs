@@ -4,12 +4,12 @@
 // request is merged on GitHub. This folder stays on main with its files as
 // they are, so unrelated local work stays put.
 //
-//   node scripts/publish-changes.mjs --message "Title" [--kind NAME] [--body-file FILE] FILE...
+//   node scripts/publish-changes.mjs --message "Title" [--kind NAME] [--body-file FILE] [--tool NAME] FILE...
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import {randomUUID} from 'node:crypto';
 import {fileURLToPath} from 'node:url';
-import {run,tool,openPullRequest,jobFolder} from './publish-item.mjs';
+import {run,tool,openPullRequest,jobFolder} from './publish-tools.mjs';
 import {githubTarget} from './github-target.mjs';
 
 const projectRoot=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
@@ -55,27 +55,48 @@ export function pullRequestBody({body='',files,toolName}){
 
 // Commit the named files on top of HEAD through a separate index, so that
 // this folder's branch, index and working files are not touched; main itself
-// never moves. Returns the commit and the files it changes.
-export async function proposalCommit(root,files,message,account){
+// never moves. `blobs` maps further repository paths to files prepared
+// elsewhere (null removes the path), stored byte for byte. Returns the commit
+// and the files it changes.
+export async function proposalCommit(root,files,message,account,blobs=new Map()){
   const index=path.join(await jobFolder(),'pull-request-index-'+randomUUID()),env={GIT_INDEX_FILE:index};
   let sha;
   try{
     await git(['read-tree','HEAD'],root,true,env);
-    await git(['add','-A','--',...files],root,true,env);
+    if(files.length)await git(['add','-A','--',...files],root,true,env);
+    for(const [name,source] of blobs){
+      if(source===null){await git(['update-index','--force-remove','--',name],root,true,env);continue;}
+      const object=await git(['hash-object','-w','--no-filters','--',source],root,true);
+      await git(['update-index','--add','--cacheinfo',`100644,${object},${name}`],root,true,env);
+    }
     const tree=await git(['write-tree'],root,true,env);
     sha=await git(['-c','user.name='+account.login,'-c',`user.email=${account.id}+${account.login}@users.noreply.github.com`,'commit-tree',tree,'-p','HEAD','-m',message],root,true,env);
   }finally{await fs.rm(index,{force:true});}
   return {sha,proposed:await changedFiles(root,'HEAD',sha)};
 }
 
-export async function publishChanges(root,files,message,{kind='change',body='',toolName}={}){
+// Pull requests the maintenance tools opened that are still open on GitHub.
+// Two of them could change the same files, so a tool waits for the earlier one
+// to be merged or closed.
+export async function openProposals(root,{gh,repository}){
+  const open=JSON.parse(await run(gh,['pr','list','--repo',repository,'--state','open','--limit','100','--json','number,url,title,headRefName'],root,true));
+  return open.filter(pr=>/^(maintenance|catalog)\//.test(pr.headRefName));
+}
+export async function requireNoOpenProposals(root,target){
+  const open=await openProposals(root,target);
+  if(open.length)throw Error(`A pull request from the maintenance tools is still open: #${open[0].number} “${open[0].title}”\n  ${open[0].url}\nMerge or close it on GitHub first, so that two pull requests cannot change the same files.`);
+}
+
+export async function publishChanges(root,files,message,{kind='change',body='',toolName,blobs=new Map()}={}){
   const gh=await tool('gh',root);
   const target=await githubTarget(root,{gh,git:gitPath});
   if(target.renamedFrom)console.log(`Note: GitHub now calls this repository ${target.repository}. Update this folder with:\n  git remote set-url origin ${target.remote}`);
-  const changed=(await git(['status','--porcelain','--',...files],root)).trim();
-  if(!changed){console.log('Nothing to propose: these files already match GitHub.');return null;}
+  if(!blobs.size){
+    const changed=files.length?(await git(['status','--porcelain','--',...files],root)).trim():'';
+    if(!changed){console.log('Nothing to propose: these files already match GitHub.');return null;}
+  }
   const account=JSON.parse(await run(gh,['api','user','--jq','{login,id}'],root,true));
-  const {sha,proposed}=await proposalCommit(root,files,message,account);
+  const {sha,proposed}=await proposalCommit(root,files,message,account,blobs);
   if(!proposed.length){console.log('Nothing to propose: these files already match GitHub.');return null;}
   console.log('Uploading to a new branch and opening a pull request…');
   const pr=await openPullRequest({gh,git:gitPath,repo:root,repository:target.repository,prefix:'maintenance',kind,title:message,ref:sha,
@@ -95,6 +116,8 @@ if(process.argv[1]&&path.resolve(process.argv[1])===fileURLToPath(import.meta.ur
     if(!files.length)throw Error('Name the files to propose.');
     const body=options['body-file']?await fs.readFile(options['body-file'],'utf8'):'';
     await prepareRepository(projectRoot,files);
+    const gh=await tool('gh',projectRoot);
+    await requireNoOpenProposals(projectRoot,{gh,repository:(await githubTarget(projectRoot,{gh,git:gitPath})).repository});
     await publishChanges(projectRoot,files,options.message,{kind:options.kind||'change',body,toolName:options.tool});
   }catch(error){console.error('\nNO PULL REQUEST OPENED: '+error.message);process.exitCode=1;}
 }
