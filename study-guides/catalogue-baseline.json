@@ -2,7 +2,7 @@
   "format": 1,
   "dataset": "collections/390a77fa-5b4/",
   "sourceCommit": "edbd584e227978691b52bc96280eba80515d177b",
-  "verifiedAt": "2026-10-21T03:09:01.676Z",
+  "verifiedAt": "2026-10-25T19:00:33.790Z",
   "subjects": {
     "0FDA9B7CC77849A9B4E383D68116F833": {
       "fingerprint": "ac88ed5c7bf62a4579c2689294fd62f32f14c0c733bdb76190cb4583c827ede3",
@@ -989,8 +989,8 @@
       "publicSelections": 82
     },
     "5CF47B6B008F461986A90EF7E6BF176E": {
-      "fingerprint": "f0c408a412fdc34c11d5100eecda83b526ebf1b5c9afcf28d014bca0eda28cad",
-      "publicSelections": 1570
+      "fingerprint": "6dbab0f6f7300b626516a8dff42055fc6a804e04ee1a779d9da949988e6f24bd",
+      "publicSelections": 1569
     },
     "318AF6512E454733BC17A1B298A41946": {
       "fingerprint": "3eb021582f67898a1d252d9c05cff06b34cf71a5adebe81e5660278a3d54663d",
@@ -1829,8 +1829,8 @@
       "publicSelections": 95
     },
     "6F48F0918CDBEBB76DD545292C255B68": {
-      "fingerprint": "08eadaa82173472b24b9a97656c43d7d1b7e857ecb6394fcecf60ec06021e913",
-      "publicSelections": 319
+      "fingerprint": "b7753b85c0f4ddc097fb79c8ca5d4e59504d143c096f2353792ca48131a549e8",
+      "publicSelections": 318
     },
     "AAC65ADBDE024CAFA9F155EDDCCA0C1F": {
       "fingerprint": "ca4526140c6913ae1de10e157e524f2a8f8322907aef4feee00d243017b0ae43",
@@ -2181,8 +2181,8 @@
       "publicSelections": 45
     },
     "79CD788B08C5E8B37070B3DD452FB313": {
-      "fingerprint": "36a17b52bf6dbae44f4bb952cd1ab72906bfbd05eedc092b104ea23934c37fbc",
-      "publicSelections": 510
+      "fingerprint": "3f155e7f9105605d1a64b4e34099bc6bc732c4726cbda0fbb6338a9e33f1e93a",
+      "publicSelections": 509
     },
     "AEF71C54D9B047EB8B92DBF1831755FA": {
       "fingerprint": "9aff49956b841f17418f314dc9f26a77009e2520ef5632a741f2a89f977a8bdd",
