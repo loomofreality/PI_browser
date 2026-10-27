@@ -55,6 +55,26 @@ test('a curated guide records removed quotations so its selection still validate
   await assert.rejects(selectStudyGuideQuotations(after,{...result.guide.selection,sha256:createHash('sha256').update(plain).digest('hex')},{readReview:async()=>plain,readRecord:async()=>record}),/count/);
 });
 
+test('a corrected record moves chosen quotations to its new version so the selection still validates',async()=>{
+  const record={id:'KEEP',enVersion:'v2',metadata:{},en:{paragraphs:[{plain:'Text.'}]}};
+  const selections=Array.from({length:301},(_,i)=>linked(String(i),'KEEP'));
+  const corrected=selections.map(s=>({...s,candidates:[{...s.candidates[0],version:'v2'}]}));
+  const before={subject:{id:'S'},sources,selections},after={...before,selections:corrected};
+  const ids=selections.slice(0,300).map(s=>s.id);
+  const review={subject:'S',status:'finalized_before_analysis',selectionBeforeAnalysis:true,target:300,candidateCount:301,selectedCount:300,mandatoryAuthorizedCount:0,candidateFingerprint:catalogueFingerprint(selections),
+    selected:ids.map(id=>({id,source:'KEEP',sourceVersion:'v1',authorizedParagraphs:[],reason:'Chosen.',authorityEvidence:{kind:'no_authorized_selected_paragraph',sourceVersion:'v1',paragraphs:[]}})),omitted:[{id:'300'}],importedAuthorityReview:[]};
+  const guide={id:'S',slug:'sample',displayTitle:'Sample',selection:{review:'selections/sample.json',ids,sha256:''},order:[{key:'source:KEEP',why:'Kept.'}],questions:[],neighbors:[]};
+  const raw=r=>JSON.stringify(r),digest=text=>createHash('sha256').update(text).digest('hex');
+  // Refreshing only the fingerprint, as before, leaves the old version behind.
+  const stale={...review,candidateFingerprint:catalogueFingerprint(corrected)};
+  await assert.rejects(selectStudyGuideQuotations(after,{...guide.selection,sha256:digest(raw(stale))},{readReview:async()=>raw(stale),readRecord:async()=>record}),/source authority evidence changed/);
+  const result=reconcileGuide(guide,before,after,{item:'KEEP',cause:'catalog item KEEP was corrected',review});
+  assert.ok(result.review.selected.every(s=>s.sourceVersion==='v2'&&s.authorityEvidence.sourceVersion==='v2'));
+  assert.equal(result.notes.filter(n=>/cites the corrected text of KEEP/.test(n)).length,300);
+  const text=raw(result.review),chosen=await selectStudyGuideQuotations(after,{...result.guide.selection,sha256:digest(text)},{readReview:async()=>text,readRecord:async()=>record});
+  assert.equal(chosen.length,300);
+});
+
 test('guide files, neighbors, baselines and sentence context are updated together',async()=>{
   const before={subject:{id:'S'},sources,selections:[linked('a','GONE'),linked('b','KEEP')]},after={...before,selections:[linked('b','KEEP')]};
   const guide={id:'S',slug:'sample',displayTitle:'Sample',order:[{key:'source:GONE',why:'First.'},{key:'source:KEEP',why:'Second.'}],questions:[],neighbors:[]};

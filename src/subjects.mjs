@@ -1,4 +1,4 @@
-import {loadStudyGuides,loadGuideOpening,studyGuideButton,studyGuideQuotation} from './study-guide.mjs';
+import {loadStudyGuides,loadGuideOpening,studyGuideButton,studyGuideQuotation,fitQuotation} from './study-guide.mjs';
 import {loadDefaults,randomDefault} from './view-defaults.mjs';
 import {renderSubjectSummary} from './subject-summary.mjs';
 import {graphShell,mountGraph} from './global-graph.mjs';
@@ -15,7 +15,7 @@ import {escapeHtml as esc} from './text.mjs';
 import {compareSelections,publicSelections,unlinkedPassage} from './subject-list.mjs';
 import {relationKey} from './subject-relations.mjs';
 const $=id=>document.getElementById(id),params=()=>new URLSearchParams(location.search);
-let studyGuides={},dataset='';
+let studyGuides={},dataset='',quotationObserver=null;
 let index,base,selected,epoch=0;const cache=new Map();
 let thematicGroups=[];
 let disposeGraph=()=>{};
@@ -56,6 +56,20 @@ function reviewHtml(s){return `<details class="subject-review"><summary>Review $
 // A subject with a study guide shows the guide's first quotation, linked to the
 // guide; other subjects keep their summary's introductory paragraph.
 function overviewText(subject,data,opening){const quotation=studyGuideQuotation(studyGuides,opening,subject.id);return quotation?`<section class="subject-overview-summary subject-overview-quotation" aria-label="First quotation from this subject’s study guide">${quotation}</section>`:`<section class="subject-overview-summary" aria-label="Subject summary">${renderSubjectSummary(data.summary?.slice(0,1),index.subjects,id=>url({subject:id,page:null,author:null,volume:null,availability:null}))}</section>`;}
+// A quotation taller than the graph beside it is shortened to the graph's height.
+function watchQuotation(paragraphs){
+  quotationObserver?.disconnect();quotationObserver=null;
+  const link=document.querySelector('.subject-guide-quotation'),body=document.querySelector('.subject-overview-graph .graph-body');
+  if(!link||!body||!paragraphs?.length||typeof ResizeObserver!=='function')return;
+  const quote=link.querySelector('blockquote');let fitted='';
+  quotationObserver=new ResizeObserver(()=>{
+    // Until the graph is drawn, the quotation is shown in full.
+    const limit=body.querySelector(':scope > svg')?.getBoundingClientRect().height||0,key=`${limit}x${link.clientWidth}`;
+    if(key===fitted)return;fitted=key;
+    fitQuotation(quote,paragraphs,limit);
+  });
+  quotationObserver.observe(body);quotationObserver.observe(link);
+}
 function neighborhood(subject){return graphNeighborhood(index.subjects,index.edges,subject.id,params().get('hops')||1,false);}
 function graph(subject){return graphShell(neighborhood(subject));}
 async function render(){
@@ -73,6 +87,7 @@ async function render(){
     const size=printView?Math.max(1,rows.length):10,pages=Math.max(1,Math.ceil(rows.length/size)),linkedIndex=rows.findIndex(s=>review?'#selection-'+s.id===location.hash:s.selections.some(item=>'#selection-'+item.id===location.hash)),page=linkedIndex>=0?Math.floor(linkedIndex/size)+1:Math.min(pages,Math.max(1,parseInt(p.get('page'))||1)),visible=rows.slice((page-1)*size,page*size);
     $('subject-content').innerHTML=`<h2 class="subject-heading" tabindex="-1"><span class="subject-label" style="${colorStyle(subject)}">${esc(subject.name.replace(/\p{L}/u,letter=>letter.toLocaleUpperCase('en')))}</span></h2><div class="subject-overview"><div class="subject-overview-graph">${graph(subject)}</div>${overviewText(subject,data,opening)}</div>${review?editor():''}<h2 id="selected-passages-heading">Selected passages</h2>${data.unavailable?'<p class="graph-empty" role="status">Selections unavailable. The supplied source URL could not be retrieved. This subject is retained in the directory; a corrected source URL is needed to import its passages.</p>':''}${review?'<div class="subject-filters"></div>':''}<p role="status">${rows.length.toLocaleString()} selections · page ${page} of ${pages}</p>${review&&data.notices.length?'<p class="subject-note">The selection source includes research notices; expand selection provenance to inspect them.</p>':''}${passageControls()}<div id="passage-results" class="passage-reader ${review?'':'continuous-passages'}"></div><div class="subject-pagination"><button id="subject-prev" ${page===1?'disabled':''}>← Previous</button><span>${page} / ${pages}</span><button id="subject-next" ${page===pages?'disabled':''}>Next →</button></div>`;
     disposeGraph=mountGraph(document.querySelector('.graph-panel'),{neighborhood:neighborhood(subject),subject,label:graphLabel,url,previousGraph});
+    watchQuotation(opening);
     if(review){document.querySelector('.subject-filters').insertAdjacentHTML('afterbegin',`<label>Match status<select id="passage-status">${[['pending','Needs review'],['all','All statuses'],['approximate','Approximate'],['ambiguous','Ambiguous'],['unmatched','Unmatched'],['exact','Exact'],['normalized','Normalized'],['confirmed','Confirmed'],['rejected','Rejected']].map(([value,label])=>`<option value="${value}" ${(p.get('status')||'pending')===value?'selected':''}>${label}</option>`).join('')}</select></label>`);$('passage-status').onchange=e=>go({status:e.target.value,page:null});}
     $('subject-prev').onclick=()=>go({page:page-1});$('subject-next').onclick=()=>go({page:page+1});
     let savedReading={};try{savedReading=JSON.parse(localStorage.getItem('pi-reading')||'{}')||{};}catch{}

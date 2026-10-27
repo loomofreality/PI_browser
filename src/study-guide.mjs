@@ -36,3 +36,30 @@ export function studyGuideQuotation(guides,paragraphs,subjectId){
   if(typeof file!=='string'||!/^[a-z]+-pdf\.html$/.test(file)||!paragraphs?.length)return '';
   return `<a class="subject-guide-quotation" href="./study-guides/${esc(file)}" target="_blank" rel="noopener" title="Open this subject’s study guide in a new tab"><blockquote>${paragraphs.map(p=>`<p>${esc(p)}</p>`).join('')}</blockquote></a>`;
 }
+
+// Shortens a quotation to the most whole words that fit within `limit`
+// pixels, ending in an ellipsis; a quotation that fits is shown in full.
+export function fitQuotation(quote,paragraphs,limit){
+  const show=parts=>{quote.innerHTML=parts.map(p=>`<p>${esc(p)}</p>`).join('');};
+  show(paragraphs);
+  if(!(limit>0)||quote.getBoundingClientRect().height<=limit)return false;
+  const words=paragraphs.map(p=>p.split(/\s+/).filter(Boolean));
+  const shortened=count=>{
+    const parts=[];
+    for(const list of words){
+      if(count<=0)break;
+      parts.push(list.slice(0,count).join(' '));
+      if(count<list.length){parts[parts.length-1]=parts.at(-1).replace(/[\s,;:.…–—-]+$/u,'')+'…';break;}
+      count-=list.length;
+    }
+    return parts;
+  };
+  let low=1,high=words.flat().length-1;
+  while(low<high){
+    const middle=Math.ceil((low+high)/2);
+    show(shortened(middle));
+    if(quote.getBoundingClientRect().height<=limit)low=middle;else high=middle-1;
+  }
+  show(shortened(low));
+  return true;
+}

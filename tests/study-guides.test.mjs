@@ -5,7 +5,7 @@ import os from 'node:os';
 import path from 'node:path';
 import {gzipSync} from 'node:zlib';
 import {createHash} from 'node:crypto';
-import {loadStudyGuides,loadGuideOpening,studyGuideButton,studyGuideQuotation} from '../src/study-guide.mjs';
+import {loadStudyGuides,loadGuideOpening,studyGuideButton,studyGuideQuotation,fitQuotation} from '../src/study-guide.mjs';
 import {buildStudyGuides} from '../scripts/build-compilation-pilot.mjs';
 import {recordFilename} from '../src/record-file.mjs';
 import {catalogueFingerprint} from '../scripts/study-guide-catalogue.mjs';
@@ -37,6 +37,17 @@ test('Subject view shows a guide’s first quotation, escaped and linked to the 
   assert.equal(studyGuideQuotation(guides,null,id),'');
   assert.equal(await loadGuideOpening(guides,'collections/new/',id,request(opening)),null);
   assert.equal(await loadGuideOpening(guides,dataset,id,async()=>{throw Error('Unavailable');}),null);
+});
+
+test('a quotation taller than the graph keeps the most whole words that fit, ending in an ellipsis',()=>{
+  // One pixel of height per character of the rendered paragraphs.
+  const quote={innerHTML:'',getBoundingClientRect(){return {height:this.innerHTML.replace(/<[^>]+>/g,'').length};}};
+  const paragraphs=['One two three.','Four five, six seven.'];
+  assert.equal(fitQuotation(quote,paragraphs,100),false);assert.equal(quote.innerHTML,'<p>One two three.</p><p>Four five, six seven.</p>');
+  assert.equal(fitQuotation(quote,paragraphs,0),false);assert.equal(quote.innerHTML,'<p>One two three.</p><p>Four five, six seven.</p>');
+  assert.equal(fitQuotation(quote,paragraphs,25),true);assert.equal(quote.innerHTML,'<p>One two three.</p><p>Four five…</p>');
+  assert.equal(fitQuotation(quote,paragraphs,10),true);assert.equal(quote.innerHTML,'<p>One two…</p>');
+  assert.equal(fitQuotation(quote,['<a> b c'],5),true);assert.equal(quote.innerHTML,'<p>&lt;a&gt;…</p>');
 });
 
 async function fixture(t){
