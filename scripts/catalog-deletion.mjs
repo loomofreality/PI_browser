@@ -84,6 +84,15 @@ export function reconcileGuide(guide,before,after,{item,cause=`catalog item ${it
     }
     const lostMandatory=review.selected.filter(s=>!afterIds.has(s.id)&&s.mandatoryAuthorized===true).length;
     review.selected=review.selected.filter(s=>afterIds.has(s.id));
+    // A corrected record keeps its chosen quotations; their review names the new version.
+    const afterById=new Map(afterPool.map(s=>[s.id,s]));
+    for(const entry of review.selected){
+      const candidate=afterById.get(entry.id).candidates?.[0];
+      if(!entry.sourceVersion||candidate?.source!==entry.source||!candidate.version||candidate.version===entry.sourceVersion)continue;
+      entry.sourceVersion=candidate.version;
+      if(entry.authorityEvidence?.sourceVersion)entry.authorityEvidence.sourceVersion=candidate.version;
+      notes.push(`Chosen quotation ${entry.id} now cites the corrected text of ${entry.source}.`);
+    }
     review.omitted=review.omitted.filter(s=>afterIds.has(s.id));
     review.importedAuthorityReview=(review.importedAuthorityReview||[]).filter(s=>afterIds.has(s.id));
     const goneChosen=gone.filter(id=>chosen.has(id)).length;

@@ -17,3 +17,49 @@ export function studyGuideButton(guides,subjectId){
   if(typeof file!=='string'||!/^[a-z]+-pdf\.html$/.test(file))return '';
   return `<a id="subject-study-guide" href="./study-guides/${esc(file)}" target="_blank" rel="noopener" title="Open this subject’s study guide in a new tab">Try a study guide</a>`;
 }
+
+// Each guide's first reading, shown beside the subject graph. Like the
+// manifest, a quotation from another dataset is never shown.
+export async function loadGuideOpening(guides,dataset,subjectId,request=fetch){
+  if(typeof guides[subjectId]!=='string'||!/^[A-F0-9]{32}$/.test(subjectId))return null;
+  try{
+    const response=await request(`./study-guides/openings/${subjectId}.json`,{cache:'no-cache'});
+    if(!response.ok)return null;
+    const opening=await response.json();
+    if(opening.format!==1||opening.dataset!==dataset||!Array.isArray(opening.paragraphs)||!opening.paragraphs.length||!opening.paragraphs.every(p=>typeof p==='string'&&p.trim()))return null;
+    return opening.paragraphs;
+  }catch{return null;}
+}
+
+export function studyGuideQuotation(guides,paragraphs,subjectId){
+  const file=guides[subjectId];
+  if(typeof file!=='string'||!/^[a-z]+-pdf\.html$/.test(file)||!paragraphs?.length)return '';
+  return `<a class="subject-guide-quotation" href="./study-guides/${esc(file)}" target="_blank" rel="noopener" title="Open this subject’s study guide in a new tab"><blockquote>${paragraphs.map(p=>`<p>${esc(p)}</p>`).join('')}</blockquote></a>`;
+}
+
+// Shortens a quotation to the most whole words that fit within `limit`
+// pixels, ending in an ellipsis; a quotation that fits is shown in full.
+export function fitQuotation(quote,paragraphs,limit){
+  const show=parts=>{quote.innerHTML=parts.map(p=>`<p>${esc(p)}</p>`).join('');};
+  show(paragraphs);
+  if(!(limit>0)||quote.getBoundingClientRect().height<=limit)return false;
+  const words=paragraphs.map(p=>p.split(/\s+/).filter(Boolean));
+  const shortened=count=>{
+    const parts=[];
+    for(const list of words){
+      if(count<=0)break;
+      parts.push(list.slice(0,count).join(' '));
+      if(count<list.length){parts[parts.length-1]=parts.at(-1).replace(/[\s,;:.…–—-]+$/u,'')+'…';break;}
+      count-=list.length;
+    }
+    return parts;
+  };
+  let low=1,high=words.flat().length-1;
+  while(low<high){
+    const middle=Math.ceil((low+high)/2);
+    show(shortened(middle));
+    if(quote.getBoundingClientRect().height<=limit)low=middle;else high=middle-1;
+  }
+  show(shortened(low));
+  return true;
+}
