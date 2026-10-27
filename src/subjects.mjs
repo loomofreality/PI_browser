@@ -57,16 +57,16 @@ function reviewHtml(s){return `<details class="subject-review"><summary>Review $
 // guide; other subjects keep their summary's introductory paragraph.
 function overviewText(subject,data,opening){const quotation=studyGuideQuotation(studyGuides,opening,subject.id);return quotation?`<section class="subject-overview-summary subject-overview-quotation" aria-label="First quotation from this subject’s study guide">${quotation}</section>`:`<section class="subject-overview-summary" aria-label="Subject summary">${renderSubjectSummary(data.summary?.slice(0,1),index.subjects,id=>url({subject:id,page:null,author:null,volume:null,availability:null}))}</section>`;}
 // A quotation taller than the graph beside it is shortened to the graph's height.
-function watchQuotation(paragraphs){
+function watchQuotation(opening){
   quotationObserver?.disconnect();quotationObserver=null;
   const link=document.querySelector('.subject-guide-quotation'),body=document.querySelector('.subject-overview-graph .graph-body');
-  if(!link||!body||!paragraphs?.length||typeof ResizeObserver!=='function')return;
+  if(!link||!body||!opening?.paragraphs?.length||typeof ResizeObserver!=='function')return;
   const quote=link.querySelector('blockquote');let fitted='';
   quotationObserver=new ResizeObserver(()=>{
     // Until the graph is drawn, the quotation is shown in full.
     const limit=body.querySelector(':scope > svg')?.getBoundingClientRect().height||0,key=`${limit}x${link.clientWidth}`;
     if(key===fitted)return;fitted=key;
-    fitQuotation(quote,paragraphs,limit);
+    fitQuotation(quote,opening,limit);
   });
   quotationObserver.observe(body);quotationObserver.observe(link);
 }
