@@ -5,7 +5,7 @@ import os from 'node:os';
 import path from 'node:path';
 import {gzipSync} from 'node:zlib';
 import {createHash} from 'node:crypto';
-import {loadStudyGuides,studyGuideButton} from '../src/study-guide.mjs';
+import {loadStudyGuides,loadGuideOpening,studyGuideButton,studyGuideQuotation} from '../src/study-guide.mjs';
 import {buildStudyGuides} from '../scripts/build-compilation-pilot.mjs';
 import {recordFilename} from '../src/record-file.mjs';
 import {catalogueFingerprint} from '../scripts/study-guide-catalogue.mjs';
@@ -20,6 +20,23 @@ test('only safe guides for the current dataset are offered; unavailable guides d
   assert.equal(studyGuideButton(guides,'missing'),'');
   assert.deepEqual(await loadStudyGuides('collections/new/',request(manifest)),{});
   assert.deepEqual(await loadStudyGuides(dataset,async()=>{throw Error('Unavailable');}),{});
+});
+
+test('Subject view shows a guide’s first quotation, escaped and linked to the guide, only for the current dataset',async()=>{
+  const requested=[],request=body=>async url=>{requested.push(url);return {ok:true,json:async()=>body};};
+  const guides={[id]:'courage-pdf.html'},paragraphs=['<First> reading.','… Second paragraph.'],opening={format:1,dataset,paragraphs};
+  const loaded=await loadGuideOpening(guides,dataset,id,request(opening));
+  assert.deepEqual(loaded,paragraphs);assert.deepEqual(requested,[`./study-guides/openings/${id}.json`]);
+  assert.equal(await loadGuideOpening({},dataset,id,request(opening)),null);assert.equal(requested.length,1);
+  assert.equal(await loadGuideOpening(guides,dataset,id,request({...opening,paragraphs:[]})),null);
+  assert.equal(await loadGuideOpening(guides,dataset,id,request({...opening,paragraphs:[3]})),null);
+  const html=studyGuideQuotation(guides,loaded,id);
+  assert.match(html,/^<a class="subject-guide-quotation" href="\.\/study-guides\/courage-pdf.html" target="_blank" rel="noopener"/);
+  assert.match(html,/<blockquote><p>&lt;First&gt; reading\.<\/p><p>… Second paragraph\.<\/p><\/blockquote>/);
+  assert.equal(studyGuideQuotation({},loaded,id),'');
+  assert.equal(studyGuideQuotation(guides,null,id),'');
+  assert.equal(await loadGuideOpening(guides,'collections/new/',id,request(opening)),null);
+  assert.equal(await loadGuideOpening(guides,dataset,id,async()=>{throw Error('Unavailable');}),null);
 });
 
 async function fixture(t){
@@ -110,6 +127,8 @@ test('guide build preserves all selections, merges overlaps, escapes text, and c
   assert.ok(pdf.indexOf('Comparative reading')<pdf.indexOf('<section id="questions"'));
   assert.match(pdf,/&lt;Word&gt;/);assert.doesNotMatch(pdf,/<Word>/);
   assert.match(pdf,/A supplied quotation\./);
+  // The first reading is published for Subject view as unescaped plain text.
+  assert.deepEqual(JSON.parse(await read(`openings/${id}.json`)),{format:1,dataset,paragraphs:['<Word> in context.']});
   const compiled=JSON.parse(await read('compiled.json')).subjects[0].compiled;
   assert.deepEqual(compiled.flatMap(g=>g.selectionIds).sort(),['linked','overlap','unlinked']);
   assert.equal(compiled[0].paragraphs[0].text,'<Word> in context.');

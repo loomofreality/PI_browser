@@ -17,3 +17,22 @@ export function studyGuideButton(guides,subjectId){
   if(typeof file!=='string'||!/^[a-z]+-pdf\.html$/.test(file))return '';
   return `<a id="subject-study-guide" href="./study-guides/${esc(file)}" target="_blank" rel="noopener" title="Open this subject’s study guide in a new tab">Try a study guide</a>`;
 }
+
+// Each guide's first reading, shown beside the subject graph. Like the
+// manifest, a quotation from another dataset is never shown.
+export async function loadGuideOpening(guides,dataset,subjectId,request=fetch){
+  if(typeof guides[subjectId]!=='string'||!/^[A-F0-9]{32}$/.test(subjectId))return null;
+  try{
+    const response=await request(`./study-guides/openings/${subjectId}.json`,{cache:'no-cache'});
+    if(!response.ok)return null;
+    const opening=await response.json();
+    if(opening.format!==1||opening.dataset!==dataset||!Array.isArray(opening.paragraphs)||!opening.paragraphs.length||!opening.paragraphs.every(p=>typeof p==='string'&&p.trim()))return null;
+    return opening.paragraphs;
+  }catch{return null;}
+}
+
+export function studyGuideQuotation(guides,paragraphs,subjectId){
+  const file=guides[subjectId];
+  if(typeof file!=='string'||!/^[a-z]+-pdf\.html$/.test(file)||!paragraphs?.length)return '';
+  return `<a class="subject-guide-quotation" href="./study-guides/${esc(file)}" target="_blank" rel="noopener" title="Open this subject’s study guide in a new tab"><blockquote>${paragraphs.map(p=>`<p>${esc(p)}</p>`).join('')}</blockquote></a>`;
+}
