@@ -35,6 +35,7 @@ export async function buildSubjects(root,out,dataset){const base=path.join(out,d
   await write('data/withheld-pdf-volumes.json','{}');await write('subject-summaries/A.md','fixture');
   await write('subjects - reference.docx','fixture');await write('period_renaming.csv','Old,New\nold,Period\n');
   await write('pdf_volumes - copy/volume_01 - Title.pdf','%PDF-1.7 fixture');
+  await write('scripts/volume-pages.mjs','export async function countVolumePages(){return {total:0,volumes:{}};}');
   const rows=[{PIN:'AB1',Title:'First',Period:'old',Volume:'1',Manuscripts:'M',Publications:'',Translations:'',Notes:'',Subjects:'','First line (original)':'اول'},{PIN:'AB2',Title:'Second',Period:'old',Volume:'1',Manuscripts:'M',Publications:'',Translations:'',Notes:'',Subjects:'','First line (original)':'دوم'}];
   const metadata=()=>write('metadata - copy/items.csv',csvText(rows,Object.keys(rows[0])));
   await metadata();await write('original_texts - copy/AB1.txt','اول متن');await write('original_texts - copy/AB2.txt','دوم متن');
