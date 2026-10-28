@@ -94,6 +94,30 @@ test('a proposal commits only the named files and leaves the folder on main; mer
   await fs.writeFile(path.join(work,'b.json'),'{"b":"local"}\n');
   await assert.rejects(prepareRepository(work,['b.json']),/newer versions[\s\S]*b\.json[\s\S]*pull request/);
   assert.equal(await fs.readFile(path.join(work,'b.json'),'utf8'),'{"b":"local"}\n');
+  // A guide edited again after its earlier edit was merged: the new edit is
+  // kept on top of GitHub's version instead of blocking the pull request.
+  await fs.writeFile(path.join(work,'b.json'),'{"b":3}\n');
+  await prepareRepository(work,['b.json']);
+  const lines=n=>Array.from({length:n},(_,i)=>`"line${i}": ${i},`);
+  const guide=edit=>{const text=lines(12);for(const [i,value] of Object.entries(edit))text[i]=value;return '{\n'+text.join('\n')+'\n"end": true\n}\n';};
+  await fs.writeFile(path.join(work,'b.json'),guide({}));
+  git(work,'commit','--quiet','-am','guide');git(work,'push','--quiet','origin','HEAD:main');
+  await fs.writeFile(path.join(work,'b.json'),guide({1:'"line1": "first run",'}));
+  const first=await proposalCommit(work,['b.json'],'First run',{login:'editor',id:7});
+  git(work,'push','--quiet','origin',first.sha+':refs/heads/main');
+  await fs.writeFile(path.join(work,'b.json'),guide({1:'"line1": "first run",',9:'"line9": "second run",'}));
+  await prepareRepository(work,['b.json']);
+  assert.equal(git(work,'rev-parse','HEAD'),first.sha);
+  assert.equal(await fs.readFile(path.join(work,'b.json'),'utf8'),guide({1:'"line1": "first run",',9:'"line9": "second run",'}));
+  assert.deepEqual((await proposalCommit(work,['b.json'],'Second run',{login:'editor',id:7})).proposed,['b.json']);
+  assert.match(git(work,'diff','HEAD','--numstat','--','b.json'),/^1\t1\tb\.json$/);
+  // Overlapping edits still block, and the local file is left as it was.
+  git(other,'pull','--quiet','origin','main');
+  await fs.writeFile(path.join(other,'b.json'),guide({1:'"line1": "first run",',9:'"line9": "elsewhere",'}));
+  git(other,'commit','--quiet','-am','change line 9');git(other,'push','--quiet','origin','HEAD:main');
+  await assert.rejects(prepareRepository(work,['b.json']),/newer versions[\s\S]*b\.json/);
+  assert.equal(git(work,'rev-parse','HEAD'),first.sha);
+  assert.equal(await fs.readFile(path.join(work,'b.json'),'utf8'),guide({1:'"line1": "first run",',9:'"line9": "second run",'}));
 });
 
 test('pull request descriptions summarize editorial decisions, subject order and guide edits',()=>{
