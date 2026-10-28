@@ -19,6 +19,7 @@ import {buildVolumes} from './build-volumes.mjs';
 import {fingerprint} from './deployment-cache.mjs';
 import {reusableBuild,unzip,affectedBuckets,mergeShard,refreshSubjectMetadata} from './incremental-build.mjs';
 import {decodeSource} from './source-encoding.mjs';
+import {countVolumePages} from './volume-pages.mjs';
 
 const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
 const out=path.join(root,'dist');
@@ -78,6 +79,7 @@ await fs.writeFile(path.join(out,'.nojekyll'),'');
 const volumes=reuse?JSON.parse(await fs.readFile(path.join(out,'volumes.json'),'utf8')):await buildVolumes(root,out);
 const withheldVolumes=JSON.parse(await fs.readFile(path.join(root,'data','withheld-pdf-volumes.json'),'utf8'));
 for(const row of metadata.values())if(row.Volume&&!volumes[String(Number(row.Volume))]&&!Object.hasOwn(withheldVolumes,String(Number(row.Volume))))throw new Error(`No PDF for volume ${row.Volume}`);
+const volumePages=await countVolumePages(root,volumes);
 const catalog=[],indices={en:Array.from({length:1024},()=>new Map()),original:Array.from({length:1024},()=>new Map())};
 const authorNames={AB:'‘Abdu’l-Bahá',BB:'The Báb',BH:'Bahá’u’lláh'};
 const zipWrite=(file,value)=>fs.writeFile(file,gzipSync(JSON.stringify(value),{level:9}));
@@ -132,7 +134,7 @@ for(let doc=0;doc<ids.length;doc++){
   await zipWrite(path.join(corpus,'data',recordFilename(id)),{...record,enVersion,metadata:row,...(metadataOriginalValues.has(id)?{metadataOriginalValues:metadataOriginalValues.get(id)}:{}),en:versions.en,original:versions.original,paired:equal&&record.hasEnglish&&record.hasOriginal});
   if(doc%3000===0)console.log(`Imported ${doc.toLocaleString()} / ${ids.length.toLocaleString()} records`);
 }
-const stats={dataset,translationWordCount,records:ids.length,pairs:ids.filter(id=>files[0].has(id)&&files[1].has(id)).length,original:files[0].size,english:files[1].size,metadataOnly:report.metadataOnly.length,unequalParagraphCounts:report.unequalParagraphCounts.length};
+const stats={dataset,translationWordCount,records:ids.length,pairs:ids.filter(id=>files[0].has(id)&&files[1].has(id)).length,original:files[0].size,english:files[1].size,metadataOnly:report.metadataOnly.length,unequalParagraphCounts:report.unequalParagraphCounts.length,volumePages:volumePages.total};
 await zipWrite(path.join(corpus,'catalog.json.gz'),catalog);
 await fs.writeFile(path.join(corpus,'metadata-schema.json'),JSON.stringify(schema));
 for(const field of schema)await zipWrite(path.join(corpus,'facets',`${field.key}.json.gz`),ids.map(id=>metadataSearchText(metadata.get(id)?.[field.name]||'')));

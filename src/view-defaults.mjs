@@ -24,8 +24,10 @@ export async function loadDefaults(kind){
   return parseDefaults(kind,await response.text());
 }
 
+// Page 1 of every volume is blank, so a volume opens at pages 2-3.
+export const firstPage=2;
 export function volumeStart(params,defaults,random=Math.random){
   if(!params.has('volume')&&!params.has('page'))return randomDefault(defaults,random);
   const volume=params.get('volume')||'30';
-  return {volume,page:params.get('page')??(volume==='30'?14:1)};
+  return {volume,page:params.get('page')??(volume==='30'?14:firstPage)};
 }

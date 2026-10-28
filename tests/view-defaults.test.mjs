@@ -17,7 +17,7 @@ test('random choices span the list and explicit reading links bypass rotation',(
   assert.deepEqual(volumeStart(new URLSearchParams('layout=spread'),entries,()=>0.999),entries[1]);
   const forbidden=()=>{throw Error('Explicit links must not select a default');};
   assert.deepEqual(volumeStart(new URLSearchParams('volume=98&page=22'),[],forbidden),{volume:'98',page:'22'});
-  assert.deepEqual(volumeStart(new URLSearchParams('volume=2'),[],forbidden),{volume:'2',page:1});
+  assert.deepEqual(volumeStart(new URLSearchParams('volume=2'),[],forbidden),{volume:'2',page:2});
   assert.deepEqual(volumeStart(new URLSearchParams('page=7'),[],forbidden),{volume:'30',page:'7'});
   assert.equal(randomDefault(['first','last'],()=>0.999),'last');
   assert.throws(()=>randomDefault([]));

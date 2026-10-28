@@ -1,4 +1,4 @@
-import {loadDefaults,volumeStart} from './view-defaults.mjs';
+import {loadDefaults,volumeStart,firstPage} from './view-defaults.mjs';
 import {externalPdfUrl,pdfLinkBoxes,pdfDestinationPage} from './pdf-links.mjs';
 import {loadPdfBase,pdfHref} from './pdf-hosting.mjs';
 const $=id=>document.getElementById(id);
@@ -64,7 +64,7 @@ async function draw(){
   }catch(error){if(version!==renderEpoch)return;$('volume-status').textContent='These pages could not be rendered. Try again or open the PDF directly.';$('retry').hidden=false;}
   finally{if(version===renderEpoch)$('pdf-reader').setAttribute('aria-busy','false');}
 }
-async function openVolume(id,requestedPage=1){
+async function openVolume(id,requestedPage=firstPage){
   const version=++epoch;++renderEpoch;clear();pdf=null;controls();
   $('pdf-reader').setAttribute('aria-busy','true');$('retry').hidden=true;
   const previousTask=task;task=null;if(previousTask)await previousTask.destroy();if(version!==epoch)return;
@@ -77,7 +77,7 @@ async function openVolume(id,requestedPage=1){
     lib.GlobalWorkerOptions.workerSrc=new URL('./pdf-worker.mjs',import.meta.url).href;
     task=lib.getDocument({url:pdfHref(directory[id],pdfSite),cMapUrl:'./vendor/pdfjs/cmaps/',cMapPacked:true,standardFontDataUrl:'./vendor/pdfjs/standard_fonts/',wasmUrl:'./vendor/pdfjs/wasm/',isEvalSupported:false});
     const loaded=await task.promise;if(version!==epoch)return;pdf=loaded;
-    page=Math.max(1,Math.min(pdf.numPages,Math.trunc(Number(requestedPage))||1));save(true);await draw();
+    page=Math.max(1,Math.min(pdf.numPages,Math.trunc(Number(requestedPage))||firstPage));save(true);await draw();
   }catch(error){if(version!==epoch)return;$('volume-status').textContent='This volume could not be opened. Try again or open the PDF directly.';$('retry').hidden=false;$('pdf-reader').setAttribute('aria-busy','false');}
 }
 async function restore(){const version=++epoch;const params=new URLSearchParams(location.search);
@@ -95,13 +95,15 @@ async function restore(){const version=++epoch;const params=new URLSearchParams(
 function move(number){if(!pdf)return;page=Math.max(1,Math.min(pdf.numPages,number));save();draw().then(()=>{if($('pdf-reader').getBoundingClientRect().top<0)$('pdf-reader').scrollIntoView({block:'start'});});}
 $('previous').onclick=()=>move(page-count());$('next').onclick=()=>move(page+count());
 $('page-form').onsubmit=event=>{event.preventDefault();move(Number($('page').value));};
-$('volume').onchange=()=>{volume=$('volume').value;page=1;save();openVolume(volume);};
+$('volume').onchange=()=>{volume=$('volume').value;page=firstPage;save();openVolume(volume);};
 for(const id of ['layout','zoom'])$(id).onchange=()=>{if(volume)save();draw();};
 $('pdf-reader').onkeydown=event=>{if(event.altKey||event.ctrlKey||event.metaKey)return;if(['ArrowLeft','ArrowRight'].includes(event.key)){event.preventDefault();move(page+(event.key==='ArrowRight'?count():-count()));}};
 let resizeTimer,lastWidth=0;new ResizeObserver(([entry])=>{const width=entry.contentRect.width;if(width===lastWidth)return;lastWidth=width;clearTimeout(resizeTimer);resizeTimer=setTimeout(()=>draw(),150);}).observe($('pdf-reader'));
 window.addEventListener('popstate',restore);
+// Pages after each volume's opening matter and table of contents, counted at build time.
+function showPageCount(){fetch('./stats.json').then(response=>response.ok?response.json():null).then(stats=>{if(Number.isInteger(stats?.volumePages))$('volume-page-count').textContent=stats.volumePages.toLocaleString();}).catch(()=>{});}
 async function init(){try{pdfSite=await loadPdfBase();const responses=await Promise.all([fetch('./volumes.json'),fetch('./volume-titles.json')]);if(responses.some(response=>!response.ok))throw new Error();[directory,titles]=await Promise.all(responses.map(response=>response.json()));
   const entries=Object.entries(directory).filter(([id,file])=>/^\d+$/.test(id)&&/^pdf-volumes\/volume-\d+\.pdf$/.test(file)).sort((a,b)=>Number(a[0])-Number(b[0]));
-  if(!entries.length||entries.some(([id])=>typeof titles[id]!=='string'||!titles[id].trim()))throw new Error();directory=Object.fromEntries(entries);$('volume').replaceChildren(...entries.map(([id])=>new Option(titles[id],id)));$('volume').disabled=false;$('volume-count').textContent=entries.length;await restore();
+  if(!entries.length||entries.some(([id])=>typeof titles[id]!=='string'||!titles[id].trim()))throw new Error();directory=Object.fromEntries(entries);$('volume').replaceChildren(...entries.map(([id])=>new Option(titles[id],id)));$('volume').disabled=false;$('volume-count').textContent=entries.length;showPageCount();await restore();
 }catch{$('volume-status').textContent='The volume directory could not be loaded. Please try again.';$('retry').hidden=false;$('pdf-reader').setAttribute('aria-busy','false');}}
 $('retry').onclick=()=>volume?openVolume(volume,page):init();init();
