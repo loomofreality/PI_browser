@@ -1166,15 +1166,16 @@
       "arc": "Begin with the heart’s garden and its varied flowers, follow divine care through growth and renewal, then explore education, patient service, loss, and the fruits of a cultivated life.",
       "order": [
         {
-          "key": "source:ABU2791",
-          "why": "Open with the reported relation between an inner garden and the care one can offer."
-        },
-        {
           "key": "source:AB00889",
           "why": "Establish a garden whose variety contributes to shared beauty.",
           "shortened": [
             "The Kingdom of God is like a flower garden adorned with various sweet-scented flowers, blossoms, herbs and trees. Since they are under the training of one Gardener, are watered from one water, are nurtured by the heat of one sun, receive bounty from one breeze, and grow from one soil, their different colors, compositions, forms, shapes, tastes and fragrances cause the adornment and splendor of one another."
           ]
+        },
+        {
+          "key": "source:ABU2791",
+          "why": "Open with the reported relation between an inner garden and the care one can offer.",
+          "omitted": true
         },
         {
           "key": "source:BH02374",

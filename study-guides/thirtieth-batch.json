@@ -9,6 +9,10 @@
       "arc": "Begin with the heart’s paradox, distinguish recognition from comprehension of the Essence, and return to prayer as a response shaped by love and humility.",
       "order": [
         {
+          "key": "source:BB00038",
+          "why": "Follow the limits placed upon description."
+        },
+        {
           "key": "source:BB00121",
           "why": "Open with the tension between inability to call and inability to remain silent.",
           "shortened": [
@@ -122,10 +126,6 @@
           "shortened": [
             "How then can one who has no way to comprehend the essence of knowing Thine eternity possibly worship Thee? Glorified art Thou above this, and exalted art Thou beyond that! All worship Thee according to what Thou hast created in them of the likeness of Thy creation, and all unite in Thy oneness through what Thou hast deposited within them of the signs of Thy handiwork."
           ]
-        },
-        {
-          "key": "source:BB00038",
-          "why": "Follow the limits placed upon description."
         },
         {
           "key": "source:BB00036",
@@ -588,6 +588,14 @@
       "arc": "Begin with the two wings of inquiry, explore the questions and historical debates of divine philosophy, and bring knowledge back to education, unity, and lived example.",
       "order": [
         {
+          "key": "source:ABU0150",
+          "why": "Read the sustained appeal for reason, science, and the cultivation of virtues.",
+          "shortened": [
+            "Philosophy is of two kinds: natural and divine. Natural philosophy seeks knowledge of physical verities and explains material phenomena, whereas divine philosophy deals with ideal verities and phenomena of the spirit.",
+            "Now is the time for us to make an effort and enable it to advance apace with the philosophy of material investigation so that awakening of the ideal virtues may progress equally with the unfoldment of the natural powers. In the same proportion that the body of man is developing, the spirit of man must be strengthened; and just as his outer perceptions have been quickened, his inner intellectual powers must be sensitized so that he need not rely wholly upon tradition and human precedent. In divine questions we must not depend entirely upon the heritage of tradition and former human experience; nay, rather, we must exercise reason, analyze and logically examine the facts presented so that confidence will be inspired and faith attained."
+          ]
+        },
+        {
           "key": "source:ABU0346",
           "why": "Open with natural and spiritual knowledge as two wings.",
           "shortened": [
@@ -599,14 +607,6 @@
           "why": "Define philosophy as inquiry within human capacity.",
           "shortened": [
             "Philosophy consists in comprehending, so far as human power permits, the realities of things as they are in themselves."
-          ]
-        },
-        {
-          "key": "source:ABU0150",
-          "why": "Read the sustained appeal for reason, science, and the cultivation of virtues.",
-          "shortened": [
-            "Philosophy is of two kinds: natural and divine. Natural philosophy seeks knowledge of physical verities and explains material phenomena, whereas divine philosophy deals with ideal verities and phenomena of the spirit.",
-            "Now is the time for us to make an effort and enable it to advance apace with the philosophy of material investigation so that awakening of the ideal virtues may progress equally with the unfoldment of the natural powers. In the same proportion that the body of man is developing, the spirit of man must be strengthened; and just as his outer perceptions have been quickened, his inner intellectual powers must be sensitized so that he need not rely wholly upon tradition and human precedent. In divine questions we must not depend entirely upon the heritage of tradition and former human experience; nay, rather, we must exercise reason, analyze and logically examine the facts presented so that confidence will be inspired and faith attained."
           ]
         },
         {
@@ -1158,6 +1158,13 @@
       "arc": "Begin with the ethical demand of the names, examine how language and manifestation disclose without enclosing, and return through prayer to qualities that benefit the world.",
       "order": [
         {
+          "key": "source:AB00020",
+          "why": "Consider attributes as signs in the visible world.",
+          "shortened": [
+            "As to the attributes and perfections such as will, knowledge, power and other ancient attributes that we ascribe to that Divine Reality, these are the signs that reflect the existence of beings in the visible plane and not the absolute perfections of the Divine Essence that cannot be comprehended."
+          ]
+        },
+        {
           "key": "source:BH01231",
           "why": "Open with the names protesting conduct that contradicts them."
         },
@@ -1187,13 +1194,6 @@
         {
           "key": "source:BH00271",
           "why": "Follow knowledge through the image of the sun and its effects."
-        },
-        {
-          "key": "source:AB00020",
-          "why": "Consider attributes as signs in the visible world.",
-          "shortened": [
-            "As to the attributes and perfections such as will, knowledge, power and other ancient attributes that we ascribe to that Divine Reality, these are the signs that reflect the existence of beings in the visible plane and not the absolute perfections of the Divine Essence that cannot be comprehended."
-          ]
         },
         {
           "key": "source:AB00105",

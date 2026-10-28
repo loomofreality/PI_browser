@@ -1642,6 +1642,10 @@
       "arc": "Begin with respect for another person’s wishes, connect manners to character, and explore courtesy in speech, hospitality, and difficult relationships.",
       "order": [
         {
+          "key": "source:BH00005",
+          "why": "Present courtesy as a garment for every age."
+        },
+        {
           "key": "source:BH00113",
           "why": "Open with consent and refusal to take advantage."
         },
@@ -1651,10 +1655,6 @@
           "shortened": [
             "Say: Beware lest ye enter anyone's house except with his permission, and beware lest ye pride yourselves over any of My servants by reason of what ye have been given of the ornaments of the earth."
           ]
-        },
-        {
-          "key": "source:BH00005",
-          "why": "Present courtesy as a garment for every age."
         },
         {
           "key": "source:AB00003",

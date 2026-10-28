@@ -163,12 +163,12 @@
       "arc": "Begin with accessible refinement, connect body and character, then move through hospitality, changing purity rules, beauty, and kindness.",
       "order": [
         {
-          "key": "source:BB00071",
-          "why": "Open with the clean old shirt rather than costly appearance."
-        },
-        {
           "key": "source:AB00109",
           "why": "Use the streambed to connect outward and inward purity."
+        },
+        {
+          "key": "source:BB00071",
+          "why": "Open with the clean old shirt rather than costly appearance."
         },
         {
           "key": "source:ABU0727",

@@ -9,6 +9,17 @@
       "arc": "Begin with evidence and careful comparison, follow the work of recording and transmitting revelation, then consider preservation, publication, and responsible reading.",
       "order": [
         {
+          "key": "source:AB11825",
+          "why": "Read the gathering of accurate writings for the London library."
+        },
+        {
+          "key": "source:ABU1622",
+          "why": "Keep the reported warning about invented attributed statements distinctly sourced.",
+          "shortened": [
+            "I have come to these parts and I find out that certain people have attributed to me certain statements of which I am innocent. Anybody who has an opinion and desires to circulate it will attribute it to me. Anyone quoting me must have authority written either with my own hand, or tablets signed with my seal. Otherwise, those statements do not belong to me. Every instruction, every teaching that I desire to spread, I will write with my own hand. You must know this generally. Never accept statements without my writing which is signed and sealed - any statement."
+          ]
+        },
+        {
           "key": "source:ABU2573",
           "why": "Keep the reported handwriting and amanuensis evidence in its attributed historical setting.",
           "shortened": [
@@ -97,13 +108,6 @@
         {
           "key": "source:AB09643",
           "why": "Hear the rejection of falsely attributed named Tablets."
-        },
-        {
-          "key": "source:ABU1622",
-          "why": "Keep the reported warning about invented attributed statements distinctly sourced.",
-          "shortened": [
-            "I have come to these parts and I find out that certain people have attributed to me certain statements of which I am innocent. Anybody who has an opinion and desires to circulate it will attribute it to me. Anyone quoting me must have authority written either with my own hand, or tablets signed with my seal. Otherwise, those statements do not belong to me. Every instruction, every teaching that I desire to spread, I will write with my own hand. You must know this generally. Never accept statements without my writing which is signed and sealed - any statement."
-          ]
         },
         {
           "key": "source:ABU0047",
@@ -369,10 +373,6 @@
         {
           "key": "source:AB02081",
           "why": "Retain the specific permission to publish a book of addresses."
-        },
-        {
-          "key": "source:AB11825",
-          "why": "Read the gathering of accurate writings for the London library."
         },
         {
           "key": "source:AB06330",

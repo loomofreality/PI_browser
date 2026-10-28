@@ -108,15 +108,15 @@
       "arc": "Open with inward understanding, explore the protection offered by restraint, test speech by its usefulness and its deeds, then end with the summons to speak.",
       "order": [
         {
+          "key": "source:BH02183",
+          "why": "A memorable formulation contrasting fewness of words with abundance of deeds."
+        },
+        {
           "key": "source:AB06599",
           "why": "The image of opened eyes and sealed lips draws the reader into the relationship between insight and restraint.",
           "shortened": [
             "Thou hast prayed and supplicated to God that thou mayest be protected from temptation, discover the inner life, close thy lips and find great confirmation. It is said in the Persian language that when a man is taught the mystery of God, his eyes are opened but his lips are sealed. I ask of God that thou mayest be protected and preserved from losing thy footing and in the time of testing remain firm and steadfast."
           ]
-        },
-        {
-          "key": "source:BH02183",
-          "why": "A memorable formulation contrasting fewness of words with abundance of deeds."
         },
         {
           "key": "source:BH02558",
@@ -214,6 +214,15 @@
       "arc": "Begin with the startling value assigned to reflection, enter its inward practice, turn toward its ethical fruits, and close with devotion, renewal, and trust.",
       "order": [
         {
+          "key": "source:ABU0395",
+          "why": "Open the larger account of meditation as spiritual nourishment and discovery. Place scientific and practical discovery beside the earlier account of spiritual insight.",
+          "shortened": [
+            "The spirit of man is itself informed and strengthened during meditation; through it affairs of which man knew nothing are unfolded before his view. Through it he receives Divine inspiration, through it he receives heavenly food.",
+            "Meditation is the key for opening the doors of mysteries. In that state man abstracts himself: in that state man withdraws himself from all outside objects; in that subjective mood he is immersed in the ocean of spiritual life and can unfold the secrets of things-in-themselves.",
+            "This faculty brings forth from the invisible plane the sciences and arts. Through the meditative faculty inventions are made possible, colossal undertakings are carried out; through it governments can run smoothly."
+          ]
+        },
+        {
           "key": "source:BH01933",
           "why": "The contrast between an hour and seventy years gives the reader an immediate puzzle about the quality of attention.",
           "shortened": [
@@ -248,15 +257,6 @@
         {
           "key": "source:BH11336",
           "why": "Continue from the practice of reading to the importance of pondering particular words."
-        },
-        {
-          "key": "source:ABU0395",
-          "why": "Open the larger account of meditation as spiritual nourishment and discovery. Place scientific and practical discovery beside the earlier account of spiritual insight.",
-          "shortened": [
-            "The spirit of man is itself informed and strengthened during meditation; through it affairs of which man knew nothing are unfolded before his view. Through it he receives Divine inspiration, through it he receives heavenly food.",
-            "Meditation is the key for opening the doors of mysteries. In that state man abstracts himself: in that state man withdraws himself from all outside objects; in that subjective mood he is immersed in the ocean of spiritual life and can unfold the secrets of things-in-themselves.",
-            "This faculty brings forth from the invisible plane the sciences and arts. Through the meditative faculty inventions are made possible, colossal undertakings are carried out; through it governments can run smoothly."
-          ]
         },
         {
           "key": "source:AB08924",
