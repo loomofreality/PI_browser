@@ -171,6 +171,10 @@
       "arc": "Begin with the injunction to preserve life, read the account of endurance, and then consider the prohibitions within a larger inquiry into care and hope.",
       "order": [
         {
+          "key": "source:BH00728",
+          "why": "Read the separate statement that the act has been forbidden."
+        },
+        {
           "key": "source:BH00795",
           "why": "Open with the direct command to preserve life.",
           "shortened": [
@@ -194,10 +198,6 @@
           "shortened": [
             "As for the matter of deliberately ascending from this world merely to escape what is unbearable - this is absolutely not permitted."
           ]
-        },
-        {
-          "key": "source:BH00728",
-          "why": "Read the separate statement that the act has been forbidden."
         },
         {
           "key": "source:AB12806",

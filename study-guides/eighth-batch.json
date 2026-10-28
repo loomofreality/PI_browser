@@ -779,16 +779,16 @@
       "arc": "Start with an unresolved textual question, distinguish forms of difference, and examine the contest over the standards of interpretation.",
       "order": [
         {
-          "key": "source:AB11297",
-          "why": "Begin with a concrete discrepancy that invites inquiry."
-        },
-        {
           "key": "source:BH00069",
           "why": "Consider why a text might be reviewed or revised.",
           "shortened": [
             "57. QUESTION:  Concerning disparities between certain revealed verses.",
             "ANSWER:  Many Tablets were revealed and dispatched in their original form without being checked and reviewed.  Consequently, as bidden, they were again read out in the Holy Presence, and brought into conformity with the grammatical conventions of the people in order to forestall the cavils of opponents of the Cause.  Another reason for this practice is that the new style inaugurated by the Herald, may the souls of all else but Him be offered up for His sake, was seen to be marked by substantial latitude in adherence to the rules of  grammar; sacred verses therefore were then revealed in a style which is for the most part in conformity with current usage for ease of understanding and concision of expression."
           ]
+        },
+        {
+          "key": "source:AB11297",
+          "why": "Begin with a concrete discrepancy that invites inquiry."
         },
         {
           "key": "source:AB00003",
@@ -878,6 +878,10 @@
       "arc": "Begin with the language of love, distinguish kinds of disclosure, and then enter the philosophical accounts of outpouring.",
       "order": [
         {
+          "key": "source:AB10431",
+          "why": "A concise statement identifying the two kinds of mercy with the two outpourings."
+        },
+        {
           "key": "source:AB00006",
           "why": "Open with a living image of love coming forth. Follow love into an account of hidden realities.",
           "shortened": [
@@ -892,10 +896,6 @@
             "And were they to maintain that by \"divine Presence\" is meant the \"Specific Revelation of God,\" expressed by certain Sufis as the \"Most Holy Outpouring,\" if this be in the Essence Itself, it is evident that it hath been eternally in the divine Knowledge. Assuming the truth of this hypothesis, \"attainment unto the divine Presence\" is in this sense obviously possible to no one, inasmuch as this revelation is confined to the innermost Essence, unto which no man can attain.",
             "And were they to say that by \"divine Presence\" is meant the \"Secondary Revelation of God,\" interpreted as the \"Holy Outpouring,\" this is admittedly applicable to the world of creation, that is, in the realm of the primal and original manifestation of God. Such revelation is confined to His Prophets and chosen Ones, inasmuch as none mightier than they hath come to exist in the world of being. This truth all recognize, and bear witness thereto. These Prophets and chosen Ones of God are the recipients and revealers of all the unchangeable attributes and names of God. They are the mirrors that truly and faithfully reflect the light of God."
           ]
-        },
-        {
-          "key": "source:AB10431",
-          "why": "A concise statement identifying the two kinds of mercy with the two outpourings."
         },
         {
           "key": "source:AB00013",

@@ -1045,6 +1045,10 @@
       "arc": "Begin with the human costs of war and the practical fruits of peace; investigate destructive causes and warnings in context; distinguish source kinds and limits of prediction; then turn toward healing, renewal, and sustained service.",
       "order": [
         {
+          "key": "source:BH02747",
+          "why": "Consider a warning that calls for action to avert harm."
+        },
+        {
           "key": "source:AB00344",
           "why": "Open with the grief of children, parents, and bereaved families.",
           "shortened": [
@@ -1065,10 +1069,6 @@
         {
           "key": "source:AB05171",
           "why": "Read the explicit rejection of unfounded claims about earthquakes after the war."
-        },
-        {
-          "key": "source:BH02747",
-          "why": "Consider a warning that calls for action to avert harm."
         },
         {
           "key": "source:BH00140",

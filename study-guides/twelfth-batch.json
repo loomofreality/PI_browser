@@ -9,6 +9,13 @@
       "arc": "Begin with the invitation to learn, then consider the qualities associated with Hermes.",
       "order": [
         {
+          "key": "source:BH00409",
+          "why": "Direct identification of Idris with Hermes and an account of Balinus’s relationship to Hermetic teachings.",
+          "shortened": [
+            "The first to study philosophy was Idris, hence he was named thus, and he was also called Hermes. In every tongue he has a name, and in every branch of wisdom he gave sufficient and complete explanations. After him, Balinus extracted certain sciences from the Hermetic tablets, and most philosophers derived their scientific and philosophical arts from his words and explanations."
+          ]
+        },
+        {
           "key": "source:AB11513",
           "why": "Open with a personal invitation to seek the meaning of reality."
         },
@@ -18,10 +25,6 @@
           "shortened": [
             "O my kind friend! They call Hermes \"thrice great\", and say he combined prophethood, wisdom and bounty together, and was confirmed and assisted with these three gifts. That was the Hermes of ancient times."
           ]
-        },
-        {
-          "key": "source:BH00409",
-          "why": "Direct identification of Idris with Hermes and an account of Balinus’s relationship to Hermetic teachings."
         },
         {
           "key": "source:BH00212",

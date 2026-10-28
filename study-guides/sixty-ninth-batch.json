@@ -660,6 +660,10 @@
       "arc": "Begin with a puzzle about the creation days, distinguish dependence from temporal beginning, explore arguments and symbolic descriptions, and return to the purposes of recognition and renewal.",
       "order": [
         {
+          "key": "source:ABU2415",
+          "why": "Read the reported contrast between fortuity and law."
+        },
+        {
           "key": "source:ABU0033",
           "why": "Open with the question of a creation day before the sun."
         },
@@ -757,10 +761,6 @@
         {
           "key": "source:ABU0591",
           "why": "Keep the reported account of particles and composition in its historical terms."
-        },
-        {
-          "key": "source:ABU2415",
-          "why": "Read the reported contrast between fortuity and law."
         },
         {
           "key": "source:ABU2507",

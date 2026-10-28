@@ -191,15 +191,15 @@
       "arc": "Begin with the universal reach of knowledge, explore education and influence, compare historical accounts, and end with the collection’s own guidance on reading them.",
       "order": [
         {
-          "key": "source:AB07187",
-          "why": "Open with knowledge honored across national boundaries."
-        },
-        {
           "key": "source:ABU0150",
           "why": "Explore praise for inquiry into both natural and spiritual phenomena.",
           "shortened": [
             "The philosophers of Greece -- such as Aristotle, Socrates, Plato and others -- were devoted to the investigation of both natural and spiritual phenomena. In their schools of teaching they discoursed upon the world of nature as well as the supernatural world. Today the philosophy and logic of Aristotle are known throughout the world. Because they were interested in both natural and divine philosophy, furthering the development of the physical world of mankind as well as the intellectual, they rendered praiseworthy service to humanity."
           ]
+        },
+        {
+          "key": "source:AB07187",
+          "why": "Open with knowledge honored across national boundaries."
         },
         {
           "key": "source:ABU1166",

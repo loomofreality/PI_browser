@@ -909,12 +909,12 @@
       "arc": "Awaken curiosity through a compass and an unlit candle, explore the conditions of growth, and conclude with a community spacious enough for everyone.",
       "order": [
         {
-          "key": "source:AB04770",
-          "why": "Begin with a compass responding where a nearby stone cannot."
-        },
-        {
           "key": "source:ABU3088",
           "why": "Turn potential into the familiar image of an unlit candle."
+        },
+        {
+          "key": "source:AB04770",
+          "why": "Begin with a compass responding where a nearby stone cannot."
         },
         {
           "key": "source:ABU0119",
