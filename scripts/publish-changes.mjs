@@ -9,7 +9,7 @@ import fs from 'node:fs/promises';
 import path from 'node:path';
 import {randomUUID} from 'node:crypto';
 import {fileURLToPath} from 'node:url';
-import {run,tool,openPullRequest,jobFolder} from './publish-tools.mjs';
+import {run,capture,tool,openPullRequest,jobFolder} from './publish-tools.mjs';
 import {githubTarget} from './github-target.mjs';
 
 const projectRoot=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'..');
@@ -19,7 +19,9 @@ const changedFiles=async(root,...range)=>(await git(['-c','core.quotePath=false'
 
 // Before changing anything: on main, no local commits, up to date with GitHub.
 // A file whose local edit has since been merged on GitHub (it now matches
-// main there) is brought up to date instead of blocking the update.
+// main there) is brought up to date instead of blocking the update. A file
+// edited again after its earlier edit was merged keeps the new edit on top of
+// GitHub's version when the two merge without overlapping (`mergeLocalEdit`).
 export async function prepareRepository(root,files){
   gitPath=await tool('git',root);
   const top=await git(['rev-parse','--show-toplevel'],root);
@@ -29,19 +31,52 @@ export async function prepareRepository(root,files){
   await git(['fetch','--quiet','origin','main'],root);
   if(await git(['log','--format=%H','origin/main..HEAD'],root))throw Error('This folder has local commits that are not on GitHub. Push or resolve them first.');
   const upstream=new Set(await changedFiles(root,'HEAD..origin/main'));
-  const merged=[];
+  const merged=[],edited=[];
   for(const file of (await changedFiles(root,'HEAD')).filter(file=>upstream.has(file))){
-    try{await git(['diff','--quiet','origin/main','--',file],root);merged.push(file);}catch{}
+    try{await git(['diff','--quiet','origin/main','--',file],root);merged.push(file);}catch{edited.push(file);}
   }
-  if(merged.length)await git(['checkout','HEAD','--',...merged],root);
-  try{await git(['merge','--ff-only','--quiet','origin/main'],root);}
+  const blocking=[],rebased=new Map();
+  for(const file of edited){
+    const result=await mergeLocalEdit(root,file);
+    if(result)rebased.set(file,result);else blocking.push(file);
+  }
+  if(blocking.length)throw Error('GitHub has newer versions of files that also have unpublished changes here:\n  '+blocking.slice(0,10).join('\n  ')+'\nIf a pull request for them is still open, merge or close it on GitHub first.');
+  if(merged.length||rebased.size)await git(['checkout','HEAD','--',...merged,...rebased.keys()],root);
+  let updated=false;
+  try{await git(['merge','--ff-only','--quiet','origin/main'],root);updated=true;}
   catch{
-    const blocking=(await changedFiles(root,'HEAD')).filter(file=>upstream.has(file));
-    throw Error('GitHub has newer versions of files that also have unpublished changes here:\n  '+blocking.slice(0,10).join('\n  ')+'\nIf a pull request for them is still open, merge or close it on GitHub first.');
+    const remaining=(await changedFiles(root,'HEAD')).filter(file=>upstream.has(file));
+    throw Error('GitHub has newer versions of files that also have unpublished changes here:\n  '+remaining.slice(0,10).join('\n  ')+'\nIf a pull request for them is still open, merge or close it on GitHub first.');
   }
+  finally{
+    // The local edit returns either way: merged with GitHub's version after
+    // the update, or exactly as it was if the update did not happen.
+    for(const [file,{local,combined}] of rebased)await fs.writeFile(path.join(root,file),await capture(gitPath,['-C',root,'cat-file','--filters','--path='+file,updated?combined:local],root));
+  }
+  if(rebased.size)console.log('Kept the local edits on top of GitHub’s newer version of:\n  '+[...rebased.keys()].slice(0,10).join('\n  '));
   const allowed=new Set(files.map(file=>file.replaceAll('\\','/')));
   const other=(await changedFiles(root,'HEAD')).filter(file=>!allowed.has(file));
   if(other.length)console.log('Other changed files in this folder are not included:\n  '+other.slice(0,10).join('\n  '));
+}
+
+// Merge this folder's edit of `file` (against HEAD) into GitHub's version.
+// Returns the blobs of the local file and of the combined result, or null when
+// the two change the same lines or the file was added or removed on one side.
+async function mergeLocalEdit(root,file){
+  const blob=async ref=>{try{return await git(['rev-parse','--verify','--quiet',ref+':'+file],root);}catch{return null;}};
+  const base=await blob('HEAD'),theirs=await blob('origin/main');
+  let local;try{await fs.access(path.join(root,file));local=await git(['hash-object','-w','--',file],root);}catch{return null;}
+  if(!base||!theirs)return null;
+  const folder=await fs.mkdtemp(path.join(await jobFolder(),'merge-'));
+  try{
+    const copies=[];
+    for(const [name,object] of [['local',local],['base',base],['github',theirs]]){
+      const copy=path.join(folder,name);copies.push(copy);
+      await fs.writeFile(copy,await capture(gitPath,['-C',root,'cat-file','blob',object],root));
+    }
+    try{await git(['merge-file','-q','--',...copies],root);}catch{return null;}
+    return {local,combined:await git(['hash-object','-w','--no-filters','--',copies[0]],root)};
+  }finally{await fs.rm(folder,{recursive:true,force:true});}
 }
 
 // The pull request description: the tool's own account of the change, the
