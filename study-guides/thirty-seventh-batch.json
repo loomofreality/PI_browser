@@ -9,6 +9,19 @@
       "arc": "Begin with mutual learning and the protection of dignity, examine criticism in its historical settings, then turn toward education, equal rights, and renewal.",
       "order": [
         {
+          "key": "source:ABU1604",
+          "why": "Explore the reported argument for women’s learning and participation.",
+          "shortened": [
+            "The veil of women prevents education and learning.",
+            "Chastity is necessary and self-control is very important, but not to the degree that it prevents education and learning, for the Law of God establishes virtues - they should not be prevented from acquiring virtues."
+          ]
+        },
+        {
+          "key": "source:AB00763",
+          "why": "Consider religious conflict as an obstacle to social life.",
+          "omitted": true
+        },
+        {
           "key": "source:ABU3322",
           "why": "Open with the reported reciprocity of East and West."
         },
@@ -87,10 +100,6 @@
           "why": "Read the severe polemical language about leaders and parties as a situated criticism."
         },
         {
-          "key": "source:AB00763",
-          "why": "Consider religious conflict as an obstacle to social life."
-        },
-        {
           "key": "source:ABU1230",
           "why": "Distinguish the reported critique of practice from rejection of Islam’s origin."
         },
@@ -151,14 +160,6 @@
         {
           "key": "source:ABU1837",
           "why": "Keep the reported comparison with captivity in its historical setting."
-        },
-        {
-          "key": "source:ABU1604",
-          "why": "Explore the reported argument for women’s learning and participation.",
-          "shortened": [
-            "The veil of women prevents education and learning.",
-            "Chastity is necessary and self-control is very important, but not to the degree that it prevents education and learning, for the Law of God establishes virtues - they should not be prevented from acquiring virtues."
-          ]
         },
         {
           "key": "source:ABU0870",
@@ -320,6 +321,10 @@
       "arc": "Begin with free choice and service, examine early institutional arrangements in context, then explore the later counsels on informed, prayerful, independent judgment.",
       "order": [
         {
+          "key": "source:ABU0001",
+          "why": "Distinguish the reported discussion of a republic from Bahá’í internal elections."
+        },
+        {
           "key": "source:AB04428",
           "why": "Open with the direct affirmation of complete freedom in election."
         },
@@ -465,10 +470,6 @@
         {
           "key": "source:ABU3290",
           "why": "Keep the reported choice of a center within institutional judgment."
-        },
-        {
-          "key": "source:ABU0001",
-          "why": "Distinguish the reported discussion of a republic from Bahá’í internal elections."
         },
         {
           "key": "source:AB05129",

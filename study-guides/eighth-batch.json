@@ -2079,6 +2079,13 @@
       "arc": "Begin with rights and differentiated service, examine the social analogies, and end with sharing and the prohibition of superiority.",
       "order": [
         {
+          "key": "source:AB00274",
+          "why": "Connect differentiated functions with general welfare.",
+          "shortened": [
+            "Gradations of rank are without doubt one of the essentials of society. Society is like an army. An army requires field marshals, generals, colonels, captains and privates. It is utterly impossible for all professions to be equal. Preservation of rank is necessary. But each individual in the army must live in perfect peace and comfort. Likewise, a town requires a mayor, judges, merchants, men of means, craftsmen and farmers. Of course, these ranks must be observed, otherwise the general order would be disrupted."
+          ]
+        },
+        {
           "key": "source:ABU0319",
           "why": "Open with different roles joined to equal rights."
         },
@@ -2096,10 +2103,6 @@
         {
           "key": "source:AB00117",
           "why": "Distinguish differences of capacity from good and evil."
-        },
-        {
-          "key": "source:AB00274",
-          "why": "Connect differentiated functions with general welfare."
         },
         {
           "key": "source:ABU0042",

@@ -1759,21 +1759,22 @@
       "arc": "Begin with difference serving a shared purpose, examine consultation and common action, and return to the practices that sustain agreement and permit correction.",
       "order": [
         {
+          "key": "source:AB00394",
+          "why": "Establish freedom of expression and the rejection of belittling.",
+          "shortened": [
+            "They must in every matter search out the truth and not insist upon their own opinion, for stubbornness and persistence in one's views will lead ultimately to discord and wrangling and the truth will remain hidden. The honored members must with all freedom express their own thoughts, and it is in no wise permissible for one to belittle the thought of another, nay, he must with moderation set forth the truth, and should differences of opinion arise a majority of voices must prevail, and all must obey and submit to the majority."
+          ]
+        },
+        {
           "key": "source:ABU1306",
-          "why": "Open with different workers contributing specialized skills to a common undertaking."
+          "why": "Open with different workers contributing specialized skills to a common undertaking.",
+          "omitted": true
         },
         {
           "key": "source:AB03447",
           "why": "Join differences of thought with a shared purpose.",
           "shortened": [
             "Therefore, gather all different thoughts together and unite diverse concerns into a single purpose and aim, that you may fulfill the duties of servitude at the Sacred Threshold."
-          ]
-        },
-        {
-          "key": "source:AB00394",
-          "why": "Establish freedom of expression and the rejection of belittling.",
-          "shortened": [
-            "They must in every matter search out the truth and not insist upon their own opinion, for stubbornness and persistence in one's views will lead ultimately to discord and wrangling and the truth will remain hidden. The honored members must with all freedom express their own thoughts, and it is in no wise permissible for one to belittle the thought of another, nay, he must with moderation set forth the truth, and should differences of opinion arise a majority of voices must prevail, and all must obey and submit to the majority."
           ]
         },
         {

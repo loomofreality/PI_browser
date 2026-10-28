@@ -618,15 +618,11 @@
       "arc": "Begin with the scarcity of cupbearers, place recognition within grace, explore the influence of small beginnings, and then consider the recurring images of an abundant gift awaiting a hearing.",
       "order": [
         {
-          "key": "source:AB03372",
-          "why": "Open by shifting attention from a lack of listeners to a lack of cupbearers.",
+          "key": "source:ABU1569",
+          "why": "Consider the far-reaching influence attributed to a small number of believers.",
           "shortened": [
-            "In these days there are many who thirst but very few who serve as cupbearers."
+            "Though but few persons accepted and were converted in the Day of each one of the Manifestations, yet these few surpassed and overcame great multitudes. During the time of Christ only a few souls believed in Him, but they were so powerful in spirit that none of the learned men among the Israelites could resist and stand against them, and afterward their light illumined the world, their call was raised abroad, their stars twinkled in heaven, their diadem became resplendent, and they are shining with great brilliancy."
           ]
-        },
-        {
-          "key": "source:AB11811",
-          "why": "Read the urgent cry for teachers."
         },
         {
           "key": "source:AB12229",
@@ -636,8 +632,22 @@
           ]
         },
         {
+          "key": "source:AB03372",
+          "why": "Open by shifting attention from a lack of listeners to a lack of cupbearers.",
+          "shortened": [
+            "In these days there are many who thirst but very few who serve as cupbearers."
+          ],
+          "omitted": true
+        },
+        {
+          "key": "source:AB11811",
+          "why": "Read the urgent cry for teachers.",
+          "omitted": true
+        },
+        {
           "key": "source:ABU3048",
-          "why": "Imagine those who remain to tend a garden."
+          "why": "Imagine those who remain to tend a garden.",
+          "omitted": true
         },
         {
           "key": "source:BH05712",
@@ -656,13 +666,6 @@
           "shortened": [
             "The bats do not perceive the light of the sun and the beetles cannot enjoy the fragrances of a rose-garden.",
             "Consider that the horizons of the world were enlightened through the light of the Beauty of His Holiness Christ; yet all the people were asleep, blind and sightless, except a few whose eyes were opened and perceived the lights."
-          ]
-        },
-        {
-          "key": "source:ABU1569",
-          "why": "Consider the far-reaching influence attributed to a small number of believers.",
-          "shortened": [
-            "Though but few persons accepted and were converted in the Day of each one of the Manifestations, yet these few surpassed and overcame great multitudes. During the time of Christ only a few souls believed in Him, but they were so powerful in spirit that none of the learned men among the Israelites could resist and stand against them, and afterward their light illumined the world, their call was raised abroad, their stars twinkled in heaven, their diadem became resplendent, and they are shining with great brilliancy."
           ]
         },
         {

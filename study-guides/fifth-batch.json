@@ -3608,12 +3608,12 @@
       "arc": "Begin with self-examination, establish the place of candid counsel, and explore how a community can correct itself while continuing to learn.",
       "order": [
         {
-          "key": "source:ABU1709",
-          "why": "Begin with the familiar image of the mote and the beam."
-        },
-        {
           "key": "source:ABU0824",
           "why": "Introduce speech as a medicine whose effect depends on its use."
+        },
+        {
+          "key": "source:ABU1709",
+          "why": "Begin with the familiar image of the mote and the beam."
         },
         {
           "key": "source:ABU1094",
@@ -3633,7 +3633,8 @@
         },
         {
           "key": "source:ABU2485",
-          "why": "Consider the evidential basis of a historical criticism."
+          "why": "Consider the evidential basis of a historical criticism.",
+          "omitted": true
         },
         {
           "key": "source:AB03866",
